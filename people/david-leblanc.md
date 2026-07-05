@@ -88,8 +88,7 @@ dimensions. No record of him pursuing either boat survives.
   [rudder bearing materials](/construction/rudder-bearing-materials.md).
 - **Pressure-treated wood.** He flagged that its preservative contains
   arsenic and that an EPA ban was imminent — reinforcing the separate finding
-  that glue and paint don't bond to it well. See
-  [pressure-treated wood](/construction/pressure-treated-wood.md).
+  that glue and paint don't bond to it well.
 - **Rudder bearing material.** He recalled a Pardey book describing a
   **Delrin** gudgeon bearing/liner. See
   [rudder bearing materials](/construction/rudder-bearing-materials.md).
@@ -168,11 +167,6 @@ sailing theory:
 
 ## Cross-posts and list culture
 
-- **External voyage and cruising material.** He forwarded "The Aegre" (a 1973
-  engineless ~10,000-mile small-boat voyage) and a Bahamas charter offer he
-  used to argue the Bolducs cruised Little Cruiser for less than one charter
-  guest's fare. See
-  [off-topic cross-posts](/references/off-topic-cross-posts.md).
 - **Head and sanitation.** He linked "The Official Potty Line" (confirming
   "bucket and chuck it" is federally legal) and forwarded a
   waste-bagging thread. See

@@ -94,7 +94,7 @@ works out to about **4 in of movement at the masthead**. On
 "[Zoë](/people/glen-maxwell/build-and-zoe.md)" this play was suspected of
 **hindering windward performance** during the same cruise's
 chine-runner-vindicating short-tacking session (see
-[chine runners and windward performance — a builder's field confirmation](/design/chine-runners-and-windward-performance.md))
+[chine runners and windward performance — a builder's field confirmation](/chine-runners/windward-performance.md))
 and, separately, of causing the **anchor light's hot filament to break** from
 masthead whipping on one tack. **Shimming** the mast heel is the fix — a
 mast-fit lesson tied to a specific, measured performance and equipment cost

@@ -112,16 +112,6 @@ active at the time.
 
 # List culture
 
-Not every post is technical. The list's lighter, community-building side
-includes a running joke on the design's own name: a suggestion that any
-future Paradox owner name their boat with a visual pun — "two ducks,"
-rendered artistically as "Pair a Ducks." The joke drew further wordplay from
-the wider small-boat community, including a plan (from the PDRacer plywood
-dinghy racing scene) to build two PDRacers joined by a "brick joiner"/"grout
-unit," making a literal "pair of ducks," alongside an existing
-PDRacer-as-Paradox mashup nicknamed "PuddleDox" (and a punning "West Wight
-Puddle," after the West Wight Potter).
-
 The list also fielded occasional comparisons to other small-craft designs.
 Against Jim Michalak's "AF3" — a similarly beach-landable design offering
 more interior space, including room for a dog — the judgment on record is
@@ -137,37 +127,12 @@ alternative.
 By late September 2002 the list had absorbed six separate bare-link "spam"
 postings from a rotating cast of one-off handles (see
 [Glen C. Maxwell — the "spammed" pictures thread](/people/glen-maxwell/list-founder-and-moderator.md)).
-The structural fix adopted — the group's first, rather than an
-after-the-fact "that's spam, ignore it" reaction — was to require
-**moderator approval** before a new member could post, since automated
-scripts let spammers sign up as Yahoo Groups members purely to post spam.
-
 [Glen C. Maxwell](/people/glen-maxwell.md), the list's founder and sole
-moderator at the time, judged the approval requirement workable but harder
-to run alone, given an upcoming couple of months away sailing once the
-weather cooled, and asked for a **second or third volunteer moderator**.
-Reading posts directly on the Yahoo Groups website instead of by individual
-e-mail was floated and dropped — the advertising already appended to list
-e-mails was "bad enough" without "every 3rd page fetch being an advert on
-yahoo itself" — leaving the **daily digest** format as the softer interim
-step. Sentiment otherwise favored keeping the group open to new members
-over closing it, on the reasoning that this lets each member choose their
-own coping strategy (digest, or simply ignoring spam and using the sender's
-address as a clue); no alternative to the moderator-approval fix was
-proposed. The one concrete **anti-spam mechanism** to emerge distinct from
-moderator approval: forward spam e-mails, with all headers included
-(Outlook users must check a message's "properties" to get them), to
-**`abuse@...`** at the sending network — abuse desks are "responsive" even
-if they "can't always do anything," and can only act "if they are
-informed."
-
-The moderator-approval proposal was adopted within 24 hours, with
-**[Dave Bolduc](/people/bolduc/dave.md)** and **[Paul V.](/people/paul-v.md)**
-volunteering as co-moderators alongside Glen Maxwell. With the group now
-covered most of the time, closing it to require new-member applications
-became possible, expected to eliminate the unwanted spam. A further
-volunteer, David LeBlanc, was added as a moderator once Glen left on a
-planned winter sailing trip with Dave Bolduc.
+moderator at the time, proposed requiring **moderator approval** before a new
+member could post; the proposal was adopted within 24 hours, with
+**[Dave Bolduc](/people/bolduc/dave.md)**, **[Paul V.](/people/paul-v.md)**,
+and later David LeBlanc volunteering as co-moderators alongside Glen Maxwell,
+letting the group close to new-member applications and eliminate the spam.
 
 # Citations
 

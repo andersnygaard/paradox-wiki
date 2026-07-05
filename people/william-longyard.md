@@ -92,8 +92,7 @@ boats, and he is separately the author of the small-boat-voyaging book
   more relevant to a small-boat budget and interests than the "big American
   glossies" like WoodenBoat — echoing
   [David LeBlanc](/people/david-leblanc.md)'s own earlier preference for
-  Watercraft over Classic Boat on similar grounds. See
-  [off-topic cross-posts — a Classic Boat vs. Watercraft aside](/references/off-topic-cross-posts.md#the-magazine-citations-and-a-classic-boat-vs-watercraft-aside).
+  Watercraft over Classic Boat on similar grounds.
 - **Whole-hull steel construction.** The fullest technical case on record for
   building a Paradox entirely in steel calls for 12-gauge plate with added
   stringers/frames over thicker 3/16 in, steel-tube bulkheads that could open
@@ -376,7 +375,7 @@ provision for a long passage regardless.
 [30] Archive message page_1413 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1433, 2003-11-18) — "Re: Speaking up for Don": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed).
 [31] Archive message page_1444 (longyard / "Bill Longyard", `paradoxbuilders`, msgnum 1464, 2003-11-24) — "Spray In Foam": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#spray-in-foam-versus-sheet-foam-for-insulation).
 [32] Archive message page_1510 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1530, 2003-12-22) — "UK Boat Magazine Recommendation": recommends `watercraft.co.uk` and Practical Boat Owner over WoodenBoat-style "big American glossies," finding their articles more relevant to his own boating and budget; subscribes to both; not connected to either magazine.
-[33] Archive message page_1512 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1532, 2003-12-23) — "Help The Troops": full text and citation at [references/off-topic-cross-posts.md](/references/off-topic-cross-posts.md#help-the-troops--a-hero-miles-appeal-off-topic).
+[33] Archive message page_1512 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1532, 2003-12-23) — "Help The Troops": full text and citation at references/off-topic-cross-posts.md (a Hero Miles appeal, off-topic).
 [34] Archive message page_1517 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1537, 2003-12-23) — "What Sven Yrvind Said": full text and citation at [design/rig.md](/design/rig.md#sail-aspect-ratio-and-why-a-taller-narrower-rig-would-not-suit-paradox).
 [35] Archive messages page_1522, page_1524, page_1526 (longyard / William Longyard, `paradoxbuilders`, msgnum 1542/1544/1546, 2003-12-26) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance).
 [36] Archive message page_1532 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1552, 2003-12-26) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#field-welding-and-confirmation-from-real-small-steel-boats).

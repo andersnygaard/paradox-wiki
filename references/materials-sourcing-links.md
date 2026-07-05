@@ -130,7 +130,6 @@ specifically, are worth knowing to any builder:
 These are general amateur-boatbuilding community pointers rather than
 Paradox-specific content, recorded as a minor reference item per the
 precedent of other tangential external links in this bundle (see
-["The Aegre"](/references/off-topic-cross-posts.md) and
 [Dave Carnell's boat-building articles](/references/dave-carnell-articles.md)).
 
 More generally, beyond this bundle's own links section, on the order of a

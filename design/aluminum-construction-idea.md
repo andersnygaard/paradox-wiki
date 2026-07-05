@@ -296,7 +296,7 @@ good-quality plywood, properly encapsulated in glass and epoxy, is
 exceptionally tough and abrasion-resistant, and the shape of her bottom means
 most impacts land as glancing blows rather than direct hits. Paradox is
 unlikely to be holed by anything she might strike at hull speed, with her
-[chine runners](/design/chine-runners-and-windward-performance.md) offering
+[chine runners](/chine-runners/how-they-work.md) offering
 further protection. For builders expecting heavy gravel or rock contact, the
 menu of bottom-toughening options ranges from thicker plywood to an extra
 layer of polyester cloth, to a **sacrificial keel strip** (hardwood, or an
@@ -314,7 +314,7 @@ Paradox argues from the design's founding premise rather than from
 engineering specifics: Paradox's whole point is that she can be built by
 **anyone with low woodworking skills**, and steel — while stronger — adds
 design and fabrication problems that work against that premise. The
-[chine runners'](/design/chine-runners-and-windward-performance.md) shape is
+[chine runners'](/chine-runners/construction.md) shape is
 hard to reproduce faithfully in steel or wood alike; how a round-tubed steel
 chine edge with welded sheet steel could be faired without filler, and
 whether a wooden deck could be reliably fitted to a steel hull even by

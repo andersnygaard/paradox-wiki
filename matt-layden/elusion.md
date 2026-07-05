@@ -17,7 +17,7 @@ following [Terrapin](/matt-layden/terrapin.md),
 She is not a Paradox hull but shares much of Enigma's construction and design —
 itself a boat that blends [Little Cruiser](/matt-layden/little-cruiser.md)'s
 hull shape with [Paradox](/paradox.md)'s furling rig and
-[chine runners](/design/chine-runners-and-windward-performance.md).
+[chine runners](/chine-runners/how-they-work.md).
 
 ## A lighter, smaller Enigma
 

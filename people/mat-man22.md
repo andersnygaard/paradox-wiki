@@ -10,7 +10,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 **Mat** was a `paradoxbuilders` list member (e-mail handle `mat_man22`,
 signing simply "Mat") whose contributions centered on materials science and
-scaling questions for the [Paradox](/design/chine-runners-and-windward-performance.md)
+scaling questions for the [Paradox](/chine-runners/how-they-work.md)
 and its enlarged variants. He is **not** designer
 [Matt Layden](/matt-layden/biography.md): nothing in the archive ties the
 `mat_man22` account to the designer, and the two are treated as distinct
@@ -21,7 +21,7 @@ unless proven otherwise. (Compare the separate, similarly-unconfirmed
 
 **Metal-clad chine-runner shoe research.** Mat's most substantial contribution
 was a materials study of armoring or ballasting the
-[chine runners](/design/chine-runners-and-windward-performance.md) with metal
+[chine runners](/chine-runners/construction.md) with metal
 instead of plain plywood — evaluating lead, ferrocement, steel, and
 copper-nickel plate, with comparative cost, strength, and fastening figures.
 He proposed 90/10 copper-nickel (per Nigel Warren's *Metal Corrosion in Boats*)
@@ -37,7 +37,7 @@ an enlarged hull.
 curved to follow the hull because of their length, and reasoned a straighter
 runner or better heel angle would allow a smaller, lower-drag runner — calling
 Paradox "by far the strongest 14 ft sharpie" he had seen. See
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+[chine runners and windward performance](/chine-runners/windward-performance.md).
 
 **Scaling guidance.** For enlarging Paradox, he gave the practical rule that a
 hull scales ±10% in length without complication, and beyond that cited Lars
@@ -82,8 +82,7 @@ AbeBooks bookfinder service for tracking down Shane Acton's *Shrimpy* (see
 [undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md));
 and a cedar-strip-building website, `rec.boats.building`, and The WoodenBoat
 Forum for [David LeBlanc](/people/david-leblanc.md) (see
-[general boatbuilding resource links](/references/general-boatbuilding-links.md)
-and [(h)yelp! — Golant Gaffer cross-post](/references/off-topic-cross-posts.md)).
+[general boatbuilding resource links](/references/general-boatbuilding-links.md)).
 
 # Citations
 

@@ -42,7 +42,7 @@ the linked topic and boat pages.
 difficulty of building the chine runners, David reported having no problems
 himself: he made templates, filled the low spots with epoxy, and planed
 down the high spots — "turned out great." See
-[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 
 **Refit and rot repair (the bulkhead-#3 saga).** His refit turned up a sequence
 of problems that became reference cases: a solid-but-discolored spot, then damp
@@ -342,7 +342,7 @@ for the residual-moisture explanation.
 
 **A 2005 hatch rebuild.** Ahead of a new sailing season, rebuilt "Whisper"'s
 hatch to improve its sliding action and added a skylight copied from
-"Zoë"'s; see [Whisper — a 2005 hatch rebuild](/boats/whisper.md#a-2005-hatch-rebuild-sliding-action-and-a-skylight-copied-from-zoe).
+"Zoë"'s; see [Whisper — a 2005 hatch rebuild](/boats/whisper.md#a-2005-hatch-rebuild-sliding-action-and-a-skylight-copied-from-zoë).
 
 **Trailer modifications for low-tide launching.** Also ahead of the 2005
 season, modified his trailer to sit lower for launching at low tides,
@@ -568,7 +568,7 @@ wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [180] Archive message page_1509 (dlb / David Beard, `paradoxbuilders`, msgnum 1529, 2003-12-22) — "Re: Lower Rudder Gudgeon": full text and citation at [construction/rudder-bearing-materials.md](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique).
 [181] Archive message page_1533 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1553, 2003-12-26) — "Re: Sven's book": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#reception-of-the-translated-book-chapter).
 [182] Archive message page_1563 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1583, 2003-12-27) — "Coastal vs Blue Water": full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#what-conventional-blue-water-features-paradox-and-bris-both-forgo).
-[183] Archive message page_1643 (dlb / "David Beard", `paradoxbuilders`, msgnum 1665, 2003-12-29) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+[183] Archive message page_1643 (dlb / "David Beard", `paradoxbuilders`, msgnum 1665, 2003-12-29) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 [184] Archive message page_1658 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1680, 2003-12-30) — "rudder": full text and citation at [design/rudder.md](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
 [185] Archive message page_1721 (dlb / "dlb", `paradoxbuilders`, msgnum 1721, 2003-12-31) — "Re: Getting started": welcomes new builder Steve, asking him to keep the list posted on his progress with pictures — full text and citation at [people/steve-kc.md](/people/steve-kc.md).
 [186] Archive message page_1746 (dlb / "David Beard", `paradoxbuilders`, msgnum 1768, 2004-01-03) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).

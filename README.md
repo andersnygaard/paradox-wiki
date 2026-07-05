@@ -9,7 +9,9 @@ This wiki is grown incrementally: each pass reads a batch of archived emails and
 contributes new, sourced knowledge. Recurring, well-supported themes are
 promoted toward the root ("trunk"); one-off details live deeper in the tree.
 
-**Start here → [index.md](index.md)**
+**Start here → [index.md](index.md)** — the OKF-format machine-readable entry
+point (routing table + frontmatter); this README is the GitHub-facing landing
+page covering the same ground for a human reader.
 
 ## Sections
 

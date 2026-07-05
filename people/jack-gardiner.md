@@ -120,7 +120,7 @@ questions as a plans-in-hand builder in his own right. He asked what makes
 the chine runners difficult to build, since the plans show them as simple —
 answered with a templates/epoxy-fill/hand-plane method that matched his own
 expectation ("Thats my impression of them also"); see
-[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 He separately asked whether anyone had a
 plywood nesting plan for a stretched-length Paradox, left unanswered; see
 [panel layout and nesting — a stretched-Paradox nesting plan](/construction/panel-layout.md#no-nesting-plan-exists-for-a-stretched-hull).
@@ -509,94 +509,21 @@ for the full exchange.
 
 ## Launch: "Jill"
 
-Jack launched his Paradox on 11 September 2004, naming her **"Jill"** in his
-wife's honor. He put in at Gaspee Point, Narragansett Bay, Rhode Island — the
-site where the Providence sloop *Hannah* lured and grounded HMS *Gaspee* in
-1772, one of the pre-Revolutionary "first blows for freedom" in American
-colonial history — deliberately choosing the anniversary date, 9/11, for the
-launch. Starting in about six inches of water, he poled off with an oar into
-a calm sea with a light (roughly 5 mph) northeast wind; the first three tacks
-were spent learning the boat and lost ground beating to windward, but once
-clear of the cove and properly trimmed she "took to doing what she is hailed
-to do, beat to wind! and points very well." After about an hour of tacking
-upwind — through sunset, and past a barge and a tanker leaving the port of
-Providence, whose wake the boat rode with "nothing but joy" and "very easy
-motion" — he returned to the ramp to a small crowd of onlookers curious about
-the boat's very short beam, met with "nothing but kudos and comments." Asked
-whether the boat might be available to view in person in Connecticut some
-day, "just want to see if I fit," Jack agreed readily. Asked for photos, he
-explained his only camera was
-an unreliable phone camera (having already dunked three proper cameras, his
-wife having since vetoed a replacement) and that nobody had known in advance
-where he would be launching, so no one was on hand to shoot stills — with a
-dead calm at the time of the exchange, he expected to go out again once wind
-returned, or fall back on an electric trolling motor or his 1.5 or 2.5 hp
-outboards if needed. [Dave Bolduc](/people/bolduc/dave.md) welcomed him to
-Paradox sailing and advised ballasting Jill up to her full cruising
-displacement — a 9 in design draft — since the boat "loves the weight," and
-keeping the chine runners submerged as deep as possible maximizes windward
-performance. Jack replied that Jill was already sitting on her waterline but
-short of the full 9 in draft and felt a little tender as a result; lacking
-enough ballast aboard that day (a few bags of sand were the only stopgap and
-daylight ran out), he beat to windward for about eight tacks before running
-back downwind, and judged she would perform even better once properly
-weighted down. He was struck by how little wake the boat threw for her short
-beam, and reported that once trimmed up she held her heading "without fuss
-for long periods," matching what he had read on the list beforehand. Still
-lacking her rear window and worried in advance about a following sea, he
-found the concern unfounded once underway; he also described building a
-square (rather than the plans' curved) rubber tiller-hole boot with a
-cam-cleat mounted on it, though reaching inside for the cleat proved awkward
-in practice.
+Jack launched his stitch-and-glue Paradox on 11 September 2004 at Gaspee
+Point, Narragansett Bay, Rhode Island, naming her **"Jill"** in his wife's
+honor — a deliberately chosen 9/11 anniversary date at the historic site
+where the Providence sloop *Hannah* lured and grounded HMS *Gaspee* in 1772.
+[Dave Bolduc](/people/bolduc/dave.md) welcomed him to Paradox sailing and
+advised ballasting her up to her full cruising displacement (a 9 in design
+draft), since the boat "loves the weight." The boat became known on the list
+as **"Jill Baby,"** was sailed hard in a small-craft advisory the following
+week (a wedged rudder blade famously freed a stuck trailer tire), and
+featured in the archive's fullest firsthand account of a Paradox under sail
+— two days in a steady 20-35 mph wind, loaded with two adults and tool
+ballast. Full launch narrative, construction detail, and the "paradox mpeg
+movie" video saga: [boats/jill.md](/boats/jill.md).
 
-Jack then uploaded his first photographs of the finished boat, dubbed "Jill
-Baby" — including one showing a hand-operated outboard, a very light unit he
-planned to mount and try the next day. Asked whether any construction or
-static photos existed alongside the sailing shots, and what the "hand
-operated outboard" in one photo actually was, Jack confirmed he had
-construction photos too, but they were locked inside a laptop that needed
-reconfiguring. The hand-operated-outboard photo was mistaken at first for a
-[yuloh](/design/yuloh-and-stowed-rig-retention.md), but the pictured object
-was a genuine hand-cranked mechanical device, not a yuloh at all. It was a
-ratchet-drive propeller unit — a small
-gearbox and ratchet clamped to an outboard mount, worked by lifting and
-lowering a handle to turn a large, high-pitched aluminum prop on a thin shaft
-on both the up and the down stroke — tested afterward in a barrel of water
-and confirmed working. A friend who saw the boat and found the mechanism
-funny had given it to Jack along with a period Montgomery Ward 1.5 hp gas
-outboard (judged from its style to be late 1940s/early '50s), joking that
-Jack "needed his polish outboard." Jack, for his part, had not yet started
-building his own yuloh at that point, though he still meant to. The
-same friend also happened to leave behind, on the ground alongside it, a
-military-surplus Evinrude commercial-work twin 40 hp outboard for a 16 ft
-Navy combat rubber raiding craft (CRRC/"seal boat") — a boat Jack owned but
-had used little since 9/11 given the Coast Guard's heightened attention to
-that class of craft.
-
-A week later, on 19 September 2004, Jack took Jill out into Narragansett Bay
-in a forecast 10-15 kt breeze that built to 30-40 mph once he cleared a
-sheltered launch cove — a foul reefing drum forced a beach stop to clear the
-line and re-set the rig before he pressed on around the point, half-reefed,
-making about 6 mph on a broad reach. A fellow builder arranged to meet him on
-a beach 1.5 miles on to try the boat and take pictures, but declined once he
-saw the now-stronger conditions firsthand ("all I saw was fear in [his]
-eyes"). No other boats were out in the wind, and Jill was hard to spot
-against moored boats until close in with her sail reefed. Getting the boat
-back onto the trailer proved the real ordeal of the day: the tow vehicle's
-rear tires sank into the wet sand, and Jack wedged the boat's own rudder
-blade under the deepest-sunk tire for traction — the blade held and the
-truck climbed out undamaged, "it saved me!!" A passing local, a commercial
-tugboat hand, recognized the chine runners on sight as the same "rolling
-blades" fitted to some tugs. Jack judged he was never in real danger aboard
-the boat itself and could likely have beaten home to windward if needed, but
-chose to end the outing early rather than push a still-unfinished boat; the
-day's official marine forecast, checked afterward, had upgraded to a small
-craft advisory (20-25 kt, gusts to 30). Once ashore, a gust was seen to jump
-the hull sideways enough that it could catch a crew member's foot against a
-chine runner while wading alongside in shallow water — the narrow runners
-being a real ankle hazard in that situation.
-
-A few weeks later Jack weighed in on a fellow builder's epoxy-versus-polyester
+A few weeks after launch Jack weighed in on a fellow builder's epoxy-versus-polyester
 question with his own build's completed materials tally: **3 gallons of West
 System epoxy**, 12 oz biaxial cloth on the hull in place of the specified
 woven roving, two extra layers of 2 oz glass on the upper hull to stop
@@ -605,31 +532,6 @@ pre-coating technique — a builder's own polyester-to-epoxy
 conversion](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck)
 for the full advice, including his warning that a strip-planked deck needs
 epoxy's flex tolerance rather than polyester's brittleness.[118]
-
-In late October 2004, asked whether he had gotten more sailing
-time in after an earlier visit, Jack answered with a fuller account of a deliberate **windward
-performance trial**, taken out with the friend who had helped build the boat:
-starting in light air and a calm sea on the outgoing tide, the pair ran with
-wind and current about three miles out into the bay, then turned and tacked
-back, pointing well enough to hold their own racing a few other small
-sailboats home. Partway back Jack noticed they were losing ground while still
-tacking well, and recognized the tide had turned — reliably, in his home
-waters, the trigger for a fall weather shift. The wind freshened and began
-backing and veering in circles as forecast; other sailboats around them struck
-sail and headed in, and a grounded boat nearby was just floating free as the
-current picked up. A family aboard a lobster boat held station about fifteen
-feet off for some fifteen minutes, plainly fascinated by the sight of the
-boat. After a long struggle to reach the cove, Jack gave up beating in, ran off
-for the point's protected side, beached Jill, and walked her along the shore
-for a few miles before paddling her back to the ramp — drawing the plain
-lesson **"check the tides."** He planned to find a sheltered inland lake to
-sail as the season turned cold, noting the cabin kept him warm regardless. He
-had by then fitted a 30 lb-thrust electric trolling motor as auxiliary power,
-conceded he would eventually have to build the yuloh he had never gotten to,
-and — having studied a topping-lift
-fix from the list — planned to rig something similar of his own; he also
-considered sewing up his original sail pattern as a spare over the winter, to
-compare against the one he was already sailing.
 
 Responding to a renewed call to enlarge Paradox by 20% (in the "Amelie"
 thread; see [blue-water suitability — a 2004 revisiting: Paradox against Sven
@@ -750,22 +652,16 @@ folder.[151] That evening Paul confirmed he had finally watched Jack's
 movie — "Out in a hurricane again! Looking good."[152]
 
 Jack's own reply gave the fullest firsthand account of Jill under sail on
-record: two days out in a steady 20-35 mph wind out of the south, working
-close along a lee shore and briefly into the stronger gusts while carrying,
-by his own admission, too much sail. The boat carried a 6 hp outboard on a
-folding mount, idling in the footage, and was loaded with two adults plus
-tools used as ballast and food, her water tanks left unfilled — Jack
-expected even better manners once they were topped up. She took freighter
-wakes from every angle on the river with no fuss, and a bungee cord clipped
-behind the top of the outboard and led to the cleat eliminated the sheet
-snagging he had fought before, "a blessing actually." He created a
-dedicated BitComet-torrent file folder for the footage and hoped to shoot
-further video from a powerboat the following weekend.[153][154] A newcomer
-to the thread, working through BitComet for the first time, downloaded the
-file but was unsure how to play it; Jack talked him through the client's
-default download path and confirmed the file would open in Windows Media
-Player or Winamp.[155][156] Asked what Mac users could view it on, Paul
-reported having watched it in QuickTime on a Windows 98 machine, and
+record: two days out in a steady 20-35 mph wind, loaded with two adults and
+tool ballast — full narrative at
+[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind).
+He created a dedicated BitComet-torrent file folder for the footage and hoped
+to shoot further video from a powerboat the following weekend.[153][154] A
+newcomer to the thread, working through BitComet for the first time,
+downloaded the file but was unsure how to play it; Jack talked him through
+the client's default download path and confirmed the file would open in
+Windows Media Player or Winamp.[155][156] Asked what Mac users could view it
+on, Paul reported having watched it in QuickTime on a Windows 98 machine, and
 expected QuickTime or Microsoft's Mac version of Media Player to work
 equally well on a Mac.[157][158] The newcomer working through BitComet
 confirmed he had gotten the file playing after all, crediting Jack's
@@ -775,26 +671,11 @@ correspondent might be a fellow Canadian prairie dweller, drew out that he
 had moved to central Alberta from southern Manitoba in September 2004.[160][161]
 
 Asked for close-ups of the boat itself rather than just the water footage,
-Jack gave the fullest documented account of Jill's finished interior
-joinery and his own hands-on filming: the interior, still a work in
-progress, was largely finished in **white oak and mahogany**, with the
-hatch — "incredibly strong" — the slowest single piece to complete; the
-cabin windows were reset in **uncured black rubber bedding**, which cut
-glare and improved the seal over the original material.[162] He uploaded
-new still photographs to his own website and a further BitComet torrent
-of the boat beaching under power, this one shot from a second boat to get
-a proper look at Jill from outside rather than from aboard her.[163][164]
-From that beaching footage he supplied a full set of technical
-particulars: a **6 hp outboard** mounted on a folding aluminum bracket,
-idling just above idle, drove the boat well under power alone; sailing
-with the motor down but switched off, she heeled the other way and still
-sailed properly despite the drag. The water ballast tanks were empty
-throughout, and Jack judged she would perform even better filled; about
-**80 lb of lead** ballast had by then been added, bringing her onto her
-lines well with two adults aboard even with the roughly 60 lb outboard's
-weight offset by a small ballast shift. His `GPS` logged a cruising speed
-around **5.5 mph** and a recorded peak of **8.1 mph**, reached crossing a
-tanker's wake in a channel with a strong current running.[164]
+Jack gave the fullest documented account of Jill's finished interior joinery,
+his own hands-on filming, and a further round of technical particulars from
+the beaching footage (outboard power, ballast, GPS speed figures) — see
+[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind)
+for the full account.[162][163][164]
 
 ## Torrent support for the "beaching" video, and a Canadian toast interlude
 
@@ -852,23 +733,11 @@ BitTorrent client for OS X is available directly from bittorrent.com, and
 any standard BitTorrent client — found readily via a general search — will
 open the same torrent file.[177]
 
-A one-day, purely off-topic **Canada Day** toast to the list's Canadian
-members drew a reply recounting a westward Alberta road trip — Crowsnest
-Pass, Longview, Calgary, Banff, and two days photographing the Drumheller
-badlands, with plenty of wildlife (horses, antelope, bison, mule deer, elk,
-a bear, mountain goats) but "not one sailboat" — taken just ahead of
-flooding in the region, which in turn drew a reply placing its author just
-outside Olds, Alberta, and favoring homebuilt "Michalak"-type boats over
-the local yacht-club scene. Full text and citations at [off-topic
-cross-posts — Canada Day, and an Alberta road
-trip](/references/off-topic-cross-posts.md#canada-day-and-an-alberta-road-trip).
-
 A further mpeg, hosted on Jack's own website rather than distributed by
-torrent, captured Jill motoring out of Narragansett Bay toward open water
-with a powerboat passing close by — a recurring situation for a boat her
-size — and taking the wake from the side without incident, filmed
-specifically to document how well the hull handles that kind of close
-powerboat pass.[178]
+torrent, captured Jill motoring out of Narragansett Bay toward open water and
+taking a passing powerboat's wake from the side without incident — see
+[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind)
+for the full account.[178]
 
 Answering a UK builder's "Tack Strut and Boom Axle" question, Jack drew on
 his own completed forked-pipe pivot joint to warn that galvanised steel
@@ -950,8 +819,8 @@ alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-a
 [31] Archive message page_1628 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1650, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [32] Archive message page_1630 (alex29 / "Jack", `paradoxbuilders`, msgnum 1652, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [33] Archive message page_1634 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1656, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
-[34] Archive message page_1642 (alex29 / "Jack", `paradoxbuilders`, msgnum 1664, 2003-12-30) — "Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
-[35] Archive message page_1644 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1666, 2003-12-29) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+[34] Archive message page_1642 (alex29 / "Jack", `paradoxbuilders`, msgnum 1664, 2003-12-30) — "Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
+[35] Archive message page_1644 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1666, 2003-12-29) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 [36] Archive message page_1645 (alex29 / "Jack", `paradoxbuilders`, msgnum 1667, 2003-12-29) — "Sad Comentary": full text and citation at [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
 [37] Archive message page_1646 (alex29 / "Jack", `paradoxbuilders`, msgnum 1668, 2003-12-30) — "nesting": full text and citation at [construction/panel-layout.md](/construction/panel-layout.md#no-nesting-plan-exists-for-a-stretched-hull).
 [38] Archive message page_1647 (alex29 / "Jack", `paradoxbuilders`, msgnum 1669, 2003-12-30) — "Re: Sad Comentary": full text and citation at [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).

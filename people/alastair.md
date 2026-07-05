@@ -114,7 +114,7 @@ contributions and cross-link to where each is told in full.
   shorter pieces glued in as a three-dimensional jigsaw, then grinding the
   result fair to templates with an angle grinder. See [chine runner
   construction — templates, epoxy fill, and a hand plane: a fourth working
-  method](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+  method](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
   Runners shaped freehand by "just waving an angle grinder at them till they
   looked about right" can still come out fine even against a rebuild
   elsewhere that corrected width, location, and shape to within 1-2 mm — see
@@ -695,7 +695,7 @@ dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-e
 Chine runners work rather than a keel by design, with heeling countered by
 hull shape and ballast — explained to newcomers with a disc-vs-cup
 (anemometer) analogy; see
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+[chine runners and windward performance](/chine-runners/how-they-work.md).
 Recurring newcomer questions on first-boat suitability, tools, scaling,
 sculling speed, and sanitation ("Bucket & chuck it!") point to
 [Don Elliott](/people/don-elliott.md)'s construction articles and
@@ -983,7 +983,7 @@ and cost](/references/building-plans.md#source-and-cost).[260]
 [149] Archive message page_1588 (openboat / "Alastair", `paradoxbuilders`, msgnum 1609, 2003-12-28) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute).
 [150] Archive message page_1631 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 1653, 2003-12-29) — "Alternative building materials": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology); notes Alastair is thinking of mounting his anchor on the rear deck and skipped the mast's lightning protection.
 [151] Archive message page_1729 (openboat / "Alastair", `paradoxbuilders`, msgnum 1751, 2004-01-02) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
-[152] Archive message page_1728 (openboat / "Alastair", `paradoxbuilders`, msgnum 1750, 2004-01-02) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4--templates-epoxy-fill-and-a-hand-plane).
+[152] Archive message page_1728 (openboat / "Alastair", `paradoxbuilders`, msgnum 1750, 2004-01-02) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 [153] Archive message page_1730 (openboat / "Alastair", `paradoxbuilders`, msgnum 1752, 2004-01-02) — "Re: rudder": full text and citation at [design/rudder.md](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
 [154] Archive message page_1731 (openboat / "Alastair", `paradoxbuilders`, msgnum 1753, 2004-01-02) — "Re: anchor locker": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#a-cabin-only-anchoring-routine-done-entirely-under-sail).
 [155] Archive message page_1744 (openboat / "Alastair", `paradoxbuilders`, msgnum 1766, 2004-01-03) — "Re: Center of Gravity": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).

@@ -63,7 +63,7 @@ making that task easy):
   dry-fit each piece with sheet-rock screws until the fit is right, then remove,
   glue, and refit; slow hardener works fine in summer since each glued area is
   under 2 sq ft.
-- [Chine runner construction](/construction/chine-runner-construction.md) —
+- [Chine runner construction](/chine-runners/construction.md) —
   built from ~10 in pre-cut solid fir 2x4 blocks band-sawn and glued along the
   overhang, then heavily glassed, rather than Don Elliott's hull-curve-pattern
   method. He rated the band saw the single most valuable boatbuilding power tool
@@ -363,11 +363,11 @@ archive's practical seamanship authority:
 - [Pointing and tacking angles](/operations/pointing-and-tacking-angles.md) — the
   archive's only concrete figures: ~110° tacking sailed to foot, ~90° pointing
   high but with disappointing performance, plus a practical bow-down trim check.
-- [Chine runners and windward performance](/design/chine-runners-and-windward-performance.md) —
+- [Chine runners and windward performance](/chine-runners/windward-performance.md) —
   Glen forwarded [Matt Layden](/matt-layden/biography.md)'s quantified
   chine-runner sea trial (relayed via [Dave Bolduc](/people/bolduc/dave.md)) and
   later, after nearly five hours short-tacking Cumberland Sound at 3.6 kt average,
-  [confirmed the runners' performance as a builder in the field](/design/chine-runners-and-windward-performance.md)
+  [confirmed the runners' performance as a builder in the field](/chine-runners/windward-performance.md)
   and explained their theory (leeway prevention at shallow draft, Matt's RC-model
   development, draft from 9 in upright to ~23 in at 30° heel).
 - [Sailing characteristics and rig balance](/operations/sailing-characteristics.md) —

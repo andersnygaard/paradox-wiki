@@ -85,7 +85,7 @@ deal of the designer's own practice to the list:
   VMG/VMGW sea-trial data for a modified chine runner to the microcruising list,
   from which it reached the builders' group — the archive's first quantified
   windward numbers for the design. See
-  [chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+  [chine runners and windward performance](/chine-runners/windward-performance.md).
 - **The February 2003 sail.** Having sailed the original Paradox himself, Dave
   gave the only outside verdict on the new sail Matt cut in February 2003 — it
   "sets very nicely." See [rig and sail](/design/rig.md).

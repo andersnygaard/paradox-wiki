@@ -117,10 +117,10 @@ A **design observation** distinct from the sale listing itself: the owner had
 added **leeboards** to GJAC because he sailed her "light," like a daysailer,
 though the better view is that leeboards should be **removed in favor of
 ballast** ("lots of it"), since GJAC's [chine
-runners](/design/chine-runners-and-windward-performance.md) should already
+runners](/chine-runners/how-they-work.md) should already
 provide enough lateral resistance to sail to windward well, without needing
 leeboards at all. This, together with the [chine-runner
-windward-performance](/design/chine-runners-and-windward-performance.md)
+windward-performance](/chine-runners/windward-performance.md)
 trial on Paradox itself, reinforces chine runners (not leeboards or a
 centerboard) as the family's characteristic answer to lateral resistance
 across more than one Layden design.
@@ -156,9 +156,10 @@ be a paradoxen," countered by the view that three or more would be a
 ## An unfinished hull for sale: "Swash" (July 2004)
 
 A part-built Paradox, **"Swash,"** owned by [DC](/people/dc.md), was offered
-for sale in July 2004, prompted by a divorce. The listing gives the
-archive's fullest itemized account of what an **unfinished hull** is worth
-and what remains to complete one:
+for sale in July 2004, prompted by a divorce. See
+[boats/swash.md](/boats/swash.md) for the boat's fuller build and ownership
+history. The listing gives the archive's fullest itemized account of what an
+**unfinished hull** is worth and what remains to complete one:
 
 - **Asking price: $3,000**, against **$1,600+** in receipts (not counting
   incidental shop supplies and some mahogany) and an estimated **$2,000**

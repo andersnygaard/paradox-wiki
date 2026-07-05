@@ -159,7 +159,7 @@ without bending down to the leeward windows — an unanticipated bonus. The
 "worked out better then hoped for" once actually used underway.
 
 The same cruise supplied a real-world **windward-performance** data point for
-the [chine runners](/design/chine-runners-and-windward-performance.md)
+the [chine runners](/chine-runners/windward-performance.md)
 (nearly five hours short-tacking against 12 kt winds and a foul current,
 averaging 3.6 kt over 18 nm) and turned up a newly found **mast-heel play**
 problem possibly costing some of that performance (see

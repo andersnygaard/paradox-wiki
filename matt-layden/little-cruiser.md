@@ -27,7 +27,7 @@ over its nominal single-hander [design displacement](/design/weight-and-ballast.
 Built in **1988** and nicknamed **"SOST" (Sun of Swamp Thing)**, Little Cruiser
 was Matt Layden's one departure to a **bow-mounted centerboard** — chosen to
 maximize interior space rather than
-[chine runners](/design/chine-runners-and-windward-performance.md) — paired with a
+[chine runners](/chine-runners/how-they-work.md) — paired with a
 battened, slab-reefing balanced lug. Per the Bolducs'
 [microcruising.com](/references/microcruising-website.md):[16][17]
 

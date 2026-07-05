@@ -13,7 +13,7 @@ the archive to change the hull's principal dimension, rather than a detail
 like the chine, rudder, or rig. It stands apart from the documented,
 designer-led iterations tracked in
 [rudder and chine experiments](/design/rudder.md) and
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md),
+[chine runners](/chine-runners/how-they-work.md),
 both of which kept the hull length fixed.
 
 ## Matt Layden's scaling rule: multiply the scantlings by the enlargement factor
@@ -150,7 +150,7 @@ fitting a **steel shoe on the bottom** — a **1/4 in steel plate rolled to
 the radius of the boat's deepest point** — reasoning that this would put
 ballast weight exactly where it is wanted, and, if the plate extended all
 the way to the edge of the
-[chine runners](/design/chine-runners-and-windward-performance.md), would
+[chine runners](/chine-runners/construction.md), would
 also brace them structurally.
 
 This prompted a materials-research tangent into facing the chine runners or
@@ -164,12 +164,12 @@ panel. See [Mat ("mat_man22")](/people/mat-man22.md) for the full detail. No
 metal-clad chine runner was ever built or tested; the idea remains a
 materials tangent. A separate observation anticipates the bilge-keel debate
 below: keels built of ferrocement or lead (rather than Paradox's plywood
-[chine runners](/design/chine-runners-and-windward-performance.md)) could
+[chine runners](/chine-runners/construction.md)) could
 let a hull heel to a more vertical angle.
 
 (For how the stock, plain-timber chine runners are actually built — as
 opposed to this metal-shoe alternative-materials tangent — see
-[chine runner construction technique](/construction/chine-runner-construction.md).)
+[chine runner construction technique](/chine-runners/construction.md).)
 
 ## Why the chine runners stay, and bilge keels don't fit Paradox
 
@@ -183,7 +183,7 @@ to another design entirely than compromising this one. The reasoning:
 - A bilge-keeled hull would **draw more water when heeled** and show **more
   leeway** — whereas photos taken looking aft while under sail show minimal
   leeway, evidence the
-  [chine runners](/design/chine-runners-and-windward-performance.md)
+  [chine runners](/chine-runners/windward-performance.md)
   "really work."
 - Paradox's **flat-bottomed hull shape is "really wrong" for bilge keels**;
   a chine-keel boat would suit the purpose better if bilge keels were
@@ -208,7 +208,7 @@ would have even less drag. Paradox is, on this assessment, **"by far the
 strongest 14 ft sharpie"** seen to date, which addresses any concern about
 the extra internal structure bilge keels would need. Matt Layden's own
 longer-chine-runner trial (see
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md))
+[chine runners and windward performance](/chine-runners/windward-performance.md))
 reads as an attempt to **improve on an already-good design**, not a sign
 the stock runners were deficient.
 

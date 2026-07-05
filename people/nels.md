@@ -152,7 +152,7 @@ calling him "truly amazing." See
   a full account of Glen's Atlantic crossing aboard "Hogfish Maximus" with
   Chris Morejohn: sailing impressions, rig performance, daily distances, and
   motion under way. See [Glen C. Maxwell — build and
-  "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoe-without-foam-flotation).
+  "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
 - **Asking for "Hogfish Maximus" in context.** Welcomed Glen Maxwell's full
   return report on the Atlantic crossing on behalf of newer list members, and
   asked him to post photographs or a lines sketch of "Hogfish Maximus"
@@ -624,9 +624,7 @@ calling him "truly amazing." See
   Canada Day greeting with his own westward Alberta road trip — Crowsnest
   Pass, Longview, Calgary, Banff, and two days photographing the Drumheller
   badlands, with plentiful wildlife but "not one sailboat" — taken just
-  ahead of regional flooding. See [off-topic cross-posts — Canada Day, and
-  an Alberta road
-  trip](/references/off-topic-cross-posts.md#canada-day-and-an-alberta-road-trip).[133]
+  ahead of regional flooding.[133]
 - **Canoe "tracking" and "lining" as an analogy for towpath-hauling a
   Paradox.** On a UK canal-touring question, drew on Canadian canoe-country
   experience to describe line-hauling a small boat from the bank — a line
@@ -798,8 +796,8 @@ calling him "truly amazing." See
 [120] Archive message page_2488 (arvent / "Nels", `paradoxbuilders`, msgnum 2516, 2004-12-20) — "Re: Sheerstrakes": full text and citation at [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
 [121] Archive message page_2499 (arvent / "Nels", `paradoxbuilders`, msgnum 2527, 2005-01-01) — "Aid To Tsunami Survivors": relays a fundraising appeal for an 80 ft junk-rigged cargo boat's owner/captain, who narrowly escaped the tsunami in Phuket and sought to deliver relief aid (fresh water via an engine-run desalinator a priority) to areas cut off from infrastructure; two tax-exempt donation channels (USA and Canada) being organized; signs as "Nels Arvidson, Co-moderator, CWG In Canada Discussion Group, Paradox Boat Construction Group."
 [122] Archive message page_2503 (arvent / "Nels", `paradoxbuilders`, msgnum 2531, 2005-01-08) — "Re: New file uploaded & looking for info": suggests trying the `smallsailboats` Yahoo group if nobody here can identify the uploaded boat photo, and also the microcruising or a boat-design group.
-[123] Archive message page_2506 (arvent / "Nels", `paradoxbuilders`, msgnum 2535, 2005-01-13) — "Re: Zoë interior shots": full text and citation at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoe-without-foam-flotation).
-[124] Archive message page_2511 (arvent / "Nels", `paradoxbuilders`, msgnum 2539, 2005-01-13) — "Re: Zoë interior shots": full text and citation at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoe-without-foam-flotation).
+[123] Archive message page_2506 (arvent / "Nels", `paradoxbuilders`, msgnum 2535, 2005-01-13) — "Re: Zoë interior shots": full text and citation at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
+[124] Archive message page_2511 (arvent / "Nels", `paradoxbuilders`, msgnum 2539, 2005-01-13) — "Re: Zoë interior shots": full text and citation at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
 [125] Archive message page_2514 (arvent / "Nels", `paradoxbuilders`, msgnum 2542, 2005-01-13) — "Re: Atlantic trip": full text and citation at [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#the-full-return-report-cockpit-size-pounding-and-modified-sharpie-versus-sharpie).
 [126] Archive message page_2710 (arvent / "Nels", `paradoxbuilders`, msgnum 2740, 2005-06-01) — "Re: Books": full text and citation at [references/beachcruising-book.md](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
 [127] Archive message page_2713 (arvent / "Nels", `paradoxbuilders`, msgnum 2743, 2005-06-01) — "Re: Books": full text and citation at [references/beachcruising-book.md](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
@@ -808,7 +806,7 @@ calling him "truly amazing." See
 [130] Archive message page_2723 (arvent / "Nels", `paradoxbuilders`, msgnum 2754, 2005-06-04) — "Re: Finish": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#filling-the-fiberglass-weave-before-painting-fairing-compound-and-the-case-against-leaving-it-exposed).
 [131] Archive message page_2787 (arvent / "Nels", `paradoxbuilders`, msgnum 2818, 2005-06-11) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage); "Words of deep wisdom Al."
 [132] Archive message page_2812 (arvent / "Nels", `paradoxbuilders`, msgnum 2843, 2005-06-14) — "Interesting Small Boat Voyage": full text and citation at [references/beachcruising-book.md](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
-[133] Archive message page_2878 (arvent / "Nels", `paradoxbuilders`, msgnum 2909, 2005-07-02) — "Re: Canada Day": full text and citation at [references/off-topic-cross-posts.md](/references/off-topic-cross-posts.md#canada-day-and-an-alberta-road-trip).
+[133] Archive message page_2878 (arvent / "Nels", `paradoxbuilders`, msgnum 2909, 2005-07-02) — "Re: Canada Day": full text and citation at references/off-topic-cross-posts.md (Canada Day and an Alberta road trip).
 [134] Archive message page_2920 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 2951, 2005-07-18) — "Re: Mainsheet and outboard": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
 [135] Archive message page_2921 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 2952, 2005-07-18) — "Portage Cart": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted); the Chunnel/ferry question is Archive message page_2923, same thread, msgnum 2954, 2005-07-19, "Re: Mainsheet and outboard."
 [136] Archive message page_2973 (arvent / "Nels", `paradoxbuilders`, msgnum 3004, 2005-07-28) — "Re: Enuff Update": full text and citation at [construction/topside-painting.md](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).

@@ -25,7 +25,7 @@ timber. The standard method:
   later in construction.
 
 This is a distinct lamination technique from the chine runners (see
-[chine runner construction](/construction/chine-runner-construction.md)), which are built
+[chine runner construction](/chine-runners/construction.md)), which are built
 up from small solid-timber blocks or a single kerfed timber rather than thin
 laminated strips — reflecting the different loads and shapes of the two
 parts.
@@ -35,7 +35,7 @@ parts.
 The plans do not specify deck beam dimensions on every drawing; **25 x 45
 mm** is the size used wherever a deck beam is called for (see also the
 related [bulkhead #3 side cleats
-question](/construction/bulkhead-3-cleats-question.md) on the same drawings).
+question](/construction/hull-assembly-sequence.md) on the same drawings).
 The deck curve itself is **not a radius**, but more like a **parabola**, so
 rather than pulling a radius and drawing an arc, the practical method is to
 use the dimensions given on **sheet 7 (bulkhead 2)** to build a mold, then
@@ -141,7 +141,7 @@ does not compromise the result.
 
 Beyond the beam-height question, one further sequencing deviation is worth
 noting alongside the standard build order (see
-[chine runner construction](/construction/chine-runner-construction.md)):
+[chine runner construction](/chine-runners/construction.md)):
 [Aussie Paradox](/boats/aussie-paradox.md)'s chine runners were **laminated
 to the hull sides before attaching the bottom**, rather than the more usual
 order, with no outcome report on record for this sequencing choice.

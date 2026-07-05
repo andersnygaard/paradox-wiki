@@ -68,7 +68,7 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 - **A working lower-gudgeon method.** A thick fiberglass-strip lamination
   built up in a simple mold, with a Delrin bushing for wear. See [Glen
   Maxwell — the build manual proposal, a concrete
-  push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal--a-concrete-push).
+  push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
 - **Translating Sven Yrvind's book.** Met the community's standing wish for
   an English translation of Yrvind's new Swedish-language book by translating
   its Matt Layden/Paradox chapter himself and posting it as "chapter9.doc,"
@@ -258,7 +258,7 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [7] Archive message page_1259 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1279, 2003-11-11) — "Re: Bulkhead questions (long)": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#what-a-scab-is-and-a-scarphed-alternative-that-eliminates-it).
 [8] Archive message page_1397 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1417, 2003-11-18) — "boom mod?": full text and citation at [design/chine-runners-and-windward-performance.md](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
 [9] Archive messages page_1428, page_1433 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1448 and 1453, 20-21 Nov 2003) — "Re: Square tubs verses round tubs" / "Re: T-12": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
-[10] Archive message page_1429 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1449, 2003-11-20) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal--a-concrete-push).
+[10] Archive message page_1429 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1449, 2003-11-20) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
 [11] Archive message page_1458 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1478, 2003-11-28) — "new sail": full text and citation at [design/rig.md](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
 [12] Archive message page_1459 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1479, 2003-11-28) — "Re: new sail": full text and citation at [design/rig.md](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
 [13] Archive message page_1529 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1549, 2003-12-26) — "Sven's book": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter).

@@ -43,7 +43,7 @@ each of which lives in full on its topic page:
   curve, whether the runners take abuse and ground first, and whether a metal
   edge would protect them (advised against on hydrodynamic grounds); he also
   floated using the runners plus a heavy inside fillet as a substitute for an
-  internal chine log — see [chine runner construction](/construction/chine-runner-construction.md).
+  internal chine log — see [chine runner construction](/chine-runners/construction.md).
 - **Chine-shoe materials:** cost, sourcing, and fastening of copper-nickel,
   ferrocement, or steel chine pieces, contributing a March 2001 Cu/Ni price
   list of his own — see [stretched Paradox](/design/variants/stretched-paradox.md)
@@ -81,8 +81,9 @@ temperature as the variable ([epoxy brands, chemistry, and cure behavior](/const
 On bottom material, he proposed pressure-treated wood (about twice the weight
 of untreated) for the bottom, chine logs, and chine runners, then
 hammer-tested an epoxied-versus-screwed pressure-treated fir tee joint,
-finding the epoxy joint never broke while the screws pulled through — see
-[pressure-treated wood for the bottom and chine members](/construction/pressure-treated-wood.md).
+finding the epoxy joint never broke while the screws pulled through; pressure-treated
+wood was ultimately tried and rejected for Paradox construction — poor
+glue/paint adhesion, plus the timing of an EPA arsenic-preservative ban.
 
 His hull-protection ideas were speculative and untested: a ~1/4 in steel shoe
 rolled to the hull's radius for low ballast and chine-runner bracing; a split

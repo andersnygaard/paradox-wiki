@@ -25,7 +25,7 @@ bottom** with a heavy glass-and-Kevlar layup — reasoning that few builders
 cruise as hard as Matt Layden or the Bolducs, that 3/8 in ply matches 1/2 in
 exterior ply for strength while lasting longer and bending fairer, and that on
 a wider (4 ft) stitch-and-glue bottom the [chine
-runner](/construction/chine-runner-construction.md) would be fixed outside,
+runner](/chine-runners/construction.md) would be fixed outside,
 flush, then glassed over. See [hull planking](/construction/hull-planking.md)
 for the full thread.
 
@@ -47,7 +47,7 @@ for the enlargement debate.
   toward the sharper sweep aft) through the back and bottom edges so it bends to
   the curve, then fill the kerfs with epoxy — "in glue and dust we put our
   trust." See [chine runner
-  construction](/construction/chine-runner-construction.md).
+  construction](/chine-runners/construction.md).
 - **Against metal-edging the runners:** the runners' shape governs the boat's
   **windward ability**, so refacing them in metal risks the hydrodynamics unless
   the builder has real metalworking skill.
@@ -287,9 +287,7 @@ Paradox's small size and shallow draft is also on record as a one-off aside.
 A secondhand-boat aside is also on record: an eBay-listed cat-ketch
 centerboard cruiser flagged as good microcruiser material, alongside a
 recurring gripe that comparable secondhand boats cost roughly twice as
-much in the UK as in the US. See [off-topic cross-posts — a secondhand
-cat-ketch cruiser spotted on eBay, and a transatlantic price
-gripe](/references/off-topic-cross-posts.md#a-secondhand-cat-ketch-cruiser-spotted-on-ebay-and-a-transatlantic-price-gripe).[49]
+much in the UK as in the US.[49]
 
 # Citations
 
@@ -342,4 +340,4 @@ gripe](/references/off-topic-cross-posts.md#a-secondhand-cat-ketch-cruiser-spott
 [46] Archive message page_1887 (roverticket / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1910, 2004-01-26) — "Re: Double Rudders": floats a paddle-less wind vane seen on the James Wharram catamaran-building website, steered purely by wind pressure on the vane, mounted forward of the mast with steering lines led aft to the tiller — allows it would look unsightly, not steer downwind, and sit in the helmsman's line of sight; judges a Paradox wind vane "purely academic" since a more suitable boat would serve better for genuine offshore passages, calling Paradox "a coastal cruiser that thinks it's an offshore one" — except in the hands of Matt, Dave, and Mindy, where it already is one.
 [47] Archive message page_1942 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1965, 2004-02-23) — "Re: boat plans": full text and citation at [references/building-plans.md](/references/building-plans.md#why-paradox-resists-easy-enlargement); welcomes Alf Sawatzky, points to microcruising.com, under $50.
 [48] Archive message page_1972 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1972, 2004-02-26) — "Re: boat plans": full text and citation at [references/building-plans.md](/references/building-plans.md#why-paradox-resists-easy-enlargement); suggests posting to the `microcruising` Yahoo Group directly; reports he too cannot get the Bolducs' e-mail to work.
-[49] Archive message page_2868 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 2899, 2005-06-30) — "Basis for a Microcruiser": full text and citation at [references/off-topic-cross-posts.md](/references/off-topic-cross-posts.md#a-secondhand-cat-ketch-cruiser-spotted-on-ebay-and-a-transatlantic-price-gripe).
+[49] Archive message page_2868 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 2899, 2005-06-30) — "Basis for a Microcruiser": full text and citation at references/off-topic-cross-posts.md (a secondhand cat-ketch cruiser spotted on eBay, and a transatlantic price gripe).

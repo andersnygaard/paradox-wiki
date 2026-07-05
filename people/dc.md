@@ -150,7 +150,7 @@ female mold, wrapped in roving), a carved hardwood part such as purpleheart
 (Duraglass or Kitty Hair) under epoxy/roving — all more complicated,
 plausibly, than the designer's own original method. See [Glen Maxwell — the
 build manual proposal, a concrete
-push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal--a-concrete-push).
+push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
 Clenched (not merely bent-over) nails are a permanent, traditional
 lapstrake/canoe fastening method, stronger than screws and easier than rivets,
 finishing flush on both sides under a light epoxy/microballoon fill; see
@@ -264,22 +264,13 @@ and centers. See [aluminum and steel Paradox (speculative) — epilogue: why
 materials questions draw pushback, and a belated
 apology](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
 
-**Owning "Swash."** DC sails and moors **downriver from Deer Island, Oregon**,
-on the Columbia River, drawn to the Paradox as well suited to **year-round
-Northwest sailing**: winter conditions keep all but the hardiest recreational
-boaters off the water, leaving the **lower Columbia below Rainier, Oregon** —
-shoal-draft cruising grounds otherwise seen mostly by kayakers — open through
-the season a heavier boat would sit out. A trailer trip from there across the
-Lewis and Clark bridge to Interstate 5 reaches the lower Puget Sound at
-Olympia, Washington, and the protected inland waters of Washington and
-British Columbia beyond it; the open Oregon/Washington coast itself rates only
-"mediocre" cruising, though short, weather-watched coastal passages can still
-connect to further upriver cruising grounds. A multihull — a Farrier
-trimaran, a Woods Wizard, or a Sango catamaran — would suit a Sea of Cortez
-trailer trip better than a Paradox, consistent with a general philosophy of
-**owning several boats each suited to a specific requirement** rather than one
-boat for every requirement. Swash was built to be kept for life; by spring
-2004 her interior was being fitted out.
+**Owning "Swash."** DC's own Paradox, built strictly as drawn from Joubert
+Okoume BS-1088 plywood and Honduras mahogany, sails and moors downriver from
+Deer Island, Oregon, on the Columbia River — cruising grounds he judged well
+suited to year-round Northwest sailing. Briefly listed for sale in July 2004
+during a divorce, he ultimately kept and finished her himself. Full name
+origin, home waters, ownership philosophy, and the for-sale episode:
+[boats/swash.md](/boats/swash.md).
 
 **Community role.** DC proposed a group-written, plans-only **Paradox build
 manual** — free, concise, edited for neutrality, and open to occasional,
@@ -422,7 +413,7 @@ variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-
 [43] Archive message page_1180 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1197, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
 [44] Archive message page_1181 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1198, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec).
 [45] Archive message page_1182 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1199, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec).
-[46] Archive message page_1184 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1201, 2003-09-15) — "off topic interlude": full text and citation at [references/off-topic-cross-posts.md](/references/off-topic-cross-posts.md#a-latitude-38-video-clip-costbenefit-aside).
+[46] Archive message page_1184 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1201, 2003-09-15) — "off topic interlude": full text and citation at references/off-topic-cross-posts.md (a Latitude 38 video-clip cost/benefit aside).
 [47] Archive message page_1200 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1220, 2003-09-23) — "Re: newest network critical patch": warns the list that a forwarded "MS Customer Services" email offering a Windows security patch as an attachment is a Trojan Horse, not a genuine Microsoft update — Microsoft never distributes patches via email attachment; full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-tripod-link-spam-saga).
 [48] Archive message page_1205 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1225, 2003-09-30) — "Re: A new world record (long)": full text and citation at [boats/little-jim.md](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003).
 [49] Archive message page_1206 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1226, 2003-10-02) — "ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
@@ -452,7 +443,7 @@ variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-
 [73] Archive message page_1369 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1389, 2003-11-17) — "bibliography suggestions": "'Gougeon Brothers on Boat Construction' — Please feel free to list relevant books, to be cosidered by the group for inclusion in the Build Manual."
 [74] Archive message page_1372 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1392, 2003-11-17) — "Re: A proposal, a real one": "I would be perfectly willing to defer to someone else, to write the introduction to the build manual, to include plans, materials, and tools (or other). Perhaps a builder of a completed boat would like to contribute?"
 [75] Archive message page_1373 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1393, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/william-longyard.md](/people/william-longyard.md#citations).
-[76] Archive message page_1377 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1397, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal--a-concrete-push).
+[76] Archive message page_1377 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1397, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
 [77] Archive message page_1380 (arvent / "Nels", `paradoxbuilders`, msgnum 1400, 2003-11-17) — "Re: bibliography suggestions": full text and citation at [people/nels.md](/people/nels.md#citations).
 [78] Archive message page_1408 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1428, 2003-11-18) — "Re: A proposal, a real one": thanks Glen for volunteering to write up the lower gudgeon, which he too had wondered about; floats candidate methods while waiting to see Glen's solution — a chopped-mat-and-epoxy undersized part cast in a female mold and wrapped in roving; an undersized part carved from purpleheart or similar hardwood, likewise wrapped in roving; or a Duraglass/Kitty Hair polyester-filler part wrapped in epoxy/roving — suspecting all are more complicated than Matt Layden intended.
 [79] Archive message page_1409 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1429, 2003-11-18) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).

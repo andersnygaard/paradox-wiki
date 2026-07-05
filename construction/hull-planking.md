@@ -50,7 +50,7 @@ arguments on both sides.
 
 **Against:** stitch-and-glue would **not simplify** Paradox construction — the
 design needs real **chine logs** to carry the
-[chine runners](/construction/chine-runner-construction.md), and the
+[chine runners](/chine-runners/construction.md), and the
 **weight savings** stitch-and-glue typically offers would actually work
 *against* the boat, since Paradox needs to be **heavily ballasted** to sit on
 her lines and resist sliding sideways upwind (see
@@ -78,7 +78,7 @@ builder about an *unplanned* undersize-ply discovery on his secondhand boat;
 see
 [Help! — undersize side panels](/construction/undersize-side-panel-ply.md)).
 The **chine runners themselves act as an outer chine** (see
-[chine runner construction](/construction/chine-runner-construction.md)), but
+[chine runner construction](/chine-runners/construction.md)), but
 on a wider (4 ft) stitch-and-glue bottom panel the chine runner needs to be
 fixed **outside, flush with the bottom**, then glassed over as in the
 standard plans, rather than let into an internal chine log.
@@ -131,7 +131,7 @@ precisely to simplify nailing**. As on the plans' method (see
 **chine runners were installed only after the bottom panel was fitted and
 trimmed** — confirmed directly in the rebuild's photo captions: "the bottom
 [is] in place, next step will be to install the chine runners." See
-[chine runner construction](/construction/chine-runner-construction.md) for
+[chine runner construction](/chine-runners/construction.md) for
 more on this sequencing.
 
 ## The case for a second layer of cloth

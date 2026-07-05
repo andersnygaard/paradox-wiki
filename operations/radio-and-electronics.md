@@ -74,41 +74,14 @@ and modem — on a friend's boat, finding it "pretty neat."
 
 ## SailMail vs. Winlink/Airmail, and the cost/legality tradeoffs of ham gear
 
-**SailMail** is the marine SSB Pactor I/II e-mail system, requiring a paid
-subscription but permitting business-related traffic; **Winlink/Airmail**
-runs the same underlying software over **ham radio** instead, is free of
-subscription fees, but is legally restricted to non-commercial traffic —
-using ham radio for anything a third party could construe as financially
-gainful to either party is illegal, and some amateur operators police the
-ham bands strictly for this. Both systems can use a **Terminal Node
-Controller (TNC)** — effectively a radio modem — costing a few hundred
-dollars for **Pactor I** (roughly 130 bps, slow) or more for the faster but
-still dial-up-modem-slow **Pactor II** (fast enough to trade pictures,
-though the radio ties up the operator's attention for the duration). A
-newer, **proprietary Pactor III** protocol reaches 9,600 baud (2x Pactor II,
-4x Pactor I) but its TNC costs upward of **$1,100** (a cost partly offset by
-doubling as a weatherfax interface); the same TNC serves commercial or
-amateur service, though **SailMail legally requires a certified commercial
-radio telephone** — a ham rig is not legal for that service.
-
-A **KAM Plus TNC** (Pactor I only) served one of the first year of SailMail
-users on the North American west coast and proved "incredibly convenient" at
-the time, though **AirMail/Winlink** is the better forward-looking choice,
-since it keeps the ham bands in active use and needs no subscription. A
-properly filtered ham rig can, in practice if not strictly to the letter of
-the law, be tuned tight enough to serve marine SSB frequencies as well.
-Weatherfax reception is comparatively cheap and simple: a demodulator or TNC
-(or even a laptop sound card with freeware) plugged into a cheap shortwave
-receiver's headphone jack is enough to pull down weatherfax without needing
-a full transmitting station.
-
-On cost, phone-call rates to the US from abroad have fallen sharply over the
-decades (from roughly $1/minute in the late 1960s to around $0.20/minute by
-the early 2000s from many locations), which affects the economics of
-choosing an HF radio solution over simply calling — as does the availability
-of an amateur radio license itself, which requires passing an exam (the code
-requirement having been reduced significantly by 2003) most conveniently
-studied during winter months with internet-based study aids.
+Radio e-mail over HF — SailMail's paid-subscription Pactor I/II/III service
+versus Winlink/Airmail's free but non-commercial-only equivalent over ham
+radio, each with its own TNC-modem cost and baud-rate tradeoffs — was a
+period-specific, now-obsolete solution; cellular and satellite data have
+superseded it. Weatherfax reception remains comparatively cheap and simple:
+a demodulator or TNC (or even a laptop sound card with freeware) plugged
+into a cheap shortwave receiver's headphone jack is enough to pull down
+weatherfax without needing a full transmitting station.
 
 ## A wind generator and radar: a scale-mockup exercise, and how little power a Paradox actually needs
 
@@ -197,15 +170,6 @@ speed electronically and slows the blades as rated output is reached,
 holding output at a reduced level in high wind until it eases. Wind
 generators remain louder than solar panels in any case, but also
 cheaper.[21]
-
-## PocketMail: a low-cost alternative to a full SSB/computer/modem setup
-
-For cruisers who want e-mail without the expense of a full SSB/computer/modem
-HF setup, **PocketMail** — a small electronic organizer (about $99) that
-sends and receives e-mail over ordinary phone lines via 1-800 access
-numbers, usable from any phone — was reported as an alternative seen in
-increasing use among cruisers in the Bahamas in the early 2000s, at a
-monthly access fee of roughly **$12.50**.
 
 # Citations
 

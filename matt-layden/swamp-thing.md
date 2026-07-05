@@ -12,7 +12,7 @@ timestamp: 2026-07-01T00:00:00Z
 cruising boats, part of the Layden design family alongside
 [Little Cruiser](little-cruiser.md) and the [Paradox](/paradox.md). Built in
 **1985**, she was **Matt Layden's first micro-cruiser to use
-[chine runners](/design/chine-runners-and-windward-performance.md)** — the
+[chine runners](/chine-runners/origin-and-evolution.md)** — the
 tapered external chine log he first tried and named on this boat, replacing the
 fouling leeboards of his earlier [Terrapin](terrapin.md). Matt sailed her
 **engineless** from Connecticut down the Intracoastal Waterway and out to the
@@ -116,7 +116,7 @@ re-glassed the deck. In **2008**, at Matt Layden's suggestion, they rebuilt her
 **chine runners about ¼" wider and ⅛" thicker — roughly 25% wider than the
 originals — to try to improve her windward performance**. See
 [construction](/construction/index.md) for the epoxy/rot-repair techniques used
-and [chine runners and windward performance](/design/chine-runners-and-windward-performance.md)
+and [chine runners and windward performance](/chine-runners/windward-performance.md)
 for the runner iteration.
 
 ## Rudder rebuild technique: beveled lead versus screwed lead, and a lead-melting caution
@@ -148,7 +148,7 @@ any pipe being melted down away from anyone standing nearby.
 What makes Swamp Thing a better sailing boat than Paradox or Little Cruiser was
 long an open question — candidate explanations included a **keel**, a
 **narrower beam**, or **lighter displacement**. The answer credited by Dave
-Bolduc is her **[chine runners](/design/chine-runners-and-windward-performance.md)**
+Bolduc is her **[chine runners](/chine-runners/windward-performance.md)**
 (rather than keel, beam, or displacement), which make her **"the most
 manueverable of Matt's designs,"** tacking "on a dime." See
 [sailing characteristics and rig balance — "Trim is very important"](/operations/sailing-characteristics.md)

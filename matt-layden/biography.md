@@ -1,25 +1,32 @@
 ---
 type: Person
 title: Matt Layden
-description: Designer of the Paradox microcruiser and a family of shoal-draft micro-cruisers, a self-taught sailor and sailmaker who field-tests his own boats by racing them and won the ~300-mile 2003 Everglades Challenge outright in the original Paradox.
+description: Reclusive designer of the Paradox and a family of shoal-draft micro-cruisers, who invented the chine runner and field-tests his own boats by living aboard and racing them.
 tags: [paradox, matt-layden, designer, people]
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-05T00:00:00Z
 ---
 
 # Matt Layden
 
 **Matt Layden** is the designer of the [Paradox](/paradox.md) and of a family
 of small shoal-draft cruising boats including [Little Cruiser](little-cruiser.md)
-and [Swamp Thing](swamp-thing.md). A self-taught designer, builder, sailor and
-sailmaker, he developed his ideas by living aboard and cruising his own boats
-full-time, refining and discarding concepts trip by trip. He is known as a very
-private person who does not take part in the online forums, and the original
-prototype Paradox — his own boat (see
-[original Paradox](/boats/original-paradox.md)) — was for years one of only two
-Paradoxes known to be sailing, the other belonging to
-[Don Elliott](/people/don-elliott.md).
+and [Swamp Thing](swamp-thing.md). Self-taught as a designer, builder, sailor,
+and sailmaker, he developed his ideas the same way for thirty years: by living
+aboard and cruising his own boats full-time, refining and discarding concepts
+trip by trip, then field-testing the result by racing it. He invented the
+[chine runner](/chine-runners/index.md) — the fin that lets his boats sail to
+windward without a centerboard or keel, and that Sven Yrvind calls the
+greatest small-boat innovation of the twentieth century — and won the
+~300-mile 2003 Everglades Challenge outright, sailing and yuloh-powered alone
+against a fleet of paddled kayaks and canoes. He is also, by every account in
+this archive, a very private man: he does not take part in the online forums,
+and almost everything known about him reaches this record secondhand, through
+the handful of people who sailed alongside him or interviewed him in person.
+For years his own prototype Paradox was one of only two known to be sailing,
+the other belonging to [Don Elliott](/people/don-elliott.md) (see
+[original Paradox](/boats/original-paradox.md)).
 
-# Early life and training
+# Origins and formation
 
 Matt grew up steeped in traditional New England craft. His **father was a
 sailor** and his **grandfather a waterman and oysterman on the Connecticut
@@ -28,439 +35,569 @@ brothers raced traditional keelboats around the buoys through New England
 summers with their father, and his own first keelboat was a **16-foot Zip** —
 "a kid's first keelboat." Bored at school, he often cut class to read in the
 library, until a junior-year guidance counselor placed him **apprenticing at a
-custom cabinet shop**, where he learned the **drafting and woodworking skills**
-that still serve him today.[51]
+custom cabinet shop**, where he learned the **drafting and woodworking
+skills** that still serve him today.[51]
 
-Those roots shaped a distinctive design outlook. Matt approaches **each problem
-as a new challenge rather than accepting the way things have always been done**,
-but holds that you must **first have a firm grasp of tradition in order to
-innovate**: traditional New England workboats look as they do because of the
-**limitations of wood**, and the graceful overhangs of early-20th-century racing
-yachts were driven by **racing rules rather than reason** — so with modern
-materials and freedom from those rules, he argues, one ought to be able to draw
-a better cruising boat. He **designs mega-yachts for a living** while sailing his
-own microcruisers, **seldom wears shoes**, **does not drive** (consistent with
-his carless bicycle-trailer build of the first Paradox, below), and is a **total
-minimalist without being anti-technology** — "reason with a touch of minimalism,"
-in his biographer's phrase, governing his designs.[51]
+Those roots shaped a distinctive design outlook, one Matt has held to for
+forty years: approach **each problem as a new challenge rather than accepting
+the way things have always been done**, but only from a **firm grasp of
+tradition**. Traditional New England workboats look as they do because of the
+**limitations of wood**, he argues, and the graceful overhangs of
+early-20th-century racing yachts were driven by **racing rules rather than
+reason** — so with modern materials and freedom from those rules, a designer
+ought to be able to draw a better cruising boat. It is a philosophy of
+innovation *from* tradition, not against it. He holds the sailboat itself to
+be "one of man's most perfect inventions because it converted wind into
+motion with a minimum of moving parts," and insists "a boat needs to be
+designed for a specific purpose" — in his own case, a simple, shoal-draft
+vessel with a short, quickly-lowered mast built to work the bridge-laced U.S.
+East Coast.[51]
 
-# Design lineage: from Terrapin to Elusion
+The man matches the philosophy: he **designs mega-yachts for a living** while
+sailing his own microcruisers, **seldom wears shoes**, **does not drive** (of
+a piece with hauling his first Paradox's building materials by bicycle
+trailer — see below), and is a **total minimalist without being
+anti-technology** — "reason with a touch of minimalism," in his biographer's
+phrase, governing his designs.[51] Small Craft Advisor's own 2003 report from
+the Cedar Key messabout, where he was seen alongside Glen Maxwell's "Zoë" and
+David Beard's "Whisper," summed him up in two words: "the reclusive
+designer." See
+[group cruise reports — press coverage](/operations/group-cruise-reports.md#press-coverage-the-2003-small-craft-advisor-cedar-key-article).[43]
+
+# The decade of boats: Terrapin to Paradox
 
 [Dave Bolduc](/people/bolduc/dave.md)'s [microcruising.com](/references/microcruising-website.md)
-gives the fullest account of Matt's development as a designer — he "designed,
+gives the fullest account of Matt's formation as a designer — he "designed,
 built and sailed full-time for about 10 years aboard five of his shoal-draft
-micro-cruisers," refining and discarding ideas trip by trip. The canonical
-build order is:
+micro-cruisers," refining and discarding ideas trip by trip.[7] The
+throughline of that decade is a single trauma and its long working-out: a
+knockdown that ended one design idea, and a decade of boats that tried
+several answers before arriving at Paradox's.
 
-* [Terrapin](terrapin.md) (c. 1985) — his first boat, a 16' × 6' catboat with
-  leeboards and a full-battened main. A severe knockdown in a storm off Maine
-  ("The boat went to 90 degrees and stayed there, supported only by her buoyant
-  mast") convinced Matt to pursue a narrower, self-righting hull — the origin of
-  everything that followed.
-* [Swamp Thing](swamp-thing.md) (1985) — 13'2", exterior-grade ply, beam cut by
-  over two feet, and **his first use of the tapered external chine log he came
-  to call the [chine runner](/design/chine-runners-and-windward-performance.md)**,
-  replacing Terrapin's fouling leeboards; sailed engineless from Connecticut to
-  the Bahamas.
-* [GJAC](gjac.md) (~1987) — a 14'10" enlargement of Swamp Thing, cruised about a
-  year.
-* [Little Cruiser](little-cruiser.md) (1988) — 15'2", "Sun of Swamp Thing," his
-  one departure to a bow-mounted centerboard and a battened, slab-reefing lug;
-  foam-insulated, wintered aboard in Cape Cod, cruised Bay of Fundy to the
-  Bahamas over four years. Sold to Dave and Mindy Bolduc in **1992**.
-* A **20' Balboa** interlude — on meeting his future wife **Karen** and deciding
-  to go cruising with no time to build a boat big enough for two, Matt found a
-  cheap **Balboa 20** (drawing only ~10"), **refitted the interior and replaced
-  the heavy drop keel with a centerboard and inside ballast**, and cruised it
-  about a year (nine months, per one account) along the East Coast and in the
-  Bahamas before selling her — a boat his **father-in-law still sails around
-  Cedar Key, Florida**.[51]
-* [Paradox](/boats/original-paradox.md) (1993) — "returning to his roots," he
-  went back to chine runners (having concluded Little Cruiser's centerboard
-  "did not seem to improve windward performance sufficiently to merit its
-  construction") and to the simple boom-furled lug, now with a drum so it could
-  be reefed from inside; won the 300-mile **Everglades Challenge** (first in
-  class and overall) — the win Matt himself dated to **2003**.
-* Then, after roughly a decade of employment and married life, a late burst of
-  lighter, cartoppable Watertribe designs: [Enigma](enigma.md) (2005, 11'10"),
-  [Sand Flea](sand-flea.md) (8' pram), and [Elusion](elusion.md) (2010, 9').
+**[Terrapin](terrapin.md)** (c. 1985), his first boat, was a 16' × 6' catboat
+with leeboards and a full-battened main. A severe knockdown in a storm off
+Maine — "The boat went to 90 degrees and stayed there, supported only by her
+buoyant mast" — convinced Matt to pursue a narrower, self-righting hull
+instead: the origin of everything that followed.[8]
+
+**[Swamp Thing](swamp-thing.md)** (1985) answered it: 13'2", exterior-grade
+ply, beam cut by over two feet, and **his first use of the tapered external
+chine log he came to call the [chine runner](/chine-runners/index.md)**,
+replacing Terrapin's fouling leeboards. He sailed her engineless from
+Connecticut to the Bahamas. **[GJAC](gjac.md)** (~1987) followed as a 14'10"
+enlargement of Swamp Thing, cruised about a year. **[Little Cruiser](little-cruiser.md)**
+(1988), "Sun of Swamp Thing" at 15'2", was Matt's one departure to a
+bow-mounted centerboard and a battened, slab-reefing lug; foam-insulated, he
+wintered aboard her in Cape Cod and cruised the Bay of Fundy to the Bahamas
+over four years before selling her to Dave and Mindy Bolduc in **1992** — the
+sale that gave the Bolducs their own long firsthand relationship with Matt
+(see [The Bolducs' firsthand record](/people/bolduc/matt-layden-authority.md)).
+
+Then came a **20-foot Balboa** interlude, and with it the first turn in the
+story away from solitary boatbuilding. On meeting his future wife **Karen**
+and deciding to go cruising with no time to build a boat big enough for two,
+Matt found a cheap production **Balboa 20** (drawing only ~10"), **refitted
+the interior and replaced the heavy drop keel with a centerboard and inside
+ballast**, and cruised her about a year (nine months, per one account) along
+the East Coast and in the Bahamas before selling her — a boat his
+**father-in-law still sails around Cedar Key, Florida** today.[51][7]
+
+Cruising with Karen settled, Matt returned to the boats. **[Paradox](/boats/original-paradox.md)**
+(1993) was, in his own framing, "returning to his roots": back to chine
+runners, having concluded Little Cruiser's centerboard "did not seem to
+improve windward performance sufficiently to merit its construction," and
+back to a simple boom-furled lug, now fitted with a drum so it could be
+reefed from inside. Paradox is the bundle's trunk subject and by far its
+best-documented design (see [Paradox](/paradox.md) and
+[original Paradox](/boats/original-paradox.md)) — and the boat that, ten
+years after Terrapin's knockdown, would win Matt his outright victory in the
+2003 Everglades Challenge (below).
 
 This lineage traces back further still, to his father's keelboat and a "Zip
 class keelboat that drew 2 feet" before his first self-designed 16' catboat —
-the account given at a 2019 Cedar Key dinner talk, attended by author **Ida
-Little** (whose book *Beach Cruising and Coastal Camping* features Swamp
-Thing). The chine runner is, in Matt's own description, "a hydrodynamic fence
-with low pressure on one side and high pressure on the other" that lets his
-sharpies "sort of 'fly' upwind through the water with the aid of a big rudder
-to reduce leeway." His design philosophy holds the sailboat to be "one of
-man's most perfect inventions because it converted wind into motion with a
-minimum of moving parts," and that "a boat needs to be designed for a specific
-purpose" — in his case a simple, shoal-draft vessel with a short,
-quickly-lowered mast to work the bridge-laced U.S. East Coast. See
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+the account Matt himself gave at a 2019 Cedar Key dinner talk, attended by
+author **Ida Little** (whose book *Beach Cruising and Coastal Camping*
+features Swamp Thing). At that same talk he walked the lineage forward past
+Paradox too: Enigma (2006 Ultimate Florida Challenge), Elusion (2010), and
+Sand Flea (2012 Ultra Marathon) — the full arc covered in
+[The Watertribe years](#the-watertribe-years-enigma-sand-flea-and-elusion)
+below.[10]
 
-Matt continues to **field-test his designs by racing them**, entering
-Watertribe events "year after year" to test new boats and himself — taking
-class wins in Enigma (2006), an expedition kayak (2005, 2009), an 8'
-pram/Sand Flea (2007, 2012), and Elusion (2010). He also **tank-tests scale
-models** as part of his design process, and remains "a very private person"
-who does not participate in the online forums; the Swedish micro-cruiser
-designer **Sven Yrvind** flew to Florida to consult him on a project in 2011.
+# Karen, the Balboa 20, and settling down
 
-Matt's low profile was already noted in print by 2003: a *Small Craft
-Advisor* report on that year's Cedar Key gathering, where he was sighted
-alongside Glen Maxwell's "Zoë" and David Beard's "Whisper," described him
-as "the reclusive designer" — see
-[group cruise reports — press coverage](/operations/group-cruise-reports.md#press-coverage-the-2003-small-craft-advisor-cedar-key-article).[43]
+The Balboa 20 cruise was more than an interlude between boats — it is the
+first appearance in the record of Matt's wife **Karen**, and of a quieter,
+recurring theme: a solitary designer's life gaining a second person in it.
+Karen later flew to Georgetown, Bahamas, to join Matt partway through his
+solo Little Cruiser delivery cruise.[9] Photographs from the Bolducs' own
+Bahamas cruising in Matt's company show her aboard Paradox as well, not only
+the Balboa 20: Karen and Matt sailing together in the Bahamas, and Matt and
+Karen sailing Paradox in Georgetown.[14][15] Years later, sailing Matt's
+experimental [Mini Paradox](/matt-layden/mini-paradox.md) two-up alongside
+him, Karen gave her own verdict on the little boat, relayed secondhand by
+Glen Maxwell: she "sails like a witch."
 
-# The "Mattsplatt" identity
+Whether there is room for two aboard a Layden boat at all has a firsthand
+answer, from the Bolducs' own time cruising in company with Matt in the
+Bahamas: **yes, but not spacious**. Matt's boats were, in his own design
+intent, "designed primarily to sail 1 person full-time," with only some
+accommodation for a second crew member on short cruises. Cruising together,
+the group would cook aboard [Little Cruiser](/matt-layden/little-cruiser.md),
+then all three — Dave and Mindy Bolduc and Matt — would eat aboard Paradox,
+confirming she could seat three for a meal even if she could not sleep that
+many comfortably; a few close friends can fit aboard for short stints, but
+the available space is "similar to that of being in a tent."[13] The scale of
+the boat is caught in another Bolduc photograph, of a Paradox alongside a
+North Carolina dinghy dock — "Note the size of Paradox versus the dinghies.
+Yikes!"[16]
 
-The successor groups.io [`paradoxsailboat`](/references/mailing-list.md) group
-was created in November 2019 by a list owner posting under the screen name
-**"Mattsplatt"** (signing "Matt," from Fortitude Valley, Queensland, Australia)
-to replace the older Yahoo groups. "Mattsplatt" is **plausibly, but not
-confirmed, to be designer Matt Layden** — the identity is pending corroborating
-evidence and should not be treated as established fact.
+One secondhand account — explicitly flagged as hearsay by its own source
+("if what I have been told is true and I believe it is") — holds that Matt
+**lived aboard his Paradox for some two or three years while cruising from
+Nova Scotia to the lower Bahamas**, offered as the likely reason the boat's
+forward compartment holds only a removable-panel battery box rather than
+dedicated stowage: a cruise of that length would explain why every
+compartment aboard appears to have a planned use. It is by far the most
+specific range and duration given anywhere in the archive for Matt's own
+cruising aboard Paradox — considerably longer than the Bahamas-only cruising
+documented via the Bolducs (see
+[blue-water suitability](/design/blue-water-suitability.md)) — and, if true,
+would place Matt's home waters well north of Florida for part of his life. As
+unverified secondhand information, it belongs in the record but should be
+read with the same caution as any other secondhand Layden biographical
+detail, not treated as established fact.[6]
 
-# Building the original Paradox
+# Paradox and the 2003 Everglades Challenge
 
 Matt built the first Paradox in **about 4 months of full-time work** (see
-[build effort](/construction/build-effort.md)). He **had no car**: he hauled all
-the materials to a **remote building site in the woods on his bicycle trailer**
-(the little trailer is visible in the "para2" construction photo). The finished
-boat was **launched by skidding it down a steep ravine to the Salmon River**
-below the site (photo "para4") — "no wonder these little boats have to be built
-tough." See the boat concept at
-[original Paradox](/boats/original-paradox.md).
+[build effort](/construction/build-effort.md)). He had no car: he hauled all
+the materials to a **remote building site in the woods on his bicycle
+trailer** (the little trailer is visible in the "para2" construction photo).
+The finished boat was **launched by skidding it down a steep ravine to the
+Salmon River** below the site (photo "para4") — "no wonder these little boats
+have to be built tough."[3] Matt's on-the-water practice from those early
+years is documented too: he sails from inside the [cabin](/paradox.md), stows
+anchors below as ballast using a stern-bucket routine (see
+[ground tackle](/operations/ground-tackle.md)), and was photographed sailing
+on Exuma Sound in 25 kts, sitting below with Mindy Bolduc.[4]
 
-Matt's on-the-water practice is also documented: he sails from inside the
-[cabin](/paradox.md), stows anchors below as ballast using a stern-bucket
-routine (see [ground tackle](/operations/ground-tackle.md)), and was famously
-photographed sailing on Exuma Sound in 25 kts, sitting below with Mindy Bolduc —
-see [rig and sail](/design/rig.md).
+## An eyewitness before the race
 
-## Lived aboard for two to three years, Nova Scotia to the Bahamas
-
-One secondhand account holds that Matt **"lived aboard his Paradox for some
-two or three years while cruising from Nova Scotia to the lower Bahamas,"**
-offered as the likely reason the boat's forward compartment holds only a
-removable-panel battery box rather than dedicated stowage: a cruise of that
-length and duration would explain why every compartment aboard appears to
-have a planned use. The claim is explicitly flagged as hearsay by its source
-("if what I have been told is true and I believe it is") and is by far the
-most specific range and duration given anywhere in the archive for Matt's own
-cruising aboard Paradox — considerably larger than the Bahamas-only cruising
-documented via [Dave Bolduc](/people/bolduc/dave.md) (see
-[blue-water suitability](/design/blue-water-suitability.md)), and one that
-would place Matt's home waters well north of Florida for at least part of his
-cruising. As unverified secondhand information, it should be read with the
-same caution as other secondhand Layden biographical details, not as
-established fact.
-
-## Room for two: cruising the Bahamas with Karen
-
-Matt's boats were, in his own design intent, "designed primarily to sail 1
-person full-time," though he made some accommodation for a second crew member on
-short cruises. Whether there is **room for two aboard Paradox** has a firsthand
-verdict: **yes, but not spacious**. Cruising in company with Matt in the
-Bahamas, the group would **cook aboard [Little Cruiser](/matt-layden/little-cruiser.md)**,
-then **all three** — Dave and Mindy Bolduc and Matt — would **eat aboard
-Paradox**, confirming Paradox could seat three for a meal even if it could not
-sleep that many comfortably. A Paradox can fit "a few close friends aboard for
-short stints," but the available space is "similar to that of being in a
-tent."
-
-Photographs confirm that Matt's then-girlfriend (later wife) **Karen** — known
-otherwise from Matt's earlier Balboa 20 cruise and from joining him in
-Georgetown partway through his solo Little Cruiser delivery cruise, per
-[microcruising.com](/references/microcruising-website.md) [9] — also **sailed
-aboard Paradox herself** in the Bahamas, alongside Matt, rather than only aboard
-the Balboa 20 or by shore rendezvous: images show Mindy and Matt aboard Paradox,
-Karen and Matt in the Bahamas aboard Paradox, and Matt and Karen sailing Paradox
-in Georgetown. See
-[crew size and cabin fit](/operations/crew-size-and-fit.md)
-for this data point's place in the broader two-up-cruising record. The
-scale of the boat is caught in another Bolduc photograph, of a Paradox alongside
-a North Carolina dinghy dock — "Note the size of Paradox versus the dinghies.
-Yikes!"
-
-## The 2003 Everglades Challenge: an eyewitness account
-
-Matt's **2003 WaterTribe Everglades Challenge** run produced the
-fullest firsthand account on record of Matt sailing his Paradox in direct company with
-another — the first time two Paradoxes had ever sailed together.
-[Glen C. Maxwell](/people/glen-maxwell.md), who traveled to the starting point
-at **Ft. Desoto, FL** and sailed his own Paradox alongside Matt's on the
-Thursday and Friday before the race, found Matt's **windward sailing ability
-"far superior"** to his own — despite having sailed his own Paradox, "Zoë,"
-for well over a year by that point. The direct comparison led Matt to suggest
-sail alterations and recommend **Dabbler Sails** as a lug-sail specialist.
-Also on record from that encounter: Matt's solo haul-out method (two rollers
-plus a four-part and six-part block-and-tackle combination, done entirely
-without assistance since its availability during the race itself was
-uncertain) and his stated race tactic of **sleeping while underway** rather
-than stopping. See
+Matt's 2003 WaterTribe Everglades Challenge run produced the fullest
+firsthand account on record of Matt sailing his Paradox in company with
+another sailor — the first time two Paradoxes had ever sailed together.
+[Glen C. Maxwell](/people/glen-maxwell.md) traveled to the starting point at
+**Ft. Desoto, FL** and sailed his own Paradox alongside Matt's on the
+Thursday and Friday before the race. Watching Matt at close range, in Glen's
+own words, Matt's **windward sailing ability proved "far superior"** to his
+own — despite Glen having sailed his own Paradox, "Zoë," for well over a
+year by that point — and on the return beat Matt delivered "a butt kicking on
+me to windward that I won't soon forget."[17][32] The direct comparison led
+Matt to suggest sail alterations and recommend **Dabbler Sails** as a
+lug-sail specialist. Also on record from that encounter: Matt's solo
+haul-out method — two rollers plus a four-part and six-part
+block-and-tackle combination, done entirely without assistance, since its
+availability during the race itself was uncertain[22] — and his stated race
+tactic of **sleeping while underway** rather than stopping.[17] See
 [Glen C. Maxwell's Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md)
 for the consolidated account of these encounters, and
-[boats/original-paradox.md](/boats/original-paradox.md)
-for the full account.
+[boats/original-paradox.md](/boats/original-paradox.md) for the full race
+record.
 
-Once racing, Matt bore out the sleep-while-underway tactic: after Checkpoint 2
-he was running about **10 hours behind the paddling kayakers** but had managed
-"a good night's sleep while sailing offshore." He then became the **first
-competitor to reach Checkpoint 3**, a result called possibly "a new
-paradigm... for the Watertribe and adventure racing." See
-[boats/original-paradox.md](/boats/original-paradox.md)
-for the full checkpoint-by-checkpoint record and the roller-rig description.
+## The race
+
+Once racing, Matt bore out the sleep-while-underway tactic: after Checkpoint
+2 he was running about **10 hours behind the paddling kayakers** but had
+managed "a good night's sleep while sailing offshore."[18] He then became the
+**first competitor to reach Checkpoint 3**, a result one builder called
+possibly "a new paradigm... for the Watertribe and adventure racing."[19][20]
+Matt reached Checkpoint 4 (Flamingo, 273 miles) with a spectacular final push
+— "surfing at 6 knots with dolphins on the bow" — then **finished at Key
+Largo (304 miles) at 17:51 the same day**, with nobody else having yet
+reached even the second-to-last checkpoint.[23] Along the way, Matt
+**stopped mid-race to rescue an overturned kayaker and tow him to
+shore**.[24] He phoned home from Key Largo "tired but in good spirits."[25]
 
 ## The win
 
-Matt reached Checkpoint 4 (Flamingo, 273 miles) with a spectacular final push —
-"surfing at 6 knots with dolphins on the bow" — then **finished at Key Largo
-(304 miles) at 17:51 the same day**, with nobody else having yet reached even
-the second-to-last checkpoint. Matt Layden and the original Paradox took **first
-overall** in the ~300-mile 2003 Everglades Challenge, sailing and yuloh-powered
-only, against a field of paddled kayaks and canoes and at least one light
-trimaran (a Seapearl). Along the way, Matt **stopped mid-race to rescue an
-overturned kayaker and tow him to shore**. He phoned home from Key Largo "tired
-but in good spirits."
-
-The result drew a short analysis of why a heavy displacement monohull had so
+Matt Layden and the original Paradox took **first overall** in the ~300-mile
+2003 Everglades Challenge, sailing and yuloh-powered only, against a field of
+paddled kayaks and canoes and at least one light trimaran (a Seapearl). The
+result drew a short analysis of why a heavy displacement monohull had so
 decisively out-sailed lighter, paddled competition: wave action badly slows a
 light Seapearl to windward, while "the heavy paradox powers through the slop
-with inertia," with a more comfortable motion besides. Matt's own skill as
-sailor, strategist, and navigator was credited as much as the boat, in a verdict
-that became the race's most-quoted summary: **"Perhaps he may have created a
-class of his own! The microcruiser class. Or gotten himself banned
-altogether!"** The win also revived a standing wish among builders for a larger
-Paradox, "similar in length to Little Cruiser." See
-[boats/original-paradox.md](/boats/original-paradox.md)
-for the full finish record, official results table, and aftermath discussion.
+with inertia," with a more comfortable motion besides.[26] Matt's own skill
+as sailor, strategist, and navigator was credited as much as the boat, in a
+verdict that became the race's most-quoted summary: **"Perhaps he may have
+created a class of his own! The microcruiser class. Or gotten himself banned
+altogether!"**[27] The win also revived a standing wish among builders for a
+larger Paradox, "similar in length to Little Cruiser." See
+[boats/original-paradox.md](/boats/original-paradox.md) for the full finish
+record, official results table, and aftermath discussion.
 
-No first-person written account by Matt of his 2003 Everglades Challenge run
-has surfaced on the mailing list itself; a builder's direct request in
-February 2005 for such an account, or for where to find one, went
-unanswered on record — the archive's own eyewitness accounts (above) and
+No first-person written account by Matt of his own 2003 Everglades Challenge
+run has ever surfaced on the mailing list. A builder asked directly, in
+February 2005, whether one existed or where to find it; the request went
+unanswered on record.[53] The archive's own eyewitness accounts above, and
 the contemporaneous results/checkpoint reporting in
-[boats/original-paradox.md](/boats/original-paradox.md) remain the fullest
-record of the race.
+[boats/original-paradox.md](/boats/original-paradox.md), remain the fullest
+record of the race that exists anywhere — this is a real and permanent gap in
+Matt's own voice, not a place this bio can fill in (see
+[What the record doesn't tell us](#what-the-record-doesnt-tell-us), below).
 
-## Other craft and events
+## After the win: a visit, and a new oar
 
-Matt's racing record extends beyond the Everglades Challenge and beyond
-Paradox itself: he is on record placing **second in a Water Tribe race on
-Lake Michigan sailing a 10 ft inflatable**, a result a *WaterTribe Magazine*
-feature called "truly amazing." See [rig and sail](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)
-for the mainsheet-photograph search that turned the result up. The magazine
-article itself — Matt's own account of that West Marine Stearns inflatable
-kayak race, run during the **August 2003 Michigan Challenge**, not the
-Everglades Challenge — was later located directly at
-`watertribe.org/Magazine/2003_8August/Matt.asp`, illustrating the wider point
-that arguments over which boat is "best" mean little without accounting for
-the skill and experience of the person sailing it. Matt returned to the
-**Everglades Challenge in March 2004**, this time entering a **sailing
-kayak** rather than Paradox — prompting speculation about how Paradox would
-have fared under that year's different conditions, and the judgment that Matt
-would be hard to beat "no matter what boat he chooses."
+Visiting Matt the following spring, [Dave Bolduc](/people/bolduc/dave.md) got
+to **scull the original Paradox** under Matt's direct coaching, which
+emphasized putting the whole body into the stroke.[29] By then Paradox
+carried a **new sculling oar**: straighter, with a wider and longer blade
+than her previous one, more powerful but demanding much more wrist action —
+enough that **Matt said his own wrist had hurt during the first few days of
+the Everglades Challenge** using it.[29] The tips of both the new oar and the
+rudder were reinforced with **bronze rod**.[30] See
+[boats/original-paradox.md](/boats/original-paradox.md) for Matt's own **~2
+knot average** sculling the race's calm section,[28] and
+[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)
+for how this fits the wider record of yuloh performance.
 
-## The 14 ft Rob Roy-based canoe, and the 2005 Everglades Challenge
+## Racing beyond Paradox
+
+Matt's racing record extends well beyond the Everglades Challenge and beyond
+Paradox itself. He placed **second in a Water Tribe race on Lake Michigan
+sailing a 10 ft inflatable**, a result a *WaterTribe Magazine* feature called
+"truly amazing" — his own account of that West Marine Stearns inflatable
+kayak race, run during the **August 2003 Michigan Challenge** rather than the
+Everglades Challenge, was later located directly at
+`watertribe.org/Magazine/2003_8August/Matt.asp`.[49][50] See
+[rig and sail](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)
+for the mainsheet-photograph search that turned the result up. Matt returned
+to the **Everglades Challenge in March 2004**, this time entering a
+**sailing kayak** rather than Paradox — prompting speculation about how
+Paradox would have fared under that year's different conditions, and the
+judgment that Matt would be hard to beat "no matter what boat he chooses."[47][48]
 
 By March 2005 Matt was racing a second, smaller cartoppable craft in the
-WaterTribe Everglades Challenge: a **14 ft canoe based on the Rob Roy type**,
-carrying only a **28 in beam**. No plans for this canoe are known to exist;
+Everglades Challenge: a **14 ft canoe based on the Rob Roy type**, carrying
+only a **28 in beam**. No plans for this canoe are known to exist;
 [Dave Bolduc](/people/bolduc/dave.md), relaying what Matt had told him
 directly, reported that despite her narrow beam Matt could **sleep and cook
 aboard** her — "amazing" for so slender a hull. Matt originally steered the
 canoe purely by **shifting his own body weight**, but had since fitted a
-**trim tab** to improve directional control. Partway through the 2005 race,
-Matt had already passed Checkpoint 3 (mile 273) in **3 days, 16 hours, 12
+**trim tab** for directional control.[55] Partway through the 2005 race, Matt
+had already passed Checkpoint 3 (mile 273) in **3 days, 16 hours, 12
 minutes**, needing only 30 more miles to finish — an average speed of **3.1
-knots** including rest stops, calculated from the checkpoint splits. This 14
-ft canoe is distinct from the
-**13½ ft "Rob Royoid" canoe** Matt was later photographed sailing at the
-Cedar Key messabout (see
-[The Cedar Key scene](#the-cedar-key-scene-the-rob-royoid-canoe-and-design-talk-among-peers)
-below); whether the two are the same boat, refined between 2005 and the 2009
-profile, or two separate small craft, is not resolved in the archive.
+knots** including rest stops, calculated from the checkpoint splits.[55] This
+14 ft canoe is distinct from the **13½ ft "Rob Royoid" canoe** Matt was later
+photographed sailing at the Cedar Key messabout (see
+[The man himself](#the-man-himself), below); whether the two are the same
+boat, refined between 2005 and a 2009 magazine profile, or two separate small
+craft, is not resolved in the archive.
 
 Matt's fondness for the **Rob Roy** canoe type runs deeper than a passing
 resemblance: he is on record as loving the Rob Roy design (by **Ian
 Oughtred**) outright, and it was the direct inspiration for the canoes he
 used in his last two Everglades Challenge entries.[56]
 
-## After the win: a visit, and a new oar
+# The chine runner
 
-Visiting Matt the following spring, [Dave Bolduc](/people/bolduc/dave.md) got to
-**scull the original Paradox** under Matt's direct coaching (emphasizing putting
-the whole body into the stroke). By then Paradox carried a **new sculling oar**:
-straighter, with a wider and longer blade than her previous one, more powerful
-but demanding much more wrist action — enough that **Matt said his own wrist had
-hurt during the first few days of the Everglades Challenge** using it. The tips
-of both the new oar and the rudder were reinforced with **bronze rod**. See
-[boats/original-paradox.md](/boats/original-paradox.md)
-for the full account, including Matt's own **~2 knot average** sculling the
-race's calm section, and
-[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md) for
-how this fits the wider record of yuloh performance.
+Matt's single most consequential invention is the **chine runner** — the
+tapered external fin, run along a hull's chine line, that lets a flat-
+bottomed, shallow-draft boat sail to windward without a centerboard or keel.
+It debuted on Swamp Thing in 1985, replacing Terrapin's fouling leeboards,
+and appears on GJAC, Paradox, and (refined) Enigma and Elusion; Little
+Cruiser remains the one exception, with its bow centerboard instead.
 
-## A professional boatbuilder builds a sistership
+In his own words, from the fullest first-person technical account he has
+given (the 2007 *Small Craft Advisor* "Enigma" interview), the chine runner
+is "the most noticed part of the system I've been working on to get leeway
+resistance and control in sailboats, without need for a centerboard or
+keel" — but he is careful to correct what he calls "internet mythology" that
+the runners alone replace a centerboard: "That's not the case, they're
+really a fairly minor part of an integrated system." In his own account the
+lifting-body hull carries half or less of the total leeway load, with a large
+rudder taking the rest. He traces the concept to two unrelated inputs: the
+hull's "lifting body" shape, drawn from 1970s aviation-magazine articles on
+experimental NASA aircraft, and the runner itself, sparked by "some seemingly
+random comments" from designer Phil Bolger about external chine battens on a
+couple of his sharpies. Sven Yrvind dates the underlying concept to 1982,
+three years before Swamp Thing was built — a discrepancy the bundle treats as
+conception-versus-first-build rather than a contradiction, though Matt has
+never reconciled the two dates himself in any surviving quote. Matt validates
+his designs the same way throughout: "rough sailing and towing model
+experiments show a noticeable improvement in pointing and handling with the
+runners added." He remains modest about the runner's reach even as others
+champion it — "Sven is kind, but I'm not sure chine runners will go far,"
+and its niche, in his own description, is "moderate to heavy cruisers that
+haul a lot of weight," not "the usual light beamy racer/cruiser or
+trailersailer."
 
-A career **boatbuilder of twenty years** — later a builder in his own right (see
-[people/dc.md](/people/dc.md)) — read through the entire archive and singled out
-the **action photos**, especially two black-and-white sailing shots of Little
-Cruiser and "the heavy weather shots of Paradox," as decisive in his choice to
-build his own **Paradox sistership** over building any of Matt's other designs.
-He judged that Paradox, unlike most designs that "start with a designer's whim
-or a customer's fancy," had been **drawn only after an evolution of a single
-type**, refined through the prototype's own extensive real-world use — a
-career boatbuilder's independent read of exactly the design lineage (Terrapin
-through Elusion) documented above. Committed to building strictly **as drawn**,
-he framed fidelity to the plans as "a simple matter of respect" for the design's
-own evolution, having "long ago learned the hard lesson of inserting my own
-ingenuity within the careful work of the designer."
+Sven Yrvind — after sailing Paradox himself for a month in 1997, and a decade
+of further study — calls the chine runner "the greatest innovation for small
+cruising boats in the last century," and attributes its obscurity to Matt's
+own temperament: he "does not try to make his voice heard above the din from
+the egos in our conservative, self-centered society to promote his idea."
 
-This prompted [Glen C. Maxwell](/people/glen-maxwell.md) to give the fullest
-account of the **Ft. Desoto sail exchange**: sailing behind Matt just before the
-2003 race, Glen had been surprised at **how full Matt's own sail was cut** — and
-Matt's reply was that it could still use "a little more draft" even so, alongside
-a beating that put "a butt kicking on me to windward that I won't soon forget."
-Most importantly, **Matt makes his own sails and then fiddles with them by
-cutting and re-cutting until he gets what he wants** — advice he passed to Glen
-directly. See
-[rig and sail](/design/rig.md)
-for the full technical exchange, including the yard-bowing fix Matt identified on
-Glen's own rig. By this point there were **five Paradoxes afloat**.
+This bio does not duplicate the mechanism and evidence in detail — see
+[How chine runners work](/chine-runners/how-they-work.md) for the
+full technical treatment (the competing "deflector vs. foil" explanations,
+and why heavy displacement and heel are essential),
+[Chine runners — origin and evolution](/chine-runners/origin-and-evolution.md)
+for the fuller Terrapin-to-Enigma history, and
+[Chine runners and windward performance](/chine-runners/windward-performance.md)
+for the evidence, including Matt's own rigorous self-testing (below).
 
-## Matt's foot-pressure furling technique
+## Rigorous self-testing
 
-At the 2003 Cedar Key Messabout, **[Glen C. Maxwell](/people/glen-maxwell.md)
-met Matt Layden in person** — a second recorded face-to-face meeting after their
-joint sailing at Ft. Desoto (see the consolidated
-[Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md)
-for both encounters together) — and drew out a concrete new detail of Matt's own
-sailing technique: **how he furls and hoists his sail without a topping lift**, a
-question builders had wondered about at a distance since 2001 (see
-[furling system](/design/furling-system.md)).
-Matt's method is simply to put **pressure on the furling line with his foot**
-while hoisting, and **pressure on the halyard with his foot** while furling —
-freeing both hands for whichever line is actually being worked. Glen, who has
-watched Matt do this in person more than once, said "he really makes it look
-easy." See
-[furling system](/design/furling-system.md)
-for the fuller cross-reference.
+In October 2001 Matt personally ran and wrote up a **quantified sea trial**
+comparing a modified port chine runner against the as-built configuration —
+laying out a mile-plus triangular course on the Indian River, timing three
+circuits, and reporting VMG/VMGW figures with an honest discussion of his own
+margin of error.[5] This episode, alongside his chine-extension and rudder
+trials, shows Matt continuing to empirically test and refine the design well
+after Paradox was an established, sailing boat — the same instinct that led
+him to **tank-test scale models** as part of his ordinary design process. See
+[Chine runners and windward performance](/chine-runners/windward-performance.md)
+for the full data.
 
-## Matt Layden's own voice: the February 2003 sail
+# The Watertribe years: Enigma, Sand Flea, and Elusion
 
-Four days after the Cedar Key Messabout, **Matt Layden posted to the
-`paradoxbuilders` list himself** — the only message from his own hand recorded
-anywhere in the archive. Posting under his own Yahoo profile `mattlayden` (from a
-`karen.matt@...` address, presumably shared with his wife Karen; see
-[Room for two](#room-for-two-cruising-the-bahamas-with-karen)), he opened simply:
-**"I've been lurking on the outskirts of the group for a month or 2 and after
-talking with Glen, Larry and Dave at Cedar Key last weekend I thought I'd put in
-an appearance."** This confirms, in his own words, that he does read the list —
-quietly — even though he had never posted before; it took three separate
-in-person conversations at the same Cedar Key gathering (see
-[Matt's foot-pressure furling technique](#matts-foot-pressure-furling-technique))
-to draw him onto the list.
+After roughly a decade of marriage and employment — microcruising.com's own
+account has him, after Paradox, having "got married, found employment, and
+worked on a few smaller boats"[7] — Matt returned to designing with a late
+burst of lighter, cartoppable racing boats, each one field-tested the same
+way as ever: by entering it in a Watertribe race.
 
-His subject was a **new sail he had cut for the original Paradox in February
-2003**, about a month before the Everglades Challenge, keeping the old one as a
-spare. It was a deliberate experiment: he **shortened the foot** (reducing the
-boom's overhang) and **raised the peak** (increasing aspect ratio), trading away
-some of the reefing/furling neatness that had been "more of a priority in the
-original design" — a triangle of sail at the peak no longer rolls up and must be
-manually scrunched under the boom when stowing — for **a slightly better-setting,
-more weatherly sail**, both full and reefed. He framed it as a refinement, not a
-rejection: "I still stand by the [old] sail as in the plans, it works fine and if
-you have one that is well cut there is no need to change it, but I would go with
-the new version again if making another." The new sail is the direct outcome of
-Matt "fiddling with" his own sails "by cutting and re-cutting until he gets what
-he wants" — the very practice Glen described from Ft. Desoto, where Matt had
-judged his then-current sail too flat and wanting "a little more draft" (see
-[A professional boatbuilder builds a sistership](#a-professional-boatbuilder-builds-a-sistership)).
+**[Enigma](enigma.md)** ("Enigma 360," 2005, 11'10" × 43", 588 lb) was his
+sixth micro-cruiser: lighter, stitch-and-glue, a hybrid of Little Cruiser's
+hull proportions with Paradox's rig and furling and shorter, more triangular
+chine runners, with a V bottom at the bow and a fold-down soft cabin light
+enough to cartop. She won her class (3rd overall) in the 1,200-mile 2006
+Watertribe Ultimate Florida Challenge — the race in which Matt broke his own
+2003 Everglades Challenge solo record — and was sold to the Bolducs in 2008,
+who completed three more Watertribe races in her. A larger,
+plywood-hardtop-cabin **Enigma 460** followed in 2007, designed for and built
+by George Van Sickle.
 
-Matt's post gives a full sailmaking recipe — dimensions, broadseam schedule,
-luff-tape tensioning, and tabling technique — by far the most detailed
-sailmaking document on record from the designer himself. See
-[boats/original-paradox.md](/boats/original-paradox.md)
-for the boat-level record and
-[construction/sailmaking.md](/construction/sailmaking.md)
-for the full recipe.
+**[Sand Flea](sand-flea.md)**, an 8 ft cruising dinghy built after Enigma,
+raced competitively in two 300-mile Everglades Challenges (2007, 2008) and
+the 2012 Ultra Marathon, "finishing near the top as usual" — no other design
+particulars survive in the record.
 
-The post drew warm welcomes from the list, including a joke that Matt's long
-silence had made some wonder if he'd "turned into a sort of boating version of
-Howard Hughs, shying from the public gaze," and a request for detailed photos
-of Paradox — from builders such as [Alastair](/people/alastair.md), builder of
-"[little Jim](/boats/little-jim.md)," then the most recently launched Paradox.
-[Dave Bolduc](/people/bolduc/dave.md) added the only recorded eyewitness
-verdict, from someone other than Matt, on how the February sail actually
-performs: having sailed the original Paradox himself (see
-[After the win: a visit, and a new oar](#after-the-win-a-visit-and-a-new-oar)),
-he confirmed **"this new sail sets very nicely."** The post was added to
-the group's files section for future builders approaching the point of making
-their own sail.
+**[Elusion](elusion.md)** (2010, 9 ft × 38", ~120 lb empty), his newest and
+lightest design, uses a construction similar to Enigma's but is smaller and
+easier to cartop, and unusually steers by **stand-up paddle** rather than a
+sculling oar or yuloh. She won her class in the 2010 Watertribe Ultimate
+Florida Challenge.
 
-## "Motors are fine as long as..." — Matt's engine philosophy
+Across this whole second period Matt kept field-testing by racing — entering
+Watertribe events "year after year" to test new boats and himself — taking
+class wins in Enigma (2006), an expedition kayak (2005, 2009), the 8' pram
+Sand Flea (2007, 2012), and Elusion (2010).[11][12] He also remained,
+throughout, "a very private person" outside the online forums; Sven Yrvind
+flew to Florida in 2011 to consult him in person on a new project.[12]
 
-Matt Layden's stated view on engines is that **motors are fine so long as a
-sailor understands they are a luxury** — not something to be relied on to get out
-of trouble. The point directly shaped a decision aboard "[Whisper](/boats/whisper.md)":
-deliberately leaving the outboard at home for an overnighter and sculling
-instead with a makeshift kayak-paddle yuloh, after realizing the outboard had
-been used to compensate for inexperience under sail. See
-[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)
-for the fuller thread, including [Dave Bolduc](/people/bolduc/dave.md)'s more
-qualified, engine-friendly counterpoint (motors as another useful "tool," at the
-cost of trim, fuel weight, and maintenance).
+Two more Layden concepts from this stretch of his career are named in the
+record but otherwise undocumented. **"Big Cruiser"** surfaces twice, in
+February and December 2003, as unspecified stretched/enlarged-Paradox
+cartoons and sketches in the old `microcruising` Yahoo group's files
+section — Matt's own working name for an enlarged-Paradox concept that never
+reached final plans, and no drawing, dimension, or description of it survives
+anywhere else (see
+[aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar)
+and [stretched Paradox](/design/variants/stretched-paradox.md) for the
+broader enlargement discussion it connects to).[41] **"Mini Paradox"**, by
+contrast, is real, built, and sailed: a narrower, higher-aspect-sail
+experimental variant, with its chine runners repositioned, that Matt built
+and sailed himself, with Karen aboard (above) — consistent with his standing
+practice of never releasing plans for a boat he has not personally built and
+sailed enough to confirm it meets his intentions. Its construction is
+documented only on his brother's website. Full page:
+[Mini Paradox](/matt-layden/mini-paradox.md). A **"Lugger #2"** is also
+mentioned once, in a Yrvind-book translation, understood to be a larger
+Swamp Thing — no image or independent confirmation of it exists.
 
-## The Cedar Key scene: the Rob Royoid canoe and design talk among peers
+# The man himself
 
-Doug Cameron's 2009 profile catches Matt in his element at the annual
-**first-weekend-of-May small-boat gathering** on **Atsena Otie**, the
-uninhabited island across the channel from Cedar Key, Florida. There Matt sails
-a **battleship-grey 13½-foot "Rob Royoid" canoe** — decked like a sea kayak,
-carrying a **one-square-metre bed-sheet lug sail** sized to WaterTribe rules
-(Matt reckoning "it could use a little more sail"), its **rudder formed by the
-lower part of the canoe stern** rather than a hung appendage. The boat gets its
-speed from **diminished wetted area** yet is roomy and stable enough to sleep
-aboard — the same minimalist logic as his cabin cruisers, in a hull light enough
-to portage.[51]
+Doug Cameron's 2009 *Small Craft Advisor* profile — the single richest
+biographical document about Matt in this whole archive, and a journalist's
+firsthand account rather than a mailing-list relay — catches him in his
+element at the annual first-weekend-of-May small-boat gathering on
+**Atsena Otie**, the uninhabited island across the channel from Cedar Key,
+Florida. There Matt sails a **battleship-grey 13½-foot "Rob Royoid" canoe** —
+decked like a sea kayak, carrying a **one-square-metre bed-sheet lug sail**
+sized to WaterTribe rules (Matt reckoning "it could use a little more
+sail"), her **rudder formed by the lower part of the canoe stern** rather
+than a hung appendage. The boat gets its speed from diminished wetted area
+yet is roomy and stable enough to sleep aboard — the same minimalist logic as
+his cabin cruisers, in a hull light enough to portage.[51]
 
-The profile also records Matt deep in design conversation with **Jim Brown**
-(designer of the WindRider trimarans), each trying the other's craft and trading
-ideas — a short canoe paddle as both propulsion and boom, ways to use **leg
-power** to drive a small boat, an improved **yuloh that tacks rather than
-stalls** at the end of each stroke, the Kruger Sea Wind canoe and Verlen Kruger,
-Pacific-island designs, the Southeast Asian yuloh, and clipper-ship rudders with
-their multiple steering stations. Cameron's read of both men: their deep
-familiarity with traditional design leaves them **"informed by that knowledge
-rather than limited by it."**[51]
+Cameron also records Matt deep in design conversation with **Jim Brown**
+(designer of the WindRider trimarans), each trying the other's craft and
+trading ideas — a short canoe paddle as both propulsion and boom, ways to use
+leg power to drive a small boat, an improved yuloh that tacks rather than
+stalls at the end of each stroke, the Kruger Sea Wind canoe and Verlen Kruger,
+Pacific-island designs, the Southeast Asian yuloh, and clipper-ship rudders
+with their multiple steering stations. Cameron's read of both men: their deep
+familiarity with traditional design leaves them "informed by that knowledge
+rather than limited by it."[51] Matt's minimalist rigor extends even to how
+he ballasts a race boat: in the Ultimate Florida Challenge he used sandbags
+and food for ballast, replacing the food he ate with water to keep the boat
+trimmed, planning to dump the sand and finish the food before the race's
+portage — he dumped the sand as planned but still had 40–50 lb of food left,
+which, Cameron notes wryly, "may account for his tire failure" on the
+portage.[51]
 
-Matt's minimalist rigour extends into how he **ballasts a race boat**. In the
-WaterTribe Ultimate Florida Challenge he used **sandbags and food for ballast**,
-replacing the food he ate with water to keep the boat trimmed ideally, planning
-to dump the sand and finish off the food before the race's portage. He dumped
-the sand as planned but still had **40–50 lb of food left** — which, Cameron
-notes wryly, "may account for his tire failure" on the portage.[51]
+Those who know him describe a man who is hard to pin down. Dave Bolduc, who
+met Matt in 1992, remembers being struck by how far outside convention he
+lived: "he seemed really out there... cruising full-time in these little
+dinky home-built boats, and he was having a blast doing it" — and later
+called him "a modern-day Thoreau," someone who "quit his job, built a small
+boat, and went sailing off into the sunset to find Paradise" (Bolduc's own
+framing of Matt's ethos, not Matt's words about himself). Cameron's verdict
+is blunter: "At worst, Matt Layden is an eccentric; at best he is a genius.
+He is unconstrained by conventional wisdom" — and, playing on the name of his
+newest design at the time, "Matt, like the name of his most recent design, is
+an enigma." Matt's own stated design philosophy comes closest to explaining
+the paradox: a **"mental allergy to moving parts and complication"** — he has
+said a centerboard or other retractable fin would do the leeway-resistance
+job *better* than his chine runners, but uses runners anyway because they are
+simpler, protect rather than weaken the hull, and cost no interior volume
+(his view, relayed secondhand by Glen Maxwell in 2005). And his oldest
+enthusiasm predates all of it: Matt has subscribed to *Cruising World* since
+he was thirteen — the very magazine Sven Yrvind was then writing for — and
+had followed Yrvind's work for years before the two men ever met.[52]
+
+## Distinguishing Matt's own words from what others say about him
+
+Only **one message in the entire mailing-list archive is in Matt's own
+hand**: his May 2003 post to `paradoxbuilders`, "New Paradox Sail," announcing
+a new sail he had cut for Paradox that February.[34] It opens, in his own
+words: "I've been lurking on the outskirts of the group for a month or 2 and
+after talking with Glen, Larry and Dave at Cedar Key last weekend I thought
+I'd put in an appearance." On the new sail itself: "I still stand by the
+[old] sail as in the plans, it works fine and if you have one that is well
+cut there is no need to change it, but I would go with the new version again
+if making another." That post is covered in full below (see
+[Matt Layden's own voice: the February 2003 sail](#matt-laydens-own-voice-the-february-2003-sail)).
+
+Beyond that one post, everything attributed to Matt in this record falls into
+one of two other categories, and this bio tries to keep them visibly
+distinct:
+
+- **Paraphrases of Matt's own statements, relayed by people who spoke with
+  him directly** — chiefly the Bolducs, Glen Maxwell, and Sven Yrvind. These
+  are attributed to Matt because the relayer says the words or views are
+  his, but they are not verbatim, and in the case of the 2019 Cedar Key
+  dinner talk (his fullest oral account of his own design lineage) they
+  reach the record only through the Bolducs' blog, not a transcript.
+- **Journalist narration about Matt**, from Doug Cameron's 2009 profile — a
+  strong, firsthand (Cameron spent real time with Matt in person) but still
+  third-party account. Most of Cameron's piece is narration rather than
+  direct quotation; the phrases rendered in quotation marks above and
+  throughout this bio are the parts the original source itself quotes
+  directly, and the rest — "boat was his first word," the 16-foot Zip, the
+  "mental allergy" framing where not otherwise attributed — should be read
+  as Cameron's or others' characterization of Matt's views and history, not
+  his own exact words.
+
+Matt's fullest first-person *technical* statement, as distinct from
+biographical material, is the 2007 *Small Craft Advisor* "Enigma" interview
+quoted throughout [The chine runner](#the-chine-runner), above.
+
+# The "Mattsplatt" identity
+
+The successor groups.io [`paradoxsailboat`](/references/mailing-list.md)
+group was created in November 2019 by a list owner posting under the screen
+name **"Mattsplatt"** (signing "Matt," from Fortitude Valley, Queensland,
+Australia) to replace the older Yahoo groups. "Mattsplatt" is **plausibly,
+but not confirmed, to be designer Matt Layden** — the geographic mismatch
+with everything else known about Matt's New England and Florida life is a
+live tension, not a detail to pass over quietly, and the identity remains
+pending corroborating evidence. It should not be treated as established
+fact.[1]
+
+# Legacy
+
+Matt Layden's most lasting contribution is a piece of hydrodynamic
+engineering that a career-long peer considers the most important small-boat
+innovation of the twentieth century (see
+[The chine runner](#the-chine-runner)), embodied in a decade of increasingly
+refined designs and a second creative burst of Watertribe racers, still
+sailed and still discussed on the mailing lists and wiki his boats inspired.
+A career **boatbuilder of twenty years**, who read through the whole archive
+before choosing what to build, singled out action photographs of Little
+Cruiser and Paradox as the decisive reason he chose to build a Paradox
+sistership over any of Matt's other designs — judging that Paradox, unlike
+most designs that "start with a designer's whim or a customer's fancy," had
+been "drawn only after an evolution of a single type," refined through the
+prototype's own extensive real-world use.[31] That independent read, arrived
+at from photographs alone, matches exactly the design lineage Matt gave in
+his own words at Cedar Key in 2019 — Terrapin through Elusion, one boat
+answering the last.
+
+# What the record doesn't tell us
+
+This bio is built almost entirely from other people's accounts of Matt
+Layden, and it is worth being explicit about where that leaves gaps rather
+than letting them read as oversights:
+
+- **No first-person account of the 2003 Everglades Challenge win exists.**
+  The single most dramatic episode in Matt's public life, by this record, is
+  known only through others' race-tracking posts and Glen Maxwell's
+  pre-race sailing account. A direct 2005 request for Matt's own account of
+  the race went unanswered on record.[53]
+- **His professional design career is almost entirely undocumented.** Matt
+  "designs mega-yachts for a living" is stated once, in Doug Cameron's 2009
+  profile, with no employer, yacht names, years, or role ever given anywhere
+  else in the archive. This bio does not speculate beyond that single line.
+- **Nothing is recorded of Matt after 2012** (his Sand Flea's Ultra Marathon
+  entry, the last dated event in this record). There is no confirmation of
+  continued design work, health, current whereabouts, or whether he is
+  still sailing or building.
+- **The "Mattsplatt" identity remains unconfirmed** (see above) and is
+  presented here, deliberately, as an open question rather than a fact.
+- **No verified full name, birth year, or hometown exists in this record.**
+  "Matt" may be short for "Matthew"; neither this nor a birthdate is
+  confirmed anywhere in the archive.
+- **Only one message in the entire archive is in Matt's own hand** (his May
+  2003 sail post, above). Everything else — however carefully sourced and
+  attributed — is mediated through people who knew him, sailed with him, or
+  interviewed him. A reader wanting more of Matt's own voice will find this
+  archive, and therefore this bio, structurally limited by what has
+  survived; the two *Small Craft Advisor* pieces referenced throughout are
+  themselves only partially preserved in the local source archive.
+
+# Building the original Paradox
+
+Matt's on-the-water practice is documented in detail on the boat's own page:
+see [original Paradox](/boats/original-paradox.md) for the build, the launch
+down the ravine, and his sailing and ballast routines referenced above.
+
+## Room for two: cruising the Bahamas with Karen
+
+See [Karen, the Balboa 20, and settling down](#karen-the-balboa-20-and-settling-down),
+above, for Karen's place in Matt's cruising life and the firsthand record of
+Paradox's two-up capacity. See also
+[crew size and cabin fit](/operations/crew-size-and-fit.md) for this data
+point's place in the broader two-up-cruising record.
+
+## The 14 ft Rob Roy-based canoe, and the 2005 Everglades Challenge
+
+See [Racing beyond Paradox](#racing-beyond-paradox), above, for the 2005 Rob
+Roy-type canoe and Checkpoint 3 splits.
+
+## Other craft and events
+
+See [Racing beyond Paradox](#racing-beyond-paradox), above, for the Lake
+Michigan inflatable-kayak result and the 2004 Everglades Challenge sailing
+kayak entry.
+
+## The 2003 Everglades Challenge: an eyewitness account
+
+See [Paradox and the 2003 Everglades Challenge](#paradox-and-the-2003-everglades-challenge),
+above, for the full account.
 
 # Asides and footnotes
-
-A February 2003 mention names a Layden design called **"Big Cruiser,"**
-pointed to only as unspecified "sketches" in the `microcruising` Yahoo
-group's files section. The name resurfaced once, at the end of December
-2003, when the sketches' precise location was given as the files section's
-**"Big Cruiser" folder** (`files/Big%20Cruiser/`), alongside a pointer to
-Matt's own unfinished cartoons for **stretched and enlarged Paradox versions
-that never reached final plans** (see [aluminum and steel Paradox (speculative) — a
-welded-aluminum hull with an inflatable
-collar](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar)
-and [stretched Paradox](/design/variants/stretched-paradox.md) for the
-broader enlargement discussion this connects to). No description,
-dimensions, or drawing itself is recorded anywhere else; "Big Cruiser" is
-confirmed as Matt's own working name for an enlarged-Paradox concept, but
-remains tracked here as a named, located, but still undocumented design
-rather than a fourth entry in the confirmed design lineage above.[41]
 
 A secondhand account places Matt around 1998-99 through
 [Kjell Karlsson](/people/kjell-karlsson.md), who learned of Matt and Paradox
@@ -474,12 +611,12 @@ See
 for the fuller build history this anecdote introduces.[42]
 
 By Yrvind's own account the two had a longer thread between them: Matt had
-**subscribed to *Cruising World* since he was thirteen** — the magazine Yrvind
-was then writing for — and had followed his work for years before they met, so
-that when Yrvind was mailed drawings of Paradox and phoned in 1997, Matt invited
-him to Florida and hosted him at his **Jensen Beach home**, where Yrvind sailed
-Paradox for a month. See [Sven Yrvind — Paradox and the chine
-runner](/people/yrvind/paradox-and-the-chine-runner.md#from-skeptic-to-firsthand-tester-1997).[52]
+**subscribed to *Cruising World* since he was thirteen** — the magazine
+Yrvind was then writing for — and had followed his work for years before they
+met, so that when Yrvind was mailed drawings of Paradox and phoned in 1997,
+Matt invited him to Florida and hosted him at his **Jensen Beach home**,
+where Yrvind sailed Paradox for a month. See [Sven Yrvind — Paradox and the
+chine runner](/people/yrvind/paradox-and-the-chine-runner.md#from-skeptic-to-firsthand-tester-1997).[52]
 
 Kjell Karlsson's translated chapter of Yrvind's book (see [the "BRIS
 Paradox" — Sven Yrvind's book, translated: the Matt Layden/Paradox
@@ -501,16 +638,90 @@ translated: the Matt Layden/Paradox
 chapter](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter)
 for the book's full publication details.[45]
 
-# Rigorous self-testing
+## Matt Layden's foot-pressure furling technique
 
-In October 2001 Matt personally ran and wrote up a **quantified sea trial**
-comparing a modified port chine runner against the as-built configuration —
-laying out a mile-plus triangular course on the Indian River, timing three
-circuits, and reporting VMG/VMGW figures with an honest discussion of his margin
-of error. This episode, alongside his chine-extension and rudder trials, shows
-Matt continuing to empirically test and refine the design well after Paradox was
-an established, sailing boat. See
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+At the 2003 Cedar Key Messabout, **[Glen C. Maxwell](/people/glen-maxwell.md)
+met Matt Layden in person** — a second recorded face-to-face meeting after
+their joint sailing at Ft. Desoto (see the consolidated
+[Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md)
+for both encounters together) — and drew out a concrete detail of Matt's own
+sailing technique: **how he furls and hoists his sail without a topping
+lift**, a question builders had wondered about at a distance since 2001 (see
+[furling system](/design/furling-system.md)). Matt's method is simply to put
+**pressure on the furling line with his foot** while hoisting, and
+**pressure on the halyard with his foot** while furling — freeing both hands
+for whichever line is actually being worked. Glen, who has watched Matt do
+this in person more than once, said "he really makes it look easy." See
+[furling system](/design/furling-system.md) for the fuller cross-reference.[33]
+
+## Matt Layden's own voice: the February 2003 sail
+
+Four days after the Cedar Key Messabout, **Matt Layden posted to the
+`paradoxbuilders` list himself** — the only message from his own hand
+recorded anywhere in the archive (see
+[Distinguishing Matt's own words from what others say about him](#distinguishing-matts-own-words-from-what-others-say-about-him),
+above). Posting under his own Yahoo profile `mattlayden` (from a
+`karen.matt@...` address, presumably shared with his wife Karen; see
+[Karen, the Balboa 20, and settling down](#karen-the-balboa-20-and-settling-down)),
+he opened simply: **"I've been lurking on the outskirts of the group for a
+month or 2 and after talking with Glen, Larry and Dave at Cedar Key last
+weekend I thought I'd put in an appearance."** This confirms, in his own
+words, that he does read the list — quietly — even though he had never
+posted before; it took three separate in-person conversations at the same
+Cedar Key gathering (see
+[Matt Layden's foot-pressure furling technique](#matt-laydens-foot-pressure-furling-technique))
+to draw him onto the list.[34]
+
+His subject was a **new sail he had cut for the original Paradox in February
+2003**, about a month before the Everglades Challenge, keeping the old one as
+a spare. It was a deliberate experiment: he **shortened the foot** (reducing
+the boom's overhang) and **raised the peak** (increasing aspect ratio),
+trading away some of the reefing/furling neatness that had been "more of a
+priority in the original design" — a triangle of sail at the peak no longer
+rolls up and must be manually scrunched under the boom when stowing — for **a
+slightly better-setting, more weatherly sail**, both full and reefed. He
+framed it as a refinement, not a rejection: "I still stand by the [old] sail
+as in the plans, it works fine and if you have one that is well cut there is
+no need to change it, but I would go with the new version again if making
+another." The new sail is the direct outcome of Matt "fiddling with" his own
+sails "by cutting and re-cutting until he gets what he wants" — the very
+practice Glen described from Ft. Desoto, where Matt had judged his
+then-current sail too flat and wanting "a little more draft" (see
+[The chine runner](#the-chine-runner) and citation [32] above).[34]
+
+Matt's post gives a full sailmaking recipe — dimensions, broadseam schedule,
+luff-tape tensioning, and tabling technique — by far the most detailed
+sailmaking document on record from the designer himself. See
+[boats/original-paradox.md](/boats/original-paradox.md) for the boat-level
+record and [construction/sailmaking.md](/construction/sailmaking.md) for the
+full recipe.
+
+The post drew warm welcomes from the list, including a joke that Matt's long
+silence had made some wonder if he'd "turned into a sort of boating version
+of Howard Hughs, shying from the public gaze," and a request for detailed
+photos of Paradox — from builders such as [Alastair](/people/alastair.md),
+builder of "[little Jim](/boats/little-jim.md)," then the most recently
+launched Paradox.[35][38][39] [Dave Bolduc](/people/bolduc/dave.md) added the
+only recorded eyewitness verdict, from someone other than Matt, on how the
+February sail actually performs: having sailed the original Paradox himself
+(see [After the win: a visit, and a new oar](#after-the-win-a-visit-and-a-new-oar)),
+he confirmed **"this new sail sets very nicely."**[37] The post was added to
+the group's files section for future builders approaching the point of
+making their own sail.[36]
+
+## "Motors are fine as long as..." — Matt's engine philosophy
+
+Matt Layden's stated view on engines — relayed, not verbatim — is that
+**motors are fine so long as a sailor understands they are a luxury**, not
+something to be relied on to get out of trouble. The point directly shaped a
+decision aboard "[Whisper](/boats/whisper.md)": deliberately leaving the
+outboard at home for an overnighter and sculling instead with a makeshift
+kayak-paddle yuloh, after realizing the outboard had been used to compensate
+for inexperience under sail.[40] See
+[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)
+for the fuller thread, including [Dave Bolduc](/people/bolduc/dave.md)'s more
+qualified, engine-friendly counterpoint (motors as another useful "tool," at
+the cost of trim, fuel weight, and maintenance).
 
 # Citations
 
@@ -518,7 +729,7 @@ an established, sailing boat. See
 [2] Archive message page_005 (Glen C. Maxwell, 2001-07-07) — "I know of only two models sailing and those are Matt's and Don Elliot's."
 [3] Archive message page_048 (Dave Bolduc, `paradoxbuilders`, 2001-09-04) — Matt built the original Paradox in ~4 months full-time with no car, hauling materials by bicycle trailer to a remote woods site, and launched it down a steep ravine to the Salmon River; photos "para2"/"para4"; Matt considers ring nails structural; anchor-as-ballast stern-bucket method.
 [4] Archive message page_041 (Glen C. Maxwell, 2001-07-24) — Matt (and Mindy Bolduc) sitting below while the Paradox sailed Exuma Sound at 6 kts in 25 kts.
-[5] Archive message page_086 (Matt Layden, relayed by Dave Bolduc to `microcruising`, forwarded by Glen C. Maxwell to `paradoxbuilders`, 2001-10-21/22) — quantified chine-runner sea trial with VMG/VMGW data; see [chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+[5] Archive message page_086 (Matt Layden, relayed by Dave Bolduc to `microcruising`, forwarded by Glen C. Maxwell to `paradoxbuilders`, 2001-10-21/22) — quantified chine-runner sea trial with VMG/VMGW data; see [chine runners and windward performance](/chine-runners/windward-performance.md).
 [6] Archive message page_478 (Glen Maxwell, `paradoxbuilders`, 2002-05-01) — "Re: Battery Placement": relays secondhand information ("if what I have been told is true and I believe it is") that Matt lived aboard his Paradox for some two or three years while cruising from Nova Scotia to the lower Bahamas, offered as the likely reason every compartment in the boat has a planned use.
 [7] microcruising.com — "Matt's Boats" (http://www.microcruising.com/pictures.htm), David & Mindy Bolduc — Matt "designed, built and sailed full-time for about 10 years aboard five of his shoal draft micro-cruisers"; the full build order Terrapin → Swamp Thing → Gjac → Little Cruiser → Paradox → Enigma → Sand Flea → Elusion, with dates; wintered aboard Little Cruiser in Cape Cod; sold Little Cruiser to the Bolducs 1992; modified a 20' Balboa to cruise with future wife Karen; built Paradox 1993; later "got married, found employment, and worked on a few smaller boats."
 [8] microcruising.com — "Terrapin and GJAC" (http://www.microcruising.com/other1.htm), David & Mindy Bolduc — Terrapin's severe knockdown off Maine ("The boat went to 90 degrees and stayed there, supported only by her buoyant mast") "started him thinking about a better and more seaworthy design."
@@ -569,4 +780,4 @@ an established, sailing boat. See
 [53] Archive message page_2546 (alan.davison11 / "bty468633" / Alan Davison, `paradoxbuilders`, msgnum 2574, 2005-02-03) — "2003 Everglades Challenge": asks whether Matt Layden wrote an account of his race that year and, if so, where to find it. No reply is recorded.
 [54] Archive message page_2585 (reike2 / "sailman58" / Ron, `paradoxbuilders`, msgnum 2615, 2005-03-08) — "Matts Canoe": asks Dave Bolduc, "the official source for Paradox," whether plans exist for the canoe Matt has been using for the last two Watertribe Challenges.
 [55] Archive message page_2587 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2617, 2005-03-09) — "Re: Matts Canoe": has no plans for the canoe and has not seen it in person, not having visited Matt's house in about two years, but spoke to Matt about it two weeks earlier; relays that Matt is "very optimistic" about the car-toppable boat, can sleep and cook aboard the 14 ft Rob Roy-based design despite its 28 in beam, originally steered by shifting body weight but has since added a trim tab for control; per that year's Everglades Challenge progress reports, Matt had passed Checkpoint 3 (mile 273) in 3 days 16 hours 12 minutes, needing only 30 more miles, for a 3.1 knot average including rest stops.
-[56] Archive message page_2828 (arvent / "Nels", `paradoxbuilders`, msgnum 2859, 2005-06-15) — "Re: correction to last message": replying to a secondhand-canoe (Ian Oughtred "Wee Rob Roy," 12'6", 28 in beam, 30 lb) question from Derek Clark — full text and citation at [references/off-topic-cross-posts.md](/references/off-topic-cross-posts.md#derek-clarks-secondhand-wee-rob-roy-canoe); adds, in passing, that Matt Layden loves the Rob Roy design and that it was his inspiration for the canoes he used in his last two Everglades Challenge entries. Signed "Nels (Still drooling:-)."
+[56] Archive message page_2828 (arvent / "Nels", `paradoxbuilders`, msgnum 2859, 2005-06-15) — "Re: correction to last message": replying to a secondhand-canoe (Ian Oughtred "Wee Rob Roy," 12'6", 28 in beam, 30 lb) question from Derek Clark — full text and citation at references/off-topic-cross-posts.md (Derek Clark's secondhand Wee Rob Roy canoe); adds, in passing, that Matt Layden loves the Rob Roy design and that it was his inspiration for the canoes he used in his last two Everglades Challenge entries. Signed "Nels (Still drooling:-)."

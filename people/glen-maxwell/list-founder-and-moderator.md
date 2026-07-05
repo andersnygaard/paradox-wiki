@@ -47,8 +47,7 @@ detailed "Zoë" build-time figures live on the
 As founder, Glen made a point of welcoming new members to the group,
 supporting whatever project or non-Paradox build a newcomer wanted to share
 — including a "Golant Gaffer" build cross-posted by
-[David LeBlanc](/people/david-leblanc.md) (see
-[(h)yelp! — Golant Gaffer cross-post](/references/off-topic-cross-posts.md)).
+[David LeBlanc](/people/david-leblanc.md).
 Australian builder **Andrew Graham** of Brisbane was welcomed on posting his
 in-progress "Aussie Paradox" (see [Andrew Graham](/people/andrew-graham.md)
 and [Aussie Paradox](/boats/aussie-paradox.md)), as was prospective Tennessee

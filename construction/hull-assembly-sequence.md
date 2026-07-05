@@ -424,7 +424,7 @@ Installing the runners' filler pieces in **short, non-rolling segments**, or
 as **long laminations**, are the two alternate approaches — each with its
 own tradeoffs, and each builder's own situation should decide which is the
 "right" choice for a given boat. See [chine runner
-construction](/construction/chine-runner-construction.md) for the fuller
+construction](/chine-runners/construction.md) for the fuller
 build technique.
 
 ## Fit at trial assembly rather than pre-cutting a perfect bevel

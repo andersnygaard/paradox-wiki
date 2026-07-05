@@ -22,9 +22,8 @@ the archive (~1,365 lb ≈ 620 kg, from
 archive does not reconcile these figures; they may reflect different boats
 (a heavily-built boat vs. a lighter build), different definitions of "loaded"
 (with or without crew, stores, and full water tanks), or an approximation on
-Glen's part. Recorded here as-given, consistent with how the archive handles
-other unreconciled weight/time figures (see, e.g., the 3-months-vs-4-months
-build-time discrepancy in
+Glen's part. The two figures are not reconciled here (compare, e.g., the
+3-months-vs-4-months build-time discrepancy in
 [build effort and workspace](/construction/build-effort.md)).
 
 Working plans are available from **David Bolduc** (`mbolduc@...`) at

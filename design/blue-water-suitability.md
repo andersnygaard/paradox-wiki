@@ -66,7 +66,7 @@ concrete design choices separating Yrvind's boats from Layden's are:
   laminates on strength, buoyancy, and flexibility together.
 - He reluctantly returned to a **centerboard** rather than chine runners,
   for better performance in large offshore waves (contrast Paradox's [chine
-  runners](/design/chine-runners-and-windward-performance.md)).
+  runners](/chine-runners/windward-performance.md)).
 - His hulls are deliberately designed to be **highly unstable when
   inverted** — aided by a **very short mast** — so a capsized boat rights
   itself quickly rather than settling upside down.
@@ -116,7 +116,7 @@ framing Paradox's enclosed cabin (see the trunk [Paradox](/paradox.md)) as
 a safety asset rather than a limitation. It stands as the strongest personal
 endorsement recorded of Paradox's offshore capability, complementing (but
 distinct from) the boat's demonstrated rough-water performance in
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md)
+[chine runners and windward performance](/chine-runners/windward-performance.md)
 and on [Exuma Sound](/design/rig.md). **Matt Layden has sailed thousands of
 miles in Paradox himself.**
 

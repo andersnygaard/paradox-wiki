@@ -231,7 +231,7 @@ finding both figures by hand is on record in full:
 
 The exercise has not actually been run for Paradox with the **rudder in the
 down position**, and the simple method has one known gap: it does **not**
-account for the [chine runners](/design/chine-runners-and-windward-performance.md),
+account for the [chine runners](/chine-runners/how-they-work.md),
 which add roughly **2 sq ft** of lateral-resistance area of their own.
 
 The sail plan can be shifted fore-and-aft by repositioning the **halyard
@@ -298,7 +298,7 @@ straight-line directional stability for easier maneuvering). **Swamp
 Thing** — Dave's favorite-sailing Layden design (see
 [Swamp Thing](/matt-layden/swamp-thing.md)) — is, "believe it or not," the
 **most maneuverable of Matt's designs** thanks to her
-[chine runners](/design/chine-runners-and-windward-performance.md): she
+[chine runners](/chine-runners/windward-performance.md): she
 "tacks on a dime at almost" [the remainder of this message was not recovered
 from the archive].
 

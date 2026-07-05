@@ -1,0 +1,68 @@
+---
+type: Person
+title: Derek Clark
+description: UK Paradox builder who built "Enuf," contributed a steel-hull mast query and mainsheet/outboard questions, and closed his build with an unprompted thank-you to the list.
+tags: [paradox, people, uk, builder, enuf]
+timestamp: 2026-07-05T00:00:00Z
+---
+
+# Derek Clark
+
+**Derek Clark** is a UK Paradox builder whose
+boat, **["Enuf"](/boats/enuf.md)**, was renamed from an earlier working name,
+**"So-So,"** on his wife's suggestion. A self-described diabetic, he weighed
+that condition directly against relying on sculling alone for auxiliary
+power, choosing to keep an outboard as well as build a yuloh. He built and
+launched "Enuf" over roughly 2004-2005, closing out the group's photo-folder
+mishap and his own build with an unprompted thank-you to the list as a whole
+just before launch.
+
+Full build narrative — ballast layout, hull turning and a void repair, the
+tack-strut/boom-axle pivot joint, and the "three-tone green with a yellow
+bottom" paint scheme — lives on [boats/enuf.md](/boats/enuf.md).
+
+## Community role
+
+Derek was an active, good-humored participant in the list's running banter as
+well as its technical threads. During the mid-2005 revisiting of [Don
+Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)'s
+2003 ban, Derek took a measured line — agreeing Don had useful Paradox-specific
+knowledge to share while not passing judgment on the ban itself — and joined
+the resulting run of ban-story banter, joking that being banned by Don without
+ever having posted "a social cachet that must be difficult to achieve" that he
+might go for himself once "Enuf" was finished, and later proposing (half in
+jest) a dedicated group for everyone Don had banned. When a fellow member's
+folder mix-up (see [boats/enuf.md](/boats/enuf.md#the-enuf-photo-folder-mystery-and-a-thank-you-to-the-list))
+threatened to derail his own build photos, Derek took it in stride, suspecting
+at one point that Don Elliott himself might be behind the mix-up, but affirming
+Don remained a fellow builder and sailor with useful contributions to make.
+
+## Other contributions
+
+Derek asked whether a secondhand aluminum Skipper 12 dinghy mast might suit a
+Paradox, and separately asked whether Matt Layden's own mast design had been
+arrived at by engineering calculation or simply from what materials he had on
+hand — left unanswered in the archive. He also searched at length (with
+[William Longyard](/people/william-longyard.md) and others) for a published
+photograph of the original prototype's single-line mainsheet setup, eventually
+finding candidate photo links and asking the group to scan a magazine image to
+the file section for members without access to the source. See [rig and sail
+— mast material choices](/design/rig.md#mast-material-choices) and
+[boats/original-paradox.md](/boats/original-paradox.md).
+
+# Citations
+
+[1] Archive message page_2565 (ifida / "Glen C. Mxwell", `paradoxbuilders`, msgnum 2593, 2005-02-17) — "Re: Enuf": has not been able to figure out how to rename Derek Clark's "So-So" photo folder; quotes Derek's original "Enuf" folder-rename request in full.
+[2] Archive message page_2566 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2594, 2005-02-17) — "Re: Enuf": thanks Glen; will probably delete and re-upload, since the earlier pictures are of little use now and take up quite a lot of space.
+[3] Archive message page_2678 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2678, 2005-05-02) — "Re: Mainsheet and outboard": intends to keep his clutch-and-reverse-less Seagull outboard as well as build a yuloh, since as a diabetic he cannot rely on extended sculling stamina, and judges the motor will make better headway against contrary wind or tide regardless. Signed "Derek."
+[4] Archive message page_2951 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2982, 2005-07-23) — "Re: new to the group.....": answers Derek Clark directly on why Don Elliott was banned. Signed "Glen."
+[5] Archive message page_2958 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2989, 2005-07-24) — "Re: new to the group.....": tells Nels he thinks he arrived "at the tail end of that"; clarifies he was not intending to judge Don or T. Lee, only reiterating that Don has useful Paradox-specific information to share; jokes that being banned by Don without ever posting is "a social cachet that must be difficult to achieve," and that he may go for it himself once "Enuf" is finished. Signed "Derek."
+[6] Archive message page_2962 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2993, 2005-07-25) — "Re: Welcome to the Club, Brother Nels!": "That's at least two of my favourite correspondents banned by Don. Have you thought of starting a group for people banned?" Signed "Derek."
+[7] Archive message page_2965 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2996, 2005-07-25) — "Re: Welcome to the Club, Brother Nels!": replying to Nels naming him "number one on our list," "My God, what have I done? My wife says that whatever it is I probably deserve it :0)"
+[8] Archive message page_2998 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3029, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": suspects Don Elliott himself may be behind the group's photo-folder mix-up, having seemed to know of Derek's ballast question, but says Don remains a fellow Paradox builder and sailor with useful contributions to make and has always been helpful to him; thanks the group as a whole, naming Nels, Chris, Bill, David, Jack, and Dave among others, for Paradox-specific and general building/sailing/life knowledge as launch nears. Signed "Derek."
+[9] Archive message page_1807 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 1830, 2004-01-10) — "mast": asks whether a secondhand aluminum Skipper 12 dinghy mast — constant 2-3/8 in diameter, 1/16 in wall thickness, about 6 in short (fixable with a wooden plug) — would suit a Paradox mast. Signed "Derek."
+[10] Archive message page_1814 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1837, 2004-01-11) — "Re: mast": thanks Alastair and DC for the input; asks whether Matt Layden's own mast design was arrived at by engineering calculation or was more a question of what materials he had on hand — unanswered in the archive. Signed "Derek."
+[11] Archive message page_1756 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1778, 2004-01-04) — "Re: Main Sheet": asks David Beard whether a picture of Matt's single-line mainsheet setup exists anywhere. Signed "Derek."
+[12] Archive message page_1758 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1780, 2004-01-04) — "Re: Main Sheet": reports finding only a picture of Matt's boat drawn up on a beach with her sail down, and asks if anyone has found a stern picture. Signed "Derek."
+[13] Archive message page_1761 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1784, 2004-01-04) — "Re: Main Sheet": posts two candidate photo links, hoping they show Matt's mainsheet setup. Signed "Derek."
+[14] Archive message page_1777 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1800, 2004-01-06) — "Re: Main Sheet": asks if somebody can scan the picture to the group's Files section for those without access to the magazine. Signed "Derek."

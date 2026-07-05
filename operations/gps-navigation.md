@@ -17,50 +17,10 @@ buying** a GPS unit in the first place.
 
 ## Choosing an entry-level Garmin
 
-The bottom-of-the-line Garmin GPS, priced at **$129.99** at West Marine,
-is a reasonable starting point for marine use. **Garmin** as a brand has
-proved reliable over **eight years'** service in one unit (a **Garmin
-GPS 45**), with newer models "much better, smaller and less expensive"
-than that aging unit. The **Garmin Mariner** variant's only real
-difference from the plain **eTrex** it is based on is that the Mariner
-comes with all US navigational aids **pre-programmed** — genuinely useful
-underway, since a marker or buoy pops onto the screen as it comes into
-range, cross-checkable against the chart at a glance.
-
-## The eTrex Mariner and its accessory ecosystem
-
-A **Garmin eTrex Mariner** works well in practice. West Marine's **$37**
-price for the cigarette-lighter power adaptor is avoidable — the unit's
-accessory ecosystem offers cheaper routes:
-
-- Garmin does not sell the eTrex's power/data cable on its own, so a small
-  DIY community has sprung up making their own plugs; a ready-made
-  "**ePlug**" (**$7.50**) is available at a hobbyist site (`pfranc.com`),
-  along with a compatible **$12.98** 3-volt switching adaptor —
-  **$22.50** all together (with shipping) for a professional adaptor and
-  a plug assembled by hand.
-- A fully preassembled adaptor from a different vendor
-  (`blue-hills-innovations.com`) runs **$25**.
-- The genuine **Garmin** adaptor, from Amazon.com with free shipping,
-  runs **$29.94**.
-
-For loading waypoints without keying them in by hand on the unit itself,
-**EasyGPS** — a free/shareware PC program for uploading and downloading
-waypoints to the eTrex, found via a page of GPS-related links at
-`firstwaypoint.com` — works well. Updating the eTrex's firmware to the
-latest version from Garmin's own site and reloading its marine
-points-of-interest database is a straightforward process.
-
-## A firmware personalization hack for theft deterrence
-
-The eTrex's startup screen can be "hacked" using a small shareware patch
-tool called **MeMap**
-(`ourworld.compuserve.com/homepages/gilles/memap`), which edits the text
-embedded in a copy of the GPS's firmware-update file before it is applied.
-Replacing the stock startup warning with an owner's name, phone number,
-e-mail address, and a "**REWARD $$$**" offer on power-up is a practical
-anti-theft measure, giving a finder contact information to return the
-unit if it is ever lost.
+An entry-level **Garmin** handheld (the **eTrex**, or its **Mariner**
+variant with US navigational aids pre-programmed) proved reliable and
+good value for marine use, with newer models continuing to improve on
+older ones.
 
 ## A small-boat GPS usage guide
 

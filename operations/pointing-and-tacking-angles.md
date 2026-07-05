@@ -26,7 +26,7 @@ about a **10% increase in boat speed for every 10 degrees fallen off** the
 wind to make footing off worthwhile — i.e. a small speed gain from sailing a
 little freer usually beats squeezing for the highest possible pointing angle.
 These figures put concrete numbers to the general
-[chine-runner windward-performance](/design/chine-runners-and-windward-performance.md)
+[chine-runner windward-performance](/chine-runners/windward-performance.md)
 finding that Paradox sails to windward "passably well" without a
 centerboard, and are the first specific tacking angles (as opposed to
 VMG/speed figures) recorded in the archive.

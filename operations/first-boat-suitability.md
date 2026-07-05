@@ -25,7 +25,7 @@ very detailed**, and finishing it demands a substantial amount of the
 builder's time.
 
 A related comparative sailing data point bears on the
-[chine-runner](/design/chine-runners-and-windward-performance.md) debate over
+[chine-runner](/chine-runners/windward-performance.md) debate over
 the [stretched Paradox](/design/variants/stretched-paradox.md): over **two and
 a half months** sailing Paradox and
 [Little Cruiser](/matt-layden/little-cruiser.md) together, [the Bolducs](/people/bolduc/dave.md)

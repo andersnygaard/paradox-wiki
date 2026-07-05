@@ -23,7 +23,7 @@ design lineage.
 GJac was Matt's **next boat after [Swamp Thing](swamp-thing.md)** — a slight
 **enlargement** of that successful design (**14' 10"** on the website, close to
 the 14.5 ft in the later resale listing), keeping Swamp Thing's best ideas: the
-[chine runners](/design/chine-runners-and-windward-performance.md) and the
+[chine runners](/chine-runners/how-they-work.md) and the
 **boom-furled lug sail**. Matt cruised her for **about a year** (c. 1987) — long
 enough, he said, that he had "learned as much as he could" from her — before
 moving on in 1988 to build [Little Cruiser](little-cruiser.md), which had more
@@ -43,7 +43,7 @@ answer to lateral resistance.
   but not identical.
 - **No cabin top**, unlike Paradox — but she still provides **sleeping
   accommodation for one person below**.
-- Has **[chine runners](/design/chine-runners-and-windward-performance.md)**,
+- Has **[chine runners](/chine-runners/how-they-work.md)**,
   the characteristic Layden-family answer to lateral resistance (see the
   leeboards note above).
 - Owner (as of the 2002 resale): **Don Musante**, of **Connecticut**.
@@ -60,7 +60,7 @@ daysailer-style — a departure from Matt's original chine-runner-only design,
 not a correction of it. The alternative view: **removing the leeboards and
 adding ballast, "lots of it,"** would let the boat's chine runners alone
 provide enough lateral resistance to go to windward. Together with the
-[chine-runner windward-performance](/design/chine-runners-and-windward-performance.md)
+[chine-runner windward-performance](/chine-runners/windward-performance.md)
 trial on Paradox itself, this reinforces chine runners (not leeboards or a
 centerboard) as the family's characteristic answer to lateral resistance across
 more than one Layden design.

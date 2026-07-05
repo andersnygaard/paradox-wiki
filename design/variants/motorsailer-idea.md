@@ -67,7 +67,7 @@ broader design-philosophy case against modifying a Paradox to taste:
   bugs** — a builder who simply follows the plans gets a boat that does what
   it should.
 - Paradox is **unique**: an enclosed cabin combined with bilge keels ([chine
-  runners](/design/chine-runners-and-windward-performance.md)) in a small
+  runners](/chine-runners/how-they-work.md)) in a small
   boat, in a field with very few sharpie-cruiser designs to begin with — so
   anyone wanting a small sharpie cruiser naturally starts from Paradox and
   wants to change it "a little." That a design can simply be altered to taste

@@ -16,7 +16,7 @@ documented Layden design lineage running through
 [Paradox](/paradox.md) itself. She is not a Paradox hull, but she is
 essential background: Terrapin's shortcomings, discovered the hard way, are
 the direct reason later Layden boats abandoned leeboards for
-[chine runners](/design/chine-runners-and-windward-performance.md) and were
+[chine runners](/chine-runners/origin-and-evolution.md) and were
 designed to be self-righting.
 
 ## Design particulars
@@ -41,7 +41,7 @@ every Layden boat that followed:
 - **The leeboards were "cumbersome, noisy," and tended to pick up debris** —
   fouling on lobster-pot lines and seaweed. This specific complaint is the
   documented reason Matt replaced leeboards with
-  [chine runners](/design/chine-runners-and-windward-performance.md) on
+  [chine runners](/chine-runners/origin-and-evolution.md) on
   Swamp Thing, Terrapin's successor: chine runners "had the added benefit of
   not picking up lobster pot lines or sea weed, which proved troublesome
   with the leeboards on Terrapin."

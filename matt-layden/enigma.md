@@ -38,7 +38,7 @@ boats:
   lug sail, rather than Little Cruiser's more complex battened, slab-reefed
   sail.
 - **Chine runners**: similar to Paradox's
-  [chine runners](/design/chine-runners-and-windward-performance.md), but
+  [chine runners](/chine-runners/how-they-work.md), but
   "made shorter and wider."
 - **Dodger**: a fold-down soft cabin/dodger described as "an improved
   version of the one now on Swamp Thing" — implying Swamp Thing was
@@ -168,7 +168,7 @@ even plane."
 
 ### Chine-runner evolution and reception
 
-On Enigma the [chine runners](/design/chine-runners-and-windward-performance.md)
+On Enigma the [chine runners](/chine-runners/origin-and-evolution.md)
 took a "new shorter and deeper shape especially created for this lightweight
 boat" and "have evolved into **higher-aspect foils**," with Layden reporting
 that they seem to be **an improvement over Paradox's runners**. **Sven Yrvind**

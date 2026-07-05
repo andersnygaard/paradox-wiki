@@ -12,7 +12,7 @@ The **original Paradox** is the prototype built by designer
 [Matt Layden](/matt-layden/biography.md) himself — the first example of the
 [Paradox](/paradox.md) design, and "one of Matt Layden's most successful
 micro-cruiser designs." Matt built her in **1993**, returning to
-[chine runners](/design/chine-runners-and-windward-performance.md)
+[chine runners](/chine-runners/windward-performance.md)
 after concluding that [Little Cruiser](/matt-layden/little-cruiser.md)'s
 centerboard "did not seem to improve windward performance sufficiently to merit
 its construction." As of July 2001 it was one of only two Paradoxes known to be

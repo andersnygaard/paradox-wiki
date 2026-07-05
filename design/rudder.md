@@ -31,7 +31,7 @@ two rudder styles.
 A related, separately-run experiment — a **quantified sea trial of a modified
 chine runner**, with real VMG/windward-performance data from Matt Layden
 himself — is documented at
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+[chine runners and windward performance](/chine-runners/windward-performance.md).
 
 A refit-thread debate over what plastic to machine a **lower rudder fitting
 (bearing/gudgeon)** from — nylon, Tufnol, Delrin, or UHMW, settling on UHMW
@@ -249,7 +249,7 @@ one side and high pressure on the other which enables his sharpies to sort
 of 'fly' upwind through the water **with the aid of a big rudder to reduce
 leeway**." The oversized rudder is therefore not an incidental byproduct but
 a deliberate partner to the
-[chine runners](/design/chine-runners-and-windward-performance.md) for going
+[chine runners](/chine-runners/windward-performance.md) for going
 to windward — consistent with the rudder having been built to optimize
 windward ability and enhance tracking.
 

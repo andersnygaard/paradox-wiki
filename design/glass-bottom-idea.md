@@ -27,8 +27,8 @@ could view marine life from inside the enclosed cabin.
   collision risk from watching fish instead of watching where the boat is
   going).
 - A window also needs to survive a boat that is deliberately **beached and
-  dried out** (see [chine runner construction](/construction/chine-runner-construction.md)
-  and [chine runners and windward performance](/design/chine-runners-and-windward-performance.md)
+  dried out** (see [chine runner construction](/chine-runners/construction.md)
+  and [chine runners](/chine-runners/how-they-work.md)
   for how hard the bottom and chine runners work in shallow water), raising
   the question of whether plexiglass or thick plastic is structurally strong
   enough, and whether it scratches badly when the boat is pulled up on a

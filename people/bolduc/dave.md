@@ -76,7 +76,7 @@ Maxwell's call for help closing the group against spam sign-ups (see
   rudder — a deliberate trade-off Matt made for maximum directional stability,
   whereas Little Cruiser and Swamp Thing tack more easily but "wander more." He
   rates Swamp Thing, thanks to its
-  [chine runners](/design/chine-runners-and-windward-performance.md), the most
+  [chine runners](/chine-runners/windward-performance.md), the most
   maneuverable of the three. This reframes the archive's "tacking" debate (see
   [Whisper](/boats/whisper.md)) as partly a property of the hull. See
   [sailing characteristics](/operations/sailing-characteristics.md).
@@ -95,7 +95,7 @@ Maxwell's call for help closing the group against spam sign-ups (see
 - **Quantified chine-runner sea trial relayed.** He passed Matt Layden's
   detailed VMG/VMGW sea-trial note for a modified port chine runner to the
   `microcruising` list, which Glen Maxwell forwarded to `paradoxbuilders`. See
-  [chine runners and windward performance](/design/chine-runners-and-windward-performance.md).
+  [chine runners and windward performance](/chine-runners/windward-performance.md).
 - **Chine-runner shape evolution and a controlled size trial.** Recounted how
   Swamp Thing's originally small, square chine runners grew larger and more
   triangular over years of Matt Layden's model and full-size testing into the
@@ -108,7 +108,7 @@ Maxwell's call for help closing the group against spam sign-ups (see
 - **Chine runners ground first.** With the rudder, the chine runners are the
   first parts to touch bottom in shallow water, though a fully dried-out boat
   rests on its whole bottom. See
-  [chine runner construction](/construction/chine-runner-construction.md).
+  [chine runner construction](/chine-runners/construction.md).
 - **Furling and reefing.** The stock furling gear gave him little trouble (~30
   seconds to reef Little Cruiser), but Matt reefs and raises Paradox's sail
   noticeably faster — evidence that furling difficulty is partly operator skill.
@@ -394,10 +394,6 @@ Maxwell's call for help closing the group against spam sign-ups (see
   [GJAC](/matt-layden/gjac.md) — 14.5 ft x 4 ft x 9 in, no cabin top, sleeps
   one, owned by Don Musante of Connecticut — was for sale. See
   [secondhand market](/operations/secondhand-market.md).
-- **Off-topic color.** He described "Tropicstar," a friend's non-Paradox
-  power-sharpie conversion of an old Star-class hull, retained only as list
-  color. See
-  [off-topic cross-posts](/references/off-topic-cross-posts.md).
 - **A New Zealand build, "Petite Lady."** He reported, secondhand, a Paradox
   built in New Zealand by **Hugh Miller**, a then-67-year-old builder — the
   archive's first New Zealand build, built to the plans except for round,
@@ -530,7 +526,7 @@ that one of them answered.
 [64] Archive message page_979 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 995, 2003-05-31) — "Re: Further adventures of Little Jim": nice account of Alastair's trip, brings back memories of the Bolducs' own last Little Cruiser trip, still being written up; he and Mindy always use closed-cell foam pads/cushions, or a small vinyl-covered sleeping cushion — "This is what Matt has aboard Paradox."
 [65] Archive message page_1038 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1054, 2003-06-23) — "Paradox in New Zealand": posted photos (Files section, "NZ Paradox") of a Paradox nearing completion in New Zealand, scanned from an unnamed 67-year-old boat builder's prints sent some months earlier; working part-time on weekends, now close to done — deck, bottom, cabin, interior, rudder, spars, sail, and running gear all finished; built to the plans except for the spars, made round via the "birdmouth method"; hopes for launch photos.
 [66] Archive message page_1091 (mbolduc / "dave" / Dave Bolduc, `paradoxbuilders`, msgnum 1107, 2003-07-28) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#portable-antenna-experience-outbacker-vs-buddipole-in-practice).
-[67] Archive message page_1096 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1112, 2003-07-29) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#pocketmail-a-low-cost-alternative-to-a-full-ssbcomputermodem-setup).
+[67] Archive message page_1096 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1112, 2003-07-29) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#cell-phone-and-shortwave-alternatives-to-a-full-ham-rig).
 [68] Archive message page_1102 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1119, 2003-08-03) — "NZ Paradox pictures uploaded": uploaded a further set of New Zealand Paradox photographs to the Files section under "NZ Paradox"; Hugh hopes to have his boat sailing by their summer (winter in the Northern Hemisphere).
 [69] Archive message page_1105 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1122, 2003-08-03) — "Re: NZ Paradox pictures uploaded": "Please pass on to Hugh how pleased we are that he is sharing the pictures with us and what a GREAT job he's doing."
 [70] Archive message page_1151 (boldav38 / Dave Bolduc, `paradoxbuilders`, msgnum 1168, 2003-08-24) — "Paradox Sea Trials Article": full text and citation at [boats/zoe.md](/boats/zoe.md#press-coverage-two-2003-magazine-articles).

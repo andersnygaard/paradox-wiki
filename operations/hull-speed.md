@@ -24,7 +24,7 @@ The formula's real-world relevance is limited, however: **it is not
 unusual for sharpies to sail much faster** than this theoretical figure — a
 hull-form observation consistent with the Paradox's flat-bottomed,
 chine-runner design (see
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md)).
+[chine runners and windward performance](/chine-runners/windward-performance.md)).
 
 ## A real GPS speed data point, from a Clearwater, FL trip
 
@@ -47,7 +47,7 @@ This is "not too shabby for a 13'5" water line length" — a rare,
 concretely logged example (GPS-timestamped, not just estimated) of the
 Paradox exceeding its nominal displacement hull speed under favorable
 conditions, complementing the boat's other recorded performance data (see
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md)
+[chine runners and windward performance](/chine-runners/windward-performance.md)
 and [pointing and tacking-angle expectations](/operations/pointing-and-tacking-angles.md)).
 
 ## A motoring speed data point: "Whisper"

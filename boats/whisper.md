@@ -510,7 +510,7 @@ corners, wherever that contact had been poor. The experience argues for
 [plywood grade and foam flotation debate — a real-world data
 point](/construction/plywood-grades-and-foam-flotation.md#a-real-world-data-point-glued-foam-gone-wrong-on-a-neglected-boat)
 for the full account, and
-[Glen C. Maxwell — build and "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoe-without-foam-flotation)
+[Glen C. Maxwell — build and "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation)
 for the contrasting decision to leave "Zoë" without foam entirely.
 
 ## Paint blisters under a tarp
@@ -536,7 +536,7 @@ wrong: the old runners were too narrow, and their width, location, and
 shape were all off, so far out that they served only as a gluing base for
 the new ones. [Matt Layden](/matt-layden/biography.md) has said the runners'
 precise angle or shape matters less than getting the **area** right — see
-[chine runners and windward performance](/design/chine-runners-and-windward-performance.md)
+[chine runners and windward performance](/chine-runners/windward-performance.md)
 for this figure alongside the archive's other chine-runner-precision data
 points. One contrasting builder, having shaped his own runners freehand with an
 angle grinder "till they looked about right," judged them probably adequate
@@ -554,6 +554,8 @@ for that skylight's below-deck sailing benefit. The rest of the work was
 "nothing major." For general hatch-sliding-friction fixes and
 locking-hazard cautions, see
 [hatch hardware and security](/construction/hatch-hardware.md).
+
+# Citations
 
 [1] Archive message page_483 (David Beard, `paradoxbuilders`, msgnum 483, 2002-05-07) — "Re: Southern California Paradox?": "We named her 'Whisper.'"
 [2] Archive message page_484 (Glen Maxwell / "ifida", `paradoxbuilders`, msgnum 484, 2002-05-08) — "Re: Southern California Paradox?": "beautiful name David, how goes the restoration?"

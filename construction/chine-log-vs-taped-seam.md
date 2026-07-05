@@ -83,7 +83,7 @@ similar conclusion — the plans' method is well suited to Paradox specifically,
 given her weight and chine-runner requirements — from different angles: this
 one focused on **build sequence and ease**, the earlier one on
 **weight/ballast** and the need for real chine logs to carry the
-[chine runners](/construction/chine-runner-construction.md).
+[chine runners](/chine-runners/construction.md).
 
 ## Corroboration from sharpie construction practice
 

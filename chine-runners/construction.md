@@ -376,8 +376,6 @@ a trailerable boat this size.
 
 ## Related concepts
 
-- [Pressure-treated wood for the bottom and chine members
-  (rejected)](/construction/pressure-treated-wood.md)
 - [Weight, ballast, and displacement](/design/weight-and-ballast.md) — the
   design's overall ballast figures and placement.
 - The metal-shoe *materials* research under [stretched
