@@ -1,0 +1,625 @@
+---
+type: Concept
+title: How chine runners work
+description: The mechanism behind the Paradox's chine runners — the competing "deflector vs. foil" explanations (Sven Yrvind's Newtonian deflector hypothesis, Alastair's disc-vs-cup, Matt Layden's hydrodynamic fence), Matt Layden's own 2005 and 2007 first-person accounts of the runner within a lifting-body system, why heavy displacement and heel are essential, and the shallow-fin-keel and waterline analogies.
+tags: [paradox, chine-runners, design, hydrodynamics, windward, matt-layden, sven-yrvind, theory]
+timestamp: 2026-07-04T00:00:00Z
+---
+
+# How chine runners work
+
+The [Paradox](/paradox.md) has **no centerboard or daggerboard**. The lateral
+resistance that lets it sail to windward instead of sliding sideways comes from
+**chine runners** — in Dave Raftery's compact functional definition, "a wooden
+foil shape which extends horizontally outward from the chine of the hull,"
+where "the combination of the **air foil shape, the heel of the hull and a
+large rudder** provide lateral resistance without the need for a centerboard."
+[Sven Yrvind](/references/yrvind-website.md), who sailed Paradox for a month in
+1997 (see [windward performance](/chine-runners/windward-performance.md)),
+described them from firsthand inspection as "small **two-inch wide horizontal
+winglets** sticking out from the chines for about **a third of the boat's
+length**." They are not a modification layered onto a keel: Paradox was
+**designed from the start** to use them, and they, the heeled hull, and the big
+[rudder](/design/rudder.md) together supply **all** of the boat's lateral
+resistance — there is no separate keel option in the design to compare against.
+
+## Three sources of leeway resistance, not one
+
+Both the designer's circle and Yrvind converge on the same model: windward
+ability is a **combination of three cooperating elements**, not a single foil.
+After a decade studying Paradox and talking weekly with Matt Layden, Yrvind
+concluded the boat's leeway resistance "comes from a combination of three
+sources, **the chinerunners, the lifting-body-shaped hull, and the large
+rudder**." Matt's own account, relayed through the Bolducs, is the same: the
+chine runner lets his sharpies "sort of 'fly' upwind through the water **with
+the aid of a big rudder to reduce leeway**." This is why the chine runners
+cannot be understood, or judged, in isolation from the hull's heel and the
+rudder.
+
+## The mechanism: two competing explanations — deflector and foil
+
+There are **two overlapping but genuinely different
+explanations** of *why* a small horizontal winglet resists leeway so
+effectively. The design's own longevity has not settled which framing is
+correct; both explanations follow.
+
+### The deflector view (Newton's third law)
+
+Yrvind's primary-source hypothesis is that **chine runners work as deflectors,
+not as hydrofoils**. Deflectors are concave surfaces that redirect what strikes
+them; by Newton's third law, **the more water the chine runner deflects to
+leeward, the harder the boat is pushed to windward**. When the boat heels, the
+hull side together with the runners presents a large lateral area to the flow.
+On this account the **Bernoulli effect plays no significant role** — unlike an
+ordinary ballast keel, which works as a lifting foil — and that, Yrvind
+argues, "may explain the chinerunners' remarkable efficiency and why they are
+so misunderstood."
+
+This matches the **disc-vs-cup analogy** [Alastair](/people/alastair.md) gave
+independently: a flat disc held square to a moving fluid feels a force as the
+fluid strikes it and stops, while a hemispherical cup (like half a tennis ball)
+held the same way feels **roughly twice that force**, because the fluid
+entering the cup is *deflected back out* rather than merely slowed — the same
+principle used in a rotating-cup anemometer. The chine runners, on this view,
+work more like the cup than the disc.
+
+### The hydrodynamic-fence / foil view
+
+Matt Layden's own stated mechanism, given at the 2019 Cedar Key gathering and
+recorded by the Bolducs, casts the runner as a **hydrodynamic fence** "with
+**low pressure on one side and high pressure on the other**," which enables the
+hull to fly upwind. Raftery's "**air foil shape**" definition is in the same
+family. This pressure-differential framing is closer to how a foil is normally
+described, and stands in tension with Yrvind's "Bernoulli plays no significant
+role" claim — the sources agree completely on *that* the runners work and
+*that* they need the heeled hull and big rudder, but not on the fluid-dynamic
+detail of *how*.
+
+Both camps agree the concept is **subtle and easily underestimated**. Yrvind
+stressed that the runners "are not just add-ons": preventing leeway with them,
+"like most successful fluid-flow devices — including the bumble bee — is a
+sophisticated concept," and one that has "been subject to little research and
+experiment," which is why so few designers have adopted it despite its being in
+plain sight for a quarter-century.
+
+## The designer's own account (2007): a lifting-body system
+
+The fullest first-person statement of how the whole system works comes from Matt
+Layden himself, in a 2007 *Small Craft Advisor* interview. He is emphatic that
+the chine runners are only **"the most noticed part of the system I've been
+working on to get leeway resistance and control in sailboats, without need for a
+centerboard or keel"** — narrow, horizontally protruding ridges running along
+the middle third of the chines on some of his sharpie hulls, not a foil that
+does the job on its own. He explicitly corrects the **"minor internet
+mythology … that chine runners, in themselves, *replace* a centerboard or other
+conventional foil":** "That's not the case, they're really a fairly minor part
+of an integrated system." This is the designer's own confirmation of the
+three-sources model above.
+
+In that system the equivalent of a conventional midship foil is **the hull
+itself, shaped as a "lifting body"** — a form Layden first met in 1970s
+*Aviation Week* and *Popular Science* articles on experimental NASA aircraft.
+Sailing at an angle of attack to the flow (that is, making leeway), the hull
+develops **high pressure on one side and low pressure on the other, exactly as a
+wing does**, and the resulting sideways lift resists leeway. This lifting-body
+hull, Layden says, carries **"half or less of the total leeway load"**; the
+remainder is taken by the **[rudder](/design/rudder.md)**, sized "as deep and
+efficient as practical" with "a conventional foil section for good lift across a
+good range of angles."
+
+Against that hull the **chine runner acts as an aerodynamic "fence"** that
+separates the high- from the low-pressure side and minimises flow across the
+chine (its Bolger-derived origin is traced under [origin and
+evolution](/chine-runners/origin-and-evolution.md)). The hull **"would work
+decently without them,"** but Layden's own **"rough sailing and towing model
+experiments show a noticeable improvement in pointing and handling with the
+runners added."** He also shapes the chine and bottom rocker to take advantage
+of the **tip vortex** shed off the end of any lifting surface, which he believes
+helps reduce pressure on the low-pressure side.
+
+Because the lifting body and the rudder share the leeway load in something like
+a **50-50, 40-60, or even 30-70 ratio**, the boat's centre of lateral
+resistance sits **farther aft** than in a conventional sailboat — which in turn
+wants the **rig placed well aft**, "as you see in my designs" (see [rig and
+sail](/design/rig.md)). Layden's own framing therefore sits squarely in the
+**lifting-body / pressure-differential (foil) family** — the same explanation he
+would give more briefly at the 2019 Cedar Key gathering (the "hydrodynamic
+fence" with "low pressure on one side and high pressure on the other," above) —
+and gives that view its primary-source authority. It stands in acknowledged
+tension with Yrvind's "Bernoulli plays no significant role" deflector
+hypothesis, even though the two men agree completely *that* the runners work and
+*that* they need the heeled hull and a big rudder.
+
+## An earlier designer's quote (2005), posted directly to the list
+
+Two years before the 2007 *Small Craft Advisor* interview, the same
+description reached the list directly, relayed in the designer's own words:
+the chine runners, or **winglets**, are **small horizontally protruding fins
+at the chines amidship** that help the hull function as a **"lifting
+body"** to resist leeway. Matt Layden himself has said a **centerboard or
+other retractable vertical fin would do the job better**, but professes "a
+mental allergy to moving parts and complication." The runners are **easy to
+build** and **protect the hull rather than weakening it**, as a centerboard
+trunk would; and they take up **no space in the interior**, always a
+concern in so small a cruiser. This 2005 statement independently
+corroborates the fuller 2007 account above — the lifting-body framing, the
+deliberate trade against a centerboard, and the no-moving-parts philosophy
+are all already present here, two years earlier.
+
+## Why heavy displacement and heel are essential
+
+A chine runner only works if it is **kept well submerged**, which is why the
+design depends on the boat's heavy displacement and its behaviour when heeled:
+
+- **Draft grows sharply with heel.** Paradox's draft goes from **9 inches
+  upright to approximately 23 inches at 30° of heel** — the only
+  quantified heeled-draft figure on record — driving the lower runner deep
+  into solid water.
+- **The lower runner acts like a shallow fin keel.** Because Paradox carries
+  relatively heavy displacement for her size and her hull has rocker, the
+  heeled runner behaves "much as a **shallow fin keel** would in a v-bottomed
+  boat": the upwind chine clears the water while the lower chine does the
+  work.
+- **It needs enough weight aboard.** Performance depends on carrying **enough
+  weight to submerge the lower chine runner when heeled**; an under-loaded boat
+  will not point.
+
+Yrvind reduces the requirement to a **geometric one**: the boat must be heavy
+enough to sink deep enough, and the **beam-to-draft ratio has to fall within a
+narrow range**. He cites Paradox at **beam 1.23 m, draft 0.23 m** and his own
+YRVIND ½ at **beam 1.3 m, draft 0.22 m** as boats deliberately kept inside that
+window. The payoff, in his summary, is "shallow draft with no moving parts,"
+plus a hull that (like a catamaran) "quickly moves a lot of buoyancy to leeward
+for a small angle of heel," a large flat interior floor, and easy construction
+— "almost too good to be true."
+
+## Sven Yrvind's seven reasons
+
+Designing the ballasted, **near-vertical** chine runners of his own YRVIND ½ —
+a variant of Matt's horizontal winglets, ~1.2 m long, 10–15 cm deep, each
+carrying ~40 kg of lead, supplementing a bow centerboard — Yrvind set down the
+combined case for the feature. It is the fullest single enumeration of
+chine-runner benefits on record, and the reason he adopted them:
+
+1. **Leeway resistance by deflection** (the Newtonian mechanism above): heeled,
+   the hull side and runners deflect water to leeward and push the boat up to
+   windward.
+2. **Bottom protection.** Like bilge keels, they protect the boat's bottom when
+   it takes the ground at low tide.
+3. **Lower ballast.** They let him place the lead ballast a little lower.
+4. **Reduced heeling moment.** They keep the lateral area **high up** near the
+   waterline; just as a high sail-center heels a boat more than a low one, a
+   *low* lateral area would heel the boat more than a high one — so keeping
+   resistance high reduces the heeling moment.
+5. **Reduced rolling.**
+6. **Less turbulence.** They likely prevent turbulence and vortices forming
+   along the chines, reducing resistance.
+7. **A trimaran-like righting effect.** When the boat heels far enough that the
+   windward runner lifts clear of the water, that runner's buoyant volume in
+   effect shifts to the lee side, adding righting moment "kind of like a
+   submerged trimaran that lifts its windward float" — a small effect, but it
+   helps.
+
+"It's the combined advantages of the many small advantages that makes me choose
+them," Yrvind concluded — echoing the builders' own verdict that no single one
+of these is decisive, but together they make the feature worthwhile. Note that
+reasons 3, 4, and 7 are specific to Yrvind's **ballasted, near-vertical**
+adaptation; Paradox's runners are unballasted horizontal winglets.
+
+The runners' bottom-protection role (point 2 above) does not extend to the
+**topsides**: whether they project far enough to also shield the hull sides
+from towpath/lock-wall abrasion on extended **UK canal cruising** — closely
+enough to skip fiberglassing the sides altogether, as considered for [Little
+Jim](/boats/little-jim.md) — remains open, since the runners' documented
+protective function is specifically for the **bottom** taking the ground, not
+the topsides scraping a canal wall (see [epoxy pre-coating technique — a UK
+builder's cloth-weight
+questions](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder)
+for the fuller thread).[35]
+
+## The waterline question
+
+Under heel the lower chine "effectively increases the waterline length of the
+boat," producing "a faster, more weatherly boat than it would first appear" —
+though one specific point needs correcting: the **chine runners themselves do
+not lengthen the waterline** at any angle of heel or speed, because waterline
+lengthening is a **bow/stern-overhang** phenomenon — overhangs wetting down
+under heel or at speed — and Paradox has little net overhang to begin with.
+The broader heeled-hull/long-keel analogy still holds, and the runners can be
+summed up as "sort of like a **Scheel Keel, without the keel**."
+
+Commodore Ralph Munroe's sharpie **Egret** illustrates the overhang principle
+by contrast: her pronounced after overhang genuinely lengthens her waterline
+at speed as the bow wave re-crests at the stern and wets the buoyant overhang
+— a longer waterline that raises speed *potential* without guaranteeing it,
+since the newly submerged surface is itself a drag penalty (and a
+transom-hung rudder blade does not count toward waterline length). The real
+point, restated in sharper form: **Paradox is faster and more weatherly than
+her static hull shape alone suggests** — a fact owners consistently confirm
+even as skeptics doubt both her speed and the runners' efficiency from
+looking at the hull at rest. She would sail faster still with added overhangs
+and a longer waterline for her beam, but that is not the design's purpose: she
+is a genuinely efficient sailing package for a one-person skinny-water
+microcruiser, not a racing machine.
+
+## What the chine runners do *not* do
+
+Heeling itself is **not** countered by the chine runners; it is countered by
+**hull shape and ballast**. This is the opposite of a keelboat, where the keel
+*promotes* heeling (the water's force on the immersed keel adds to the sail
+force) and it is the ballast at the keel's foot or in the bilges that counters
+it. Yrvind describes the same stability picture for Paradox: with no
+heavy ballast keel, her stability comes from a low cruising load and a flat
+bottom that "a bit like a multihull moves a lot of buoyancy to lee at small
+angles of heel," while at large angles her righting moment comes from a good
+height-to-beam ratio and the buoyancy of her superstructure — giving, in
+Yrvind's account, **positive stability up to 165° of heel**, "better than most
+conventional keel boats." (This independently corroborates the bundle's
+165° self-righting figure — see [weight, ballast, and
+displacement](/design/weight-and-ballast.md).)
+
+## Runner width, and no published width-versus-leeway trial
+
+Photographs of the runners commonly surprise newcomers expecting something
+wider: the assumption is often that a functional runner would need to be at
+least 6 in wide to "dig in" when heeled, yet Sven Yrvind's own CR1/CR2 runners
+on "Zoë" are much smaller and "stubby" than that — consistent with Yrvind's own
+**two-inch-wide** figure recorded above.[36] No documented trial quantifying
+runner width against leeway-resistance efficiency exists; builders' width
+choices to date rest on following the plans or the eyeballed/scaled judgment
+of individual builders (see, e.g., fabrication accounts at [chine runner
+construction](/chine-runners/construction.md)), not on a published formula or
+measured comparison.
+
+The fullest account on record of how the runners' **size and shape changed
+over time** comes from [Dave Bolduc](/people/bolduc/dave.md): on Swamp Thing,
+Matt Layden's earliest chine-runner boat, they started out **small and
+square**, and only became larger and more triangular through years of Matt's
+own trial-and-error sailing and model testing — the shape now seen on
+Paradox. Some years later Matt built one side of his own Paradox's chine
+runners noticeably **larger** than the other and sailed the boat for months
+comparing the stock runner against the enlarged one; he concluded the larger
+runner's added drag and draft did not improve performance enough to justify
+the change, and eventually ground the larger runner back down to match the
+original. This is the fullest on-the-record account of a **controlled
+runner-size trial**, though it settled a comparison of two specific sizes
+rather than establishing a general width-versus-leeway formula.
+
+On whether chine runners would help a **dory hull** specifically, the
+consensus is that they would probably work, though placement would need to
+shift further amidships (as it already sits on the dory-like Swamp Thing) and
+the hull would need enough ballast to sit low enough for the runners to be
+effective. A **sharpie hull suits chine runners far better than a dory
+hull**, for two compounding reasons rooted in hull geometry:
+
+- **A box hull resists sideways slippage on its own**, before the runners are
+  even added — a property Matt Layden first noticed on Phil Bolger's small
+  box-shaped boats, which also carried exterior chine logs adding further
+  resistance. The closer the angle between the sides and the bottom is to 90°,
+  the stronger this effect; this is likely why Yrvind's own hulls, which have
+  slacker bilges, do not use chine runners.
+- **Paradox's proportionally deep midships hull, combined with heavy rocker
+  equal to the curvature of the sides, lets her immerse far deeper before her
+  gunwales go under** than a "classic" hull shape could manage — creating still
+  more sideways resistance. A dory of similar size, by contrast, loses most of
+  its hull resistance to slippage because its topsides flare outward, and once
+  enough ballast is added to submerge it deep enough for a keel-equivalent
+  effect, freeboard is largely gone and swamping in a gust becomes a real risk.
+  A dory is also inherently **more tender** to begin with — standing on a
+  dory's gunwale heels it far more than the same test would heel a Paradox —
+  which lets Paradox carry more sail without heeling past the point (just
+  enough to present a "vee" shape underwater) that gives her best performance.
+  Phil Bolger's own words capture the apparent paradox: "What people don't
+  realize is that the shape they don't like is the reason for the performance
+  they do like." For a dory hull on its own terms, a **centerboard or fin
+  keel** is the better solution — Bolger's own later designs mostly abandon
+  chine runners in favor of a centerboard (well forward or off-centered)
+  paired with an oversized, end-plated rudder, the end plate working on the
+  rudder the same way a chine runner works on the hull. Nothing rules out
+  *trying* chine runners on a dory, but no such build or test is recorded.
+
+## A Bolger box-hull-versus-dory-hull design comparison
+
+A published design comparison illustrates the sharpie-versus-dory case above:
+Phil Bolger's redesign of the **St. Pierre Dory**, given greater freeboard
+than the type traditionally carries, set alongside Bolger's **"Jesse
+Cooper,"** a box-hulled sharpie of about the same length and beam and almost
+the same shape as Paradox. Despite the similar dimensions, the sharpie hull
+gave its builder-liveaboard considerably more interior room over several years
+living aboard than the dory hull would have allowed. The comparison also
+illustrates a limit of the box-hull-without-ballast-depth approach: Jesse
+Cooper was not ballasted deeply enough to let chine runners work, so she
+instead carried a large daggerboard (later changed to twin bilgeboards), and
+needed more ballast than originally specified — some 1,400 lb of concrete and
+iron in one version sailed offshore. A dory's own best solution remains a fin
+keel, heavy enough to provide stability low down — illustrated by Annie Hill
+and Jim Sale's dory-hulled "Badger," which cruised mostly downwind, waiting
+out unfavorable weather at anchor, and whose owners eventually paid to have a
+new keel fitted. The comparison does "an excellent job of illustrating how
+chine runners are best optimized for a heavy, slab-sided boat like Matt's
+sharpies." "Jesse Cooper" is one of Bolger's "Square Boats" —
+see a write-up at boatdesign.com and Chapter 12 of Bolger's book *30 Odd
+Boats* for further reading. See [Glen C. Maxwell — Matt Layden eyewitness
+record](/people/glen-maxwell/matt-layden-eyewitness.md#the-full-return-report-cockpit-size-pounding-and-modified-sharpie-versus-sharpie)
+for the "Atlantic trip" thread in which the question was asked.
+
+## A dory-hulled catamaran design using chine runners
+
+A different designer's use of chine runners on a **dory-sided hull** is worth
+noting: **Jeff Gilbert**, designer of the "Gumboots" catamaran, was reported to
+be trying chine runners on one of that design's two dory-sided hulls (drawn
+under the working name "Gumboot+Mono"). The concept graphically illustrates
+just how hard it would be to keep such a hull upright, reinforcing the case
+above that a sharpie hull suits the runners far better than a dory hull does
+— while a designer might still reasonably want to try it. Gilbert's smaller
+camping-catamaran design "Hot Chili" is a separate, published example of his
+catamaran work, with no direct Paradox connection; several of Gilbert's
+designs (four, by one account) had been built, and he ran his own dedicated
+Yahoo group, with the "Gumboots" design and his regular design column
+published as Duckworks Magazine features.[47]
+
+## Why speed itself reduces leeway, and a shallow-draft safety case for no keel at all
+
+Beyond the deflector-versus-foil mechanism, the runners' effect compounds with
+the boat's own forward motion. As the heeled hull's slab side meets resistance
+from the water, that resistance is forced downward and, on meeting the chine
+runner, deflected aft — adding a forward push rather than pure drag, so the
+faster the boat moves the less leeway it experiences. The same principle
+applies, in reduced form, to a conventional keel; a keel sits more directly
+under the hull and is less exposed to this downward deflection, so it
+benefits from the effect less than a chine runner does.[49]
+
+Having no keel hanging below the hull also pays off in exactly the situations
+a keel is meant to guard against. Caught off a lee shore and lying ahull or
+reefed down, a chine-runner boat is less likely to be knocked down, since with
+nothing protruding below she can simply slide sideways instead of tripping
+over a fixed appendage. Washed up over a reef, she is also less likely to
+strike it directly, and can often wash all the way onto a beach with little
+damage short of genuinely treacherous rock; a boat like this can in principle
+just be hunkered down in until the waves carry her high enough to walk away,
+where a deeper-draft boat would still be getting bashed apart offshore.
+Shallow draft of this kind is why lifeboats are traditionally built shallow
+too.[49]
+
+## A snowboard/ski-edge wear analogy (speculative)
+
+A newcomer working only from written descriptions, having initially and
+mistakenly pictured the runners facing downward like a dagger board rather
+than outward from the chine, drew an analogy to **ski and snowboard edge
+design** once he understood the geometry: if chine runners behave
+hydrodynamically the way a ski edge behaves on snow, wear should concentrate
+near the runner's **fore-and-aft tips** rather than along its middle,
+suggesting a runner shaped like a long, subtle, mirrored hourglass — narrower
+at the tips — might prove more efficient than a constant-width winglet. The
+analogy remains speculation rather than a tested result; no build or test of
+a tapered/hourglass-profile runner is recorded.
+
+## A kayak-chine analogy for the deflector view
+
+One hobbyist's (rather than builder's) mental picture of the deflector
+mechanism draws a parallel to hard-chine kayaks: leaning a kayak to one side
+digs its curved chine into the water and steers the boat toward that side,
+exactly as leaning right on a right-curving chine turns the kayak left. On
+this reading, the chine runner's upper angle catches the water much as Phil
+Bolger's bottom-plated rudders are shaped to let water "stick" to the blade's
+lower edge rather than spilling off it — the flat side of a heeled Paradox
+works the same way, with the hard chine holding water against the bottom
+rather than letting it flow over and spill onto the bottom surface, giving
+the whole side effective steering/lateral-resistance value. By this
+reasoning, sailed upright in conditions that could trip the boat, a Paradox
+should present the runner's rounded lower radius to the flow instead of its
+sharper upper edge, letting water slide underneath rather than catching on
+top — an unsettled mental picture of the mechanism, not corroborated
+elsewhere.
+
+The analogy is plausible but leaves sharper questions unresolved: whether the
+chine runner is fully immersed or only partly in the water when a Paradox
+skids sideways down a wave face; whether flow along each face of the runner
+is laminar or turbulent, and whether the resulting pressure difference
+depends on the curvature at all; and whether the usual tripping mechanism for
+a conventional hull — the water's surface layer moving faster than the water
+beneath it, producing a torque as a boat slides sideways — even applies to a
+hull shape that, unlike a conventional hull, might simply flow along with the
+surface water instead of resisting it, which would make the runner's curve
+moot in exactly the condition it is meant to help with. The question remains
+open.
+
+## No published scaling formula, and no bilgeboard/bilge-keel experiment on record
+
+No formula for scaling chine-runner size to a larger hull has ever been
+attributed to Matt Layden: how much bigger, longer, or wider runners would
+need to be on a hull roughly 75% larger than Paradox on the same basic shape
+(as with Phil Bolger's **Martha Jane** design) remains unanswered, given that
+runner effectiveness also depends on the hull sitting at its proper depth and
+on having enough rudder area. Whether Matt ever tried **bilgeboards or bilge
+keels** — as used on a number of British and Dutch small craft — as an
+alternative to chine runners or leeboards/centerboards is likewise
+unrecorded; nothing elsewhere in the archive confirms Matt trying either.
+
+## The chine-runner curve: cosmetic fabrication choice or hydrodynamic feature?
+
+A builder laying up his hull bottom in **sheet metal** rather than plywood
+raised a fabrication-driven version of the shape question above: does the
+chine runner's **upward curve at the outer edge** (the bottom's own rocker,
+carried out into the runner) serve a genuine hydrodynamic purpose, or is it
+incidental to how the runner is normally built in plywood? The question
+matters practically for metal construction, since a sheet-metal bottom does
+not bend to the same curve as readily as **18 mm plywood** does. No builder
+on record could confirm a hydrodynamic function for the curve specifically
+(as opposed to the runner's overall presence and outward dimension,
+[established above](#the-designers-own-account-2007-a-lifting-body-system)):
+one recalled a remark attributed to Matt Layden that the runner's **outward
+dimension matters more than its exact shape**, and two independent guesses —
+that the curve helps the hull act like a **sled when beaching**, and that it
+protects the **edge of the fiberglass roving** — were offered without
+corroboration. On at least one plywood-built Paradox the upward curve was
+reportedly **absent entirely**, without any noticed difference in
+performance, suggesting the curve is not essential to the runners' function
+even if some benefit cannot be ruled out. Fabricating the curve in metal was
+suggested via a hardwood pattern (beating or heat-forming the sheet metal
+around it) or, for thicker stock that will not bend, grinding the shape
+directly; the risk of a gap opening at the chine if a stiff sheet cannot be
+bent to the bottom's curvature at all was also raised, unresolved for the
+sheet-metal build in question. See [the "BRIS
+Paradox"](/boats/bris-paradox.md) for the fullest composite/metal-adjacent
+Paradox build on record, though that boat's bottom is glassfibre-over-foam
+rather than sheet metal.
+
+A period-literature parallel surfaced once the question widened: in Matt
+Layden's own *Beachcruising and Coastal Camping*, Warren Bailey recalled that
+1930s Key West sponging dinghies carried a roughly **4-inch-radius "knuckle-V"**
+on their chine protrusions — what he termed a **non-trip chine** — and reported
+being "amazed" at how a cruising sailboat built with one would surf sideways in
+a breaking sea rather than tripping over, as an ordinary hard-chine boat would;
+the same book records that Matt's own next boat after Swamp Thing's capsize
+while surfing sideways carried **gently radiused chines**. This is the closest
+thing on record to an explicit prior link between a radiused chine edge and
+resistance to tripping while surfing sideways, though it was offered as a
+historical parallel rather than a settled explanation of the Paradox runner's
+own curve, and the metal-bottom builder in question remained unconvinced it
+answered his specific "upward versus downward convexity" question (below).
+
+Pressed on which way the curve should face, the metal-bottom builder framed a
+sharper version of the puzzle: on the full-scale drawings, the chine runner's
+outer edge shows a **"downward convexity"** curve of about a **15 mm radius**
+below the runner — and he wondered whether an unintuitive "**upward**
+convexity" (the opposite curve) would resist a sideways-sliding trip better,
+reasoning that the sharp upper angle of the drawn ("downward") curve looked, to
+him, more likely to catch than shed a sideways slide. No one could resolve the
+question either way; one correspondent's own sled analogy above assumed the
+drawn curve behaves like a beaching sled's rocker regardless of which way it
+is understood to face, while another simply restated that hydrodynamics can
+defeat naive geometric intuition. Practical fabrication answers still stood
+regardless: cutting the runners from **solid hardwood and gluing them on**
+afterward, rather than attempting to bend sheet metal to the compound curve
+at all, was offered as a straightforward alternative construction path — the
+approach several plywood builders already use (see [construction
+technique](/chine-runners/construction.md)). The sheet-metal builder himself,
+working in **2 mm bronze** (chosen over stainless steel to double as a
+lightning-protection ground plate, weighing some **70 kg** and glued to the
+bottom with an elastic epoxy filler rather than mechanical fasteners — see
+[the "BRIS Paradox"](/boats/bris-paradox.md) and [chine runner construction —
+bronze versus steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe)),
+reported the 15 mm bend proving very difficult to form in two directions at
+once even with a neighbor's mechanical-shop help, leaving the question of
+whether the curve could be reproduced in metal at all still open. He also
+clarified, once a UK builder read the question as being about the hull
+bottom's overall fore-and-aft curvature, that it concerned specifically the
+**chine-runner profile's own radius** as drawn in the plans' chine-runner
+section view, not the bottom's rocker generally — the bottommost layer shown
+in that section view is fibreglass on the stock plywood design, corresponding
+to his own bronze sheet.
+
+**Resolution:** by October 2004, the bronze-bottomed builder had settled the
+question the practical way rather than the theoretical one — he excluded the
+drawn curvature entirely and simply cut the bronze sheet straight, reporting
+no ill effect and finding the bottom's bronze surface, if nothing else,
+attractively "shiny."[34] This is the closest thing on record to a real-world
+resolution of the multi-week curve debate: a Paradox bottom built with the
+chine-runner curve omitted altogether performs indistinguishably in practical
+use, corroborating the earlier report of a plywood-built Paradox missing the
+curve with no noticed difference (above), and reinforcing that the curve is a
+refinement rather than a functional requirement of the chine-runner system.
+
+## Placement on a water-ballasted box-keel hull (an outside question)
+
+For a **water-ballasted boat with a box keel** — a hull form unrelated to
+Paradox's sharpie shape — where chine runners would best be fitted (at the
+hull's own **chines**, or instead at the **sides of the box keel** itself) is
+an open question distinct from the sharpie/dory placement debate above.[51]
+The answer depends on which of the two competing chine-runner theories
+(deflector or foil, above) actually governs their effect: some theories work
+better with the **windward runner clear of the water**, in which case the
+answer would depend on which of the two proposed locations achieves that
+more reliably. Of two working theories for how the runners generate drag to
+leeward, if one is correct placement would not matter between the two
+locations, while if the other is correct neither location would work well —
+since a box keel introduces a second pair of vertical surfaces (the keel's
+own sides) that has no equivalent on a Paradox-family hull.[52]
+
+## Whether a flat bottom is essential to the mechanism
+
+A further question about the runners' underlying requirements asked whether
+Paradox's **flat bottom** specifically is essential to the chine runners'
+success, rather than the runners working on any hull shape. The question drew
+two historical comparisons rather than a direct answer: Wharram catamaran
+builders once tried a similar horizontal-winglet technique, calling them
+"**vortex generators**," which met a skeptical reception from other
+designers — though the Wharram cat hull (narrow V-shaped) is about as
+different from Paradox's flat-bottomed shape as could be imagined, so the
+lukewarm reception of that unrelated hull form does not itself settle the
+question for a flat-bottomed boat. A period precedent for a genuinely
+flat-bottomed, fast sailing hull was also raised: Nathaniel Herreshoff's
+catamaran **Amaryllis** reportedly had flat-bottomed hulls resembling
+plywood mixing troughs, and sailed fast enough (under gaff rig) that cats
+were subsequently banned from competing against monohulls in the racing of
+her day — offered as evidence that a flat bottom need not be a performance
+liability in itself, independent of whether it specifically aids chine-runner
+effectiveness. No documented trial isolating the flat-bottom variable for
+chine runners answers the question directly.[53]
+
+## Related concepts
+
+- [Windward performance](/chine-runners/windward-performance.md) — the measured
+  and firsthand evidence that the runners actually work.
+- [Origin and evolution](/chine-runners/origin-and-evolution.md) — where the
+  concept came from and how it changed across Matt Layden's boats.
+- [Construction technique](/chine-runners/construction.md) — how builders
+  physically shape and fit the runners.
+
+# Citations
+
+[1] yrvind.com — "The near-vertical ballasted chinerunners" (`https://www.yrvind.com/the-near-verticalballasted-chinerunners/`, Sven Yrvind, posted 2021-03-07), mirrored locally at `source-web/yrvind/the-near-vertical-ballasted-chinerunners.html` — hypothesizes chine runners work as deflectors (concave surfaces redirecting water) rather than hydrofoils, so by Newton's third law the more water deflected to lee the more the boat is pushed to windward, with the Bernoulli effect playing no significant role, unlike an ordinary keel; gives seven reasons for adopting them (deflection, bottom protection like bilge keels, lower ballast, lateral area kept high to reduce heeling moment, reduced rolling, reduced chine turbulence/vortices, and a submerged-trimaran righting effect when the windward runner lifts clear); YRVIND ½'s runners are ~1.2 m long, 10–15 cm deep, ~40 kg lead each, supplementing a bow centerboard.
+[2] yrvind.com — "Matt Laydens chinerunners based on Swamp Thing, Paradox & Enigma, etc." (`https://www.yrvind.com/matt-laydens-chinerunners-based-on-swamp-thing-paradox-enigma-etc/`, Sven Yrvind, posted 2008-07-10), mirrored locally at `source-web/yrvind/matt-laydens-chinerunners.html` — the chine-runner concept "looks simple, but don't fool yourself into thinking that they are just add-ons"; preventing leeway with them, "like most successful fluid flow devices, including the bumble bee, is a sophisticated concept," with Matt also using "the lifting body concept and a large rudder"; the boat must be relatively heavy to sink deep enough and the beam-to-draft ratio must fall in a narrow range (Paradox beam 1.23 m / draft 0.23 m; YRVIND ½ beam 1.3 m / draft 0.22 m); the concept gives shallow draft with no moving parts, catamaran-like buoyancy to lee at small heel, a large flat floor, and an easy-to-build hull.
+[3] yrvind.com — "Paradox & Enigma" (`https://www.yrvind.com/videophoto/outher-boats/enigma/`, Sven Yrvind, ~2008), mirrored locally at `source-web/yrvind/enigma.html` — describes Paradox's chine runners as "small two-inch wide horizontal winglets sticking out from the chines for about a third of the boat's length"; the boat's leeway resistance "comes from a combination of three sources, the chinerunners, the lifting body shaped hull and the large rudder"; Paradox has no heavy ballast keel, deriving stability from a low cruising load and a flat bottom that (like a multihull) moves buoyancy to lee at small heel, and from a good height-to-beam ratio plus superstructure buoyancy at large heel, giving positive stability up to 165° of heel.
+[4] Archive message page_789 (Alastair, `paradoxbuilders`, msgnum 803, 2002-12-13) — "Re: Chine runners": explains via a disc-vs-cup physical analogy (a hemispherical cup feels roughly twice the force of a flat disc in a fluid flow, since it deflects the flow back rather than just stopping it, as in a rotating-cup anemometer) that the chine runners work more like the cup, deflecting water back rather than just slowing it.
+[5] Archive message page_790 (Glen Maxwell, `paradoxbuilders`, msgnum 804, 2002-12-14) — "Re: Chine runners": their purpose is to prevent leeway while keeping shallow draft and no centerboard trunk in the cabin; effectiveness requires heavy displacement so they stay well submerged when heeled; Paradox's draft goes from 9 in upright to approx. 23 in at 30 degrees of heel.
+[6] Archive message page_796 (Alastair, `paradoxbuilders`, msgnum 810, 2002-12-18) — "Re: Chine runners": Paradox was designed from the start to use chine runners, which together with the rudder provide all lateral resistance; heeling is countered by hull shape and ballast, as in other craft; a keelboat's keel actually promotes heeling since the water's force on it adds to the sail force, with ballast at the keel's foot (or in the bilges) countering it.
+[7] Archive message page_1404 (arvent / Nels, `paradoxbuilders`, msgnum 1424, 2003-11-18) — "Re: FAQ File": worked FAQ example — "Due to Paradox's relatively heavy displacement for it's size and the rocker of the hull, when the boat heels the lower chine runner effectively acts as a shallow fin keel would in a v-bottomed boat. The upwind chine clears the water and the lower chine effectively increases the waterline length of the boat. The result is a faster, more weatherly boat than what it would first appear to be when looking at the boat sitting at rest."
+[8] Archive message page_1411 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1431, 2003-11-18) — "Re: FAQ File": chine runners don't add to waterline length at any orientation, since Paradox has little net overhang to submerge under heel or speed; endorses Nels's heeled-hull/long-keel analogy; describes the chine runners as "sort of like a Scheel Keel, without the keel."
+[9] Archive message page_1416 (arvent / Nels, `paradoxbuilders`, msgnum 1436, 2003-11-18) — "Re: FAQ File": accepts DC's correction — did not mean the chine runners themselves lengthen the waterline; restates that heeled sharpies generally present a longer, narrower hull to the water, a characteristic he suspects may be less pronounced on Paradox, whose bow and stern usually show clear of the water in photos.
+[10] Archive message page_1417 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1437, 2003-11-18) — "Re: FAQ File": Commodore Ralph Munroe's sharpie Egret's pronounced after overhang genuinely lengthens her waterline at speed, as her bow wave re-crests at the stern and wets the buoyant overhang; a longer waterline raises speed potential but does not guarantee it, since the added wetted surface is itself a drag penalty; a transom-hung rudder does not count toward waterline length.
+[11] Archive message page_1419 (arvent / Nels, `paradoxbuilders`, msgnum 1439, 2003-11-18) — "Re: FAQ File": closes the exchange — his original point was that Paradox is faster than her static hull shape suggests, which owners consistently confirm though skeptics doubt both her speed and the chine runners' efficiency; she would sail faster with overhangs and a longer waterline for her beam, but that is not her purpose; she is a very efficient sailing package for her intended role as a one-person skinny-water microcruiser, not a racing machine.
+[12] Dave's Wiki (aiki.pbworks.com) — "Advantages of Matt Layden mini cruisers" (`https://aiki.pbworks.com/w/page/1594232/Advantages%20of%20Matt%20Layden%20mini%20cruisers`), Dave Raftery — "The chine runner … consists of a wooden foil shape which extends horizontally outward from the chine of the hull. The combination of the air foil shape, the heel of the hull and a large rudder, provide lateral resistance without the need for a centerboard."
+[13] microcruising.com — blog "5-11-19" (`http://www.microcruising.com/new1a.htm`), David & Mindy Bolduc — Matt Layden's chine-runner "hydrodynamic fence… with low pressure on one side and high pressure on the other which enables his sharpies to sort of 'fly' upwind through the water with the aid of a big rudder to reduce leeway."
+[14] Archive message page_1988 (with / "Craig", `paradoxbuilders`, msgnum 2011, 2004-03-26) — "Possible Chine Runner analogy, improvement": describes initially misunderstanding chine runners as facing downward like a dagger board rather than outward from the chine; once corrected, draws an analogy to snowboard/ski edge design, speculating that hydrodynamic wear (and therefore an efficient runner profile) would concentrate near the fore-and-aft tips, suggesting a long, subtle, mirrored-hourglass shape; offered as speculation for further reading, unanswered in the archive.
+[15] *Small Craft Advisor*, May 2007 — "Enigma — The Matt Layden Interview" (interview and photo by Steve Isaac), Matt Layden — in his own words: chine runners are "the most noticed part of the system I've been working on to get leeway resistance and control in sailboats, without need for a centerboard or keel," narrow horizontal ridges along the middle third of the chines on some of his sharpie hulls; corrects the "internet mythology" that chine runners in themselves *replace* a centerboard ("a fairly minor part of an integrated system"); the hull is shaped as a "lifting body" (a form he first saw in 1970s *Aviation Week* / *Popular Science* articles on experimental NASA aircraft) that at an angle of attack develops high pressure on one side and low on the other like a wing and carries "half or less of the total leeway load," the rest taken by a deep, efficient rudder with "a conventional foil section for good lift across a good range of angles"; the runner acts as an aerodynamic "fence" separating the pressure sides and minimising cross-chine flow; the lifting-body hull "would work decently without them," but his "rough sailing and towing model experiments show a noticeable improvement in pointing and handling with the runners added"; he shapes the chine and bottom rocker to exploit the lifting surface's tip vortex; and the ~50-50/40-60/30-70 lifting-body-to-rudder load split moves the centre of lateral resistance aft, wanting the rig placed far aft "as you see in my designs." Local scan: `source-articles/interviews/small-craft-advisor/enigma-matt-layden-interview/` (four-page partial scan; the answer continues beyond the scanned pages).
+[16] Archive message page_2042 (arvent / "Nels", `paradoxbuilders`, msgnum 2066, 2004-05-06) — "Re: Chine Runners": asks whether Matt Layden has shared a formula for scaling chine-runner size to a larger design, using Phil Bolger's Martha Jane (~75% larger, same basic hull shape) as his example, noting effectiveness also depends on proper hull depth and adequate rudder area; asks whether Matt has ever tried bilgeboards or bilge keels (as used on some British and Dutch boats) instead of chine runners, leeboards, or centerboards; still in the "elusive hunt for a larger Paradox."
+[17] Archive message page_2235 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2262, 2004-09-07) — "chinerunners": asks whether the chine runner's outer-edge upward curve (following the bottom's own rocker) has a significant hydrodynamic function, since he is building his bottom in sheet metal and finds the curve hard to accomplish; notes that if he cannot achieve it, that in itself will eventually answer the question.
+[18] Archive message page_2236 (alex29 / "John Gardiner", `paradoxbuilders`, msgnum 2263, 2004-09-07) — "Re: chinerunners": suggests making a hardwood pattern for the curve and beating the sheet metal around it, applying heat if needed to bend it, or grinding the shape directly if the metal is too thick to bend; asks whether Kjell is laying the sheet over the existing bottom or using it as the bottom itself; does not know the curve's hydrodynamic function but recalls a quote from Matt Layden that the runner's outward dimension matters more than its shape.
+[19] Archive message page_2237 (openboat / "Alastair", `paradoxbuilders`, msgnum 2264, 2004-09-07) — "Re: chinerunners": unsure he understands the question correctly — the bottom has a single curvature fore-and-aft and is flat across; asks how thick Kjell's steel is if it will not bend to the same curve as 18 mm plywood, and whether an unbent sheet would leave gaps at the chines. Signed "Hoping for calm nights, Al, Yeovil, England."
+[20] Archive message page_2238 (alex29 / "John Gardiner", `paradoxbuilders`, msgnum 2265, 2004-09-07) — "Re: chinerunners": clarifies to Alastair that Kjell's question concerns the chine runners and the radius shown on the chine-runner profile, not the hull-bottom curvature generally.
+[21] Archive message page_2239 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2266, 2004-09-07) — "Re: chinerunners": has no upward curve on his own boat's chine runners; not sure whether it makes much difference or not. Signed "David, Whisper."
+[22] Archive message page_2240 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2267, 2004-09-07) — "Re: chinerunners": a "wild uneducated guess" that the curve acts like a sled when beaching, and/or protects the edge of the fiberglass roving; asks how Kjell's trip driving around the Baltic went.
+[23] Archive message page_2241 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2268, 2004-09-08) — "Re: chinerunners": recalls that in Matt Layden's *Beachcruising and Coastal Camping*, Warren Bailey described 1930s Key West sponging dinghies with a roughly 4-inch-radius "knuckle-V" chine protrusion (a "non-trip chine"), amazed at how a boat built with one would surf sideways in a breaker rather than tripping, as an ordinary hard-chine boat would; the same book records Matt's next boat after a sideways-surfing capsize as having gently radiused chines.
+[24] Archive message page_2242 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2269, 2004-09-08) — "Re: chinerunners": thanks Paul for the quote but remains unconvinced — if the aim is to prevent tipping sideways, wonders whether the curvature should instead be an "upward convexity" on the other side of the runner rather than the drawn "downward convexity"; explains his sheet-metal build (BRIS method, fibreglass/divinycell/polyester) uses a 2 mm, 70 kg bronze sheet glued to the bottom with an elastic epoxy as ballast, an abrasion surface, and a lightning-rod ground connection, with a neighbor's mechanical shop struggling to bend the sheet's ~15 mm-radius curve in two directions; separately mentions reworking a bronze rudder rod installed askew and building a fiberglass/epoxy (not wood) tiller, and a failed round-the-Baltic car trip cut short by Finnish customs at the Tallinn ferry.
+[25] Archive message page_2243 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2270, 2004-09-08) — "Re: chinerunners": restates the sled analogy — if the chine is radiused on the bottom to avoid digging in sideways when beaching, it should do the same in the water when surfing sideways, so as not to trip; asks whether Kjell could form the chine runners out of hardwood and glue them on afterward instead of bending metal.
+[26] Archive message page_2245 (carolfo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 2272, 2004-09-08) — "Re: chinerunners": had also considered a metal (stainless steel) Paradox bottom and the same chine-runner curve problem, with no bending recommendations of his own; asks Kjell for more detail on the elastic epoxy used and whether any mechanical fasteners hold the sheet down.
+[27] Archive message page_2246 (openboat / "Alastair", `paradoxbuilders`, msgnum 2273, 2004-09-08) — "Re: chinerunners": no bending is required if the runner is simply shaped with an angle grinder; Paradox is designed for sheet material construction, so building the bottom in steel should not be a problem in principle, though whether it is a good idea remains to be seen.
+[28] Archive message page_2247 (openboat / "Alastair", `paradoxbuilders`, msgnum 2274, 2004-09-08) — "Re: chinerunners": describes his own plywood method — fit the bottom ply proud of the sides, trim to the plan profile, fill the chine-runner wedge with wood blocks and epoxy, then shape the cured result (including the bottom radius) with a sanding disc on an angle grinder; suggests Kjell could do the same in metal, losing a little material at the radius but with no problem if the bond is good; had always assumed the radius exists to protect the edge of the bottom's fiberglass laminate rather than for a hydrodynamic reason.
+[29] Archive message page_2248 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2275, 2004-09-09) — "Re: chinerunners": clarifies the "upward convexity" question — the full-scale drawings show a "downward convexity" curve of about 15 mm radius on the chine runner's outer edge, and he wonders whether the drawn curve's sharp upper angle makes tripping easier when the boat slides sideways, versus the opposite ("upward") curve; concludes "I don't know."
+[30] Archive message page_2249 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2276, 2004-09-09) — "Re: chinerunners": answers Robert's epoxy question — uses the NM (Nils Malmgren) brand, including their elastic filler product, with no mechanical fasteners.
+[31] Archive message page_2250 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2277, 2004-09-09) — "Re: chinerunners": clarifies to Alastair that in the drawings' transverse section series, the bottommost layer (fibreglass, on the stock plywood design) corresponds to his own bronze sheet, and it is that layer's ~15 mm-radius curvature — not the hull bottom's fore-and-aft curve generally — that he cannot simply grind to shape.
+[32] Archive message page_2254 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2281, 2004-09-09) — "Re: chinerunners": believes the runner's upper angle provides lateral resistance when heeled and dug in, drawing a kayak analogy (leaning into a curved hard chine steers the boat toward that side); compares the effect to Phil Bolger's bottom-plated rudders, which let water "stick" to the blade's lower edge rather than spilling off; reasons a Paradox in conditions that could trip her should be sailed more upright to present the runner's rounded radius (letting water slide under) rather than the sharper upper edge (which could catch).
+[33] Archive message page_2262 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2289, 2004-09-10) — "Re: chinerunners": finds Paul's kayak analogy plausible but admits uncertainty over his own original "convexities" framing; asks whether the chine runner is on or in the water when a Paradox skids sideways down a wave, whether flow on each side of the runner is laminar or turbulent and whether curvature affects the resulting pressure difference, and whether the usual surface-speed/torque tripping mechanism even applies to a hull that might simply flow with the surface water rather than resist it — in which case the runner's curve would be moot in exactly the condition it is meant to help with.
+[34] Archive message page_2330 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2357, 2004-10-12) — "New pictures": reports the bronze bottom's chine-runner curve was excluded entirely — "I excluded the earlier discussed curvature and just cut it" — with the protruding bronze edge instead built up into the chine runners in fibreglass and epoxy; the bronze bottom "at least looks shiny."
+[35] Archive message page_2337 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2364, 2004-10-14) — "Epoxy & Fibreglass": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder); having seen Al Law's "Little Jim," wonders whether the chine runners alone protect the topsides from abrasion closely enough to skip glassing the sides.
+[36] Archive message page_2368 (colinpowell / "sae140" / Colin, `paradoxbuilders`, msgnum 2396, 2004-10-19) — "Chine runner efficiency.": having read Sven Yrvind's windward-performance article and seen photos of "Zoë"'s CR1/CR2 chine runners, was surprised how much smaller and "stubby" they looked than the at-least-6-in width he had assumed necessary to "dig in" when heeled; asks whether any documented trials establish runner width against leeway efficiency; considering fitting chine runners to a St Pierre dory to improve its sailing while retaining its shallow draft and beachability. No boat or build of his own on record; new below-threshold correspondent.
+[37] Archive message page_2371 (boldav38 / Dave Bolduc, `paradoxbuilders`, msgnum 2399, 2004-10-20) — "Re: Chine runner efficiency.": Matt experimented with chine-runner shape and size using models and full-size sailing; on Swamp Thing they began small and square, becoming larger and more triangular over time — the shape now seen on Paradox; a couple of years earlier Matt built one side of his own Paradox's chine runners larger than the other and sailed months comparing the two, concluding the larger runner's added drag/draft did not sufficiently improve performance, and eventually ground it back down to match; judges chine runners would probably work on Colin's St Pierre dory but would need to sit more amidship (as on the dory-like Swamp Thing) and the hull would need enough ballast to sit low enough for them to be effective.
+[38] Archive message page_2372 (arvent / Nels, `paradoxbuilders`, msgnum 2400, 2004-10-20) — "Re: Chine runner efficiency.": doubts chine runners work as well on a dory hull as a sharpie hull, reasoning the closer the angle between sides and bottom is to 90 degrees the better the effect; suspects this is why Sven Yrvind, whose boats have slacker bilges, does not use them; judges a centerboard or fin keel best for a dory hull.
+[39] Archive message page_2373 (boblq / "boblq", `paradoxbuilders`, msgnum 2401, 2004-10-20) — "Re: Chine runner efficiency.": asks Nels to explain why he believes chine runners suit a sharpie hull better than a dory hull. No boat or build on record; new below-threshold correspondent.
+[40] Archive message page_2374 (arvent / Nels, `paradoxbuilders`, msgnum 2402, 2004-10-21) — "Re: Chine runner efficiency.": full explanation — a box hull resists sideways slippage better than any other hull shape to begin with (a property Matt discovered from Phil Bolger's box-shaped boats, which also had exterior chine logs adding further resistance); Paradox's proportionally deep midships hull and heavy rocker let it immerse much deeper before the gunwales submerge than a "classic" shape could, adding still more resistance to sideways slippage, whereas a dory of similar size loses hull resistance to slippage from its flared topsides and, once ballasted deep enough to compensate, loses most of its freeboard and risks swamping in a gust; a dory is also inherently more tender to begin with (demonstrated by standing on the gunwale), which lets Paradox carry more sail without heeling past the point that presents an efficient "vee" shape underwater; quotes Phil Bolger: "What people don't realize is that the shape they don't like is the reason for the performance they do like"; notes Bolger's own recent designs mostly abandon chine runners for a centerboard (forward or off-centered) with an oversized, end-plated rudder (the end plate working like a chine runner); some larger Layden designs combine both a centerboard and chine runners for use across a range of water depths and loadings.
+[41] Archive message page_2375 (arvent / Nels, `paradoxbuilders`, msgnum 2403, 2004-10-21) — "Bolger Box and Dory Hull Comparison": posts a link (boatdesign.com) to the article referenced above, comparing Phil Bolger's redesigned St. Pierre Dory (given more freeboard than the type traditionally carries) against Bolger's "Jesse Cooper," a box-hulled sharpie of nearly the same length, beam, and shape as Paradox; Jesse Cooper was not ballasted deeply enough for chine runners and instead used a large daggerboard (later changed to twin bilgeboards), and needed more ballast than originally specified (some 1,400 lb of concrete and iron in one offshore-sailed version); despite similar dimensions, the sharpie hull gave far more interior room, as experienced by a builder who lived aboard Jesse Cooper for several years; judges a fin keel, heavy enough for stability, the dory hull's own best solution, citing Annie Hill(?) and Badger, a dory-hulled cruising boat sailed mostly downwind while waiting out unfavorable weather, whose owners eventually paid for a new keel.
+[42] Archive message page_2376 (boldav38 / Dave Bolduc, `paradoxbuilders`, msgnum 2404, 2004-10-21) — "Re: Bolger Box and Dory Hull Comparison": thanks Nels, judging the comparison did "an excellent job of illustrating how chine runners are best optimized for heavy slab sided boat like Matt's sharpies."
+[43] Archive message page_2377 (mat_man22 / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2405, 2004-10-21) — "Re: Chine runner efficiency.": reports designer Jeff Gilbert was looking at chine runners on a dory-sided hull, adding a drawing to the group's photo section under "Gumboot+Mono."
+[44] Archive message page_2378 (arvent / Nels, `paradoxbuilders`, msgnum 2406, 2004-10-22) — "Re: Chine runner efficiency.": had at first thought the Gumboot+Mono drawing (one half of Jeff Gilbert's "Gumboots" catamaran) was a joke, but knows Gilbert to be serious; judges it graphically illustrates the challenge of keeping such a hull upright and how a sharpie hull would work better, while allowing someone might still want to try it; asks whether any of Gilbert's designs have been built.
+[45] Archive message page_2379 (mat_man22 / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2407, 2004-10-22) — "Re: Chine runner efficiency.": jokes that T. Lee ("nutty_boats") had better not be told the Gumboot+Mono connection; believes four different Jeff Gilbert designs have been started, and notes Gilbert runs his own Yahoo group.
+[46] Archive message page_2380 (arvent / Nels, `paradoxbuilders`, msgnum 2408, 2004-10-22) — "Re: Chine runner efficiency.": cannot find anything online about the cat design to compare and cannot make out the chine-runner shaping in the file, wondering how the design (bottom apparently straight bow to stern, fairly wide/long runners, a possible long bowsprit) would tack and come about; posts a link to Gilbert's shorter camping-catamaran design "Hot Chili" on duckworksmagazine.com as an aside, not having read the article himself since catamarans are outside his interest; suggests searching "Jeff Gilbert" and "Hot chili" if the link fails.
+[47] Archive message page_2381 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2409, 2004-10-22) — "Re: Chine runner efficiency.": posts direct links to Jeff Gilbert's "Gumboots" catamaran design page and his regular column, both on duckworksmagazine.com, answering Nels's request above.
+[48] Archive message page_2382 (boblq / "boblq", `paradoxbuilders`, msgnum 2410, 2004-10-22) — "Re: Bolger Box and Dory Hull Comparison": brief last-word compliment agreeing with Dave Bolduc's thanks to Nels for the box-versus-dory explanation; no boat or build of his own on record.
+[49] Archive message page_2383 (arvent / Nels, `paradoxbuilders`, msgnum 2411, 2004-10-23) — "Re: Bolger Box and Dory Hull Comparison": follow-up explanation — a heeled slab-sided hull's resistance is forced downward by the water and, meeting the chine runner, deflected aft, adding forward push rather than pure drag, so leeway falls as boat speed rises; a conventional keel benefits from the same effect only weakly, being less exposed to the downward deflection; separately argues having no keel below the hull is itself a safety feature off a lee shore — lying ahull or reefed down, the boat can slide sideways rather than trip/knock down, and if washed over a reef is less likely to strike it and may wash ashore with little damage, in principle allowing the crew to simply wait out the situation aboard where a deeper-draft boat would still be getting bashed apart offshore; notes lifeboats are traditionally shallow-draft for the same reason.
+[50] Archive message page_2519 (hallman/bruce / "brucehallman" / Bruce Hallman, `paradoxbuilders`, msgnum 2547, 2005-01-14) — "Re: Atlantic trip": full text and citation at [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#the-full-return-report-cockpit-size-pounding-and-modified-sharpie-versus-sharpie); answers Derek Clark's question of what "Jesse Cooper" is — one of Phil Bolger's "Square Boats" — pointing to boatdesign.com/tomboy and Chapter 12 of *30 Odd Boats*.
+[51] Archive message page_2617 (r.peeters / "t57042" / Richard Peeters, `paradoxbuilders`, msgnum 2647, 2005-04-11) — "chine runners": designing his own water-ballasted boat with a box keel; asks whether chine runners are best fitted at the hull's chines or at the sides of the box keel, with an ASCII sketch of the two options. No boat or build of his own on the Paradox; below-threshold, correspondent-only.
+[52] Archive message page_2623 (openboat / "Alastair", `paradoxbuilders`, msgnum 2653, 2005-04-12) — "Re: chine runners": answers Richard Peeters's box-keel placement question by noting the answer depends on which theory of chine-runner drag is correct — some theories favor keeping the windward runner clear of the water; describes his own two working theories of the leeward-drag mechanism, one of which would make the choice of location immaterial and the other of which would make neither location work well, without saying which he believes correct.
+[53] Archive message page_2732 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2763, 2005-06-07) — "chine runners": asks whether Paradox's flat bottom is essential to the chine runners' success, prompted by Wharram catamaran builders' unsuccessful "vortex generator" horizontal-winglet experiment (a narrow-V hull, unlike Paradox's flat bottom); also floats a lug-rigged, flat-bottomed cat as a plausible small cruising design and cites Nathaniel Herreshoff's flat-bottomed catamaran Amaryllis (likened to plywood mixing troughs), fast enough under gaff rig that multihulls were subsequently banned from racing against monohulls in her era; also argues lug rig is not inherently slow, citing historical lug-rigged racing yachts in England. Unanswered on record. No boat or build of his own on record; new below-threshold correspondent.
+[54] Archive message page_2790 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2820, 2005-06-11) — "Chine runners": posts, without wanting to reopen debate over whether/why/how they work, a quote from designer Matt Layden describing the chine runners/winglets as small horizontally protruding fins at the chines amidship that help the hull function as a "lifting body" to resist leeway; Layden states a centerboard or other retractable vertical fin would do the job better, but he has "a mental allergy to moving parts and complication"; the runners are easy to build and protect the hull rather than weakening it, as a board does, and take up no interior space, always an issue in a small cruiser. Signed "Glen."

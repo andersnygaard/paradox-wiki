@@ -1,0 +1,297 @@
+---
+type: Reference
+title: Provisioning — food and water for multi-month cruises
+description: How the Bolducs provision food and water for multi-month winter Bahamas cruises aboard a Matt Layden micro-cruiser with no refrigeration, how the ship's stores double as working ballast, and two regional trolling techniques for supplementing stores with caught fish.
+tags: [paradox, operations, provisioning, food, water, ballast, little-cruiser, bolduc, fishing]
+timestamp: 2026-07-04T00:00:00Z
+---
+
+# Provisioning — food and water for multi-month cruises
+
+[David and Mindy Bolduc](/people/bolduc/dave.md) provision [Little
+Cruiser](/matt-layden/little-cruiser.md) — a Matt Layden micro-cruiser closely
+related to the [Paradox](/paradox.md) — for winter cruises to the Bahamas
+running roughly **2.5 to 3 months** and averaging about **800 miles** sailed,
+carrying **up to two months' stores for two people** with no refrigeration of
+any kind aboard. Provisioning on a boat this size is inseparable from two
+other themes: cooking without an icebox, and the fact that the stores
+themselves are a major part of the boat's working ballast.
+
+## Food: no refrigeration, no icebox
+
+Little Cruiser has **no refrigeration or ice chest**. The Bolducs' approach
+is built entirely around that constraint:
+
+- **Produce keeps in baskets.** Fresh fruit and vegetables are stored loose in
+  baskets rather than sealed or chilled, and the Bolducs found "most produce
+  keeps quite a long time" this way.
+- **Condiments in squeeze bottles.** Butter, ketchup, mustard, and mayonnaise
+  are carried in squeeze-bottle form specifically to avoid needing
+  refrigeration — confirmed by the provisioning philosophy and the Bahama food
+  list alike.
+- **The bulk of the diet is canned and dry.** The rest of the food supply is
+  canned or dry goods: rice, pasta, dried beans, dried fruit, dried
+  mushrooms, canned proteins (chicken, clams, salmon, tuna, Vienna sausage),
+  and foil-pack items — staples that need no cold storage over a three-month
+  trip.
+- **Fresh meat, fish, and treats are bought locally and eaten immediately.**
+  Rather than trying to store perishables, the Bolducs buy fresh items —
+  meat, fish, even ice cream — as they cruise, and eat them right away rather
+  than trying to keep them.
+- **Caught fish supplements the stores**, though the Bolducs describe
+  "occasional fishing" with mixed feelings about killing fish rather than
+  treating it as a primary food source.
+- **Two months' stores for two people** is the stated carrying capacity, with
+  local produce and fresh catch supplementing the packed provisions rather
+  than replacing them; an outside press account likewise describes them
+  carrying "two months' provisions" plus room for a pet parrot.
+
+## Fishing while cruising
+
+Trolling for dinner from a Paradox draws on two independent regional
+techniques, both aimed at a single- or double-hander who wants results
+without much dedicated tackle.
+
+**Northeast Atlantic seaboard: a cheap, vibrating broken-back lure.**
+[Jack Gardiner](/people/jack-gardiner.md) recommended an inexpensive
+broken-back "Rebel"-style lure (sold as an "Atom Bomber" for about $4 at
+mass-market retailers), which draws strikes from striper bass, bluefish, and
+weakfish — the vibration transmitted along the line when the lure is
+trolled, rather than its visual appearance, seems to be what draws a strike.
+He runs a **steel leader** to prevent a hooked fish dragging the line across
+rocks or a feeding school biting through it, and cautions strongly about hand
+safety: a loop of line can take a finger off in an instant if a good-sized
+fish hits while the line is being handled carelessly.
+
+**Pacific waters: the "meathook" rig, learned from albacore-jig
+fishermen.** [DC](/people/dc.md), after losing "much expensive gear" chasing
+sport-fishing tackle, returned to a simple heavy-duty rig set up for him by
+commercial-style albacore jig fishermen: roughly 50 ft of 500 lb tuna cord
+tied to a stainless swivel, followed by 25 ft of 500 lb monofilament ending
+in a "tuna-feather" — a large lead-headed jig dressed with white and green
+feathers and fitted with a big, barbless double hook. To keep a solidly
+hooked fish from damaging the boat, he built a homemade shock absorber:
+tuna cord run through a 3 ft section of surgical tubing, lashed at one end,
+stretched out to about 16 ft while the cord bunched up inside, then lashed
+at the other end once the tension was released — the whole assembly then
+wrapped in tubular nylon webbing to protect the surgical tubing from
+sun-rot. A wire leader between the monofilament and the tuna-feather guards
+against a toothy catch. Fished this way, the rig took sierra, bonito,
+albacore, yellowfin, yellowtail, and dorado — enough, between sushi and
+barbecue, to fill a freezer and share with other sailors — though it also
+demands a wary eye for marine mammals and seabirds, since the trailing hook
+can just as easily hook a booby, gull, or frigate bird as a fish. DC's
+broader advice for an unfamiliar fishing ground: local knowledge from
+commercial fishermen, or a stop at a commercial-fishing chandlery, beats
+guessing at sport-fishing tackle, since commercial fishermen "know what
+works in the area where they fish."
+
+## Cooking: GAZ propane stove and a small pressure cooker
+
+Cooking gear is chosen for compactness and to stretch a limited fuel supply
+over a long trip:
+
+- **GAZ propane stove**, using **1-lb cylinders** small enough to fit and
+  stow in the bilge. The Bolducs call it "one of our favorite pieces of
+  gear."
+- **About 10 cylinders last a whole winter trip** — "Ten cylinders get us
+  through a whole winter trip!" A separate trip inventory lists **12** 1-lb
+  GAZ cylinders packed (available at backpacking stores) along with **two**
+  GAZ stoves carried for redundancy.
+- **Cooking in a small pressure cooker** — a roughly 3.5-quart pot — is core
+  to stretching that fuel budget on a three-month trip: rice cooks in about
+  10 minutes and a bean or vegetable stew in about 20, far faster than open
+  simmering would take on a single 1-lb cylinder's worth of propane.
+- See [cabin heating](/operations/cabin-heating.md) for the same stove's
+  secondary role — run on its lowest setting, it doubles as a cabin heater
+  in cold weather, with the same combustion-byproduct and ventilation
+  cautions that apply to cooking in the enclosed cabin.
+
+## Water: cube tankage, rain catchment, and a manual watermaker
+
+### Storage: individual water cubes in the bilge
+
+The Bolducs' small-water-container practice comes from their own published
+trip inventory: **twenty 1-quart jugs**, supplemented by **2.5- and
+5-gallon jugs**, for about 12.5 gallons of total carrying capacity on a
+three-month trip.[7][22] The containers themselves are **one-quart
+containers that fold flat**, similar in construction to clear plastic cubes
+sold in 2.5- and 5-gallon sizes at K-Mart and outdoor-sporting-goods stores,
+topped off from two 2.5-gallon cubes carried as reserve supply. Their
+original small cubes, bought from Campmor (New Jersey) and Adventure 16, had
+the advantage of folding flat once emptied, freeing the space for more food
+or other heavy ballast — but that specific product was discontinued, and the
+Bolducs expected to switch to round bottles (which take up more space) once
+their remaining stock wore out.[23]
+
+Rather than one or two large tanks, water is stored in **individual square
+water cubes** sized to fit the bilge space. This has two deliberate benefits:
+
+- **Contamination isolation** — if tainted water is taken aboard in one
+  cube, it does not spoil the rest of the supply, since each cube is a
+  separate, sealed unit.
+- **A ballast link** — as detailed below, the cubes double as ballast, and
+  the ballast effect diminishes predictably as each cube is drunk down.
+
+### Rain catchment
+
+Little Cruiser's **toe rails channel rainwater into holes in the deck**
+that lead down to the tanks below, so the water tanks can be **automatically
+filled whenever it rains** — no separate catchment gear needed underway.
+
+### Manual reverse-osmosis watermaker
+
+For times when the boat is isolated from any shore source, the Bolducs carry
+a **PUR "Survivor 35"** — a hand-operated (manual-pump) reverse-osmosis
+watermaker, about 7 lb, rated at roughly **1.2 gallons per hour**. It was
+used on five of their first six Bahama trips, but only sparingly — "if we had
+an electric one we probably would have used it more out of shear
+convenience" — because working the hand pump is real effort compared with
+simply buying or catching water. A larger 25-lb electric alternative, the
+Power Survivor 40E (1.6 gal/hr at 4 amps), was considered as a possible
+upgrade if space and power allowed.
+
+### Shore sources and rough costs
+
+When cruising the Bahamas, water is mostly bought or drawn ashore rather than
+made:
+
+- **Well/cistern water** — free, where available.
+- **R.O. (desalinated) water** — available at developed islands, roughly
+  **50–60 cents per gallon**.
+- **Spring water** — roughly **$1 per gallon**.
+- **Rainwater catchment**, as above, when conditions allow.
+
+The manual watermaker was reserved for genuinely isolated spots, such as
+Stafford Creek on Andros, where none of the shore options were available.
+
+### Salt water for cooking
+
+To economize on fresh water, **salt water is used for some cooking** —
+for example, boiling spaghetti — rather than drawing down the fresh supply
+for every pot.
+
+### Self-flooding sea-water ballast tanks: feasible but risky
+
+For a solo sailor who finds the plans' 70-litre fresh-water tank capacity
+more than needed, one alternative is using the built-in water tanks purely
+as **sea-water ballast** — flooding them on launch and pumping or draining
+them out again on recovery — with drinking water carried separately in
+small bladders instead. This is **feasible in principle**, since the tanks
+sit below the waterline, but the **inspection hatches would need to be
+genuinely watertight** for it to work safely; it remains an untested
+modification, not a proven one. For a solo sailor wanting smaller, more
+manageable water containers rather than one or two large built-in tanks,
+see also [water tank construction and lining
+options](/construction/water-tank-lining.md), and
+[weight, ballast, and displacement](/design/weight-and-ballast.md) for the
+built-in tanks' normal ballast role when used for fresh water.
+
+A simple practice for small-quantity drinking water: carrying it in reused
+**2-litre fizzy-drink bottles**, marked on the outside in mug-sized
+divisions so the right amount can always be measured straight into the
+kettle — and, in an emergency, usable as improvised fenders.
+
+Two concrete approaches to actually plumbing self-flooding tanks have been
+worked out. A sea cock plus pump to replace the inspection hatches entirely
+is not recommended — "you never know what may be living in there" — but a
+simpler gravity-only alternative works: a permanently open hole at the aft
+end of each tank, closed with a plug that also serves as an enlarged air
+vent. Pulling the plug at launch floods the tank; replacing it prevents the
+tank sloshing in and out in rough water; pulling it again on the trailer
+drains the tank as the boat comes out. A marine-hardware version of the same
+idea fits a standard bronze through-hull valve in the tank floor: once
+launched, the tank's deck plate is lifted, the valve opened to fill, and
+shut once the tank is full; Paradox's existing venting system is needed to
+drain the tank without lifting the deck plate again, and on the trailer the
+deck plate is lifted and the valve opened to let the seawater out. Against
+actually adopting the conversion, though: Paradox's built-in tank is
+deliberately a **rainwater-catching cruising feature** (see the [Little
+Cruiser toe-rail rain-catchment system](/design/weight-and-ballast.md)
+elsewhere in this archive) — valuable on a long-range trip where fresh shore
+water is hard to come by — and converting it to sea-water ballast gives that
+up. A further variant: mount the inspection ports on the **outside** of the
+tank rather than inside, using a more substantial fitting than the standard
+plastic hardware.
+
+For a builder who decides against the conversion and keeps the tanks for
+fresh water, a middle path is to build the tanks as drawn but fit them with
+**open hatch lids** (oval-shaped, to keep some structural strength) instead
+of the plans' sealed covers, so the tank space can double as dry stowage for
+bladders and other gear — "good things do come in small packages." One solo
+sailor weighing the original self-flooding-ballast idea ultimately judged
+the plans' 70-litre capacity more than he needed and settled on carrying
+drinking water in a couple of 10-litre bladders instead, ruling out
+refilling from rainwater or local rivers directly for drinking, only for
+washing. On the wider question of untreated water: local water — in Europe
+or anywhere else — should be run through a **filter** before drinking, and
+in some regions it is unwise to even bathe in it; a good portable filter
+from a backpacking outfitter is worth the price for long-distance cruising.
+
+## The provisioning–ballast link
+
+Provisioning on a Layden micro-cruiser is not just a galley question — it is
+a **structural loading question**. In Matt Layden's sharpies, **most of the
+ship's stores make up the working ballast**: canned goods, water cubes, and
+other provisions are stowed low and amidships in the bilge, doing double duty
+as weight that keeps the boat properly trimmed and stiff.
+
+This is stated directly of Little Cruiser: she is designed to reach her
+**proper cruising trim only once she is fully stored** for a trip, and the
+stores provide most of that ballast — one reason the Bolducs credit her with
+being "remarkably fast for her size" and able to keep pace with cruising
+boats up to 25 ft, since she is never sailed light and out of trim the way a
+lightly-provisioned boat would be.
+
+Practically, this means:
+
+- **Ballast must be re-shifted and topped up as stores are consumed.**
+  Heaviest items (canned goods, full water cubes) are stowed low and
+  amidship — Little Cruiser's maximum bilge depth is only about 5⅜ inches
+  amidships, narrowing to about 2¾ inches forward — with lighter items
+  stowed higher; as cans and cubes are used up, remaining weight is
+  reorganized to keep the boat properly ballasted for the rest of the trip.
+- **Depleting a water cube reduces ballast as well as supply** — the same
+  cube-tankage system chosen to isolate contamination (above) also means the
+  boat's trim shifts gradually and predictably as fresh water is drunk down,
+  rather than all at once.
+- **A storm anchor doing ballast duty is the same idea in miniature** — the
+  25-lb take-apart Luke storm anchor is stowed below and "serves as ballast
+  most of the time," only pulled out for genuine storm conditions — the same
+  logic of making stowed weight do useful double duty that governs the food
+  and water stores generally.
+
+See [weight and ballast](/design/weight-and-ballast.md) for the fuller
+design-level treatment of stores-as-ballast, water ballast tankage, and how
+this affects trim and stability; see [Little
+Cruiser](/matt-layden/little-cruiser.md) for the boat this provisioning
+practice is drawn from; and see [group cruise
+reports](/operations/group-cruise-reports.md) for firsthand trip accounts
+that put this multi-month provisioning into the context of actual passages
+and gatherings.
+
+# Citations
+
+[1] microcruising.com — "About Us" (http://www.microcruising.com/sca1.htm), David & Mindy Bolduc — no refrigeration or ice chest aboard; "We've found most produce keeps quite a long time in baskets"; up to two months' stores for two people, supplemented by local produce and occasional fishing; GAZ propane stove using compact 1-lb cylinders, "Ten cylinders get us through a whole winter trip!"; water stored in individual square water cubes fitted to the bilge, which "ensures we don't pollute our whole water supply should we take on some tainted water."
+[2] microcruising.com — "Forum Questions 1" (http://www.microcruising.com/fq1.htm), David & Mindy Bolduc — water sourcing while cruising the Bahamas: R.O. and spring water at developed islands, well/cistern water and rainwater catchment elsewhere, a manual R.O. unit used rarely and only when very isolated (Stafford Creek, Andros), "if we had an electric one we probably would have used it more out of shear convenience"; approximate costs — well water free, R.O. water roughly 50–60 cents/gallon, spring water roughly $1/gallon; salt water used for cooking (e.g. spaghetti); confirms Little Cruiser was "designed to reach her proper cruising trim only after all the stores were aboard, and these stores provide most of the ballast."
+[3] microcruising.com — "Microcruising Guide" (http://www.microcruising.com/mcg.htm), David & Mindy Bolduc — "in Matt's sharpies most of the ship's stores make up the ballast"; bilge/ballast-stowage geometry ("our maximum bilge space is 5 3/8" amidship while the minimum depth is 2 ¾" up forward"), heaviest stores stowed low/amidship with ballast re-shifted and topped up as stores are consumed; ~800 miles covered over 2.5–3 months of cruising; 25-lb take-apart Luke storm anchor "serves as ballast most of the time."
+[4] microcruising.com — "Bahama Food List" (http://www.microcruising.com/Foodlist.htm), David & Mindy Bolduc — provisioning list for a three-month Bahama trip: canned/foil-pack proteins, dried staples (rice, pasta, dried beans, dried fruit, dried mushrooms), squeeze-bottle condiments (butter, ketchup, mayonnaise, mustard) to avoid refrigeration, and perishables bought fresh in the Bahamas (fresh caught fish, New Zealand butter, fresh vegetables) rather than stored aboard.
+[5] microcruising.com — equipment review (http://www.microcruising.com/reviewb.htm), David & Mindy Bolduc — Survivor 35 (PUR) hand-operated reverse-osmosis watermaker, about 7 lb, rated ~1.2 gal/hr, used on five of their first six Bahama trips; considered the larger electric Power Survivor 40E (1.6 gal/hr at 4 amps, 25 lb) as a possible upgrade.
+[6] microcruising.com — equipment review (http://www.microcruising.com/reviewfav.htm), David & Mindy Bolduc — GSI 3.5-quart pressure cooker as a "Favorite Cruising Gear" staple for stretching propane on three-month trips: rice in about 10 minutes, a bean or vegetable stew in about 20.
+[7] microcruising.com — "Little Cruiser Trip Inventory List" (http://www.microcruising.com/inv1.htm), David & Mindy Bolduc — inventory for "three month long trips": two GAZ stoves carried plus twelve 1-lb GAZ cylinders ("available at backpacking stores"); a pressure cooker among the cooking gear; a "Survivor 35" watermaker plus biocide carried aboard; water storage of twenty 1-quart jugs plus 2.5- and 5-gallon jugs (about 12.5 gal total capacity); food supplies acknowledged as insufficient to last the whole trip and routinely supplemented "with fresh fruits, vegetables and dry goods along the way."
+[8] microcruising.com — article "Cruising in Little Cruiser" (http://www.microcruising.com/article1.htm), David & Mindy Bolduc — Little Cruiser's water tanks "can be automatically filled whenever it rains," via toe rails that "channel water into holes in the deck that lead to the tanks below."
+[9] microcruising.com — Cruising World mention, "The Minimalists of George-Town" (http://www.microcruising.com/cw1.htm), Michel Savage, quoting David & Mindy Bolduc — "They carry two months' provisions aboard and still have space for Buddy, a parrot who does acrobatic tricks"; describes Little Cruiser's "freshwater ballast," where "the more you drink, the more tender the boat becomes."
+[10] Archive message page_1304 (dclark / "dclark52001", `paradoxbuilders`, msgnum 1324, 2003-11-16) — "Fresh Water tanks": asks whether anyone has used the built-in fresh-water tanks as sea-water ballast tanks, flooding on launch and draining on recovery; judges the plans' 70-litre fresh-water capacity excessive for a European solo sailor, especially given the difficulty of finding a convenient hosepipe; plans to use 10-litre bladders with taps instead.
+[11] Archive message page_1309 (openboat / Alastair, `paradoxbuilders`, msgnum 1329, 2003-11-16) — "Re: Fresh Water tanks": had separately been considering self-flooding ballast tanks that same weekend; judges it feasible since the tanks sit below the waterline, but stresses the inspection hatches must be genuinely watertight; carries drinking water in 2-litre fizzy-drink bottles marked in mug-sized divisions, doubling as fenders in an emergency.
+[12] Archive message page_1311 (dclark / "dclark52001", `paradoxbuilders`, msgnum 1331, 2003-11-16) — "Re: Fresh Water tanks": asks whether Alastair was thinking of doing without inspection hatches entirely and using a sea cock to flood the tanks and a pump to empty them.
+[13] Archive message page_1312 (openboat / Alastair, `paradoxbuilders`, msgnum 1332, 2003-11-16) — "Re: Fresh Water tanks": would never have an uninspectable cavity, "you never know what may be living in there"; proposes instead a permanently open hole at each tank's aft end with a plug doubling as an enlarged air vent — pull the plug to flood at launch, replace it to stop rough-water slosh, pull it again on the trailer to drain; separately mentions still not having settled on a good way to stow the anchor and considering a draining anchor well in the rear deck.
+[14] Archive message page_1318 (delliott / Don Elliott, `paradoxbuilders`, msgnum 1338, 2003-11-16) — "Re: Fresh Water tanks": confirms the conversion is easily done — fit a standard bronze through-hull valve in the tank floor (diagram at tomah.com/delliott, copyright 2001), open it to fill once launched and the deck plate is lifted, shut it once full; Paradox's venting system is needed to drain without lifting the deck plate again; cautions the tank is deliberately meant to catch rainwater for long-range cruising when shore water is scarce, a feature worth keeping.
+[15] Archive message page_1324 (LJGeib / "Larry," `paradoxbuilders`, msgnum 1344, 2003-11-16) — "Re: Fresh Water tanks": suggests mounting the inspection ports on the outside of the tank instead, probably in a more substantial fitting than the standard plastic kind.
+[16] Archive message page_1325 (dclark / "dclark52001" / Derek, `paradoxbuilders`, msgnum 1345, 2003-11-16) — "Re: Fresh Water tanks": thanks Don for the useful diagram; plans to cruise European rivers where 10-litre bladders are easy to refill at a house or village pump; would not drink local rainwater, at most wash in it.
+[17] Archive message page_1326 (delliott / Don Elliott, `paradoxbuilders`, msgnum 1346, 2003-11-16) — "Re: Fresh Water tanks": for Derek's more modest needs, suggests building the tanks as drawn but with open, oval-shaped hatch lids instead of sealed covers, so the space can store bladders and other gear; "good things do come in small packages."
+[18] Archive message page_1329 (arvent / Nels, `paradoxbuilders`, msgnum 1349, 2003-11-16) — "Re: Fresh Water tanks": from backpacking/camping experience, would not drink local water anywhere without running it through a filter first, and would hesitate to even bathe in some European water; recommends a good portable filter from a backpacking outfitter as worth the price.
+[19] Archive message page_1998 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2021, 2004-03-28) — "Trolling": asks for saltwater trolling advice and lure/rig recommendations, having no prior saltwater fishing experience, wanting to catch dinner aboard "Whisper."
+[20] Archive message page_1999 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 2022, 2004-03-28) — "Re: Trolling": recommends a cheap ($4) broken-back "Rebel"-style "Atom Bomber" lure, effective in the North East Atlantic seaboard for striper bass, bluefish, and weakfish; believes the vibration felt through the line, more than the lure's look, draws the strike; uses a steel leader against rocks and biting fish; warns handling the line carelessly around a hooked fish risks losing a finger.
+[21] Archive message page_2000 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2023, 2004-03-29) — "Re: Trolling": describes his "meathook" rig — 50 ft of 500 lb tuna cord to a stainless swivel, 25 ft of 500 lb monofilament to a lead-headed, feathered "tuna-feather" jig with a barbless double hook, plus a homemade surgical-tubing shock absorber (lashed at a stretched 16 ft, wrapped in tubular nylon webbing against sun-rot) and a wire leader; learned from commercial-style albacore jig fishermen; landed sierra, bonito, albacore, yellowfin, yellowtail, and dorado, enough to fill a freezer and share; cautions the trailing hook risks snagging boobies, gulls, and frigate birds; recommends consulting commercial fishermen or a commercial-fishing chandlery for local knowledge.
+[22] Archive message page_2679 (daved / "jackefroste" / Daved Ferrell, `paradoxbuilders`, msgnum 2709, 2005-05-14) — "Water containers used in Little Cruiser": "I've read about your using small water containers. What size and brand are they?" See the Bolducs' own trip-inventory figures at citation [7] above for the concrete answer (twenty 1-quart jugs plus 2.5- and 5-gallon jugs).
+[23] Archive message page_2681 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2711, 2005-05-15) — "Re: Water containers used in Little Cruiser": one-quart containers that fold flat, similar in construction to clear plastic cubes sold in 2.5- and 5-gallon sizes at K-Mart and outdoor stores; two 2.5-gallon cubes carried to top off the smaller ones; original small cubes bought from Campmor (NJ) and Adventure 16, prized because they folded flat once emptied, freeing space for more food or other heavy ballast; that product discontinued, so expects to switch to round bottles (more space-hungry) once the remaining stock wears out.

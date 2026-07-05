@@ -1,0 +1,210 @@
+---
+type: Concept
+title: Cabin heating for cold-weather sailing
+description: Cabin heating options for the Paradox in cold weather — body heat and solar gain, the cabin stove run on low with cracked ventilation, an inverted-flower-pot heat retainer, window-condensation mitigation, and why unvented combustion heaters are a carbon-monoxide hazard.
+tags: [paradox, operations, heating, safety, cold-weather, carbon-monoxide]
+timestamp: 2026-07-01T00:00:00Z
+---
+
+# Cabin heating for cold-weather sailing
+
+The Paradox's small, enclosed [cabin](/paradox.md) — which already houses a
+cabin stove for cooking — retains heat effectively, whether from body heat
+and solar gain alone or from the stove run low. There is no dedicated cabin
+heater in general use; owners instead rely on a handful of practice-tested
+techniques, balanced against the carbon-monoxide risk of any combustion
+appliance in a sealed space.
+
+## Carbon monoxide risk from unvented combustion heaters
+
+Any heating setup in an enclosed space like the Paradox's cabin must account
+for proper disposal of the products of combustion — CO, CO₂, and H₂O. There
+are known cases of people dying while trying to keep warm in an enclosed
+space (a van) using Coleman-type gas lights or radiant heaters, i.e. unvented
+combustion appliances not designed as cabin heaters. Small coal- and
+pellet-burning heaters designed for boats do exist, but are relatively
+expensive. A compressed-gas camping light (the kind Coleman makes) produces
+a surprising amount of heat as a side effect of producing light, but is not
+a substitute for a proper vented heater. A vented alternative exists in
+principle — Zodi's "Hot Vent" product (zodi.com) puts the heat/flame source
+outside the space being warmed rather than burning fuel inside the cabin,
+directly avoiding the combustion-byproduct problem — though no report of a
+Paradox owner adapting or installing one is recorded.
+
+## Body heat, solar gain, and the stove run low
+
+**Matt Layden** has tried just about every low-tech option in his own boats.
+One winter he deliberately froze [Little Cruiser](/matt-layden/little-cruiser.md)
+into a saltwater pond on Cape Cod just to experience what it was like, and
+found that his own body heat plus sun coming in through the windows kept the
+boat comfortable enough — no auxiliary heater at all. He eventually sailed
+her back out through the ice to end the winter's entombment; [Dave
+Bolduc](/people/bolduc/dave.md) only learned of the episode afterward, on
+stripping paint from Little Cruiser's sides for a refit, when he noticed
+cuts up forward in the shape of a bow wave — physical evidence, preserved
+under the paint, of that exit.
+
+Dave Bolduc's own practice, working in his boat (stored outside) during
+winter, is to run the cabin stove on its very lowest setting and leave it
+on — it gets surprisingly hot inside. A crack left open at the hatch is
+essential for ventilation, since without it the heat itself (not just fumes)
+can drive you back out. Underway in cold weather, Dave instead runs the gas
+cooking stove on low for a few minutes at a time, always with the hatch
+cracked to avoid carbon monoxide buildup. Most of his own cold-weather time
+aboard Little Cruiser is spent at the dock rather than underway, where
+sunlight through the windows plus body heat alone usually keeps the cabin
+tolerable; when it gets too cold even for that, his safest method on land
+has been a ceramic heater. Warm clothing and a winter sleeping bag make a
+real difference to comfort on a cold cruise.
+
+David and Mindy Bolduc's own microcruising.com account corroborates this
+picture and adds construction detail: Little Cruiser is fully insulated with
+about two inches of foam, which they credit for comfort at both extremes —
+"When it's hot we're cool and when it's cold we're warm" — and as a direct
+result they sleep aboard the boat routinely rather than camping ashore. Their
+cooking/heat source is a GAZ propane stove burning 1-lb cylinders small
+enough to stow in the bilge: "Ten cylinders get us through a whole winter
+trip!" Foam fitted in the windows (a technique Matt Layden also used aboard
+Little Cruiser, and which the Bolducs adopted on their own boat) gives a
+three-way benefit — cooler in hot weather, warmer in cold weather, and a
+dramatic reduction in condensation. See [provisioning and
+water](/operations/provisioning-and-water.md) for the Bolducs' related
+cabin/stores philosophy.
+
+## The inverted-flower-pot heat retainer
+
+[Glen C. Maxwell](/people/glen-maxwell.md) uses an ordinary clay flower pot
+placed upside-down over the stove: the clay absorbs and holds the heat
+longer than the bare open flame would radiate alone, giving a longer-lasting
+warm glow after (or instead of) turning the stove up. It is not safe to fall
+asleep with the stove burning — for an overnight, a good sleeping bag is the
+safer way to stay warm rather than relying on a lit stove.
+
+Glen field-tested the technique himself aboard "Zoë" on a cold Cumberland
+Sound cruise (see [Glen C. Maxwell — "Building
+encouragement"](/people/glen-maxwell/build-and-zoe.md)):
+with the overnight temperature in the low 30s°F, he ran the flower pot on
+the stove for about five minutes — "all I could stand" — after which the
+cabin stayed comfortable for some time, helped by a down sleeping bag. The
+only drawback was heavy condensation on the windows and overhead the next
+morning, wiped up with a synthetic-chamois "Absorber," which he attributed
+partly to having plugged all the vent openings overnight — a concrete
+real-world data point on the ventilation/condensation trade-off of sealing
+up a Paradox-style cabin tightly for warmth.
+
+A hazard worth noting with this technique: a hot pot resting loose on the
+stove can end up dislodged elsewhere in the cabin if knocked free, so it is
+worth securing or watching rather than leaving unattended.
+
+## Window condensation: causes and mitigation
+
+Condensation on the cabin windows and overhead is a recurring side effect of
+a sealed-up, heated cabin. On "Zoë," no insulation is fitted, and
+condensation has not been a serious problem: a lip surrounding the cabin
+already collects any condensation running off the windows, and the gutter
+itself stays dry — only the windows and overhead get wet. Leaving some
+through-ventilation carries the moisture out of the air, at the cost of a
+colder cabin — the same heat-vs.-ventilation trade-off the flower-pot
+technique runs into.
+
+Two further approaches address the same problem from different angles.
+Fitting a drain channel in the window frame, below the Lexan, would let
+condensation running off the window drain away rather than pool — a
+mitigation-by-drainage approach not confirmed as built on a Paradox. Foam
+fitted in the windows (see above) instead prevents condensation from
+forming in the first place, and the Bolducs report a dramatic reduction in
+practice. A third approach, from outside the Paradox family: on Sven
+Yrvind's **BRIS** microcruiser (see [blue-water
+suitability](/design/blue-water-suitability.md)), window condensation is
+deliberately channelled to a tube and collected in a bottle, doubling as a
+source of drinking water.
+
+## The cabin stove's gimbal axis
+
+A Paradox galley stove is typically gimbaled for roll (port-to-starboard)
+only, not for pitch: on "Zoë," the mount allows motion on two axes because
+the boat pitches very little at anchor or underway. This is the only
+recorded description of how a Paradox galley stove is actually mounted,
+though it does not specify stove type in general — see [provisioning and
+water](/operations/provisioning-and-water.md) for the Bolducs' separate GAZ
+propane stove aboard Little Cruiser.
+
+## Choosing a galley cooking stove: the Force 10 Seacook and the Forespar alternative
+
+Separately from the heating question above, [David
+Beard](/people/david-beard.md) asked the list for firsthand experience with
+the **Force 10 Seacook** — a single-burner, gimballed propane stove — as a
+possible addition to "[Whisper](/boats/whisper.md)." [DC](/people/dc.md) had
+no direct experience with that particular model, but rated Force 10's other
+products good quality and value generally, and suggested comparing the
+Seacook against the **Forespar Mini-Galley 2000** before deciding. David
+weighed the two and judged he preferred the Forespar.
+
+## A gimballed lamp as a heat source: open question
+
+Whether a gimballed kerosene lamp could serve as a practical mild heat
+source aboard a Paradox — as one had aboard a 20 ft canoe yawl elsewhere —
+remains an open question in the archive. Candidate designs discussed include
+a small Welsh miner's-style gimballed lamp (reasoned to work well given how
+easily an insulated Paradox cabin warms around even a small heat source) and
+a metal chimney with baffles/coils, which might produce more heat than a
+plain lamp chimney at the cost of more soot. [Alastair](/people/alastair.md)
+judged that "little Jim"'s cabin has nowhere above eye height to mount a
+lamp, so any lamp fitted would tend to dazzle whoever was aboard; his own
+solution sidesteps the problem rather than solving it, using LEDs set into
+the cabin roof — well above where a hanging lamp could go, and, unlike a
+flame, with no dazzle, heat, or soot to manage. This is the first recorded
+description of a Paradox using LED cabin lighting rather than a gas or
+kerosene lamp, though it does not address the underlying interest in a lamp
+specifically as a heat source. See [design/rig.md](/design/rig.md) and
+[boats/little-jim.md](/boats/little-jim.md) for the first-sail account that
+prompted the lamp question in the first place.
+
+## Open-flame lighting and heat versus electric: a deliberate minimal-electrics choice
+
+Not every builder wants an electrically-dependent cabin. One UK builder,
+deep into fitting out his own boat, chose a **paraffin (kerosene) anchor
+lamp and a candle lantern** for interior lighting and heat, keeping
+electrics to a bare minimum — just enough for charging batteries and
+running a GPS, depth finder, and radio.[17] Warned that open flame is a
+real risk ("just one more way you might end up swimming home"),[18] he
+gave a considered defense of the choice: light, heat, and cooking need not
+be electrically powered, and being wholly battery-dependent is its own
+kind of compromise. Having survived both a near-drowning and more than one
+unexpected fire (including once having to leave a burning tent in a hurry),
+he had concluded that a source of open flame should never sit between the
+crew and the only way out — which is why he ruled out placing the stove
+behind the cabin's aft bulkhead — and that the design's stove position is
+in fact the right place to keep the fire extinguisher. With reasonable
+precautions, sound equipment, and backup safety gear (a fire blanket and
+extinguisher) in place, he judged the risk acceptable: if the worst
+happened he would simply swim ashore.[19]
+
+# Citations
+
+[1] Archive message page_146 (David Beard, `paradoxbuilders`, 2001-12-01) — "Heat": asks for ideas on heating Paradox for cold-weather sailing.
+[2] Archive message page_147 (king / kingfm, `paradoxbuilders`, 2001-12-04) — "Re: Heat": jokingly suggests a compressed-gas Coleman-style camping light, which gets "REALLY hot" as a side effect.
+[3] Archive message page_148 (LJGeib, `paradoxbuilders`, 2001-12-04) — "Re: Heat": warns that any heater must safely dispose of CO/CO2/H2O combustion products; cites deaths from Coleman lights/radiant heaters used for warmth in an enclosed van; notes small marine coal/pellet heaters exist but are expensive.
+[4] Archive message page_152 (king / kingfm "Bryan", `paradoxbuilders`, 2001-12-08) — "Re: Heat": links to Zodi's "Hot Vent" product (zodi.com/2000/files/hotvent/hotvent.html), a heat source designed to sit outside the space it warms.
+[5] Archive message page_156 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-11) — "Heating": Matt Layden has tried nearly everything; once froze his boat into a Cape Cod saltwater pond deliberately to test it, and found body heat plus sun through the windows kept him comfortable; Dave's own practice is running the cabin stove on its lowest setting while working in the boat in winter, with a hatch cracked for ventilation since the heat itself can drive you out.
+[6] Archive message page_157 (Glen Maxwell, `paradoxbuilders`, 2001-12-11) — "Re: Heating": recommends placing an inverted clay flower pot over the stove to retain heat longer than an open flame; repeats that it is unsafe to sleep with the stove burning — use a good sleeping bag instead.
+[6a] Archive message page_779 (Glen Maxwell, `paradoxbuilders`, msgnum 793, 2002-12-10) — "Building encouragement": low-30s°F overnight temperature; ran the clay flower pot on the stove ~5 min, cabin stayed comfortable with a down sleeping bag; heavy condensation the next morning, wiped with a synthetic-chamois "Absorber"; attributes condensation partly to having plugged all vent openings.
+[6b] Archive message page_781 (Alastair, `paradoxbuilders`, msgnum 795, 2002-12-10) — "Re: Building encouragement": asks whether leaving a channel in the window frame, under the Lexan, would give condensation running off the window somewhere to drain, having the same problem on his other boat.
+[6c] Archive message page_782 (Paul V., `paradoxbuilders`, msgnum 796, 2002-12-11) — "Re: Building encouragement": on the BRIS, window condensation is channelled to a tube and collected in a bottle for drinking water.
+[6d] Archive message page_783 (Glen Maxwell, `paradoxbuilders`, msgnum 797, 2002-12-11) — "Re: Building encouragement": has no insulation fitted in "Zoë," not yet a problem; a lip surrounding the cabin collects condensation running off the windows, with no water actually in the gutter itself, only on the windows and overhead; leaving some through-ventilation carries the moisture out of the air, at the cost of a colder cabin.
+[6e] Archive message page_793 (dfwsfug, `paradoxbuilders`, msgnum 807, 2002-12-18) — "Gimble stove mount": noticed Glen's stove design is only gimbaled on two axes; asks whether roll is the only significant motion, with little fore-and-aft (pitching) movement.
+[6f] Archive message page_794 (Glen Maxwell, `paradoxbuilders`, msgnum 808, 2002-12-18) — "Re: Chine runners" [sic, cross-posted reply to the stove question]: "Zoë"'s stove is not gimbaled in the pitch plane, since there is very little pitching; if it ever got bad enough that he couldn't cook, "I would not have much of an appetite any way."
+[6g] Archive message page_795 (dfwsfug, `paradoxbuilders`, msgnum 809, 2002-12-18) — "Re: Chine runners": remarks how easy it is to get "out of phase with reality" in a technical discussion; "wouldn't feel like cooking in a storm either."
+[7] microcruising.com — "About Us" (http://www.microcruising.com/sca1.htm), David & Mindy Bolduc — Little Cruiser is fully insulated with about two inches of foam: "Because LITTLE CRUISER is fully insulated, sleeping aboard is quite comfortable. When it's hot we're cool and when it's cold we're warm."; cooking/heat is a GAZ propane stove using compact one-pound cylinders that fit the bilge: "Ten cylinders get us through a whole winter trip!"
+[8] microcruising.com — "Matt's Boats" (http://www.microcruising.com/pictures.htm), David & Mindy Bolduc — Matt Layden once spent a whole winter aboard Little Cruiser in Cape Cod and froze the boat into a saltwater pond; body heat and sun coming in through the windows kept him comfortable.
+[9] Archive message page_917 (kd7ixk / "DC", `paradoxbuilders`, msgnum 932, 2003-04-24) — "Re: (Son of) Little Jim (II, the sequel)": has used the inverted-flowerpot-on-the-stove technique himself, to great success, but it always leaves him a little nervous the hot pot might end up loose in the cabin; asks whether a gimballed kerosene lamp (used aboard his and his wife's own 20 ft canoe yawl for mild heat underway) would be practical aboard a Paradox or just an imposing novelty, and whether any cabin location stands out as a good spot for one, given his planned fall/winter Columbia River cruise.
+[10] Archive message page_923 (openboat / Alastair, `paradoxbuilders`, msgnum 938, 2003-04-24) — "Re: (Son of) Little Jim (II, the sequel)": there is nowhere in the cabin above eye height to put a lamp, so it would tend to dazzle; his own internal lighting is LEDs set into the roof.
+[11] Archive message page_924 (whisper / David LeBlanc, `paradoxbuilders`, msgnum 939, 2003-04-25) — "Re: (Son of) Little Jim (II, the sequel)": thinks a small Welsh miner's-style gimballed lamp would be perfect; being insulated, a Paradox should warm up easily; asks DC to say more about his 20 ft canoe yawl.
+[12] Archive message page_925 (kd7ixk / "DC", `paradoxbuilders`, msgnum 940, 2003-04-25) — "Re: (Son of) Little Jim (II, the sequel)": his canoe yawl was an Elver (designer Steve Redmond), modified by himself with leeboards instead of a centerboard; found her disappointing in general, unsure if the fault was the design or his own modifications; agrees with a remark he read recently from Glen Maxwell that there are enough good designs already that modifying one should be unnecessary; distinguishes changing a design's geometry/specifications (off-limits) from changing details that don't affect them (a builder's prerogative), citing his professional yard experience; weighs in on the foam-flotation "HUGE controversy," judging it a detail question either way, citing firsthand rot/ventilation experience and Douglas Fir checking even under glass; jokes that CO2-filled air bladders could be the best flotation "if the boat ever commences to sink"; states his own preference — glued-in foam (doubling as insulation) under a thin protective sheet (3mm ply or kevlar/epoxy), Okoume ply only — while admitting the protective sheet is itself a departure from the original design, "JUST AS IS THE ELIMINATION OF THE FOAM"; jokes about "chime log" terminology; still not familiar with a "welsh miner's lamp" by name; wants a lamp mainly for heat, in an unobtrusive but still-gimbaled spot, and wonders about a metal chimney with baffles/coils for better heat output.
+[13] Archive message page_927 (mbolduc / Dave Bolduc, `paradoxbuilders`, msgnum 942, 2003-04-28) — "Cold weather cruising": minimal cold-weather sailing aboard Little Cruiser, more time spent aboard her cold at the dock preparing to cruise; sun through the windows plus body heat is usually enough; safest heat method on land is a ceramic heater, underway the gas stove on low with the hatch cracked for CO safety; Matt Layden wintered aboard Little Cruiser in Cape Cod and froze her into a saltwater pond, which Dave only learned of after stripping the paint and finding cuts up forward in the shape of a bow wave, showing Matt eventually sailed out through the ice; foam in the windows (which Matt also fitted) makes the boat cooler when hot, warmer when cold, and cuts condensation dramatically; warm clothing and a winter sleeping bag help.
+[14] Archive message page_1992 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2015, 2004-03-26) — "Force 10 stove": asks whether anyone has experience with the Force 10 Seacook gimballed single-burner propane stove, thinking of adding one to "Whisper."
+[15] Archive message page_1993 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2016, 2004-03-26) — "Re: Force 10 stove": no direct experience with the Seacook, but rates Force 10's other products good quality and value; suggests comparing it against the Forespar Mini-Galley 2000 (forespar.com).
+[16] Archive message page_1994 (dlb / "dlb" / David Beard, `paradoxbuilders`, msgnum 2017, 2004-03-26) — "Re: Force 10 stove": "Thanks DC, I think I like the Forespar better."
+[17] Archive message page_2898 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2929, 2005-07-09) — "Enuf Update": foredeck fitted, faired, and sheathed over the complete deck, aided by Rob Hewitt of UK Epoxies; planned to turn "Enuf" on her side the following Thursday to finish shaping the chine runners; interior finished except the vent box and electrics, which he plans to keep to a minimum — just enough for charging batteries and running GPS, depth finder, and radio; paraffin (kerosene) anchor lamp and candle lantern for interior lighting and heat. Signed "Derek."
+[18] Archive message page_2899 (fasttimes / "Brent Geery", `paradoxbuilders`, msgnum 2930, 2005-07-09) — "Re: Enuf Update": would be much safer going with electric lights, even dry-cell powered — paraffin/kerosene and candles aboard are "just one more way you might end up swimming home." Signed "BRENT."
+[19] Archive message page_2900 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2931, 2005-07-10) — "Re: Enuf Update": defends the choice, citing a near-drowning and more than one unexpected fire (including once having to leave a burning tent in a hurry) as informing his own sense of good practice; won't put the stove behind bulkhead 4, since a flame should never sit between the crew and the only exit; judges the design's stove position the right place to keep the extinguisher; light, heat, and cooking needn't be electric, and being battery-dependent is its own compromise; with common sense, good equipment, and backup safety gear (fire blanket, extinguisher) in place, judges the risk acceptable — if the boat burns he will simply swim to shore and catch a train home. Signed "Derek."

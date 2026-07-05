@@ -1,0 +1,439 @@
+---
+type: Boat
+title: Aussie Paradox (Andrew Graham), named "Zero"
+description: Andrew Graham's Brisbane-built Paradox, launched as "Zero" on 29 November 2003 — briefly credited as Australia's first Paradox to sail before an earlier, 2000-built secondhand example came to light — notable for its Australian-ply-sheet-optimized cutting layout, widened transom, omitted mid bins, and other deliberate plans deviations.
+tags: [paradox, boat, australia, brisbane, aussie-paradox, zero, andrew-graham, build, launch]
+timestamp: 2026-07-04T00:00:00Z
+---
+
+# Aussie Paradox
+
+**"Aussie Paradox"** is the informal name for [Andrew Graham](/people/andrew-graham.md)'s
+[Paradox](/paradox.md) build, launched as **"Zero"** — the second identified
+Australian Paradox build, after [Chris Becker](/people/chris-becker.md)'s
+"Walden," also based in Brisbane but a separate, independent build with no
+connection recorded between the two builders.
+
+## Frames cut, shed built, plans deviations flagged
+
+Building a Paradox is a real construction-logistics undertaking before any
+boatbuilding itself begins: Andrew held the plans for **about a year**
+before starting, first needing a **covered patio** to work under and then,
+after a stretch of wet weather, a proper **shed**. Construction began with
+**frames set up on little feet** in the new shed, cut but not yet assembled
+into a hull. See [Andrew Graham](/people/andrew-graham.md) for the full list
+of construction choices and deviations from the plans: a single-sheet
+frame/transom cutting layout suited to **Australian 2400x1200mm plywood**, a
+widened transom gaining 25mm of bunk length, omitted mid bins for extra
+footroom, no frame-attachment cleats, and an as-yet-undecided water-tank
+installation.
+
+The estimated **finished cost was around $5,000 AUD**.
+
+## Reception on the list
+
+Keeping the aft bins removable once the deck goes on makes post-trip
+cleanout easier, and built-in water tanks are, on one established view, the
+one change worth making on a repeat build, given local sailing needs — see
+[Andrew Graham](/people/andrew-graham.md) for the fuller exchange.
+
+## Test-fitting the sides: the dry run
+
+Under a follow-up subject, **"Aussie Paradox dry run,"** Andrew posted
+photos of a **test fit of the sides** against the frames — the boat's
+first real hull-assembly progress. He described his method in some
+detail: ply spring clips screwed to the bottom and deck of each frame
+gave an initial hold on the sides, with the frame first hung from the
+sides by the (strong) deck clip, then the sides pulled in at the chine
+to be retained by the springier bottom clip; two roofing screws through
+ply pads per side pulled the sides flush with the frame. The various
+screw holes were to be drilled out and filled with epoxied, splined
+wood dowels later. None of the frames needed further beveling; at the
+stem, the sides were held in with ropes around two pieces of wood
+fixed at the sheer and chine (projecting above and below to catch the
+rope), plus a further ply pad screwed to the sides at deck level to
+give a clamp something to grip while he finished beveling the stem.
+
+He also refined the construction deviations first flagged at
+introduction (see above): he had since added **40 x 25mm sawn ply deck
+beams** to the forward face of frame 2 and the aft face of frame 4
+(cut from the same 25mm sheet as the frames themselves), adding a
+little strength and creating a 50mm-wide top surface at each frame for
+scarf-joining the 9mm deck ply in place; and he eliminated all
+**laminated** deck beams in favor of **three 42 x 19mm longitudinal
+deck beams** running between frames 1 and 2 and between frame 4 and
+the transom. His transom baffle, similarly, was laminated from two 4mm
+ply layers rather than a single 6mm piece, which he had found too
+stiff for the curve he had drawn. He judged by eye that any slight
+extra weight from these changes was untroubling — "everything looks
+right."
+
+Following the removable-bins advice above, the **aft bins did remove
+easily**, and the plan settled on **not installing the water tanks** in the
+initial build (only their partitions) — reasoning that the aft half of the
+tank spaces would make the best place for ballast anyway, a different
+resolution of the same water-tank question than on
+[Little Jim](/boats/little-jim.md). Around the same time,
+[Kjell Karlsson](/boats/bris-paradox.md) introduced his own composite-built
+"BRIS Paradox."
+
+## Shimming deck beam #1, and chine runners fitted before the bottom
+
+In a later "Shim deckbeam #1?" thread, Andrew reported hitting the same
+**beam #1/centerline shortfall** that [DC](/people/dc.md) had just found on
+his own build and traced to Hugh's New Zealand Paradox: he shimmed about
+**5mm at the centerline** and shaved a few millimetres off **frame 3** to
+get a straight carlin running from frame 2 to frame 4. He avoided the
+equivalent problem on his intermediate deck beams altogether by making them
+run **longitudinally** rather than athwartships. At the same point in the
+build he reported **sides, bottom, deck framing/vent trunk, rudder blade
+and stock, and internal panels** all complete, with a fuller progress
+report and photos to follow. He also noted he had **laminated his chine
+runners to the sides before attaching the bottom** — a sequencing choice
+distinct from the more usual order, with no outcome report recorded. See
+[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline)
+for the full cross-builder thread.
+
+## A fuller progress report: sides, bottom, deck framing, and interior detail
+
+Under the subject **"Aussie Paradox update,"** posted alongside new photos
+of a **two-up sleeping test fit**, Andrew delivered the promised fuller
+construction report, covering the hull essentially complete through
+interior fit-out.
+
+**Frames, chine logs, and sheer clamps.** Chine logs and sheer clamps were
+cut from **19mm Meranti** — two laminations for the chine, a single
+lamination for the sheer — all to a constant **17-degree bevel and 40mm
+face**. Lacking a table saw, Andrew cut the bevels with a **184mm handheld
+circular saw** run against a homemade 1800mm stationary fence, since he
+judged the standard saw fence unable to cut accurately enough. The pieces
+were difficult for one person to bend and twist into place and get to
+exact length, requiring a couple of short knocked-in pieces at the transom
+to make up length; the stock size he used is, in his view, the largest
+practical for dry Meranti.
+
+**Sides.** After the chine logs and sheer clamp were glued in, the sides
+still flexed slightly, so Andrew laminated an extra **4mm of ply** onto
+the sides — 4mm chosen as the thickest his hand stapler would drive
+through. Hundreds of staples held the outer ply while the resin set,
+removed a few hours later; the scarf joins are fully covered with no
+fastenings showing through. His base panel was **12mm 5-ply CC Hoop
+Exterior**, the added layer **4mm AC Kauri Exterior**, both to Australian
+Standard 2271.
+
+**Chine runners.** Laminated in place from **three plies of 19mm** stock,
+using a constant bevel along the full length and planing the ends fair
+into the sides; Andrew judged them fair and close to the plans'
+projection from the chine, and confident they will act as effective end
+plates channeling water along the heeled sides.
+
+**Bottom.** Not confident bending 18mm ply in one piece, Andrew gave the
+bottom the same doubled-up treatment as the sides: a 12mm (7-ply) AC
+exterior Kauri base — stiffer than the Hoop used on the sides — plus a
+4mm outer layer, for 16mm total, which felt stiff enough before glassing.
+Glassing used a single layer of **biaxial cloth with CSM stitched to one
+side**, 1270mm wide, about 880 gsm total — cloth he rated "brilliant
+stuff" despite disclaiming glass-fiber expertise — producing a **2–2.5mm**
+resultant layup. Aluminium powder was added to the final epoxy coats.
+Glassing the bottom alone consumed about **6kg of epoxy**, with a similar
+amount used gluing the 4mm outer ply to the sides and bottom. He was still
+working out how and where to fit a ground plate without drilling the
+bottom, and was able to turn the finished hull alone, letting it drop
+safely onto a thick mattress.
+
+**Vent trunk.** Sides and aft face built from 12mm ply, doubled at the top
+of the aft face; double-ply webs either side of the aft face stiffly
+support the carlins and cabin front. The starboard side was made in two
+parts — the top permanently glued, the lower section (below the baffle)
+removable for access.
+
+**Interior panels.** Forward bin sides are located by cheap nylon door
+clips, immobile once the sole is locked down. Amidships, Andrew splayed
+his tank framing slightly toward frame 3 for better support of three
+floor panels running perpendicular to the framing, and omitted the mid
+bins for more sleeping area and crew space under sail; a short fixed front
+panel hinges a mid panel that pivots up to just below the cleat pad, held
+open by a swing tab and locked down by two turn buttons on the fixed back
+panel — screwed down firmly enough to also hold ballast in place. Aft,
+floor bins follow the plans, slotting into the framing and retained by
+nylon door clips (with one retaining-screw hole drilled per frame as a
+backup, likely unneeded); seat supports are padded out 4mm to protect the
+side-bin paint. His seat itself — a 400mm-wide concave section laminated
+from three plies of 6mm ply — is very stiff and, in his judgment, far more
+comfortable than the plans' 10 in plank. It stows in a 25mm gap between
+his open frame 4 and a removable table mounted under the rudder (screwed
+to three floor stringers); with the seat stowed, the berth measures
+1925mm plus toe room on both sides of the vent trunk — toe room he found,
+from his two-up test, greatly improves comfort. The low table allows
+cooking at anchor on a cheap low-profile butane cooker, with fiddles that
+let 30-litre airtight drums be lashed down for lightweight stowage and
+backup buoyancy; standard plastic hand basins fit snugly underneath, with
+usable space behind, and the table doubles for food preparation (and,
+Andrew notes, wine glasses, once the drums are moved forward).
+
+**Interior finish and insulation.** Andrew avoided sanding much epoxy off
+the interior, leaving a few drips on the bottom, and planned a quality
+builder's oil-based undercoat and gloss topcoat over all surfaces
+including below the waterline, reasoning painted epoxy would deteriorate
+more slowly even where it gets little UV exposure. Unwilling to use
+crumbly polyurethane foam or polystyrene for insulation/buoyancy, he
+instead chose **Abelflex** (by Davco) — a flexible, compressible,
+closed-cell polyethylene foam normally used as an expansion joint and
+moisture barrier in brick walls, sold in 10mm-thick rolls with a smooth
+skin, reportedly durable and sealant-compatible. He used two 25-metre
+rolls (250mm and 300mm wide) for minimal wastage — enough to insulate the
+boat well, though a little short on buoyancy.
+
+**Rudder.** For the blade, Andrew laminated a 250 x 100 x 10mm rectangle
+of used lead roof flashing into the bottom rather than casting lead
+ballast, fairing the blade by eye after starting from a measured profile;
+the transition between the symmetric section below the stock and the
+asymmetric faired section came out neat, and the finished blade is 900mm
+overall. On the stock, a measuring error of his own put the bottom pintle
+20mm too far aft; he compensated by extending the lower gudgeon and
+padding the top transom gudgeon to match, and expects he may need to
+revisit the pivot point if the rudder proves overbalanced.
+
+The accompanying two-up sleeping-test photos prompted comparison notes on
+how other builders handle sleeping two aboard a tight cabin — see
+[crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+
+## Further photos: sheathed hull, cabin framing, and a foredeck anchor stow
+
+A further round of photos, taken between the fuller progress report and the
+next update, showed the hull and deck now **sheathed**, the **cabin
+framing underway**, and Andrew's arrangement for stowing an anchor on the
+foredeck. Another deliberate plans deviation appeared here: a **flat cabin
+front and back**, chosen because extending the front at the same angle as
+the vent trunk web looked logical and left plenty of bonding surface at
+frame 4's forward face — a look judged "still... attractive" even though
+it departs from the plans' curved cabin. Whether to build a "tropical"
+cabin top of his own design, or revert to the plans' version, was still
+undecided at this point.
+
+## Deck sheathing, a sand-anchor well, and a hawse pipe
+
+In the same "Robust construction" thread that ran across the wider list in
+September 2003 (see
+[hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)),
+Andrew gave a further build update alongside his builder's-choice
+philosophy: his **deck was on**, and he was sheathing the sides and deck in
+**dynel and epoxy**. He added a shallow, **self-draining well** midway
+between frames 1 and 2 so a sand anchor could be lashed flush to the deck,
+its pivot sitting in the well. Forward of frame 1, he built a **hawse
+pipe** into the forepeak from standard 65mm PVC plumbing flanges and a 45°
+elbow, with the cap's aft-facing opening accepting the anchor's shank
+through a sealing gasket — keeping the shackle, chain, and rope all inside
+the boat, low and out of the way, while preserving the Paradox's clear
+internal access from stem to stern.
+
+## Launch, and a name: "Zero"
+
+Andrew launched his Paradox on **29 November 2003**, naming her **"Zero"**
+and initially holding the honor of the **first Australian-built Paradox to
+sail** (a claim later corrected — see below). Zero was sailed and slept
+aboard within days of launching.
+
+**Rig and steering, as finished.** Andrew sewed his own sail from **6.3 oz
+cloth**, using Matt Layden's Mk 2 dimensions and following most of his
+construction recommendations; he trusted the plans' instructions completely,
+contact-cementing all seams before sewing. Sailmaking took many hours but
+freed him from waiting on glue cure between sessions; one bobbin lasted only
+about 4 m of zigzag stitching, so he recommended buying spares, and sewing
+from a seated position at a machine set up with **at least 8 ft of level
+table on each side**. His **reefing-drum yard fitting** — a laminated,
+glassed ply elbow attached to the tack strop, with a 1/2 in brass rod glued
+into the forward boom end and pivoting in a 50mm brass bearing, the reefing
+drum's fairlead a length of copper pipe through the elbow — worked
+acceptably, though he planned a more compact glass elbow eventually. Instead
+of a yuloh, he substituted a straight **3.1 m sweep** with a nylon rowlock,
+both fitted with lanyards, the sweep wrapped in biaxial glass at the centre
+section. His rudder blade was **40mm shorter than designed**.
+
+**Lightning protection and finish details.** An aluminium lightning-rod strip
+ran down the mast's forward face and across the deck to a 100mm-wide, 0.5mm
+aluminium sheet wrapped over the starboard gunwale down to the waterline,
+widening there into a ground plate; he used an aluminium-compatible
+antifouling on the bottom and planned to monitor the plate's corrosion rate
+over time. No fixed electrics were fitted at launch.
+
+**Ballast and trial loading.** Zero carried **145 kg of lead** immediately
+forward of bulkhead 3, in the hull's deepest point; for the sailing trial
+Andrew added a further 20 kg of stores below the cabin sole and a 3 kg sand
+anchor on deck with 5 m of 6mm chain in a bucket forward of bulkhead 1. The
+boat trimmed well both single- and double-handed.
+
+**First sail — sculling and windward work.** Having never sculled a boat
+before, Andrew took a while to learn that the paddle must be angled to dig
+into the water to stay seated in the rowlock; once he had the knack, he was
+struck by how effectively sculling moved the boat, judging the Paradox's
+open hatch opening ideal ergonomics for bracing during the stroke. He
+sculled alone from the Bribie Island ramp into Pumicestone Passage, raising
+sail by resting the boom on the cabin top (a towel over the aft hatch
+protecting the sail from abrasion as it unrolled) — the whole raising or
+furling operation done from inside the cabin in under a minute. He judged
+keeping the boom off the cabin top difficult for a beginner singlehanded,
+given the strength both raising and reefing demand, but decided against
+fitting a topping lift regardless, since he expected to sail two-up most of
+the time. Sailing to windward only that first day — his rudder 40mm short of
+designed size — Zero held position against a foul tide and made progress
+once it turned, tacking reliably from the outset; the boat felt tender under
+sail without ever burying the rail, and tracked straight even at
+uncomfortable heel angles. Running aground on a sandbank, Andrew simply
+stepped out and pushed the boat clear — a sharp contrast, he noted, to his
+previous trailer-sailer's swing keel, and ample compensation, in his
+judgment, for less than brilliant stability or tacking angle.
+
+**A first night aboard, and a two-up sail.** Andrew's partner joined him that
+evening at a drying harbour sheltered by a sand peninsula, where the two
+slept on a 50mm foam mattress (not especially compact rolled up, but
+comfortable enough) with the halyard tied off away from the mast for "the
+quietest night sleep I have ever had in a boat" — Zero has no mid bins. The
+next day, her first-ever sail, his partner wore a buoyancy vest for
+reassurance; the pair sculled into deep water to raise sail, the crew easing
+the reefing line to keep the boom aloft. They sailed downwind (too easy),
+then upwind and reaching, tacking reliably two-up throughout; a wind
+increase heeled the boat enough to alarm his partner, reassured in turn by
+how easily a reef brought her back to comfortable heel. Andrew judged the
+sail shape good, noting a little luff flutter upwind he suspected was simply
+a tensioning issue, and closed the report entirely satisfied with Zero's
+first trial — his partner keen for a two-week cruising holiday once the boat
+drew a crowd of interested, complimentary beachgoers. He judged increasing
+ballast and stores below the sole to 200 kg or more would likely address the
+stability question, and intended to keep the anchor stowed on deck for its
+convenience there.
+
+**Cost.** Zero cost about **$5,500 AUD** sail-away, including basic gear to
+navigate, sail, anchor, and live aboard, and all tools consumed in the
+job — Andrew judged $500 AUD or more saveable, or an unlimited amount
+spendable, with a new trailer alone costing nearly $1,500 AUD; his towbar
+had to be custom-made, since manufacturers did not stock one for his tow
+vehicle, a light, front-drive 1300cc Daihatsu Sirion that needed a running
+start (and, in hindsight, a pre-swept ramp) to retrieve the loaded trailer
+off a sandy launch.
+
+Zero's tenderness when lightly loaded matched what other builders had
+reported before their own boats were fully stored for a voyage, judged
+likely to stiffen up once fully loaded. Zero's launch photos also prompted
+renewed work on "[Whisper](/boats/whisper.md)."
+
+## A closer look: paint, plexiglass tint, and the galley
+
+Zero's paint scheme and her plexiglass window tint — a detail other
+builders drew on directly for their own tint choices — are worth noting for
+builders weighing finish options. Andrew placed Zero firmly in Australia's
+**Moreton Bay**, sailing out of **Brisbane,
+Queensland**: a roughly 200 km stretch of coast between the Gold Coast and
+Caloundra, sheltered from the Pacific by four large sand islands, with an
+open centre section and narrow mangrove-lined channels at the north and
+south ends, bottoms almost exclusively sand and mud with plenty of drying
+banks to overnight on — the same sheltered water used for a shakedown
+routine until confident in the rig. Seeing "[Little Jim](/boats/little-jim.md)"'s
+launch photos earlier that year had turned "pure envy" into the commitment
+to start building. Andrew's partner, "Senorita," grew up on a farm in
+**Fiji** and volunteered to catch, clean, and cook the fish for their
+planned cruising.
+
+## Zero proves herself: an 18-mile open-water passage across Moreton Bay
+
+Andrew's first real open-water passage in Zero, sailed with "Senorita"
+aboard, ran from the **Wellington Point boat ramp** around the northern end
+of **Peel Island** to the **One Mile anchorage** at Dunwich on Stradbroke
+Island, and back — a round trip of about **18 nautical miles**, completed
+with only a single tack as the wind shifted from northwest on the outward
+leg to northeast for the return. Andrew had increased his ballast and
+stores by **25 kg to about 190 kg** for this sail, and reported that
+stability and pointing ability were now to his satisfaction. Local
+professional crabbers warned "it's pretty rough out there" on the way out,
+but the boat only encountered about **1-metre waves**, consistent with the
+prevailing 10-15 knot winds.
+
+Zero's **shallow draught** let Andrew save time by sailing straight over
+sandbanks rather than beating around channel markers — an advantage he
+judged would offset any weakness in pointing ability in many real cruising
+situations. Two gear notes came out of the trip: noise from the mainsheet
+block at the end of the boom, which he planned to lubricate and, failing
+that, replace; and the boom knocking against the mast on a run when the
+wind dropped but wave action continued. The wind died entirely on the
+approach to the boat ramp, requiring about 500 metres of **sculling** to get
+in. "Senorita," new to sailing, spent most of the passage lying on the
+cabin sole with anxiety-driven motion sickness, but was not put off,
+watching Andrew enjoy himself; Andrew judged himself likely to become a
+better sailor for having no motor aboard to fall back on, and was glad to
+be spared outboard "will she start" anxiety. Sailing photos aside, he
+judged Zero, seen in real life, "the prettiest most beautifully
+proportioned boat in the water — much better than photos can show."
+
+The ballast increase stands as the key lesson from the trip — "getting the
+ballast right seems to be quite important" — echoing the same conclusion
+reached independently by other builders who found that sailing without a
+motor made them better sailors, even though a motor would occasionally have
+been useful. Zero's deck photos, showing her **chine runners** to good
+effect, were posted to a companion Paradox website
+(`btinternet.com/~w.serjeant/paradox/zero.htm`).
+
+## A correction: an earlier, secondhand Australian Paradox
+
+"Zero" was not, in fact, the first Paradox to sail in Australia (correcting
+the claim in [Launch, and a name: "Zero"](#launch-and-a-name-zero)). A
+Paradox had earlier appeared for sale in the *Brisbane Courier Mail* for
+**$3,000 AUD**, and a phone call to its builder — a retired man named
+**Chris** — established that this second boat was **built in 2000**,
+several years before "Zero," making it the true first Australian-built
+Paradox. Chris had sailed her only once, owing to ill health. As described
+secondhand, the boat departed from the plans in several ways: **no
+insulation**, **no lead ballast** (said to have been sailed instead with
+sandbags), **Dynel sheathing**, an outboard well fitted for a 2.2 hp
+Mercury (motor not included), and a sail cut from a heavy-duty tarp
+material normally warrantied for ten years, plus a non-standard,
+flat-fronted-and-flat-aft cabin. A trailer was believed to be included,
+condition unknown, and the asking price was judged "very low" for a
+secondhand Paradox against a fresh build. See also
+[secondhand Paradox market](/operations/secondhand-market.md) for the
+other recorded resale data points.
+
+## A three-day singlehanded cruise
+
+About a month later, Andrew reported his longest passage yet: a **three-day
+singlehanded cruise**, crossing the open section of **Moreton Bay** to
+**Moreton Island** with no trouble in **15-knot winds and 1-metre waves**,
+covering roughly **80 kilometres** in all (measured off a chart book's
+kilometre grid). He again used Zero's **shallow draught** to shortcut across
+large sandbanks, saving hours of sailing time — the same tactic that paid
+off on the shorter Wellington Point-to-Dunwich passage above. A planned
+longer New Year's cruise had to be shelved for persistently poor weather
+(severe enough that three dive-boat operators had their boats overturned on
+local coastal bars within a single week); the humid conditions, Andrew
+judged, would in any case have made two-up cruising uncomfortable. He closed
+the report still very happy with Zero and confident in her ability to
+handle the conditions she was designed for.
+
+# Citations
+
+[1] Archive message page_988 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1004, 2003-06-10) — "Aussie Paradox": introduces his build; a year with the plans before starting; built a covered patio then a shed first; frames cut and set up on little feet; lists construction deviations from the plans; estimates ~$5,000 AUD; expects no further report for months.
+[2] Archive message page_989 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1005, 2003-06-10) — "Re: Aussie Paradox": "Welcome aboard Andrew, thanks for the details of your project."
+[3] Archive message page_990 (openboat / Alastair, `paradoxbuilders`, msgnum 1006, 2003-06-10) — "Re: Aussie Paradox": welcomes Andrew "to the club"; advises keeping the aft bins removable; repeats his own water-tank reservations; "Been there, done that, found it well worth the effort."
+[4] Archive message page_1029 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1045, 2003-06-21) — "Aussie Paradox dry run": uploaded photos of a test fit of the sides against the frames using ply spring clips and roofing-screw pads; describes the stem rope-lashing/clamp-pad method; no further beveling needed; refines earlier deviations (40x25mm sawn ply deck beams added to frames 2/4, three 42x19mm longitudinal deck beams replacing laminated beams, a two-layer 4mm ply transom baffle instead of a single 6mm piece); confirms aft bins will remove easily and water tanks (partitions only) will not be installed initially, expecting to use the aft tank space for ballast; welcomes Kjell Karlsson ("our plastic Paradox builder") and other recent newcomers.
+[5] Archive message page_1032 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1048, 2003-06-21) — "Re: Aussie Paradox dry run": "Looks great Andrew, keep the pictures coming."
+[6] Archive message page_1135 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1152, 2003-08-19) — "Re: Shim deckbeam #1?": full text and citation at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
+[7] Archive message page_1148 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1165, 2003-08-23) — "Aussie Paradox update": photos of a two-up sleeping test fit; detailed construction notes on frames, chine logs/sheer clamps (19mm Meranti, 17-degree bevel), sides (extra 4mm ply lamination), chine runners (three plies of 19mm), bottom (12mm+4mm Kauri, biaxial/CSM glass, ~6kg epoxy), vent trunk, interior panels/seat/table, Abelflex closed-cell foam insulation, and rudder blade/stock construction (lead-flashing ballast, a 20mm pintle-position measuring error corrected with an extended gudgeon).
+[8] Archive message page_1149 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1166, 2003-08-23) — "Re: Aussie Paradox update": "Great post Andrew, thanks for the new pictures, looks like she is coming right along."
+[9] Archive message page_1150 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1167, 2003-08-23) — "Re: Aussie Paradox update": "Hey, thanks for the very detailed post, and the new photos, Andrew. Keep them coming. I hope to see your launch photos soon."
+[9a] Archive message page_1185 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1202, 2003-09-16) — "Aussie Paradox new pics": posted photos showing the sheathed hull and deck, cabin framing underway, and his foredeck anchor-storage arrangement; flat cabin front/back, a further deviation from the plans, chosen to extend the front at the vent trunk web's angle with good bonding surface at frame 4; still puzzling over a "tropical" cabin top versus reverting to the plans' design; expected an internet-access gap ahead due to changing ISPs.
+[10] Archive message page_1153 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1170, 2003-08-27) — "Re: Aussie Paradox update": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+[11] Archive message page_1157 (openboat / Alastair, `paradoxbuilders`, msgnum 1174, 2003-09-03) — "Re: Aussie Paradox update": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+[12] Archive message page_1179 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1196, 2003-09-11) — "Re: Robust constuction": deck now on, sheathing sides/deck in dynel and epoxy; added a shallow self-draining well between frames 1 and 2 to lash a sand anchor flush to the deck; built a hawse pipe forward of frame 1 from 65mm PVC plumbing flanges and a 45° elbow, aft-opening cap with a gasket for the anchor shank, keeping rode/chain weight low and the interior clear; "Keep posting guys."
+[13] Archive message page_1476 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1496, 2003-12-02) — "Aussie Paradox sails": launched 29 November 2003, named "Zero"; sailed and slept aboard; tentatively claims the first Australian Paradox to hit the water; full construction and sailing detail as above; sail sewn from 6.3 oz cloth to Matt Layden's Mk 2 dimensions; substituted a 3.1 m sweep and nylon rowlock for the yuloh; 145 kg lead ballast forward of bulkhead 3, plus 20 kg stores and a 3 kg sand anchor for the trial; first sail sculled from the Bribie Island ramp into Pumicestone Passage, held to windward against a foul tide, tacked reliably from the outset; slept aboard overnight with his partner "Senorita," her first-ever sail the next day, tacking reliably two-up; cost about $5,500 AUD sail-away, a new trailer $1,500 AUD, custom towbar for his Daihatsu Sirion; "Keep building those Paradoxes guys."
+[14] Archive message page_1477 (arvent / "Nels", `paradoxbuilders`, msgnum 1497, 2003-12-02) — "Re: Aussie Paradox sails": congratulates Andrew on the honor of the first Paradox to sail in his country; calls the account and photos good, the boat "very well finished and distinctive"; notes the reported tenderness matches what Alastair and others found when lightly loaded, expecting it to stiffen up once fully stored; asks what part of Australia Andrew is in and his name; requests notes on heavy-weather and windward performance after a longer trip.
+[15] Archive message page_1478 (openboat / "Alastair", `paradoxbuilders`, msgnum 1498, 2003-12-02) — "Re: Aussie Paradox sails": "Soon it will be truly said that the sun never sets on the Paradox"; "Great pictures too."
+[16] Archive message page_1479 (dclark52001 / Derek Clark, `paradoxbuilders`, msgnum 1499, 2003-12-02) — "Re: Aussie Paradox sails": "Absolutely wonderful. Well done."; asks for more interior photos, particularly how Andrew arranged the space between the cabin and transom — unanswered in the archive.
+[17] Archive message page_1480 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1500, 2003-12-02) — "Re: Aussie Paradox sails": "Great Photos !!! Keep us informed on your future adventures. After looking at your photos I went straight to work on Whisper. Thanks for the motivation !!!"
+[18] Archive message page_1481 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1501, 2003-12-03) — "Re: Aussie Paradox sails": congratulates Andrew; praises the paint scheme, sail, and plexiglass tint (helped him settle his own tint choice); asks how the interior arrangement and galley access have worked out; "An attractive senorita willing to participate in microcruising is a find, envied by all. She's a keeper."; looks forward to reading of Andrew's upcoming experiences.
+[19] Archive message page_1482 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1502, 2003-12-04) — "Zero": thanks the list for the congratulations; credits envy at Alastair's "Little Jim" launch photos with driving his own commitment to build; will keep to relatively protected, shallow water until the rig is proven; lives in Brisbane, Queensland, sailing Moreton Bay (Gold Coast to Caloundra, ~200 km, sheltered by four large sand islands, sand/mud bottoms with drying banks); "Senorita" has volunteered to catch, clean, and cook fish, having grown up on a farm in Fiji.
+[20] Archive message page_1483 (arvent / "Nels", `paradoxbuilders`, msgnum 1503, 2003-12-04) — "Re: Zero": posts a link to a Moreton Bay tourism site (mbcc.com.au) with further-map links at the bottom; "Makes me very envious to observe some of the area you will be likely cruising in:-)"; jokingly asks whether Andrew might run into "The Crocodile Hunter."
+[21] Archive message page_1500 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1520, 2003-12-15) — "Zero proves herself": reports his first open-water passage, Wellington Point to Dunwich (Stradbroke Island) and back around Peel Island, ~18 nautical miles, one tack; increased ballast/stores by 25 kg to ~190 kg; stability and pointing now satisfactory; encountered ~1 metre waves after a crabber's warning; saved time crossing sandbanks on Zero's shallow draught rather than beating around channel markers; noisy mainsheet block and boom-on-mast slap to fix; sculled the last 500 m into the ramp when the wind died; "Senorita" seasick but undeterred; glad to be free of outboard-starting anxiety; "in real life Zero is the prettiest most beautifully proportioned boat in the water — much better than photos can show."
+[22] Archive message page_1501 (openboat / Alastair, `paradoxbuilders`, 2003-12-15) — "Re: Zero proves herself": getting the ballast right seems quite important; agrees cutting across shallows helps; sailing without a motor has made him a better sailor, though there have been a couple of places he'd have used one anyway; half-heartedly shopping for an electric outboard, but a VHF radio has to come first.
+[23] Archive message page_1502 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 1522, 2003-12-15) — "Re: Zero proves herself": "Glad you had a good time. Thanks for the photos." — posts Andrew's deck photos to his own Paradox website, `btinternet.com/~w.serjeant/paradox/zero.htm`.
+[24] Archive message page_1503 (arvent / "Nels", `paradoxbuilders`, msgnum 1523, 2003-12-16) — "Re: Zero proves herself": "A couple of great shots showing the chine runners to good effect!"
+[25] Archive message page_1830 (amgraham2001 / "amgraham2001", `paradoxbuilders`, msgnum 1853, 2004-01-19) — "Zero three day cruise": reports a three-day singlehanded cruise crossing the open section of Moreton Bay to Moreton Island, no trouble in 15-knot winds and 1-metre waves, ~80 km total (measured off a chart book's kilometre grid); again used Zero's shallow draught to shortcut across large sandbanks; shelved a longer New Year's cruise for persistently poor weather (three dive-boat operators overturned locally within a week); humid conditions would have made two-up cruising uncomfortable; still very happy with Zero and confident in her ability to handle the conditions she was designed for. Signed "Andrew."
+[26] Archive message page_1955 (amgraham2001 / "amgraham2001", `paradoxbuilders`, msgnum 1978, 2004-03-09) — "Correction: First Paradox launched in Australia": corrects the earlier claim that "Zero" was the first Australian-built Paradox — a Paradox advertised for $3,000 AUD in the Brisbane Courier Mail, built in 2000 by a retired builder named Chris, predates her; Chris had sailed the boat only once due to ill health; as described by phone: not insulated, no lead ballast (reportedly sailed with sandbags), Dynel sheathing, an outboard well fitted for a 2.2 hp Mercury (motor not included), a sail of heavy-duty tarp material (normally 10-year warrantied), and a non-standard flat-fronted/flat-aft cabin; a trailer may be included, condition unknown; offers to pass his own contact details to interested buyers via Chris. Signed "Andrew Graham."

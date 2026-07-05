@@ -1,0 +1,189 @@
+---
+type: Person
+title: Paul V. (cruisenewsnet / sohaven2002)
+description: A US small-boat designer and Paradox builder from the northern woods who documented his cold-climate build in a public "Build Book," volunteered as a list co-moderator, and posted the archive's fullest weight-vs-displacement discussion and real-time Everglades Challenge checkpoint reports.
+tags: [paradox, people, swamp-thing, design, self-righting, comparison, moderation]
+timestamp: 2026-07-03T00:00:00Z
+---
+
+# Paul V. (cruisenewsnet / sohaven2002)
+
+**Paul V.** was a US-based small-boat designer and `paradoxbuilders` list
+member who built a Paradox from scratch in a cold-climate "north woods"
+workshop and documented the work in a public "Build Book." He posted from an
+`admin@`/`cruisenewsnet` address (Yahoo profile `cruisenewsnet`) and, as an
+occasional alternate, the handle **`sohaven2002`** — confirmed as the same
+person when he signed one reply "Paul V / aka sohaven2002." [6] He was active
+in November 2001, again in February 2002, and continuously from September 2002,
+becoming one of the list's most prolific builder-correspondents and a volunteer
+co-moderator.
+
+**Disambiguation.** He is distinct from [Paul (NZ)](/people/paul-nz.md), an
+earlier, unrelated member from southern New Zealand, and from the one-off
+"kayaker37" (also signing "Paul") in the February 2002 "Design" thread — see
+[blue-water suitability](/design/blue-water-suitability.md).
+
+## His own designs and his Paradox build
+
+Paul was himself designing a **trailerable small boat for the Great Lakes**.
+He considered a Paradox-style chine-keel hull but worried it could trip the
+boat in steep breaking waves, and chose a dory hull instead for its
+self-righting capability and full flotation, with design pages at
+`cruisenews.net/whaleback` — see
+[blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
+[2]
+
+He also built a Paradox to the plans, working slowly through 2002-2003 in a
+wood-heated, frozen workshop. [38] He planned two cold-climate modifications —
+a **hinged, dog-down watertight hatch** in place of the stock sliding hatch,
+and **lead ballast** in place of the built-in water tank — but otherwise
+argued against modifying the design, on the principle that **"a boat is far
+more than the sum of its parts"**; see
+[Motorsailer Paradox (speculative)](/design/variants/motorsailer-idea.md). [23]
+His build progressed from **deck-beam lamination** (six layers of 1/4 in
+plywood and epoxy, seven beams; see
+[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md))
+[33][34][35][36] to **cutting out bulkheads** by January 2003. [40]
+
+## Contributions and stories
+
+- **The "Build Book."** Paul maintained a public build-log folder in the
+  group's files section, documenting only techniques he personally knew
+  worked (drawing on past experience compiling build books at **S2 Yachts**),
+  and considered retitling it "Paul's Build Book" to make that intent clear.
+  [35]
+- **Deck-beam lamination.** He championed laminating deck beams from thin
+  plywood and epoxy, defending the technique's stiffness against a doubt
+  about plywood grain, and later tried **PL polyurethane adhesive** as an
+  alternative — see
+  [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
+  [35][37]
+  His Build Book questions also cover bulkhead #3 side cleats and deck-beam
+  dimensions/radius (see
+  [hull assembly sequence](/construction/hull-assembly-sequence.md)
+  and
+  [deck and cabin beams](/construction/deck-and-cabin-beams.md));
+  [17][18] bulkhead side curves and metric-vs-imperial measuring (see
+  [panel layout and nesting](/construction/panel-layout.md));
+  [24][25][26][27][28] and chine-log notching and in-place lamination (see
+  [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)).
+  [29][30][31][32]
+- **The documented build-sequence request.** His question about a documented
+  Paradox building sequence beyond the plans turned up Don Elliott's paid
+  16-part "Building Paradox" series and a spare plans CD from
+  [Charles Wilson](/people/charles-wilson.md) — see
+  [hull assembly sequence](/construction/hull-assembly-sequence.md).
+  [3][4][5]
+- **Moderation.** He proposed requiring moderator approval of new members to
+  stop a run of bare-link spam, then volunteered — alongside
+  [Dave Bolduc](/people/bolduc/dave.md) — as one of the co-moderators who
+  made it possible to close the group to unapproved signups; see
+  [Paradox builders mailing list](/references/mailing-list.md).
+  [9][11][12][13][22]
+- **The vent baffle.** He questioned whether the transom's tiller-rope vent
+  opening was necessary and whether it leaked, expressing reservations about
+  the rope tiller as a primary steering system — see
+  [transom deck plate and vent baffle](/construction/transom-deck-plate.md).
+  [15][16][20][21]
+- **The Swamp Thing question.** His first recorded post asked what made
+  [Swamp Thing](/matt-layden/swamp-thing.md) sail better than
+  [Paradox](/paradox.md) or [Little Cruiser](/matt-layden/little-cruiser.md)
+  (a keel? narrower beam? lighter displacement?), recalling her as "the one
+  with oar holes on the sides." [1]
+- **Weight vs. displacement.** His question "How heavy is a fully loaded and
+  ballasted Paradox? Maybe 1000 lbs?" opened the archive's fullest discussion
+  of a boat's weight versus her displacement — see
+  [weight, ballast, and displacement](/design/weight-and-ballast.md).
+  [41][42]
+- **Scaling and chine runners.** Chine runners were, at the time, a
+  relatively new and experimental concept, expected to work on larger
+  sharpies with good rocker and ballast though not yet demonstrated at
+  larger scale; four larger sharpie design sites were cited as reference
+  points — see [Stretched Paradox](/design/variants/stretched-paradox.md).
+  [44]
+- **The BRIS drinking-water trick.** Sven Yrvind's technique of channelling
+  window condensation to a bottle for drinking water reached the list
+  through Paul — see
+  [cabin heating for cold-weather sailing](/operations/cabin-heating.md).
+  [39]
+- **Everglades Challenge reporting.** He posted the archive's fullest
+  real-time checkpoint updates for the 2003 race from the WaterTribe results
+  site, including [Matt Layden](/matt-layden/biography.md) becoming the first
+  competitor to reach Checkpoint 3 — see
+  [the race in progress](/boats/original-paradox.md).
+  Watching Paradox win, he remarked he had "never thought of the Paradox as a
+  racing boat, more of a slow but steady cruiser," and wondered why no
+  Hobie-cat catamarans had entered. [43][45][46][47]
+- **A solar-panel pointer.** A specific 5-watt solar panel (northerntool.com)
+  was recommended as enough to maintain a battery but perhaps not to keep up
+  with several days' daily use — see [Whisper](/boats/whisper.md). [48]
+- **A birdshot-and-epoxy ballast putty.** Proposed mixing lead birdshot into
+  silica-thickened epoxy to a heavy putty, worked onto the chine runner by
+  hand and shaped to a radius — or applied under the hull-bottom glass layup
+  as a low ballast base coat — estimating 100-200 lb of lead achievable this
+  way, with the remainder as pig lead or (to avoid skin contact) sandbags;
+  see
+  [chine runner construction — bronze versus steel plate, and lead birdshot
+  as a lower-tech casting alternative](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy).
+  [49]
+
+## Milestones
+
+His 6 January 2003 progress update ("gearing up to start cutting out
+bulkheads… epoxy mixing weather is just a few months away!") is the archive's
+first message dated 2003. [40] A thank-you note for a morale-boosting
+"Building encouragement" trip report [38], sent while his woodburner "tries to
+heat my frozen workshop," is a vivid data point on his cold-climate build
+conditions.
+
+# Citations
+
+[1] Archive message page_095 (Paul V., `paradoxbuilders`, 2001-11-14) — asks what makes Swamp Thing sail better (keel? beam? displacement?); recalls her as having oar holes on the sides.
+[2] Archive message page_381 (Paul V. / "cruisenewsnet", `paradoxbuilders`, msgnum 379, 2002-02-25) — "Re: Design": designing a trailerable Great Lakes boat; considered Paradox but worried its chine keel could trip the boat in steep breaking waves; prioritizes self-righting then full flotation; chose a dory hull instead per Bill Serjant's advice; asks about Sven Yrvind's "Bris" hull shape; points to cruisenews.net/whaleback; about to build a chine-height model.
+[3] Archive message page_691 (sohaven2002 / "Paul V.", `paradoxbuilders`, msgnum 700, 2002-09-25) — "THIS IS A REAL POST...Paradox building sequence": "No link to porn here!"; asks if anyone has a description of the Paradox building sequence beyond what's in the plans, or has documented a build; has the plans; boating season winding down, boatbuilding season starting "up here in the north woods."
+[4] Archive message page_691 (dave / Dave Bolduc, `paradoxbuilders`, msgnum 700, 2002-09-25) — replies in the same message thread: Don Elliott's paid 16-part "Building Paradox" article series has many pictures, sketches, and tips; obtainable from Don by e-mail.
+[5] Archive message page_692 (Charles Wilson, `paradoxbuilders`, msgnum 701, 2002-09-25) — "Re: THIS IS A REAL POST...Paradox building sequence": offers his own spare plans CD (containing the building sequence) since he's building a different boat; asks Paul to send his address.
+[6] Archive message page_693 (Paul V., `paradoxbuilders`, msgnum 703, 2002-09-26) — "Re: THIS IS A REAL POST...Paradox building sequence": thanks Charles; also has Don's articles "somewhere"; signs "Paul V / aka sohaven2002" — confirming both handles are the same person.
+[7] Archive message page_694 (Nels, `paradoxbuilders`, msgnum 704, 2002-09-26) — asks Paul for a copy of Don's articles; twice tried and failed to reach Don directly to order them (Paradox, Caretopper, and taped-seam-construction sets); based in Canada; offers $20 US cash to cover extra postage.
+[8] Archive message page_695 (Paul V., `paradoxbuilders`, msgnum 706, 2002-09-27) — "Re: THIS IS A REAL POST...Paradox building sequence": redirects Nels to Charles Wilson's CD offer in message 701.
+[9] Archive message page_696 (Paul V., `paradoxbuilders`, msgnum 707, 2002-09-27) — "Stopping spammers - require confirmation before adding new users?": flags automated sign-up scripts used to post spam; proposes requiring new members to be approved by a moderator.
+[10] Archive message page_697 (Nels, `paradoxbuilders`, msgnum 708, 2002-09-27) — "Re: THIS IS A REAL POST...Paradox building sequence": "Thanks Paul, Charles got in touch with me! What a great bunch of folks!"
+[11] Archive message page_698 (Glen Maxwell, `paradoxbuilders`, msgnum 709, 2002-09-27) — "Re: Stopping spammers - require confirmation before adding new users?": could enable member-approval but would need a second/third volunteer moderator, as he won't always be available (hopes to be off sailing for a couple of months); floats reading posts via the Yahoo website instead of e-mail as an alternative; asks for volunteers.
+[12] Archive message page_699 (Glen Maxwell, `paradoxbuilders`, msgnum 710, 2002-09-27) — "Re: Stopping spammers - require confirmation before adding new users?": follow-up suggesting the daily digest format first, per another group's member's report of only occasional spam via digest; proposes trying it before closing the group to new members.
+[13] Archive message page_700 (David LeBlanc, `paradoxbuilders`, msgnum 711, 2002-09-27) — "Re: Stopping spammers - require confirmation before adding new users?": would not favor having to read posts via Yahoo's website, citing its own advertising on top of the ads already in list e-mails.
+[14] Archive message page_707 (admin / Paul V., `paradoxbuilders`, msgnum 719, 2002-09-28) — "Re: Plywood": asks why David wants to eliminate the water tanks; suggests a thin (6 oz or so) glass cloth in epoxy should be enough to stop Fir plywood from checking.
+[15] Archive message page_708 (admin / Paul V., `paradoxbuilders`, msgnum 720, 2002-09-28) — "Vent Baffle": asks whether the transom's vent baffle opening (for the tiller ropes) is necessary; suggests leading the ropes through drip boxes instead and ventilating via dorade box(es).
+[16] Archive message page_710 (admin / Paul V., `paradoxbuilders`, msgnum 722, 2002-09-28) — "Re: Vent Baffle": asks whether water has ever been noticed slapping on the vinyl boot, and whether water came in before it was fitted; notes a waterproof boot loses the baffle's ventilation; calls the boot "a good solution" but says he is not sure he'd trust the rope tiller as the main steering system.
+[17] Archive message page_711 (admin / Paul V., `paradoxbuilders`, msgnum 723, 2002-09-28) — "Bulkhead 3 side cleats? Deck Beam dims and BuildBook": no side cleats appear on bulkhead 3; asks if this is correct; deck beam dimensions aren't specified on all drawings, assumes 25x45 mm, plans to laminate his own from two 12mm ply pieces; asks the deck curve's radius; has added a BuildBook folder to the files section; still in the planning stage.
+[18] Archive message page_712 (Alastair, `paradoxbuilders`, msgnum 724, 2002-09-28) — "Re: Bulkhead 3 side cleats? Deck Beam dims and BuildBook": confirms no cleats needed on bulkhead 3 (side panel glues/nails to its edge); the deck isn't a radius, more a parabola — use sheet 7 (bulkhead 2) dimensions to make a mold and laminate all deck beams the same, cut to length; roof beams made the same way, curve on sheet 10.
+[19] Archive message page_715 (David Beard, `paradoxbuilders`, msgnum 727, 2002-09-28) — "Re: Plywood": prefers small water containers over the built-in tanks, which he uses for storage instead, having permanent ballast already sited there; has glassed the outside to stop checking but judges the interior too many small pieces to glass; sticks with changing plywood species.
+[20] Archive message page_713 (Alastair, `paradoxbuilders`, msgnum 725, 2002-09-28) — "Re: Vent Baffle": the baffle is high enough to stop water coming over the top under normal conditions; the tiller hole is low enough to stay above the water even upside down; doesn't know if this has been tested.
+[21] Archive message page_714 (dave / Dave Bolduc, `paradoxbuilders`, msgnum 726, 2002-09-28) — "Vent Baffle": the rope tiller has worked on Little Cruiser for ten years; replaced the tiller line with low-stretch double-braided line about 18 months ago; not much water gets in the boot or baffle in his experience, mostly splashing; a wave breaking on the stern might let a little more in.
+[22] Archive message page_719 (Glen Maxwell, `paradoxbuilders`, msgnum 731, 2002-09-28) — "Re: Spam": his request for volunteer moderators was answered by Dave Bolduc and Paul V.; the group will now be covered most if not all of the time, making it possible to close the group and have new members apply.
+[23] Archive message page_729 (Paul V., `paradoxbuilders`, msgnum 743, 2002-10-03) — "Re: Building a Paradox (motorsailer?)": "A boat is far more than the sum of its parts"; changing parts of a refined design affects the whole system; the pram hood idea is fine but a stern extension or rig change needs a full independent redesign; reveals his own planned modifications — a hinged, dog-down watertight hatch and lead ballast instead of a water tank, plus extra insulation and bug protection, for a planned cold-climate trip toward mandow.ca; has considered but ruled out designing his own boat from scratch.
+[24] Archive message page_733 (admin / Paul V., `paradoxbuilders`, msgnum 747, 2002-10-04) — "Bulkhead side curves": bulkhead 1 has a 5mm side offset, bulkhead 2 has 7mm, bulkhead 3 has 5mm; bulkheads 4 and the transom show no offset; asks if anyone had trouble bending the side ply to this curve, and whether the side nails up nicely; assumes the curve adds stiffness.
+[25] Archive message page_736 (Alastair, `paradoxbuilders`, msgnum 750, 2002-10-04) — "Re: Bulkhead side curves": "Not me. I just banged in the nails and it pulled it down, no problem."
+[26] Archive message page_734 (admin / Paul V., `paradoxbuilders`, msgnum 748, 2002-10-04) — "Metric system? what metric system?": found a cm/inch tape measure after some searching; US nominal lumber sizes run smaller than stated; plans to measure actual lumber dimensions in cm at the yard, aiming for ±2mm accuracy; did the same converting inches to mm building a canoe in Germany.
+[27] Archive message page_737 (Alastair, `paradoxbuilders`, msgnum 751, 2002-10-04) — "Re: Metric system? what metric system?": sawn vs. planed lumber distinction; the plans' mm values are conversions of inch sizes since Matt bought materials in inches; solid wood can vary several mm without a significant difference to the final construction.
+[28] Archive message page_739 (migchelsen / Barend Migchelsen, `paradoxbuilders`, msgnum 753, 2002-10-05) — "Re: Metric system? what metric system?": using a pocket calculator already treats fractional inches as a metric-like decimal system, eliminating conversion errors.
+[29] Archive message page_743 (Paul V., `paradoxbuilders`, msgnum 757, 2002-10-06) — "Re: BuildBook": read this in the plans but "was too lazy to write it correctly"; asks whether the sheer-clamp notches get the horizontal cut only while the chine-log notches can be cut completely, or whether both get only the horizontal cut; "Finally started with some woodworking" — building a deck-beam mold, intends to laminate the deck beams from 1/4 in plywood.
+[30] Archive message page_741 (Alastair, `paradoxbuilders`, msgnum 755, 2002-10-05) — "BuildBook": warns Paul not to cut the chine-and-clamp-log notch out completely until the sides are on — horizontal cut only, corner left attached for vertical location, vertical cut and corner removal only once the sides are fitted.
+[31] Archive message page_745 (Alastair, `paradoxbuilders`, msgnum 759, 2002-10-06) — "Re: BuildBook": both chine-log and sheer-clamp notches get the horizontal cut only at this stage; recommends laminating the chine log rather than bending it solid, citing his own difficult and potentially dangerous solid-log bend.
+[32] Archive message page_746 (Paul V., `paradoxbuilders`, msgnum 760, 2002-10-06) — "Re: BuildBook": "That means laminate in place, right? Thanks, that is very helpful advice."
+[33] Archive message page_751 (sohaven2002 / Paul V., `paradoxbuilders`, msgnum 765, 2002-10-21) — "Deck Beam": pulled his first deck beam out of the mold; a 25x45 curved beam laminated from six layers of 1/4 in plywood and epoxy; seems sturdy, will test it under pressure that night; seven more deck beams to go.
+[34] Archive message page_754 (admin / Paul V., `paradoxbuilders`, msgnum 768, 2002-10-23) — "Re: Deck Beam": seven is correct — one extra beam, possibly to support the cabin roof and a hinged hatch, and as a hedge against defects; gives chord lengths for all deck beams.
+[35] Archive message page_755 (Paul V., `paradoxbuilders`, msgnum 769, 2002-10-23) — "Re: Deck Beam": answers Nels's plywood-grain doubt; explains his "Build Book" philosophy (write only what he knows works; recalls making build books at S2 Yachts); "finally made some sawdust."
+[36] Archive message page_757 (admin / Paul V., `paradoxbuilders`, msgnum 771, 2002-10-23) — "Re: Deck Beam": used a 3-ply BC Southern Pine exterior-grade panel ("basic cheap exterior ply"); still asking around to make sure laminating plywood this way won't cause problems.
+[37] Archive message page_772 (admin / Paul V., `paradoxbuilders`, msgnum 786, 2002-11-23) — "Polyurethane glue": pulled a beam out of the mold glued with PL polyurethane adhesive; kept its shape, very stiff; not fully cured yet, plans to stress-test it once it is.
+[38] Archive message page_780 (sohaven2002 / Paul V., `paradoxbuilders`, msgnum 794, 2002-12-10) — "Re: Building encouragement": thanks Glen for the report; the images of the boat flying through the water help while his woodburner tries to heat his frozen workshop and he puts together deck beams.
+[39] Archive message page_782 (Paul V., `paradoxbuilders`, msgnum 796, 2002-12-11) — "Re: Building encouragement": on the BRIS, window condensation is channelled to a tube and collected in a bottle for drinking water.
+[40] Archive message page_800 (sohaven2002 / Paul V., `paradoxbuilders`, msgnum 814, 2003-01-06) — "Build Book": working on the Build Book, gearing up to start cutting out bulkheads; points to the updated BuildBook files folder (http://groups.yahoo.com/group/paradoxbuilders/files/BuildBook/); "Epoxy mixing weather is just a few months away!"
+[41] Archive message page_802 (admin / Paul V., `paradoxbuilders`, msgnum 816, 2003-01-07) — "How heavy is a fully loaded and ballasted Paradox?": "Anybody have an idea? Maybe 1000 lbs?"
+[42] Archive message page_808 (admin / Paul V., `paradoxbuilders`, msgnum 822, 2003-01-08) — "Re: How heavy is a fully loaded and ballasted Paradox?": "When it is loaded in a boat it will."
+[43] Archive message page_814 (sohaven2002 / Paul V., `paradoxbuilders`, msgnum 828, 2003-01-08) — "Re: How heavy is a fully loaded and ballasted Paradox?": "I wonder if he will be able to take some shortcuts through shallow water??" — replying to Dave Bolduc's news of Matt's Everglades Challenge entry.
+[44] Archive message page_820 (admin / Paul V., `paradoxbuilders`, msgnum 834, 2003-01-10) — "Re: Scaling Paradox and Other Questions": chine runners are a relatively new/experimental concept, probably works on sharpies with good rocker and ballast; points to four larger sharpie design websites; believes the concept will work on larger boats but has not seen an example.
+[45] Archive message page_851 (admin / Paul V., `paradoxbuilders`, msgnum 866, 2003-03-09) — "Re: Everglades Challenge": "Matt needs some wind!"; after Checkpoint 2 (67 of ~300 miles) he's about 10 hours behind the paddling kayakers, but reports a good night's sleep while sailing offshore; "There is a long way to go."
+[46] Archive message page_857 (admin / Paul V., `paradoxbuilders`, msgnum 872, 2003-03-11) — "Matt's in front!": first to reach Checkpoint 3, logged in at 14:40; as of 22:15 Monday the only competitor to have reached it; "Now headed offshore. Woohoo!"
+[47] Archive message page_873 (admin / Paul V., `paradoxbuilders`, msgnum 888, 2003-03-12) — "Re: another race comment:-)": wonders why no Hobie-cat-style catamarans entered, judging one would be "very competitive"; "I never thought of the Paradox as a racing boat, more of a slow but steady cruiser."
+[48] Archive message page_886 (cruisenewsnet / Paul V., `paradoxbuilders`, msgnum 901, 2003-03-30) — "Re: Solar Panel": links a 5-watt solar panel product page (northerntool.com), enough to maintain a charge but maybe not keep up with daily use over several days; links his own site's equipment page, cruisenews.net/equipment.html.
+[49] Archive message page_1218 (cruisenewsnet / Paul V., `paradoxbuilders`, msgnum 1238, 2003-10-05) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy).

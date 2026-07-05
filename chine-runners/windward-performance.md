@@ -1,0 +1,180 @@
+---
+type: Concept
+title: Chine runners and windward performance
+description: The Paradox's chine runners deliver measurable windward performance, backed by a quantified VMG sea trial, an independent month-long test, a hard Cumberland Sound cruising confirmation, and consistent owner-reported pointing angles.
+tags: [paradox, chine-runners, windward, performance, matt-layden, sven-yrvind, glen-maxwell, testing]
+timestamp: 2026-07-04T00:00:00Z
+---
+
+# Chine runners and windward performance
+
+Because the [Paradox](/paradox.md) resists leeway with
+[chine runners](/chine-runners/how-they-work.md) rather than a centerboard or
+keel, newcomers and skeptics alike routinely ask whether the boat can really
+work to windward. It can, on an unusually strong evidence base for so small a
+boat: a **quantified controlled sea trial** by the designer, an **independent
+month-long firsthand test** by a noted small-boat sailor, and a **hard
+real-world cruising confirmation** by a builder, all pointing the same way.
+
+## Matt Layden's quantified sea trial (2001)
+
+In October 2001 designer [Matt Layden](/matt-layden/biography.md) ran a
+**quantified sea trial** — the most rigorous, data-driven performance test of
+the design on record — comparing the as-built chine runners against a modified
+port-side runner.
+
+**The modification.** Matt **extended the port chine runner forward by about
+16–18 inches**, leaving the starboard runner as originally built, to see
+whether the change improved windward performance.
+
+**Test method.** Matt sailed Paradox on a stretch of the **Indian River** chosen
+for practically no current, uniformly deep water, and little traffic. He laid
+out a **triangular course** with legs over a mile long, using charted channel
+markers and a point of land, cross-checked with compass bearings and timed runs.
+He ran **3 circuits**, timing the downwind leg as a control on changing wind
+strength as well as the two upwind legs, and at each leg's end timed any offset
+to windward/leeward of the mark to calculate **distance made good to windward**.
+He deliberately **dipped the standing lug sail to leeward at each tack** (not his
+normal practice) to cancel rig-asymmetry error between tacks. Wind direction was
+estimated as half the total angle between the two upwind legs, since compass
+bearings on the wind were not accurate enough to be meaningful.
+
+Matt candidly noted the method's limits: mark positions were not GPS/survey
+verified; run-to-run fluctuations ran "several percent" per leg; a rain squall
+disturbed the last two legs for ~30 minutes; and he put the margin of error at
+**at least 1/10 knot**, remarking that doing meaningfully better "would probably
+require a towing tank."
+
+**Results (average of 3 runs per leg):**
+
+| Leg | VMG | Angle to wind | VMGW |
+|-----|-----|----------------|------|
+| Downwind | 4.53 kt | — | — |
+| Starboard tack | 3.63 kt | 51° | 2.29 kt |
+| Port tack (modified runner) | 3.49 kt | 51° | 2.21 kt |
+
+(VMG = velocity made good along the course; VMGW = velocity made good to
+windward.)
+
+**Conclusions.**
+
+- The modified port runner showed **at most a slight improvement**, but the
+  difference (2.21 vs. 2.29 kt VMGW) was **within the margin of error**, so Matt
+  could not say for sure it helped.
+- The **as-built chine runners are "not dismally bad"** to windward, though
+  "may be susceptible to improvement."
+- In numbers, this confirmed what Matt had already observed informally: **Paradox
+  sails to windward passably well without a centerboard.**
+- In the rare cases Paradox has sailed near other small shoal-draft cruisers, it
+  has "usually sailed right past them, upwind or downwind" — which Matt
+  attributed not to Paradox being unusually fast, but to other small shoal
+  cruisers generally not being fast either.
+
+This trial sits alongside Matt's separate, unsuccessful **chine-extension**
+experiment and his "Little Cruiser style" rudder consideration — see
+[rudder and chine experiments](/design/rudder.md) — as part of the designer's
+ongoing empirical iteration on the boat's underwater shape.
+
+## Sven Yrvind's month sailing Paradox (1997)
+
+The strongest **independent** endorsement comes from Swedish long-distance
+microcruiser designer [Sven Yrvind](/references/yrvind-website.md), who came to
+Paradox as a skeptic. Sent drawings of the boat, he doubted it had "any means
+of preventing leeway" until a closer look revealed the chine runners — and
+even then he questioned whether they would be enough. **[David
+Bolduc](/people/bolduc/dave.md)**, who had sailed a winter in the Bahamas
+alongside Matt and confirmed the runners worked very well, put Yrvind in touch
+with Matt directly; Matt told him Paradox could sail to windward better than
+Bolduc's own, slightly bigger centerboard boat, and invited him to see for
+himself.
+
+In **October 1997, Yrvind sailed Paradox for a month**, deliberately testing
+the runners to windward, and found that Paradox "certainly sailed as close to
+the wind as my boats, **probably much better**." He returned to sail with
+Matt again in **2003, 2006, and 2007**, about a month each time. His verdict:
+the chine runner "certainly is one of the smartest inventions in the history
+of yachting, simple and cheap, easy to build, and it does allow the boat to
+sail to windward **in very shallow water**." (For Yrvind's fuller account and
+his "greatest innovation of the century" judgment, see [origin and
+evolution](/chine-runners/origin-and-evolution.md).)
+
+## Glen Maxwell's Cumberland Sound confirmation (2002)
+
+Over a year after Matt's own trial, builder [Glen C.
+Maxwell](/people/glen-maxwell.md) added a **builder's real-world**
+confirmation (see [Glen C. Maxwell — "Building
+encouragement"](/people/glen-maxwell/build-and-zoe.md)). Sailing
+"[Zoë](/boats/zoe.md)" up the **Cumberland Sound** (St. Mary's River entrance,
+GA) against **12 kt winds and a foul current**, he short-tacked for almost **five
+hours** to reach his anchorage, averaging **3.6 kt** over **18 nm**, tacking
+through as tight as **90°** on occasion (though favoring **110°** to keep boat
+speed up against the chop): "To all those skeptics of the chine runners I can
+now attest to their performance."
+
+This is a sustained, hard-conditions data point from an owner's actual cruising
+use — complementing Matt's short controlled trial with a longer, harder test.
+Glen separately suspected a **mast-heel play problem** (see [mast interior
+sealing and anchor-light fit](/construction/mast-sealing-and-fit.md)) may have
+cost him some windward performance during this same session, leaving open the
+possibility his numbers *understate* the runners' true potential once that fix
+is made.
+
+## Pointing angles owners report
+
+There is no single numeric pointing answer beyond Matt's trial above, but the
+firsthand reports are consistent:
+
+- A Paradox has been seen sailing alongside Seapearl dinghies and **pointing
+  as high as they did**: "The chine runners work !!" (A **Small Craft Advisor
+  (SCA)** article covers the boat's pointing ability in more depth.)
+- Sailing "Zoë"'s re-cut sail (see [rig and sail — the Dabbler
+  re-cut](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)),
+  Glen Maxwell found upwind performance **very good**: Paradox **will tack
+  through 90°**, though tacking through a wider **100°** sails noticeably
+  faster. "You just can't beat those chine runners for doing the job they do
+  relative to the convenience they provide. Try em, you'll like em."
+- Pointing depends on the **whole design working together**: the boat needs
+  **enough weight aboard to submerge the lower chine runner when heeled**,
+  the **cut of the sail** matters greatly, and a lug sail demands different
+  handling skill from a conventional sloop — every builder who persists
+  through the learning curve ends up pleased.
+
+The Bolducs' `microcruising` group is a further source: [Dave and Mindy
+Bolduc](/people/bolduc/dave.md), owners of [Little
+Cruiser](/matt-layden/little-cruiser.md), sail alongside Matt in his own
+Paradox and are consistently impressed by her capability. Their own firsthand
+comparison is the sharpest verdict on record: sailing Paradox (chine runners)
+alongside Little Cruiser (centerboard) they "cannot tell which boat can point
+higher… both methods work equally well on Matt's designs," with the chine
+runner's distinct edge being **really shallow water** (see [origin and
+evolution](/chine-runners/origin-and-evolution.md)).
+
+The chine runners' unfamiliar look continues to draw the same skeptical
+question from newcomers: whether so radical-looking a leeway-resisting
+mechanism can really sail to windward at all, and whether the boat's storage
+arrangement ("gizmos") is more complex to live with than it looks. The
+consistent answer is that the runners are simpler in practice than they
+appear and the design's windward performance is well attested by the evidence
+above. A related recurring question — whether Paradox suffers more leeway
+than a centerboard catboat sailing upwind, or whether "the chine runners
+[are] magic" — gets a characteristically terse answer from Glen Maxwell:
+**"They're magic!"**, pointing to his own "Zoë" wake photographs (labeled
+"wake1" and "wake2" in the group's photo files) as a windward-performance
+illustration. The boat's enclosed layout — whether Paradox could be built
+with a more open cockpit, or whether other chine-runner designs exist — is
+addressed on [crew size and cabin
+fit](/operations/crew-size-and-fit.md#why-the-cabin-is-enclosed-a-convertible-car-analogy).
+
+# Citations
+
+[1] Archive message page_086 (Matt Layden, relayed by mbolduc to `microcruising`, forwarded to `paradoxbuilders` by Glen C. Maxwell, 2001-10-21/22) — "Chine runner modification test results by Matt Layden": extended the port chine runner 16–18 in forward; triangular-course sea trial on the Indian River, 3 circuits, timed legs, dipped sail each tack to cancel rig asymmetry; results — downwind VMG 4.53 kt; starboard tack VMG 3.63 kt at 51° (VMGW 2.29 kt); port tack VMG 3.49 kt at 51° (VMGW 2.21 kt); modification improvement, if any, within margin of error; as-built runners "not dismally bad" to windward; Paradox usually outsails other small shoal cruisers it encounters.
+[2] yrvind.com — "Paradox & Enigma" (`https://www.yrvind.com/videophoto/outher-boats/enigma/`, Sven Yrvind, ~2008), mirrored locally at `source-web/yrvind/enigma.html` — sent Paradox drawings by Dave Bolduc and another friend, Yrvind was skeptical the runners could prevent leeway; phoned Bolduc (who had sailed a Bahamas winter with Matt and confirmed they work), then Matt, who said he could out-point Bolduc's larger centerboard boat and invited him over; in October 1997 Yrvind sailed Paradox for a month, deliberately testing it to windward, and found she "sailed as close to the wind as my boats, probably much better"; returned 2003, 2006, 2007; calls the chine runner "one of the smartest inventions in the history of yachting… it does allow the boat to sail to windward in very shallow water."
+[3] Archive message page_779 (Glen Maxwell, `paradoxbuilders`, msgnum 793, 2002-12-10) — "Building encouragement": weekend cruise of Cumberland Sound (St. Mary's River entrance, GA); nearly five hours short-tacking against 12 kt winds and a foul current, 3.6 kt average over 18 nm, tacking through 110° (occasionally 90°); "To all those skeptics of the chine runners I can now attest to their performance."
+[4] Archive message page_1484 (jacobtm6 / "Jake", `paradoxbuilders`, msgnum 1504, 2003-12-08) — "Question for Paradox sailors": new member introduction; finds Paradox's use of chine runners its most revolutionary feature; doesn't expect J-boat pointing but asks whether they allow reasonable windward progress and whether anyone can roughly quantify how high she points.
+[5] Archive message page_1485 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1505, 2003-12-08) — "Re: Question for Paradox sailors": has no numbers, but the group's Paradox FAQ file addresses the question; has seen a Paradox sail with Seapearls and point as high as they did; an article in Small Craft Advisor is worth reading on pointing ability; "The chine runners work !!"
+[6] Archive message page_1488 (arvent / "Nels", `paradoxbuilders`, msgnum 1508, 2003-12-09) — "Re: Question for Paradox sailors": welcomes Jake; points to the files/links sections; the Bolducs' `microcruising` discussion group (they own Little Cruiser, the boat the designer had before Paradox, and sail with him, "amazed at the capability"); every facet of the design matters to her sailing ability — must have enough weight aboard to submerge the chine runner when heeled, sail cut is important, and a lug sail needs different handling skill from a sloop; everyone who has built one has been pleased once they learn how she sails.
+[7] Archive message page_1499 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1519, 2003-12-14) — "Re: Paradox in CAD": upwind performance of the new sail is very good; Paradox will tack through 90 degrees but loses speed compared with tacking through 100 degrees; "You just can't beat those chine runners for doing the job they do relative to the convenience they provide. Try em, you'll like em."
+[8] microcruising.com — "Microcruising Guide" (`http://www.microcruising.com/mcg.htm`), David & Mindy Bolduc — "we cannot tell which boat can point higher… both methods work equally well on Matt's designs"; chine runners hold "a definite advantage over a centerboard in really shallow water."
+[9] Archive message page_2593 (col_sartoris / "Michael Audette", `paradoxbuilders`, msgnum 2623, 2005-03-21) — "New member of group, seeking sailing performance info": new member introduction; calls the bilge/chine runners "a radical concept"; asks how well the boat sails to windward on that draft, and whether the number of "gizmos" for storage makes the boat harder to live with than it looks, or is more straightforward than it appears. No reply on record.
+[10] Archive message page_2635 (drollerindy / "Doug Roller", `paradoxbuilders`, msgnum 2635, 2005-04-06) — "Upwind sailing": new correspondent; asks how Paradox compares with centerboard catboats sailing upwind, and whether it has a lot more leeway or the chine runners are "magic."
+[11] Archive message page_2636 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2636, 2005-04-07) — "Re: Upwind sailing": "They're magic! take a look in the photos section, Zoë file, wake1 & wake2 for a windward performance example."

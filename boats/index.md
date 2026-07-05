@@ -1,0 +1,35 @@
+# Boats
+
+Individual, known **Paradox** builds / hulls — specific instances of the
+[Paradox](/paradox.md) design, as distinct from designer Matt Layden's other
+designs (which live under [matt-layden](/matt-layden/index.md)). Each concept
+cross-links its builder/owner under [people](/people/index.md). Concepts are
+added here as they are sourced from the archive.
+
+# Concepts
+
+* [Original Paradox (Matt Layden's prototype)](original-paradox.md) - Matt Layden's original prototype Paradox — built in about four months and launched down a ravine to the Salmon River in 1993, cruised thousands of miles including a tandem Bahamas passage with the Bolducs' Little Cruiser, and won the ~300-mile 2003 WaterTribe Everglades Challenge outright, finishing at Key Largo well ahead of the entire paddled field.
+* [Zoë (Glen C. Maxwell)](zoe.md) - Zoë is Glen C. Maxwell's professionally built Paradox, launched in late 2001 and cruised for years afterward, whose build hours, ballasting, interior fit-out, and Cumberland Sound sea trial supply some of the archive's best-documented real-world figures for the design.
+* [Walden (Chris Becker)](walden.md) - Chris Becker's Paradox "Walden", built in Brisbane, Australia, from 9 mm plywood starting in 2001 — the earliest Australian Paradox build reported to the list, though an earlier, 2000-built example later came to light (see [Aussie Paradox](aussie-paradox.md)).
+* [Chris Curtis's Paradox](curtis-paradox.md) - The Paradox owned by Chris Curtis (Sandpoint, Idaho; built by Lezlie Hensen, bought via Sean Mulligan) — completed the Texas 200 and shown at Port Townsend; also the canonical home for Chris Curtis himself (see [people/chris-curtis.md](/people/chris-curtis.md), now a redirect stub).
+* [Don Elliott's Paradox](elliott-paradox.md) - Don Elliott's heavily built Paradox, one of the first two Paradoxes known to have sailed, with a distinctive lead-ballast installation technique.
+* [Whisper (David Beard)](whisper.md) - David Beard's secondhand Paradox, bought from original builder Bob Archibald and refitted, renamed "Whisper," known for a hard-won lesson in tacking a loaded lug-rigged Paradox, a jet-ski collision that proved the hull, and David's parallel from-scratch build.
+* [Little Jim (Alastair)](little-jim.md) - Alastair's own Paradox, built in a Yeovil, England garage and launched in Poole Harbour in 2003, whose build cost, weigh-ins, launch trials, and cruise reports (including a 27-mile passage to Portland) form the archive's fullest single UK builder's record.
+* [Aussie Paradox (Andrew Graham), named "Zero"](aussie-paradox.md) - Andrew Graham's Paradox, built in Brisbane, Australia, and launched 29 November 2003 as "Zero" — tentatively claimed as the first Australian-built Paradox to sail, though Andrew later learned of an earlier, 2000-built secondhand example — notable for its Australian-ply-sheet-optimized cutting layout and a widened transom, omitted mid bins, and other deliberate plans deviations.
+* [The "BRIS Paradox" (Kjell Karlsson)](bris-paradox.md) - A Swedish two-person Paradox variant built by Kjell Karlsson in Sven Yrvind's "BRIS" foam-sandwich composite method rather than plywood — a beamier, taller hull with a stainless-steel-sheathed bottom for ballast and rock protection, no water tank, and a carbon-fibre rig, built with the blessing of both Sven Yrvind and Matt Layden.
+
+> **See also:** [Walden](walden.md) (Chris Becker) and
+> [Aussie Paradox](aussie-paradox.md) (Andrew Graham) are two otherwise
+> unconnected, independent Australian builds — grouped here only as a
+> discoverability aid.
+
+> **Other known builds (mentioned, without a dedicated page):** a Paradox in
+> **New Zealand**, built by **Hugh Miller**, a then-67-year-old boat builder,
+> and reported secondhand by [Dave Bolduc](/people/bolduc/dave.md), who first
+> posted photos on 23 June 2003 and a further set on 3 August 2003 — built to
+> the plans except for round, birdmouth-method spars. By 25 December 2003 Dave
+> reported the boat **finished**, named **"Petite Lady,"** with a further set
+> of completion photos posted, and by June 2004 reported Hugh Miller still
+> sailing and enjoying her, with a further round of sailing photos posted;
+> kept as a cross-linked mention on [Dave Bolduc](/people/bolduc/dave.md)
+> rather than promoted to its own page.

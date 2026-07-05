@@ -1,0 +1,307 @@
+---
+type: Reference
+title: Little Cruiser (Dave and Mindy Bolduc)
+description: A Matt Layden cruising boat very similar to the Paradox, sailed two-up by Dave and Mindy Bolduc and often cited as a real-world proof point for Paradox-type capability, with a larger and more complex lug sail than Paradox's and no formal plans on record.
+tags: [paradox, reference, little-cruiser, dave-bolduc, matt-layden, sail]
+timestamp: 2026-07-02T00:00:00Z
+---
+
+# Little Cruiser
+
+**Little Cruiser** is the cruising boat of [Dave and Mindy Bolduc](/people/bolduc/dave.md)
+— the same Dave Bolduc who distributes the
+[Paradox building plans](/references/building-plans.md). She is **"very similar to
+Paradox"**, a [Matt Layden](/matt-layden/biography.md) design in the same family
+along with [Swamp Thing](swamp-thing.md), and the Bolducs cruise her **two-up**
+with their gear and stores. Dave has **rebuilt and improved** Little Cruiser and
+posted photos of that rebuild to the group files so builders can compare the two
+designs.[1][3]
+
+Because the Bolducs cruise a similar boat successfully two-handed, Little Cruiser
+is repeatedly used as a real-world reference for what a Paradox-type boat can do
+— including the fact that carrying two people plus gear pushes the boat somewhat
+over its nominal single-hander [design displacement](/design/weight-and-ballast.md).[1]
+
+## Design particulars
+
+Built in **1988** and nicknamed **"SOST" (Sun of Swamp Thing)**, Little Cruiser
+was Matt Layden's one departure to a **bow-mounted centerboard** — chosen to
+maximize interior space rather than
+[chine runners](/design/chine-runners-and-windward-performance.md) — paired with a
+battened, slab-reefing balanced lug. Per the Bolducs'
+[microcruising.com](/references/microcruising-website.md):[16][17]
+
+| Particular | Metric | Imperial |
+|---|---|---|
+| LOA | 4.62 m | 15' 2" |
+| Beam | 1.4 m | 4' 7" |
+| Draft (board up) | 0.23 m | 9" |
+| Displacement | 726 kg | 1,600 lb |
+| Sail area | 11.6 m² | ~120 sq ft |
+
+The design carries the unusually specific coefficients **Cp .56, D/L 242, disp
+volume 709 L**. Distinguishing features include **30 gallons of fresh-water
+ballast in four tanks**; a mast **supported by struts** so it lowers easily for
+low bridges; **inside steering and reefing**; **foam insulation and flotation**
+giving positive buoyancy; and **extremely robust construction with a 1"-thick
+plywood bottom**. The deck-stepped mast uses an "A"-frame tabernacle, and the boat
+carries a folding dinghy. Matt Layden lived aboard her for four years, sailing the
+Bay of Fundy to the Bahamas, and wintered aboard in Cape Cod — once **freezing her
+into a saltwater pond** to test cold-weather living.[16][17] An early Small Craft
+Advisor interview describes her as **ballasted with several hundred pounds of lead
+plus an equal weight of gear stowed securely in the bilges**, with **2" foam
+insulation for flotation**, and claims ballast and stores right her to **165° of
+heel**; the water was stored in individual square cubes fitted to the bilge.[18]
+
+## Cruising record and toughness
+
+The Bolducs bought Little Cruiser in **1992** and, over the years documented on
+their site, sailed her to the Bahamas **seven more times** — **eight winter
+Bahamas cruises** plus repeated ICW passages Connecticut↔Florida, **over 10,000
+miles in all** (each Bahamas cruise averaging ~800 mi over ~2.5 months). Her
+one-inch bottom has shrugged off collisions with reefs, jetties, docks, steel
+pipes, and other boats. On the **1998** Bahamas trip she hit a reef at dusk; next
+morning the Bolducs found "a ugly looking 3/8 inch deep gash that was at least 8
+inches long in the bottom," yet sailed on and **beached her** (she has no keel) to
+repair it at leisure. After twelve years' ownership the Bolducs still called her
+"one of the best boats for the job," simple and cheap to maintain and towable
+behind a small four-cylinder car.[16]
+
+## Construction scantlings and the 2005 epoxy/fiberglass sheathing refit
+
+Little Cruiser is built of thick **AC-grade plywood**: a **1"-thick bottom**,
+**1"-thick framing** throughout, **½" plywood sides**, and a **⅜" plywood deck**.[16]
+The one construction fault the Bolducs found is that she was **not originally
+sheathed in epoxy/fiberglass**, so the plywood developed surface checks over time.
+In **2005** they stripped her to bare wood, sealed her in epoxy, and sheathed her
+fully in fiberglass to cut yearly maintenance — the bottom getting **five layers
+of 10 oz glass**, with **1.7 oz Kevlar leading edges** added to the centerboard and
+rudder, along with a new copper ground plate and a multi-position Lexan rear
+window.[16][19] (This is separate from the finding that her original build used
+generic epoxy with no delamination after ~10 years — see below.) Her sail has its
+own long history (1988 Matt Layden original → 1994 professional → 1998 owner-made →
+a 2008 rebuild), documented in [sailmaking](/construction/sailmaking.md).[20]
+
+The refit was planned roughly a year ahead, drawing on the ground-plate and
+glassing methods used building "Zoë" (full technique detail — copper
+flashing, mastic sealant, chine reinforcement — lives on [Glen Maxwell —
+construction
+techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques)).
+Bonded deck hardware was stripped by heating a thin metal spreader — or the
+fitting itself, for metal parts — with a blow torch and slipping it
+underneath, avoiding deck damage, rather than prying off parts bonded with
+3M 5200. The glassing plan settled on **6 oz glass on the deck and sides**,
+**biaxial/mat glass on the bottom**, several layers of **bias-cut 2–4 oz
+glass** for tricky shapes like the toe rails, and a considered but likely
+narrowed-down combination of **1.7 oz kevlar with a 2 oz glass overlay** —
+prized for abrasion resistance while still leaving a sandable layer before
+reaching the fuzzy kevlar cloth — reserved for just the rudder and
+centerboard tip given the expense of the fine-weave kevlar, with the rest
+of the boat finished in plain glass.[21][22] By mid-September 2004 the
+glassing job itself was underway, with Little Cruiser expected sailing
+again "once more" by the following summer.[26]
+
+## A mid-October 2004 progress update
+
+By mid-October 2004 the hull was just about ready to glass, with [Swamp
+Thing](/matt-layden/swamp-thing.md)'s hull being stripped in parallel —
+around the same time Matt Layden and the [original
+Paradox](/boats/original-paradox.md#surviving-hurricanes-frances-and-ivan-2004)
+came through Hurricanes Frances and Ivan safely.[27]
+
+## No formal plans exist; a cutaway drawing was offered
+
+No plans or drawings were ever made for Little Cruiser. After photos of her
+interior (looking forward and aft) circulated on the builders' list, a
+free **complete cutaway drawing of the interior** was offered — for a book
+Dave Bolduc was preparing, provided enough photos, rough sketches, and
+dimensions were supplied — but it is not recorded whether the drawing was
+ever completed.[4][5]
+
+The plans question recurred at least twice more, in June 2002 and April
+2003, and each time went unanswered beyond the same baseline fact: no
+formal plans for Little Cruiser exist. [Dave Bolduc](/people/bolduc/dave.md)
+holds only the basic measurements Matt gave him personally, and confirmed
+he had "talked to Matt Layden several times about drawing up a set of
+plans for a larger sharpie," but that Matt had not yet produced anything.
+Only Don Elliott's unfulfilled 2001 offer to draft a cutaway from Dave
+Bolduc's own photos and sketches stands on the record.[15] See [stretched
+Paradox — "Lil Cruiser Plans"](/design/variants/stretched-paradox.md) for
+the fuller thread, including a 10-20%-Paradox-stretch recommendation as a
+practical alternative and an independent 10%-scaling corroboration.
+
+## Chine and rudder cross-pollination with Paradox
+
+Little Cruiser's rudder design was cited as a possible improvement for Paradox:
+after an unsuccessful chine-extension experiment on Paradox, Matt Layden was
+reported to be considering testing a **"Little Cruiser style" rudder** on Paradox,
+since the balance point of the two rudder types reportedly differs. See
+[rudder and chine experiments](/design/rudder.md).[6]
+
+## Purchase price and refit cost
+
+[Dave and Mindy Bolduc](/people/bolduc/dave.md) **paid $1,600 for Little
+Cruiser**, and she required **some refitting** after **3 years of
+full-time cruising**. This is the only purchase-price data point on record
+for Little Cruiser, and it contrasts with the cost for Matt to *build* a Paradox
+from scratch (~$2,000, 3 months — see [build effort](/construction/build-effort.md)),
+giving a rough sense of secondhand vs. new-build economics for Layden's
+small-cruiser designs.[7]
+
+## Sail: larger and more complex than Paradox's
+
+As a comparison point for scaling Paradox's rig to a stretched hull (see
+[stretched Paradox](/design/variants/stretched-paradox.md)), Little
+Cruiser's sail is a useful real-world data point. Little Cruiser is **15'
+1" long**, longer than Paradox's stock **13' 10"**, and carries a sail of
+about **120 sq ft** against Paradox's **100 sq ft** unstretched. That makes
+her roughly a **10% linear stretch** of Paradox (working out to about 15.2
+ft, or 15' 2 1/2", on corrected arithmetic) — close enough in length that
+her sail is a reasonable real-world data point for what a 10%-stretched
+Paradox's sail area might need to be. (Compare Glen Maxwell's independently
+worked square-root scaling estimate of 100→110 sq ft for the same stretch,
+in [stretched Paradox](/design/variants/stretched-paradox.md).)[9][10]
+
+Little Cruiser's sail plan, photographed and posted to the group's files
+("David's Pictures"), carries these measurements, all in mm:[10][11]
+
+| Sail edge / feature | Dimension (mm) |
+|---|---|
+| Luff | 1900 |
+| Yard / Head | 2870 |
+| Segmented leech (top to bottom, 3 sections) | 1590, 1615, 1620 |
+| Foot | 3560 |
+| Overall height (foot + 130) | 3690 |
+| Diagonals | 4335, 3920, 3820 |
+
+### Far more complex to build than Paradox's sail
+
+Little Cruiser's sail is **far more complex** to construct than Paradox's simpler
+sail:[12][13]
+
+- The **leech is segmented** (not a single straight edge), and the sail uses
+  **battens** and **many patches**, all adding significantly to construction time.
+- The panels are **vertical** and **broadseamed** (edges cut with progressively
+  more curve to build shape into the flat cloth, rather than cut flat) — see the
+  sailmaking article and rough sketch at
+  `http://home.triad.rr.com/lcruise/reviewb.htm`.
+- The sail's **two horizontal seams on the leech are tapered**.
+- The **head**, **luff**, and **foot** also have some round (curve) built in.
+- The sail is **beautiful to look at**, but gains little in **performance**
+  over Paradox's simpler flat-cut sail.
+- The sail was still **evolving**: planned future changes included moving to **5 oz
+  sailcloth**, adding more taper to the leech seams, and moving the forward portion
+  of the top batten to the throat. Nearly three years later, in August 2004, the
+  boat's next sail did in fact carry the 5 oz cloth, a shorter top batten, and a
+  tighter leech tabling — explicitly **not** adding more draft, sticking with the
+  already-tested design rather than experimenting with more depth (raised at the
+  time as a question of whether Matt Layden's own posted sail dimensions should
+  gain more draft). Matt himself remained happy with his existing sail, while
+  still considering a touch more draft — see [rig and sail — how much draft a
+  Paradox lug sail should
+  carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry) for the
+  Paradox-specific side of that same discussion.[23][24][25]
+
+This is the clearest documented contrast between Paradox's intentionally
+simple, flat-cut lug sail (see [rig and sail](/design/rig.md)) and a more
+elaborate, higher-performance-oriented lug sail on a sibling Layden design.
+
+## Construction material: generic epoxy, no delamination after ~10 years
+
+Little Cruiser was built using **generic "Defender Industries" epoxy** rather than
+a name brand like West System — and, after almost **ten years** of hard use, the
+boat and her spars had experienced **no delamination whatsoever**. Matt Layden is
+believed to have used this same generic epoxy on all of his earlier boats too,
+making Little Cruiser's long service life informal evidence that expensive
+name-brand epoxy is not a strict necessity for a durable small-boat build (see
+[epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md)).[14]
+
+## The removable back window: design rationale, and Paradox builders' adaptation ideas
+
+Little Cruiser has always had a **fully removable back window**, in
+contrast with Matt Layden's choice to make Paradox's own back window
+**permanent**. The case for a permanent window: a bonded window adds to the
+cabin's overall structural strength, and a loose or removable window risks
+letting in a sizeable amount of water around its edges if the boat is
+pooped or rolled.
+
+Weighed against that, Little Cruiser's own long record argues for the
+opposite choice: in thousands of miles of cruising, mostly along the U.S.
+East Coast and the Bahamas, she has never been pooped, knocked down, or
+rolled with her window removable — though bonding the window shut with
+**3M 5200** would likely be prudent before a long ocean crossing of the
+Atlantic or Pacific. In everyday coastal and island-hopping use, the
+removable window earns its keep three ways: it makes entering and leaving
+the boat **easier and safer**, it lets the crew reach across the rear deck
+to work an outboard's controls, and — most importantly — it lets **far more
+air** into the cabin, a real comfort gain in the tropics. On balance this
+is extra comfort at some cost to maximum seaworthiness, and most builders
+are still better served following Matt Layden's plans and building
+Paradox's window permanent. The Bolducs' own installation is documented
+with photos in their 2005 refit pages (cross-linked above as [19]).
+
+Several Paradox builders picked up the idea for their own boats. A **hinged**
+back window was proposed as a way to combine the ventilation benefit with
+instant sealing for heavy weather — hinged either at the top (swinging in)
+or, potentially better, at the **bottom and swinging out**, since a
+top-hinged window swinging inward risks banging the crew on the back of the
+head in an unexpected wake or wave. In the bottom-hinge version the window
+would swing back down and out over the aft deck like a door, doubling as a
+seat (a similar washboard arrangement had worked this way on another
+builder's "Folksong," though it was doubted the same trick would suit
+Paradox's internal line-steering arrangement). One builder working on a
+boat called "Enuf" took the idea further still: hinge the window from the
+bottom, swinging down and outward onto the rear deck for easy sealing, while
+also shrinking the Lexan pane and enlarging the wood frame — potentially
+building the window entirely of wood with two small fixed ports let into
+the side supports instead of one large clear pane.
+
+## Ground tackle example
+
+Little Cruiser's anchoring setup is cited as a model for the Paradox. Her current
+working ground tackle is a **9 lb Danforth main** and a **25 lb 3-piece Luke storm
+anchor**, **both stored below the floorboards**; only a **light lunch hook** is
+kept on the bow, after the Bolducs found an 11 lb Bruce on the bow roller altered
+the boat's trim too much (a 4 lb Fortress had earlier served for short stops). When
+the Bolducs first got Little Cruiser, their Bruce anchor **simply hung off the
+stern** — ready to grab and drop when anchoring — before they later refined the
+arrangement. Matt Layden's stern-throw/walk-forward anchoring method, developed on
+his own Paradox, has been **used identically and successfully on Little Cruiser**.
+See [ground tackle](/operations/ground-tackle.md).[2][3][8]
+
+# Citations
+
+[1] Archive message page_032 (Don Elliott, `paradoxbuilders`, 2001-07-15) — Dave and Mindy Bolduc cruise a boat very similar to Paradox, two-up with gear and stores, so they exceed the design displacement somewhat.
+[2] Archive message page_037 (Alastair, 2001-07-22) — Dave Bolduc on Little Cruiser uses a Danforth main and a 4 lb Fortress on the bow roller for short stops.
+[3] Archive message page_048 (Dave Bolduc, `paradoxbuilders`, 2001-09-04) — very similar to Paradox; Dave rebuilt/improved it and helped restore Swamp Thing; posted rebuild photos; current anchors a 9 lb Danforth main and 25 lb 3-piece Luke storm anchor, both below the floorboards; a bow-roller 11 lb Bruce upset the trim so only a light lunch hook stays forward now.
+[4] Archive message page_052 (Dave Bolduc, `paradoxbuilders`, 2001-09-05) — posts photos of Little Cruiser's interior, looking forward and aft.
+[5] Archive message page_053 (Don Elliott, `paradoxbuilders`, 2001-09-05) — offers a free complete cutaway interior drawing for Dave's book given enough photos/sketches/dimensions; understands no plans or drawings were ever made for Little Cruiser.
+[6] Archive message page_058 (Dave Bolduc, `paradoxbuilders`, 2001-09-09) — Matt considering a "Little Cruiser style" rudder for Paradox after the chine-extension experiment underperformed; balance point said to differ between rudder types.
+[7] Archive message page_090 (mbolduc / Dave Bolduc, `paradoxbuilders`, 2001-11-09) — Dave and Mindy paid $1,600 for Little Cruiser; required some refitting after 3 years of full-time cruising.
+[8] Archive message page_155 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-11) — "Anchoring": Matt's stern-throw/walk-forward method used identically and successfully on Little Cruiser; their Bruce anchor originally just hung off the stern before later refinement.
+[9] Archive message page_202 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-22) — "Little Cruiser's sail": unstretched Paradox sail is 100 sq ft; a 10% stretch would be 110 sq ft; Little Cruiser is 15'1" long with ~120 sq ft of sail, suggesting 120 sq ft as a starting point for a ~10%-stretched Paradox (~15.4 ft).
+[10] Archive message page_203 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-22) — "Oops....": corrects the math — a 10% stretch of Paradox yields 15.2 ft (15' 2 1/2"), close to Little Cruiser's length; uploads Little Cruiser's actual sail dimensions (mm) to the file area.
+[11] Archive message page_204 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-22) — "Little Cruiser sail": posts the sail-plan photo and full dimensions in mm — Luff 1900, Yard/Head 2870, segmented leech 1590/1615/1620, Foot 3560, overall height 3690, diagonals 4335/3920/3820.
+[12] Archive message page_205 (orpdh / Pete Hodges, `paradoxbuilders`, 2001-12-24) — "Re: Little Cruiser sail": asks whether the sail's sections are flat, or curved/darted at the edges; finds the Little Cruiser sail more visually appealing than Paradox's.
+[13] Archive message page_207 (boldav38 / Dave Bolduc, `paradoxbuilders`, 2001-12-26) — "Re: Little Cruiser sail": the sail is far more complex than Paradox's — segmented leech, battens, and many patches add greatly to construction time; panels are vertical and broadseamed, leech seams tapered, head/luff/foot have some round; doubts much performance gain over Paradox's simpler sail; still evolving — planned changes include 5 oz sailcloth, more leech taper, and moving the top batten's forward end to the throat; points to `http://home.triad.rr.com/lcruise/reviewb.htm`.
+[14] Archive message page_423 (boldav38 / Dave Bolduc, `paradoxbuilders`, msgnum 421, 2002-03-12) — "Alternative Epoxies": Little Cruiser was built with generic "Defender Industries" epoxy; no delamination in the boat or spars after almost ten years of hard use; believes Matt Layden used the same generic epoxy on all his earlier boats.
+[15] Archive message page_516 (waltandconnie1963, `paradoxbuilders`, msgnum 517, 2002-06-20) — "little crusier plans": "Where can one get plans to build LC?" — unanswered.
+[16] microcruising.com — "Little Cruiser" (http://www.microcruising.com/lc1.htm), David & Mindy Bolduc — built 1988; design particulars (LOA 4.62 m/15'2", beam 1.4 m/4'7", draft 0.23 m/9", disp 726 kg/709 L, Cp .56, D/L 242, SA 11.6 m²); 30 gal fresh-water ballast in 4 tanks; bow-mounted centerboard; mast on struts for low bridges; inside steering/reefing; foam insulation and flotation; 1"-thick AC-ply bottom, 1" framing, ½" sides, ⅜" deck; sailed by Matt engineless Bay of Fundy to the Exumas; Bolducs acquired her 1992 and sailed to the Bahamas seven more times; 8 winter cruises + ICW passages, >10,000 miles; 1998 reef gash (3/8" deep, 8" long) repaired by beaching; not originally epoxy/glass-sheathed, so sheathed in 2005; still "one of the best boats for the job" after twelve years.
+[17] microcruising.com — "Matt's Boats" (http://www.microcruising.com/pictures.htm), David & Mindy Bolduc — "SOST (Sun of Swamp Thing) or Little Cruiser," a complete departure in complexity (centerboard, battened lug, slab reefing, deck-stepped mast with an "A"-frame tabernacle); foam-insulated (drier, positive buoyancy); Matt wintered aboard in Cape Cod; 4 large built-in water-ballast tanks; carried a folding dinghy; lived aboard 4 years, Bay of Fundy to the Bahamas; sold to the Bolducs 1992.
+[18] microcruising.com — "About Us" / Small Craft Advisor interview, May/June 2000 (http://www.microcruising.com/sca1.htm), David & Mindy Bolduc — Little Cruiser "ballasted with several hundred pounds of lead along with an equal amount of weight in gear stored securely in the bilges"; 2" foam insulation for flotation; ballast/stores claimed to right her to 165° of heel; water stored in individual square cubes fitted to the bilge.
+[19] microcruising.com — "Little Cruiser Refit 2005" ("projects": http://www.microcruising.com/lcrefit.htm, lcrefit2.htm, lcwindow.htm), David & Mindy Bolduc — 2005 strip-to-bare-wood, epoxy-seal, and full fiberglass sheathing; bottom in five layers of 10 oz glass; 1.7 oz Kevlar leading edges on centerboard and rudder; new copper ground plate; multi-position Lexan rear window.
+[20] microcruising.com — "Sailmaking" (http://www.microcruising.com/sailmaking.htm), David & Mindy Bolduc — Little Cruiser sail history: 1988 Matt Layden original, 1994 professional sail (retired after one season), 1998 owner-made, 2008 rebuild.
+[21] Archive message page_2183 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2209, 2004-08-09) — "Ground plate attachment": full text and citation at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#construction-techniques).
+[22] Archive message page_2185 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2211, 2004-08-10) — "Re: Ground plate attachment": thanks Glen for the information; ahead of covering Little Cruiser in fiberglass before the next season's trip, asks how Glen handled the ground plate alongside the glassing job, and suggests a builder without a vacuum pump could just as easily press the plate down with a piece of thin plywood and weight; describes stripping bonded deck hardware (including a 3M-5200-set hatch track) by heating a thin metal spreader — or the fitting itself, for metal parts — with a blow torch and slipping it underneath, avoiding deck damage; judges 5200 worth the extra adhesion in some applications but overkill, and risky to the underlying structure, in others; plans 6 oz glass on the deck/sides and biaxial/mat glass on the bottom (materials already on hand), several layers of bias-cut 2–4 oz glass for tricky shapes like the toe rails, and is considering 1.7 oz kevlar with a 2 oz glass overlay for abrasion resistance, likely reserved for just the rudder and centerboard tip given the expense of the fine-weave kevlar (his source for cheaper seconds, at $11.50/yard, was temporarily out of stock), finishing the rest of the boat in glass.
+[23] Archive message page_2186 (buster38801 / David Beard, `paradoxbuilders`, msgnum 2212, 2004-08-13) — "New Sail": full text and citation at [design/rig.md](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).
+[24] Archive message page_2187 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2213, 2004-08-13) — "Re: New Sail": recommends sticking with the already-tested latest sail revision rather than a new experimental cut, though allows it could be a fun experiment for a builder sewing his own sail who already has one good sail to fall back on; confirms Little Cruiser's own next sail will move to 5 oz sailcloth, a shorter top batten, and a tighter leech tabling — greater draft explicitly not among the planned changes.
+[25] Archive message page_2188 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 2214, 2004-08-14) — "Re: New Sail": full text and citation at [design/rig.md](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).
+[26] Archive message page_2284 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2311, 2004-09-14) — "Beach Cruising and Coastal Camping picture": full text and citation at [matt-layden/swamp-thing.md](/matt-layden/swamp-thing.md#from-dave-gatan-to-the-bolducs-the-2004-rescue-and-20052008-rebuild); mid-way through covering Little Cruiser in fiberglass, expecting her sailing again by the following summer.
+[27] Archive message page_2336 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2363, 2004-10-14) — "Re: Epoxy": reports being just about ready to glass Little Cruiser's hull while still stripping Swamp Thing's hull; full text and citation also at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck) and [boats/original-paradox.md](/boats/original-paradox.md#surviving-hurricanes-frances-and-ivan-2004).
+[28] Archive message page_2633 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2663, 2005-04-24) — "Removable back window for Paradox": sets out his views on Little Cruiser's fully removable back window versus Paradox's permanent one — Matt's likely reasons for a permanent window (cabin structural strength, keeping out water if pooped/rolled); Little Cruiser has never been pooped, knocked down, or rolled in thousands of cruising miles, though he has considered bonding the window shut with 3M 5200 before an ocean crossing; the removable window's benefits are easier/safer crew entry and exit, reaching the outboard controls across the rear deck, and much better ventilation in the tropics; recommends most builders still follow Matt's plans and build it permanent; points to http://www.microcruising.com/lcwindow.htm for details.
+[29] Archive message page_2634 (john / "John Pertalion", `paradoxbuilders`, msgnum 2664, 2005-04-25) — "Re: Removable back window for Paradox": thanks Dave for the write-up, calling the detail on using the removable window as a ventilation splash guard "very slick."
+[30] Archive message page_2635 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2665, 2005-04-25) — "Re: Removable back window for Paradox": the removable-window arrangement suits the coastal/island-hopping sailing the Bolducs do; would consider gluing the window shut with 3M 5200 before a serious ocean passage; notes his emails to Derek Clark about a removable window for "Enuf" keep bouncing back.
+[31] Archive message page_2636 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2666, 2005-04-25) — "Re: Removable back window for Paradox": suggests a hinged back window for instant sealing in heavy weather, as he used on his own "Folksong."
+[32] Archive message page_2637 (openboat / "Alastair", `paradoxbuilders`, msgnum 2667, 2005-04-25) — "Re: Removable back window for Paradox": wonders whether, on Paradox, the window's bottom would need to swing out rather than the top swinging in, to avoid the top edge striking the back of the head in an unexpected powerboat wash; also finds he isn't the only one whose emails to Derek Clark keep bouncing, and that persistence eventually gets them through.
+[33] Archive message page_2638 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2668, 2005-04-26) — "Re: Removable back window for Paradox": elaborates that the back window could hinge at the bottom and swing back over the aft deck like a door; his Folksong's washboard worked the same way and doubled as a forward-facing seat while steering, though he doubts the trick would suit Paradox's internal line-steering.
+[34] Archive message page_2639 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2669, 2005-04-26) — "Re: Removable back window for Paradox": apologizes for the bounced emails and asks if there's a simple explanation; proposes hinging the window from the bottom, swinging down and outward onto the rear deck, with the Lexan pane shrunk and the wood frame enlarged — possibly all wood with two small fixed ports in the side supports; thanks Dave for posting the window pictures.

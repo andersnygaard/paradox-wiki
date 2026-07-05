@@ -1,0 +1,155 @@
+---
+type: Concept
+title: Notching the stem for chine logs and sheer clamps
+description: At the stem, the Paradox plans inlet (notch) the chine logs and sheer clamps at an angle rather than butting them as at the transom, an imperfect cut is forgiven by thickened epoxy, and the notch should be only partly cut until the side panels are fitted, with lamination recommended over bending the chine log solid.
+tags: [paradox, construction, stem, chine-log, sheer-clamp, joinery, epoxy, cad, lamination]
+timestamp: 2026-07-03T00:00:00Z
+---
+
+# Notching the stem for chine logs and sheer clamps
+
+At the **stem**, the Paradox plans join the **chine logs** and **sheer
+clamps** (sheer strakes) differently than they do at the **transom** end of
+the boat. See
+[hull assembly sequence](/construction/hull-assembly-sequence.md) for the
+broader stem-first build order this detail belongs to.
+
+## Both members are inlet (notched) into the stem, not butted
+
+Rather than a simple butt joint — the arrangement used where these members
+meet the transom — the chine logs and sheer clamps are **inlet into the
+stem**: each is notched into it at an **angle**, as shown on drawing #4
+(lower left-hand side) of the plans. At the transom end the same kind of
+positive, notched connection can be achieved by notching the forward lower
+and upper cleats to accept the clamp and log ends there, rather than butting
+them.
+
+The stem cutout itself does not need to be a perfect fit: it is glued up
+with **thickened epoxy**, which ends up **stronger than the surrounding
+wood**, per the old boatbuilding saying — *"putty (epoxy) and paint will
+make her what she ain't."* This is consistent with the recurring
+theme that modern epoxy relaxes the need for perfect hand-fitted joinery —
+see also [scarf joints vs. butt blocks](/construction/scarf-joints.md) for
+the same reassurance applied to scarfing side panels.
+
+## Cut the notch in two stages, keyed to fitting the side panels
+
+When cutting the stem notch, do **not** remove it completely before the side
+panels are on. Make the **horizontal cut only** first, leaving the corner of
+the notch attached — that corner is needed to locate the side panel
+**vertically** when it goes on. Only once the sides are fitted should the
+**vertical cut** be made, letting the waste corner drop free (so long as no
+glue has been put on it beforehand). This applies to **both** the chine-log
+and sheer-clamp notches at each bulkhead: fitting the sides is done by lining
+up the bulkhead corners with the top and bottom edges of the side panel,
+which needs no measuring since the correct position is immediately visually
+obvious once the sides are offered up.
+
+## Laminate the chine log rather than bending it solid
+
+Bending a single solid chine log into place is difficult and can be
+dangerous, given the large amount of stored energy involved — builders
+report it as by far the hardest part of the assembly. The plans' prescribed
+method is a dry run first, then removing the log, gluing it, and
+re-assembling; in practice the glue can set before re-assembly is complete,
+and safely disassembling a bent log after a dry fit is not guaranteed
+either. A workaround — opening the joint in position and working glue into
+the gap without disassembling it — is workable but risks leaving voids
+inside the joint. The recommended alternative is to **laminate the chine
+log in place** rather than bend a solid piece, distinct from the
+deck/cabin-beam lamination technique documented in
+[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
+
+## Aside: an early CATIA 3D model of the Paradox
+
+UK builder **[Alastair](/people/alastair.md)**, while working through the
+stem-notching detail on the plans, separately produced one of the earliest
+3D CAD models of the Paradox. Having gained access to a **CATIA** (3D
+computer-aided design) terminal at work, he built a **3D model of the
+Paradox** as part of his CATIA training, modeling all the boat's components
+so that any or all parts could be assembled and viewed from any angle.
+
+He first posted still images of the model-in-progress — seven `.gif` files
+("the story so far") — to his own website (`asjg.clara.co.uk`). About a
+month later he released a fuller, dedicated gallery of **20 pictures** at
+`http://www.asjg.clara.co.uk/paradox/index.htm`, superseding the earlier
+loose files, and offered to render particular views (with or without
+specific features) on request; once the model itself was complete, producing
+a new rendered picture took him only "a few seconds." Builders who saw the
+renderings found them strikingly realistic.
+
+Alastair's CAD background informed the project: about 15 years using **IBM
+CADAM** (2D drafting) at work, newly supplemented by a week's CATIA training
+and roughly two months at the terminal. He had tried **AutoCAD** at home
+years earlier but found it did not suit his own design approach, reasoning
+that CADAM's way of working matched how he thinks, whereas AutoCAD "seems to
+approach everything from the other side." His advice to others learning
+CAD: settle on what you actually need the software to do, focus on learning
+only those functions while ignoring the rest, and expand into other
+functions only once proficient with the basics.
+
+A second, independent CAD model followed over a year later: a builder
+posting as "Paul" (Yahoo profile `kayaker37` — distinct from
+[Paul V.](/people/paul-v.md) and [Paul (NZ)](/people/paul-nz.md), both
+established separately elsewhere in the archive) uploaded two pictures of
+his own Paradox model to the group's files section, flagging several known
+modeling errors he had run out of steam to fix before finishing up — the
+window-frame verticals should taper wider toward the base, and the deck was
+not modeled overlapping the sides (an inaccuracy the real toerail mostly
+hides) — along with assorted missing hardware, inviting corrections from
+anyone who spotted further mistakes. The renderings drew immediate praise
+and were proposed for the group's build manual, with one used on the
+group's header page.
+
+Paul, a Rhino 2.0 user, described his modeling workflow in some detail:
+taking the dimensioned face of each bulkhead as the side *opposite* the one
+shown on the plans (reasoning through the drawn bevels, though acknowledging
+this could equally be a plywood-thickness offset), then building an outline
+of each bulkhead plus the transom and stem, using the waterlines already
+marked on the bulkheads and the station positions from the plans to place
+each outline correctly in 3D space before lofting a surface through them —
+in effect modeling the hull the way a strongback build positions frames in
+real life. He lofted the deck as a separate surface from the hull, omitting
+bulkhead 3's top edge from the deck loft after including it produced a
+too-low, "icky" result — matching a note in the plans about adding a bit of
+extra height at the top of bulkhead 3. He credited **Greg Carlson's Hull
+design software** for developing the underlying chined-hull lines before
+bringing them into a 3D modeller, and credited Matt Layden's design itself
+for fitting together well enough, despite his own modeling errors, to make
+the exercise "relatively easy."
+
+Because he had not left extra width at the bottom of his model, Paul's chine
+runners came out as separate, not-quite-blended pieces — accurately scaled
+from drawing sheet 11, but visually undersized depending on viewing angle,
+similar to a discrepancy [Nels](/people/nels.md) had separately noticed in a
+photo of "[Zoë](/boats/zoe.md)" on her trailer. Treating the model's purpose
+as making mistakes "in miniature" before cutting real wood, Paul left the
+errors uncorrected for the time being, planning to revisit them only if he
+went on to build an actual boat.
+
+# Citations
+
+[1] Archive message page_436 (Alastair, `paradoxbuilders`, msgnum 434, 2002-03-22) — "Notches in Stem": studying the plans, works out the chine logs are cut off at an angle to match the stem; asks why the sheer strake doesn't simply butt to the stem as it does at the transom.
+[2] Archive message page_437 (Glen Maxwell, `paradoxbuilders`, msgnum 435, 2002-03-23) — "Re: Notches in Stem": per drawing #4 (lower left), both sheer clamps and chine logs are inlet into the stem; at the transom he instead notched the forward lower/upper cleats to accept the clamp and log.
+[3] Archive message page_438 (Alastair, `paradoxbuilders`, msgnum 436, 2002-03-23) — "Re: Notches in Stem": thanks Glen; asks what shape the stem cutouts should be.
+[4] Archive message page_439 (Glen Maxwell, `paradoxbuilders`, msgnum 437, 2002-03-23) — "Re: Notches in Stem": an angle, as on the plans; doesn't need to be perfect since thickened epoxy will be stronger than the wood; "putty (epoxy) and paint will make her what she ain't."
+[5] Archive message page_440 (Alastair, `paradoxbuilders`, msgnum 438, 2002-03-24) — "Re: Notches in Stem": building only because he can't buy one, but finds it satisfying; recently got CATIA access at work and is building a 3D model of the Paradox as training, aiming to model all components for assembly/viewing from any angle; invites picture requests.
+[6] Archive message page_441 (Glen Maxwell, `paradoxbuilders`, msgnum 439, 2002-03-25) — "3D Cad": would love to see the model when it's done.
+[7] Archive message page_442 (Alastair, `paradoxbuilders`, msgnum 440, 2002-03-25) — "Re: 3D Cad": has posted seven `.gif` images ("the story so far") of the model-in-progress on his own website, `asjg.clara.co.uk`; apologizes the files are a bit large.
+[8] Archive message page_443 (Glen Maxwell, `paradoxbuilders`, msgnum 441, 2002-03-25) — "Re: 3D Cad": asks Alastair to post the images to the group's files section for later reference.
+[9] Archive message page_444 (Alastair, `paradoxbuilders`, msgnum 442, 2002-03-26) — "Re: 3D Cad": the finished model is about a month away at the current rate, after which he'll post pictures of the various construction stages; invites list members to copy the images from his site meanwhile and to request particular views, noting new renders take only seconds once the model is complete.
+[10] Archive message page_465 (Alastair, `paradoxbuilders`, msgnum 465, 2002-04-26) — "CAD pictures of Paradox": 20 pictures of the CATIA model posted to `http://www.asjg.clara.co.uk/paradox/index.htm`; free to copy; offers to render particular views on request.
+[11] Archive message page_467 (Glen Maxwell, `paradoxbuilders`, msgnum 467, 2002-04-28) — "Re: CAD pictures of Paradox": "Looks like the real thing to me :-)".
+[12] Archive message page_471 (Bert Vercauteren, `paradoxbuilders`, msgnum 471, 2002-04-30) — "Re: CAD pictures of Paradox": congratulates Alastair; printed out several views, finding them amazingly real; struggling to learn CAD himself, feels he lacks patience; asks how many hours the gallery took.
+[13] Archive message page_472 (petehodges / Pete Hodges, `paradoxbuilders`, msgnum 472, 2002-04-30) — "Re: CAD pictures of Paradox": "Great work. Thanks!"
+[14] Archive message page_474 (Alastair, `paradoxbuilders`, msgnum 474, 2002-04-30) — "Re: CAD pictures of Paradox": ~15 years using IBM CADAM (2D) at work; new to CATIA (3D) — one week's training plus ~2 months with the terminal; previously tried and rejected AutoCAD at home, since his own design approach matches CADAM's way of working while AutoCAD "seems to approach everything from the other side"; advises learning only the functions you need first, then expanding once proficient.
+[15] Archive message page_741 (Alastair, `paradoxbuilders`, msgnum 755, 2002-10-05) — "BuildBook": notes Paul V.'s BuildBook/Paradox.rtf entry calls for cutting the "Notch for chine and clamp logs" outright; warns not to cut it out until the sides are on — horizontal cut only, leaving the corner attached for vertical location of the side panel, with the vertical cut and corner removal only once the sides are fitted (and no glue on the corner beforehand).
+[16] Archive message page_743 (Paul V., `paradoxbuilders`, msgnum 757, 2002-10-06) — "Re: BuildBook": read this in the plans but "was too lazy to write it correctly"; asks whether the sheer-clamp notches get the horizontal cut only while the chine-log notches can be cut completely, or whether both get only the horizontal cut; "Finally started with some woodworking" — building a deck-beam mold, intends to laminate the deck beams from 1/4 in plywood.
+[17] Archive message page_745 (Alastair, `paradoxbuilders`, msgnum 759, 2002-10-06) — "Re: BuildBook": both chine-log and sheer-clamp notches get the horizontal cut only at this stage; fitting the sides needs no measuring, since lining up the bulkhead corners with the side panel's top/bottom edges makes correct position immediately visible; recommends laminating the chine log rather than bending it solid as he did — his own solid log was by far the hardest part of the assembly so far, physically hard and potentially dangerous given the stored energy in the bend; could not complete the plans' dry-run-then-reassemble sequence before the glue cured and was unsure he could safely disassemble the dry-fit bend either, so instead opened the joint in position and shovelled in glue without disassembling it — probably fine, but likely leaves voids.
+[18] Archive message page_746 (Paul V., `paradoxbuilders`, msgnum 760, 2002-10-06) — "Re: BuildBook": "That means laminate in place, right? Thanks, that is very helpful advice."
+[19] Archive message page_747 (Alastair, `paradoxbuilders`, msgnum 761, 2002-10-06) — "Re: BuildBook": "Yes."
+[20] Archive message page_1490 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 1510, 2003-12-11) — "Paradox in CAD": uploaded two pictures of a Paradox CAD model to Paul's Files in the files section; flags mistakes — window frame vertical pieces should be wider at the base, and the deck was not modeled overlapping the sides (the toerail hides this well in reality) — plus assorted missing hardware; ran out of steam and wanted to finish up; asks to be told of anything else missed.
+[21] Archive message page_1491 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1511, 2003-12-11) — "Re: Paradox in CAD": "WOW Paul! That looks fantastic!"; work like this, similar to modeling, makes eventual construction more straightforward; asks whether Paul would allow its inclusion in the build manual, and what software he used.
+[22] Archive messages page_1492/page_1494 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 1512/1514, 2003-12-11/12) — "Re: Paradox in CAD": thanks DC; agrees to build-manual inclusion as long as it stays free; used Rhino 2.0; credits the CAD pictures on "Little Jim" and Don Elliott's building plans as helpful references; explains his modeling workflow in detail — dimensioned bulkhead faces taken opposite the shown side, outlines of bulkheads/transom/stem positioned in 3D via waterlines and station positions, then lofted (deck lofted separately, omitting bulkhead 3's top edge after an earlier attempt came out "icky," matching a plans note about adding height there); credits Greg Carlson's Hull design software for the underlying chined-hull lines; his chine runners are separate, not-quite-blended pieces since he did not leave extra width at the bottom, though accurately scaled from sheet 11; treats the model's errors as mistakes made safely "in miniature," to be fixed only if he builds a real boat.
+[23] Archive message page_1493 (arvent / "Nels", `paradoxbuilders`, msgnum 1513, 2003-12-11) — "Re: Paradox in CAD": the model shows the overall shape and complexity well despite a few mismatched panels; asks whether the chine runners came out true to scale, and what input figures the workflow needs, since he would like to present his own simpler design the same way for feedback.
+[24] Archive message page_1496 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1516, 2003-12-14) — "Re: Paradox in CAD": "Wow Paul, I love the renderings you have done. Thanks for sharing them."; asks to use one on the group's heading page.

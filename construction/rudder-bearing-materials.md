@@ -1,0 +1,160 @@
+---
+type: Concept
+title: Lower rudder fitting — bearing material options (nylon, Tufnol, Delrin, UHMW)
+description: Bearing-material choice for a Paradox's lower rudder (gudgeon) fitting — why UHMW beats nylon, Delrin, and Tufnol, and the bias-cut glass-casting technique for building the fitting itself — plus sourced, priced bronze suppliers for the tack, sail, and yuloh fittings.
+tags: [paradox, construction, refit, rudder, materials, bearing, david-beard, glen-maxwell, pete-hodges, bronze, metal-sourcing, william-longyard, gudgeon, alastair, derek-clark]
+timestamp: 2026-07-02T00:00:00Z
+---
+
+# Lower rudder fitting — bearing material options
+
+The Paradox's **lower rudder fitting** (a gudgeon-type bearing) can be made
+either from bronze or machined from plastic stock; this page covers the
+plastic-material tradeoffs and, separately, sourced bronze suppliers for the
+tack, sail, and yuloh fittings. It follows on from the bulkhead-#3
+damp-plywood finding covered in
+[checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md).
+
+## Material choice: UHMW over nylon, Delrin, or Tufnol
+
+Four plastics are the usual candidates for machining a lower rudder fitting.
+CNC access makes the machining itself cheap or free for a builder with the
+right shop connections — the setup cost is paid once, so running three or
+four parts from the same program costs little more than running one; a
+"high-tech" CNC shop can hold tolerances around **.00005 in** and machine
+nylon stock up to **6 in thick**, closely to a copy of Matt Layden's print.
+
+**Don't use nylon** — it will likely **elongate under stress**. **UHMW**
+(Ultra High Molecular Weight polyethylene) is the recommended material
+instead: readily available and a plastic that "will work fine." Ranking the
+alternatives directly: **Delrin is better than nylon, but still not as good
+as UHMW**, and **Tufnol** — a cloth-and-resin composite laminate, obtainable
+in the US though regarded there as an import — is **very expensive**.
+
+Tufnol is well known in the UK for industrial models: easy to machine,
+dimensionally stable, and resistant to most conditions, though suitable
+plastic offcuts run expensive there too (an offcuts bin is usually the way
+to find them cheaply). A secondhand data point on Delrin: one of the
+**Pardeys'** cruising/boatbuilding books describes Larry Pardey making a
+bearing surface/liner for his gudgeons out of **Delrin**.
+
+Nylon's long-term suitability in this application remains an open
+question in principle — whether it matches glassed epoxy for strength, and
+how it holds up to salt water, marine organisms, freezing, and UV exposure
+over a winter outdoors — but is answered in practice by the UHMW
+recommendation, which sidesteps the issue entirely.
+
+**UHMW** stands as the clear, repeated recommendation over nylon, Delrin,
+and Tufnol alike for the lower rudder fitting.
+
+At least one build used **Tufnol combined with stainless steel** for the
+rudder fittings generally (both bearing and metal hardware) as well as for
+the boom axle, reporting "no problems so far" — a firsthand data point for
+Tufnol's practical durability in this application.[27]
+
+## Casting a glass lower rudder gudgeon: technique
+
+Separately from the plastic-vs-bronze bearing-material question, the lower
+rudder fitting can also be built as a **glassed epoxy casting** directly
+around a print of the rudder gudgeon shape, rather than machined from
+plastic or bronze stock. The plans call for **6 layers of 24 oz roving**,
+working out to between **1/4 and 1/2 in** of laid-up roving — a thickness
+that can strike a first-time builder as excessive for the part, but is
+correct: it produces "a very heavy casting" by design.
+
+Getting the heavy roving to conform to the mold is the real difficulty — a
+first layer laid up square tends not to bend or lie down cleanly. The fix is
+to **cut the roving cloth on the bias (45 degrees)** rather than square,
+which lets it drape and lie down far more easily. The casting method: build
+a **mold of the gudgeon's inside shape**, lay up the glass roving in it on
+the bias, fill the finished casting with a **high-density epoxy filler
+mixture**, and then **bore the bolt hole** on a drill press once the casting
+has cured. A published article on the technique (Don Elliott's) lays the
+roving up over a **dowel rod** instead, an alternative worth checking if a
+builder has a copy of it.
+
+This casting technique has an independent real-world counterpart: on
+"[Little Jim](/boats/little-jim.md)," the lower rudder fitting was built from
+a **block of Tufnol** rather than a glass casting — confirming Tufnol as more
+than a paper candidate for the part. The same boat also carries an **LED
+masthead light** (see [running lights](/operations/running-lights.md)), a
+detail worth a layman's write-up in its own right.
+
+## Bronze sourcing for the tack, sail, and yuloh fittings
+
+Separately from the bearing-material question, bronze stock for the boat's
+other metal hardware has been sourced and priced, with surplus made
+available to other builders.
+
+**1/4 in schedule-40 brass pipe (actually bronze)**, used for the **tack
+fitting** and the **sail and yuloh fittings**, is available from **Quality
+Pipe Products**, 13201 Hancock Dr., Taylor, MI 48180, ph. 734-374-5100. Two
+4 ft sections cost **$23.65** including COD shipping (priced January 2001;
+the supplier did not accept Visa at that time). Order the fittings **about
+3 in longer** than plans-length and trim to fit afterward — built exactly to
+print, they come out too short. The extra length in a 4 ft section also
+gives enough leverage to **bend the pipe in a 1/2 in conduit bender** for the
+sail and yuloh fittings; the **forward yuloh fitting** additionally needs
+**heat** to bend around a piece of steel pipe. The material is "incredibly
+strong."
+
+**Bronze rod and bar stock**, used for the **lighting switch plate**, is
+available from **Atlas Metal Sales**, 1401 Umatilla St., Denver, CO
+82204-2432, ph. 800-662-0143, with a **6 ft minimum of each** required — a
+full order runs **$79.86**, though a single boat needs only 8 in of bar and
+18 in of round, leaving **64 in of bar and 54 in of round** surplus (enough
+for roughly 8 more boats' worth of bar stock and 3 more boats' worth of
+round).
+
+That surplus bar/round stock has circulated among other builders at cost
+plus shipping (**$4.53** for the 8 in of bar and **$9.77** for the 18 in of
+round needed per boat) — a **buyers' co-op** splitting a bulk order is the
+efficient way to avoid each builder separately paying a 6 ft minimum for a
+few inches of material. In practice this played out informally: three
+builders, including one redoing all the metal parts on
+[Whisper](/boats/whisper.md), bought into a stock of surplus bronze pipe at
+a firm price of **$14.30** plus tube and postage each, cut and shipped in a
+mailing tube against payment by check on receipt. All of the advertised
+surplus bronze rod stock was spoken for within about a week of the offer,
+with receipt confirmed within days of shipping.
+
+## Bottom roving and epoxy cost
+
+Refitting a Paradox's bottom with **roving** is weather-dependent work best
+done in suitable conditions. On epoxy cost: a 3-gallon purchase of **West
+System** runs high enough to be called "too expensive," against a **Raka
+3-gallon kit** (including both slow and fast hardener) at about **$118**,
+roughly **1/3 of West System's cost** for an equivalent quantity — the same
+Raka/West price gap that shows up in the Kevlar-vs-fiberglass cost
+comparison (see
+[epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md)).
+
+# Citations
+
+[1] Archive message page_401 (buster38801 / David Beard, `paradoxbuilders`, msgnum 399, 2002-03-01) — "refit": ground glass off the water-soaked bottom, brushed wet ply with anti-freeze, drying under fans/heat lamps before laying roving; looking for a cheap bronze rod/pipe source (West Marine not cheap); proposes machining the lower rudder fitting from nylon via free CNC access (tolerance ~.00005 in, stock up to 6 in thick), asks if it will be strong enough to Matt's print, offers to make extras if others want copies.
+[2] Archive message page_402 (Glen Maxwell, `paradoxbuilders`, msgnum 400, 2002-03-01) — "Re: refit": has bronze/pipe supplier addresses but will send them Monday; don't use nylon, it will likely elongate under stress; recommends UHMW (Ultra High Molecular Weight) instead, readily available; the anti-freeze approach sounds fine.
+[3] Archive message page_403 (orpdh / Pete Hodges, `paradoxbuilders`, msgnum 401, 2002-03-01) — "Re: refit": doubts nylon matches epoxy-glass strength; asks about the effects of salt/marine organisms and freezing/UV on nylon left outdoors; asks for a copy of the lower rudder fitting if it works out, offers to help negotiate a two-part price and reimburse David.
+[4] Archive message page_404 (Alastair, `paradoxbuilders`, 2002-03-01) — "Re: refit": asks whether Tufnol (a cloth-laminate composite used for industrial models in the UK) is available in the US; describes it as easy to machine and stable under most conditions.
+[5] Archive message page_405 (David Beard, `paradoxbuilders`, msgnum 402(?), 2002-03-01) — "Re: refit": confirms the machining would cost him $0 given his workplace's CNC shop and favors owed; setup cost is the same for one part or several.
+[6] Archive message page_406 (David LeBlanc, `paradoxbuilders`, msgnum 404, 2002-03-01) — "Re: refit": still thinks nylon's properties are worth checking out as Pete suggested; recalls a Pardey book describing a Delrin gudgeon bearing/liner.
+[7] Archive message page_407 (David LeBlanc, `paradoxbuilders`, msgnum 405, 2002-03-03) — "You guys alive?": checks whether the list has gone quiet or is in a building frenzy; off-topic joke; points to Jamestown Distributors and the WoodenBoat forum; favorable buzz there for cheap "off-brand" epoxies like Raka and Fiberglass Epoxy Products.
+[8] Archive message page_408 (buster38801 / David Beard, `paradoxbuilders`, msgnum 406, 2002-03-03) — "Re: You guys alive?": still prepping the bottom for roving, waiting for good weather; asks for roving-laying tips; just bought 3 gallons of West System epoxy, calls it "too expensive."
+[9] Archive message page_409 (David LeBlanc, `paradoxbuilders`, msgnum 407, 2002-03-03) — "Re: You guys alive?": can only suggest West's own site for glassing info; a Raka 3-gallon kit (both hardeners) runs about $118, roughly 1/3 of West System's price.
+[10] Archive message page_410 (Glen Maxwell, `paradoxbuilders`, msgnum 408, 2002-03-04) — "Re: refit": Delrin is better than nylon but still not as good as UHMW, which is readily available; Tufnol is available in the US but very expensive.
+[11] Archive message page_411 (Alastair, `paradoxbuilders`, msgnum 409, 2002-03-04) — "Re: refit": suitable plastic offcuts are probably expensive in the UK too, but he can usually find what he wants in the offcuts bin.
+[12] Archive message page_517 (buster38801 / David Beard, `paradoxbuilders`, msgnum 518, 2002-06-22) — "Metal source": asks Glen whether he still has the info on his bronze rod stock source.
+[13] Archive message page_518 (Glen Maxwell / "ifida", `paradoxbuilders`, msgnum 519, 2002-06-22) — "Re: Metal source": gives Quality Pipe Products (Taylor, MI) for 1/4 in sch-40 brass/bronze pipe used for the tack, sail, and yuloh fittings ($23.65/two 4 ft sections in Jan 01, cash/COD only at the time; order ~3 in long and trim; bend in a 1/2 in conduit bender; heat-bend the forward yuloh fitting around steel pipe) and Atlas Metal Sales (Denver, CO) for bronze rod/bar stock used in the lighting switch plate ($79.86 for a 6 ft minimum of each; 64 in of bar and 54 in of round left over, enough for ~8 more boats' bar and ~3 more boats' round); offers to cut and ship his leftover stock at cost plus shipping ($4.53 per 8 in of bar, $9.77 per 18 in of round) and floats a builders' co-op for future bulk buys.
+[14] Archive message page_519 (David Beard, `paradoxbuilders`, msgnum 520, 2002-06-22) — "Re: Metal source": asks Glen for his address to send payment (check or cash); mentions he is redoing all the metal parts on "Whisper."
+[15] Archive message page_520 (Longyard William H., `paradoxbuilders`, msgnum 521, 2002-06-22) — "Re: Metal source": also asks to buy the metal stock, requesting Glen's address and total cost with shipping.
+[16] Archive message page_521 (Glen Maxwell / "ifida", `paradoxbuilders`, msgnum 522, 2002-06-23) — "Re: Metal source": tells Bill Longyard (and David Beard) to send their address; will cut and post the metal in a shipping tube, payment by check on receipt; price $14.30 plus tube and postage.
+[17] Archive message page_522 (light369369 / Roger, `paradoxbuilders`, msgnum 523, 2002-06-25) — "Re: Metal source": also interested in the metals; asks Glen to send payment-arrangement information to his e-mail (`Rogchan@...`).
+[18] Archive message page_523 (Glen Maxwell / "ifida", `paradoxbuilders`, msgnum 524, 2002-06-26) — "Re: Metal source": tells Roger he can have the bar stock and the last of the rod stock, leaving Glen with only bar stock remaining; asks for Roger's address.
+[19] Archive message page_550 (David Beard, `paradoxbuilders`, msgnum 551, 2002-07-02) — "Re: Metal source": confirms receipt of the rod and bar stock; thanks Glen; payment check already in the mail.
+[20] Archive message page_554 (Longyard William H., `paradoxbuilders`, msgnum 555, 2002-07-02) — "Re: furling system": public thanks to Glen Maxwell for making the bronze available to everyone; received his order that day, "pleased as punch."
+[21] Archive message page_1504 (buster38801 / David Beard, `paradoxbuilders`, msgnum 1524, 2003-12-20) — "Lower Rudder Gudgeon": just cast the lower rudder gudgeon; confirms the plans call for 6 layers of 24 oz roving, between 1/4 and 1/2 in of roving — asks if that's correct, seems excessive.
+[22] Archive message page_1505 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1525, 2003-12-20) — "Re: Lower Rudder Gudgeon": confirms 6 layers is correct, "a very heavy casting."
+[23] Archive message page_1506 (dlb / David Beard, `paradoxbuilders`, msgnum 1526, 2003-12-20) — "Re: Lower Rudder Gudgeon": the first roving layer wouldn't bend and lie down well; asks for advice, considered push pins.
+[24] Archive message page_1507 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1527, 2003-12-20) — "Re: Lower Rudder Gudgeon": recommends cutting the roving cloth on the bias (45 degrees) to help it lie down; reconstructs his own method from memory (he had meant to write it up but couldn't recall it exactly) — built a mold of the gudgeon's inside shape, laid up the glass, filled the cured casting with a high-density mixture, then bored the bolt hole on a drill press; notes Don Elliott's article lays the roving up over a dowel rod instead, worth checking if available.
+[25] Archive message page_1508 (dclark / Derek Clark, `paradoxbuilders`, msgnum 1528, 2003-12-22) — "Re: Lower Rudder Gudgeon": reports visiting "Little Jim" and finding Alastair had made his lower rudder fitting from a block of Tufnol, and had also made a masthead light from LEDs; suggests the group might prevail on Alastair to write a layman's article.
+[26] Archive message page_1509 (dlb / David Beard, `paradoxbuilders`, msgnum 1529, 2003-12-22) — "Re: Lower Rudder Gudgeon": the masthead LEDs are of definite interest to him.
+[27] Archive message page_2199 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2225, 2004-08-22) — "Re: new builder in Oz": full text and citation at [design/furling-system.md](/design/furling-system.md#hardware-materials-stainless-steel-and-tufnol-as-bronzeplastic-substitutes); confirms using tufnol and stainless steel for the rudder fittings and boom axle, "no problems so far."

@@ -1,0 +1,322 @@
+---
+type: Person
+title: Glen C. Maxwell — Matt Layden eyewitness record
+description: Glen Maxwell's firsthand eyewitness record of designer Matt Layden — sailing alongside him at Ft. Desoto before the 2003 Everglades Challenge, meeting him again at the 2003 Cedar Key Messabout, and preserving the techniques Matt showed him.
+tags: [paradox, builder, people, zoe, matt-layden, everglades-challenge, cedar-key]
+timestamp: 2026-07-03T00:00:00Z
+---
+
+# Glen C. Maxwell — Matt Layden eyewitness record
+
+*Part of the [Glen C. Maxwell](/people/glen-maxwell.md) record — see also the
+hub page and the sibling sub-pages,
+[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) and
+[List founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md).*
+
+**Glen Maxwell** is a firsthand eyewitness of designer **Matt Layden** under
+sail — the one builder to sail his own Paradox side by side with Matt's, watch
+him work, and preserve Matt's own techniques. Maxwell sailed two Paradoxes
+together with Matt at Ft. Desoto in the days before the 2003 Everglades
+Challenge — the first time two Paradoxes had ever sailed in company — met him
+again in person at the 2003 Cedar Key Messabout, and later sailed an Atlantic
+crossing aboard Chris Morejohn's larger Paradox-family sharpie, "Hogfish
+Maximus." (For the deepest and longest-running firsthand relationship with Matt
+Layden in the archive — meeting him in 1992, owning his boats, and cruising the
+Bahamas in his company — see the
+[Bolducs' Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md).)
+
+## Sailing with Matt Layden at Ft. Desoto
+
+"Zoë" sailed alongside Matt Layden's original Paradox at Ft. Desoto just before
+the 2003 Everglades Challenge — the first time two Paradoxes had ever sailed
+together, "a first for Matt as well." Matt's windward ability proved **"far
+superior"**: on the return beat he delivered "a butt kicking to windward that
+I won't soon forget." The full account lives on the boat page. See
+[boats/original-paradox.md](/boats/original-paradox.md)
+and its place in the designer's biography at
+[matt-layden/biography.md](/matt-layden/biography.md).
+
+## Techniques observed and preserved
+
+Watching Matt at close range yielded several durable techniques for the wider
+Paradox record:
+
+- **The solo haul-out roller rig** — two sets of 6 in x 2 in boat rollers on 2x
+  trestles, stowed in the starboard bilge and each trailing a cleated retrieval
+  line, used to beach a Paradox single-handed and preserved here in sketch
+  detail. See
+  [boats/original-paradox.md — Matt's haul-out rollers](/boats/original-paradox.md).
+- **Foot-pressure furling** — the technique for furling and hoisting without a
+  topping lift: foot pressure on the furling line while hoisting, and on the
+  halyard while furling, freeing both hands. Asked directly at Cedar Key after
+  being watched "make it look easy," Matt's answer resolved an open question
+  first raised in December 2001. See
+  [design/furling-system.md](/design/furling-system.md)
+  and [matt-layden/biography.md](/matt-layden/biography.md).
+- **Sail shape and self-made sails** — Matt's own sails are cut and re-cut by
+  hand; judging a stock sail too flat and its yard in need of a ~2½ in crescent
+  at the top, he set the standard other builders weigh a hand-sewn replacement
+  against ("if we can build the boat we can build the sail"), including
+  experiments in poly tarp. See
+  [design/rig.md](/design/rig.md)
+  and [construction/sailmaking.md](/construction/sailmaking.md).
+
+Sailing reefed alongside Matt's boat, "Zoë" ran a full **knot slower on
+starboard tack than port** while short-tacking — and photographs show Matt's
+sail furls **counter-clockwise** from the cockpit, the opposite of the more
+common convention. See
+[design/furling-system.md](/design/furling-system.md).
+
+## Relaying Matt during the 2003 Everglades Challenge
+
+Matt's winning run is preserved through his own Checkpoint 4 comment
+(Flamingo, 273 miles) — "Spectacular sailing: Surfing at 6 knots with dolphins
+on the bow off Pavillion Key… Onward!" The only near-catamaran entry that year
+was a tacking proa built from a Hobie 18 hull, raced two-up as **"Weed
+Warrior,"** which finished second overall. See
+[boats/original-paradox.md](/boats/original-paradox.md).
+
+## Clarifying Matt's sheeting arrangement
+
+A photo of the original Paradox's bronze-tipped rudder and yuloh once suggested
+Matt had changed his sheeting arrangement; in fact he had **not** — the picture
+showed the **prototype**, whereas the plans version is a **two-to-one
+purchase**. The mainsheet does catch in practice — mainly on the rudder head,
+yuloh mount, and cleats — but Matt's own fix is "very simple and works well."
+See [original Paradox — new mods](/boats/original-paradox.md).
+For a light-displacement stability data point from the same period, see
+[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md).
+
+## Matt Layden's rudder mileage
+
+The rudder blade's single-bolt pivot fixing has a strong service record: Matt's
+own original Paradox logged roughly **10,000 miles** on that exact
+configuration with no reported problem, alongside a further trouble-free few
+hundred miles aboard "Zoë." See
+[design/rudder.md — the pivot-bolt fixing](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).
+
+## Watching Matt pump out at the Everglades Challenge start
+
+At the start of the 2003 Everglades Challenge, "Paradox" was hauled out on a
+high-energy beach: large waves slammed into the stern during the process,
+sending a good deal of water into the cabin, and the bilge was worked dry by
+hand with many pump strokes before finishing the job with a sponge. The
+episode is a case for carrying a bigger bilge pump, and prompted one unbuilt
+idea — a rubber disc mounted on the tiller to seal against the transom if
+struck by a following sea. See
+[design/weight-and-ballast.md — has anyone actually needed the bilge
+pump?](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump)
+for the full account.
+
+## An Atlantic crossing aboard "Hogfish Maximus"
+
+In May 2004, Glen Maxwell joined **Chris Morejohn**'s liveaboard sharpie
+**"Hogfish Maximus"** — a roughly 38 ft Paradox-family hull, sized up from the
+same shoal-draft, flat-bottomed lineage — for an Atlantic crossing to
+**Portugal**, by way of **Bermuda and the Azores**, with three months allowed
+for the passage, including an extended stay visiting all the islands of the
+Azores. **[Dave Bolduc](/people/bolduc/dave.md)**, recalling his own boyhood
+years living in Portugal, urged a safety harness on watch. See [Chris
+Morejohn](/people/chris-morejohn.md) for Morejohn's own boats and background.
+
+### A report from Horta, and chine runners proven on an ocean crossing
+
+A report from **Horta, in the Azores**, in mid-June 2004 covers the crossing
+in full. The passage itself went well — never rolled or sunk — though slow:
+the leg to **Bermuda** took nearly 14 days for **1,070 miles** in light winds;
+after a 10-day stay there, the leg on to **Flores** in the Azores took almost
+18 days for **1,890 miles**, riding the tail of a front for 20+ kt following
+westerlies and a best day's run of **138 miles** under about a third of the
+jib and a poled-out staysail; the boat altered south of the planned 39N track
+to avoid forming lows and gale-force winds. After barely a day at Flores — its
+harbor, exposed to the northeast, had built to 5 ft swells as another low
+approached — the last 24-hour hop brought them into Horta.
+
+The firsthand verdict on **"Hogfish Maximus"** as a scaled-up chine-runner
+hull, directly relevant to the [blue-water suitability
+question](/design/blue-water-suitability.md): the **chine runners work well
+even at this larger size**, with the daggerboard needed only when hard on the
+wind and strapped in — used for less than 48 hours of the whole passage — and
+the boat otherwise going to weather fine without it. She pounded no more than
+some racing boats sailed elsewhere, moved comfortably, and was quiet enough
+below that the crew had to stay deliberately alert to deck conditions so as
+not to miss deteriorating weather. Set against an earlier Tortola-to-
+Jacksonville crossing aboard a Hans Christian 38, "Hogfish Maximus" was judged
+the more comfortable boat of the two, with noticeably better roll damping. The
+38 ft "Hogfish Maximus" itself was judged too big for personal taste, but the
+crossing left a settled view that a **21 to 25 ft version of Paradox** would
+suit ocean voyaging well — the first time a stretched, ocean-going Paradox
+derivative had been floated as a concrete size range, distinct from the
+existing [stretched Paradox](/design/variants/stretched-paradox.md) variant
+developed for other reasons.
+
+The report also prompted an open question — what it would take to design a
+25 ft Paradox, a total redesign in one view — not otherwise pursued in the
+record, and an unanswered follow-up asking what rig "Hogfish Maximus" carried
+and whether any photographs of her under sail existed. See
+[blue-water suitability](/design/blue-water-suitability.md#glen-maxwells-case-for-blue-water-capability-from-personal-experience)
+for how this firsthand ocean-crossing data bears on Paradox's own coastal-vs-blue-water
+classification, and [Chris Morejohn](/people/chris-morejohn.md) for
+Morejohn's boats.
+
+### The full return report: cockpit size, pounding, and "Modified Sharpie" versus sharpie
+
+A fuller verdict on the passage followed in January 2005. Loaded to the
+waterline with Morejohn's own tools, spares, and close to a year's food for a
+family of four — not sailed light — "Hogfish Maximus" behaved beautifully
+across the whole crossing. The one real shortcoming was too small a cockpit.
+Pounding was not an issue at all: markedly better in that respect than
+fin-keeled boats sailed elsewhere, and, set again against the same **Hans
+Christian 38** delivery from the Virgin Islands to Jacksonville, broad-reaching
+in 12–15 kt conditions was far more comfortable aboard "Hogfish Maximus" — the
+Hans Christian had rolled badly enough on the same point of sail to make
+sleeping difficult, where the bigger sharpie's motion stayed comfortable with
+almost no rolling, matching what had already been felt firsthand aboard
+"Zoë."
+
+One design point is on the record directly from **Chris Morejohn**: although
+"Hogfish Maximus" resembles what an enlarged Paradox would look like, she is
+not a scaled-up Paradox but Morejohn's own design, arrived at by his own
+separate design process rather than Matt Layden's. Morejohn also draws a
+firm line between his hulls and **traditional sharpies** — which have low
+sheer and a low center of gravity and sail differently — coining the term
+**"Modified Sharpie"** for his own boats to mark the distinction.
+Photographs of "Hogfish Maximus" under sail, taken in the Bahamas in 2001
+while sailing in company with Morejohn, were later uploaded to the group's
+files section.
+
+A comparison of "Hogfish Maximus" against Little Cruiser, Paradox, and
+Bolger's "Jesse Cooper" surfaced separately, since hull shape alone does not
+settle how a design performs in open water at larger sizes — "Jesse Cooper"
+being one of Phil Bolger's "Square Boats," documented in a design write-up at
+boatdesign.com and in chapter 12 of Bolger's book *30 Odd Boats* (see [chine
+runners — a Bolger box-hull-versus-dory-hull design
+comparison](/chine-runners/how-they-work.md#a-bolger-box-hull-versus-dory-hull-design-comparison)
+for the fuller Jesse Cooper/Paradox hull comparison recorded elsewhere in the
+archive). From the comparison file, the two hulls' basic forms look similar,
+though no independent knowledge of "Jesse Cooper" beyond that file is on
+record. "Hogfish Maximus" carries a **dagger board**, used only when hard on
+the wind — the one disliked trait was a lack of **longitudinal (directional)
+stability** off the wind, which made her wander under hand steering on a
+reach or run and cost real effort chasing the course back after an
+over-correction (compounded by trouble with both the wind vane and an
+autopilot that wore out after about three days at sea). A better-fitting
+board, left down some off the wind, might have cured it, but Morejohn
+preferred sailing without it there to avoid the board knocking in its case as
+pressure came on and off — a complaint rated as possibly subjective, since
+steering for its own sake holds little appeal and Morejohn himself never
+called it a problem. A planned **300-mile non-stop course in the Gulf of
+Mexico** for "Zoë" — deliberately laid out to stay within about 50 miles of
+port at every point and with no leg longer than 100 miles, giving three to
+four days at sea — was intended to gather an objective comparison against
+"Hogfish Maximus" on this score once a suitable weather window arose.
+
+See [Chris Morejohn](/people/chris-morejohn.md) for Morejohn's own boats,
+background, and the "Modified Sharpie" distinction in context — Morejohn
+himself designed and built "Hogfish Maximus."
+
+## Welcoming Matt Layden's first list post
+
+[Matt Layden](/matt-layden/biography.md)'s first post to the list — a full
+sailmaking recipe for the sail he cut for the original Paradox in February
+2003 — was preserved in the group's **files section** for future builders
+approaching a sail order or sewing their own. See
+[matt-layden/biography.md](/matt-layden/biography.md). A fuller account of
+[Alastair](/people/alastair.md)'s topping-lift arrangement, drawn out around
+the same time, yielded a **continuous-halyard/furling-line** refinement. See
+[design/furling-system.md](/design/furling-system.md).
+
+## Sailing aboard Matt Layden's experimental "Mini Paradox"
+
+Matt's narrower, experimental **"Mini Paradox"** variant does carry chine
+runners, though they are hard to see in photographs — confirmed firsthand from
+sailing aboard her alongside Matt and his wife Karen, who reported she "sails
+like a witch" two-up and is very roomy inside for her size. Her runners sit
+farther aft and end farther forward than on a stock Paradox, with their effect
+attributed to end-plate effect rather than the chine's curvature; on a
+hypothetical catamaran, chine runners would be fitted only to the outboard
+side of each hull. Mini Paradox's own speed is credited mainly to being sailed
+by someone who knows small sharpies well and to her very light weight
+(estimated at 130 lb, under a third of Paradox's crewed displacement), rather
+than to the slight V tortured into her bow. Matt Layden has not committed to
+drawing plans for her, consistent with his standing practice of not releasing
+plans for a boat he has not personally built and sailed enough to confirm
+meets his intentions. See [Mini Paradox](/matt-layden/mini-paradox.md) for the
+full record of this variant.
+
+## A recalled archive report of ballasting the mast to damp roll, later traced
+
+A past report of a builder considering adding extra weight to the mast to
+ease a Paradox's rolling motion was recalled from memory but could not
+initially be relocated; "Zoë" herself has never shown roll problems. The
+report was later traced to a January 2004 mast-construction exchange about a
+heavier carbon-fiber/wood composite mast, and closed out with the plain
+restatement that keeping weight aloft down is "always a good thing." See
+[radio and electronics — a wind generator and radar](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs)
+for the full resolution.
+
+## Luff tape as a sailmaking given
+
+A missing luff tape is an unlikely cause for a Paradox sail's creasing
+problem: **no sail, Paradox or otherwise, is known to have been built without
+luff tape** — it is standard practice a builder or loft would not plausibly
+omit. Maxwell's own sail, made by Dabbler Sails, settled the follow-up
+sizing question: its luff tape is **1 in or 2 in, folded in half over the
+luff**.[47] See [sailmaking — a suspected cause of
+creasing in the newer sail plan](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft).
+
+On the halyard fixing point on the spar, Maxwell could not recall the exact
+dimension from memory but confirmed it is given on the plans. See [rig and
+sail — halyard fixing point on the spar: an open
+question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[48]
+
+# Citations
+
+[1] Archive message page_849 (Glen Maxwell, `paradoxbuilders`, msgnum 864, 2003-03-09) — "Everglades Challenge": sailed with Matt Layden at Ft. Desoto Thursday and part of Friday before the race; describes Matt's solo haul-out rig (two rollers, a four-part block and tackle tied to a six-part) and Matt's "secret weapon" (sleeping while underway); "a real treat to have two Paradoxes sailing together and was a first for Matt as well"; Matt's windward sailing ability "far superior" to Glen's; Matt suggested sail alterations and recommended Dabbler Sails; forgot his camera; per the WaterTribe site, Matt had checked in at Checkpoint 2 (Placida, FL) at 0930 that morning, continuing to Sanibel, with a report of Matt helping a fellow competitor.
+[2] Archive message page_850 (Glen Maxwell, `paradoxbuilders`, msgnum 865, 2003-03-09) — "Re: Paradox nears completion": "Congratulations Al, looks great. Can't wait to see the finished product."
+[3] Archive message page_860 (Glen Maxwell, `paradoxbuilders`, msgnum 875, 2003-03-11) — "Re: Sails": sketch of Matt's haul-out rollers — 6 in long, 2 in diameter boat rollers on trestles of 2x stock on 2x4s; stowed both in the starboard bilge compartment; used two sets, moving the aft one forward as weight came onto it; overall trestle dimensions ~30 in by 12-14 in; each roller trailed a retrieval line long enough to cleat off so it would not drift away in the surf.
+[4] Archive message page_854 (David Beard, `paradoxbuilders`, msgnum 869, 2003-03-09) — "Re: Sails": "Glen, Did you happen to notice how Matt reefed his sail?"
+[5] Archive message page_855 (Glen Maxwell, `paradoxbuilders`, msgnum 870, 2003-03-10) — "Re: Sails": did not notice Matt's reefing and "could kick myself for it"; pictures indicate Matt's sail rolls counter-clockwise from the cockpit; while short-tacking, reefed for the first time in a long while, found Zoë a full knot slower on starboard tack than port; plans to try rolling the other way; both agreed his own sail shape was terrible; considers sewing a replacement himself if Dabbler's 3-month wait is too long, possibly experimenting with poly tarp.
+[6] Archive message page_861 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 876, 2003-03-11) — "Watetribe Everglades Challenge": relays Matt's Checkpoint 4 comment, 3/11/03 07:45 — "Spectacular sailing: Surfing at 6 knots with dolphins on the bow off Pavillion Key. Diminishing wind, varying to NNE overnight. Caught the tide at East Cape. Onward!"
+[7] Archive message page_875 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 890, 2003-03-13) — "Re: another race comment:-)": no Hobies entered to his knowledge, but a tacking proa built from a Hobie 18 hull, sailed two-up, raced under the name "Weed Warrior."
+[8] Archive message page_893 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 908, 2003-04-18) — "Re: Paradox new mods": Matt hasn't changed the sheeting arrangement; the picture showed the prototype, the plans version is a two-to-one purchase; the mainsheet does catch on things — mainly the rudder head, the yuloh mount, and the cleats; Matt's fix "was very simple and works well so he told me"; wishes Alastair luck launching tomorrow.
+[9] Archive message page_905 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 920, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": welcomes DC; his own sail was cut too flat; sailing with Matt at Ft. Desoto before the Everglades Challenge, was surprised at the fullness of Matt's own sail, which Matt thought could still use more draft; well matched reaching/running to St. Pete, but the return beat saw Matt "put a butt kicking on me to windward that I won't soon forget"; Matt noticed Glen's yard was bowing slightly, needing a ~2½ in crescent shape at the top; Matt makes his own sails and fiddles with them by cutting and re-cutting, and suggested Glen do the same; with Little Jim's launch there are now five Paradoxes afloat that he knows of; asks when the 2003 Cedar Key messabout will take place, believes 3-4 May; offers "Zoe" for size/test sails at the event; asks David Beard by name to try to make it.
+[10] Archive message page_908 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 923, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": "Thanks Larry, I'll be there."
+[11] Archive message page_940 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 955, 2003-05-04) — "Re: rig details": his own tack pipe rides in a flared copper deck fairlead, no deck damage seen in two years; recommends cutting the pipe about 1½ in long, trimming once cabin clearance is confirmed; talked to Matt at the Cedar Key Messabout that weekend, "we all had a great time"; Matt's trick for furling without a topping lift is foot pressure on the furling line while hoisting and on the halyard while furling; "I have seen him furl his sail and he really makes it look easy, worth a try."
+[12] Archive message page_942 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 957, 2003-05-05) — "Rig Details": asks Alastair, once back from his latest cruise, to describe his topping-lift arrangement in more detail; doesn't understand how the main halyard alone lifts the boom.
+[13] Archive message page_944 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 959, 2003-05-07) — "Re: Rig Details": "Thanks Al, I hadn't thought about just hauling against the furling line. Great idea on the continuous halyard/furling line also."
+[14] Archive message page_948 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 962, 2003-05-08) — "Re: New Paradox Sail": "Thanks Matt, for a great contribution. I will add your post to the files section for easy retrieval as builders approach the time to order or make their sails. Now it's off to the book store for a book on sail making."
+[15] Archive message page_1233 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1253, 2003-10-29) — "Re: Rudder fixing": full text and citation at [design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).
+[16] Archive message page_1287 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1307, 2003-11-14) — "Re: New Files uploaded": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
+[17] Archive message page_2031 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 2055, 2004-05-03) — "Re: Gone sailing": "Good Luck and God Speed! Sounds like a chance of a lifetime!! Im looking at 3 weeks or so and my Paradox will hit the water." Signed "Jack" — replying to Glen's original "Gone sailing" announcement (not independently preserved in the archive; quoted in full within citation [19] below).
+[18] Archive message page_2032 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2056, 2004-05-03) — "Re: Gone sailing": jokingly warns Glen that flat-bottomed boats are for protected waters, not the ocean; wishes him a safe passage and a great time; lived in Portugal for several years as a child in the early 1970s, found the Portuguese people very friendly and the country beautiful; tells Glen to wear a safety harness on watch.
+[19] Archive message page_2035 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2059, 2004-05-03) — "Re: Gone sailing": quotes Glen's original announcement in full — he and Chris Morejohn will shortly weigh anchor aboard Morejohn's "Hogfish Maximus" (Morejohn's ~38 ft Paradox-family hull) and strike out across the Atlantic for Portugal via Bermuda and the Azores; asks the assistant moderators to cover any problems in his absence; allows three months for the trip, including an extended stay visiting all the islands of the Azores; will fill everyone in on his return; hopes to find a couple more Paradoxes in the water by then. DC wishes Glen a fantastic time, eager to read his impressions of "Hogfish Maximus" and see photos; "May the wind at your back not be your own!"
+[20] Archive message page_2136 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 2161, 2004-06-18) — "Greetings from Horta, Azores": reports in from Horta, Azores, thanking DC and Nels for covering the list; congratulates Hugh on launching "Petite Lady" and thanks Dave Bolduc for uploading the pictures; passage never rolled or sunk; Bermuda leg 14 days/1,070 miles in light winds; after a 10-day stop, the leg to Flores took 17 days 20 hours/1,890 miles, riding a front's tail for 20+ kt westerlies and a best day's run of 138 miles under ~1/3 jib and a poled-out staysail, altering south of the planned 39N track to avoid forming lows and gale-force winds; left Flores after under 24 hours as swells built to ~5 ft in its NE-exposed harbor; reached Horta 24 hours later. On "Hogfish Maximus": chine runners work great even at this size, daggerboard used under 48 hours total (only when hard on the wind), otherwise sails to weather fine without it; pounds no more than some racing boats sailed; very quiet below, requiring deliberate vigilance about deck conditions; having previously sailed Tortola-to-Jacksonville aboard a Hans Christian 38, prefers "Hogfish Maximus" for its better roll damping; judges the 38-footer too big for his own taste but thinks a 21-25 ft Paradox would suit ocean voyaging well. Signed "Glen."
+[21] Archive message page_2138 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2163, 2004-06-18) — "Re: Greetings from Horta, Azores": envious; can't wait to hear Glen's detailed thoughts on "Hogfish Maximus" and chine runners on bluewater boats; glad to see him check in; wishes continued enjoyment and safe passage. Quotes Glen's Horta report in full.
+[22] Archive message page_2140 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2165, 2004-06-18) — "Re: Greetings from Horta, Azores": wonders what it would take to get a 25 ft Paradox — "a total re-design?" Quotes Glen's Horta report in full. Signed "David."
+[23] Archive message page_2142 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, msgnum 2167, 2004-06-18) — "Re: Greetings from Horta, Azores": "Dare I say it,......... Steel!!! I said it. I feel better now." Signed "Jack" — quotes David Beard's "total re-design?" reply and Glen's original Horta report in full.
+[24] Archive message page_2143 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2168, 2004-06-20) — "Hogfish": asks whether anyone knows what rig "Hogfish Maximus" carries, and whether any pictures of her under sail exist. Signed "David." (Left unanswered in the record.)
+[25] Archive message page_2513 (ifida / "Glen C. Mxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 2541, 2005-01-13) — "Atlantic trip": having purchased a farm the year before, has been busy building a cabin to live in, a barn for the horses, and a workshop, hoping to finish by July 2005; sailed across the Atlantic with Chris Morejohn in May–June 2004, promises a fuller trip article once Nels and Kellan's encouragement gets him back to writing it; hasn't yet had time to take "Zoë" out since returning; loaded to the waterline (not light ship) with Morejohn's tools, spares, and nearly a year's food for a family of four, "Hogfish Maximus" behaved beautifully; the one real shortcoming was too small a cockpit; pounding was not an issue — better than fin keelers Glen had sailed; recalling his own Hans Christian 38 delivery from the Virgin Islands to Jacksonville in similar broad-reaching 12–15 kt conditions, judges "Hogfish Maximus" the far more comfortable boat, with almost no rolling where the HC rolled badly enough to prevent sleep (matching what he had felt aboard "Zoë"); relays Morejohn's request to record that "Hogfish Maximus," while resembling an enlarged Paradox, is Morejohn's own design from a separate design process, not a scaled-up Paradox, and that his hulls are not traditional sharpies (which have low sheer and low center of gravity) but a "Modified Sharpie."
+[26] Archive message page_2514 (arvent / "Nels", `paradoxbuilders`, msgnum 2542, 2005-01-13) — "Re: Atlantic trip": welcomes the report on behalf of newer members; asks whether Glen can post photos or a lines sketch of "Hogfish Maximus" against Little Cruiser, Paradox, and Jesse Cooper, since hull shape alone does not determine performance in open water at larger sizes.
+[27] Archive message page_2515 (ifida / "Glen C. Mxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 2543, 2005-01-13) — "Re: Atlantic trip": confirms "Hogfish Maximus" does great in open water, loaded to the waterline rather than light ship; has uploaded 2001 Bahamas photographs of her under sail (taken while sailing together with Morejohn) to the files section under "Hogfish Maximus"; still looking for photos of the two boats tied up together.
+[28] Archive message page_2516 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2544, 2005-01-14) — "Re: Atlantic trip": thanks Glen for posting the "Hogfish Maximus" photographs; like everyone else, looks forward to the promised trip article and transatlantic photographs.
+[29] Archive message page_2517 (kiwival / "bolger1900" / Aaron Edelman, `paradoxbuilders`, msgnum 2545, 2005-01-14) — "Re: Digest Number 662": a newcomer to the list, asks where to find out more about "Hogfish Maximus," prompted by Glen's trip report.
+[30] Archive message page_2518 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2546, 2005-01-14) — "Re: Atlantic trip": asks Nels what "Jesse Cooper" is.
+[31] Archive message page_2519 (hallman/bruce / "brucehallman" / Bruce Hallman, `paradoxbuilders`, msgnum 2547, 2005-01-14) — "Re: Atlantic trip": answers Derek Clark's question — "Jesse Cooper" is one of Phil Bolger's "Square Boats"; points to a design write-up at boatdesign.com/tomboy and to Chapter 12 of Bolger's book *30 Odd Boats*. No boat or build of his own on record.
+[32] Archive message page_2521 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2549, 2005-01-14) — "Re: Atlantic trip": "Thanks Bruce" — closes out the "Jesse Cooper" question, quoting Bruce Hallman's answer in full.
+[33] Archive message page_2522 (arvent / "Nels", `paradoxbuilders`, msgnum 2550, 2005-01-14) — "Re: Atlantic trip (Jesse Cooper)": clarifies his own earlier Jesse Cooper mention referred to a comparison file Glen had posted, comparing Little Cruiser's and Paradox's hull shapes with Jesse Cooper's; posts a tinyurl link to the file; would like to see how "Hogfish Maximus" compares as well; believes she has both a centerboard and chine runners, plus a more technical and expensive rig and possibly a more sophisticated hull structure than the others; muses that a yawl rig with a Little Cruiser–style mainsail treatment would be a sort of simplified junk rig; calls "Hogfish Maximus" the most intriguing boat name he has seen.
+[34] Archive message page_2528 (ifida / "Glen C. Mxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 2556, 2005-01-15) — "Re: Atlantic trip (Jesse Cooper)": has no independent knowledge of Jesse Cooper beyond what has been posted, but agrees from the comparison file that the basic hull forms look similar; confirms "Hogfish Maximus" has a dagger board, used only hard on the wind; disliked her lack of longitudinal stability off the wind, which made her wander under hand steering on a reach or run (compounded by wind-vane trouble and an autopilot that wore out after about three days), requiring minutes of course-chasing after an over-correction; suspects a better-fitting board, partly lowered off the wind, would fix it, but Morejohn preferred sailing without it there to avoid a clunking noise as pressure came and went; notes he personally hates steering for its own sake and rates the complaint as possibly subjective, since Morejohn never complained of it; plans a 300-mile non-stop test course in the Gulf of Mexico for "Zoë," staying within about 50 miles of port at every point with no leg over 100 miles, to gather three to four days of at-sea data for an objective comparison against "Hogfish Maximus" once a suitable weather window arises.
+[35] Archive message page_2530 (kiwival / "bolger1900" / Aaron Edelman, `paradoxbuilders`, msgnum 2558, 2005-01-15) — "Re: Hogfish Maximus": reports Nels's tinyurl link to the Jesse Cooper comparison file no longer resolves; asks for another way to view "the 'elusive' Hogfish Maximus," quoting Nels's message in full. Left unanswered in the record.
+[36] Archive message page_2531 (arvent / "Nels", `paradoxbuilders`, msgnum 2559, 2005-01-16) — "Re: Hogfish Maximus": answers Aaron Edelman — the tinyurl link covers only hull comparisons with Paradox and has no "Hogfish Maximus" content; points instead to the Files folder's "Larger Paradox" folder and its "comp" file, plus three photographs in a dedicated "Hogfish Maximus" folder.
+[37] Archive message page_2533 (kiwival / "bolger1900" / Aaron Edelman, `paradoxbuilders`, msgnum 2561, 2005-01-16) — "Re: re.Hogfish maximus": thanks Nels for guiding him to the right spot; asks whether "Hogfish Maximus" is a Bolger design or, if not, who designed her.
+[38] Archive message page_2534 (ifida / "Glen C. Mxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 2562, 2005-01-17) — "Re: re.Hogfish maximus": answers Aaron Edelman — "Hogfish Maximus" was designed and built by Chris Morejohn.
+[39] Archive message page_2760 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2791, 2005-06-09) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); confirms chine runners present but hard to see in photos, reports sailing aboard with Matt and his wife Karen, "sails like a witch," roomy inside.
+[40] Archive message page_2772 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2803, 2005-06-10) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); recalls an archive report of adding mast weight to ease roll, cannot relocate it; has never had roll problems himself.
+[41] Archive message page_2773 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2804, 2005-06-10) — "Re: Mk2 sail": full text and citation at [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft); has never seen a Paradox sail, or any other sail, without luff tape.
+[42] Archive message page_2774 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2805, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); confirms runner placement differs from stock (farther aft, ending farther forward), attributes the effect to end-plate effect rather than chine curvature.
+[43] Archive message page_2777 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2808, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); answers a catamaran chine-runner hypothetical — only the outboard side of each hull.
+[44] Archive message page_2784 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 2815, 2005-06-10) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); traces the recalled mast-weight/roll report to a January 2004 exchange between DC and Glen Maxwell about a composite mast.
+[45] Archive message page_2790 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2821, 2005-06-11) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); "Keeping weight aloft down is ALWAYS a good thing."
+[46] Archive message page_2782 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2813, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); credits Mini Paradox's speed mainly to sailing skill and light weight rather than hull shape.
+[47] Archive message page_2793 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2824, 2005-06-11) — "Re: Mk2 sail": full text and citation at [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft); measured his own Dabbler Sails sail — luff tape is 1 in or 2 in folded in half over the luff.
+[48] Archive message page_2804 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2835, 2005-06-13) — "Re: Mk2 Sail and halyard": full text and citation at [design/rig.md](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question); can't recall the dimension but confirms it's on the plans.
