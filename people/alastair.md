@@ -413,6 +413,20 @@ contributions and cross-link to where each is told in full.
   constant-diameter bamboo pole as a cheap, easily-replaced experiment. See
   [rig and sail — why yard and boom shape matter for
   pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing).
+- **The yard as a double cantilever, and a mast-chafe fix.** Restated the
+  taper's engineering logic in stronger terms — the yard is a double
+  cantilever, so the bending moment (and the stiffness needed to resist it)
+  falls away with distance from the mast — and separately fixed his own
+  mast-chafe problem by lengthening his sail's sleeve gap so the spar, not
+  the cloth, rubs the mast, combined with a leather sleeve on the mast
+  itself; also floated a mast-mounted yard traveller, borrowed from a
+  Welsford Houdini dinghy, to keep the yard close to the mast at all points
+  of reefing. See [rig and sail — mast chafe from the yard, and finishes
+  that prevent
+  it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it)
+  and [rig and sail — a proposed mast-mounted traveller to keep the yard
+  close when
+  reefed](/design/rig.md#a-proposed-mast-mounted-traveller-to-keep-the-yard-close-when-reefed).
 - **Yuloh pivot construction.** A yuloh can be laminated from two planks bent
   over a 30 mm-high block (free ends elevated over the block and loaded with
   weights until they touch the ground), with the pivot bolt built from 10 mm
@@ -1101,3 +1115,8 @@ and cost](/references/building-plans.md#source-and-cost).[260]
 [259] Archive message page_2931 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2962, 2005-07-21) — "Re: Mainsheet and outboard": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted); the yuloh's windward limitation, replying to Martin Feaviour's canal-touring question.
 
 [260] Archive message page_2936 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2967, 2005-07-21) — "Re: please help!!!": full text and citation at [references/building-plans.md](/references/building-plans.md#source-and-cost); tells an impatient newcomer that Paradox may not suit him and repeats the `microcruising.com` plans source. Signed "Al, Yeovil, England."
+
+[261] Archive message page_3022 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3053, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing) and [boats/enuf.md](/boats/enuf.md#why-the-yard-is-tapered-rather-than-a-constant-diameter-pole); explains the yard as a double cantilever. Signed "Al, Yeovil, England."
+[262] Archive message page_3024 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3055, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it); his own sail-sleeve and leather-mast-sleeve chafe fix. Signed "Al, Yeovil, England."
+[263] Archive message page_3026 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3057, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it); the leather sleeve's extent, and his own reefing habits. Signed "Al, Yeovil, England."
+[264] Archive messages page_3028/page_3029 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059/3060, 2005-08-03) — "Yard support" / "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#a-proposed-mast-mounted-traveller-to-keep-the-yard-close-when-reefed) and [boats/enuf.md](/boats/enuf.md#a-proposed-traveller-to-keep-the-yard-close-to-the-mast-when-reefed); the Welsford Houdini traveller idea, and a further cantilever/bamboo-crushing clarification for Derek Clark. Signed "Al, Yeovil, England."

@@ -1,5 +1,43 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 303: page_3021-page_3030)
+
+**The yard-taper thread continues: a double-cantilever explanation, mast
+chafe from the yard, and a mast-mounted traveller idea; a one-off
+Paraplastic status check.** No new files created; five existing files
+extended.
+
+- **`boats/enuf.md`** — extended "Why the yard is tapered rather than a
+  constant-diameter pole" with Derek Clark's acceptance of the taper
+  reasoning and Alastair's fuller double-cantilever restatement (seesaw /
+  Firth of Forth bridge analogy); two new sections — "Mast chafe from the
+  yard, and finishes to prevent it" (a varnish-caused sail-sleeve
+  burn-through, a leather-patch-plus-petroleum-jelly-and-linseed-oil fix,
+  and a lengthened-sail-sleeve-plus-leather-mast-sleeve fix that solved the
+  problem outright) and "A proposed traveller to keep the yard close to the
+  mast when reefed" (the Welsford Houdini comparison, unresolved). Cites
+  [54]-[60], 60 total, no gaps.
+- **`design/rig.md`** — extended "Why yard and boom shape matter for
+  pointing" with the double-cantilever restatement, and added two new
+  headings mirroring the boat-page narrative: "Mast chafe from the yard,
+  and finishes that prevent it" and "A proposed mast-mounted traveller to
+  keep the yard close when reefed." Cites [221]-[226], 226 total, no gaps
+  (pre-existing [7a]/[7b] pair unaffected).
+- **`people/jack-gardiner.md`** — narrate-once cross-link addendum for his
+  mast-chafe warning to Derek Clark. Cite [185], 185 total (pre-existing
+  [53] gap unaffected, unchanged from prior batches).
+- **`people/alastair.md`** — new bullet on the double-cantilever
+  restatement, his own chafe fix, and the traveller idea, cross-linked to
+  `design/rig.md`. Cites [261]-[264], 264 total, no gaps.
+- **`people/kjell-karlsson.md`** — citation-only addition for Paul's
+  one-off "Paraplastic update?" status check (unanswered on record). Cite
+  [55], 55 total, no gaps.
+
+No genuinely new correspondents — all ten messages from four
+already-standing identities (Derek Clark, Alastair, Jack Gardiner, and
+Paul/`kayaker37`, the last writing to Kjell Karlsson). Anchor checker: 0
+broken across 2,321 links. Cursor set to 3030.
+
 ## 2026-07-06 (batch 302: page_3011-page_3020)
 
 **Resolution of Derek Clark's "Enuf" epoxy-cure calamity, plus a new

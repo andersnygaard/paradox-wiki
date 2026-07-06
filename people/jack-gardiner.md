@@ -784,6 +784,14 @@ notch-cutting method with a fiber-disk cutoff wheel. See [rig and sail — the
 tack strut and boom axle's pivot joint: why a "V," and
 alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).[183]
 
+Warning Derek Clark about the yard rubbing against the mast, Jack drew on
+his own experience of a varnished mast finish burning an 8 in hole through
+his sail's sleeve, describing his fix (a sewn-on leather chafe patch and a
+planned petroleum-jelly-and-linseed-oil mast finish) and flagging that a
+segmented bamboo yard could chafe or ride noisily over its own segment
+joints. See [rig and sail — mast chafe from the yard, and finishes that
+prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it).[185]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -970,3 +978,4 @@ alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-a
 [182] Archive message page_2989 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3020, 2005-07-31) — "Re: Another Enuf update": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#turning-the-hull-over).
 [183] Archive message page_2990 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3021, 2005-07-31) — "Re: Jack gardiner's Tack Strut & Boom Axle": full text and citation at [design/rig.md](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).
 [184] Archive messages page_3007/page_3009/page_3010 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnums 3038/3040/3041, 2005-08-02) — "Re: Unfolding Calamity for Enuf": full text and citation at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
+[185] Archive messages page_3023/page_3025 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3054/3056, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it) and [boats/enuf.md](/boats/enuf.md#mast-chafe-from-the-yard-and-finishes-to-prevent-it); warns Derek about mast chafe from his own varnish-caused sail-sleeve burn-through, and follows up asking whether Derek plans to sleeve the mast's full length.

@@ -529,6 +529,54 @@ result useful data for future builders either way — though a yard's
 weight aloft may also affect how gently the boat gybes by accident, a
 question left open on the record.[220]
 
+Restated in structural-engineering terms, the yard behaves as a **double
+cantilever**: as a section moves away from its single support (the mast),
+the bending moment it must carry decreases, so the yard can progressively
+thin along its length; correctly matching the taper to that falling load
+gives the top of the sail a constant curvature rather than an uneven one.
+A single cantilever, by contrast, is a beam or spar (such as the mast
+itself) fixed at one end only; a double cantilever — the same geometry as
+a seesaw, or as one span of the Firth of Forth rail bridge — is supported
+at one point with both ends free to bend. A constant-diameter bamboo pole
+does not naturally take this shape, and would likely need reinforcement
+where it presses against the mast to avoid being crushed there.[221][225]
+
+## Mast chafe from the yard, and finishes that prevent it
+
+Where the yard rubs against the mast — most often while sailing reefed,
+with the yard low and the boom's aft end also bearing on the mast at the
+same spot — a **varnished mast finish creates enough friction to burn
+through a sail's sleeve**, in one case an 8 in-long hole in the top
+sleeve. Two independent, complementary fixes are on record: sewing a
+leather chafe protector onto the sail's sleeve at the wear point, paired
+with refinishing the mast in a **petroleum jelly and linseed oil
+mixture** rather than varnish; and, more directly, lengthening the gap in
+the sail's own sleeve so that the **spar, not the sail's cloth, bears
+against the mast**, combined with fitting a **leather sleeve to the
+mast** at the contact point — reported to solve the chafe problem
+entirely. A leather mast sleeve need not run the full length of the
+mast: covering only the few inches around the point where the boom
+rubs while reefed is enough, particularly if reefed sailing tends to load
+only one tack and rarely repeats contact at exactly the same spot. An
+epoxy-and-paint mast finish, left to wear back to bare epoxy over time,
+is a workable alternative to varnish for reducing this friction in the
+first place. A **segmented pole such as bamboo** carries an added chafe
+risk beyond plain friction: unless a segment joint happens to fall
+exactly at the mast contact point, the yard will ride up and over the
+raised joint as it moves — noisy in addition to uneven.[222][223][224]
+
+## A proposed mast-mounted traveller to keep the yard close when reefed
+
+As the sail is progressively reefed on the rolling boom, the yard's
+geometry carries it aft, away from the mast, with little to hold it close
+on one tack. A **Welsford Houdini** dinghy, rigged with a similarly
+reefable lugsail, uses a **traveller fitted to the mast** to keep its yard
+close to the mast at all points of reefing, raising the open question
+whether Paradox's rig would benefit from the same fitting — noting that
+doing so would require the boom to lift as the sail is reefed, which could
+itself cause problems. No build or trial of a mast-mounted yard traveller
+on a Paradox is recorded.[226]
+
 ## The Dabbler re-cut: Mark II sail, a decisive improvement
 
 Sending an unsatisfactory original sail to **Dabbler** for a re-cut produced
@@ -1539,3 +1587,9 @@ figure against their own plan set before cutting.[184]
 [218] Archive message page_3001 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3032, 2005-08-01) — "Mainsheet Fouling Outboard": asks David Beard, referencing his own post "2054ish," whether he ever fitted a bar and travelling block on the transom to keep the mainsheet off his outboard, and whether he is still using the 2 hp Honda. Signed "Derek."
 [219] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": has not fitted the travelling block, since the fouling has not been enough of a problem to motivate it, though he believes it would work; confirms he still uses the 2 hp Honda, "great outboard." Signed "David Beard."
 [220] Archive messages page_3018/page_3020 (dclark / "dclark52001" / Derek Clark, msgnum 3049, 2005-08-03, "Re: Enuf's Calamity Update & the Yard"; and openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3051, 2005-08-03, "Re: Enuf's Calamity Update & the Yard") — Derek asks why the yard is shaped rather than a constant-diameter pole such as bamboo, which would carry less weight aloft; Al answers that the yard must be stiffest where restrained at the mast, since insufficient stiffness there lets the sail's corners sag and lose shape, and the taper puts stiffness where required while shedding weight elsewhere; suggests trying bamboo anyway as a cheap, easily-replaced experiment whose result would be useful data for future builders, and separately wonders whether yard weight affects how docile an accidental gybe is.
+[221] Archive message page_3022 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3053, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": explains the yard is structurally a double cantilever — as a section moves away from the mast support, the bending moment decreases and the yard can be thinner; matching the load to the varying stiffness along its length gives the top of the sail a constant curvature. Signed "Al, Yeovil, England."
+[222] Archive message page_3023 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3054, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": warns that his own varnished mast finish created enough friction to burn an 8-inch hole through his sail's top sleeve; sewed on a leather chafe protector and plans to refinish the mast with a petroleum jelly and linseed oil mixture instead of varnish; flags that a segmented bamboo pole may chafe or ride noisily over its own segment joints unless a joint happens to fall exactly at the mast contact point. Signed "Jack."
+[223] Archive message page_3024 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3055, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": had the same chafing problem; fixed it by lengthening the sail's sleeve gap so the spar, not the sail cloth, rubs against the mast, combined with fitting a leather sleeve to the mast — "problem (apparently) solved." Signed "Al, Yeovil, England."
+[224] Archive message page_3026 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3057, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": the leather sleeve covers only about 4 in of the mast, at the point the boom rubs when reefed; when sailing reefed the yard rarely rubs the same place twice and only on the port tack; his mast is epoxy and paint, slowly being sanded back to bare epoxy; does not sail much reefed, generally seeking a quiet corner once wind reaches the top end of Force 4; asks how the petroleum jelly and linseed oil finish is applied. Signed "Al, Yeovil, England."
+[225] Archive messages page_3027/page_3029 (dclark / "dclark52001" / Derek Clark, msgnum 3058, 2005-08-03, "Re: Enuf's Calamity Update & the Yard"; and openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3060, 2005-08-03, "Re: Enuf's Calamity Update & the Yard") — Derek concludes "it's back to the Douglas Fir" if the yard is a double cantilever, since he judges a bamboo spar cannot be one and would need lining up with the mast; Al clarifies that a shelf bracket or mast, fixed at one end only, is a single cantilever, while a seesaw or one span of the Firth of Forth rail bridge — supported at one point with both ends free — is a double cantilever; bamboo may well work but would likely need strengthening to avoid being crushed where it presses against the mast.
+[226] Archive message page_3028 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059, 2005-08-03) — "Yard support": notes the sail's geometry carries the yard aft, away from the mast, as it is reefed, with little to hold it close on the starboard tack; recalls a Welsford Houdini dinghy seen at a boat rally, rigged with a similarly reefable lugsail but fitted with a mast-mounted traveller to keep its yard close at all times; asks whether Paradox would benefit from the same arrangement, noting it would require the boom to lift as the Mk.1 sail is reefed, which may itself cause a problem. Signed "Al, Yeovil, England."
