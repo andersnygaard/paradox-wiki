@@ -399,6 +399,14 @@ underway it is rare, at most occasional spray tossed rather than a hull
 slamming into waves. One owner speculated the V-bow on Enigma was Matt's way
 of cutting down that spray and picking up a little extra speed, rather than a
 response to any real pounding problem on the flat-bottomed original.[42][43][44][45]
+Dave Bolduc, sailing both [Little Cruiser](/matt-layden/little-cruiser.md) and
+[Swamp Thing](/matt-layden/swamp-thing.md) as well as Paradox, confirmed the same
+experience across all three heavy-displacement, wet-forefoot hulls, with at
+most an occasional slap at anchor in real rough conditions — but added the
+one exception he had found: motoring straight into a short head sea could
+set up pounding in Little Cruiser, a problem he corrected simply by having
+both himself and his wife sit on one side of the boat, heeling her enough to
+restore a "V" to the hull's presentation to the waves.[46]
 
 ## Handling and feel from microcruising.com
 
@@ -532,3 +540,4 @@ better" rule the other two data points had suggested.
 [43] Archive message page_3127 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3158, 2005-09-05) — "Re: Pounding?": has never experienced pounding at anchor, and only on very rare occasions while sailing. Signed "Glen."
 [44] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": has not experienced pounding, though she will toss spray; guesses Matt may be trying to reduce that and pick up a little more speed with the V bow; definitely no pounding at anchor. Signed "Jack."
 [45] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": very little pounding, even under power. Signed "David."
+[46] Archive message page_3133 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3164, 2005-09-05) — "Re: Pounding?": never experienced much pounding in Little Cruiser, Swamp Thing, or Paradox under sail; at anchor they might slap a little in real rough conditions, but even that is rare given the boats' heavy displacement and wet forefoot; under power, going straight into a short head sea, Little Cruiser has pounded, easily corrected by having both himself and his wife sit on one side of the boat, heeling her enough to restore a "V" to the water entry.

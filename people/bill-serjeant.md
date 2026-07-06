@@ -106,6 +106,16 @@ exception on the delivery paperwork instead. By then he had completed all of
 his beams, including the cabin and hatch beams; laminated his tiller; and
 begun drawing the bulkheads out on plywood.[18]
 
+## Lower pintle: an alternative to drilling the rudder stock
+
+Bill devised and photographed a method of installing the rudder's lower
+pintle onto the rudder stock without drilling a hole for it — a technique he
+judged simpler and more accurate than drilling, which he shared as a
+"UK2" photo-folder posting. Alastair, who had drilled his own stock and found
+the setup nerve-wracking (a mistake there meaning a major rebuild), agreed
+drilling was the harder way to do it. Glen Maxwell likewise praised the
+approach.[19][20][21]
+
 ## One person across three handles
 
 Bill Serjeant's Yahoo profile name changed twice over the archive's span —
@@ -136,3 +146,6 @@ three eras.
 [16] Archive message page_3105 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3136, 2005-08-21) — "Re: A Result, Boom, Boom!": banter reply to Derek Clark's "Sarah Suck Teeth" nickname for Robbins Timber's manager — "who could refuse... she's got a way of putting things!" Signed "Bill."
 [17] Archive message page_3114 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3145, 2005-08-29) — "Updating owners/builder's list": asks the group again for help updating the owners/builders list at `www.smallsailboats.co.uk/paradox/names.htm`. Signed "Bill."
 [18] Archive message page_3117 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3148, 2005-08-30) — "Wood arrived today": his Paradox timber arrived from Robbins of Bristol in an unexpectedly large delivery, too much to fully check before signing, so he noted the exception on the delivery paperwork instead; has completed all beams, including cabin and hatch beams; has laminated the tiller and hopes to shape it the next day; has started drawing the bulkheads out on plywood. Signed "Bill."
+[19] Archive message page_3136 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3167, 2005-09-06) — "Lower pintle": uploaded photos to the `paradoxbuilders2` photo section illustrating how he installed the lower pintle to the rudder stock, a method he judges simpler and more accurate than drilling a hole; also reports his sail arrived the previous day. Signed "Bill."
+[20] Archive message page_3137 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3168, 2005-09-06) — "Re: Lower pintle": agrees, having found setting up the drilling for his own rudder stock nerve-wracking, since getting it wrong would have meant a major rebuild of the stock. Signed "Al, Yeovil, England."
+[21] Archive message page_3138 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3169, 2005-09-06) — "Re: Lower pintle": "Looking good Bill, great idea as well!" Signed "Glen."

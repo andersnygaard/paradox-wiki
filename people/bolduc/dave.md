@@ -343,6 +343,12 @@ Maxwell's call for help closing the group against spam sign-ups (see
   Evinrude, while the current 3.3 hp Mercury needs pumping roughly hourly;
   they carry extra ballast forward to compensate for the outboard's weight.
   See [rig and sail — a horse fitted to clear the outboard](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it).
+- **Pounding.** Across Little Cruiser, Swamp Thing, and Paradox alike, he has
+  found pounding essentially unknown at anchor and rare under sail; the one
+  exception is motoring straight into a short head sea, which can pound
+  Little Cruiser until he and his wife shift to sit on one side, heeling her
+  enough to restore a "V" to the hull's water entry. See [sailing
+  characteristics — pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 
 ## Building advice and the "first boat" question
 
@@ -562,3 +568,4 @@ that one of them answered.
 [100] Archive message page_2655 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2685, 2005-05-06) — "Re: Mainsheet and outboard": full text and citation at [design/rig.md](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it).
 [101] Archive message page_2703 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2733, 2005-05-28) — "Re: Introduction": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding), [construction/water-tank-lining.md](/construction/water-tank-lining.md), and [operations/running-lights.md](/operations/running-lights.md#cold-cathode-fluorescent-ccfl-as-an-led-alternative).
 [102] Archive message page_2706 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2736, 2005-05-29) — "Re: Introduction": full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision) and [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).
+[103] Archive message page_3133 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3164, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).

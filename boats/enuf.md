@@ -687,6 +687,12 @@ fork was not strong enough, he considered slitting a further length of
 two together, matching the copper-pipe approach he understood a fellow
 builder ("Al") to be using for the same fitting.[128]
 
+Alastair confirmed 15mm pipe is plenty strong used straight, but that
+splitting it (as Derek was considering) weakens it too far; his own method
+was to spread the far end of the pipe with a tapered punch, then curl the
+spread metal back on itself with a small hammer to form a rolled edge,
+avoiding a raw cut edge that would otherwise cut into the deck.[129]
+
 ## Storing and stepping the mast
 
 Planing the assembled mast blank square on one side, Derek found the epoxy
@@ -850,3 +856,4 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [126] Archive message page_3123 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3154, 2005-09-04) — "Re: Boom Knots": urges Derek to build a new boom rather than repair the knotted one, warning a boom is most likely to fail exactly when the wind is almost too much to handle and the sailor is trying to reef; tells his own first-ever-sail story — pinned in a muddy cove by fickle wind in front of a row of onlookers in lawn chairs, several failed tacks before freeing the rudder slightly and easing the sheet to get clear — after which the onlookers became a standing "cheering section" that has watched his truck and trailer ever since; asks how Derek would explain a snapped boom to that same audience. Signed "Jack."
 [127] Archive message page_3124 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3155, 2005-09-04) — "Re: Boom Knots & Jack and Jeff": accepts the advice and will make a new boom; clarifies he had actually meant a birdsmouth scarf rather than a true mortise and tenon. Signed "Derek."
 [128] Archive message page_3125 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3156, 2005-09-04) — "Tack Strop Fork": silver-soldered an extra brass plate across the tack strop fork as the promised reinforcing bridge piece, using an improvised forge (fire bricks from a fireplace lined in a biscuit tin, using noticeably less gas than in the open); photographs posted to the "Enuf" folder; as a fallback if not strong enough, considered slitting a further length of 15mm copper pipe and forcing it over the existing tube before soldering, matching what he understood "Al" to be using for the same fitting. Signed "Derek."
+[129] Archive message page_3134 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3165, 2005-09-06) — "Re: Tack Strop Fork": the 15mm pipe is plenty strong used straight; it was splitting it that made it too flimsy; his own method was a tapered punch to spread the far end, curled back on itself with a small hammer to make a rolled edge that would not cut into the deck. Signed "Al, Yeovil, England."

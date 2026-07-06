@@ -286,6 +286,12 @@ occasionally sticking head-to-wind on that tack as she did this time.
 
 ## Rudder-stock height and mainsheet fouling at the transom notch
 
+Bill Serjeant devised a way of fitting the **lower** pintle to the rudder
+stock without drilling a hole for it, judged simpler and more accurate than
+drilling — a real concern, since a botched drilled hole means a major rebuild
+of the stock. See [people/bill-serjeant.md](/people/bill-serjeant.md#lower-pintle-an-alternative-to-drilling-the-rudder-stock)
+for the technique and photos.
+
 Building the rudder stock **as tall as specified** on the plans can cause
 the mainsheet to catch in the notch between the rudder and the transom,
 bearing against the top pintle. Adjusting the pintle design relieves the

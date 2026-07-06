@@ -1,5 +1,55 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 314: page_3131-page_3140)
+
+**Bill Serjeant shares a no-drill lower-pintle installation technique (praised
+by Alastair and Glen Maxwell), Alastair closes out the tack strop fork thread
+with his own pipe-forming method, and Dave Bolduc extends the "Pounding?"
+thread with a fourth confirming reply plus the one exception he's found (and
+its fix) across Little Cruiser, Swamp Thing, and Paradox.** No new person or
+boat pages created this batch; three existing files extended under
+existing/new sub-headings, one person page gained a short cross-link summary,
+one design page gained a citation-free cross-link pointer. A five-message
+off-topic Sven Yrvind boat-launch cross-post (continuing from batch 313)
+correctly excluded per the pruning rubric.
+
+- **`people/bill-serjeant.md`** — new heading "Lower pintle: an alternative
+  to drilling the rudder stock": Bill's no-drill method of fitting the
+  rudder's lower pintle to the stock, judged simpler and more accurate than
+  drilling; Alastair (whose own drilled setup was nerve-wracking, a mistake
+  meaning a major rebuild) and Glen Maxwell both endorsed it. Cites
+  [19]-[21], 21 total/21 max, no gaps.
+- **`design/rudder.md`** — citation-free cross-link pointer added to the
+  existing "Rudder-stock height and mainsheet fouling at the transom notch"
+  heading, pointing to Bill's lower-pintle technique. No new citation; 44
+  total/44 max, unchanged.
+- **`boats/enuf.md`** — extended "Tack strop fork: a reinforcing bridge
+  piece, and an improvised forge": Alastair confirmed 15mm pipe is strong
+  enough used straight (splitting it is what weakens it) and described his
+  own tapered-punch-and-rolled-edge forming method. Cite [129], 129
+  total/129 max, no gaps.
+- **`operations/sailing-characteristics.md`** — extended "Pounding: rare at
+  anchor, occasional underway": Dave Bolduc confirmed the same finding
+  across Little Cruiser, Swamp Thing, and Paradox, adding the one exception
+  he's found — motoring into a short head sea can pound Little Cruiser,
+  fixed by heeling her with crew weight on one side. Cite [46], 46 total/46
+  max, no gaps.
+- **`people/bolduc/dave.md`** — one new cross-link bullet under "Operations
+  and cruising practice" (pounding). Cite [103], 104 total lines/103 numeric
+  max (pre-existing letter-suffix [26a] preserved).
+- Off-topic Yrvind-launch cross-post continuation (Paul, Björn Harbo, David
+  Platten, Neil Barratt) — no Paradox design/construction/sailing content,
+  not folded into any page, matching the identical thread's disposition in
+  batch 313.
+
+Correspondents seen: Dave Bolduc, Alastair, David Platten (off-topic, x2),
+Bill/William Serjeant, Glen C. Maxwell, Paul (off-topic), Björn Harbo
+(off-topic), Neil Barratt (off-topic, new one-off). Msgnum run
+3162-3171 (pages 3131-3140), confirmed distinct/consecutive from batch 313's
+last msgnum 3161; all ten byte sizes matched the dispatch table, no
+same-size pair flagged. Archive timeline reached 5-7 September 2005. Anchor
+checker: 0 broken.
+
 ## 2026-07-06 (batch 313: page_3121-page_3130)
 
 **A second boom knot forces Derek to build a whole new boom (Jeff UK and Jack
