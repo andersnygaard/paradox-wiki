@@ -1,5 +1,48 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 324: page_3231-page_3240)
+
+Six of this batch's ten pages formed a "Rudder construction..." thread.
+**Alan**, a New Zealand correspondent working from the plans alone, asked why
+Paradox's rudder pivots on a single bolt rather than the usual two-cheek-piece
+side-thrust sandwich, and whether the washer/nut wears the surrounding wood or
+fiberglass. **Glen Maxwell** and **Jack Gardiner** answered with durability
+reassurance — Matt Layden's own thousands of trouble-free miles, and Jack's
+retelling of his 2004 beach-grounding story (already narrated in full on
+`boats/jill.md`), adding two new facts this time: no wear from heavy
+subsequent motoring/motor-sailing, and that rock rather than sand is the real
+risk to a rudder blade's leading edge. **Bill Serjeant** then asked the
+related but distinct question of how to waterproof the pivot bolt hole
+itself, answered by **Chris Ostlind** (oversized-hole/thickened-epoxy/rebore
+technique, with optional silicon bronze bushings for a "near bullet-proof"
+assembly) and independently confirmed in brief by Glen Maxwell. The batch
+opened with **Nels** welcoming "westburke" back with a one-line joke, and
+closed with a brand-new below-threshold newcomer, **"ken pagans"** (`lvltlbts`,
+signing "grover"), asking — unanswered within this batch — whether Paradox's
+chine-runner "wings" could be adapted onto a Jim Michalik "Jewelbox Jr" hull
+in place of a leeboard.
+
+- **`design/rudder.md`** — extended the existing "pivot-bolt fixing" section
+  with the durability reconfirmation and the (already-narrated-elsewhere)
+  grounding story's two new facts, plus a new subsection "Bushing the pivot
+  bolt against water ingress" for the epoxy-fill/rebore technique. Cites
+  [45]-[50], 50 total/50 max, no gaps.
+- **`people/bill-serjeant.md`** — extended his "Contributions to design
+  discussion" paragraph to cover the pivot-bolt bushing question. Cite [28],
+  28 total/28 max, no gaps.
+- **`people/jack-gardiner.md`** — new paragraph cross-linking his rudder-story
+  retelling and its two new facts, without re-narrating the original beach
+  story (already in full on `boats/jill.md`). Cite [198], 197 total-lines/198
+  numeric max (pre-existing +1 gap at [53] preserved exactly), no new gaps.
+- `.okf-progress/backlog.md` — corrected batch 323's mistaken treatment of
+  "Al"/`alopenboat` of Yeovil as a separate identity from Alastair (he is
+  Alastair; no separate person exists); updated the "westburke" watch-list
+  item with this batch's resurfacing; new below-threshold-newcomer Open item
+  for "ken pagans" (trigger: an answer to his chine-runner/leeboard question,
+  or a build/boat-name); new "Batch 324 correspondent + gap check" section
+  recording the msgnum run, attribution checks, and the duplicate-retelling
+  handling of Jack Gardiner's grounding story.
+
 ## 2026-07-06 (batch 323: page_3221-page_3230)
 
 The archive's real content this batch was a "Bilges" thread: **David Beard**

@@ -855,6 +855,14 @@ with flexing and can inject water into the plywood's end grain. See
 [checking a used Paradox for rot — finishing the bilges: leave inspectable,
 or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[197]
 
+Answering a New Zealand builder's rudder pivot-bolt question over a year
+later, Jack retold his beach/trailer incident (see ["Jill"](/boats/jill.md#a-small-craft-advisory-and-a-rudder-blade-that-saved-the-trailer))
+and added two new data points: heavy subsequent motoring/motor-sailing has
+caused no wear to the pivot fixing's silicon bronze hardware, and the real
+risk to a rudder blade is dragging its leading edge over rocks rather than
+sand. See [design/rudder.md — the pivot-bolt fixing, and its record under
+grounding loads](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).[198]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1054,3 +1062,4 @@ or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-lea
 [195] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).
 [196] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 [197] Archive message page_3227 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3258, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+[198] Archive messages page_3234/page_3236 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3265, 2005-12-05, and msgnum 3267, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).

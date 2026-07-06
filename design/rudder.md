@@ -237,7 +237,47 @@ proved sound: by late 2003 the original Paradox had roughly **10,000 miles**
 on this exact configuration under [Matt Layden](/matt-layden/biography.md)
 himself, with no reported problem — evidence the designer would have
 changed the fixing had it given trouble — and "Zoë" had likewise logged
-several hundred miles on it without any issue.
+several hundred miles on it without any issue. A New Zealand builder's
+question about the pivot design — whether, unlike most lifting rudder
+blades (usually sandwiched between two cheek pieces on the stock to take
+side-thrust), Paradox's simpler single-bolt fixing risks the washer/nut
+eating into the surrounding wood or fiberglass over time — drew the same
+reassurance repeated independently two years later: no problems reported
+by owners running the stock fixing as drawn, consistent with Matt Layden's
+own many thousands of miles on Paradox without issue.
+
+The fixing's real-world toughness is also borne out by ["Jill"](/boats/jill.md#a-small-craft-advisory-and-a-rudder-blade-that-saved-the-trailer)'s
+own rudder blade, pulled off the boat and used as an improvised traction
+"bridge" to free a truck stuck in wet sand — recounted again a year later
+with two further data points: heavy subsequent motoring and motor-sailing
+produced no damaging wear on the silicon bronze washer, bolt, and nut, and
+the real risk to a blade is **rock rather than sand** — dragging the
+leading edge over rocks is where damage happens, making a case for
+Kevlar-reinforcing that edge (as later done in
+[Little Cruiser's 2005 refit](#the-big-rudder-as-a-leeway-reducer), above).
+
+### Bushing the pivot bolt against water ingress
+
+A further pivot-design question concerns **waterproofing** the bolt hole
+itself, since the fixing sits below the waterline: the plans simply show
+plain holes through both the stock and the blade for the pivot bolt to
+pass through, with no guidance on stopping water ingress there, prompting
+one builder to ask whether bushings should be fitted in both parts.
+
+The recommended technique bushes the hole with epoxy rather than a
+separate metal or plastic sleeve: drill out the pivot locations in both the
+cheek block(s) and the rudder stock with an **oversized bit**, first brush
+on a penetrating coat of straight (unthickened) epoxy so the end grain and
+long fibers can "take up" some adhesive, then fill the oversized holes in
+both parts with **thickened epoxy**. Once cured, re-drill the epoxy plugs
+with the correct bit for the pivot bolt's actual diameter — for a 1/2 in
+bolt, drilling the original oversized hole at 3/4 in leaves enough
+thickened epoxy to rebore cleanly back down to 1/2 in. The result is a
+rudder that "will rotate butter smooth" while the surrounding wood and
+fiberglass stay fully protected from water. For a more deluxe version, a
+matched pair of **silicon bronze bushings** can be fitted to the outside
+diameter of the reboared epoxy, giving what's described as a long-lasting,
+"near bullet-proof" rudder pivot assembly.
 
 ## The big rudder as a leeway-reducer
 
@@ -541,3 +581,9 @@ on thin-walled tube generally.
 [42] Archive message page_2663 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2693, 2005-05-08) — "Tiller": laminated a tiller from ash, glued with epoxy that got hot enough to melt the plastic mixing pot; clamped to a forming jig for 24 hours, straightened out (returned to its bent shape) within ten minutes of release; separately made a tiller from 1 in galvanized electrical conduit, free from a scrapyard, bent in about an hour including collection; describes bending tube by drilling an oversized hole in a 4x2 block and sliding the tube through under gentle leverage. Signed "Derek."
 [43] Archive message page_2666 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 2696, 2005-05-08) — "Re: Tiller": judges ash a good tiller material since it bends without breaking and returns to shape, recommending steam-bending in a jig, drying fully, then epoxying, with smaller epoxy batches to avoid overheating; offers a second bending method for thin-walled tube — pack it with sand to prevent kinking, and slip a larger pipe over the ends for leverage, old tire rims making good bender heads. Signed "Jack."
 [44] Archive message page_2668 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2698, 2005-05-08) — "Re: Tiller": expects the sand-packing method would also work with thin-walled tubing; now that he has discovered free galvanized conduit, expects a lot of it to turn up on "Enuf." Signed "Derek."
+[45] Archive message page_3232 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3263, 2005-12-05) — "Rudder construction...": asks why Paradox's rudder blade pivot uses a single bolt rather than the two-cheek-piece side-thrust sandwich common on most lifting rudder blades, and whether the washer/nut eats into the surrounding wood/fiberglass over time. Signed "Alan."
+[46] Archive message page_3233 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3264, 2005-12-05) — "Re: Rudder construction...": no problems with his own; Matt Layden has "many thousands of miles" on Paradox without trouble. Signed "Glen."
+[47] Archive messages page_3234/page_3235/page_3236 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3265, 2005-12-05; Alan, msgnum 3266, 2005-12-06; Jack Gardiner, msgnum 3267, 2005-12-06) — "Re: Rudder construction..." thread: retells his 19 September 2004 beach/trailer incident already narrated in full at [boats/jill.md](/boats/jill.md#a-small-craft-advisory-and-a-rudder-blade-that-saved-the-trailer) (rudder blade used as a traction "bridge" for a stuck truck tire, a passing tug captain's help, only a few small sand scratches); adds that he has since motored/motor-sailed hard with no damaging wear to the silicon bronze washer/bolt/nut, and that the real risk is dragging the blade's leading edge over rocks rather than sand, which Kevlar reinforcement guards against; photos of "JillBaby" from that session are in the group's file section under Paul Raymond's files.
+[48] Archive message page_3237 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3268, 2005-12-06) — "Re: Rudder construction...": asks whether bushings should be fitted in both the stock and the rudder blade around the pivot bolt, since the plans show only plain holes and the fixing sits below the waterline with no stated fix for water ingress. Signed "Bill."
+[49] Archive message page_3238 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3269, 2005-12-06) — "Re: Rudder construction...": recommends drilling the pivot locations oversized, brushing on straight epoxy to saturate the end grain, then filling with thickened epoxy; once cured, reboring the epoxy plugs to the pivot bolt's true diameter gives a smooth-rotating, waterproofed pivot; for a "really deluxe" version, fit matched silicon bronze bushings to the OD of the reboared epoxy for a long-lasting, "near bullet-proof" assembly. Signed "Chris."
+[50] Archive message page_3239 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3270, 2005-12-06) — "Re: Rudder construction...": independently gives the same fix in brief — drill a 3/4 in hole in both stock and rudder for a 1/2 in bolt, fill with epoxy and high-density filler, then rebore for 1/2 in. Signed "Glen."

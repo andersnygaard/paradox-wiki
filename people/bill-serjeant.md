@@ -68,18 +68,25 @@ plywood and trimmed to length once fitted, since the boat's widest point
 ## Contributions to design discussion
 
 Beyond his own build, Bill contributed steadily to design threads: he
-raised the rudder blade's pivot-bolt fixing and a twin-rudder proposal for
-freeing up the transom centerline for an outboard (judged not worth the
-added complexity); asked the self-steering question that produced the
-group's fullest auto-pilot-versus-wind-vane comparison, including the
-specific problem a folding rudder poses for a trim-tab wind vane; and gave
-the archive's clearest one-line classification of Paradox against a
-genuine ocean racer — measured against the Dix-designed Mini Transat 650,
-the two are "as different as chalk and cheese." See
-[design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads),
+raised the rudder blade's pivot-bolt fixing and, over two years later, asked
+how to stop water ingress at that same fixing — whether the stock and blade
+should be bushed around the pivot bolt, since the plans show only plain
+holes below the waterline with no stated waterproofing — answered with an
+epoxy-fill-and-rebore technique from Chris Ostlind and Glen Maxwell; he also
+raised a twin-rudder proposal for freeing up the transom centerline for an
+outboard (judged not worth the added complexity); asked the self-steering
+question that produced the group's fullest auto-pilot-versus-wind-vane
+comparison, including the specific problem a folding rudder poses for a
+trim-tab wind vane; and gave the archive's clearest one-line classification
+of Paradox against a genuine ocean racer — measured against the
+Dix-designed Mini Transat 650, the two are "as different as chalk and
+cheese." See
+[design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads)
+(including [the bushing
+fix](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress)),
 [operations/self-steering.md](/operations/self-steering.md#auto-pilot-versus-wind-vane-self-steering-a-practical-comparison),
 and
-[design/blue-water-suitability.md](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).
+[design/blue-water-suitability.md](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).[28]
 
 He also arranged for Glen Maxwell's *Messing About In Boats* sea-trials
 article to be reproduced on paradox-uk.co.uk as "Zoë's Sea Trials," with
@@ -204,3 +211,4 @@ three eras.
 [25] Archive message page_3184 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3215, 2005-10-10) — "Re: Mast Questions": full masthead-wiring text and citation at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped); in passing, on the "Boat Name" thread, says he is not the best adviser on names, since "Little Jim" only arrived 18 months after he began building, but is sure it's "definitely not Yoyo," which gives "an entirely untrue impression." Signed "Al, Yeovil, England."
 [26] Archive messages page_3181/page_3182/page_3183/page_3187 (william / "williamserjeant" / William Serjeant, msgnum 3212, 2005-10-09; ifida / "Glen C. Maxwell", msgnum 3213, 2005-10-09; dclark / "dclark52001" / Derek Clark, msgnum 3214, 2005-10-09; openboat / "alopenboat" / Alastair, msgnum 3218, 2005-10-15) — "Re: Mast Questions" thread: full text and citations at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
 [27] Archive message page_3194 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3225, 2005-10-20) — "Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+[28] Archive message page_3237 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3268, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).
