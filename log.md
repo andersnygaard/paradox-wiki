@@ -1,5 +1,40 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 304: page_3031-page_3040)
+
+**A second, distinct "Enuf" epoxy failure — a faulty dispensing pump, not a
+mixing error — with a new neat-hardener rescue technique and a mainsheet
+follow-up.** No new files created; four existing files extended.
+
+- **`boats/enuf.md`** — new section "A second epoxy failure: a faulty
+  dispensing pump": a metering-pump batch fails to cure despite fine
+  temperatures; a hand-mixed control sample isolates the fault to the pump
+  (found under-delivering and internally crusted, not a bad mix); Jack
+  Gardiner's test-spot-and-dig-at-it diagnostic; a solvent-safety exchange
+  (acetone/ketones and liver toxicity); Derek's own solvent identification
+  and scraper test confirming the fiberglass bond held; David Platten's
+  neat-hardener-wipe rescue technique; Derek's cooking-aboard aside. Also a
+  short coda closing the mainsheet-fouling thread (Derek's short-shaft-model
+  follow-up to David Beard's already-cited answer). Cites [61]-[70], 70
+  total, no gaps.
+- **`construction/epoxy-coating-technique.md`** — extended "Diagnosing and
+  rescuing a coat that will not cure" with the pump-failure-as-distinct-cause
+  lesson and the neat-hardener rescue technique, cross-linked to
+  `boats/enuf.md`. Cites [78]-[80], 81 total/80 numeric max (pre-existing
+  [29a] suffix unaffected).
+- **`people/jack-gardiner.md`** — narrate-once cross-link for his two
+  epoxy-pump replies. Cite [186], 185 total/186 numeric max (pre-existing
+  [53] gap unaffected).
+- **`people/glen-maxwell/build-and-zoe.md`** — narrate-once cross-link for
+  his acetone-toxicity warning. Cite [241], 241 total, no gaps.
+
+Two new one-off, below-threshold correspondents (Judy Arneson-Johnson,
+posting as "Phil"; David Platten) — neither promoted, per the pruning
+rubric. No genuinely new *builder* correspondents; all ten messages from
+four already-standing identities (Derek Clark, Jack Gardiner, Glen Maxwell,
+Larry/`LJGeib`) plus the two one-off newcomers. Anchor checker: 0 broken
+across 2,329 links. Cursor set to 3040.
+
 ## 2026-07-06 (batch 303: page_3021-page_3030)
 
 **The yard-taper thread continues: a double-cantilever explanation, mast

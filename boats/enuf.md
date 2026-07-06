@@ -157,7 +157,8 @@ asking over a year later whether David had ever gone ahead with the
 travelling-block-and-bar idea he had floated for keeping the sheet off his
 own outboard. David had not: the fouling had never become enough of a
 problem to motivate the fix, though he still believed it would work, and he
-confirmed he was still running the same 2 hp Honda outboard.
+confirmed he was still running the same 2 hp Honda outboard — the same
+short-shaft model Derek had asked him to confirm.[61]
 
 ## The "Enuf" photo-folder mystery, and a thank-you to the list
 
@@ -317,6 +318,61 @@ one would mean the boom would need to lift as the Mk.1 sail is reefed, a
 side effect that could itself cause problems; no build or trial of a
 mast-mounted yard traveller on a Paradox is recorded.[58]
 
+## A second epoxy failure: a faulty dispensing pump
+
+A separate cure failure struck Derek's build the following day, distinct
+from the earlier bottom-coat episode (above): a batch mixed carefully with
+metered dispensing pumps, in a workshop heated to 24°C, simply never went
+off. His supplier stood by the chemistry, having used resin from the same
+batch on a roof job the day before with no problem, so Derek tested it
+himself — filling three 35 mm film canisters, two with resin and one with
+hardener, and hand-mixing a sample with an old paintbrush, which set rock
+hard within about two hours. That isolated the fault to the **dispensing
+pumps themselves** rather than the chemistry: taking the hardener pump apart
+found it was not delivering its full metered stroke, and had also developed
+a self-forming crusty internal deposit — the teardown cost Derek a stray
+ball bearing that shot loose across the workshop. He cleaned both pumps and
+started the coat over.[62][63]
+
+While waiting on the fix, one correspondent's blunter alternative was to
+**stop trusting metered pumps altogether** and measure every batch by volume
+into a marked container instead, judging epoxy too expensive a material to
+risk on a mechanical dispenser's accuracy.[64] Once the pumps were cleaned
+and a fresh coat applied to the bow underside and one side of the rudder
+blade, both set hard, but the same tacky-versus-solid dilemma from the first
+epoxy failure resurfaced on the remaining hull bottom: recoat over the
+already-tacky biax (risking poor adhesion if it later failed) or strip and
+redo it at the cost of new cloth and materials.[65] Jack Gardiner's test was
+to harden a small spot, then dig at it to check whether it had cured solid
+all the way through; if not, clean the area with acetone and add a fresh
+layer.[66]
+
+That acetone suggestion prompted a **safety aside** from Glen Maxwell:
+acetone and similar solvents ("any of the -tones") carry epoxy and its
+toxins through the skin and on into the liver if handled without
+protection, a caution echoed in kind — "same caution applies to the -enes
+and -ols too."[67][68] Derek identified his own solvent as a methoxy/
+propanol mix, already used routinely for tool and hand cleaning, and reported
+a scraper test on the top filler coat: the pigmented top layer lifted off
+easily, and a test patch of the correctly-mixed epoxy peeled away in one
+piece, while the underlying biaxial cloth stayed put, only tacky to the
+touch — confirming the fabric bond itself was sound and the fault was
+confined to the outer coat.[69]
+
+A further rescue technique reached the list only after the immediate crisis
+had passed: a correspondent who had faced an uncured surface of his own
+found that wiping neat, undiluted **hardener** directly onto the uncured
+epoxy brought it off overnight, with the resulting boat (since passed on to
+a family member) holding up with no sign of the patch failing since.[70] See
+[epoxy coating technique — diagnosing and rescuing a coat that will not
+cure](/construction/epoxy-coating-technique.md#diagnosing-and-rescuing-a-coat-that-will-not-cure)
+for how this second, pump-caused failure fits alongside the earlier
+mix-ratio/bad-batch failure as a distinct diagnosable cause.
+
+Derek also spent the down time between epoxy sessions teaching himself to
+cook aboard on a Trangia stove, reasoning a boat meant for extended cruising
+ought to come with at least basic galley skills.[62]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -384,3 +440,13 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [58] Archive message page_3028 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059, 2005-08-03) — "Yard support": notes the sail's geometry carries the yard aft, away from the mast, as it is reefed, with little to hold it close on the starboard tack; recalls a Welsford Houdini dinghy seen at a boat rally, rigged with a similarly reefable lugsail but fitted with a mast-mounted traveller to keep its yard close at all times; asks whether Paradox would benefit from the same arrangement, noting it would require the boom to lift as the Mk.1 sail is reefed, which may itself cause a problem. Signed "Al, Yeovil, England."
 [59] Archive message page_3026 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3057, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": the leather sleeve covers only about 4 in of the mast, at the point the boom rubs when reefed; when sailing reefed the yard rarely rubs in the same place twice and only on the port tack, so no problem there; his mast is epoxy and paint, slowly being sanded back to bare epoxy; does not sail much reefed, generally seeking a quiet corner once wind reaches the top end of Force 4; asks how the petroleum jelly and linseed oil finish is applied. Signed "Al, Yeovil, England."
 [60] Archive message page_3029/page_3027 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3060/3058, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": clarifies for Derek that a shelf bracket or mast is a single cantilever while a seesaw, or one span of the Firth of Forth rail bridge, is a double cantilever (supported at one point, both ends free); bamboo may well work as a yard but would likely need strengthening to avoid being crushed where it presses against the mast. (Derek's own reply at page_3027/msgnum 3058 restates that "it's back to the Douglas Fir" if the yard is a double cantilever, reports shaping the boom that day with an electric plane and a number 5 bench plane, and describes his workshop conditions as the hull cures.) Signed "Al, Yeovil, England."
+[61] Archive message page_3033 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3064, 2005-08-04) — "Re: Mainsheet Fouling Outboard": asks David Beard to confirm whether his 2 hp Honda is the short-shaft model, quoting David's prior reply in full. Signed "Derek."
+[62] Archive message page_3031 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3062, 2005-08-04) — "Enuf Epoxy": a pumped-and-metered batch, mixed carefully in a workshop heated to 24°C, fails to go off; his supplier stands by the chemistry, having used the same batch on a roof job the day before with no problem; a hand-mixed sample in three 35mm film canisters (two resin, one hardener) sets rock hard within about two hours, isolating the fault to the dispensing pumps; teardown finds the hardener pump under-delivering and forming a crusty deposit on its own, and costs Derek a stray ball bearing that shoots across the workshop; cleans both pumps and plans to restart Saturday; separately describes teaching himself to cook aboard on a Trangia stove — bread and a pizza base, "Cordon Bleu and Gordon Ramsey" by his own account. Signed "Derek."
+[63] Archive message page_3032 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3063, 2005-08-04) — "Re: Enuf Epoxy": glad the problem is solved; had suspected a bad hardener ratio; on cooking aboard, agrees it matters when wind and current aren't cooperating — "we are going back to reality... so lets heat it up and enjoy it." Signed "Jack."
+[64] Archive message page_3036 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3067, 2005-08-04) — "Enuf Epoxy": distrusts dispensing pumps outright; measures every batch by volume into a marked container instead, judging epoxy too expensive a material to guess on, and scraping unhardened epoxy off a project "isn't an option in my book." Signed "Phil."
+[65] Archive message page_3034 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3065, 2005-08-04) — "Re: Enuf Epoxy": once the pumps were working again, fresh mix on the bow underside and one side of the rudder blade both set hard; poses the recoat-over-tacky-biax-versus-strip-and-redo dilemma again, weighing the cost of new cloth and epoxy (already an expensive sheathing job) against the risk the recoat peels off on first beaching; has 36 hours to decide before a family outing. Signed "Derek."
+[66] Archive message page_3035 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3066, 2005-08-04) — "Re: Enuf Epoxy": recommends hardening a small test spot, then digging at it to check whether it cured solid all the way through; if not, clean the area off with acetone and add another layer.
+[67] Archive message page_3037 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3068, 2005-08-05) — "Re: Enuf Epoxy": cautions that acetone, or any of the "-tones," should be handled with skin protection, since it will carry epoxy and its toxins through the skin and into the liver. Signed "Glen."
+[68] Archive message page_3038 (LJGeib / "Larry," `paradoxbuilders`, msgnum 3069, 2005-08-05) — "Re: Enuf Epoxy": jokes that "the same caution applies to the -enes and -ols too. Some of the -ides aren't so good for you either." Signed "Larry." (See [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint) for this correspondent's standing disambiguation from Larry Whited.)
+[69] Archive message page_3039 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3070, 2005-08-05) — "Re: Enuf Epoxy": identifies his own solvent as a methoxy/propanol mix, already used for tool and occasional hand cleaning; a scraper test finds the pigmented top filler coat lifts off easily, and a test patch of the correctly-mixed epoxy strips off in one piece, while the underlying biaxial cloth stays put, only tacky to the touch; asks whether the plan is to strip the top coating, clean with solvent, and re-epoxy with a properly measured mix. Signed "Derek."
+[70] Archive message page_3040 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3071, 2005-08-05) — "Re: Unfolding Calamity for Enuf": returning from holiday, offers a non-scientific fix used on his own past cure failure — wiping neat, undiluted hardener over the uncured surface, which went off overnight; the boat was later given to his sister and the patch has shown no sign of failing since. Signed "David."

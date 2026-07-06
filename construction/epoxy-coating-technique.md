@@ -649,6 +649,25 @@ suppliers than to pursue a claim. Full story at
 [boats/enuf.md — the epoxy that wouldn't
 cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76][77]
 
+**A metering-pump failure as a distinct cause, and a neat-hardener rescue.**
+A slow or failed cure is not always a human mixing-ratio mistake: a batch
+dispensed carefully through metered pumps can still fail if a pump itself
+is under-delivering, since a pump can develop a crusty internal deposit or
+simply stop moving its full stroke without any outward sign of malfunction.
+Hand-mixing a small sample of the same resin and hardener in separate
+containers, by volume rather than through the suspect pumps, isolates a
+pump fault from a genuine bad batch of chemistry — a sample that sets hard
+points to the pumps, not the resin. One correspondent distrusts metering
+pumps altogether for exactly this reason, preferring to measure every batch
+by volume into a marked container given how costly epoxy is to waste.
+Separately, wiping **neat, undiluted hardener** directly onto an
+already-uncured surface is a further reported rescue technique distinct
+from the sun/acetone remedies above — one builder's cure failure went off
+overnight after this treatment, with the patch showing no sign of later
+failure. Full story, including the pump teardown, at [boats/enuf.md — a
+second epoxy failure: a faulty dispensing
+pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][80]
+
 # Citations
 
 [1] Archive message page_171 (Chris Becker, `paradoxbuilders`, 2001-12-15) — "It's a Start!": asks whether to resin-soak plywood as cut pieces, as virgin 8×4 sheets, or near final assembly.
@@ -729,3 +748,6 @@ cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76][77]
 [75] Archive message page_2995 ("Gene T." / `goldranger02-boats` / `tehansky`, `paradoxbuilders`, msgnum 3026, 2005-07-31) — "Re: Enuff Update": replying to Derek Clark's red-bottom/green-topsides paint-scheme post, likes graphite mixed into the epoxy for the final bottom coats — hard to gouge and skids over obstructions more easily, "so they say." Signed "Gene T."
 [76] Archive messages page_3004/page_3005/page_3006/page_3007/page_3008/page_3009/page_3010 (`paradoxbuilders`, msgnums 3035-3041, 2005-08-02) — "Unfolding Calamity for Enuf" / "Re: Unfolding Calamity for Enuf": Derek Clark's hull-bottom epoxy coat fails to cure 24 hours after application; full text and citations at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
 [77] Archive messages page_3011/page_3012 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnums 3042-3043, 2005-08-02) — "Re: Unfolding Calamity for Enuf": recommends an acetone rag-wipe and sun cure to rescue a coat contaminated by unmixed chemistry; separately notes a genuinely bad or mislabeled batch of resin/hardener cannot be rescued by any remedial technique, and that suppliers typically warrant only their own product; full text and citations at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
+[78] Archive message page_3031 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3062, 2005-08-04) — "Enuf Epoxy": a metered-pump batch fails to cure despite fine temperatures and a supplier vouching for the chemistry; a hand-mixed sample sets hard within two hours, isolating the fault to the hardener pump, which teardown finds under-delivering and internally crusted; full text and citations at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).
+[79] Archive message page_3036 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3067, 2005-08-04) — "Enuf Epoxy": distrusts dispensing pumps outright, measuring every batch by volume into a marked container instead, given how costly epoxy is to waste; full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "Phil."
+[80] Archive message page_3040 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3071, 2005-08-05) — "Re: Unfolding Calamity for Enuf": wiping neat, undiluted hardener onto an uncured surface brought it off overnight in his own past cure failure, with no sign of the patch failing since; full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
