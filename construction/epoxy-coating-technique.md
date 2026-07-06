@@ -614,6 +614,28 @@ traditional foul-weather gear. Building in the UK, he expected the country's
 improving weather to give him the warm, dry days amine-blush-free finishing
 needs.[73]
 
+## Diagnosing and rescuing a coat that will not cure
+
+A hull-bottom coat that is still uncured a full 24 hours after application,
+with ambient temperatures otherwise fine, is usually a **mix-ratio, contamination, or
+bad-hardener problem**, not a hopeless one. A sun/black-plastic-sheeting
+post-cure over a full day traps solar heat and can push a slow coat the rest
+of the way (commercial boatbuilding epoxies tolerate a post-cure of up to
+200°F for about two hours); progress can be checked by pressing a fingernail
+or screwdriver tip into the surface for uniform resistance. Testing the same
+mix and ratio on a scrap piece isolates the cause. Critically, **adding more
+hardener to an already-mismixed coat does not help**: epoxy cures by
+molecular bonding between resin and hardener in a fixed ratio, unlike
+polyester's generic catalyzed reaction, so extra hardener cannot rescue a
+batch that was mixed wrong to begin with — the only remaining fix at that
+point is to scrape the coat off and start over, though a fully hardened
+(if botched) coat is still easier to sand off than one that stays
+permanently tacky. The one exception is a coat where only resin, with no
+hardener, ever reached the wood: there, adding hardener afterward can still
+seal the wood and save the fiberglass cloth already laid up. Full story at
+[boats/enuf.md — the epoxy that wouldn't
+cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76]
+
 # Citations
 
 [1] Archive message page_171 (Chris Becker, `paradoxbuilders`, 2001-12-15) — "It's a Start!": asks whether to resin-soak plywood as cut pieces, as virgin 8×4 sheets, or near final assembly.
@@ -692,3 +714,4 @@ needs.[73]
 [73] Archive message page_2724 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2755, 2005-06-04) — "Re: Finish": feeling better; reports the hull near complete — decks, chine-runner trimming, full fiberglassing, the cabin top, and the mast/spars (blanks cut, not yet glued) still to go; plans to skip traditional foul-weather gear, trusting Paradox's get-under-cover "Stock" style instead; mentions a borrowed folding Moulton Stowaway bicycle stowed up forward for shore trips; expects the UK's improving weather to give him the warm, dry conditions amine-blush-free finishing needs; enjoyed the Alaska link but "can't imagine being that intrepid." Signed "Derek."
 [74] Archive messages page_2953/page_2955/page_2956 (CarolFo / "cheepwings" / Robert, msgnum 2984; ifida / "Glen C. Maxwell", msgnum 2986; wtorry / "wayneski812" / Wayne, msgnum 2987, `paradoxbuilders`, 2005-07-24) — "Re: please help!!!": Robert asked who/what "FGCI" (an epoxy price quoted by Wayne) was; Glen Maxwell identified it as Fiber Glass Coatings Inc. of St. Petersburg, FL, and reported using their 5:1 mix for about 12 years, finding it hard to tell the difference from WEST System once mixed beyond a somewhat thicker hardener; Wayne separately answered "use Google, that's how I find things." Signed "Glen" / "Wayne, In the Swamp."
 [75] Archive message page_2995 ("Gene T." / `goldranger02-boats` / `tehansky`, `paradoxbuilders`, msgnum 3026, 2005-07-31) — "Re: Enuff Update": replying to Derek Clark's red-bottom/green-topsides paint-scheme post, likes graphite mixed into the epoxy for the final bottom coats — hard to gouge and skids over obstructions more easily, "so they say." Signed "Gene T."
+[76] Archive messages page_3004/page_3005/page_3006/page_3007/page_3008/page_3009/page_3010 (`paradoxbuilders`, msgnums 3035-3041, 2005-08-02) — "Unfolding Calamity for Enuf" / "Re: Unfolding Calamity for Enuf": Derek Clark's hull-bottom epoxy coat fails to cure 24 hours after application; full text and citations at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).

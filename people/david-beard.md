@@ -118,6 +118,12 @@ built fix — a brass rod fairlead bar across the transom — and showed
 "Whisper" at the Josephine, AL Wooden Boat Festival that same spring; see
 [Whisper — a Wooden Boat Festival appearance, and sea trials at Pirates
 Cove](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove).
+Asked over a year later whether he had gone on to add a travelling block as
+well, David confirmed he had not — the fouling had never become enough of a
+problem to justify it, though he still believed it would work — and
+reconfirmed he was still running the same 2 hp Honda. See [rig and sail —
+mainsheet fouling on the rudder and rear deck with an outboard
+fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
 From the same sea trials, he also reported rebuilding "Whisper"'s
 **chine runners**, which before the re-fit had been far out of shape and
 location; careful rebuilding got them within 1-2 mm of correct, "the
@@ -628,3 +634,4 @@ wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [240] Archive message page_2725 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2756, 2005-06-05) — "Heart Pine & Epoxy": full text and citation at [design/rig.md](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [241] Archive message page_2727 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2758, 2005-06-04) — "Re: Heart Pine & Epoxy": full text and citation at [design/rig.md](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [242] Archive message page_2872 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2903, 2005-07-01) — "Re: Tack tiedown, and dangerous assumptions": full text and citation at [design/rig.md](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension); had the identical problem, solved for good with bronze (brass) Schedule 40 pipe. Signed "David Beard, Paradox 'Whisper.'"
+[243] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).

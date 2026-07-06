@@ -149,6 +149,16 @@ build, reasoning that as a diabetic he could not rely on extended sculling
 stamina and that the motor would make better headway against contrary wind
 or tide regardless.
 
+Derek also followed up directly on [David Beard](/people/david-beard.md)'s
+own transom-mounted mainsheet fix for "Whisper" (see [rig and sail —
+mainsheet fouling on the rudder and rear deck with an outboard
+fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)),
+asking over a year later whether David had ever gone ahead with the
+travelling-block-and-bar idea he had floated for keeping the sheet off his
+own outboard. David had not: the fouling had never become enough of a
+problem to motivate the fix, though he still believed it would work, and he
+confirmed he was still running the same 2 hp Honda outboard.
+
 ## The "Enuf" photo-folder mystery, and a thank-you to the list
 
 Late in the build, Jack Gardiner uploaded pictures of Derek's "Enuf" build to
@@ -168,7 +178,44 @@ the mix of Paradox-specific and general building, sailing, and life
 knowledge he had drawn on, adding that he could not have gotten "Enuf" this
 far without the group. [Glen Maxwell](/people/glen-maxwell.md) closed out the
 exchange in his usual style, thanking Derek for the finished photos of
-"Enuf."
+"Enuf." Derek separately caught and corrected his own surname-origin aside
+from the same thank-you post the next day — he had written "Molduc" rather
+than "Bolduc" — joking that diabetes "does strange things to the mind."
+
+## The epoxy that wouldn't cure
+
+Coating and sheathing "Enuf"'s hull bottom with his son, Derek found the
+epoxy still uncured a full 24 hours later, despite temperatures that had
+been fine; he suspected a bad mix ratio, blamed himself rather than his son
+for the error, and estimated roughly £120 of wasted materials if the coat
+had to be stripped off.
+
+Two remedies emerged, aimed at different causes. For epoxy that is simply
+slow rather than dead, the fix is a **sun/heat post-cure**: wheel the hull
+out into direct sun for a full day, and wrap it in black plastic sheeting
+(the kind sold for killing garden weeds) to trap solar heat and accelerate
+the cure — commercial boatbuilding epoxies tolerate a post-cure of up to
+200°F for about two hours without concern. Progress can be checked by
+lifting the plastic periodically and pressing a fingernail or screwdriver
+tip into the surface; uniform resistance across the hull means the coat has
+kicked. A bad mix ratio, contamination, or a bad batch of hardener can each
+cause a slow or failed cure, and testing the same epoxy and ratio on a
+scrap piece isolates which of those is at fault.
+
+For epoxy that genuinely will not kick, **adding extra hardener does not
+help**: epoxy cures by molecular bonding between resin and hardener
+molecules in a fixed ratio (for example 5:1), not by a generic chemical
+reaction that more catalyst can push forward the way it can with polyester
+resin — unlike a polyester layup, dosing an already-mismixed epoxy coat
+with more hardener will not rescue it. If the post-cure procedures fail,
+the only remaining option is to **scrape the failed coat off** and start
+over, though a hardened, if botched, coat is still easier to sand off than
+one that stays permanently tacky. A partial exception applies if only
+resin, with no hardener at all, reached the wood: in that case the wood
+itself may simply have absorbed straight resin, and adding hardener
+afterward could still seal the wood and salvage the fiberglass cloth
+already laid up, even if it does not rescue a properly-mixed-but-failed
+coat.
 
 ## See also
 
@@ -212,3 +259,11 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [33] Archive message page_2676 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2676, 2005-05-02) — "Re: Mainsheet and outboard": floats welding the rear mooring cleats onto the horse itself; separately asks whether running the sheet in through the top of the rear deck, above the tiller baffle, would let water on the sheet drain back out. Signed "Derek."
 [34] Archive message page_2678 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2678, 2005-05-02) — "Re: Mainsheet and outboard": intends to keep his clutch-and-reverse-less Seagull outboard as well as build a yuloh, since as a diabetic he cannot rely on extended sculling stamina, and judges the motor will make better headway against contrary wind or tide regardless. Signed "Derek."
 [35] Archive messages page_2991/page_2994/page_2996/page_2997/page_2999/page_2998/page_3000 (`paradoxbuilders`, msgnums 3022-3031, 2005-07-31 to 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": the "Enuf" photo-folder mystery and Derek Clark's closing thank-you to the list; full text and citations at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-enuf-photo-folder-mystery-and-jack-gardiners-own-website).
+[36] Archive message page_3001 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3032, 2005-08-01) — "Mainsheet Fouling Outboard": asks David Beard, referencing his own post "2054ish," whether he ever fitted a bar and travelling block on the transom to keep the mainsheet off his outboard, and whether he is still using the 2 hp Honda. Signed "Derek."
+[37] Archive message page_3002 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3033, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": catches his own "Molduc" typo for "Bolduc" from the prior day's thank-you post, blaming it on "this diabetes."
+[38] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": has not fitted the travelling block, since the fouling has not been enough of a problem to motivate it, though he believes it would work; confirms he still uses the 2 hp Honda, "great outboard." Signed "David Beard."
+[39] Archive message page_3004 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3035, 2005-08-02) — "Unfolding Calamity for Enuf": he and his son coated and sheathed the hull bottom the previous day; 24 hours later the epoxy has not set despite fine temperatures; suspects a bad mix; estimates about £120 of wasted materials if it must be stripped off. Signed "Derek."
+[40] Archive message page_3005 (wtorry / "wayneski812" / Wayne, `paradoxbuilders`, msgnum 3036, 2005-08-02) — "Re: Unfolding Calamity for Enuf": advises giving it a week and trying moderate applied heat; "these things happen and it isn't always the fault of the builder." Signed "Wayne, In the Swamp."
+[41] Archive message page_3006 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3037, 2005-08-02) — "Re: Unfolding Calamity for Enuf": recommends a sun/black-plastic-sheeting post-cure for the whole day, noting commercial boatbuilding epoxies tolerate a post-cure of up to 200°F for about two hours; describes checking progress with a fingernail or screwdriver tip for uniform resistance; suggests testing the same mix on scrap to isolate a bad mix ratio, contamination, or a bad batch of hardener as the cause. Signed "Chris."
+[42] Archive messages page_3007/page_3009/page_3010 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnums 3038/3040/3041, 2005-08-02) — "Re: Unfolding Calamity for Enuf": suggests mixing a higher hardener ratio and working it into the uncured coat to try to kick the resin, reasoning a hardened (if botched) coat is still easier to sand off than a permanently tacky one; the next day, separately suggests removing the first layer of cloth if it can be lifted and recoating, using acetone sparingly as a thinner/cleaner; then reasons that if only resin (no hardener) reached the wood, adding hardener afterward could still seal the wood and save the fabric already laid up. Signed "Jack."
+[43] Archive message page_3008 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3039, 2005-08-02) — "Re: Unfolding Calamity for Enuf": explains that epoxy cures by molecular bonding between resin and hardener molecules in a fixed ratio (e.g. 5:1), unlike polyester's generic chemical reaction, so extra hardener will not rescue an already-mismixed batch; if it will not set after the recommended post-cure procedures, "the only thing to do is scrape it off." Signed "Glen."

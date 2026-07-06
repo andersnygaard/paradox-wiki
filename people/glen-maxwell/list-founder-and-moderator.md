@@ -492,7 +492,10 @@ Beard, and Dave Bolduc among them — for the mix of Paradox-specific and
 general building, sailing, and life knowledge he had drawn on as his own
 build neared launch, adding that he could not have gotten "Enuf" this far
 without the group.[105] Glen closed out the exchange in his usual style,
-thanking Derek for the finished photos of "Enuf."[106]
+thanking Derek for the finished photos of "Enuf."[106] Derek returned the
+next day to correct his own surname-origin aside from that same post — he
+had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
+"this diabetes."[107]
 
 # Citations
 
@@ -602,3 +605,4 @@ thanking Derek for the finished photos of "Enuf."[106]
 [104] Archive message page_2999 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3030, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": "http://members.cox.net/alex29/ — Here ya go."
 [105] Archive message page_2998 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3029, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": suspects Don Elliott himself may be behind the folder mix-up, having seemed to know of Derek's ballast question, but says Don remains a fellow Paradox builder and sailor with useful contributions to make and has always been helpful to him; thanks the group as a whole, naming Nels, Chris, Bill, David, Jack, and Dave among others, for Paradox-specific and general building/sailing/life knowledge as launch nears; jokes about the variety of surnames on the list (French, Swedish, Norwegian, Anglo-Saxon) and asks in passing whether "Molduc" is East European. Signed "Derek."
 [106] Archive message page_3000 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3031, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": "Thanks Derek, she looks great!" Signed "Glen."
+[107] Archive message page_3002 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3033, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": "Molduc?????? Apologies - I meant Bolduc, of course. This diabetes does strange things to the mind :0)" Signed "Derek."

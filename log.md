@@ -1,5 +1,67 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 301: page_3001-page_3010)
+
+**Two new episodes on Derek Clark's "Enuf" build, plus a long-standing
+mainsheet/outboard question finally answered.** No new files created; six
+existing files extended.
+
+- **`boats/enuf.md`** — new section "The epoxy that wouldn't cure": Derek
+  Clark's hull-bottom epoxy coat fails to set 24 hours after application;
+  Wayne ("In the Swamp") suggests patience and moderate heat; Chris Ostlind
+  gives the fullest post-cure recipe on record (sun plus black plastic
+  sheeting, fingernail/screwdriver-tip resistance test, up to 200°F for two
+  hours); Jack Gardiner and Glen Maxwell debate whether more hardener can
+  rescue an already-mismixed coat — Glen's molecular-bonding-versus-polyester
+  explanation settles it (no, except where only resin with no hardener ever
+  reached the wood). Also extended the "Mainsheet, mast, and outboard"
+  section with Derek's follow-up to David Beard on the transom
+  travelling-block idea, and closed the "photo-folder mystery" section with
+  Derek's own "Molduc"→"Bolduc" self-correction. Cites [36]-[43], 43 total.
+- **`design/rig.md`** — resolved the standing "remains an open question" note
+  under "Mainsheet fouling on the rudder and rear deck with an outboard
+  fitted": David Beard confirms, over a year after his transom-rod fix, that
+  he never added a travelling block (never enough of a problem to justify
+  it) and still runs the same 2 hp Honda. Cites [218]-[219], 219 total.
+- **`construction/epoxy-coating-technique.md`** — new section "Diagnosing and
+  rescuing a coat that will not cure," generalizing the Enuf epoxy-cure
+  failure into a durable technique (sun/heat post-cure, scrap-test to isolate
+  mix-ratio/contamination/bad-hardener causes, why extra hardener can't
+  rescue a bad mix, when to scrape and restart), cross-linked to the full
+  story on `boats/enuf.md`. Cite [76], 76 total.
+- **`people/david-beard.md`** — added David's answer on the travelling block
+  and 2 hp Honda, cross-linked to `design/rig.md`. Cite [243], 243 total
+  (renumbered up from an initial [240] draft after discovering the file's
+  citation list is not in strict ascending order past [239] — true max was
+  242, not 239; no pre-existing citation touched).
+- **`people/jack-gardiner.md`** — citation-only pointer for his three
+  epoxy-troubleshooting replies, per the file's standing "full text and
+  citation at" convention for Enuf-related content. Cite [184], 184 total
+  (pre-existing [53] gap unaffected).
+- **`people/glen-maxwell/build-and-zoe.md`** — citation-only pointer for
+  Glen's epoxy-chemistry explanation. Cite [240], 240 total.
+- **`people/glen-maxwell/list-founder-and-moderator.md`** — one-sentence
+  addendum to the existing "Enuf photo-folder mystery" section closing
+  paragraph for Derek's "Molduc"/"Bolduc" correction. Cite [107], 107 total.
+
+No genuinely new correspondents — all ten messages from four already-standing
+identities (Derek Clark/`dclark52001`, David Beard/`buster38801`, Jack
+Gardiner/`alex29`/`tidybowlmann` posting as "John Gardiner", Glen Maxwell/
+`ifida2000`) plus two established below-threshold commentators (Wayne/
+`wtorry`/`wayneski812`, "In the Swamp"; Chris Ostlind/`wedgesail`). Derek
+Clark authored 3 of 10 messages; his Enuf-build content continues to land on
+the now-promoted `boats/enuf.md` + `people/derek-clark.md` pair per the
+post-3000 review, not scattered. Attribution checks: David Beard (`dlb@`/
+`buster38801`) confirmed distinct from David LeBlanc throughout; Jack
+Gardiner confirmed distinct from John Hall; no two-UK-Jeffs/three-Larrys/
+two-Roberts-Rons collisions triggered. Jason Stancil identity-reconcile and
+the Jeff-UK/botebilder identity items remain open, untouched this batch.
+msgnum run 3032-3041 confirmed distinct and consecutive, continuing from
+batch 300's last msgnum 3031; standing archive gaps at 2122/2190/2229/2385/
+2611/2614/2753 unaffected, no new gaps. All ten source byte sizes matched
+the dispatch table exactly. Archive timeline reached 2 August 2005. Anchor
+checker: 0 broken across 2,307 links. Cursor set to 3010.
+
 ## 2026-07-05 (user-directed: Andrew Layden site ingested; Mini Paradox = Enigma, page merged & deleted)
 
 **Ingested Andy Layden's BGSU site** as a new Reference concept

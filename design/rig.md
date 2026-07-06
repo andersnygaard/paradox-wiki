@@ -911,6 +911,13 @@ A variant of the same tangle problem — whether leading the mainsheet in over
 the top of the rear deck, at that level, would help keep the sheet clear of
 an outboard mounted there — remains an open question.
 
+Asked more than a year after building his transom-mounted rod fix, David
+Beard confirmed he had never gone on to add a travelling block, since the
+fouling had not become enough of a problem to motivate the extra work,
+though he still expected it would help; he also confirmed he was still
+running the same 2 hp Honda outboard he had used throughout "Whisper"'s
+sea trials.
+
 ### A horse fitted to clear the outboard, and the mainsheet-angle physics behind it
 
 A concrete fitting answers the same mainsheet/outboard tangle question: a
@@ -1516,3 +1523,5 @@ figure against their own plan set before cutting.[184]
 [215] Archive message page_2931 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2962, 2005-07-21) — "Re: Mainsheet and outboard": the yuloh is excellent as a power source once the wind drops, but with any wind blowing it is hard work to make progress in any direction but downwind, since the yuloh's thrust acts so far aft that stopping the bow blowing off is difficult; fine for manoeuvring in a marina, but any long-distance windward work would soon tire the sculler. Signed "Al, Yeovil, England."
 [216] Archive message page_2986 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3017, 2005-07-30) — "Jack gardiner's Tack Strut & Boom Axle": has uploaded four pictures to the group's Photos section, filed in his own "Enuf" folder since it happened to be empty (his other photos ended up on Don Elliott's rival group instead); apologizes to Jack Gardiner for the delay in posting them. Signed "Derek."
 [217] Archive message page_2990 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3021, 2005-07-31) — "Re: Jack gardiner's Tack Strut & Boom Axle": describes his own pivot-joint fabrication in full — a sheave (for the furling rope) mounted on a plate seized to the axle via a hose clamp; a sleeve built up from the same pipe stock to enlarge the axle's diameter, spinning freely so the joint finds its own angle without binding; two hose-clamp stops for now, with a planned upgrade to formal stops machined from the same brass pipe, drilled, tapped, and fitted with an adjustable set screw, brazing on a nut first if the wall proves too thin to hold threads; notes the retaining bolt's threads are already worn thin from use and describes moving to a locking nut and the next bolt size up (1/8 in shown); made the pipe's end notches with a fiber-disk cutoff wheel, though drilling and hacksawing them out and sanding the edges would also work. Signed "Jack."
+[218] Archive message page_3001 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3032, 2005-08-01) — "Mainsheet Fouling Outboard": asks David Beard, referencing his own post "2054ish," whether he ever fitted a bar and travelling block on the transom to keep the mainsheet off his outboard, and whether he is still using the 2 hp Honda. Signed "Derek."
+[219] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": has not fitted the travelling block, since the fouling has not been enough of a problem to motivate it, though he believes it would work; confirms he still uses the 2 hp Honda, "great outboard." Signed "David Beard."
