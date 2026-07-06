@@ -360,6 +360,8 @@ archive's practical seamanship authority:
 - [Hull speed](/operations/hull-speed.md) — the 1.3 × √(waterline) formula
   (≈4.76 kt for "Zoë"), backed by logged GPS data of 5.9–6.1 kt sustained
   broad-reaching off Clearwater and 6.3 kt maximum.
+- [Pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway) —
+  never experienced at anchor, and only on rare occasions while sailing.
 - [Pointing and tacking angles](/operations/pointing-and-tacking-angles.md) — the
   archive's only concrete figures: ~110° tacking sailed to foot, ~90° pointing
   high but with disappointing performance, plus a practical bow-down trim check.

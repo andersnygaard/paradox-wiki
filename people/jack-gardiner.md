@@ -806,6 +806,19 @@ from an acceptable small spike knot. See [boats/enuf.md — finishing the
 spars: epoxy, varnish, and knots in the
 boom](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[188][189]
 
+When Derek's replacement boom timber turned up its own knot, Jack joined Jeff
+(UK) in urging a whole new boom over a spliced repair, telling his own
+"first sail" cheering-section story as the stakes of a boom failing at the
+worst moment. See [boats/enuf.md — the boom knots
+thread](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[191]
+
+Answering a newcomer's pounding question, Jack reported no pounding
+experienced himself, though the boat tosses spray, and guessed Matt Layden's
+V-bottomed Enigma bow might be aimed at reducing that spray and gaining a
+little speed. See [sailing characteristics — pounding: rare at anchor,
+occasional
+underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[192]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -998,3 +1011,5 @@ boom](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[1
 [188] Archive message page_3086 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3117, 2005-08-17) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 [189] Archive message page_3088 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3119, 2005-08-17) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 [190] Archive message page_3099 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3130, 2005-08-18) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
+[191] Archive message page_3123 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3154, 2005-09-04) — "Re: Boom Knots": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
+[192] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).

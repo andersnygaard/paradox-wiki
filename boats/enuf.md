@@ -648,6 +648,45 @@ Derek with a fault-free offcut he judged good enough to make a small canoe
 mast from. The episode closed the "Knotty Stituation" saga with the supplier
 fully making good on its guarantee.[115]
 
+The replacement Douglas fir itself then turned up its own knot, 1.7 m from
+the roller, prompting a second, separate "Boom Knots" thread on how much of
+the boom to salvage. Derek's first plan was to cut out the knotty section and
+splice in a short new piece using a mortise-and-tenon joint (dowelled through
+for extra security), reasoning it would need no more gluing area than roughly
+4 in of jointing face. Jeff (UK) argued strongly against any spliced repair:
+timber must be joined with a proper **scarf joint of at least 8:1** (so 16 in
+of overlap for 2-in-thick stock), not a mortise and tenon, since any of the
+four resulting scarf faces being out of true by even a fraction of a degree
+would leave the finished spar with a visible kink — a risk compounded by
+using three separate pieces of wood rather than one continuous length; his
+advice was simply to make the boom from the new piece outright rather than
+live with a kinked spar in the sailor's eyeline on every point of sail.
+Jack Gardiner agreed, warning that a boom which fails is likely to fail
+under the load of a reef, at the worst possible moment, and told his own
+"first sail" story as the stakes: a fickle wind pinned him in a muddy cove
+in front of a shoreside audience of retired locals on his first-ever sail,
+several failed tacks before he freed the rudder slightly and eased the
+sheet to get clear, and the onlookers who "didn't think you were going to
+make it" became a standing "cheering section" that has kept an eye on his
+truck and trailer ever since — the kind of goodwill, he argued, not worth
+risking on a spliced boom's kinked or broken spar in front of them. Derek
+accepted the advice, clarifying he had actually meant a birdsmouth scarf
+rather than a true mortise and tenon, and made the boom from the single new
+piece of timber.[124][125][126][127]
+
+## Tack strop fork: a reinforcing bridge piece, and an improvised forge
+
+Following through on the bridge piece across the joint he had promised Bill
+Serjeant a photograph of, Derek silver-soldered an extra brass plate across
+the tack strop fork, built a small improvised forge for the job by lining a
+biscuit tin with fire bricks taken from a fireplace — using noticeably less
+gas to reach soldering heat than working in the open — and posted the
+finished photographs to the "Enuf" folder. As a fallback if the reinforced
+fork was not strong enough, he considered slitting a further length of
+15mm copper pipe and forcing it over the existing tube before soldering the
+two together, matching the copper-pipe approach he understood a fellow
+builder ("Al") to be using for the same fitting.[128]
+
 ## Storing and stepping the mast
 
 Planing the assembled mast blank square on one side, Derek found the epoxy
@@ -806,3 +845,8 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [121] Archive message page_3112 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3143, 2005-08-29) — "Re: Tack Strop Fork": asks Derek to post a picture of the finished fork, "a picture is worth more than a thousand words." Signed "Bill."
 [122] Archive message page_3116 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3147, 2005-08-29) — "Re: Tack Strop Fork": will post a picture in a couple of days; plans to also add a small bridge piece across the joint for extra strength, again trusting his metalworking skills. Signed "Derek."
 [123] Archive message page_3113 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3144, 2005-08-29) — "Re: Mast Up": back from a few days sailing Poole Harbour in hot, sunny weather; rowed across a calm morning despite a droning fishing boat elsewhere in the harbour; another sculler present, bound for Redcliffe several miles on and equipped with a motor, also chose to row for a while before a breeze let him hoist sail. Signed "Al, Yeovil, England."
+[124] Archive message page_3121 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3152, 2005-09-04) — "Boom Knots": the replacement Douglas fir piece has its own knotty section, 1.7 m from the roller; proposes cutting it out and splicing in a new short section with a mortise-and-tenon joint (dowelled through for extra security) rather than making a whole new boom; three photographs posted to the "Enuf" photo folder. Signed "Derek."
+[125] Archive message page_3122 (apcf14 / "roverticket" / Jeff (UK), `paradoxbuilders`, msgnum 3153, 2005-09-04) — "Re: Boom Knots": argues against any spliced repair — timber must be joined with a proper scarf joint of at least 8:1 (16 in overlap for 2-in stock), not a mortise and tenon; any of the four resulting scarf faces out of true by a fraction of a degree would leave a visible kink, a risk worsened by using three pieces rather than one; recommends simply making the boom from the new piece of wood outright. Signed "Jeff UK."
+[126] Archive message page_3123 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3154, 2005-09-04) — "Re: Boom Knots": urges Derek to build a new boom rather than repair the knotted one, warning a boom is most likely to fail exactly when the wind is almost too much to handle and the sailor is trying to reef; tells his own first-ever-sail story — pinned in a muddy cove by fickle wind in front of a row of onlookers in lawn chairs, several failed tacks before freeing the rudder slightly and easing the sheet to get clear — after which the onlookers became a standing "cheering section" that has watched his truck and trailer ever since; asks how Derek would explain a snapped boom to that same audience. Signed "Jack."
+[127] Archive message page_3124 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3155, 2005-09-04) — "Re: Boom Knots & Jack and Jeff": accepts the advice and will make a new boom; clarifies he had actually meant a birdsmouth scarf rather than a true mortise and tenon. Signed "Derek."
+[128] Archive message page_3125 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3156, 2005-09-04) — "Tack Strop Fork": silver-soldered an extra brass plate across the tack strop fork as the promised reinforcing bridge piece, using an improvised forge (fire bricks from a fireplace lined in a biscuit tin, using noticeably less gas than in the open); photographs posted to the "Enuf" folder; as a fallback if not strong enough, considered slitting a further length of 15mm copper pipe and forcing it over the existing tube before soldering, matching what he understood "Al" to be using for the same fitting. Signed "Derek."

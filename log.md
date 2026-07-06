@@ -1,5 +1,66 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 313: page_3121-page_3130)
+
+**A second boom knot forces Derek to build a whole new boom (Jeff UK and Jack
+Gardiner talk him out of a spliced repair), the tack strop fork's promised
+bridge piece gets silver-soldered with an improvised forge, and a newcomer's
+"Pounding?" question draws a three-owner consensus — rare underway, unknown at
+anchor — that name-checks Matt Layden's new V-bottomed Enigma design.** No new
+person or boat pages created this batch; two existing files extended with new
+content under existing/new sub-headings, three person pages gained short
+cross-link summaries.
+
+- **`boats/enuf.md`** — extended "Finishing the spars: epoxy, varnish, and
+  knots in the boom" with a second, separate "Boom Knots" thread: Derek's
+  free replacement timber turned up its own knot; his proposed
+  mortise-and-tenon splice repair drew firm pushback from Jeff (UK) (a
+  proper 8:1 scarf is the only sound joint; three pieces risk a kinked
+  spar) and Jack Gardiner (a boom fails at the worst moment; told his own
+  first-sail "cheering section" story); Derek agreed to make a whole new
+  boom. New heading "Tack strop fork: a reinforcing bridge piece, and an
+  improvised forge": Derek silver-soldered the promised bridge piece using
+  a biscuit-tin-and-firebrick improvised forge, posted photos, and noted a
+  copper-pipe fallback. Cites [124]-[128], 128 total/128 max, no gaps.
+- **`operations/sailing-characteristics.md`** — new section "Pounding:
+  rare at anchor, occasional underway": a newcomer's question (prompted by
+  Enigma's V-bottom bow) drew Glen Maxwell, Jack Gardiner, and David
+  Beard's converging answers — pounding at anchor essentially unknown,
+  underway rare and at most occasional spray; Jack speculated the V-bow
+  targets that spray/a little extra speed rather than answering a real
+  pounding problem on stock Paradox. Cites [42]-[45], 45 total/45 max, no
+  gaps (the file's true max was 41 before this batch, not the higher count
+  a whole-file bracket search suggests — verified within the `# Citations`
+  block only).
+- **`people/jack-gardiner.md`** — two new cross-link paragraphs under
+  "Contributions" (boom-knots advice, pounding answer), narrate-once-
+  cross-link style. Cites [191]-[192], 191 total/192 numeric max
+  (pre-existing +1 gap preserved).
+- **`people/david-beard.md`** — one new cross-link paragraph under
+  "Contributions and stories" (pounding answer). Cite [247], 247 total/247
+  max, no gaps.
+- **`people/glen-maxwell/build-and-zoe.md`** — one new bullet under
+  "Sailing, seamanship, and cruising knowledge" (pounding answer),
+  citation-free cross-link matching that list's existing style. Unchanged
+  at 241 total/241 max.
+- **Not added to the tree (pruning rubric):** Björn Harbo's cross-post
+  (also to `smallboats`/`microcruising`) announcing Sven Yrvind's latest
+  boat's launch — no Paradox content.
+- **Correspondents:** Derek Clark, Jeff (UK), Jack Gardiner, Alan
+  (`logicaidnz`, pre-existing below-threshold), Glen Maxwell, David Beard,
+  Björn Harbo (off-topic). All confirmed via header against standing
+  identities; no conflation risk. William/Bill Serjeant did not appear
+  (his batch-312 photo request was fulfilled by Derek's action).
+- **Backlog:** no Open item's trigger fired (Jeff-UK/`doryman_uk`,
+  botebilder/Ernie Fossel, Larry, Jason Stancil, David Platten, full
+  watch-list — none surfaced). New batch-313 correspondent + gap-check
+  note appended to `backlog.md`.
+- **Checks:** msgnum run 3152-3161 (pages 3121-3130) distinct/consecutive
+  from batch 312's last msgnum 3151, no new archive gaps; all ten byte
+  sizes matched the dispatch table exactly, no same-size pair this batch;
+  anchor checker clean, 0 broken across 2,383 anchors; archive timeline
+  reached 4-5 September 2005.
+
 ## 2026-07-06 (batch 312: page_3111-page_3120)
 
 **Derek finishes the tack strop fork by silver soldering (with a brazing-gun

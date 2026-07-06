@@ -388,6 +388,18 @@ verify the sound design of the hull!!!!" This is a rare, incidental
 real-world data point on hull toughness under an unplanned impact, distinct
 from the deliberate rock-ledge grounding recorded above.
 
+## Pounding: rare at anchor, occasional underway
+
+Asked directly whether Paradox pounds, either at anchor or under sail — the
+question prompted by [Matt Layden](/matt-layden/biography.md)'s newer
+[Enigma](/matt-layden/enigma.md) design, which departs from Paradox's flat
+sharpie bottom with a **"V" bottom at the bow** — three separate owners
+reported the same experience: pounding at anchor is essentially unknown, and
+underway it is rare, at most occasional spray tossed rather than a hull
+slamming into waves. One owner speculated the V-bow on Enigma was Matt's way
+of cutting down that spray and picking up a little extra speed, rather than a
+response to any real pounding problem on the flat-bottomed original.[42][43][44][45]
+
 ## Handling and feel from microcruising.com
 
 David and Mindy Bolduc's own site adds a first-person "what it feels like to
@@ -516,3 +528,7 @@ better" rule the other two data points had suggested.
 [39] Archive message page_2130 (openboat / "Alastair", `paradoxbuilders`, msgnum 2130, 2004-06-02) — "Re: new sail rev.": compared to a centerboard dinghy, Paradox is sluggish coming about, being a heavy-displacement (14 ft, over half a ton) craft with the equivalent of a full-length keel; lacking his own experience of other heavy full-keel small craft, suggests Paradox probably just behaves as the numbers would predict.
 [40] Archive message page_2106 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2131, 2004-06-02) — "Re: new sail rev.": recommends thinking in terms of the sail's overall center of effort/sail area rather than a fore/aft split at the mast; balance is best found by experimenting with halyard placement once the boat is trimmed to her lines; as with most catboats, a stalled rudder (pushed to leeward too fast) or over-sheeting causes tacking trouble, worse in light air; recommends tacking a catboat rig more slowly than a marconi fin-keeler, tending sheets so the luff just curls, and adding telltales at luff/leech/draft plus a set just aft of the mast; loves the balanced lug rig's shape and low center of effort/balance; if he ever has a sail built by a loft, plans to supply Matt Layden's "new sail" post and stress the extra draft a heavier boat's sail needs; may sew his own sail instead.
 [41] Archive message page_2160 (light369369 / roger chan, `paradoxbuilders`, msgnum 2185, 2004-07-20) — "Re: new sail rev.": quotes Kjell Karlsson's original "new sail rev." question and Alastair's heavy-displacement/full-keel reply in full; asks how a Paradox handles large motorboat wakes in shallow water (course change needed, or hold steady) and how she behaves running in a following sea. Signed "Roger."
+[42] Archive message page_3126 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3157, 2005-09-05) — "Pounding?": asks whether Paradox pounds while sailing or at anchor, prompted by Matt Layden's newer design (Enigma) having a slightly different bow with a "V" in the bottom. Signed "Alan."
+[43] Archive message page_3127 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3158, 2005-09-05) — "Re: Pounding?": has never experienced pounding at anchor, and only on very rare occasions while sailing. Signed "Glen."
+[44] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": has not experienced pounding, though she will toss spray; guesses Matt may be trying to reduce that and pick up a little more speed with the V bow; definitely no pounding at anchor. Signed "Jack."
+[45] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": very little pounding, even under power. Signed "David."
