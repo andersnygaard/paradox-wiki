@@ -97,7 +97,14 @@ and mirrored to the group's own `paradoxbuilders2` Yahoo Group photo
 section. He used the update to ask for other UK Paradox builders' details
 not already listed on the site's `names.htm` page, keeping the registry
 current — see [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)
-for the registry's own standing dependence on builders reporting in.
+for the registry's own standing dependence on builders reporting in. He
+repeated the same request to the list again the following day.[17]
+
+His build timber arrived from Robbins Timber shortly after — an unexpectedly
+large delivery he could not fully check before signing for it, noting the
+exception on the delivery paperwork instead. By then he had completed all of
+his beams, including the cabin and hatch beams; laminated his tiller; and
+begun drawing the bulkheads out on plywood.[18]
 
 ## One person across three handles
 
@@ -127,3 +134,5 @@ three eras.
 [14] Archive message page_3103 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3134, 2005-08-20) — "Paradox update": announces updating the Paradox web site, now including photos of his own first build efforts — deck beams, cabin beams, and hatch beams; asks for details of any Paradox builders not yet listed on `www.paradox-uk.co.uk/names.htm`. Signed "Bill."
 [15] Archive message page_3104 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3135, 2005-08-20) — "Re: Paradox update": the same photos have also been posted to the `paradoxbuilders2` Yahoo Group's photo section. Signed "Bill."
 [16] Archive message page_3105 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3136, 2005-08-21) — "Re: A Result, Boom, Boom!": banter reply to Derek Clark's "Sarah Suck Teeth" nickname for Robbins Timber's manager — "who could refuse... she's got a way of putting things!" Signed "Bill."
+[17] Archive message page_3114 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3145, 2005-08-29) — "Updating owners/builder's list": asks the group again for help updating the owners/builders list at `www.smallsailboats.co.uk/paradox/names.htm`. Signed "Bill."
+[18] Archive message page_3117 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3148, 2005-08-30) — "Wood arrived today": his Paradox timber arrived from Robbins of Bristol in an unexpectedly large delivery, too much to fully check before signing, so he noted the exception on the delivery paperwork instead; has completed all beams, including cabin and hatch beams; has laminated the tiller and hopes to shape it the next day; has started drawing the bulkheads out on plywood. Signed "Bill."

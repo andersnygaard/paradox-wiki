@@ -1,5 +1,69 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 312: page_3111-page_3120)
+
+**Derek finishes the tack strop fork by silver soldering (with a brazing-gun
+shopping story), Bill Serjeant's build timber arrives and his beams/tiller
+are done, and Jack Gardiner settles a new UK builder's tape-and-resin-only
+launch-sooner question.** No new person or boat pages created this batch;
+three existing files extended.
+
+- **`boats/enuf.md`** — extended "The tack strut and boom axle's pivot
+  joint" with the fork's completion: Derek re-cut the ears, jigged the piece
+  on a threaded rod, and silver-soldered it, buying a Rothenburger brazing
+  gun and MAPP gas bottle (cheaper via eBay than a plumbers' merchant, who
+  doubted the gun would run hot enough for brazing); the finished join is
+  nearly invisible. Bill Serjeant asked for a photo; Derek will post one once
+  he adds a small bridge piece for extra strength. Extended "Storing and
+  stepping the mast" with Alastair's own rowing/sculling follow-up (Poole
+  Harbour, a droning fishing boat, another sculler bound for Redcliffe who
+  also rowed before hoisting sail). Cites [120]-[123], 123 total/123 max, no
+  gaps.
+- **`people/bill-serjeant.md`** — new paragraphs: a repeated ask for
+  owners/builders-list details, and his build timber's arrival from Robbins
+  Timber (an unexpectedly large delivery, noted as unchecked on the delivery
+  paperwork), by which point his beams (including cabin and hatch beams) were
+  complete, the tiller laminated, and bulkhead layout underway. Cites
+  [17]-[18], 18 total/18 max, no gaps.
+- **`construction/epoxy-coating-technique.md`** — new section "Tape-and-
+  resin-only as a faster route to first launch, versus full glassing up
+  front": a UK builder ("Phil"/Judy Arneson-Johnson) asked whether taping and
+  glassing only the chines/seams, resin-coating the rest, and launching
+  sooner for testing was reasonable; Jack Gardiner answered in full (three
+  resin coats minimum on exterior fir, checking risk lower on good
+  marine-rated plywood, his own two layers of 2 oz cloth over the whole
+  hull, and the 2-3 extra days for a full layup being worth taking before
+  launch); Bill Serjeant's reply redirected to the builder registry rather
+  than answering the technical question himself. Cites [84]-[85], 86
+  total-lines/85 numeric max (pre-existing `[29a]` letter-suffix anomaly
+  unaffected, respected as-is), no new gaps.
+- **Not added to the tree (pruning rubric):** John Pertalion's reply in the
+  "Snipe" thread — a further off-topic, non-Paradox answer to David Beard's
+  1943 Snipe dinghy restoration question (flagged batch 311) — correctly
+  excluded again, no Paradox design/construction/sailing content.
+- **Backlog:** no Open item's trigger condition was met this batch (Jeff-UK,
+  botebilder/Ernie Fossel, Jason Stancil, below-threshold Larry, David
+  Platten's dormant promotion, and the full watch-list all checked, none
+  resurfaced). No new below-threshold correspondents — Judy Arneson-Johnson
+  (posting as "Phil") is a pre-existing identity (already cited in this same
+  file from page_3036/msgnum 3067), not a new one.
+- **Identity/attribution checks:** Derek Clark (`dclark52001`), William/Bill
+  Serjeant (`williamserjeant`), Alastair (`alopenboat`/`openboat`), and Jack
+  Gardiner (`alex29`/`tidybowlmann`, signs "Jack") all confirmed via headers
+  against their standing identities; Judy Arneson-Johnson (`topsail`/
+  `eliallegra`, posts on Phil's behalf and signs "Phil") confirmed consistent
+  with her established identity; no conflations. John Pertalion
+  (`ajmctaggert`) is a one-off off-topic correspondent, not added to
+  `people/`.
+- **Msgnum run:** 3142-3143-3144-3145-3146-3147-3148-3149-3150-3151 (pages
+  3111-3120 respectively), confirmed distinct and consecutive continuing
+  from batch 311's last msgnum 3141; standing archive gaps at 2122, 2190,
+  2229, 2385, 2611, 2614, 2753 unaffected, no new gaps. All ten byte sizes
+  matched the dispatch table exactly (2207/2395/2796/1486/1748/1579/1792/
+  1461/2089/5165), no same-size pair flagged (table noted all sizes
+  distinct). Archive timeline reached 29 August-2 September 2005.
+- **Anchor checker:** 0 broken links.
+
 ## 2026-07-06 (batch 311: page_3101-page_3110)
 
 **The "Knotty Stituation" closes with a supplier making good, Derek's mast

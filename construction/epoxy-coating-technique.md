@@ -425,6 +425,27 @@ onto the board's edge, lay the Kevlar on without pulling or stretching it,
 mist again, then add glass over it, staggering the seams before wetting out
 with epoxy by brush or roller.[44]
 
+## Tape-and-resin-only as a faster route to first launch, versus full glassing up front
+
+A builder eager to get a hull in the water sooner for testing raised a
+staged-coverage shortcut: tape and glass only the chines and seams, resin
+the rest of the hull without cloth, launch for testing, then sand and add
+the full glass layup and paint afterward.[84] The staged approach is
+workable, with caveats that scale with plywood quality and the boat's
+intended use during the interim. A resin-only coat needs a minimum of three
+coats to reliably seal exterior-grade fir plywood, which adds some
+unavoidably wasted epoxy since the hull still gets sheathed properly later.
+The larger risk is **checking** — surface splits in the plywood's outer
+veneer that let moisture into the wood underneath; a good marine-rated
+plywood checks far less than construction-grade fir, making the interim
+period considerably safer on better stock. Two layers of 2 oz cloth over the
+whole hull addresses the same checking risk directly and is a modest enough
+step up in time (2-3 days) to be worth taking before launch, since a
+resin-only hull can still be faired and painted properly afterward — the
+first priority either way is protecting the bottom and chines from
+abrasion, whether or not the rest of the hull is sheathed in fabric at
+all.[85]
+
 ## Bottom protection: UHMW plastic, and aluminum or stainless-steel sheet as skin alternatives
 
 Beyond fiberglass-and-epoxy schedules, at least three non-composite
@@ -784,3 +805,5 @@ pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][8
 [81] Archive message page_3043 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3074, 2005-08-05) — "Re: Unfolding Calamity for Enuf": a neat-hardener test patch on his own second failure did not set, and a fresh correctly-mixed coat over the problem area set but did not adhere to the sticky layer beneath; laying mat over the tacky coating on the rudder blade and squeegeeing a good mix through it seems to have set solid; has started stripping the hull bottom back with a scraper instead. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "Derek."
 [82] Archive message page_3041 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3072, 2005-08-05) — "Re: Enuf Epoxy": suggests ditching pumps entirely in favor of decanted resin and hardener metered by veterinary syringe. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
 [83] Archive message page_3061 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3092, 2005-08-12) — "Enuf Epoxied": a 1.5 litre batch measured by jugs overheated in the mixing pot, smoking and softening the plastic, going "into overdrive" as he applied it, while the epoxy already spread on the hull cured normally. Full text and citation at [boats/enuf.md](/boats/enuf.md#the-bottom-finished-an-exothermic-epoxy-scare-and-turning-the-hull-upright). Signed "Derek."
+[84] Archive message page_3118 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3149, 2005-09-01) — "Fiberglassing": asks whether it would be acceptable to just tape and glass the chines and seams, coat the rest of the hull with resin only, launch sooner for testing, then sand and apply the full glass layup and paint afterward. Signed "Phil."
+[85] Archive messages page_3119/page_3120 (william / "williamserjeant" / William Serjeant, msgnum 3150; alex29 / "John Gardiner" / Jack Gardiner, msgnum 3151, `paradoxbuilders`, 2005-09-02) — "Re: Fiberglassing": Bill declined to answer the technical question directly, being still a fellow builder rather than an authority, and used the reply to ask Phil for details to add to the `names.htm` builder registry; Jack answered in full — three resin coats are the minimum to reliably seal exterior fir plywood, checking (splitting of the outer veneer, letting moisture in) is less of a risk on good marine-rated plywood, his own Paradox carries two layers of 2 oz cloth over the whole hull for exactly this reason, and while resin-only is workable for faster testing, taking the extra 2-3 days to fabric and fill the weave before launch is worth it, since fairing and painting can still happen later — bottom and chine abrasion protection matters most, whether or not the rest of the hull ends up sheathed in fabric. Signed "Bill" / "Jack."

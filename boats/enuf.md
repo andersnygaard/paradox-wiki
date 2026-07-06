@@ -114,6 +114,21 @@ found brazing brass itself advised against, since the brass and the brazing
 filler metal's melting points sit too close together for comfort; **hard
 (silver) soldering** was the recommended joining method instead.[100]
 
+Following that advice, Derek re-cut the fork's ears off, reassembled the
+piece around a threaded rod as a jig, and silver-soldered it — buying a
+Rothenburger brazing gun and MAPP gas bottle plus six 200mm silver-solder
+rods for the job (used sparingly, about 30mm of rod for the whole joint), at
+a UK high-street plumbers' merchant's quoted price of the same gun sold on
+eBay for £10 less. The plumbers' merchant staff doubted the gun would run hot
+enough for brazing despite the "brazing gun" name on its packaging, which
+matched what Derek had already found: brass melts at true brazing
+temperatures, making silver soldering the better process for this joint
+regardless of what the gun's label promised. The finished join cleaned up
+almost invisibly.[120] Bill Serjeant asked for a photograph of the completed
+fork;[121] Derek agreed to post one once he had also added a small bridge
+piece across the joint for extra strength, again trusting his still-new
+silver-soldering skill.[122]
+
 Derek uploaded four reference photographs of his finished pivot joint to the
 group's Photos section, filing them in his own "Enuf" folder since it
 happened to be empty at the time (see
@@ -653,6 +668,14 @@ turned up a finishing gap of its own: the sail's head sleeve had no cutout
 for the halyard fastening, which Derek planned to cut and trim with leather
 himself.[119]
 
+Alastair, who had offered his own scullling range as a hedge against a
+snapped mast, reported the wider context: back from a few days sailing Poole
+Harbour in hot, sunny weather, he had rowed rather than motor across a calm
+morning even with a fishing boat "droning away" on the far side of the
+harbour, and another sculler present — bound several miles further on, to
+Redcliffe, and equipped with a motor — likewise chose to row for a stretch
+before a breeze sprang up and he hoisted sail instead.[123]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -779,3 +802,7 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [117] Archive message page_3107 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3138, 2005-08-27) — "Mast Up": the mast is now the right shape and in position, a new photo posted to the "Enuf" photo folder; still needs finishing. Signed "Derek."
 [118] Archive message page_3109 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3140, 2005-08-29) — "Re: Mast Up": just back from a couple of days on Poole Harbour in hot, sunny weather; asks whether the mast fits inside the hull or is stored elsewhere; reports being able to scull 3.25 nm without immediate suffering on a windless morning, offered in case the mast should ever snap. Signed "Al, Yeovil, England."
 [119] Archive message page_3110 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3141, 2005-08-29) — "Re: Mast Up": plans to store the mast inside, wary of mast theft from a trailered boat at motorway service areas; has not yet tried fitting it through the mast hole and hopes to shorten it once the sail is adjusted; discovers the sail's head sleeve has no cutout for the halyard fastening and will cut and trim it himself with leather; jokes that 3.25 nm of sculling "sounds like a motor job." Signed "Derek."
+[120] Archive message page_3111 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3142, 2005-08-29) — "Tack Strop Fork": re-cut the brass fork's ears off, reassembled it on a threaded rod, and silver-soldered it together; bought a Rothenburger brazing gun and MAPP gas bottle plus six 200mm silver-solder rods (used about 30mm); a plumbers' merchant doubted the gun would get hot enough for brazing despite its "brazing gun" label, matching Derek's own finding that brass melts at brazing heat and silver soldering is the better process; bought the gun on eBay at £10 less than the plumbers' merchant price; the finished join is almost invisible after cleanup. Signed "Derek."
+[121] Archive message page_3112 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3143, 2005-08-29) — "Re: Tack Strop Fork": asks Derek to post a picture of the finished fork, "a picture is worth more than a thousand words." Signed "Bill."
+[122] Archive message page_3116 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3147, 2005-08-29) — "Re: Tack Strop Fork": will post a picture in a couple of days; plans to also add a small bridge piece across the joint for extra strength, again trusting his metalworking skills. Signed "Derek."
+[123] Archive message page_3113 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3144, 2005-08-29) — "Re: Mast Up": back from a few days sailing Poole Harbour in hot, sunny weather; rowed across a calm morning despite a droning fishing boat elsewhere in the harbour; another sculler present, bound for Redcliffe several miles on and equipped with a motor, also chose to row for a while before a breeze let him hoist sail. Signed "Al, Yeovil, England."
