@@ -70,6 +70,12 @@ total and guessed around £2,000 overall, preferring not to know the real
 figure himself, let alone tell his wife. See [epoxy brands and chemistry —
 how much epoxy a build actually
 uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
+On the recurring drinking-water-and-epoxy question, his own epoxy supplier's
+blunt warning ("at worst you'll go blind") led him to use his tank
+compartments as lift-up-lid food storage instead, carrying actual drinking
+water in roll-up carriers under the seat — see [water tank construction and
+lining — epoxy: mixed
+opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 
 # Citations
 
@@ -90,3 +96,4 @@ uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actuall
 [15] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Derek."
 [16] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
 [17] Archive message page_3210 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3241, 2005-11-06) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
+[18] Archive message page_3211 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3242, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).

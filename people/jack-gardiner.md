@@ -250,6 +250,14 @@ mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox
   jest with the single word "Steel!!!" — a nod to his own earlier steel-hull
   inquiry. See [Glen C. Maxwell — Matt Layden eyewitness
   record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing).
+- **Water tanks used purely as ballast, not for drinking.** Having raised
+  the same question himself months earlier, Jack judged potable-safe epoxy
+  too expensive and its long-term safety unclear, so he treats his own
+  water tanks as ballast only — replenished with sea water and flushed on
+  land if used for rinsing or washing — while keeping actual drinking water
+  in collapsible containers and coolers, plus a manual filtration unit as a
+  backup on extended trips. See [water tank construction and lining — epoxy:
+  mixed opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 
 ## Construction begins
 
@@ -1036,3 +1044,4 @@ in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-an
 [193] Archive message page_3145 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3176, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
 [194] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 [195] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).
+[196] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).

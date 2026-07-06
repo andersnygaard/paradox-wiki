@@ -1,5 +1,52 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 322: page_3211-page_3220)
+
+Five more answers landed on the "WATER TANKS" thread Martin opened last
+batch, still without the group converging on one practice: **Derek Clark**
+relayed his own epoxy supplier's blunt "at worst you'll go blind" warning
+and described converting his tank compartments into lift-up-lid food
+storage, carrying drinking water in roll-up carriers under the seat;
+**Larry Whited** recalled a boatyard's glass-and-epoxy tanks built over a
+wood form, steam-cleaned after layup to kill the epoxy odor, and noted
+commercial glass/epoxy potable tanks are sold safely; **Judy
+Arneson-Johnson** ("Phil") gave a ballast-management answer (replace water
+ballast as it's consumed; never drink from an epoxy tank; steam-distilled
+water keeps indefinitely); **Jack Gardiner** confirmed he uses his own
+tanks purely as ballast, keeping actual drinking water in collapsible
+containers/coolers with a manual filtration unit as an extended-trip
+backup; and **"Robert"** recalled Don Elliott's build guide reporting that
+System Three said its epoxy was safe for tanks at five coats. A parallel
+"gallons"/beer/football banter tangent (Paul Reppeto, Derek Clark, Nels,
+Chris Ostlind) split off the "EPOXY" thread across four of this batch's ten
+pages, with zero Paradox content — correctly excluded from the tree
+entirely per the pruning rubric, rather than given a catch-all page. No new
+person or boat pages created this batch; all new material extended
+existing hub and person pages via cross-link.
+
+- **`construction/water-tank-lining.md`** — extended the existing "Epoxy:
+  mixed opinions" section with five more firsthand/secondhand accounts
+  (supplier warnings, historical boatyard practice, ballast-management
+  doctrine, and the System-Three-five-coats recollection). Cites [31]-[35],
+  35 total/35 max, no gaps.
+- **`people/derek-clark.md`** — new narrate-once-cross-link summary line
+  (epoxy-supplier warning, lift-up-lid storage) linking to
+  `water-tank-lining.md`. Cite [18], 18 total/18 max, no gaps.
+- **`people/jack-gardiner.md`** — new narrate-once-cross-link summary line
+  (ballast-only water tank practice) linking to `water-tank-lining.md`.
+  Cite [196], 195 total lines/196 numeric max (pre-existing +1 gap at [53]
+  preserved exactly), no new gaps.
+- `.okf-progress/backlog.md` — Martin's below-threshold-newcomer entry
+  updated in place (resurfaced only via other correspondents answering his
+  question, not by Martin himself); new "Batch 322 correspondent + gap
+  check" section recording the msgnum run, attribution checks, and the
+  pruning-rubric exclusion of the gallons/beer/football banter.
+
+Anchor checker: 0 broken across 2,456 anchors. Msgnum run 3242-3251 (pages
+3211-3220) confirmed distinct and consecutive from batch 321's last msgnum
+3241; all ten byte sizes matched the dispatch table exactly, no same-size
+pair. Archive timeline reached 6-9 November 2005.
+
 ## 2026-07-06 (batch 321: page_3201-page_3210)
 
 A "gallons" banter thread (Derek Clark's joke about English vs. American

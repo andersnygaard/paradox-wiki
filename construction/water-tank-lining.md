@@ -162,6 +162,39 @@ the specific supplier first, since (as above) opinion on epoxy's
 suitability for drinking-water tanks is genuinely divided rather than
 settled either way.
 
+A further firsthand account lands on the ballast-only side: one builder's
+own epoxy supplier put the risk in the bluntest possible terms — "at the
+least you will be ill, at the worst you'll go blind" — so his built-in
+tank compartments became lidded, lift-up food-storage lockers instead,
+with actual drinking water carried in roll-up water carriers stowed under
+the seat. Historical precedent cuts the other way, though: glass-and-epoxy
+water tanks built over a wood form, laid up carefully and then washed out
+and steam-cleaned, have been used in boatyards for years with the
+steam-cleaning step eliminating the epoxy odor; commercially made
+glass-and-epoxy potable-water tanks are sold and used without reported
+harm, though brand and formulation likely matter and have changed over
+time. A recollection of Don Elliott's own build guide holds that System
+Three, asked directly, said its epoxy was safe for water tanks provided
+five coats were applied for complete waterproofing — consistent with the
+System-Three-leaning account already noted above, though offered here
+independently and from memory rather than as a direct quote.
+
+Builders who do fit water as ballast face a related seamanship question:
+if the water is a significant part of the boat's stability, it has to be
+**replaced as it is used** to keep that ballast weight roughly constant —
+one approach is smaller tanks or jugs of distilled water, refilled with
+sea water as they empty. Tap water stored for long periods can go bad, but
+steam-distilled water, being germ- and bacteria-free, keeps indefinitely.
+Setting the drinking-water question aside, a tank used purely as **ballast**
+still needs to be sealed well, which one builder using his tanks this way
+— refilling with sea water when launching from a remote site, flushing and
+refilling on land, and keeping actual drinking water in collapsible
+containers and coolers — flagged as itself "a pain."
+
+For an extended trip, a manual water-filtration unit is worth carrying as
+an emergency backup to whatever containers hold the day-to-day drinking
+supply.
+
 ## Fastening the tank tops when used purely as storage, not water tanks
 
 The plans specify the tank tops as **structural**, calling for them to be
@@ -269,3 +302,8 @@ for the related fix to a bin-side panel pulling away from the tank tops.
 [28] Archive message page_2703 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2733, 2005-05-28) — "Re: Introduction": "This is a neat idea, though, I haven't tried welding poly plastic. The price is right on the welder so maybe I will give it a try too." Signed "Dave."
 [29] Archive message page_2704 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 2734, 2005-05-28) — "Re: Introduction": raises an access objection to any tank fitted under the built-in tank tops (welded-poly or otherwise) — the tops form a "permanent" floor, so reaching the tank later means cutting new hatches into the sole, and that same floor may be structural, at risk of being weakened by added hatches. No resolution recorded. Signed "BRENT."
 [30] Archive message page_3208 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3239, 2005-11-06) — "Re: WATER TANKS": answering Martin's question about drinking water in contact with epoxy, his own epoxy supplier recommended against it; uses the tank as ballast instead and doesn't drink from it, a decision confirmed by sludge/slime found in the tank bottom at the end of the first season; will fill with sea water launching from a remote site; notes plenty of storage space aboard for bottled water unless setting out for genuinely remote areas, and that some builders skip the tanks entirely, fitting extra lead and using the space as a storage locker. Signed "Al, Yeovil, England."
+[31] Archive message page_3211 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3242, 2005-11-06) — "Re: WATER TANKS": his own epoxy supplier put the risk in the bluntest terms — "at the least you will be ill at the worst you'll go blind"; has made his tank compartments into lift-up-lid food storage instead, and intends to use roll-up water carriers kept in the space under the seat. Signed "Derek."
+[32] Archive message page_3212 (LJGeib / "Larry" / Larry Whited, `paradoxbuilders`, msgnum 3243, 2005-11-06) — "Re: WATER TANKS": recalls glass-and-epoxy water tanks built over a wood form in a boatyard he once worked at, careful layup followed by washing out and steam cleaning, which seemed to eliminate the epoxy odors, though he can't recall the specific brand and formulations have likely changed since; notes commercially made glass-and-epoxy potable-water tanks exist that no one has gone blind from. Signed "Larry." (See [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint) for this correspondent's standing disambiguation from the other Larry on the list.)
+[33] Archive message page_3215 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3246, 2005-11-07) — "Water tanks": if water is carried as a significant part of the boat's ballast and stability, it must be replaced as it's used — smaller tanks or gallon jugs of distilled water, refilled with sea water as they empty, is one way; would never drink water stored in an epoxy tank; tap water can go bad if stored too long, but steam-distilled water is germ- and bacteria-free and keeps indefinitely. Signed "Phil."
+[34] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": raised the same question himself months earlier; potable-water-safe epoxy exists but is expensive with unclear long-term safety, so he uses his water tanks purely as ballast, not for cooking or drinking — replenished with sea water and flushed/refilled on land if used for rinsing gear or washing clothes; drinking water is kept in collapsible containers and coolers; for an extended trip would add containers plus a manual water-filtration unit as an emergency backup; notes sealing the tanks correctly "is a Pain!" Signed "Jack."
+[35] Archive message page_3218 (carolfo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 3249, 2005-11-07) — "Re: WATER TANKS": recalls from memory reading in Don Elliott's how-to-build-Paradox guide that System Three, contacted directly, said their epoxy was safe for water tanks provided five coats were applied for complete waterproofing. Signed "Robert."
