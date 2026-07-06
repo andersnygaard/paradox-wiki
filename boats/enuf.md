@@ -624,6 +624,35 @@ stress there. His practical recommendation, cost and effort aside, was
 replacing a badly knotted spar section outright, with the cut-out piece kept
 on board as a handy stowage spot for a backup set of sails.[114]
 
+Robbins Timber's own manager, Gordon Lamb, phoned Derek directly once he
+raised the written complaint: he was unhappy the yard had shipped an
+obviously weak piece of timber, and arranged a free replacement (timber and
+carriage both at no charge), agreeing to a 7-10 day delay and declining to
+collect the faulty piece back given the cost of return carriage — leaving
+Derek with a fault-free offcut he judged good enough to make a small canoe
+mast from. The episode closed the "Knotty Stituation" saga with the supplier
+fully making good on its guarantee.[115]
+
+## Storing and stepping the mast
+
+Planing the assembled mast blank square on one side, Derek found the epoxy
+glue line dulled his plane blade quickly, though he found resharpening it a
+pleasant break from the work. Checking the mast against the plans' 1:1
+pulley sketch, he discovered the side blanks are not just shaped fore and
+aft but also **tapered in thickness**, a detail he had missed initially;
+there was enough material in his own blanks to correct the taper by bandsaw
+and plane rather than start over.[116] Within days the mast was up and in
+its final shape, though not yet finished.[117]
+
+Asked whether the finished mast would stow inside the hull, Derek planned to
+store it inside, wary of mast theft from a trailered boat left unattended at
+motorway service stations — a concern raised elsewhere on the list — though
+he had not yet test-fitted it through the mast hole and hoped to shorten it
+once the sail was fitted and adjusted.[118][119] Fitting the sail also
+turned up a finishing gap of its own: the sail's head sleeve had no cutout
+for the halyard fastening, which Derek planned to cut and trim with leather
+himself.[119]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -745,3 +774,8 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [112] Archive message page_3100 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3131, 2005-08-19) — "Re: Derek's Knotty Stituation": having just ordered the bulk of his own Paradox timber from Robbins, notes he will be checking for knots himself while the guarantee is in force. Signed "Bill."
 [113] Archive message page_3098 (Bruce Hallman, `paradoxbuilders`, msgnum 3128, 2005-08-18) — "Re: Epoxy and Varnish": a knot itself is usually not what weakens a wood spar; rather the wood's straight grain swerves around a knot, producing localized grain runout comparable to a scarf joint; where runout exceeds roughly 8:1, cutting out the section and replacing it with a proper 8:1 scarf is the sounder fix, since filling the knot with epoxy does nothing to address the runout; wrapping the section in fiberglass and epoxy was offered only as an emergency patch.
 [114] Archive message page_3099 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3130, 2005-08-18) — "Re: Epoxy and Varnish": agrees with Bruce Hallman; a laminated spar still has one intact layer backing the irregular grain at a knot, but neither a knot nor an epoxy-filled repair flexes evenly with the rest of a spar that is itself part of the sail's shape under load, so the straighter wood either side of a repair takes more tension than the repair itself; recommends replacing a badly knotted section outright, keeping the cut-out piece aboard as stowage for a backup set of sails. Signed "Jack."
+[115] Archive message page_3101 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3132, 2005-08-19) — "A Result, Boom, Boom!": Robbins Timber's Gordon Lamb phoned personally, unhappy at having sent obviously weak wood; a free replacement (no charge for timber or carriage) is on its way with a 7-10 day delay accepted; Robbins will not collect the faulty piece back given return-carriage cost, leaving Derek a good offcut he judges fit for a small canoe mast; thanks Jeff and others; tells Bill Serjeant to buy from Robbins with confidence but check the delivery for knots anyway. Signed "Derek."
+[116] Archive message page_3106 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3137, 2005-08-22) — "A Mast": planing the assembled mast blank square dulls the plane blade quickly on the epoxy glue line, though resharpening is a pleasant break; checking the plans' 1:1 pulley sketch reveals the side blanks are tapered in thickness as well as shaped fore and aft, a detail missed at first; enough material remains to correct by bandsaw and plane. Signed "Derek."
+[117] Archive message page_3107 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3138, 2005-08-27) — "Mast Up": the mast is now the right shape and in position, a new photo posted to the "Enuf" photo folder; still needs finishing. Signed "Derek."
+[118] Archive message page_3109 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3140, 2005-08-29) — "Re: Mast Up": just back from a couple of days on Poole Harbour in hot, sunny weather; asks whether the mast fits inside the hull or is stored elsewhere; reports being able to scull 3.25 nm without immediate suffering on a windless morning, offered in case the mast should ever snap. Signed "Al, Yeovil, England."
+[119] Archive message page_3110 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3141, 2005-08-29) — "Re: Mast Up": plans to store the mast inside, wary of mast theft from a trailered boat at motorway service areas; has not yet tried fitting it through the mast hole and hopes to shorten it once the sail is adjusted; discovers the sail's head sleeve has no cutout for the halyard fastening and will cut and trim it himself with leather; jokes that 3.25 nm of sculling "sounds like a motor job." Signed "Derek."

@@ -1,5 +1,61 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 311: page_3101-page_3110)
+
+**The "Knotty Stituation" closes with a supplier making good, Derek's mast
+takes final shape, and Bill Serjeant posts his first real build-progress
+photos** — the trigger for his own dormant build-detail watch item. One boat
+page and two reference/person pages extended; no new person or boat pages
+created this batch.
+
+- **`boats/enuf.md`** — extended "Finishing the spars" with the saga's
+  resolution: Robbins Timber's manager, Gordon Lamb, phoned Derek personally,
+  apologized, and sent a free replacement piece (no charge for timber or
+  carriage), declining to collect the faulty offcut back. New section
+  "Storing and stepping the mast": planing the mast blank revealed the
+  plans' side blanks are tapered in thickness as well as shaped fore-and-aft
+  (corrected by bandsaw/plane); the mast reached final shape and was
+  photographed in position; Alastair's stowage question and 3.25 nm sculling
+  report; Derek's reply (storing the mast inside against trailer-theft worry
+  at motorway services; discovering and fixing a missing halyard cutout in
+  the sail's head sleeve). Cites [115]-[119], 119 total, no gaps.
+- **`people/bill-serjeant.md`** — new paragraph recording his first actual
+  build-progress report: photos of deck beams, cabin beams, and hatch beams
+  posted to a freshly updated `paradox-uk.co.uk` and mirrored to
+  `paradoxbuilders2`'s photo section, plus his request for other UK
+  builders' details for the site's registry. This is the trigger event for
+  the batch-306 "further-build-detail" watch item — now resolved/acted-on.
+  Cites [14]-[16], 16 total/16 max, no gaps.
+- **`references/paradox-uk-website.md`** — cross-linked the same registry
+  update as a concrete instance of the registry's builder-reporting
+  dependency, under the existing "A UK and worldwide build count" section.
+  Cite [43], 43 total/43 max, no gaps.
+- **Not added to the tree (pruning rubric):** David Beard's off-topic
+  question about a 1943 Snipe dinghy he was given (non-Paradox, one-off, no
+  Paradox design/construction/sailing content) — left out per the
+  off-topic-content rule rather than force-fit onto his person page or given
+  a new leaf. Chris Ostlind's pure-banter reply ("Sarah Rules!") — no durable
+  content beyond what `boats/enuf.md`'s citation [111] already captures.
+- **Backlog:** Bill Serjeant's dormant build-detail watch (open since his
+  batch-306 promotion) is triggered and acted on this batch (see above) — no
+  longer just a watch item. David Platten's dormant promotion trigger did
+  not fire (no Platten traffic). No other Open item's trigger condition was
+  met (Jeff-UK, botebilder/Ernie Fossel, Jason Stancil, below-threshold
+  Larry, and the full watch-list all checked, none resurfaced). No new
+  below-threshold correspondents this batch.
+- **Identity/attribution checks:** Derek Clark (`dclark52001`), William/Bill
+  Serjeant (`williamserjeant`), Chris Ostlind (`wedgesail`), David Beard
+  (`buster38801`/`dlb@`), and Alastair (`alopenboat`/`openboat`) all
+  confirmed via headers against their standing identities; no conflations.
+  Jack Gardiner did not appear this batch. msgnum run
+  3132-3133-3134-3135-3136-3137-3138-3139-3140-3141 confirmed distinct and
+  fully consecutive continuing from batch 310's last msgnum 3131; standing
+  archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected, no new gaps.
+  All ten byte sizes matched the dispatch table exactly (1723/3854/1738/
+  2008/1970/1805/1479/1508/2163/2073 for page_3101-page_3110); no same-size
+  pair flagged (table noted all sizes distinct). Archive timeline reached
+  19-29 August 2005. Anchor checker: 0 broken across 2,376 anchors.
+
 ## 2026-07-06 (batch 310: page_3091-page_3100)
 
 **"Derek's Knotty Stituation" — the boom-knot saga runs to its conclusion,**

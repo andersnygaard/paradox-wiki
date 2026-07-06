@@ -160,6 +160,11 @@ than instead of his existing boat, "Bumper," since he seldom keeps a boat
 more than two seasons — and building a Paradox meant casting a fresh batch of
 lead ballast, having none left over from his last boat.[36][37]
 
+In August 2005, Serjeant posted the registry site's first update since
+starting his own build — photos of his deck beams, cabin beams, and hatch
+beams — again asking the list to help keep `names.htm` current with any
+builder not yet listed.[43]
+
 ## A UK kit-built option: Jordan Boats
 
 Beyond plans and self-build, a **kit** option for a UK builder emerged in
@@ -239,3 +244,4 @@ a one-off self-build from plans.[41]
 [40] Archive message page_2901 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2932, 2005-07-10) — "Kit Paradox": Alec Jordan reports the kit should be on its way soon; acknowledges mixed feelings in the group about a kit-built Paradox; mentions cruising his own boat "Bumper" from the River Crouch to the Scillies and back, logged at `bills-log.blogspot.com`; trying out Alastair's "Little Jim" at Plymouth further inspired him to want his own Paradox. Signed "Bill."
 [41] Archive message page_2966 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2997, 2005-07-25) — "Boat Building Expectations": reposts his own blog entry (`bills-log.blogspot.com`) reporting that Alec Jordan phoned to say the kit will not be ready after all — despite working hard to make every part fit, the cutting/design process for the panels and components needs more research than can be resolved soon; Jordan has not given up on eventually offering a kit and is instead supplying the plywood that would have gone into Serjeant's; Serjeant will start building from Matt Layden's original plans instead, thanks Jordan and Layden for their collaborative effort, and hopes to start building within the week while the summer air is still warm enough for epoxy.
 [42] Archive message page_2968 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2999, 2005-07-25) — "Re: Boat Building Expectations": "Have at it Bill!!!! Good luck on your adventure!!!" Signed "Jack."
+[43] Archive message page_3103 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3134, 2005-08-20) — "Paradox update": updates the site with photos of his own first build efforts (deck beams, cabin beams, hatch beams) and asks the list for details of any Paradox builders not yet listed on `names.htm` — a concrete instance of the registry's dependence on builders reporting themselves in. Full biography and build detail at [people/bill-serjeant.md](/people/bill-serjeant.md).

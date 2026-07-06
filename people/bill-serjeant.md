@@ -91,6 +91,14 @@ Bristol when Derek Clark's boom-knot dispute with that same supplier played
 out on the list, Bill noted he would be checking his own delivery for knots
 himself while its guarantee still held — see [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 
+Days later, Bill posted his first actual build-progress photos: deck beams,
+cabin beams, and hatch beams, added to a freshly updated `paradox-uk.co.uk`
+and mirrored to the group's own `paradoxbuilders2` Yahoo Group photo
+section. He used the update to ask for other UK Paradox builders' details
+not already listed on the site's `names.htm` page, keeping the registry
+current — see [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)
+for the registry's own standing dependence on builders reporting in.
+
 ## One person across three handles
 
 Bill Serjeant's Yahoo profile name changed twice over the archive's span —
@@ -116,3 +124,6 @@ three eras.
 [11] Archive message page_1400 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1420, 2003-11-18) — "Tools list": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
 [12] Archive message page_1839 (w.serjeant / "barnacletoo" / William Serjeant, `paradoxbuilders`, msgnum 1862, 2004-01-21) — "Yahoo! profile": full text and citation at [references/paradox-uk-website.md](/references/paradox-uk-website.md); announces changing his Yahoo Profile name from `barnacleid` to `barnacletoo` "for technical reasons."
 [13] Archive message page_3100 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3131, 2005-08-19) — "Re: Derek's Knotty Stituation": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
+[14] Archive message page_3103 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3134, 2005-08-20) — "Paradox update": announces updating the Paradox web site, now including photos of his own first build efforts — deck beams, cabin beams, and hatch beams; asks for details of any Paradox builders not yet listed on `www.paradox-uk.co.uk/names.htm`. Signed "Bill."
+[15] Archive message page_3104 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3135, 2005-08-20) — "Re: Paradox update": the same photos have also been posted to the `paradoxbuilders2` Yahoo Group's photo section. Signed "Bill."
+[16] Archive message page_3105 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3136, 2005-08-21) — "Re: A Result, Boom, Boom!": banter reply to Derek Clark's "Sarah Suck Teeth" nickname for Robbins Timber's manager — "who could refuse... she's got a way of putting things!" Signed "Bill."
