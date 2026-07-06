@@ -420,8 +420,11 @@ over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspec
 
 **Asked after the Cedar Key gathering, and reopened the transom vent-port
 question.** Ahead of the 2006 season, asked whether Cedar Key would happen
-again and when — see [group cruise reports — the 2006 Cedar Key gathering,
-and notable past
+again and when, and confirmed he planned to attend after a few years' gap —
+he had spent those seasons sailing the Mississippi and Alabama Gulf Coast
+instead, and stopped attending group gatherings there after Hurricane
+Katrina, finding the region "just too depressing." See [group cruise
+reports — the 2006 Cedar Key gathering, and notable past
 attendees](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
 Separately reopened the transom ventilation port question: never installed
 his own for fear of losing the cover and taking on water, but wondered
@@ -699,3 +702,4 @@ ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-c
 [251] Archive message page_3226 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3257, 2005-11-15) — "Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 [252] Archive message page_3256 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3287, 2006-01-14) — "Cedar Key": full text and citation at [operations/group-cruise-reports.md](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
 [253] Archive message page_3257 (dlb / "David Beard", `paradoxbuilders`, msgnum 3288, 2006-01-14) — "Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
+[254] Archive message page_3264 (dlb / "David Beard", `paradoxbuilders`, msgnum 3295, 2006-01-15) — "Re: Cedar Key": full text and citation at [operations/group-cruise-reports.md](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).

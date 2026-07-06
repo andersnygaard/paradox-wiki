@@ -273,6 +273,15 @@ dimension from memory but confirmed it is given on the plans. See [rig and
 sail — halyard fixing point on the spar: an open
 question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[48]
 
+## Matt Layden's own transom port opens from inside
+
+Seeing Matt Layden's own Paradox in person, rather than only in
+photographs, showed a detail invisible from a distance: his transom
+ventilation port was fitted so the cover could be removed **from the
+inside**.[49] See [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports)
+for the fuller discussion of inward-opening transom port covers this
+observation informed.
+
 # Citations
 
 [1] Archive message page_849 (Glen Maxwell, `paradoxbuilders`, msgnum 864, 2003-03-09) — "Everglades Challenge": sailed with Matt Layden at Ft. Desoto Thursday and part of Friday before the race; describes Matt's solo haul-out rig (two rollers, a four-part block and tackle tied to a six-part) and Matt's "secret weapon" (sleeping while underway); "a real treat to have two Paradoxes sailing together and was a first for Matt as well"; Matt's windward sailing ability "far superior" to Glen's; Matt suggested sail alterations and recommended Dabbler Sails; forgot his camera; per the WaterTribe site, Matt had checked in at Checkpoint 2 (Placida, FL) at 0930 that morning, continuing to Sanibel, with a report of Matt helping a fellow competitor.
@@ -323,3 +332,4 @@ question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[48]
 [46] Archive message page_2782 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2813, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": full text and citation at [matt-layden/enigma.md](/matt-layden/enigma.md); credits Mini Paradox's speed mainly to sailing skill and light weight rather than hull shape.
 [47] Archive message page_2793 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2824, 2005-06-11) — "Re: Mk2 sail": full text and citation at [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft); measured his own Dabbler Sails sail — luff tape is 1 in or 2 in folded in half over the luff.
 [48] Archive message page_2804 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2835, 2005-06-13) — "Re: Mk2 Sail and halyard": full text and citation at [design/rig.md](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question); can't recall the dimension but confirms it's on the plans.
+[49] Archive message page_3266 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3297, 2006-01-16) — "Re: Transom ventilation Port": it was not until he actually saw Matt Layden's own Paradox that he noticed its port was installed so Matt could remove the cover from the inside. Full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Glen."

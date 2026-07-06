@@ -726,7 +726,47 @@ before a breeze sprang up and he hoisted sail instead.[123]
 After a pause in construction, Derek reported resuming work on "Enuf" in
 mid-December 2005, with a new boom taking shape. His unheated garage, at 9°C
 when he started, reached 20°C in short order once he brought in a propane
-fan heater — warm enough that he nearly took his vest off.[130]
+fan heater — warm enough that he nearly took his vest off.[130] Given a
+caution about carbon monoxide build-up from unvented gas heaters — a real
+hazard even in well-ventilated spaces like tents, with fatalities recorded
+after hurricanes in the US — Derek made a habit of testing the workshop's
+air before using the heater, sending his wife in first to check the
+thermometer; she had come back out safely every time so far.[131][132]
+
+**A transom spar-stowage port.** Separately from the transom's ventilation
+port and baffle (see [construction/transom-deck-plate.md](/construction/transom-deck-plate.md)),
+Derek cut a dedicated hole in "Enuf"'s transom for stowing the spars: about
+150 mm in diameter, with a plywood ring glued around it giving a 180 mm
+inner diameter, closed by a 180 mm disc of Lexan carried on a center bolt
+and a bar across the inside with a captive nut, sealed with a cork gasket.
+He judged a proprietary dinghy inspection port would have been quicker to
+fit, but preferred building his own; the design was untested as of early
+2006, awaiting the coming sailing season.[132]
+
+## The yard, revisited: a strop-and-sheave halyard, and finishing the boom
+
+Work on the boom and mast continued through January 2006. Derek considered
+running the halyard over a strop and sheave rather than cutting a slot in
+the mast, and — not for the first time — reconsidered a bamboo yard, this
+time proposing to reinforce the point where it would bear against the mast
+with fibreglass tape wrapped around the bamboo, again weighing this against
+the plans' heavier, cantilevered wooden yard.[133] He resolved the question
+by making the yard from wood after all: inspecting his timber stock, he
+found the boom blank's dead knot could be cut down, moving the flaw nearer
+the end and halving its depth, with a wedge-shaped piece planned to replace
+the cut-out section.[134] (See [why the yard is tapered rather than a
+constant-diameter pole](#why-the-yard-is-tapered-rather-than-a-constant-diameter-pole)
+above for the fuller, previously-settled case against a plain bamboo pole.)
+
+While finishing the boom, Derek also asked whether the yuloh could simply
+be mounted in a standard oar socket, and asked about the relative merits of
+2 hp Honda and Suzuki outboards — the outboard question went unanswered in
+the record.[135] On the oar-socket question: an ordinary rowlock carries a
+real risk of tangling with the mainsheet, which can lift it out, and wears
+the oar enough to need good leathers, though many scullers use one anyway;
+fitting a rowlock socket keeps the option open to drop in the plans'
+designed pin (or any other fitting) later, if the rowlock proves
+unsatisfactory.[136]
 
 ## See also
 
@@ -865,3 +905,9 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [128] Archive message page_3125 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3156, 2005-09-04) — "Tack Strop Fork": silver-soldered an extra brass plate across the tack strop fork as the promised reinforcing bridge piece, using an improvised forge (fire bricks from a fireplace lined in a biscuit tin, using noticeably less gas than in the open); photographs posted to the "Enuf" folder; as a fallback if not strong enough, considered slitting a further length of 15mm copper pipe and forcing it over the existing tube before soldering, matching what he understood "Al" to be using for the same fitting. Signed "Derek."
 [129] Archive message page_3134 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3165, 2005-09-06) — "Re: Tack Strop Fork": the 15mm pipe is plenty strong used straight; it was splitting it that made it too flimsy; his own method was a tapered punch to spread the far end, curled back on itself with a small hammer to make a rolled edge that would not cut into the deck. Signed "Al, Yeovil, England."
 [130] Archive message page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3286, 2006-01-14) — "Re: Robbsboat": "So there is somebody out there still :0)"; reports restarting his "Enuf" build that day, with a new boom taking shape; it was 9°C in the garage but a new propane fan heater took it to 20°C in no time — "It got so warm I nearly took my vest off." Signed "Derek."
+[131] Archive message page_3261 (logicaid / "Alan", `paradoxbuilders`, msgnum 3292, 2006-01-15) — "Re: Robbsboat": glad to hear of more progress; cautions Derek to be careful of carbon monoxide build-up from his heater, not knowing its type — people have died using gas cookers, even in tents, with many cases recorded after hurricanes in the US. Signed "Alan."
+[132] Archive message page_3265 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3296, 2006-01-15) — "Re: Robbsboat & Ventilation & Cover": thanks Alan for the concern; the heater's own instructions mention CO build-up, so he always tests the workshop air before using it, sending his wife in to check the thermometer — she has come back out safely every time so far. Separately describes a transom spar-stowage port he built: about 150 mm in diameter, with a plywood ring glued around it to a 180 mm inner diameter, closed by a 180 mm Lexan disc on a center bolt with a bar and captive nut across the inside, sealed with a cork gasket; expects the coming spring to show whether it works, though a proprietary dinghy inspection port would have been quicker to fit; "I was feeling creative on the day I made it." Signed "Derek."
+[133] Archive message page_3268 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3299, 2006-01-20) — "More progress & questions": has nearly finished the boom and mast; leaning toward a strop-and-sheave halyard pulley rather than cutting a slot in the mast; has a good length of 35 mm bamboo on hand and asks whether reinforcing it with fibreglass tape at the point it bears against the mast would let it substitute for the plans' heavier, cantilevered wooden yard. Signed "Derek."
+[134] Archive message page_3269 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3300, 2006-01-21) — "More progress and another question": made the yard; inspecting his wood stock, found the boom blank with a dead knot could be cut down, moving the flaw nearer the end and halving its depth, with a wedge-shaped replacement piece planned; asks whether the yuloh can be mounted in a standard oar socket, and about the relative merits of 2 hp Honda and Suzuki outboards. Signed "Derek."
+[135] Archive message page_3269 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3300, 2006-01-21) — "More progress and another question": the 2 hp Honda-versus-Suzuki outboard question went unanswered in the record.
+[136] Archive message page_3270 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3301, 2006-01-21) — "Re: More progress and another question": an ordinary rowlock risks tangling with the mainsheet, which can lift it out, and wears the oar enough to need good leathers, though many scullers use one regardless; fitting a rowlock socket keeps the option open to drop in the plans' designed pin (or some other system) later if the rowlock proves unsatisfactory. Signed "Al, Yeovil, England."

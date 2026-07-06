@@ -89,8 +89,14 @@ culture](/references/mailing-list.md#list-culture).
 
 In mid-December 2005, Derek reported restarting work on "Enuf" after a pause,
 with a new boom taking shape; a propane fan heater brought his unheated
-garage from 9°C to 20°C in short order. Full build narrative at
-[boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater).
+garage from 9°C to 20°C in short order, and he built a dedicated
+Lexan-and-cork-gasket transom port for spar stowage. Through January 2006
+he finished the boom and mast, weighed a strop-and-sheave halyard against
+cutting a mast slot, and settled a recurring bamboo-vs-wood yard question by
+building the yard from wood after all, cutting around a knotted section of
+the boom blank. Full build narrative at
+[boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater)
+and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
 
 # Citations
 
@@ -114,3 +120,4 @@ garage from 9°C to 20°C in short order. Full build narrative at
 [18] Archive message page_3211 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3242, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 [19] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 [20] Archive messages page_3253/page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3284/3286, 2005-12-15/2006-01-14) — "Robbsboat"/"Re: Robbsboat": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); reports restarting his "Enuf" build with a new boom, and a propane fan heater warming his garage from 9°C to 20°C.
+[21] Archive messages page_3265/page_3268/page_3269/page_3270 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3296/3299/3300/3301, 2006-01-15/2006-01-20/2006-01-21) — "Re: Robbsboat & Ventilation & Cover"/"More progress & questions"/"More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater) and [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom); built a transom spar-stowage port, finished the boom and mast, and settled a bamboo-vs-wood yard question.

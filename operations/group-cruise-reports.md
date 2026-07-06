@@ -256,6 +256,11 @@ epoxy, among many others. Glen Maxwell was by then a regular attendee with
 "Zoë." Motels around Cedar Key fill to capacity that weekend, making early
 booking necessary.
 
+David Beard confirmed he planned to attend in 2006 after several years
+away, having spent the intervening seasons sailing the Mississippi and
+Alabama Gulf Coast instead; he stopped attending group gatherings there
+after Hurricane Katrina, finding the region "just too depressing."[37]
+
 ## Where to find a written cruise report, absent a fresh one
 
 Absent a fresh trip report, the record's fullest answer to "what has it been
@@ -306,3 +311,4 @@ outings sailing "Little Jim" in sheltered estuaries near home.
 [34] Archive message page_2152 (openboat / "Alastair", `paradoxbuilders`, msgnum 2177, 2004-07-06) — "Re: Has anyone gone sailing lately": no fresh open-water adventures that year, but "Little Jim" has been out for weekends in sheltered estuaries; full text and ballast-trim account at [people/alastair.md](/people/alastair.md#sailing-performance-and-weight). Signed "Al, Yeovil, England."
 [35] Archive message page_3256 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3287, 2006-01-14) — "Cedar Key": asks whether there will be a get-together at Cedar Key that year, and if so what the dates are. Signed "David Beard, 'Whisper'."
 [36] Archive message page_3258 (lwhited / Larry Whited, `paradoxbuilders`, msgnum 3289, 2006-01-14) — "Re: Cedar Key": confirms 6-7 May 2006, always the first full weekend in May; describes it as growing into "a big affair with a lot of stars of the small boat building community" — the previous year Matt Layden attended with his new, lighter Paradox, alongside Robb White and the Gugeon brothers of WEST System, among many others; Glen Maxwell attends regularly with "Zoë"; will sail down from Carrabelle in his own new Seapearl 28, "Belle"; warns motels fill to capacity that weekend. Signed "Larry."
+[37] Archive message page_3264 (dlb / "David Beard", `paradoxbuilders`, msgnum 3295, 2006-01-15) — "Re: Cedar Key": plans to attend in 2006; has not attended the last couple of years, having instead been sailing the Mississippi and Alabama Gulf Coast, but finds the region "just too depressing" since Hurricane Katrina. Signed "David Beard."

@@ -898,6 +898,17 @@ Paradox ever being resold — "they seem to be keepers" — and pointed the
 newcomer to microcruising.com for study plans and to Dave Bolduc for the
 full building plans. See [secondhand Paradox market — a want-to-buy inquiry
 from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[272]
+On the transom ventilation port, described his own practice (cover stays on
+except to load/unload spars, sufficient ventilation through the tiller slot
+alone, a knotted-string tether against losing the cover) and floated a
+bottom-hinged, line-operated cover design for anyone wanting to open the
+port at sea; on hearing Matt Layden's own port opens from the inside,
+wondered whether Matt actually sails with the cover off. See [transom deck
+plate — a 2006 revisiting](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).[273][274][275]
+Answering a yuloh-mounting question, cautioned that an ordinary rowlock
+risks tangling with the mainsheet and wears the oar enough to need good
+leathers, though a rowlock socket keeps the designed pin as a fallback
+option. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[276]
 
 # Citations
 
@@ -1176,3 +1187,7 @@ from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[
 [270] Archive message page_3206 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3237, 2005-11-05) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses). Signed "Al, Yeovil, England."
 [271] Archive message page_3208 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3239, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions). Signed "Al, Yeovil, England."
 [272] Archive message page_3247 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3278, 2005-12-09) — "Re: paradox or similar wanted": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas). Signed "Al, Yeovil, England."
+[273] Archive message page_3262 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3293, 2006-01-15) — "Re: Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Al, Yeovil, England."
+[274] Archive message page_3263 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3294, 2006-01-15) — "Re: Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Al, Yeovil, England."
+[275] Archive message page_3267 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3298, 2006-01-16) — "Re: Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Al, Yeovil, England."
+[276] Archive message page_3270 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3301, 2006-01-21) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom). Signed "Al, Yeovil, England."

@@ -1,5 +1,56 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 327: page_3261-page_3270)
+
+This batch closed out two threads batch 326 had reopened. On the **transom
+ventilation port**, **Alastair** described his own long-standing practice
+(the cover only comes off to load/unload the spars; the tiller slot alone
+gives more than enough ventilation; a knotted-string tether guards against
+losing the cover) and floated a bottom-hinged, line-operated cover design
+for anyone wanting to open the port underway. **Glen Maxwell** added a
+firsthand eyewitness detail — seeing **Matt Layden**'s own Paradox in
+person, rather than only in photographs, showed its port was fitted to
+open from the inside — prompting Alastair to wonder whether Matt actually
+sails with the cover off in practice. On **Cedar Key**, **David Beard**
+confirmed he plans to attend in 2006 after a few years away, having spent
+those seasons sailing the Mississippi/Alabama Gulf Coast instead, and
+stopped attending group gatherings there after Hurricane Katrina, finding
+the region "just too depressing." Separately, **Alan** cautioned **Derek
+Clark** about carbon monoxide build-up from his workshop's propane heater;
+Derek described his own safety-check habit and a from-scratch transom
+spar-stowage port (a 150 mm hole with a plywood ring, 180 mm Lexan cover
+disc, and a cork gasket). Derek closed out January by finishing "Enuf"'s
+boom and mast — resolving a resurfaced bamboo-vs-wood yard question by
+building the yard from wood after all — and asked whether a yuloh could
+mount in a standard oar socket (answered by Alastair: risk of mainsheet
+tangling and oar wear, but a rowlock socket keeps the plans' designed pin
+as a fallback) and an outboard-brand question that went unanswered in the
+record.
+
+- **`construction/transom-deck-plate.md`** — extended the existing "A 2006
+  revisiting" section with Alastair's practice/tether, his bottom-hinged
+  cover idea, and the Matt Layden eyewitness detail. Cites [43]-[46], 46
+  total/46 max, no gaps.
+- **`people/glen-maxwell/matt-layden-eyewitness.md`** — new "Matt Layden's
+  own transom port opens from inside" section, routing the eyewitness fact
+  per the standing Glen Maxwell routing rule. Cite [49], 49 total/49 max,
+  no gaps.
+- **`operations/group-cruise-reports.md`** — extended the existing 2006
+  Cedar Key section with David Beard's attendance confirmation and
+  post-Katrina Gulf Coast fact. Cite [37], 37 total/37 max, no gaps.
+- **`people/david-beard.md`** — extended his existing Cedar Key paragraph in
+  place with the new biographical detail. Cite [254], 254 total/254 max,
+  no gaps.
+- **`boats/enuf.md`** — extended "Resuming work" with the CO-safety
+  exchange and the transom spar-port build; new "The yard, revisited"
+  section for the strop-and-sheave/bamboo-yard/yuloh/outboard questions.
+  Cites [131]-[136], 136 total/136 max, no gaps.
+- **`people/derek-clark.md`** — extended the "Resuming the build" section
+  with a summary+link paragraph. Cite [21], 21 total/21 max, no gaps.
+- **`people/alastair.md`** — new summary+link paragraph for his transom-port
+  practice/idea and the yuloh/rowlock answer. Cites [273]-[276], 276
+  total/276 max, no gaps.
+
 ## 2026-07-06 (batch 326: page_3251-page_3260)
 
 This batch crossed the archive's first **2005/2006 New Year boundary**,

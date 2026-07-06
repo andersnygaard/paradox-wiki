@@ -198,6 +198,27 @@ extend, rather than resolve, the same fair-weather-ventilation-versus-storm-
 security trade-off already documented above for the transom port and vent
 baffle generally.[41][42]
 
+In practice, one long-fitted port is only ever removed to load or unload
+the spars for trailering; the tiller slot alone supplies more than enough
+ventilation the rest of the time, so the cover simply stays on while
+sailing. Losing the cover overboard was addressed at the fitting stage,
+rather than by an inward-opening redesign: a small hole drilled near its
+centre carries a knotted string as a tether.[43] A bottom-hinged cover,
+opened from inside on a line, was floated as the design that would suit
+opening the port at sea — restricting its swing to about 60° means a
+following wave would wash it shut rather than wash water in, and the
+port itself does not need to be watertight at all, since the baffle
+behind it already directs any water that does get in back out through the
+tiller slot.[44]
+
+**Firsthand confirmation from Matt Layden's own boat.** Seeing Matt
+Layden's own Paradox in person, rather than only in photographs, showed
+that his transom port cover was fitted to be removed **from the inside** —
+the inward-opening arrangement independently proposed above.[45] Whether
+Matt actually sails with the cover off was left an open question, since
+opening or closing such a cover from inside in a real seaway, rather than
+alongside, was doubted to be practical for everyone.[46]
+
 **A vent-trunk cooling fan.** For hot-weather comfort rather than
 bug-sealing, a small **12V fan** mounted in the vent trunk made conditions
 "bearable" for the crew forward on a day near 100°F — one builder's plan is
@@ -468,3 +489,7 @@ against the theoretical flooding scenario.
 [40] Archive message page_3097 and page_3098 (dlb / David Beard and dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3097 and 3098, 2005-08-14) — "Re: Tiller thru hull seal": David Beard does a lot of winter sailing and finds the ventilation system "works all too well" in cold weather, needing the holes plugged; Derek Clark agrees his sailing partner has found the same and asks where to source a bit of neoprene, answered at [boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes).
 [41] Archive message page_3257 (dlb / "David Beard", `paradoxbuilders`, msgnum 3288, 2006-01-14) — "Transom ventilation Port": ahead of the 2006 season, never installed the transom vent port for fear of losing the cover or taking on water hanging it over the transom in rough weather; ventilation has not otherwise been a problem, but in his opinion a boat can never have too much of it, especially in the south's heat; asks whether anyone has had trouble with the port itself, losing the cover, or putting it back on in rough weather, and how much difference in airflow the cover open versus closed makes. Signed "David Beard."
 [42] Archive messages page_3259/page_3260 (LJGeib / Larry Whited, `paradoxbuilders`, msgnum 3290, 2006-01-15, and logicaid / "Alan"/logicaidnz, `paradoxbuilders`, msgnum 3291, 2006-01-15) — "Re: Transom ventilation Port": Larry Whited suggests mounting the cover to open from the inside, making it hard to lose; Alan (New Zealand) cautions an inward-opening cover could instead be punched in by a wave in bad conditions, and suggests fabricating a handle on the inner face doubling as an attachment point for a no-lose lanyard, or fitting two ports back to back so one can be closed from inside and the other from outside.
+[43] Archive message page_3262 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3293, 2006-01-15) — "Re: Transom ventilation Port": had not thought of removing the cover while sailing; his own comes off only to load/unload the spars for transport and otherwise stays on; gets more than sufficient ventilation through the tiller slot alone; drilled a small hole near the cover's centre and fitted a knotted string through it to be sure of not losing it. Signed "Al, Yeovil, England."
+[44] Archive message page_3263 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3294, 2006-01-15) — "Re: Transom ventilation Port": a cover openable at sea would also be difficult to reach in rough conditions; if he wanted one, he would fit or make a cover hinged at the bottom, operated by a line from inside, restricted to opening about 60° so a following wave would wash it shut rather than wash water in (he has never had water come in the tiller slot itself); notes the hatch does not need to be watertight at all, since any water it does admit is directed back out of the tiller slot by the baffle. Signed "Al, Yeovil, England."
+[45] Archive message page_3266 (ifida / "Glen C. Maxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 3297, 2006-01-16) — "Re: Transom ventilation Port": it was not until he actually saw Matt Layden's own Paradox in person that he noticed its port was installed so Matt could remove the cover from the inside. Full text and citation at [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#matt-laydens-own-transom-port-opens-from-inside). Signed "Glen."
+[46] Archive message page_3267 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3298, 2006-01-16) — "Re: Transom ventilation Port": asks whether Matt sails with the port cover off, doubting he would want to try closing his own from inside in a seaway — "perhaps his arms are much longer than mine." Signed "Al, Yeovil, England."
