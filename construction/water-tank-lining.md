@@ -69,6 +69,17 @@ but only in expensive 9-litre cans — expensive enough that one builder who
 made the call fell back on **flexible bladders** with taps instead of
 built-in tanks.
 
+A firsthand account bears out the general caution above: one builder's own
+epoxy supplier advised against using it for drinking water, and finding
+sludge (slime) in the bottom of his tank at the end of the first season
+confirmed the decision. His practice since has been to use the built-in
+tank purely as **ballast**, filling with sea water when launching from a
+remote site, and to carry actual drinking water separately — reasoning that
+unless a builder is setting out on extended trips to remote areas, there is
+plenty of storage space aboard for a few bottles of water instead. He also
+notes some builders skip the tanks altogether, fitting extra permanent lead
+and using the freed space as a storage locker.
+
 ## Not using the built-in tanks at all: individual containers instead
 
 An alternative to lining the built-in tank compartments at all is to skip
@@ -257,3 +268,4 @@ for the related fix to a bin-side panel pulling away from the tank tops.
 [27] Archive message page_2698 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 2728, 2005-05-28) — "Introduction": planning to make his own water tanks out of cut-up poly sheet using a plastic welder, linking a Harbor Freight welder as an example tool. Answered at [28].
 [28] Archive message page_2703 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2733, 2005-05-28) — "Re: Introduction": "This is a neat idea, though, I haven't tried welding poly plastic. The price is right on the welder so maybe I will give it a try too." Signed "Dave."
 [29] Archive message page_2704 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 2734, 2005-05-28) — "Re: Introduction": raises an access objection to any tank fitted under the built-in tank tops (welded-poly or otherwise) — the tops form a "permanent" floor, so reaching the tank later means cutting new hatches into the sole, and that same floor may be structural, at risk of being weakened by added hatches. No resolution recorded. Signed "BRENT."
+[30] Archive message page_3208 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3239, 2005-11-06) — "Re: WATER TANKS": answering Martin's question about drinking water in contact with epoxy, his own epoxy supplier recommended against it; uses the tank as ballast instead and doesn't drink from it, a decision confirmed by sludge/slime found in the tank bottom at the end of the first season; will fill with sea water launching from a remote site; notes plenty of storage space aboard for bottled water unless setting out for genuinely remote areas, and that some builders skip the tanks entirely, fitting extra lead and using the space as a storage locker. Signed "Al, Yeovil, England."

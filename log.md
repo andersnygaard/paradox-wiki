@@ -1,5 +1,49 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 321: page_3201-page_3210)
+
+A "gallons" banter thread (Derek Clark's joke about English vs. American
+gallon sizes, answered in kind by Paul Reppeto, Alastair, and Larry Whited)
+ran alongside two genuine follow-up questions from **Martin**
+(`martin304919`, the below-threshold newcomer introduced last batch): how
+much epoxy other builders actually used, and whether drinking water in
+contact with epoxy is safe. Alastair answered both from his own build — a
+deliberate "better too much than too little" epoxy-quantity principle (2
+lots of 25 kg, ~5 kg left over), and a firsthand water-tank account (his
+epoxy supplier advised against drinking water, confirmed by sludge found
+after one season, so he uses the built-in tank as ballast only). Derek
+Clark added his own epoxy-cost figures (roughly £160 to strip and redo his
+hull bottom, ~£2,000 overall, "asking the wrong fellow"). The pure banter
+half of the thread (imperial-vs-US pint/gallon/ounce/billion trivia) was
+correctly excluded from the tree per the pruning rubric — no Paradox
+design/construction/sailing content. No new person or boat pages created
+this batch; all new material extended existing hub and person pages via
+cross-link, per the narrate-once-cross-link and universal-truths
+conventions.
+
+- **`construction/epoxy-brands-and-chemistry.md`** — new section "How much
+  epoxy a build actually uses," giving Alastair's and Derek Clark's
+  real-world epoxy-quantity/cost data points alongside the plans' own 5-7
+  gallon estimate. Cites [19]-[20], 20 total/20 max, no gaps.
+- **`construction/water-tank-lining.md`** — extended the existing "Epoxy:
+  mixed opinions" section with Alastair's firsthand drinking-water-in-tank
+  account. Cite [30], 30 total/30 max, no gaps.
+- **`people/alastair.md`** — two new narrate-once-cross-link summary lines
+  (epoxy quantity, water-tank safety) linking to the boat/topic pages above.
+  Cites [270]-[271], 271 total/271 max, no gaps.
+- **`people/derek-clark.md`** — extended the existing epoxy-conversion
+  mention with his epoxy-cost figures. Cite [17], 17 total/17 max, no gaps.
+- `.okf-progress/backlog.md` — Martin's below-threshold-newcomer entry
+  updated in place with his batch-321 resurfacing (still no boat/build); new
+  "Batch 321 correspondent + gap check" section recording the msgnum run,
+  attribution checks, and the pruning-rubric exclusion of the gallons
+  banter.
+
+Anchor checker: 0 broken across 2,451 anchors. Msgnum run 3232-3241 (pages
+3201-3210) confirmed distinct and consecutive from batch 320's last msgnum
+3231; all ten byte sizes matched the dispatch table exactly, no same-size
+pair. Archive timeline reached 5-6 November 2005.
+
 ## 2026-07-06 (batch 320: page_3191-page_3200)
 
 **A fourth-plus independent confirmation that the stock furling gear needs

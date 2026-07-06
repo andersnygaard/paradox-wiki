@@ -884,6 +884,15 @@ and failed to obtain a helicopter pilot's dinghy-box seat, and has been
 looking for a folding beach seat for sitting on the aft deck. See [crew size
 and fit — long-passage seat comfort: cushion
 practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[266][267]
+Built his own Paradox on a deliberate "better too much than too little"
+epoxy principle, using 2 lots of 25 kg with about 5 kg left over. See [epoxy
+brands and chemistry — how much epoxy a build actually
+uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).[270]
+On drinking water in an epoxy-lined tank, his own supplier advised against
+it, a decision confirmed by sludge found in the tank at the end of the
+first season; uses the built-in tank as ballast only, filling with sea
+water from remote launch sites, and carries drinking water separately. See
+[water tank construction and lining](/construction/water-tank-lining.md).[271]
 
 # Citations
 
@@ -1159,3 +1168,5 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [267] Archive message page_3159 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3190, 2005-09-19) — "Re: Quintessential Seat": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Al, Yeovil, England."
 [268] Archive message page_3193 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3224, 2005-10-20) — "Re: new pics": full text and citation at [design/rig.md](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix). Signed "Al, Yeovil, England."
 [269] Archive messages page_3196/page_3197 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3227, 2005-10-21, "Re: Topping Lift"; and msgnum 3228, 2005-10-21, "Re: Topping Lift"): full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations). Signed "Al, Yeovil, England."
+[270] Archive message page_3206 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3237, 2005-11-05) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses). Signed "Al, Yeovil, England."
+[271] Archive message page_3208 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3239, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions). Signed "Al, Yeovil, England."

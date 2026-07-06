@@ -63,6 +63,13 @@ litre-to-kilogram conversions used to translate the plans' materials
 estimate into metric units. See [epoxy brands and chemistry — converting a
 US epoxy quantity to litres or
 kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
+A follow-up question on his own total epoxy cost caught him self-deprecating
+rather than precise: having stripped and completely redone his hull bottom
+once already (roughly £160 in wasted materials), he gave up tracking the
+total and guessed around £2,000 overall, preferring not to know the real
+figure himself, let alone tell his wife. See [epoxy brands and chemistry —
+how much epoxy a build actually
+uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
 
 # Citations
 
@@ -82,3 +89,4 @@ kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-qua
 [14] Archive message page_1777 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1800, 2004-01-06) — "Re: Main Sheet": asks if somebody can scan the picture to the group's Files section for those without access to the magazine. Signed "Derek."
 [15] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Derek."
 [16] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
+[17] Archive message page_3210 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3241, 2005-11-06) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).

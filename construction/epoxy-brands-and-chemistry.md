@@ -134,6 +134,19 @@ size in local use. A litre of epoxy weighs **slightly more than a litre of
 water** (1 kg), so a plans-quoted 5-7 US gallons works out to roughly
 **19-26 litres**, or a little over that in kilograms.
 
+## How much epoxy a build actually uses
+
+Beyond the plans' own **5-7 US gallon** estimate (see the litre/kilogram
+conversion above), real-world reports vary with technique and rework. One UK
+builder, working on a deliberate "better to use too much than too little"
+principle, bought **two lots of 25 kg** (about 5 kg of which was left over
+at the end), favoring epoxy's gap-filling properties over the material
+savings a more polished woodworking technique might have allowed. At the
+other extreme, a builder who had to strip and completely redo his hull
+bottom put the wasted rework alone at roughly **£160**, and gave up trying
+to track his total epoxy spend across the whole build, guessing it at
+somewhere around **£2,000** overall.
+
 ## Reviving old, crystallized epoxy: a heat trick and a microwave mishap
 
 Old epoxy remains usable well past three years, even stored at a constant
@@ -173,3 +186,5 @@ warning against microwaving epoxy even briefly.
 [16] Archive message page_3198 (martin.feaviour / "martin304919" / Martin, `paradoxbuilders`, msgnum 3229, 2005-11-02) — "EPOXY": asks what the plans' 5-7 gallon epoxy estimate comes to in kilograms. Signed "martin."
 [17] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": 1 gallon is about 4.5 litres, and 1 litre of water weighs 1 kilogram, with epoxy likely slightly heavier than water per litre; 5 gallons times 4.5 litres comes to 22.5 litres.
 [18] Archive message page_3200 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3231, 2005-11-04) — "Re: EPOXY": corrects Derek's conversion for anyone using US gallons, which hold only 3.785 litres rather than the Imperial 4.5; notes Canada uses both gallon sizes. Signed "Nels, Where in Canada we have both kinds:-("
+[19] Archive message page_3206 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3237, 2005-11-05) — "Re: GALLONS ETC.": answering Martin's epoxy-quantity question, built his own Paradox on a "better to use too much than too little" principle, buying 2 lots of 25 kg with about 5 kg left over; with improved woodworking practice less could be used, but found the gap-filling properties invaluable. Signed "Al, Yeovil, England."
+[20] Archive message page_3210 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3241, 2005-11-06) — "Re: GALLONS ETC.": tells Martin he's "asking the wrong fellow" — he's the one who did the whole bottom, scraped it off, and did it all again, at roughly £160 for that rework alone; gave up tracking total cost, guessing around £2,000 overall and preferring not to know the true figure, or let his wife know it. Signed "Derek."
