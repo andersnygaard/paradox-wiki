@@ -425,6 +425,71 @@ finished the job himself the following day, reasoning "if you want a job
 doing properly you do it yourself," and expected to have "Enuf" turned
 right-way-up again by the coming weekend on a favorable five-day forecast.[78]
 
+## The bottom finished: an exothermic epoxy scare, and turning the hull upright
+
+The stripped, gouge-filled bottom (see above) was finally sanded fair and
+coated for good the following week. Mixing a comparatively large 1.5 litre
+batch and measuring it by jugs rather than a pump, Derek got a sharp lesson
+in **epoxy's exothermic reaction**: partway through spreading the batch, the
+mixing pot itself began smoking and radiating heat, the plastic softening as
+the epoxy "went into overdrive" curing in the pot before it could all be
+applied. The reaction cost him a dizzy spell and a stumble, cured with a
+sweet drink and food rather than any lasting harm, and the batch that had
+already gone down onto the hull cured normally. The lesson generalizes
+beyond this one incident: a large batch mixed in a single pot concentrates
+the cure's heat and can run away well before a thin, spread-out coating
+would, so a big pour is best split into smaller batches or spread
+immediately rather than left to sit in the pot. See [epoxy coating technique
+— mixing container shape and stir
+time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time)
+and [epoxy coating technique — an exothermic runaway in the mixing
+pot](/construction/epoxy-coating-technique.md#an-exothermic-runaway-in-the-mixing-pot)
+for the general hazard this confirmed.[79]
+
+A second, fairing-compound coat went on that same midnight, and by the
+following weekend the bottom was **hard and shiny** — reaching the point
+Derek had been aiming for a fortnight earlier — with neighbours booked to
+help turn "Enuf" right-way-up. He closed the milestone with a blanket
+thank-you to everyone who had advised him through the two epoxy failures,
+summarizing the collective lesson as simply "dump the pump."[79]
+
+## Sealing the tiller thru-hull, and the ventilation trade-off it exposes
+
+With the hull upright, Derek turned to the tiller's own thru-hull opening —
+the same vent-baffle/tiller-port arrangement discussed generally at [transom
+deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).
+Sealing this opening exposed a genuine trade-off rather than a single right
+answer: a snug, bug-proof seal keeps out insects (a real nuisance, up to and
+including a wasp nest found while trailering) but also shuts off airflow
+that the boat depends on for ventilation, particularly noticeable in winter
+sailing when the same open vent that is welcome in summer heat instead lets
+in too much cold air, calling for the holes to be plugged in cold weather
+rather than left permanently open. Techniques for a bug-tight seal without
+losing that airflow, including a wetsuit-neoprene tiller gasket and a
+vent-trunk-mounted cooling fan, are recorded in full at [transom deck plate
+— the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).[81][82][83][84][86]
+
+## Toe rail: is it needed, and where to source one in the UK
+
+Facing his own deck's surface texturing, Derek questioned whether the
+Paradox's metal toe rail was needed at all, reasoning that a textured,
+non-skid deck surface would not need the rail to channel rainwater the way
+a smooth deck does (see [blue-water suitability — a catalogue of
+conventional offshore features, weighed and mostly
+declined](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined)
+for the rail's standard role). Firsthand experience settled the question in favor
+of fitting one regardless of the water-channelling question: a season
+sailed without a toe rail proved genuinely **difficult for moving forward on
+deck**, and going back and fitting one afterward "makes things much
+easier" — a practical, footing-and-handhold case for the rail distinct from
+its rainwater-channelling function.[80][85]
+
+## Mast blanks
+
+With the bottom finished and turned upright, Derek's next construction step
+was starting the **mast blanks**, the point his build had reached as this
+record closes.[80]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -510,3 +575,11 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [76] Archive message page_3046 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3077, 2005-08-06) — "Re: Unfolding Calamity for Enuf": "Welcome to the Group David." Signed "David Beard, Paradox 'Whisper.'"
 [77] Archive message page_3051 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3082, 2005-08-07) — "Enuf's Bottom": has hired two tradesmen to strip the hull bottom the following day; tested the still-sound biaxial sheathing elsewhere on the hull by cutting a two-inch slash and levering it with a knife blade — the top weave ripped diagonally clean across the hull in a two-inch strip, showing the top layer of biax was not bonded to the layer beneath; reasons an aggressive shore crab could strip the bottom just as easily; is going away for a couple of days while the hired help does the stripping job. Signed "Derek."
 [78] Archive message page_3058 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3089, 2005-08-09) — "Re: Enuf's Bottom": returns to find the stripping job only partly done — loose white strings of unstripped fabric still on the hull, gouges "like my crab has attacked," and empty bottles left by his hired help; finishes the job himself the next day, reasoning "if you want a job doing properly you do it yourself"; hopes to have "Enuf" right-way-up again by the weekend, with a good five-day forecast. Signed "Derek."
+[79] Archive message page_3061 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3092, 2005-08-12) — "Enuf Epoxied": bottom now hard and shiny, reaching the point hoped for a fortnight earlier; describes mixing a 1.5 litre batch measured by jugs that overheated in the pot, smoking and softening the plastic, going "into overdrive" as he applied it — cured with a sweet drink and a blueberry muffin after a dizzy spell; that coat and a second, midnight fairing-compound coat both cured normally; neighbours booked to turn the hull upright; thanks the list, summarizing the two epoxy failures' lesson as "dump the pump." Signed "Derek."
+[80] Archive message page_3100 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Toe rail": asks how necessary the toe rail is given a textured, non-skid deck surface that won't need it to channel rainwater; asks for a UK source for the slotted metal toe rail if it is needed; reports hoping to start putting the mast blanks together the next day. Signed "Derek."
+[81] Archive message page_3062 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3093, 2005-08-14) — "Tiller thru hull seal": sealed his own tiller thru-hull with a leg cut from an old 12 mm wetsuit, bolted to the transom and lashed to the tiller, tested watertight with a hose; has never had water intrusion trouble, unlike a case he read of Matt Layden having one; his own nuisance is wasps nesting in the bow while trailered.
+[82] Archive message page_3064 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3095, 2005-08-14) — "Re: Tiller thru hull seal": thought the hole was needed for ventilation to work; has made a bug net for his own boat instead of sealing it fully. Signed "Derek."
+[83] Archive message page_3065 and page_3066 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3094 and 3096, 2005-08-14) — "Re: Tiller thru hull seal": sealed his own tiller thru-hull the same way, with rubber roofing membrane, also to keep out bugs and animals while trailered; mounted a 12V fan in the vent trunk on a hot (near 100°F) day, finding it made conditions bearable for the person up front, and plans to epoxy the fan into the rim of a removable access hatch so it can be swapped out and the boat stored bug-free; separately notes he prefers being able to close up the back while motoring, to keep out exhaust fumes, and plans to sail late-season when the air is colder and the water still warm. Signed "Jack."
+[84] Archive message page_3097 and page_3098 (dlb / David Beard and dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3097 and 3098, 2005-08-14) — "Re: Tiller thru hull seal": David Beard reports doing a lot of winter sailing and finding the ventilation system "works all too well" in cold weather, needing the holes plugged; Derek agrees his sailing partner "Al" has found much the same, and asks where to source a bit of neoprene. Signed "David" / "Derek."
+[85] Archive message page_3101 (dlb / "David Beard", `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Re: Toe rail": sailed a season without a toe rail and found it difficult to go forward on deck without one; now has one fitted and finds it makes things much easier. Signed "David."
+[86] Archive message page_3069 (BllFs6 / "bllfsh666" / Bill, `paradoxbuilders`, msgnum 3099, 2005-08-14) — "Re: Tiller thru hull seal": suggests a local scuba shop as a neoprene source — they can often supply small new pieces cheaply, or have old wetsuits to sell cheap or give away, from which to salvage the piece needed. Signed "Blll."

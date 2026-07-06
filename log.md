@@ -1,5 +1,44 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 307: page_3061-page_3070)
+
+**Derek Clark's "Enuf" bottom finished (hard and shiny, after an exothermic
+epoxy scare), plus the tiller thru-hull seal/ventilation trade-off and a
+toe-rail question — both settled with real firsthand data from David Beard
+and Jack Gardiner.** One boat page and three concept/person pages extended;
+no new person or boat pages created this batch.
+
+- **`boats/enuf.md`** — three new sections: "The bottom finished: an
+  exothermic epoxy scare, and turning the hull upright" (a large 1.5 litre
+  batch overheated in the mixing pot mid-application; bottom completed and
+  hull turned upright the same week), "Sealing the tiller thru-hull, and the
+  ventilation trade-off it exposes" (bug-tight sealing vs. airflow,
+  including a winter-sailing plug-the-holes point), and "Toe rail: is it
+  needed, and where to source one in the UK" (settled by David Beard's
+  firsthand season-without-one experience), plus a short "Mast blanks"
+  note marking where Derek's build stood as of this batch. Cites [79]-[86],
+  86 total, no gaps.
+- **`construction/epoxy-coating-technique.md`** — new section "An exothermic
+  runaway in the mixing pot": the durable lesson that a large batch left
+  sitting in one container concentrates cure heat far more than the same
+  volume spread thin, so batches should be kept small and spread promptly.
+  Cite [83], 84 total/83 numeric max (pre-existing [29a] suffix unaffected).
+- **`construction/transom-deck-plate.md`** — extended the existing "vent
+  baffle" section with two builders' wetsuit-neoprene and rubber-membrane
+  tiller-seal techniques (both aimed at keeping out bugs while trailered,
+  both reintroducing the ventilation trade-off) and Jack Gardiner's
+  vent-trunk 12V cooling-fan idea. Cites [37]-[40], 40 total, no gaps.
+- **`people/david-beard.md`** — narrate-once cross-link addendum: his own
+  wetsuit-neoprene tiller seal, winter-ventilation plug-the-holes point, and
+  toe-rail experience, folded into the existing "Other durable data points"
+  paragraph rather than re-narrated. Cites [245]-[246], 246 total, no gaps.
+- **Backlog:** no Open item's trigger condition was met by these ten pages
+  (David Platten and Bill Serjeant items untouched — neither appeared this
+  batch); no new below-threshold correspondent surfaced (Bill/`bllfsh666`,
+  a one-off neoprene-sourcing reply, folded directly into `boats/enuf.md`'s
+  citations rather than logged as a watch item, since he contributed one
+  practical tip and nothing suggesting a recurring presence).
+
 ## 2026-07-06 (batch 306: page_3051-page_3060)
 
 **Identity reconciliation: "William Serjeant," flagged last batch as a new

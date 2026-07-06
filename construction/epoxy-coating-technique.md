@@ -162,6 +162,22 @@ distracted mid-pour and missing the hardener or the pot entirely — rather
 than container shape itself; the rule of thumb is **at least three,
 preferably four, minutes** of stirring while scraping the sides.
 
+## An exothermic runaway in the mixing pot
+
+Epoxy's cure is exothermic, and the reaction's heat output scales with the
+**mass of the batch left sitting in one container**, not just with the total
+area it will eventually cover once spread out. A comparatively large 1.5
+litre batch, mixed and then applied gradually rather than spread immediately,
+can go from a normal working pot-life into a runaway cure within minutes:
+the container itself smoking, the plastic softening, and the remaining epoxy
+curing solid in the pot before it can be used. The practical lesson is to
+**keep batch sizes down and get the mix out of the container and spread
+thin promptly** — a thin, spread-out coating dissipates heat far faster than
+the same volume sitting concentrated in a pot — rather than mixing one large
+batch and working through it slowly. A batch that has already gone off in
+the pot does not spoil a coat already applied from it; only the unused
+remainder in the container is lost.[83]
+
 ## Polyester resin versus epoxy
 
 Asked whether cheaper **polyester resin** (about a quarter of epoxy's cost)
@@ -767,3 +783,4 @@ pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][8
 [80] Archive message page_3040 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3071, 2005-08-05) — "Re: Unfolding Calamity for Enuf": wiping neat, undiluted hardener onto an uncured surface brought it off overnight in his own past cure failure, with no sign of the patch failing since; full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
 [81] Archive message page_3043 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3074, 2005-08-05) — "Re: Unfolding Calamity for Enuf": a neat-hardener test patch on his own second failure did not set, and a fresh correctly-mixed coat over the problem area set but did not adhere to the sticky layer beneath; laying mat over the tacky coating on the rudder blade and squeegeeing a good mix through it seems to have set solid; has started stripping the hull bottom back with a scraper instead. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "Derek."
 [82] Archive message page_3041 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3072, 2005-08-05) — "Re: Enuf Epoxy": suggests ditching pumps entirely in favor of decanted resin and hardener metered by veterinary syringe. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
+[83] Archive message page_3061 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3092, 2005-08-12) — "Enuf Epoxied": a 1.5 litre batch measured by jugs overheated in the mixing pot, smoking and softening the plastic, going "into overdrive" as he applied it, while the epoxy already spread on the hull cured normally. Full text and citation at [boats/enuf.md](/boats/enuf.md#the-bottom-finished-an-exothermic-epoxy-scare-and-turning-the-hull-upright). Signed "Derek."

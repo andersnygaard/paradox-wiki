@@ -142,6 +142,34 @@ refit it before driving off with the boat on the trailer. As for
 because the port sits **outside the baffle**: any leakage there simply
 **drains overboard** rather than reaching the cabin.
 
+**Sealing the tiller opening against bugs while trailered, without losing
+ventilation.** Left open, the tiller thru-hull is a ready entry point for
+insects and animals while a boat sits on its trailer, up to and including a
+wasp nest found nesting inside the bow. Two independent builders solved this
+the same way: a flexible sheet material cut to size and fitted around the
+tiller, bolted to the transom and lashed to the tiller shaft — one using a
+leg cut from an old 12 mm **wetsuit** (neoprene, obtainable cheaply from a
+local scuba shop, which often has old wetsuits to sell off or give away for
+scrap), the other **rubber roofing membrane** (0.065 in) — both tested
+watertight with a hose and both aimed at keeping out bugs and animals rather
+than at making the opening fully weathertight. A simpler alternative to a
+full gasket is a plain **bug net** fitted over the opening. Whichever
+method is used, it reintroduces the same ventilation trade-off the baffle
+was designed around (see above): a snug seal keeps bugs out but cuts the
+airflow the cabin depends on, which matters most in **winter sailing**,
+where the same opening that is welcome ventilation in summer heat instead
+lets in too much cold air — calling for the holes to be plugged in cold
+weather rather than left open year-round. See
+[boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes)
+for the full exchange this distills.[37][38][39][40]
+
+**A vent-trunk cooling fan.** For hot-weather comfort rather than
+bug-sealing, a small **12V fan** mounted in the vent trunk made conditions
+"bearable" for the crew forward on a day near 100°F — one builder's plan is
+to epoxy the fan into the rim of a removable access-hatch cover, so the fan
+can be swapped for a plain cover and stored separately when the boat is
+trailered and left bug-free.[39]
+
 ## Sealing stubborn inspection plates: three builders' techniques
 
 A recurring nuisance is a deck plate that leaks or seats stubbornly, and
@@ -399,3 +427,7 @@ against the theoretical flooding scenario.
 [34] Archive message page_2084 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2108, 2004-05-15) — "Re: water tight boot on the Paradox tiller arm": restates the bridle/rudder-stress point (a bridle-held 45° angle of attack spreads a breaking wave's force like a "broadside on a snowplow" against the hull's flare and chine-runner "fence"); asks whether anyone has tested a bow/broadside parachute sea anchor on a similarly-proportioned chine-runner sharpie; reiterates the USCG report contains rigging-load numbers for reference; attributes the flooding-path scenario to hydrodynamic leverage around the boat's center of area, the transom sitting closer to it with more buoyancy than the bow; discloses he has not yet begun building; calls the tiller/rudder assembly "overdesigned and just about as foolproof as you can get," unsure of its actual weakest point.
 [35] Archive message page_2085 (openboat / "Alastair", `paradoxbuilders`, msgnum 2109, 2004-05-15) — "Re: water tight boot on the Paradox tiller arm": reiterates the whole discussion is academic to his own sailing; suggests any angle-of-attack adjustment would be made via the bridle rather than the rudder; describes his three bow-anchoring methods in slightly more detail (a self-stowing bow anchor led aft through fairleads/a pipe; a closed fairlead on a continuous loop pulled forward to anchor and aft to recover; a permanent bow-led line with a snap hook, used in practice, doubling as a harness jackline and stern/bow line when coming alongside; and a large snap hook for picking up a mooring buoy under sail).
 [36] Archive message page_2087 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2111, 2004-05-15) — "Re: water tight boot on the Paradox tiller arm": clarifies he was imagining the rudder, not the bridle, being adjusted mid-storm from inside the boat; agrees Alastair's rubber tiller disc would only be needed with a stern-led drogue, since Matt Layden's towels-stuffed-in-the-port fix should otherwise suffice; says he would first run a dynamic hydro-pistoning test before committing to any waterproof boot or tiller disc, and would keep a boot as a temporary heavy-weather-only fitting, leaving the tiller port open for fair-weather ventilation otherwise.
+[37] Archive message page_3062 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3093, 2005-08-14) — "Tiller thru hull seal": sealed his tiller thru-hull with a leg cut from an old 12 mm wetsuit, bolted to the transom and lashed to the tiller, tested watertight with a hose; has never had water intrusion trouble; main nuisance is wasps nesting in the bow while trailered. Full text and citation at [boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes).
+[38] Archive message page_3063 and page_3065 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3094 and 3096, 2005-08-14) — "Re: Tiller thru hull seal": sealed his own tiller thru-hull with 0.065 in rubber roofing membrane, for the same bug/animal reasons; prefers being able to close up the back while motoring to keep out exhaust fumes; plans to sail late-season when the air is colder and the water still warm.
+[39] Archive message page_3065 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3094, 2005-08-14) — "Re: Tiller thru hull seal": mounted a 12V fan in the vent trunk on a near-100°F day, making conditions bearable for the crew forward; plans to epoxy the fan into the rim of a removable access-hatch cover so it can be swapped for a plain cover for storage.
+[40] Archive message page_3097 and page_3098 (dlb / David Beard and dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3097 and 3098, 2005-08-14) — "Re: Tiller thru hull seal": David Beard does a lot of winter sailing and finds the ventilation system "works all too well" in cold weather, needing the holes plugged; Derek Clark agrees his sailing partner has found the same and asks where to source a bit of neoprene, answered at [boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes).

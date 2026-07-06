@@ -197,6 +197,12 @@ used on a boat — free of charge and required on request under US federal law
 See [topside and hull painting — Glen Maxwell's full Awlgrip roll-and-tip
 recipe, and why not to spray
 it](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it).
+He also sealed "Whisper"'s tiller thru-hull with a cut wetsuit-neoprene
+gasket, found the ventilation it otherwise provides "works all too well" in
+cold weather (plugging the holes for winter sailing), and, after a season
+without one, fitted a toe rail he found made moving forward on deck much
+easier. See [transom deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary)
+and [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).[245][246]
 
 **A tool-list addition.** In the Build Manual's tools debate, David added one
 specific recommendation to the growing list — a 6 in orbital sander for
@@ -639,3 +645,5 @@ wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [242] Archive message page_2872 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2903, 2005-07-01) — "Re: Tack tiedown, and dangerous assumptions": full text and citation at [design/rig.md](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension); had the identical problem, solved for good with bronze (brass) Schedule 40 pipe. Signed "David Beard, Paradox 'Whisper.'"
 [243] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
 [244] Archive message page_3042 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3073, 2005-08-05) — "Re: Mainsheet Fouling Outboard": full text and citation at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
+[245] Archive message page_3062, page_3097 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3093 and 3097, 2005-08-14) — "Tiller thru hull seal" / "Re: Tiller thru hull seal": sealed his tiller thru-hull with a leg cut from an old 12 mm wetsuit; finds his winter-sailing ventilation "works all too well" in cold weather, requiring the holes to be plugged. Full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).
+[246] Archive message page_3070 (dlb / "David Beard", `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Re: Toe rail": sailed a season without a toe rail and found it difficult to go forward on deck without one; now has one fitted and finds it makes things much easier. Full text and citation at [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).
