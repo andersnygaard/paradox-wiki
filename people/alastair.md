@@ -406,6 +406,13 @@ contributions and cross-link to where each is told in full.
   cloth, movable if needed and left loose until the sail can be hoisted and
   checked. See [rig and sail — halyard fixing point on the spar: an open
   question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).
+- **Why the yard is tapered.** As a professional engineer, explained that a
+  spar needs to be stiffest where it is restrained — for the yard, where it
+  bears against the mast — with the taper concentrating stiffness there
+  while shedding weight elsewhere; still recommended trying a
+  constant-diameter bamboo pole as a cheap, easily-replaced experiment. See
+  [rig and sail — why yard and boom shape matter for
+  pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing).
 - **Yuloh pivot construction.** A yuloh can be laminated from two planks bent
   over a 30 mm-high block (free ends elevated over the block and loaded with
   weights until they touch the ground), with the pivot bolt built from 10 mm

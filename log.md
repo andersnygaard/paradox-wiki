@@ -1,5 +1,37 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 302: page_3011-page_3020)
+
+**Resolution of Derek Clark's "Enuf" epoxy-cure calamity, plus a new
+question on why the yard is tapered.** No new files created; four existing
+files extended.
+
+- **`boats/enuf.md`** — extended "The epoxy that wouldn't cure": Chris
+  Ostlind's acetone rag-wipe-and-sun-cure rescue technique for unmixed
+  chemistry, plus his bad-batch/supplier-warranty caveat; the resolution —
+  rudder blade and stock (coated from the same batch) hardened off first,
+  the hull bottom following by the next morning via a tacky-to-matte
+  finger-drag test; Alastair's own week-long slow-cure precedent (posted in
+  near-identical form three times, confirmed as genuine reposts, not a
+  stale read); Derek's closing thanks to the list. New section "Why the
+  yard is tapered rather than a constant-diameter pole": Derek's bamboo
+  question, answered via cross-link to `design/rig.md`. Cites [44]-[53], 53
+  total.
+- **`design/rig.md`** — extended "Why yard and boom shape matter for
+  pointing" with the engineering rationale for the yard's taper (stiffest
+  where restrained at the mast, shedding weight elsewhere) and Alastair's
+  suggestion to try constant-diameter bamboo as a cheap experiment; left
+  open whether yard weight affects gybe docility. Cite [220], 222 total/220
+  numeric max (pre-existing [7a]/[7b] pair unaffected).
+- **`construction/epoxy-coating-technique.md`** — extended "Diagnosing and
+  rescuing a coat that will not cure" with the acetone-wipe rescue
+  technique and the bad-batch/warranty note, cross-linked to the full story
+  on `boats/enuf.md`. Cite [77], 78 total/77 numeric max (pre-existing
+  [29a] suffix unaffected).
+- **`people/alastair.md`** — cross-link-only bullet added to "Rig,
+  electrics, and furling" summarizing his yard-taper engineering answer,
+  linking to `design/rig.md`. Count unchanged, 260/260.
+
 ## 2026-07-06 (batch 301: page_3001-page_3010)
 
 **Two new episodes on Derek Clark's "Enuf" build, plus a long-standing

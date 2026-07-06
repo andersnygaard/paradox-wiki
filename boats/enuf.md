@@ -217,6 +217,53 @@ afterward could still seal the wood and salvage the fiberglass cloth
 already laid up, even if it does not rescue a properly-mixed-but-failed
 coat.
 
+A separate rescue technique for a coat contaminated by **unmixed,
+uncatalyzed chemistry**: wipe the hull down with rags soaked in **acetone**
+and set it in the sun. The acetone dissolves and lifts the unreacted
+resin/hardener, carrying it off in the rag rather than leaving it to dilute
+and weaken the already-bonded epoxy, while the sun's heat accelerates cure
+of what is left behind.[44] A slow or failed cure can also simply be a bad
+batch of resin or hardener — new, previously unopened chemistry that turns
+out contaminated or mislabeled at the source — in which case no amount of
+troubleshooting on the builder's end will rescue it; a supplier will
+generally warrant only their own product (materials cost, not labor), so a
+small-quantity loss is often better absorbed by switching suppliers than
+pursued as a claim.[45]
+
+In Derek's case, the rudder blade and stock — coated with the same batch
+and left in the workshop — began hardening off within about 30 hours,
+noticeably ahead of the hull bottom; a patch treated with neat hardener
+showed no visible difference.[46][49] The hull surface itself turned from
+tacky to a matte, fingerprint-resistant finish by the following pre-dawn
+hours (still leaving a fingerprint under firm pressure, but changing from
+shiny to matte under a light drag of the fingers) — a workable middle
+diagnostic between "still liquid" and "fully kicked."[51] One
+correspondent's own patch of slow bottom epoxy had needed a full week to
+harden fully, reinforcing that a slow cure can still be a successful one if
+left alone (or worked around by moving on to another part of the build,
+such as the mast, rudder, or yard, while waiting) rather than stripped
+prematurely.[47][48][50] Derek closed out the episode thanking the list,
+including the correspondent who had shared that week-long-cure experience
+by name, and looked forward to what might become the first UK Paradox
+rally.[52]
+
+## Why the yard is tapered rather than a constant-diameter pole
+
+While waiting out the epoxy cure, Derek turned to shaping the yard and
+asked why it needed to be tapered at all rather than made from a
+constant-diameter pole such as bamboo, which would carry much less weight
+aloft.[51] The answer: the yard must be **stiffest at the point where it is
+restrained against the mast**, since a yard too flexible there lets the
+sail's corners sag and the sail lose its designed shape; the taper
+concentrates material, and stiffness, at that load point while removing
+weight everywhere else it is not structurally needed.[53] See [rig and
+sail — why yard and boom shape matter for
+pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing) for
+the fuller discussion of how the yard's shape sets the sail's draft.
+Substituting a constant-diameter bamboo pole was nonetheless considered a
+reasonable experiment to try — cheap and easy to replace if it
+underperformed, and useful data for future builders either way.[53]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -267,3 +314,13 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [41] Archive message page_3006 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3037, 2005-08-02) — "Re: Unfolding Calamity for Enuf": recommends a sun/black-plastic-sheeting post-cure for the whole day, noting commercial boatbuilding epoxies tolerate a post-cure of up to 200°F for about two hours; describes checking progress with a fingernail or screwdriver tip for uniform resistance; suggests testing the same mix on scrap to isolate a bad mix ratio, contamination, or a bad batch of hardener as the cause. Signed "Chris."
 [42] Archive messages page_3007/page_3009/page_3010 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnums 3038/3040/3041, 2005-08-02) — "Re: Unfolding Calamity for Enuf": suggests mixing a higher hardener ratio and working it into the uncured coat to try to kick the resin, reasoning a hardened (if botched) coat is still easier to sand off than a permanently tacky one; the next day, separately suggests removing the first layer of cloth if it can be lifted and recoating, using acetone sparingly as a thinner/cleaner; then reasons that if only resin (no hardener) reached the wood, adding hardener afterward could still seal the wood and save the fabric already laid up. Signed "Jack."
 [43] Archive message page_3008 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3039, 2005-08-02) — "Re: Unfolding Calamity for Enuf": explains that epoxy cures by molecular bonding between resin and hardener molecules in a fixed ratio (e.g. 5:1), unlike polyester's generic chemical reaction, so extra hardener will not rescue an already-mismixed batch; if it will not set after the recommended post-cure procedures, "the only thing to do is scrape it off." Signed "Glen."
+[44] Archive message page_3011 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3042, 2005-08-02) — "Re: Unfolding Calamity for Enuf": recommends wiping the hull down with rags soaked in acetone and setting it in the sun — the acetone dissolves and lifts the unmixed chemistry, carrying it off in the rag rather than diluting the already-bonded epoxy, while the sun accelerates cure of what remains; notes he has made all these mistakes himself over the years and there is little left to lose beyond the already-accepted risk of scraping the hull. Signed "Chris."
+[45] Archive message page_3012 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3043, 2005-08-02) — "Re: Unfolding Calamity for Enuf": all the troubleshooting so far assumes the resin/hardener is not itself a bad or mislabeled new batch; if the chemistry itself is bad, no amount of remedial effort will rescue it, and a supplier will typically warrant only their own product, not the wasted glass cloth or labor — for a small quantity, switching suppliers is often more practical than pursuing a claim. Signed "Chris."
+[46] Archive message page_3013 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3044, 2005-08-02) — "Re: Unfolding Calamity for Enuf": thanks everyone for the advice; has moved on to cutting the boom and yard blanks rather than wait idle; plans to wheel the hull into direct sun under black bin bags, and to try a hardener-rich mix on the rudder blade and stock, which were coated with the tail end of the same batch and also have not set after about 5 hours in the sun; the resin and hardener were opened containers, possibly purchased in June, mixed in the same proper 0.5-liter pumped amounts throughout; has told his epoxy supplier, who commiserated and helped arrange a further order (biaxial cloth, filler, resin/hardener) at a cost of £130. Signed "Derek."
+[47] Archive message page_3014 (openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3045, 2005-08-02) — "Re: Unfolding Calamity for Enuf": had his own patch of slow-curing bottom epoxy, which he painted with hardener and left alone while working on something else — it hardened up fully after about a week; recommends doing other work (mast, rudder) and letting nature take its course rather than watching it constantly. Signed "Al, Yeovil, England." (posted a near-identical second and third time in the archive; see [48]/[50].)
+[48] Archive message page_3015 (openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3046, 2005-08-02) — "Re: Unfolding Calamity for Enuf": a second, near-identical copy of [47], distinct Message-ID and timestamp.
+[49] Archive message page_3016 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3047, 2005-08-02) — "Enuf's Calamity Update": as of 2000 hours, the rudder blade and stock definitely seem to be hardening off; less sure about the hull, which has been in the workshop all day; has applied neat hardener sparingly to a small test patch; forecast for the next day is good, though this evening's forecast was also good and it is now raining, so plans to wheel the hull into sunshine regardless. Signed "Derek."
+[50] Archive message page_3017 (openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3048, 2005-08-02) — "Re: Unfolding Calamity for Enuf": a third near-identical copy of the same "don't panic" reply as [47]/[48], distinct Message-ID and timestamp.
+[51] Archive message page_3018 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3049, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": reports at 0500 hours that the hull surface seems slightly less tacky — still takes a fingerprint under firm pressure, but changes from shiny to matte under a light finger-drag; the patch brushed with neat hardener shows no visible difference; his son asked if they are recoating once it dries, prompting a "never tempt fate" joke; separately asks why the yard needs to be tapered rather than a constant-diameter pole such as bamboo, which would carry less weight aloft, and whether he is missing a reason the yard needs weight. Signed "Derek."
+[52] Archive message page_3019 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3050, 2005-08-03) — "Re: Unfolding Calamity for Enuf": thanks Al specifically by name, having initially left him off an earlier thank-you list; looks forward to "the first UK Paradox rally," possibly two or three boats with "leisure rich owners." Signed "Derek."
+[53] Archive message page_3020 (openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3051, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": explains the yard must be stiffest where it is restrained at the mast, since insufficient stiffness there lets the sail's corners sag and the sail lose its shape; the taper puts stiffness where required while removing weight where it is not needed; suggests trying constant-diameter bamboo as a practical experiment regardless, easily replaced if it proves inadequate, with the result useful data for future builders; also wonders whether yard weight affects how docile an accidental gybe is. Signed "Al, Yeovil, England."

@@ -516,6 +516,19 @@ in turn, point as designed — a badly bowed or mismeasured yard is a more
 direct cause of poor pointing than the boom's shape, which mainly affects
 furling rather than aerodynamic shape.
 
+The taper's underlying engineering logic: a spar needs to be **stiffest at
+the point where it is restrained**, in the yard's case where it bears
+against the mast — a yard too flexible there lets the sail's corners sag
+and the sail lose its designed shape. Tapering the yard puts material, and
+therefore stiffness, where that load is carried while removing weight
+everywhere else it serves no structural purpose. This is also why a
+constant-diameter substitute such as bamboo was floated as a candidate
+alternative to a shaped wooden yard — lighter aloft and worth trying as a
+practical experiment, cheap and easy to replace if too flexible, with the
+result useful data for future builders either way — though a yard's
+weight aloft may also affect how gently the boat gybes by accident, a
+question left open on the record.[220]
+
 ## The Dabbler re-cut: Mark II sail, a decisive improvement
 
 Sending an unsatisfactory original sail to **Dabbler** for a re-cut produced
@@ -1525,3 +1538,4 @@ figure against their own plan set before cutting.[184]
 [217] Archive message page_2990 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3021, 2005-07-31) — "Re: Jack gardiner's Tack Strut & Boom Axle": describes his own pivot-joint fabrication in full — a sheave (for the furling rope) mounted on a plate seized to the axle via a hose clamp; a sleeve built up from the same pipe stock to enlarge the axle's diameter, spinning freely so the joint finds its own angle without binding; two hose-clamp stops for now, with a planned upgrade to formal stops machined from the same brass pipe, drilled, tapped, and fitted with an adjustable set screw, brazing on a nut first if the wall proves too thin to hold threads; notes the retaining bolt's threads are already worn thin from use and describes moving to a locking nut and the next bolt size up (1/8 in shown); made the pipe's end notches with a fiber-disk cutoff wheel, though drilling and hacksawing them out and sanding the edges would also work. Signed "Jack."
 [218] Archive message page_3001 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3032, 2005-08-01) — "Mainsheet Fouling Outboard": asks David Beard, referencing his own post "2054ish," whether he ever fitted a bar and travelling block on the transom to keep the mainsheet off his outboard, and whether he is still using the 2 hp Honda. Signed "Derek."
 [219] Archive message page_3003 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3034, 2005-08-01) — "Re: Mainsheet Fouling Outboard": has not fitted the travelling block, since the fouling has not been enough of a problem to motivate it, though he believes it would work; confirms he still uses the 2 hp Honda, "great outboard." Signed "David Beard."
+[220] Archive messages page_3018/page_3020 (dclark / "dclark52001" / Derek Clark, msgnum 3049, 2005-08-03, "Re: Enuf's Calamity Update & the Yard"; and openboat / "Al" / Alastair, `paradoxbuilders`, msgnum 3051, 2005-08-03, "Re: Enuf's Calamity Update & the Yard") — Derek asks why the yard is shaped rather than a constant-diameter pole such as bamboo, which would carry less weight aloft; Al answers that the yard must be stiffest where restrained at the mast, since insufficient stiffness there lets the sail's corners sag and lose shape, and the taper puts stiffness where required while shedding weight elsewhere; suggests trying bamboo anyway as a cheap, easily-replaced experiment whose result would be useful data for future builders, and separately wonders whether yard weight affects how docile an accidental gybe is.

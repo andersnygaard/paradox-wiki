@@ -632,9 +632,22 @@ point is to scrape the coat off and start over, though a fully hardened
 (if botched) coat is still easier to sand off than one that stays
 permanently tacky. The one exception is a coat where only resin, with no
 hardener, ever reached the wood: there, adding hardener afterward can still
-seal the wood and save the fiberglass cloth already laid up. Full story at
+seal the wood and save the fiberglass cloth already laid up.
+
+A further rescue option, for a coat suspected of unmixed or uncatalyzed
+chemistry sitting in the finish rather than absorbed into the wood: wipe
+the surface down with rags soaked in **acetone** and set it in the sun. The
+acetone dissolves and lifts the unreacted resin/hardener into the rag
+rather than leaving it to dilute and weaken the epoxy that has already
+bonded, while the sun's heat accelerates cure of what is left behind. If a
+slow cure turns out to be a bad batch of resin or hardener rather than a
+mixing error — contaminated or mislabeled chemistry straight from an
+unopened container — no amount of troubleshooting on the builder's end
+will fix it; suppliers generally warrant only their own product (materials,
+not labor), so for a small quantity it is often more practical to switch
+suppliers than to pursue a claim. Full story at
 [boats/enuf.md — the epoxy that wouldn't
-cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76]
+cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76][77]
 
 # Citations
 
@@ -715,3 +728,4 @@ cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76]
 [74] Archive messages page_2953/page_2955/page_2956 (CarolFo / "cheepwings" / Robert, msgnum 2984; ifida / "Glen C. Maxwell", msgnum 2986; wtorry / "wayneski812" / Wayne, msgnum 2987, `paradoxbuilders`, 2005-07-24) — "Re: please help!!!": Robert asked who/what "FGCI" (an epoxy price quoted by Wayne) was; Glen Maxwell identified it as Fiber Glass Coatings Inc. of St. Petersburg, FL, and reported using their 5:1 mix for about 12 years, finding it hard to tell the difference from WEST System once mixed beyond a somewhat thicker hardener; Wayne separately answered "use Google, that's how I find things." Signed "Glen" / "Wayne, In the Swamp."
 [75] Archive message page_2995 ("Gene T." / `goldranger02-boats` / `tehansky`, `paradoxbuilders`, msgnum 3026, 2005-07-31) — "Re: Enuff Update": replying to Derek Clark's red-bottom/green-topsides paint-scheme post, likes graphite mixed into the epoxy for the final bottom coats — hard to gouge and skids over obstructions more easily, "so they say." Signed "Gene T."
 [76] Archive messages page_3004/page_3005/page_3006/page_3007/page_3008/page_3009/page_3010 (`paradoxbuilders`, msgnums 3035-3041, 2005-08-02) — "Unfolding Calamity for Enuf" / "Re: Unfolding Calamity for Enuf": Derek Clark's hull-bottom epoxy coat fails to cure 24 hours after application; full text and citations at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
+[77] Archive messages page_3011/page_3012 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnums 3042-3043, 2005-08-02) — "Re: Unfolding Calamity for Enuf": recommends an acetone rag-wipe and sun cure to rescue a coat contaminated by unmixed chemistry; separately notes a genuinely bad or mislabeled batch of resin/hardener cannot be rescued by any remedial technique, and that suppliers typically warrant only their own product; full text and citations at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
