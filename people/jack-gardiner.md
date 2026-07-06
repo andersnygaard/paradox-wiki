@@ -792,6 +792,12 @@ segmented bamboo yard could chafe or ride noisily over its own segment
 joints. See [rig and sail — mast chafe from the yard, and finishes that
 prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it).[185]
 
+Answering Derek's follow-up "Bending Brass" question about a fractured
+tack-strop fork, Jack explained the brass was work-hardening from being
+worked, growing brittle until it snapped, and pointed him toward annealing
+information or simply brazing the joint instead. See
+[boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).[187]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -980,3 +986,4 @@ prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it
 [184] Archive messages page_3007/page_3009/page_3010 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnums 3038/3040/3041, 2005-08-02) — "Re: Unfolding Calamity for Enuf": full text and citation at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
 [185] Archive messages page_3023/page_3025 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3054/3056, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it) and [boats/enuf.md](/boats/enuf.md#mast-chafe-from-the-yard-and-finishes-to-prevent-it); warns Derek about mast chafe from his own varnish-caused sail-sleeve burn-through, and follows up asking whether Derek plans to sleeve the mast's full length.
 [186] Archive messages page_3032/page_3035 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3063/3066, 2005-08-04) — "Re: Enuf Epoxy": full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).
+[187] Archive message page_3077 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3108, 2005-08-15) — "Re: Bending Brass": full text and citation at [boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).

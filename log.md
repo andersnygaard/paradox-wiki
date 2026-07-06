@@ -1,5 +1,47 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 308: page_3071-page_3080)
+
+**Derek Clark's toe-rail question resolved by Jeff (UK)'s full design
+rationale, a new "Bending Brass" fabrication problem solved as work-hardening,
+and the tiller-seal thread closed out with two more neoprene-sourcing tips
+and a low-tech vent-airflow trick.** One boat page and three concept/person
+pages extended; no new person or boat pages created this batch.
+
+- **`boats/enuf.md`** — extended three existing sections: the tack-strut/
+  boom-axle pivot-joint section gained the brass-fork bending failure and its
+  work-hardening/brazing resolution; the tiller-thru-hull section gained two
+  follow-up neoprene/gasket-material sourcing tips (a scuba shop, a fabric
+  shop) plus a towel-in-the-vent-box airflow trick; the toe-rail section
+  gained Jeff (UK)'s full design-rationale answer (cheap/low-windage/
+  self-cleaning stock shape vs. a leak-prone aluminum substitute) and Derek's
+  decision to go with wood, closing the thread without a UK metal-toe-rail
+  supplier ever being named. Cites [87]-[96], 96 total, no gaps.
+- **`design/blue-water-suitability.md`** — extended the existing "Toerails
+  and handholds" paragraph in the offshore-features catalogue with the same
+  toe-rail design rationale, since it is durable universal-truths content
+  about the stock design, not just Derek's own build log. Uncited prose,
+  matching that section's existing style; citation count unaffected (57/57).
+- **`people/jeff-doryman.md`** — new bullet under "Construction and plans
+  answers" cross-linking "Jeff UK"'s toe-rail design defense; no new citation
+  (matches that list's existing link-only bullets). Citation count unaffected
+  (50 total/49 numeric max, pre-existing [39a] suffix).
+- **`people/jack-gardiner.md`** — narrate-once cross-link addendum for his
+  brass work-hardening/brazing answer, folded after the existing mast-chafe
+  paragraph. Cite [187], 186 total/187 numeric max (pre-existing +1 gap
+  preserved from before this batch).
+- **`construction/transom-deck-plate.md`** — extended the existing
+  bug-sealing paragraph with the same two follow-up sourcing tips and the
+  towel-airflow trick, distilled and uncited per that paragraph's existing
+  "see boats/enuf.md" style. Citation count unaffected (40/40).
+- **Backlog:** Jeff-UK vs. `doryman_uk` identity item resurfaced (no new
+  linking detail; last-checked/last-resurfaced line updated to batch 308).
+  David Platten's and Bill Serjeant's dormant watch items untouched — neither
+  appeared this batch. One new below-threshold correspondent, "Robert"
+  (`CarolFo@`/`cheepwings`), folded directly into `boats/enuf.md`'s citations
+  rather than logged as a separate watch item (one-off practical tip, no
+  boat, no recurring-presence signal).
+
 ## 2026-07-06 (batch 307: page_3061-page_3070)
 
 **Derek Clark's "Enuf" bottom finished (hard and shiny, after an exothermic

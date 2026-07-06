@@ -83,6 +83,20 @@ scrap. Epoxy coating — sanding the pipe, then painting over the cured epoxy
 for UV protection — was the method that finally worked, and Derek judged it
 much simpler than sourcing or galvanising metal pipe at all.
 
+A separate fabrication problem surfaced building the **tack strop tube's own
+brass fork** — a 3mm brass sheet fork, cut, shaped, and drilled to be held by
+a brass compression fitting onto 15mm copper water pipe. An experimental
+piece fractured along the bend when Derek tried to bend the fork's arms to a
+right angle even after warming it with a blowlamp. The cause: repeatedly
+working a piece of metal makes it **work-harden**, growing progressively
+harder and more brittle until it snaps at the worked point, with the exact
+behavior depending on the brass alloy's own makeup; annealing (softening the
+metal again by heating it to a specific temperature) is possible but the
+temperature is alloy-dependent and not a simple fixed number. Faced with that
+uncertainty, Derek chose to **cut and braze** the fork instead of bending
+it, judging the extra step would avoid any hidden work-hardening problems —
+and used the decision to justify buying a small brazing torch of his own.[87][88][89]
+
 Derek uploaded four reference photographs of his finished pivot joint to the
 group's Photos section, filing them in his own "Enuf" folder since it
 happened to be empty at the time (see
@@ -469,6 +483,17 @@ losing that airflow, including a wetsuit-neoprene tiller gasket and a
 vent-trunk-mounted cooling fan, are recorded in full at [transom deck plate
 — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).[81][82][83][84][86]
 
+Looking for a source of neoprene close to home in the middle of England, far
+from the sea, Derek drew two independent suggestions: a local scuba shop,
+which often sells old wetsuits off cheaply or gives them away for salvage
+material, and vinyl or other waterproof fabric of the kind used for outdoor
+seat cushions, sourced from an ordinary fabric shop — the latter prompting
+Derek to remember a large offcut of lorry-tarpaulin material he already had
+on hand from re-covering a canvas canoe. A further, low-tech tip for
+adjusting the vent baffle's airflow by feel: a balled-up towel stuffed into
+the vent box works as a versatile, instantly-adjustable flow restrictor,
+doubling as stowage for the towel itself when not in use.[90][91][92][96]
+
 ## Toe rail: is it needed, and where to source one in the UK
 
 Facing his own deck's surface texturing, Derek questioned whether the
@@ -483,6 +508,23 @@ sailed without a toe rail proved genuinely **difficult for moving forward on
 deck**, and going back and fitting one afterward "makes things much
 easier" — a practical, footing-and-handhold case for the rail distinct from
 its rainwater-channelling function.[80][85]
+
+Taking that as confirmation the rail was worth fitting, Derek asked the list
+for a UK supplier of the slotted metal toe rail, without success finding one
+specific enough through his own web searches — the only examples he found
+were pre-fitted to complete, expensive yachts rather than sold as a
+standalone part. The stock design's own rationale, made in reply, went
+beyond the water-channelling function: the plans' toe-rail shape is cheap,
+reduces windage, and does not collect dirt the way a right-angled aluminum
+extrusion would, since an aluminum toe rail bolted on with screws would also
+stand proud of the deck at the wrong angle, sit higher than the rail as
+drawn, and risk a leak path into the hull structure at every screw hole even
+with mastic sealant — a case for keeping the plans' own design, whatever
+material it is built from, rather than substituting stock metal angle.
+Derek, already owning "a decent compass," took the point and settled on
+**wood** rather than continue looking for a metal supplier, closing the
+question without a UK metal-toe-rail source ever being named on the
+list.[93][94][95]
 
 ## Mast blanks
 
@@ -583,3 +625,13 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [84] Archive message page_3097 and page_3098 (dlb / David Beard and dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3097 and 3098, 2005-08-14) — "Re: Tiller thru hull seal": David Beard reports doing a lot of winter sailing and finding the ventilation system "works all too well" in cold weather, needing the holes plugged; Derek agrees his sailing partner "Al" has found much the same, and asks where to source a bit of neoprene. Signed "David" / "Derek."
 [85] Archive message page_3101 (dlb / "David Beard", `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Re: Toe rail": sailed a season without a toe rail and found it difficult to go forward on deck without one; now has one fitted and finds it makes things much easier. Signed "David."
 [86] Archive message page_3069 (BllFs6 / "bllfsh666" / Bill, `paradoxbuilders`, msgnum 3099, 2005-08-14) — "Re: Tiller thru hull seal": suggests a local scuba shop as a neoprene source — they can often supply small new pieces cheaply, or have old wetsuits to sell cheap or give away, from which to salvage the piece needed. Signed "Blll."
+[87] Archive message page_3074 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3105, 2005-08-15) — "Bending Brass": making the tack strop tube from 15mm copper water pipe with a fork cut, shaped, and drilled from 3mm brass sheet, to be held by a brass compression fitting; an experimental piece fractured along the bend even after warming with a blowlamp; asks whether heat, a critical bending temperature, or cutting and brazing instead is the answer. Signed "Derek."
+[88] Archive message page_3077 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3108, 2005-08-15) — "Re: Bending Brass": explains the brass is work-hardening from being worked, which makes it hard and brittle until it snaps, with the exact behavior depending on the brass alloy's own makeup; suggests searching a metalworking site such as "anvilfire" for the annealing temperature, or simply brazing the joint instead. Signed "Jack."
+[89] Archive message page_3079 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3110, 2005-08-15) — "Re: Bending Brass": thanks Jack; will cut and braze rather than bend, to avoid any hidden work-hardening problems, and uses the decision to justify buying a small brazing torch (also useful for a bicycle pannier rack) without spending his birthday-gift budget. Signed "Derek."
+[90] Archive message page_3076 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3106, 2005-08-15) — "Re: Tiller thru hull seal": thanks Bill for the scuba-shop tip, doubting a shop is local given he lives in the middle of England near only a shallow canal; asks about nailing a slit leather flap over the opening instead, and whether leather needs treating for seawater exposure; reports the tack strop cleat is finished, "a bit different to the plan but, hey, it's mine." Signed "Derek."
+[91] Archive message page_3077 (CarolFo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 3107, 2005-08-15) — "Re: Tiller thru hull seal": suggests vinyl or other waterproof fabric, of the kind used to cover outdoor seat cushions, sourced from an ordinary fabric shop. Signed "Robert."
+[92] Archive message page_3078 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3109, 2005-08-15) — "Re: Tiller thru hull seal": thanks Robert for "a good idea"; has a large offcut of lorry-tarpaulin material on hand already, left over from recovering a Percy Blandford canvas canoe for his daughter. Signed "Derek."
+[93] Archive message page_3072 ("Jeff" / `roverticket` / Jeff (UK), `paradoxbuilders`, msgnum 3103, 2005-08-15) — "Re: Toe rail": the plans' toe-rail shape is cheap, cuts windage, and does not collect dirt; an extruded-aluminum substitute would sit at the wrong angle, stand higher than the drawn rail, and risk a leak path at every mounting screw even with mastic; the only advantage of an aluminum rail (fender-attachment holes) is already served by the coachroof handrails; adds that Paradox sits at just the right height to rest on the beach deck with feet on the sand, and an aluminum rail "wouldn't half cut into your arse." Signed "Jeff UK."
+[94] Archive message page_3073 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3104, 2005-08-15) — "Re: Toe rail": notes he already owns a decent compass; takes the beach-sitting point as "the clincher" and settles on a wood toe rail. Signed "Derek."
+[95] Archive message page_3071 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3102, 2005-08-15) — "Re: Toe rail": takes David Beard's answer as confirming a definite need; asks again for a UK supplier of the slotted metal toe rail, having failed to find one specific enough via web search — the examples found are pre-fitted to complete, expensive yachts; reports having just planed and dry-assembled the mast blanks, and epoxying one side to the mast's back that night. Signed "Derek."
+[96] Archive message page_3080 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3111, 2005-08-16) — "Re: Tiller thru hull seal": a balled-up towel stuffed into the vent box works as a versatile flow adjuster, doubling as stowage for the towel when not needed. Signed "Al, Yeovil, England."

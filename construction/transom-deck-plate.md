@@ -163,6 +163,14 @@ weather rather than left open year-round. See
 [boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes)
 for the full exchange this distills.[37][38][39][40]
 
+Two further neoprene/gasket-material sources were suggested for builders
+without ready access to a scuba shop: a **fabric shop**, for vinyl or other
+waterproof upholstery material of the kind used on outdoor seat cushions;
+and repurposing **truck-tarpaulin offcuts** already on hand. A balled-up
+**towel stuffed into the vent box** is a further, low-tech way to fine-tune
+airflow by feel — a versatile, instantly adjustable flow restrictor that
+also stows the towel itself when not needed.
+
 **A vent-trunk cooling fan.** For hot-weather comfort rather than
 bug-sealing, a small **12V fan** mounted in the vent trunk made conditions
 "bearable" for the crew forward on a day near 100°F — one builder's plan is

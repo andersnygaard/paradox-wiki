@@ -486,7 +486,18 @@ hollow metal, and already air-filled; foam would only add weight.
 the hatch slides on the cabin top serve adequately as handholds. Handholds
 would matter more if a sailor wanted to work on deck at sea, but there is
 rarely a compelling reason to go on deck at all in heavy weather aboard any
-small boat.
+small boat. The stock toe rail's own shape is deliberately cheap to build,
+cuts windage, and does not collect dirt the way a bolt-on metal substitute
+would; a right-angled extruded-aluminum toe rail, by contrast, sits at the
+wrong angle and higher than the plans' own profile, and its mounting screws
+open a potential leak path into the hull structure at every hole even when
+bedded in mastic — a case for keeping the plans' toe-rail shape regardless
+of what material it is built from. A season sailed without any toe rail at
+all also proved genuinely difficult for moving forward on deck, confirming
+the rail's footing/handhold value is real and separate from its role
+channelling rainwater off a smooth deck. See
+[boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk)
+for the full exchange.
 
 **Windows.** The underlying worry here is a category error: rather than
 assume a design component is inadequate, the better question is what

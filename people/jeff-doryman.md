@@ -201,6 +201,14 @@ and a request for detailed Paradox photos.
   Paradox with a helipad — see [aluminum and steel Paradox (speculative) — a
   later tangent: the Gibbs Aquada, and "spray rails" vs. chine
   runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
+- **Toe rail design rationale:** gave the fullest defense on record of the
+  plans' own toe-rail shape over a bolt-on metal substitute — cheap, low
+  windage, and self-cleaning, against a right-angled aluminum extrusion that
+  would sit at the wrong angle, stand too high, and open leak paths at its
+  mounting screws — settling a UK builder's design question. See
+  [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk)
+  and [blue-water suitability — a catalogue of conventional offshore
+  features](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined).
 
 ### The "Steel?" design-philosophy objection
 
