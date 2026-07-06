@@ -283,6 +283,12 @@ Maxwell's call for help closing the group against spam sign-ups (see
   bottomed-out cushion foam, he drew out the full sourcing/gluing/firmness
   picture of the Lux Foam system behind "Zoë"'s cushions. See
   [Little Jim — cabin-cushion solutions](/boats/little-jim.md#cabin-cushion-solutions-glen-maxwells-foam-by-mail-system-june-2003).
+- **Long-passage helm-seat cushion.** For years of long winter passages aboard
+  Little Cruiser he has used a cushion of closed-cell Airex foam, denser than
+  open foam but with a similar memory-foam feel, originally sourced from
+  Defender Industries and still available from specialty foam suppliers. See
+  [crew size and fit — long-passage seat comfort: cushion
+  practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[104]
 - **Cold-weather comfort.** Most of his cold-weather time is spent at the dock,
   where sun through the windows plus body heat suffices; underway he runs the
   gas stove briefly on low with the hatch cracked. Foam in the windows (Matt's
@@ -569,3 +575,4 @@ that one of them answered.
 [101] Archive message page_2703 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2733, 2005-05-28) — "Re: Introduction": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding), [construction/water-tank-lining.md](/construction/water-tank-lining.md), and [operations/running-lights.md](/operations/running-lights.md#cold-cathode-fluorescent-ccfl-as-an-led-alternative).
 [102] Archive message page_2706 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2736, 2005-05-29) — "Re: Introduction": full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision) and [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).
 [103] Archive message page_3133 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3164, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+[104] Archive message page_3160 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 3191, 2005-09-19) — "Re: Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).

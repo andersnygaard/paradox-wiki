@@ -116,6 +116,21 @@ the setup nerve-wracking (a mistake there meaning a major rebuild), agreed
 drilling was the harder way to do it. Glen Maxwell likewise praised the
 approach.[19][20][21]
 
+## The "quintessential seat" proposal
+
+Bill also raised the case for a purpose-built adjustable helm seat, citing
+Hugh Horton's adjustable seat in his cruising paddling-and-sailing canoe as a
+model — variable height and horizontal position within the cockpit, plus an
+adjustable backrest, that Horton reports lets him sit for hours without
+numbness. Bill's own specification called for a seat that rotates and locks
+in any position, adjusts for height and inclination, can be fixed at
+variable athwartships positions, supports the back well, stows clear of the
+cabin for sleeping, and still allows ready access to the lazarette — floating
+a bicycle saddle as a lighter-hearted alternative to Uffa Fox's horse's
+saddle, once fitted as a helmsman's seat on one of his own boats. See [crew
+size and fit — long-passage seat comfort: cushion
+practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[22]
+
 ## One person across three handles
 
 Bill Serjeant's Yahoo profile name changed twice over the archive's span —
@@ -149,3 +164,4 @@ three eras.
 [19] Archive message page_3136 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3167, 2005-09-06) — "Lower pintle": uploaded photos to the `paradoxbuilders2` photo section illustrating how he installed the lower pintle to the rudder stock, a method he judges simpler and more accurate than drilling a hole; also reports his sail arrived the previous day. Signed "Bill."
 [20] Archive message page_3137 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3168, 2005-09-06) — "Re: Lower pintle": agrees, having found setting up the drilling for his own rudder stock nerve-wracking, since getting it wrong would have meant a major rebuild of the stock. Signed "Al, Yeovil, England."
 [21] Archive message page_3138 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3169, 2005-09-06) — "Re: Lower pintle": "Looking good Bill, great idea as well!" Signed "Glen."
+[22] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Bill."

@@ -525,6 +525,39 @@ between them every couple of hours, and finds the rotation itself — not any
 one cushion's material — is what actually reduces the pain of a long spell
 at the helm.
 
+The wheelchair-style cushion's design is what makes it work: a robust
+plastic envelope, inside a fabric cover, filled with polystyrene-type beads
+suspended in a gel, which moulds to the sitter's shape and spreads the load
+evenly enough to prevent pressure sores — the same principle used in
+helicopter pilots' dinghy-box seats, whose buttock-shaped tops and thin
+fabric pads have had considerable ergonomic development behind them, since a
+pilot fidgeting in the seat is undesirable. Alastair also uses a loose
+cushion doubled as a kneeling pad or shoulder padding when working in the
+forward cabin, and has looked, without success, for a cheap folding beach
+seat with a back rest — useful for sitting on the after deck with legs
+dangling over the stern, a comfortable enough position in itself but one
+that leaves the back unsupported, since leaning against the cabin side there
+is both too low and sloped away too much to help.[96]
+
+[Dave Bolduc](/people/bolduc/dave.md) has used a cushion of closed-cell
+**Airex foam** — denser than open foam but with a similar "memory foam"
+feel — for years of long winter passages aboard
+[Little Cruiser](/matt-layden/little-cruiser.md), sourced originally from
+Defender Industries; Airex foam remains available from specialty foam
+suppliers even after Defender stopped carrying that particular product.[97]
+
+**William Serjeant** raised the case for a purpose-built adjustable seat
+rather than a stack of cushions, citing Hugh Horton's adjustable seat in his
+cruising paddling-and-sailing canoe — height and horizontal position both
+adjustable within the cockpit, with an adjustable backrest, that Horton
+reports lets him sit for hours without numbness. Serjeant's own specification
+for a "quintessential" Paradox seat called for one that rotates and locks in
+any position, adjusts for height and inclination, can be fixed at variable
+athwartships positions, supports the back well, stows clear of the cabin for
+sleeping, and still allows ready access to the lazarette — floating (with a
+nod to Uffa Fox's horse's saddle, once fitted as a helmsman's seat on one of
+his own boats) a bicycle saddle as a lighter-hearted alternative.[98][99]
+
 ## Interior-beam geometry, Paradox vs. Enigma 460 (Dave's Wiki)
 
 [Dave Raftery](/references/daves-wiki.md)'s wiki works through the *usable*
@@ -606,3 +639,7 @@ inside the cabin — the same removable-rear-window idea seen on
 [93] Archive message page_3146 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3177, 2005-09-11) — "Re: study plan questions": built as close to the plans as possible; measures 930 mm (about 36.5 in) of clearance under the closed hatch; the roof could go up a bit or the floor down if more were needed; notes he too sometimes wakes with his feet shuffled down into the forward compartment. Signed "Al, Yeovil, England."
 [94] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": tried a discarded demo wheelchair cushion (ripped, sourced free through his ex's home-health-care job) over a weekend of sailing; found it eliminated seat fatigue entirely; notes such cushions are normally too expensive to buy new but worth finding secondhand. Signed "David."
 [95] Archive message page_3150 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3181, 2005-09-14) — "Re: Seat Cushion": keeps a hard foam cushion, a soft foam cushion, and a small inner tube aboard, switching between them every couple of hours to reduce pain; also wonders about a small inflatable armchair, to be "a real armchair sailor." Signed "Al, Yeovil, England."
+[96] Archive message page_3159 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3190, 2005-09-19) — "Re: Quintessential Seat": describes the wheelchair-style cushion's actual construction — a fabric-covered plastic envelope filled with polystyrene beads in a syrupy gel, moulding to the sitter's shape with even support and no pressure sores; also uses a loose cushion as a kneeling pad or shoulder padding when working forward; tried unsuccessfully to obtain a helicopter pilot's dinghy-box seat (a small fibreglass box holding a one-man dinghy, with a buttock-shaped top and thin fabric pad, attached to the parachute harness); has been looking for a cheap folding beach seat with a back, useful for sitting on the aft deck with legs over the stern, since leaning against the cabin there is too low and slopes away too much to support the back. Signed "Al, Yeovil, England."
+[97] Archive message page_3160 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 3191, 2005-09-19) — "Re: Seat Cushion": has used a soft Airex closed-cell foam seat cushion for years aboard Little Cruiser, originally bought from Defender Industries; likens it to a denser memory foam; Defender no longer carries that product but Airex foam remains available from specialty suppliers (citing bobsfoam.com); links photos of the cushion. Signed "Dave."
+[98] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": proposes the group collaborate on a proper stowable seat design for Paradox, citing Hugh Horton's adjustable canoe seat (variable height and horizontal position, adjustable backrest, reportedly comfortable for hours without numbness) as a model; specifies a "quintessential" seat should rotate and lock in any position, adjust for height and inclination, be variably fixable athwartships, support the back well, and still allow ready access to the lazarette. Signed "Bill."
+[99] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": notes Uffa Fox once fitted a horse's saddle as a helmsman's seat on one of his boats, calling it the most comfortable he ever sat on, though not practical for Paradox; floats a bicycle saddle as a lighter alternative. Signed "Bill."

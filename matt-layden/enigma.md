@@ -168,7 +168,9 @@ fact hosted on the personal BGSU homepage of Matt's brother, astronomer
 **Andrew Layden** — the physics-department affiliation is his, not Matt's (see
 [Andrew Layden's BGSU website](/references/andrew-layden-website.md)); the page
 it links, `matts_boat2005.htm`, is Andy's own Feb–Apr 2005 build log of the
-boat he later names "Enigma."
+boat he later names "Enigma." Both this `matts_boat2005.htm` page and
+microcruising.com's own Enigma coverage remained the two links the community
+pointed newcomers to when asked about Matt's newer, lighter 12-footer.[29]
 
 ## The Enigma family: the 360 and the plywood-cabin 460
 
@@ -303,3 +305,4 @@ working name (see [The "Mini Paradox" working name](#the-mini-paradox-working-na
 [26] Archive message page_2794 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2825, 2005-06-11) — "Re: Subject: RE: Re: Mini Paradox": answers Ray's center-of-lateral-plane question — yes, the runner area should be treated as a keel extension; adding the runners' profile to the bottom of the chine curve and computing lateral resistance from the resulting profile "would be real close." Signed "Glen."
 [27] Archive message page_2824 (LJGeib / "Larry" / Larry Whited, `paradoxbuilders`, msgnum 2855, 2005-06-14) — "What software is Matt using?": looking at Matt Layden's brother's mini-Paradox website, asks whether anyone recognizes the 3D modeling software shown in the posted JPEGs. Signed "Larry."
 [28] Archive message page_2825 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2856, 2005-06-14) — "Re: What software is Matt using?": identifies it as Rhino 3D — the same program he uses himself — noting it handles chine or smooth-hulled boats and accepts plugins for full hydrodynamic analysis from RhinoMarine (Proteus Engineering, also makers of the NURBS-based FastShip); the specific computer that produced the screen grabs was not running RhinoMarine. Signed "Chris."
+[29] Archive messages page_3153/page_3154/page_3156 (usuallywright / "davewright112002" / Dave Wright, msgnum 3184, 2005-09-15; LJGeib / Larry Whited, msgnum 3185, 2005-09-15; logicaid / "logicaidnz" / Alan, msgnum 3187, 2005-09-16), `paradoxbuilders`, "New 12 foot Design, was Re: Pounding?": a newcomer asked for a link to Matt Layden's newer 12 ft design; Larry Whited supplied the `physics.bgsu.edu/~layden/FunStuff/Boats/Matt_Boat/matts_boat2005.htm` construction-photo page directly; Alan pointed to microcruising.com as carrying the same information.

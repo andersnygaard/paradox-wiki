@@ -1,5 +1,50 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 316: page_3151-page_3160)
+
+**The "Seat Cushion" thread reaches its substantive conclusion: Alastair's
+detailed account of the wheelchair cushion's gel-bead construction and his
+unsuccessful search for a helicopter pilot's dinghy-box seat and a folding
+beach seat; Dave Bolduc's own long-used Airex closed-cell foam helm cushion;
+and William Serjeant's "Quintessential Seat" proposal for a proper adjustable
+helm seat modeled on Hugh Horton's adjustable canoe seat, with a nod to Uffa
+Fox's horse-saddle helmsman's seat. Separately, the already-closed
+"Pounding?" thread produces one last spinoff — a newcomer's request for a
+link to Matt Layden's newer 12 ft design (Enigma), answered with the
+community's two standing reference links.** No new person or boat pages
+created this batch; one existing section substantially extended, one new
+person-page subsection added, three person pages gained short cross-link
+summaries/facts. Intervening banter (coffee-cup-holder jokes, a sun-brolly
+kite-sail joke) correctly excluded as conversational residue per the register
+rules — no fact lost.
+
+- **`operations/crew-size-and-fit.md`** — extended the existing
+  "Long-passage seat comfort: cushion practice" section: the wheelchair
+  cushion's actual gel-bead-in-syrup construction and Alastair's search for
+  alternative seats; Dave Bolduc's Airex foam helm cushion, used for years
+  aboard Little Cruiser; William Serjeant's full "quintessential seat"
+  specification and Hugh Horton/Uffa Fox precedents. Cites [96]-[99], 65
+  total-lines/99 numeric max (pre-existing [54]-[87] gap preserved exactly).
+- **`people/alastair.md`** — extended the existing long-passage seat-comfort
+  cross-link summary with his cushion-construction detail and alternative-seat
+  search. Cite [267], 267 total/267 max, no gaps.
+- **`people/bill-serjeant.md`** — new "The 'quintessential seat' proposal"
+  subsection, cross-linking the section above (full text stays on the
+  operations page per narrate-once-cross-link). Cite [22], 22 total/22 max,
+  no gaps.
+- **`people/bolduc/dave.md`** — new "Long-passage helm-seat cushion" bullet
+  under "Operations and cruising practice," cross-linking the section above.
+  Cite [104], 104 total/104 max, no gaps.
+- **`matt-layden/enigma.md`** — one-line addendum to "The external
+  construction-photo link" noting the community's two standing pointers
+  (physics.bgsu.edu build log, microcruising.com) for Matt Layden's newer 12
+  ft design. Cite [29], 29 total/29 max, no gaps.
+
+Backlog: added new below-threshold newcomer "Dave Wright"
+(`davewright112002`); no Open item's trigger condition was met by these ten
+pages. Anchor checker: 0 broken across 2,404 anchors (no new headings
+created — all additions extended pre-existing headings).
+
 ## 2026-07-06 (batch 315: page_3141-page_3150)
 
 **The "Pounding?" thread closes out with a design-comparison explanation from

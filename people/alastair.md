@@ -860,8 +860,11 @@ dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimens
 On long-passage seat comfort, he rotates between a hard foam cushion, a soft
 foam cushion, and a small inner tube every couple of hours, finding the
 rotation itself — not any single cushion — is what actually reduces the
-pain. See [crew size and fit — long-passage seat comfort: cushion
-practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[266]
+pain; he also described the wheelchair-cushion's gel-bead construction, tried
+and failed to obtain a helicopter pilot's dinghy-box seat, and has been
+looking for a folding beach seat for sitting on the aft deck. See [crew size
+and fit — long-passage seat comfort: cushion
+practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[266][267]
 
 # Citations
 
@@ -1134,3 +1137,4 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [264] Archive messages page_3028/page_3029 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059/3060, 2005-08-03) — "Yard support" / "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#a-proposed-mast-mounted-traveller-to-keep-the-yard-close-when-reefed) and [boats/enuf.md](/boats/enuf.md#a-proposed-traveller-to-keep-the-yard-close-to-the-mast-when-reefed); the Welsford Houdini traveller idea, and a further cantilever/bamboo-crushing clarification for Derek Clark. Signed "Al, Yeovil, England."
 [265] Archive message page_3146 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3177, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions). Signed "Al, Yeovil, England."
 [266] Archive message page_3150 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3181, 2005-09-14) — "Re: Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Al, Yeovil, England."
+[267] Archive message page_3159 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3190, 2005-09-19) — "Re: Quintessential Seat": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Al, Yeovil, England."
