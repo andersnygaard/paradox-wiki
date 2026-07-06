@@ -1,5 +1,50 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 323: page_3221-page_3230)
+
+The archive's real content this batch was a "Bilges" thread: **David Beard**
+asked how other builders finished their bilges, weighing a plain epoxy coat
+against paint or varnish and worrying that a nice paint job could hide rot
+starting underneath it. **Jack Gardiner** gave the fullest answer on record —
+three coats of epoxy, a quality primer, and quality marine paint hold up fine
+without real rot risk, since the boat stays small enough to visually
+spot-check regardless; how the boat is stored (mooring vs. tarp/garage)
+matters more than the finish choice; and he distrusts nailed fastenings
+because flexing works nails loose and a loose nail can inject water into the
+plywood's end grain like a syringe — the reason he tabbed his own hull
+stitch-and-glue instead. **Derek Clark** then asked, half in jest, what
+"S&G" stood for ("I've heard of S&M style... but what's S&G?"), and **Nels**
+supplied the answer ("Simon and Garfunkel? Or maybe Stitch and Glue?").
+Ahead of that thread, a four-message off-topic tangent (Nels, Chris Ostlind,
+"Al" of Yeovil) traded jokes about a fluid-dynamics research link and beer
+foam, and Chris Ostlind separately cross-posted a self-promotional Duckworks
+Magazine article to six mailing lists — both correctly excluded from the
+tree per the pruning rubric, with zero Paradox-specific content. The batch
+closed with a new below-threshold newcomer, "West"/`westburke`, announcing
+he had sent off for and received the plans and planned to start building
+around Boxing Day, from a desert location ("everyone thinks I'm nuts").
+
+- **`construction/rot-inspection-ice-pick.md`** — new section "Finishing
+  the bilges: leave inspectable, or paint over" (the epoxy/primer/paint
+  regime, how storage conditions affect risk, and why nailed fastenings vs.
+  stitch-and-glue tabbing changes the calculus). Cites [16]-[19], 19
+  total/19 max, no gaps.
+- **`people/david-beard.md`** — new narrate-once-cross-link bullet for his
+  bilge-finishing question. Cite [251], 251 total/251 max, no gaps.
+- **`people/jack-gardiner.md`** — new paragraph cross-linking his
+  bilge-finishing answer and stitch-and-glue rationale. Cite [197], 196
+  total-lines/197 numeric max (pre-existing +1 gap at [53] preserved
+  exactly), no new gaps.
+- **`people/derek-clark.md`** — new sentence cross-linking his "S&G?"
+  question. Cite [19], 19 total/19 max, no gaps.
+- **`people/nels.md`** — new bullet cross-linking his "Stitch and Glue"
+  joke answer. Cite [140], 140 total/140 max, no gaps.
+- `.okf-progress/backlog.md` — new below-threshold-newcomer Open item for
+  "West"/`westburke` (trigger: build start, boat name, or launch); new
+  "Batch 323 correspondent + gap check" section recording the msgnum run,
+  attribution checks, and the pruning-rubric exclusions of the CFD/beer
+  tangent and the Duckworks self-promotion post.
+
 ## 2026-07-06 (batch 322: page_3211-page_3220)
 
 Five more answers landed on the "WATER TANKS" thread Martin opened last

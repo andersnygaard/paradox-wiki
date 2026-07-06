@@ -411,6 +411,13 @@ without a topping lift, and has had zero problems since fitting one. See
 [furling system — a second, later topping-lift question, and two more
 confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
 
+**Opened the bilge-finishing question.** Asked how other builders finished
+their bilges, weighing his own plain epoxy coating against painting them —
+worried a coat of white paint would hide rot getting started underneath it.
+See [checking a used Paradox for rot — finishing the bilges: leave
+inspectable, or paint
+over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -676,3 +683,4 @@ confirmations](/design/furling-system.md#a-second-later-topping-lift-question-an
 [248] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 [249] Archive messages page_3174/page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21, "Re: New pics"; and msgnum 3207, 2005-09-23, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 [250] Archive message page_3195 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3226, 2005-10-20) — "Re: Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+[251] Archive message page_3226 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3257, 2005-11-15) — "Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).

@@ -2,7 +2,7 @@
 type: Concept
 title: Checking a used Paradox for rot (ice-pick probe technique)
 description: How to survey a secondhand or already-built Paradox for hidden rot before investing in a refit, and how to treat rot once found.
-tags: [paradox, construction, rot, survey, secondhand, glen-maxwell, david-beard, gitrot, borate]
+tags: [paradox, construction, rot, survey, secondhand, glen-maxwell, david-beard, jack-gardiner, gitrot, borate, bilges, stitch-and-glue]
 timestamp: 2026-07-01T00:00:00Z
 ---
 
@@ -128,6 +128,34 @@ before deciding whether they too need filling.
 See [undersize side panels](/construction/undersize-side-panel-ply.md) for
 an unrelated scantling problem found on the same boat during this refit.
 
+## Finishing the bilges: leave inspectable, or paint over
+
+Whether to finish the interior bilges beyond a plain epoxy coat — painting or
+varnishing them for appearance — carries a genuine trade-off against the
+ice-pick survey method above: a good coat of white paint looks nicer, but can
+hide rot getting started underneath it just as effectively as it hides
+cosmetic flaws. The deciding factors are how the boat will be kept: a boat
+that sits on a mooring or under a tarp/in a garage for extended periods is
+more exposed to trapped damp than one used and inspected regularly, so a
+finish decision should weigh storage conditions as much as looks.
+
+A three-coat regime — three coats of **epoxy**, a **quality primer**, and a
+**quality marine paint** — will hold up without meaningful rot risk on its
+own, and the boat is small enough that a builder can usually still "see" if
+something is amiss from the outside even with the interior painted over.
+
+**Fastening method changes how much this matters.** A hull built with
+**nails** is the harder case: flexing over time works nails loose, and a
+loosened nail can act like a syringe, injecting water into the plywood's
+end grain from the inside — a failure mode a painted-over bilge would mask.
+A builder who distrusts nailed fastenings for this reason may prefer to
+leave the bilge **unpainted** so early injection can be caught by eye or
+ice pick. Building the hull **stitch-and-glue** style — with **taped seams**
+instead of nailed chine logs — sidesteps the concern entirely, since there
+are no nails working loose in end grain to begin with; see [chine log vs.
+taped-seam construction](/construction/chine-log-vs-taped-seam.md) for the
+fuller construction-method comparison.
+
 ## Sealing over a previously treated repair
 
 A practical question follows naturally from the Carnell/borate treatment
@@ -170,3 +198,7 @@ house. Recommended sequence:
 [13] Archive message page_417 (Glen Maxwell / "ifida", `paradoxbuilders`, msgnum 415, 2002-03-06) — "Re: Rot": endorses David's approach; recommends Gitrot (a thin, injectable epoxy) for small areas; for large areas, dig out and fill with epoxy and Cabosil; recommends a Borate solution pretreatment per Carnell for longevity; bought a pound of 100% boric acid (roach killer) at Food Lion for a dollar, "enough to treat a ship."
 [14] Archive message page_640 (buster38801 / David Beard, `paradoxbuilders`, msgnum 642, 2002-08-17) — "To seal or not?": redoing the inside of "Whisper," planning to seal with epoxy and paint; unsure whether to epoxy-seal because of the earlier water damage to the bottom around bulkhead #3 that he had repaired and treated per Dave Carnell; asks the list's thoughts.
 [15] Archive message page_641 (mbolduc / Dave Bolduc, `paradoxbuilders`, msgnum 643, 2002-08-17) — "Re: To seal or not?": reads the question as being about antifreeze fluid to kill rot; make sure everything is clean and dried out, soak rotted wood with unthickened epoxy, use wood flour or microballoons with epoxy to fill depressions, "this is what I did on Swamp Thing when she was at my house for repairs"; then seal the interior with epoxy (expensive) or just use paint or varnish, "which is what I did."
+[16] Archive message page_3226 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3257, 2005-11-15) — "Bilges": asks how other builders finished their bilges; his own are just epoxy-coated for now; considered dressing them up with paint or varnish, but worries a coat of white paint would hide any rot getting started underneath.
+[17] Archive message page_3227 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3258, 2005-11-15) — "Re: Bilges": it depends on how the bilge was finished — three coats of epoxy, a quality primer, and quality marine paint will hold up without rot worry, and the boat is small enough to "see" if something's amiss even from the outside; asks whether the boat sits on a mooring or spends most of its time under a tarp/in a garage, since that affects the risk; distrusts nailed fastenings, since flexing works nails loose over time and a loose nail can act like a syringe injecting water into the plywood's end grain — he tabbed his own boat stitch-and-glue style specifically to avoid that whole issue. Signed "Jack."
+[18] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": "S&G style? I've heard of S&M style (which may be relevant to a Paradox) but what's S&G?"
+[19] Archive message page_3229 (arvent / "Nels", `paradoxbuilders`, msgnum 3260, 2005-11-16) — "Re: Bilges": "Simon and Garfunkel? Or maybe Stitch and Glue?"

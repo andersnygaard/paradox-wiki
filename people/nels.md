@@ -676,6 +676,11 @@ calling him "truly amazing." See
   gallon sizes in everyday use. See [epoxy brands and chemistry — converting
   a US epoxy quantity to litres or
   kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).[139]
+- **Solved the "S&G" joke.** Answered Derek Clark's tongue-in-cheek question
+  about what "S&G" stood for — "Simon and Garfunkel? Or maybe Stitch and
+  Glue?" — confirming the construction-method reading. See [checking a used
+  Paradox for rot — finishing the bilges: leave inspectable, or paint
+  over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[140]
 
 # Citations
 
@@ -818,3 +823,4 @@ calling him "truly amazing." See
 [137] Archive messages page_2981 (arvent / "Nels", `paradoxbuilders`, msgnum 3012, 2005-07-29) and page_2984 (arvent / "recree8" / Nels, msgnum 3015, 2005-07-30) — "Re: Enuff Update" / "Re: Enuf Update & now Ballast as well": full text and citation at [construction/topside-painting.md](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade); the "SOS" reply quotes Derek's own "International Paints red" line back at him and suggests asking his wife to explain it.
 [138] Archive message page_2987 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3018, 2005-07-31) — "Re: Enuf Update & now Ballast as well": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).
 [139] Archive message page_3200 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3231, 2005-11-04) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
+[140] Archive message page_3229 (arvent / "Nels", `paradoxbuilders`, msgnum 3260, 2005-11-16) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).

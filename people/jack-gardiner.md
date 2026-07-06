@@ -847,6 +847,14 @@ An early sandbar grounding, his reef-early doctrine, why he mounted a 6 hp
 outboard, and his luff-rope fix for the sail's reefing crease are narrated
 in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).[195]
 
+Answering David Beard's bilge-finishing question, Jack gave the fullest
+statement on record of the trade-off between painting a bilge for looks and
+leaving it inspectable for rot, and explained why he tabbed his own hull
+stitch-and-glue style rather than nailing chine logs — nails work loose
+with flexing and can inject water into the plywood's end grain. See
+[checking a used Paradox for rot — finishing the bilges: leave inspectable,
+or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[197]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1045,3 +1053,4 @@ in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-an
 [194] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 [195] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).
 [196] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
+[197] Archive message page_3227 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3258, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).

@@ -76,6 +76,10 @@ compartments as lift-up-lid food storage instead, carrying actual drinking
 water in roll-up carriers under the seat — see [water tank construction and
 lining — epoxy: mixed
 opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
+Asked, half in jest, what "S&G" (stitch-and-glue) construction actually
+stood for during Jack Gardiner's bilge-finishing answer — see [checking a
+used Paradox for rot — finishing the bilges: leave inspectable, or paint
+over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 
 # Citations
 
@@ -97,3 +101,4 @@ opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 [16] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
 [17] Archive message page_3210 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3241, 2005-11-06) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
 [18] Archive message page_3211 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3242, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
+[19] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
