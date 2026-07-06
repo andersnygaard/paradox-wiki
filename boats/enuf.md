@@ -582,6 +582,48 @@ about the same knot, suggested the more thorough fix of **knocking the knot
 out completely and filling the resulting void with epoxy** rather than
 packing around a knot left in place.[105]
 
+Once the boom was already glued up and shaped, drilling out and plugging the
+knot was no longer practical.[106] Derek judged the knot was not fully dead —
+one end stayed firmly bonded to the surrounding wood, while the other had
+shrunk away from it, a gap only visible after the timber was planed and
+shaped rather than in the rough — and planned to inject epoxy into the gap
+with a hypodermic needle.[107] Jeff (UK) suggested contacting the timber
+merchant, Robbins Timber of Bristol, directly, since a supplier of that
+reputation would likely make it right.[108] A phone call got a
+suspiciously quick, seemingly rote answer, hinting the timber's guarantee no
+longer applied a year after purchase or that the knot itself had changed
+since; unsatisfied, Derek followed up in writing with three photographs of
+the knot and a warning that a boom failure that endangered him would bring a
+further complaint.[109][110] The episode became a running list joke
+("Derek's Knotty Stituation") once Chris Ostlind asked what Robbins had said
+and supplied his own mock answer ("Get Lost... we don't know nothin' about
+no knots").[111] [Bill Serjeant](/people/bill-serjeant.md), who had just
+ordered the bulk of his own Paradox timber from Robbins, noted he would be
+checking his own delivery for knots while its guarantee still held.[112]
+Derek drew the practical lesson that he would inspect timber more carefully
+in the rough on any future build, and that building "Enuf" had by then
+justified buying a table saw, letting him buy oversized stock and choose his
+own cuts rather than pay a merchant's cutting fee — a real saving over
+buying pre-cut lengths.[107]
+
+Separately, Bruce Hallman supplied the
+underlying physics: a knot itself is not usually what weakens a wood spar;
+rather, the straight grain of the wood swerves around a knot, producing
+localized **grain runout** in its vicinity, comparable to a scarf joint. Where
+that runout exceeds roughly 8:1, the sounder fix is to cut out the affected
+section and replace it with a proper 8:1 scarf rather than simply filling the
+knot with epoxy, which does nothing to address the runout itself; wrapping
+the affected section in fiberglass and epoxy was offered only as an emergency
+patch, not a real fix.[113] Jack Gardiner agreed, adding that a laminated
+spar (built up from two glued layers, as Derek's boom was) still has one
+intact layer backing the irregular grain at a knot, but that a knot or an
+epoxy-filled repair will not flex evenly with the rest of a spar that is
+itself part of the sail's shape under load — the straighter wood to either
+side of a repair takes more tension than the repair itself, concentrating
+stress there. His practical recommendation, cost and effort aside, was
+replacing a badly knotted spar section outright, with the cut-out piece kept
+on board as a handy stowage spot for a backup set of sails.[114]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -694,3 +736,12 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [103] Archive message page_3088 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3119, 2005-08-17) — "Re: Epoxy and Varnish": not critical in return, but warns Derek to watch for encased knots (bark visibly grown around the knot) versus small spike knots, which are acceptable if not too clustered, given the stresses on a sail rig under sail; the leather chafe protector came from an old 1980s leather jacket; also wraps a scrap of black rubber roofing membrane, sourced free or cheap from a commercial roofing company, around the mast's base, expecting it to outlast a leather equivalent there. Signed "Jack."
 [104] Archive message page_3089 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3120, 2005-08-17) — "Re: Epoxy and Varnish": reports one very bad knot in the centre of his boom, running through at an angle and loose on one side; plans to pack it with epoxy while accepting it as a weak point. Signed "Derek."
 [105] Archive message page_3090 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3121, 2005-08-17) — "Re: Epoxy and Varnish": suggests knocking the bad knot out of the boom completely and filling the resulting void with epoxy, rather than packing epoxy around a knot left in place. Signed "Glen."
+[106] Archive message page_3091 ("Wayne" / `wtorry`, `paradoxbuilders`, msgnum 3122, 2005-08-18) — "Re: Epoxy and Varnish": asks whether the boom is already glued up and shaped, and so too late to drill out and plug the knot. Signed "Wayne, in the Swamp."
+[107] Archive message page_3092 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3123, 2005-08-18) — "Re: Epoxy and Varnish": the knot is not fully dead — one end stays firmly bonded in the wood, the other has shrunk away, a gap not visible until the boom was planed and shaped; plans to inject epoxy into the gap with a hypodermic needle; will examine timber more carefully in the rough on his next boat; names Robbins Timber of Bristol as his supplier, found via the net as a noted boatbuilding-timber source, and has since found a timber importer 40 minutes away to select stock in person; credits "Enuf" with justifying the purchase of a table saw, letting him buy oversized stock and cut it himself rather than pay a merchant's cutting fee. Signed "Derek."
+[108] Archive message page_3093 ("Jeff" / `apcf14`/`roverticket` / Jeff (UK), `paradoxbuilders`, msgnum 3124, 2005-08-18) — "Re: Epoxy and Varnish": suggests Derek phone Robbins about the faulty timber, expecting them to replace it as "a pretty good bunch." Signed "Jeff UK."
+[109] Archive message page_3094 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3125, 2005-08-18) — "Re: Epoxy and Varnish": a phone call to Robbins got a response so quick it felt rote, leaving him uneasy; followed up in writing with three photographs of the knot, inviting them to reconsider after seeing the pictures, and said he was willing to epoxy the gap if that was their considered opinion. Signed "Derek."
+[110] Archive message page_3096 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3127, 2005-08-18) — "Re: Derek's Knotty Stituation": the phone call had hinted, without saying outright, that the timber's guarantee had lapsed a year after purchase, or that the knots had grown or loosened since; the written follow-up drew slower replies; warned that a boom failure that put him in danger would bring a further complaint; hopes for a well-considered answer. Signed "Derek."
+[111] Archive messages page_3095 and page_3097 (Chris@... / "Chris Ostlind" and dclark / "dclark52001", `paradoxbuilders`, msgnum 3126 and 3127, 2005-08-18) — "Re: Derek's Knotty Stituation": Chris asked what Robbins' answer was, joking "Get Lost... Come on in... We don't know nothin' about no knots"; the thread's title became the running joke's name. Signed "Chris."
+[112] Archive message page_3100 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3131, 2005-08-19) — "Re: Derek's Knotty Stituation": having just ordered the bulk of his own Paradox timber from Robbins, notes he will be checking for knots himself while the guarantee is in force. Signed "Bill."
+[113] Archive message page_3098 (Bruce Hallman, `paradoxbuilders`, msgnum 3128, 2005-08-18) — "Re: Epoxy and Varnish": a knot itself is usually not what weakens a wood spar; rather the wood's straight grain swerves around a knot, producing localized grain runout comparable to a scarf joint; where runout exceeds roughly 8:1, cutting out the section and replacing it with a proper 8:1 scarf is the sounder fix, since filling the knot with epoxy does nothing to address the runout; wrapping the section in fiberglass and epoxy was offered only as an emergency patch.
+[114] Archive message page_3099 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3130, 2005-08-18) — "Re: Epoxy and Varnish": agrees with Bruce Hallman; a laminated spar still has one intact layer backing the irregular grain at a knot, but neither a knot nor an epoxy-filled repair flexes evenly with the rest of a spar that is itself part of the sail's shape under load, so the straighter wood either side of a repair takes more tension than the repair itself; recommends replacing a badly knotted section outright, keeping the cut-out piece aboard as stowage for a backup set of sails. Signed "Jack."

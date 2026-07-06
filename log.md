@@ -1,5 +1,48 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 310: page_3091-page_3100)
+
+**"Derek's Knotty Stituation" — the boom-knot saga runs to its conclusion,**
+with a supplier complaint, a running list joke, and the underlying wood-grain
+physics behind why knots weaken spars. One boat page and two person pages
+extended; no new person or boat pages created this batch.
+
+- **`boats/enuf.md`** — extended the existing "Finishing the spars" section:
+  too late to drill/plug the boom's knot once shaped (Wayne); Derek's own
+  diagnosis (one end of the knot shrunk from the wood) and hypodermic-needle
+  epoxy-injection plan, plus the practical lesson to examine timber more
+  carefully in the rough and the table saw "Enuf" justified buying; Jeff
+  (UK)'s suggestion to contact the timber supplier, Robbins Timber of
+  Bristol, directly; Derek's phone call and follow-up written complaint with
+  photos; Chris Ostlind's running joke that named the thread; Bill
+  Serjeant's own note about checking his newly ordered Robbins timber for
+  knots; and Bruce Hallman's grain-runout physics (a scarf joint above 8:1
+  runout is the real fix, not epoxy alone), endorsed and extended by Jack
+  Gardiner (a repaired/knotted section won't flex evenly with the rest of a
+  loaded spar). Cites [106]-[114], 114 total, no gaps.
+- **`people/jack-gardiner.md`** — narrate-once cross-link addendum for his
+  grain-runout-repair agreement, linking to `boats/enuf.md`'s section. Cite
+  [190], 189 total/190 numeric max (pre-existing +1 gap preserved).
+- **`people/bill-serjeant.md`** — new short paragraph under "Contributions to
+  design discussion" for his Robbins-timber note, cross-linked to
+  `boats/enuf.md`. Cite [13], 13 total/13 max, no gaps.
+- **Backlog:** no Open item's trigger condition was met this batch (Jeff-UK,
+  botebilder/Ernie Fossel, Jason Stancil, below-threshold Larry, and the full
+  watch-list all checked, none resurfaced or newly triggered); David
+  Platten's dormant promotion watch and Bill Serjeant's own further-build-
+  detail watch remain Open/dormant — Bill's appearance this batch was a
+  passing remark, not new build-progress detail. No new below-threshold
+  correspondents — Wayne and Bruce Hallman are the only non-standing names,
+  both one-off factual-answer correspondents with no boat/build of their own.
+- **Identity/attribution checks:** Derek Clark, Jack Gardiner ("John
+  Gardiner"), Jeff (UK, unconfirmed vs. `doryman_uk`), Chris Ostlind, Bruce
+  Hallman, and William/Bill Serjeant all confirmed via headers against their
+  standing identities; no conflations. msgnum run 3122-3131 confirmed
+  distinct and consecutive continuing from batch 309's last msgnum 3121; all
+  ten byte sizes matched the dispatch table exactly, no same-size pair.
+  Anchor checker: 0 broken across 2,375 anchors. Archive timeline reached 19
+  August 2005.
+
 ## 2026-07-06 (batch 309: page_3081-page_3090)
 
 **Derek Clark's build wraps the brass-bending saga (silver soldering, not

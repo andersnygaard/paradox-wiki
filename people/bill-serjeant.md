@@ -86,6 +86,11 @@ article to be reproduced on paradox-uk.co.uk as "Zoë's Sea Trials," with
 Glen's permission — see
 [boats/zoe.md](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
 
+Having just ordered the bulk of his own build timber from Robbins Timber of
+Bristol when Derek Clark's boom-knot dispute with that same supplier played
+out on the list, Bill noted he would be checking his own delivery for knots
+himself while its guarantee still held — see [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
+
 ## One person across three handles
 
 Bill Serjeant's Yahoo profile name changed twice over the archive's span —
@@ -110,3 +115,4 @@ three eras.
 [10] Archive message page_1846 (w.serjeant / "barnacletoo" / William Serjeant, `paradoxbuilders`, msgnum 1869, 2004-01-22) — "Re: Sea Trial article": full text and citation at [boats/zoe.md](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
 [11] Archive message page_1400 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1420, 2003-11-18) — "Tools list": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
 [12] Archive message page_1839 (w.serjeant / "barnacletoo" / William Serjeant, `paradoxbuilders`, msgnum 1862, 2004-01-21) — "Yahoo! profile": full text and citation at [references/paradox-uk-website.md](/references/paradox-uk-website.md); announces changing his Yahoo Profile name from `barnacleid` to `barnacletoo` "for technical reasons."
+[13] Archive message page_3100 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3131, 2005-08-19) — "Re: Derek's Knotty Stituation": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
