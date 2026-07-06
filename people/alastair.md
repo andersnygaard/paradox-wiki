@@ -387,6 +387,14 @@ contributions and cross-link to where each is told in full.
   how to wire several in
   series](/operations/running-lights.md#led-electrical-theory-and-how-to-wire-several-in-series)
   and [building a sector'd LED masthead light](/operations/running-lights.md#building-a-sectord-led-masthead-light-led-counts-wiring-and-potting).
+  Answering a fellow UK builder's below-deck wiring question in October
+  2005, described his own bottom-of-mast arrangement in full: a
+  water-resistant plug/socket mounted low on the mast's aft face, reached
+  from inside the boat by "a bit of a contortionist trick," with spare wire
+  left coiled inside the mast so the connection (or the whole run, if
+  damaged) can be remade without stripping it out. See [running lights —
+  clearing a snug deck hole as the mast is stepped and
+  unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
 - **Furling and the topping lift.** Stock furling gear is impractical without
   a topping lift; a **continuous halyard/furling-line** arrangement (a
   single line, so hauling the halyard pays out the furling line in step)

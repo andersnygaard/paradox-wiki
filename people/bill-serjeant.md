@@ -113,12 +113,22 @@ Maxwell, cross-linking the community's standing masthead-wiring options.
 See [running lights — routing masthead-light wiring outside the mast, below
 the
 sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).[23]
+A follow-up question — how the flex avoids being trapped as a snugly-fitting
+mast is lowered through the deck — drew answers from Glen, Derek Clark, and
+Alastair between them, settling on the mast's own taper as the reason and
+converging on two different below-deck plug/socket arrangements; full detail
+at [running lights — clearing a snug deck hole as the mast is stepped and
+unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).[25][26]
 
 Around the same time, still searching for a name for the boat, Bill put a
 shortlist of roughly 80 candidate names to the group for suggestions and
 reasons — among them *Braveheart*, *Crusader*, *Eureka*, *Mudlark*,
 *Paradoxical*, *Pilgrim*, *Scallywag*, and *Xanadu* — inviting the list to
 also propose names of their own if none of the eighty appealed.[24]
+Alastair, only asked in passing, declined to offer a strong opinion beyond
+ruling out "Yoyo" as giving "an entirely untrue impression" — noting his own
+boat's name, "Little Jim," only settled 18 months after he began
+building.[25] No name has been confirmed as of this writing.
 
 ## Lower pintle: an alternative to drilling the rudder stock
 
@@ -181,3 +191,5 @@ three eras.
 [22] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Bill."
 [23] Archive messages page_3178/page_3180 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3209, 2005-10-08, "Mast Questions"; and ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3211, 2005-10-08, "Re: Mast Questions"): full text and citation at [operations/running-lights.md](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
 [24] Archive message page_3179 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3210, 2005-10-08) — "Boat Name": struggling to settle on a name for his Paradox, posts a list of about 80 candidate names — including Braveheart, Crusader, Eureka, Mudlark, Paradoxical, Pilgrim, Scallywag, and Xanadu — asking the group to pick one and give reasons, or to suggest a suitable alternative not on the list. Signed "Bill."
+[25] Archive message page_3184 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3215, 2005-10-10) — "Re: Mast Questions": full masthead-wiring text and citation at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped); in passing, on the "Boat Name" thread, says he is not the best adviser on names, since "Little Jim" only arrived 18 months after he began building, but is sure it's "definitely not Yoyo," which gives "an entirely untrue impression." Signed "Al, Yeovil, England."
+[26] Archive messages page_3181/page_3182/page_3183/page_3187 (william / "williamserjeant" / William Serjeant, msgnum 3212, 2005-10-09; ifida / "Glen C. Maxwell", msgnum 3213, 2005-10-09; dclark / "dclark52001" / Derek Clark, msgnum 3214, 2005-10-09; openboat / "alopenboat" / Alastair, msgnum 3218, 2005-10-15) — "Re: Mast Questions" thread: full text and citations at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).

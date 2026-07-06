@@ -42,7 +42,13 @@ Don remained a fellow builder and sailor with useful contributions to make.
 Derek asked whether a secondhand aluminum Skipper 12 dinghy mast might suit a
 Paradox, and separately asked whether Matt Layden's own mast design had been
 arrived at by engineering calculation or simply from what materials he had on
-hand — left unanswered in the archive. He also searched at length (with
+hand — left unanswered in the archive. Answering Bill Serjeant's masthead-wiring
+question in October 2005, he pointed to Alastair's own recessed below-deck
+plug as a model, and mentioned building his own masthead light inside a
+translucent plastic ball (of the kind sold containing washing-machine powder)
+to be rigged only when needed, rather than wiring a fixed light permanently —
+see [running lights — clearing a snug deck hole as the mast is stepped and
+unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped). He also searched at length (with
 [William Longyard](/people/william-longyard.md) and others) for a published
 photograph of the original prototype's single-line mainsheet setup, eventually
 finding candidate photo links and asking the group to scan a magazine image to

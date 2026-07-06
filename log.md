@@ -1,5 +1,60 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 319: page_3181-page_3190)
+
+**The masthead-wiring thread concludes**: Bill Serjeant's snug-deck-hole
+follow-up question — how does the flex clear a tight-fitting mast as it's
+lowered into the deck? — draws answers from Glen Maxwell (the mast's own
+taper leaves clearance), Derek Clark (points to Alastair's recessed
+below-deck plug, and mentions his own unwired washing-machine-ball masthead
+light), and Alastair (a full routing answer: exit just below the masthead
+plug at top, a water-resistant plug/socket low on the mast's aft face at
+bottom reached by "a bit of a contortionist trick," pipe-insulation spacers
+against wire slap). **The "Boat Name" thread continues without resolving**:
+Alastair declines to pick a favorite from Bill's ~80-name shortlist beyond
+ruling out "Yoyo," prompting a new correspondent, Alan (`logicaidnz`, a
+long-standing below-threshold list member since 2003), to riff on whether
+"Little Jim" was a Goon Show reference (confirmed by Alastair) and propose
+further Goon Show-inspired names for his own not-yet-built Paradox — pure
+banter, no durable design content, no name settled for either boat. No new
+person or boat pages created this batch; one operations page gained a new
+section under a pre-existing heading, three person pages gained short
+cross-link updates.
+
+- **`operations/running-lights.md`** — new section "Clearing a snug deck
+  hole as the mast is stepped and unstepped," extending the file's existing
+  masthead-wiring material with the mast-taper answer and two below-deck
+  plug/socket methods (recessed end-of-mast plug; water-resistant
+  aft-face socket), plus the washing-machine-ball portable-light idea.
+  Cites [39]-[43], 43 total/43 max, no gaps.
+- **`people/bill-serjeant.md`** — extended the masthead-wiring paragraph
+  with the follow-up-question cross-link, and the "Boat Name" paragraph
+  with Alastair's "not Yoyo" comment, noting no name is yet confirmed.
+  Cites [25]-[26], 26 total/26 max, no gaps.
+- **`people/alastair.md`** — one-sentence cross-link addition to the
+  existing "A compact LED masthead light" bullet, pointing to his aft-mast
+  wiring answer; no new citation needed (summary only, full text lives on
+  `running-lights.md`). 267 total/267 max, unchanged, no gaps.
+- **`people/derek-clark.md`** — one-sentence cross-link addition noting his
+  pointer to Alastair's plug design and his own washing-machine-ball
+  masthead-light idea; no new citation needed (summary only). 15 total/15
+  max, unchanged, no gaps.
+
+Correspondents this batch: William/Bill Serjeant, Glen C. Maxwell, Derek
+Clark, Alastair (`openboat`/`alopenboat`), and Alan (`logicaid`/
+`logicaidnz`) — all standing identities, no new correspondents. Backlog:
+no Open item's trigger condition was met (Jeff-UK, botebilder/Ernie
+Fossel, Jason Stancil, below-threshold Larry, chalcid_1, Dave Wright, John
+Larson, and the full watch-list all checked, none resurfaced); Bill
+Serjeant's boat-naming Open item stays open (still unresolved); no new
+Open item needed for Alan, an already-tracked below-threshold identity.
+msgnum run 3212-3221 (pages 3181-3190) confirmed distinct/consecutive
+continuing from batch 318's last msgnum 3211; standing archive gaps at
+2122/2190/2229/2385/2611/2614/2753 unaffected. All ten byte sizes matched
+the dispatch table exactly (3505/1745/3446/2605/2986/1843/3141/2247/
+3740/2757); no same-size pair flagged, none found. Archive timeline
+reached 9-16 October 2005. Anchor checker: 0 broken across 2,423 links.
+
 ## 2026-07-06 (batch 318: page_3171-page_3180)
 
 **Matt Layden confirms his own tack-furling technique directly** (foot

@@ -108,6 +108,42 @@ level and connects it to a plug fitted just under the forward port-side
 deck — simple to connect and disconnect each time the mast is stepped or
 unstepped for trailering, and proven reliable in service.[38]
 
+## Clearing a snug deck hole as the mast is stepped and unstepped
+
+Bringing the flex out below deck level, rather than above it, raises an
+obvious-sounding worry: if the mast fits snugly through its deck hole, how
+does the flex avoid being sheared or trapped as the mast is lowered into
+place?[39] The answer is the mast's own **taper**: the mast narrows
+steadily below deck level, so there is still clearance around the flex
+while the mast is partway down, well before the fit becomes snug.[40]
+
+Builders have converged on the same below-deck destination — a
+disconnectable plug/socket reachable from inside the boat — by two
+different routes. One method brings the wire out just below deck level to
+a **recessed plug in the end of the mast**, matching the destination
+(though not the routing) of the forward-port-deck method described
+above.[41] A second mounts the socket low on the **aft** face of the mast
+instead, reached from inside the boat by "a bit of a contortionist
+trick" rather than through any dedicated access hole; the plug/socket is
+a water-resistant type (so splashing bilge water is not a concern),
+fitted as low as clearance allows, with the socket itself fixed on from
+outside and spare wire left coiled inside the mast so the connection can
+be remade, or the run pulled through and replaced after damage, without
+having to strip the whole length out.[42][43] Both share the same
+underlying principle as the [interior wire-slap
+padding](#routing-and-maintaining-masthead-light-wiring-without-cutting-the-mast-open)
+already noted: the wire is never epoxied in, only run loose (or, on one
+build, through sections of pipe-insulation lagging glued to the mast's
+interior) so it can move slightly with the boat's motion without chafing
+or making noise, and can be drawn out and replaced without cutting into
+the mast.[42]
+
+A **portable, unwired alternative** sidesteps the whole routing question:
+rather than run any permanent flex up the mast at all, an LED enclosed in
+a translucent plastic ball (of the kind sold containing washing-machine
+powder) can be strung up separately only when a masthead light is
+actually needed.[41]
+
 ## LED electrical theory, and how to wire several in series
 
 The underlying electrical theory behind an LED masthead unit, for builders
@@ -395,4 +431,9 @@ routing a solar-panel cable through the deck itself.[37]
 [36] Archive message page_2739 (logicaid / "Alan", `paradoxbuilders`, msgnum 2739, 2005-06-01) — "'Garden' lights": reports testing the same kind of solar garden light through a full year: still running at 3 a.m. in midsummer, but only about two hours after dark once autumn cut the available daily charging radiation; plans to power a similar 360-degree-diffuser garden light from a separate battery instead, and is experimenting with feeding a larger solar-AA-NiCad-charger panel into the same garden-light housing. Signed "Alan."
 [37] Archive message page_2702 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2732, 2005-05-28) — "2 pics 2 questions": asks how other builders with an installed solar panel route its cable into the cabin — through a hole drilled in a window, or some other method — having noticed Glen Maxwell uses an external loop instead. No reply recorded.
 [38] Archive messages page_3178/page_3180 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3209, 2005-10-08, "Mast Questions"; and ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3211, 2005-10-08, "Re: Mast Questions") — Bill, gluing his mast's front piece into place, asks where the masthead light's wiring should exit the mast and how it should route down to the battery terminals given the mast is stepped and unstepped for trailering, noting Glen's own masthead photos show an external housing for the flex at the top. Glen answers: the top routing follows what Bill already worked out from photos of "Zoë"'s masthead; at the bottom, he brings the flex out under deck level and connects it to a plug fitted just under the forward port-side deck, which has proven easy to connect and disconnect. Signed "Bill" / "Glen."
+[39] Archive message page_3181 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3212, 2005-10-09) — "Re: Mast Questions": follows up on Glen's below-deck plug answer — if the mast fits snugly through the deck hole, how does the flex get through at the same time the mast is being lowered? Envisioned the flex leaving the mast above deck level instead, unless there is a way around the problem he's missing. Signed "Bill."
+[40] Archive message page_3182 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3213, 2005-10-09) — "Re: Mast Questions": answers Bill directly — the mast is tapered below deck level, and the flex is long enough to be fed through while there is still clearance to do so. Signed "Glen."
+[41] Archive message page_3183 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3214, 2005-10-09) — "Re: Mast Questions": reports that Alastair's ("Al's") wiring comes out as a plug recessed in the end of the mast, below deck — suggests Bill contact him directly for a picture. Separately, rather than wire a fixed masthead light at all, has made an LED light enclosed in one of the translucent plastic balls sold containing washing-machine powder, to be strung up separately only when needed. Signed "Derek."
+[42] Archive message page_3184 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3215, 2005-10-10) — "Re: Mast Questions": full routing answer — brings the flex out just below the wooden masthead plug at the top; at the bottom, fits a socket as low as possible so it can be reached from inside, with the mast's taper clearing the deck hole (cautions against knocking the socket off during mast insertion/removal); deliberately avoided piercing the mast near deck level, judging that the point of maximum bending moment; spaces the wire inside the mast with 2 in lengths of pipe insulation to stop it slapping. Also answers the "Boat Name" thread in passing: not the best adviser on names ("Little Jim" only arrived 18 months after launch), but definitely not "Yoyo," which gives an entirely untrue impression. Signed "Al, Yeovil, England."
+[43] Archive messages page_3186/page_3188 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3217/3218, 2005-10-11/2005-10-15) — "Re: Mast Questions": answering Bill's follow-up on exact placement, describes bringing his own wire out the mast's aft face, reached from inside the boat by "a bit of a contortionist trick"; the plug/socket is a water-resistant type, fitted as low as clearance allows, fixed on from outside, with spare wire left coiled inside the mast so the connection — or the whole run, if damaged — can be remade without stripping it out entirely. Signed "Al, Yeovil, England."
 
