@@ -157,8 +157,11 @@ asking over a year later whether David had ever gone ahead with the
 travelling-block-and-bar idea he had floated for keeping the sheet off his
 own outboard. David had not: the fouling had never become enough of a
 problem to motivate the fix, though he still believed it would work, and he
-confirmed he was still running the same 2 hp Honda outboard — the same
-short-shaft model Derek had asked him to confirm.[61]
+confirmed he was still running the same 2 hp Honda outboard.[61] Asked to
+confirm which shaft length, David specified the **short-shaft** model,
+which he prefers over a long-shaft Yamaha he also owns: with the motor
+fully lowered, its lowest point stays above the hull's lowest point, so the
+hull grounds on a submerged obstruction before the motor does.[71]
 
 ## The "Enuf" photo-folder mystery, and a thank-you to the list
 
@@ -373,6 +376,33 @@ Derek also spent the down time between epoxy sessions teaching himself to
 cook aboard on a Trangia stove, reasoning a boat meant for extended cruising
 ought to come with at least basic galley skills.[62]
 
+Testing David Platten's neat-hardener rescue on the second failure's own
+uncured surface, Derek found it did **not** repeat David's earlier
+success: a test patch wiped with neat hardener still failed to set, and a
+fresh, correctly-mixed coat applied directly over the sticky residue set on
+its own surface but did not adhere to the tacky layer underneath. A
+different technique worked on the rudder blade and stock, coated from the
+same bad batch: laying fiberglass mat over the still-tacky epoxy and
+squeegeeing a fresh, correctly-mixed batch through the mat bonded solid.
+With the rudder saved but the hull bottom's top coat still failing to key
+to the tacky layer below it, Derek chose to strip the hull bottom back to
+bare cloth with a scraper rather than risk recoating over an unreliable
+bond — the tacky coating and its fairing powder peeled away in long
+strips, "like skin off a burn."[71][72] David Platten separately suggested
+ditching dispensing pumps altogether in favor of decanting resin and
+hardener into separate snap-lid containers and metering each with a
+veterinary syringe, sourced from a vet or farm-supply shop; Derek's own
+response to the pump-failure saga was more modest — buying a pair of
+graduated measuring jugs to mix by volume going forward.[73][74]
+
+The "Unfolding Calamity for Enuf" thread also brought a new correspondent
+to the list: David Platten introduced himself while it was running,
+explaining his own boat was not yet a Paradox — a twin-masted Breton
+lugger, chaloupe-sardiniere rigged with a dipping lug foresail and a
+standing lug main of equal size — but that having seen Alastair's "Little
+Jim" he was weighing a Paradox as boat "number nine," which was why he had
+just joined the group. David Beard welcomed him.[75][76]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -450,3 +480,9 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [68] Archive message page_3038 (LJGeib / "Larry," `paradoxbuilders`, msgnum 3069, 2005-08-05) — "Re: Enuf Epoxy": jokes that "the same caution applies to the -enes and -ols too. Some of the -ides aren't so good for you either." Signed "Larry." (See [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint) for this correspondent's standing disambiguation from Larry Whited.)
 [69] Archive message page_3039 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3070, 2005-08-05) — "Re: Enuf Epoxy": identifies his own solvent as a methoxy/propanol mix, already used for tool and occasional hand cleaning; a scraper test finds the pigmented top filler coat lifts off easily, and a test patch of the correctly-mixed epoxy strips off in one piece, while the underlying biaxial cloth stays put, only tacky to the touch; asks whether the plan is to strip the top coating, clean with solvent, and re-epoxy with a properly measured mix. Signed "Derek."
 [70] Archive message page_3040 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3071, 2005-08-05) — "Re: Unfolding Calamity for Enuf": returning from holiday, offers a non-scientific fix used on his own past cure failure — wiping neat, undiluted hardener over the uncured surface, which went off overnight; the boat was later given to his sister and the patch has shown no sign of failing since. Signed "David."
+[71] Archive message page_3043 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3074, 2005-08-05) — "Re: Unfolding Calamity for Enuf": thanks David Platten for the neat-hardener suggestion; a test patch treated the same way still did not set, and a fresh, correctly-mixed coat applied on top of the problem area set on its own surface but did not adhere to the sticky layer underneath; on the rudder blade, laying mat over the tacky coating and squeegeeing a good mix through it seems to have set solid; has started stripping the hull bottom with a scraper, the tacky coating and its fairing powder coming away in long strips "like skin off a burn." Signed "Derek."
+[72] Archive message page_3042 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3073, 2005-08-05) — "Re: Mainsheet Fouling Outboard": confirms the short-shaft Honda 2 hp and the reasoning behind the preference; full citation and quote at [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
+[73] Archive message page_3041 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3072, 2005-08-05) — "Re: Enuf Epoxy": suggests ditching pumps entirely — decant resin and hardener into separate snap-lid food containers and meter each with a veterinary syringe, available from a vet or local farm-supplies shop. Signed "David."
+[74] Archive message page_3044 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3075, 2005-08-05) — "Re: Enuf Epoxy": thanks David Platten for the syringe suggestion; has bought a couple of graduated measuring jugs to be more accurate in future. Signed "Derek."
+[75] Archive message page_3045 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3076, 2005-08-06) — "Re: Unfolding Calamity for Enuf": jokes that stripping epoxy "like skin off a burn" must be almost as painful given the material's cost; introduces himself — his current boat is not a Paradox but a twin-masted Breton lugger, chaloupe-sardiniere rigged with a dipping lug foresail and standing lug main of equal size; has seen Alastair's Paradox "Little Jim" and is weighing a Paradox as boat "number nine," which is why he has just joined the group. Signed "David."
+[76] Archive message page_3046 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3077, 2005-08-06) — "Re: Unfolding Calamity for Enuf": "Welcome to the Group David." Signed "David Beard, Paradox 'Whisper.'"

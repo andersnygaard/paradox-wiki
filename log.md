@@ -1,5 +1,54 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 305: page_3041-page_3050)
+
+**The second "Enuf" epoxy failure closes out — a new mat-and-squeegee rescue
+technique after neat hardener fails to repeat, plus a closed mainsheet
+question and two new correspondents.** No new files created; five existing
+files extended.
+
+- **`design/rig.md`** — extended the frozen "Mainsheet fouling on the rudder
+  and rear deck with an outboard fitted" heading: David Beard finally
+  confirms (a batch after Derek's follow-up question) his 2 hp Honda is the
+  **short-shaft** model, and explains why he prefers it over a long-shaft
+  Yamaha he also owns — the motor's lowest point stays above the hull's when
+  fully lowered, so the hull grounds first. Cite [227], 229 total/227
+  numeric max (pre-existing [7a]/[7b] pair unaffected).
+- **`boats/enuf.md`** — fixed a citation mismatch in "Mainsheet, mast, and
+  outboard" (the prior sentence cited Derek's *question*, not David's
+  answer) and added the real answer with its own citation. Extended "A
+  second epoxy failure: a faulty dispensing pump" with the saga's close:
+  David Platten's neat-hardener rescue (from batch 304) did **not** repeat
+  for Derek this time — a test patch stayed unset — but laying fiberglass
+  mat over the tacky coating and squeegeeing a fresh mix through it set
+  solid on the rudder blade/stock, while the hull bottom itself was
+  stripped back to bare cloth with a scraper; Platten also suggested
+  metering by veterinary syringe instead of pumps, and Derek settled for
+  graduated measuring jugs. Closes with Platten introducing himself to the
+  list (sails a Breton lugger, weighing a Paradox as boat "number nine")
+  and David Beard's welcome. Cites [71]-[76], 76 total, no gaps.
+- **`construction/epoxy-coating-technique.md`** — extended "Diagnosing and
+  rescuing a coat that will not cure" with the mat-and-squeegee rescue
+  technique (for when neat hardener alone doesn't retake), the scraper
+  fallback, and the veterinary-syringe metering alternative to dispensing
+  pumps. Cites [81]-[82], 83 total/82 numeric max (pre-existing [29a]
+  suffix unaffected).
+- **`people/david-beard.md`** — narrate-once cross-link for his short-shaft
+  confirmation and reasoning. Cite [244], 244 total, no gaps.
+- **`construction/deck-and-cabin-beams.md`** — new section "Practicing the
+  lamination process, and the case for patience during cure": a new
+  correspondent, William "Bill" Serjeant, starts his own deck beams after a
+  practice run, with Bill's own patience advice to Derek Clark ("take the
+  rest, it will pay dividends") folded in alongside Derek's 24-hour
+  clamp-cure discipline. Cite [39], 39 total, no gaps.
+
+No new person pages: David Platten (four messages across batches 304-305,
+now with real biographical detail) and William Serjeant (two messages, an
+active build blog) both remain below the promotion threshold — recorded on
+the backlog watch-list with explicit promotion triggers (Platten: starts/
+names an actual Paradox build; Serjeant: next appearance with a boat name or
+substantive build detail).
+
 ## 2026-07-06 (batch 304: page_3031-page_3040)
 
 **A second, distinct "Enuf" epoxy failure — a faulty dispensing pump, not a

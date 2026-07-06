@@ -89,6 +89,17 @@ the deck beam and was very stiff once cured. This is the only recorded use
 of polyurethane, rather than epoxy, adhesive for Paradox deck-beam
 lamination.
 
+## Practicing the lamination process, and the case for patience during cure
+
+A dry run of the lamination technique — clamping up scrap strips on a
+practice mold before committing to the actual deck beams — is a low-cost
+way to work out clamp count, glue-up sequence, and timing before the real
+build depends on it. Once a beam is glued and clamped, the practical
+temptation is to strip the clamps early; the more reliable practice is to
+leave each beam clamped for a full **24 hours** before pulling it, on the
+reasoning that rushing the cure to save time rarely pays off against the
+cost of a beam that springs out of shape or delaminates later.[39]
+
 ## Shimming deck beam #1 (and its neighbor) to fair the centerline
 
 A recurring dry-fit finding across at least three independent builds: after
@@ -377,3 +388,4 @@ epoxying the joint.
 [36] Archive message page_2839 (arvent / "Nels", `paradoxbuilders`, msgnum 2870, 2005-06-18) — "Re: Front Deck": endorses the wife's split-and-fill idea as "a heck of a good idea," suggesting a contrasting wood in a flared-out design and a thin strip of visible white caulk on either side of the join, with a joking nudge to compliment his wife on it. Signed "Nels."
 [37] Archive message page_2864 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2895, 2005-06-30) — "Foredeck": "Enuf has a front deck!" — put 1½ in-spaced grooves in the panel's underside with a 60-degree router bit for a little more flexibility, but this proved a wasted effort, since the real problem was the sheerstrake's top bevel being cut too steep, so the deck met only the sheerstrake's inside edge; planing, filleting, and epoxy have sorted it. "The deck has a very sexy curve (for a deck that is) :0)" Signed "Derek."
 [38] Archive message page_2870 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2901, 2005-07-01) — "Re: Foredeck": "Good to hear you got it sorted." Signed "Al, Yeovil, England."
+[39] Archive messages page_3047/page_3049 (william / "williamserjeant" / William "Bill" Serjeant, `paradoxbuilders`, msgnum 3078, 2005-08-06, "Deck Beams"; msgnum 3080, 2005-08-07, "Re: Deck Beams") — starting his own deck beams after practicing the laminating process the day before, with a build log at `bills-log.blogspot.com`; advises Derek Clark, weighing whether to strip his hull bottom or epoxy over the top of a failed coat (see [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump)), to "take the rest, it will pay dividends" rather than rush the decision. (Derek's own reply, page_3048/msgnum 3079, notes he left each of his beams clamped a full 24 hours despite impatience, and that his sail was made by Jekylls of Wroxham from the construction detail Matt Layden supplied — see [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft) for the fuller Jekylls sailmaking record.)

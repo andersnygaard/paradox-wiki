@@ -977,7 +977,10 @@ Beard confirmed he had never gone on to add a travelling block, since the
 fouling had not become enough of a problem to motivate the extra work,
 though he still expected it would help; he also confirmed he was still
 running the same 2 hp Honda outboard he had used throughout "Whisper"'s
-sea trials.
+sea trials — specifically the **short-shaft** version, which he prefers
+over a long-shaft Yamaha he also owns: with the motor fully lowered, its
+lowest point stays above the hull's lowest point, so the hull grounds on a
+submerged obstruction before the motor does.[227]
 
 ### A horse fitted to clear the outboard, and the mainsheet-angle physics behind it
 
@@ -1593,3 +1596,4 @@ figure against their own plan set before cutting.[184]
 [224] Archive message page_3026 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3057, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": the leather sleeve covers only about 4 in of the mast, at the point the boom rubs when reefed; when sailing reefed the yard rarely rubs the same place twice and only on the port tack; his mast is epoxy and paint, slowly being sanded back to bare epoxy; does not sail much reefed, generally seeking a quiet corner once wind reaches the top end of Force 4; asks how the petroleum jelly and linseed oil finish is applied. Signed "Al, Yeovil, England."
 [225] Archive messages page_3027/page_3029 (dclark / "dclark52001" / Derek Clark, msgnum 3058, 2005-08-03, "Re: Enuf's Calamity Update & the Yard"; and openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3060, 2005-08-03, "Re: Enuf's Calamity Update & the Yard") — Derek concludes "it's back to the Douglas Fir" if the yard is a double cantilever, since he judges a bamboo spar cannot be one and would need lining up with the mast; Al clarifies that a shelf bracket or mast, fixed at one end only, is a single cantilever, while a seesaw or one span of the Firth of Forth rail bridge — supported at one point with both ends free — is a double cantilever; bamboo may well work but would likely need strengthening to avoid being crushed where it presses against the mast.
 [226] Archive message page_3028 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059, 2005-08-03) — "Yard support": notes the sail's geometry carries the yard aft, away from the mast, as it is reefed, with little to hold it close on the starboard tack; recalls a Welsford Houdini dinghy seen at a boat rally, rigged with a similarly reefable lugsail but fitted with a mast-mounted traveller to keep its yard close at all times; asks whether Paradox would benefit from the same arrangement, noting it would require the boom to lift as the Mk.1 sail is reefed, which may itself cause a problem. Signed "Al, Yeovil, England."
+[227] Archive message page_3042 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3073, 2005-08-05) — "Re: Mainsheet Fouling Outboard": answers Derek Clark's follow-up — yes, the short-shaft model; with the motor fully lowered its lowest point stays above the hull's lowest point, so the hull would hit a submerged obstruction before the motor does; also owns a long-shaft Yamaha, having tried both, but prefers the short shaft. Signed "David."

@@ -664,9 +664,23 @@ Separately, wiping **neat, undiluted hardener** directly onto an
 already-uncured surface is a further reported rescue technique distinct
 from the sun/acetone remedies above — one builder's cure failure went off
 overnight after this treatment, with the patch showing no sign of later
-failure. Full story, including the pump teardown, at [boats/enuf.md — a
-second epoxy failure: a faulty dispensing
-pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][80]
+failure, though it is not a guaranteed fix: the same treatment, tried by a
+different builder on a different failed batch, still did not set. What did
+work in that second case was laying **fiberglass mat over the still-tacky
+coating and squeegeeing a fresh, correctly-mixed batch of resin through the
+mat** — the mat gave the new coat something to key into mechanically where
+a plain recoat had failed to bond to the tacky layer underneath. Where
+neither rescue takes, and a fresh coat still will not adhere reliably to
+the tacky layer below it, stripping back to bare cloth with a scraper is
+the fallback — the old tacky coating and its fairing powder peel away in
+long strips rather than needing to be sanded off. As a preventive measure
+against pump failure in the first place, one builder recommended
+abandoning **metering pumps entirely**: decant resin and hardener into
+separate containers and meter each by volume with a **veterinary syringe**,
+sourced from a vet or farm-supply shop, rather than trust a mechanical pump
+that can fail with no outward sign. Full story, including the pump
+teardown, at [boats/enuf.md — a second epoxy failure: a faulty dispensing
+pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][80][81][82]
 
 # Citations
 
@@ -751,3 +765,5 @@ pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][8
 [78] Archive message page_3031 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3062, 2005-08-04) — "Enuf Epoxy": a metered-pump batch fails to cure despite fine temperatures and a supplier vouching for the chemistry; a hand-mixed sample sets hard within two hours, isolating the fault to the hardener pump, which teardown finds under-delivering and internally crusted; full text and citations at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).
 [79] Archive message page_3036 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3067, 2005-08-04) — "Enuf Epoxy": distrusts dispensing pumps outright, measuring every batch by volume into a marked container instead, given how costly epoxy is to waste; full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "Phil."
 [80] Archive message page_3040 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3071, 2005-08-05) — "Re: Unfolding Calamity for Enuf": wiping neat, undiluted hardener onto an uncured surface brought it off overnight in his own past cure failure, with no sign of the patch failing since; full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
+[81] Archive message page_3043 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3074, 2005-08-05) — "Re: Unfolding Calamity for Enuf": a neat-hardener test patch on his own second failure did not set, and a fresh correctly-mixed coat over the problem area set but did not adhere to the sticky layer beneath; laying mat over the tacky coating on the rudder blade and squeegeeing a good mix through it seems to have set solid; has started stripping the hull bottom back with a scraper instead. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "Derek."
+[82] Archive message page_3041 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3072, 2005-08-05) — "Re: Enuf Epoxy": suggests ditching pumps entirely in favor of decanted resin and hardener metered by veterinary syringe. Full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump). Signed "David."
