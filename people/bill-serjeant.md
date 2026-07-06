@@ -87,6 +87,8 @@ fix](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress)),
 [operations/self-steering.md](/operations/self-steering.md#auto-pilot-versus-wind-vane-self-steering-a-practical-comparison),
 and
 [design/blue-water-suitability.md](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).[28]
+He judged the epoxy-fill/rebore fix "a very good solution" and reported he
+was about to bush his own rudder's pivot bolt the same way.[29]
 
 He also arranged for Glen Maxwell's *Messing About In Boats* sea-trials
 article to be reproduced on paradox-uk.co.uk as "Zoë's Sea Trials," with
@@ -172,6 +174,13 @@ saddle, once fitted as a helmsman's seat on one of his own boats. See [crew
 size and fit — long-passage seat comfort: cushion
 practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[22]
 
+## A visit to Alastair's
+
+Passing through Yeovil, Bill called on [Alastair](/people/alastair.md), who
+showed him "Little Jim" and spent nearly two hours talking through the
+build — an encounter Bill credited with renewing his own enthusiasm for
+finishing his Paradox.[30]
+
 ## One person across three handles
 
 Bill Serjeant's Yahoo profile name changed twice over the archive's span —
@@ -212,3 +221,5 @@ three eras.
 [26] Archive messages page_3181/page_3182/page_3183/page_3187 (william / "williamserjeant" / William Serjeant, msgnum 3212, 2005-10-09; ifida / "Glen C. Maxwell", msgnum 3213, 2005-10-09; dclark / "dclark52001" / Derek Clark, msgnum 3214, 2005-10-09; openboat / "alopenboat" / Alastair, msgnum 3218, 2005-10-15) — "Re: Mast Questions" thread: full text and citations at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
 [27] Archive message page_3194 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3225, 2005-10-20) — "Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
 [28] Archive message page_3237 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3268, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).
+[29] Archive messages page_3242/page_3243 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3273, 2005-12-07, and msgnum 3274, 2005-12-07) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress); thanks Chris Ostlind ("a very good solution") and Glen Maxwell, reporting he is about to bush his own rudder's pivot bolt the same way.
+[30] Archive message page_3250 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3281, 2005-12-10) — "Visit to Al's": called on Alastair in Yeovil, who welcomed him to see "Little Jim"; they spent nearly two hours talking, mostly about the boat, leaving Bill more enthusiastic to carry on with his own build. Signed "Bill."

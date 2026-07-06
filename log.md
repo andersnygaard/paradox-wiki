@@ -1,5 +1,56 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 325: page_3241-page_3250)
+
+This batch closed out two threads carried over from batch 324. The **"Rudder
+construction..." thread** wrapped up with **Bill Serjeant** thanking **Chris
+Ostlind** and **Glen Maxwell** for their epoxy-fill/rebore/bushing technique
+and confirming he was about to apply it himself, while **Jack Gardiner**
+offered a simpler alternative — setting the pivot-bolt washers flush with the
+surface, bedded in epoxy. Separately, the brand-new correspondent **"ken
+pagans"** (`lvltlbts`), whose chine-runner/leeboard question went unanswered
+in batch 324, finally got two cautionary answers: **Paul Reppeto** suspected
+Paradox's chine runners work partly because the hull heels enough to act like
+a leeboard, doubting a wider hull (Michalak's "Jewelbox Jr") would heel the
+same way and suggesting twin fin keels instead; **mat_man22** separately noted
+Paradox carries much less bow rocker than the newcomer's target hull. Ken
+Pagans then opened a second thread asking about a used Paradox or study
+plans — answered by **Alastair** (Paradox owners rarely resell; study plans at
+microcruising.com, full plans from Dave Bolduc) and, on location, by Jack
+Gardiner (answer: Texas). The batch closed with a short human-interest note:
+Bill Serjeant's visit to Alastair's home in Yeovil to see "Little Jim" in
+person.
+
+- **`design/rudder.md`** — extended the existing "Bushing the pivot bolt
+  against water ingress" subsection with Bill's confirmation/thanks and
+  Jack Gardiner's washer-flush alternative. Cites [51]-[53], 53 total/53
+  max, no gaps.
+- **`chine-runners/how-they-work.md`** — new section "Adapting chine
+  runners to a different hull, in place of a leeboard" for the Jewelbox
+  Jr question and its two cautionary answers. Cites [55]-[57], 57
+  total/57 max, no gaps (the file's true prior max was [54], confirmed by
+  a full numeric sort rather than a tail read).
+- **`operations/secondhand-market.md`** — new section "A want-to-buy
+  inquiry from Texas" for Ken Pagans' second thread. Cites [26]-[29], 29
+  total/29 max, no gaps.
+- **`people/bill-serjeant.md`** — extended his rudder-bushing citation and
+  added a new short section "A visit to Alastair's." Cites [29]-[30], 30
+  total/30 max, no gaps.
+- **`people/jack-gardiner.md`** — new cross-link paragraph for his
+  washer-flush technique and his location question to Ken Pagans. Cites
+  [199]-[200], 199 total-lines/200 numeric max (pre-existing +1 gap at
+  [53] preserved exactly).
+- **`people/mat-man22.md`** — new cross-link paragraph for his
+  rocker-difference answer. Cite [18], 18 total/18 max, no gaps.
+- **`people/alastair.md`** — new cross-link sentence for his secondhand-
+  market answer. Cite [272], 272 total/272 max, no gaps.
+- `.okf-progress/backlog.md` — resolved the "ken pagans" below-threshold-
+  newcomer Open item (his question was answered and he resurfaced with a
+  second thread, but still no boat/build of his own, so he remains below
+  the people threshold); new "Batch 325 correspondent + gap check" section
+  recording the msgnum run, attribution checks, and the citation-numbering
+  correction on `chine-runners/how-they-work.md`.
+
 ## 2026-07-06 (batch 324: page_3231-page_3240)
 
 Six of this batch's ten pages formed a "Rudder construction..." thread.

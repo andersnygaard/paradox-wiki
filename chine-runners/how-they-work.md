@@ -558,6 +558,22 @@ liability in itself, independent of whether it specifically aids chine-runner
 effectiveness. No documented trial isolating the flat-bottom variable for
 chine runners answers the question directly.[53]
 
+## Adapting chine runners to a different hull, in place of a leeboard
+
+A prospective builder wanting to simplify Jim Michalak's **"Jewelbox Jr"**
+design by fitting Paradox-style chine runners in place of its leeboard drew
+two cautionary answers rather than encouragement. The first pointed to
+**heel angle** as the likely reason chine runners work on Paradox at all:
+Paradox is narrow enough to heel substantially under sail, which lets the
+runners act more like a leeboard or side-mounted centerboard — a condition
+the wider, flatter Jewelbox Jr might not reproduce, making twin fixed fin
+keels a more promising substitute for that hull instead. The second, from a
+Paradox owner, raised a further mismatch: Paradox carries **much less
+rocker in the bow** than the Jewelbox Jr, so a technique proven on one hull
+may simply not transfer to the other. Neither answer amounted to a tested
+verdict, only a caution that chine runners are not a hull-agnostic
+fitting.[55][56][57]
+
 ## Related concepts
 
 - [Windward performance](/chine-runners/windward-performance.md) — the measured
@@ -622,4 +638,7 @@ chine runners answers the question directly.[53]
 [51] Archive message page_2617 (r.peeters / "t57042" / Richard Peeters, `paradoxbuilders`, msgnum 2647, 2005-04-11) — "chine runners": designing his own water-ballasted boat with a box keel; asks whether chine runners are best fitted at the hull's chines or at the sides of the box keel, with an ASCII sketch of the two options. No boat or build of his own on the Paradox; below-threshold, correspondent-only.
 [52] Archive message page_2623 (openboat / "Alastair", `paradoxbuilders`, msgnum 2653, 2005-04-12) — "Re: chine runners": answers Richard Peeters's box-keel placement question by noting the answer depends on which theory of chine-runner drag is correct — some theories favor keeping the windward runner clear of the water; describes his own two working theories of the leeward-drag mechanism, one of which would make the choice of location immaterial and the other of which would make neither location work well, without saying which he believes correct.
 [53] Archive message page_2732 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2763, 2005-06-07) — "chine runners": asks whether Paradox's flat bottom is essential to the chine runners' success, prompted by Wharram catamaran builders' unsuccessful "vortex generator" horizontal-winglet experiment (a narrow-V hull, unlike Paradox's flat bottom); also floats a lug-rigged, flat-bottomed cat as a plausible small cruising design and cites Nathaniel Herreshoff's flat-bottomed catamaran Amaryllis (likened to plywood mixing troughs), fast enough under gaff rig that multihulls were subsequently banned from racing against monohulls in her era; also argues lug rig is not inherently slow, citing historical lug-rigged racing yachts in England. Unanswered on record. No boat or build of his own on record; new below-threshold correspondent.
+[55] Archive message page_3240 (lvltlbts / "Mr ken pagans", `paradoxbuilders`, msgnum 3271, 2005-12-06) — "design help needed": wants to build a Jim Michalak "Jewelbox Jr" but simplify it by fitting Paradox-style chine-runner "wings" in place of its leeboard; signs "grover." No boat or build of his own on record; new below-threshold correspondent (see [operations/secondhand-market.md](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas) for his later resurfacing as "Ken Pagans").
+[56] Archive message page_3241 (reppeto / "ldjonerik" / Paul Reppeto, `paradoxbuilders`, msgnum 3272, 2005-12-06) — "Re: design help needed": suspects the runners work on Paradox partly because the hull is narrow enough to heel substantially under sail, making them act like a leeboard or side-mounted centerboard; doubts the wider Jewelbox Jr would heel enough to make them effective; suggests twin fin keels instead; mentions he is himself building a Bolger Teal, substituting twin fin keels for its stock leeboard, since he finds the leeboard "pretty ugly." Signed "Paul."
+[57] Archive message page_3245 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3276, 2005-12-07) — "Re: design help needed": the hulls are very different — Paradox has a lot less rocker in the bow — "I may not work." Signed "Hi Ken" salutation.
 [54] Archive message page_2790 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2820, 2005-06-11) — "Chine runners": posts, without wanting to reopen debate over whether/why/how they work, a quote from designer Matt Layden describing the chine runners/winglets as small horizontally protruding fins at the chines amidship that help the hull function as a "lifting body" to resist leeway; Layden states a centerboard or other retractable vertical fin would do the job better, but he has "a mental allergy to moving parts and complication"; the runners are easy to build and protect the hull rather than weakening it, as a board does, and take up no interior space, always an issue in a small cruiser. Signed "Glen."

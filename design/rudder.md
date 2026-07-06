@@ -277,7 +277,17 @@ rudder that "will rotate butter smooth" while the surrounding wood and
 fiberglass stay fully protected from water. For a more deluxe version, a
 matched pair of **silicon bronze bushings** can be fitted to the outside
 diameter of the reboared epoxy, giving what's described as a long-lasting,
-"near bullet-proof" rudder pivot assembly.
+"near bullet-proof" rudder pivot assembly. This oversized-hole/epoxy-fill/
+rebore method was independently confirmed twice more: once as a brief
+restatement of the same 3/4 in-to-1/2 in figures, and once by the builder
+who had originally asked the question, who judged it "a very good
+solution" and reported he was about to apply it to his own rudder.
+
+A simpler alternative, used successfully on at least one Paradox, sets the
+pivot-bolt **washers flush with the surrounding surfaces**, bedded in
+epoxy, rather than bushing the bolt holes themselves — a technique that
+protects the wood at the bearing surface without the oversized-hole/rebore
+step above.
 
 ## The big rudder as a leeway-reducer
 
@@ -587,3 +597,6 @@ on thin-walled tube generally.
 [48] Archive message page_3237 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3268, 2005-12-06) — "Re: Rudder construction...": asks whether bushings should be fitted in both the stock and the rudder blade around the pivot bolt, since the plans show only plain holes and the fixing sits below the waterline with no stated fix for water ingress. Signed "Bill."
 [49] Archive message page_3238 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3269, 2005-12-06) — "Re: Rudder construction...": recommends drilling the pivot locations oversized, brushing on straight epoxy to saturate the end grain, then filling with thickened epoxy; once cured, reboring the epoxy plugs to the pivot bolt's true diameter gives a smooth-rotating, waterproofed pivot; for a "really deluxe" version, fit matched silicon bronze bushings to the OD of the reboared epoxy for a long-lasting, "near bullet-proof" assembly. Signed "Chris."
 [50] Archive message page_3239 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3270, 2005-12-06) — "Re: Rudder construction...": independently gives the same fix in brief — drill a 3/4 in hole in both stock and rudder for a 1/2 in bolt, fill with epoxy and high-density filler, then rebore for 1/2 in. Signed "Glen."
+[51] Archive message page_3242 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3273, 2005-12-07) — "Re: Rudder construction...": thanks Chris Ostlind, judging the oversized-hole/epoxy-fill/rebore/bushing technique "a very good solution." Signed "Bill."
+[52] Archive message page_3243 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3274, 2005-12-07) — "Re: Rudder construction...": thanks Glen Maxwell for independently confirming the same fix, "I'm just about to do this with my own Paradox rudder." Signed "Bill."
+[53] Archive message page_3244 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3275, 2005-12-07) — "Re: Rudder construction...": did the same on his own rudder, setting the pivot-bolt washers flush with the surrounding surfaces, bedded in epoxy. Signed "Jack."

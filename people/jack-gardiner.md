@@ -863,6 +863,19 @@ risk to a rudder blade is dragging its leading edge over rocks rather than
 sand. See [design/rudder.md — the pivot-bolt fixing, and its record under
 grounding loads](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).[198]
 
+On Bill Serjeant's follow-up question about bushing the pivot bolt against
+water ingress, Jack offered his own simpler alternative — setting the
+washers flush with the surrounding surfaces, bedded in epoxy, rather than
+bushing the bolt holes themselves. See [design/rudder.md — bushing the
+pivot bolt against water
+ingress](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).[199]
+
+When a brand-new correspondent, "Ken Pagans," asked whether a used Paradox
+or study plans might be available, Jack asked only where he was located
+(Texas, as it turned out) without further comment; see [secondhand Paradox
+market — a want-to-buy inquiry from
+Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1063,3 +1076,5 @@ grounding loads](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-gr
 [196] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 [197] Archive message page_3227 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3258, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 [198] Archive messages page_3234/page_3236 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3265, 2005-12-05, and msgnum 3267, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).
+[199] Archive message page_3244 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3275, 2005-12-07) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress); set his own pivot-bolt washers flush with the surrounding surfaces, bedded in epoxy. Signed "Jack."
+[200] Archive message page_3248 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3279, 2005-12-09) — "Re: paradox or similar wanted": "Where are you located?" — asks "Ken Pagans" (`lvltlbts`) for his location; full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).

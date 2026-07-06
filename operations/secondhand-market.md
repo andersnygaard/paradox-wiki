@@ -153,6 +153,21 @@ paradoxes are a **paradoxen**," and paradoxically, more than two would "still
 be a paradoxen," countered by the view that three or more would be a
 "**Herdaoxen**." The request for a boat itself went unanswered.
 
+## A want-to-buy inquiry from Texas
+
+A further want-to-buy inquiry, in December 2005, came from a brand-new
+correspondent, "Ken Pagans" (Yahoo profile `lvltlbts`), asking whether a
+finished or in-progress Paradox (or similar boat) was for sale, and how to
+order study plans. [Alastair](/people/alastair.md) answered that Paradox
+owners rarely part with their boats — he had heard of only one ever being
+sold — and pointed him to [study plans](/references/study-plans.md) at
+microcruising.com and to Dave Bolduc for the full [building
+plans](/references/building-plans.md) (about $35). [Jack
+Gardiner](/people/jack-gardiner.md) asked only where he was located; Pagans
+answered Texas. No boat or build of his own is on record; kept below the
+[people threshold](/people/index.md) pending any resurfacing with a build
+or purchase.
+
 ## An unfinished hull for sale: "Swash" (July 2004)
 
 A part-built Paradox, **"Swash,"** owned by [DC](/people/dc.md), was offered
@@ -221,3 +236,7 @@ through. See [DC](/people/dc.md) for his fuller build and ownership history.
 [23] Archive message page_2156 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2181, 2004-07-08) — "SWASH, for sale": offers his part-built Paradox "Swash" for sale due to divorce; itemizes her state of completion (hull assembled, foam installed, Okoume skin on hand but not yet applied, vent baffle in, yuloh complete with three coats of varnish, rudder started, no glass yet, chine runners unblocked); Honduras mahogany throughout except clear vertical-grain Douglas fir longitudinal floors; $1,600+ in receipts, ~$2,000 estimated total material cost, asking $3,000; located Rainier, Oregon; no trailer included.
 [24] Archive message page_2157 (arvent / Nels, `paradoxbuilders`, msgnum 2182, 2004-07-19) — "Re: SWASH, for sale": asks whether the hull has sold, requests further completion photos and a remaining-cost/time estimate, and whether the hull is glassed and the chine runners finished; offers a trailer and cash from a third party he is vouching for based on the photos already posted.
 [25] Archive message page_2159 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2184, 2004-07-20) — "Re: SWASH, for sale": thanks Nels for the interest; Swash remains unsold; more photos delayed by the divorce's legal/realty demands, targeting 22 July around 0300 Zulu; leaves the remaining-materials cost to the buyer's own approach to finishing (a quick build versus his own more deliberate standard); confirms no glass applied yet and the chine runners existing only as unbuilt bottom extensions; credits "David of Whisper" (David Beard) with recommending he focus on finishing the boat himself through the divorce; admits growing less willing to give up the boat the longer the process runs, and will finish her himself if he still owns her that fall.
+[26] Archive message page_3246 (lvltlbts / "Ken Pagans", `paradoxbuilders`, msgnum 3277, 2005-12-09) — "paradox or similar wanted": asks whether anyone knows of a finished or project Paradox (or similar boat) for sale, and how to order study plans. Signed unsigned; From: "lvltlbts."
+[27] Archive message page_3247 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3278, 2005-12-09) — "Re: paradox or similar wanted": has only ever heard of one Paradox being sold — "they seem to be keepers"; for study plans see microcruising.com; to order full plans, email Dave Bolduc (about $35). Signed "Al, Yeovil, England."
+[28] Archive message page_3248 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3279, 2005-12-09) — "Re: paradox or similar wanted": "Where are you located?"
+[29] Archive message page_3249 (lvltlbts / "Mr ken pagans", `paradoxbuilders`, msgnum 3280, 2005-12-09) — "Re: paradox or similar wanted": "located in texas."

@@ -893,6 +893,11 @@ it, a decision confirmed by sludge found in the tank at the end of the
 first season; uses the built-in tank as ballast only, filling with sea
 water from remote launch sites, and carries drinking water separately. See
 [water tank construction and lining](/construction/water-tank-lining.md).[271]
+Answering a want-to-buy inquiry, Alastair noted he had heard of only one
+Paradox ever being resold — "they seem to be keepers" — and pointed the
+newcomer to microcruising.com for study plans and to Dave Bolduc for the
+full building plans. See [secondhand Paradox market — a want-to-buy inquiry
+from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[272]
 
 # Citations
 
@@ -1170,3 +1175,4 @@ water from remote launch sites, and carries drinking water separately. See
 [269] Archive messages page_3196/page_3197 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3227, 2005-10-21, "Re: Topping Lift"; and msgnum 3228, 2005-10-21, "Re: Topping Lift"): full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations). Signed "Al, Yeovil, England."
 [270] Archive message page_3206 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3237, 2005-11-05) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses). Signed "Al, Yeovil, England."
 [271] Archive message page_3208 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3239, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions). Signed "Al, Yeovil, England."
+[272] Archive message page_3247 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3278, 2005-12-09) — "Re: paradox or similar wanted": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas). Signed "Al, Yeovil, England."

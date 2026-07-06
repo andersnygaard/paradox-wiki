@@ -88,6 +88,14 @@ sprayed onto an old wooden Chris Craft's hull; pointed to `rec.boats.building`
 for further reading. See [non-skid deck finish — truck-bed and industrial
 coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
 
+**Hull comparison for a newcomer's chine-runner-on-another-hull question.**
+When a newcomer asked about substituting chine-runner "wings" for a
+leeboard on Jim Michalak's "Jewelbox Jr," Mat noted the two hulls differ
+significantly — Paradox carries a lot less rocker in the bow — and doubted
+the technique would transfer. See [how chine runners work — adapting chine
+runners to a different hull, in place of a
+leeboard](/chine-runners/how-they-work.md#adapting-chine-runners-to-a-different-hull-in-place-of-a-leeboard).
+
 **Resource pointers.** Mat pointed fellow builders to several references: the
 AbeBooks bookfinder service for tracking down Shane Acton's *Shrimpy* (see
 [undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md));
@@ -114,3 +122,4 @@ Forum for [David LeBlanc](/people/david-leblanc.md) (see
 [15] Archive message page_2697 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2727, 2005-05-25) — "Re: Non-skid": full text and citation at [construction/non-skid-deck.md](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
 [16] Archive message page_3143 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3174, 2005-09-09) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [17] Archive message page_3148 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3179, 2005-09-13) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+[18] Archive message page_3245 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3276, 2005-12-07) — "Re: design help needed": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#adapting-chine-runners-to-a-different-hull-in-place-of-a-leeboard).
