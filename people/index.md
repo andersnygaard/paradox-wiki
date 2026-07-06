@@ -40,3 +40,4 @@ community. Concepts are added here as they are sourced from the archive.
 * [Jack Gardiner](jack-gardiner.md) - A Rhode Island carpenter and tradesman who committed to building a Paradox in December 2003 and opened the archive's fullest debate on building the hull in steel instead of plywood.
 * [Steve (Kansas City)](steve-kc.md) - A Kansas City, MO prospective Paradox builder who introduced himself with a "start with the appendages" build plan and a multi-year, retirement-driven timeline.
 * [Derek Clark](derek-clark.md) - UK Paradox builder who built "Enuf" (renamed from "So-So" on his wife's suggestion), asked after mast and mainsheet fittings, and closed out his build with an unprompted thank-you to the list.
+* [Bill Serjeant](bill-serjeant.md) - UK sailor who built and ran the community's principal UK web presence (smallsailboats.co.uk / paradox-uk.co.uk) and boat registry for nearly two years before starting his own Paradox from scratch in August 2005.

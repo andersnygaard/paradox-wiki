@@ -403,6 +403,28 @@ standing lug main of equal size — but that having seen Alastair's "Little
 Jim" he was weighing a Paradox as boat "number nine," which was why he had
 just joined the group. David Beard welcomed him.[75][76]
 
+## Finishing the bottom strip, hired help, and a deliberate durability test
+
+Before hiring two local tradesmen to finish stripping the hull bottom back
+to bare cloth, Derek ran his own deliberate durability test on the still-
+sound biaxial sheathing elsewhere on the hull: cutting a two-inch slash and
+levering the knife blade to lift it, simulating catching something sharp in
+shallow water. The top weave of the biaxial cloth ripped diagonally clean
+across the hull in a two-inch strip, revealing that the top layer of
+sheathing was not actually bonded to the layer beneath it — a finding Derek
+took as confirmation that an aggressive shore crab, given the chance, could
+strip the hull bottom just as thoroughly as he had. He handed the stripping
+job itself to hired help rather than finish it personally, then left for a
+short break away from the build.[77]
+
+Returning from the break, Derek found the stripping job only partly done —
+white strings of loosely attached, unstripped fabric still clung to the
+hull, gouges marked the bottom "like my crab has attacked," and the
+workshop floor was littered with empty bottles left by his hired help. He
+finished the job himself the following day, reasoning "if you want a job
+doing properly you do it yourself," and expected to have "Enuf" turned
+right-way-up again by the coming weekend on a favorable five-day forecast.[78]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -486,3 +508,5 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [74] Archive message page_3044 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3075, 2005-08-05) — "Re: Enuf Epoxy": thanks David Platten for the syringe suggestion; has bought a couple of graduated measuring jugs to be more accurate in future. Signed "Derek."
 [75] Archive message page_3045 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3076, 2005-08-06) — "Re: Unfolding Calamity for Enuf": jokes that stripping epoxy "like skin off a burn" must be almost as painful given the material's cost; introduces himself — his current boat is not a Paradox but a twin-masted Breton lugger, chaloupe-sardiniere rigged with a dipping lug foresail and standing lug main of equal size; has seen Alastair's Paradox "Little Jim" and is weighing a Paradox as boat "number nine," which is why he has just joined the group. Signed "David."
 [76] Archive message page_3046 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3077, 2005-08-06) — "Re: Unfolding Calamity for Enuf": "Welcome to the Group David." Signed "David Beard, Paradox 'Whisper.'"
+[77] Archive message page_3051 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3082, 2005-08-07) — "Enuf's Bottom": has hired two tradesmen to strip the hull bottom the following day; tested the still-sound biaxial sheathing elsewhere on the hull by cutting a two-inch slash and levering it with a knife blade — the top weave ripped diagonally clean across the hull in a two-inch strip, showing the top layer of biax was not bonded to the layer beneath; reasons an aggressive shore crab could strip the bottom just as easily; is going away for a couple of days while the hired help does the stripping job. Signed "Derek."
+[78] Archive message page_3058 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3089, 2005-08-09) — "Re: Enuf's Bottom": returns to find the stripping job only partly done — loose white strings of unstripped fabric still on the hull, gouges "like my crab has attacked," and empty bottles left by his hired help; finishes the job himself the next day, reasoning "if you want a job doing properly you do it yourself"; hopes to have "Enuf" right-way-up again by the weekend, with a good five-day forecast. Signed "Derek."

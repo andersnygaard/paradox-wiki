@@ -60,6 +60,16 @@ drawing #7: bulkhead #1, 720 mm; bulkhead #2, 1,102 mm; bulkhead #4, 1,090
 mm; the transom, 820 mm; plus three intermediate deck beams (forward, 930
 mm; aft, 955 mm; cabin frame, ~950 mm).
 
+### Why 4 ft strips are long enough for every beam
+
+A builder cutting lamination strips from a standard sheet of plywood need not
+worry that a 4 ft strip length falls short for the boat's longest deck
+beams: strips are typically cut across a 4x8 sheet (giving 4 ft lengths),
+then trimmed to each beam's actual finished length once fitted, rather than
+cut to a beam's full chord length in advance. The boat's widest point, at
+bulkhead #3, does not carry a deck beam there at all, so no beam actually
+needs a strip longer than 4 ft in practice.[39a]
+
 ### Plywood versus solid-timber lamination
 
 A laminated-plywood beam holds up as well as one laminated from solid wood,
@@ -389,3 +399,4 @@ epoxying the joint.
 [37] Archive message page_2864 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2895, 2005-06-30) — "Foredeck": "Enuf has a front deck!" — put 1½ in-spaced grooves in the panel's underside with a 60-degree router bit for a little more flexibility, but this proved a wasted effort, since the real problem was the sheerstrake's top bevel being cut too steep, so the deck met only the sheerstrake's inside edge; planing, filleting, and epoxy have sorted it. "The deck has a very sexy curve (for a deck that is) :0)" Signed "Derek."
 [38] Archive message page_2870 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2901, 2005-07-01) — "Re: Foredeck": "Good to hear you got it sorted." Signed "Al, Yeovil, England."
 [39] Archive messages page_3047/page_3049 (william / "williamserjeant" / William "Bill" Serjeant, `paradoxbuilders`, msgnum 3078, 2005-08-06, "Deck Beams"; msgnum 3080, 2005-08-07, "Re: Deck Beams") — starting his own deck beams after practicing the laminating process the day before, with a build log at `bills-log.blogspot.com`; advises Derek Clark, weighing whether to strip his hull bottom or epoxy over the top of a failed coat (see [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump)), to "take the rest, it will pay dividends" rather than rush the decision. (Derek's own reply, page_3048/msgnum 3079, notes he left each of his beams clamped a full 24 hours despite impatience, and that his sail was made by Jekylls of Wroxham from the construction detail Matt Layden supplied — see [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft) for the fuller Jekylls sailmaking record.)
+[39a] Archive messages page_3055/page_3057/page_3059 (william / "williamserjeant" / William "Bill" Serjeant, `paradoxbuilders`, msgnum 3086, 2005-08-09, "Deck Beam Length"; msgnum 3088, 2005-08-09, "Re: Deck Beam Length" [Derek Clark's reply]; msgnum 3090, 2005-08-09, "Re: Deck Beam Length" [William's follow-up]) — William asks whether the 4 ft maximum batten length he read for making deck beams would be too short given the deck beam's curvature, wondering if that figure only applies to the longest, mid-boat beam. Derek Clark's reply confirms he cut all his own beam strips a uniform 4 ft, straight across a sheet of plywood, trimming each to final length once fitted; the boat's widest point, at bulkhead #3, carries no deck beam at all, so no beam actually needs a longer strip. William's follow-up confirms he is cutting his own strips from sheet plywood too, and is ready to epoxy his first beam the next day, having spent that day test-sailing a Virgo Voyager he was considering buying.

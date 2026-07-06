@@ -1,5 +1,44 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 306: page_3051-page_3060)
+
+**Identity reconciliation: "William Serjeant," flagged last batch as a new
+below-threshold correspondent, is the long-established Bill Serjeant — the
+community's UK web-presence builder and registrar since 2003, now finally
+starting his own Paradox.** New person page created; two boat/construction
+files extended.
+
+- **`people/bill-serjeant.md`** (NEW) — promoted from below-threshold watch
+  to a full person page after research confirmed `william@`/`williamserjeant`
+  (first flagged batch 305) is the same person as the long-standing
+  `barnacleid`/`barnacletoo` correspondent already cited across 18+ files
+  (the UK Paradox-website reference, Little Jim, Zoë, build-effort tools
+  list, rudder, self-steering, blue-water-suitability, and more) — confirmed
+  by an unbroken Yahoo-profile rename chain, consistent "Bill" signatures,
+  his "Bumper"/`bills-log.blogspot.com` blog, and the just-prior Jordan Boats
+  kit-Paradox falling through (msgnum 2997, "I hope to start building my
+  Paradox within a week or so") immediately preceding this batch's deck-beam
+  posts. Cites [1]-[12], 12 total, no gaps.
+- **`references/paradox-uk-website.md`** — cross-linked its Bill Serjeant
+  references to the new person page; no citations added.
+- **`people/index.md`** — added a one-line routing entry for the new page.
+- **`construction/deck-and-cabin-beams.md`** — new subsection "Why 4 ft
+  strips are long enough for every beam": Bill Serjeant's deck-beam-length
+  question, answered by Derek Clark (strips are cut a uniform 4 ft across a
+  sheet regardless of a beam's final chord length, since no deck beam
+  actually falls at the boat's widest point). Cite [39a], 40 total/39
+  numeric max (new letter suffix, matching the file's existing [7a]-style
+  pattern elsewhere in the tree).
+- **`boats/enuf.md`** — new section "Finishing the bottom strip, hired help,
+  and a deliberate durability test": Derek Clark's knife-slash test proving
+  the top biax weave wasn't bonded to the layer beneath, hired tradesmen's
+  incomplete stripping job, and Derek finishing it himself the next day.
+  Cites [77]-[78], 78 total, no gaps.
+- **No page created for "Lake Erie" (cadmanj43, msgnum 3091)** — a single
+  unanswered one-line question from a brand-new correspondent with no reply
+  on record and no boat; below the 2026-reader threshold per the pruning
+  rubric, logged to the backlog as a watch item instead.
+
 ## 2026-07-06 (batch 305: page_3041-page_3050)
 
 **The second "Enuf" epoxy failure closes out — a new mat-and-squeegee rescue

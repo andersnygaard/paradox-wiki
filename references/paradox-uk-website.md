@@ -8,17 +8,20 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Small Sailboats / Paradox-UK websites
 
-UK builder **Bill Serjeant** (Yahoo profile `barnacleid`, later
-`barnacletoo`) built a UK-focused Paradox web presence in two stages: after
-receiving his plans from [Dave Bolduc](/people/bolduc/dave.md), he added a
-Paradox section to his existing **Small Sailboats** site
-(`www.smallsailboats.co.uk`), angled toward builders and sailors in the UK,
-then split that material out into its own dedicated site,
-**`www.paradox-uk.co.uk`**, kept under the Small Sailboats umbrella. The
-pairing gave the design's growing UK builder community (Serjeant himself,
-[Jeff (UK)](/people/jeff-doryman.md), and
+**[Bill Serjeant](/people/bill-serjeant.md)** (Yahoo profile `barnacleid`,
+later `barnacletoo`, then `williamserjeant`) built a UK-focused Paradox web
+presence in two stages: after receiving his plans from [Dave
+Bolduc](/people/bolduc/dave.md), he added a Paradox section to his existing
+**Small Sailboats** site (`www.smallsailboats.co.uk`), angled toward
+builders and sailors in the UK, then split that material out into its own
+dedicated site, **`www.paradox-uk.co.uk`**, kept under the Small Sailboats
+umbrella. The pairing gave the design's growing UK builder community
+(Serjeant himself, [Jeff (UK)](/people/jeff-doryman.md), and
 [Alastair](/people/alastair.md)) a home-country counterpart to the Bolducs'
-[microcruising.com](/references/microcruising-website.md).
+[microcruising.com](/references/microcruising-website.md). Serjeant ran
+this UK web presence for nearly two years before starting his own Paradox
+build in August 2005 — see [people/bill-serjeant.md](/people/bill-serjeant.md)
+for his biography and the build itself.
 
 Building from the plans surfaced two rudder questions that reached the wider
 design record: the rudder blade's pivot-bolt fixing (see [design/rudder.md —
