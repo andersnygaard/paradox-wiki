@@ -122,6 +122,25 @@ judged the right boat on the strength of others' experience, but still too
 small for some, prompting the suggestion of a small catamaran as an
 alternative.
 
+A later comparison weighed Michalak's "Robbsboat" (published on Duckworks) as
+a possible Paradox alternative, judged wider for its length than a Paradox and
+generally reflective of Michalak's habit of reworking other designers' hulls —
+he has produced numerous Phil Bolger redesigns, among them the "Cormorant," a
+31 ft light expansion of his own "Caprice" design, framed as an answer to
+perceived shortcomings in Bolger's AS29: the AS29, though probably more
+seaworthy, slaps badly at anchor, carries a lot of weight, does not beach
+well, and steers poorly under power because its motor sits aft of the rudder
+post. The Cormorant, by contrast, is light, dries out on a beach without
+crushing its bottom (a lighter load and a different entry shape avoid the
+slapping), and locates its motor well forward of the rudder post for more
+authoritative steering; a long slotted cabin top similar to the Birdwatcher's,
+with a removable forward panel, gives through-ventilation and standing
+headroom without a Bolger box's high windage. The comparison judged Michalak's
+simple, iterative approach to solving these problems — light weight,
+beachability, and modest seaworthiness for coastal and Bahamas-style
+cruising — increasingly persuasive on its own terms, without displacing
+Paradox itself in the comparison.
+
 # Spam and moderation
 
 By late September 2002 the list had absorbed six separate bare-link "spam"
@@ -171,3 +190,6 @@ letting the group close to new-member applications and eliminate the spam.
 [33] Archive message page_2674 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2704, 2005-05-10) — "files section at 98%": the files section is almost full; asks if it is time for a `paradoxbuilders2` group for overflow files.
 [34] Archive message page_2675 (recree8 / "Nels", `paradoxbuilders`, msgnum 2705, 2005-05-10) — "Re: files section at 98%": "Paradoxbuilders2 already exists and the files are empty:-)" — links `http://groups.yahoo.com/group/paradoxbuilders2/files/`.
 [35] Archive message page_2676 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2706, 2005-05-11) — "Re: files section at 98%": thanks Nels; "Great, keep the pictures coming Kjell!"
+[36] Archive message page_3253 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3284, 2005-12-15) — "Robbsboat": asks whether anyone is following Jim Michalak's "Robbsboat" on Duckworks, describing it as looking like an alternative to Paradox; links `http://homepages.apci.net/~michalak/`. Signed "Derek."
+[37] Archive message page_3254 (lwhited / Larry Whited, `paradoxbuilders`, msgnum 3285, 2006-01-14) — "Re: Robbsboat": finds the Robbsboat wide for its length compared to Paradox; notes Michalak has an interesting take on modifying other designers' boats, having done numerous Bolger redesigns; singles out the Cormorant (a 31 ft expansion of Michalak's own Caprice design) as an interesting answer to the AS29's shortcomings — the AS29 is probably more seaworthy but slaps at anchor, is heavy, does not beach well, and steers poorly under power with its motor aft of the rudder post; the Cormorant is light, dries out on a beach without crushing its bottom, and locates its motor forward of the rudder post for better steering; has a long slotted cabin top similar to the Birdwatcher's with a removable forward panel for ventilation and standing headroom without a Bolger box's windage; concludes he is gaining more respect for Michalak's simple approach to solving problems. Signed "Larry."
+[38] Archive message page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3286, 2006-01-14) — "Re: Robbsboat": "So there is somebody out there still :0)"; separately reports restarting his own build that day — a new boom taking shape — after a propane fan heater brought his garage from 9°C to 20°C. Signed "Derek."

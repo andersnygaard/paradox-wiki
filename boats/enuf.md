@@ -721,6 +721,13 @@ harbour, and another sculler present — bound several miles further on, to
 Redcliffe, and equipped with a motor — likewise chose to row for a stretch
 before a breeze sprang up and he hoisted sail instead.[123]
 
+## Resuming work: a new boom, and a propane heater
+
+After a pause in construction, Derek reported resuming work on "Enuf" in
+mid-December 2005, with a new boom taking shape. His unheated garage, at 9°C
+when he started, reached 20°C in short order once he brought in a propane
+fan heater — warm enough that he nearly took his vest off.[130]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -857,3 +864,4 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [127] Archive message page_3124 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3155, 2005-09-04) — "Re: Boom Knots & Jack and Jeff": accepts the advice and will make a new boom; clarifies he had actually meant a birdsmouth scarf rather than a true mortise and tenon. Signed "Derek."
 [128] Archive message page_3125 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3156, 2005-09-04) — "Tack Strop Fork": silver-soldered an extra brass plate across the tack strop fork as the promised reinforcing bridge piece, using an improvised forge (fire bricks from a fireplace lined in a biscuit tin, using noticeably less gas than in the open); photographs posted to the "Enuf" folder; as a fallback if not strong enough, considered slitting a further length of 15mm copper pipe and forcing it over the existing tube before soldering, matching what he understood "Al" to be using for the same fitting. Signed "Derek."
 [129] Archive message page_3134 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3165, 2005-09-06) — "Re: Tack Strop Fork": the 15mm pipe is plenty strong used straight; it was splitting it that made it too flimsy; his own method was a tapered punch to spread the far end, curled back on itself with a small hammer to make a rolled edge that would not cut into the deck. Signed "Al, Yeovil, England."
+[130] Archive message page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3286, 2006-01-14) — "Re: Robbsboat": "So there is somebody out there still :0)"; reports restarting his "Enuf" build that day, with a new boom taking shape; it was 9°C in the garage but a new propane fan heater took it to 20°C in no time — "It got so warm I nearly took my vest off." Signed "Derek."

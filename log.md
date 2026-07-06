@@ -1,5 +1,60 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 326: page_3251-page_3260)
+
+This batch crossed the archive's first **2005/2006 New Year boundary**,
+running from 10 December 2005 to 15 January 2006. It closed out **Bill
+Serjeant**'s "Visit to Al's" thread — his own correction (the visit ran
+"nearly 3 hours," not "nearly hours," over coffee in a DCA mug) and
+**Alastair**'s welcoming reply — folded into a new "A second visit (December
+2005)" section on `boats/little-jim.md`, alongside the earlier February 2004
+visit. **Derek Clark** flagged Jim Michalak's "Robbsboat" (Duckworks) as a
+possible Paradox alternative; **Larry Whited** supplied the substantive
+comparison, judging the Robbsboat wide for its length and singling out
+Michalak's "Cormorant" (a 31 ft Caprice expansion) as a persuasive answer to
+specific Bolger AS29 shortcomings — anchor slap, weight, poor beaching, poor
+steering under power with the motor aft of the rudder post. In the same
+thread Derek reported restarting his "Enuf" build after a pause, a new boom
+taking shape with help from a propane fan heater that took his garage from
+9°C to 20°C. **David Beard** asked two questions ahead of the 2006 season:
+whether Cedar Key would recur (Larry Whited confirmed 6-7 May, and mentioned
+in passing that Matt Layden had attended the prior year's gathering with "his
+new light paradox," alongside Robb White and the Gugeon brothers of WEST
+System), and about the transom ventilation port's cover-loss risk (answered
+by Larry Whited and **Alan**, New Zealand, with three untested ideas: an
+inward-opening cover, a handle-and-lanyard fix, or twin back-to-back ports).
+
+- **`references/mailing-list.md`** — extended the existing "List culture"
+  section (the established home for other-small-craft-design comparisons)
+  with the Robbsboat/Cormorant-vs-AS29 comparison. Cites [36]-[38], 38
+  total/38 max, no gaps.
+- **`boats/enuf.md`** — new "Resuming work: a new boom, and a propane
+  heater" section for Derek Clark's build-restart note. Cite [130], 130
+  total/130 max, no gaps.
+- **`people/derek-clark.md`** — new "Resuming the build after a break"
+  section plus a cross-link sentence for the Robbsboat question. Cite [20],
+  20 total/20 max, no gaps.
+- **`boats/little-jim.md`** — new "A second visit (December 2005)" section
+  for Bill Serjeant's return visit and Alastair's reply. Cites [103]-[104],
+  104 total/104 max, no gaps.
+- **`people/bill-serjeant.md`** — extended the existing "A visit to
+  Alastair's" section with the 3-hours/DCA-mug correction. Cite [31], 31
+  total/31 max, no gaps.
+- **`operations/group-cruise-reports.md`** — new "The 2006 Cedar Key
+  gathering, and notable past attendees" section. Cites [35]-[36], 36
+  total/36 max, no gaps.
+- **`construction/transom-deck-plate.md`** — new "A 2006 revisiting: an
+  inward-opening cover, a handle and lanyard, or twin back-to-back ports"
+  section, extending the file's existing vent-baffle/transom-port material.
+  Cites [41]-[42], 42 total/42 max, no gaps.
+- **`people/david-beard.md`** — two new summary+link bullets (Cedar Key
+  question, transom vent-port question). Cites [252]-[253], 253 total/253
+  max, no gaps.
+
+No new person or boat pages were created; all content extended existing
+hub/person/boat pages via cross-link per narrate-once-cross-link and the
+universal-truths register. Anchor checker: 0 broken across 2,489 links.
+
 ## 2026-07-06 (batch 325: page_3241-page_3250)
 
 This batch closed out two threads carried over from batch 324. The **"Rudder

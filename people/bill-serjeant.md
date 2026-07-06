@@ -179,7 +179,9 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 Passing through Yeovil, Bill called on [Alastair](/people/alastair.md), who
 showed him "Little Jim" and spent nearly two hours talking through the
 build — an encounter Bill credited with renewing his own enthusiasm for
-finishing his Paradox.[30]
+finishing his Paradox.[30] He corrected himself the same week: the visit had
+actually run to nearly three hours, made memorable in part by coffee served
+in a DCA (Dinghy Cruising Association) mug.[31]
 
 ## One person across three handles
 
@@ -223,3 +225,4 @@ three eras.
 [28] Archive message page_3237 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3268, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).
 [29] Archive messages page_3242/page_3243 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3273, 2005-12-07, and msgnum 3274, 2005-12-07) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress); thanks Chris Ostlind ("a very good solution") and Glen Maxwell, reporting he is about to bush his own rudder's pivot bolt the same way.
 [30] Archive message page_3250 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3281, 2005-12-10) — "Visit to Al's": called on Alastair in Yeovil, who welcomed him to see "Little Jim"; they spent nearly two hours talking, mostly about the boat, leaving Bill more enthusiastic to carry on with his own build. Signed "Bill."
+[31] Archive message page_3251 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3282, 2005-12-10) — "Re: Visit to Al's": corrects his own prior post — should have been "nearly 3 hours" chatting; the time went quickly, and he enjoyed the coffee served in a DCA mug. Signed implicitly (quotes his own original post in full).

@@ -591,6 +591,14 @@ demands constant attention to sail — captured his settled preference for
 Paradox-style, low-workload sailing over the more physically active dinghy
 sailing he had also done.
 
+## A second visit (December 2005)
+
+Bill Serjeant, by then building his own Paradox, called on Alastair again in
+December 2005 while passing through Yeovil. Alastair showed him "little Jim"
+and the two spent close to three hours talking — mostly about the boat, over
+coffee served in a Dinghy Cruising Association mug — an encounter Bill
+credited with renewing his own enthusiasm for finishing his build.[103][104]
+
 ## An outside sighting (October 2004)
 
 Beyond the builders' own circle, "little Jim" was seen and admired in
@@ -776,3 +784,5 @@ than repeating one fixed stroke (see
 [100] Archive message page_2577 (jamesgreene / "james56greene" / James Greene, `paradoxbuilders`, msgnum 2605, 2005-02-23) — "Re: Little Jim web site moving": notes URLs use forward slashes, not the backslashes the address had gone out with, and supplies the corrected `http://www.as4jg.freeuk.com`.
 [101] Archive message page_2578 (dclark52001 / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2606, 2005-02-23) — "Re: Little Jim web site moving": "Thanks Al, I got there."
 [102] Archive message page_2579 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2607, 2005-02-23) — "Re: Little Jim web site moving": agrees James is "of course" right, but notes either version seems to work on his own machine, guessing his browser (Opera) silently corrects the mistake.
+[103] Archive messages page_3251/page_3250 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3282/3281, 2005-12-10) — "Re: Visit to Al's"/"Visit to Al's": passing through Yeovil, called on Alastair, who welcomed him to see "little Jim"; they spent close to three hours talking, mostly about the boat (corrected from an initial "nearly hours"/"nearly 3 hours"), over coffee served in a DCA (Dinghy Cruising Association) mug — an encounter Bill credited with renewing his enthusiasm for finishing his own Paradox. Signed "Bill."
+[104] Archive message page_3252 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3283, 2005-12-10) — "Re: Visit to Al's": welcomes Bill's visit, and anyone else who wants to call round; "Hoping for calm nights." Signed "Al, Yeovil, England."

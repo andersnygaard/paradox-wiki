@@ -418,6 +418,19 @@ See [checking a used Paradox for rot — finishing the bilges: leave
 inspectable, or paint
 over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 
+**Asked after the Cedar Key gathering, and reopened the transom vent-port
+question.** Ahead of the 2006 season, asked whether Cedar Key would happen
+again and when — see [group cruise reports — the 2006 Cedar Key gathering,
+and notable past
+attendees](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
+Separately reopened the transom ventilation port question: never installed
+his own for fear of losing the cover and taking on water, but wondered
+whether other builders had had trouble with it, and how much airflow
+difference the cover made open versus closed. See [transom deck plate — a
+2006 revisiting: an inward-opening cover, a handle and lanyard, or twin
+back-to-back
+ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -684,3 +697,5 @@ over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspec
 [249] Archive messages page_3174/page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21, "Re: New pics"; and msgnum 3207, 2005-09-23, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 [250] Archive message page_3195 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3226, 2005-10-20) — "Re: Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
 [251] Archive message page_3226 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3257, 2005-11-15) — "Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+[252] Archive message page_3256 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3287, 2006-01-14) — "Cedar Key": full text and citation at [operations/group-cruise-reports.md](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
+[253] Archive message page_3257 (dlb / "David Beard", `paradoxbuilders`, msgnum 3288, 2006-01-14) — "Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).

@@ -244,6 +244,18 @@ gathering or to any known Paradox builder is recorded, leaving it a third,
 geographically distinct small-boat gathering point alongside Apalachicola
 Bay and Cedar Key.
 
+## The 2006 Cedar Key gathering, and notable past attendees
+
+Asked in January 2006 whether a Cedar Key get-together would happen again
+that year, the answer confirmed the pattern holds: the gathering always falls
+on the first full weekend of May — in 2006, **6-7 May**. By then the event
+had grown into "a big affair with a lot of stars of the small boat building
+community": the previous year's gathering had drawn Matt Layden, sailing his
+new, lighter Paradox; Robb White; and the Gugeon brothers of WEST System
+epoxy, among many others. Glen Maxwell was by then a regular attendee with
+"Zoë." Motels around Cedar Key fill to capacity that weekend, making early
+booking necessary.
+
 ## Where to find a written cruise report, absent a fresh one
 
 Absent a fresh trip report, the record's fullest answer to "what has it been
@@ -292,3 +304,5 @@ outings sailing "Little Jim" in sheltered estuaries near home.
 [32] Archive message page_2150 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2175, 2004-07-06) — "Re: Has anyone gone sailing lately": points Todd to Glen Maxwell's article already posted in the Files section, and to several pieces about "Little Jim" on Alastair's own web site. Signed implicitly via quoted reply.
 [33] Archive message page_2151 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2176, 2004-07-06) — "Re: Has anyone gone sailing lately": quotes Todd's original request; points to Glen's article, "Zoë's Sea Trials," now at www.smallsailboats.co.uk/paradox/trials.htm. Signed "Bill."
 [34] Archive message page_2152 (openboat / "Alastair", `paradoxbuilders`, msgnum 2177, 2004-07-06) — "Re: Has anyone gone sailing lately": no fresh open-water adventures that year, but "Little Jim" has been out for weekends in sheltered estuaries; full text and ballast-trim account at [people/alastair.md](/people/alastair.md#sailing-performance-and-weight). Signed "Al, Yeovil, England."
+[35] Archive message page_3256 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3287, 2006-01-14) — "Cedar Key": asks whether there will be a get-together at Cedar Key that year, and if so what the dates are. Signed "David Beard, 'Whisper'."
+[36] Archive message page_3258 (lwhited / Larry Whited, `paradoxbuilders`, msgnum 3289, 2006-01-14) — "Re: Cedar Key": confirms 6-7 May 2006, always the first full weekend in May; describes it as growing into "a big affair with a lot of stars of the small boat building community" — the previous year Matt Layden attended with his new, lighter Paradox, alongside Robb White and the Gugeon brothers of WEST System, among many others; Glen Maxwell attends regularly with "Zoë"; will sail down from Carrabelle in his own new Seapearl 28, "Belle"; warns motels fill to capacity that weekend. Signed "Larry."

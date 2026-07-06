@@ -171,6 +171,33 @@ and repurposing **truck-tarpaulin offcuts** already on hand. A balled-up
 airflow by feel — a versatile, instantly adjustable flow restrictor that
 also stows the towel itself when not needed.
 
+## A 2006 revisiting: an inward-opening cover, a handle and lanyard, or twin back-to-back ports
+
+The transom port's own cover came up again ahead of the 2006 season, this
+time from a builder who had never fitted the port at all, wary of losing its
+cover overboard or of it letting in water in rough weather with the boat
+hanging out over the transom — despite ventilation otherwise not being a
+problem, and a view that a boat can never really have too much of it,
+especially sailing in a hot climate.
+
+Three independent ideas addressed the cover-loss concern directly:
+
+- Mounting the cover so it **opens from the inside** would make it much
+  harder to lose overboard in the first place.
+- An inward-opening cover raises its own new risk, though: a wave could
+  **punch the cover inward** under load rather than simply popping it free.
+  A fitted **handle on the inner face**, doubling as an attachment point for
+  a no-lose **lanyard**, addresses losing the cover regardless of which way
+  it opens.
+- A more ambitious alternative is fitting **two ports back to back**, one
+  opening from inside and one from outside, so either face can be closed
+  off as conditions dictate.
+
+None of these three ideas has yet been built and tested on a Paradox; they
+extend, rather than resolve, the same fair-weather-ventilation-versus-storm-
+security trade-off already documented above for the transom port and vent
+baffle generally.[41][42]
+
 **A vent-trunk cooling fan.** For hot-weather comfort rather than
 bug-sealing, a small **12V fan** mounted in the vent trunk made conditions
 "bearable" for the crew forward on a day near 100°F — one builder's plan is
@@ -439,3 +466,5 @@ against the theoretical flooding scenario.
 [38] Archive message page_3063 and page_3065 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3094 and 3096, 2005-08-14) — "Re: Tiller thru hull seal": sealed his own tiller thru-hull with 0.065 in rubber roofing membrane, for the same bug/animal reasons; prefers being able to close up the back while motoring to keep out exhaust fumes; plans to sail late-season when the air is colder and the water still warm.
 [39] Archive message page_3065 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3094, 2005-08-14) — "Re: Tiller thru hull seal": mounted a 12V fan in the vent trunk on a near-100°F day, making conditions bearable for the crew forward; plans to epoxy the fan into the rim of a removable access-hatch cover so it can be swapped for a plain cover for storage.
 [40] Archive message page_3097 and page_3098 (dlb / David Beard and dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3097 and 3098, 2005-08-14) — "Re: Tiller thru hull seal": David Beard does a lot of winter sailing and finds the ventilation system "works all too well" in cold weather, needing the holes plugged; Derek Clark agrees his sailing partner has found the same and asks where to source a bit of neoprene, answered at [boats/enuf.md](/boats/enuf.md#sealing-the-tiller-thru-hull-and-the-ventilation-trade-off-it-exposes).
+[41] Archive message page_3257 (dlb / "David Beard", `paradoxbuilders`, msgnum 3288, 2006-01-14) — "Transom ventilation Port": ahead of the 2006 season, never installed the transom vent port for fear of losing the cover or taking on water hanging it over the transom in rough weather; ventilation has not otherwise been a problem, but in his opinion a boat can never have too much of it, especially in the south's heat; asks whether anyone has had trouble with the port itself, losing the cover, or putting it back on in rough weather, and how much difference in airflow the cover open versus closed makes. Signed "David Beard."
+[42] Archive messages page_3259/page_3260 (LJGeib / Larry Whited, `paradoxbuilders`, msgnum 3290, 2006-01-15, and logicaid / "Alan"/logicaidnz, `paradoxbuilders`, msgnum 3291, 2006-01-15) — "Re: Transom ventilation Port": Larry Whited suggests mounting the cover to open from the inside, making it hard to lose; Alan (New Zealand) cautions an inward-opening cover could instead be punched in by a wave in bad conditions, and suggests fabricating a handle on the inner face doubling as an attachment point for a no-lose lanyard, or fitting two ports back to back so one can be closed from inside and the other from outside.

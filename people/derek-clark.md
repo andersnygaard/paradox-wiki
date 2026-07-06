@@ -80,6 +80,17 @@ Asked, half in jest, what "S&G" (stitch-and-glue) construction actually
 stood for during Jack Gardiner's bilge-finishing answer — see [checking a
 used Paradox for rot — finishing the bilges: leave inspectable, or paint
 over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+He also flagged Jim Michalak's "Robbsboat" and its Cormorant relative as a
+possible Paradox alternative worth watching, prompting a detailed comparison
+against Bolger's AS29; see [the mailing list — list
+culture](/references/mailing-list.md#list-culture).
+
+## Resuming the build after a break
+
+In mid-December 2005, Derek reported restarting work on "Enuf" after a pause,
+with a new boom taking shape; a propane fan heater brought his unheated
+garage from 9°C to 20°C in short order. Full build narrative at
+[boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater).
 
 # Citations
 
@@ -102,3 +113,4 @@ over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspec
 [17] Archive message page_3210 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3241, 2005-11-06) — "Re: GALLONS ETC.": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
 [18] Archive message page_3211 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3242, 2005-11-06) — "Re: WATER TANKS": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 [19] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+[20] Archive messages page_3253/page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3284/3286, 2005-12-15/2006-01-14) — "Robbsboat"/"Re: Robbsboat": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); reports restarting his "Enuf" build with a new boom, and a propane fan heater warming his garage from 9°C to 20°C.
