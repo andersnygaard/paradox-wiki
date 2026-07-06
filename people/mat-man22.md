@@ -70,6 +70,17 @@ the design and Gilbert's regular column. See [how chine runners work — a
 dory-hulled catamaran design using chine
 runners](/chine-runners/how-they-work.md#a-dory-hulled-catamaran-design-using-chine-runners).
 
+**Pounding, and why Paradox avoids it.** Explained that Paradox's heavier
+displacement and slightly lesser rocker than Matt Layden's newer 12 ft design
+keep its forefoot submerged more of the time, reducing pounding; cited Phil
+Bolger's 15 ft "Micro" — with a great deal of rocker and a known pounding
+problem — as the cautionary case that led Bolger to retrofit a V bottom bow
+onto Micro and similar designs in recent years. Separately speculated the
+newer 12 ft design's V bow would also help with tracking if it were ever
+towed as a ship's lifeboat above hull speed. See [sailing characteristics —
+pounding: rare at anchor, occasional
+underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+
 **Non-skid deck coatings.** Answering a deck-coating question, noted that
 workboat operators use spray-applied industrial non-skid coatings (available
 in various colors, though not cheap) and had seen the same type of coating
@@ -101,3 +112,5 @@ Forum for [David LeBlanc](/people/david-leblanc.md) (see
 [13] Archive message page_2379 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2407, 2004-10-22) — "Re: Chine runner efficiency.": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#a-dory-hulled-catamaran-design-using-chine-runners).
 [14] Archive message page_2381 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2409, 2004-10-22) — "Re: Chine runner efficiency.": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#a-dory-hulled-catamaran-design-using-chine-runners).
 [15] Archive message page_2697 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2727, 2005-05-25) — "Re: Non-skid": full text and citation at [construction/non-skid-deck.md](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
+[16] Archive message page_3143 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3174, 2005-09-09) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+[17] Archive message page_3148 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3179, 2005-09-13) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).

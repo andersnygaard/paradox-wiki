@@ -819,6 +819,13 @@ little speed. See [sailing characteristics — pounding: rare at anchor,
 occasional
 underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[192]
 
+Answering a prospective builder's sleeping-area question, Jack reported
+gaining a full 36 in (91.5 cm) on his own boat by extending the space as far
+as the sail rig would allow, while cautioning that any bulkhead moved this
+way must still be trimmed to fit correctly. See [crew size and fit — Glen
+Maxwell's measured cabin
+dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[193]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1013,3 +1020,4 @@ underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasio
 [190] Archive message page_3099 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3130, 2005-08-18) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 [191] Archive message page_3123 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3154, 2005-09-04) — "Re: Boom Knots": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 [192] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+[193] Archive message page_3145 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3176, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).

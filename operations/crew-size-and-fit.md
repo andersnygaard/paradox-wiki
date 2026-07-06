@@ -142,6 +142,22 @@ cabin dimensions from an as-built boat, complementing "Whisper"'s
 sit-up-straight data point above with hard numbers rather than a
 sailor-height comparison.
 
+A thin (180 lb), 6 ft 4 in prospective builder's question about the sleeping
+area's exact length drew two further as-built data points confirming the
+plans' dimensions can be nudged without altering the boat's lines.
+[Jack Gardiner](/people/jack-gardiner.md) reported gaining a full
+**36 in (91.5 cm)** of sleeping length on "[Jill](/boats/jill.md)" — as much
+as he could take without interfering with the sail rig — while cautioning
+that any extra length gained this way must still be trimmed to fit the
+bulkhead correctly; failing that, a tall sailor can simply extend his feet
+into the forward compartment while sleeping.
+[Alastair](/people/alastair.md), who built "[Enuf](/boats/enuf.md)" as close
+to the plans as possible, measured **930 mm (about 36.5 in)** of clearance
+under the closed hatch, and noted the same feet-in-the-forward-compartment
+trick works for him too when he shifts down the bed in his sleep; he judged
+the roof could go up a little, or the floor down, if more clearance were
+ever wanted.
+
 ## Extended two-up cruising — undocumented
 
 Whether two people can travel aboard together on **longer trips**, in terms
@@ -493,6 +509,22 @@ forward seat when wanted, at the cost of a little security (theft) and
 seaworthiness, though still leaving the boat safer than a conventional open
 dinghy.
 
+## Long-passage seat comfort: cushion practice
+
+Sitting at the helm seat for hours at a stretch is a distinct comfort problem
+from the cabin-fit questions above, and the practice-tested answer is simply
+to rotate cushions rather than rely on any single one.
+[David Beard](/people/david-beard.md) found a discarded wheelchair demo
+cushion, sourced free through a home-health-care contact, eliminated seat
+fatigue entirely on a weekend's sailing — a genuinely effective solution,
+though the cushions themselves are normally too expensive to buy new and are
+worth seeking out secondhand instead.
+[Alastair](/people/alastair.md) keeps a hard foam pad, a soft foam pad, and a
+small inner tube aboard "[Little Jim](/boats/little-jim.md)," switching
+between them every couple of hours, and finds the rotation itself — not any
+one cushion's material — is what actually reduces the pain of a long spell
+at the helm.
+
 ## Interior-beam geometry, Paradox vs. Enigma 460 (Dave's Wiki)
 
 [Dave Raftery](/references/daves-wiki.md)'s wiki works through the *usable*
@@ -569,3 +601,8 @@ inside the cabin — the same removable-rear-window idea seen on
 [88] Archive message page_2729 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2760, 2005-06-06) — "Sleep two in a Paradox?": asks how skinny two people would need to be to sleep aboard, and how wide/long the space is where one can roll out an air mattress. Signed "Ray."
 [89] Archive message page_2730 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 2761, 2005-06-06) — "Re: Sleep two in a Paradox?": gives the cabin's clear sleeping dimensions as 930 mm (37.2 in) wide by 1900 mm (76 in) long; two normal-sized (170 lb) people can sleep there "if you love each other," but the real problem is day-to-day living together in cramped quarters (e.g. fixing dinner in the rain with nowhere to get out of each other's way); describes he and his wife's practice of pitching a tent ashore as a base camp on their own Paradox cruises rather than trying to cohabit the cabin continuously; separately notes he has spent up to five days aboard alone quite comfortably without ever going ashore. Signed "Glen."
 [90] Archive message page_2731 (alopenboat / "Alastair", `paradoxbuilders`, msgnum 2762, 2005-06-07) — "Re: Sleep two in a Paradox?": gives the as-designed flat floor's dimensions as 1.9 m by 0.94 m, tapering to 0.78 m at the narrow end for the mast step; sacrificing side-bin storage gains roughly another 100 mm, sacrificing flotation as well gains 200 mm. Signed "Hoping for calm nights, Al, Yeovil, England."
+[91] Archive message page_3144 (chalcid_1, `paradoxbuilders`, msgnum 3175, 2005-09-11) — "study plan questions": a new prospective builder (thin, 180 lb, 6 ft 4 in), having found the design via a website, asks whether the 280mm-plus/minus-to-suit note between two bulkheads on the study plans means the 6 ft 2 in sleeping area could be lengthened a couple of inches, and what the cabin's floor-to-roof clearance is.
+[92] Archive message page_3145 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3176, 2005-09-11) — "Re: study plan questions": gained 36 in (91.5 cm) on his own boat, as much as possible without interfering with the sail rig; the extra length can be had without changing the boat's lines, but the bulkhead must still be trimmed to fit correctly, or the sailor can simply extend his feet into the forward compartment. Signed "Jack."
+[93] Archive message page_3146 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3177, 2005-09-11) — "Re: study plan questions": built as close to the plans as possible; measures 930 mm (about 36.5 in) of clearance under the closed hatch; the roof could go up a bit or the floor down if more were needed; notes he too sometimes wakes with his feet shuffled down into the forward compartment. Signed "Al, Yeovil, England."
+[94] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": tried a discarded demo wheelchair cushion (ripped, sourced free through his ex's home-health-care job) over a weekend of sailing; found it eliminated seat fatigue entirely; notes such cushions are normally too expensive to buy new but worth finding secondhand. Signed "David."
+[95] Archive message page_3150 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3181, 2005-09-14) — "Re: Seat Cushion": keeps a hard foam cushion, a soft foam cushion, and a small inner tube aboard, switching between them every couple of hours to reduce pain; also wonders about a small inflatable armchair, to be "a real armchair sailor." Signed "Al, Yeovil, England."

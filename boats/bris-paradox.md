@@ -725,6 +725,22 @@ cut and filled. He described the material's behavior under test-fitting as
 "funny stuff," without further elaboration on what specifically surprised
 him.[75]
 
+## First launch, and a rudder that would not stay down
+
+Some four months later, after an absence spent traveling and then in a
+"boat builder's depression," Kjell reported the BRIS Paradox had been
+**launched twice, but not yet sailed**. The first launch was cut short only
+by a lack of trailer-ramp access; the second revealed a real problem —
+the rudder **floated like a cork**, buoyant enough that no line or bungee
+cord could be relied on to hold it down as he had assumed while building it
+years earlier. He tried to solve the buoyancy by melting lead into the
+Divinycell core, which did not work, then by drilling out divinycell and
+sealing the cavity with epoxy to accept a lead insert — workable in
+principle, but a drilled cavity could hold barely a third of the lead
+needed. He ended up cladding the rudder's lower section in the bronze
+sheet left over from the hull's chine-runner-and-ballast plate as a interim
+fix.[76]
+
 # Citations
 
 [1] Archive message page_1020 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1036, 2003-06-19) — "The BRIS Paradox": full introduction — a decade-plus personal history from an abandoned BRIS-method dinghy project (drawings from Sven Yrvind via Rolf Eliasson, two relocated workshops, a shed-foundation collapse) through learning of Matt Layden and Paradox via Yrvind in 1998, a near-miss 1999 Florida meeting with Matt, obtaining the plans, and deciding — after presenting his own two-person scaling solution to Yrvind, who warned it would produce "a 50% heavier and quite another boat" — to build Matt's stock Paradox plans but in BRIS composite material rather than plywood; lists the resulting material/construction changes (divinycell/polyester/glassfibre sandwich at stated thicknesses, no separate foam flotation, minimal internal framing, no water tank, partial bin-shelf/bulkhead-3 omission widening the cabin sole to a claimed 1,140 mm, a 3-4 mm stainless-steel bottom sheet forming the chine-runner undersides for ballast and rock protection, a carbon-fibre 60 mm mast/yard/boom, and no lightning conductor, with a stainless-steel-conductivity question left unanswered); reports uncertainty over the finished weight and Yrvind's "too heavy"/"THINK OF THE WEIGHT" reaction to his bulkheads; status at posting: bulkheads and their fittings complete, sides/bottom not yet laminated; closes with a joking ten-years-hence promise to describe the rudder "in 2013."
@@ -802,3 +818,4 @@ him.[75]
 [73] Archive message page_2669 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2699, 2005-05-09) — "Re: new pics": "Beautiful workmanship Kjell, thanks for sharing." Signed "Glen."
 [74] Archive message page_2670 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2700, 2005-05-09) — "Re: new pics": first time checking the group's website in a while; praises the "great work, and inspirational pics"; reports he and his household are buying a house with a garage, so he might actually get to start building something one of these days. Signed "Paul."
 [75] Archive message page_2671 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2701, 2005-05-10) — "newer pics": "been home from work a couple of days doing more essential labor just have to let the world know about my windows-test-fitting 1-2 funny stuff, polycarbonate." Signed "kjell."
+[76] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": replying to Paul's question whether he had launched yet (see [people/kjell-karlsson.md](/people/kjell-karlsson.md) citation [55]); had been away in the Azores, then in "a boat builder's depression"; the boat has been launched twice but not sailed — the first time cut short by lack of trailer-ramp access, the second revealing the rudder floated "like a cork"; melting lead into the Divinycell core failed, and drilling a cavity for a lead insert could hold barely a third of the lead needed; ended up covering the rudder's lower section with leftover bronze sheet as an interim fix; promises to return to the rig next. Signed "Kjell."

@@ -408,6 +408,20 @@ set up pounding in Little Cruiser, a problem he corrected simply by having
 both himself and his wife sit on one side of the boat, heeling her enough to
 restore a "V" to the hull's presentation to the waves.[46]
 
+The comparison to Matt Layden's newer, lighter 12 ft design was worked out in
+more detail: Paradox's greater displacement and lesser rocker keep its
+forefoot submerged more of the time than the newer design's, which is one
+reason a pounding problem is more likely on the lighter boat and why its
+bow needed the "V" that stock Paradox does not. Phil Bolger's 15 ft "Micro"
+was cited as the cautionary case for the same failure mode — enough rocker
+to pound badly, prompting Bolger to retrofit his own V-bottomed bow to
+several of his flat-bottomed designs in later years. A further, more
+speculative case was raised for the newer 12 ft design specifically: pressed
+into service towed as a ship's lifeboat or tender astern of a larger vessel
+above hull speed, its V bow was thought likely to help with tracking as well
+as reducing pounding.[47][48] The original asker considered the question
+settled by these replies.[49]
+
 ## Handling and feel from microcruising.com
 
 David and Mindy Bolduc's own site adds a first-person "what it feels like to
@@ -541,3 +555,6 @@ better" rule the other two data points had suggested.
 [44] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": has not experienced pounding, though she will toss spray; guesses Matt may be trying to reduce that and pick up a little more speed with the V bow; definitely no pounding at anchor. Signed "Jack."
 [45] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": very little pounding, even under power. Signed "David."
 [46] Archive message page_3133 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3164, 2005-09-05) — "Re: Pounding?": never experienced much pounding in Little Cruiser, Swamp Thing, or Paradox under sail; at anchor they might slap a little in real rough conditions, but even that is rare given the boats' heavy displacement and wet forefoot; under power, going straight into a short head sea, Little Cruiser has pounded, easily corrected by having both himself and his wife sit on one side of the boat, heeling her enough to restore a "V" to the water entry.
+[47] Archive message page_3143 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3174, 2005-09-09) — "Re: Pounding?": Paradox is much heavier than Matt Layden's newer 12 ft design, tending to keep the forefoot submerged and reduce pounding; judges the newer design's rocker a little less than Phil Bolger's 15 ft "Micro," which has a great deal of rocker and a known pounding problem — one Bolger addressed in recent years by adding a V bottom bow to Micro and similar designs. Signed "mat_man22."
+[48] Archive message page_3148 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3179, 2005-09-13) — "Re: Pounding?": speculates Matt Layden's newer 12 ft design would make a good ship's lifeboat/cruiser/dinghy; towed astern above hull speed, its V bow may help with tracking as well as reducing pounding.
+[49] Archive message page_3141 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3172, 2005-09-08) — "Re: Pounding?": thanks the group for the replies, quoting his own original question. Signed "Alan."

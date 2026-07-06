@@ -1,5 +1,70 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 315: page_3141-page_3150)
+
+**The "Pounding?" thread closes out with a design-comparison explanation from
+mat_man22 (Paradox's heavier displacement and lesser rocker vs. Matt Layden's
+newer 12 ft design, with Bolger's "Micro" as the cautionary case), Kjell
+Karlsson's BRIS Paradox reaches first launch (twice, unsailed) and surfaces a
+rudder-buoyancy problem, a new prospective builder's cabin-dimension question
+draws matching as-built data points from Jack Gardiner and Alastair, and
+David Beard's free wheelchair-cushion fix for helm-seat fatigue draws
+Alastair's own cushion-rotation practice.** No new person or boat pages
+created this batch; six existing files extended under existing/new
+sub-headings, four person pages gained short cross-link summaries. A
+one-message off-topic Sven Yrvind cross-post correctly excluded per the
+pruning rubric.
+
+- **`operations/sailing-characteristics.md`** — extended the existing
+  "Pounding: rare at anchor, occasional underway" section: mat_man22's
+  displacement/rocker comparison to Matt Layden's newer 12 ft design and the
+  Bolger "Micro" cautionary case, plus a speculative towed-lifeboat V-bow
+  tracking benefit; closed with the original asker's thanks. Cites
+  [47]-[49], 49 total/49 max, no gaps.
+- **`people/mat-man22.md`** — new "Pounding, and why Paradox avoids it"
+  contribution, cross-linking the section above. Cites [16]-[17], 17
+  total/17 max, no gaps.
+- **`boats/bris-paradox.md`** — new heading "First launch, and a rudder that
+  would not stay down": Kjell Karlsson's BRIS Paradox launched twice without
+  sailing; the second launch revealed the rudder floated, defeating his
+  planned line/bungee retainer; melting lead into the Divinycell core
+  failed, and a drilled cavity could hold barely a third of the lead needed,
+  so he clad the rudder's lower section in leftover bronze sheet as an
+  interim fix. Cite [76], 76 total/76 max, no gaps.
+- **`people/kjell-karlsson.md`** — short cross-link summary of the launch/
+  rudder narrative above (full narrative kept on the boat page per
+  narrate-once-cross-link); closed out citation [55]'s previously-unanswered
+  "have you launched yet" question. Cite [56], 56 total/56 max, no gaps.
+- **`operations/crew-size-and-fit.md`** — extended "Glen Maxwell's measured
+  cabin dimensions" with a new prospective builder's dimension question and
+  matching as-built answers from Jack Gardiner (36 in/91.5 cm on "Jill") and
+  Alastair (930 mm/36.5 in on "Little Jim"); new heading "Long-passage seat
+  comfort: cushion practice" for David Beard's free wheelchair-cushion tip
+  and Alastair's cushion-rotation practice. Cites [91]-[95], 61 total lines/
+  95 numeric max (pre-existing [54]-[87] gap preserved exactly, no new gaps
+  introduced).
+- **`people/jack-gardiner.md`** — short cross-link summary of his
+  dimension answer above. Cite [193], 192 total lines/193 numeric max
+  (pre-existing +1 gap preserved).
+- **`people/david-beard.md`** — short cross-link summary of his seat-cushion
+  tip above. Cite [248], 248 total/248 max, no gaps.
+- **`people/alastair.md`** — two short cross-link summaries (his dimension
+  answer and his cushion-rotation practice above). Cites [265]-[266], 266
+  total/266 max, no gaps.
+- Off-topic content correctly excluded per the pruning rubric: Björn Harbo's
+  one-message cross-post announcing Sven Yrvind's sail being bent for the
+  first time (page_3147) — no Paradox design/construction/sailing content,
+  not folded into any page.
+- No new below-threshold correspondents promoted: "chalcid_1," a brand-new
+  prospective builder (one dimension question, no boat name, no build yet),
+  is below the promotion threshold — cited only in `crew-size-and-fit.md`,
+  not given a person page.
+- Anchor checker run clean: 0 broken across 2,399 anchors (one new heading
+  created — "Long-passage seat comfort: cushion practice" in
+  `operations/crew-size-and-fit.md` — freshly linked from the two person
+  pages added this batch, no dangling references). Archive timeline reached
+  8-14 September 2005.
+
 ## 2026-07-06 (batch 314: page_3131-page_3140)
 
 **Bill Serjeant shares a no-drill lower-pintle installation technique (praised

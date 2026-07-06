@@ -246,6 +246,12 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
   composite build was pursuing "the opposite" approach. See
   [building plans — source and
   cost](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+- **First launch, and a rudder buoyancy problem.** Launched the BRIS Paradox
+  twice without yet sailing her, discovering on the second launch that the
+  rudder floated rather than sinking as designed — solved for the moment
+  with a leftover bronze cladding rather than the lead insert he had hoped
+  for. See [the "BRIS Paradox" — first launch, and a rudder that would not
+  stay down](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
 
 # Citations
 
@@ -303,4 +309,5 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [52] Archive messages page_2669, page_2670 (ifida / "Glen C. Maxwell"; kayaker37 / "Paul", `paradoxbuilders`, msgnum 2699-2700, 2005-05-09) — "Re: new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-further-round-of-roof-and-window-progress).
 [53] Archive message page_2671 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2701, 2005-05-10) — "newer pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#window-test-fitting-in-polycarbonate).
 [54] Archive message page_2702 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2732, 2005-05-28) — "2 pics 2 questions": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates), [operations/running-lights.md](/operations/running-lights.md#solar-panel-cable-entrance-through-the-deck-or-window), and [design/rig.md](/design/rig.md#why-the-masthead-halyard-hole-sits-aft-of-the-mast-twisting-the-halyard-a-quarter-turn).
-[55] Archive message page_3030 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3061, 2005-08-04) — "Paraplastic update?": asks Kjell whether he has launched yet, recalling his earlier "Springfever" photos looked close to completion. Left unanswered in the archive. Signed "Paul."
+[55] Archive message page_3030 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3061, 2005-08-04) — "Paraplastic update?": asks Kjell whether he has launched yet, recalling his earlier "Springfever" photos looked close to completion. Answered the following month — see [56].
+[56] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).

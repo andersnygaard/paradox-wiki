@@ -391,6 +391,13 @@ did not mind sacrificing a few saw blades to get the spars he wanted. See
 [rig and sail — reclaimed heart pine as a mast/spar
 wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 
+**A free wheelchair-cushion fix for seat fatigue.** Found a discarded demo
+wheelchair cushion eliminated a weekend's worth of helm-seat fatigue
+entirely, and recommended seeking a secondhand one out, since such cushions
+are normally too expensive to buy new. See [crew size and fit — long-passage
+seat comfort: cushion
+practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -653,3 +660,4 @@ wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [245] Archive message page_3062, page_3097 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3093 and 3097, 2005-08-14) — "Tiller thru hull seal" / "Re: Tiller thru hull seal": sealed his tiller thru-hull with a leg cut from an old 12 mm wetsuit; finds his winter-sailing ventilation "works all too well" in cold weather, requiring the holes to be plugged. Full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).
 [246] Archive message page_3070 (dlb / "David Beard", `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Re: Toe rail": sailed a season without a toe rail and found it difficult to go forward on deck without one; now has one fitted and finds it makes things much easier. Full text and citation at [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).
 [247] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+[248] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
