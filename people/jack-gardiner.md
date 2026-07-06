@@ -798,6 +798,14 @@ worked, growing brittle until it snapped, and pointed him toward annealing
 information or simply brazing the joint instead. See
 [boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).[187]
 
+Advising Derek on finishing the mast, boom, and yard, Jack recommended his own
+practice — epoxy to seal the wood, then varnish over the cured epoxy for UV
+protection — plus a leather chafe patch and a black rubber roofing membrane
+wrapped around the mast base, and warned Derek to distinguish an encased knot
+from an acceptable small spike knot. See [boats/enuf.md — finishing the
+spars: epoxy, varnish, and knots in the
+boom](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[188][189]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -987,3 +995,5 @@ information or simply brazing the joint instead. See
 [185] Archive messages page_3023/page_3025 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3054/3056, 2005-08-03) — "Re: Enuf's Calamity Update & the Yard": full text and citation at [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it) and [boats/enuf.md](/boats/enuf.md#mast-chafe-from-the-yard-and-finishes-to-prevent-it); warns Derek about mast chafe from his own varnish-caused sail-sleeve burn-through, and follows up asking whether Derek plans to sleeve the mast's full length.
 [186] Archive messages page_3032/page_3035 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3063/3066, 2005-08-04) — "Re: Enuf Epoxy": full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).
 [187] Archive message page_3077 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3108, 2005-08-15) — "Re: Bending Brass": full text and citation at [boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).
+[188] Archive message page_3086 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3117, 2005-08-17) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
+[189] Archive message page_3088 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3119, 2005-08-17) — "Re: Epoxy and Varnish": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).

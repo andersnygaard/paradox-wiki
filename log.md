@@ -1,5 +1,50 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 309: page_3081-page_3090)
+
+**Derek Clark's build wraps the brass-bending saga (silver soldering, not
+brazing), a lighthearted photo/spectacles interlude, and a new "Epoxy and
+Varnish" thread on finishing the mast, boom, and yard.** One boat page and one
+person page extended; no new person or boat pages created this batch.
+
+- **`boats/enuf.md`** — new "Photographs, and a neighbourhood prank" section
+  (David Beard's photo request, Derek's chine-runner joke, the "Enuf" wearing
+  spectacles anecdote); extended the tack-strut/boom-axle section with the
+  brass-bending resolution (a reference book's warning against brazing brass
+  given how close its melting point sits to the filler metal's, hard/silver
+  soldering recommended instead); new "Finishing the spars: epoxy, varnish,
+  and knots in the boom" section (Jack Gardiner's epoxy-then-varnish
+  practice, leather chafe patch and rubber-roofing mast-base wrap, encased-
+  vs-spike-knot distinction, Derek's own bad boom knot, and Glen Maxwell's
+  knock-it-out-and-fill-with-epoxy suggestion). Cites [97]-[105], 105 total,
+  no gaps.
+- **`people/jack-gardiner.md`** — narrate-once cross-link addendum summarizing
+  Jack's epoxy/varnish spar-finishing advice, folded after the existing
+  brass-work-hardening paragraph, linking to `boats/enuf.md`'s new section.
+  Cites [188]-[189], 188 total/189 numeric max (pre-existing +1 gap
+  preserved).
+- **Backlog:** no Open item's trigger condition was met this batch (Jeff-UK,
+  botebilder/Ernie Fossel, Jason Stancil, below-threshold Larry, and the full
+  watch-list all checked, none resurfaced or newly triggered); David
+  Platten's and Bill Serjeant's dormant watch items remain untouched, neither
+  appeared this batch. No new below-threshold correspondents — every
+  participant this batch (David Beard, Derek Clark, Jack Gardiner, Glen
+  Maxwell) is an already-established identity. Msgnum run 3112-3121 confirmed
+  distinct and consecutive continuing from batch 308's last msgnum 3111,
+  standing archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected, no
+  new gaps. All ten source `.eml` byte sizes matched the dispatch table
+  exactly (3747/4269/1769/4128/2040/3540/3849/5395/5847/13725 for page_3081
+  through page_3090); page_3090's unusually large size was confirmed to be a
+  single short reply (Glen Maxwell's knot-fill suggestion) wrapped in a long
+  quoted-thread MIME multipart (plain text + HTML alternative parts each
+  repeating the full quote chain) — only the one new sentence was extracted
+  as new content, the rest correctly treated as ingestion-artifact quoting,
+  not fresh fact. Citation-collision check clean on both touched files:
+  `boats/enuf.md` 105/105 (no gaps); `people/jack-gardiner.md` 188 total/189
+  numeric max (pre-existing +1 gap preserved, unchanged pattern). Anchor
+  checker: 0 broken across 2,372 links. Archive timeline reached 17 August
+  2005.
+
 ## 2026-07-06 (batch 308: page_3071-page_3080)
 
 **Derek Clark's toe-rail question resolved by Jeff (UK)'s full design

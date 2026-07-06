@@ -58,6 +58,19 @@ The deck was fully sheathed and the foredeck fitted and faired as the build
 neared completion, with the interior finished except for the vent box and
 electrics.
 
+## Photographs, and a neighbourhood prank
+
+Once the hull was turned upright and its bottom imperfections were no longer
+on view, Derek confirmed to a fellow builder that photographs of the boat
+existed in the group's photos as "Enuf," joking that any slight kink visible
+in a chine runner in those pictures should be chalked up to "photographic
+anomalies" rather than over-exuberant shaping.[97][98] Around the same time,
+Derek found "Enuf" wearing a pair of spectacles one morning — the work of an
+early-rising neighbour who had found them in the grass outside Derek's house
+and fitted them to the hull as a prank. Derek floated painting an eye on the
+bow, in the style of Portuguese fishing boats, and donated the found
+spectacles to charity.[99]
+
 ## The tack strut and boom axle's pivot joint
 
 Derek fabricated his own **tack strut and boom axle pivot joint** — the
@@ -96,6 +109,10 @@ temperature is alloy-dependent and not a simple fixed number. Faced with that
 uncertainty, Derek chose to **cut and braze** the fork instead of bending
 it, judging the extra step would avoid any hidden work-hardening problems —
 and used the decision to justify buying a small brazing torch of his own.[87][88][89]
+Researching the job further in a sheet-metal-working reference book, Derek
+found brazing brass itself advised against, since the brass and the brazing
+filler metal's melting points sit too close together for comfort; **hard
+(silver) soldering** was the recommended joining method instead.[100]
 
 Derek uploaded four reference photographs of his finished pivot joint to the
 group's Photos section, filing them in his own "Enuf" folder since it
@@ -532,6 +549,39 @@ With the bottom finished and turned upright, Derek's next construction step
 was starting the **mast blanks**, the point his build had reached as this
 record closes.[80]
 
+## Finishing the spars: epoxy, varnish, and knots in the boom
+
+With the mast underway and the boom already made, Derek turned to how to
+finish the mast, boom, and yard. Jack Gardiner's own practice — **epoxy to
+close and seal the grain, a light sand, then varnish over the epoxy** — was
+recommended over epoxy or varnish alone, since varnish protects the cured
+epoxy from UV breakdown while the epoxy itself seals the wood; Jack advised
+sealing and varnishing every spar completely, "things are going to get
+wet."[101] Two chafe fixes accompanied that advice: a **leather chafe
+protector** sewn onto the sail, sourced in Jack's case from a scavenged 1980s
+leather jacket; and a wrap of **black rubber roofing membrane** (scrap,
+available free or cheap from a commercial roofing company) around the base
+of the mast — Jack judged the rubber would likely outlast a leather
+equivalent there.[103] On sourcing the boom's own length, Jack's boom
+had originally been too long and dipped into the water twice sailing
+unshortened, before he cut it back; how often a boom dips depends heavily on
+local wind, current, and tide conditions rather than the boom length
+alone.[101] Derek, worried he had come across as critical of Jack's boom
+in asking, clarified he had not meant to be, and asked separately whether
+the leather chafe protector was itself treated with anything.[102]
+
+On **knots in the spars**, the working distinction is between an **encased
+knot** — a knot with bark visibly grown around it, marking a weak, poorly
+bonded inclusion — and a **small spike knot**, acceptable so long as they are
+not clustered too closely together given the stresses a sail rig puts on a
+boom or mast under sail. Derek found one bad knot in the centre of his own
+boom running through it at an angle and loose on one side; his plan was to
+pack the loose knot with epoxy as a partial fix while accepting it as a
+lasting weak point.[104] [Glen Maxwell](/people/glen-maxwell.md), asked
+about the same knot, suggested the more thorough fix of **knocking the knot
+out completely and filling the resulting void with epoxy** rather than
+packing around a knot left in place.[105]
+
 ## See also
 
 For Derek Clark's own biography, list-community role, and non-boat-specific
@@ -635,3 +685,12 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [94] Archive message page_3073 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3104, 2005-08-15) — "Re: Toe rail": notes he already owns a decent compass; takes the beach-sitting point as "the clincher" and settles on a wood toe rail. Signed "Derek."
 [95] Archive message page_3071 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3102, 2005-08-15) — "Re: Toe rail": takes David Beard's answer as confirming a definite need; asks again for a UK supplier of the slotted metal toe rail, having failed to find one specific enough via web search — the examples found are pre-fitted to complete, expensive yachts; reports having just planed and dry-assembled the mast blanks, and epoxying one side to the mast's back that night. Signed "Derek."
 [96] Archive message page_3080 (openboat / "alopenboat" / Al (Alastair), `paradoxbuilders`, msgnum 3111, 2005-08-16) — "Re: Tiller thru hull seal": a balled-up towel stuffed into the vent box works as a versatile flow adjuster, doubling as stowage for the towel when not needed. Signed "Al, Yeovil, England."
+[97] Archive message page_3081 (dlb / "David Beard", `paradoxbuilders`, msgnum 3112, 2005-08-16) — "Re: Tiller thru hull seal": asks Derek whether he has any pictures of his Paradox. Signed "David Beard."
+[98] Archive message page_3082 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3113, 2005-08-17) — "Re: Tiller thru hull seal": confirms pictures exist in the group's photos as "Enuf," now right-way-up with her bottom imperfections out of view; jokes that any slight kink in a chine runner visible in the photos is down to "photographic anomalies" rather than over-exuberant shaping. Signed "Derek."
+[99] Archive message page_3083 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3114, 2005-08-17) — "Enuf as seen": found "Enuf" wearing a pair of spectacles one morning, the work of an early-rising neighbour who found them in the grass outside Derek's house and fitted them to the hull; floats painting an eye on the bow like Portuguese fishing boats; donated the spectacles to a charity; reports his photo folder nearly full and asks where to put further pictures; hopes to finish the mast that day. Signed "Derek."
+[100] Archive message page_3084 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3115, 2005-08-17) — "Re: Bending Brass": a sheet-metal-working reference book advises against brazing brass, since the brass and brazing filler metal's melting points are too close together; recommends hard (silver) soldering instead. Signed "Derek."
+[101] Archive message page_3086 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3117, 2005-08-17) — "Re: Epoxy and Varnish": recommends epoxy to close the grain and seal the wood, then a light sand and varnish over it for UV protection; a leather chafe protector added to the sail's yard sleeve after varnish alone let the yard burn an 8-inch hole through the sleeve; his own boom, before being cut back, dipped into the water twice sailing, the exact cause depending on local wind, current, and tide; recommends sealing and varnishing every spar completely, since "things are going to get wet." Signed "Jack."
+[102] Archive message page_3087 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3118, 2005-08-17) — "Re: Epoxy and Varnish": thanks Jack, settling on epoxy then varnish; clarifies he was not being critical of Jack's boom; asks whether the leather chafe protector was itself treated with anything. Signed "Derek."
+[103] Archive message page_3088 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3119, 2005-08-17) — "Re: Epoxy and Varnish": not critical in return, but warns Derek to watch for encased knots (bark visibly grown around the knot) versus small spike knots, which are acceptable if not too clustered, given the stresses on a sail rig under sail; the leather chafe protector came from an old 1980s leather jacket; also wraps a scrap of black rubber roofing membrane, sourced free or cheap from a commercial roofing company, around the mast's base, expecting it to outlast a leather equivalent there. Signed "Jack."
+[104] Archive message page_3089 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3120, 2005-08-17) — "Re: Epoxy and Varnish": reports one very bad knot in the centre of his boom, running through at an angle and loose on one side; plans to pack it with epoxy while accepting it as a weak point. Signed "Derek."
+[105] Archive message page_3090 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3121, 2005-08-17) — "Re: Epoxy and Varnish": suggests knocking the bad knot out of the boom completely and filling the resulting void with epoxy, rather than packing epoxy around a knot left in place. Signed "Glen."
