@@ -406,6 +406,11 @@ the mast and go, and to simply get out and push if grounded. See [the "BRIS
 Paradox" — sailing grounds: the Stockholm archipelago, and a Baltic-states
 dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 
+**A topping-lift confirmation.** Never got the stock furling gear to work
+without a topping lift, and has had zero problems since fitting one. See
+[furling system — a second, later topping-lift question, and two more
+confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -670,3 +675,4 @@ dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-ba
 [247] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [248] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 [249] Archive messages page_3174/page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21, "Re: New pics"; and msgnum 3207, 2005-09-23, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+[250] Archive message page_3195 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3226, 2005-10-20) — "Re: Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).

@@ -123,6 +123,17 @@ fabric (sourced from Jamestown) outperforms both: ordinary fiberglass cloth
 will not crease sharply and pulls away from any corner that is not well
 rounded, while Dynel drapes around corners far more satisfactorily.
 
+## Converting a US epoxy quantity to litres or kilograms
+
+Epoxy is commonly quoted in **US gallons** in build-materials lists (see the
+plans' own **5-7 gallon** estimate), which needs converting for builders
+working in metric units. One US gallon is **3.785 litres** — not the
+**4.5 litres** of a UK/Imperial gallon, a distinction worth checking
+explicitly for any builder (such as in Canada) who might see either gallon
+size in local use. A litre of epoxy weighs **slightly more than a litre of
+water** (1 kg), so a plans-quoted 5-7 US gallons works out to roughly
+**19-26 litres**, or a little over that in kilograms.
+
 ## Reviving old, crystallized epoxy: a heat trick and a microwave mishap
 
 Old epoxy remains usable well past three years, even stored at a constant
@@ -159,3 +170,6 @@ warning against microwaving epoxy even briefly.
 [13] Archive message page_2524 (felix_bors / "felix_bors" / Felix Bors, `paradoxbuilders`, msgnum 2552, 2005-01-15) — "Re: epoxy question": "Thank you, Dave" — quotes Dave Bolduc's reply in full.
 [14] Archive message page_2529 (goldranger02-boats / "tehansky" / Gene T., `paradoxbuilders`, msgnum 2557, 2005-01-15) — "Re: epoxy question": has used USComposites' slow-hardener epoxy for everything he has built, with no complaints and a comfortably long working time before a mixed batch kicks off; has not ordered their fiberglass, buying Dynel fabric from Jamestown instead, which drapes around corners far better than fiberglass cloth (fiberglass will not crease sharply and pulls away at any corner that isn't well rounded); has since bought USComposites' own fiberglass tape and found it works fine; overall a satisfactory supplier with quick order turnaround. No boat or build of his own on record.
 [15] Archive message page_2532 (felix_bors / "felix_bors" / Felix Bors, `paradoxbuilders`, msgnum 2560, 2005-01-15) — "Re: epoxy question": "Thank you Gene, great info" — quotes Gene T.'s USComposites review in full, closing the thread.
+[16] Archive message page_3198 (martin.feaviour / "martin304919" / Martin, `paradoxbuilders`, msgnum 3229, 2005-11-02) — "EPOXY": asks what the plans' 5-7 gallon epoxy estimate comes to in kilograms. Signed "martin."
+[17] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": 1 gallon is about 4.5 litres, and 1 litre of water weighs 1 kilogram, with epoxy likely slightly heavier than water per litre; 5 gallons times 4.5 litres comes to 22.5 litres.
+[18] Archive message page_3200 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3231, 2005-11-04) — "Re: EPOXY": corrects Derek's conversion for anyone using US gallons, which hold only 3.785 litres rather than the Imperial 4.5; notes Canada uses both gallon sizes. Signed "Nels, Where in Canada we have both kinds:-("

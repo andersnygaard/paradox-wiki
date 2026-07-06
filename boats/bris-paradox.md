@@ -814,6 +814,26 @@ like an oversized canoe with sleeping quarters" — his advice being not to
 fear exploring, to drop the mast and go, and if grounded, to simply get out
 and push.[87]
 
+## The finished rudder, and a gusty-weekend sail that ended badly
+
+A further round of photos showed the finished **rudder** carrying **4 kg of
+bronze cladding**, judged by then to be enough weight, though covering the
+edge in bronze had taken considerable extra work.[88] The same update also
+recorded the design's reefing-triangle question directly — whether reshaping
+the boom's taper could remove the small triangle of sail left standing after
+a reef (see [rig and sail — rolling boom and sail
+foot](/design/rig.md#rolling-boom-and-sail-foot) for the answers this drew).
+
+A short sail that same weekend, in far gustier wind than expected, went
+badly: with his wife aboard, the wind built until the boat drifted into
+reeds and could barely be worked back to the jetty, the rig fighting to come
+down and turning almost a full circle around the mast, scraping the
+metalwork against deck and window and scoring the hull's sides against the
+jetty itself. Getting the boat back on the trailer afterward, in a sudden
+15 m/s wind from astern and at an angle, pressed the hull against a trailer
+fender and buckled it, and took half an hour of standing barefoot in cold
+water to winch home.[88]
+
 # Citations
 
 [1] Archive message page_1020 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1036, 2003-06-19) — "The BRIS Paradox": full introduction — a decade-plus personal history from an abandoned BRIS-method dinghy project (drawings from Sven Yrvind via Rolf Eliasson, two relocated workshops, a shed-foundation collapse) through learning of Matt Layden and Paradox via Yrvind in 1998, a near-miss 1999 Florida meeting with Matt, obtaining the plans, and deciding — after presenting his own two-person scaling solution to Yrvind, who warned it would produce "a 50% heavier and quite another boat" — to build Matt's stock Paradox plans but in BRIS composite material rather than plywood; lists the resulting material/construction changes (divinycell/polyester/glassfibre sandwich at stated thicknesses, no separate foam flotation, minimal internal framing, no water tank, partial bin-shelf/bulkhead-3 omission widening the cabin sole to a claimed 1,140 mm, a 3-4 mm stainless-steel bottom sheet forming the chine-runner undersides for ballast and rock protection, a carbon-fibre 60 mm mast/yard/boom, and no lightning conductor, with a stainless-steel-conductivity question left unanswered); reports uncertainty over the finished weight and Yrvind's "too heavy"/"THINK OF THE WEIGHT" reaction to his bulkheads; status at posting: bulkheads and their fittings complete, sides/bottom not yet laminated; closes with a joking ten-years-hence promise to describe the rudder "in 2013."
@@ -903,3 +923,4 @@ and push.[87]
 [85] Archive message page_3174 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21) — "Re: New pics": "Great Job !!! Hoping for more pictures." Asks where Kjell plans to sail her most.
 [86] Archive message page_3175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3206, 2005-09-22) — "Re: New pics": answers David Beard — sails out of the Stockholm archipelago among "some thousands of islands"; his previous boat's 2 m draft put most of them out of reach, unlike the BRIS Paradox's 23 cm; describes a first, exhilarating sail on a chartless lake, unconcerned about striking any of its many submerged stones; the trailer built for the boat permits towing at up to 80 km/h; confides a long-held dream of sailing to the Baltic states, especially Estonia, recalling a failed attempt some thirty years earlier to reach Leningrad/Saint Petersburg, and that before World War II the Estonian coast was a popular Swedish beach-holiday destination, cut off entirely once the Iron Curtain fell; unsure yet whether his wife's size suits the boat for such a trip. Signed "Kjell."
 [87] Archive message page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3207, 2005-09-23) — "Re: New pics": some of his own most memorable sailing has been on small, out-of-the-way lakes and rivers — "being on the water, sometimes no sailing"; Paradox "can go where no sailboat has gone before, like an oversized canoe with sleeping quarters"; advises not to be afraid to go exploring, to take the mast down and go, and if grounded, to get out and push; predicts Kjell "will fall in love with this boat over time." Signed "David Beard."
+[88] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": has uploaded further photos to the Paradoxbuilders2 group's Photos/Paraplastic folder — one showing the remaining sail triangle after reefing, asking whether anyone has tried changing the boom's taper to remove it; one showing the finished rudder, now carrying 4 kg of bronze cladding, judged enough, though covering the edge in bronze took a lot of work; and several from a short sail that weekend in far gustier wind than forecast — with his wife aboard, drifted into reeds as the wind worsened, struggled to get the sail down as the rig turned almost a full circle around the mast, scratching the metalwork against deck and window and the hull against the jetty; then, hauling out in a sudden 15 m/s wind from astern at an angle, the hull pressed against and buckled a trailer fender, taking half an hour to winch up while standing barefoot in cold water; closes wryly that he might "start collecting stamps" instead. Signed "Kjell."

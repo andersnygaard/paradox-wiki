@@ -179,6 +179,33 @@ water, passing close by a powerboat near the Jamestown Verrazzano Bridge
 incident — filmed specifically to document how well the hull handles the
 close powerboat passes she draws often in that water, given her short beam.
 
+## A sandbar grounding, reefing-early doctrine, and a luff rope for the sail crease
+
+Replying to a fellow builder's account of a gusty sail that ended with the
+boat blown into reeds and damaged against a jetty, Jack recounted his own
+comparable early scare — on his second or third outing, river current and
+swirling fall winds blew Jill onto the lee side of a sandbar, forcing a
+half-mile barefoot walk in the water to free her. He now keeps two pairs of
+diving rock boots, a dry suit, and a wet suit aboard as a result, calling the
+barefoot walk something to "NEVER" repeat. The clearest lesson from both
+groundings: **reef early** — too much sail out is the real trouble, since
+once the yard spins inside the furling loop and starts winding up the sail
+itself, nothing can be done but lower away and hand-reef from there.
+
+Around the same time Jack mounted a **6 hp outboard**, larger than he
+otherwise wanted, specifically so he could respond quickly if his
+102-year-old grandfather (who lived alone until a fall broke his hip at 101)
+needed help at a moment's notice; he planned to downsize to a 2.5 or 3 hp
+motor once that need passed.
+
+On the sail-crease/boom-taper question itself, Jack judged reshaping the
+boom's taper the wrong fix — changing the boom's geometry risks the sail no
+longer reefing and furling correctly. Instead he added a **luff rope** to
+the sail's leading edge, which let him adjust the sail and noticeably
+lessened the crease at the head — a different fix from
+[Alastair's boom-end foam tip](/design/rig.md#rolling-boom-and-sail-foot),
+aimed at the sail rather than the spar.
+
 ## See also
 
 For Jack Gardiner's non-boat-specific contributions — the archive's fullest
@@ -213,3 +240,5 @@ joint fabrication, and other construction and rig answers — see
 [23] Archive message page_2701 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2731, 2005-05-28) — "Re: Introduction": details his own finished construction — good exterior ply skinned in two layers of 2 oz fabric to stop checking, "blue" (extruded) foam insulation that does not collect water, a sewn tiller boot made from .55 membrane rubber roofing, and rubber-clad commercial windows rather than lexan, sized to a minimum bend radius by raising the cabin height and mast slightly.
 [24] Archive message page_2734 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2765, 2005-06-07) — "Re: Questions regarding Paradox plans.": gives his own mast/boom/yard timber (1x4 in clear Douglas fir porch flooring, 16-footers).
 [25] Archive message page_2741 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2772, 2005-06-08) — "Re: Questions regarding Paradox plans.": explains his choice of 12 oz biax with no mat backing over woven roving — mat will not bond into an epoxy matrix, biax is reputed many times stronger than roving for its weight, uses less epoxy, and was no harder to fill than roving in his own experience on a 19 ft powerboat built the same way and dived off regularly for years with no wear-through.
+[26] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md); the gusty-sail mishap and boom-taper question that prompted Jack Gardiner's reply below.
+[27] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": recounts his own early sandbar grounding on his second or third outing (swirling fall winds and river current, half-mile barefoot walk to free the boat), now carries diving rock boots, a dry suit, and a wet suit as a result; states the reef-early lesson plainly — too much sail out is trouble, and once the yard spins inside the furling loop the sail must be lowered and hand-reefed; mounted a 6 hp outboard, more than he otherwise wanted, so he could respond quickly if his 102-year-old grandfather needed help, planning to downsize to a 2.5-3 hp motor later; judged reshaping the boom's taper unwise, since it would risk the sail no longer furling correctly, and instead added a luff rope to the sail's leading edge, which let him adjust the sail and lessened the head crease. Signed "Jack."

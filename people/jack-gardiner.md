@@ -835,6 +835,10 @@ radio used with a cushion on top for a better view while motoring. See
 [crew size and fit — long-passage seat comfort: cushion
 practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[194]
 
+An early sandbar grounding, his reef-early doctrine, why he mounted a 6 hp
+outboard, and his luff-rope fix for the sail's reefing crease are narrated
+in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).[195]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1031,3 +1035,4 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [192] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [193] Archive message page_3145 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3176, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
 [194] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+[195] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).

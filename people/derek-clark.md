@@ -58,6 +58,11 @@ the file section for members without access to the source. See [rig and sail
 Dursley-Pedersen-style athwartships hammock seat as a helm-comfort idea; see
 [crew size and fit — long-passage seat comfort: cushion
 practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+Answering a newcomer's epoxy-quantity question, gave the gallon-to-litre and
+litre-to-kilogram conversions used to translate the plans' materials
+estimate into metric units. See [epoxy brands and chemistry — converting a
+US epoxy quantity to litres or
+kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
 
 # Citations
 
@@ -76,3 +81,4 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [13] Archive message page_1761 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1784, 2004-01-04) — "Re: Main Sheet": posts two candidate photo links, hoping they show Matt's mainsheet setup. Signed "Derek."
 [14] Archive message page_1777 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1800, 2004-01-06) — "Re: Main Sheet": asks if somebody can scan the picture to the group's Files section for those without access to the magazine. Signed "Derek."
 [15] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Derek."
+[16] Archive message page_3199 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3230, 2005-11-03) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).

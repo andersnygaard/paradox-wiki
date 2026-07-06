@@ -356,6 +356,32 @@ from a third independent builder, the same three-hands difficulty and
 topping-lift fix already established above. His own topping lift, he added,
 is simpler than the two-line system described earlier.
 
+## A second, later topping-lift question, and two more confirmations
+
+Nearly two years after his first topping-lift question, the same builder
+asked again — undecided whether to fit one at all, and inclined toward
+Matt Layden's own without-a-topping-lift practice in the interest of
+keeping the design's inherent simplicity (no standing rigging, no foresail,
+a yuloh rather than an engine for backup propulsion).
+
+Two more builders answered from direct experience, both confirming the
+topping lift is worth fitting rather than skipped:
+
+- One **could not get the stock gear to work at all** — "I just didn't have
+  the touch" — and has had zero problems since adding a topping lift.
+- The other, **Alastair**, restated the mechanism plainly: without a
+  topping lift, slackening the halyard drops the boom straight onto the
+  cabin roof, where it bangs about while the furling line is hauled in;
+  thicker line might hold enough tension to keep the boom up unaided, but
+  even with a topping lift fitted the furling line still needs a hard pull.
+  He noted his own sail's **heavy cloth (about 6 oz)** likely makes the
+  problem worse than it would be with lighter cloth.
+
+This makes at least **five independent builders** — Glen Maxwell, David
+Beard, "DC," and Alastair earlier, plus this pair — who each tried the
+stock gear and independently reached the same conclusion: fit a topping
+lift.
+
 ## Related hardware: the boom-end tack-line pulley
 
 A related but distinct piece of boom hardware is the **tack-line holes** in
@@ -447,3 +473,7 @@ pass under bridges**.
 [53] Archive message page_2229 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 2256, 2004-09-04) — "Re: roller reefing lug sail?": having checked the photo section and found nothing further useful, points instead to the Files section's "topping lift" folder, specifically `TL07.jpg`, as "the thousand word picture." Signed "Tailwinds, Glen."
 [54] Archive message page_2230 (jasonstancil / "smithriverranger" / Jason Stancil, `paradoxbuilders`, msgnum 2257, 2004-09-04) — "Re: roller reefing lug sail?": thanks Glen; having received no other reply from the list, already procured a set of Paradox plans and built his own yard and boom, rigging it traditionally to sail that fall; plans a beefier, tapered boom with the drum-and-thimble reefing system over the winter, expecting his own 200 sq ft lug (off a Bolger Martha Jane) to reef and stow relatively neatly once converted; "Matt really outdid himself on this conntraption, very well thought out... like the rest of the boat"; separately notes he calculated his own rig for a trace of weatherhelm, adjustable by lengthening or shortening the rudder if his math proves wrong.
 [55] Archive message page_2231 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 2258, 2004-09-04) — "Re: roller reefing lug sail?": "Great! Let me know how it goes." Signed "Glen."
+[56] Archive message page_3194 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3225, 2005-10-20) — "Topping Lift": undecided whether to fit a topping lift; notes Matt Layden dispenses with one on his own proven boat, and that the design's appeal lies partly in its simplicity (no standing rigging, no foresail, a yuloh rather than an engine); leans toward following Matt's lead but asks what the advantages of a topping lift actually are, or whether skipping one would be a real disadvantage.
+[57] Archive message page_3195 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3226, 2005-10-20) — "Re: Topping Lift": "I couldn't get it to work at all, I just didn't have the touch. I have had zero problems after adding the topping lift." Signed "David."
+[58] Archive message page_3196 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3227, 2005-10-21) — "Re: Topping Lift": could not make it work without the topping lift — slackening the halyard dropped the boom onto the cabin roof, banging about while hauling on the furling line; thicker rope might hold enough tension to keep it up unaided, but even with the topping lift fitted, the furling line still needs a hard pull. Signed "Al, Yeovil, England."
+[59] Archive message page_3197 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3228, 2005-10-21) — "Re: Topping Lift": his own problem may be worse than average, since he chose fairly heavy (about 6 oz) sail cloth. Signed "Al, Yeovil, England."

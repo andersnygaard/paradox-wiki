@@ -671,6 +671,11 @@ calling him "truly amazing." See
   chine runners' true performance before the boat reaches her final trim.
   See [weight, ballast, and displacement — ballast placement: outboard vs.
   centered](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).[138]
+- **The US-versus-Imperial gallon distinction.** Corrected a gallon-to-litre
+  epoxy conversion for anyone using US measure, noting Canada has both
+  gallon sizes in everyday use. See [epoxy brands and chemistry — converting
+  a US epoxy quantity to litres or
+  kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).[139]
 
 # Citations
 
@@ -812,3 +817,4 @@ calling him "truly amazing." See
 [136] Archive message page_2973 (arvent / "Nels", `paradoxbuilders`, msgnum 3004, 2005-07-28) — "Re: Enuff Update": full text and citation at [construction/topside-painting.md](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).
 [137] Archive messages page_2981 (arvent / "Nels", `paradoxbuilders`, msgnum 3012, 2005-07-29) and page_2984 (arvent / "recree8" / Nels, msgnum 3015, 2005-07-30) — "Re: Enuff Update" / "Re: Enuf Update & now Ballast as well": full text and citation at [construction/topside-painting.md](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade); the "SOS" reply quotes Derek's own "International Paints red" line back at him and suggests asking his wife to explain it.
 [138] Archive message page_2987 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3018, 2005-07-31) — "Re: Enuf Update & now Ballast as well": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).
+[139] Archive message page_3200 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3231, 2005-11-04) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).

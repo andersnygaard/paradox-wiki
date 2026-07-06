@@ -268,6 +268,15 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
   See [the "BRIS Paradox" — sailing grounds: the Stockholm archipelago, and
   a Baltic-states
   dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+- **A finished bronze rudder, a boom-taper reefing question, and a rough
+  weekend sail.** Finished his rudder with 4 kg of bronze edge cladding;
+  raised the reefing-triangle/boom-taper question that drew Jack Gardiner's
+  and Alastair's answers on
+  [rig and sail](/design/rig.md#rolling-boom-and-sail-foot); and had a rough
+  short sail in unexpectedly gusty wind that drifted the boat into reeds and
+  buckled a trailer fender while hauling out. See [the "BRIS Paradox" — the
+  finished rudder, and a gusty-weekend sail that ended
+  badly](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).
 
 # Citations
 
@@ -329,3 +338,4 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [56] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
 [57] Archive messages page_3161/page_3170 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3192, 2005-09-19, "paraplastic sails"; and msgnum 3201, 2005-09-20, "paraplastic report"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
 [58] Archive messages page_3172/page_3175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3203, 2005-09-21, "New pics"; and msgnum 3206, 2005-09-22, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+[59] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).

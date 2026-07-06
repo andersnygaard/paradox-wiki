@@ -403,6 +403,17 @@ contributions and cross-link to where each is told in full.
   lift is possible but much simpler with one; see [furling system — a UK
   builder's topping-lift
   question](/design/furling-system.md#a-uk-builders-topping-lift-question).
+  Asked again over a year later, restated the same conclusion from direct
+  experience — without one, the boom drops onto the cabin roof and bangs
+  about as the halyard is slackened — and noted his own fairly heavy (about
+  6 oz) sail cloth likely worsens the problem. See [furling system — a
+  second, later topping-lift question, and two more
+  confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+- **The reefing triangle and boom taper.** Confirmed the foam-in-the-boom-end
+  fix a second time, and offered a simpler workaround: stuffing the extra
+  sail material behind the storage hoop once furled. See [rig and sail — the
+  reefing triangle, and why reshaping the boom taper is the wrong
+  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).
 - **Masthead sheave choice.** A Tufnol sheave on a stainless pin at the
   masthead beats a plain grooved "dumb sheave": since hauling up the sail is
   the single most physically demanding task aboard, a proper bearing there
@@ -1146,3 +1157,5 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [265] Archive message page_3146 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3177, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions). Signed "Al, Yeovil, England."
 [266] Archive message page_3150 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3181, 2005-09-14) — "Re: Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Al, Yeovil, England."
 [267] Archive message page_3159 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3190, 2005-09-19) — "Re: Quintessential Seat": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Al, Yeovil, England."
+[268] Archive message page_3193 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3224, 2005-10-20) — "Re: new pics": full text and citation at [design/rig.md](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix). Signed "Al, Yeovil, England."
+[269] Archive messages page_3196/page_3197 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3227, 2005-10-21, "Re: Topping Lift"; and msgnum 3228, 2005-10-21, "Re: Topping Lift"): full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations). Signed "Al, Yeovil, England."

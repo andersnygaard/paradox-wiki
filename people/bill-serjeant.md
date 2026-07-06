@@ -130,6 +130,16 @@ ruling out "Yoyo" as giving "an entirely untrue impression" — noting his own
 boat's name, "Little Jim," only settled 18 months after he began
 building.[25] No name has been confirmed as of this writing.
 
+## A second topping-lift question
+
+Weeks after the mast-wiring exchange, Bill raised the topping-lift question
+afresh — undecided whether to fit one at all, drawn to Matt Layden's own
+without-a-topping-lift practice as being in keeping with the design's
+overall simplicity. Two more builders answered from experience, both
+recommending a topping lift regardless; see
+[furling system — a second, later topping-lift question, and two more
+confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+
 ## Lower pintle: an alternative to drilling the rudder stock
 
 Bill devised and photographed a method of installing the rudder's lower
@@ -193,3 +203,4 @@ three eras.
 [24] Archive message page_3179 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3210, 2005-10-08) — "Boat Name": struggling to settle on a name for his Paradox, posts a list of about 80 candidate names — including Braveheart, Crusader, Eureka, Mudlark, Paradoxical, Pilgrim, Scallywag, and Xanadu — asking the group to pick one and give reasons, or to suggest a suitable alternative not on the list. Signed "Bill."
 [25] Archive message page_3184 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3215, 2005-10-10) — "Re: Mast Questions": full masthead-wiring text and citation at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped); in passing, on the "Boat Name" thread, says he is not the best adviser on names, since "Little Jim" only arrived 18 months after he began building, but is sure it's "definitely not Yoyo," which gives "an entirely untrue impression." Signed "Al, Yeovil, England."
 [26] Archive messages page_3181/page_3182/page_3183/page_3187 (william / "williamserjeant" / William Serjeant, msgnum 3212, 2005-10-09; ifida / "Glen C. Maxwell", msgnum 3213, 2005-10-09; dclark / "dclark52001" / Derek Clark, msgnum 3214, 2005-10-09; openboat / "alopenboat" / Alastair, msgnum 3218, 2005-10-15) — "Re: Mast Questions" thread: full text and citations at [operations/running-lights.md](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
+[27] Archive message page_3194 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3225, 2005-10-20) — "Topping Lift": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).

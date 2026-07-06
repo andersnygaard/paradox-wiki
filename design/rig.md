@@ -80,6 +80,27 @@ In practice, operating this rolling-boom furling gear single-handed is
 non-trivial — see [furling system](/design/furling-system.md) for the
 friction/three-hands problem and its topping-lift fix.
 
+## The reefing triangle, and why reshaping the boom taper is the wrong fix
+
+Reefing leaves a small triangle of sail standing proud near the head, caused
+by the extra thickness where the sail's seam meets the boom as it rolls up.
+Reshaping the boom's own taper to remove the triangle is not the recommended
+fix: doing so changes the boom's geometry and risks the sail no longer
+rolling up and furling correctly. Two practical alternatives avoid touching
+the boom's taper at all: **feeding a length of rigid foam in from the boom's
+end**, which lets the sail roll back along the boom into a thinner roll
+instead of rolling neatly at the mast where the seam's extra thickness
+would otherwise build up a thicker roll each turn (this is the same
+foam-taper fix documented above; see also
+[Glen Maxwell's endorsement](#rolling-boom-and-sail-foot)); or simply
+**stuffing the extra material behind the sail's storage hoop** once furled,
+an even simpler workaround. A separate, sail-side fix for the same
+symptom — a crease rather than a triangle — is sewing a **luff rope** into
+the sail's leading edge, which lets the sail be adjusted and can noticeably
+reduce the crease at the head; see
+[boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease)
+for the full account.
+
 ## Sailed entirely from the helm station — no going forward
 
 A defining handling fact about the rig: **all sail controls, including
@@ -1604,3 +1625,6 @@ figure against their own plan set before cutting.[184]
 [226] Archive message page_3028 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059, 2005-08-03) — "Yard support": notes the sail's geometry carries the yard aft, away from the mast, as it is reefed, with little to hold it close on the starboard tack; recalls a Welsford Houdini dinghy seen at a boat rally, rigged with a similarly reefable lugsail but fitted with a mast-mounted traveller to keep its yard close at all times; asks whether Paradox would benefit from the same arrangement, noting it would require the boom to lift as the Mk.1 sail is reefed, which may itself cause a problem. Signed "Al, Yeovil, England."
 [227] Archive message page_3042 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3073, 2005-08-05) — "Re: Mainsheet Fouling Outboard": answers Derek Clark's follow-up — yes, the short-shaft model; with the motor fully lowered its lowest point stays above the hull's lowest point, so the hull would hit a submerged obstruction before the motor does; also owns a long-shaft Yamaha, having tried both, but prefers the short shaft. Signed "David."
 [228] Archive message page_3171 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3202, 2005-09-20) — "Re: paraplastic report": replying to Kjell Karlsson's topping-lift/heavy-hoisting question (see [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing)), reports that Matt Layden, asked directly, keeps tension on the halyard with his foot and uses both hands to furl; confirms it works well once a builder's feet learn to "behave like hands"; "Man lost a lot when he lost his tail!" Signed "Glen."
+[229] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly); asks whether anyone has tried changing the boom's taper to remove the reefing triangle.
+[230] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease); judges reshaping the boom taper unwise since it changes the sail's geometry and risks it no longer reefing/furling correctly; fixed his own crease with a luff rope sewn into the sail's leading edge instead. Signed "Jack."
+[231] Archive message page_3193 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3224, 2005-10-20) — "Re: new pics": asks whether Kjell's sail is the old or new design; on the old design, fed a length of rigid foam in from the boom's end, which helps a little — a thick seam otherwise rolls up neatly at the mast into a thicker roll each turn, while raising the boom's end lets the sail roll back along it into a thinner roll and a smaller triangle; alternatively, "stuff the extra material behind the storage hoop and make a cup of coffee." Signed "Al, Yeovil, England."

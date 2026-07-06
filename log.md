@@ -1,5 +1,72 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 320: page_3191-page_3200)
+
+**A fourth-plus independent confirmation that the stock furling gear needs
+a topping lift**: William Serjeant asked the topping-lift question afresh
+(inclined to skip one, following Matt Layden's own practice), and both
+David Beard ("I couldn't get it to work at all... zero problems after
+adding the topping lift") and Alastair (the boom drops onto the cabin roof
+and bangs about without one; his own heavy 6 oz sail cloth may worsen it)
+answered from direct experience — extending `design/furling-system.md`'s
+running record of builders independently reaching the same fix.
+**Kjell Karlsson's boom-taper/reefing-triangle question** drew two answers:
+Jack Gardiner judged reshaping the boom's taper unwise (risks the sail no
+longer furling correctly) and instead fixed his own crease with a luff rope
+sewn into the sail's leading edge; Alastair reconfirmed his established
+foam-in-the-boom-end fix and offered a simpler alternative (stuff the extra
+material behind the storage hoop). The same exchange carried **two mishap
+stories**: Kjell's gusty short sail that drifted the boat into reeds and
+buckled a trailer fender hauling out, and — in reply — Jack Gardiner's own
+early sandbar grounding on "Jill" (a half-mile barefoot walk to free her),
+his plain reef-early doctrine, and why he mounted a 6 hp outboard (to reach
+his 102-year-old grandfather quickly after a fall). A **new below-threshold
+correspondent**, Martin, asked how the plans' 5-7 gallon epoxy estimate
+converts to metric; Derek Clark and Nels answered with the gallon-to-litre
+conversion and the US-versus-Imperial gallon distinction. No new person or
+boat pages created this batch; all new material extended existing hub
+pages and person pages via cross-link, per the narrate-once-cross-link and
+universal-truths conventions.
+
+- **`design/furling-system.md`** — new section "A second, later
+  topping-lift question, and two more confirmations," extending the file's
+  running topping-lift record with a fourth and fifth independent builder
+  reaching the same fix. Cites [56]-[59], 59 total/59 max, no gaps.
+- **`design/rig.md`** — new section "The reefing triangle, and why
+  reshaping the boom taper is the wrong fix," cross-linking the existing
+  foam-tip fix and Jack Gardiner's luff-rope alternative. Cites
+  [229]-[231], 231 total/231 max, no gaps.
+- **`boats/bris-paradox.md`** — new section "The finished rudder, and a
+  gusty-weekend sail that ended badly," covering Kjell's finished
+  bronze-clad rudder and the reed-drift/trailer-fender mishap. Cite [88],
+  88 total/88 max, no gaps.
+- **`boats/jill.md`** — new section "A sandbar grounding, reefing-early
+  doctrine, and a luff rope for the sail crease," covering Jack Gardiner's
+  own early grounding, his 6 hp outboard's grandfather-emergency rationale,
+  and his luff-rope fix. Cites [26]-[27], 27 total/27 max, no gaps.
+- **`construction/epoxy-brands-and-chemistry.md`** — new section
+  "Converting a US epoxy quantity to litres or kilograms," covering the
+  US-vs-Imperial gallon distinction and the litre-to-kilogram estimate.
+  Cites [16]-[18], 18 total/18 max, no gaps.
+- **`people/bill-serjeant.md`** — new short paragraph cross-linking his
+  second topping-lift question. Cite [27], 27 total/27 max, no gaps.
+- **`people/david-beard.md`** — new short bullet cross-linking his
+  topping-lift confirmation. Cite [250], 250 total/250 max, no gaps.
+- **`people/alastair.md`** — extended the existing "Furling and the
+  topping lift" bullet with his second confirmation, and added a new
+  "The reefing triangle and boom taper" bullet. Cites [268]-[269], 269
+  total/269 max, no gaps.
+- **`people/kjell-karlsson.md`** — new bullet cross-linking the finished
+  rudder, boom-taper question, and gusty-sail mishap. Cite [59], 59
+  total/59 max, no gaps.
+- **`people/jack-gardiner.md`** — new short paragraph cross-linking his
+  sandbar-grounding/reef-early/luff-rope story. Cite [195], 194
+  total-lines/195 numeric max, pre-existing +1 gap at [53] preserved.
+- **`people/derek-clark.md`** — new sentence cross-linking his epoxy
+  gallon-to-litre conversion. Cite [16], 16 total/16 max, no gaps.
+- **`people/nels.md`** — new bullet cross-linking his US-vs-Imperial gallon
+  correction. Cite [139], 139 total/139 max, no gaps.
+
 ## 2026-07-06 (batch 319: page_3181-page_3190)
 
 **The masthead-wiring thread concludes**: Bill Serjeant's snug-deck-hole
