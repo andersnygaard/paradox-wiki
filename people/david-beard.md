@@ -398,6 +398,14 @@ are normally too expensive to buy new. See [crew size and fit — long-passage
 seat comfort: cushion
 practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 
+**On Paradox's shallow-draft appeal.** Some of his own most memorable
+sailing has come on small, out-of-the-way lakes and rivers, since Paradox
+"can go where no sailboat has gone before, like an oversized canoe with
+sleeping quarters" — advising new builders not to fear exploring, to drop
+the mast and go, and to simply get out and push if grounded. See [the "BRIS
+Paradox" — sailing grounds: the Stockholm archipelago, and a Baltic-states
+dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -661,3 +669,4 @@ practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-pra
 [246] Archive message page_3070 (dlb / "David Beard", `paradoxbuilders`, msgnum 3101, 2005-08-14) — "Re: Toe rail": sailed a season without a toe rail and found it difficult to go forward on deck without one; now has one fitted and finds it makes things much easier. Full text and citation at [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).
 [247] Archive message page_3129 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3160, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [248] Archive message page_3149 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3180, 2005-09-14) — "Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+[249] Archive messages page_3174/page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21, "Re: New pics"; and msgnum 3207, 2005-09-23, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).

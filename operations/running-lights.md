@@ -103,6 +103,11 @@ hardware. A third keeps the wiring recessed **flush with the mast's
 surface**, routed through a shallow groove rather than run proud on the
 outside or fished through the interior.
 
+At the **bottom** of the mast, one builder brings the wire out under deck
+level and connects it to a plug fitted just under the forward port-side
+deck — simple to connect and disconnect each time the mast is stepped or
+unstepped for trailering, and proven reliable in service.[38]
+
 ## LED electrical theory, and how to wire several in series
 
 The underlying electrical theory behind an LED masthead unit, for builders
@@ -389,4 +394,5 @@ routing a solar-panel cable through the deck itself.[37]
 [35] Archive message page_2703 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2733, 2005-05-28) — "Re: Introduction": answers Brent Geery's CCFL question — a neat idea worth trying, though white LEDs are now cheap enough (~$1 apiece) that the Bolducs see no reason to move on from their own homemade 8-bulb LED masthead light aboard Little Cruiser (`microcruising.com/review.htm#low`); separately reports working on a low-cost anchor light built from a $6 "solar" garden light (from BIG LOTS) with its own small solar panel, two NiCad batteries, and an LED, mounted at deck level so it is easier to spot in the dark than a masthead-height light, which can be mistaken for a star.
 [36] Archive message page_2739 (logicaid / "Alan", `paradoxbuilders`, msgnum 2739, 2005-06-01) — "'Garden' lights": reports testing the same kind of solar garden light through a full year: still running at 3 a.m. in midsummer, but only about two hours after dark once autumn cut the available daily charging radiation; plans to power a similar 360-degree-diffuser garden light from a separate battery instead, and is experimenting with feeding a larger solar-AA-NiCad-charger panel into the same garden-light housing. Signed "Alan."
 [37] Archive message page_2702 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2732, 2005-05-28) — "2 pics 2 questions": asks how other builders with an installed solar panel route its cable into the cabin — through a hole drilled in a window, or some other method — having noticed Glen Maxwell uses an external loop instead. No reply recorded.
+[38] Archive messages page_3178/page_3180 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3209, 2005-10-08, "Mast Questions"; and ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3211, 2005-10-08, "Re: Mast Questions") — Bill, gluing his mast's front piece into place, asks where the masthead light's wiring should exit the mast and how it should route down to the battery terminals given the mast is stepped and unstepped for trailering, noting Glen's own masthead photos show an external housing for the flex at the top. Glen answers: the top routing follows what Bill already worked out from photos of "Zoë"'s masthead; at the bottom, he brings the flex out under deck level and connects it to a plug fitted just under the forward port-side deck, which has proven easy to connect and disconnect. Signed "Bill" / "Glen."
 

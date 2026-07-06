@@ -896,6 +896,12 @@ for the fuller record of this meeting, and
 [furling system](/design/furling-system.md)
 for the cross-reference.
 
+Matt confirmed the technique directly when asked about it: he keeps tension
+on the halyard with his foot, leaving both hands free to furl — a method
+that works well once a builder's feet learn to "behave like hands." The
+technique matters more without a tail on the furling line to grip
+independently.[228]
+
 ## Masthead reference photographs
 
 Close-up photographs of the masthead fitting are kept in the group's files
@@ -1597,3 +1603,4 @@ figure against their own plan set before cutting.[184]
 [225] Archive messages page_3027/page_3029 (dclark / "dclark52001" / Derek Clark, msgnum 3058, 2005-08-03, "Re: Enuf's Calamity Update & the Yard"; and openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3060, 2005-08-03, "Re: Enuf's Calamity Update & the Yard") — Derek concludes "it's back to the Douglas Fir" if the yard is a double cantilever, since he judges a bamboo spar cannot be one and would need lining up with the mast; Al clarifies that a shelf bracket or mast, fixed at one end only, is a single cantilever, while a seesaw or one span of the Firth of Forth rail bridge — supported at one point with both ends free — is a double cantilever; bamboo may well work but would likely need strengthening to avoid being crushed where it presses against the mast.
 [226] Archive message page_3028 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3059, 2005-08-03) — "Yard support": notes the sail's geometry carries the yard aft, away from the mast, as it is reefed, with little to hold it close on the starboard tack; recalls a Welsford Houdini dinghy seen at a boat rally, rigged with a similarly reefable lugsail but fitted with a mast-mounted traveller to keep its yard close at all times; asks whether Paradox would benefit from the same arrangement, noting it would require the boom to lift as the Mk.1 sail is reefed, which may itself cause a problem. Signed "Al, Yeovil, England."
 [227] Archive message page_3042 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3073, 2005-08-05) — "Re: Mainsheet Fouling Outboard": answers Derek Clark's follow-up — yes, the short-shaft model; with the motor fully lowered its lowest point stays above the hull's lowest point, so the hull would hit a submerged obstruction before the motor does; also owns a long-shaft Yamaha, having tried both, but prefers the short shaft. Signed "David."
+[228] Archive message page_3171 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3202, 2005-09-20) — "Re: paraplastic report": replying to Kjell Karlsson's topping-lift/heavy-hoisting question (see [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing)), reports that Matt Layden, asked directly, keeps tension on the halyard with his foot and uses both hands to furl; confirms it works well once a builder's feet learn to "behave like hands"; "Man lost a lot when he lost his tail!" Signed "Glen."

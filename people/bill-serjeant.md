@@ -106,6 +106,20 @@ exception on the delivery paperwork instead. By then he had completed all of
 his beams, including the cabin and hatch beams; laminated his tiller; and
 begun drawing the bulkheads out on plywood.[18]
 
+Gluing his mast's front piece into place, Bill asked how to route the
+masthead light's wiring down through the mast and out to the battery given
+the mast is stepped and unstepped for trailering — answered by Glen
+Maxwell, cross-linking the community's standing masthead-wiring options.
+See [running lights — routing masthead-light wiring outside the mast, below
+the
+sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).[23]
+
+Around the same time, still searching for a name for the boat, Bill put a
+shortlist of roughly 80 candidate names to the group for suggestions and
+reasons — among them *Braveheart*, *Crusader*, *Eureka*, *Mudlark*,
+*Paradoxical*, *Pilgrim*, *Scallywag*, and *Xanadu* — inviting the list to
+also propose names of their own if none of the eighty appealed.[24]
+
 ## Lower pintle: an alternative to drilling the rudder stock
 
 Bill devised and photographed a method of installing the rudder's lower
@@ -165,3 +179,5 @@ three eras.
 [20] Archive message page_3137 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3168, 2005-09-06) — "Re: Lower pintle": agrees, having found setting up the drilling for his own rudder stock nerve-wracking, since getting it wrong would have meant a major rebuild of the stock. Signed "Al, Yeovil, England."
 [21] Archive message page_3138 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3169, 2005-09-06) — "Re: Lower pintle": "Looking good Bill, great idea as well!" Signed "Glen."
 [22] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Bill."
+[23] Archive messages page_3178/page_3180 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3209, 2005-10-08, "Mast Questions"; and ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3211, 2005-10-08, "Re: Mast Questions"): full text and citation at [operations/running-lights.md](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
+[24] Archive message page_3179 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3210, 2005-10-08) — "Boat Name": struggling to settle on a name for his Paradox, posts a list of about 80 candidate names — including Braveheart, Crusader, Eureka, Mudlark, Paradoxical, Pilgrim, Scallywag, and Xanadu — asking the group to pick one and give reasons, or to suggest a suitable alternative not on the list. Signed "Bill."

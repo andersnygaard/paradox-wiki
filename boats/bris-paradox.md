@@ -787,6 +787,33 @@ reply also offered the general observation that the **yuloh** takes some
 getting used to but rewards persistence — a corollary to Kjell's own
 sailing-day note that "the yuloh didn't obey" him yet.[80]
 
+## Sailing grounds: the Stockholm archipelago, and a Baltic-states dream
+
+Kjell posted photos of the finished boat, by then nicknamed
+**"Paraplastic,"** to the group's Photos section — prompting David Beard to
+ask where he planned to sail her most.[83][84][85][86]
+
+Kjell sails out of the **Stockholm archipelago**, among "some thousands of
+islands." His previous boat drew 2 m and could not reach most of them; at
+the BRIS Paradox's shallow 23 cm draft, that changes completely, opening up
+grounds otherwise inaccessible. He also described sailing a chartless
+inland lake for the first time — free of the need to watch for charted
+rocks, since a small boat drawing so little can simply absorb the
+occasional bump — and noted the trailer built for the boat tows at up to
+80 km/h. He named a long-held, only half-serious ambition: sailing to the
+Baltic states, particularly Estonia, recalling an attempt some thirty years
+earlier to reach Leningrad (Saint Petersburg) that Soviet authorities
+refused permission for, and noting that before World War II the Estonian
+coast had been a popular beach-holiday destination for Swedes, cut off
+entirely once the Iron Curtain fell across the Baltic.[86]
+
+David Beard's reply captured the design's shallow-draft appeal in one line:
+some of his own most memorable sailing has been on small, out-of-the-way
+lakes and rivers, since Paradox "can go where no sailboat has gone before,
+like an oversized canoe with sleeping quarters" — his advice being not to
+fear exploring, to drop the mast and go, and if grounded, to simply get out
+and push.[87]
+
 # Citations
 
 [1] Archive message page_1020 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1036, 2003-06-19) — "The BRIS Paradox": full introduction — a decade-plus personal history from an abandoned BRIS-method dinghy project (drawings from Sven Yrvind via Rolf Eliasson, two relocated workshops, a shed-foundation collapse) through learning of Matt Layden and Paradox via Yrvind in 1998, a near-miss 1999 Florida meeting with Matt, obtaining the plans, and deciding — after presenting his own two-person scaling solution to Yrvind, who warned it would produce "a 50% heavier and quite another boat" — to build Matt's stock Paradox plans but in BRIS composite material rather than plywood; lists the resulting material/construction changes (divinycell/polyester/glassfibre sandwich at stated thicknesses, no separate foam flotation, minimal internal framing, no water tank, partial bin-shelf/bulkhead-3 omission widening the cabin sole to a claimed 1,140 mm, a 3-4 mm stainless-steel bottom sheet forming the chine-runner undersides for ballast and rock protection, a carbon-fibre 60 mm mast/yard/boom, and no lightning conductor, with a stainless-steel-conductivity question left unanswered); reports uncertainty over the finished weight and Yrvind's "too heavy"/"THINK OF THE WEIGHT" reaction to his bulkheads; status at posting: bulkheads and their fittings complete, sides/bottom not yet laminated; closes with a joking ten-years-hence promise to describe the rudder "in 2013."
@@ -871,3 +898,8 @@ sailing-day note that "the yuloh didn't obey" him yet.[80]
 [80] Archive message page_3163 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3194, 2005-09-19) — "Re: paraplastic sails": "Great!! When do we see some pictures?"; the yuloh takes some getting used to, but once mastered "there is no looking back (because you use it looking forward)." Signed "Al, Yeovil, England."
 [81] Archive messages page_3165/page_3166 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3196 and msgnum 3197, both 2005-09-19) — "Re: paraplastic sails": "How I envy you!" — the identical two-line reply sent twice in quick succession under distinct Message-IDs, apparently an accidental duplicate post rather than two separate thoughts.
 [82] Archive message page_3169 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3200, 2005-09-19) — "Re: paraplastic sails": "Congrats!!!! I cant wait to hear how she goes!!!! oh yea, and pictures!!!" Signed "Jack."
+[83] Archive message page_3172 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3203, 2005-09-21) — "New pics": has uploaded five photos to the Paradoxbuilders2 group's Photos/Paraplastic folder; jokes to Glen Maxwell that he has started to "evolve an opposing big toe" for foot-furling, hopefully ready by next season.
+[84] Archive message page_3173 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3204, 2005-09-21) — "Re: New pics": "She is absolutely beautiful Kjell, I can't wait to see some pictures of her under sail! Great job! Congratulations!" Signed "Glen."
+[85] Archive message page_3174 (dlb / "David Beard", `paradoxbuilders`, msgnum 3205, 2005-09-21) — "Re: New pics": "Great Job !!! Hoping for more pictures." Asks where Kjell plans to sail her most.
+[86] Archive message page_3175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3206, 2005-09-22) — "Re: New pics": answers David Beard — sails out of the Stockholm archipelago among "some thousands of islands"; his previous boat's 2 m draft put most of them out of reach, unlike the BRIS Paradox's 23 cm; describes a first, exhilarating sail on a chartless lake, unconcerned about striking any of its many submerged stones; the trailer built for the boat permits towing at up to 80 km/h; confides a long-held dream of sailing to the Baltic states, especially Estonia, recalling a failed attempt some thirty years earlier to reach Leningrad/Saint Petersburg, and that before World War II the Estonian coast was a popular Swedish beach-holiday destination, cut off entirely once the Iron Curtain fell; unsure yet whether his wife's size suits the boat for such a trip. Signed "Kjell."
+[87] Archive message page_3176 (dlb / "David Beard", `paradoxbuilders`, msgnum 3207, 2005-09-23) — "Re: New pics": some of his own most memorable sailing has been on small, out-of-the-way lakes and rivers — "being on the water, sometimes no sailing"; Paradox "can go where no sailboat has gone before, like an oversized canoe with sleeping quarters"; advises not to be afraid to go exploring, to take the mast down and go, and if grounded, to get out and push; predicts Kjell "will fall in love with this boat over time." Signed "David Beard."

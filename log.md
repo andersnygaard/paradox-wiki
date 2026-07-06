@@ -1,5 +1,65 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 318: page_3171-page_3180)
+
+**Matt Layden confirms his own tack-furling technique directly** (foot
+pressure holds the halyard, freeing both hands to furl) when Glen Maxwell
+asked on his behalf. **Kjell Karlsson's "Paraplastic" draws praise for her
+first photos**, prompting an exchange on where she'll sail: the shallow
+23 cm draft opens up the Stockholm archipelago's thousands of islands
+(against a previous 2 m-draft boat that couldn't reach them), a first
+chartless-lake sail, and a long-held dream of sailing to the Baltic
+states — matched by David Beard's own line on Paradox's shallow-draft
+appeal, "an oversized canoe with sleeping quarters." **Bill Serjeant asked
+where his masthead-light wiring should exit the mast and route to the
+battery** (answered by Glen Maxwell with his own bottom-of-mast routing)
+and separately **put a ~80-name shortlist to the group** for his
+still-unnamed Paradox. A new below-threshold correspondent, John Larson
+(Chicago), asked if any other builders were nearby. No new person or boat
+pages created this batch; one boat page gained a new section, three
+person pages gained short cross-link/contribution updates, two design/
+operations pages were extended under pre-existing headings.
+
+- **`design/rig.md`** — extended the existing "Matt Layden's own furling
+  technique" heading with Matt's own direct confirmation (via Glen
+  Maxwell) of the foot-pressure halyard/furling technique. Cite [228], 230
+  total-lines/228 numeric max (pre-existing `[7a]`/`[7b]` letter-suffixes
+  preserved).
+- **`boats/bris-paradox.md`** — new section "Sailing grounds: the
+  Stockholm archipelago, and a Baltic-states dream" (the "New pics" photo
+  thread's sailing-grounds exchange between Kjell Karlsson and David
+  Beard). Cites [83]-[87], 87 total/87 max, no gaps.
+- **`people/kjell-karlsson.md`** — new "Sailing grounds, and a
+  Baltic-states dream" contribution bullet, cross-linking the section
+  above. Cite [58], 58 total/58 max, no gaps.
+- **`people/david-beard.md`** — new "On Paradox's shallow-draft appeal"
+  contribution paragraph, cross-linking the section above. Cite [249], 249
+  total/249 max, no gaps.
+- **`operations/running-lights.md`** — extended the existing "Routing
+  masthead-light wiring outside the mast, below the sheave" section with
+  Glen Maxwell's bottom-of-mast routing (flex brought out under deck
+  level to a plug just under the forward port deck). Cite [38], 38
+  total/38 max, no gaps.
+- **`people/bill-serjeant.md`** — two additions: a masthead-wiring
+  cross-link paragraph, and a new "boat name" paragraph recording his
+  ~80-name shortlist request (name not yet settled in the archive). Cites
+  [23]-[24], 24 total/24 max, no gaps.
+
+NOT added to the tree per the pruning rubric: the full 80-name list itself
+(a representative sample is kept; the complete list adds no durable
+knowledge beyond the fact of the request). New Open backlog items: John
+Larson (below-threshold newcomer, Chicago, no reply recorded) and Bill
+Serjeant's still-open boat-naming thread (watch for the group's
+suggestions or his eventual choice). Correspondents this batch: Glen C.
+Maxwell, Kjell Karlsson, David Beard, John Larson (new), William/Bill
+Serjeant — all confirmed via header against their standing identities, no
+conflation risk (David Beard not confused with David LeBlanc). No
+existing Open item's trigger condition fired. msgnum run 3202-3211
+confirmed distinct and consecutive continuing from batch 317's last
+msgnum 3201; all ten byte sizes matched the dispatch table exactly, no
+same-size pair flagged. Archive timeline reached 20 September-8 October
+2005. Anchor checker: 0 broken. Cursor set to 3180.
+
 ## 2026-07-06 (batch 317: page_3161-page_3170)
 
 **Kjell Karlsson's "BRIS Paradox" sails for the first time in 21 years —

@@ -261,6 +261,13 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
   boom/yard just clear of full hoist height. See [the "BRIS Paradox" —
   first sail, and a topping-lift solution to heavy
   hoisting/reefing](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
+- **Sailing grounds, and a Baltic-states dream.** Sails out of the
+  Stockholm archipelago, where the BRIS Paradox's shallow draft opens up
+  grounds his previous, deeper-draft boat could not reach; named a
+  long-held ambition to sail to the Baltic states, particularly Estonia.
+  See [the "BRIS Paradox" — sailing grounds: the Stockholm archipelago, and
+  a Baltic-states
+  dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 
 # Citations
 
@@ -321,3 +328,4 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [55] Archive message page_3030 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3061, 2005-08-04) — "Paraplastic update?": asks Kjell whether he has launched yet, recalling his earlier "Springfever" photos looked close to completion. Answered the following month — see [56].
 [56] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
 [57] Archive messages page_3161/page_3170 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3192, 2005-09-19, "paraplastic sails"; and msgnum 3201, 2005-09-20, "paraplastic report"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
+[58] Archive messages page_3172/page_3175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3203, 2005-09-21, "New pics"; and msgnum 3206, 2005-09-22, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
