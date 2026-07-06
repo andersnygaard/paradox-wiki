@@ -133,9 +133,10 @@ solo Little Cruiser delivery cruise.[9] Photographs from the Bolducs' own
 Bahamas cruising in Matt's company show her aboard Paradox as well, not only
 the Balboa 20: Karen and Matt sailing together in the Bahamas, and Matt and
 Karen sailing Paradox in Georgetown.[14][15] Years later, sailing Matt's
-experimental [Mini Paradox](/matt-layden/mini-paradox.md) two-up alongside
-him, Karen gave her own verdict on the little boat, relayed secondhand by
-Glen Maxwell: she "sails like a witch."
+2005 [Enigma](/matt-layden/enigma.md) — the boat then discussed on the list
+under the working name **"Mini Paradox"** — two-up
+alongside him, Karen gave her own verdict on the little boat, relayed
+secondhand by Glen Maxwell: she "sails like a witch."
 
 Whether there is room for two aboard a Layden boat at all has a firsthand
 answer, from the Bolducs' own time cruising in company with Matt in the
@@ -405,16 +406,18 @@ reached final plans, and no drawing, dimension, or description of it survives
 anywhere else (see
 [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar)
 and [stretched Paradox](/design/variants/stretched-paradox.md) for the
-broader enlargement discussion it connects to).[41] **"Mini Paradox"**, by
-contrast, is real, built, and sailed: a narrower, higher-aspect-sail
-experimental variant, with its chine runners repositioned, that Matt built
-and sailed himself, with Karen aboard (above) — consistent with his standing
-practice of never releasing plans for a boat he has not personally built and
-sailed enough to confirm it meets his intentions. Its construction is
-documented only on his brother's website. Full page:
-[Mini Paradox](/matt-layden/mini-paradox.md). A **"Lugger #2"** is also
+broader enlargement discussion it connects to).[41] A **"Lugger #2"** is also
 mentioned once, in a Yrvind-book translation, understood to be a larger
 Swamp Thing — no image or independent confirmation of it exists.
+
+A third name, **"Mini Paradox,"** turns out not to denote a separate boat at
+all: it was the informal name the paradoxbuilders list used through 2005 for
+[Enigma](/matt-layden/enigma.md) while she was under construction — the same
+boat under her working name, its chine runners "repositioned" only relative to
+a stock Paradox. Its construction is documented in first-person build logs on
+[his brother Andrew Layden's website](/references/andrew-layden-website.md); the
+full account is at
+[Enigma — the "Mini Paradox" working name](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion).
 
 # The man himself
 

@@ -45,6 +45,74 @@ boats:
   subsequently fitted with a similar dodger, presumably during her later
   restoration under Dave Bolduc.
 
+## The "Mini Paradox" working name and the 2005 construction-era discussion
+
+While Enigma was under construction in the first half of 2005, builders on the
+[paradoxbuilders list](/references/mailing-list.md) discussed the new boat under
+the informal name **"Mini Paradox,"** working from the construction photographs
+on [Andrew Layden's website](/references/andrew-layden-website.md) (Matt's
+brother's site). That name appears **nowhere** in the Bolducs'
+[microcruising.com](/references/microcruising-website.md) record — the
+authoritative source on Matt's designs — which documents the **same 2005 boat**
+(same year, same **"V" bottom at the bow**, the same brother's-site construction
+photographs, and the same **"shorter and wider" chine runners**) only as
+**Enigma**. On the weight of that convergent evidence, "Mini Paradox" and Enigma
+are **the same boat**: it was the list's working name during the build, before
+the Enigma name was settled. No single source states the equation outright, but
+nothing in the record describes two different 2005 boats, and every distinctive
+detail lines up.[5][6][13][14]
+
+That 2005 discussion — largely prompted by how hard the runners were to make out
+in the photographs — is the fullest contemporary account of the boat and the
+[chine-runner](/chine-runners/how-they-work.md) thinking behind her, most of it
+from [Glen C. Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md), who
+sailed her:
+
+- **Chine runners, present but easy to miss.** They are there, just hard to see
+  in the photos; Glen, who saw the boat in person, confirmed it against a
+  suggestion the hull might not float deep enough for them to work.[13][14]
+- **Runner placement.** They **start farther aft and end a little farther
+  forward** than a stock Paradox's, and are shorter — a real placement
+  difference, which Glen attributed to **end-plate effect** rather than the
+  curvature of the chine.[15][16][22] Curvature is a weak candidate mechanism in any
+  case: a boat's continual pitching constantly changes the curvature's
+  orientation relative to its motion. There is "some" curvature in the runners
+  but not much, leaving open whether it is functionally essential, an incidental
+  result of following the chine to match the hull bottom, or a secondary
+  hull-stiffening feature — the same open question recorded for stock Paradox
+  runners (see [how chine runners work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature)).[17][20][21]
+- **A higher-aspect-ratio sail experiment.** Her sail is **shorter but wider**
+  than the stock Paradox rig, used by Matt to explore the effect of aspect
+  ratio; no sail dimensions are on record.[14]
+- **Handling and accommodation.** Sailed two-up with Matt and his wife
+  **Karen**, she **"sails like a witch"** and is **very roomy for her size**
+  below (no interior photographs are on record).[14][25] Her speed was credited
+  mainly to being sailed by someone who knows
+  how to sail a small sharpie well and to her light weight — a photo-based
+  estimate of **~130 lb** for the bare hull (consistent with her 180 lb empty
+  weight above), giving an all-up displacement with crew under a third of stock
+  Paradox's, and a sail-area-to-displacement ratio thought better than
+  Paradox's — rather than to the slight **V tortured into the bottom at the
+  bow**.[21][23][24]
+- **A chine runner as keel extension.** The runners sit along the chine much as
+  a **low-aspect-ratio keel** is fitted to a centerline — ending abruptly aft
+  and fairing into the chine forward — and their area **should be counted as a
+  keel extension** when figuring a boat's center of lateral plane: adding the
+  runners' profile to the chine curve and computing lateral resistance from the
+  combined profile "would be real close."[24][26]
+- **Extending the idea to a catamaran.** Chine runners belong only on the
+  **outboard** side of each hull, not both sides of both: a sailing cat rarely
+  sits level, so an inner-hull runner would ride in surface turbulence and the
+  other hull's bow wake. Better to size the outboard runners larger, placing
+  them by the boat's average heel angle — akin to the molded keel-form
+  appendages on some beach-cat hulls, which give leeway resistance without a
+  moving board's vulnerability.[17][18][19]
+- **The modeling software.** The 3D renderings Matt posted of her were produced
+  in **Rhino 3D**, a NURBS CAD package that handles chine and smooth hulls and
+  accepts **RhinoMarine** (Proteus Engineering, makers of the NURBS marine
+  package **FastShip**) for hydrodynamic analysis — though the machine that made
+  the published screen grabs was not running RhinoMarine.[27][28]
+
 ## Design particulars
 
 | Particular | Metric | Imperial |
@@ -95,7 +163,12 @@ cabin of the original — was being finished as of the source site's 24 August
 The Enigma page links out to an external construction-photo page at
 `physics.bgsu.edu/~layden/...`. This is a construction-photo page only; it is
 not evidence of any university or physics-department affiliation for Matt
-Layden, which has not been independently confirmed.
+Layden, which has not been independently confirmed. The `~layden` page is in
+fact hosted on the personal BGSU homepage of Matt's brother, astronomer
+**Andrew Layden** — the physics-department affiliation is his, not Matt's (see
+[Andrew Layden's BGSU website](/references/andrew-layden-website.md)); the page
+it links, `matts_boat2005.htm`, is Andy's own Feb–Apr 2005 build log of the
+boat he later names "Enigma."
 
 ## The Enigma family: the 360 and the plywood-cabin 460
 
@@ -210,3 +283,23 @@ chine runners work](/chine-runners/how-they-work.md)).[11]
 [10] Dave's Wiki (aiki.pbworks.com) — "Enigma sailboat" (https://aiki.pbworks.com/w/page/1594388/Enigma%20sailboat), Dave Raftery — Paradox/Enigma-360/Enigma-460 comparison table; light-displacement Enigma "relies on her crew's weight as ballast… she could even plane"; George Van Sickle sitting-headroom quote; chine runners a "new shorter and deeper shape," "evolved into higher-aspect foils… an improvement over Paradox's runners"; Sven Yrvind quote crediting Matt with creating the chinerunner concept "in 1982"; Matt Layden's 5 April 2006 note and Don Elliott's 20 April 2006 relay that Enigma construction plans were being prepared.
 [11] *Small Craft Advisor*, May 2007 — "Enigma — The Matt Layden Interview" (interview and photo by Steve Isaac), Matt Layden — the May 2007 *Small Craft Advisor* interview, titled "Enigma," is very likely the article Matt announced in April 2006 he was "working on… with a fairly detailed description of Enigma and her origins"; the (partially scanned) piece gives Matt's fullest first-person account of the chine-runner / lifting-body system shared by Enigma and Paradox (see [chine-runners/how-they-work.md](/chine-runners/how-they-work.md)). Local scan: `source-articles/interviews/small-craft-advisor/enigma-matt-layden-interview/`.
 [12] Doug Cameron, "Matt Layden — A Profile" (*Small Craft Advisor* May/June 2009; also `capt-doug.blogspot.com`, 2009-04-22) — describes Enigma as "the next iteration of the Paradox line, but shorter and lighter and capable of being transported on a car top," which Matt used to "lead most of the WaterTribe Ultimate Florida Challenge," and credits him with breaking his own 2003 solo Everglades Challenge record "in Enigma in 2006." Local copy: `source-articles/interviews/small-craft-advisor/matt-layden-profile/`.
+The following sixteen messages are the June 2005 `paradoxbuilders` "Mini
+Paradox" thread — the list's construction-era discussion of this boat under her
+working name (see [The "Mini Paradox" working name](#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)):
+
+[13] Archive message page_2758 (daved / "jackefroste" / Daved Ferrell, `paradoxbuilders`, msgnum 2789, 2005-06-09) — "Mini Paradox": looking at the mini paradox photographs, asks whether chine runners are absent from this model, speculating the hull might not sit deep enough in the water for them to be effective. Establishes the "Mini Paradox" name in use on the list during the 2005 build. Signed "Daved."
+[14] Archive message page_2760 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2791, 2005-06-09) — "Re: Mini Paradox": confirms the chine runners are present, just hard to see in the photos; the sail is a little shorter but wider than on Paradox, Matt exploring the effect of a higher aspect ratio; reports she "sails like a witch" with Matt and his wife Karen aboard, and is very roomy inside for her size, regretting he has no interior photos. The "shorter and wider" runner description matches microcruising.com's Enigma description [6]. Signed "Glen."
+[15] Archive message page_2761 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2792, 2005-06-09) — "Re: Mini Paradox": asks Glen Maxwell whether Mini Paradox's chine runners start further aft than on a stock Paradox, whether they end short of the transom, and whether either detail bears on the theory that the runners work because of the chine's curvature. Signed "Ray."
+[16] Archive message page_2774 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2805, 2005-06-10) — "Re: Mini Paradox": answers Ray directly — the runners start farther aft and end a little farther forward than on a stock Paradox; does not think chine curvature is the mechanism, attributing the effect instead to end-plate effect. Signed "Glen."
+[17] Archive message page_2775 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2806, 2005-06-10) — "Re: Mini Paradox": agrees chine curvature likely has little to do with the effect, since pitching would constantly alter the curvature's orientation relative to the boat's motion; points to the Bolducs' `microcruising.com` site's "Latest News" section, which links to a page on building the Mini Paradox showing the chine-runner details clearly; separately asks whether Glen, experimenting with a catamaran and chine runners, would fit them to both sides of both hulls. Signed "Ray."
+[18] Archive message page_2776 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2807, 2005-06-10) — "Re: Mini Paradox": answers Ray's catamaran hypothetical — doubts a useful level of resistance efficiency from runners on a cat hull's inner surfaces, since a sailing cat rarely sits level and the unweighted hull's inner runners would sit in surface turbulence and the other hull's bow wake; recommends sizing the outboard runners larger instead to compensate; runner placement should follow a calculation of the boat's average heel angle to suit the widest part of the operational heel curve; likens the concept to the molded keel-form appendages seen on some beach catamaran hulls, which serve the same leeway-resistance role while avoiding a moving board's vulnerability; judges a canted-hull design using such a surface could retain full interior volume without a board or trunk. Signed "Chris."
+[19] Archive message page_2777 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2808, 2005-06-10) — "Re: Mini Paradox": answers Ray's catamaran question directly — "No only the outboard side." Signed "Glen."
+[20] Archive message page_2779 (Johndhall / "jdmhall" / John Hall, `paradoxbuilders`, msgnum 2810, 2005-06-11) — "Subject: RE: Re: Mini Paradox": working from the Bolducs' `microcruising.com` construction photographs, describes the chine runners as appearing to follow the curve of the hull side and bottom, "sea of peas" again; points to a second page on the same site showing the finished Mini Paradox being car-topped. Signed "John Hall, 41.5 South 147.1 East."
+[21] Archive message page_2780 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2811, 2005-06-11) — "Subject: RE: Re: Mini Paradox": agrees with John Hall that there is some curvature, though not a lot, and remains unsure whether it is essential, an incidental result of following the chine to match the hull bottom, or a secondary strengthening feature; asks Glen Maxwell separately whether any of Mini Paradox's speed came from the slight V-shape tortured into the bottom at the bow, recalling Matt Layden's dislike of stitch-and-glue construction generally while allowing that shape may have been easier to form that way. Signed "Ray."
+[22] Archive message page_2781 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2812, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": thanks John Hall for the two links to Matt's brother's website, quoting the prior exchange (runner placement/end-plate-effect answer and John Hall's chine-curve/car-topping report) in full. Signed "Glen."
+[23] Archive message page_2782 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2813, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": answers Ray's V-shaped-bow question — not sure, but thinks it more likely that Mini Paradox's speed comes mostly from being sailed by someone who really knows how to sail a small sharpie, and from the boat being very light; does not know her sail-area-to-displacement ratio but would bet it is better than Paradox's; had hoped to sail against Matt to compare performance directly, but the two were always on opposite sides of the outlying islands. Signed "Glen."
+[24] Archive message page_2785 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 2815, 2005-06-10) — "Subject: RE: Re: Mini Paradox": estimates, if the boat weighs about 130 lb, adding 250 lb for crew gives roughly 400 lb all up — less than a third of Paradox's own displacement — consistent with Glen's "very light" answer; observes from photographs that the runners are placed along the chine much as a low-aspect-ratio keel might be fitted to a hull, ending abruptly at the aft edge while fairing into the chine forward, and wonders whether runner area should be treated as a keel extension when figuring a boat's center of lateral plane; separately reports having finally ordered the Paradox plans. Signed "Ray."
+[25] Archive message page_2789 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2819, 2005-06-11) — "Re: Paradoxbuilders2 group": apologizes for having taken no close-up or interior photographs of Mini Paradox; reports Matt Layden may draw up plans if interest continues and the boat proves out, but will not release plans for a boat he has not personally built and sailed enough to confirm meets his intentions; interest so far has been strong and Matt is pleased with her performance; points to his brother's website, `physics.bgsu.edu/~layden`, which documents the complete building process. Signed "Glen."
+[26] Archive message page_2794 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2825, 2005-06-11) — "Re: Subject: RE: Re: Mini Paradox": answers Ray's center-of-lateral-plane question — yes, the runner area should be treated as a keel extension; adding the runners' profile to the bottom of the chine curve and computing lateral resistance from the resulting profile "would be real close." Signed "Glen."
+[27] Archive message page_2824 (LJGeib / "Larry" / Larry Whited, `paradoxbuilders`, msgnum 2855, 2005-06-14) — "What software is Matt using?": looking at Matt Layden's brother's mini-Paradox website, asks whether anyone recognizes the 3D modeling software shown in the posted JPEGs. Signed "Larry."
+[28] Archive message page_2825 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2856, 2005-06-14) — "Re: What software is Matt using?": identifies it as Rhino 3D — the same program he uses himself — noting it handles chine or smooth-hulled boats and accepts plugins for full hydrodynamic analysis from RhinoMarine (Proteus Engineering, also makers of the NURBS-based FastShip); the specific computer that produced the screen grabs was not running RhinoMarine. Signed "Chris."

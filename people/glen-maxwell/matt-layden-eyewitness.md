@@ -226,23 +226,26 @@ approaching a sail order or sewing their own. See
 the same time, yielded a **continuous-halyard/furling-line** refinement. See
 [design/furling-system.md](/design/furling-system.md).
 
-## Sailing aboard Matt Layden's experimental "Mini Paradox"
+## Sailing aboard Enigma (Matt Layden's "Mini Paradox")
 
-Matt's narrower, experimental **"Mini Paradox"** variant does carry chine
-runners, though they are hard to see in photographs — confirmed firsthand from
-sailing aboard her alongside Matt and his wife Karen, who reported she "sails
-like a witch" two-up and is very roomy inside for her size. Her runners sit
-farther aft and end farther forward than on a stock Paradox, with their effect
-attributed to end-plate effect rather than the chine's curvature; on a
-hypothetical catamaran, chine runners would be fitted only to the outboard
-side of each hull. Mini Paradox's own speed is credited mainly to being sailed
-by someone who knows small sharpies well and to her very light weight
-(estimated at 130 lb, under a third of Paradox's crewed displacement), rather
-than to the slight V tortured into her bow. Matt Layden has not committed to
-drawing plans for her, consistent with his standing practice of not releasing
-plans for a boat he has not personally built and sailed enough to confirm
-meets his intentions. See [Mini Paradox](/matt-layden/mini-paradox.md) for the
-full record of this variant.
+The 2005 boat the paradoxbuilders list discussed under the working name
+**"Mini Paradox"** is [Matt Layden](/matt-layden/biography.md)'s
+[Enigma](/matt-layden/enigma.md), not a separate design — microcruising.com, the
+authority on Matt's boats, documents the same 2005 boat only as Enigma. She
+does carry chine runners, though they are hard to see in photographs — confirmed
+firsthand from sailing aboard her alongside Matt and his wife Karen, who
+reported she "sails like a witch" two-up and is very roomy inside for her size.
+Her runners sit farther aft and end farther forward than on a stock Paradox,
+with their effect attributed to end-plate effect rather than the chine's
+curvature; on a hypothetical catamaran, chine runners would be fitted only to
+the outboard side of each hull. Her speed is credited mainly to being sailed
+by someone who knows small sharpies well and to her very light weight (a
+photo-based estimate of 130 lb, under a third of Paradox's crewed displacement),
+rather than to the slight V tortured into her bow. As of mid-2005 Matt had not
+committed to drawing plans for her, consistent with his standing practice of not
+releasing plans for a boat he has not personally built and sailed enough to
+confirm meets his intentions. See [Enigma — the "Mini Paradox" working name](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)
+for the full record.
 
 ## A recalled archive report of ballasting the mast to damp roll, later traced
 
@@ -310,13 +313,13 @@ question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[48]
 [36] Archive message page_2531 (arvent / "Nels", `paradoxbuilders`, msgnum 2559, 2005-01-16) — "Re: Hogfish Maximus": answers Aaron Edelman — the tinyurl link covers only hull comparisons with Paradox and has no "Hogfish Maximus" content; points instead to the Files folder's "Larger Paradox" folder and its "comp" file, plus three photographs in a dedicated "Hogfish Maximus" folder.
 [37] Archive message page_2533 (kiwival / "bolger1900" / Aaron Edelman, `paradoxbuilders`, msgnum 2561, 2005-01-16) — "Re: re.Hogfish maximus": thanks Nels for guiding him to the right spot; asks whether "Hogfish Maximus" is a Bolger design or, if not, who designed her.
 [38] Archive message page_2534 (ifida / "Glen C. Mxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 2562, 2005-01-17) — "Re: re.Hogfish maximus": answers Aaron Edelman — "Hogfish Maximus" was designed and built by Chris Morejohn.
-[39] Archive message page_2760 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2791, 2005-06-09) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); confirms chine runners present but hard to see in photos, reports sailing aboard with Matt and his wife Karen, "sails like a witch," roomy inside.
+[39] Archive message page_2760 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2791, 2005-06-09) — "Re: Mini Paradox": full text and citation at [matt-layden/enigma.md](/matt-layden/enigma.md); confirms chine runners present but hard to see in photos, reports sailing aboard with Matt and his wife Karen, "sails like a witch," roomy inside.
 [40] Archive message page_2772 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2803, 2005-06-10) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); recalls an archive report of adding mast weight to ease roll, cannot relocate it; has never had roll problems himself.
 [41] Archive message page_2773 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2804, 2005-06-10) — "Re: Mk2 sail": full text and citation at [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft); has never seen a Paradox sail, or any other sail, without luff tape.
-[42] Archive message page_2774 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2805, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); confirms runner placement differs from stock (farther aft, ending farther forward), attributes the effect to end-plate effect rather than chine curvature.
-[43] Archive message page_2777 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2808, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); answers a catamaran chine-runner hypothetical — only the outboard side of each hull.
+[42] Archive message page_2774 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2805, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/enigma.md](/matt-layden/enigma.md); confirms runner placement differs from stock (farther aft, ending farther forward), attributes the effect to end-plate effect rather than chine curvature.
+[43] Archive message page_2777 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2808, 2005-06-10) — "Re: Mini Paradox": full text and citation at [matt-layden/enigma.md](/matt-layden/enigma.md); answers a catamaran chine-runner hypothetical — only the outboard side of each hull.
 [44] Archive message page_2784 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 2815, 2005-06-10) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); traces the recalled mast-weight/roll report to a January 2004 exchange between DC and Glen Maxwell about a composite mast.
 [45] Archive message page_2790 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2821, 2005-06-11) — "Re: Scale mockup of wind genny and radar on Paradox": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs); "Keeping weight aloft down is ALWAYS a good thing."
-[46] Archive message page_2782 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2813, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": full text and citation at [matt-layden/mini-paradox.md](/matt-layden/mini-paradox.md); credits Mini Paradox's speed mainly to sailing skill and light weight rather than hull shape.
+[46] Archive message page_2782 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2813, 2005-06-10) — "Re: Subject: RE: Re: Mini Paradox": full text and citation at [matt-layden/enigma.md](/matt-layden/enigma.md); credits Mini Paradox's speed mainly to sailing skill and light weight rather than hull shape.
 [47] Archive message page_2793 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2824, 2005-06-11) — "Re: Mk2 sail": full text and citation at [construction/sailmaking.md](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft); measured his own Dabbler Sails sail — luff tape is 1 in or 2 in folded in half over the luff.
 [48] Archive message page_2804 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2835, 2005-06-13) — "Re: Mk2 Sail and halyard": full text and citation at [design/rig.md](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question); can't recall the dimension but confirms it's on the plans.

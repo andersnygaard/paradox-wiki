@@ -1,5 +1,36 @@
 # Bundle Update Log
 
+## 2026-07-05 (user-directed: Andrew Layden site ingested; Mini Paradox = Enigma, page merged & deleted)
+
+**Ingested Andy Layden's BGSU site** as a new Reference concept
+`references/andrew-layden-website.md` (linked from `references/index.md`), with
+back-links from `matt-layden/{enigma,mini-paradox,biography}.md`. Documents the
+brother relationship (Andy's own words), the first-person build logs (a second
+source of Matt's own voice beyond the one mailing-list post), and what the
+construction photos teach (Rhino 3D confirmed on screen; chine-runner build
+photographed; stitch-and-glue sequence; finished Enigma with fold-down soft
+cabin; grey Rob Roy-oid).
+
+**User adjudication — "Mini Paradox" is not a separate boat:** it was the
+`paradoxbuilders` list's informal 2005 working name for **Enigma** during her
+construction. microcruising.com (the authority on Matt's designs) documents the
+same 2005 boat only as Enigma and never uses "Mini Paradox"; convergent primary
+detail confirms it (same year, "V" bottom at the bow, "shorter and wider" chine
+runners, cartop-light, sailed two-up by Matt + Karen, same brother's-site build
+photos).
+
+- **Deleted `matt-layden/mini-paradox.md`.** Its full content and all 16 archive
+  citations (the June 2005 "Mini Paradox" thread, page_2758–page_2825) were
+  folded into `matt-layden/enigma.md` under a new section, "The 'Mini Paradox'
+  working name and the 2005 construction-era discussion" (citations [13]–[28]).
+- **Repointed every inbound link** off the deleted page: `matt-layden/index.md`
+  (dropped the Mini Paradox design bullet; noted the alias on the Enigma bullet),
+  `matt-layden/biography.md` (2 spots), `references/andrew-layden-website.md`
+  (2 links), `people/glen-maxwell/matt-layden-eyewitness.md` (section reframed to
+  "Sailing aboard Enigma (Matt Layden's 'Mini Paradox')" + 4 citation pointers).
+  Historical batch-narration links to `mini-paradox.md` earlier in this log are
+  left as-is (they record the file as it existed then).
+
 ## 2026-07-05 (holistic review @ 3000 — FP5: Register + mechanical link sweep)
 
 **Fifth of six fix passes from the holistic review triggered at cursor
