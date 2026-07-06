@@ -252,6 +252,15 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
   with a leftover bronze cladding rather than the lead insert he had hoped
   for. See [the "BRIS Paradox" — first launch, and a rudder that would not
   stay down](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
+- **First sail, and a topping-lift fix for heavy hoisting.** Sailed for the
+  first time in 21 years, single-handed on a nearby lake, loaded with the
+  bronze bottom sheet, a battery, and loose scrap lead as ballast — stiff
+  and stable even riding above her designed waterline. Traced a "much too
+  heavy" hoisting/reefing feel to having omitted a topping lift at the
+  mast-building stage, fixed with two fixed lift lines set to keep the
+  boom/yard just clear of full hoist height. See [the "BRIS Paradox" —
+  first sail, and a topping-lift solution to heavy
+  hoisting/reefing](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
 
 # Citations
 
@@ -311,3 +320,4 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [54] Archive message page_2702 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2732, 2005-05-28) — "2 pics 2 questions": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates), [operations/running-lights.md](/operations/running-lights.md#solar-panel-cable-entrance-through-the-deck-or-window), and [design/rig.md](/design/rig.md#why-the-masthead-halyard-hole-sits-aft-of-the-mast-twisting-the-halyard-a-quarter-turn).
 [55] Archive message page_3030 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3061, 2005-08-04) — "Paraplastic update?": asks Kjell whether he has launched yet, recalling his earlier "Springfever" photos looked close to completion. Answered the following month — see [56].
 [56] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
+[57] Archive messages page_3161/page_3170 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3192, 2005-09-19, "paraplastic sails"; and msgnum 3201, 2005-09-20, "paraplastic report"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).

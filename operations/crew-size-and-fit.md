@@ -558,6 +558,22 @@ sleeping, and still allows ready access to the lazarette — floating (with a
 nod to Uffa Fox's horse's saddle, once fitted as a helmsman's seat on one of
 his own boats) a bicycle saddle as a lighter-hearted alternative.[98][99]
 
+Picking up the bicycle-saddle idea, **Derek Clark** pointed to the most
+comfortable bicycle seat he had encountered — the Dursley Pedersen's, a
+hammock-like seat sat astride rather than perched on — and proposed a
+similar arrangement stretched athwartships as a Paradox seat: fabric slung
+under tension, adjustable in both tension and position, doubling as back
+support.[100] **Jack Gardiner** raised a practical objection from his own
+varied-cushion practice: a swinging hammock-type seat works against getting
+the boat's center of gravity down quickly when a powerboat wake or a good
+sized wave hits, since a suspended sitter cannot brace low the way a fixed
+cushion allows — a consideration that depends on how and where the boat is
+used. His own rotation of throw pillows and strapped or overstuffed marine
+cushions, chosen to suit whatever seating arrangement the moment calls for,
+also incorporates a raised radio: a roughly 16 in tall work radio, powered
+by its own charging batteries, mounted in an aluminum tubular frame with a
+cushion set on top, used for a better view while motoring.[101]
+
 ## Interior-beam geometry, Paradox vs. Enigma 460 (Dave's Wiki)
 
 [Dave Raftery](/references/daves-wiki.md)'s wiki works through the *usable*
@@ -643,3 +659,5 @@ inside the cabin — the same removable-rear-window idea seen on
 [97] Archive message page_3160 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 3191, 2005-09-19) — "Re: Seat Cushion": has used a soft Airex closed-cell foam seat cushion for years aboard Little Cruiser, originally bought from Defender Industries; likens it to a denser memory foam; Defender no longer carries that product but Airex foam remains available from specialty suppliers (citing bobsfoam.com); links photos of the cushion. Signed "Dave."
 [98] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": proposes the group collaborate on a proper stowable seat design for Paradox, citing Hugh Horton's adjustable canoe seat (variable height and horizontal position, adjustable backrest, reportedly comfortable for hours without numbness) as a model; specifies a "quintessential" seat should rotate and lock in any position, adjust for height and inclination, be variably fixable athwartships, support the back well, and still allow ready access to the lazarette. Signed "Bill."
 [99] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": notes Uffa Fox once fitted a horse's saddle as a helmsman's seat on one of his boats, calling it the most comfortable he ever sat on, though not practical for Paradox; floats a bicycle saddle as a lighter alternative. Signed "Bill."
+[100] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": the most comfortable bicycle seat he has seen was on a Dursley Pedersen, essentially a hammock sat astride; proposes a similar arrangement stretched athwartships to provide back support, adjustable in tension and position. Signed "Derek."
+[101] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": uses various cushions (throw pillows, strapped marine-type, overstuffed) and constantly changes seating arrangements; had also contemplated a swinging hammock-type seat, but the problem is getting the boat's center of gravity down quickly on a passing powerboat wake or a good-sized wave, which depends greatly on how and where the boat is used; keeps a roughly 16 in tall work radio (running on its own charging batteries) in an aluminum tubular frame, using it with a cushion on top for a better view while motoring. Signed "Jack."

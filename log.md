@@ -1,5 +1,80 @@
 # Bundle Update Log
 
+## 2026-07-06 (batch 317: page_3161-page_3170)
+
+**Kjell Karlsson's "BRIS Paradox" sails for the first time in 21 years —
+a light-air, single-handed trial that revealed a much-too-heavy
+hoisting/reefing feel, traced to a topping lift never fitted at the
+mast-building stage and fixed with two duct-taped fixed lift lines; the
+group's warm (and briefly duplicated) congratulations followed. Separately,
+the "Quintessential Seat" thread drew its first two substantive replies:
+Derek Clark's Dursley-Pedersen-style athwartships hammock-seat idea, and
+Jack Gardiner's practical objection (a hammock seat fights getting the
+boat's center of gravity down fast in a wake or wave) plus his own
+cushion-and-radio-seat practice.** No new person or boat pages created this
+batch; one boat page gained two new sections, four person pages gained
+short cross-link updates, one operations page was extended. Derek Clark's
+"How I envy you!" reply to Kjell (page_3165/msgnum 3196 and
+page_3166/msgnum 3197) was posted twice in immediate succession under
+distinct Message-IDs — confirmed a genuine accidental duplicate post by
+Derek himself, not a stale/duplicate read, and noted tersely in the
+citation per the duplicate-post-forensics rule.
+
+- **`boats/bris-paradox.md`** — two new sections: "First sail, and a
+  topping-lift solution to heavy hoisting/reefing" (the sailing trial's
+  ballast/heeling data, the halyard-attachment and rudder-cladding
+  follow-up, and the topping-lift fix, including Sven Yrvind's and Matt
+  Layden's own non-answer to the "is hoisting too heavy?" question) and
+  "First-sail congratulations, and a shared assumption about yuloh
+  technique" (the group's replies, plus Alastair's yuloh-technique aside).
+  Cites [77]-[82], 82 total/82 max, no gaps.
+- **`people/kjell-karlsson.md`** — new "First sail, and a topping-lift fix
+  for heavy hoisting" contribution bullet, cross-linking the section above.
+  Cite [57], 57 total/57 max, no gaps.
+- **`operations/crew-size-and-fit.md`** — extended the existing
+  "Long-passage seat comfort: cushion practice" section with Derek Clark's
+  hammock-seat idea and Jack Gardiner's center-of-gravity objection plus his
+  cushion/radio-seat practice. Cites [100]-[101], 67 total-lines/101
+  numeric max (pre-existing [54]-[87] gap preserved exactly).
+- **`people/derek-clark.md`** — one-line cross-link addition to "Other
+  contributions" for the hammock-seat idea. Cite [15], 15 total/15 max, no
+  gaps.
+- **`people/jack-gardiner.md`** — new cross-link paragraph under
+  "Contributions" for his seat-comfort objection and cushion practice. Cite
+  [194], 193 total-lines/194 numeric max (pre-existing +1 gap preserved).
+
+Not added to the tree per the pruning rubric: Björn Harbo's and Glen
+Maxwell's one-line congratulatory replies to Kjell's first sail (captured
+only via the boat-page citation, no standalone content); Alastair's own
+congratulatory reply (captured the same way).
+
+Correspondents seen: Kjell Karlsson (`gilljam.karlsson`/`kjellkkk`, 2
+messages as author), Björn Harbo (`bharbo`/`bjharbo`, 1 message, off-topic
+congratulations, pre-existing standing identity, no page), Alastair
+(`openboat`/`alopenboat`, 1 message), Glen C. Maxwell (`ifida`/`ifida2000`,
+1 message), Derek Clark (`dclark`/`dclark52001`, 3 messages as author,
+including the confirmed accidental duplicate), Jack Gardiner
+(`alex29`/`tidybowlmann`, posting as "John Gardiner," 2 messages). No new
+person or boat pages created. No new below-threshold correspondents. No
+Open backlog item's trigger condition was satisfied by these ten pages
+(chalcid_1's and Dave Wright's dormant promotion triggers checked, both
+still dormant; Jeff-UK vs. `doryman_uk`, botebilder/Ernie Fossel, Jason
+Stancil reconcile, below-threshold Larry/`newspipetr3`, and the full
+below-threshold watch-list all checked, none resurfaced). Attribution
+checks clean: Kjell Karlsson, Björn Harbo, Alastair, Glen Maxwell, Derek
+Clark, and Jack Gardiner ("John Gardiner") all confirmed via headers
+against their standing identities; William/Bill Serjeant did not post this
+batch (quoted only, in the "Quintessential Seat" reply chain), correctly
+not conflated with the two Serjeant Yahoo handles' history. msgnum run
+3192-3193-3194-3195-3196-3197-3198-3199-3200-3201 confirmed distinct and
+fully consecutive continuing from batch 316's last msgnum 3191; the
+flagged same-byte-size pair (page_3165/page_3166, both 1509 bytes)
+confirmed via direct `diff` to be genuinely distinct content (different
+Message-ID, different msgnum, different `Received` timestamps — Derek
+Clark's own accidental repost, not a stale read). All ten byte sizes
+matched the dispatch table exactly. Archive timeline reached 19-20
+September 2005. Anchor checker: 0 broken. Cursor set to 3170.
+
 ## 2026-07-06 (batch 316: page_3151-page_3160)
 
 **The "Seat Cushion" thread reaches its substantive conclusion: Alastair's

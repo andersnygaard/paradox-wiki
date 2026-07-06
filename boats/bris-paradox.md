@@ -741,6 +741,52 @@ needed. He ended up cladding the rudder's lower section in the bronze
 sheet left over from the hull's chine-runner-and-ballast plate as a interim
 fix.[76]
 
+## First sail, and a topping-lift solution to heavy hoisting/reefing
+
+The BRIS Paradox's **first actual sail** came in a nearby small lake, after a
+first-launch gap of some four months, and after 21 years without Kjell
+himself having sailed anything at all — "such a long time since I sailed
+last... so I don't really know what I expected." Conditions were light, 6-7
+m/s, sailed single-handed with no photos taken.[77]
+
+Loaded for the trial with the bronze bottom sheet (70 kg), a battery (31 kg),
+77 kg of scrap lead carried loose in plastic bags, and Kjell's own 77 kg, the
+boat was noticeably stiff — heeling was "not bothersome," even floating well
+above her designed waterline. Moving the sail/yard's halyard attachment point
+by about 40 cm between the two trial rigging attempts appeared to affect
+tacking performance, along with an irritating wrinkle at the sail's aft top
+corner; both remained open questions after only two data points. The
+rudder's interim bronze cladding (see above) held up at 4.1 kg added weight,
+judged adequate, though shaping a curved bronze strip along its edge proved
+difficult, and the boat's rudder was left thicker than the plans' NACA
+foil profile as a result.[77]
+
+Hoisting and reefing felt "much too heavy" on repeated dry-land trials, a
+problem Kjell traced to omitting a **topping lift** at the mast-building
+stage years earlier, on the reasoning he would not need one. Consulting
+[Sven Yrvind](/people/yrvind.md) about it drew a blank — Yrvind, who sailed
+Matt Layden's own Paradox daily for two months, said he had never even
+thought of it as a problem, and relayed the same non-answer from Matt
+Layden himself; Kjell took this as revealing "the difference between a
+sailor and a not-sailor-yet." His practical fix was **two fixed topping
+lifts**, rigged with the aft line led to the masthead sheave bolt (as high
+on the mast as possible) and the forward line only about 50 cm long, fixed
+partway up the mast (temporarily with duct tape); both lengths are set so
+the boom/yard hangs slightly lower than when the sail is fully hoisted,
+keeping the lifts slack — and so out of the way — while under sail, needing
+to be unhooked only when the boom/yard comes down onto the deck. His
+complete boom/yard/sail/line package weighed 8.5 kg.[77]
+
+## First-sail congratulations, and a shared assumption about yuloh technique
+
+News of the first sail drew warm replies from across the group — Björn
+Harbo, Alastair, Glen Maxwell, Derek Clark (posted twice by his own
+apparent accidental repost, both copies identical), and Jack Gardiner all
+congratulated Kjell and asked for photos.[78][79][80][81][82] Alastair's
+reply also offered the general observation that the **yuloh** takes some
+getting used to but rewards persistence — a corollary to Kjell's own
+sailing-day note that "the yuloh didn't obey" him yet.[80]
+
 # Citations
 
 [1] Archive message page_1020 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1036, 2003-06-19) — "The BRIS Paradox": full introduction — a decade-plus personal history from an abandoned BRIS-method dinghy project (drawings from Sven Yrvind via Rolf Eliasson, two relocated workshops, a shed-foundation collapse) through learning of Matt Layden and Paradox via Yrvind in 1998, a near-miss 1999 Florida meeting with Matt, obtaining the plans, and deciding — after presenting his own two-person scaling solution to Yrvind, who warned it would produce "a 50% heavier and quite another boat" — to build Matt's stock Paradox plans but in BRIS composite material rather than plywood; lists the resulting material/construction changes (divinycell/polyester/glassfibre sandwich at stated thicknesses, no separate foam flotation, minimal internal framing, no water tank, partial bin-shelf/bulkhead-3 omission widening the cabin sole to a claimed 1,140 mm, a 3-4 mm stainless-steel bottom sheet forming the chine-runner undersides for ballast and rock protection, a carbon-fibre 60 mm mast/yard/boom, and no lightning conductor, with a stainless-steel-conductivity question left unanswered); reports uncertainty over the finished weight and Yrvind's "too heavy"/"THINK OF THE WEIGHT" reaction to his bulkheads; status at posting: bulkheads and their fittings complete, sides/bottom not yet laminated; closes with a joking ten-years-hence promise to describe the rudder "in 2013."
@@ -819,3 +865,9 @@ fix.[76]
 [74] Archive message page_2670 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2700, 2005-05-09) — "Re: new pics": first time checking the group's website in a while; praises the "great work, and inspirational pics"; reports he and his household are buying a house with a garage, so he might actually get to start building something one of these days. Signed "Paul."
 [75] Archive message page_2671 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2701, 2005-05-10) — "newer pics": "been home from work a couple of days doing more essential labor just have to let the world know about my windows-test-fitting 1-2 funny stuff, polycarbonate." Signed "kjell."
 [76] Archive message page_3142 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3173, 2005-09-08) — "Re: Paraplastic update?": replying to Paul's question whether he had launched yet (see [people/kjell-karlsson.md](/people/kjell-karlsson.md) citation [55]); had been away in the Azores, then in "a boat builder's depression"; the boat has been launched twice but not sailed — the first time cut short by lack of trailer-ramp access, the second revealing the rudder floated "like a cork"; melting lead into the Divinycell core failed, and drilling a cavity for a lead insert could hold barely a third of the lead needed; ended up covering the rudder's lower section with leftover bronze sheet as an interim fix; promises to return to the rig next. Signed "Kjell."
+[77] Archive messages page_3161/page_3170 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3192, 2005-09-19, "paraplastic sails"; and msgnum 3201, 2005-09-20, "paraplastic report") — first announces sailing for the first time, in a nearby small lake, the yuloh "not obeying" yet; follow-up report gives the full first-sail account: 21 years since he last sailed anything, light air (6-7 m/s), single-handed, no photos; trial loading of bronze bottom sheet (70 kg), battery (31 kg), 77 kg loose scrap lead, and his own 77 kg, with heeling "not bothersome" even floating above the designed waterline; moved the halyard attachment about 40 cm between two rigging attempts, seemingly affecting tacking performance, with an unresolved wrinkle at the sail's aft top corner; the rudder's interim 4.1 kg bronze cladding (see above) held up as adequate, though shaping a curved bronze edge strip proved difficult and the foil profile is no longer NACA-shaped; separately reports hoisting/reefing feeling "much too heavy" on repeated land trials, traced to omitting a topping lift at the mast-building stage — Sven Yrvind, who sailed Matt Layden's own Paradox daily for two months, said he'd never even thought of it as a problem and relayed the same non-answer from Matt Layden; fix is two fixed topping lifts (aft line to the masthead sheave bolt, forward line ~50 cm long fixed partway up the mast with duct tape, both lengths set so the boom/yard hangs slightly lower than fully hoisted, keeping the lifts slack while sailing); asks whether this is reasonable and how much others' boom/yard/sail/line packages weigh; his own is 8.5 kg. Signed "Kjell."
+[78] Archive message page_3162 (bharbo / "bjharbo" / Björn Harbo, `paradoxbuilders`, msgnum 3193, 2005-09-19) — "Re: paraplastic sails": "Grattis!" (congratulations, in Norwegian/Swedish), quoting Kjell's post in full.
+[79] Archive message page_3164 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3195, 2005-09-19) — "Re: paraplastic sails": "Congratulations!!!!!!!!!!!!!!!!!!!!!!!!!! How about some pictures?" Signed "Glen."
+[80] Archive message page_3163 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3194, 2005-09-19) — "Re: paraplastic sails": "Great!! When do we see some pictures?"; the yuloh takes some getting used to, but once mastered "there is no looking back (because you use it looking forward)." Signed "Al, Yeovil, England."
+[81] Archive messages page_3165/page_3166 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3196 and msgnum 3197, both 2005-09-19) — "Re: paraplastic sails": "How I envy you!" — the identical two-line reply sent twice in quick succession under distinct Message-IDs, apparently an accidental duplicate post rather than two separate thoughts.
+[82] Archive message page_3169 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3200, 2005-09-19) — "Re: paraplastic sails": "Congrats!!!! I cant wait to hear how she goes!!!! oh yea, and pictures!!!" Signed "Jack."

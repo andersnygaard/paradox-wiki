@@ -826,6 +826,15 @@ way must still be trimmed to fit correctly. See [crew size and fit — Glen
 Maxwell's measured cabin
 dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[193]
 
+Weighing in on Bill Serjeant's "quintessential seat" proposal, Jack raised
+a practical objection to a swinging hammock-type seat: it works against
+getting the boat's center of gravity down quickly when a powerboat wake or
+a large wave hits. His own practice rotates between various cushions to
+suit whatever seating arrangement the moment calls for, plus a raised work
+radio used with a cushion on top for a better view while motoring. See
+[crew size and fit — long-passage seat comfort: cushion
+practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[194]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -1021,3 +1030,4 @@ dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimens
 [191] Archive message page_3123 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3154, 2005-09-04) — "Re: Boom Knots": full text and citation at [boats/enuf.md](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).
 [192] Archive message page_3128 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3159, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [193] Archive message page_3145 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3176, 2005-09-11) — "Re: study plan questions": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
+[194] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).

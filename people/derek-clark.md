@@ -48,7 +48,10 @@ photograph of the original prototype's single-line mainsheet setup, eventually
 finding candidate photo links and asking the group to scan a magazine image to
 the file section for members without access to the source. See [rig and sail
 — mast material choices](/design/rig.md#mast-material-choices) and
-[boats/original-paradox.md](/boats/original-paradox.md).
+[boats/original-paradox.md](/boats/original-paradox.md). He also floated a
+Dursley-Pedersen-style athwartships hammock seat as a helm-comfort idea; see
+[crew size and fit — long-passage seat comfort: cushion
+practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 
 # Citations
 
@@ -66,3 +69,4 @@ the file section for members without access to the source. See [rig and sail
 [12] Archive message page_1758 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1780, 2004-01-04) — "Re: Main Sheet": reports finding only a picture of Matt's boat drawn up on a beach with her sail down, and asks if anyone has found a stern picture. Signed "Derek."
 [13] Archive message page_1761 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1784, 2004-01-04) — "Re: Main Sheet": posts two candidate photo links, hoping they show Matt's mainsheet setup. Signed "Derek."
 [14] Archive message page_1777 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1800, 2004-01-06) — "Re: Main Sheet": asks if somebody can scan the picture to the group's Files section for those without access to the magazine. Signed "Derek."
+[15] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Signed "Derek."
