@@ -9,6 +9,7 @@ discussed by builders.
 * [Enlarging Paradox for a tall/heavy sailor ("Paradox size")](enlarging-for-a-large-sailor.md) - Guidance on enlarging Paradox to fit a tall or heavy sailor, comparing a length-only stretch against a uniform percentage scale-up, the practical ceiling on plywood-panel scarfing above 10%, and a rival ground-up redesign ("Paramour") built for a bigger frame.
 * [Paramour (Jeff's stretched-Paradox redesign)](paramour-design.md) - A 16 ft stitch-and-glue microcruiser designed from scratch by Jeff (UK, "doryman_uk"), sharing Paradox's rig and rudder but with a flatter hull run computed, via the PLYBOATS design program, to be lighter and slightly faster than a same-length Paradox.
 * [Motorsailer Paradox (speculative)](motorsailer-idea.md) - A speculative lengthened, motor-enclosing "motorsailer" Paradox proposed for canal and inland-lake cruising, and the designer-fidelity case against modifying the stock Paradox that it drew from other builders.
+* [A scaled-down "mini" Paradox (speculative)](scaled-down-idea.md) - A proposed .55-scale, ~7.6 ft stitch-and-glue single-sheet hull floated by a newcomer as a quick, cheap way onto the water — unrelated to the established "Mini Paradox"/Enigma name — and a comparison to fitting Paradox's deck and rig onto a Bolger Brick hull instead.
 
 > **See also:** [the "BRIS Paradox"](/boats/bris-paradox.md), a Swedish
 > two-person Paradox built to Sven Yrvind's foam-composite "BRIS" method

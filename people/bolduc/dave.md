@@ -154,6 +154,21 @@ Maxwell's call for help closing the group against spam sign-ups (see
   structural — even a perfect epoxy bond can fail at the next lamination — so
   builders should nail where the plans specify. See
   [fastening and gluing](/construction/fastening-and-gluing.md).
+- **Lofting weights, cheap or homemade.** Flagged a secondhand set of
+  cast-lead "spline weight" lofting ducks found on eBay, and separately
+  described casting his own scrap-lead trim ballast for Swamp Thing from
+  old tire weights — the same approach usable to make lofting weights for
+  nothing. See [panel layout and nesting — lofting weights ("spline weights"
+  or "lead
+  ducks")](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks).
+- **Budget fiberglass cloth from auction lots.** Bought a 50-yard roll of
+  4 oz E-glass on eBay for $35 — cloth that would normally run up to $5 a
+  yard at full price — with only minor, occasional flaws and a slightly
+  raised thread running the roll's length; judged it fine for shaping tapes
+  and covering smaller parts like a hatch, and reckoned that with care it
+  could even cover a Paradox's topsides in the heavier 6 oz weight the same
+  seller offered. Demonstrated the cloth on his own toe-rail work the same
+  day, noting it handles complex curved shapes well.
 - **Epoxy brands.** A longtime West System buyer, Dave surveyed alternatives:
   RAKA too flexible; FASCO (believed to be
   [Chris Morejohn](/people/chris-morejohn.md)'s brand) used on Swamp Thing
@@ -576,3 +591,7 @@ that one of them answered.
 [102] Archive message page_2706 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2736, 2005-05-29) — "Re: Introduction": full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision) and [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).
 [103] Archive message page_3133 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3164, 2005-09-05) — "Re: Pounding?": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 [104] Archive message page_3160 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 3191, 2005-09-19) — "Re: Seat Cushion": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+[105] Archive message page_3885 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3917, 2006-08-26) — "Spline weights for lofting on Ebay": full text and citation at [construction/panel-layout.md](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks). Signed "David."
+[106] Archive message page_3887 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3919, 2006-08-26) — "Re: Spline weights for lofting on Ebay": full text and citation at [construction/panel-layout.md](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks).
+[107] Archive message page_3889 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3921, 2006-08-26) — "Re: Spline weights for lofting on Ebay": full text and citation at [construction/panel-layout.md](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks); casting his own trim-ballast pigs from tire weights for Swamp Thing.
+[108] Archive message page_3937 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3970, 2006-09-08) — "Another Ebay deal for the Paradox builder": bought a 50-yard roll of 4 oz E-glass on eBay (item #170024129043) for $35, normally up to $5/yard; minor flaws and a slightly raised thread along its length; judges it good for tapes and small parts like a hatch, and thinks the seller's heavier 6 oz cloth could cover a Paradox's topsides with care; posted a webpage showing the cloth used on his own toe-rail work that day; notes no affiliation with the seller and that the roll arrived wrapped around cardboard rather than on a tube.

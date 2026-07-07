@@ -88,6 +88,11 @@ A **2 hp Honda** on "[Whisper](/boats/whisper.md)" works well, pushing her at
 4-5 knots at a little over half throttle, and confirms the outboard-weight
 lesson above: a heavier **58 lb 4 hp Yamaha** could not be balanced properly
 for sailing on the same boat, while the lighter Honda gave no such trouble.
+On shaft length, David Beard tried both and prefers the **short shaft**, and
+reconfirmed the same reaching-hull-speed-at-a-little-under-half-throttle
+figure — a piece of build-specific advice that also came up separately in
+[Derek Clark](/people/derek-clark.md)'s own outboard-choice question, see
+[Enuf](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[39][40]
 
 ## Weighing a 2 hp four-stroke against a bigger motor, and whether Paradox can plane
 
@@ -151,6 +156,226 @@ boats. **Sculling** is generally preferred over rowing for a hull of this
 type: rowing feels like a treadmill, with the work broken into discrete
 strokes, while sculling with a yuloh applies a steady, rhythmic, continuous
 effort — more like an elliptical trainer.
+
+## Ballasting for power-only use, and a full "Power Paradox" conversion scheme
+
+A Paradox intended to be run **under power alone**, rather than sailed, still
+needs enough ballast to stay stable, but there is no simple numeric answer
+for the minimum required — builders who have gone deliberately light on
+ballast report the boat does not suddenly become unstable, only
+progressively more tender. "[Enuf](/boats/enuf.md)" sailed significantly
+underballasted at her first launch with no worse effect than increased
+initial tenderness, remaining stiff enough to sail in sheltered conditions;
+forgetting to fill the water ballast entirely has twice been noticed only
+as an increase in tenderness while moving about on deck, not while
+sailing. The practical way to find a boat's own minimum is empirical: pull
+all the ballast out (wearing a swimming costume) and see what she feels
+like.
+
+A full set of conversion advice exists for anyone wanting to build a
+Paradox hull as a **power boat outright** rather than adapt a sailing
+Paradox afterward:
+
+- Reduce **draught to about 6 in**, with decreased rocker and the ends
+  lowered 3-4 in from stock — a hull built to sail is otherwise carried too
+  deep and rockered for a power-only role to make sense; if the sailing
+  hull lines are kept instead, they need to be followed closely to remain
+  worthwhile.
+- Water ballast (carried in addition to drinking water) can still be used
+  alongside lead.
+- A small **4-stroke engine of only 2-2.5 hp** is enough; anything larger
+  wastes fuel and money. A twist-grip throttle with the cable extended
+  into the cabin lets the engine be controlled from inside; steering stays
+  as designed for the sailing version.
+- Trim under power should sit as drawn for the boat at rest, adjusted
+  underway by tilting the engine rather than by moving ballast: **Paradox
+  will not plane regardless of engine size** (consistent with the
+  hull-shape finding above), and if the bow lifts with a large bow wave,
+  throttling back costs only about a quarter to half a knot while saving
+  substantial fuel — the hull is trying and failing to climb onto its own
+  bow wave.
+- **Chine runners are unnecessary on a power-only hull** and would only add
+  drag; scantlings could likewise be lightened.
+- The vent-trunk opening at bulkhead/station 2 could be opened up and a
+  forward deck hatch fitted in its place, improving rope handling and
+  mooring access and admitting fresh air at anchor, since there would be
+  no more need to stand on the side decks; a solar vent could also go in
+  this area.
+- A galley could be fitted in the same forward area, using an all-in-one
+  gas-canister single-burner cooker on a fold-down shelf, bearing in mind
+  the resulting proximity of fuel to the cooker.
+- Fitting wash boards, as used on [Little Cruiser](/matt-layden/little-cruiser.md),
+  eases engine operation.
+- Extending the deck aft by about 2 in (marked out when laying out the
+  sides) gives the transom some rake, which the engine needs; a small
+  outboard well — not a bracket — plus a small aft skeg complete the
+  power-only conversion.
+
+## A side-mounted outboard, to keep the cabin layout unchanged
+
+A separate proposal considered mounting a small outboard **outside the
+hull**, clipped to the port side near bulkhead #4, rather than on the
+transom or through a removable cabin panel — the motive being to keep the
+stock cabin arrangement intact while still allowing a 2 hp four-stroke to be
+started, refueled, and throttled from inside the hatchway without reaching
+over the stern. Small clips would let the motor and its mount be unshipped
+and stowed inside when not needed, along with the engine itself (about 27
+lb). The trade-off of a side-mounted, off-center thrust line is a
+compensating turn of the motor toward the opposite side to hold a straight
+course, in exchange for handling convenience over full propulsion
+efficiency — proposed by a builder whose hands could no longer manage a
+yuloh comfortably.
+
+## Further field experience with a side-mounted outboard
+
+The side-mounted-outboard proposal above drew direct field confirmation and
+caution alike. On "[Little Jim](/boats/little-jim.md)," Alastair fitted an
+**electric** motor to the hull's side rather than the transom, precisely to
+avoid keeping petrol inside the cabin; the bracket needed to be genuinely
+sturdy, since his first attempt distorted at full throttle, and the working
+mounting he settled on used **brass hinges with a removable pin**, braced by
+a forward strut to hold it square to the hull. A side-mounted motor cannot be
+left in place while sailing, since it would spend much of its time
+underwater, but needs surprisingly little angling to hold a straight course —
+the boat turns to starboard quicker than to port with the motor fixed and
+steering left to the rudder, since swinging the motor itself the other way
+would foul the propeller on the chine.[46]
+
+The scheme is not unprecedented: side-mounted motors have appeared in more
+than one published design for **double-ended** hulls, which have no clear
+transom to mount a motor on in the first place, and the same logic underlies
+the older practice of lashing a dinghy-and-outboard alongside a larger
+cruiser to move her. Whichever form it takes, a side-mounted or lashed-on
+propeller needs to be kept well clear of the chine runners, chines, and
+sides, which it can otherwise damage.[47] A related but distinct case —
+mounting a small outboard directly on a double-ended **canoe's** side rather
+than its stern — was tried and found only a compromise at best, since the
+canoe crabbed sideways under power; the canoe's lack of a keel was judged a
+contributing factor, suggesting a keeled, chine-runner-equipped Paradox hull
+should track straighter under the same off-center thrust than a keel-less
+canoe would.[48][49]
+
+## A worked side-mount installation, and the risk of shipping water while fitting it afloat
+
+Stephen Yahn's own side-mounted bracket for a **Honda 2 hp** outboard on
+"Ironsides" worked out as a wooden pad sized to the motor, small enough to
+add little windage or weight, with a hitch pin to lock the motor mount
+shaft's inner end (its hole not yet drilled at the time of reporting) and a
+plastic ball valve to keep water out of the hull when the mount is
+unshipped; a stiffening shelf braces up the area, and the vent-box cutout
+was left roughed in for the time being. Rather than drilling a separate
+lightning-ground conductor through the same area, he ran it as a **copper
+pipe** doing double duty as a groove for another fitting, in place of Matt
+Layden's plans-specified plastic pipe. At bulkhead/frame 3 the resulting
+laydown width inside the hull measures **44 inches side to side**.[54]
+
+Fitting a side-mounted motor while already afloat carries a real risk of
+shipping water, since the fitting process itself can heel the boat as the
+builder leans over the side to align the motor shaft with its mount — a risk
+not obvious in advance, since the concern with a side mount is usually
+assumed to be the motor's own submersion rather than the boat's trim while
+installing it. A practical mitigation: start the motor shaft into its hole
+only as far as the ball valve, then open the valve, rather than trying to
+align and seat the shaft in one motion; a lanyard on the motor itself is
+also worth adding, since an outboard dropped over the side while fitting it
+will not float.[55][56]
+
+## An outboard bracket published for reference
+
+Photographs of a **removable, side-mounted outboard bracket** — mounting the
+motor so it does not tangle in the sheet and so the boat can be motor-sailed,
+though the heel angle sailing must not be great enough to submerge the
+outboard's head — were separately published on a builder's own website as a
+reference for other builders, alongside a change-of-address notice after the
+previous site was overwhelmed by spam.[57]
+
+## A Honda 2 hp's spare-parts and reliability record
+
+Separately from the mounting question, the **Honda 2 hp**'s own reliability
+and spare-parts needs have a direct field record. Researching spares ahead of
+an extended cruise, one owner had already gathered the routine items — shear
+pins, propellers, spark plugs — and asked what else long-term Honda 2 hp users
+typically carry.[58] The answers were reassuring rather than alarming: two
+years of use with nothing going wrong at all, and no reports of trouble from
+other Honda 2 hp owners either.[59] One practical maintenance tip for topping
+up the motor's oil sump: keep a plastic squeeze bottle of the kind used for
+ketchup or mustard in a restaurant, decanting motor oil from it as needed
+rather than pouring from a full bottle or can.[62] On whether a spare throttle
+cable is worth carrying,[63] the consensus from owners who had never worn one
+out was that it sees so little stress or resistance in normal use that it
+should last a very long time, though anyone who does wear one out was asked
+to report back.[66] The cable's likely failure mode, by analogy with
+motorcycle throttle cables of essentially the same construction, is breakage
+or a nipple pulling off rather than gradual wear; a broken cable can still be
+worked around afloat by tying string directly to the exposed piano-wire part
+of the throttle control, though simply carrying a spare and replacing the
+cable outright is easier.[67][68]
+
+## A winter Tenn-Tom Waterway delivery cruise, and Whisper's outboard as primary power
+
+The spare-parts research above was prompted by a planned roughly 300-mile,
+single-season delivery cruise down the **Tennessee-Tombigbee Waterway** ("the
+Tenn-Tom") from the Tennessee River to the Gulf of Mexico, using the Honda 2 hp
+as main propulsion rather than as backup or auxiliary power — a rare case of a
+Paradox owner relying on the outboard, not the sailing rig, as primary power
+for an entire passage. The planned route ran from **Bay Springs Lake**
+(itself about 30 miles down the Tenn-Tom from the Tennessee River's Pickwick
+Lake) to **Pirates Cove, Alabama**, across the bay from Pensacola — a lock
+system carrying the boat down from mountain country to coastal flat land.[58][61][64][65]
+This is the same "[Whisper](/boats/whisper.md)" whose 2 hp Honda is
+already the reference data point above for reaching hull speed at half
+throttle;[10][40] the cruise plan itself, and the well-wishes it drew from
+other list members, are recorded in full at
+[Whisper — a winter Tenn-Tom Waterway delivery cruise](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise).
+
+## A transom-mounted petrol outboard, fuel stowage, and trim
+
+Separately from the side-mount approach, a transom-mounted petrol outboard
+remains a live option, with its own fuel-stowage and trim tradeoffs. One
+proposal for keeping the fuel and controls manageable at the stern: build an
+**open-topped outboard bracket box** on the transom, sized to hold a 2-gallon
+fuel jug, with the outboard itself clamped to the box's aft edge and its
+throttle, kill switch, and pull-start cord all extended forward to the
+cockpit.[50]
+
+Loading roughly 50 lb of fuel and motor that far aft of the transom calls for
+a deliberate trim correction, shifting crew and ballast to compensate. Because
+Paradox's cabin forward sole sits level with the boat's designed waterline, a
+simple built-in level check is available for getting that trim right: either
+a cheap caravan spirit-level gauge, or a closed loop of 1/4-3/8 in clear fuel
+line (joined with a short piece of copper tube and the water inside tinted
+with ink) run between marks of equal height on the bins — either method reads
+trim directly off the boat herself rather than requiring any separate
+calculation.[51]
+
+A full working example of a transom-mounted petrol installation: a **2.3 hp
+Honda**, chosen over an electric motor specifically to avoid depending on
+recharging, mounted on the transom with its throttle extended by a length of
+PVC pipe and its kill switch worked by a cord, both reachable through a
+removable rear window — a fitting substantial enough that its temporary loss
+overboard was, briefly, mistaken as plausible aboard a boat as small as a
+Paradox. In practice this motor returned about **7 miles per litre at 4
+mph**, carried as one litre in the motor's own integral tank plus a four-litre
+reserve in fuel bottles stowed in a bucket behind bulkhead four — a
+storage compromise the builder considered too close to the cooking area for
+comfort, given the ventilation he otherwise maintained while cooking further
+forward near bulkhead two. A longer-term fix under consideration was an
+external tank feeding the motor's integral tank by bulb and pipe (the
+approach attributed to the Bolducs), with the outboard's own throttle
+brought inside via a Bowden cable. Both a side-mounted electric motor and a
+transom-mounted petrol motor are confirmed working setups in practice, the
+choice coming down to the recharging-versus-carrying-fuel tradeoff described
+above.[52]
+
+A separate builder, weighing the same tradeoff for his own boat, settled on
+keeping the fuel supply entirely outside the hull rather than adopting the
+bucket-behind-bulkhead-four arrangement above: a plastic **jerrycan** stowed
+on the transom itself, in the same spot the motor normally occupies, fed to
+the motor via the same bulb-and-pipe approach. Separately, mounting the
+outboard's **anticavitation plate flush with the bottom of the hull** —
+rather than at the manufacturer's default depth — keeps the propeller from
+running any deeper than the chine runners themselves, protecting them from
+contact.[53]
 
 ## An electric outboard, and gel-cell batteries doing double duty as ballast
 
@@ -245,7 +470,7 @@ nacelle.[37]
 [15] Archive message page_1345 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1365, 2003-11-17) — "Re: 2 HP Motors": no opinion on weight, but asks whether anyone has gotten a Paradox to plane using a larger engine.
 [16] Archive message page_1346 (delliott / Don Elliott, `paradoxbuilders`, msgnum 1366, 2003-11-17) — "Re: 2 HP Motors": Paradox's plans do not design in any motor — her only power besides sail is a single oar.
 [17] Archive message page_1347 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1367, 2003-11-17) — "Re: 2 HP Motors": thanks Don; asks because Dave and Mindy Bolduc's Little Cruiser carries one, prompting the plane question.
-[18] Archive messages page_1348/page_1350 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1368/1370, 2003-11-17) — "Re: Oppositional Defiant Disorder and 2 HP Motors" / "Re: 2 HP Motors": weighs four-stroke vs. two-stroke tradeoffs and Yamaha's parts/service edge over Honda; defers the weight-and-practicality question to David Beard and the Bolducs; describes his own yuloh-plus-reserve-outboard plan for "Swash"; separately, on planing, cites the Bartender powerboats' aft "planing rails" (design by George Calkins) as reminiscent of Paradox's chine runners, without directly answering whether a Paradox can plane.
+[18] Archive messages page_1348/page_1350 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1368/1370, 2003-11-17) — "Re: Oppositional Defiant Disorder and 2 HP Motors" / "Re: 2 HP Motors": weighs four-stroke vs. two-stroke tradeoffs and Yamaha's parts/service edge over Honda; defers the weight-and-practicality question to David Beard and the Bolducs; describes his own yuloh-plus-reserve-outboard plan for "Swash"; separately, on planing, cites the Bartender powerboats' aft "planing rails" (design by George Calkins) as reminiscent of Paradox's chine runners, without directly answering whether a Paradox can plane.
 [19] Archive message page_1351 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1371, 2003-11-17) — "Re: 2 HP Motors": by her shape, Paradox will not plane, though she will surf; the Bartender's flat run aft and deadrise (unlike Paradox) is what lets its "planing rails"/spray rails provide lift; genuine planing sailboats are purpose-built power boats with a sailing rig added, generally light, water-ballasted, flat aft, and centreboard-fitted; a human generates only about 1/4 hp, so any motor is a real gain; recommends a 2/2.3 hp Honda if fitting an engine at all; light US two-stroke outboards are also good options.
 [20] Archive message page_1382 (dlb / David Beard, `paradoxbuilders`, msgnum 1402, 2003-11-17) — "Re: 2 HP Motors": tried a 4 hp four-stroke Yamaha, 6.5 kn max but "pushing way to much water"; doesn't think she will plane.
 [21] Archive message page_1385 (arvent / Nels, `paradoxbuilders`, msgnum 1405, 2003-11-18) — "Re: 2 HP Motors": too much rocker in the stern section to lift over her own bow wave; planing would need a flatter run aft, which would drag its own tail when heeled under sail — a hard trade-off in a sharpie; notes Bolger has designed sharpies that plane and sail well, but always as a trade-off.
@@ -253,7 +478,7 @@ nacelle.[37]
 [23] Archive message page_1388 (LJGeib / "Larry", `paradoxbuilders`, msgnum 1408, 2003-11-18) — "Re: 2 HP Motors": jokes back — if fitting a trim tab, why not make the chine runners adjustable too; unsure it would be wise or practical, but "sure would be fun to try and figure out how to do it."
 [24] Archive message page_1390 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1410, 2003-11-18) — "Re: 2 HP Motors": jokes back at Larry's adjustable-chine-runner idea — swing them down to create a pressure tunnel, then add a hydraulically actuated hydrofoil wing up front.
 [25] Archive message page_1405 (arvent / Nels, `paradoxbuilders`, msgnum 1425, 2003-11-18) — "Re: 2 HP Motors": a short, flat-bottomed, rockered hull moves easily through the water on low wetted surface but not quickly, and rows poorly for lack of "carry" between strokes — why the yuloh, applying continuous low effort, works well, as does a 2 hp motor; quotes Phil Bolger: "It only takes about 2 HP at half throttle to get it to it's hull speed. It will handle 10 HP but will make only about 1/2 knot more speed while dragging half the lake behind her:-)"; quotes "Larry"'s adjustable-chine-runner joke and Longyard's trim-tab line in reply-quote.
-[26] Archive message page_1412 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1432, 2003-11-18) — "Re: 2 HP Motors": heavy boats "carry" farther than light boats between oar strokes, but hesitates to speculate on Paradox's performance or stowage under oars specifically; cites John Letcher's writing on oar power aboard displacement sailboats, used as sole auxiliary power on several of his own boats; finds sculling relaxing and rhythmic (like an elliptical trainer) versus rowing's discrete-stroke "treadmill" feel; looks forward to using a proper yuloh in place of the ordinary oars used for sculling in the past.
+[26] Archive message page_1412 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1432, 2003-11-18) — "Re: 2 HP Motors": heavy boats "carry" farther than light boats between oar strokes, but hesitates to speculate on Paradox's performance or stowage under oars specifically; cites John Letcher's writing on oar power aboard displacement sailboats, used as sole auxiliary power on several of his own boats; finds sculling relaxing and rhythmic (like an elliptical trainer) versus rowing's discrete-stroke "treadmill" feel; looks forward to using a proper yuloh in place of the ordinary oars used for sculling in the past.
 [27] Archive message page_1967 (wam_53 / "Bill", `paradoxbuilders`, msgnum 1990, 2004-03-17) — "Electric outboard/battery ballast": asks whether anyone has considered deep-cycle gel batteries in place of lead ballast, doubling as a power source for an electric outboard, autohelm, and radio; floats a 15-20% stretch with the extra beam used for wider side bins holding batteries forward/aft of bulkhead #3.
 [28] Archive message page_1968 (openboat / "Alastair", `paradoxbuilders`, msgnum 1991, 2004-03-18) — "Re: Electric outboard/battery ballast": would go electric if he ever fits an outboard, letting batteries substitute for some lead ballast; would not bother with an autohelm, since Paradox was designed to sail without constant attention to the helm — checks his course roughly every 5 minutes as part of his normal look-out routine. Signed "Hoping for calm nights, Al, Yeovil, England."
 [29] Archive message page_1969 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1992, 2004-03-17) — "Re: Electric outboard/battery ballast": used a 35 lb thrust electric motor on "Whisper," which pushed her quite well; had no GPS at the time to record a speed.
@@ -266,3 +491,33 @@ nacelle.[37]
 [36] Archive message page_2826 (bllfsh666 / "Bill" / BllFs6, `paradoxbuilders`, msgnum 2857, 2005-06-15) — "Re: Batteries as ballast?": agrees Larry's cyclist figure is reasonable, putting an in-shape cyclist around 1/6 hp continuous with leg power, with arm-only power lower still; jokes about a folding-bicycle/pedal-drive micro-cruiser hybrid, conceding it would take real mechanical ingenuity to make practical and light; closes with a tongue-in-cheek defense of "that beer gut" as flotation, cushioning, and insulation all in one.
 [37] Archive message page_2829 (arvent / "Nels", `paradoxbuilders`, msgnum 2860, 2005-06-15) — "Re: Batteries as ballast?": points to Phil Bolger's "Bird Watcher II," which already uses batteries for ballast and stability and carries enough solar panel area to stay charged except during extended heavy use; notes she looks larger than "Old Shoe" but is actually easier to trailer and launch, her extra deck area existing to carry the solar panels; also designed to row, and can use a yuloh or a 25 lb 2 hp four-stroke outboard stowed in a waterproof nacelle; adds a passing mention of Bolger's "Supermouse" design. Signed "Cheers, Nels."
 [38] Archive message page_2835 (wtorry / "Wayne", `paradoxbuilders`, msgnum 2866, 2005-06-17) — "Re: Batteries as ballast?": unsure about horsepower specifically, but in the right boat with the right gear, one person's continuous output has taken a human-powered craft from Alberta to Nova Scotia via rivers and the coast at 4 knots, batteries not included; links two Gartside Boats pages (a pedal-drive rowing/canoe design and a further design, `gartsideboats.com/catrow2.php#pedal` and `gartsideboats.com/blueskies.php`). Signed "Wayne, In the Swamp."
+[39] Archive message page_3278 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3309, 2006-01-22) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+[40] Archive message page_3280 (dlb / "David Beard", `paradoxbuilders`, msgnum 3311, 2006-01-22) — "Re: More progress and another question": confirms a short shaft, having tried both and preferring it; the Honda pushes "Whisper" at hull speed at a little under half throttle. Full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+[41] Archive message page_3813 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3845, 2006-08-12) — "Ballast": has been considering a "Power Paradox" (motor-only, no sail); asks the minimum ballast needed to keep her stable under power alone, since she is very stable under sail when properly ballasted. Signed "David Beard."
+[42] Archive message page_3814 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3846, 2006-08-12) — "Re: Ballast": has no numeric answer, but notes a boat is unlikely to suddenly become unstable from too little ballast; when Derek Clark launched "Enuf" significantly underballasted, the main symptom was increased initial tenderness, with stiffness enough to sail in sheltered conditions; on two occasions has forgotten to fill the water ballast himself, noticing only a change in stiffness while moving on deck, not while sailing; advises taking all the ballast out and seeing what results (wearing a swimming costume), then reporting back. Signed "Al, Yeovil, England."
+[43] Archive message page_3815 (dlb / "David Beard", `paradoxbuilders`, msgnum 3847, 2006-08-12) — "Re: Ballast": clarifies he wants numbers and a method for calculating a stability curve under power specifically; has tried various ballast configurations himself and found little difference, other than that lighter is generally better for power use. Signed "David Beard."
+[44] Archive message page_3816 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 3848, 2006-08-12) — "Re: Ballast": advises against building a Paradox hull as a motor boat unless substantially reworked — reduce draught to about 6 in with decreased rocker and the ends lowered 3-4 in, or else keep close to the sailing lines to be worth building at all; water ballast can supplement lead; recommends only a 2-2.5 hp 4-stroke engine with a twist-grip throttle extended into the cabin, steering as designed; trim should sit as drawn at rest, adjusted underway by tilting the engine, since the hull will not plane regardless of engine size (throttling back when the bow lifts costs only 1/4-1/2 kt but saves fuel); chine runners are unnecessary and would only add drag; proposes opening the station-2 vent-trunk opening into a forward deck hatch for rope handling, mooring, and ventilation, with a solar vent and a fold-down single-burner gas galley in the same area; recommends wash boards as fitted on Little Cruiser; suggests extending the deck aft about 2 in for transom rake, with a small outboard well (not a bracket) and a small aft skeg. Signed "Jeff UK."
+[45] Archive message page_3890 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3922, 2006-08-27) — "Side Motor Mount": weighing a side-mounted 2 hp Honda outboard clipped near bulkhead #4, since his hands are too old and sore for yuloing and a transom mount would be hard to reach and refuel; would rather keep the stock cabin arrangement than cut a removable panel into the cabin's aft end; small clips would let the motor mount (and the 27 lb engine itself) be unshipped and stowed inside when not needed, run from inside the hatchway; accepts the resulting off-center thrust would need a compensating turn to hold a straight course, trading some efficiency for handiness; asks whether the idea is "too nutty."
+[46] Archive message page_3891 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3923, 2006-08-27) — "Re: Side Motor Mount": has done exactly this on "Little Jim," fitting an electric motor to the hull's side rather than the transom to avoid keeping petrol inside; the bracket must be sturdy — his first attempt distorted at full throttle — and he settled on brass hinges with a removable pin, braced by a forward strut to keep it square to the hull; cannot be left mounted while sailing, since it would spend much of its time underwater; needs surprisingly little angling to run straight, turning to starboard quicker than to port with the motor fixed and steering left to the rudder, since the propeller would foul the chine if the motor itself were turned that way. Signed "Hoping for calm nights, Al, Yeovil, England."
+[47] Archive message page_3892 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3924, 2006-08-27) — "Re: Side Motor Mount": recalls pictures of this scheme in more than one book, always on double-ended boats with no clear transom to mount on; compares it to the practice of lashing a dinghy-and-outboard alongside a larger cruiser to move her; cautions that the propeller must be kept well clear of the chine runners, chines, and sides.
+[48] Archive message page_3893 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3925, 2006-08-27) — "Re: Side Motor Mount": recalls folding canoes fitted with a similar engine-mount option alongside a sailing rig with leeboards. Signed "Jeff UK." Distinct from the established `doryman_uk` per the standing identity caution.
+[49] Archive message page_3894 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3926, 2006-08-27) — "Re: Side Motor Mount": tried a side-mounted motor on a canoe himself and found it a compromise at best — the canoe crabbed sideways under power — though its lack of a keel was a contributing factor. Signed "Nels."
+[50] Archive message page_3896 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3928, 2006-08-28) — "Re: Side Motor Mount": full text and citation at [people/paul-v.md](/people/paul-v.md); proposes an open-topped outboard bracket box on the transom sized for a 2-gallon fuel jug, the outboard clamped to its aft edge, with throttle, kill switch, and pull-start cord all extended forward to the cockpit.
+[51] Archive message page_3897 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3929, 2006-08-28) — "Re: Side Motor Mount": notes 2 gallons of gas plus an outboard and box add roughly 50 lb aft of the transom, needing a deliberate trim correction by shifting crew and ballast; since Paradox's cabin forward sole sits level with the designed waterline, a cheap caravan spirit-level gauge or a closed, ink-tinted loop of 1/4-3/8 in clear fuel line between marks of equal height on the bins can read the correct trim directly. Signed "Jeff UK." Distinct from the established `doryman_uk` per the standing identity caution.
+[52] Archive message page_3898 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3930, 2006-08-28) — "Re: Side Motor Mount": full text and citation at [people/derek-clark.md](/people/derek-clark.md); has seen Al Law's side-mounted electric motor work well, but chose a transom-mounted 2.3 hp Honda petrol motor instead to avoid depending on recharging, with the throttle extended by PVC pipe and the kill switch worked by a cord, both reached through a removable rear window; gets about 7 miles per litre at 4 mph, carrying one litre in the motor's tank and a four-litre reserve in bottles behind bulkhead four, which he judges too close to the cooking area for comfort; considering an external tank fed by bulb and pipe, as he believes the Bolducs do, with the throttle brought inside by a Bowden cable. Signed "Off sailing tomorrow :0)"
+[53] Archive message page_3901 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3933, 2006-08-29) — "Re: Side Motor Mount": quotes Derek Clark's transom-mounted 2.3 hp Honda setup in full, then reports his own plan to keep the fuel supply in a plastic jerrycan on the transom (where the motor usually sits) rather than in bottles behind bulkhead four, feeding the motor's integral tank the same way with a bulb; has fitted the outboard's anticavitation plate flush with the hull bottom specifically to protect the chine runners; will post pictures. Signed "Cheers Steve Yahn."
+[54] Archive message page_3915 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3947, 2006-09-03) — "Side Motor Mount Photos, under IRONSIDES": has added pictures of his side motor mount; the wooden pad is sized as small as needed for the Honda 2 hp motor; a hitch pin (hole not yet drilled) locks the mount shaft's inner end; a plastic ball valve keeps water out when the mount is removed; added a stiffening shelf to brace the area; the vent box area is only roughed in; used copper pipe rather than Matt Layden's plans-specified plastic pipe for the lightning-protection grounding, doubling as a groove through the area instead of drilling; the Ironsides frame 3 laydown width is 44 inches side to side; will add cloth bins later if needed. Signed "Steve Yahn."
+[55] Archive message page_3918 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3950, 2006-09-03) — "Re: Side Motor Mount Photos, under IRONSIDES": calls it an elegant solution to the motor bracket problem, but hopes it doesn't take on too much water while being fitted afloat. Signed "Hoping for calm nights, Al, Yeovil, England."
+[56] Archive message page_3919 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3951, 2006-09-04) — "Re: Side Motor Mount Photos, under IRONSIDES": had not considered that the boat might tip as he leans over the side to fit the mount; may start the shaft into the hole only up to the ball valve before opening it; considering a lanyard, since the motor won't float if dropped. 
+[57] Archive message page_3920 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3952, 2006-09-04) — "Paradox outboard bracket" (cross-posted to `paradoxbuilders` and `smallsailboats`): has posted pictures of his own removable, side-mounted outboard bracket on his website; mounting the motor this way keeps it clear of the sheet for motor-sailing, though heel must not be enough to submerge the outboard's head; notes a new web address after the old one was overwhelmed by spam. Signed "Hoping for calm nights, Al, Yeovil, England."
+[58] Archive message page_3921 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3953, 2006-09-04) — "Honda 2 hp outboard": researching spare parts for a planned winter cruise down the Tenn-Tom waterway to the Gulf of Mexico (~300 miles) using the Honda as main power; already has shear pins, props, spark plugs; asks other Honda 2 hp users what else to carry, having had no trouble with the motor himself. Signed "David Beard."
+[59] Archive message page_3922 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3954, 2006-09-05) — "Re: Honda 2 hp outboard": two years of use, nothing bad has ever happened, "It's marvelous"; has never heard of trouble from other Honda 2 hp owners either. Signed "Cheers, Steve Yahn."
+[60] Archive message page_3923 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3955, 2006-09-05) — "Re: Paradox outboard bracket": praises Alastair's side-mounted outboard bracket as simple and strong, liking the folding feature, and wishing he had the powerhead clearance it gives. Signed "Cheers, Steve Yahn."
+[61] Archive message page_3928 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3960, 2006-09-05) — "Re: Honda 2 hp outboard": HTML/plain-text duplicate reply to John Pertalion, below, giving the planned Tenn-Tom route: leaving Bay Springs Lake, about 30 miles down the Tenn-Tom from the Tennessee River's Pickwick Lake, ending at Pirates Cove, Alabama, across the bay from Pensacola. Signed "David."
+[62] Archive message page_3958 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3958, 2006-09-05) — "Re: Honda 2 hp outboard": keeps a plastic squeeze bottle, of the kind used for ketchup or mustard in a restaurant, to top up the motor's oil sump as needed. Signed "Steve Yahn."
+[63] Archive message page_3959 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3959, 2006-09-05) — "Re: Honda 2 hp outboard": asks whether it would be worth carrying a spare throttle cable.
+[64] Archive message page_3956 ("John Pertalion", `paradoxbuilders`, msgnum 3956, 2006-09-05) — "Re: Honda 2 hp outboard": no specific outboard advice, but excited about the cruise route; asks where it starts and finishes, having himself imagined a Chattanooga-to-Mobile trip and being fascinated by the lock system and the mountains-to-coastal-flatland transition. Signed "John Pertalion, Boone, NC." A new, below-threshold correspondent with no boat of his own on record.
+[65] Archive message page_3961 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3961, 2006-09-05) — "Re: Honda 2 hp outboard": wishes David well and asks him to take pictures and write up a sailing log so "those of us who do not yet have a paradox may live vicariously." Signed "Chris Curtis, Sandpoint Computers." A 2006 correspondent tracked separately from the established Sandpoint, Idaho owner at [boats/curtis-paradox.md](/boats/curtis-paradox.md); this signature's "Sandpoint" match is new corroborating detail toward a possible merge, kept separate pending dedicated review per standing project caution.
+[66] Archive message page_3930 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3962, 2006-09-06) — "Re: Honda 2 hp outboard": has never worn out a throttle cable himself; guesses, given how little resistance or stress it sees, that it should last a very long time; asks to be told if one ever does fail. Signed "Steve Yahn."
+[67] Archive message page_3931 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3963, 2006-09-06) — "Re: Honda 2 hp outboard": agrees a throttle cable should last a long time, but notes throttle cables on motorcycles — essentially the same construction as the Honda's — do break or have their nipples come off; a broken cable could be worked around by tying string to the exposed piano-wire part of the throttle control, though replacing the cable outright would be easier. Signed implicitly (no signoff in the message body).
+[68] Archive message page_3932 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3964, 2006-09-06) — "Re: Honda 2 hp outboard": plain-text/HTML duplicate reply; has added a spare throttle cable to his own list of things to get for the cruise. Signed "David Beard."

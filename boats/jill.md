@@ -206,6 +206,57 @@ lessened the crease at the head — a different fix from
 [Alastair's boom-end foam tip](/design/rig.md#rolling-boom-and-sail-foot),
 aimed at the sail rather than the spar.
 
+## A 6 hp outboard, an onboard generator, and local sailing conditions
+
+By January 2006 Jack was running a **6 hp Johnson** outboard on Jill,
+weighing about **60 lb** — heavier than the 2-3 hp motors most other Paradox
+owners favored, offset by shifting ballast to compensate. Run at low rpm the
+motor "motor sails very well," and Jack planned to downsize to a 3 hp unit
+once budget allowed. He also fitted a **1,000-watt two-stroke generator**
+aboard to keep the boat's batteries charged. Asked for the setup's details —
+where the batteries and generator were mounted and secured, whether the
+batteries were sealed units, where fuel and oil were stored, and how noise
+and exhaust fumes were handled — Jack explained the generator itself was a
+gift: a friend had picked up an abandoned, barely used generator left behind
+after a trailer-home move and sold it to Jack for $100, and it ran well and
+quietly. It would stow in the forward compartment, alongside a large deep-cell
+marine battery, with a 12-volt fan mounted in the vent trunk to exhaust fumes.
+He had not yet built mounting brackets for either the generator or battery at
+that point.
+
+Jack described his home sailing grounds as Rhode Island waters near Newport —
+strong currents and tides, changing winds, rocky coasts, and heavy boat
+traffic. He also explained a standing personal constraint on how far he could
+range from home: his grandfather, then **103 years old**, lived with Jack's
+mother, and Jack needed to be able to get home quickly if a problem arose.
+
+Days after describing the generator, Jack reported a medical emergency of his
+own: a right tonsil infection had closed his windpipe almost to the point of
+requiring an emergency surgical airway, and he had just been discharged from
+the hospital, with doctors still investigating the cause. He recovered without
+further complication, later resuming both his building progress and the sails
+documented above.
+
+## Why the sail uses sleeves rather than lashings, and a first sail of the 2006 season
+
+Asked why the Paradox sail is fitted with **sleeves** on the yard and boom
+rather than simply lashed on, Jack judged it a matter of Matt Layden's own
+preference for simplicity over complication. On his own bottom layup he
+used a **single layer of 12 oz biax cloth**, taking about a gallon of epoxy —
+noting that at the time Matt built the original Paradox, biax cloth was
+either not yet available or harder to source in a cut piece, so Jack had to
+buy a full 150-yard roll to get his single layer. See [rolling boom and sail
+foot](/design/rig.md#rolling-boom-and-sail-foot) for the sail's sleeve
+construction in full, and [why the mainsheet presented at the helmsman's
+back is not awkward in
+practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice)
+for related rig detail.
+
+In the same message, Jack reported finally getting Jill out for her **first
+sail of the 2006 season**, in 6-10 knot winds, sailing for about four hours
+without once touching the tiller before motoring back as the wind died at
+dusk.
+
 ## See also
 
 For Jack Gardiner's non-boat-specific contributions — the archive's fullest
@@ -242,3 +293,10 @@ joint fabrication, and other construction and rig answers — see
 [25] Archive message page_2741 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2772, 2005-06-08) — "Re: Questions regarding Paradox plans.": explains his choice of 12 oz biax with no mat backing over woven roving — mat will not bond into an epoxy matrix, biax is reputed many times stronger than roving for its weight, uses less epoxy, and was no harder to fill than roving in his own experience on a 19 ft powerboat built the same way and dived off regularly for years with no wear-through.
 [26] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md); the gusty-sail mishap and boom-taper question that prompted Jack Gardiner's reply below.
 [27] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": recounts his own early sandbar grounding on his second or third outing (swirling fall winds and river current, half-mile barefoot walk to free the boat), now carries diving rock boots, a dry suit, and a wet suit as a result; states the reef-early lesson plainly — too much sail out is trouble, and once the yard spins inside the furling loop the sail must be lowered and hand-reefed; mounted a 6 hp outboard, more than he otherwise wanted, so he could respond quickly if his 102-year-old grandfather needed help, planning to downsize to a 2.5-3 hp motor later; judged reshaping the boom's taper unwise, since it would risk the sail no longer furling correctly, and instead added a luff rope to the sail's leading edge, which let him adjust the sail and lessened the head crease. Signed "Jack."
+[28] Archive message page_3291 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3322, 2006-01-24) — "Re: More progress and another question": runs a 6 hp Johnson outboard on Jill, about 60 lb, offset by shifting ballast; motors well at low rpm, plans to downsize to 3 hp when budget allows; also fitted a 1,000-watt two-stroke generator to charge the boat's batteries; describes his home sailing grounds — Rhode Island waters near Newport, with strong currents and tides, changing winds, rocky coasts, and heavy boat traffic — and explains that his 103-year-old grandfather lives with his mother, requiring him to be able to get home quickly if a problem arises. Signed "Jack."
+[29] Archive message page_3292 (arvent / "Nels", `paradoxbuilders`, msgnum 3323, 2006-01-24) — "Re: More progress and another question": asks for details on the generator setup — where the batteries and generator are installed and secured, whether the batteries are sealed units, where fuel and oil are stored, and how noise and exhaust fumes are handled. Signed "Nels."
+[30] Archive message page_3294 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3325, 2006-01-24) — "Re: More progress and another question": answers Nels — the generator was a gift from a friend who found it abandoned after a trailer-home move and sold it to Jack for $100; runs great and quietly, on 12 volts; will stow in the forward compartment alongside a large deep-cell marine battery, with a 12V fan mounted in the vent trunk to exhaust fumes; had not yet built mounting brackets for either. Separately reports having just been discharged from the hospital: a right tonsil infection had closed his windpipe almost to the point of needing an emergency surgical airway, with doctors still investigating the cause; expects to be back at building soon. Signed "Jack."
+[31] Archive message page_3297 (arvent / "Nels", `paradoxbuilders`, msgnum 3328, 2006-01-25) — "Re: More progress and another question": wishes Jack a speedy recovery. Signed "Nels."
+[32] Archive message page_3828 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3860, 2006-08-16) — "Paradox sails": asks a local sailmaker's question relayed to the list — why the Paradox sail is fitted with sleeves on the yard and boom rather than lashings, and whether this bears on the reefing system or the kind of cruising Matt Layden designed the boat for; separately reports the roving now on his own hull's bottom. Signed "Matt." Full profile at [people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md).
+[33] Archive message page_3829 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3861, 2006-08-17) — "Re: Paradox sails": judges Matt Layden chose sleeves for simplicity, avoiding over-complication; used a single layer of 12 oz biax cloth on his own hull bottom, about a gallon of epoxy, noting biax was scarce or unavailable in cut pieces when the original Paradox was built, so he bought a full 150-yard roll; reports finally sailing Jill for the first time in the 2006 season, 6-10 knot winds, four hours without touching the tiller, motoring back as the wind died at dusk. Signed "Jack."
+[34] Archive message page_3830 (arvent / "Nels", `paradoxbuilders`, msgnum 3862, 2006-08-18) — "Re: Paradox sails": agrees with Jack; the sleeves also give cleaner airflow and work better with roller reefing than ties would; would not deviate from the design as shown. Signed "Nels."

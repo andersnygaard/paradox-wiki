@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Checking a used Paradox for rot (ice-pick probe technique)
-description: How to survey a secondhand or already-built Paradox for hidden rot before investing in a refit, and how to treat rot once found.
+description: How to survey a secondhand or already-built Paradox for hidden rot before investing in a refit — the ice-pick probe technique from the inside, the tap test from the outside — and how to treat rot once found.
 tags: [paradox, construction, rot, survey, secondhand, glen-maxwell, david-beard, jack-gardiner, gitrot, borate, bilges, stitch-and-glue]
 timestamp: 2026-07-01T00:00:00Z
 ---
@@ -34,6 +34,33 @@ new build) and the
 [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md)
 concept (which concerns *preventing* rot at small drilled holes during
 construction).
+
+## An alternative, tool-free technique: the tap test
+
+A second low-tech survey method suits a glassed-plywood hull that, unlike a
+Paradox mid-refit, cannot easily be probed from the inside — for example
+when assessing whether an older (20-plus-year-old) glass-and-epoxy-over-
+plywood boat of similar construction to a Paradox is worth buying, sight
+unseen as to its interior condition. **Tap the whole hull lightly with a
+small hammer, or the plastic handle of a large screwdriver, and listen to
+the tone**: a sharp, tight tone means the wood underneath is sound, while a
+dull tone means beware. Provided the original construction was done well
+and the wood was never wetted through and left to rot, a hull surveyed this
+way can be expected to last well beyond 30 years.
+
+Rot found this way in a glassed-over plywood boat is normally traced to two
+causes — **fresh water** intrusion (rather than salt water) and **poor
+storage**. Sealed under fiberglass and epoxy, a plywood hull's real
+vulnerability is moisture that gets in and cannot get back out, the same
+end-grain caution already established for new builds (see [plywood grade
+and foam flotation debate — long-term plywood durability, resale value, and
+why to expect
+neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither))
+— rather than any inherent weakness in the glass/epoxy/plywood combination
+itself. There is no way to tell from outward appearance alone whether a
+hull's outer layers were refinished over pre-existing hidden damage; the tap
+test (or, once the boat is in hand, the ice-pick probe above) is the
+practical answer to that uncertainty.
 
 ## Distinguishing surface staining from real rot
 
@@ -202,3 +229,6 @@ house. Recommended sequence:
 [17] Archive message page_3227 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3258, 2005-11-15) — "Re: Bilges": it depends on how the bilge was finished — three coats of epoxy, a quality primer, and quality marine paint will hold up without rot worry, and the boat is small enough to "see" if something's amiss even from the outside; asks whether the boat sits on a mooring or spends most of its time under a tarp/in a garage, since that affects the risk; distrusts nailed fastenings, since flexing works nails loose over time and a loose nail can act like a syringe injecting water into the plywood's end grain — he tabbed his own boat stitch-and-glue style specifically to avoid that whole issue. Signed "Jack."
 [18] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": "S&G style? I've heard of S&M style (which may be relevant to a Paradox) but what's S&G?"
 [19] Archive message page_3229 (arvent / "Nels", `paradoxbuilders`, msgnum 3260, 2005-11-16) — "Re: Bilges": "Simon and Garfunkel? Or maybe Stitch and Glue?"
+[20] Archive message page_3804 (dmitry.orlov / "orlov_dm" / Dmitry Orlov, `paradoxbuilders`, msgnum 3836, 2006-08-08) — "Glass over plywood - deterioration": considering buying an older (20-plus-year-old) boat built similarly to the Paradox — fiberglass and epoxy over plywood, apparently good-quality construction; asks how a buyer would know if water had penetrated and the plywood beneath had rotted or delaminated before a later refinish, whether such a hull could fail catastrophically, whether repair is practical, and what tells a builder a boat of this type has reached the end of its hull's useful life. Signed "Dmitry."
+[21] Archive message page_3805 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3837, 2006-08-08) — "Re: Glass over plywood - deterioration": recommends the tap test — a small hammer or the plastic handle of a big screwdriver, tapping all over the hull and listening to the tone; if the original work was well done and the wood was never wetted and rotted, the boat's life can still be very long-lasting, 30 years or more, in his own experience. Signed "Steve Yahn."
+[22] Archive message page_3806 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3838, 2006-08-09) — "Re: Glass over plywood - deterioration": agrees with Stephen; adds that a sharp, tight tone means a sound area, where a dull tone means beware; rot in the plywood of a glassed-over boat is normally caused by fresh water and bad storage. Signed "Jeff UK."

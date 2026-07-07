@@ -19,7 +19,8 @@ added here as they are sourced from the archive.
 * [The "BRIS Paradox" (Kjell Karlsson)](bris-paradox.md) - A Swedish two-person Paradox variant built by Kjell Karlsson in Sven Yrvind's "BRIS" foam-sandwich composite method rather than plywood — a beamier, taller hull with a stainless-steel-sheathed bottom for ballast and rock protection, no water tank, and a carbon-fibre rig, built with the blessing of both Sven Yrvind and Matt Layden.
 * [Jill (Jack Gardiner)](jill.md) - Jack Gardiner's stitch-and-glue Paradox, launched at Gaspee Point, Narragansett Bay, Rhode Island, on 11 September 2004 — extensively filmed under sail and power, including two days in a steady 20-35 mph wind and a rudder blade that famously freed a stuck trailer tire.
 * [Enuf (Derek Clark)](enuf.md) - Derek Clark's UK-built Paradox, renamed from an early working name "So-So" on his wife's suggestion — the fullest single documented ballast layout in the archive, a fabricated tack-strut/boom-axle pivot joint, and a "three-tone green with a yellow bottom" paint scheme.
-* [Swash (DC)](swash.md) - DC's Columbia River-area Paradox, built strictly to the plans by a Pacific Northwest professional boatbuilder — briefly listed for sale during a divorce in 2004 before he chose to finish her himself.
+* [Swash (David C. Smith)](swash.md) - David C. Smith's Columbia River-area Paradox, built strictly to the plans by a Pacific Northwest professional boatbuilder — briefly listed for sale during a divorce in 2004 before he chose to finish her himself.
+* [Ladikan (Bengt Genell)](ladikan.md) - Bengt Genell's plywood-built Paradox, launched on Lake Mälaren in central Sweden in July 2006 after a two-year build — a budget-conscious second independent Swedish build, alongside Kjell Karlsson's composite "BRIS Paradox."
 
 > **See also:** [Walden](walden.md) (Chris Becker) and
 > [Aussie Paradox](aussie-paradox.md) (Andrew Graham) are two otherwise

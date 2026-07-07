@@ -3,7 +3,7 @@ type: Person
 title: Glen C. Maxwell — build and "Zoë"
 description: Glen Maxwell's own Paradox "Zoë" and the wide-ranging construction, painting, rig, and seamanship knowledge he contributed to the list as a professional boatbuilder and eyewitness sailor.
 tags: [paradox, builder, people, zoe, build, construction]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Glen C. Maxwell — build and "Zoë"
@@ -154,7 +154,12 @@ making that task easy):
   [chine runner construction — fabricating chine runners in
   steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel)
   for the full technique, offered there alongside his related aluminum/bronze
-  epoxy-bonding tip.
+  epoxy-bonding tip. Left exposed at the hull's surface rather than buried
+  under glass, the copper plate does double duty as an **antifoulant** — a
+  copper-clad bottom needs no separate anti-fouling paint or its yearly
+  maintenance. See [lightning protection — where the copper flashing sits in
+  the layup, and copper's bonus as an
+  antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant).[249]
 - **Chine reinforcement, and the fairing technique behind it.** Beyond the
   woven roving on the bottom and 6 oz glass on the sides, "Zoë"'s chines are
   reinforced with **7 oz "E" glass** throughout (cheaper than 6 oz at the
@@ -167,6 +172,17 @@ making that task easy):
   and level itself, and applying each new coat within **24 hours** of the
   last avoids having to sand between coats — saving, by Glen's account, an
   enormous amount of time over the whole fairing phase.
+- **12-volt wiring gauge.** For his own interior wiring, Glen uses 22-gauge
+  color-coded speaker wire — easy to route and nearly invisible once
+  painted over — and questions whether a heavier gauge is really necessary
+  for the low current draws a Paradox's lighting circuits actually carry;
+  his own rule of thumb is to size the wire to the load. He prefers the
+  smallest wire that will do the job on aesthetic grounds (exposed wiring
+  is unsightly), ran conduit on his own Paradox, and on his brothers' and
+  his own Peep Hen boats — where conduit wasn't practical — taped wiring up
+  under the ceiling with a clear duct tape that all but disappears once
+  painted over. See [radio and electronics — 12-volt wiring
+  gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
 
 ## Painting, epoxy, and materials
 
@@ -212,7 +228,15 @@ making that task easy):
   easily — a claim Don Elliott disputed sharply.
 - [Water tank construction and lining](/construction/water-tank-lining.md) — he
   had used a 5-part epoxy from Fiberglass Coatings (St. Petersburg, FL) for ~9
-  years with no problems at about half West System's price.
+  years with no problems at about half West System's price. On the tank
+  fill/suction plumbing itself, recommends CPVC over PVC pipe for a smaller
+  outside diameter at the same bore, drains his own tanks dry by hose and
+  bilge pump siphon when back on the trailer, and notes Matt Layden draws
+  water from his own boat's tanks with a fuel bulb rather than a pump — a
+  deliberately inconvenient method Matt says encourages fresh-water
+  conservation. See [transom deck plate — the fill/suction copper pipe:
+  sizing, timing, and the fittings that connect to
+  it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[243]
 - Sources he passed to the list: good-grade
   [lumber and plywood](/design/hull-scantlings.md#lumber-and-plywood-sourcing)
   (hardwoodint.com), and later
@@ -283,16 +307,31 @@ revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
   (a stainless tang boom-end strap — three tries before he got its stiffness
   right — Harken #021 blocks, and the complete routing), and field-tested and
   reported the failure of [Bert Vercauteren](/people/bert-vercauteren.md)'s
-  tack-strop idea.
+  tack-strop idea. "Zoë" carries the Mk2 sail; his earlier Mk1 sail was passed
+  on to another UK builder. His own fix for the Mk2 sail's forward gather while
+  furling — tack attached close to the drum, clew end of the boom kept
+  slightly raised, and a topping lift in use throughout — plus his
+  first-hand relay of [Matt Layden's own foot-pressure furling
+  technique](/design/furling-system.md#matt-laydens-own-technique-foot-pressure-no-topping-lift),
+  are detailed on [furling system](/design/furling-system.md).
 - [Rig and sail](/design/rig.md) — "Zoë"'s sail was built by Sails Ect. of
   St. Augustine, FL in 4.5 oz British tanbark Dacron;
   [the definitive price, after two corrections from memory, was $420 from his
   receipt](/design/rig.md),
-  and he advised requiring a sailmaker build exactly to plan. He also explained
+  and he advised requiring a sailmaker build exactly to plan. In 2006, replying
+  to a fresh Dabbler Sails price quote circulated on the list, Glen reconfirmed
+  he remained very pleased with his own Dabbler-built Mark II sail and highly
+  recommended the loft; his superseded Mark I sail — visible in older photos
+  with an ensign flying from the leech — had by then passed to another
+  builder, "Bill Sargent." See [rig and sail — sail
+  pricing](/design/rig.md#sail-pricing).[252] He also explained
   the [mast rake as a built curve](/design/rig.md)
   in the side plates, and how the plans'
   [compressed-scale mast drawings](/design/rig.md)
-  can mislead a model builder.
+  can mislead a model builder, and why the
+  [boom is drawn curved on one side](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag) —
+  furling it for reefing removes the sail's draft so it sets correctly at
+  any reef point.
 - [Mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md) —
   epoxy the mast interior against moisture, and beware the anchor light's
   uncounted height, which left "Zoë"'s mast 1.5 in too long to close the
@@ -464,6 +503,10 @@ archive's practical seamanship authority:
   own sailing background; he feels safer in "Zoë" "because I'm sitting in her
   and not on her" — an endorsement that
   [directly convinced newcomer Luke S to buy plans](/design/blue-water-suitability.md).
+- Judged a fellow builder's proposed taller hard-top hatch redesign too tall
+  to clear the boom — see [boats/enuf.md — a cardboard hatch mock-up, and a
+  lower alternate seat
+  position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[242]
   Matt Layden has himself sailed thousands of miles in her.
 - [Aluminum Paradox (speculative)](/design/aluminum-construction-idea.md) — a
   detailed conditional answer (5000-series alloys below the waterline, 6061 above,
@@ -547,6 +590,21 @@ without it, is that the trade-off is worth making on this boat. See
 for the fuller foam-vs-no-foam debate and David Beard's contrasting
 experience with glued-in foam on "[Whisper](/boats/whisper.md)."
 
+## A 2006 personal website, and Zoe bunk cushions
+
+In July 2006 Glen put up his own personal website, posting photographs of
+"Zoë" there for the first time outside the group's own photo sections and
+promising construction shots and image captions to follow.[244] The site
+drew praise from Bill Serjeant — who found several photos new to him even
+after years of following Glen's build, and singled out Zoë's bunk-cushion
+setup as looking "very comfortable" — and from a new correspondent, Dale
+Bowers, who admired the write-up of Glen's own shakedown cruise.[245][246]
+Bill, in turn, offered to link the new site from his own
+`paradox-uk.co.uk`.[245] Glen thanked both in reply and said he would add a
+reciprocal link once his own site's link page was ready.[247] A third
+correspondent added the same praise several weeks later on rediscovering the
+thread.[248]
+
 ## Community role and firsthand Matt Layden knowledge
 
 Beyond technique, Glen anchored the young community: proposing the archive's
@@ -568,6 +626,14 @@ Nova Scotia to the lower Bahamas](/matt-layden/biography.md) — offered as the
 reason every compartment aboard has a planned purpose. Firsthand encounters
 with Matt are recorded in full on the
 [Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).
+Glen's home base is Live Oak, Florida, near the I-10/I-75 junction — a more
+precise fix than his earlier "30 miles west of Jacksonville" self-description
+— given in 2006 to a prospective visitor asking whether anyone near Florida
+could show him a Paradox in person, with an open invitation to come see
+"Zoë."[251] That prospective visitor, a Jacksonville-based below-threshold
+correspondent, took up the invitation, judging Live Oak's proximity to
+Jacksonville the most convenient of the offers he received, and arranged to
+follow up off-list to set a time.[253]
 "Zoë" and her 2001 shakedown cruise reached print twice in 2003 — a
 *Messing About In Boats* feature by Glen himself, and a *Small Craft
 Advisor* Cedar Key report by another author — see
@@ -721,7 +787,7 @@ for both.
 [143] Archive message page_843 (Glen Maxwell, `paradoxbuilders`, msgnum 858, 2003-02-06) — "Re: Bottom paint": has always used one of the better 3M Valved Particulate Respirators, West Marine #2671147, 3M#8611.
 [144] Archive message page_898 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 913, 2003-04-19) — "Re: A Paradox sighted in UK waters": congratulates Alastair; sailed "Zoe" the other day with no water aboard and she did just fine; Matt told him she looked a little low in the water, so maybe he can remove some ballast or day-sail without filling the tanks; the yuloh takes some getting used to; finally installed the tiller stop, "does help a lot."
 [145] Archive message page_982 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 998, 2003-06-01) — "Foam Cushions": tried 1 5/8 in closed-cell Ensolite ($128 from Defender, too hard, returned); found Lux Foam camping-pad stock at foambymail.com, two 1"x39"x75" pieces at $14 each, free shipping; cut to his own patterns, made 2 in cushions, slept on them two nights at the Cedar Key Messabout with no hard spots; making covers from pack cloth per Dave and Mindy's website instructions.
-[146] Archive message page_985 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1001, 2003-06-02) — "Re: Foam Cushions": tried Therm-a-Rest too but found them too narrow individually and too wide two abreast; his own cushions cover the entire sole (one over the tanks, two over the aft storage compartments); likes DC's Sunbrella-inner-tube idea, will make one himself to stop his cushions sticking to him when he gets up.
+[146] Archive message page_985 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1001, 2003-06-02) — "Re: Foam Cushions": tried Therm-a-Rest too but found them too narrow individually and too wide two abreast; his own cushions cover the entire sole (one over the tanks, two over the aft storage compartments); likes Smith's Sunbrella-inner-tube idea, will make one himself to stop his cushions sticking to him when he gets up.
 [147] Archive message page_991 (ifida / Glen Maxwell, cross-posted `microcruising`/`paradoxbuilders`, msgnum 1007, 2003-06-11) — "Re: [microcruising] Re: Anchor Rodes": describes his stern-set/walk-forward anchoring routine and braided-nylon-rode preference; recounts losing a flaked rode-and-anchor bag overboard while sculling hard to clear a fishing pier, to the jeers of onlooking fishermen; now prevents this with a bungee cord across the afterdeck.
 [148] Archive message page_994 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1010, 2003-06-12) — "Re: More photos": "Looks very cozy Al"; noticed the water tank leaked a little in Alastair's picture, as his own did; fix is an 8 in handle with short pieces of 1/2 in dowel rod glued in at the appropriate spacing, letting the deck plate snug down tight enough to stop the leak while still opening easily.
 [149] Archive message page_1022 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1038, 2003-06-19) — "Re: The BRIS Paradox": welcomes Kjell Karlsson; asks whether Divinycell's specific gravity (if available, as for plywood) could be used to calculate the buoyancy difference from stock plywood; expects a little extra ballast will likely be needed, but well-placed.
@@ -746,11 +812,11 @@ for both.
 [168] Archive message page_1214 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1234, 2003-10-04) — "Re: Building question": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#finding-bulkhead-member-angles-from-the-drawings).
 [169] Archive message page_1241 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1261, 2003-11-06) — "Re: Digest Number 381": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
 [170] Archive message page_1245 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1265, 2003-11-06) — "Re: Digest Number 381": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
-[171] Archive message page_1271 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1291, 2003-11-13) — "Re: Introducing Swash": praises DC's photos and workmanship, envying his quality lumber; "Sure wish I'd of gone that route."
+[171] Archive message page_1271 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1291, 2003-11-13) — "Re: Introducing Swash": praises Smith's photos and workmanship, envying his quality lumber; "Sure wish I'd of gone that route."
 [172] Archive message page_1274 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1294, 2003-11-14) — "New Files uploaded": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
 [173] Archive message page_1295 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1315, 2003-11-15) — "Square tubs verses round tubs": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
 [174] Archive message page_1306 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1326, 2003-11-16) — "Re: Square tubs verses round tubs": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
-[175] Archive message page_1356 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1376, 2003-11-17) — "Re: A proposal, a real one": "Wonderful Idea DC." — see [people/dc.md](/people/dc.md#contributions-and-stories).
+[175] Archive message page_1356 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1376, 2003-11-17) — "Re: A proposal, a real one": "Wonderful Idea Smith." — see [people/david-c-smith.md](/people/david-c-smith.md#contributions-and-stories).
 [176] Archive message page_1359 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1379, 2003-11-17) — "Don Elliott": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed).
 [177] Archive message page_1360 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1380, 2003-11-17) — "Re: Square tubs verses round tubs": full text and citation at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
 [178] Archive message page_1496 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1516, 2003-12-14) — "Re: Paradox in CAD": full text and citation at [construction/stem-notching.md](/construction/stem-notching.md#aside-an-early-catia-3d-model-of-the-paradox).
@@ -817,3 +883,15 @@ for both.
 [239] Archive message page_2753 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2784, 2005-06-09) — "Re: Questions regarding Paradox plans.": full text and citation at [references/building-plans.md](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).
 [240] Archive message page_3008 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3039, 2005-08-02) — "Re: Unfolding Calamity for Enuf": full text and citation at [boats/enuf.md](/boats/enuf.md#the-epoxy-that-wouldnt-cure).
 [241] Archive message page_3037 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3068, 2005-08-05) — "Re: Enuf Epoxy": full text and citation at [boats/enuf.md](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).
+[242] Archive message page_3607 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3638, 2006-04-29) — "Re: Mock up of Hatch": full text and citation at [boats/enuf.md](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position). Signed "Glen."
+[243] Archive message page_3627 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3658, 2006-05-17) — "Re: Fill/suction copper pipes": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it). Signed "Glen."
+[244] Archive message page_3696 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3728, 2006-07-01) — "New paradox site": announces a new personal web site with photographs of "Zoë" posted, promising captions and construction shots to follow; link given as `home.alltel.net/ifida/home.alltel.net_000001.htm`. Signed "Glen."
+[245] Archive message page_3697 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3729, 2006-07-02) — "Re: New paradox site": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md); calls it a "nice site," notes several photos new to him, praises Zoë's bunk cushions as looking "very comfortable," and offers to link it from `www.paradox-uk.co.uk` if he can manage it before a two-month tour of eastern Australia starting the following Monday. Signed "Bill."
+[246] Archive message page_3699 (bowersdale / "dale bowers" / Dale Bowers, `paradoxbuilders`, msgnum 3731, 2006-07-02) — "Re: New paradox site": "Great site. I love the story about your shake down cruise." Signed "dale bowers."
+[247] Archive message page_3700 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3732, 2006-07-02) — "Re: New paradox site": "Thanks Dale!" Signed "Glen."
+[248] Archive message page_3786 (markagreenwood / "markgreenwood2004" / mark greenwood, `paradoxbuilders`, msgnum 3818, 2006-07-26) — "Re: New paradox site": HTML reply quoting Dale Bowers' original 2 July 2006 message in full; "Great site!!!!!!!  Be happy and farewinds!" Signed "mark greenwood."
+[249] Archive message page_3807 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 3839, 2006-08-09) — "Re: Question about lightning protection": full text and citation at [design/lightning-protection.md](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant); copper is a great antifoulant — cover the whole bottom in it and be done with anti-fouling problems and yearly maintenance. Signed "Glen."
+[250] Archive message page_3874 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 3906, 2006-08-20) — "Re: Paradox sails": full text and citation at [design/furling-system.md](/design/furling-system.md#a-second-builders-own-forward-gather-fix-and-matt-laydens-technique-reconfirmed); has the Mk2 sail on "Zoë" and previously had the Mk1, since passed on to another builder ("Bill Sargent"); his fix for forward gather while furling is tack close to the drum plus a slightly raised clew end, with a topping lift also in use; relays Matt Layden's own foot-pressure furling technique directly. Signed "Glen."
+[251] Archive message page_3910 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 3942, 2006-09-03) — "Re: Paradox in or near FL": lives in Live Oak, near the I-10/I-75 junction; invites a prospective visitor to come see "Zoë." Signed "Glen."
+[252] Archive message page_3906 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 3938, 2006-09-01) — "Re: Paradox sail quote from Dabbler Sails": full text and citation at [design/rig.md](/design/rig.md#sail-pricing); his Mk2 sail is from Dabbler and he remains very pleased with it, highly recommending Hopkins; points to photos of it on his personal website; his Mk1 sail — visible in older photos with an ensign flying from the leech — now belongs to another builder, "Bill Sargent"; notes the Mk2's extra boom length, which he still means to cut down. Signed "Glen."
+[253] Archive message page_3925 (sail2xs / "sailzafu" / "Niels", `paradoxbuilders`, msgnum 3957, 2006-09-05) — "Re: Paradox in or near FL": thanks everyone for their offers; lives in Jacksonville, so seeing "Zoë" at Glen's would be the most convenient; will email off-list to set up a time. Signed "Niels."

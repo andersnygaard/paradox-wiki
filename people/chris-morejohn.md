@@ -52,10 +52,18 @@ generally; see [blue-water suitability](/design/blue-water-suitability.md).
   the Gulf Stream for 24 hours with sharks about before fishermen rescued him —
   a story the Bolducs cite to argue that the real dangers of an open-water
   passage are collisions with ships or unseen obstructions, not weather.
-- **A 40 ft "Hogfish" listed for sale.** A 40-foot version of his "Hogfish"
-  sharpie design was later advertised for sale (via mermaidresearch.com),
-  visibly built with the same "Paradox"-style chine runners as his other
-  boats — cited by Dave Bolduc as what made the listing notable.
+- **A 40 ft "Hogfish" listed for sale, later identified as "Jubilee."** A
+  40-foot version of his "Hogfish" sharpie design was advertised for sale in
+  2005 (via mermaidresearch.com), visibly built with the same "Paradox"-style
+  chine runners as his other boats — cited by Dave Bolduc as what made the
+  listing notable. A 2006 photo of the same hull, by then named **"Jubilee,"**
+  circulated in the group's Hogfish Maximus files folder, showing her on a
+  travelift with her narrow "wing" chine runners clearly visible; like
+  "Hogfish Maximus," she combines the chine runners with a **centerboard**.
+  See [how chine runners work — narrow "wing" runners, and a
+  centerboard-plus-runner
+  combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination)
+  for the runner-sizing discussion "Jubilee" prompted.
 
 The Bolducs, who cruised the Exumas in tandem with Matt Layden in 1994, met the
 Morejohns living aboard "Hogfish Lips" on that trip; the connection is recorded
@@ -68,5 +76,6 @@ on [microcruising.com](/references/microcruising-website.md).
 [3] microcruising.com — "Yahoo Microcruising Remarks" (http://www.microcruising.com/fc.htm), David & Mindy Bolduc — "Real Dangers" section: cites "Chris Morejohn sank after hitting some obstruction in his sloop one night... floating North in the Gulf Stream for 24 hours with sharks about was not fun!"; also describes Chris as builder of the "Hogfish" sharpies, "NORTHE" standard (No Other Route Thought Heavy Enough).
 [4] microcruising.com — "Secrets To Cruising In Small Boats" (http://www.microcruising.com/secrets.htm), David & Mindy Bolduc — "Friend Chris Morejohn sank his sloop after hitting a submerged obstruction (oil drum/log/container) at night, then floated in the Gulf Stream for 24 hours with sharks nearby before being rescued by fishermen."
 [5] microcruising.com — "Blog 2012–2014" (http://www.microcruising.com/new3a.htm) entry 8-7-14, David & Mindy Bolduc — "Chris Morejohn's blog highlighted... the creator of several large liveaboard sized sharpies as well as some revolutionary flats boats"; met Chris and family in the Exumas living aboard the 32-foot sharpie "HOGFISH LIPS" "when we sailed to the Bahamas in tandem with Matt Layden" (the 1994 joint trip); "Now Chris has an even larger flat bottomed sailboat called HOGFISH MAXIMUS."
-[6] Archive message page_2035 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2059, 2004-05-03) — "Re: Gone sailing": quotes Glen Maxwell's announcement that he and Chris Morejohn will shortly weigh anchor aboard "Hogfish Maximus," "basically a 38 foot version of Paradox," bound across the Atlantic for Portugal via Bermuda and the Azores, allowing three months for the trip including an extended stay in the Azores.
+[6] Archive message page_2035 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2059, 2004-05-03) — "Re: Gone sailing": quotes Glen Maxwell's announcement that he and Chris Morejohn will shortly weigh anchor aboard "Hogfish Maximus," "basically a 38 foot version of Paradox," bound across the Atlantic for Portugal via Bermuda and the Azores, allowing three months for the trip including an extended stay in the Azores.
 [7] Archive message page_2597 (boldav38 / "Dave Bolduc", `paradoxbuilders`, msgnum 2627, 2005-03-28) — "40' Chris MoreJohn designed sharpie": links a "for sale" listing at mermaidresearch.com for a 40 ft version of Hogfish, noting the "Paradox"-style chine runners visible on two of the pictures, which can be enlarged by clicking.
+[8] Archive messages page_3373/page_3379 (arvent / "Nels", `paradoxbuilders`, msgnum 3404, 2006-03-01, and msgnum 3410, 2006-03-03) — full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination); identifies a photographed 40 ft sharpie as "Jubilee," in the group's Hogfish Maximus files folder, combining chine runners with a centerboard as "Hogfish Maximus" does; links `www.mermaidresearch.com/` as "an interesting design."

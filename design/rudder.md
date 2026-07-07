@@ -3,7 +3,7 @@ type: Concept
 title: Rudder and chine experiments
 description: The Paradox's oversized rudder, its design rationale and known handling trade-offs, the rejected forward-chine-extension experiment, a range of tried and untested wear-protection and rudder-resizing ideas, and technique advice for tacking problems and rudder-up sailing.
 tags: [paradox, design, rudder, chine, matt-layden, little-cruiser, experiment]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Rudder and chine experiments
@@ -227,6 +227,15 @@ off-center regardless — the alignment question is cosmetic on the visible
 upper half, not functional. This on-center reading has been confirmed by
 builders who hung their own rudders the same way.
 
+Builders have separately asked whether the **gudgeons and pintles**
+themselves (rather than the rudder blade's own pivot bolt) should be hung
+on the transom's centerline, or whether the blade should be offset instead.
+In practice, mounting the pintles on the centerline is confirmed to work:
+it puts the rudder blade itself very slightly to starboard and the tiller
+very slightly to port, a minor, purely cosmetic asymmetry that causes no
+handling issue — consistent with the plans' own on-center pivot-point
+reading above.
+
 ## The pivot-bolt fixing, and its record under grounding loads
 
 The rudder blade pivots on a single bolt, as drawn on the plans — a detail
@@ -289,6 +298,17 @@ epoxy, rather than bushing the bolt holes themselves — a technique that
 protects the wood at the bearing surface without the oversized-hole/rebore
 step above.
 
+## The raised blade scraping against the upper pintle bracket
+
+Raising the rudder blade fully vertical can bring it into contact with the
+**upper pintle bracket**, since the blade has to pass close by the fitting on
+its way up. In practice this is cosmetic rather than structural: where the
+bolt heads rub, the paint scrapes off but the epoxy underneath stays sound —
+countersinking the bolts deeper than usual would avoid even that. Rather
+than treating the contact as a defect to design out with a fixed pin (which
+would remove the ability to raise and lower the blade at both stock
+positions), it is accepted as normal wear that does not need a fix.
+
 ## The big rudder as a leeway-reducer
 
 At a Cedar Key small-boat gathering in May 2019, Matt Layden gave a dinner
@@ -334,6 +354,17 @@ just turns her into the wind; dropping the blade to horizontal restores
 control), and she tacks to **starboard** more easily than to **port**,
 occasionally sticking head-to-wind on that tack as she did this time.
 
+Trim was tried as a fix for the same boat's occasional tacking trouble —
+sticking head-to-wind, or failing to come up to the wind — with some success:
+experimenting with ballast trim mostly sorted it, though the builder himself
+allows it may have been his own developing technique rather than the trim
+adjustment that made the difference. On every other point of sail the boat
+handled the same regardless of trim, even with a passenger's weight moved
+around deliberately to test it — tacking is the one manoeuvre sensitive
+enough to notice a difference. Gybing, by contrast, is consistently
+benign, so a boat stuck in the tacking failure mode described above can
+usually still be turned the other way around.[71]
+
 ## Rudder-stock height and mainsheet fouling at the transom notch
 
 Bill Serjeant devised a way of fitting the **lower** pintle to the rudder
@@ -355,6 +386,21 @@ wire) from the rudder head to the deck, loose enough to allow the rudder's
 full range of motion — shock cord would defeat the purpose by stretching
 and letting the sheet foul anyway. Leading the mainsheet through the
 **deck** rather than the transom is a further option worth considering.
+
+A second, independent report of the same fouling confirms it and adds a
+further fix: on a broad reach or run, starboard tack, the sheet drops into
+the same stock-to-transom gap and has to slide up over the pintle/gudgeon on
+every sail adjustment — remedied with a small wooden insert filling the gap
+to act as a fairlead. Not essential to sailing the boat, but a real ease on
+sail handling.[66]
+
+A **heavy West Marine rudder uphaul cleat** bent under load on Glen
+Maxwell's own boat, forcing him to furl the mainsheet along with the sail
+until it was replaced. Separately, because the rudder comes up quickly once
+raised, its trailing edge could bang against the transom — fixed by fitting
+a small stainless bracket to the top of the rudder head and slipping a
+length of rubber hose over it, stopping the blade before it strikes the
+rudder head.[67]
 
 The actual mechanism is not the sheet dropping *into* the notch, but the
 sheet having to run in and out *over the top of the pintle* as the sail is
@@ -427,6 +473,38 @@ fold-up rudder like Paradox's complicates fitting a trim-tab wind vane
 specifically, is carried forward at [self-steering — a trim-tab wind vane
 and Paradox's folding
 rudder](/operations/self-steering.md#a-trim-tab-wind-vane-and-paradoxs-folding-rudder).
+
+## A proposed full skeg and barn-door rudder, and why it shifts the whole design
+
+A builder's own drawn interpretation of Paradox, fitted with a **full-length
+skeg** carrying a large external **"barn door" rudder** hung directly off
+its trailing edge, drew a detailed technical objection rather than a
+straightforward critique of the hardware alone.[68] Moving the rudder onto a
+long skeg moves the boat's **center of lateral resistance aft**, which in
+turn forces the sail's **center of effort aft** to keep the boat in
+balance — meaning, in practice, that the mast has to move aft too, further
+into the cabin, disturbing the vent box and mast step. The skeg/rudder
+combination also alters the sail's **lead**, since the rudder now sits
+directly behind it. The verdict: unless the builder fully understands the
+knock-on effects, the change is not worth making — it adds draught without
+sailing any better, and may sail worse, since altering one element of a
+tightly balanced design turns into a redesign of the whole boat.[69] A
+lighter-touch alternative for the same underlying goal — sacrificing the
+chine runners' relative simplicity for a genuine windward improvement —
+would be a small forward **centerboard**, at the cost of the extra work and
+a hull opening that can jam with small stones.[69] This is a concrete
+instance of a concern already raised in the abstract: Paradox's sail lead,
+without a centerboard, already sits aft of amidships compared with
+[Little Cruiser](/matt-layden/little-cruiser.md)'s forward lead, precisely
+because her center of effort is set differently — see [rig and sail — why
+the two boats' mainsheets lean opposite
+ways](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
+
+A further practical question raised about the same redesign: without a
+centerboard's ability to be raised for shoal water and reduced wetted
+surface, and given the deeper, fixed skeg-mounted rudder's own draught, an
+engine was judged likely to be necessary just to get the boat through an
+ordinary tack.[70]
 
 ## Sven Yrvind's own integrated rudder-transom system
 
@@ -545,6 +623,30 @@ larger, stronger pipe over the tube's ends for extra leverage — old tire
 rims make effective bender heads for this method, and it likely works well
 on thin-walled tube generally.
 
+A third, simpler lamination method needs no separate forming jig at all:
+bang a row of nails into a board tracing the desired curve, then laminate
+the tiller's wood strips directly around the nails. A fourth method reaches
+the same curve in one piece of metal rather than a lamination: take a
+length of **one-inch galvanized pipe**, drill a hole through a 4x2 block
+sized to the pipe, and bend the pipe by working it through the hole until
+it takes on enough curve, then cut it to length; once fitted, the bend can
+be touched up further in a vice to keep the tiller clear of the under-deck
+foam at the extremes of its swing. The bent pipe itself, once shaped this
+way, has been used directly as the finished tiller — no separate wood
+lamination needed — chosen as handier and quicker than either laminating
+plywood strips or steam-bending ash. The tiller's own length and amount of
+curve are not spelled out on the plans and were left an open question on
+the record — absent further guidance, a builder facing the same gap can
+only take a reasonable guess at his own dimensions, and cardboard
+section templates are one way to work out a shape before committing to
+material.
+
+For a builder unsure of the shape needed at all, an alternative to figuring
+it out from scratch is to reverse-engineer the required clearance directly:
+clamp a length of stiff wire (a wire coat-hanger will do) to the rudder
+stock and bend it by hand, checking as it is swung from side to side, until
+it clears every internal obstruction the tiller would otherwise strike.
+
 # Citations
 
 [1] Archive message page_058 (Dave Bolduc, `paradoxbuilders`, 2001-09-09) — "Chine modification info": Matt extended the chine forward on Paradox, trial-sailed it, found little difference, does not recommend it; next considering a "Little Cruiser style" rudder for Paradox; balance point said to differ between the two rudder types.
@@ -569,7 +671,7 @@ on thin-walled tube generally.
 [20] Archive message page_1013 (jim / Jim Goeckermann, `paradoxbuilders`, msgnum 1029, 2003-06-17) — "Paradox handling": not owning a Paradox, offers a thought from the Bolger Weekender — sailors of that design found that in light winds they sometimes needed to shift crew weight to the leeward side to simulate the heel a stronger wind would otherwise cause, since the chine "edges have to bite"; suggests Alastair try shifting weight to the downwind side.
 [21] Archive message page_1014 (openboat / Alastair, `paradoxbuilders`, msgnum 1030, 2003-06-18) — "Re: Paradox handling": will try Jim's suggestion, "although moving about inside Paradox has little effect on the heeling."
 [22] Archive message page_1140 (openboat / Alastair, `paradoxbuilders`, msgnum 1157, 2003-08-19) — "Re: Shim deckbeam #1?": made his rudder stock much as drawn but now wishes he had not made it so high — the mainsheet catches in the notch between the rudder and transom, bearing against the top pintle; has adjusted the pintle design to help, but judges the best fix would be a rudder flush with the top pintle so the rope can slide off aft; may modify the rudder over the winter; asks Andrew Graham whether laminating chine runners to the sides before the bottom worked out well.
-[23] Archive message page_1141 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1158, 2003-08-19) — "Re: Shim deckbeam #1?": suggests fastening nylon webbing, line, or rigging wire from the rudder head to the deck (not shock cord, which would stretch) as an easy fix for the mainsheet fouling; asks whether Alastair has considered leading the mainsheet through the deck instead of the transom, over the vent baffle to avoid water ingress.
+[23] Archive message page_1141 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1158, 2003-08-19) — "Re: Shim deckbeam #1?": suggests fastening nylon webbing, line, or rigging wire from the rudder head to the deck (not shock cord, which would stretch) as an easy fix for the mainsheet fouling; asks whether Alastair has considered leading the mainsheet through the deck instead of the transom, over the vent baffle to avoid water ingress.
 [24] Archive message page_1142 (openboat / Alastair, `paradoxbuilders`, msgnum 1159, 2003-08-19) — "Re: Shim deckbeam #1?": clarifies the sheet must run in and out over the top of the pintle as the sail is trimmed, not just drop into the notch, so a webbing strip would be a poor bearing surface; his own fix is a small cap over the top of the pintle that the line runs over freely; no fouling trouble at the quarter cleats or yuloh bearing; a deck-mounted fairlead low enough to avoid shipping water when inverted would probably throw off the correct lead to the boom, but fitting a motor might make a deck lead worth it to avoid sheet/motor tangles; asks the list whether a deck-led sheet could still work with the roller reefing and correct boom-end loading.
 [25] Archive message page_1175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1192, 2003-09-10) — "Re: Robust constuction": wonders about excluding the rudder's lead ballast in favor of a bungee cord from the tiller to the blade's leading edge, to hold it down, help it snap upright past a critical angle, and cushion rock impacts.
 [26] Archive message page_1176 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1193, 2003-09-10) — "Re: Robust constuction": the stock ballasted rudder already comes up very easily; a bungee scheme would need to be strong enough to hold the buoyant blade down, making the up-haul heavier than lifting the ballasted blade, and would still need a separate downhaul since bungee cord doesn't last long in the marine environment; describes building a Little Cruiser rudder with lead shot mixed into epoxy poured into the same screw-fitted cutout a hot-lead casting would use — no melting needed, easier to fair than poured lead.
@@ -583,8 +685,8 @@ on thin-walled tube generally.
 [34] Archive message page_1333 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 1353, 2003-11-16) — "Re: Rudder Foil Shape": corrects his own thickness figure — the rudder foil is 2×12 mm ply, not 2×24 mm, for a total thickness of 24 mm; 24/400 = 0.06, explaining why NACA 0006 is the closest match.
 [35] Archive message page_1335 (openboat / Alastair, `paradoxbuilders`, msgnum 1355, 2003-11-16) — "Re: Rudder Foil Shape": "Silly me, still math never was my strong suit" — accepts Paul's correction to his own earlier 16.66%/NACA 0015 estimate, which had used the same mistaken 2×24 mm figure. Signed "Al, Yeovil, England."
 [36] Archive message page_1658 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1680, 2003-12-30) — "rudder": hanging his rudder, asks whether the pivot point is meant to be on the ship's centerline at the transom.
-[37] Archive message page_1663 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1685, 2003-12-30) — "Re: rudder": sheet #1 shows the upper rudder half's centerline on the vessel centerline (pivot axis on-center), sheet #11 doesn't contradict it; symmetry alone makes an off-center upper half look wrong, but the lower half and tiller work fine off-center; looking forward to seeing David's photos.
-[38] Archive message page_1730 (openboat / "Alastair", `paradoxbuilders`, msgnum 1752, 2004-01-02) — "Re: rudder": "That's what I did." — confirms DC's on-center pivot-point reading from his own build.
+[37] Archive message page_1663 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1685, 2003-12-30) — "Re: rudder": sheet #1 shows the upper rudder half's centerline on the vessel centerline (pivot axis on-center), sheet #11 doesn't contradict it; symmetry alone makes an off-center upper half look wrong, but the lower half and tiller work fine off-center; looking forward to seeing David's photos.
+[38] Archive message page_1730 (openboat / "Alastair", `paradoxbuilders`, msgnum 1752, 2004-01-02) — "Re: rudder": "That's what I did." — confirms Smith's on-center pivot-point reading from his own build.
 [39] Archive message page_1781 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1804, 2004-01-06) — "Sven's New Rudder System": relays a conversation with Sven Yrvind explaining the rudder design in his new book — a hinged false transom (kick-up, sea-anchor jigger use), a short mast on the rudder (lever, steering-sail mount, self-steering sheet point), a figure-eight-rigged trim-tab pulley ("power steering," Fowler-flap-like breakdown, drag brake), straight-line trim-tab/self-steering rigging, a friction "tiller tamer" peg, and a second friction stick adjusting kick-up friction and locking a shoal-cruising angle; Yrvind judged the system suitable for Paradox; posted an accompanying drawing to the group's Photo section (Longyard file); "I'm sorry, but I'm DAMNED impressed by this! Bill Longyard."
 [40] Archive message page_1852 (w.serjeant / "barnacletoo" / William Serjeant, `paradoxbuilders`, msgnum 1875, 2004-01-23) — "Double Rudders": floats fitting two rudders working together so an outboard could be mounted on the centerline, with the steering mechanics still to be worked out; notes a UK-made wind-vane self-steering unit that mounts to an outboard bracket, so either the motor or the self-steering gear could occupy the same centerline mount; wonders whether the sheeting would foul the wind-vane hardware; asks for feedback.
 [41] Archive message page_1853 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1876, 2004-01-23) — "Re: Double Rudders": on a transom as narrow as Paradox's, sees no advantage to mounting the rarely-used engine dead center; twin rudders add hassle and drag.
@@ -600,3 +702,21 @@ on thin-walled tube generally.
 [51] Archive message page_3242 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3273, 2005-12-07) — "Re: Rudder construction...": thanks Chris Ostlind, judging the oversized-hole/epoxy-fill/rebore/bushing technique "a very good solution." Signed "Bill."
 [52] Archive message page_3243 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3274, 2005-12-07) — "Re: Rudder construction...": thanks Glen Maxwell for independently confirming the same fix, "I'm just about to do this with my own Paradox rudder." Signed "Bill."
 [53] Archive message page_3244 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3275, 2005-12-07) — "Re: Rudder construction...": did the same on his own rudder, setting the pivot-bolt washers flush with the surrounding surfaces, bedded in epoxy. Signed "Jack."
+[54] Archive message page_3723 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3755, 2006-07-17) — "Rudder Pintels": asks whether the raised rudder blade scrapes against the upper pintle brackets, and whether epoxying in a fixed pin at both the upper and lower stock positions would eliminate the conflict more cheaply.
+[55] Archive message page_3724 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3756, 2006-07-17) — "Re: Rudder Pintels": his own rudder has scraped the paint off where the bolt heads rub, though the epoxy underneath is fine — used countersunk bolts but didn't countersink them far enough; doesn't consider it a problem. Signed "Al, Yeovil, England."
+[56] Archive message page_3727 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3759, 2006-07-18) — "Re: Rudder Pintels": thanks Alastair, concludes he was probably "over thinking" the question.
+[57] Archive message page_3808 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3840, 2006-08-09) — "Tiller Shape": asks what methods other builders have used to derive the tiller's shape or curve, considering cardboard-section templates, and whether a 1 1/2 in square cross-section would be about right. Signed "Steve Yahn."
+[58] Archive message page_3809 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3841, 2006-08-10) — "Re: Tiller Shape": banged some nails into a board and laminated the tiller round them. Signed "Al, Yeovil, England."
+[59] Archive message page_3810 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3842, 2006-08-11) — "Re: Tiller Shape": thanks Al for the reply, but really wants to know the tiller's length and how much curve, having been unable to find it on the plans; will make up his own dimensions otherwise absent further input. Signed "Steve Yahn."
+[60] Archive message page_3811 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3843, 2006-08-11) — "Re: Tiller Shape": does not recall how he settled on his own tiller's shape, but suggests reverse-engineering the needed clearance instead — clamp a length of stiff wire (a coat-hanger will do) to the rudder stock, bend it by hand, and check it against every internal obstruction as the rudder is swung side to side. Signed "Al, Yeovil, England."
+[61] Archive message page_3812 (dclark52001 / Derek Clark, `paradoxbuilders`, msgnum 3844, 2006-08-11) — "Re: Tiller Shape": took a one-inch galvanized pipe and bent it by working it through a hole drilled through a 4x2 block until it curved enough, then cut it to length; afterward gave it a bit more bend in a vice so it would not stick in the under-deck foam at the extremes of its swing.
+[62] Archive message page_3818 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3850, 2006-08-13) — "Re: Tiller Shape": asks Derek Clark to confirm he used the bent pipe itself as the finished tiller.
+[63] Archive message page_3819 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3851, 2006-08-13) — "Re: Tiller Shape": thanks Alastair for the wire-template suggestion, closing out the thread.
+[64] Archive message page_3822 (dclark52001 / Derek Clark, `paradoxbuilders`, msgnum 3854, 2006-08-13) — "Re: Tiller Shape": confirms he used the bent galvanized pipe directly as the finished tiller, no separate lamination — handier and quicker than his other two options (laminating plywood strips or bending ash).
+[65] Archive messages page_3826/page_3827 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3858, 2006-08-15, "Rudder"; openboat / "alopenboat" / Alastair, msgnum 3859, 2006-08-15, "Re: Rudder") — Stephen Yahn asks whether the rudderstock/gudgeons/pintles mount on the transom centerline, or whether the rudder blade itself should be centered; Alastair confirms his own pintles are on the centerline, which puts the blade slightly to starboard and the tiller slightly to port. Signed "Al, Yeovil, England."
+[66] Archive message page_3949 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3982, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); reports that he and Derek Clark both found the mainsheet drops into the gap between the rudder stock and transom on a broad reach or run, starboard tack, forcing it to slide over the pintle/gudgeon; fixed with a small wooden insert filling the gap as a fairlead. Signed "Al, Yeovil, England."
+[67] Archive message page_3951 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 3984, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); a heavy West Marine rudder uphaul cleat bent, forcing him to furl the mainsheet along with the sail until replaced; separately fixed the raised rudder banging its trailing edge on the transom by fitting a small stainless bracket to the rudder head and slipping rubber hose over it as a stop. Signed "Glen."
+[68] Archive message page_3963 (herrons / "liam_lund_macdonald" / "SH", `paradoxbuilders`, msgnum 3997, 2006-09-17) — "MoDz'": announces having posted a "PS5" drawing of his own interpretation of Paradox, fitted with a full-length skeg carrying a "barn door" rudder; asks the list for thoughts. Signed "SH."
+[69] Archive message page_3966 (apcf14 / "roverticket" / Jeff, `paradoxbuilders`, msgnum 4000, 2006-09-17) — "Re: MoDz'": objects that fitting a full skeg and barn-door rudder moves the center of lateral resistance aft, forcing the sail's center of effort and the mast aft too (into the cabin, disturbing the vent box/mast step), and alters the sail's lead since the rudder sits directly behind the skeg; judges the change not worth it unless the builder fully understands the consequences, since it adds draught without a sailing benefit and risks a worse-sailing boat; suggests a small forward centerboard as a lighter-touch alternative, at the cost of extra work and a hull opening that can jam with stones; "The thing about PARADOX is her simplicity." Signed "Jeff UK."
+[70] Archive message page_3965 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3999, 2006-09-17) — "Re: MoDz'": full text and citation at [people/alastair.md](/people/alastair.md); "Are you intending to fit an engine? I expect you will need it if you want to get through a tack." Signed "Al, Yeovil, England."
+[71] Archive message page_3996 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4030, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [people/alastair.md](/people/alastair.md); on launching "Little Jim" he occasionally had trouble tacking (not coming up to the wind, or getting stuck head to wind); playing with the trim mostly sorted it, though allows it may just have been himself and not the boat; sails happily on any point regardless of trim, tested by moving a passenger's weight around; only the tacking seems trim-sensitive; gybes quite benignly, so that direction always offers a way round. Signed "Al, Yeovil, England."

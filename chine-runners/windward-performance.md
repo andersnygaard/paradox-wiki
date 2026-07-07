@@ -149,6 +149,26 @@ higher… both methods work equally well on Matt's designs," with the chine
 runner's distinct edge being **really shallow water** (see [origin and
 evolution](/chine-runners/origin-and-evolution.md)).
 
+## A recurring skeptic's question: does British water sail differently?
+
+A distinct, recurring form of the same underlying doubt asks not about the
+chine runners specifically but about regional sailing conditions: whether a
+hull form and rig that work well in American, Australian, or New Zealand
+waters can really perform to windward the same way in "British conditions."
+The direct answer, on the record, is that there is no reason to expect a
+difference — sailing conditions are not seriously different enough between
+those places to change a boat's windward performance, and the durable
+explanation for why conventional (rather than radical-looking) designs
+still dominate the secondhand and new-boat markets is advertising,
+salesmanship, and self-perception rather than any real performance gap. See
+[secondhand Paradox market — build vs. buy secondhand: a UK newcomer's
+cost-benefit
+hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation)
+for the fuller exchange this question arose from, including a design-history
+theory on why flat-bottomed sharpies suit American waters (wide planks from
+bigger trees) against the English Channel's traditional narrow, deep,
+"plank on edge" hull form.
+
 The chine runners' unfamiliar look continues to draw the same skeptical
 question from newcomers: whether so radical-looking a leeway-resisting
 mechanism can really sail to windward at all, and whether the boat's storage
@@ -178,3 +198,4 @@ fit](/operations/crew-size-and-fit.md#why-the-cabin-is-enclosed-a-convertible-ca
 [9] Archive message page_2593 (col_sartoris / "Michael Audette", `paradoxbuilders`, msgnum 2623, 2005-03-21) — "New member of group, seeking sailing performance info": new member introduction; calls the bilge/chine runners "a radical concept"; asks how well the boat sails to windward on that draft, and whether the number of "gizmos" for storage makes the boat harder to live with than it looks, or is more straightforward than it appears. No reply on record.
 [10] Archive message page_2635 (drollerindy / "Doug Roller", `paradoxbuilders`, msgnum 2635, 2005-04-06) — "Upwind sailing": new correspondent; asks how Paradox compares with centerboard catboats sailing upwind, and whether it has a lot more leeway or the chine runners are "magic."
 [11] Archive message page_2636 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2636, 2005-04-07) — "Re: Upwind sailing": "They're magic! take a look in the photos section, Zoë file, wake1 & wake2 for a windward performance example."
+[12] Archive message page_3576 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3607, 2006-04-14) — "Re: Enuf pics?": doubts British sailing conditions are seriously different from US, Australian, or New Zealand conditions in a way that would change windward performance; attributes conventional boats' continued market dominance to advertising, salesmanship, and self-perception rather than any real performance gap. Full exchange at [operations/secondhand-market.md](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).

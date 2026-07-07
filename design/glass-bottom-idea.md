@@ -76,7 +76,9 @@ This remains a speculative idea rather than a build report — no builder is
 recorded as having actually built a glass-bottom Paradox — but between the
 named prior-art boats, the referenced how-to article, and concrete
 material/thickness recommendations, a future builder has a genuine starting
-point.
+point. For the Lexan-versus-Perspex/acrylic tradeoff itself (toughness,
+scratch resistance, working properties, and sourcing), see [window glazing
+materials](/construction/window-glazing-materials.md).
 
 # Citations
 

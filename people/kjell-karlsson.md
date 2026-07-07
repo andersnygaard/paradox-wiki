@@ -277,6 +277,11 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
   buckled a trailer fender while hauling out. See [the "BRIS Paradox" — the
   finished rudder, and a gusty-weekend sail that ended
   badly](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).
+- **A composite-build progress inquiry, left unanswered.** A newcomer
+  interested in building in foam rather than plywood asked how much sailing
+  Karlsson had done since completing the BRIS Paradox, and for the
+  scantlings behind his foam construction — foam thickness and number of
+  glass layers — with no reply on record.[60]
 
 # Citations
 
@@ -295,7 +300,7 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [13] Archive message page_1529 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1549, 2003-12-26) — "Sven's book": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter).
 [14] Archive message page_1720 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1742, 2004-01-02) — "Re: Wooden spars": full text and citation at [design/rig.md](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 [15] Archive message page_1719 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1741, 2004-01-02) — "Re: Paradox in rough weather": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#why-a-keel-less-dory-like-hull-resists-tripping-in-steep-waves).
-[16] Archive message page_1737 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1759, 2004-01-03) — "Re: ParaPlastic": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast); replies to Kjell's own "ParaPlastic" album post (msgnum 1755, not independently preserved in the archive).
+[16] Archive message page_1737 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1759, 2004-01-03) — "Re: ParaPlastic": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast); replies to Kjell's own "ParaPlastic" album post (msgnum 1755, not independently preserved in the archive).
 [17] Archive message page_1742 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1764, 2004-01-03) — "Re: ParaPlastic": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast).
 [18] Archive message page_1786 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1809, 2004-01-08) — "Chapter9rev": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices).
 [19] Archive message page_1790 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1813, 2004-01-08) — "Re: Chapter9rev": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices).
@@ -339,3 +344,4 @@ are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 [57] Archive messages page_3161/page_3170 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3192, 2005-09-19, "paraplastic sails"; and msgnum 3201, 2005-09-20, "paraplastic report"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
 [58] Archive messages page_3172/page_3175 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3203, 2005-09-21, "New pics"; and msgnum 3206, 2005-09-22, "Re: New pics"): full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 [59] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).
+[60] Archive message page_3883 ("Niels" / "sail2xs" / "sailzafu", `paradoxbuilders`, msgnum 3915, 2006-08-23) — "Paraplastic": addressed to "kjell"; asks whether he has been doing much sailing since completing his foam-hulled Paradox, and about the scantlings used to build in foam — foam thickness, glass layers, etc. No reply is recorded. Same brand-new correspondent tracked at [design/furling-system.md](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum), distinct from the established "Nels" (`arvent`/`recree8`).

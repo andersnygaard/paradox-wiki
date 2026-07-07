@@ -1,0 +1,94 @@
+---
+type: Person
+title: Matt (Ithaca, NY)
+description: An Ithaca, New York builder who started a from-scratch Paradox in June 2006 after building two Yost-designed folding kayaks and a PDRacer, keeping a public online build log.
+tags: [paradox, people, builder, newcomer, new-york, ithaca]
+timestamp: 2026-07-07T00:00:00Z
+---
+
+# Matt (Ithaca, NY)
+
+**Matt** (Yahoo handle `twitch_816`) is a Paradox builder from the Ithaca,
+New York area, on Cayuga Lake, who introduced himself to the list in June
+2006 as a "long-time lurker" finally starting to build. He had already
+completed three other small boats — two Yost-designed folding kayaks and a
+PDRacer — and judged Paradox by far the most complex of the four. Moving to
+a house on Cayuga Lake that fall, with limited room to build at the new
+property, he treated the summer of 2006 as a race to get as much of the hull
+built as possible beforehand, with two brothers due to help in July.
+
+Matt kept a public build log at
+`www.math.cornell.edu/~noonan/boats/paradox.html`, alongside a page
+describing his three prior boats at `www.math.cornell.edu/~noonan/boats`.
+
+[Derek Clark](/people/derek-clark.md), then about two weeks from finishing
+and launching his own Paradox ("Enuf"), welcomed him and noted [Bill
+Serjeant](/people/bill-serjeant.md) was making "amazing progress" on his own
+build.[1] Bill Serjeant also welcomed him, reporting his own hull bottom
+fixed and chine runners complete, with glassing the bottom next — full
+detail at
+[people/bill-serjeant.md](/people/bill-serjeant.md#a-dry-assembly-of-the-hull-named-faith).[2]
+
+Replying to Derek, Matt described Ithaca as a beautiful part of central New
+York shaped by retreating glaciers into gorges, waterfalls, and deep lakes,
+about two hours south of Lake Ontario; his planned move that August was to
+the shore of 40-mile-long Cayuga Lake, itself still within Ithaca. He was in
+the area for graduate studies in mathematics at Cornell, in no particular
+rush to graduate. He also asked Derek whether the pigment in his hull's
+epoxy protected it from UV on its own, or whether paint or varnish was going
+over it as well, and asked — half in jest — why so many green-hulled,
+red-sailed Paradoxen came from the UK side of the Atlantic.[3] Derek
+answered that his own supplier insisted the pigment alone prevented UV
+degradation, with no paint applied over it — see [Enuf's paint
+scheme](/boats/enuf.md#paint-scheme-three-tone-green-with-a-yellow-bottom)
+for the fuller account of that reasoning and its later complication. On the
+color choice, he corrected "forest green" to **British Racing Green**, and
+explained the red sail as a deliberate high-visibility choice: a boat that
+is easy to spot in genuine trouble at sea, but inconspicuous with the sail
+down while creeping up rivers.[4]
+
+By late July 2006, with his two brothers' help, Matt had wired on and glued
+his hull's bottom panel — its scarf joint came out cleaner than the side
+panels' had, done earlier on a flat work surface — and moved on to fitting
+out the interior and the vent trunk, expecting progress to slow for a week
+while he packed up his apartment for the move to Cayuga Lake. Answering
+[Derek Clark](/people/derek-clark.md)'s question about whether a laminated,
+double-layer panel could use butt joints instead of scarfs, he explained
+that a laminated panel's own bonding area so far exceeds a scarf or butt
+joint's that the joint itself barely matters for strength — full technical
+detail at [a double-layer plywood technique for an enlarged
+Paradox](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood).[5]
+
+In early August 2006, with the chine runners underway, Matt asked where the
+copper lightning-grounding flashing should sit in the hull's layup, and later
+asked whether the exposed copper itself gives any anti-fouling benefit — both
+answered by [Glen Maxwell](/people/glen-maxwell.md); see [lightning
+protection — where the copper flashing sits in the layup, and copper's bonus
+as an
+antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant)
+for the full exchange. He described turning the hull over as his next
+milestone after the chine runners.[6][7][8][9]
+
+Also in August 2006, Matt suggested building a PDRacer as a quicker
+alternative to a hobbyist's proposed scaled-down "mini" Paradox — see [a
+scaled-down "mini" Paradox
+(speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[10]
+He also relayed a sailmaker's question about why the Paradox sail uses
+sleeves rather than lashings on the yard and boom, answered by Jack Gardiner
+and Nels; see [why the sail uses sleeves rather than lashings, and a first
+sail of the 2006
+season](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[11]
+
+# Citations
+
+[1] Archive message page_3674 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3706, 2006-06-08) — "Re: Starting a Paradox in Ithaca": welcomes him, asks where Ithaca is (thinks it looks lovely from the web page), reports being about two weeks from finishing and launching his own Paradox, and notes Bill Serjeant's amazing progress. Signed "Derek."
+[2] Archive message page_3680 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3712, 2006-06-14) — "Re: Starting a Paradox in Ithaca": congratulates him on starting; reports his own Paradox's bottom now well and truly fixed and the chine runners just completed, with glassing the bottom next; will have to stop building for two months while away in Australia, where he hoped — so far without a reply to his emails — to meet Andrew Graham and see his Paradox. Signed "Bill."
+[3] Archive message page_3675 (men99 / "twitch_816" / Matt, `paradoxbuilders`, msgnum 3707, 2006-06-12) — "Starting a Paradox in Ithaca": introduces himself as a long-time lurker finally starting to build; will keep a build log at `www.math.cornell.edu/~noonan/boats/paradox.html`; has previously built two Yost-designed folding kayaks and a PDRacer (see `www.math.cornell.edu/~noonan/boats`), none as complex as Paradox; moving to a house on Cayuga Lake that fall, with little room to build there, making the summer "a bit of a race" to get as much done as possible; two brothers will help in July. Signed "Matt."
+[4] Archive message page_3686 (men99 / "twitch_816" / Matt, `paradoxbuilders`, msgnum 3718, 2006-06-16) — "Re: Starting a Paradox in Ithaca / pigment": describes Ithaca, central New York, about two hours south of Lake Ontario, shaped by glacial retreat into gorges, waterfalls, and deep lakes; will move that August to the shore of 40-mile-long, never-wider-than-4-mile Cayuga Lake, still within Ithaca; in the area for graduate studies in mathematics at Cornell, not in a rush to graduate; asks Derek Clark whether the pigmented epoxy on his hull protects it from UV on its own or is varnished/painted over as well, and jokingly asks why so many green-hulled, red-sailed Paradoxen come from the UK. Signed "Matt."
+[5] Archive message page_3687 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3719, 2006-06-16) — "Re: Starting a Paradox in Ithaca / pigment": no paint over the pigmented epoxy; his supplier insists the pigment alone prevents UV degradation; corrects "forest green" to British Racing Green; explains the red sail as chosen for high visibility if ever in trouble at sea, while the hull stays inconspicuous with the sail down going up rivers.
+[6] Archive message page_3780 (men99 / "twitch_816" / Matt, `paradoxbuilders`, msgnum 3812, 2006-07-21) — "Re: Plywood Choices": reports the bottom panel wired on and its scarf cut and glued in place the previous weekend with his two brothers' help, coming out cleaner than the side scarfs (done on a flat surface); answers Derek Clark's question on whether laminated sides could use butt joints instead of scarfs — a laminated panel's own full-sheet bonding area (over 4,600 sq in) already dwarfs a scarf's (~384 sq in) or an unscarfed butt's (~36 sq in), so a butt joint would add little strength beyond sealing the sheet edges; is now fitting out the interior and vent trunk, with progress to slow for a week while he packs to move apartments. Signed "Matt."
+[7] Archive message page_3799 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3831, 2006-08-06) — "Question about lightning protection": full text and citation at [design/lightning-protection.md](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant); asks whether the copper flashing goes beneath the roving (against the wood), beneath the bottom paint but on top of the glass, or exposed to the water; reports working on the chine runners, with turning the hull over next. Signed "Matt."
+[8] Archive message page_3803 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3835, 2006-08-08) — "Re: Question about lightning protection": full text and citation at [design/lightning-protection.md](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant); had pictured a glass layer over the flashing, not the flashing sitting exposed; asks whether the exposed copper has any anti-fouling benefit, having considered copper powder in the bottom epoxy instead but deferring that to a later season. Signed "Matt."
+[9] Archive message page_3807 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 3839, 2006-08-09) — "Re: Question about lightning protection": full text and citation at [design/lightning-protection.md](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant); confirms copper is a great antifoulant, sparing a copper-clad bottom from separate anti-fouling paint and its yearly maintenance. Signed "Glen."
+[10] Archive message page_3821 (men99 / "twitch_816" / Matt, `paradoxbuilders`, msgnum 3853, 2006-08-13) — "Re: Mini Paradox idea": full text and citation at [design/variants/scaled-down-idea.md](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative); suggests a PDRacer as a weekend-buildable alternative. Signed "Matt."
+[11] Archive message page_3828 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3860, 2006-08-16) — "Paradox sails": full text and citation at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season); relays a local sailmaker's question about why the Paradox sail uses sleeves rather than lashings on the yard and boom; reports the roving now on his own hull's bottom. Signed "Matt."

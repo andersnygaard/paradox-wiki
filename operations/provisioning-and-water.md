@@ -64,7 +64,7 @@ safety: a loop of line can take a finger off in an instant if a good-sized
 fish hits while the line is being handled carelessly.
 
 **Pacific waters: the "meathook" rig, learned from albacore-jig
-fishermen.** [DC](/people/dc.md), after losing "much expensive gear" chasing
+fishermen.** [David C. Smith](/people/david-c-smith.md), after losing "much expensive gear" chasing
 sport-fishing tackle, returned to a simple heavy-duty rig set up for him by
 commercial-style albacore jig fishermen: roughly 50 ft of 500 lb tuna cord
 tied to a stainless swivel, followed by 25 ft of 500 lb monofilament ending
@@ -80,7 +80,7 @@ against a toothy catch. Fished this way, the rig took sierra, bonito,
 albacore, yellowfin, yellowtail, and dorado — enough, between sushi and
 barbecue, to fill a freezer and share with other sailors — though it also
 demands a wary eye for marine mammals and seabirds, since the trailing hook
-can just as easily hook a booby, gull, or frigate bird as a fish. DC's
+can just as easily hook a booby, gull, or frigate bird as a fish. Smith's
 broader advice for an unfamiliar fishing ground: local knowledge from
 commercial fishermen, or a stop at a commercial-fishing chandlery, beats
 guessing at sport-fishing tackle, since commercial fishermen "know what
@@ -292,6 +292,6 @@ and gatherings.
 [18] Archive message page_1329 (arvent / Nels, `paradoxbuilders`, msgnum 1349, 2003-11-16) — "Re: Fresh Water tanks": from backpacking/camping experience, would not drink local water anywhere without running it through a filter first, and would hesitate to even bathe in some European water; recommends a good portable filter from a backpacking outfitter as worth the price.
 [19] Archive message page_1998 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2021, 2004-03-28) — "Trolling": asks for saltwater trolling advice and lure/rig recommendations, having no prior saltwater fishing experience, wanting to catch dinner aboard "Whisper."
 [20] Archive message page_1999 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 2022, 2004-03-28) — "Re: Trolling": recommends a cheap ($4) broken-back "Rebel"-style "Atom Bomber" lure, effective in the North East Atlantic seaboard for striper bass, bluefish, and weakfish; believes the vibration felt through the line, more than the lure's look, draws the strike; uses a steel leader against rocks and biting fish; warns handling the line carelessly around a hooked fish risks losing a finger.
-[21] Archive message page_2000 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2023, 2004-03-29) — "Re: Trolling": describes his "meathook" rig — 50 ft of 500 lb tuna cord to a stainless swivel, 25 ft of 500 lb monofilament to a lead-headed, feathered "tuna-feather" jig with a barbless double hook, plus a homemade surgical-tubing shock absorber (lashed at a stretched 16 ft, wrapped in tubular nylon webbing against sun-rot) and a wire leader; learned from commercial-style albacore jig fishermen; landed sierra, bonito, albacore, yellowfin, yellowtail, and dorado, enough to fill a freezer and share; cautions the trailing hook risks snagging boobies, gulls, and frigate birds; recommends consulting commercial fishermen or a commercial-fishing chandlery for local knowledge.
+[21] Archive message page_2000 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2023, 2004-03-29) — "Re: Trolling": describes his "meathook" rig — 50 ft of 500 lb tuna cord to a stainless swivel, 25 ft of 500 lb monofilament to a lead-headed, feathered "tuna-feather" jig with a barbless double hook, plus a homemade surgical-tubing shock absorber (lashed at a stretched 16 ft, wrapped in tubular nylon webbing against sun-rot) and a wire leader; learned from commercial-style albacore jig fishermen; landed sierra, bonito, albacore, yellowfin, yellowtail, and dorado, enough to fill a freezer and share; cautions the trailing hook risks snagging boobies, gulls, and frigate birds; recommends consulting commercial fishermen or a commercial-fishing chandlery for local knowledge.
 [22] Archive message page_2679 (daved / "jackefroste" / Daved Ferrell, `paradoxbuilders`, msgnum 2709, 2005-05-14) — "Water containers used in Little Cruiser": "I've read about your using small water containers. What size and brand are they?" See the Bolducs' own trip-inventory figures at citation [7] above for the concrete answer (twenty 1-quart jugs plus 2.5- and 5-gallon jugs).
 [23] Archive message page_2681 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2711, 2005-05-15) — "Re: Water containers used in Little Cruiser": one-quart containers that fold flat, similar in construction to clear plastic cubes sold in 2.5- and 5-gallon sizes at K-Mart and outdoor stores; two 2.5-gallon cubes carried to top off the smaller ones; original small cubes bought from Campmor (NJ) and Adventure 16, prized because they folded flat once emptied, freeing space for more food or other heavy ballast; that product discontinued, so expects to switch to round bottles (more space-hungry) once the remaining stock wears out.

@@ -3,7 +3,7 @@ type: Person
 title: David Beard
 description: A first-time Paradox builder from Tupelo, MS, who bought and refitted Bob Archibald's secondhand Paradox — naming her "Whisper" — while also building his own Paradox from scratch, and became one of the list's most prolific and enthusiastic contributors.
 tags: [paradox, builder, people]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # David Beard
@@ -144,6 +144,13 @@ builder's did, switching to bronze (brass) Schedule 40 pipe ended the
 problem for good. See [rig and sail — the tack strut also carries
 compression, not just
 tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension).
+In August 2006 he raised a "Power Paradox" idea of his own — a motor-only
+version with no sail — asking how much ballast a hull would need to stay
+stable under power alone, and specifically for a way to calculate a
+stability curve for that case; the exchange it drew, including a detailed
+motor-only conversion scheme, is recorded at [auxiliary outboard power —
+ballasting for power-only use, and a full "Power Paradox" conversion
+scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[263][264]
 
 **Encouraging first-timers, and welcoming newcomers.** As a self-taught first
 boatbuilder who credited [Don Elliott](/people/don-elliott.md)'s
@@ -222,12 +229,27 @@ mast's interior; see [running lights — routing masthead-light wiring outside
 the mast, below the
 sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
 
+**A 2006 full re-wire, and a deck-wear non-problem confirmed.** Re-wiring
+"Whisper" for a full LED lighting setup, auxiliary plugs, and a handheld
+GPS, David asked the list what wire gauge other builders used, prompting a
+broader wire-sizing discussion; see [radio and electronics — 12-volt wiring
+gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
+Around the same time he confirmed "Whisper" has never suffered the
+tack-strop deck-chewing wear a newcomer worried about, her deck strop
+being cut a little short so it never touches the deck once the sail is
+hoisted; see [rig and sail — tack-pipe deck
+wear](/design/rig.md#tack-pipe-deck-wear).[260][261] Through his employer,
+Tecumseh Products, he also volunteered "Whisper" that July as a test
+platform for a small DC golf-cart air-conditioning unit he judged probably
+unsuited to Paradox's power budget; see [transom deck plate — a proposed DC
+air-conditioning trial](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial).[262]
+
 **Chasing down the MAIB shakedown-cruise article, and volunteering for the
 Build Manual.** Having missed a *Messing About In Boats* article on "Zoë"'s
 shakedown cruise in print, David prompted it to be scanned into the group's
 files section, a request fulfilled some two months later — see
 [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
-When [DC](/people/dc.md#contributions-and-stories) opened the group-written
+When [David C. Smith](/people/david-c-smith.md#contributions-and-stories) opened the group-written
 Build Manual for contributions, David volunteered to write the **yuloh**
 section. He pointed a newcomer with an insulation-and-rot question to a
 **removable foam flotation** idea, which he planned to use on "Whisper"
@@ -434,6 +456,54 @@ difference the cover made open versus closed. See [transom deck plate — a
 back-to-back
 ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
 
+**Answering Derek Clark's outboard questions, once more.** Reconfirmed the
+2 hp Honda on "Whisper" works very well, and, asked about shaft length,
+confirmed he had tried both and prefers the **short shaft**, which pushes
+"Whisper" at hull speed at a little under half throttle. See [auxiliary
+outboard power — weighing a 2 hp four-stroke against a bigger motor, and
+whether Paradox can
+plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane)
+and [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+
+In early 2006 he asked the list for the link to the Bolducs' Micro Cruising
+Yahoo group, answered within an hour by Alastair and Chris Ostlind; see
+[Micro Cruising (Yahoo group) — a recurring request for the group's own
+link](/references/micro-cruising-group.md#a-recurring-request-for-the-groups-own-link).
+
+Answering a prospective visitor's "anyone near Florida?" question with his
+own Tupelo, MS location, offered an open invitation to drop by for a sail —
+a standing offer he had extended before, on the same terms, when "Wayne"/
+William Nix asked after builders near Dallas.[265]
+
+On a tiller-rope-lock question, reported never installing one on "Whisper" —
+after five years of sailing her, he hasn't needed one, since she will sail
+herself. See [self-steering — locking the tiller rope, and why most
+builders don't
+bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[266]
+
+**A winter Tenn-Tom Waterway delivery cruise.** In September 2006 he planned
+a roughly 300-mile delivery cruise for "Whisper" that coming winter down the
+Tennessee-Tombigbee Waterway to the Gulf of Mexico, using the Honda 2 hp as
+main power for the whole passage, and asked fellow Honda 2 hp owners what
+spares to carry beyond the routine shear pins, props, and spark plugs he
+already had. See [Whisper — a winter Tenn-Tom Waterway delivery
+cruise](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise) and
+[auxiliary outboard power — a Honda 2 hp's spare-parts and reliability
+record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[267][268]
+
+**Boom-hardware strength.** Commenting on Bill Serjeant's rudder photos,
+warned that the stock mainsheet/topping-lift tang bends under load — on his
+own "Whisper" he had to bolt three tangs together in place of the single
+stock part to stop it — and recalled Glen Maxwell running into the same
+problem, though without recording how Glen solved it. See
+[people/bill-serjeant.md — Faith's rudder: a sheet-fairlead fix, and
+boom-tang strength](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength).[269]
+
+When Derek Clark announced his departure from the group in September 2006,
+added a short plea of his own for Derek to stay in touch even if he left,
+and was thanked by name in Derek's reply. See
+[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[270]
+
 ## Disambiguation notes
 
 - **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
@@ -610,19 +680,19 @@ ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-c
 [159] Archive message page_1162 (dlb / David Beard, `paradoxbuilders`, msgnum 1179, 2003-09-07) — "Re: Glass": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
 [160] Archive message page_1163 (dlb / David Beard, `paradoxbuilders`, msgnum 1180, 2003-09-07) — "Re: Glass": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
 [161] Archive message page_1170 (dlb / David Beard, `paradoxbuilders`, msgnum 1187, 2003-09-09) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
-[162] Archive message page_1174 (dlb / David Beard, `paradoxbuilders`, msgnum 1191, 2003-09-10) — "Re: Robust constuction": "Point well taken. Thanks" — reply to DC's answer on the strength/aluminum-substitution question.
+[162] Archive message page_1174 (dlb / David Beard, `paradoxbuilders`, msgnum 1191, 2003-09-10) — "Re: Robust constuction": "Point well taken. Thanks" — reply to Smith's answer on the strength/aluminum-substitution question.
 [163] Archive message page_1177 (dlb / David Beard, `paradoxbuilders`, msgnum 1194, 2003-09-10) — "Re: Robust constuction": "Thanks to all !! A beginner can learn so much from discussions like this one. Keep them coming !"
 [164] Archive message page_1254 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1274, 2003-11-08) — "Tank tops": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
 [165] Archive message page_1291 (dlb / David Beard, `paradoxbuilders`, msgnum 1311, 2003-11-15) — "Re: outboard & paradox": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#operating-an-outboard-from-inside-the-cabin).
 [166] Archive message page_1305 (dlb / David Beard, `paradoxbuilders`, msgnum 1325, 2003-11-16) — "Re: outboard & paradox": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#operating-an-outboard-from-inside-the-cabin).
 [167] Archive message page_1316 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1336, 2003-11-16) — "Re: Square tubs verses round tubs": "Amen !!!!!!" — siding with Don Elliott in the epoxy-mixing-advice exchange.
-[168] Archive message page_1338 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1358, 2003-11-16) — "Re: A proposal, a real one": "Great Idea DC." — endorsing DC's group build-manual proposal; see [people/dc.md](/people/dc.md#contributions-and-stories).
+[168] Archive message page_1338 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1358, 2003-11-16) — "Re: A proposal, a real one": "Great Idea Smith." — endorsing David C. Smith's group build-manual proposal; see [people/david-c-smith.md](/people/david-c-smith.md#contributions-and-stories).
 [169] Archive message page_1382 (dlb / David Beard, `paradoxbuilders`, msgnum 1402, 2003-11-17) — "Re: 2 HP Motors": tried a 4 hp four-stroke Yamaha, reaching 6.5 kn max but "pushing way to much water"; doesn't think she will plane.
 [170] Archive message page_1383 (dlb / David Beard, `paradoxbuilders`, msgnum 1403, 2003-11-17) — "Re: A proposal, a real one": "By the way Bill. Great Book!! Couldn't put it down." — reaction to William Longyard's *A Speck on the Sea*.
 [171] Archive message page_1432 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1452, 2003-11-21) — "2 hp": uploaded a photo of "Whisper" motoring under her 2 hp Honda outboard.
 [172] Archive message page_1442 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1462, 2003-11-23) — "Shakedown Cruise": full text and citation at [boats/zoe.md](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
 [173] Archive message page_1448 (dlb / "David Beard", `paradoxbuilders`, msgnum 1468, 2003-11-24) — "Re: Build Manual, Introduction": "I would be interested in the Yuloh part."
-[174] Archive message page_1449 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1469, 2003-11-24) — "Re: Build Manual, Introduction": "Cool David. I look forward to seeing your contribution. What have you been up to lately? Are you still preparing Whisper for the sunny sojourn? What's going on with the new boat?" — unanswered in the archive.
+[174] Archive message page_1449 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1469, 2003-11-24) — "Re: Build Manual, Introduction": "Cool David. I look forward to seeing your contribution. What have you been up to lately? Are you still preparing Whisper for the sunny sojourn? What's going on with the new boat?" — unanswered in the archive.
 [175] Archive message page_1451 (dlb / "dlb", `paradoxbuilders`, msgnum 1471, 2003-11-25) — "Re: Insulation and rot": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#citations).
 [176] Archive message page_1480 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1500, 2003-12-02) — "Re: Aussie Paradox sails": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#launch-and-a-name-zero).
 [177] Archive message page_1485 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1505, 2003-12-08) — "Re: Question for Paradox sailors": full text and citation at [design/chine-runners-and-windward-performance.md](/chine-runners/windward-performance.md#pointing-angles-owners-report).
@@ -703,3 +773,19 @@ ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-c
 [252] Archive message page_3256 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3287, 2006-01-14) — "Cedar Key": full text and citation at [operations/group-cruise-reports.md](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
 [253] Archive message page_3257 (dlb / "David Beard", `paradoxbuilders`, msgnum 3288, 2006-01-14) — "Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
 [254] Archive message page_3264 (dlb / "David Beard", `paradoxbuilders`, msgnum 3295, 2006-01-15) — "Re: Cedar Key": full text and citation at [operations/group-cruise-reports.md](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
+[255] Archive message page_3274 (dlb / "David Beard", `paradoxbuilders`, msgnum 3305, 2006-01-22) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) and [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+[256] Archive message page_3280 (dlb / "David Beard", `paradoxbuilders`, msgnum 3311, 2006-01-22) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) and [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+[257] Archive message page_3306 (dlb / "David Beard", `paradoxbuilders`, msgnum 3337, 2006-01-26) — "Re: Plywood for Paradox": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-2006-recurrence-budget-exterior-ply-and-why-green-plywood-should-be-avoided) (used the same AC exterior plywood grade as Matt Layden and Glen Maxwell, System Three epoxy, and recommends Don Elliott's building manual).
+[258] Archive message page_3321 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3352, 2006-01-29) — "Dave Boldacs Yahoo Group": full text and citation at [references/micro-cruising-group.md](/references/micro-cruising-group.md#a-recurring-request-for-the-groups-own-link); a follow-up the same day (page_3324, msgnum 3355) clarified he had actually been looking for a different, unrelated Yahoo group ("Imp"), not Micro Cruising.
+[259] Archive message page_3401 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3432, 2006-03-12) — "Re: Any Paradox's near Dallas Texas ?": replying to a Dallas-area builder's request to see a finished Paradox in person, offers a visit and a sail at his home in Tupelo, Mississippi.
+[260] Archive message page_3653 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3685, 2006-05-27) — "Re: Deck Chewing": full text and citation at [design/rig.md](/design/rig.md#tack-pipe-deck-wear). Signed "David Beard."
+[261] Archive message page_3654 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3686, 2006-05-27) — "12 volt wiring": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
+[262] Archive message page_3701 (dlb / "David Beard", `paradoxbuilders`, msgnum 3733, 2006-07-03) — "Air Conditioning": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial).
+[263] Archive message page_3813 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3845, 2006-08-12) — "Ballast": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme); has been considering a "Power Paradox" (motor-only), asking the minimum ballast to keep her stable under power alone. Signed "David Beard."
+[264] Archive message page_3815 (dlb / "David Beard", `paradoxbuilders`, msgnum 3847, 2006-08-12) — "Re: Ballast": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme); clarifies he wants numbers and a method for calculating a stability curve under power specifically; found little difference between ballast configurations tried, other than lighter being generally better for power use. Signed "David Beard."
+[265] Archive message page_3909 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3941, 2006-09-02) — "Re: Paradox in or near FL": "I live in Tupelo Ms, Your more than welcome to drop by for a sail any time." Signed "David Beard."
+[266] Archive message page_3913 (dlb / "David Beard", `paradoxbuilders`, msgnum 3945, 2006-09-03) — "Re: Tiller Rope Lock": full text and citation at [operations/self-steering.md](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother); did not install a tiller lock, and after five years sailing "Whisper" has not needed one, since she will sail herself. Signed "David."
+[267] Archive message page_3921 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3953, 2006-09-04) — "Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record) and [boats/whisper.md](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise); researching spare parts for a planned ~300-mile winter cruise down the Tenn-Tom waterway to the Gulf of Mexico, using the Honda as main power. Signed "David Beard."
+[268] Archive message page_3928 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3960, 2006-09-05) — "Re: Honda 2 hp outboard": plain-text/HTML duplicate reply to John Pertalion; gives the planned route — Bay Springs Lake to Pirates Cove, Alabama. Signed "David."
+[269] Archive message page_3950 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3983, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); warns the stock mainsheet/topping-lift tang is not strong enough and bends easily; used three tangs bolted together on "Whisper" to stop it; believes Glen Maxwell had the same problem. Signed "David."
+[270] Archive message page_3961 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3994, 2006-09-16) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); "You cant leave.........were all pals here.....But if you must please stay in touch. God Bless." Signed "David Beard."

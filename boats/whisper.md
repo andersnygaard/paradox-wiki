@@ -402,7 +402,10 @@ ventilation and outboard-power picture follows:
   boat at **4.5 kn at half throttle** on minimal fuel — the clearest single
   outboard-weight/trim comparison on record for the boat. The point of an
   earlier "Outboards" post (above) was not depending on a motor as a
-  substitute for seamanship, not motors being unwelcome generally.
+  substitute for seamanship, not motors being unwelcome generally. Asked
+  directly in 2006 to compare shaft lengths, David Beard confirmed he had
+  tried both and prefers the short shaft, reaching hull speed at a little
+  under half throttle.[88]
 - On cabin-seat comfort for long voyages, [Matt
   Layden](/matt-layden/biography.md)'s own choice of seating was uncertain,
   though [Glen Maxwell](/people/glen-maxwell.md) was believed to have found
@@ -555,6 +558,49 @@ for that skylight's below-deck sailing benefit. The rest of the work was
 locking-hazard cautions, see
 [hatch hardware and security](/construction/hatch-hardware.md).
 
+## Deck wear at the tack-strop fitting, and a 2006 wiring re-do
+
+Years into ownership, "Whisper" has never suffered the deck-chewing wear a
+newcomer worried a tack strop's brass tube might cause: her deck strop is
+cut a little short and never touches the deck once the sail is
+hoisted — see [rig and sail — tack-pipe deck
+wear](/design/rig.md#tack-pipe-deck-wear) for the fuller discussion and
+Alastair's own flared-pipe-end technique.[89] Re-wiring "Whisper" in 2006
+for a full LED lighting setup, auxiliary plugs, and a handheld GPS raised a
+wire-gauge question, answered in full at [radio and electronics — 12-volt
+wiring gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).[90]
+
+## A proposed DC air-conditioning trial
+
+In July 2006, David volunteered "Whisper" as a test platform for a small
+24-volt DC air-conditioning unit developed by his employer, Tecumseh
+Products, originally built for golf carts. He judged it probably unsuited to
+Paradox's power budget, but potentially useful on larger boats; no test
+result is recorded. See [transom deck plate — a proposed DC
+air-conditioning trial](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial)
+for the full exchange.[91]
+
+## A winter Tenn-Tom Waterway delivery cruise
+
+In September 2006 David planned a roughly 300-mile delivery cruise for
+"Whisper" down the **Tennessee-Tombigbee Waterway** ("the Tenn-Tom") that
+coming winter, running the Honda 2 hp outboard as main power for the whole
+passage rather than as backup to the sailing rig — a use case that prompted
+a wider spare-parts and reliability discussion recorded in full at
+[auxiliary outboard power — a Honda 2 hp's spare-parts and reliability
+record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[92][93]
+The planned route ran from **Bay Springs Lake** — about 30 miles down the
+Tenn-Tom from the Tennessee River's Pickwick Lake — to **Pirates Cove,
+Alabama**, across the bay from Pensacola, passing through the waterway's
+lock system as the landscape transitioned from mountains to coastal flat
+land.[94] The cruise plan drew encouragement from other list members,
+including a request that David keep a photographed sailing log so that
+builders without a Paradox of their own could experience the trip
+vicariously.[95][96] Weighing whether a spare throttle cable was worth
+packing, David added one to his own shopping list once a fellow builder
+noted that motorcycle throttle cables of similar construction do
+occasionally break or shed a nipple.[97]
+
 # Citations
 
 [1] Archive message page_483 (David Beard, `paradoxbuilders`, msgnum 483, 2002-05-07) — "Re: Southern California Paradox?": "We named her 'Whisper.'"
@@ -644,3 +690,13 @@ locking-hazard cautions, see
 [85] Archive message page_2586 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2616, 2005-03-08) — "Re: Anybody there?": "Rebuilding Whispers hatch, getting ready for the sailing season." Signed "David."
 [86] Archive message page_2588 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2618, 2005-03-09) — "Re: Anybody there?": asks David what exactly he is doing to the hatch, and whether it is a modification other builders (himself included) might find useful. Signed "Derek."
 [87] Archive message page_2589 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2619, 2005-03-10) — "Re: Anybody there?": not satisfied with the hatch's sliding action and working to improve it; adding a skylight like the one on Glen's "Zoë"; "nothing major." Signed "David."
+[88] Archive messages page_3274/page_3280 (dlb / "David Beard", `paradoxbuilders`, msgnum 3305/3311, 2006-01-22) — "Re: More progress and another question": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane); confirms trying both shaft lengths and preferring the short shaft, reaching hull speed at a little under half throttle.
+[89] Archive message page_3653 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3685, 2006-05-27) — "Re: Deck Chewing": full text and citation at [design/rig.md](/design/rig.md#tack-pipe-deck-wear). Signed "David Beard."
+[90] Archive message page_3654 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3686, 2006-05-27) — "12 volt wiring": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
+[91] Archive message page_3701 (dlb / "David Beard", `paradoxbuilders`, msgnum 3733, 2006-07-03) — "Air Conditioning": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial).
+[92] Archive message page_3921 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3953, 2006-09-04) — "Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); researching spare parts for a planned ~300-mile winter cruise down the Tenn-Tom waterway to the Gulf of Mexico, using the Honda as main power. Signed "David Beard."
+[93] Archive message page_3922 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3954, 2006-09-05) — "Re: Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); two years of use with nothing going wrong. Signed "Cheers, Steve Yahn."
+[94] Archive message page_3928 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3960, 2006-09-05) — "Re: Honda 2 hp outboard": plain-text/HTML duplicate reply giving the planned route: leaving Bay Springs Lake, about 30 miles down the Tenn-Tom from the Tennessee River's Pickwick Lake, ending at Pirates Cove, Alabama, across the bay from Pensacola. Signed "David."
+[95] Archive message page_3956 ("John Pertalion", `paradoxbuilders`, msgnum 3956, 2006-09-05) — "Re: Honda 2 hp outboard": no specific outboard advice, but excited about the cruise route; asks where it starts and finishes; fascinated by the lock system and the mountains-to-coastal-flatland transition. Signed "John Pertalion, Boone, NC."
+[96] Archive message page_3961 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3961, 2006-09-05) — "Re: Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); wishes David well and asks for photos and a written sailing log. Signed "Chris Curtis, Sandpoint Computers."
+[97] Archive message page_3932 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3964, 2006-09-06) — "Re: Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); has added a spare throttle cable to his own list of things to get.

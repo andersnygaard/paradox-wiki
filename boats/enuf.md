@@ -1,9 +1,9 @@
 ---
 type: Boat
 title: Enuf (Derek Clark)
-description: Derek Clark's UK-built Paradox — renamed "Enuf" from an earlier working name, "So-So," on his wife's suggestion — built with a fully worked-out ballast layout, a fabricated tack-strut/boom-axle pivot joint, and a three-tone green paint scheme with a yellow bottom.
+description: Derek Clark's UK-built Paradox — renamed "Enuf" from an earlier working name, "So-So," on his wife's suggestion — built with a fully worked-out ballast layout, a fabricated tack-strut/boom-axle pivot joint, and a three-tone green paint scheme with a yellow bottom; sold within a month of launch after a diabetes diagnosis made continued sailing too risky, departing for a new owner in Norway.
 tags: [paradox, boat, enuf, derek-clark, uk, ballast, paint]
-timestamp: 2026-07-05T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Enuf
@@ -231,6 +231,16 @@ exchange in his usual style, thanking Derek for the finished photos of
 "Enuf." Derek separately caught and corrected his own surname-origin aside
 from the same thank-you post the next day — he had written "Molduc" rather
 than "Bolduc" — joking that diabetes "does strange things to the mind."
+
+A later "Enuf pics?" thread wound down the same way, with a last beat of
+closing banter: Derek, picking up the pointy-bit/Oz joke chain, professed to
+have checked "Enuf" from both port and starboard and worried he might have
+"put the pointy bit at the wrong end" — declaring himself too old to
+contemplate emigrating, since the aunts, uncles, and cousins who had gone to
+Australia in the 1960s had "all gone native" and would barely be
+recognisable.[225] Jim Hall closed the exchange with a one-line reassurance:
+not to worry, since after hauling the hull out of the building shed, Derek
+might yet be able to "turn it round."[226]
 
 ## The epoxy that wouldn't cure
 
@@ -760,13 +770,864 @@ above for the fuller, previously-settled case against a plain bamboo pole.)
 
 While finishing the boom, Derek also asked whether the yuloh could simply
 be mounted in a standard oar socket, and asked about the relative merits of
-2 hp Honda and Suzuki outboards — the outboard question went unanswered in
-the record.[135] On the oar-socket question: an ordinary rowlock carries a
-real risk of tangling with the mainsheet, which can lift it out, and wears
-the oar enough to need good leathers, though many scullers use one anyway;
-fitting a rowlock socket keeps the option open to drop in the plans'
-designed pin (or any other fitting) later, if the rowlock proves
-unsatisfactory.[136]
+2 hp Honda and Suzuki outboards.[135] On the oar-socket question: an ordinary
+rowlock carries a real risk of tangling with the mainsheet, which can lift it
+out, and wears the oar enough to need good leathers, though many scullers use
+one anyway; fitting a rowlock socket keeps the option open to drop in the
+plans' designed pin (or any other fitting) later, if the rowlock proves
+unsatisfactory — ideally with the wedge's top face cut parallel to the oar,
+though the exact angle is not thought to matter much.[136][137][138] The
+outboard question was answered by David Beard, who runs a **2 hp Honda** on
+"[Whisper](/boats/whisper.md)": he prefers its **short shaft** over a long
+one, and it pushes her at hull speed at a little under half throttle — a
+figure consistent with his standing outboard-weight data point (see
+[auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane)).[139][140][141]
+Derek settled on "rowlock" as the word he had been looking for; American and
+British usage differ here, since the same fitting is called an "oarlock" on
+the American side of the Atlantic, a note Derek accepted good-naturedly:
+whichever side of the Atlantic he was ever blown to, that is what he would
+call it.[142][144]
+
+A working answer to the underlying yuloh-in-a-rowlock question came from a
+*Watercraft Magazine* contributor building a similar yuloh for his own 14 ft
+lugger (not a Paradox), mounted in a standard rowlock fitted to the transom:
+the loom is leathered where it passes through the rowlock, with a "button" of
+three 3 mm leather layers screwed to the underside to stop the loom sliding
+through. Contrary to the expectation that the button should sit against the
+rowlock's aft face to stop the loom riding up, it works better positioned
+against the **forward** face — the loom's own down-and-aft angle is enough on
+its own to prevent riding up, making the button largely unnecessary in
+practice. The technique, featured in *Watercraft Magazine*'s Nov/Dec 2005
+issue, gave Derek the practical, tested answer that Alastair's rowlock caution
+above had left open.[145][146]
+
+## A slot-top cabin idea for open-water use
+
+Planning to use "Enuf" on rivers, estuaries, and short estuary-to-estuary sea
+trips, Derek considered a departure from the stock cabin construction: a
+**slot-top cabin**, of the kind Jim Michalak and Phil Bolger often use on
+their own designs, cut from 12 mm plywood sides and front with the window
+shapes routed out to flush-fit Lexan on a silicone bed, and a lift-out rear
+window giving access to the outboard with the cabin top closed. The appeal is
+easier access to the mast and bow, and more room to stand up in; the
+drawback he identified himself is that a Paradox lying on her side with the
+slot open might not float as designed. Working through how to seal a slot
+top against that risk, Derek's leading idea was a plasticised fabric of the
+kind used for soft-sided lorry-trailer curtains — material he had just used
+to skin a kayak and found very strong.[143] This is a distinct, independent
+proposal from the archive's earlier, more theoretical stretched/composite
+cabin-top discussion for a steel-hulled Paradox (extending the stock cabin
+top forward while keeping the aft end as a water-entry point); see
+[aluminum and steel Paradox (speculative) — stretching the cabin top and
+sizing windows for open-water
+use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use)
+for that precedent.
+
+[Bill Serjeant](/people/bill-serjeant.md) cautioned against the idea despite
+granting its appeal for UK sailors (an open cabin able to catch scarce
+sunshine): an open slot-top and washboard opening would meaningfully reduce
+the boat's **self-righting characteristic**, inviting water to rush in on a
+knockdown and potentially leaving her floating low even after righting
+herself, buoyant foam notwithstanding. His caution against deviating from
+Matt Layden's design, even on waters judged sheltered, drew on his own
+experience: his 22 ft Wharram Hina catamaran was once knocked down by a
+sudden, freak gust on an otherwise calm afternoon, and he recalled a small
+sailing cruiser and, separately, a Dragon racing yacht in Torbay each
+sinking within minutes of a similar knockdown after taking on water through
+an open cockpit and cabin.[147]
+
+[Alastair](/people/alastair.md) offered a counterpoint from his own
+experience with "Little Jim": in a comparable knockdown, water did not
+start coming inside until the mast was nearly horizontal in the water, and
+he was convinced wind alone could not cause a full knockdown without wave
+action assisting it; once the wind eased, the boat popped back upright
+almost immediately, limiting water ingress to little more than a wet
+sleeve. He judged a slot-top could work if a soft cover sealed reasonably
+well — citing the RNLI's own closely fitting plasticised-fabric deck-locker
+covers, held on by hooks and bungee, as a precedent — but weighed against
+that his own biggest reservation: an open, fabric-covered slot sacrifices
+the stock cabin's theft security, which as designed keeps the boat's
+contents safe from all but the most determined intruder.[148] Derek thanked
+both correspondents for the input, concluding it is "difficult to improve
+on the original."[149] Alastair then suggested a way to test the idea without
+committing to it irreversibly: **bolt the cabin roof on rather than glue and
+nail it**, so a slot-top or other modification could be tried and, if it
+didn't work out, reversed back to the stock design.[150] Derek took up the
+suggestion, planning to build to the plans except for the lid itself, and
+noting that launching on a lake made a possibly imperfect seal on an
+experimental lid less of a concern than it would be at sea.[151]
+
+## A fabric roll-top, and the wider hard-top-vs-soft-top question
+
+Derek's own settled hatch design is a **fabric roll-top**, reinforced by a
+sliding panel of ply or polycarbonate underneath so the fabric has backing
+support against a wave dumping on the closed cabin in rough weather.[166] A
+newcomer's interest in that design — and separately, Jim Hall's observation
+that a Paradox sailor can sit comfortably even with the top closed — set
+Derek thinking further about whether standing headroom and a closed,
+weatherproof top have to be treated as mutually exclusive, or whether the
+top could simply be built permanently a little higher than the plans specify
+(clearing the boom) so the seat position always has headroom regardless of
+whether the top is open or shut.[167][170]
+
+That question fed into a broader, still-unresolved design conversation about
+**hard-top versus soft-top cabin covers**, drawing on precedents from
+trailer-sailer pop-tops (a hinged, scissor-propped roof raised at anchor) and
+tent design. Ideas floated included hinging a rigid top at the forward end
+with fabric sides, removable as a unit — dropped once it became clear that
+lifting it far enough to stand would put it at roughly 45 degrees and foul
+the boom;[169] and a **hooped fabric cover** built like a dome tent, using
+permanently-sleeved bendy rods stuck into angled sockets at each end so the
+hoops alone would hold it braced, extending a little beyond the hatch
+opening at both ends to keep a seated sailor dry even with the ends left
+open — potentially usable underway as well as at anchor, and not needing to
+be very tall if kept to the minimum headroom required.[171] Jim Hall
+separately wondered whether a plexiglass dome insert could be fitted into
+the existing hatch opening, and whether there would be enough clearance for
+one under the boom.[173]
+
+[Alastair](/people/alastair.md) offered his own already-practiced solution
+to the same problem aboard "little Jim": an ordinary umbrella clamped to the
+back of the sliding hatch, adjustable for height and for fore/aft and
+lateral position by sliding the hatch itself. He uses it at anchor for sun
+or rain shelter while still sitting in the open air, and has even run under
+it in light winds (though it would need guying to be used on a reach); it
+also does duty going ashore to the pub in the rain. Weighed against any
+soft-top scheme, though, he prefers the stock **hard hatch** for the
+security it gives him locked shut and unattended — the same theft-resistance
+concern Bill Serjeant raised earlier against an open slot-top (see
+[above](#a-slot-top-cabin-idea-for-open-water-use)).[172] Jim Hall, having
+separately noticed how securely "Little Jim" could be left unattended by a
+canal towpath with a padlock through the hatch slider, put the security
+question directly to Derek: wouldn't a fabric top leave "Enuf" more
+vulnerable to vandals?[175]
+
+Derek's answer confirmed the trade-off rather than dismissing it: a soft top
+is undoubtedly more vulnerable, though he judged vandalism unlikely to reach
+as far west and south as his own mooring, and not an insurmountable problem
+in any case. His preference for a fabric top over the sliding hatch remained
+one of simplicity: a strong, waterproof fabric held by bungee cord and clips
+over a lip would cover the cabin opening, folding back easily in fine
+weather and closing well enough for ordinary rain; for genuinely bad weather
+or when leaving the boat unattended, a ply or plastic board could be bolted
+in under or over the fabric using Allen bolts into secure nuts — nothing
+left on show to tempt a thief — making a padlocking arrangement feasible
+after all. He allowed that sticking with the plans and building the stock
+slider remained the easier option, and that he hadn't yet regained full use
+of an injured hand, leaving him "plenty of thinking time."[176] Alastair,
+for his part, answered the bowler-hat jibe about his umbrella in kind — a
+Panama in sunshine, a bobble-less bobble hat in the cold, and a deerstalker
+with ear flaps as an aspiration — without retreating from his preference for
+the secure, lockable hard hatch.[177]
+
+Jim Hall's reply to the fabric-top proposal was a deadpan suggestion of a
+transparent plastic pram hood[193] — Derek's rejoinder being that a pram
+hood would make the boat "an enigma," having already built the cabin itself
+in wood and polycarbonate rather than a fully transparent shell.[194]
+
+The plexiglass-dome idea Jim Hall raised turned out to already be sitting on
+Derek's shelf: he had one salvaged from a charity money box, its two coin
+slots easily blocked, but pointed out it would solve only the see-through
+problem, not the need for some form of sliding roof, which he was still
+trying to avoid building at all.[178] Alastair, drawing on his own hatch's
+dimensions, confirmed a dome would clear the boom without difficulty, though
+the sailor's head sits close enough to the aft edge of the opening that a
+dome would need to be somewhat truncated there, and getting in or out would
+mean sliding forward and down before ducking out — problems he had already
+turned over himself while building, before deciding none of them were
+structural and building the stock hatch as designed, keeping the option open
+to try alternative hatches later if he wished. After three full seasons of
+sailing, he reported that the perceived shortcomings of the stock hatch had
+not actually shown up in practice, leaving only one modification he judged
+genuinely worth the effort: fitting **proper hatch runners**.[179] The
+money-box dome's coin slots supplied a running joke rather than a design
+answer — Alastair suggested leaving them unblocked for passing donations,
+and Derek countered that he'd rather not invite passers-by on the towpath to
+lean over and toss coins in his ear.[180][181] Derek separately asked where
+"proper hatch runners" of the kind Alastair meant could actually be
+bought.[182] Alastair had assumed a proper runner track was a stock item but,
+being reluctant to pay for one unless he had to, found on actually looking
+that he could not source one; his own fallback idea was to adapt ordinary
+U-section curtain rail instead, a possibility he said he still needed to
+think through.[185]
+
+The umbrella-over-the-open-hatch idea (see [above](#a-slot-top-cabin-idea-for-open-water-use))
+kept generating banter alongside the design discussion: Jim Hall, having
+read that an umbrella and a hat stand were rated the two most useless things
+to have aboard a small boat, joked about needing to find a use for the hat
+stand too.[186] Alastair offered that curly hooks on top would let it double
+as a boat hook or an emergency anchor, or simply serve for hanging
+hats,[187] and separately noted knowing several people who use ordinary
+golfing umbrellas as an improvised cuddy when stopping for a brew-up aboard
+open boats.[188]
+
+A **folding hatch** design emerged independently mid-thread: a first-time
+correspondent posting as "copterpack" — an intending, not-yet-started
+Paradox builder — added a drawing of a folding hatch concept to the group's
+photo section, offered for whenever he might start his own build.[189]
+Derek's reaction was unreserved: "I think you've cracked it. I wish I'd
+thought of that!"[190] Alastair judged the idea would probably work, and
+noted it would resolve his own reservation about a roll-top fabric or dome
+hatch — not being able to leave it propped half-open, which he uses often
+enough (sailing with just his head sticking out) that a folding hatch
+capable of the same partial position would remove the objection.[191] Derek
+closed the exchange with a joke that good weather would no longer be a
+requirement once the boat had a proper Porta Potti aboard.[192] Copterpack
+himself followed up, inviting Derek to use the idea freely: the drawing
+showed only the simplest folding arrangement, but one or two further folding
+stages could be added to let the hatch rest halfway open as well as fully
+folded, the only design work needed being to work out the length of the
+extra folding plates. He judged his own drawn hatch was probably too tall,
+and a little too long, for the purpose.[195] Jim Hall asked what material
+copterpack had in mind for the folding sections themselves, guessing glued-up
+flat perspex sheeting.[196]
+
+Separately, on the fabric-versus-hard-hatch debate, "Alan" pressed the
+security question already raised against a soft top (see above): if the
+hinges themselves were some sturdy fabric rather than metal, what would stop
+the design leaking, given that a sliding hatch's real advantage is being
+**slammable shut in an instant** if a knockdown is underway?[197] Alastair's
+answer drew directly on his own experience of being knocked down aboard
+"[little Jim](/boats/little-jim.md)" (see [heavy-weather tactics — securing
+the crew during a
+knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown)
+for the incident in full): there would have been no time to act on a fabric
+hatch either way, the boat going from about 25 degrees of heel to 90 degrees
+in some three seconds and back upright and sailing again within ten. His
+practical worry about a fabric or dome top was less about reaction time than
+about the hatch **lifting under the wave itself** as the boat went over,
+admitting a significant volume of water unless it were somehow fastened
+down — a concern that, the more he weighed it, left the plans' stock sliding
+hatch looking like the better option of the two.[198]
+
+On a separate branch of the same "Hatch mod stuff" thread, copterpack
+answered Jim Hall's question about what material the folding panels
+themselves would be made from: steel hinges on the underside of each panel
+give a rigid connection, with a watertight flexible seal running along the
+top of the folding lines; simple elastic bands seal both the inside (when
+closed while sailing) and the outside (combined with a lock, when the boat
+is left), the whole hatch closing or opening fully in a matter of seconds —
+offered as an alternative to the sliding hatch, not a replacement for
+it.[199]
+
+Derek pressed Alastair further on his knockdown account: since Alastair had
+been sailing hatch-closed at the time, would there really have been time to
+slide a stiff hatch shut even if the danger had been seen coming, and how
+would a fully open boat have fared in the same knock? He judged over-centre
+metal clips against a neoprene gasket would hold a folding hatch closed
+securely enough, wondered whether a sliding hatch's chief claimed
+benefit — being slammable shut in an instant — actually mattered given the
+boat was already sailing closed-up in poor weather to begin with, and,
+recalling Matt Layden's own report of being tipped out of an open hatch by a
+wave and the boat still righting itself, asked whether that had happened
+aboard "Swamp Thing" or "Gjac," since neither has a hard top.[200]
+
+Alastair answered each point directly. He had in fact had the hatch closed
+for the two and a half hours before the knockdown, so he had recognized the
+developing risk and closed up well before the wave hit; he knew of two
+other small boats (a Wayfarer and an Enterprise) that had made the same
+crossing in similar conditions without a hatch-related mishap, crediting
+luck rather than skill for his own close call and adding he would not have
+chosen to go with them. He finds the sliding hatch's adjustability genuinely
+useful day to day, often sailing with it only partly open, and worried a
+folding hatch with its dome might obstruct forward visibility when fully
+open — offered as a design consideration, not a discouragement. He was not
+certain himself which boat the open-hatch knockdown had happened aboard,
+guessing "Swamp Thing" or "Gjac." He gave a fuller account of his own
+knockdown's water ingress: the harness strap's gap in the closed hatch let
+in enough water to soak his sleeve as he put a hand under the flow to brace
+himself, but not enough depth reached the bilge to be worth pumping out — a
+sponge sufficed — and the whole event was over in a few seconds before the
+boat popped back upright and sailed on; had the hatch been open throughout,
+he judged the water taken would still have stayed in the "nuisance" rather
+than "danger" range, given how briefly the boat was actually knocked down.
+His own conclusion, looking back: "next time I will reef more."[201]
+
+Copterpack, replying to Alastair's forward-visibility concern, explained the
+dome would be built from narrow welded steel sections glazed with lexan or
+plexiglass to maximize the view through it, and that the number of folding
+stages could be varied to give a half-open as well as a fully open or closed
+position; he judged the folding hatch easier to build than a sliding one but
+possibly less watertight in a rollover, versus a sliding hatch's
+proven-but-failure-prone mechanism once its runners wear smooth, and hoped
+his proposal wouldn't "start a war of words."[202] Derek's own verdict on the
+exchange was that "it's the thoughts loudly thunk that help the decision
+making" — and, asked to confirm which boat the open-hatch knockdown had
+happened aboard, first guessed **"Little Cruiser"** or a Paradox rather than
+"Swamp Thing" or "Gjac,"[203] before correcting himself in a follow-up: it
+was **"[Swamp Thing](/matt-layden/swamp-thing.md)"**, one of Matt Layden's
+own boats.[204] Alastair, however, recalled it differently — not Paradox, in
+his recollection, but an incident he remembered being cited at the time as
+the trigger for a design progression rather than settling on either "Swamp
+Thing" or "Gjac" outright.[206]
+
+With the folding-versus-sliding debate otherwise fully aired, Alastair's own
+closing view was that the choice needn't be either/or: nothing rules out
+building both designs, and a builder undecided between them should simply
+build whichever he prefers and try the other later if not satisfied.[205]
+
+A third hatch concept, proposed by the established New Zealand correspondent
+Alan, adapted the "Griffiths hatch" (a sliding-hatch design published in
+*Practical Sailor*) by replacing its front hinge with a block of wood on
+each side of the top cover, riding in loose guide-tracks along the
+coach-roof. With the hatch closed, the blocks sit at the rear of their
+tracks and the track geometry locks the hatch's front edge down; lifting the
+hatch frees the blocks to slide forward, letting the whole hatch travel like
+an ordinary sliding hatch. Leaving the tracks' front ends open would let the
+hatch be lifted off entirely and remounted on vertical bars above the
+opening at anchor; with the hatch partly raised and a washboard in place, a
+sailor could sit on the rear deck with the raised hatch acting as a
+windscreen.[207] Derek judged the idea had "cracked it," but needed to mock
+one up in card first and check clearance against the mast and boom before
+committing — in his view, some combination of Alan's sliding-track hatch and
+copterpack's folding hatch might deliver both good headroom and a secure
+fit. A wrist injury aggravated by sanding forced a pause in his own build
+work around the same time.[208]
+
+## Bending the boom axle's brass rod, and a cheaper steel alternative
+
+Fitting out the metalwork he had listed at the start of the build in August
+2004, Derek was still short one part more than a year and a half later: the
+**12.7 mm brass rod** for the boom axle. He eventually found 15 mm brass rod
+at a non-ferrous scrap dealer, had a hobbyist machinist turn one end down to
+size in exchange for a bottle of wine (a three-for-two bottle-shop offer left
+him distributing spare bottles to both the machinist and the friend who
+introduced them, "you never know when you may need help again"), then
+snapped the rod attempting to bend it cold. Braising did not work either —
+brass and brazing rod ("spelter") share too close a melting point for the
+join to take reliably — and a first attempt at silver soldering overheated
+the piece until it collapsed under its own weight. A phone call to a
+non-ferrous metal stockholder finally sourced 3 metres of the correct 12.7 mm
+rod outright, which Derek bent successfully using a bending former built into
+the body of his own 1930s-era vice: brass bends cleanly at a "cheap gold"
+colour just below cherry red, and starts to go unpredictably soft and wobbly
+if taken any hotter.[168]
+
+Jim Hall, having built his own "banger boat" some thirty years earlier using
+plain **mild steel deck fittings** finished in Galvafroid cold-galvanising
+paint under a top coat of ordinary gloss, questioned why brass was needed at
+all: mild steel is stronger, cheaper, more easily welded, more easily
+sourced, and can be hot-dip galvanised for anyone wanting a more durable
+finish — a straightforward alternative to the trouble Derek's brass rod put
+him through.[174] Derek's answer was unapologetically simple — "just
+following the plans, Jim, for a change" — and Jim Hall took it as its own
+kind of virtue, replying that the country could use more people with
+Derek's self-discipline.[183][184] See also
+[design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it)
+for the pivot-joint fabrication this same axle assembly connects to.
+
+## Cutting window openings into the cabin sides
+
+With the front window, cabin sides, and rear panel tacked and clamped in
+place, Derek routed the window shapes and recesses directly into the cabin
+sides rather than fitting separate frames. The job needed a router bit long
+enough to clear the 9 mm plywood — his existing thin bits ran only 8 mm — so
+he bought a 25.4 mm (1 in) deep by 6.4 mm (1/4 in) bit, glazing the side
+windows with offcuts of 3 mm Lexan and the front window with a thicker
+piece (see [window glazing — Lexan versus Perspex/acrylic](/construction/window-glazing-materials.md)
+for the Lexan-versus-acrylic tradeoff and UK sourcing). While at the
+hardware store he also priced, but did not buy, a new
+band saw at £80, judging his own — a much-worn machine salvaged from a
+closing factory decades earlier, for which replacement blades still had to
+be specially made — good enough to keep going. The cabin roof itself waited
+another day, but he used the same session to laminate two hand grabs
+supporting the centre beam from oak salvaged from an old desk.
+
+## The original group reaches capacity, and a return to routine build progress
+
+In February 2006, Derek's routine photo-album upload trouble (see [the
+mailing list — photo-album upload privileges are a moderator-controlled
+setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting))
+coincided with a separate, previously unrecorded fact: the original
+`paradoxbuilders` Yahoo group itself had by this point filled to its member
+capacity. Both David Beard and Glen Maxwell independently directed Derek to
+use `paradoxbuilders2` instead. Derek confirmed he had gotten a photo
+uploaded after all, showing the replacement piece cut in to fix a knotty
+section of a spar, wrapped in fibreglass tape.
+
+Trying again on his album a day later, Derek found the "add photo" link no
+longer greyed out — he could select an album and a photo, but the upload
+still failed with the same privileges error, prompting his own dry
+observation that he had "never been without privileges before." In the same
+message he mentioned being physically confronted by a nine-year-old at work,
+calling it a first for him and "a weird feeling." Nels replied with a Kurt
+Vonnegut line — "your planet's immune system is trying to get rid of
+you" — which Derek took in good humor, agreeing Nels and Vonnegut might be
+right, before returning to genuine build progress: the front window, cabin
+sides, and rear panel were all tacked and clamped in place, with the cabin
+roof due to be cut next.
+
+Asked by a newcomer, "Wayne" (`wyliewesty`, real name William Nix, Dallas
+TX — see [people/derek-clark.md](/people/derek-clark.md)), where current
+photos of "Enuf" could be found and whether they were posted to
+`paradoxbuilders2`, Derek admitted he had not photographed anything more
+recent than the hull-on-rollers picture already in the folder, guessing he
+might get to it toward the end of the week as the cabin took shape — while
+noting that, given the ongoing privileges error, he likely would not be
+able to upload them even then.
+
+## A workaround: an Enuf album on a different group entirely
+
+Still without upload privileges on `paradoxbuilders` a week later, Derek
+worked around the block rather than waiting on a fix: he opened a new
+"Enuf" album, complete with a new photo, on
+[Bill Serjeant](/people/bill-serjeant.md)'s `smallsailboats` Yahoo group
+instead. Glen Maxwell's suggested remedy for the original group — create a
+fresh album and delete the old one, since Yahoo's move to a new album
+format had likely broken something in the transition — went untested in
+the archive; Derek's cross-posting to Bill's group stands as the last
+recorded word on the saga.
+
+## Polycarbonate scraps for electrical enclosures, and a scavenged copper-wire source
+
+Turning leftover Lexan (polycarbonate) window offcuts to a second use, Derek
+looked for an adhesive that would join pieces of the material into small
+boxes to house his electrical outputs, left unanswered in the archive.[164]
+Separately, he flagged a source of free scrap copper wire and electrical
+fittings: shopfitters ripping out and remodelling retail units routinely fill
+skips with wiring and fixtures worth salvaging.[164]
+
+## Home base and an expected launch site
+
+Derek is based in Wolverhampton, in the English Midlands — a location he
+gave in passing while welcoming a newcomer to the list, noting it put him
+"not far from" [Alastair](/people/alastair.md) and "Little Jim" in Yeovil —
+and named Wareham, Dorset (on Poole Harbour, the same water Alastair sails)
+as where he expected to launch "Enuf" shortly.[165]
+
+## A carpal-tunnel operation halts progress, and a five-week pause
+
+Progress on "Enuf" stopped for five weeks in April 2006 when Derek underwent
+a carpal tunnel operation, reporting the hand was still hurting some weeks
+afterward. Asked whether photos of the boat had ever been posted, he pointed
+to two existing photo-folder locations — one on the original
+`paradoxbuilders` group and a second, mirrored copy on
+[Bill Serjeant](/people/bill-serjeant.md)'s `smallsailboats` group (the
+workaround he had adopted earlier for the group's photo-privileges
+trouble).[209][210]
+
+A below-threshold newcomer who could not get past the `smallsailboats`
+group's own access screen while trying to view those photos used the
+opportunity to reintroduce himself: new to the group, working through a VW
+trike build first to free up his garage space, and intending to begin his
+own Paradox once that project was out of the way.[211] Get-well wishes from a
+UK correspondent on the same thread turned into a short new sub-thread on
+sleeping aboard while the boat is on its trailer during a road trip between
+cruising grounds — whether that means pulling into a layby for the night, or
+finding a campsite instead, and whether it risks running afoul of rules
+against sleeping in laybys.[212] Alastair, who has slept aboard his own motor
+cruiser this way and would consider doing the same in "Enuf" or
+["Little Jim"](/boats/little-jim.md), cautioned against remote laybys
+specifically: he has been woken there by police in the past, though never
+moved on once he explained he judged it unsafe to keep driving tired; a
+quiet residential street draws far less attention, since passersby simply
+assume the vehicle belongs to one of the houses.[213][214]
+
+Derek's own experience overnighting in vehicles (VW campers and a Land
+Rover, not yet "Enuf" itself) points to lorry parking on motorway and main
+A-road routes, small industrial estates, and remote beauty-spot car parks in
+Wales and the borders — but not open ground in Scotland, much of which he
+found fouled by livestock; he guessed a 24-hour supermarket car park would
+also work, reasoning a policeman is unlikely to challenge a vehicle that
+doesn't look like it means to stay for weeks.[215] A Canadian correspondent
+added a similar set of overnight-parking options for vehicles generally:
+short turn-offs into farmers' fields ("easements"), all-night truckers'
+centres (noisy and smelly from idling engines), closed small-village gas
+stations (explainable to anyone who asks as "waiting for it to open"),
+gravelled clearings beside rural communication towers (set back from the
+highway, ploughed clear in winter, and visually resembling a legitimate
+service stop), and quiet parking areas near small-village church
+steeples.[216] The `smallsailboats` photo site was independently
+re-confirmed as [Bill Serjeant](/people/bill-serjeant.md)'s own, distinct
+from [Don Elliott](/people/don-elliott.md)'s similarly-named but unrelated
+"Smallboats" group (no "sail" in the name) — an easy mix-up given the
+near-identical names.[217][218] The thread closed out with William Nix
+confirming he had received the photos and thanking Derek for posting them,
+and light banter between Jim Hall and Alastair over the closed cabin's
+comfort ("in a Paradox you don't get wet or cold").[219][220][221]
+
+## A recurring close of the "Enuf pics?" thread
+
+The "Enuf pics?" thread ran on into a substantive tangent on whether to
+build a Paradox or buy a boat secondhand, and whether the design performs
+to windward as well in "British conditions" as elsewhere — see [secondhand
+Paradox market — build vs. buy secondhand: a UK newcomer's cost-benefit
+hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation)
+and [chine runners and windward performance — a recurring skeptic's
+question](/chine-runners/windward-performance.md#a-recurring-skeptics-question-does-british-water-sail-differently)
+for the full exchange. The thread itself wound down with brief closing
+banter: Alastair's one-line assurance he would "keep in touch," a joke that
+"the water goes round the other way in Oz" answering Derek Clark's
+windward-conditions question, and a below-threshold correspondent's
+one-line joke about boats needing "the pointy-bit at the other end" in the
+Southern Hemisphere.[222][223][224] Derek Clark played the joke out against
+his own boat — mock-fretting that, having looked at "Enuf" from both sides,
+he "may have put the pointy bit at the wrong end," and being too old to
+emigrate to Australia and start over — to which Jim Hall reassured him that
+"after you haul it out of the building shed you might be able to turn it
+round."[225][226]
+
+## A cardboard hatch mock-up, and a lower alternate seat position
+
+Derek tried out a proposed hard-top hatch design with a full-size cardboard
+mock-up before committing plywood to it, photographed and posted for
+comment.[227] The design aimed to let the seat be used with the hatch fully
+closed (easing stiff knees) and to run the outboard with the hatch closed but
+the rear window/washboard open, with a Lexan-glazed forward sloping face and
+side windows, sliding on runners fitted inside the hatch itself.[227] Jim Hall
+welcomed the idea, subject to Derek having checked boom clearance and the
+added windage, noting that a hatch, unlike other structure, is easy enough to
+redo if it doesn't work out.[228] Glen Maxwell judged the mock-up too tall to
+clear the boom.[229]
+
+Derek confirmed he had checked clearance and left 4 cm — but no viewing angle
+made the tall version anything but ugly. His wife's suggestion of a second,
+lower seat position set roughly halfway between the cabin floor and the
+normal seat height let him cut the hatch's height down considerably; the
+lower seat still lets an arm out through the rear window/washboard, at some
+cost in knee bend. The revised slide arrangement runs on two strips of brass
+(sourced from a DIY chain store) let into the coaming, with the hatch itself
+held down by a shaped wooden block hooked over a hardwood strip — removable
+from inside on a raised-earlier suggestion that the hatch be releasable in
+an emergency (see [whether a closed cabin is a safety risk, or a
+comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort)).
+Day-to-day security would rely on cord, cam cleats, bolts, wing nuts, and a
+stainless padlock.[230]
+
+Alastair remained skeptical the taller original design would clear the
+furled sail as it dropped into its stowed position — while allowing that the
+only way to settle it was to build it and find out, and that nothing stops a
+builder from making a second hatch if the first doesn't work — closing with
+a tongue-in-cheek nod to follow the designer's own example and ignore the
+naysayers.[231] Jim Hall answered in the same spirit, joking that if the
+boom limits how far the hatch can rise, the alternative is to go the other
+way and drop the cabin sole instead.[232] Replying to that joke, Alastair
+recalled his own low-headroom fix for a tall workmate — a shallow footwell
+cut into the cabin sole — as another way to gain the same headroom without
+lowering the whole floor; see [crew size and cabin fit — a footwell as a
+headroom
+fix](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion)
+for the full anecdote.[233]
+
+Derek kept both routes in play: he humoured Alastair's skepticism about the
+furled boom, joking that if it did strike, only the two of them would ever
+need to know, and sketched a "just in case" fix — a hole cut in the hatch
+top fitted with a red rubber glove, letting a hand reach up and help the
+furled boom into position without getting wet, adding that he would rename
+the boat "Bantam" if he ever actually fitted it.[234] Separately, replying
+to Jim Hall's "basement" joke, he confirmed he had gone partway down that
+route already, having lowered the seat as described above.[235]
+
+## Rubbing down, and the first coat of pigmented resin
+
+Hull fairing continued in parallel with the hatch-mockup discussion: Derek
+finished rubbing the hull down — "more truthfully, it is rubbed down as much
+as I am prepared to do," admitting he hates the job — and hoped to roll on
+the pigmented epoxy the same day, but persistent rain (no water shortages
+that year in England's West Midlands) kept pushing the forecast back a
+couple of days.[236] Bill Serjeant, working through the same weather on his
+own "Faith," answered that the rain was holding him up too: he had managed
+to bevel the aft end of his own bottom piece and hoped to bevel the forward
+end next, but the epoxy needed at least four days to cure thoroughly once
+applied, and getting a suitable temperature for that cure depended on the
+weather outdoors — doing it in the garage instead was not always possible,
+and even if it were, the boat itself would have to stay outside, "all a
+juggling act."[237] Even on its trolley, Derek noted, the hull is heavy to
+juggle; he applied the first coat of pigmented resin, reporting only that
+"it doesn't look nice" yet.[238]
+
+## New photos, an unplanned chine-runner shape, and a Porta Potti in the transom
+
+A further round of "Enuf" photographs, posted to Bill Serjeant's
+`smallsailboats` group, prompted an outside observer to notice the chine
+runners looked off the plans' shape — visibly wavy and truncated rather
+than straight.[239] Derek confirmed it candidly: the runners had come out
+that way after a sanding disc on his angle grinder "sort of ran away with"
+him, rather than as any deliberate change, and he offered a wry
+after-the-fact justification (not wanting "just a clone Paradox") for what
+was really a shaping accident. More generally, building from the plans
+without fully understanding every detail beforehand had led him to guess at
+some steps as he went, with the practical effect of the guesses — including
+the runners — still to be seen once the boat sailed.[242]
+
+The same photographs also drew a question from a newcomer to the list about
+a plastic box visible through the transom in every builder's build
+photos.[240] Nels answered first, correctly identifying it on sight as a
+**Porta Potti stored in its transom stowage position**;[241] Derek confirmed
+it directly and reported having just bought a newer, more compact model (the
+335) better suited to solo use — while noting there is still no room to use
+it without first pulling it out into the forward stateroom, "unless...
+you've just had a bad curry."[243]
+
+## A lower hatch cover, and the furled sail riding forward over the drum
+
+With "Enuf" still on her trolley rather than launched, Derek posted three
+further photographs showing the current state of the hatch cover, floating
+dropping it further still — down to just two inches high. Separately, the
+furling gear gave trouble one morning: the sail tried to move forward along
+the boom and ride up over the furling drum, a fault that had not shown up
+the last time he furled, with nothing obviously different about the setup
+except that the boom's outboard end sat lower than before.[244] Bill
+Serjeant mirrored a selection of these photos to his own `paradox-uk.co.uk`
+site, crediting Derek by name; see [people/bill-serjeant.md](/people/bill-serjeant.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox).[245]
+
+## Onto the trailer, and calculating the ballast by weighing the whole rig
+
+With the hatch essentially settled — the finished shape turned out close to
+the plans after all, despite months of variations that "came to naught" —
+Derek's remaining task before launch was the lid of his wannigan (the boat's
+built-in storage box).[246] His plan for sizing the lead ballast was to weigh
+the loaded trailer (boat, stores, and himself as skipper aboard), subtract
+the trailer's own weight and add the skipper's, and take the resulting
+figure against the design displacement to determine how much lead to
+carry.[246] A well-wisher wrote back with nothing more than congratulations
+for the "Admiral" ahead of the launch.[247]
+
+Getting "Enuf" onto the trailer surfaced two fitting problems. In place of an
+eyebolt through the stem, Derek had bonded in a crossways plastic pipe with a
+spliced grommet to take the winch wire; the splice itself held, but the
+winch wire's own pressed end fitting pulled free under load and was
+refastened with u-bolt clamps from his spare-parts box. Separately, the
+hull's bottom proved a couple of inches wider than the gap between the
+trailer's mudguards, which had to come off entirely; longer mounting bolts
+were needed to stand the mudguards further out from the trailer chassis.
+Rollers ran up the trailer's centerline, with lengths of 3.5 by 2 in timber
+lashed to the outer chassis rails to keep the hull level; with the bottom of
+the boat sitting 22 in above the ground, launching would need roughly 3 ft
+of water and would fully submerge the trailer's own wheels.[248] A
+correspondent replied with a running joke about the trailer's paint not
+matching the boat, the towing Land Rover, or the wheelie-bin.[249]
+
+## Launched: three days in Poole Harbour, and lessons from the outboard
+
+"Enuf" was launched and sailed for the first time over **three days in Poole
+Harbour**, in company with [Alastair](/people/alastair.md) and "[Little
+Jim](/boats/little-jim.md)." The maiden outing was eventful rather than
+smooth: Derek struck one mudbank and three moored "pleasure palaces" (two of
+them in a single collision), fended a fourth off with his yuloh, and narrowly
+missed a broken channel-marker post that threatened to tear the sail. The
+first night, moored in the River Frome, he could not sleep, convinced every
+lap of water against the hull was coming inboard. The second day was mostly
+motoring against strong wind, with a half-hour of sailing back and forth and
+a partly successful stretch of yulohing; the biggest fright of the trip came
+motoring back up the Frome and meeting a multihull that "looked bigger than a
+house."[250]
+
+The **outboard proved a double problem**, both fouling the mainsheet and
+being awkward to control: reaching the throttle meant turning and leaning
+over the rear deck, which let the steering wander — the direct cause of the
+double mudbank/pleasure-palace strike, when the tiller caught in the foam
+buoyancy and jammed while everything happened at once. Derek's planned fix
+was to move the motor to the starboard side and extend the tiller so it
+passes over the center of the rear deck, and to try a different mainsheet
+lead; a new boom was also needed, since the existing one had a bend and did
+not roll smoothly for reefing/furling. He credited Alastair's patient
+in-person help for what he learned in a short time, and came away "cream
+crackered" but looking forward to sorting out the teething problems and
+making an actual passage.[250]
+
+## Enuf offered for sale
+
+In September 2006, roughly a month after "Enuf"'s launch and maiden outing in
+Poole Harbour, Derek put the boat up for sale. Sailing her twice at Poole had
+taken more physical exertion than he had expected, and as a diabetic he
+suffered hypoglycemic episodes on both outings — including one at night,
+anchored just offshore, that he found very upsetting to manage alone in a
+small boat. Rather than sail with the ongoing burden of checking his blood
+sugar every hour or two and adjusting with biscuits, dextrose, or insulin
+guesswork, he decided to give up sailing "Enuf" entirely.[251]
+
+His asking price made no attempt to recover his build costs: **£700** for the
+boat and Mark II sail (including 99 kg of lead ballast, halyard, topping
+lift, steering line, and rudder uphaul, but not anchors, chain, warp, or
+electrical goods), plus **£500** for a trailer that had seen fresh water only
+four times. He put his own epoxy-and-glass-fibre spend alone at around £500,
+and said he would be happy to see the sale "give somebody a quick entry into
+Paradoxing." If no buyer came forward, his stated fallback was to negotiate a
+price for the sail alone and give the hull a "Viking burial," while noting
+the trailer would always find a use regardless.[251]
+
+The announcement drew a warm response from the list. Alastair, who had sailed
+alongside "Enuf" on her maiden outing, called the asking price a bargain and
+wondered whether he himself had pushed Derek too hard during that shared
+trip.[252] A Spanish correspondent inquired about the boat, apologizing for
+his limited English and asking about the practicalities of registering a
+UK-built Paradox in Spain.[253] Alan, a longtime New Zealand-based
+correspondent, wished Derek well, praised his Duckworks article and the
+sense of humor that ran through his posts, and noted that only New Zealand's
+distance from England kept him from being a serious buyer himself.[254]
+Niels — a below-threshold correspondent from Jacksonville, Florida, and,
+by his own account, also diabetic — commiserated over the difficulty of
+managing blood sugar during active pursuits, said he would have liked to buy
+the boat himself but judged shipping to Florida impractical, and thanked
+Derek for the Duckworks article as well.[255] Jeff UK closed out the thread
+with a joking offer for Niels to buy the boat and "commute weekends," sympathy
+for Derek's condition, and a suggestion that Derek could still enjoy the
+design vicariously by building a radio-controlled model of "Enuf" from his
+existing plans.[256] Alan, replying in turn, seconded the radio-controlled
+suggestion — "not much bigger than some people's models" — and wondered,
+half in jest, whether such a model could be sailed across the Atlantic under
+remote control.[257]
+
+Niels's sympathy prompted Derek to give a fuller account of the diabetes
+directly to him: British and American blood-glucose scales differ, and
+Derek's own "hypo" threshold (with warning signs of shaking hands, headache,
+and confusion) normally falls around 4.3 on the UK mmol/L scale, but on both
+Poole nights he fell into the mid-3s without warning — enough, he judged,
+that had he not woken and taken sugar in time he could have gone into a coma,
+alone at anchor. He weighed that risk against the hospital's standard advice
+to simply lower his insulin dose before activity, calling it "hit and miss":
+under-correcting risks a repeat hypo, while over-correcting risks the
+longer-term organ damage of running too high. He judged a more sedentary
+routine the safer trade-off for himself, and mentioned that his wife had
+since bought him a small, 4.98 m, 0.6 m-draft motor cruiser to restore in
+"Enuf"'s place — still within his own definition of a microcruiser — reasoning
+that the outboard could do the work of getting about while he did the
+exploring, and that the restoration itself would be a source of pleasure in
+place of the build he was leaving. He thanked Niels for the exchange.[258]
+
+Replying to Jeff UK's own condolences, Derek reported feeling at peace with
+the decision: he had enjoyed the build, including its frustrations, and had
+gained real pleasure from time on Poole Harbour itself — birds he had never
+seen before, Sitka deer grazing the salt marsh within feet of the boat, a
+kingfisher on the River Frome, and a whole oyster found on the beach, "don't
+see either of those in Wolverhampton on a normal day." With a new project
+under way and two serious enquiries already in on "Enuf," he judged it time
+to move on.[259]
+
+## The sale completes, and a Honda-outboard "power microcruiser" idea
+
+A third correspondent, Steve H., replying to the same for-sale thread,
+sympathized with the diabetes-driven decision and offered to buy the Mark II
+sail himself if no boat buyer came forward — noting his own son, then
+studying at Oxford, could act as broker/agent for the transaction from the
+UK.[264] Derek reported the boat had in fact sold "more or less immediately,"
+and that the following Saturday she would begin a delivery journey to
+Trondheim, Norway, via Norfolk, where her trailer would be handed off
+separately to a buyer in Essex.[265]
+
+With "Enuf" gone and his own new motor cruiser due for delivery that
+afternoon, Derek used the same reply to float a fresh design idea of his
+own: a small, purpose-built **motor microcruiser** — roughly **14 ft by 4 or
+4.5 ft**, quick stitch-and-glue plywood construction, a cabin long enough to
+sleep in with sitting headroom, easy solo launch and retrieval, and suited to
+rivers and estuaries — built specifically around the **Honda 2 or 2.3 hp
+air-cooled four-stroke outboard**, an engine he judged had sold in the tens
+or hundreds of thousands with no small boat properly designed to use it. He
+put the idea to several designers directly: Jim Michalak suggested one of
+his existing "small sailor" hulls with the mast and leeboards
+omitted, though Derek found Michalak's boxy hull shapes lacked Paradox's
+curves (allowing that he did like the low, sloping cabin roofs with
+elliptical portlights); Paul Fisher was judged capable of a suitable
+redesign of his "Power 1," with better hull curves, but at a cost near that
+of the outboard itself; John Welsford had not yet replied; and Derek
+wondered whether John Welsford's "Trouper" design might provide a suitable
+hull outright.[266]
+
+## A departure, an outpouring of support, and second thoughts
+
+Roughly a week after finding a buyer, Derek announced he was leaving the
+group after about 30 months, timed to "Enuf"'s departure by road toward
+Norfolk and on to Trondheim. He reported feeling no sadness at seeing her go,
+citing a new project (or two) in hand and a consultant surgeon's assessment
+the previous day that a five-hour operation might cure his diabetes
+outright. He thanked the list for its help throughout the build, naming
+[Alastair](/people/alastair.md), [Dave Bolduc](/people/bolduc.md),
+[David Beard](/people/david-beard.md), and [Don Elliott](/people/don-elliott.md)
+in particular, and left open the possibility of building again if the
+operation succeeded — a lighter, quicker, "dirtier" build next time,
+incorporating some of Jeff UK's ideas and with proper outboard provision
+built in from the start.[267]
+
+The announcement drew immediate, unanimous pushback rather than a round of
+farewells. Jeff UK objected that Derek's new motor cruiser was itself a
+microcruiser in every sense that mattered — a boat is not disqualified by
+being powered by an outboard rather than a paddle, oar, or sail — and told
+him flatly to drop "this leaving crap."[268] Derek's own reply agreed the
+new boat qualified as a microcruiser by his own definition too, but drew the
+line at the group's actual scope: "this is the Paradoxbuilders group,"
+not a microcruiser group in general.[277] A previously unrecorded
+correspondent, posting as "SH," did not know Derek personally but argued
+against burning bridges that had served him well, urged him to stay in touch
+regardless of his health, and offered that facing "the fight with 'Gods
+given body'" was simply one more of life's certain challenges rather than a
+reason to disappear.[269] [Jack Gardiner](/people/jack-gardiner.md) added the
+fullest tribute: he valued his own Paradox over his 19 ft, 75 hp motorboat
+precisely because a dead outboard still leaves the sail to get him home,
+judged Paradox's design the product of a great deal of deep thought whose
+survivability-in-a-small-space genius only becomes more apparent with
+familiarity, and urged Derek not to sell himself short or cut ties over the
+decision.[270] [David Beard](/people/david-beard.md) added a short, simple
+plea of his own — "You cant leave.........were all pals here.....But if you
+must please stay in touch" — while [Alastair](/people/alastair.md) argued
+Derek had a positive duty to keep lurking and offering advice as a build
+veteran, having accumulated, in Alastair's estimate, some 11% of the
+complete build knowledge "in the known world," and that departing outright
+would deprive newer builders of it.[271][272] A longtime below-threshold
+correspondent, Wenceslao Rafol, Jr., wrote separately to say a health-first
+decision needed no defense, comparing it to his own long-deferred hope of
+sailing around the globe, and that he took his own sailing pleasure at one
+remove instead, reading and following other sailors' logs and photographs
+online.[273]
+
+Derek's replies over the following hours settled into gratitude rather than
+argument. He thanked David Beard directly and mentioned his e-mail address
+remained posted on Bill Serjeant's website for anyone who wanted to reach
+him.[274] Answering Jack Gardiner's gentle complaint at being left out of
+the thank-you list, Derek apologized, explaining he had assumed Jack would
+not want the attention and had simply forgotten him; when Jack suggested
+Derek might simply enjoy fixing and building more than sailing, Derek agreed
+("Very likely!"), while pushing back on the suggestion that he had sold the
+boat too hastily, ahead of learning an operation might cure his diabetes: he
+had already accepted a buyer's offer before the consultant mentioned a
+possible cure, and in any case remained free to build again.[275] Replying
+to Wenceslao's letter, Derek allowed he might have acted in haste and would
+think it over further, joking that Frank Sinatra had announced his own
+retirement some 47 times before actually stopping.[276] Replying point by
+point to SH's letter, he confirmed he was not in fact leaving after all —
+"so, by reading this I ain't actually gone!"[278] Jeff UK kept pressing the
+same "you can't leave" argument the next day, noting the group counted 753
+members against only a handful of actual Paradox owners or builders, so
+downgrading to a motor cruiser was no disqualification at all, and welcomed
+Derek "back from the brink."[279]
+
+The health question drew further sympathy once it reached the wider list.
+Niels, having already wished Derek well, asked directly for details of the
+diabetes procedure so he could pass them on; Derek answered that he had
+already e-mailed Niels the details off-group.[280][281] A first-time
+correspondent, Tim Soxman, asked to be included in the same information;
+Derek said he would send him the details too.[282][283]
+
+[Jack Gardiner](/people/jack-gardiner.md) closed out the thread with the
+fullest personal case yet for staying, drawing on his own experience of
+losing a boat to misfortune: blown onto a beach and trying to haul his own
+Paradox off with his truck, he had backed the drive wheels straight over
+the rudder and crushed it — "I built it and I can replace it, Il make it
+even better!!" No longer owning a Paradox is beside the point, in his
+view, since the group is called Paradox **builders**, and that is exactly
+what Derek still is.[284]
+
+## A near-miss Paradox-type motor cruiser, and "Enuf" as a talking point for motorboating
+
+Jeff UK's congratulations on the new acquisition doubled as an invitation to
+keep talking about it on the list, and drew out a build he had never
+mentioned before: rather than a further look at Enigma, he had at one point
+cut out the hull parts and bulkheads for his own **17 ft, Paradox-type motor
+cruiser** — same accommodation as Paradox, but with a multi-chine
+hull — meant to be driven by his 2 hp Honda outboard.[260] Scaffolding going
+up next door had derailed the project before it properly started, and by his
+own account "the rest['s] history"; he still intended to build it, but only
+after finishing his planned **"PARANIGMA"** — his own portmanteau for a
+Paradox/Enigma hybrid design. He encouraged Derek to post about the new motor
+cruiser on the list regardless of its being a motorboat rather than a
+sailboat, observing that a good many of the list's members motor more than
+they sail, and offered to back him up if anyone objected.[262] Derek, only
+half joking, first asked whether it was even "safe to mention motor boats
+here," saying he would rather correspond about it by e-mail than risk being
+thrown off the group,[261] then, once reassured, noted that David Beard had
+his own ideas about motoring in a Paradox, and that Alastair had given the
+subject some thought as well — naming both as further list members who might
+be persuaded to write up their own motor-Paradox thinking.[263]
 
 ## See also
 
@@ -909,5 +1770,153 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [132] Archive message page_3265 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3296, 2006-01-15) — "Re: Robbsboat & Ventilation & Cover": thanks Alan for the concern; the heater's own instructions mention CO build-up, so he always tests the workshop air before using it, sending his wife in to check the thermometer — she has come back out safely every time so far. Separately describes a transom spar-stowage port he built: about 150 mm in diameter, with a plywood ring glued around it to a 180 mm inner diameter, closed by a 180 mm Lexan disc on a center bolt with a bar and captive nut across the inside, sealed with a cork gasket; expects the coming spring to show whether it works, though a proprietary dinghy inspection port would have been quicker to fit; "I was feeling creative on the day I made it." Signed "Derek."
 [133] Archive message page_3268 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3299, 2006-01-20) — "More progress & questions": has nearly finished the boom and mast; leaning toward a strop-and-sheave halyard pulley rather than cutting a slot in the mast; has a good length of 35 mm bamboo on hand and asks whether reinforcing it with fibreglass tape at the point it bears against the mast would let it substitute for the plans' heavier, cantilevered wooden yard. Signed "Derek."
 [134] Archive message page_3269 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3300, 2006-01-21) — "More progress and another question": made the yard; inspecting his wood stock, found the boom blank with a dead knot could be cut down, moving the flaw nearer the end and halving its depth, with a wedge-shaped replacement piece planned; asks whether the yuloh can be mounted in a standard oar socket, and about the relative merits of 2 hp Honda and Suzuki outboards. Signed "Derek."
-[135] Archive message page_3269 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3300, 2006-01-21) — "More progress and another question": the 2 hp Honda-versus-Suzuki outboard question went unanswered in the record.
+[135] Archive message page_3269 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3300, 2006-01-21) — "More progress and another question": the 2 hp Honda-versus-Suzuki outboard question, later answered by David Beard (see [139]-[141]).
 [136] Archive message page_3270 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3301, 2006-01-21) — "Re: More progress and another question": an ordinary rowlock risks tangling with the mainsheet, which can lift it out, and wears the oar enough to need good leathers, though many scullers use one regardless; fitting a rowlock socket keeps the option open to drop in the plans' designed pin (or some other system) later if the rowlock proves unsatisfactory. Signed "Al, Yeovil, England."
+[137] Archive messages page_3271/page_3273 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3302/3304, 2006-01-21/2006-01-22) — "Re: More progress and another question": thanks Al; was thinking of fitting a wedge to the transom, as on Little Cruiser, with a tube in it to take the rowlock (holding a flagstaff when the rowlock is out); asks whether the wedge's angle is critical or just moves the pivot point further back; second message thanks Al again, adding "Rowlock — that's the word I was looking for :0)". Signed "Derek."
+[138] Archive message page_3272 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3303, 2006-01-22) — "Re: More progress and another question": ideally the top of the wedge should sit parallel to the oar, but doesn't suppose it really matters. Signed "Al, Yeovil, England."
+[139] Archive message page_3274 (dlb / "David Beard", `paradoxbuilders`, msgnum 3305, 2006-01-22) — "Re: More progress and another question": uses a 2 hp Honda on "Whisper," which works very well. Signed "David."
+[140] Archive message page_3278 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3309, 2006-01-22) — "Re: More progress and another question": thanks David; recalls that his is a short-shaft motor. Signed "Derek."
+[141] Archive message page_3280 (dlb / "David Beard", `paradoxbuilders`, msgnum 3311, 2006-01-22) — "Re: More progress and another question": confirms a short shaft, having tried both and preferring it; the Honda pushes "Whisper" at hull speed at a little under half throttle. Signed "David."
+[142] Archive message page_3290 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3321, 2006-01-24) — "Re: More progress and another question": "we call em oarlocks on this side of the pond."
+[143] Archive message page_3288 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3319, 2006-01-23) — "Cabin Top": plans to start cutting the cabin shortly, from 12 mm ply sides/front with routed window openings for Lexan bedded on silicone, and a lift-out rear window for outboard access with the top closed; considered a Bolger/Michalak-style slot top for easier mast/bow access and standing headroom, weighed against the risk that a knocked-down Paradox with the slot open might not float; floated sealing such a slot with plasticised lorry-curtain fabric, having just used the same material to skin a kayak with good results. Signed "Derek."
+[144] Archive message page_3299 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3330, 2006-01-25) — "Re: More progress and another question": "If I get blown round that side of the pond that's what I'll call them too :0)" — replying to Jack Gardiner's "oarlocks" terminology note. Signed "Derek."
+[145] Archive message page_3293 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3324, 2006-01-24) — "Re: More progress and another question": built a yuloh for his own 14 ft lugger (not a Paradox) and mounts it in a standard rowlock fitted to the transom; the loom is leathered where it fits the rowlock, with a "button" of three 3 mm leather layers screwed to the underside to stop the loom sliding through; had expected the button would need to sit against the rowlock's aft face to stop the loom riding up, but finds it works best against the forward face instead, since the loom's own down-and-aft angle already prevents riding up, making the button "probably unnecessary"; the system "works perfectly"; featured in *Watercraft Magazine*'s Nov/Dec 2005 issue. Signed "David."
+[146] Archive message page_3300 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3331, 2006-01-25) — "Re: More progress and another question": "Thanks David, that is very helpful." Signed "Derek."
+[147] Archive message page_3309 (william / "williamserjeant" / Bill Serjeant, `paradoxbuilders`, msgnum 3340, 2006-01-27) — "Re: Cabin Top": an open cabin top would suit UK sailors chasing scarce sunshine, but cautions against deviating significantly from Matt Layden's design even on sheltered waters, since an open slot-top and washboard would meaningfully reduce self-righting and invite water ingress on a knockdown, possibly leaving the boat floating low even after righting; recounts his own 22 ft Wharram Hina catamaran being knocked down by a freak gust on an otherwise calm afternoon, and recalls a small sailing cruiser (Alacrity) and a Dragon racing yacht in Torbay each sinking within minutes of a similar knockdown. Signed "Bill."
+[148] Archive message page_3311 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3342, 2006-01-27) — "Re: Cabin Top": his own knockdown experience suggests water does not start coming inside until the mast is nearly in the water, and that this could not happen from wind alone without wave action assisting; the boat popped back upright immediately once the knock-down conditions passed, so little water got in beyond a severely wet sleeve; floats a reasonably well-sealed soft top as workable, citing the RNLI's own closely fitting plasticised-fabric deck-locker covers (held on by hooks and bungee) as a precedent; his biggest reluctance is the loss of the stock cabin's theft security. Signed "Al, Yeovil, England."
+[149] Archive message page_3314 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3345, 2006-01-27) — "Re: Cabin Top": thanks both Al and Bill for the input; concludes again that it is difficult to improve on the original design, and expects Don Elliott would agree. Signed "Derek."
+[150] Archive message page_3315 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3346, 2006-01-27) — "Re: Cabin Top": suggests bolting the cabin roof on instead of gluing and nailing it, so a modification could be tried and reverted to the stock design if it didn't work out. Signed "Al, Yeovil, England."
+[151] Archive message page_3316 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3347, 2006-01-27) — "Re: Cabin Top": will probably take that course — building to the plans except for the lid itself; launching on a lake means a possibly leaky experimental lid won't matter too much. Signed "Derek."
+[152] Archive message page_3331 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3362, 2006-02-05) — "Re: progress": tells Derek to try `paradoxbuilders2`, thinking the original group is full; quotes the "progress" thread (Derek's photo-privileges question and Bill Serjeant's moderator-settings answer) in full. Signed "David Beard."
+[153] Archive message page_3332 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3363, 2006-02-06) — "Re: progress": "He sure does. Please use paradoxbuilders2 as this one is full." Signed "Glen."
+[154] Archive message page_3333 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3364, 2006-02-06) — "Re: progress": got a photo uploaded after all; it shows the piece cut in to replace a knotty section of a spar, wrapped in fibreglass tape. Signed "Derek."
+[155] Archive message page_3334 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3365, 2006-02-06) — "Re: progress": checked the photos section himself and found plenty of room in Derek's album; can't understand why Derek was blocked unless logged in under a different user ID; asks him to try again and report whether the "add photo to album" link is greyed out. Signed "Glen."
+[156] Archive message page_3335 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3366, 2006-02-07) — "Re: progress": tried again; the link is not greyed out and lets him select the album and photo, but clicking "add" still returns the privileges error; jokes he has "never been without privileges before"; separately mentions being confronted by a nine-year-old at work that day, a first for him and "a weird feeling." Signed "Derek."
+[157] Archive message page_3336 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3367, 2006-02-09) — "Re: progress": "Your planets immune system is trying to get rid of you. --Kurt Vonnegut :-)"
+[158] Archive message page_3337 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3368, 2006-02-10) — "Re: progress": agrees Nels and Kurt Vonnegut may be right; reports the front window, cabin sides, and rear panel are all tacked and clamped in place, with the cabin roof (deck) due to be cut the next day; got only 3 mm Lexan offcuts for the side windows and a thicker piece for the front window. Signed "Derek."
+[159] Archive message page_3338 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3369, 2006-02-11) — "Windows": routed window shapes and recesses directly into the cabin sides; needed a router bit long enough to clear the 9 mm plywood (his thin bits ran only 8 mm), so bought a 25.4 mm deep by 6.4 mm bit from B&Q, along with other unplanned purchases; priced but did not buy a new £80 band saw, preferring his own much older machine; the cabin roof was not cut that day after all, but he laminated two hand grabs supporting the centre beam from oak salvaged from an old desk found in his daughter's basement.
+[160] Archive message page_3339 (wyliewesty / "wyliewesty" / "Wayne" / William Nix, `paradoxbuilders`, msgnum 3370, 2006-02-11) — "Enuf pics": asks where current pictures of "Enuf" are, and whether they are posted to `paradoxbuilders2`. Signed "Wayne."
+[161] Archive message page_3340 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3371, 2006-02-11) — "Re: Enuf pics": "That's a good question!"; has not taken anything more current than the hull-on-rollers picture already in the folder; may get to it toward the end of the week as the cabin takes shape, but expects he probably won't be able to upload them even then. Signed "Derek."
+[162] Archive message page_3341 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3372, 2006-02-17) — "New Pic Elsewhere": has opened an "Enuf" album, with a new picture, on Bill Serjeant's `smallsailboats` group, still lacking upload "privileges" on `paradoxbuilders` itself. Signed "Derek."
+[163] Archive message page_3342 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3373, 2006-02-19) — "Re: New Pic Elsewhere": sorry to hear the problem persists; the only fix he can think of at this stage is to create a new album and delete the old one, guessing Yahoo's switch to a new album format broke something in the process. Signed "Glen."
+[164] Archive message page_3359 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3390, 2006-02-26) — "Lexan": asks what adhesive can be used to join scrap pieces of polycarbonate together for electrical-output boxes, the usual supplier being shut for the weekend; separately reports finding a source of free copper wire and electrical fittings — skips left by shopfitters ripping out and remodelling retail units.
+[165] Archive message page_3396 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3427, 2006-03-10) — "Re: New member": welcoming a newcomer to the "New member" thread, gives his own location as Wolverhampton, notes it is "not far from Al and Little Jim," and says he is hoping to launch "Enuf" at Wareham shortly.
+[166] Archive message page_3472 (logicaidnz / "Alan", `paradoxbuilders`, msgnum 3503, 2006-03-26) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": thanks Derek for his building notes, asks how the soft-top will work out in practice, and says he has also considered a bolt-on hard-top for security in poor conditions while still liking the open-top idea for sheltered day-sailing. Signed "Alan."
+[167] Archive message page_3473 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3504, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": answers Alan — plans to slide a ply or polycarbonate panel under the roll-top for support against a wave dumping on the boat in rough weather; Jim Hall's comment about being able to sit on the seat with the top closed has "set me thinking again." Signed "Derek."
+[168] Archive message page_3474 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3505, 2006-03-27) — "Enuf progress": bent the boom axle's brass rod to shape on the third attempt — recounts sourcing 15 mm brass rod from a scrap dealer, a lathe favour repaid in wine, a snapped cold-bend, a failed braze, a failed silver-solder attempt, finally 3 metres of correct-size rod bought outright from a metal stockholder, and bending it successfully in a vintage vice's built-in former at just below cherry-red heat; closes, "The moral of this story is that being cheap can get expensive."
+[169] Archive message page_3475 (logicaidnz / "Alan", `paradoxbuilders`, msgnum 3506, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": describes trailer-sailer pop-tops with a scissor-propped hard roof as one precedent; floats hinging a hard top at the forward end with fabric sides, removable, allowing entry/exit by lifting the rear end over a wash-board — but notes this leaves no way to stand up inside. Signed "Alan."
+[170] Archive message page_3476 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3507, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": agrees standing up sometimes is necessary, and asks whether that need and a closed top can be treated as separate problems — or whether the top could simply be built permanently higher than the plans specify, provided it still clears the boom, so the seat is always usable.
+[171] Archive message page_3477 (logicaidnz / "Alan", `paradoxbuilders`, msgnum 3508, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": abandons the hinged hard-top idea (it would have to lift to about 45 degrees to allow standing, fouling the boom); proposes instead a hooped fabric cover like a dome tent, using bendy rods permanently sleeved to the fabric and seated in angled sockets so the hoops alone hold it braced, extending slightly beyond the hatch opening at each end to keep a seated sailor dry with the ends left open, potentially low enough to be usable underway as well as at anchor. Signed "Alan."
+[172] Archive message page_3478 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3509, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": on longer trips he has found it useful to stand and move around occasionally underway, one of the few real disadvantages of the design; describes his own solution — an umbrella clamped to the back of the sliding hatch, adjustable for height and position, used for sun/rain shelter at anchor, occasionally while running, and going ashore in the rain — but says he prefers the stock hard hatch for the security of leaving the boat locked and unattended. Signed "Al, Yeovil, England."
+[173] Archive message page_3479 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3510, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": wonders where to source a plexiglass dome to fit into the existing hatch, and whether there would be enough room for one under the boom. Signed "Jim Hall."
+[174] Archive message page_3480 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3511, 2006-03-27) — "Re: Enuf progress": asks why Derek used brass at all; describes using plain mild steel for all the deck fittings on his own "banger boat" some thirty years earlier, finished in Galvafroid cold-galvanising paint under an ordinary gloss top coat, with fully satisfactory results — mild steel being stronger, cheaper, more easily welded and sourced, and able to be hot-dip galvanised for anyone wanting a more durable finish. Signed "Jim Hall."
+[175] Archive message page_3481 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3512, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": jokes about Alastair needing a bowler hat for when the wind is too strong for his umbrella; notes having seen at a recent visit how secure "Little Jim" is with a padlock through the hatch slider, reassuring if left unattended by the towpath; asks Derek directly whether a soft top would leave "Enuf" more vulnerable to vandals. Signed "Jim Hall."
+[176] Archive message page_3485 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3516, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": agrees a soft top is more vulnerable to vandalism, without a doubt, but judges it unlikely to be a problem this far west and south, and not insurmountable; restates his preference for a fabric top over the sliding hatch on grounds of simplicity — a strong, waterproof fabric secured over a lip by bungee cord and clips, folded back in fine weather, sufficient for ordinary rain; a ply or plastic board bolted in under or over the fabric with Allen bolts into secure nuts for genuinely bad weather or security, nothing on show to tempt a thief, with a padlocking arrangement feasible; also wants the seat usable whether the hatch is open or closed; allows he might still build the stock slider instead, and notes he has not yet regained full use of an injured hand, leaving him "plenty of thinking time."
+[177] Archive message page_3486 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3517, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": answers the bowler-hat jibe — a Panama in sunshine, a bobble-less bobble hat in the cold, ideally a deerstalker with ear flaps — while repeating his sign-off preference for the secure, lockable hard hatch. Signed "Al, Yeovil, England."
+[178] Archive message page_3482 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3513, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": has a plexiglass dome of the kind Jim Hall asked about, salvaged from a charity money box; its two coin slots could be blocked, but points out a dome alone would not remove the need for some form of sliding roof, which he is still trying to avoid having to build.
+[179] Archive message page_3484 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3515, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": confirms no problem with height, as the boom sits well clear of the head, but the head sits close enough to the aft edge of the hatch opening that a fitted dome would need to be somewhat truncated at the rear, and getting on/off the seat would mean sliding forward and down to duck out unless the dome extended well forward; had turned over the same ideas himself while building, decided none were structural, and built to the stock design, keeping the option open to try alternative hatches later; after three full sailing seasons, reports the stock hatch's perceived shortcomings did not show up in practice, leaving only one modification he judges worth the effort — proper hatch runners. Signed "Al, Yeovil, England."
+[180] Archive message page_3487 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3518, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": suggests leaving the money-box dome's coin slots unblocked, joking Derek "may collect some donations." Signed "Al, Yeovil, England."
+[181] Archive message page_3488 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3519, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": jokes in reply that all he'd need is somebody leaning over from a passing "plastic gin palace" to spin a coin into his ear. Signed "Derek."
+[182] Archive message page_3489 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3520, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": asks where "proper hatch runners" of the kind Alastair described can actually be bought. Signed "Derek."
+[183] Archive message page_3483 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3514, 2006-03-27) — "Re: Enuf progress": answers Jim Hall's brass-vs-steel question in three words — "just following the plans, Jim. For a change :0)."
+[184] Archive message page_3490 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3521, 2006-03-27) — "Re: Enuf progress": replies that the country needs more people with Derek's self-discipline.
+[185] Archive message page_3494 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3525, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": had assumed proper hatch runners were a stock item but, being reluctant to pay for one without checking first, found on looking that he could not source any; floats the idea of adapting ordinary U-section curtain rail instead, still to be thought through. Signed "Al, Yeovil, England."
+[186] Archive message page_3491 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3522, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": jokes that Alastair doesn't need to sit on the cabin sole in wet weather if he puts up his umbrella; recalls reading that an umbrella and a hat stand are rated the two most useless items aboard a small boat, and says he now needs to find a use for the hat stand too. Signed "Jim Hall."
+[187] Archive message page_3495 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3526, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": suggests a hat stand with curly hooks on top could double as a boat hook or an emergency anchor, or simply be used for hanging hats. Signed "Al, Yeovil, England."
+[188] Archive message page_3496 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3527, 2006-03-27) — "Re: I am concerned that a sailor is trapped in the yacht./fabric top": knows several people who use ordinary golfing umbrellas as an improvised cuddy when stopping for a brew-up aboard open boats. Signed "Al, Yeovil, England."
+[189] Archive message page_3497 (gilbertvm / "copterpack", `paradoxbuilders`, msgnum 3528, 2006-03-27) — "Re: Hatch mod stuff": a first-time correspondent, not yet a Paradox builder, reports having added a drawing of a folding hatch concept to the group's photo section, "in mind if.....I ever start building my own boat." Signed "copterpack."
+[190] Archive message page_3499 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3530, 2006-03-27) — "Re: Hatch mod stuff": reacts to copterpack's folding-hatch drawing — "I think that you've cracked it. I wish I'd thought of that!" Signed "Derek."
+[191] Archive message page_3498 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3529, 2006-03-27) — "Re: Hatch mod stuff": judges the folding-hatch idea should work; his own reservation about a fabric or dome-covered hatch is not being able to leave it propped half-open, which he often does underway (sailing with just his head out) — a folding hatch able to hold the same partial position would remove that objection. Signed "Al, Yeovil, England."
+[192] Archive message page_3500 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3531, 2006-03-27) — "Re: Hatch mod stuff": replies to Alastair's half-open point with a joke that good weather won't be needed once the boat has a proper Porta Potti aboard. Signed "Derek."
+[193] Archive message page_3492 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3523, 2006-03-27) — "Re: Hatch mod stuff": deadpan suggestion, in reply to Derek's fabric roll-top proposal, of a transparent plastic pram hood; signs off "OK I'll get my coat......" Signed "Jim Hall."
+[194] Archive message page_3493 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3524, 2006-03-27) — "Re: Hatch mod stuff": replies that a pram hood would make the boat "an enigma," having already built the cabin itself in wood and polycarbonate rather than a fully transparent shell; all he wants is an easy top closure. Signed "Jim Hall."
+[195] Archive message page_3506 (gilbertvm / "copterpack", `paradoxbuilders`, msgnum 3537, 2006-03-28) — "Re: Hatch mod stuff": tells Derek to use the folding-hatch idea freely; the posted drawing shows only the simplest folding version, but one or two further folding stages could be added to let the hatch rest halfway open as well as fully folded, requiring only working out the extra folding plates' length; judges his own drawn hatch is probably too tall, and a little too long, for the purpose. Signed "copterpack."
+[196] Archive message page_3515 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3546, 2006-03-28) — "Re: Hatch mod stuff": asks copterpack what material he has in mind for the folding hatch, guessing glued-together flat perspex sheeting. Signed "Jim Hall."
+[197] Archive message page_3516 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3547, 2006-03-28) — "Re: Hatch mod stuff": asks whether the folding hatch's hinges would actually be some type of strong fabric rather than metal, and how leaking would then be prevented; notes a sliding hatch's advantage of being slammable shut in an instant if needed, "such as when you are at 60deg heel and still going over!" Signed "Alan."
+[198] Archive message page_3520 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3551, 2006-03-29) — "Re: Hatch mod stuff": replying to Alan, says a fast-slam response would not have helped in his own knockdown — there was only time to think "Oh s**t" as the boat went from about 25 to 90 degrees of heel in roughly three seconds, upright and sailing again within ten. His real worry about a fabric or dome hatch is the hatch lifting as the boat goes over, admitting significant water unless somehow fastened down; the more he considers it, the better the stock sliding hatch looks by comparison. Signed "Al, Yeovil, England."
+[199] Archive message page_3522 (gilbertvm / "copterpack", `paradoxbuilders`, msgnum 3553, 2006-03-29) — "Re: Hatch mod stuff": answers Jim Hall's question about the folding hatch's material — steel hinges on the underside of each panel for a rigid connection, a watertight flexible seal along the top of the folding lines, and elastic bands sealing the hatch on both the inside (sailing) and outside (with a lock, when left); the whole hatch opens or closes in seconds; offered as an alternative to, not a replacement for, the sliding hatch. Signed "copterpack."
+[200] Archive message page_3524 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3555, 2006-03-29) — "Re: Hatch mod stuff": asks whether there would really have been time to slide a stiff hatch shut in Alastair's knockdown even if the danger were seen coming, and how an open boat would have coped in the same situation; suggests over-centre clips against a neoprene gasket for a folding hatch's closure; wonders whether a sliding hatch's slam-shut-in-a-hurry benefit actually matters given the boat sails closed-up already in poor weather; asks whether Matt Layden's own reported hatch-open knockdown (boat rights itself after the sailor falls out) happened aboard "Swamp Thing" or "Gjac," since neither has a hard top. Signed "derek."
+[201] Archive message page_3527 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3558, 2006-03-29) — "Re: Hatch mod stuff": confirms he'd had the hatch closed for the 2.5 hours before the knockdown, recognizing the risk before it hit; knows of a Wayfarer and an Enterprise that made the same crossing without incident, crediting luck rather than skill for his own case; finds the sliding hatch's partial adjustability useful day to day and worries a domed folding hatch could obstruct forward visibility when open; unsure himself whether the open-hatch knockdown was aboard "Swamp Thing" or "Gjac"; gives a fuller account of his own water ingress — enough through the harness-strap gap to wet his sleeve as he braced himself, not enough depth to pump, dried with a sponge, over in a few seconds, judged "nuisance" not "danger" even had the hatch been open throughout; closes with "Next time I will reef more!" Signed "Al, Yeovil, England."
+[202] Archive message page_3528 (gilbertvm / "copterpack", `paradoxbuilders`, msgnum 3559, 2006-03-29) — "Re: Hatch mod stuff": responds to Alastair's visibility concern — the dome would use narrow welded steel sections glazed with lexan or plexiglass for maximum visibility, and the number of folding stages can be varied to give a half-open as well as fully open/closed position; judges the folding hatch easier to build but possibly less watertight in a rollover than the sliding hatch, which is proven but prone to trouble once its mechanism wears smooth; hopes the idea doesn't "start a war of words." Signed "copterpack."
+[203] Archive message page_3529 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3560, 2006-03-29) — "Re: Hatch mod stuff": "It's the thoughts loudly thunk that help the decision making"; asked to confirm which boat the open-hatch knockdown happened aboard, guesses "Little Cruiser" or a Paradox rather than "Swamp Thing" or "Gjac." Signed "Derek."
+[204] Archive message page_3530 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3561, 2006-03-29) — "Re: Hatch mod stuff": corrects himself — "It was swamp Thing." Signed "Derek."
+[205] Archive message page_3531 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3562, 2006-03-30) — "Re: Hatch mod stuff": "There is, of course, no reason why both should not be built. They are not mutually exclusive. Build your favourite, and if not satisfied, try something else." Signed "Al, Yeovil, England."
+[206] Archive message page_3532 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3563, 2006-03-30) — "Re: Hatch mod stuff": on which boat had the open-hatch knockdown — "Not Paradox, I don't think. I seem to remember that the incident was cited as the trigger for a design progression." Signed "Al, Yeovil, England."
+[207] Archive message page_3541 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3572, 2006-04-02) — "Re: Hatch mod stuff": proposes adapting a "Griffiths hatch" (citing a *Practical Sailor* article) by replacing its front hinge with wooden blocks on each side of the top cover riding in loose coach-roof guide-tracks — closed, the blocks lock the hatch's front edge down; lifted, the hatch slides forward like an ordinary sliding hatch; open-ended tracks would let the hatch be lifted off and remounted on vertical bars above the opening at anchor, or, partly raised with a washboard fitted, double as a windscreen for a sailor seated on the rear deck. Signed "Alan."
+[208] Archive message page_3546 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3577, 2006-04-04) — "Re: Hatch mod stuff": judges Alan has "cracked it," having wished he'd thought of it himself; still favors the copterpack folding-hatch idea and plans a card mock-up, but needs to check clearance against the mast and boom first, and thinks a combination of the copterpack and Alan ideas might give both good headroom and a secure fit; a wrist problem aggravated by sanding has forced a pause in his build work. Signed "Derek."
+[209] Archive message page_3555 (wyliewesty / "wyliewesty" / William Nix, `paradoxbuilders`, msgnum 3586, 2006-04-12) — "Enuf pics?": "Did pics of Enuf ever get posted? Bill."
+[210] Archive message page_3556 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3587, 2006-04-12) — "Re: Enuf pics?": points to photos on both the original `paradoxbuilders` group's photo section and the mirrored copy on the `smallsailboats` group; reports no work done on the boat for five weeks owing to a carpal tunnel operation, which still hurts.
+[211] Archive message page_3557 (wyliewesty / "william nix" / William Nix, `paradoxbuilders`, msgnum 3588, 2006-04-13) — "Re: Enuf pics?": wishes Derek a speedy recovery; reports being denied access trying to view the `smallsailboats` photos; still hopes to begin building his own Paradox once he finishes a VW trike project already under way, needing the garage space it currently occupies. Signed "Bill" [William Nix].
+[212] Archive message page_3558 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3589, 2006-04-13) — "Re: Enuf pics?": adds his own get-well wishes for Derek's carpal tunnel recovery; asks, prompted by Bill Serjeant's earlier mention of sleeping aboard on the trailer en route to a new cruising ground, whether builders actually do this — pulling into a layby for the night, or a campsite instead — and whether rules against sleeping in laybys are enforced in practice. Signed "Jim Hall."
+[213] Archive message page_3559 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3590, 2006-04-13) — "Re: Enuf pics?": has slept aboard his own motor cruiser this way and would consider doing the same in a Paradox; warns against parking in a remote layby, having been woken there by police at night in the past, though never moved on once he explained he judged it unsafe to keep driving tired; recommends an ordinary residential road instead, where passersby assume the vehicle belongs to one of the houses. Signed "Al, Yeovil, England."
+[214] Archive message page_3560 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3591, 2006-04-13) — "Re: Enuf pics?": "Ha Ha would never had thought of that. next time I feel a bit tired can I doss just outside your house?" Signed "Jim Hall."
+[215] Archive message page_3561 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3592, 2006-04-13) — "Re: Enuf pics?": has not slept aboard "Enuf" itself yet, but has in VW campers and a Land Rover; recommends lorry parking spots just off motorways and main A-roads, small industrial estates, and remote Welsh/borders beauty-spot car parks — but not open Scottish ground, much of which he found fouled; guesses a 24-hour supermarket car park (naming a Tesco by the M5's junction 2) might also work, reasoning a policeman is unlikely to trouble a vehicle that doesn't look like it means to stay for weeks. Signed "Derek."
+[216] Archive message page_3564 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3595, 2006-04-13) — "Re: Enuf pics?": adds his own Canadian overnight-parking list for vehicles generally — farmers' "easements" (short field turn-offs), all-night truckers' centres (smelly and noisy from idling engines), closed small-village gas stations (explainable as "waiting for it to open"), gravelled clearings by rural communication towers (set back from the highway, kept ploughed in winter, resembling a legitimate service stop), and quiet parking near small-village church steeples, ideally next to a graveyard's larger trees; recounts once seeing a motorhome plugged into a closed-for-winter gas station's own power for a week. Signed "Nels."
+[217] Archive message page_3562 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3593, 2006-04-13) — "Re: Enuf pics?": confirms to William Nix that the `smallsailboats` site is Bill Serjeant's and that he is building a Paradox; judges it worth joining, though quiet at present.
+[218] Archive message page_3566 (losnoso / "Carlos Reynoso", `paradoxbuilders`, msgnum 3597, 2006-04-14) — "Re: Enuf pics?": a new correspondent, agreeing the site is "Smallsailboats," but asking whether it is instead the "lair" of Don Elliott, which would explain William Nix's access trouble; answered the same day (page_3567, msgnum 3598) by Derek Clark, agreeing that guess was plausible and adding that the "jerk" characterization Nix had used seemed unfair to Bill; reports having just added three more "Enuf" photos to the Smallsailboats album.
+[219] Archive message page_3569 (william / "barnacleid" / William Serjeant, `paradoxbuilders`, msgnum 3600, 2006-04-14) — "Re: Enuf pics?": thanks Derek for the photo links, confirming he can see them and that they are "Good."
+[220] Archive message page_3563 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3594, 2006-04-13) — "Re: Enuf pics?": jokingly offers Jim Hall "a bucket of cold water... in the morning so you can have a wash" in reply to his request to doss outside Alastair's house. Signed "Al, Yeovil, England."
+[221] Archive message page_3568 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3599, 2006-04-14) — "Re: Enuf pics?": jokes back that a bucket of cold water would make him feel "just like I was at sea"; Alastair replied the same day (page_3570, msgnum 3601) that he could arrange to feel "all at sea" on request, adding that building a Paradox would spare him the wet and cold since "in a Paradox you don't get wet or cold." Signed "Jim Hall."
+[222] Archive message page_3577 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3608, 2006-04-14) — "Re: Enuf pics?": "I'll keep in touch," replying to Jim Hall's offer to sail later in the year. Signed "Al, Yeovil, England."
+[223] Archive message page_3578 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3609, 2006-04-14) — "Re: Enuf pics?": "Didn't you know? The water goes round the other way in Oz. :-O" — answering Derek Clark's windward-conditions question. Signed "Al, Yeovil, England."
+[224] Archive message page_3580 (logicaid / "Alan", `paradoxbuilders`, msgnum 3611, 2006-04-15) — "Re: Enuf pics?": "Yeah, we have to build all our boats with the pointy-bit at the other end...." Signed "Alan."
+[225] Archive message page_3582 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3613, 2006-04-15) — "Re: Enuf pics?": "I wish this thread hadn't started. I've just took a look at Enuf from both port and starboard sides and think that I may have put the pointy bit at the wrong end. I'm too old to contemplate a move to Oz besides which my aunts, uncles and cousins who went there in the '60's have all gone native and would hardly be recognisable. Much wringing of hands and woe is me-ing here :0)"
+[226] Archive message page_3583 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3614, 2006-04-15) — "Re: Enuf pics?": "Don't worry about it too much Derek. after you haul it out of the building shed you might be able to turn it round....." Signed "Jim Hall."
+[227] Archive message page_3605 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3636, 2006-04-28) — "Mock up of Hatch": opened a new "MoreEnuf" photo album with a cardboard mock-up of a proposed hatch; wants to use the seat with the hatch closed (stiff knees) and run the outboard with the hatch closed but the rear window open; forward sloping face to be Lexan with windows in each side; decided on sliding, slider fittings inside the hatch; asks for comment before cutting ply. Signed "Derek."
+[228] Archive message page_3606 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3637, 2006-04-28) — "Re: Mock up of Hatch": likes the idea, assuming Derek has checked boom clearance and the extra windage; if it doesn't work out it's only a hatch and a normal one can be substituted; asks how Derek's hand is and whether he can work again. Signed "Jim Hall."
+[229] Archive message page_3607 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3638, 2006-04-29) — "Re: Mock up of Hatch": "Looks much to high to clear the boom to me Derek." Signed "Glen."
+[230] Archive message page_3608 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3639, 2006-04-29) — "Re: Mock up of Hatch": confirms he checked boom clearance and left 4cm, but found the taller hatch ugly from every angle; his wife suggested a second, lower seat position halfway between the floor and normal position, letting him reduce the hatch height considerably; the lower seat still allows an arm out through the rear window/washboard at some cost to knee bend; posts a new photo of the slide arrangement (two strips of brass from a DIY store); the hatch slides forward on top of the coaming, held down by a shaped wooden block hooked over a hardwood strip, removable from inside per an earlier suggestion; day-to-day security to be cord, cam cleats, bolts, wing nuts, and a stainless padlock; reports his hand much improved, with feeling back in all fingers, and hopes to finish the hatch the following week. Signed "Derek."
+[231] Archive message page_3609 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3640, 2006-05-01) — "Re: Mock up of Hatch": still thinks the design will prevent the furled sail from dropping into its stowed position, but concedes Derek should prove him wrong; nothing stops him building another if he doesn't like the result; jokes that Derek should follow Matt Layden's lead and ignore the "nay-sayers," so the group can say "I told you so" if it goes wrong. Signed "Al, Yeovil, England."
+[232] Archive message page_3610 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3641, 2006-05-01) — "Re: Mock up of Hatch": jokes that if headroom can't be gained upwards because of the boom, Derek could instead lower the cabin sole and make "a basement." Signed "Jim Hall."
+[233] Archive message page_3611 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3642, 2006-05-01) — "Re: Mock up of Hatch": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion); replying to Jim Hall's "basement" joke, recalls a tall workmate for whom a roughly 4 in deep footwell solved the same headroom problem. Signed "Al, Yeovil, England."
+[234] Archive message page_3616 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3647, 2006-05-02) — "Re: Mock up of Hatch": jokes that if the furled boom does hit the hatch, only he and Alastair need ever know; describes a "just in case" fix — a hole in the hatch top fitted with a thick red rubber glove (to match the sail) so he can reach up and help the furled boom into position without getting his hand wet; jokes he would rename the boat "Bantam" if he fitted it. Signed "Derek."
+[235] Archive message page_3617 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3648, 2006-05-02) — "Re: Mock up of Hatch": confirms, replying to Jim Hall's "basement" joke, that he has "gone part way" and lowered the seat, per [230]. Signed "Derek."
+[236] Archive message page_3643 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3674, 2006-05-26) — "Enuf" (subject line garbled in transmission): finished rubbing the hull down, as much as he is prepared to do, admitting he hates the job; hoped to roll on the pigmented epoxy that day but rain pushed it back, noting no water shortages that year in the West Midlands of England. Signed "Derek."
+[237] Archive message page_3646 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3677, 2006-05-26) — "Re: Enuf" (subject line garbled in transmission): the rain is holding him up too; beveled the aft end of his own bottom piece, hoping to do the forward end next; the epoxy needs at least four days to cure thoroughly, and achieving the right outdoor temperature is weather-dependent, since doing it in the garage is not always possible and even then the boat would have to be left outside — "It's all a juggling act." Signed "Bill."
+[238] Archive message page_3648 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3679, 2006-05-26) — "Re: Enuf" (subject line garbled in transmission): even on the trolley it is a very heavy boat to juggle; put the first coat of pigmented resin on that day — "It doesn't look nice." Signed "Derek."
+[239] Archive message page_3664 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3696, 2006-06-03) — "Enuf Update": put extra pictures on Bill Serjeant's `smallsailboats` group; finishing interior painting except around the hatch runners (undecided what to do there) and hoping to fit the windows that day, foregoing watching an England v Jamaica match. Signed implicitly (no signoff in the message body).
+[240] Archive message page_3666 (magsman999 / "Anthony aka Magsman," `paradoxbuilders`, msgnum 3698, 2006-06-03) — "Re: Enuf Update... Fridge.": asks what the plastic box visible through the transom in the build photos is — a portapotty, portable TV, fridge, or coolbox. Signed "Tony."
+[241] Archive message page_3667 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3699, 2006-06-03) — "Re: Enuf Update... Fridge.": answers Tony — looks like a Porta Potti in its storage position. Signed "Nels."
+[242] Archive message page_3669 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3701, 2006-06-03) — "Re: Enuf Update": confirms to Nels that the chine runners are not to plan — a sanding-disc mishap with his angle grinder "ran away with" him; says he made the change because he didn't want "just a clone Paradox," but admits he had also simply guessed at some plan details he didn't fully understand, with the effect still to be seen once the boat sails. Signed implicitly (no signoff in the message body).
+[243] Archive message page_3668 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3700, 2006-06-03) — "Re: Enuf Update... Fridge.": confirms the plastic box is a Porta Potti; has just bought a newer, more compact model (the 335) suited to solo use, with still no room to use it without pulling it out of the forward stateroom "unless... you've just had a bad curry." Signed "hi Nels" salutation only, no closing signoff. A short exchange with Nels in the same and following message (page_3668/msgnum3700, page_3670/msgnum3702) about a Microcruisers-group member's unrelated personal misfortune is off-topic to Paradox and omitted here.
+[244] Archive message page_3685 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3717, 2006-06-15) — "Enuf with her sail up": posts three current photos to the group's photo section, showing the hatch cover's current state; floats dropping it further, to just two inches high, and asks for comments; separately reports trouble furling the sail that morning — it tried to move forward along the boom and ride over the furling drum, a problem that had not occurred the last time he furled, though the boom's outboard end was lower than before; notes his Honda outboard is ready for action.
+[245] Archive message page_3695 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3727, 2006-06-26) — "Re: Enuf with her sail up": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox); has put a selection of Derek's photos up at `www.paradox-uk.co.uk`, linking through to `www.smallsailboats.co.uk/paradox/enuf_gallery.htm`; thanks Derek for the pictures. Signed "Bill."
+[246] Archive message page_3782 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3814, 2006-07-24) — "Enuf All Ready": posts a photo of the finished hatch, noting it isn't much different from the plans after all despite a summer of variations that "came to naught"; the boat is not yet on the trailer (scheduled for the coming Wednesday); plans to weigh the loaded trailer (boat, stores, and himself as skipper aboard), subtract the trailer's weight, and use the resulting figure against the design displacement to size the lead ballast, to be brought along and placed for best trim at next Monday's planned launch; the only task left is the lid of his wannigan. Signed "Cheers."
+[247] Archive message page_3783 (markagreenwood / "markgreenwood2004" / mark greenwood, `paradoxbuilders`, msgnum 3815, 2006-07-24) — "Re: Enuf All Ready": HTML reply quoting Derek's message in full; "Good Luck Admiral!" Signed "mark greenwood."
+[248] Archive message page_3784 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3816, 2006-07-26) — "Enuf on the Trailer": reports "Enuf" now on the trailer; used a crossways plastic pipe bonded through the stem with a spliced grommet for the winch wire instead of an eyebolt — the splice held, but the winch wire's own pressed-end fitting pulled free and was refastened with u-bolt clamps from the junk box; the hull's bottom proved a couple of inches wider than the gap between the trailer's mudguards, which had to be removed, needing longer bolts to stand them further off the chassis; the trailer has rollers up the centerline with 3.5 by 2 in timber lashed to the outer chassis to keep the boat level; the bottom now sits 22 in above the ground, so launching will need about 3 ft of water and will fully submerge the trailer's wheels; remarks that Alastair's own £1500 trailer is starting to seem a good idea. Signed "Cheers."
+[249] Archive message page_3787 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3819, 2006-07-27) — "Re: Enuf on the Trailer": jokes that the only problem is the trailer not matching the colour of the boat, the Land Rover, and the wheelie-bin.
+[250] Archive message page_3796 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3828, 2006-08-03) — "Enuf in the water": posts a photo link showing "Enuf" afloat; reports three days in Poole Harbour with Al Law and "Little Jim" — hit one mudbank and three moored "pleasure palaces" (two in one strike), fended a fourth off with his yuloh, and narrowly missed a broken marker post that threatened to tear the sail; the first night, moored in the River Frome, could not sleep for thinking every lap of water was coming inboard; the second day was largely motoring in strong wind with some sailing and yulohing; the biggest fright was meeting a multihull "bigger than a house" coming back up the Frome. The outboard is a double problem, fouling the mainsheet and needing an awkward lean over the rear deck to reach the throttle, letting the steering wander — the direct cause of the double collision, when the tiller caught in the foam and jammed. Plans to move the motor to starboard, extend the tiller over the center of the rear deck, try a different mainsheet lead, and build a new boom (the current one has a bend and does not roll smoothly). Credits Alastair's patient help; was "absolutely cream crackered" but looking forward to sorting the teething problems and making a passage.
+[251] Archive message page_3934 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3966, 2006-09-07) — "Paradox for Sale UK": offers "Enuf" for sale — £700 for the boat and Mk2 sail (99 kg lead ballast, halyard, topping lift, steering line, rudder uphaul included; anchors, chain, warp, and electrical goods not included) plus £500 for the trailer (used in fresh water four times); cites diabetic hypoglycemic episodes on both outings at Poole, one at night at anchor, as the reason for giving up sailing her; estimates around £500 spent on epoxy and glass fibre alone; offers a "Viking burial" for the hull and a separate sail sale if no buyer comes forward.
+[252] Archive message page_3936 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3968, 2006-09-07) — "Re: Paradox for Sale UK": calls it a bargain any prospective buyer would be lucky to get, and asks whether he pushed Derek too hard sailing together at Poole. Signed "Al, Yeovil, England" (implicit, per standard signature).
+[253] Archive message page_3935 (cuatralbo, `paradoxbuilders`, msgnum 3967, 2006-09-07) — "Re: Paradox for Sale UK": interested depending on the possibility of registering the boat in Spain; apologizes for weak English and offers to provide further information or a postal address rather than a phone number. A one-off, below-threshold correspondent with no further appearance on record.
+[254] Archive message page_3938 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3971, 2006-09-08) — "Re: Paradox for Sale UK": sorry to hear of the enforced decision; praises Derek's posts and Duckworks article; notes only his distance in New Zealand keeps him from being a prospective buyer himself. Signed "Alan."
+[255] Archive message page_3939 (sail2xs / "sailzafu" / Niels, `paradoxbuilders`, msgnum 3972, 2006-09-08) — "Re: Paradox for Sale UK": also diabetic, describes managing his own glucose numbers higher than a doctor-recommended baseline for an active lifestyle; would like to buy the boat but judges shipping to Jacksonville, FL impractical; thanks Derek for the Duckworks article. Signed "Niels."
+[256] Archive message page_3940 (apcf14 / "roverticket" / "Jeff"/Jeff UK, `paradoxbuilders`, msgnum 3973, 2006-09-08) — "Re: Paradox for Sale UK": jokes that Niels could buy the boat and keep it in the UK, commuting weekends; sympathizes with Derek's condition and asks whether he has discussed raising his blood-sugar target with his doctor for when he wants to sail; suggests building a radio-controlled model of "Enuf" from the existing plans instead. Signed "Jeff UK."
+[257] Archive message page_3941 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3974, 2006-09-08) — "Re: Paradox for Sale UK": "Or why not R/C the real thing! Its not much bigger than some people's models..."; jokes about whether such a model could be sailed across the Atlantic under radio control. Signed "Alan."
+[258] Archive message page_3942 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3975, 2006-09-09) — "Re: Paradox for Sale UK": explains to Niels that UK and US blood-glucose scales differ; his own hypo threshold is normally around 4.3 mmol/L with warning signs (shaking hands, headache, confusion), but on both Poole nights he fell into the mid-3s without warning, risking a coma if he had not woken and taken sugar in time; the hospital's advice to lower insulin before activity is "hit and miss" against the competing risk of running too high; judges a sedentary lifestyle the safer trade-off; reports his wife has bought him a 4.98 m, 0.6 m-draft motor cruiser to restore in Enuf's place, still within his own definition of a microcruiser. Signed "Derek."
+[259] Archive message page_3943 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3976, 2006-09-09) — "Re: Paradox for Sale UK": replying to Jeff UK, reports feeling happy with the decision; enjoyed the build even in its frustrating moments, and enjoyed Poole Harbour itself — birds never seen before, Sitka deer on the salt marsh, a kingfisher on the River Frome, a whole oyster on the beach, "don't see either of those in Wolverhampton on a normal day"; has a new project and two serious enquiries about Enuf; "Time for me to move on, methinks." Signed "Cheers .. Derek."
+[260] Archive message page_3944 (apcf14 / "roverticket" / "Jeff"/Jeff UK, `paradoxbuilders`, msgnum 3977, 2006-09-09) — "Re: Paradox for Sale UK": glad Derek is "still keeping the faith, even if it will be powered by a motor"; hopes the three of them (Jeff, Al, Derek) might still meet up next year; asks Derek to describe the new acquisition. Signed "Jeff UK."
+[261] Archive message page_3945 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3978, 2006-09-09) — "Re: Paradox for Sale UK": "Is it safe to mention motor boats here? Although I will be weaning myself off this group I don't want to get thrown off! I'll email you :0)"
+[262] Archive message page_3946 (apcf14 / "roverticket" / "Jeff"/Jeff UK, `paradoxbuilders`, msgnum 3979, 2006-09-09) — "Re: Paradox for Sale UK": reveals that if scaffolding put up next door had come down before the previous summer, he had planned to build a 17 ft Paradox-type motor cruiser (same accommodation as Paradox, but multi-chine) for his 2 hp Honda outboard, having already cut the hull parts and bulkheads the year before — the scaffolding derailed it, "the rest[']s history"; still intends to build it, but only after his planned "PARANIGMA"; tells Derek to talk about the new boat on the list regardless, since a lot of members motor more than they sail, and offers to back him up. Signed "Jeff."
+[263] Archive message page_3947 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3980, 2006-09-09) — "Re: Paradox for Sale UK": reports that David Beard has interesting ideas for motoring in a Paradox and might be persuaded to post them, and that Al Law has thoughts on the matter too.
+[264] Archive message page_3952 (sdhender / "steveh2992" / Steve H., `paradoxbuilders`, msgnum 3985, 2006-09-12) — "Re: Paradox for Sale UK": sorry to hear of the diabetes-driven decision; glad a backup plan exists; would be interested in buying the Mark II sail himself if no boat buyer materializes, offering his son (studying at Oxford that year) as a broker/agent; wishes Derek "happy motoring" on the new project. A one-off, below-threshold correspondent with no further appearance on record. Signed "Steve H."
+[265] Archive message page_3955 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3988, 2006-09-13) — "Re: Paradox for Sale UK": thanks Steve for the condolences; "Enuf sold more or less immediately," and on the coming Saturday starts a journey to Norway via Norfolk, where her trailer departs separately to a buyer in Essex; recommends the Loch Fyne fish bar in Jericho, Oxford, from his own daughter's time there; reports his new motor cruiser is being delivered that afternoon.
+[266] Archive message page_3955 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3988, 2006-09-13) — "Re: Paradox for Sale UK": floats a small, purpose-built motor microcruiser idea — roughly 14 ft by 4-4.5 ft, quick ply stitch-and-glue construction, solo use, easy launch/retrieval, a cabin long enough to sleep in with sitting headroom, river- and estuary-worthy, camping-type living aboard, and a 7-year projected life — built around the Honda 2/2.3 hp air-cooled four-stroke outboard, an engine he judges has sold in the tens or hundreds of thousands with no small boat properly designed around it; puts the idea to Jim Michalak (suggests his "smallsailors" hulls minus mast/leeboards, though judged boxy next to Paradox's curves, conceding the low sloping cabin roofs with elliptical portlights are appealing), Paul Fisher (could redesign his "Power 1" with better curves, at the cost of a 2 hp Honda), and John Welsford (no reply yet; wonders if his "Trouper" would provide a suitable hull).
+[267] Archive message page_3957 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3990, 2006-09-16) — "Goodbye": leaving the group after about 30 months; "Enuf" left for Trondheim via Norfolk that day; felt no sadness watching her go, given a new boat project (or two) and a consultant surgeon's assessment the day before that a five-hour operation may cure his diabetes; thanks the list for its help during the build, singling out Al Law, Dave Bolduc, David Beard, and Don Elliot; if the operation (booked for the following March) succeeds he may build again — lighter, quicker, "dirtier," incorporating some of Jeff UK's changes and with proper Honda provision built in. Signed "Cheers all ..... Derek."
+[268] Archive message page_3958 (apcf14 / "roverticket" / "Jeff"/Jeff UK, `paradoxbuilders`, msgnum 3991, 2006-09-16) — "Re: Goodbye": "Why are you leaving. Your new boat is classed as a microcruiser in my mind. And just because it is powered by an outboard motor makes it no different from the other types. Paddle, oar or sail. So. No more of this leaving crap." Signed "Jeff UK."
+[269] Archive message page_3959 (herrons / "liam_lund_macdonald" / "SH", `paradoxbuilders`, msgnum 3992, 2006-09-16) — "Re: Goodbye - YEAH": does not know Derek personally but argues against burning bridges that have served him well; would rather see photos and notes of his next build and hear how "the fight with 'Gods given body'" goes; believes positive focus and simply continuing on through hardship is the better response to a health hurdle. A one-off, below-threshold correspondent with no further appearance on record. Signed "SH."
+[270] Archive message page_3960 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3993, 2006-09-16) — "Re: Goodbye - YEAH": full text and citation at [people/jack-gardiner.md](/people/jack-gardiner.md#urging-derek-clark-not-to-leave-the-list); values his own Paradox over his 19 ft, 75 hp motorboat, since even a dead outboard leaves the sail to get him home; judges Paradox's design the product of a great deal of deep thought, its survivability-in-a-small-space genius growing more apparent with familiarity; urges Derek not to sell himself short or burn bridges. Signed "Jack."
+[271] Archive message page_3961 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3994, 2006-09-16) — "Re: Goodbye": "You cant leave.........were all pals here.....But if you must please stay in touch. God Bless." Quotes Derek's original "Goodbye" post in full. Signed "David Beard."
+[272] Archive message page_3964 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3998, 2006-09-17) — "Re: Goodbye": "No need to leave Derek, in fact you have a duty to stay. You contain 11% of the complete build information in the known world." Urges Derek to lurk and keep offering advice as a veteran of the build process rather than leave outright. Signed "Al, Yeovil, England." Quotes Derek's original post in full.
+[273] Archive message page_3962 ("WENCESLAO RAFOL, JR" / `lqqtbank`, `paradoxbuilders`, msgnum 3995, 2006-09-16) — "Re: Goodbye": sympathizes that keeping one's health in mind is an important part of such a decision; mentions his own long-deferred hope of sailing around the globe, taking sailing pleasure instead from reading other sailors' logs and photographs online. Signed "W. Rafol." Quotes Derek's original post in full.
+[274] Archive message page_3969 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4003, 2006-09-17) — "Re: Goodbye": thanks David Beard, notes his e-mail address is posted on Bill Serjeant's website. Quotes David Beard's reply in full.
+[275] Archive message page_3968 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4002, 2006-09-17) — "Re: Goodbye - YEAH": apologizes to Jack Gardiner for the oversight, having assumed he wouldn't want the publicity; agrees ("Very likely!") that he may simply like fixing and building more than sailing; clarifies he accepted a buyer's offer on "Enuf" before the consultant surgeon mentioned a possible cure, so does not consider the sale premature, and remains free to build again. Quotes Jack Gardiner's reply in full.
+[276] Archive message page_3970 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4004, 2006-09-17) — "Re: Goodbye": tells Wenceslao Rafol, Jr. he may have been hasty and will think it over further, joking that "Frank Sinatra left about 47 times, didn't he?" Quotes Wenceslao's reply in full.
+[277] Archive message page_3967 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4001, 2006-09-17) — "Re: Goodbye": replying to Jeff UK's quoted "Why are you leaving. Your new boat is classed as a microcruiser in my mind": "And in mine but this is the Paradoxbuilders group Jeff?" Quotes Jeff UK's reply in full.
+[278] Archive message page_3971 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4005, 2006-09-17) — "Re: Goodbye - YEAH": replies point by point to SH's letter, closing with "So, by reading this I ain't actually gone!" Quotes SH's message throughout, interleaved with his own one-line rejoinders.
+[279] Archive message page_3972 (apcf14 / "roverticket" / "Jeff"/Jeff UK, `paradoxbuilders`, msgnum 4006, 2006-09-17) — "Re: Goodbye": presses the "your new boat is a microcruiser" argument further — the group counts 753 members against a much smaller number who actually own or are building a Paradox, so downgrading to a motor cruiser is no disqualification; "problem solved... welcome back from the brink." Signed "Jeff UK." (Outlook Express `multipart/alternative` duplicate; pruned to the plain-text version.)
+[280] Archive message page_3973 (sail2xs / "sailzafu" / Niels, `paradoxbuilders`, msgnum 4007, 2006-09-17) — "Re: Goodbye": excited there is a procedure that could help with Derek's diabetes; asks him to send a link or e-mail with details; hopes he will stay in touch, since the group needs his expertise and support. Signed "Niels." Quotes Derek's original "Goodbye" post in full.
+[281] Archive message page_3976 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4010, 2006-09-18) — "Re: Goodbye": has already e-mailed the procedure's details to Niels off-group and will do the same for Tim Soxman. Quotes Tim Soxman's reply, including its own quoted copy of Niels's message, in full.
+[282] Archive message page_3974 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 4008, 2006-09-17) — "Re: Goodbye": "Amen!!!!!!!!!!!!!" in reply to Niels's message. Signed "David Beard." (Outlook Express `multipart/alternative` duplicate, quoting Niels's message and, within it, Derek's original post in full; pruned to the one-line reply.)
+[283] Archive message page_3975 (tims / "tentec2002" / Tim Soxman, `paradoxbuilders`, msgnum 4009, 2006-09-17) — "Re: Goodbye": "I'd be interested in the procedure too!" Signed "Tim." A one-off correspondent with no further appearance on record. (Duplicate plain-text/HTML parts, quoting Niels's message in full; pruned to the one-line reply.)
+[284] Archive message page_3977 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 4011, 2006-09-18) — "Re: Goodbye - YEAH": recounts being blown onto a beach and, trying to pull his own Paradox free with his truck, driving the drive wheels over the rudder and crushing it — "I built it and I can replace it, Il make it even better!!"; argues no longer owning a Paradox does not disqualify Derek from the group, since it is called Paradox builders, and that is what Derek still is; adds "Yep sometimes the cart gets ahead of the horse." Signed "Jack." (Outlook Express `multipart/alternative` duplicate; pruned to the plain-text version.)

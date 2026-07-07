@@ -171,7 +171,7 @@ own new gear during the race documented in
 [David Beard](/people/david-beard.md) independently confirmed Matt's oar
 remained straight and, per Matt himself, still worked well but was harder on
 the arm and wrist than a curved blade — corroborating Dave Bolduc's account
-from a second source and resolving DC's own uncertainty, at the time, over
+from a second source and resolving Smith's own uncertainty, at the time, over
 whether the new oar was more or less curved than the original (see [yuloh
 and stowed-rig
 retention](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket)).
@@ -230,7 +230,7 @@ the clearest double data point for Matt Layden's motors-as-luxury philosophy
 being deliberately put into practice, under real difficulty, by two
 different builders in the same week.
 
-## Carrying a spare yuloh: DC's mass-and-momentum case against it
+## Carrying a spare yuloh: Smith's mass-and-momentum case against it
 
 Whether to carry a **spare yuloh** — reasoning by analogy from canoeing,
 where a spare paddle is considered essential in case the primary is lost or
@@ -241,7 +241,7 @@ gets far more "carry" between strokes than a heavy displacement hull ever
 could, which would feel instead like pushing too much water and decelerating
 quickly.
 
-[DC](/people/dc.md) answered with the general physics of mass and momentum,
+[David C. Smith](/people/david-c-smith.md) answered with the general physics of mass and momentum,
 arguing the intuition has it backwards: a **heavier** vessel carries
 **farther**, not less far, between strokes — the same principle that let
 old-time schooners work their way up rivers and around bends under momentum
@@ -258,7 +258,7 @@ start line — though even there, an eight-man rowing scull, with its
 tremendous power and low wetted surface on a long waterline, will ultimately
 carry farther than the accelerating catamaran.
 
-On the spare-yuloh question specifically, DC judged one unnecessary: he would
+On the spare-yuloh question specifically, Smith judged one unnecessary: he would
 no more carry a spare yuloh than a spare diesel engine aboard a sailing
 auxiliary, since the yuloh is **auxiliary** propulsion, not primary, unlike a
 canoe paddle, where losing the only paddle genuinely strands the paddler. He
@@ -300,7 +300,7 @@ example other builders followed.
 [22] Archive message page_969 (openboat / Alastair, `paradoxbuilders`, msgnum 985, 2003-05-27) — "Re: Outboards (?)": just back from his 4-day trip, had considered getting an outboard after 3 hours fighting wind/tide near a safe haven and a final mile against wind/tide up to the boatyard; determined to stay motor-free this year at least, though he may have to change his launch site.
 [23] Archive message page_1424 (arvent / "Nels", `paradoxbuilders`, msgnum 1444, 2003-11-19) — "Re: 2 HP Motors": doubts, as a paddler, that Paradox would scull well given her weight and wetted surface, expecting it to feel like pushing too much water and decelerating quickly, though he has no direct experience; asks whether one should carry a spare yuloh (perhaps a two-piece one stowed inside), by analogy to always carrying a spare canoe paddle — recounts losing a $160 "Black Bart" paddle to theft while paddling in "civilization"; asks whether yuloh plans are now included with the Paradox plans, and whether they are copyrighted.
 [24] Archive message page_1425 (openboat / "Alastair", `paradoxbuilders`, msgnum 1445, 2003-11-19) — "Re: 2 HP Motors": "The yuloh is included as part of the Paradox plans."
-[25] Archive message page_1426 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1446, 2003-11-19) — "Re: 2 HP Motors": a heavy boat carries farther than a light one — the schooners-up-rivers precedent; paired examples (Hobie 18 vs. supertanker at matched speed; skateboard vs. hundred-car freight train) illustrate mass and momentum; a solo-paddled kevlar canoe needs constant rhythm, but the same canoe loaded with crew and two weeks' provisions will carry through a pause; a light hull's advantage is acceleration instead — an "A cat" blasting off, a crew snapping off the start — though an eight-man scull, with tremendous power and low wetted surface on a long waterline, will still out-carry the accelerating multihull; judges a spare yuloh unnecessary, no more needed than a spare diesel aboard an auxiliary, since the yuloh is auxiliary propulsion rather than a canoe's sole means of propulsion; notes plenty of yuloh resources exist online but none worth the price of the Paradox plans.
+[25] Archive message page_1426 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1446, 2003-11-19) — "Re: 2 HP Motors": a heavy boat carries farther than a light one — the schooners-up-rivers precedent; paired examples (Hobie 18 vs. supertanker at matched speed; skateboard vs. hundred-car freight train) illustrate mass and momentum; a solo-paddled kevlar canoe needs constant rhythm, but the same canoe loaded with crew and two weeks' provisions will carry through a pause; a light hull's advantage is acceleration instead — an "A cat" blasting off, a crew snapping off the start — though an eight-man scull, with tremendous power and low wetted surface on a long waterline, will still out-carry the accelerating multihull; judges a spare yuloh unnecessary, no more needed than a spare diesel aboard an auxiliary, since the yuloh is auxiliary propulsion rather than a canoe's sole means of propulsion; notes plenty of yuloh resources exist online but none worth the price of the Paradox plans.
 [26] AYRS meeting talk (YouTube), Alastair — "Amateur Yacht Research Society (AYRS) meeting, May 2020" (`source-youtube/alastair-law-ayrs-meeting-may-2020.md`) — will push "Little Jim" at a comfortable 2 knots all day under the yuloh; sculled ~50 of the ~55 miles of the Dinghy Cruising Association's annual Thames raid without blisters, because sculling lets the body keep shifting position rather than repeat one fixed rowing stroke, unlike the conventional rowing boats whose crews blistered.
 [27] Archive message page_2119 (dlb / "DLB" / David Beard, `paradoxbuilders`, msgnum 2144, 2004-06-11) — "Re: Yuloh": full text and citation at [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
 [28] Archive message page_2122 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2147, 2004-06-15) — "Re: Yuloh": full text and citation above (used both the new and old oar personally aboard Matt's own boat; prefers the original curved oar, judging the curve helps the blade scull more automatically; the newer, straighter oar is more powerful and easier to control for pitch but demands more wrist effort).

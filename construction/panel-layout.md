@@ -198,6 +198,24 @@ above — is a question that surfaced once on the list but drew no recorded
 answer; see [stretched Paradox](/design/variants/stretched-paradox.md) for
 the design's scaling rules more generally.
 
+## Lofting weights ("spline weights" or "lead ducks")
+
+Full-size lofting of the plans' curved lines calls for a flexible batten
+bent to the curve and held down at intervals — a job traditionally done with
+cast-lead **"spline weights,"** also called **lead ducks**. A usable
+secondhand set (six ducks, about 6¼ in long and 3½ lb each, lead cast in a
+thick plastic coating with a flat-ish base and a threaded front hole for a
+hook the buyer supplies) can be found cheaply through online auction
+listings — one builder paid about $21 for a set that others have bid up past
+$60, more than the sets are worth once shipping (roughly $14 for six, being
+solid lead) is added in. A builder without access to a secondhand set can
+also **cast a set from scratch**; plans for doing so are published at
+`splineweights.com/makeyourown.htm`. Old discarded wheel-balance lead or
+fishing sinkers are a further scrap-lead source, also usable more generally
+as cast trim ballast. [Matt Layden](/matt-layden/biography.md) himself uses
+lead ducks of this same general type, visible in his own construction
+photos.[39][40][41][42][43]
+
 ## Software for nesting and converting the offsets: Hull, VRML, and CAD
 
 Separately from the stretched-length question above, **Gregg Carlson's
@@ -276,3 +294,8 @@ method works directly from the plans on the physical sheet of ply.
 [36] Archive message page_2224 (johndhall / "jdmhall" / John Hall, `paradoxbuilders`, msgnum 2251, 2004-09-01) — "Re: Digest Number 575": Launceston, Tasmania; Australian locally produced plywood runs 2400 x 1200 mm, while imported Gaboon (Okoume) runs 2500 x 1220 mm, a closer fit to Matt Layden's own sheet layout; this leaves bulkhead #3, drawn at 1214 mm wide, a tight fit against the local sheet size; has not yet started the full-size build but has a 1:5 scale model in aircraft ply well advanced, and is finishing CNC files to cut full-size parts via a local CAD cutting service; offers to make the CNC DXF files available to Dave and Mindy Bolduc for distribution alongside the plans.
 [37] Archive message page_2226 (shersey / "shersey.rm" / Shane Hersey, `paradoxbuilders`, msgnum 2253, 2004-09-02) — "Re: Digest Number 575": asks whether John Hall has a workaround for the plywood-size mismatch besides using imported ply; identifies Gaboon as Okoume (Aucoumea klaineana), aka Samara, a West African hardwood possibly harvested from old-growth or rainforest sources, and says he would prefer a local, sustainably sourced ply species if one exists.
 [38] Archive message page_2232 (johndhall / "jdmhall" / John Hall, `paradoxbuilders`, msgnum 2259, 2004-09-05) — "Re: Digest Number 577": answers Shane — using local ply means reworking bulkhead #3 in two parts with a scarf on the bottom section; the left-hand side panel on drawing 6 also will not lay out as dimensioned, though the right-hand panel has enough spare material to make up the shortfall on a 2400 mm sheet; the aft bottom panel is also slightly shy on width near the chine runners; Gaboon avoids all these problems but raises the sourcing concern Shane flagged; has been considering Hoop Pine (decent multiple veneers, better made than Gaboon in his opinion) or, as a cheaper but more toxic alternative, Proof Ply (glues and paints well but loaded with CCA or similar). Signed "John, 41.5 South 147.1 East."
+[39] Archive message page_3885 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3917, 2006-08-26) — "Spline weights for lofting on Ebay": points out an eBay listing (item #110025009760) for a set of six lead-duck spline weights, 6¼ in long, about 3½ lb each, lead in a thick plastic coating with a flat-ish base and a threaded front hole for a hook; paid $21.06 for his own set, has seen others go as high as $60; also notes plans for casting a set from scratch at `splineweights.com/makeyourown.htm`. Signed "David."
+[40] Archive message page_3886 (DBoboc9556, `paradoxbuilders`, msgnum 3918, 2006-08-25) — "Re: Spline weights for lofting on Ebay": jokes that publicizing the listing will now drive the winning bid up to $60. Signed "Dave B."
+[41] Archive message page_3887 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3919, 2006-08-26) — "Re: Spline weights for lofting on Ebay": doubts many people actually want lead ducks; advises bidding what one thinks is fair and waiting for a later auction if it doesn't hit, since the seller has more sets.
+[42] Archive message page_3888 (azskybum / Curtis, `paradoxbuilders`, msgnum 3920, 2006-08-26) — "Re: Spline weights for lofting on Ebay": had bid on the sets himself; notes the ones that sold for $60 probably didn't need the splines screwed in, and that solid-lead ducks are pricey to ship. Signed "Curtis." Same established below-threshold correspondent (Phoenix, Arizona) tracked at [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count).
+[43] Archive message page_3889 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3921, 2006-08-26) — "Re: Spline weights for lofting on Ebay": shipping ran $14.26 NJ to NC; these particular sets have sold from $20 to $61; picking up old discarded tire-balance weights or fishing sinkers lets a builder cast a set for almost nothing — used this method himself to cast small pigs of trim ballast for Swamp Thing; the splineweights.com ducks are probably a little nicer than the eBay ones but cost much more; points to a photo of Matt Layden's own construction progress (`physics.bgsu.edu/~layden/FunStuff/Boats/Matt_Boat/05-02-12.htm`) showing Matt using ducks that look much like the splineweights.com ones.

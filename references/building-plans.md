@@ -141,6 +141,26 @@ overseas buyers), mailed from **711 Wisconsin Ave, Box 202, Tomah, Wisconsin,
 for the full description. Of the boat itself, Don's verdict: "Great boat,
 none anywhere like it."
 
+## A community-written beginner's guide
+
+Alongside Don Elliott's paid booklet, a free, community-written alternative
+exists: **[Derek Clark](/people/derek-clark.md)**'s own short "Beginners
+guide to building a Paradox," posted to the `paradoxboatbuilders2` group's
+files section as his own build neared completion. Deliberately kept to about
+four pages by avoiding repetition, it distills what Derek judged necessary
+reading, tools, and lessons learned building "[Enuf](/boats/enuf.md)" from
+scratch, offered copyright-free and open to other builders' amendments and
+additions.[144] The guide drew immediate praise for its grounded,
+practical-experience angle — "words of wisdom garnered from actually going
+through the build, warts and all" — as a genuine gap-filler, since nothing
+quite like it (a beginner's own build account, rather than plans or a
+formal manual) had been offered to the group before, with a hope that Derek
+would eventually add his own account of launching the boat.[145] A second
+correspondent likewise praised its grounding in common sense and practical
+experience over blindly following the plans or "correct" boatbuilding
+technique.[146] Incorporating suggestions from other builders, Derek posted
+a revision 2 of the guide to the same files section within the day.[147]
+
 A typical newcomer's sequence is to order Don's booklet first and the plans
 themselves a few weeks later — illustrated by one builder whose only prior
 boatbuilding experience was a Bolger Brick, in which he had taught himself to
@@ -617,6 +637,106 @@ extends the plans picture:
   **around $2,500 to build** — a rare figure for a finished amateur build,
   complementing the ~$2,000/3-month figure for Matt's own original.
 
+## A January 2006 recurrence, twentieth time on record
+
+The pattern held into 2006: a newcomer who had seen the Paradox before but
+could no longer find it asked once more where to get the plans, and was
+again pointed straight to Dave Bolduc. The same newcomer went on to become
+the below-threshold correspondent tracked at
+[operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly)
+and [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it);
+no confirmation that he actually placed an order, started a build, or named
+a boat has yet surfaced.
+
+## An April 2006 recurrence: unanswered e-mail to Dave Bolduc
+
+The same "plans FAQ" recurred again a few days later: a newcomer, unable to
+reach Dave Bolduc by e-mail, asked the group directly for help getting a set
+of plans.[148] The reply counseled patience rather than an alternative
+contact — Dave was likely off sailing in the Bahamas at the time, with
+sailing itself the higher priority — reinforcing the same "may be off
+sailing at this time" caveat recorded earlier in this FAQ's history.[149]
+The confusion behind this particular recurrence turned out to be simpler
+than it first looked: the newcomer's subject line had garbled Dave Bolduc's
+own e-mail address into "MBULDOC," prompting a separate correspondent to
+clarify, over two short follow-up messages, that the intended contact was
+simply Dave (David) Bolduc under his own name.[150][151]
+
+## A July 2006 recurrence, and a blunt assessment of the paid manual's quality
+
+The plans FAQ recurred again in mid-July 2006 in its most familiar form: a
+newcomer who had already e-mailed the Bolducs without a reply asked the group
+where else the plans could be bought, and separately whether
+[Don Elliott](/people/don-elliott.md)'s paid construction manual was worth its
+price.[152] The patience answer was the same as ever — the Bolducs were most
+likely away cruising and would reply once they returned.[153][155] On the
+manual's quality, though, the replies split more sharply than in any earlier
+recurrence: one builder rated only **about 30% of the manual as actually
+readable** and recommended buying Jim Michalak's book from Duckworks
+instead;[154] another judged it worth the money for a first-time builder,
+containing "some useful pointers (and quite a lot of less useful stuff)."[155]
+A third pointed past the manual entirely, to
+[Derek Clark](/people/derek-clark.md)'s own first-person account of building
+"[Enuf](/boats/enuf.md)," published as a "very serious technical article" on
+Duckworks Magazine's website, plus the group's own links page as further
+reading.[156]
+
+Within days of ordering his own plans, the newest member to ask this
+question was already answering it for the next one: when a first-time
+newcomer from North Idaho said he wished he could simply pay by card on a
+website rather than deal with the mail,[157] the same member who had just
+placed his own order explained the actual mechanic — the Bolducs accept
+PayPal, addressed to their own e-mail rather than a dedicated storefront, and
+the $40 nominal fee already covers the cost of mailing the plans out; a
+builder need only e-mail the Bolducs to say a PayPal payment is coming, then
+send it to that address.[158]
+
+The same week brought a variant of the FAQ from an overseas buyer: a
+prospective builder in Panama City, unable to reach Dave Bolduc by e-mail,
+asked how to pay and ship plans internationally without a straightforward
+mail route — proposing a money order sent by international courier with a
+prepaid return envelope included, and using a Miami freight-forwarder address
+to avoid mailing to Panama directly. What packaging a set of plans actually
+needs (a tube versus a standard envelope or bag) was left an open question in
+the archive.[159] The plans were confirmed to come in a standard 11x14 in
+envelope; summer was noted, again, as a slow season for the Bolducs to reply
+to plans requests, a recurring pattern by this point in the archive.[160] One
+established correspondent, prompted by the exchange, wondered aloud whether
+the plans should be offered as a **download** instead of mailed
+originals, without pursuing the idea further.[161]
+
+Told to expect a wait until the Bolducs' next reply, the Panama City buyer
+said he would hold off ordering until winter, observing in the meantime that
+the Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) designs
+carry a lot of Phil Bolger's sharpie philosophy, and that studying
+[stitch-and-glue technique via Sam Devlin's
+book](/construction/hull-planking.md#stitch-and-glue-as-an-alternative-construction-method)
+might let a builder eventually adapt the design correctly.[162] See
+[plywood grade and foam flotation debate — a July 2006 recurrence, and a
+recommendation for MDO
+plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood)
+for the plywood-grading and scarfing detail from the same correspondent, and
+[the mailing list's Robbsboat comparison](/references/mailing-list.md#list-culture)
+for a separate, contemporaneous alternative-design pointer answering the same
+"what else could I build" impulse.
+
+[Paul V.](/people/paul-v.md) offered a design-lineage correction: he judges it
+is **Ted Monroe's sharpie work**, more than Bolger's, that actually inspired
+Paradox.[163] The Panama City buyer, still weighing what a "sharpie" bottom
+shape actually achieves, theorized (from general reading, not certain of the
+claim) that the underlying idea — a design credited to Phil Bolger, though
+possibly worked out earlier by others — is to curve the bottom to match the
+curve of the sides, so that heeling presents a clean V to the water, lifting
+the bow and reducing drag; he judged this might apply to sharpie hulls
+generally, and separately wondered how much reserve stability the ballasted
+Paradox and Little Cruiser actually carry beyond their evident sturdiness.
+Weighing "no ideal sea boat, only a set of compromises," and noting most
+sailors shown Little Cruiser locally judged her "crazy" and too small, his own
+goal was simply cruising Panama Bay and the Pearl Islands.[164] He closed the
+thread by floating Jim Michalak's design (see [the mailing list's Robbsboat
+comparison](/references/mailing-list.md#list-culture)) as a starting point
+that "could be modified as needed."[165]
+
 # Citations
 
 [1] Archive message page_030 (Alastair, `paradoxbuilders`, 2001-07-15) — plans available from Dave Bolduc, 1736 Phillips Avenue, Greensboro NC 27405, tel 336-272-1801 (after 9pm EST), `http://home.triad.rr.com/lcruise/paradox1.htm`, $35 US.
@@ -768,3 +888,28 @@ extends the plans picture:
 [138] Archive message page_2949 (stinkyshorts / "jeff_hammell", `paradoxbuilders`, msgnum 2980, 2005-07-23) — "Re: please help!!!": thanks Wayne again, admitting being from Jersey "wears a little thin"; reports good news — Dave Bolduc is home, one of his e-mails must have gone through after all, and Dave replied with pricing information; says he is off to mail payment that day. Signed "Jeff_hammell."
 [139] Archive message page_2946 (servo_bot / "Andy", `paradoxbuilders`, msgnum 2977, 2005-07-23) — "Re: please help!!!": a one-off dry aside quoting the newcomer's own self-description as being from New Jersey — "No wonder you're so impatient ;)" — drew no further reply.
 [140] Archive message page_2974 (fasttimes / Brent Geery, `paradoxbuilders`, msgnum 3005, 2005-07-28) — "Anyone need set of plans? My set for sell.": having decided to buy a used boat before committing to building one himself, offers his own Paradox plan set (with bonus CD) plus his copy of Don Elliott's build manual/book for sale as a package, $52 for both. Signed "BRENT - The Usenet typo king. :)"
+[141] Archive message page_3295 (wyliewesty / "Wayne", `paradoxbuilders`, msgnum 3326, 2006-01-24) — "Plans for Paradox": had seen the Paradox before but could not find it again; asks where to get the plans. Signed "Wayne."
+[142] Archive message page_3296 (blom / Mats Blomstrand, `paradoxbuilders`, msgnum 3327, 2006-01-25) — "Re: Plans for Paradox": "Contact Dave Bolduc at mbolduc@... Good luck!" Signed "Mats."
+[143] Archive message page_3298 (arvent / "Nels", `paradoxbuilders`, msgnum 3329, 2006-01-25) — "Re: Plans for Paradox": asks Mats Blomstrand directly whether he is himself building a Paradox — left unanswered in the archive. Signed "Nels."
+[144] Archive message page_3451 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3482, 2006-03-21) — "Beginners guide to building a Paradox": has posted a short, roughly four-page "Beginners guide to building a Paradox" to `paradoxboatbuilders2`'s files section, distilling what he judged necessary reading, tools, and lessons from his own build, kept short by avoiding repetition; offered copyright-free and open to other builders' suggested alterations and additions. Signed "Cheers."
+[145] Archive message page_3452 (martin.feaviour / "martin304919" / Martin Feaviour, `paradoxbuilders`, msgnum 3483, 2006-03-22) — "RE BEGINNERS GUIDE": praises Derek's guide as "a refreshing change" — a new builder's own take on building a Paradox, with "words of wisdom garnered from actually going through the build, warts and all"; regrets nothing like it had been done before; hopes Derek will complete the manual, especially covering the boat's launch, and that the group will add their own contributions. Signed "martin."
+[146] Archive message page_3453 (john / "John Pertalion", `paradoxbuilders`, msgnum 3484, 2006-03-22) — "Re: Beginners guide to building a Paradox": "That is a great guide. Thanks for posting it."; judges it comes from common sense and practical thinking rather than blindly following the plans or "correct" boatbuilding techniques. Signed "John, Boone, NC, USA."
+[147] Archive messages page_3454/page_3455 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3485, 2006-03-22, "Re: Beginners guide to building a Paradox"; msgnum 3486, 2006-03-23, "Re: Beginners guide to building a Paradox") — thanks John Pertalion for the compliment; reports that a couple of useful (not rude) suggestions have since led to a revision 2 of the guide, now also posted to `paradoxboatbuilders2`'s files section.
+[148] Archive message page_3549 (aeroboar / "Aero Boar", `paradoxbuilders`, msgnum 3580, 2006-04-08) — "No Reply from MBULDOC": asks for help getting a set of plans, having e-mailed Dave Bolduc without receiving a reply.
+[149] Archive message page_3550 (LJGeib / "Larry," `paradoxbuilders`, msgnum 3581, 2006-04-08) — "Re: No Reply from MBULDOC": counsels patience — Dave Bolduc may be off sailing in the Bahamas at the time — "Priorities, you know--". Signed "Larry."
+[150] Archive message page_3551 (roglep / "Lepage Roger," `paradoxbuilders`, msgnum 3582, 2006-04-09) — "Re: Paradox plants" [sic, "plans"]: "His real name is bolduc." Signed "ROGER."
+[151] Archive message page_3552 (roglep / "Lepage Roger," `paradoxbuilders`, msgnum 3583, 2006-04-09) — "Re: Paradox plants": "I would say David Bolduc." Signed "Rog."
+[152] Archive message page_3712 (woodworksgrimm / "Cary", `paradoxbuilders`, msgnum 3744, 2006-07-15) — "Paradox Plans": a new member introduces himself, having e-mailed "the couple in North Carolina" without a reply yet; asks whether anyone has read the construction manual and whether it's worth the money. Signed "Cary, WoodworksGrimm."
+[153] Archive message page_3713 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 3745, 2006-07-15) — "Re: Paradox Plans": counsels patience — Dave and Mindy are most likely out on an adventure and will reply once they return; confirms that if Cary means Don Elliott's build manual, it is worth the price and will save time and money. Signed "Glen."
+[154] Archive message page_3714 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3746, 2006-07-15) — "Re: Paradox Plans": "About 30% of the manual is readable. Buy Jim Michalaks book from Duckworks."
+[155] Archive message page_3715 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3747, 2006-07-15) — "Re: Paradox Plans": same patience answer — Dave and Mindy are probably out sailing and will reply once they return; on the manual (assuming it is Don Elliott's), judges it contains "some useful pointers (and quite a lot of less useful stuff)" for a first-time builder; asks Cary where he is based. Signed "Al, Yeovil, England."
+[156] Archive message page_3716 (arvent / "Nels", `paradoxbuilders`, msgnum 3748, 2006-07-15) — "Re: Paradox Plans": points Cary to Derek Clark's own article on his build experience at duckworksmagazine.com/06/projects/paradox/index.htm, warning it is "a very serious technical article," and to the group's own links page (groups.yahoo.com/group/paradoxbuilders/links). Signed "Nels."
+[157] Archive message page_3725 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3757, 2006-07-17) — "Plywood Choices": introduces himself from near Lake Pend Oreille, North Idaho, excited at discovering the Paradox; has not yet ordered plans but will "this weekend"; wishes he could simply pay by website/PayPal rather than by mail.
+[158] Archive message page_3728 (woodwsprites / "woodworksgrimm" / Cary Grimm, `paradoxbuilders`, msgnum 3760, 2006-07-17) — "Re: Plywood Choices": explains he had just ordered his own plans the previous Sunday via PayPal, addressed to the Bolducs' own e-mail (`mbolduc@...`) rather than a dedicated storefront; the process is not instant since the plans go out by mail, a cost already included in the $40 nominal fee; advises e-mailing the Bolducs first to say a PayPal payment is on its way. Signed "Cary Grimm, woodworksgrimm."
+[159] Archive message page_3739 ("John Doe" / reallyfixed, `paradoxbuilders`, msgnum 3771, 2006-07-18) — "Paradox Plans": writing from Panama City, wants to buy plans but has had no response e-mailing Dave Bolduc; uses a Miami freight-forwarder address so does not need to give his Panama address; proposes sending a money order by FedEx with a prepaid FedEx envelope/tube included for the plans' return; asks what packaging is actually needed. Signed "Steve in Panama."
+[160] Archive message page_3741 (arvent / "Nels", `paradoxbuilders`, msgnum 3773, 2006-07-18) — "Re: Paradox Plans": confirms plans come in a standard 11x14 in envelope; notes summer is not a good time to order plans, "happens the same every year." Signed "Nels."
+[161] Archive message page_3745 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3777, 2006-07-19) — "Re: Paradox Plans. What about a download option?": wonders whether the plans should now be offered in downloadable form, without elaborating what that would involve. Signed "Jeff UK."
+[162] Archive message page_3748 (reallyfixed / "John Doe" / "Steve in Panama", `paradoxbuilders`, msgnum 3780, 2006-07-19) — "Re: Paradox Plans": will wait until winter to order; notes the Paradox and Little Cruiser designs carry a lot of Phil Bolger's sharpie philosophy, and floats that researching stitch-and-glue technique (citing Sam Devlin's book) correctly might let a builder do a modified design of his own.
+[163] Archive message page_3751 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3783, 2006-07-19) — "Re: Paradox Plans": full text and citation at [people/paul-v.md](/people/paul-v.md); judges it is Ted Monroe's sharpie, more than Phil Bolger's, that inspired Paradox; is building a stitch-and-glue chine-runner sharpie of his own design.
+[164] Archive message page_3759 (reallyfixed / "John Doe" / "Steve in Panama", `paradoxbuilders`, msgnum 3791, 2006-07-20) — "Re: Paradox Plans": read online that Phil Bolger (possibly following earlier work by others) worked out that curving a sharpie's bottom to match the curve of the sides presents a clean V to the water when heeled, lifting the bow and reducing drag, and reasons this might apply to sharpie hulls generally; is reading David Gerr's "The Nature of Boats" and Skene's "Elements of Yacht Design," and has ordered a sharpie book; unsure how much reserve stability the ballasted Paradox and Little Cruiser carry despite their apparent sturdiness; concludes there is no ideal sea boat, only a set of compromises, having shown Little Cruiser to local sailors in and out of Panama who judged her "crazy," too small; wants a boat only for cruising Panama Bay and the Pearl Islands.
+[165] Archive message page_3760 (reallyfixed / "John Doe" / "Steve in Panama", `paradoxbuilders`, msgnum 3792, 2006-07-20) — "Re: Paradox Plans": "Maybe this Michalak design could be modified as needed," replying to Derek Clark's Jim Michalak "lake boats not sea boats" verdict; see [references/mailing-list.md](/references/mailing-list.md#list-culture).

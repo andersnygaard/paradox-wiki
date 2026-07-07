@@ -72,6 +72,13 @@ name for a poster whose account name was Edwin. All messages share the same
   colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade)
   and [fastening and gluing — pilot-hole
   sizing](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
+- **Fitting Paradox's sailplan onto a Bolger Camper 640.** Riffing on a
+  Venetian-blind sail joke, floated scaling Paradox's rig, chine runners, and
+  roller-furling convenience up onto Phil Bolger's 18 ft Camper design #640
+  instead of down to a 7.5 ft hull, with a 150 sq ft sail; joked about using
+  batteries as ballast to power the blind's slats and an onboard cooler. See
+  [a scaled-down "mini" Paradox
+  (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[169]
 
 ## Chronicling the 2003 Everglades Challenge
 
@@ -225,15 +232,15 @@ calling him "truly amazing." See
   those who disagree with him. See
   [Don Elliott — a rival group, and a dispute over who founded and moderates
   the list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
-- **Dynamite Payson recommendation.** For DC's build-manual bibliography,
+- **Dynamite Payson recommendation.** For Smith's build-manual bibliography,
   recommended any of Harold "Dynamite" Payson's books, judging him the
   American equivalent of Percy Blandford — someone who "gives full value for
   any and everything he offers" and has great respect for the home boat
   builder — and recalled meeting Payson personally after an unannounced
   visit to buy a set of "Cartopper" plans turned into an entire afternoon
   spent with Payson, his wife Amy, and their son. See
-  [DC — contributions and stories](/people/dc.md#contributions-and-stories).
-- **Proposing an FAQ folder.** Building on DC's build-manual proposal,
+  [David C. Smith — contributions and stories](/people/david-c-smith.md#contributions-and-stories).
+- **Proposing an FAQ folder.** Building on Smith's build-manual proposal,
   suggested a companion "Frequently Asked Questions" folder in the group's
   files section, so recurring newcomer questions could be answered by pointer
   rather than repeated explanation, and drafted a 30-item candidate list
@@ -304,7 +311,7 @@ calling him "truly amazing." See
   paddle, and whether yuloh plans came with the Paradox plans. The
   mass-and-momentum answer, and the confirmation that yuloh plans are
   included, are at [sculling and yuloh technique — carrying a spare
-  yuloh](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-dcs-mass-and-momentum-case-against-it).
+  yuloh](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
 - **Congratulated Andrew Graham on the first Australian Paradox launch.**
   Recognized Andrew Graham as having built the first Paradox to sail in his
   own country, praised "Zero"'s finish and launch account, and followed up
@@ -475,7 +482,7 @@ calling him "truly amazing." See
   during his Philadelphia trip (above), Nels had at some unrecorded earlier
   point also been formally appointed a co-moderator; he stepped back from
   active list participation for a multi-month trip to Europe in May 2004,
-  handing day-to-day moderation over to DC in the meantime. See [the mailing
+  handing day-to-day moderation over to Smith in the meantime. See [the mailing
   list — Nels heads to Europe as a departing
   co-moderator](/references/mailing-list.md#nels-heads-to-europe-as-a-departing-co-moderator).
 - **Warned a newcomer off epoxy after an allergic reaction, and questioned
@@ -552,6 +559,17 @@ calling him "truly amazing." See
   offshore. See [how chine runners work — why speed itself reduces leeway, and
   a shallow-draft safety case for no keel at
   all](/chine-runners/how-they-work.md#why-speed-itself-reduces-leeway-and-a-shallow-draft-safety-case-for-no-keel-at-all).
+- **Identified "Jubilee," and a centerboard-plus-chine-runner combination.**
+  Posted a photo link that turned out to show Chris Morejohn's 40 ft sharpie
+  "Jubilee," from the group's Hogfish Maximus files folder, then answered Bill
+  Serjeant's question about why her chine runners looked so narrow: both
+  "Jubilee" and "Hogfish Maximus" pair chine runners with a centerboard, a
+  combination Glen Maxwell — who sailed on "Hogfish Maximus" — can speak to
+  firsthand, effective without excessive turbulence even downwind with the
+  board raised; speculated a centerboard becomes worth adding alongside chine
+  runners at around a 25 ft waterline. See [how chine runners work — narrow
+  "wing" runners, and a centerboard-plus-runner
+  combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination).[146][147][148][149][150]
 - **A Spanish-windlass technique for pulling in a hull's sides.** Offered a
   builder struggling to pull his bow panels together a "Spanish windlass"
   method — a heavy rope loop around both sides, closed gradually by twisting a
@@ -681,6 +699,89 @@ calling him "truly amazing." See
   Glue?" — confirming the construction-method reading. See [checking a used
   Paradox for rot — finishing the bilges: leave inspectable, or paint
   over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[140]
+- **Asked after Jack Gardiner's onboard generator, and wished him well.**
+  Pressed Jack Gardiner for the practical details behind an onboard
+  1,000-watt generator — battery type and mounting, generator security, fuel
+  and oil storage, and noise/fumes — and, on learning of Jack's hospitalization
+  for a tonsil infection, wished him a speedy recovery. Separately asked Mats
+  Blomstrand, in passing, whether he was himself building a Paradox — left
+  unanswered in the archive. See
+  [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions)
+  and [building plans — a January 2006 recurrence, twentieth time on
+  record](/references/building-plans.md#a-january-2006-recurrence-twentieth-time-on-record).[141][142][143]
+- **Vehicle overnight-parking tips, from Canada.** On a trailering/laybys
+  thread, listed his own preferred overnight-parking spots for a vehicle —
+  farmers' field turn-offs, closed rural gas stations, communication-tower
+  clearings, and quiet parking near small-village churches. See
+  [boats/enuf.md — a carpal-tunnel operation halts progress, and a
+  five-week
+  pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[151]
+- **Questioning a hatch-runner fix.** Asked Alastair how a new formica
+  running surface for a sliding hatch was actually attached, whether formica
+  on the lower surface alone would suffice, and floated UHMW strip or brass
+  as alternatives. See [hatch hardware and security — a formica wear-surface
+  fix for a foam-lined
+  hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch).[152]
+- **Spotting an off-plan chine-runner shape, and guessing the transom
+  box.** Noticed Derek Clark's "Enuf" photos showed the chine runners off
+  the plans' shape, prompting Derek's sanding-disc-mishap admission, and
+  correctly guessed the plastic box visible through the transom in
+  builders' photos was a Porta Potti in storage position. See
+  [boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta
+  Potti in the
+  transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[153]
+- **Pointing a newcomer to Derek Clark's own Duckworks article.** Answering
+  a new member's plans/manual question, pointed past the paid construction
+  manual to Derek Clark's own first-person Duckworks Magazine account of
+  building "Enuf," warning it is "a very serious technical article," and to
+  the group's own links page. See [building plans — a July 2006 recurrence,
+  and a blunt assessment of the paid manual's
+  quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[154]
+- **Recommending MDO plywood, and a level gravel building floor.** Answering
+  a new Idaho builder's cheap-vs-marine plywood question, recommended MDO
+  (medium-density overlay) plywood by name for its smooth surface and better
+  paint-holding, and explained how to make a gravel floor level enough to
+  build on using posts and checked 2x4s. Followed up with more detail: a
+  Paradox could in principle be built with no fibreglass cloth at all (epoxy
+  used only to seal joints) and still last a long time, though glass to the
+  waterline helps abrasion resistance, and a good antifouling or
+  epoxy/graphite-powder coating serves the same protective role short of
+  glass; ordinary exterior house/porch/floor enamel brushed or rolled over
+  MDO gives a durable, semi-gloss finish. See [plywood grades and foam
+  flotation — a July 2006 recurrence, and a recommendation for MDO
+  plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[155][156]
+- **Answering an overseas buyer, and a Robbsboat pointer.** Confirmed plans
+  ship in a standard 11x14 in envelope and noted summer is reliably a slow
+  season for the Bolducs to reply to plans requests; separately pointed a
+  newcomer weighing alternative designs to Jim Michalak's "Robb's boat," a
+  cheap, simple design buildable in 3/8 in plywood. See [building plans — a
+  July 2006 recurrence, and a blunt assessment of the paid manual's
+  quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality)
+  and [the mailing list's Robbsboat
+  comparison](/references/mailing-list.md#list-culture).[157][158]
+- **On why the sail is sleeved rather than lashed.** Agreed with Jack
+  Gardiner that Matt Layden's choice of sleeves over ties came down to
+  simplicity, adding that sleeves also give cleaner airflow and work better
+  with roller reefing than lashings would, and that he would not deviate
+  from the design as drawn. See [rig and sail — rolling boom and sail
+  foot](/design/rig.md#rolling-boom-and-sail-foot) and
+  [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[166]
+- **A carbon-tape boom-core alternative, and admiring the sailplan.** On the
+  boom-construction tangent of the same thread, offered a further lightweight
+  option — a tapered rigid-foam boom core wrapped in carbon-fiber tape set in
+  epoxy (the tape used for setting broken limbs), hidden and UV-protected by
+  the sail's sleeve — and reflected that the more he thought about Matt
+  Layden's sailplan the more he loved it, recalling the image of Matt landing
+  Enigma during the Florida Challenge. See [rig and sail — the reefing
+  triangle, and why reshaping the boom taper is the wrong
+  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[167]
+- **A tabernacle caution for an enlarged Paradox.** Warned a builder planning
+  a folding, tabernacle-stepped mast on his 18-19 ft enlarged Paradox that
+  such an arrangement is not easy to design and brace against sail loads,
+  since the mast structure is essentially what drives the boat; asked what
+  sail type and area he planned. See [stretched Paradox — a builder's 18-19 ft
+  "maxi paradox," under
+  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[168]
 
 # Citations
 
@@ -727,7 +828,7 @@ calling him "truly amazing." See
 [41] Archive message page_1404 (arvent / Nels, `paradoxbuilders`, msgnum 1424, 2003-11-18) — "Re: FAQ File": full text and citation at [design/chine-runners-and-windward-performance.md](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential).
 [42] Archive message page_1405 (arvent / Nels, `paradoxbuilders`, msgnum 1425, 2003-11-18) — "Re: 2 HP Motors": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
 [43] Archive message page_1410 (arvent / Nels, `paradoxbuilders`, msgnum 1430, 2003-11-18) — "Re: boom mod?": full text and citation at [design/chine-runners-and-windward-performance.md](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
-[44] Archive message page_1424 (arvent / "Nels", `paradoxbuilders`, msgnum 1444, 2003-11-19) — "Re: 2 HP Motors": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-dcs-mass-and-momentum-case-against-it).
+[44] Archive message page_1424 (arvent / "Nels", `paradoxbuilders`, msgnum 1444, 2003-11-19) — "Re: 2 HP Motors": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
 [45] Archive message page_1461 (arvent / "Nels", `paradoxbuilders`, msgnum 1481, 2003-11-29) — "Re: Off to Philly": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#a-moderators-absence-delegated-in-advance).
 [46] Archive message page_1463 (arvent / "Nels", `paradoxbuilders`, msgnum 1483, 2003-11-29) — "Re: Off to Philly": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#a-moderators-absence-delegated-in-advance).
 [47] Archive message page_1466 (arvent / "Nels", `paradoxbuilders`, msgnum 1486, 2003-11-30) — "Welcome New Members": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-group-level-enlarged-paradox-under-consideration).
@@ -824,3 +925,32 @@ calling him "truly amazing." See
 [138] Archive message page_2987 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3018, 2005-07-31) — "Re: Enuf Update & now Ballast as well": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).
 [139] Archive message page_3200 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3231, 2005-11-04) — "Re: EPOXY": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
 [140] Archive message page_3229 (arvent / "Nels", `paradoxbuilders`, msgnum 3260, 2005-11-16) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+[141] Archive message page_3292 (arvent / "Nels", `paradoxbuilders`, msgnum 3323, 2006-01-24) — "Re: More progress and another question": full text and citation at [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions) (asks Jack Gardiner for details on his onboard generator setup).
+[142] Archive message page_3297 (arvent / "Nels", `paradoxbuilders`, msgnum 3328, 2006-01-25) — "Re: More progress and another question": full text and citation at [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions) (wishes Jack a speedy recovery).
+[143] Archive message page_3298 (arvent / "Nels", `paradoxbuilders`, msgnum 3329, 2006-01-25) — "Re: Plans for Paradox": full text and citation at [references/building-plans.md](/references/building-plans.md#a-january-2006-recurrence-twentieth-time-on-record) (asks Mats Blomstrand whether he is himself building a Paradox, left unanswered).
+[144] Archive message page_3326 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3357, 2006-02-01) — "Re: Plans for Paradox": could not get Mats Blomstrand's link to a Portuguese-style dinghy design to open; judges Jim Michalak's "Mayfly" "a lot of boat for a small investment" as a stepping-stone project before a Paradox.
+[145] Archive message page_3336 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3367, 2006-02-09) — "Re: progress": pure banter — "Your planets immune system is trying to get rid of you. --Kurt Vonnegut :-)", replying to Derek Clark's photo-upload frustration and account of being confronted by a nine-year-old at work. Full context at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress).
+[146] Archive message page_3371 (arvent / "Nels", `paradoxbuilders`, msgnum 3402, 2006-03-01) — "Re: Paradox max pilot weight ,height": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination); jokingly offers a $65 weight-loss program as an alternative to a "Big Paradox," then posts the photo link that turns out to show "Jubilee."
+[147] Archive message page_3373 (arvent / "Nels", `paradoxbuilders`, msgnum 3404, 2006-03-01) — "Re: Paradox max pilot weight ,height": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination); identifies the photo as "Jubilee," the 40 ft sharpie in the Hogfish Maximus files folder.
+[148] Archive message page_3375 (arvent / "Nels", `paradoxbuilders`, msgnum 3406, 2006-03-01) — "Re: Paradox max pilot weight ,height": pure banter — offers Derek Clark a free program to combat "SPWBAS (Short Person With Big Attitude Syndrome)," continuing the weight-loss joke.
+[149] Archive message page_3378 (arvent / "Nels", `paradoxbuilders`, msgnum 3409, 2006-03-03) — "Re: Paradox max pilot weight ,height": pure banter — jokes that a happy wife deciding to go sailing would mean needing a bigger boat and "waaaay fewer opportunities to practice the bagpipes," replying to Derek Clark's declined-offer joke.
+[150] Archive message page_3379 (arvent / "Nels", `paradoxbuilders`, msgnum 3410, 2006-03-03) — "Re: Paradox max pilot weight ,height": full text and citation at [chine-runners/how-they-work.md](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination); answers Bill Serjeant's narrow-chine-runner question, citing "Jubilee" and "Hogfish Maximus"'s centerboard-plus-runner combination and Glen Maxwell's firsthand sailing experience; links `www.mermaidresearch.com/` as "an interesting design."
+[151] Archive message page_3564 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3595, 2006-04-13) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); lists Canadian vehicle overnight-parking spots, replying to Jim Hall's "dossing in laybys" question.
+[152] Archive message page_3594 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3625, 2006-04-26) — "Re: Sliding hatch runners": full text and citation at [construction/hatch-hardware.md](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch). Signed "Nels."
+[153] Archive messages page_3665/page_3667/page_3670 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3697/3699/3702, 2006-06-03) — "Re: Enuf Update"/"Re: Enuf Update... Fridge.": full text and citation at [boats/enuf.md](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom); spots the chine runners in Derek Clark's photos as off-plan, correctly guesses the transom box is a Porta Potti in storage position, and separately expresses sympathy over an unrelated Microcruisers-group member's misfortune (off-topic to Paradox, not otherwise recorded).
+[154] Archive message page_3716 (arvent / "Nels", `paradoxbuilders`, msgnum 3748, 2006-07-15) — "Re: Paradox Plans": full text and citation at [references/building-plans.md](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality). Signed "Nels."
+[155] Archive message page_3730 (arvent / "Nels", `paradoxbuilders`, msgnum 3762, 2006-07-18) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood). Signed "Nels."
+[156] Archive message page_3740 (arvent / "Nels", `paradoxbuilders`, msgnum 3772, 2006-07-18) — "MDO": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood). Signed "Nels."
+[157] Archive message page_3741 (arvent / "Nels", `paradoxbuilders`, msgnum 3773, 2006-07-18) — "Re: Paradox Plans": full text and citation at [references/building-plans.md](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality). Signed "Nels."
+[158] Archive message page_3750 (arvent / "Nels", `paradoxbuilders`, msgnum 3782, 2006-07-19) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture) (Jim Michalak's "Robb's boat" pointer). Signed "Nels."
+[159] Archive message page_3754 (arvent / "Nels", `paradoxbuilders`, msgnum 3786, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); "Good point," agreeing with Derek Clark's relay of Jim Michalak's "lake boats" verdict. Signed "Nels."
+[160] Archive message page_3762 (arvent / "Nels", `paradoxbuilders`, msgnum 3794, 2006-07-20) — "Re: New poll for paradoxbuilders": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast); thinks the ballast poll is solving a non-problem, since almost every builder under-ballasts the first sail or two without harm. Signed "Nels."
+[161] Archive message page_3764 (arvent / "Nels", `paradoxbuilders`, msgnum 3796, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); on Michalak's and Bolger's conservative liability-driven design descriptions, and Matt Layden's own 25,000-mile sailing/rowing/sculling/paddling record. Signed "Nels."
+[162] Archive message page_3765 (arvent / "Nels", `paradoxbuilders`, msgnum 3797, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); a Robbsboat-plus-chine-runners-and-Paradox-rig thought experiment, and "Geeze I just about talked myself into building one myself:-P" Signed "Nels."
+[163] Archive message page_3770 (arvent / "Nels", `paradoxbuilders`, msgnum 3802, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); Bolger design guidance on the "Black Skimmer" and its "Martha Jane" successor. Signed "Nels."
+[164] Archive message page_3778 (arvent / "Nels", `paradoxbuilders`, msgnum 3810, 2006-07-21) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#whether-watertribe-racing-tests-the-boat-or-the-crew); explains most WaterTribe competitors never leave sight of land on an essentially coastal, shoal-water course, credits Matt Layden as among the first to work the deeper, calmer water, and relays Gary Blankenship's account of a cabin's shelter and rest advantages that let Matt keep sailing home after one race's finish. Signed "Nels."
+[165] Archive message page_3779 (arvent / "Nels", `paradoxbuilders`, msgnum 3811, 2006-07-21) — "WaterTribe Challenge": full text and citation at [references/mailing-list.md](/references/mailing-list.md#whether-watertribe-racing-tests-the-boat-or-the-crew); quotes WaterTribe's mission statement; corrects the record that it was the Michigan Challenge, not Florida, where Matt used an inflatable kayak, and that the 2004 Florida Challenge instead saw Matt use his own home-built "Rob Royoid" kayak for the Everglades portages. Signed "Nels."
+[166] Archive message page_3830 (arvent / "Nels", `paradoxbuilders`, msgnum 3862, 2006-08-18) — "Re: Paradox sails": full text and citation at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season); agrees with Jack Gardiner on sail sleeves, adding they give cleaner airflow and work better with roller reefing than ties. Signed "Nels."
+[167] Archive message page_3839 (arvent / "Nels", `paradoxbuilders`, msgnum 3871, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/rig.md](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix); offers a tapered rigid-foam boom core wrapped in carbon-fiber tape set in epoxy (limb-cast tape) as a lightweight boom alternative, hidden and UV-protected by the sail's sleeve; reflects on loving Matt Layden's sailplan more the more he considers it, recalling Matt landing Enigma during the Florida Challenge. Signed "Nels."
+[168] Archive message page_3840 (arvent / "Nels", `paradoxbuilders`, msgnum 3872, 2006-08-19) — "Re: I started the maxi paradox today": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); cautions that a folding/tabernacle mast on an enlarged Paradox is not easy to design and brace against sail loads, the mast structure being what drives the boat; asks the planned sail type and area. Signed "Nels."
+[169] Archive message page_3867 (arvent / "Nels", `paradoxbuilders`, msgnum 3899, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/variants/scaled-down-idea.md](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative); replying to Jeff's "7'6" PARADOX/ENIGMA" comment, floats a bigger 150 sq ft sail sized for Bolger's Camper design #640 (18 ft, 5'3" beam, 6 in draft, twin rowing positions, gaff rig on a tabernacled mast, unballasted birdwatcher-style raised deck) fitted with Paradox's sailplan and chine runners; jokes about batteries for ballast doubling as venetian-blind-slat power and an electric cooler for cold drinks. Signed "Nels."

@@ -69,7 +69,7 @@ directly if the project is broken down and taken step by step.
 
 ## Advice for a newcomer at the very start: build logs, small tasks, and a dinghy first
 
-[DC](/people/dc.md), a professional boatbuilder, offers the fullest
+[David C. Smith](/people/david-c-smith.md), a professional boatbuilder, offers the fullest
 encouragement on record for a first-time builder starting entirely from
 scratch with no prior sailing or boatbuilding experience:
 
@@ -148,6 +148,18 @@ in [build effort and workspace](/construction/build-effort.md):
 - [Glen C. Maxwell](/people/glen-maxwell.md)'s "Zoë" took roughly **500 hours
   over about two years** (see [Zoë](/boats/zoe.md) and
   [build effort and workspace](/construction/build-effort.md)).
+- [Alastair](/people/alastair.md)'s own estimate for his single-handed
+  "[Little Jim](/boats/little-jim.md)" build is about **18 months**,
+  consistent with the roughly 20 months the archive records between his
+  starting in August 2001 and launching at Easter 2003.
+- [Derek Clark](/people/derek-clark.md)'s "[Enuf](/boats/enuf.md)" is a
+  slower-paced, non-continuous build: starting in September 2004 and, some
+  16 months on, with only the cabin left to finish, on a build log
+  interrupted more than once by breaks of several months.
+
+A materials data point rounding out these build-time figures: a stock
+Paradox needs about **10 sheets of plywood** (ranging from 6 mm up to 18 mm)
+and **40-50 litres of epoxy**, plus a substantial amount of timber besides.
 
 The overall recommendation is to build something **simple first** to gain
 confidence, basic skills, and the right tools before tackling a larger
@@ -204,6 +216,31 @@ for a related but distinct thread: rather than a general newcomer's question
 about comfort, that concept tracks specific builders' cardboard-mockup tests
 against their own height and weight, including one builder's conclusion that
 the stock cabin was too small for him.
+
+## The two-person question, answered directly
+
+A later newcomer asked the two-person capacity question above in concrete
+terms, after looking over [Alastair](/people/alastair.md)'s own building-photo
+website: the cabin looks fine for one person, but he doubted two could fit in
+so small a space. Alastair's direct answer: Paradox is **not really a boat
+for two** in the sense of sailing together — under way there is room for only
+one person on the helm seat, so a passenger must stay below, workable but
+less pleasant than being out in the open on a good day. **Sleeping two** would
+be "a cosy affair, but not impossible"; extra width can be gained by
+modifying the storage arrangements, as [Kjell Karlsson](/people/kjell-karlsson.md)
+did on his own composite-built Paradox by dropping the lower bin shelves — see
+[the "BRIS Paradox" — widening the berth by omitting the lower
+shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves)
+for the technique in full, illustrated by photographs of two people lying
+down inside. [Jack Gardiner](/people/jack-gardiner.md), building toward a
+larger steel variant of his own (see [stretched Paradox — a steel enlargement
+idea, and the case against
+it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it)),
+corroborated the stock boat's two-up experience directly: he and a companion
+sail her "cramped, but doable," and recommended a newcomer simply build to
+"the pinacle of matts building sailing" — the stock design as Matt Layden
+himself judged safest and best suited — rather than second-guess it before
+ever having sailed one.
 
 ## Storage, beachability, and who buys the beer
 
@@ -324,15 +361,15 @@ a crossing already underway (see
 [11] microcruising.com — "Secrets To Cruising In Small Boats" (http://www.microcruising.com/secrets.htm), David & Mindy Bolduc — "if you feel that the weather looks foreboding, don't be afraid to turn around even if you have already started"; they have turned back "several times in the first ten miles of a crossing."
 [12] Archive message page_151 (kevin1b / Kevin, `paradoxbuilders`, 2001-12-07) — "(No subject)": introduces himself as a non-builder/non-sailor who knows the Paradox only from the list; asks about interior comfort with the hatch shut, two-person capacity, forward-hatch crawl safety, general seaworthiness, on-deck reefing, and on-deck safety given the boat is "only 4' wide."
 [13] Archive message page_2004 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2027, 2004-04-07) — "Got my plans today": introduces himself — Adolf "Alf" Sawatzky, 37, southern Manitoba, six years of carpentry/cabinetmaking experience, no boating experience beyond a 14 ft fishing boat and never having sailed; joyous and frightened to receive his Paradox plans; asks for any grains of wisdom.
-[14] Archive message page_2005 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2028, 2004-04-07) — "Re: Got my plans today": welcomes Alf; feeling overwhelmed shows he respects the project; study the plans continually and let the design guide construction; break the build into small tasks to celebrate incremental progress and avoid stress; keep a build log, indispensable for recalling old reasoning and for morale via photos; search the archives before posing questions to the group, since opinions vary and the individual must cull the wheat from the chaff; learn to sail sooner rather than later on a cheap secondhand dinghy (resell it afterward to fund solar panels, cushions, a stove, etc.) or build one's own — recommends Phil Bolger's "Elegant Punt," the "Cape Cod Frosty," and especially the "el Toro," easy to build and worthy of lasting ownership; sailing basics can be learned in an afternoon, with a lifetime to refine them.
-[15] Archive message page_2006 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2029, 2004-04-08) — "Re: Got my plans today": thanks DC; is signing up for an entry-level sailing course in Winnipeg, Manitoba; notes ice still on most local lakes, at least 3-4 weeks from serious boating; asks where DC is located.
-[16] Archive message page_2007 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2030, 2004-04-09) — "Re: Got my plans today": is in NW Oregon on the Columbia River, opposite Washington; describes a warm, blue-sky 15-20 kt day at Astoria (65-70F/18-21C); suggests an iceboat as a way to generate body heat via adrenaline if Alf knows anyone with one, though too late in the season; restates the recommended beginner dinghies and the case for building one before a larger boat.
-[17] Archive message page_2008 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2031, 2004-04-09) — "Re: Got my plans today": reports a -2C(30F) high with snow flurries and a -12C(5F) overnight low, versus DC's 18C; could not find any information searching for "el Toro" and asks for a link.
-[18] Archive message page_2009 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2032, 2004-04-10) — "Re: Got my plans today": grew up in Oregon, later experienced frostbite in Maine and heat rash in Mexico before returning to Oregon ("I guess I prefer to mildew"); provides the El Toro International Yacht Racing Association link (`eltoroyra.org`) for photos and plans purchase information.
+[14] Archive message page_2005 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2028, 2004-04-07) — "Re: Got my plans today": welcomes Alf; feeling overwhelmed shows he respects the project; study the plans continually and let the design guide construction; break the build into small tasks to celebrate incremental progress and avoid stress; keep a build log, indispensable for recalling old reasoning and for morale via photos; search the archives before posing questions to the group, since opinions vary and the individual must cull the wheat from the chaff; learn to sail sooner rather than later on a cheap secondhand dinghy (resell it afterward to fund solar panels, cushions, a stove, etc.) or build one's own — recommends Phil Bolger's "Elegant Punt," the "Cape Cod Frosty," and especially the "el Toro," easy to build and worthy of lasting ownership; sailing basics can be learned in an afternoon, with a lifetime to refine them.
+[15] Archive message page_2006 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2029, 2004-04-08) — "Re: Got my plans today": thanks Smith; is signing up for an entry-level sailing course in Winnipeg, Manitoba; notes ice still on most local lakes, at least 3-4 weeks from serious boating; asks where Smith is located.
+[16] Archive message page_2007 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2030, 2004-04-09) — "Re: Got my plans today": is in NW Oregon on the Columbia River, opposite Washington; describes a warm, blue-sky 15-20 kt day at Astoria (65-70F/18-21C); suggests an iceboat as a way to generate body heat via adrenaline if Alf knows anyone with one, though too late in the season; restates the recommended beginner dinghies and the case for building one before a larger boat.
+[17] Archive message page_2008 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2031, 2004-04-09) — "Re: Got my plans today": reports a -2C(30F) high with snow flurries and a -12C(5F) overnight low, versus Smith's 18C; could not find any information searching for "el Toro" and asks for a link.
+[18] Archive message page_2009 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2032, 2004-04-10) — "Re: Got my plans today": grew up in Oregon, later experienced frostbite in Maine and heat rash in Mexico before returning to Oregon ("I guess I prefer to mildew"); provides the El Toro International Yacht Racing Association link (`eltoroyra.org`) for photos and plans purchase information.
 [19] Archive message page_2012 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2035, 2004-04-11) — "Re: Got my plans today": confirms the El Toro is basically a pram-style dinghy, matching the boat used at the sailing school he plans to attend.
 [20] Archive message page_2017 (alopenboat / "Alastair", `paradoxbuilders`, msgnum 2040, sent 2004-04-07, delivered/numbered 2004-04-13) — "Re: Got my plans today": cautions Alf that sailing a Paradox is much more like sailing a yacht than a dinghy; had little sailing experience himself when he got his own Paradox on the water but found her "amazingly easy to sail... what I get is jolly good"; agrees that if you can sail a dinghy you can sail anything. Signed "Al, Yeovil, England."
-[21] Archive messages page_2014/page_2015 (churo65 / "Ron", `paradoxbuilders`, msgnum 2037/2038, 2004-04-13, both 03:08 — the second a duplicate send of the first) — "Re: Got my plans today": a new prospective builder from Hillsboro, Oregon, who had already purchased Paradox plans, reads the same thread and asks DC whether he has a Paradox on the water in the Portland area or is still building.
-[22] Archive message page_2016 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2039, 2004-04-13) — "Re: Got my plans today": answers Ron with an account of Swash and his design rationale; full text and citation at [people/dc.md](/people/dc.md#citations).
+[21] Archive messages page_2014/page_2015 (churo65 / "Ron", `paradoxbuilders`, msgnum 2037/2038, 2004-04-13, both 03:08 — the second a duplicate send of the first) — "Re: Got my plans today": a new prospective builder from Hillsboro, Oregon, who had already purchased Paradox plans, reads the same thread and asks Smith whether he has a Paradox on the water in the Portland area or is still building.
+[22] Archive message page_2016 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2039, 2004-04-13) — "Re: Got my plans today": answers Ron with an account of Swash and his design rationale; full text and citation at [people/david-c-smith.md](/people/david-c-smith.md#citations).
 [23] Archive message page_2018 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2041, 2004-04-13) — "Re: Got my plans today": thanks Alastair, having read the Little Jim trip logs on his website.
 [24] Archive message page_2217 (allcritters / "Lee Corbridge, DVM", `paradoxbuilders`, msgnum 2244, 2004-08-31) — "New Member": veterinarian from Sebring, FL, new to the group, studying the Paradox and Little Cruiser websites; asks whether a bigger-than-14ft plan set exists, the build time factor, the estimated cost, and (in jest) who buys the beer during construction; wants a trailerable boat for Western US mountain-lake/coastal camp-cruising with an eventual Bahamas crossing in mind; praises the Paradox's beachability and looks; considered a Sea Pearl 21 Tri (too costly at $40k for the pair) and a Montgomery 15 (still many open questions) first.
 [25] Archive message page_2219 (openboat / "Alastair", `paradoxbuilders`, msgnum 2246, 2004-08-31) — "Re: New Member": points to `www.asjg.clara.co.uk/little_jim` for construction answers; no larger-than-14ft plans exist, though one Australian builder had modified the interior, removing the forward lockers to widen the boat for two-person sleeping; Paradox has far more storage than anything of similar size, with more empty lockers than full ones on a week's outing; beaching is easy, but a falling tide strands the boat until it returns, and even with three helpers he could not push the boat by hand over a beach, despite it being possible in principle with the right gear; "last in buys the drinks." Signed "Al, Yeovil, England."
@@ -344,3 +381,10 @@ a crossing already underway (see
 [31] Archive message page_2562 (hpatrick / "celtikman59" / Terry, `paradoxbuilders`, msgnum 2590, 2005-02-17) — "not past it,,": "thank you everyone for the very positive and encouraging advice,, terry" — closes his own "past it ??" thread.
 [32] Archive message page_2563 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2591, 2005-02-17) — "Re: not past it,,": adds his own "senior testimony" — 56 years old, his Paradox expected ready to sail that summer, hopefully with his wife (by then 60) aboard; points to the "Paraplastic" files-section folder to see the accommodations for two.
 [33] Archive message page_2570 (CarolFo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 2598, 2005-02-20) — "Re: not past it,,": jokes that Kjell's wife may not appreciate having her age "outed... on the world wide web"; praises the boat's appearance and its brass/bronze bottom.
+[34] Archive message page_3275 (wyliewesty / "Wayne", `paradoxbuilders`, msgnum 3306, 2006-01-22) — "Paradox questions": new to micro-boating and the group; considering a Paradox or a Little Cruiser; asks how long a Paradox takes to build, and the sleeping area's inside dimensions.
+[35] Archive message page_3276 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3307, 2006-01-22) — "Re: Paradox questions": took him about 18 months; points to his own building-photo website (`www.as4jg.freeuk.com`); the flat sleeping area is 1.9 m by 0.9 m, with a small modification to the forward access adding roughly another 0.5 m of legroom. Signed "Al, Yeovil, England."
+[36] Archive message page_3277 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3308, 2006-01-22) — "Re: Paradox questions": his own sleeping area measures 74.5 in by 36 in; started building in September 2004, does not build regularly, and has only the cabin left to finish. Signed "Derek."
+[37] Archive message page_3282 (wyliewesty / "Wayne", `paradoxbuilders`, msgnum 3313, 2006-01-23) — "Re: Paradox questions": having looked over Alastair's website, thinks the little boat looks good but doubts two could fit in so small a sleeping space; has built wood kayaks but never sailed. Signed "Wayne, Dallas TX."
+[38] Archive message page_3283 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3314, 2006-01-23) — "Re: Paradox questions": not really a boat for two under way — only one person fits on the helm seat, so a passenger must stay below; sleeping two would be a cosy but not impossible affair, with extra width gained by modifying the storage arrangements, as Kjell Karlsson has done on his composite-built boat (photos in the files section's "Paraplastic" folder show two people lying down inside); points to `www.smallsailboats.co.uk` for a list of all known Paradox builders. Signed "Al, Yeovil, England."
+[39] Archive message page_3286 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3317, 2006-01-23) — "Re: Paradox questions": no plans exist for Little Cruiser, but Dave Bolduc (who owns her and sells the Paradox plans) hopes to create some; a stock Paradox needs 10 sheets of ply (6 mm up to 18 mm) and 40-50 litres of epoxy, plus quite a lot of timber. Signed "Al, Yeovil, England."
+[40] Archive message page_3289 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3320, 2006-01-24) — "Re: Paradox questions": has been considering building the 16 ft version, possibly in steel (corten specifically), which he judges renders most other steel objections moot; sails his own stock boat 2-up — "cramped, but doable"; recommends a newcomer build to "the pinacle of matts building sailing," the design as Matt Layden himself judged safest and best suited. Signed "Jack."

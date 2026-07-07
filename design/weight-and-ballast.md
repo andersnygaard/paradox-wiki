@@ -3,7 +3,7 @@ type: Concept
 title: Weight, ballast, and displacement
 description: The Paradox's loaded-weight breakdown, lead ballast, and waterplane sensitivity — most of the weight sits low in the bilge for stability, and independent weight estimates for several boats converge on a design displacement of roughly 1,400 lb.
 tags: [paradox, design, weight, ballast, displacement, stability, trim]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Weight, ballast, and displacement
@@ -56,6 +56,48 @@ Weight above the bilge / floor:
   through" a [chop](/operations/index.md) rather than be knocked about.
 - Beyond buying lead pigs new, builders have found scrap lead shaped like pipe
   discarded in a skip (dumpster) usable as ready-made ballast pigs.[101]
+- **Free scrap lead is readily available**, and often better value than
+  buying it: tyre-fitters' shops routinely accumulate buckets of old
+  wheel-balance weights they pay someone to haul away, a source that supplied
+  one builder with 17 lead bricks (25 lb each) for the price of two pints of
+  beer. Ballast carried is not fixed for good — it gets swapped out over time
+  as other "useful" equipment comes aboard and takes over part of the
+  weight-budget role.[135] Sourcing scrap lead locally is generally cheaper
+  than traveling any distance to collect someone else's surplus, once travel
+  cost is weighed against simply finding a wheel-balance-weight source closer
+  to home.[137][138][139]
+- **"How much ballast" is not a single well-defined number.** A one-line
+  lead-weight figure is a slippery thing to compare between boats, since it
+  depends on what is being counted as ballast: water ballast, always-carried
+  heavy gear such as ground tackle, and general stores/equipment can all be
+  bundled in or left out depending on how the question is asked. A poll
+  asking Paradox builders how much ballast weight worked best for them,
+  offering choices from 150 to 400 lb, drew the observation that the same
+  boat could honestly be answered anywhere from 100 to 350 lb depending on
+  which of those categories counts.[133][134][136]
+- **One owner's full weight inventory, itemized.** Pressed for a concrete
+  answer to that same poll, one owner broke down everything he actually
+  carries: 100 lb of lead, a 50 lb battery, an electric outboard, three
+  anchors with chain, drinking water carried on top of the water ballast, a
+  second battery for lights, and tinned food. He judges a Paradox's real
+  advantage is that **extra weight isn't a problem** — if a piece of gear
+  might be useful, it can simply be brought along. On some short trips he
+  skips filling the water ballast entirely; the boat still sails just as
+  well, though it feels a little more tender (possibly only his
+  impression).[140] Old wheel-balance weights come with their own steel
+  retaining clips: melting them down (a bread tin makes a serviceable mould)
+  lets the steel float free to be skimmed off, leaving clean lead for
+  casting into ballast bricks.[141]
+- **A dissenting view: the poll itself was solving a non-problem.** Countering
+  the poll's premise, one reply held that almost every builder sails a
+  Paradox without enough ballast the first time or two anyway, without harm,
+  since those early outings are short test sails — better, in this view, to
+  start building and defer the ballast question until the hull is actually in
+  the water once or twice.[142]
+- **Final poll result: a 50/50 split between the two middle choices.** The
+  poll closed with only two votes cast, one for **250 lb** and one for
+  **300 lb** — both toward the lighter end of the ten-choice, 150-400 lb
+  range on offer, and neither at either extreme.[143]
 
 ## Real-world under-ballasted handling
 
@@ -89,7 +131,12 @@ side to observe the result — a firsthand mast-lean-out heel test photographed
 and posted under "Stability & Balance" on a build website. In ordinary sailing
 trim, close-hauled and sailing well, "Little Jim" heels to about
 **20 degrees**, the same steady figure reported repeatedly elsewhere from
-actual passages.[93]
+actual passages.[93] A related, smaller-scale data point on the same boat:
+sailing without the water-tank ballast in light conditions is workable, but
+still has a **noticeable effect on initial stability** even with the full
+fixed-lead load aboard — see [transom deck plate — the fill/suction copper
+pipe: sizing, timing, and the fittings that connect to
+it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[128]
 
 ## Waterplane sensitivity
 
@@ -120,6 +167,24 @@ drive a **machine screw** directly (no tapping needed) for strong holding
 power; **coat the fastener with wax, then dip in epoxy** before driving, for
 even better holding.
 
+**Sheet lead bedded in a sand/epoxy infill.** A third method, proven on a
+builder's own prior 25 ft Folksong: lay sheet lead against the hull bottom
+and hold it down permanently with a mix of **sand and epoxy resin** poured
+around and over it, rather than (or in addition to) screwing it down.[129]
+Sand serves two purposes at once — it is both the **cheapest available
+heavy infill material** for bulking out epoxy and a legitimate way to add
+**substantial extra ballast weight** cheaply, the same reasoning behind
+sand-filled bags used elsewhere as movable trimming ballast.[132] Any sand
+used **must be dried hot and then cooled before mixing** into the resin, to
+drive off moisture that would otherwise compromise the cure.[129] The
+sheet lead itself could equally be screwed to the bottom on its own, but
+without the sand/resin infill nothing is actually holding it in place;
+sand is not a structural reinforcement in the way glass cloth is, and is
+not a substitute for it — it is added specifically as cheap ballast bulk,
+not strength.[130][131] One practical caution: a sand/epoxy pour of any
+real volume **generates significant exothermic heat while curing**, worth
+planning for in a confined bilge space.[130]
+
 **Ballast stowage detail.** On one boat, the **forward-compartment lead**
 serves as **trim weight to counterbalance the battery**, held in place by
 **heavy nylon straps (with bolts)** in a tight fit. All lead is **sealed in
@@ -132,6 +197,65 @@ the Paradox" articles](/references/building-the-paradox-articles.md).
 
 Lead-installation photos (referenced but with no caption text):
 `http://www.tomah.com/delliott/par1.jpg`, `par2.jpg`, `par3.jpg`, `par4.jpg`.
+
+## Reaching the ballast fastenings after the floors are in
+
+The plans' overlapping floors can make the **inner** ballast fastenings hard
+to reach once the boat is otherwise finished, a problem separate from how
+the lead itself is secured (above). One builder's own solution avoids
+threaded fastenings through the hull bottom entirely: drill and tap directly
+into the top face of each lead pig, then bolt on a small plate that itself
+bolts down into the top of the chine log. The fit does not clamp the lead
+rigidly, but shows no sign of the pigs shifting over time, and is expected
+to hold even if the boat were inverted. Ballast should not be fixed down at
+all until after the first few sails, since moving individual pigs around
+while trimming is the normal way a Paradox gets balanced correctly — see
+[the practical, real-world answer to how much ballast to fit, and
+where](#ballast-placement-outboard-vs-centered) above for the same
+launch-light-then-trim method.[144][145]
+
+That same arrangement — top wooden retaining pieces bolted through into a
+wooden block glued to the floor near the mid-section, and separately into
+the chine log — lets the pigs be shifted fore and aft as needed, but leaves
+the real access difficulty at the two bolts hidden under the flap that
+projects from the ballast-tank top. A **removable plank** in place of that
+flap was proposed as the fix, rather than continuing to work around a fixed
+flap.[146]
+
+Cutting **1 in access holes** directly above the bolt heads, as an
+alternative to a full removable plank, was considered and rejected: fixed
+side pieces at that scale would still make the bolts themselves ticklish to
+reach, and would also block off the water inlet/outlet fitting where a PVC
+tube joins the copper pipe with a jubilee clip — a joint that may itself
+need attention at some point. Weighing routine ballast access and
+adjustment against that pipe-joint maintenance need, the preferred solution
+is to build the **sides of the water-ballast tank top as separate,
+removable "planks"** rather than a fixed flap with only small drilled
+holes — giving full access to both the lead ballast and the jubilee-clipped
+plumbing whenever needed.[147][148]
+
+## Sourcing lead cheaply, and why scrap has largely replaced it
+
+Buying new lead at retail scrap-metal prices is expensive enough (around
+$0.45/lb quoted across several US tire shops, which routinely take old wheel
+weights) that builders have looked for cheaper alternatives. Old car-battery
+lead has been floated as one option, with the observation that UK councils and
+scrapyards typically charge to dispose of batteries, so a boatbuilder asking
+around a garage workshop for old batteries would likely be given them for
+free; breaking batteries open to recover the lead carries real hazards (the
+sulfuric acid electrolyte, corrosive enough to serve as an effective weed
+killer) and calls for common-sense precautions.[149]
+
+In practice, the economics of battery and scrap-metal recycling have shifted
+enough to close off this route in many places: household recycling centers
+now often take used engine oil, batteries, and scrap steel or iron for free,
+reselling it on to industrial recyclers rather than paying the person
+dropping it off — removing the incentive to break batteries open at all, and
+leaving the health risk (both to the builder and, as one builder's wife
+pointed out, to household members nearby) with no offsetting reward. Facing
+the same high retail lead price, the alternative settled on was **scrap
+steel plate**, sourced cheaply through an aerospace-industry surplus outlet
+rather than recovered lead.[150]
 
 ## The ballast pig layout, in full (Don Elliott)
 
@@ -244,6 +368,90 @@ her final lines. [Don Elliott](/people/don-elliott.md)'s own ballast articles
 itself once the total and placement are settled this way.[111][112] This is
 the same load-then-trim method [Glen Maxwell](/people/glen-maxwell.md) used
 on his own boat, "Zoë."[113]
+
+The same lateral-placement question recurred in 2006, prompted by a builder
+planning to use reclaimed sealed lead-acid telecoms batteries (roughly
+70-90 kg) as combined electric-outboard power and ballast, and puzzled that
+the plans put the lead outboard toward the sides rather than on the
+centerline, seemingly leaving half the ballast outboard of the center of
+buoyancy when heeled.[114] Builder experience answered the question the same
+way as before: only the **fore-and-aft** position of the lead has ever
+needed adjustment in practice; nobody has found reason to question its
+**lateral** placement.[115] For an electric outboard's battery bank
+specifically, mounting it immediately forward of bulkhead #3, embedded in the
+side locker, was suggested as workable.[115]
+
+A distinct **naval-architecture explanation** settled the underlying physics:
+splitting the ballast evenly either side of the centerline, spaced about
+equally from it, keeps the **center of gravity of the lead itself centered**
+regardless of the split — so the ballast still acts as dead weight holding
+the boat down on her lines, letting the **hull form** supply stability,
+rather than acting like movable live ballast shifted tack to tack (which
+would actually require the weight to move). A secondary effect of spacing the
+ballast outboard is a slight **damping of rolling motion**; weight in the
+extreme ends (bow/stern) slows a boat down, but since the athwartship spacing
+involved here is small, the performance cost of splitting the lead
+outboard-versus-centered is negligible.[116] This is the fullest technical
+answer on record to the outboard-vs-centered question raised earlier in this
+section, and it resolves the question in favor of the design as drawn: even
+split, outboard ballast behaves for practical purposes like centered ballast.
+
+**An intuitive illustration of the physics.** A simple test makes the
+outboard-versus-centered question tangible without any calculation: hold a
+roughly 4 ft dowel with a matched pair of weights first bunched together at
+its centre and pivoted up and down, then moved out to the two ends and
+pivoted again — the same total weight clearly resists the motion far more
+once spread to the ends, the same **moment-of-inertia** effect that governs
+how ballast spread across a Paradox's beam behaves compared with ballast
+concentrated on the centerline.[121]
+
+**Built-in water tanks versus separate portable containers.** The same 2006
+correspondent who raised the lateral-ballast question also meant to do without
+the plans' built-in water tanks, worried they would become a hidden **rot
+trap**, and planned a smaller quantity in shallow portable plastic containers
+instead, doubling as part of the ballast.[114] The practical objection to that
+substitution is finding **containers shallow enough** to fit the tank space:
+cans lying on their sides leak through their tops unless those are guaranteed
+watertight, and a flexible bladder of the kind sold inside boxed wine was
+floated as a possible alternative, with metal or concrete ballast taking the
+tank space instead and drinking water kept separately in ordinary containers
+elsewhere.[122] A New Zealand chandlery's rigid plastic tank was suggested as
+a stock-sized option to fit the space,[123] but on checking the actual
+dimensions it proved both too wide and too high for the built-in tank
+location.[124] Two further practical answers were offered for a builder set
+on avoiding the built-in tanks: reusable 2-litre carbonated-drink bottles (as
+already used successfully on a different small boat), with online
+camping-supply stores suggested as a further source of purpose-made water
+containers;[126] and, from a builder actively planning his own boat's water
+system, a 5-litre rigid container kept topped up for ready use and refilled
+from two or three 10-litre roll-up containers stowed under the floor beneath
+the seat — using flexible, collapsible containers rather than rigid cans to
+sidestep the leak-prone-cap and wrong-shape problems raised above.[127]
+
+**A battery-in-wood caution.** Independent of placement, anyone planning to
+use lead-acid batteries as ballast was warned to seal their compartment
+unusually thoroughly — heavy epoxy and glass coating, plus frequent rinsing
+with plenty of water and a final neutralizing/buffering rinse — since even a
+trace of leaked battery acid reaching bare wood will destroy it faster than
+rot or insect damage.[117] Sealed batteries mounted in any orientation still
+carry the same risk if cracked or seriously overcharged, making a good
+long-term installation worth real care regardless of battery type.[125]
+
+A related trim exercise, worked through by a builder replacing his own water
+ballast with lead in the same compartments, illustrates how many separate
+weights a Paradox's designer expects to balance against each other: lead in
+place of the water tanks, anchors under the floor behind bulkhead #3, roughly
+30 kg of water beneath the floor forward of bulkhead #4, an outboard motor on
+the transom (~13 kg), and the crew's own weight anywhere between bulkheads #2
+and #4 — a "pretty puzzle" left to be sorted empirically on launch day rather
+than solved on paper in advance.[118] On the fore-and-aft trim question more
+generally, two rules of thumb are in tension: one favors keeping the transom
+clear of the water to reduce drag on a flat-bottomed hull, the other favors a
+bow held slightly high to help her climb over waves — the only firm
+agreement being that sitting perfectly level is *not* the goal.[119] The
+physics explanation above was enough to resolve the original builder's
+confusion, after "a sheet of paper covered in sketches and equations" had
+left him none the wiser on his own.[120]
 
 ## Independent weight and displacement estimates
 
@@ -975,7 +1183,7 @@ at least dimensionally plausible.
 [57] Archive message page_1245 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1265, 2003-11-06) — "Re: Digest Number 381": clarifies for Nels that the vent trunk is not a "bailer" — it drains continuously, at anchor as well as underway, per the Paradox plans.
 [58] Archive message page_1246 (daveinbham / Dave, Birmingham, Alabama, `paradoxbuilders`, msgnum 1266, 2003-11-07) — "discharges from Paradox": follow-up question asking what to use for sanitation (a "potty") aboard a Paradox — unanswered in the archive.
 [59] Archive message page_1279 (openboat / Alastair, `paradoxbuilders`, msgnum 1299, 2003-11-14) — "Re: New Files uploaded": asks whether Glen (or Matt) has ever actually needed a bilge pump; when he himself was knocked flat with the hatch slightly open, only a few litres came in — too little for his portable pump to get a hold of, so he mopped it up with a sponge instead.
-[60] Archive message page_1282 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1302, 2003-11-14) — "Re: New Files uploaded": praises Glen's pump installation; deliberately eliminates limber holes aboard his own boat in favor of closed, compartmentalized bilge spaces, so a leak is caught before the cabin sole floats and before free-surface effect or damage to stores in other compartments; his own layered response to water — sponge/towel, a portable cylindrical (Beckson-style) pump, and a fixed pump like Glen's for a catastrophic knockdown with the hatch open; likes Henderson pumps, unsure one would fit.
+[60] Archive message page_1282 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1302, 2003-11-14) — "Re: New Files uploaded": praises Glen's pump installation; deliberately eliminates limber holes aboard his own boat in favor of closed, compartmentalized bilge spaces, so a leak is caught before the cabin sole floats and before free-surface effect or damage to stores in other compartments; his own layered response to water — sponge/towel, a portable cylindrical (Beckson-style) pump, and a fixed pump like Glen's for a catastrophic knockdown with the hatch open; likes Henderson pumps, unsure one would fit.
 [61] Archive message page_1287 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1307, 2003-11-14) — "Re: New Files uploaded": at the start of the 2003 Everglades Challenge, watched Matt Layden pump his flooded bilge dry by hand (many strokes, finished with a sponge) after waves swamped "Paradox"'s stern during a high-energy-beach haul-out; decided he wanted a bigger pump than the one he carried; floats an unbuilt idea for a rubber disc on the tiller, an inch clear of the transom, sized to seal against the transom if hit by a following sea while still allowing flow-through ventilation; has never taken aboard "Zoe" more water than a sponge could handle, but has had seas come aboard other boats' sterns, including a sport fisherman's wake sweeping the cockpit entering Ft. Pierce inlet — contained because the washboards were already in, "but it was still scary."
 [62] Archive message page_1288/page_1289 (alanterry4 / Alan Terry, `paradoxbuilders`, msgnum 1308/1309, 2003-11-15) — "Re: outboard & paradox" (duplicate posting): recalls seeing a photo of Little Cruiser fitted with an outboard and asks whether it proved unsatisfactory — unanswered in the archive; quotes dclark52001's original question in full.
 [63] Archive message page_1290 (delliott / Don Elliott, `paradoxbuilders`, msgnum 1310, 2003-11-15) — "Paradox-Ballast installation part 1": first of a planned illustrated article series on ballast installation, intended for eventual inclusion in the "Building Paradox booklet"; ballast range 70-180 kg (155-400 lb) per the plans, light travelers using the higher figure; total displacement (hull, ballast, stores, gear, crew) must not exceed the design figure; his own choice was the maximum, 180 kg, being a light traveler; pigs weigh 18 kg (40 lb) each in his layout, smaller pigs usable for less total ballast; suggested layout — three pigs each side at the food locker's forward end (120 lb/side) and two more each side by the water tanks (80 lb/side), remainder placed by actual floating trim; all pigs as far outboard as possible; Paradox is heavy enough to be fairly insensitive to ballast placement for trim; never handle uncovered lead bare-handed; layout sketch at `http://www.tomah.com/delliott/ballast2.jpg`; anything bearing on the floor/plywood structure must be isolated to prevent rot, used a thin rubber mat under his ballast; his own boat got two coats of epoxy overall, at least four coats at the bulkhead/floor joint with an epoxy fillet, any more considered wasted; don't overlook the drain scuppers; laid two layers of fiberglass cloth under the pigs as a water barrier and abrasion protection, sanding the floor and marking the cloth footprint first, describing two wet-out methods (direct-on-floor vs. wet-out-on-glass-then-lay-down); photos at `http://www.tomah.com/delliott/ballast1.jpg`; recommends a square plastic mixing container for epoxy work generally — accurate corners for pouring, stable low wide base, reusable since cured epoxy lifts out in one piece; next article to cover the lead pig installation itself.
@@ -1035,3 +1243,40 @@ at least dimensionally plausible.
 [111] Archive message page_2987 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3018, 2005-07-31) — "Re: Enuf Update & now Ballast as well": has no firm advice himself, but suggests hoping Alastair, Jack Gardiner, and Glen Maxwell can offer real-life expertise; believes most builders launch with an empty hull, load her with all their gear, balance her level to the waterline with lead, then mount the ballast permanently; most start on the light side for ballast, which usefully shows the chine runners' performance as weight is added later. Signed "Nels."
 [112] Archive message page_2988 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3019, 2005-07-31) — "Another Enuf update": reports Don Elliott "came up trumps" with ballast information, sending a 14-page PDF with detailed placement guidance. Full text and citation on the same message's biaxial-sheathing question at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#turning-the-hull-over). Signed "Derek."
 [113] Archive message page_2993 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3024, 2005-07-31) — "Re: Enuf Update & now Ballast as well": replying to Nels's launch-empty-then-ballast advice (quoted in full), confirms "That is exactly what I did Nels. Good advice." Signed "Glen."
+[114] Archive message page_3503 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3534, 2006-03-28) — "A heavy question-ballast.": asks whether the ballast as designed works out to about the right position, given final trim varies with stores; puzzled that the plans show lead toward the sides rather than the centerline, seemingly leaving half the ballast outboard of the center of buoyancy when heeled; plans an electric outboard using reclaimed sealed lead-acid telecoms batteries (~70-90 kg) as combined ballast, and smaller plastic water tanks in place of the built-in ones. Signed "Alan."
+[115] Archive message page_3504 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3535, 2006-03-28) — "Re: A heavy question-ballast.": has had to adjust the fore/aft position of his own lead (with the as-designed water tanks fitted) but has never had reason to question the lateral position; would mount electric-outboard batteries immediately forward of bulkhead 3, embedded in the side locker. Signed "Al, Yeovil, England."
+[116] Archive message page_3508 (mark / "bsdbatwing" / Mark Balogh, `paradoxbuilders`, msgnum 3539, 2006-03-28) — "Re: A heavy question-ballast.": explains the physics of split lateral ballast — if the lead is half to each side and spaced about equally from the centerline, the ballast's own center of gravity stays centered, so it acts as dead weight keeping the boat on her lines (letting hull form supply stability) rather than as movable live ballast shifted tack to tack; spacing weight outboard also slightly damps rolling; weight in the extreme ends (bow/stern) slows a boat more, but the athwartship spacing here is small enough that the performance cost is negligible. Signed "Mark."
+[117] Archive message page_3505 (BllFs6 / "bllfsh666" / Bll, `paradoxbuilders`, msgnum 3536, 2006-03-28) — "Re: A heavy question-ballast.": warns that any compartment housing batteries should be extra-thoroughly epoxied and glassed, and rinsed often with plenty of water plus a final neutralizing/buffering rinse, since even a trace of battery acid reaching bare wood will destroy it faster than rot or insects. Signed "Blll."
+[118] Archive message page_3507 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3538, 2006-03-28) — "Re: A heavy question-ballast.": has puzzled over the same question himself; the best answer seems to be that the design works as drawn; describes his own planned trim — lead replacing water in the same compartments, anchors under the floor behind bulkhead 3, ~30 kg of water beneath the floor forward of bulkhead 4, an outboard on the transom (~13 kg), and his own weight anywhere between bulkheads 2 and 4 — a "pretty puzzle" he jokes Alastair has promised in writing to help sort on launch day. Signed "dclark52001."
+[119] Archive message page_3509 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3540, 2006-03-28) — "Re: A heavy question-ballast.": on fore-and-aft trim, notes one school of thought wants the transom clear of the water to cut drag on a flat-bottomed hull, another wants the bow held high to climb over waves — the one thing nobody wants is a boat sitting perfectly level. Signed "Al, Yeovil, England."
+[120] Archive message page_3510 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3541, 2006-03-28) — "Re: A heavy question-ballast.": thanks Mark Balogh for the explanation, having confused himself thoroughly with "a sheet of paper covered in sketches and equations." Signed "Al, Yeovil, England."
+[121] Archive message page_3512 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 3543, 2006-03-28) — "Re: A heavy question-ballast.": offers a simple dowel-and-weights demonstration — a ~4 ft dowel with two matched weights, first bunched at the centre and pivoted, then moved to each end and pivoted again — to make the moment-of-inertia difference between centered and end-loaded weight tangible without calculation. Signed "Jeff UK."
+[122] Archive message page_3514 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3545, 2006-03-28) — "Re: A heavy question-ballast.": shares Alan's worry about built-in water tanks as a rot trap; doubts plastic cans shallow enough to fit the tank space exist, and warns that cans lying on their sides will leak through the tops unless guaranteed watertight; suggests metal or concrete ballast in the tank space instead, drinking water kept separately in ordinary containers, and floats a boxed-wine-style flexible plastic bladder as a possible tank substitute. Signed "Jim Hall."
+[123] Archive message page_3518 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3549, 2006-03-28) — "Re: A heavy question-ballast.": points Jim Hall to a New Zealand chandlery (`www.boatshop.co.nz`, product code 05102) for a small rigid plastic tank sized to fit. Signed "Alan."
+[124] Archive message page_3519 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3550, 2006-03-29) — "Re: A heavy question-ballast.": checked the suggested New Zealand tank against his own hull and found it both too wide and too high for the built-in tank space. Signed "Al, Yeovil, England."
+[125] Archive message page_3517 (logicaid / "logicaidnz" / Alan, `paradoxbuilders`, msgnum 3548, 2006-03-28) — "Re: A heavy question-ballast./Battery acid!": replying to Bll's battery-acid caution, notes his own batteries are fully sealed and can be mounted in any orientation, but could still leak if cracked or seriously overcharged, so a good long-term installation needs careful consideration. Signed "Alan."
+[126] Archive message page_3521 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 3552, 2006-03-29) — "Re: A heavy question-ballast.": used 2-litre carbonated-drink bottles to carry water on his own Leisure 17; suggests looking in an online camping store for water containers. Signed "Jeff UK."
+[127] Archive message page_3523 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3554, 2006-03-29) — "Re: A heavy question-ballast.": plans a 5-litre rigid container for ready-use water, replenished from two or three 10-litre roll-up containers, all fitting under the floor beneath the seat. Signed "dclark52001."
+[128] Archive message page_3626 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3657, 2006-05-16) — "Re: Fill/suction copper pipes": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it); on a couple of occasions, in light conditions, has left the water ballast out with a noticeable effect on initial stability. Signed "Al, Yeovil, England."
+[129] Archive message page_3633 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3664, 2006-05-17) — "Re: Fill/suction copper pipes": replying to Jim Hall's sea-water-ballast idea, suggests sheet lead held down with sand and epoxy resin instead, provided the sand is dried hot and allowed to cool before mixing, to remove moisture; still undecided himself whether to keep using his own tanks for their original fresh-water purpose. Signed "Bill."
+[130] Archive message page_3635 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3666, 2006-05-18) — "Re: Fill/suction copper pipes": the lead could be screwed down on its own, but the sand/resin mixture permanently holds it in place; used this method on his own 25 ft Folksong, where the sand also added weight and "worked well"; cautions the epoxy gets very hot while curing. Signed "Bill."
+[131] Archive message page_3636 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3667, 2006-05-19) — "Re: Fill/suction copper pipes": still puzzled why sand is needed at all — if more weight is wanted, add more lead; if more strength is wanted, use glass cloth as reinforcement; remains "mystified" by sand, wet or dry. Signed "Jim Hall."
+[132] Archive message page_3637 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3668, 2006-05-21) — "Re: Fill/suction copper pipes": explains sand is simply the cheapest and heaviest available infill material for epoxy, and a cheap way to add substantial ballast weight in its own right — the same reasoning behind sand-filled bags used elsewhere as movable trimming ballast. Signed "Bill."
+[133] Archive message page_3735 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3767, 2006-07-18) — "Ballast Poll": planning to buy lead for ballast but unsure how much to get, so created a group poll and invited comment. Signed "Steve Yahn."
+[134] Archive message page_3734 (system / `paradoxbuilders` group poll notice, msgnum 3766, 2006-07-18) — "New poll for paradoxbuilders": automated Yahoo Groups poll notice for Stephen Yahn's "How much weight for ballast did you find worked best?" question, offering ten choices from 150 to 400 lb in 25 lb increments.
+[135] Archive message page_3736 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3768, 2006-07-18) — "Re: Ballast Poll": don't buy lead, get it given to you — ended up with 17 lead bricks (25 lb each) for the price of two pints of beer; tyre-fitters' shops have buckets of old wheel-balance weights they pay to have taken away; now uses only 4 of the bricks, having progressively removed lead as he added other "useful" equipment. Signed "Al, Yeovil, England."
+[136] Archive message page_3737 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3769, 2006-07-18) — "Re: New poll for paradoxbuilders": asks whether the poll question is meant to include water ballast and always-carried heavy gear such as the anchor; by different countings could honestly answer anywhere between 100 and 350 lb, depending what counts as ballast versus stores/equipment. Signed "Al, Yeovil, England."
+[137] Archive message page_3744 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3776, 2006-07-19) — "Re: Ballast Poll": jokingly offers Alastair a couple of beers in exchange for his surplus lead bricks. Signed "Jeff UK."
+[138] Archive message page_3746 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3778, 2006-07-19) — "Re: Ballast Poll": happy to pass on his surplus bricks provided he isn't made to drink the beer (he dislikes it); notes it would likely be cheaper for Jeff to source his own lead locally than travel to collect Alastair's. Signed "Al, Yeovil, England."
+[139] Archive message page_3747 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3779, 2006-07-19) — "Re: Ballast Poll": jokes about fitting a trapeze and hiking out to justify the trip, then reports he has already started collecting his own scrap lead, joking that local church roofs are "still covered in lead" if only he had a 40 ft ladder. Signed "Jeff UK."
+[140] Archive message page_3755 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3787, 2006-07-20) — "Re: New poll for paradoxbuilders": restates the poll question as a choice between two extremes (400 lb as a near-universal minimum, versus 150 lb being enough and more making the boat a "slow dog"); thanks Al for the tire-store lead-sourcing idea. Signed "Steve Yahn."
+[141] Archive message page_3757 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3789, 2006-07-20) — "Re: New poll for paradoxbuilders": itemizes his own actual load-out — 100 lb of lead, a 50 lb battery, an electric outboard, three anchors with chain, drinking water carried on top of the ballast water, a second battery for lights, and tinned food; judges extra weight is never a real problem on a Paradox since useful gear can simply be brought along; sometimes skips filling the water ballast on short trips with no clear sailing penalty, though it feels slightly more tender; explains that scrap wheel-balance weights carry steel retaining clips which float free and can be skimmed off when the lead is melted down in a mould such as a bread tin. Signed "Al, Yeovil, England."
+[142] Archive message page_3762 (arvent / "Nels", `paradoxbuilders`, msgnum 3794, 2006-07-20) — "Re: New poll for paradoxbuilders": thinks Stephen is trying to solve a problem that doesn't exist; almost every builder sails without enough ballast the first time or two, with no harm done since those are short test sails; more important to start building and worry about ballast once the hull is in the water. Signed "Nels."
+[143] Archive message page_3795 (system / `paradoxbuilders` group poll notice, msgnum 3827, 2006-08-02) — "Poll results for paradoxbuilders": automated closing notice for Stephen Yahn's "How much weight for ballast did you find worked best?" poll; final tally, two votes cast: 250 lb (ifida / Glen C. Maxwell) and 300 lb (mwatersworld / Mark Waters), all eight other choices (150-400 lb in 25 lb steps) receiving zero votes.
+[144] Archive message page_3978 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4012, 2006-09-23) — "Ballast access": asks whether anyone has had difficulty reaching the inner ballast bolts after the initial installation, since the plans' overlapping floors can make them hard to get at. Signed "Bill."
+[145] Archive message page_3980 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4014, 2006-09-24) — "Re: Ballast access": drilled and tapped into the top of his own lead pigs and screwed in a plate bolted at its other end into the top of the chine log; does not hold the pigs particularly firmly but shows no sign of movement, and expects it would hold even if the boat were inverted; recommends not fastening ballast down at all to start with, since he and Derek Clark both moved pigs around on early sails to get the boat balanced right. Signed "Al, Yeovil, England."
+[146] Archive message page_3983 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4017, 2006-09-25) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); describes the top wooden retaining pieces bolted through into a wooden block glued to the floor near the mid-section and into the chine log, letting the pigs be shifted fore and aft; the real difficulty is the two bolts under the flap sticking out of the tank ballast top; suggests a removable plank instead of a flap. Signed "Bill."
+[147] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); suggests 1 in diameter access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
+[148] Archive message page_3985 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4019, 2006-09-26) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); rejects the access-hole idea — still ticklish to reach, and fixed side pieces would cover the water inlet/outlet pipe where the PVC tube joins the copper pipe via a jubilee clip, a joint that may need attention; decides the best option is to make the sides of the water ballast tank top separate, removable "planks," giving easy access to the lead ballast and to the jubilee clips. Signed "Bill."
+[149] Archive message page_3993 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 4027, 2006-10-04) — "Re: Haliyard and Reef lines": suggests old car batteries as a lead source, noting UK garage workshops must pay to dispose of them and would likely be glad to give them to a Paradox builder instead; cautions that breaking them open is potentially hazardous and calls for common-sense precautions; notes battery acid makes "excellent weed killer." Signed "Jim Hall (still lurking)."
+[150] Archive message page_3995 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 4028, 2006-10-05) — "Re: Haliyard and Reef lines": replies that recycling economics have changed — his local dump now has a designated free drop-off for old engine oil, batteries, and steel/iron scrap, which it then sells on to industrial recyclers, so there is no longer any reward for breaking batteries open himself; would be too worried about his own and his wife's safety to try. Signed "Steve Yahn."

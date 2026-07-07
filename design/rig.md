@@ -69,6 +69,17 @@ The sail is set on a **rolling boom** (a boom that rotates to roll the sail up
 for reefing/stowing). The **foot of the sail has a sleeve** through which the
 boom slides; the sail is then **made fast fore and aft with ties**.
 
+The same sleeved arrangement is used at the **yard**, not only the boom, and
+builders have asked why the sail uses sleeves at all rather than simply
+lashing it to the yard and boom. The consensus reasoning: **simplicity** —
+Matt Layden preferring the sail not be over-complicated — plus two concrete
+functional advantages a lashed sail would lack. A sleeve gives **cleaner
+airflow** off the spar than a series of ties would, and it works
+**better with roller reefing**, since the cloth stays captured on the spar
+at every reefed position rather than needing to be re-tied as the sail
+rolls up. Builders considering omitting the sleeves for simplicity are
+advised against it on this basis.
+
 A **pulley fitted at the end of the boom** carries **two holes for the tack
 line** — not redundant, but a simple through-and-back arrangement that lets
 the line be pulled to **tighten and make fast the tack**. See
@@ -101,6 +112,26 @@ reduce the crease at the head; see
 [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease)
 for the full account.
 
+The same boom-taper principle also controls **where the sail sits relative
+to the furling drum** as it rolls up (see
+[the Mk1/Mk2 tack-angle difference](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum)):
+the **larger the diameter of the boom's outboard end, the further the sail
+sits from the drum when reefed**, fine-tunable with a plane or spokeshave to
+remove the last, and used the same way to clear bagging or creases that
+persist through reefing.[253] Where a boom was built with **too little**
+taper, material can be added locally instead of re-planing — self-adhesive
+draught excluder wrapped around the boom, or a length of rigid foam fixed to
+the outboard (clew) end with double-sided tape, the latter being how one
+builder retrofit his own under-tapered boom.[253][254] On boom
+**construction** itself, two lighter alternatives to a solid wooden boom
+have been floated, both relying on the sail's sleeve to hide (and, in the
+second case, protect from UV) a boom that would otherwise "look bloody
+'orrible": a boom laminated from three or four lengths of 1 in plastic water
+pipe held to shape with plywood spacers, and a **tapered rigid-foam core
+wrapped in carbon-fiber tape set in epoxy** (the same lightweight-cast tape
+used for setting broken limbs), both judged to weigh about the same as a
+wooden boom.[253][254]
+
 ## Sailed entirely from the helm station — no going forward
 
 A defining handling fact about the rig: **all sail controls, including
@@ -113,6 +144,30 @@ with the enclosed, sailed-from-inside cabin layout described on the
 reason. For study plans and further particulars, see
 [Dave Bolduc's site](/references/building-plans.md)
 (`http://home.triad.rr.com/lcruise/paradox1.htm`).
+
+## Why the mainsheet presented at the helmsman's back is not awkward in practice
+
+The mainsheet as drawn comes to the helmsman from behind rather than from in
+front, which can look awkward on paper next to a dinghy's forward-led sheet.
+In practice it works the opposite way round: the sheet is pulled in by
+**thrusting forward with the arm while bracing the back against bulkhead
+4**, and the slack falls into a bin behind that bulkhead where it cannot
+tangle around the helmsman's feet. The key difference from a dinghy is that
+a Paradox's sheet is not played continuously — the sail is set, the sheet
+locked off, and left alone unless the wind or course changes — so the
+sheet's position at the helmsman's back is a non-issue for the boat's
+ordinary sailed-from-inside handling, rather than a problem calling for a
+forward-led sheet and extra blocks.[242][243]
+
+A recurring signature line — "hoping for calm nights" — prompted a
+newcomer's curiosity about what actually disturbs sleep aboard a Paradox.
+The answer: a good night's sleep comes easily enough at anchor in the
+boat itself, but a **lumpy, rolling sea** is what makes sleep difficult —
+not any flaw specific to the design.[247][248] The same newcomer, a
+Picaroon owner without a Paradox of his own, wondered whether a boat as
+narrow as four feet might roll uncomfortably quickly at anchor, and named
+a trailer-friendly hull — which his own boat is not — as part of what
+draws him to the design.[249]
 
 ## Mast rake — where it comes from, and how it's built
 
@@ -346,6 +401,21 @@ pre-drilled pilot hole — a failure mode also documented in old-growth
 individual board. Epoxy adheres to well-seasoned heart pine without special
 preparation, the same as any other suitable spar wood.[178]
 
+**Testing an unconventional local wood before committing to it.** When a
+builder has ready access to an unconventional but promising species — one
+recorded case was several hundred larch (tamarack) trees on the builder's
+own property, straight-grained hardwood with branches confined to the
+uppermost part of the trunk — the recommended approach is not to guess but
+to test: cut measured pieces, compare them against a known mast wood such as
+clear Douglas fir or Sitka spruce, and use a fishing scale rigged as a
+makeshift tensometer to record the breaking load, the bend under a given
+load, behavior under a twist test, and how well the wood takes epoxy. The
+same test methodology was suggested for judging old, large-diameter oak
+against the same benchmark woods. This is the general answer to "would
+species X work for a mast" whenever a builder has a personal supply of an
+untested wood worth evaluating on its own merits rather than by
+reputation.[250]
+
 ## Documented performance — Exuma Sound
 
 A photo in the community files (Paradox folder) shows a Paradox sailing on
@@ -474,6 +544,18 @@ Sails**, **Crusader Sails**, **Jeckells Sails**, **Kemp Sails**, and **Lucas
 Sails** — the last with a good reputation from a builder who had a junk sail
 made there some years earlier "at a competitive rate."
 
+By 2006, a quote direct from Dabbler's **Stuart Hopkins** put a Paradox sail
+at **$600** in 5 oz white, or **$700** in a color such as cream or tanbark —
+an exact quote including the sailbag, plus a flat $25 UPS shipping charge,
+valid for 30 days given oil-driven price movement. Hopkins himself recalled
+having made two or three of these "challenging" sails, and separately
+recalled a photo of one "bellied out on a sand spit in the Bahamas."[255] The
+quote drew a direct, still-current endorsement from Glen Maxwell, whose own
+Dabbler-built Mark II sail (see [the Dabbler re-cut: Mark II sail, a
+decisive improvement](#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)
+above) he remained very pleased with years on; his earlier Mark I sail had
+by then passed to another builder, "Bill Sargent."[256]
+
 ## Sail shape, tacking asymmetry, and reefing behavior
 
 Sailing alongside Matt Layden's own boat at Ft. Desoto just before the 2003
@@ -561,6 +643,61 @@ a seesaw, or as one span of the Firth of Forth rail bridge — is supported
 at one point with both ends free to bend. A constant-diameter bamboo pole
 does not naturally take this shape, and would likely need reinforcement
 where it presses against the mast to avoid being crushed there.[221][225]
+
+## Which side of the boom and yard faces up, and curing persistent yard sag
+
+The plans draw both the boom and the yard with one side straight and the
+other curved, but do not specify which side should face up. In practice it
+usually does not matter: on a rolling boom the sail is hoisted, the halyard
+made off, and the reefing line then tightened, so the boom simply settles
+with whatever side (or corner) happens to be uppermost once tension is
+applied — there is no fixed top or bottom to get wrong.[234]
+
+Yard sag under load is a separate, longer-running concern from the
+furling-taper question addressed above. Photographic evidence of Paradoxes
+under sail shows a persistent tendency for the yard's peak end to bend
+downward under its own weight and the sail's weight, stretching the sail
+between throat and clew and distorting its shape — a tendency that can
+increase further from sheet load pulling on the boom's end when sailing to
+windward. Recutting the sail itself to compensate (removing a long,
+dart-shaped strip of cloth under the yard, tapering from about an inch wide
+at the leech to a smaller amount at the luff) was floated as one fix, but
+the simpler and more reversible approach is to work on the **yard's own
+curvature** instead — deliberately building in initial curvature (camber)
+to counteract the sag — since a yard that doesn't work as hoped can simply
+be swapped back for a standard one, whereas a sail that has already been
+recut cannot easily be restored.[235][236]
+
+Pressed directly on how to modify the yard itself, [Alastair](/people/alastair.md)
+had not himself noticed sag on his own yard (though without having looked for
+it specifically), but agreed **increasing the yard's depth** would be a
+straightforward way to stiffen it. A more targeted fix would be to first
+estimate how much the yard actually bends under load, then build a
+replacement yard with that same amount of bend deliberately pre-formed in
+the *opposite* direction, so that it straightens out once loaded in use.
+Whether this kind of distortion actually costs a sail of this type much in
+practice remains an open question on the record, with no measured
+performance answer given.[237]
+
+The boom axle itself is a recurring failure point during a first build: a
+second axle breakage on one boom, on top of an earlier one, left the boom
+with a curve in two planes rather than one — treated as cosmetic rather than
+structural, on the reasoning that once the boom is inside the sail's sleeve
+the curve may not show.[238][239] Fabricating the axle's own brass rod from
+scratch is itself a fiddly job — bending, brazing, and silver-soldering
+brass rod each carry their own pitfalls, and mild steel finished in a
+cold-galvanising paint is a simpler, cheaper alternative some builders
+prefer; see [boats/enuf.md](/boats/enuf.md#bending-the-boom-axles-brass-rod-and-a-cheaper-steel-alternative)
+for that fabrication story in full.
+
+Separately from the sag question, **why the plans draw the boom curved on
+one side at all**: the curve lets the sail's own draft come out of it as the
+sail is furled for reefing, so the reefed sail still sets with the correct
+shape rather than sagging or over-bellying at partial reef — a rationale
+confirmed by [Glen Maxwell](/people/glen-maxwell/build-and-zoe.md).[240] A
+builder who had already built his boom exactly to the plans, one side
+straight and the other curved, took this as reassurance to press on into
+cutting the frames and cleats next.[241]
 
 ## Mast chafe from the yard, and finishes that prevent it
 
@@ -727,6 +864,34 @@ set of boom dimensions** exists specifically for the Mark II sail, given that
 the plans state the boom's taper is critical to correct reefing and
 furling — unanswered on record.[154]
 
+## Wrapping a Mark II sail on the boom: tack position, balance, and taper
+
+No revised boom dimensions for the Mark II sail were ever published, leaving
+each builder to work out the wrap by trial. Rolling a Mark II sail around the
+boom, the luff resists sitting close to the furling drum and tends to climb
+up over it instead — a symptom of the sail sitting further back along the
+boom than an older Mark I sail does, once raised. Fitting the **topping
+lift** so the boom's aft end rides slightly raised counters this: it draws
+the sail's roll away from the drum rather than piling the luff on top of
+itself at the seam, which would otherwise build a thick roll there and leave
+more of the peak unrolled when stowed.[233]
+
+The sail's **tack need not sit exactly in line with the mast**, as it
+appears in reference photographs of two boats sailing an older Mark I sail;
+its position along the boom (and correspondingly the yard) can be slid
+fore-and-aft to set the rig's overall balance — moving the center of effort
+forward or back — and getting this right by feel took the better part of a
+first full sailing season.[232][233]
+
+On the boom's own **taper**, cutting it thinnest at the tack end is the
+right approach, contrary to any assumption that the plans' undimensioned
+Mark I taper no longer applies: too little taper there leaves the extra roll
+of stowed sail needing to be packed out with rigid foam around the boom's
+aft end instead. A loose triangular flap of leftover sail when the sail is
+fully rolled is normal and expected on a Mark II sail — not a sign of
+incorrect taper — and is simply tucked under the boom when a tidy stow is
+wanted.[233]
+
 ## Sail aspect ratio, and why a taller, narrower rig would not suit Paradox
 
 The single-sail, keel-less nature of the design rules out simply making the
@@ -781,6 +946,18 @@ the pipe **about 1½ in longer** than the minimum needed, to ensure the boom
 clears the top corner of the cabin as it swings up from its stowage position
 (cabin height varies enough between builds that a second, taller pipe is
 sometimes needed), then trim it down once clearance is confirmed.
+
+A prospective builder studying the plans separately worried the strop's
+brass tube might instead rest or bump on the deck and chew a divot into
+it.[244] **Alastair**'s answer: yes and no. A **flared pipe end** does far
+less damage than a cut, unflared one, and a small pad of glass/epoxy laid
+around the deck fitting helps further reduce wear — but the paint there is
+going to get scratched regardless. For a builder who wants the problem
+solved outright, a **bronze or stainless-steel disc bonded around the deck
+hole** is the fix.[245] David Beard independently confirms the same
+non-problem on ["Whisper"](/boats/whisper.md): her tack strop's deck pipe
+is cut a little short and never touches the deck once the sail is
+hoisted.[246]
 
 Rig-detail follow-ups, including a continuous halyard/furling-line
 refinement, are covered in full in
@@ -922,6 +1099,28 @@ on the halyard with his foot, leaving both hands free to furl — a method
 that works well once a builder's feet learn to "behave like hands." The
 technique matters more without a tail on the furling line to grip
 independently.[228]
+
+## Why Matt Layden's foot-drag furling method needs no extra hardware
+
+A winch-style **"dead drum"** — a fixed, non-turning drum built into the
+vent-trunk cleats to add drag on the slack line while hoisting or
+furling, mirroring how a conventional sailboat winch lets a line slip over
+a stationary drum to ease it off — was proposed as a labor-saving addition
+to the stock foot-drag technique above. The idea does not solve a real
+problem: Matt Layden needs high tension on **both** lines simultaneously,
+since he fits no topping lift, and any dead-drum device would still need a
+foot, not just a cam cleat, to hold the *other* line's two-handed load —
+the existing foot-drag method already gets sufficient drag by bending the
+line over the lip where it exits the vent trunk. More generally, a
+first-time builder is better served building strictly to the stock plans
+before modifying anything: nearly all "improvements" conceived before a
+boat is finished turn out, in hindsight, to stem from a builder's own
+incomplete understanding of how the stock system actually works, whereas
+modifications are easy to make later once the boat is sailing. Of one
+long-time builder's own changes, only two — a window let into the hatch,
+and splitting the underfloor locker lids so they can be opened with the
+seat still down — have proven worth keeping, beyond fitting a topping
+lift.[257][258]
 
 ## Masthead reference photographs
 
@@ -1434,22 +1633,22 @@ figure against their own plan set before cutting.[184]
 [36] Archive message page_852 (dlb / David Beard, `paradoxbuilders`, msgnum 867, 2003-03-09) — "Re: Everglades Challenge": offers to send his own sail to Dabbler alongside Glen's for a re-cut; Dabbler is competitive on price but has about a 3-month backlog.
 [37] Archive message page_854 (dlb / David Beard, `paradoxbuilders`, msgnum 869, 2003-03-09) — "Re: Sails": "Glen, Did you happen to notice how Matt reefed his sail?"
 [38] Archive message page_855 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 870, 2003-03-10) — "Re: Sails": both agreed Glen's sail shape was terrible; if there's a 3-month wait at Dabbler he might sew it himself as Matt suggested — "if we can build the boat we can build the sail"; also considering experimenting with the cut using poly tarp.
-[39] Archive message page_904 (kd7ixk / "DC", `paradoxbuilders`, msgnum 919, 2003-04-22) — "Newbie...": asks Glen to share his recent revelations about his sail's need for improvement — too full, too flat? What was Matt's recommendation?
+[39] Archive message page_904 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 919, 2003-04-22) — "Newbie...": asks Glen to share his recent revelations about his sail's need for improvement — too full, too flat? What was Matt's recommendation?
 [40] Archive message page_905 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 920, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": his sail was cut too flat; sailing with Matt at Ft. Desoto before the Everglades Challenge start, was surprised at the fullness of Matt's own sail, and Matt thought it could still use a little more draft; the two boats were well matched reaching and running to St. Pete, but the return beat saw Matt "put a butt kicking on me to windward"; Matt also noticed Glen's yard was bowing slightly, needing a crescent shape at the top (~2½ in tall, max height at the halyard attach point); Matt makes his own sails and fiddles with them by cutting and re-cutting; suggested Glen do the same, who will probably take his advice and start learning to make his own sails.
-[41] Archive message page_906 (kd7ixk / "DC", `paradoxbuilders`, msgnum 921, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": his own prior sprit sail (built to the designer's scantlings in perfect Sitka Spruce) developed a horrible wrinkle from head to clew under load — practical use "belied poor design"; suggests Glen either reinforce the bowing yard with Kevlar/epoxy strands on the tension (upper) surface, or simply cut a new sail to fit the yard's existing bowed shape; "the best accessory for my sewing machine [is] several, sharp seam rippers... if you can't tie knots, tie lots."
-[42] Archive message page_921 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 936, 2003-04-25) — "Re: Sails,": hadn't thought about stiffening the yard; has carbon fiber tow on hand and might laminate some to the top of the spar as DC suggested; on tell-tale placement, finds the leech the best spot, and flies his ensign from there for the same reason — when air leaves the leech smoothly the sail is powered up just right; the topic draws a lot of differing opinions.
-[43] Archive message page_926 (kd7ixk / "DC", `paradoxbuilders`, msgnum 941, 2003-04-25) — "Re: Sails,": "Of course! I feel quite the fool for having neglected to mention leach telltails." Recommends placing them in numerous locations on the leech; cassette tape works well as tell-tale material, particularly in light ("breathy") conditions.
-[44] Archive message page_938 (kd7ixk / "DC", `paradoxbuilders`, msgnum 953, 2003-05-04) — "rig details": his Paradox plans have finally arrived; will seriously consider Glen's topping lift; asks whether the brass pipe spacer around the tack strop will damage the deck over time, and floats a speculative UHMW "donut"/ball-and-socket fix.
+[41] Archive message page_906 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 921, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": his own prior sprit sail (built to the designer's scantlings in perfect Sitka Spruce) developed a horrible wrinkle from head to clew under load — practical use "belied poor design"; suggests Glen either reinforce the bowing yard with Kevlar/epoxy strands on the tension (upper) surface, or simply cut a new sail to fit the yard's existing bowed shape; "the best accessory for my sewing machine [is] several, sharp seam rippers... if you can't tie knots, tie lots."
+[42] Archive message page_921 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 936, 2003-04-25) — "Re: Sails,": hadn't thought about stiffening the yard; has carbon fiber tow on hand and might laminate some to the top of the spar as Smith suggested; on tell-tale placement, finds the leech the best spot, and flies his ensign from there for the same reason — when air leaves the leech smoothly the sail is powered up just right; the topic draws a lot of differing opinions.
+[43] Archive message page_926 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 941, 2003-04-25) — "Re: Sails,": "Of course! I feel quite the fool for having neglected to mention leach telltails." Recommends placing them in numerous locations on the leech; cassette tape works well as tell-tale material, particularly in light ("breathy") conditions.
+[44] Archive message page_938 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 953, 2003-05-04) — "rig details": his Paradox plans have finally arrived; will seriously consider Glen's topping lift; asks whether the brass pipe spacer around the tack strop will damage the deck over time, and floats a speculative UHMW "donut"/ball-and-socket fix.
 [45] Archive message page_939 (openboat / Alastair, `paradoxbuilders`, msgnum 954, 2003-05-04) — "Re: rig details": his own swaged copper-pipe tack fairlead, strut end swaged into "half a donut," has caused no deck damage; the halyard/wind normally hold the strut clear of the deck during sailing; is heading out for a two-day trip onto "the high seas (but not very far)."
 [46] Archive message page_940 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 955, 2003-05-04) — "Re: rig details": his own tack pipe rides in a flared copper deck fairlead, no deck damage seen; recommends cutting the pipe about 1½ in long, trimming once cabin clearance is confirmed (he needed a second, taller one for his own higher cabin); talked to Matt at the Cedar Key Messabout that weekend — Matt's trick is foot pressure on the furling line while hoisting and on the halyard while furling, freeing both hands; "I have seen him furl his sail and he really makes it look easy, worth a try."
 [47] Archive message page_945 (karen.matt / "mattlayden" / Matt Layden, `paradoxbuilders`, msgnum 960, 2003-05-08) — "New Paradox Sail": his first post to the list; made a new sail for the original Paradox in February 2003, shortened foot and raised peak for a higher-aspect, more weatherly cut, at some cost to furling neatness; still endorses the original plans sail if well cut; gives full dimensions and technique (see construction/sailmaking.md).
 [48] Archive message page_949 (boldav38 / Dave Bolduc, `paradoxbuilders`, msgnum 963, 2003-05-09) — "West Coast Trailer Sailers": having recently sailed the original Paradox himself, confirms "this new sail sets very nicely."
 [49] Archive message page_1099 (ifida / Glen Maxwell, cross-posted `microcruising`/`paradoxbuilders`, msgnum 1116, 2003-08-02) — "New Sail": received his new Dabbler Mark II sail and tried it out sailing off Keaton Beach on the Gulf coast, photos uploaded to the group's Zoë photo folder; beautifully made, fits perfectly, and allows about 6 in to be trimmed off the boom end per Matt Layden's original intent; "no comparison" in performance — a lot more draft, powers up quickly, no longer any difference in performance tack to tack (a problem with the old sail), trims in tighter without stalling, points higher; highly recommends Dabbler for a quality lug/spritsail/Gunter-rig sail despite being "a little pricey"; wishes he had gone with Dabbler from the start and saved $400.
 [50] Archive message page_1101 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 1118, 2003-08-03) — "Re: New Sail": "The new sail looks great Glen! What weight is the cloth and did Dabbler follow Matt's instructions?"
-[51] Archive message page_1103 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1120, 2003-08-03) — "Re: New Sail": agrees the new sail looks wonderful, noting more broadseams than Matt specified; also asks the cloth weight and whether Glen has leech tell-tales; reports trying to work up the resolve to build his own sail, having to order "The Sailmaker's Apprentice" from Amazon after finding no copy locally; seeing Glen's fine new example "has me hesitating."
-[52] Archive message page_1104 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1121, 2003-08-03) — "Re: New Sail": the sail is 5 oz cloth, made to Matt Layden's specifications by Dabbler's Stuart, who studied Matt's own sail-dimensions post and built in as much draft as he judged the sail could hold and still furl for reefing; confirms the leech tell-tales work well despite Glen's initial doubt; Stuart's Wicomico Church, VA loft has built every sail for a competitive 17-boat Nutshell pram fleet; advises DC to measure the yard's bend carefully to get the head's shape right, recounting how Matt spotted his old sail needed about 2 in more camber at the top by eye, a figure Glen then confirmed exactly by hanging a 50 lb weight at the yard's center; describes the string-and-batten measurement technique; offers his superseded original sail for sale at $250 (paid $550 originally).
-[53] Archive message page_1112 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1129, 2003-08-14) — "braided carbon sleeves": proposes birdmouth-built spars (Sitka spruce or a less-brittle-than-Western-Red cedar) as a permanent mandrel for a braided carbon-fiber sleeve, matching Matt Layden's original composite-rig intent; slide the dry sleeve on, work it tight along the spar's length (like a Chinese finger cuff), then wet out with epoxy, hoping to avoid vacuum bagging; found an orthopedic-supply source for braided carbon sleeve but would prefer an aerospace/aircraft-industry source for better-characterized strength and epoxy compatibility; asks if anyone knows of one.
-[54] Archive message page_1131 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1148, 2003-08-18) — "Re: braided carbon sleeves": "I found a cool website specializing in braided composites... Lots of possibilities" — points to `braider.com`, A&P Technology, Inc.
+[51] Archive message page_1103 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1120, 2003-08-03) — "Re: New Sail": agrees the new sail looks wonderful, noting more broadseams than Matt specified; also asks the cloth weight and whether Glen has leech tell-tales; reports trying to work up the resolve to build his own sail, having to order "The Sailmaker's Apprentice" from Amazon after finding no copy locally; seeing Glen's fine new example "has me hesitating."
+[52] Archive message page_1104 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1121, 2003-08-03) — "Re: New Sail": the sail is 5 oz cloth, made to Matt Layden's specifications by Dabbler's Stuart, who studied Matt's own sail-dimensions post and built in as much draft as he judged the sail could hold and still furl for reefing; confirms the leech tell-tales work well despite Glen's initial doubt; Stuart's Wicomico Church, VA loft has built every sail for a competitive 17-boat Nutshell pram fleet; advises Smith to measure the yard's bend carefully to get the head's shape right, recounting how Matt spotted his old sail needed about 2 in more camber at the top by eye, a figure Glen then confirmed exactly by hanging a 50 lb weight at the yard's center; describes the string-and-batten measurement technique; offers his superseded original sail for sale at $250 (paid $550 originally).
+[53] Archive message page_1112 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1129, 2003-08-14) — "braided carbon sleeves": proposes birdmouth-built spars (Sitka spruce or a less-brittle-than-Western-Red cedar) as a permanent mandrel for a braided carbon-fiber sleeve, matching Matt Layden's original composite-rig intent; slide the dry sleeve on, work it tight along the spar's length (like a Chinese finger cuff), then wet out with epoxy, hoping to avoid vacuum bagging; found an orthopedic-supply source for braided carbon sleeve but would prefer an aerospace/aircraft-industry source for better-characterized strength and epoxy compatibility; asks if anyone knows of one.
+[54] Archive message page_1131 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1148, 2003-08-18) — "Re: braided carbon sleeves": "I found a cool website specializing in braided composites... Lots of possibilities" — points to `braider.com`, A&P Technology, Inc.
 [55] Archive message page_1194 (bharbo / Bjorn Harbo, `paradoxbuilders`, msgnum 1211, 2003-09-18) — "Mast Head": asks if anyone has a close-up photograph of the mast head.
 [56] Archive message page_1195 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1212, 2003-09-18) — "Re: Mast Head": "I'll take one and post it this morning Bjorn."
 [57] Archive message page_1196 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1213, 2003-09-18) — "Re: Mast Head": points instead to existing close-up masthead images already posted in the files section under "Topping Lift."
@@ -1473,16 +1672,16 @@ figure against their own plan set before cutting.[184]
 [75] Archive message page_1702 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1724, 2004-01-01) — "Re: Mast": a short (five-foot) practice sample shows how easily a birdsmouth spar builds itself once cut; floats writing an illustrated tutorial, using a small object (a walking stick) to teach the taper jig in particular, if there is interest.
 [76] Archive message page_1703 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1725, 2004-01-01) — "Re: Mast": "Tutorials on construction are always worth while. I'd be glad to see you do this."
 [77] Archive message page_1704 (arvent / "Nels", `paradoxbuilders`, msgnum 1726, 2004-01-01) — "Re: Mast": points to two existing birdsmouth tutorials (`users2.ev1.net/~fshagan/bm.htm` and `duckworksmagazine.com/r/articles/birdsmouth/mast.htm`), and recalls a WoodenBoat Magazine article on the subject, possibly the Fall '99 issue, plus a possible Boatbuilder magazine article; offers to try to locate both.
-[78] Archive message page_1705 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1727, 2004-01-01) — "Re: Mast": revisits his birdmouth-spruce-mandrel/braided-carbon-sleeve composite mast idea from msgnum 1129 (see [a birdmouth carbon-fiber composite spar](#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig)); judges the weight difference against the plans' spec mast negligible, the extra weight aloft even beneficial for motion comfort, and the real payoff experience and "bragging rights"; links a braided-carbon-sleeve supplier (4corthopedic.com).
+[78] Archive message page_1705 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1727, 2004-01-01) — "Re: Mast": revisits his birdmouth-spruce-mandrel/braided-carbon-sleeve composite mast idea from msgnum 1129 (see [a birdmouth carbon-fiber composite spar](#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig)); judges the weight difference against the plans' spec mast negligible, the extra weight aloft even beneficial for motion comfort, and the real payoff experience and "bragging rights"; links a braided-carbon-sleeve supplier (4corthopedic.com).
 [79] Archive message page_1706 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1728, 2004-01-01) — "Re: Mast": "Thanks Nels. Very informative."
 [80] Archive message page_1707 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1729, 2004-01-01) — "Re: anchor lockers and Anchoring": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#port-side-clutter-the-fairlead-and-a-first-sea-anchor-report).
 [81] Archive message page_1708 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1730, 2004-01-01) — "Re: Mast": judges the two tutorial links Nels found too thin on detail and worked examples for someone new to tapering.
-[82] Archive message page_1709 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1731, 2004-01-01) — "Re: Mast": estimates DC's proposed composite spar would come out at roughly half the weight and triple the strength of the plans' mast; "I love the braided fabric idea and can't wait to try some."
+[82] Archive message page_1709 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1731, 2004-01-01) — "Re: Mast": estimates Smith's proposed composite spar would come out at roughly half the weight and triple the strength of the plans' mast; "I love the braided fabric idea and can't wait to try some."
 [83] Archive message page_1710 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 1732, 2004-01-01) — "Re: Mast": names the WoodenBoat article Nels recalled — issue 149 (July/August 1999), p. 31, "Bird's Mouth Hollow Spars" by Aime Ontario Fraser, covering the technique of Craig Wright and Richard Duke of Mountain Marine; built a 6 ft test section himself from it and found it very easy to follow despite "really poor woodworking skills," after taking an introductory bandsaw class from Fraser through a local woodworkers club.
-[84] Archive message page_1712 (reike2 / "Ron Eike", `paradoxbuilders`, msgnum 1734, 2004-01-01) — "Re: Mast": replying to DC's composite-mast idea (quoted in full), describes a similar gaff he once saw built over a tapered PVC-pipe mandrel (tapered by cutting and cementing gores), sheathed first in fiberglass and sanded, then two layers of tubular carbon fiber wet out together in one step, consolidated with plastic tape rather than squeegees; the PVC core contributed negligible strength in that build, but a spruce core (as DC proposed) should contribute plenty.
+[84] Archive message page_1712 (reike2 / "Ron Eike", `paradoxbuilders`, msgnum 1734, 2004-01-01) — "Re: Mast": replying to Smith's composite-mast idea (quoted in full), describes a similar gaff he once saw built over a tapered PVC-pipe mandrel (tapered by cutting and cementing gores), sheathed first in fiberglass and sanded, then two layers of tubular carbon fiber wet out together in one step, consolidated with plastic tape rather than squeegees; the PVC core contributed negligible strength in that build, but a spruce core (as Smith proposed) should contribute plenty.
 [85] Archive message page_1714 (topsail / "topsail", `paradoxbuilders`, msgnum 1736, 2004-01-02) — "Wooden spars": asks whether Douglas fir is the only viable alternative if aircraft-grade Sitka spruce is unavailable or cost-prohibitive.
-[86] Archive message page_1715 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1737, 2004-01-02) — "Re: Wooden spars": if building to the design specs, Douglas fir is the strongest choice; Sitka spruce, Honduras mahogany, and Alaskan yellow cedar are also usable with some loss of strength, and more choices may be available depending on the builder's location; Sitka spruce and Douglas fir should show similar long, tight, minimal-runout grain; Honduras mahogany should be bought planed, since it tends to wilder grain; Alaskan yellow cedar need only be straight and clear; judges Sitka spruce hard to beat for workability, though cedar "smells sooooo good"; building by the birdmouth method with a carbon-fiber sleeve would let any of these woods retain a great deal of strength; looking forward to Glen's ideas on tapering the individual birdmouth staves.
-[87] Archive message page_1720 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1742, 2004-01-02) — "Re: Wooden spars": quotes DC's mention of the "birdmouth method" and asks, "sorry, but... ???"
+[86] Archive message page_1715 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1737, 2004-01-02) — "Re: Wooden spars": if building to the design specs, Douglas fir is the strongest choice; Sitka spruce, Honduras mahogany, and Alaskan yellow cedar are also usable with some loss of strength, and more choices may be available depending on the builder's location; Sitka spruce and Douglas fir should show similar long, tight, minimal-runout grain; Honduras mahogany should be bought planed, since it tends to wilder grain; Alaskan yellow cedar need only be straight and clear; judges Sitka spruce hard to beat for workability, though cedar "smells sooooo good"; building by the birdmouth method with a carbon-fiber sleeve would let any of these woods retain a great deal of strength; looking forward to Glen's ideas on tapering the individual birdmouth staves.
+[87] Archive message page_1720 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1742, 2004-01-02) — "Re: Wooden spars": quotes Smith's mention of the "birdmouth method" and asks, "sorry, but... ???"
 [88] Archive message page_1722 (whisper / "David LeBlanc", `paradoxbuilders`, msgnum 1744, 2004-01-02) — "Re: Wooden spars": answers Kjell Karlsson's question — a birdmouth spar is named for the open "V" cut along one edge of each stave, resembling an open bird's mouth, with the opposite edge cut to the complementary shape so the staves dovetail together; points to `duckworksmagazine.com/articles/birdsmouth` and a fuller illustrated discussion at `users2.ev1.net/~fshagan/bm.htm`.
 [89] Archive message page_1736 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1758, 2004-01-02) — "Re: Mast": "Great info guys, I think im going to go for the birdsmouth, looks fun challenging and not too expensive if you goof it up."
 [90] Archive message page_1750 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1772, 2004-01-03) — "Main Sheet": "With Paradox There is a problem with the main sheet fouling on the rudder and rear cleats, This problem is compounded with an outboard. I am thinking about adding an arch (sch 40 Brass) to clear all obsicals on the rear deck. Any opinions?" Signed "David."
@@ -1515,10 +1714,10 @@ figure against their own plan set before cutting.[184]
 [117] Archive message page_1808 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1831, 2004-01-10) — "Re: mast": "Probably." Signed "Bill Longyard."
 [118] Archive message page_1809 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 1832, 2004-01-10) — "Re: mast": asks what makes it only a "probably" rather than a firm yes or no. Signed "Cheers.....Derek."
 [119] Archive message page_1810 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1833, 2004-01-10) — "Re: mast": an aluminum mast of roughly equivalent diameter to the plans' wooden mast will do the same job, provided the extrusion's minor-axis width matches the plans' mast width; check the mast's full length for signs of prior weakness (circumferential holes, a straightened former bend); prefers aluminum for being lighter, more reliable, needing no maintenance, and easy to fit hardware to via pop-rivet; recommends tying off any mast wire into "Y" shapes with cable ties roughly every foot to stop it "pinging" against the mast at night. Signed "Bill Longyard."
-[120] Archive message page_1812 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1835, 2004-01-11) — "Re: mast": aluminum and wood masts of comparable diameter do not possess comparable strength, "patently absurd" to assume otherwise, especially on an unstayed spar with no yard parrel; recommends either running the numbers from a yacht-design text's spar formulas to find the equivalent aluminum diameter/wall thickness, or buying new material sized correctly, rather than trusting luck with a secondhand mast; warns against watching "a wet noodle go out of column, and subsequently buckle to the deck" under a heavy reef. Signed "DC."
+[120] Archive message page_1812 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1835, 2004-01-11) — "Re: mast": aluminum and wood masts of comparable diameter do not possess comparable strength, "patently absurd" to assume otherwise, especially on an unstayed spar with no yard parrel; recommends either running the numbers from a yacht-design text's spar formulas to find the equivalent aluminum diameter/wall thickness, or buying new material sized correctly, rather than trusting luck with a secondhand mast; warns against watching "a wet noodle go out of column, and subsequently buckle to the deck" under a heavy reef. Signed "Smith."
 [121] Archive message page_1813 (openboat / "Alastair", `paradoxbuilders`, msgnum 1836, 2004-01-11) — "Re: mast": converting a hull already finished around an unsatisfactory aluminum mast to a different mast would likely be harder than simply building the wooden mast correctly in the first place; was "agreeably surprised" how easy his own wooden mast was to build. Signed "Al, Yeovil, England."
-[122] Archive message page_1814 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1837, 2004-01-11) — "Re: mast": thanks Alastair and DC for the input; asks whether Matt Layden's own mast design was arrived at by engineering calculation or was more a question of what materials he had on hand — unanswered in the archive. Signed "Derek."
-[123] Archive message page_1818 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1841, 2004-01-11) — "Re: mast": "Spare masts," clarifying his earlier "how many spares will you have?" aside was about carrying spare masts, not spare parts, in reply to Derek Clark's "Spares of what?" Signed "DC."
+[122] Archive message page_1814 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1837, 2004-01-11) — "Re: mast": thanks Alastair and Smith for the input; asks whether Matt Layden's own mast design was arrived at by engineering calculation or was more a question of what materials he had on hand — unanswered in the archive. Signed "Derek."
+[123] Archive message page_1818 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1841, 2004-01-11) — "Re: mast": "Spare masts," clarifying his earlier "how many spares will you have?" aside was about carrying spare masts, not spare parts, in reply to Derek Clark's "Spares of what?" Signed "Smith."
 [124] Archive message page_1995 (alex29 / "Jack" / Jack Gardiner, `paradoxbuilders`, msgnum 2018, 2004-03-27) — "paradox sails": starting to sew his own sail on a Sailrite LS-1 machine, 4.5 oz Dacron, no zigzag; asks Glen Maxwell for guidance on the yard and boom sleeve dimensions and whether they taper; confirms he is building Matt Layden's new (taller) sail plan.
 [125] Archive message page_1996 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 2019, 2004-03-27) — "Re: paradox sails": full text and citation above; recounts his own $500 lesson from a St. Augustine sailmaker who did not account for yard bend, before Dabbler cut the corrected sail; recommends Sailrite's published sailmaking manuals.
 [126] Archive message page_1997 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 2020, 2004-03-28) — "Re: paradox sails": "I have the sailmakers apprentice, and this clears up the mystery," quoting Glen's advice in full.
@@ -1526,7 +1725,7 @@ figure against their own plan set before cutting.[184]
 [128] Archive message page_2025 (system notification, `paradoxbuilders`, msgnum 2048, 2004-04-18) — "New file uploaded to paradoxbuilders": confirms `/New Sail Plan/sail 001c4r2.jpg` ("Leach detail") uploaded by boldav38/Dave Bolduc.
 [129] Archive message page_2030 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2054, 2004-05-03) — "Line fouling": full text and citation at [boats/whisper.md](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove).
 [130] Archive message page_2036 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2060, 2004-05-04) — "sheet entry": recalls a short discussion, months earlier, about Matt changing the sheet's entry through a new hole in the transom; before drilling any holes of his own, asks whether the eye-bolt has moved toward the center, whether the entry point visible in the group's files photo is the old or new one, and whether the boom still carries a block at all or just a single line through the (presumed) new hole.
-[131] Archive message page_2037 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2061, 2004-05-04) — "Re: sheet entry": the group's photos show the prototype's single-part sheet fastened to the boom and led through the transom; the plans instead show an improved two-part purchase. Plans to fit wooden chocks under his own cleat horns, tethered with bungee cord, and thinks a dome-shaped fitting over the yuloh point could help prevent fouling, as would a bungee from the rudderhead to the deck. Links a small photo of cleat chocks (worldpanel.com).
+[131] Archive message page_2037 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2061, 2004-05-04) — "Re: sheet entry": the group's photos show the prototype's single-part sheet fastened to the boom and led through the transom; the plans instead show an improved two-part purchase. Plans to fit wooden chocks under his own cleat horns, tethered with bungee cord, and thinks a dome-shaped fitting over the yuloh point could help prevent fouling, as would a bungee from the rudderhead to the deck. Links a small photo of cleat chocks (worldpanel.com).
 [132] Archive message page_2039 (openboat / "Alastair", `paradoxbuilders`, msgnum 2063, 2004-05-04) — "Re: sheet entry": the original Paradox has a single-part sheet; Matt changed it to a two-part purchase on the plans for the mechanical advantage ("a good thing too, I wouldn't like to have to haul it in without that"); sheet 1 shows the sheet's fixed end at an eye on the port side of the transom, the other end through a hole, off-centre because the mast is off-centre. "It works for me."
 [133] Archive message page_2124 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2149, 2004-06-15) — "Yard and Boom": in his quest to understand what makes Paradox tick, asks what effect the shape of the yard and boom has on her ability to point. Signed "David (Whisper)."
 [134] Archive message page_2125 (openboat / "Alastair", `paradoxbuilders`, msgnum 2150, 2004-06-16) — "Re: Yard and Boom": full text and citation above (yard shaped for light weight with sufficient strength, flat edge uppermost; boom shape mainly affects correct furling — his own sail failed to furl properly when he hadn't paid enough attention to the boom's dimensions). Signed "Al, Yeovil, England."
@@ -1541,7 +1740,7 @@ figure against their own plan set before cutting.[184]
 [143] Archive message page_2163 (openboat / "Alastair", `paradoxbuilders`, msgnum 2188, 2004-07-22) — "Re: Small Jib ???????": stuck in irons repeatedly one weekend sailing the Salcombe estuary, recoverable only with the yuloh; thinks a small jib would be useful to push the bow around; the symptom recurred several times that weekend but she came about normally on one occasion by gybing instead; a cause is likely being trimmed down by the stern relative to the drawn waterline. Signed "Al, Yeovil, England."
 [144] Archive message page_2167 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2193, 2004-07-29) — "Sail Draft": asks how much draft a properly cut Paradox lug sail should have, and whether anyone has measured it. Signed "David."
 [145] Archive message page_2168 (LJGeib / "lorenzojose2000" / Larry, `paradoxbuilders`, msgnum 2194, 2004-07-29) — "Re: Sail Draft": recalls Matt Layden's own description of the sail as cut flat. Signed "Larry."
-[146] Archive message page_2169 (kd7ixk / "betelgeuserdude" / DC, `paradoxbuilders`, msgnum 2195, 2004-07-30) — "Re: Sail Draft": suggests checking the archives — a heavier vessel needs more, not less, draft; points to Glen Maxwell's writeup on his new sail and Matt Layden's "new sail" post in the Files section. Signed "DC."
+[146] Archive message page_2169 (kd7ixk / "betelgeuserdude" / David C. Smith, `paradoxbuilders`, msgnum 2195, 2004-07-30) — "Re: Sail Draft": suggests checking the archives — a heavier vessel needs more, not less, draft; points to Glen Maxwell's writeup on his new sail and Matt Layden's "new sail" post in the Files section. Signed "Smith."
 [147] Archive message page_2171 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 2197, 2004-08-01) — "Re: Sail Draft": lots and lots of draft in Matt's own sail, who is thinking of adding even more; refers builders to Matt's write-up in the Files section for good info. Signed "Glen."
 [148] Archive message page_2172 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2198, 2004-08-01) — "Re: Sail Draft": welcomes Glen back to the list. Signed "David."
 [149] Archive message page_2174 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 2200, 2004-08-02) — "Re: Sail Draft": "Thanks, David" — brief reply to the welcome-back above.
@@ -1628,3 +1827,30 @@ figure against their own plan set before cutting.[184]
 [229] Archive message page_3191 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 3222, 2005-10-20) — "new pics": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly); asks whether anyone has tried changing the boom's taper to remove the reefing triangle.
 [230] Archive message page_3192 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3223, 2005-10-20) — "Re: new pics": full text and citation at [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease); judges reshaping the boom taper unwise since it changes the sail's geometry and risks it no longer reefing/furling correctly; fixed his own crease with a luff rope sewn into the sail's leading edge instead. Signed "Jack."
 [231] Archive message page_3193 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3224, 2005-10-20) — "Re: new pics": asks whether Kjell's sail is the old or new design; on the old design, fed a length of rigid foam in from the boom's end, which helps a little — a thick seam otherwise rolls up neatly at the mast into a thicker roll each turn, while raising the boom's end lets the sail roll back along it into a thinner roll and a smaller triangle; alternatively, "stuff the extra material behind the storage hoop and make a cup of coffee." Signed "Al, Yeovil, England."
+[232] Archive message page_3385 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3416, 2006-03-09) — "Mk 2 sail": tried wrapping his Mark II sail on the boom; the luff won't sit close to the drum and climbs up over it as the sail rolls up, unlike an older Mark I sail shown in a comparison photo, where the luff sits farther back on the boom once raised; asks whether the tack should sit in line with the mast for a lug rig, and whether removing timber to taper the (as-yet-untapered) boom would leave a bigger leftover flap of sail once fully rolled. Signed "Derek and Enuf."
+[233] Archive message page_3387 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3418, 2006-03-09) — "Re: Mk 2 sail": set up his own topping lift to raise the boom's aft end slightly, drawing the sail's roll away from the drum rather than letting the luff roll on top of itself and build a thick roll at the seam; the sail's position along the boom (and the yard) can be slid to set the rig's balance by moving the center of effort fore-and-aft — took him well into his second season to get it right; the boom should be tapered thinnest at the tack end, having under-tapered his own and had to pack rigid foam around the aft end instead; a loose triangular flap of leftover sail once fully rolled is normal, simply tucked under the boom for a tidy stow. Signed "Al, Yeovil, England."
+[234] Archive message page_3436 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3436, 2006-03-13) — "Re: Paradox sail and spars": on "Little Jim," the boom has no fixed top or bottom; once the sail is hoisted and the halyard made off, tightening the reefing line settles the boom with whichever side or corner ends up uppermost. Signed "Al, Yeovil, England."
+[235] Archive messages page_3403/page_3406/page_3409 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3434, 2006-03-13, "Paradox sail and spars"; msgnum 3437, 2006-03-13, "Re: Paradox sail and spars"; msgnum 3440, 2006-03-14, "Re: Paradox sail and spars") — shaping and sanding his boom (naming his boat "Faith" for the first time), notices drawing #1 shows the boom and yard's upper sides straight and lower sides curved, and asks which side should face up, whether anything can prevent the yard from bending under the weight of the sail (worsened by wind load on the boom's end while sailing to windward), and whether Glen Maxwell's suggested fix — recutting a dart-shaped strip of cloth from under the yard, tapering from about an inch at the leech to less at the luff — is the best solution, or whether the sag would persist regardless of which side of his (as-built, plan-following) curved boom faces up; follows up asking directly how the yard itself should be modified to minimize or eliminate the sag. Signed "Bill."
+[236] Archive messages page_3405/page_3407 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3436, 2006-03-13, "Re: Paradox sail and spars"; msgnum 3438, 2006-03-13, "Re: Paradox sail and spars") — suggests working on the yard's own curvature (building in initial camber) rather than having the sail recut, since a yard can simply be swapped back to standard if the experiment fails, whereas a recut sail is hard to restore. Signed "Al, Yeovil, England."
+[237] Archive message page_3439 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3470, 2006-03-20) — "Re: Paradox sail and spars": had not himself noticed sag on his own yard, not having specifically looked; agrees increasing the yard's depth would make it easy to stiffen; if the amount of bend under load could be estimated, a replacement yard could be built with that much bend pre-formed in the opposite direction so it comes out straight in use; asks (in "ignorance mode") whether this kind of distortion makes much difference to a sail of this type — left unanswered on the record. Signed "Al, Yeovil, England."
+[238] Archive message page_3442 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3473, 2006-03-20) — "Re: Paradox sail and spars": reports a second boom-axle breakage ("calamity number two," part of learning); the boom has as a result adopted a curve in two planes, which he has decided to ignore since it may not show once inside the sail's sleeve. Signed "Derek."
+[239] Archive message page_3443 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3474, 2006-03-20) — "Re: Paradox sail and spars": asks, in jest, whether Derek's newly two-plane-curved boom is in fact an advanced aerodynamic shape designed to take advantage of vortex shedding off the mast. Signed "Al, Yeovil, England."
+[240] Archive message page_3463 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3494, 2006-03-24) — "Re: Paradox sail and spars": answers Bill Serjeant's boom-curvature question directly — the boom is curved so that as the sail is furled for reefing, the draft is removed and the sail sets correctly. Signed "Glen."
+[241] Archive message page_3465 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3496, 2006-03-24) — "Re: Paradox sail and spars": thanks Glen for the assurance; reports good progress on the ancillary parts and having made the stempost that day, with the frames and cleats next. Signed "Bill."
+[242] Archive message page_3649 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3680, 2006-05-26) — "Re: Deck Chewing": thanks Alastair for the disc/washer idea; separately asks about the mainsheet being presented to the helmsman at his back, having visualized leading it forward a few feet along the starboard side near the tiller rope, then round a block and aft again to a cleat or cam cleat, and whether the plans' arrangement is annoying in practice. Signed "Steve Yahn."
+[243] Archive message page_3650 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3681, 2006-05-26) — "Re: Deck Chewing": no, it is easy and natural to operate — pull in the sheet by thrusting forward with the arm while bracing the back against bulkhead 4, with the slack falling into a bin behind bulkhead 4 where it cannot tangle round the feet; unlike a dinghy, the sheet is not played continuously, but set, locked off, and left alone until the wind or course changes — "Boring really, take a good book." Signed "Al, Yeovil, England."
+[244] Archive message page_3642 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3673, 2006-05-26) — "Deck Chewing": asks whether the brass tube/pipe called the tack strope, shown on plans page 9, might rest or bump on the deck surface and chew a divot into it. Signed "Steve Yahn."
+[245] Archive message page_3644 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3675, 2006-05-26) — "Re: Deck Chewing": yes and no — flaring the bottom of the pipe does much less damage than a cut end, and a small pad of glass/epoxy around the deck fitting also helps, but the paint there will get scratched regardless; a bronze or stainless disc bonded around the deck hole would solve the problem for a builder who wants it solved outright. Signed "Al, Yeovil, England."
+[246] Archive message page_3653 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3685, 2006-05-27) — "Re: Deck Chewing": has not had a deck-chewing problem on "Whisper" — the deck strop is a little short and does not touch the deck with the sail up. Signed "David Beard."
+[247] Archive message page_3651 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3683, 2006-05-26) — "Re: Deck Chewing": thanks Al; asks what specifically brings him trouble on the nights he hopes will be calm, having noticed the phrase in his signature every time. Signed "Stephen Yahn."
+[248] Archive message page_3652 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3684, 2006-05-27) — "Re: Deck Chewing": values a good night's sleep, which he usually gets aboard his Paradox, but finds it difficult to sleep on a lumpy sea. Signed "Al, Yeovil, England."
+[249] Archive message page_3656 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3688, 2006-05-27) — "Re: Deck Chewing": wonders whether a four-foot-wide hull might roll a bit quickly; describes setting two anchors, fore and aft, on his own boat at anchorages to keep the bow into the worst of the swells or boat wakes; his current boat, a Picaroon, is not trailer-friendly, while a Paradox would let him travel far and wide on a small trailer. Signed "Steve."
+[250] Archive message page_3769 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3801, 2006-07-20) — "Re: Plywood Choices": responding to a correspondent's question about using his own stand of larch (tamarack) for masts and booms, suggests testing measured pieces against a known mast wood such as clear Douglas fir or Sitka spruce, using a fishing scale as a "poor man's tensometer" to record breaking load, bend, and twist behavior, and how the wood takes epoxy; suggests the same test for the correspondent's own large, old red and white oaks. Signed "Jack."
+[251] Archive message page_3828 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3860, 2006-08-16) — "Paradox sails": relays a local sailmaker's question — why the Paradox sail uses sleeves on the yard and boom rather than lashings, and whether this bears on the reefing system or the intended cruising use. Full text and citation at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).
+[252] Archive messages page_3829/page_3830 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3861, 2006-08-17; arvent / "Nels", msgnum 3862, 2006-08-18) — "Re: Paradox sails": Jack judges Matt Layden chose sleeves for simplicity; Nels agrees and adds that sleeves give cleaner airflow and work better with roller reefing than ties would, and would not deviate from the design as shown. Full text and citation at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).
+[253] Archive messages page_3838/page_3839 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3870, 2006-08-19; arvent / "Nels", msgnum 3871, 2006-08-19) — "Re: Paradox sails": Jeff notes the sail's reefed position can be controlled by the boom's taper — the larger the outboard-end diameter, the further from the drum the sail sits when reefed, fine-tuned with a plane or spokeshave, or built up with self-adhesive draught excluder wrapped locally to add material or clear persistent bagging/creases; floats a boom laminated from three or four lengths of 1 in plastic water pipe on plywood spacers, which would weigh about the same as a wooden boom but look "bloody orible" except that the sleeve hides it. Nels ("great minds" aside from Jeff and Al) offers the further alternative of a tapered rigid-foam boom core wrapped in carbon-fiber tape set in epoxy — the same tape used for lightweight limb casts — likewise hidden and UV-protected by the sleeve.
+[254] Archive message page_3837 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3869, 2006-08-19) — "Re: Paradox sails": corrects his own earlier phrasing to "taper of boom," not "taper of sail"; reports that after fitting his own boom he modified it with a length of rigid foam at the clew end attached with double-sided tape, having not put enough taper on the boom originally. Signed "Al, Yeovil, England."
+[255] Archive message page_3905 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 3937, 2006-09-01) — "Paradox sail quote from Dabbler Sails": relays a quote from Stuart Hopkins of Dabbler Sails — $600 in 5 oz white, or $700 in a color (cream, tanbark), an exact quote including sailbag, flat $25 shipping charge for UPS, valid 30 days given prices tracking oil more often; Hopkins recalls having made two or three of these "challenging" sails, and a photo of one "bellied out on a sand spit in the Bahamas."
+[256] Archive message page_3906 (ifida / "ifida2000" / Glen Maxwell, `paradoxbuilders`, msgnum 3938, 2006-09-01) — "Re: Paradox sail quote from Dabbler Sails": his own Mark II sail is from Dabbler and he remains very pleased with it, highly recommending Hopkins; points to photos of it on his personal website; his earlier Mark I sail — visible in older photos with an ensign flying from the leech — now belongs to another builder, "Bill Sargent"; notes the Mark II's extra boom length, which he still means to shorten. Signed "Glen."
+[257] Archive message page_3986 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 4020, 2006-10-01) — "Haliyard and Reef lines": full text and citation at [people/stephen-yahn.md](/people/stephen-yahn.md); proposes fitting a winch-style dead drum alongside the vent-trunk camcleats to add drag on the slack line while hoisting/furling, noting Matt Layden achieves a similar drag effect underfoot; asks for thoughts. Signed implicitly (no signature).
+[258] Archive message page_3987 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4021, 2006-10-03) — "Re: Haliyard and Reef lines": full text and citation at [people/alastair.md](/people/alastair.md#construction-contributions) and [people/stephen-yahn.md](/people/stephen-yahn.md); explains Matt needs high tension on both lines since he fits no topping lift, and gets sufficient drag by bending the line over the vent trunk's exit lip; a dead drum would still need a foot, not just hands, to hold the other line; recommends building to the stock plans first, since nearly all his own early "improvements" stemmed from not yet understanding the system; the only two changes he judges successful are the hatch window and splitting the underfloor locker lids to open with the seat down; remains unsure whether he will keep his water ballast at all. Signed "Al, Yeovil, England."

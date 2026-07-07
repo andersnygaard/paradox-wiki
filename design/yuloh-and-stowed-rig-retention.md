@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Yuloh and stowed-rig retaining loops
-description: How the Paradox's yuloh and its lowered mast/sail are held on deck by brass tube retaining loops, how the underlying stowage rails and the yuloh's own pivot bolt and socket are built, and where the yuloh is documented in the plans.
+description: How the Paradox's yuloh and its lowered mast/sail are held on deck by brass-tube or copper-pipe retaining loops, how the underlying stowage rails and the yuloh's own pivot bolt and socket are built, ashore-versus-on-deck spar storage practice, and where the yuloh is documented in the plans.
 tags: [paradox, design, yuloh, rig, deck-hardware, sculling]
 timestamp: 2026-07-04T00:00:00Z
 ---
@@ -85,6 +85,45 @@ Between the three methods — epoxy-and-filler, bolt-on (the Little Cruiser
 precedent), and the speculative U-bolt idea — builders have a genuine choice
 between a stronger permanent installation and removable/adjustable
 alternatives.
+
+## Deck-loop material choices, and a fastening variant
+
+Builders have used both the plans' **brass tube** and plain **copper water
+pipe** for the two retaining loops, fastened down the same basic way: a
+block glued under the deck, a hole drilled partway (or bored 9/16 in and
+epoxy-filled through in a second variant), the tube scuffed with coarse
+sandpaper (36- or 60-grit) and drilled with a couple of holes below deck
+level to key the epoxy, then glued in. Builders reporting five years and
+three sailing seasons on loops built this way record no problems.
+
+Being tube, the loops are among the weakest fittings on the boat's
+exterior — a real concern if someone comes alongside and grabs one to hold
+the boat, since it can simply bend. A practical shape guards against this
+on the starboard (yuloh) loop in particular: keep it as low as possible, no
+more than a semicircle rising directly out of the deck, since any taller
+vertical section before the curve makes it easier for anchor lines and
+other deck lines to wrap around it and harder to slip back off again.
+
+## Storing the mast, boom, and sail when not sailing
+
+The lowered rig can either stay lashed on deck in the port retaining loop
+(see above) or be broken down further for storage ashore. One builder
+removes the furling axle by backing its retaining screw out a couple of
+turns — doubtful the screw is even strictly necessary — then stores mast,
+boom, and sail in a garage at home rather than leaving them aboard, since
+loading the boat for a trip would be difficult with the spars still inside
+the hull; the security of having nothing loose to worry about matters more
+on a long tow to distant sailing grounds. A sailcover to guard against
+sun damage in on-deck storage has not been needed in that builder's own
+sailing area, though the general risk of UV degradation to unprotected
+sailcloth is well established elsewhere in the archive (see [topside and
+hull painting choices](/construction/topside-painting.md) for the
+equivalent UV-protection question as it applies to painted epoxy).
+
+For a sailor whose usual launch site is a half-mile trailer haul from home,
+even lashing the rig to the sail bundle on deck for a short trip was judged
+likely to be good enough, rather than breaking the spars down for garage
+storage every time.[39]
 
 ## Where the yuloh is documented in the plans
 
@@ -190,6 +229,21 @@ approaches are reported as trouble-free once built, leaving the choice one
 of available materials and metalworking skill rather than a known
 performance difference.
 
+**A standard-rowlock alternative to the plans' pivot bolt** has also been
+demonstrated, on a non-Paradox 14 ft lugger's own yuloh: the loom leathered
+where it fits the rowlock, with a leather "button" (three 3 mm layers)
+screwed to the underside to stop the loom sliding through. Contrary to the
+expectation that the button should sit against the rowlock's aft face to
+resist the loom riding up under load, it works best positioned against the
+**forward** face instead — the loom's own down-and-aft working angle is
+already enough to prevent riding up, making the button largely unnecessary in
+practice. This trades the plans' dedicated pivot fitting for hardware many
+small-boat builders already have on hand, at the cost of the wear and
+mainsheet-tangling risk any rowlock-mounted yuloh carries (see [sculling and
+yuloh technique — the rowlock/oar-socket question, and Alastair's
+caution](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom)
+for the fuller discussion of that trade-off).
+
 **Matt Layden** has since built himself a **new yuloh** for his own
 Paradox, substantially different from the original: it is in fact
 **straight**, and works well but is noticeably harder on the arm and wrist
@@ -243,10 +297,19 @@ for the fuller side-by-side comparison of the two oars.
 [21] Archive message page_1912 (openboat / "Alastair", `paradoxbuilders`, msgnum 1935, 2004-02-06) — "Re: yuloh and pivot questions": answers David Beard — everything on his boat that wasn't marine ply was Douglas Fir.
 [22] Archive message page_2115 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2140, 2004-06-09) — "Yuloh": asks how to interpret the plans' "30mm longitudinal curve concave downward" instruction — whether it means a 30mm-radius bend and where along the yuloh's length the bend should start and stop; asks for close-up photos of that part of the yuloh.
 [23] Archive message page_2116 (sdhender / "Steve", `paradoxbuilders`, msgnum 2141, 2004-06-10) — "Re: Yuloh": points to photo #2 under "Swash" in the group's Photos section, showing a yuloh being laminated with the bend already visible; reads the 30mm as the deviation near the center of the yuloh from a straight line drawn end to end, i.e. curvature along its length.
-[24] Archive message page_2117 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2142, 2004-06-10) — "Re: Yuloh": full text and citation above (centerline-deflection reading, and Matt Layden's new yuloh of uncertain curvature per Dave Bolduc).
+[24] Archive message page_2117 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2142, 2004-06-10) — "Re: Yuloh": full text and citation above (centerline-deflection reading, and Matt Layden's new yuloh of uncertain curvature per Dave Bolduc).
 [25] Archive message page_2118 (openboat / "Alastair", `paradoxbuilders`, msgnum 2143, 2004-06-10) — "Re: Yuloh": full text and citation above (30mm block plus weighted ends lamination method).
 [26] Archive message page_2119 (dlb / "DLB" / David Beard, `paradoxbuilders`, msgnum 2144, 2004-06-11) — "Re: Yuloh": full text and citation above (Fir or pine, 1x, two layers, as his planned material; confirms Matt's new yuloh is straight and works well but is harder on the arm and wrist).
 [27] Archive message page_2120 (sdhender / "Steve", `paradoxbuilders`, msgnum 2145, 2004-06-11) — "Re: Yuloh": full text and citation above (two Douglas fir 2x4s, thinned on a radial arm saw, handle narrowed with a saber saw, laminated using Alastair's elevate-and-weight method, finish shaping planned with a portable grinder and sanding disc).
-[28] Archive message page_2121 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2146, 2004-06-12) — "Re: Yuloh": full text and citation above (single piece of 5/4 Douglas Fir, chosen for straight grain with little runout despite running slightly diagonal across the board; judges most species/qualities would work fine; "the yuloh is a fun little project").
+[28] Archive message page_2121 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2146, 2004-06-12) — "Re: Yuloh": full text and citation above (single piece of 5/4 Douglas Fir, chosen for straight grain with little runout despite running slightly diagonal across the board; judges most species/qualities would work fine; "the yuloh is a fun little project").
 [29] Archive message page_2122 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2147, 2004-06-15) — "Re: Yuloh": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off).
 [30] Archive message page_2147 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 2172, 2004-06-25) — "Re: sailmakers": among other things asked Sven (his sailmaking guru, a Swedish boat designer) about the yuloh's curvature; Sven explained it was to move the blade's center of rotation to the other side of its longitudinal axis. Signed "kjell."
+[31] Archive message page_3293 (platten / "boscarhyn" / David Platten, `paradoxbuilders`, msgnum 3324, 2006-01-24) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) (yuloh built for his own 14 ft lugger, mounted in a standard rowlock with a leathered loom and leather button positioned against the forward face).
+[32] Archive message page_3704 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3736, 2006-07-08) — "Deck Loops": asks finished builders how they fastened the deck loops holding the yuloh (starboard) and sail bundle (portside) — whether blocking was fitted under the deck, and whether tubing or rod was used. Signed "Steve Yahn."
+[33] Archive message page_3705 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3737, 2006-07-08) — "Re: Deck Loops": his own solution — add blocking under the deck, bore a 9/16 in hole, scuff the pipe with 36-grit paper and drill a couple of holes in the section that sits below deck level for a good bond, then fill with epoxy; no problem at all in five years. Signed "Glen."
+[34] Archive message page_3706 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3738, 2006-07-08) — "Spar storage": asks finished builders how storing the spars inside the hull works out, since the U-shaped rod in the boom's tack would seem too large to fit through the transom hole — or whether the sail bundle is simply left on deck — and whether a sailcover is needed against sun damage in on-deck storage.
+[35] Archive message page_3707 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3739, 2006-07-08) — "Re: Deck Loops": thanks Glen for "a very simple and very good idea." Signed "Steve Yahn."
+[36] Archive message page_3708 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3740, 2006-07-08) — "Re: Deck Loops": his own loops are copper water pipe, glued into a block under the deck through a half-drilled hole; being tube they are the weakest fitting on the boat's outside, and he lives in fear of someone holding the boat alongside by grabbing one and bending it, though his own have lasted a third season with no problem; tip — keep the starboard loop as low as possible, no more than a semicircle, since a taller vertical section before the curve lets lines wrap around it more easily and makes them harder to slip off again. Signed "Al, Yeovil, England."
+[37] Archive message page_3709 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3741, 2006-07-08) — "Re: Spar storage": removes the furling axle by loosening its retaining screw a couple of turns, doubting the screw is strictly necessary; stores the spars in his home garage rather than aboard, since loading the boat for a trip would be difficult with them still inside, and the security of nothing loose to worry about matters on the couple of hours' tow to his usual sailing grounds; sun damage has not been a problem where he sails. Signed "Al, Yeovil, England."
+[38] Archive message page_3710 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3742, 2006-07-09) — "Re: Deck Loops": thanks Alastair, having polished 1/2 in diameter stainless steel rod on hand for the loops, aiming for a low deck angle for "ropecatchproofness" while keeping the loop yuloh-blade high. Signed "Steve in Manchester, Washington, USA."
+[39] Archive message page_3711 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3743, 2006-07-09) — "Re: Spar storage": thanks Alastair again; his own trips will range widely across the western US, part of why he chose a small, affordable trailer boat, with his nearest boat launch a half-mile away in Manchester; for short trips, judges simply lashing the mast to the sail bundle on deck will likely be good enough; reports having bought his plywood that day, ready to begin work. Signed "Steve Yahn."

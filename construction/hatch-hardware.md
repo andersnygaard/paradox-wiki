@@ -57,6 +57,21 @@ enough extra clearance to allow for the thickness paint will later add. Hard
 **paraffin canning wax** works well for drawer runners, hatch slides, and
 sliding locker doors generally.
 
+## A formica wear-surface fix for a foam-lined hatch
+
+The plans call for the hatch's foam lining to run directly against the
+upstand rimming the hatch aperture (sheet 5) — a detail that seals the hatch
+well but wears the foam itself over time. Tried remedies, in rough order of
+durability: PTFE tape (rucked up quickly), brown parcel tape (lasted about
+half a season), and finally strips of **formica edging**, of the kind sold
+for finishing kitchen worktops, stuck to the foam with double-sided tape.
+The formica cured the sticking problem entirely and let the lid slide much
+more smoothly, at some cost to the watertightness of the foam seal; thin
+enough brass strip was considered as a further alternative but could not be
+sourced. A nylon curtain rail, of the type once sold under the "Swish"
+brand, was separately suggested as another low-friction running surface
+worth trying.
+
 # Citations
 
 [1] Archive message page_1156 (dlb / David Beard, `paradoxbuilders`, msgnum 1173, 2003-09-02) — "Word of Caution !": warns that a hatch-lock hasp's hinged part must go on the aft window, never the hatch itself, or a sailor can lock himself inside from within — hot in 90-degree weather until let out; "It did happen."
@@ -64,4 +79,8 @@ sliding locker doors generally.
 [3] Archive message page_1957 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 1980, 2004-03-13) — "Hatch": asks for tips on the hatch; built wood-on-wood and painted, it does not move as easily as he would like.
 [4] Archive message page_1958 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1981, 2004-03-13) — "Re: Hatch": take the hatch off the rails and wax them well with carnauba wax — works great on saw tables too, or anywhere something needs to slide easily without using oil. Signed "Tailwinds, Glen."
 [5] Archive message page_1960 (openboat / "Alastair", `paradoxbuilders`, msgnum 1983, 2004-03-13) — "Re: Hatch": had the same problem; just getting the hatch to open and close was among the hardest parts of the build; waxing the runners helps, but it still opens in jerks; suspects the real fix is rebuilding with aluminium extrusions; asks if anyone else has advice. Signed "Hoping for calm nights, Al, Yeovil, England."
-[6] Archive message page_1961 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1984, 2004-03-13) — "Re: Hatch": a wood-on-wood hatch should be a little sloppy to begin with but not so sloppy it wracks; use adhesive-backed sandpaper stuck to the fixed surface (the plywood) and slide the hatch across it to loosen the fit, on as many planes as needed; leave clearance for paint thickness; like Glen, favors hard paraffin canning wax for drawer runners, hatch slides, and sliding locker doors. Signed "Have fun. DC."
+[6] Archive message page_1961 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1984, 2004-03-13) — "Re: Hatch": a wood-on-wood hatch should be a little sloppy to begin with but not so sloppy it wracks; use adhesive-backed sandpaper stuck to the fixed surface (the plywood) and slide the hatch across it to loosen the fit, on as many planes as needed; leave clearance for paint thickness; like Glen, favors hard paraffin canning wax for drawer runners, hatch slides, and sliding locker doors. Signed "Have fun. Smith."
+[7] Archive message page_3593 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3624, 2006-04-26) — "Sliding hatch runners": has never been happy with how "Little Jim"'s hatch slides open and closed; following advice from a newsgroup, fitted new running surfaces made from formica strip intended for edging kitchen worktops, which solved the sticking problems at first impression, durability still unproven. Signed "Al, Yeovil, England."
+[8] Archive message page_3594 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3625, 2006-04-26) — "Re: Sliding hatch runners": asks how the formica was attached (contact cement only?), whether formica on the lower surface alone would work, and floats UHMW strip or brass as two alternatives he had considered. Signed "Nels."
+[9] Archive message page_3595 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3626, 2006-04-26) — "Re: Sliding hatch runners": the hatch is foam-lined, with the aperture's upstand (sheet 5) running on the foam to help seal it, but this wore the foam; tried PTFE tape (rucked up) and brown parcel tape (lasted about half a season) before double-sided-taping formica to the foam, which slides much more smoothly at some cost to watertightness; had considered brass strip but could not source any thin enough. Signed "Al, Yeovil, England."
+[10] Archive message page_3596 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 3627, 2006-04-26) — "Re: Sliding hatch runners": suggests nylon curtain rail, once sold under the "Swish" brand, as another low-friction running surface. Signed "Jim Hall."

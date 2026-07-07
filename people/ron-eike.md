@@ -47,7 +47,7 @@ notably as the thread's go-to voice on small-craft sailmakers.
   seeing a gaff built over a tapered PVC-pipe mandrel, glassed and sanded,
   then wrapped in two layers of tubular carbon fiber wet out together and
   consolidated with plastic tape; judged the PVC core contributed negligible
-  strength itself but a spruce core, as DC proposed for a Paradox mast, would
+  strength itself but a spruce core, as David C. Smith proposed for a Paradox mast, would
   add plenty. See [rig and sail — a birdmouth-and-carbon composite mast,
   revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
 
@@ -56,6 +56,11 @@ notably as the thread's go-to voice on small-craft sailmakers.
   for the canoe Matt had been racing in the last two Watertribe Challenges;
   see [Matt Layden — the 14 ft Rob Roy-based canoe, and the 2005 Everglades
   Challenge](/matt-layden/biography.md#the-14-ft-rob-roy-based-canoe-and-the-2005-everglades-challenge).
+- **Defending WaterTribe-capable designs.** When Jim Michalak dismissed his
+  own designs as "lake boats, not sea boats," Ron pointed to a Michalak
+  "Frolic2" that had entered and finished the WaterTribe Everglades Challenge
+  in good shape — see [the mailing list's list
+  culture](/references/mailing-list.md#list-culture).
 
 ## Everglades Challenge commentary
 
@@ -87,3 +92,6 @@ the clock, and relayed a WaterTribe-forum sighting of a 21 ft Sea Pearl passing
 [10] Archive message page_874 (reike2 / Ron Eike, `paradoxbuilders`, msgnum 889, 2003-03-12) — "Re: another race comment:-)": guesses the Chief may set a 15 ft minimum length next year; wonders whether Matt caught favorable wind shifts, and whether a two-person, two-rowing-station Sea Pearl crew could be more competitive; relays a WaterTribe-forum report (via "Chiefs Wife") of a competitor on Cape Sable watching a 21 ft Sea Pearl sail by at sunset; "Please enlighten me, none of my road maps show Cape Sable."
 [11] Archive message page_1712 (reike2 / "Ron Eike", `paradoxbuilders`, msgnum 1734, 2004-01-01) — "Re: Mast": full text and citation at [design/rig.md](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
 [12] Archive message page_2585 (reike2 / "sailman58" / Ron Eike, `paradoxbuilders`, msgnum 2615, 2005-03-08) — "Matts Canoe": full text and citation at [matt-layden/biography.md](/matt-layden/biography.md#the-14-ft-rob-roy-based-canoe-and-the-2005-everglades-challenge).
+[13] Archive message page_3758 (reike2 / "sailman58" / Ron Eike, `paradoxbuilders`, msgnum 3790, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture) (the Frolic2/Watertribe Everglades Challenge counterpoint to Jim Michalak's "lake boats" verdict).
+[14] Archive message page_3772 (reike2 / "sailman58" / Ron Eike, `paradoxbuilders`, msgnum 3804, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture) (points to Duckworks Magazine and notes Matt Layden raced Paradox one year and Enigma the next at WaterTribe).
+[15] Archive message page_3776 (reike2 / "sailman58" / Ron Eike, `paradoxbuilders`, msgnum 3808, 2006-07-21) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#whether-watertribe-racing-tests-the-boat-or-the-crew) (the Everglades Challenge weeds out boats by mechanical failure; a swamped lead-keel racer sinks where a positive-flotation small boat does not).

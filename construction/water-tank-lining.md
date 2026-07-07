@@ -78,7 +78,11 @@ remote site, and to carry actual drinking water separately — reasoning that
 unless a builder is setting out on extended trips to remote areas, there is
 plenty of storage space aboard for a few bottles of water instead. He also
 notes some builders skip the tanks altogether, fitting extra permanent lead
-and using the freed space as a storage locker.
+and using the freed space as a storage locker. Absent a tap at the launch
+site, he instead fills the ballast tank straight from whatever water he is
+floating in, using an electric bilge pump — which keeps open the option of
+first cleaning the tank out and refilling with actual drinking water for a
+genuinely long trip.[39]
 
 ## Not using the built-in tanks at all: individual containers instead
 
@@ -235,6 +239,21 @@ tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks)
 above for a screws-only (no epoxy) approach to the same structural tops,
 confirmed sound by in-service testing on "Whisper."
 
+## Fixing the tank tops in place
+
+A separate, later question from the same builder — how to fix the tank tops
+down once ready to close them up for good — was answered from firsthand
+experience: coat the top's underside heavily with thickened glue, then reach
+in through the access hatches and work the squeezed-out excess into a fillet
+by hand (wearing disposable gloves), rather than relying on the glue line
+alone. This method has given no leaks at the tank tops themselves — the
+inspection hatches, not the tank-top joint, are the more common leak point.
+See [fastening the tank tops when used purely as storage, not water
+tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks)
+above for the general screws-only (no epoxy) method confirmed sound on
+"Whisper," which applies equally whether the compartment holds water or dry
+stores.[37][38]
+
 ## Rainwater collection plumbing, for filling jugs or bladders
 
 A builder who prefers **jugs or bladders** over the built-in tanks can
@@ -269,6 +288,29 @@ afterdeck to dry salt water off bare feet before going below, since it is
 easy to track water aboard while getting in and out. See also
 [interior bins and floor — forward and aft bin sides](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull)
 for the related fix to a bin-side panel pulling away from the tank tops.
+
+## An off-centre tank divider, confirmed correct against the plans
+
+The plans' **central tank divider is not actually on the boat's
+centerline** — it sits slightly to port, correctly, per the drawings for
+bulkheads #2 and #3. One consequence: the **port tank's capacity is
+marginally smaller** than the starboard tank's, an asymmetry made a little
+more pronounced by the drain-pipe block that also sits inside the port
+tank. This has no meaningful effect on the boat's trim.
+
+A separate, apparent misalignment is worth flagging so other builders
+don't second-guess their own layout unnecessarily: the **divider between
+the under-floor lockers in the cabin does not line up with the tank
+divider** below it. Checking Matt Layden's own drawings against this
+discrepancy shows the **plan-view construction drawing (sheet 4)**, which
+appears to show the tank dividers running down the boat's centerline, is
+itself the inconsistent drawing — cross-checking against photographs of
+other builders' completed boats confirmed the off-centre divider, not the
+plan view, is the one to build to. See [fill/suction copper pipe — sizing,
+timing, and the fittings that connect to
+it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it)
+for the related fill/drain plumbing question this same builder raised the
+day before.[36]
 
 # Citations
 
@@ -307,3 +349,7 @@ for the related fix to a bin-side panel pulling away from the tank tops.
 [33] Archive message page_3215 (topsail / "Phil" / Judy Arneson-Johnson, `paradoxbuilders`, msgnum 3246, 2005-11-07) — "Water tanks": if water is carried as a significant part of the boat's ballast and stability, it must be replaced as it's used — smaller tanks or gallon jugs of distilled water, refilled with sea water as they empty, is one way; would never drink water stored in an epoxy tank; tap water can go bad if stored too long, but steam-distilled water is germ- and bacteria-free and keeps indefinitely. Signed "Phil."
 [34] Archive message page_3217 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3248, 2005-11-07) — "Re: WATER TANKS": raised the same question himself months earlier; potable-water-safe epoxy exists but is expensive with unclear long-term safety, so he uses his water tanks purely as ballast, not for cooking or drinking — replenished with sea water and flushed/refilled on land if used for rinsing gear or washing clothes; drinking water is kept in collapsible containers and coolers; for an extended trip would add containers plus a manual water-filtration unit as an emergency backup; notes sealing the tanks correctly "is a Pain!" Signed "Jack."
 [35] Archive message page_3218 (carolfo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 3249, 2005-11-07) — "Re: WATER TANKS": recalls from memory reading in Don Elliott's how-to-build-Paradox guide that System Three, contacted directly, said their epoxy was safe for water tanks provided five coats were applied for complete waterproofing. Signed "Robert."
+[36] Archive message page_3628 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3659, 2006-05-17) — "Central tank divider": placing the floor-support dividers in their dados before gluing, discovers the central tank divider is off-centre to port relative to the boat's centerline — correct per the drawings for bulkheads #2 and #3, making the port tank's capacity marginally smaller than the starboard tank's, made a little smaller again by the drain-pipe block inside it; separately notices the under-floor locker divider does not line up with the tank divider, checks Matt Layden's own drawings, and concludes the plan-view construction drawing (sheet 4) — which appears to show the tank dividers running down the centerline — is itself the inconsistent drawing; cross-checked against photos of other builders' completed boats to confirm the off-centre layout is correct. Signed "Bill."
+[37] Archive message page_3979 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4013, 2006-09-23) — "Top to water ballast tank": ready to fix the tops to the water ballast tanks; asks for tips. Signed "Bill."
+[38] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); coats the top's underside with masses of thickened glue, then reaches in through the access hatches to spread the squeezed-out glue into a fillet by hand, wearing disposable gloves; has had no leaks at the tank tops themselves this way, unlike the inspection hatches. Signed "Al, Yeovil, England." Bill Serjeant thanked him in reply (page_3982, msgnum 4016, 2006-09-25), confirming "that's the way I plan to do it."
+[39] Archive message page_3989 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4023, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [people/stephen-yahn.md](/people/stephen-yahn.md); does not drink the ballast water either, having found "interesting slime" in the tank after cleaning it out at the end of his first season filling from a tap; absent a handy tap, fills instead from whatever he is floating in via an electric bilge pump, keeping the option to clean and refill with drinking water for a genuinely long trip. Signed "Al, Yeovil, England."

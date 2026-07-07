@@ -114,6 +114,28 @@ address was retired rather than kept running alongside it — leaving the
 `.co.uk` domain as the site's sole address going forward, aside from a few
 links still needing attention.
 
+## A second outage, June 2006, and an apparent domain-registrar issue
+
+The site went down again in June 2006, this time presenting visitors with a
+registrar's holding page (`www.123-reg.co.uk`) rather than its own content —
+a symptom of a lapsed or transferring domain registration rather than a
+hosting fault. A below-threshold UK-based list member flagged the problem,
+suspecting his own computer at first, and separately noted the site's menu
+had briefly rendered as corrupted characters the day before, wondering if it
+reflected new ownership; a second, established below-threshold correspondent
+confirmed the same failure independently, ruling out a fault on the first
+member's own computer. Serjeant thanked them for the report and worked to
+bring the site back online, warning it might take hours or days; he
+confirmed shortly after that he was actively trying to get the registration
+itself sorted out, without giving a specific cause.[62][63][64][65][66]
+
+Serjeant restored `www.smallsailboats.co.uk` within a day, first re-uploading
+the site and then confirming it fully "up and running," asking visitors to
+report any errors.[67][69] The correspondent who first flagged the outage
+thanked him, glad it had not been a fault on his own end, and volunteered
+that the site's real-world sailing links (UK Dinghy Cruising among them) and
+Serjeant's own sailing life made it one of his favorite places to browse.[68]
+
 The site is also a source for UK sailmaker recommendations: established UK
 sailmakers Banks Sails, Crusader Sails, Jeckells Sails, Kemp Sails, and
 Lucas Sails are on record there, with Lucas recommended from firsthand
@@ -165,6 +187,68 @@ starting his own build — photos of his deck beams, cabin beams, and hatch
 beams — again asking the list to help keep `names.htm` current with any
 builder not yet listed.[43]
 
+## A 2006 database renewal, and a new Los Angeles builder
+
+In February 2006, Serjeant renewed the registry appeal once more — asking
+builders to check their own entry at `www.smallsailboats.co.uk/paradox/names.htm`
+for accuracy, submit details if not yet listed, and, this time, specifically
+requesting photos of finished boats **on the water or on their trailer**
+rather than further building-stage pictures.[44]
+
+The appeal drew the archive's introduction of **Mark Waters**
+(`mwatersworld`), a Los Angeles, California builder whose Paradox was by
+then 90% complete, built strictly to plans, with no name chosen yet and
+completion expected by summer 2006. Waters had also built a Selway-Fisher
+50/50 sailing canoe, sharing that design lineage's "taste" with Serjeant's
+own site.[45] Chris Ostlind (`wedgesail`), who grew up in Redondo Beach,
+asked Waters to clarify whether his "L.A." meant the city proper or the
+wider county area, hoping to see the boat in person on a future visit and
+inviting Waters to write off-list.[46] Serjeant thanked Waters, added him
+to the registry, and noted his own build would likely miss finishing that
+year since he would be away during July and August — the best months for
+outdoor building in the UK — and had no indoor space to build in
+regardless.[47]
+
+Derek Clark separately proposed adding builders' e-mail addresses to the
+registry itself, having secured Serjeant's blessing to poll the list's
+opinion on the idea first.[48][49] Waters had no objection to his own
+address being listed,[50] and David Beard agreed likewise.[51] See
+[people/mark-waters.md](/people/mark-waters.md) for Waters' own build.
+
+Serjeant added a dedicated e-mail-address column to the registry itself,
+listing the first four volunteers by name (David Beard, Mark Waters, Derek
+Clark, and himself) and inviting further builders to opt in.[52] The
+proposal drew in a genuinely new prospective builder: a Phoenix, Arizona
+sailor who had already ordered the plans and book, hoping to use the
+registry's e-mail addresses to find other owners in his area to learn more
+about the design firsthand.[53] Serjeant told him the same standing rule
+applied to any newcomer — his details would be added once he actually
+started building, not merely on ordering the plans.[54] Serjeant then
+posted the registry's direct link
+(`www.smallsailboats.co.uk/paradox/names.htm`) to the whole list, repeating
+the open invitation to be added and separately flagging that the e-mail
+address on file for Mark Waters appeared to be incorrect.[55] Alastair
+belatedly asked to be added to the e-mail column as well, having missed
+Serjeant's earlier request.[56]
+
+The same "Database" thread also turned up a **modified Paradox** absent from
+the registry: a boat nicknamed **"mini me"**, built by a UK-associated
+correspondent first named as "Dave Mason" but corrected in the same thread to
+**Wayne Mason**, with photos posted to the `microcruising` Yahoo Group's photo
+section rather than to `paradoxbuilders` itself.[57][58] Checking further,
+Serjeant judged "mini me"'s hull, though similar to a Paradox's, to be Wayne
+Mason's own design rather than a variant close enough to classify as one,
+given the number of differences between the two boats — so the registry was
+not updated to include her.[59] Nels asked whether "mini me" had chine
+runners, and whether any photos existed of her under sail even though she
+was not a true Paradox.[60] Serjeant pointed to the photos in the
+`microcruising` Yahoo Group's own "Mini Me" album, judging the boat a
+sturdy little craft, but likely **more vulnerable than a Paradox** because of
+her cockpit arrangement and higher-aspect rig; he also noted what looked
+like a daggerboard case on the cabin's port side in one photo, raising the
+possibility that "mini me," unlike a stock Paradox, used a daggerboard
+rather than chine runners for lateral resistance.[61]
+
 ## A UK kit-built option: Jordan Boats
 
 Beyond plans and self-build, a **kit** option for a UK builder emerged in
@@ -203,11 +287,11 @@ a one-off self-build from plans.[41]
 # Citations
 
 [1] Archive message page_1224 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 1244, 2003-10-19) — "Paradox - New Web Site": plans arrived from Dave; added a Paradox section to the Small Sailboats site (`www.smallsailboats.co.uk`), UK-slanted; launched a separate dedicated site, `www.paradox-uk.co.uk`, under the same umbrella.
-[2] Archive message page_1225 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1245, 2003-10-20) — "Re: Paradox - New Web Site": "Nice work Bill. I look forward to seeing the growth of your site and your boat."
+[2] Archive message page_1225 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1245, 2003-10-20) — "Re: Paradox - New Web Site": "Nice work Bill. I look forward to seeing the growth of your site and your boat."
 [3] Archive message page_1232 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 1252, 2003-10-29) — "Rudder fixing": full text and citation at [design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).
 [4] Archive message page_1249 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 1269, 2003-11-08) — "Re: Paradox offshore": full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).
 [5] Archive message page_1264 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1284, 2003-11-11) — "New Small Sailboat Usergroup": points Paradox builders and dreamers to `www.irbs.com` ("I'd rather be sailing") and its newly established Small Sailboats Usergroup, set up alongside `www.smallsailboats.co.uk`; scope is small sailing boats 26 ft LOA and under, any configuration, covering building, cruising, handling technique, rigs, auxiliary engines, cruising grounds, rallies, and messabouts.
-[6] Archive message page_1270 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1290, 2003-11-13) — "Re: Introducing Swash": replying to DC's Swash photo upload, calls the pictures "really helpful... for those trying to figure out how things go together."
+[6] Archive message page_1270 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1290, 2003-11-13) — "Re: Introducing Swash": replying to Smith's Swash photo upload, calls the pictures "really helpful... for those trying to figure out how things go together."
 [7] Archive message page_1399 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1419, 2003-11-18) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
 [8] Archive message page_1400 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1420, 2003-11-18) — "Tools list": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
 [9] Archive message page_1431 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1451, 2003-11-20) — "smallsailboats": announces setting up a new Yahoo Group, `smallsailboats` (`http://groups.yahoo.com/group/smallsailboats`), inviting `paradoxbuilders` members to join; scope is any discussion of small sailing craft, traditional or modern, "from messing about, to top class racing."
@@ -245,3 +329,29 @@ a one-off self-build from plans.[41]
 [41] Archive message page_2966 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 2997, 2005-07-25) — "Boat Building Expectations": reposts his own blog entry (`bills-log.blogspot.com`) reporting that Alec Jordan phoned to say the kit will not be ready after all — despite working hard to make every part fit, the cutting/design process for the panels and components needs more research than can be resolved soon; Jordan has not given up on eventually offering a kit and is instead supplying the plywood that would have gone into Serjeant's; Serjeant will start building from Matt Layden's original plans instead, thanks Jordan and Layden for their collaborative effort, and hopes to start building within the week while the summer air is still warm enough for epoxy.
 [42] Archive message page_2968 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2999, 2005-07-25) — "Re: Boat Building Expectations": "Have at it Bill!!!! Good luck on your adventure!!!" Signed "Jack."
 [43] Archive message page_3103 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3134, 2005-08-20) — "Paradox update": updates the site with photos of his own first build efforts (deck beams, cabin beams, hatch beams) and asks the list for details of any Paradox builders not yet listed on `names.htm` — a concrete instance of the registry's dependence on builders reporting themselves in. Full biography and build detail at [people/bill-serjeant.md](/people/bill-serjeant.md).
+[44] Archive message page_3343 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3374, 2006-02-21) — "Paradox database": maintains a database of Paradox owners/builders at `www.smallsailboats.co.uk/paradox/names.htm`; asks readers to check their own details for accuracy, or get in touch/post here if not yet listed; requests photos of Paradoxes on the water or on their trailer, not in the building stage. Signed "Bill."
+[45] Archive message page_3344 (mwatersworld / "mwatersworld" / Mark Waters, `paradoxbuilders`, msgnum 3375, 2006-02-21) — "Re: Paradox database": full text and citation at [people/mark-waters.md](/people/mark-waters.md); asks to be added to the database, interested in corresponding with other Paradox builders/owners in the Los Angeles, California area; also built a Selway-Fisher 50/50 sailing canoe. Signed "Mark Waters."
+[46] Archive message page_3345 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 3376, 2006-02-21) — "Re: Paradox database": asks Mark Waters whether "L.A." means the City of Los Angeles or the wider county area; grew up in Redondo Beach and would like to see Waters' boat(s) next time in town visiting friends; invites Waters to write off-list. Signed "Chris Ostlind."
+[47] Archive message page_3346 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3377, 2006-02-21) — "Re: Paradox database": thanks Mark, adds his details to the database, looks forward to seeing photos of his boat; his own Paradox is unlikely to finish this year since he will be away during July and August — the best UK months for outdoor building — and has no room to build indoors; asks to see photos of Mark's 50/50 canoe. Signed "Bill."
+[48] Archive message page_3347 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3378, 2006-02-22) — "Bill's Database": full text and citation at [people/derek-clark.md](/people/derek-clark.md); suggests including builders' e-mail addresses in Bill's database, having Bill's permission to poll other builders'/sailors' opinions on the idea. Signed "Derek."
+[49] Archive message page_3348 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3379, 2006-02-23) — "Re: Bill's Database": full text and citation at [people/derek-clark.md](/people/derek-clark.md); corrects his own typo, "for there read their." Signed "Derek."
+[50] Archive message page_3349 (mwatersworld / "mwatersworld" / Mark Waters, `paradoxbuilders`, msgnum 3380, 2006-02-23) — "(No subject)": "I have no problem with my email being listed." Signed "Mark."
+[51] Archive message page_3350 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3381, 2006-02-23) — "Re: Bill's Database": "No Problem here." Signed "David Beard."
+[52] Archive message page_3351 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3382, 2006-02-24) — "Re: Bill's Database": adds an e-mail-address column to the registry; already has four volunteers (David Beard, Mark Waters, Derek Clark, and himself); invites others who want to be added to let him know. Signed "Bill."
+[53] Archive message page_3352 (azskybum / Curtis, `paradoxbuilders`, msgnum 3383, 2006-02-24) — "Re: Bill's Database": introduces himself as a potential Paradox builder who has ordered the plans and book; hopes to use the registry's posted e-mail addresses to contact individual owners in his area to learn more about the design firsthand; separately mentions an afternoon sailing his Catalina 22 on Lake Pleasant north of Phoenix, Arizona, in around 80°F weather. Signed "Curtis."
+[54] Archive message page_3357 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3388, 2006-02-25) — "Re: Bill's Database": tells Curtis to get in touch once he actually starts building, and his details will be added to the registry at that point. Signed "Bill."
+[55] Archive message page_3358 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3389, 2006-02-25) — "Database": posts the registry's direct link, `www.smallsailboats.co.uk/paradox/names.htm`, repeating the open invitation to be added; separately flags that the e-mail address on file for Mark Waters appears to be incorrect and asks him to get in touch. Signed "Bill."
+[56] Archive messages page_3402/page_3404 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3433, 2006-03-13, "Re: Database"; william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3435, 2006-03-13, "Re: Database") — Alastair asks Serjeant to add his e-mail to the owners list, having missed the earlier request; Serjeant confirms he will add it. Signed "Al, Yeovil, England" and "Bill" respectively.
+[57] Archive message page_3501 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3532, 2006-03-28) — "Re: Database": catching up on old messages after a while away, flags a modified Paradox missing from the registry — "Dave Mason's" 'mini me,' with photos in the `microcruising` Yahoo Group. Signed "Paul."
+[58] Archive message page_3502 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 3533, 2006-03-28) — "Re: Database": corrects himself — meant Wayne Mason, not Dave Mason — and links the photo album directly (`http://ph.groups.yahoo.com/group/microcruising/photos/browse/9afe`). Signed "Paul."
+[59] Archive message page_3511 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3542, 2006-03-28) — "Re: Database": thanks Paul; having checked "Wayne"'s "Mini Me," judges her hull, though very similar to a Paradox's, to be Wayne's own design — too many differences from a Paradox for her to be classified as one. Signed "Bill."
+[60] Archive message page_3525 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3556, 2006-03-29) — "Re: Database": asks whether "Mini Me" has chine runners, and hopes to see photos of her sailing even if she isn't a true Paradox. Signed "Nels."
+[61] Archive message page_3526 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3557, 2006-03-29) — "Re: Database": points Nels to the "Mini Me" album in the `microcruising` Yahoo Group's photo section; judges her a sturdy little craft but likely more vulnerable than a Paradox given her cockpit arrangement and higher-aspect rig; wonders whether what looks like a daggerboard case in the cabin's port side means she uses a daggerboard rather than chine runners. Signed "Bill."
+[62] Archive message page_3672 (magsman999 / "Anthony" / Anthony "Magsman," `paradoxbuilders`, msgnum 3704, 2006-06-08) — "Message for Bill Sergeant...": reports `smallsailboats.co.uk` showing only a `www.123-reg.co.uk` registrar page for every attempt, and asks whether anyone can pass Bill Serjeant a message. Signed "Tony."
+[63] Archive message page_3673 (logicaid / "Alan," `paradoxbuilders`, msgnum 3705, 2006-06-08) — "Re: Message for Bill Sergeant...": confirms the same failure independently, ruling out a fault on Anthony's own computer. Signed "Alan."
+[64] Archive message page_3677 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3709, 2006-06-13) — "Re: Message for Bill Sergeant...": thanks the group for the report; "trying to get it sorted out." Signed "Bill."
+[65] Archive message page_3679 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3711, 2006-06-14) — "Re: Message for Bill Sergeant...": confirms he is trying to get the site back online, warns it could take hours or days, and asks for patience. Signed "Bill."
+[66] Archive message page_3674 (magsman999 / "Anthony aka Magsman," `paradoxbuilders`, msgnum 3706, 2006-06-08) — "Re: Message for Bill Sergeant...": relieved it wasn't just his own computer; separately notes the site's menu had rendered as corrupted characters ("dingbats") the day before, wondering whether the site was "sliding" under new ownership. Signed "Tony."
+[67] Archive message page_3682 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3714, 2006-06-14) — "Re: Message for Bill Sergeant...": has been able to upload the smallsailboats web site again (`www.smallsailboats.co.uk`); asks for any errors to be reported; pleased Tony likes the site. Signed "Bill."
+[68] Archive message page_3683 (magsman999 / "Anthony aka Magsman," `paradoxbuilders`, msgnum 3715, 2006-06-14) — "Re: Message for Bill Sergeant...": "It's fine now, Thanks :)"; calls smallsailboats.co.uk one of his favourite browsing sites for its real-world sailing links (naming UK Dinghy Cruising) and for Bill's own "fascinating" sailing life; separately asks whether Bill might sail his Paradox to Holy Island, near his own home, the following year. Signed "Tony."
+[69] Archive message page_3684 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3716, 2006-06-15) — "Re: Message for Bill Sergeant...": "The site is up and running... Enjoy." Signed "Bill."

@@ -1,8 +1,8 @@
 ---
 type: Concept
 title: GPS and navigation instruments
-description: Choosing, buying, and setting up a handheld marine GPS for a Paradox, plus whether a depth sounder is worth fitting to a boat that draws about a foot.
-tags: [paradox, operations, gps, navigation, electronics, depth-sounder]
+description: Choosing, buying, and setting up a handheld marine GPS for a Paradox, whether a depth sounder is worth fitting to a boat that draws about a foot, and compass choice and mounting.
+tags: [paradox, operations, gps, navigation, electronics, depth-sounder, compass]
 timestamp: 2026-07-04T00:00:00Z
 ---
 
@@ -90,6 +90,31 @@ This is the only recorded consumer-electronics purchase-and-setup advice,
 distinct in kind from the boat-specific design/construction/sailing content
 that makes up most of the record.
 
+## Compass choice and mounting
+
+The only recorded compass-specific question asks what compasses other
+builders have fitted, and where: one data point on record is a **Silva 70n**
+mounted on bulkhead 2 of "[Little Jim](/boats/little-jim.md)." A related
+question — whether a digital compass (such as the kind built into a GPS unit
+or a wristwatch) is thrown off by local lumps of iron enough to matter for
+navigation, and whether one of those built-in compasses could substitute for
+a dedicated marine compass — went unanswered the first two times it was
+asked, including after being repeated in the same terms a week later.[19]
+
+A GPS's compass is not affected by nearby iron the way a magnetic compass
+is, since it derives bearing from satellites rather than magnetic north —
+whereas a wristwatch-based electronic compass, tested aboard, showed
+significant deviation near iron. The practical resolution settled on: rely
+on the GPS compass for ordinary steering (deviation-free) and carry a small
+handheld compass for sighting and as backup, rather than trust electronics
+alone.[20] A separate data point for GPS-based navigation generally: a
+**Garmin GPSMAP 76** alongside a smaller **eTrex Vista** as backup, both
+paired with a laptop for a moving-map display and both usable as standalone
+map displays if not connected to a laptop, plus a moderate-quality kayaker's
+compass mounted as a fallback "in case of the unexpected" — one owner's full
+navigation kit, preferring to "carry a box of GPSs" over celestial
+navigation, which he judged smacked of "sorcery."[21][22]
+
 # Citations
 
 [1] Archive message page_666 (buster38801 / David Beard, `paradoxbuilders`, msgnum 668, 2002-08-30) — "GPS": asks what people think of the entry-level Garmin GPS ($129.99, West Marine) for marine use.
@@ -102,10 +127,15 @@ that makes up most of the record.
 [8] Archive message page_2132 (apcf14 / "roverticket" / Jeff (UK), `paradoxbuilders`, msgnum 2157, 2004-06-17) — "Re: depth finder": suggests a fishfinder instead of a plain depth sounder — does everything a depth finder does plus shows bottom contour ahead and detects fish, for about the same price; expects fitting one to a Paradox would mean a hole through the plywood bottom to the glass fibre, with the PVC transducer pipe bonded and filleted in place. Signed "Jeff UK." (Below-threshold correspondent, distinct from the established Jeff/`doryman_uk`.)
 [9] Archive message page_2133 (openboat / "Alastair", `paradoxbuilders`, msgnum 2158, 2004-06-17) — "Re: depth finder": fitted one to his own boat; tried the transducer inside first, but it could not transmit through the wood and epoxy; not keen on through-hulling, and any through-hull transducer would be vulnerable when drying out or trailering unless flush-mounted; fitted it on the transom instead, tested on a temporary bracket with good results, though not yet tried since making the permanent fit. Signed "Al, Yeovil, England."
 [10] Archive message page_2135 (chadoora, `paradoxbuilders`, msgnum 2160, 2004-06-18) — "Re: depth finder": questions whether an electronic depth finder is needed at all on a boat drawing about a foot; competent coastal navigation (charts, distance-off) matters more than gizmos; the best depth sounder on a Paradox is the boat's own "slowing" against the bottom, or reading the water; notes the designer favors sail and yuloh over an outboard.
-[11] Archive message page_2137 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2162, 2004-06-18) — "Re: depth finder": a simple depth sounder costs under $100, a fishfinder only a little more, and a handheld GPS about the same — all excellent value for the peace of mind; of all the nav electronics he has used and lost, none is missed more than a depth sounder; around the Pacific Northwest a depth sounder is often called the most useful coastal navigation tool, letting a sailor follow a chosen fathom line as a line of position alongside dead reckoning, since "touch and go" depth-finding by feel can cost the boat and the sailor in that region.
+[11] Archive message page_2137 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2162, 2004-06-18) — "Re: depth finder": a simple depth sounder costs under $100, a fishfinder only a little more, and a handheld GPS about the same — all excellent value for the peace of mind; of all the nav electronics he has used and lost, none is missed more than a depth sounder; around the Pacific Northwest a depth sounder is often called the most useful coastal navigation tool, letting a sailor follow a chosen fathom line as a line of position alongside dead reckoning, since "touch and go" depth-finding by feel can cost the boat and the sailor in that region.
 [12] Archive message page_2134 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2159, 2004-06-17) — "Re: sailmakers": full text and citation at [design/rig.md](/design/rig.md#sail-pricing).
 [13] Archive message page_2139 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2164, 2004-06-18) — "Re: depth finder": thanks those who replied; agrees mounting on the transom (Alastair's approach) is more sensible than through-hulling; in fog even a small draft does not clear all obstacles, and knowing whether the water is one metre (wadeable) or five to ten metres matters for position-finding; holds RYA coastal-navigation certificates; has an outboard aboard despite the designer's own preference for sail and yuloh, citing his age and a back problem.
 [14] Archive message page_2141 (openboat / "Alastair", `paradoxbuilders`, msgnum 2166, 2004-06-18) — "Re: depth finder": in normal sailing trim the Paradox draws about 30 in with the rudder down, under a foot with it up; his own sailing ground has soft mud banks 2-3 ft under the surface, and running into the mud while tacking against wind and tide is not immediately obvious until speed is already lost and tacking off becomes impossible; the yuloh is no good against a 3-knot tide and he carries no engine; a sudden depth change can give a line of position on a coastal passage, and following a depth contour in fog can lead a boat safely into an estuary; bought his whole sounder setup new for £25; doesn't strictly *need* the GPS, VHF, shaver, or paperbacks either, but the sounder adds another dimension to sailing even in deep water. Signed "Al, Yeovil, England," replying to chadoora's original skeptical post (quoted in full).
 [15] Archive message page_2144 (chadoora, `paradoxbuilders`, msgnum 2169, 2004-06-22) — "Re: depth finder": clarifies his earlier comment was not aimed at anyone personally, only questioning whether a boat this size really needs so many electronic gadgets — "it is a value judgement."
 [16] Archive message page_2145 (openboat / "Alastair", `paradoxbuilders`, msgnum 2170, 2004-06-22) — "Re: depth finder": acknowledges he'd assumed everyone sails his own home waters, often the consistency of "a good Brown Windsor Soup"; with narrow channels flanked by shelving mud banks, the choice without a sounder is short tacks or risking grounding, and making headway against a contrary tide favors neither; agrees electronics aren't strictly needed "but we do like our toys"; a petrol outboard would be dangerous on his Paradox — on two lengthy trips anything left on deck (even sheerline marking tape) was washed off, ruling out carrying fuel on deck, and storing it below "doesn't bear thinking about."
 [17] Archive message page_2146 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2171, 2004-06-23) — "Re: depth finder": accepts he may have read chadoora's original comment more sharply than intended and apologizes for over-reacting.
+[18] Archive message page_3361 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3392, 2006-02-27) — "Compass": asks what compasses people have fitted and where; notes Alastair has a Silva 70n on bulkhead 2 of "Little Jim"; asks whether digital compasses (as built into a GPS or a wristwatch) are affected by local lumps of iron, and whether one of those could substitute for a dedicated compass. Signed "Derek."
+[19] Archive message page_3380 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3411, 2006-03-08) — "Compass": repeats the same question in near-identical terms — whether an electronic compass built into a wristwatch or a GPS is affected by nearby lumps of iron; no reply recorded in the archive.
+[20] Archive message page_3381 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3412, 2006-03-08) — "Re: Compass": a GPS's bearing comes from satellites, not magnetic north, so nearby iron will not throw it off. Quotes Derek Clark's original question in full. Signed "Jack" (see [people/jack-gardiner.md](/people/jack-gardiner.md)).
+[21] Archive message page_3382 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3413, 2006-03-08) — "Re: Compass": thanks Jack; his own wristwatch-compass test showed significant deviation near iron, so he plans to rely on the GPS's deviation-free compass for ordinary use and a small handheld for sighting and backup. Signed "derek."
+[22] Archive messages page_3383/page_3384 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3414, 2006-03-08; dclark / "dclark52001" / Derek Clark, msgnum 3415, 2006-03-08) — "Re: Compass": Jack posts a celestial-navigation-sextant link ("to pass the hours while lost") and describes his own kit — a Garmin GPSMAP 76 plus a smaller eTrex Vista, both working with his laptop for a moving-map display and usable standalone if not connected, plus a moderate-quality kayaker's compass mounted "in case of the unexpected"; Derek replies he would rather "carry a box of gps's" than deal with celestial navigation, which "smacks of sorcery," and confirms he has the older Garmin 76 himself.

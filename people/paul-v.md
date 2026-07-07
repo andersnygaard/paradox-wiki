@@ -3,7 +3,7 @@ type: Person
 title: Paul V. (cruisenewsnet / sohaven2002)
 description: A US small-boat designer and Paradox builder from the northern woods who documented his cold-climate build in a public "Build Book," volunteered as a list co-moderator, and posted the archive's fullest weight-vs-displacement discussion and real-time Everglades Challenge checkpoint reports.
 tags: [paradox, people, swamp-thing, design, self-righting, comparison, moderation]
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Paul V. (cruisenewsnet / sohaven2002)
@@ -126,6 +126,48 @@ plywood and epoxy, seven beams; see
   [chine runner construction — bronze versus steel plate, and lead birdshot
   as a lower-tech casting alternative](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy).
   [49]
+- **A design-lineage correction, and his own chine-runner sharpie.** Answering
+  a newcomer's guess that Paradox and Little Cruiser carry a lot of Phil
+  Bolger's sharpie philosophy, he judged it was **Ted Monroe's sharpie work**,
+  more than Bolger's, that actually inspired Paradox. By 2006 he was building
+  a stitch-and-glue sharpie of his own design fitted with chine runners,
+  directly inspired by Matt Layden's boats; having tried out some of his own
+  ideas, he judged that following the plans is the surer route to a boat that
+  is known to work well, while designing one's own boat suits a builder who
+  has already built a few and wants to experiment. [50]
+- **A transom outboard-bracket-box idea.** On the recurring side/transom
+  outboard-mount question, proposed an open-topped bracket box built onto
+  the transom, sized to hold a 2-gallon fuel jug, with the outboard clamped
+  to the box's aft edge and its throttle, kill switch, and pull-start cord
+  all extended forward to the cockpit. See [auxiliary outboard power — a
+  transom-mounted petrol outboard, fuel stowage, and
+  trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[51]
+- **The "Whaleback" derivative resurfaces.** Revisited his own
+  Paradox-derivative design (see "His own designs and his Paradox build"
+  above) directly on the `paradoxbuilders` list, having found no interest
+  posting about it on the `microcruising` list, and invited discussion of
+  the many building problems his boat shares with Paradox — see the
+  `cruisenews.net/whaleback` design pages. The below-threshold,
+  unconfirmed-identity 2006 "Chris Curtis" (`ccurtis`/`joe_mapango`,
+  Sandpoint Computers — distinct from the established Sandpoint, Idaho
+  Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md))
+  answered with design questions (why Whaleback's sides are flatter than
+  Paradox's, and why he did not simply build a larger Paradox instead) and
+  used the exchange to confirm his own maxi-paradox plan in more
+  detail — see [stretched Paradox — a builder's 18-19 ft "maxi paradox,"
+  under
+  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[52][53]
+  A below-threshold correspondent, John Pertalion, also answered on the
+  design merits alone: liked extending the cabin out to the hull's sides for
+  easier building and maximized interior space, and, drawing the boat
+  himself, would increase the beam slightly, make the hull lines fuller at
+  the ends, and widen the transom — all to help the boat stand up to her rig
+  and sail better — before realizing from a second look that Paul was
+  already well into construction rather than still at the design stage.[54][55]
+  Paul declined to continue the design-change discussion on `paradoxbuilders`
+  itself, judging that construction-method questions belong there but that
+  design changes to Paradox belong on the `microcruising` list instead, and
+  said he would answer Chris Curtis and John there.[56]
 
 ## Milestones
 
@@ -187,3 +229,10 @@ conditions.
 [47] Archive message page_873 (admin / Paul V., `paradoxbuilders`, msgnum 888, 2003-03-12) — "Re: another race comment:-)": wonders why no Hobie-cat-style catamarans entered, judging one would be "very competitive"; "I never thought of the Paradox as a racing boat, more of a slow but steady cruiser."
 [48] Archive message page_886 (cruisenewsnet / Paul V., `paradoxbuilders`, msgnum 901, 2003-03-30) — "Re: Solar Panel": links a 5-watt solar panel product page (northerntool.com), enough to maintain a charge but maybe not keep up with daily use over several days; links his own site's equipment page, cruisenews.net/equipment.html.
 [49] Archive message page_1218 (cruisenewsnet / Paul V., `paradoxbuilders`, msgnum 1238, 2003-10-05) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy).
+[50] Archive message page_3751 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3783, 2006-07-19) — "Re: Paradox Plans": judges it is Ted Monroe's sharpie, more than Phil Bolger's, that inspired Paradox; is building a stitch-and-glue sharpie of his own design with chine runners, inspired by Matt Layden's boats, having tried out ideas of his own; advises following the plans for a boat known to work well, versus designing one's own once a builder has a few boats' experience.
+[51] Archive message page_3896 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3928, 2006-08-28) — "Re: Side Motor Mount": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim); proposes an open-topped outboard bracket box on the transom sized for a 2-gallon fuel jug, the outboard clamped to its aft edge, with throttle, kill switch, and pull-start cord all extended forward to the cockpit.
+[52] Archive message page_3899 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3931, 2006-08-29) — "Whaleback, Paradox derivative": wonders whether he might post and discuss his own boat here, since it is in many ways very similar to a Paradox and posting about it on the `microcruising` list drew no interest; is working through many of the same problems Paradox builders face; links `cruisenews.net/whaleback/`.
+[53] Archive message page_3900 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3932, 2006-08-28) — "Re: Whaleback, Paradox derivative": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); had seen Paul's post on `microcruising` and looked at his website's pictures; asks why Whaleback's sides are flatter than Paradox's and why Paul did not simply build a larger Paradox, not advocating either but learning from the comparison; mentions his own plan to build a Paradox enlarged by roughly a third with a chubbier top deck, somewhat like the BRIS Paradox. Signed "Chris Curtis, Sandpoint Computers."
+[54] Archive message page_3902 (john / "ajmctaggert" / John Pertalion, `paradoxbuilders`, msgnum 3934, 2006-08-29) — "Re: Whaleback, Paradox derivative": thanks Paul for posting; likes extending the cabin out to the hull's sides for easier building and maximized interior space; if he were drawing the boat, would increase the beam slightly, make the hull lines fuller at the ends, and widen the transom, all to help her stand up to her rig and sail better. Signed "John."
+[55] Archive message page_3903 (john / "ajmctaggert" / John Pertalion, `paradoxbuilders`, msgnum 3935, 2006-08-29) — "Re: Whaleback, Paradox derivative": apologizes for replying with design commentary, having just realized Paul is already well into building the boat; "Nice progress." Signed "John."
+[56] Archive message page_3904 (cruisenewsnet / "Paul V.", `paradoxbuilders`, msgnum 3936, 2006-08-29) — "Re: Whaleback, Paradox derivative": will respond to Chris Curtis and John on the `microcruising` forum instead; construction-method questions belong on `paradoxbuilders`, but design-change discussion of Paradox herself belongs elsewhere.

@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Heavy-weather tactics — rudder position under sea anchor, lying a-hull, and maximum heel
-description: Storm and heavy-weather tactics for the Paradox — rudder position under a sea anchor, why lying a-hull is discouraged in favor of a sea anchor, a starboard-tack sea-anchor technique for heaving-to, the Bolducs' practice-tested reduce-sail-and-shelter doctrine, why a keel-less hull resists tripping in steep waves, and whether the crew needs to be physically restrained during a knockdown.
+description: Storm and heavy-weather tactics for the Paradox — rudder position under a sea anchor, why lying a-hull is discouraged in favor of a sea anchor, a starboard-tack sea-anchor technique for heaving-to, the Bolducs' practice-tested reduce-sail-and-shelter doctrine, why a keel-less hull resists tripping in steep waves, why a closed cabin is a comfort choice rather than a trap, and whether the crew needs to be physically restrained during a knockdown.
 tags: [paradox, operations, seamanship, heavy-weather, sea-anchor, rudder, heeling, lying-a-hull, storm-tactics, drogue, knockdown, crew-safety]
 timestamp: 2026-07-04T00:00:00Z
 ---
@@ -196,6 +196,66 @@ and in the ocean-rowing record: **John Ridgway and Chay Blyth**, who rowed the
 Atlantic in 1966 in the dory-like *English Rose*, likewise went deliberately
 without a keel.
 
+## Whether a closed cabin is a safety risk, or a comfort
+
+A newcomer's most basic worry about the design — that sitting inside a
+closed cabin in a sudden gust means anticipating disaster rather than
+avoiding it — has a direct answer: the cabin is not a trap, and closing the
+hatch is more often a **comfort** decision than an emergency one.[38] Since a
+Paradox carries no keel but does carry a lot of ballast low down, she is
+built to **self-right** even from a full capsize, and in one owner's own
+experience she has done so in practice. If a hatch were ever to fail to
+seal, the hull's built-in buoyancy and air pockets would still keep her
+afloat deck-level with the water — the standard advice in any capsize,
+Paradox or otherwise, is to stay with the boat rather than swim for it,
+since a boat is far easier for rescuers to spot than a person in the
+water.[39]
+
+Firsthand experience settles the theoretical question. **Self-righting is
+rated, from a stability curve, to work even from as far over as 160
+degrees**, and requires no crew action at all — a contrast with a Bolger
+"Birdwatcher"-type hull, which is righted deliberately by the crew shifting
+their own body weight. One owner's own accidental 90-degree knockdown
+(brought on by a seamanship error, not weather) recovered on its own "before
+I had really registered what had happened" — closer, in the owner's words,
+to sailing "a yacht than a dinghy."[40] Sailing with the hatch closed is
+routine and often
+simply more comfortable, not a defensive posture reserved for rough
+weather — the same owner sails that way even on calm, sunny days, since the
+cabin gives good all-round vision and plenty of ventilation rather than
+shutting the sailor away from the boat's handling.[41] Only once, closed up
+early as conditions worsened and wearing a harness cleated to the aft deck,
+did that owner see any water actually get in: the harness webbing itself
+held the hatch open by its own thickness, admitting a trickle that wet a
+sleeve but never amounted to enough to need the bilge pump — sponged dry
+afterward by hand.[41] A closed hatch pushed under by a wave, as opposed to
+merely getting the rail wet, is "a long way" from anything experienced in
+ordinary sailing.[41]
+
+A further real-world precedent for staying inside a capsized hull rather
+than abandoning it: sailor **James Bullimore** famously survived several
+days adrift by staying in an air pocket inside an upturned catamaran on the
+open ocean before being rescued — the same "stay with the boat" logic
+applied to a very different vessel.[38]
+
+A related worry concerns a **jammed hatch after a collision** rather than a
+capsize — a crash damaging the boat and binding the hatch slides shut while
+water comes in, with no obvious way to break out through the immensely
+strong polycarbonate glazing.[43] In practice, the hatch runner is held down
+by seven bolts each side, all easily reached from inside; removing the nuts
+from just one side lets the whole hatch lift off, and a hard, adrenaline-backed
+kick would likely snap the quarter-inch wooden lip that traps the runner
+regardless. The boat is also designed to float even completely full of
+water, so a jammed hatch is not itself a sinking risk. A more serious
+practical worry than a jammed hatch is **fire**, since the cooker sits just
+behind it — reason enough to carry both a fire extinguisher and a fire
+blanket aboard.[44]
+
+Left unanswered on record: whether anyone has deliberately flooded a
+"plans built" Paradox while afloat to observe firsthand how she behaves and
+how low she squats, as distinct from the float-when-full design claim
+above.[45]
+
 ## Securing the crew during a knockdown
 
 Distinct from the boat's own righting behavior (above) is the **crew's body**
@@ -286,6 +346,20 @@ See also [gulf stream crossing](/operations/gulf-stream-crossing.md),
 [blue-water suitability](/design/blue-water-suitability.md), and
 [ground tackle](/operations/ground-tackle.md).
 
+## Handling in a blow: pointing through it rather than reducing sail early
+
+[Alastair](/people/alastair.md)'s own firsthand upper bound, from open water,
+is a **Force 5 quartering-to-beam wind** — carrying, by his own admission,
+somewhat more sail than he strictly needed at the time. His practice in that
+wind was simply to point the bow where he wanted to go and let the hull
+punch through the waves, rather than easing off or reducing sail
+defensively; helm control felt the same whether he was sitting inside the
+cabin or out in the open. He does not "hunker down" in a blow as some
+newcomers picture it — he sits in the cabin normally, often reading a
+book — underscoring the same point made [above](#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort)
+that closing up the cabin is ordinary practice, not a defensive posture
+reserved for rough weather.[42]
+
 ## A wind-against-tide encounter, and the case against foredeck storage
 
 A firsthand account from the south coast of England — where wind-against-tide
@@ -315,6 +389,34 @@ seal in particular is "so simple and elegant" that "the little details
 make all the difference," rating his own workmanship a distant second to
 the design itself.[36][37]
 
+## A newcomer's rough-weather FAQ: tacking, pitchpoling, submarining, and lying to a drogue
+
+A prospective builder's first-principles questions about rough-weather
+handling, asked before ever having sailed a Paradox, gather several answers
+already scattered across this page into one place. On **why the boat
+doesn't get blown off course while tacking**, when neither chine runner is
+briefly gripping water: the runners work whenever the hull is heeled, since
+heeling itself — not the tack through head-to-wind — is what engages
+them; see [how chine runners work](/chine-runners/how-they-work.md) for
+the underlying mechanism. On **pitchpoling and a wave breaking over the
+bow**: the worst water on record was taken running with a foul tide against
+the wind through a tide race, with solid water coming clean over the
+cabin — consistent with the [wind-against-tide
+account](#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage)
+above. On **submarining, steering, and water through the vents**: sailing
+that same tide race with the tiller and mainsheet both locked off, the boat
+steered herself with no attention needed from the crew, and while large
+quantities of water could be heard running off the deck into the vent
+trunk, none of it reached the cabin — the vent trunk's drain design (see
+[transom deck plate — the vent trunk's own
+drain](/construction/transom-deck-plate.md#the-vent-trunks-own-drain))
+doing exactly the job it is built for under a real load, not just a light
+rinse. Left unanswered on record: how the boat points and behaves lying to
+a drogue, and whether the keel-less hull's chine runners can catch on the
+water lying a-hull to steep waves, as distinct from the lying-a-hull
+question already addressed
+[above](#lying-a-hull-vs-a-sea-anchor).[46][47]
+
 ## An open question on motorboat wakes and following seas
 
 Two handling questions in wave conditions short of a storm remain unanswered
@@ -342,10 +444,10 @@ variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-
 [14] Archive message page_1718 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1740, 2004-01-02) — "Re: Paradox in rough weather": praises Bill's post; adds that Paradox, as a sharpie akin to a dory, benefits from having no keel in steep waves — old dory fishermen knew a keeled dory slipping sideways down a wave would "trip" over its keel, a risk their keel-less boats avoided.
 [15] Archive message page_1719 (gilljam.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1741, 2004-01-02) — "Re: Paradox in rough weather": "... and referring to Sven in 'chapter9'" — pointing to the same dory/no-keel discussion in his own translated excerpt of Sven Yrvind's book.
 [16] Archive message page_1721 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1743, 2004-01-02) — "Re: Paradox in rough weather": replying to Kjell Karlsson's "chapter9" reference, adds John Ridgway and Chay Blyth, the 1966 ocean rowers who crossed the Atlantic in their dory-like rowboat *English Rose* without adding a keel.
-[17] Archive message page_1747 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1747, 2004-01-02) — "Center of Gravity": assumes Matt's stability calculations use a static center of gravity with the boat loaded to the DWL; asks whether a drawing of Sven Yrvind's new boat, by Matt Layden, shows the crew buckled into position; his own center of gravity would shift dramatically if his ~225 lb frame were thrown onto the upturned cabin top during a roll; asks for others' ideas on securing the sailor to the sole (Velcro pants, belt with after-centerline snaphook, automotive seatbelt, "bubblegum... necessary?"); quotes Bert Vercauteren's stability/flat-panel message in full.
+[17] Archive message page_1747 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1747, 2004-01-02) — "Center of Gravity": assumes Matt's stability calculations use a static center of gravity with the boat loaded to the DWL; asks whether a drawing of Sven Yrvind's new boat, by Matt Layden, shows the crew buckled into position; his own center of gravity would shift dramatically if his ~225 lb frame were thrown onto the upturned cabin top during a roll; asks for others' ideas on securing the sailor to the sole (Velcro pants, belt with after-centerline snaphook, automotive seatbelt, "bubblegum... necessary?"); quotes Bert Vercauteren's stability/flat-panel message in full.
 [18] Archive message page_1748 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1748, 2004-01-02) — "Re: Center of Gravity": no elaborate restraint is needed — the crew need only move their weight to one side or the other, and Paradox will right herself given the combined effect of crew weight, ballast, and wave action.
-[19] Archive message page_1744 (openboat / "Alastair", `paradoxbuilders`, msgnum 1766, 2004-01-03) — "Re: Center of Gravity": in his own 90-degree knockdown aboard "little Jim" he didn't move far — braced a hand against the window frame as the boat went over, and within a few seconds, before he had fully collected his thoughts, the boat was back up and sailing again with the cushion still under him; quotes DC's original "Center of Gravity" post in full; signed "Al, Yeovil, England."
-[20] Archive message page_1763 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1786, 2004-01-04) — "Re: Center of Gravity": after reading Gerry Spiess's "Alone Against the Atlantic," considers installing seat belts at shoulder, thigh, and shin level, made fast to eye bolts on the cabin sole outboard so as not to interfere with normal activity, and kept in a locker when not needed; quotes DC's original message in full. Signed "Tailwinds, Glen."
+[19] Archive message page_1744 (openboat / "Alastair", `paradoxbuilders`, msgnum 1766, 2004-01-03) — "Re: Center of Gravity": in his own 90-degree knockdown aboard "little Jim" he didn't move far — braced a hand against the window frame as the boat went over, and within a few seconds, before he had fully collected his thoughts, the boat was back up and sailing again with the cushion still under him; quotes Smith's original "Center of Gravity" post in full; signed "Al, Yeovil, England."
+[20] Archive message page_1763 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1786, 2004-01-04) — "Re: Center of Gravity": after reading Gerry Spiess's "Alone Against the Atlantic," considers installing seat belts at shoulder, thigh, and shin level, made fast to eye bolts on the cabin sole outboard so as not to interfere with normal activity, and kept in a locker when not needed; quotes Smith's original message in full. Signed "Tailwinds, Glen."
 [21] Archive message page_1766 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1789, 2004-01-04) — "Re: Center of Gravity": an excellent idea, but many cabin injuries are caused by flying objects, not by the body sliding — make sure any lockers built for the belts are up to it; suggests padding sharp corners or routering them round and then padding (with pipe insulation?). Signed "Bill Longyard."
 [22] Archive message page_1770 (alopenboat / "Alastair", `paradoxbuilders`, msgnum 1793, 2004-01-05) — "Re: Center of Gravity": "I think I shall use my knock down as a learning experience, and learn not to go out in weather like that again!" Signed "Hoping for calm nights, Al, Yeovil, England."
 [23] Archive message page_1885 (openboat / "Alastair", `paradoxbuilders`, msgnum 1908, 2004-01-26) — "Re: Heaving-to was double rudders": asks how one would go about heaving to in a Paradox.
@@ -353,7 +455,7 @@ variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-
 [25] Archive message page_1930 (ntsrfer / "Todd", `paradoxbuilders`, msgnum 1953, 2004-02-16) — "Has anyone rolled a parodox ?": prompted by a friend's account of a rough Catalina-ferry crossing in 15 ft breaking seas, asks whether a Paradox could survive multiple rolls or an end-over-end pitchpole in big seas; separately asks whether anyone has sailed a Paradox to Hawaii, or from Long Beach, CA to the tip of Baja Mexico and back, calling it "just some arm chair sailing for thought"; unanswered in the archive as of this message.
 [26] Archive message page_1954 (ntsrfer / "Todd", `paradoxbuilders`, msgnum 1977, 2004-03-08) — "Whats the strongest winds ?": asks what the strongest winds and biggest seas a Paradox has sailed in to date, how she handled it, and whether she could sail to windward easily in the roughest conditions.
 [27] Archive message page_1956 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1979, 2004-03-09) — "Re: Whats the strongest winds ?": a difficult question to answer; Matt has sailed "Paradox" in winds over 30 kt; there are pictures on Dave and Mindy's web site of him sailing with Chris Morejohn and Mindy aboard in the Exuma Sound in winds over 20 kt (Dave thought closer to 30 kt); since she is still sailed and has always made her destinations, she can handle the weather and seas; questions whether any boat can sail to windward "easily" in the roughest conditions, since his own experience there has always been rough on crew and boat regardless of the boat sailed; doesn't think he has met in "Zoë" anything like what Alastair has met in "Little Jim" — points Todd to Alastair's own web site for his adventures. Signed "Tailwinds, Glen."
-[28] Archive message page_2086 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2110, 2004-05-15) — "Storm Tactics Handbook": recommends the book *Storm Tactics Handbook: Modern Methods of Heaving-To for Survival in Extreme Conditions* (Amazon listing linked) in light of the ongoing storm-tactics discussion; notes Paradox, as a coastal cruiser, would likely never see such extreme conditions, but the book might "stoke the belly fire of the armchair sailor."
+[28] Archive message page_2086 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2110, 2004-05-15) — "Storm Tactics Handbook": recommends the book *Storm Tactics Handbook: Modern Methods of Heaving-To for Survival in Extreme Conditions* (Amazon listing linked) in light of the ongoing storm-tactics discussion; notes Paradox, as a coastal cruiser, would likely never see such extreme conditions, but the book might "stoke the belly fire of the armchair sailor."
 [29] Archive message page_2088 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2112, 2004-05-15) — "Re: Storm Tactics Handbook": asks whether anyone has tried heaving-to in a Paradox; wants to try it himself next time out but is not sure how; signs "David (Whisper)."
 [30] Archive message page_2089 (openboat / "Alastair", `paradoxbuilders`, msgnum 2113, 2004-05-15) — "Re: Storm Tactics Handbook": has not tried heaving-to himself but offers three untested ideas — holding the boom in a fixed position (since the boat weathercocks downwind with the rudder fully raised) to set the hull at a chosen angle to the sea; sheeting a couple of feet of sail in tight with the rudder turned toward the wind, reasoning too little sail would drive the boat through the wind; deliberately unbalancing the boat before a tack, since an unbalanced Paradox already gives him tacking trouble; invites others to report back if anything works.
 [31] Archive message page_2090 (DLB / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2114, 2004-05-15) — "Re: Storm Tactics Handbook": asks how one would go about deliberately unbalancing or balancing the boat; describes his own rudder as neutral and sail trim set so a strong gust makes the boat head into the wind, which he believes is correctly balanced, but still has trouble tacking in light air.
@@ -363,3 +465,13 @@ variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-
 [35] Archive message page_2791 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2822, 2005-06-11) — "Re: Scale mockup of wind genny and radar on Paradox": replying to Nels, adds that a 2 in PVC-tape sheer line applied for his earlier launch photographs was washed almost entirely off the sheer during the wind-against-tide trip and ended up wrapped round the mast and cabin, yet not a drop of water got inside; thanks Matt again. Signed "Al, Yeovil, England."
 [36] Archive message page_2792 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2823, 2005-06-11) — "Re: Stuff on deck of Paradox": asks Alastair whether the dry-inside result was down to the boat's design or his own workmanship. Signed "Chris."
 [37] Archive message page_2795 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2826, 2005-06-12) — "Re: Stuff on deck of Paradox": answers Chris Ostlind — the design, not the workmanship ("What's that?"); the little details make all the difference, singling out the cabin hatch seal's design as "so simple and elegant." Signed "Al, Yeovil, England."
+[38] Archive message page_3456 (eemikez / "mikezcnc" / Mike, `paradoxbuilders`, msgnum 3487, 2006-03-23) — "I am concerned that a sailor is trapped in the yacht.": worries that a sudden gusty wind demands strict discipline keeping the cabin closed to avoid sinking, and finds it hard to imagine sitting inside a closed cabin anticipating the worst; asks for clarification. Signed "Mike."
+[39] Archive message page_3457 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3488, 2006-03-23) — "Re: I am concerned that a sailor is trapped in the yacht.": Paradox has no keel but carries a lot of weight low down and is supposed to self-right, which in Al Law's own experience it does; would not trust any lid to be fully watertight, but the boat carries air pockets and built-in buoyancy; his own planned design uses a fabric roll-top; if upright and floating deck-level, the standard advice is to sit tight with head and shoulders above water and wait, since rescue services say to stay with the boat as it is easier to spot than a swimmer; cites James Bullimore's famous multi-day survival in an air pocket inside an upturned catamaran; reflects that a sudden crisis (citing his own experience panicking during a microlight loss of lift) is harder to handle calmly than one that develops slowly, but that the priority throughout is to stay with the boat.
+[40] Archive messages page_3458/page_3459 (martin.feaviour / "martin304919" / Martin Feaviour, `paradoxbuilders`, msgnum 3489, 2006-03-23, "RE TRAPPED IN BOAT"; openboat / "alopenboat" / Alastair, msgnum 3490, 2006-03-23, "Re: RE TRAPPED IN BOAT") — Martin asks whether a Paradox could be rolled upright by shifting body weight, as in Bolger's "Birdwatcher"; Alastair answers that Paradox self-rights theoretically from as far over as 160 degrees with no crew action needed, and recounts his own 90-degree knockdown (a seamanship error) recovering before he had registered what had happened, "much more a yacht than a dinghy" in this respect. Signed "Martin" / "Al, Yeovil, England."
+[41] Archive message page_3460 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3491, 2006-03-23) — "Re: I am concerned that a sailor is trapped in the yacht.": answers Mike directly — closing the hatch in a blow is a comfort choice, not a defensive one, since he has often sailed hatch-shut simply because it was more comfortable; has occasionally put the rail under in sheltered water but never the hatch itself; on the one occasion of a 90-degree knockdown, he had already closed up as conditions deteriorated, wearing a harness cleated to the aft deck whose webbing held the hatch open by its own thickness, admitting a trickle that wet a sleeve but never enough to need the bilge pump, sponged dry afterward; Paradox is designed to be sailed from inside, a comfortable sailing position with good all-round vision and ventilation rather than merely a cabin to retreat into, and he often sails that way even on bright, calm days. Signed "Al, Yeovil, England."
+[42] Archive messages page_3469/page_3470 (dylan.winter / "dylanwinter2001" / Dylan Winter, `paradoxbuilders`, msgnum 3500, 2006-03-25, "heavy weather," a months-long lurker with sailing experience up to 22 ft boats asks how a Paradox sails in a blow, how she behaves in waves, and whether a wave pattern can be read properly from inside the cabin, given the design's radical appearance; openboat / "alopenboat" / Alastair, msgnum 3501, 2006-03-25, "Re: heavy weather," answers from his own experience: the roughest open water he has met was a Force 5 quartering-to-beam wind, carrying a bit too much sail at the time, simply pointing where he wanted to go and letting the hull punch through the waves, with the same control whether sitting in or out of the cabin; does not "hunker down," but sits in the cabin normally, often reading a book. Signed "Al, Yeovil, England.")
+[43] Archive message page_3598 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3629, 2006-04-27) — "Re: Sliding hatch runners": worries that a crash could take on water quickly while also binding the hatch slides shut, and asks how a sailor would break out — a hand axe, a hammer through the decking — noting the polycarbonate glazing's great strength; asks whether the risk of a jammed hatch has occurred to anyone else. Signed "Steve Yahn."
+[44] Archive message page_3599 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3630, 2006-04-27) — "Re: Sliding hatch runners": answers Stephen Yahn — unsure what damage would actually cause such jamming, and in any case the Paradox is designed to float even full of water; the hatch runner is held by seven bolts each side, easily reached from inside, so removing one side's nuts lets the hatch lift off, and a hard kick would likely snap the runner's quarter-inch wooden lip regardless; judges a bigger real worry is being trapped by fire, since the cooker sits just behind the hatch, and carries both an extinguisher and a fire blanket for that reason. Signed "Al, Yeovil, England."
+[45] Archive message page_3602 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 3633, 2006-04-27) — "Paradox Flooded": asks whether anyone has ever filled a "plans built" Paradox with water while afloat to see how she behaves and how low she squats, and whether pictures exist of the test. Signed "Steve Yahn."
+[46] Archive message page_3638 (dmitry.orlov / "orlov_dm" / Dmitry Orlov, `paradoxbuilders`, msgnum 3669, 2006-05-22) — "Rough-weather handling": new to the group and thinking of building a Paradox that fall/winter, having never sailed one; asks what keeps the boat from being blown off course while tacking when neither chine runner is gripping water; whether the lack of bow flare makes pitchpoling more likely skidding off a wave crest, and how she handles a wave breaking over the bow; what "submarining" with the bow buried in a wave is like, whether she still steers, and whether water enters through the vents; how she points and behaves lying to a drogue; and how she behaves lying a-hull to steep waves given no keel to trip over, but with chine runners that might still catch the water.
+[47] Archive message page_3639 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3670, 2006-05-22) — "Re: Rough-weather handling": answers what he can of Dmitry Orlov's questions: his own build took 18 months, more than the "couple of months" Orlov was picturing, though he believes it could be done faster; heeling itself is what engages the chine runner when the wind loads the sail, addressing the tacking question; the worst water he has met was solid water coming over the cabin in a tide race, running with the tide against the wind; sailing that race with the tiller and mainsheet both locked off, the boat sailed herself with no adjustment needed, and while he could hear large quantities of water running off the deck into the vent trunk, none of it came into the cabin. Signed "Al, Yeovil, England."

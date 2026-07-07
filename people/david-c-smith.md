@@ -1,0 +1,524 @@
+---
+type: Person
+title: David C. Smith
+description: A Pacific Northwest professional boatbuilder who built his own Paradox "Swash" and became a leading voice on design fidelity, sail trim, cabin heating, ground tackle, and navigation lights.
+tags: [paradox, people, david-c-smith, newcomer, boatbuilder, sail, cabin-heating, navigation-lights]
+timestamp: 2026-07-04T00:00:00Z
+---
+
+# David C. Smith
+
+**David C. Smith** is a Pacific Northwest **professional boatbuilder of twenty years**
+who built his own Paradox, named **"Swash"** once her hull was far enough
+along to launch build photos, and became one of the list's most substantial
+contributors on design philosophy, sail trim, cabin heating, ground tackle,
+and navigation lights. He read the entire archive before introducing himself
+and was actively underway on his build by mid-2003, having bought his plywood
+and lumber. His only prior boat was a modified **Elver** canoe yawl (below).
+
+## What he built and sails
+
+By June 2003 he was building a Paradox strictly as drawn, using **Joubert
+Okoume BS-1088 plywood**, **Honduras Mahogany** solid lumber through most of
+the hull, and **West System epoxy**. His earlier boat — his and his wife's
+20 ft **Elver** canoe yawl, designed by **Steve Redmond** and modified by Smith
+himself with leeboards in place of a centerboard — he judged "a
+disappointing boat in general," a verdict he tied directly to having
+"disrespected the work of the designer." His material choices are detailed
+on [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md).
+
+## A designer-fidelity credo
+
+Smith's defining contribution to the list was an articulate, career-boatbuilder's
+case for building strictly **as drawn**. Fidelity to the plans is "a simple
+matter of respect": Paradox was drawn only after an evolution of a single type
+refined through the prototype's own extensive use — the same
+Terrapin-through-Elusion design lineage this archive documents (see
+[Matt Layden](/matt-layden/index.md)). The credo draws a careful line between
+changing a design's **geometry/specifications** (off-limits) and changing
+**details** that do not touch them (a builder's prerogative), citing routine
+detail modifications at "some of the world's highest regarded yards." His own
+disappointing Elver, modified against its designer's intent, gave the credo
+its personal origin. See
+[Matt Layden — a professional boatbuilder joins the list](/matt-layden/biography.md).
+
+## Contributions and stories
+
+**Rig, sail, and steering.** Curing over-sheeted tacking calls for easing the
+sheet to a luff-flutter before firming the sail; **leech telltales** work well
+made from ordinary cassette tape. A bowing yard is fixed with Kevlar/epoxy on
+the tension surface, or by cutting the sail to the yard's own bowed shape. A
+brass tack-pipe spacer does not wear the deck if it is a swaged copper
+fairlead. See [rig and sail](/design/rig.md) and
+[design/furling-system.md](/design/furling-system.md). On mast material: a
+birdmouth-built spar sleeved in braided carbon fiber matches Matt Layden's own
+original composite-rig intent and was judged, by weight and strength estimate,
+roughly half the weight and triple the strength of the stock spruce mast for
+a negligible weight penalty aloft — the real payoff being the building
+experience itself; Douglas fir is the strongest solid alternative to Sitka
+spruce, with Honduras mahogany and Alaskan yellow cedar usable at some cost in
+strength. Sail draft should scale with a boat's displacement — a heavier boat
+needs *more* draft, not less. The original prototype's single-part mainsheet,
+led through the transom to the boom, was superseded on the plans by an
+improved two-part purchase. See [rig and sail — wood species for a
+scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast),
+[— a birdmouth-and-carbon composite mast,
+revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited),
+[— how much draft a Paradox lug sail should
+carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry), and
+[— sheet entry through the transom: prototype versus
+plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans).
+A well-cut sail — Glen Maxwell's Dabbler re-cut among them — is a high enough
+bar that would-be sailmakers may want *The Sailmaker's Apprentice* in hand
+before attempting their own; see
+[rig and sail — the Dabbler re-cut](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement).
+
+**Cabin heating, cushions, and systems.** An inverted flowerpot over the stove
+retains heat but needs securing so it can't shift loose; whether a gimballed
+kerosene lamp suits a Paradox cabin is untested. See
+[cabin heating](/operations/cabin-heating.md). A **Therm-a-Rest**, or a
+Sunbrella-covered inner tube anchored at one centerline point so it flips with
+the tack, both work as cabin cushions; see
+[boats/little-jim.md](/boats/little-jim.md). **Glycerin** lubricates deck-plate
+O-rings well (including on Beckson deckplates), and a Channellock-handle gives
+useful leverage seating a stubborn one; see
+[transom deck plate — leaking inspection plates](/construction/transom-deck-plate.md).
+LEDs beat kerosene running lights on cost and lifespan (roughly 10,000 hours),
+and a single all-around white masthead light satisfies both running- and
+anchor-light COLREGs unless motoring — a point on which the Pardeys' published
+advice is simply wrong. See [running lights](/operations/running-lights.md).
+A closed-bilge design — no limber holes, only compartmentalized bilge spaces
+— pairs with a simple three-tier response to unwanted water: sponge, portable
+pump, fixed pump; see [weight and ballast — has anyone actually needed the
+bilge pump?](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
+
+**Materials and construction technique.** Foam-flotation choice is builder's
+discretion: foam glued in under a thin protective sheet avoids the
+condensation and foil-facing risks of a removable-foam approach, though either
+works; see
+[plywood grades and foam flotation](/construction/plywood-grades-and-foam-flotation.md).
+System Three is a sound epoxy choice, and a latex-and-Hypalon-rubber product
+("Spantex") makes a good non-skid deck coating; see
+[epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md#system-threes-flexibility-and-a-regional-supplier-preference)
+and
+[non-skid deck finish](/construction/non-skid-deck.md#spantexflex-o-tex-rubber-based-non-skid).
+Transom-side framing and bulkhead #4 crown differences of a few millimeters
+are trivial and correct out at trial assembly; see
+[hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
+A "scab" is simply a butt block, and bulkhead #2's own scab can be eliminated
+by scarphing its plywood together instead; bulkhead #2's rolling bevel runs
+about 8 degrees at the sheer to 13 degrees at the chine. See [hull assembly
+sequence — what a "scab" is](/construction/hull-assembly-sequence.md#what-a-scab-is-and-a-scarphed-alternative-that-eliminates-it)
+and [— rolling
+bevels](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s).
+Wax, enamel, and other antifouling shortcuts fall short for a bottom finish;
+an epoxy-barrier/vinyl/Pettit-Trinidad build-up (Interlux Micron, tinted
+green) suits serious cruising; see
+[bottom painting over epoxy](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
+Sheer clamps install before chine logs without difficulty; Honduras mahogany
+chine logs bend far harder than white oak. See [chine runner construction —
+milling solid chine logs](/chine-runners/construction.md#milling-solid-chine-logs-from-a-dense-hardwood)
+and [— sheer clamp and chine log installation
+order](/chine-runners/construction.md#sheer-clamp-and-chine-log-installation-order).
+Epoxy-set hardware bonding is sound engineering, with one caution: direct
+sunlight on black-colored hardware can generate enough heat to weaken the
+bond, favoring a less heat-sensitive formulation for such uses; see
+[fastening and gluing — hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting).
+Deck beam #1 can come in below fair at the centerline at dry fit — a known
+shortfall also seen on a New Zealand-built Paradox — traced to bulkhead #3's
+deck camber needing the camber template rather than the plotted-as-designed
+line; see [deck and cabin beam lamination — shimming deck beam
+#1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
+Chine-runner ballast lead can be cast into plaster molds shaped from a
+bench-built plug (which must be flat-and-fair on the bench, not an
+already-beveled finished section) and fastened behind the runners' glass
+sheathing, freeing bilge stowage space; bronze plate is the durable choice for
+a chine-runner shoe over steel/wood composites, which risk corrosion and
+bedding-compound failure. See [chine runner construction — lead ballast cast
+into plaster molds, a second
+round](/chine-runners/construction.md#casting-lead-ballast-into-the-runners)
+and [— bronze versus steel plate, and lead birdshot as a lower-tech casting
+alternative](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+Paradox's bulkheads need beveling at all, unlike "instant"-boat jig practice;
+dimensioned faces, bevels, and cleat-camber measurements read off sheets 2-4,
+7, and 8. See [hull assembly sequence — which side of the station line a
+bulkhead's dimensioned face falls
+on](/construction/hull-assembly-sequence.md#which-side-of-the-station-line-a-bulkheads-dimensioned-face-falls-on).
+A lower gudgeon can be built as a cast part (chopped-strand mat and epoxy in a
+female mold, wrapped in roving), a carved hardwood part such as purpleheart
+(also wrapped in roving), or built up from a polyester filler product
+(Duraglass or Kitty Hair) under epoxy/roving — all more complicated,
+plausibly, than the designer's own original method. See [Glen Maxwell — the
+build manual proposal, a concrete
+push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
+Clenched (not merely bent-over) nails are a permanent, traditional
+lapstrake/canoe fastening method, stronger than screws and easier than rivets,
+finishing flush on both sides under a light epoxy/microballoon fill; see
+[fastening and gluing — why the plans show clenched (not simply bent) nails,
+and how to clench
+one](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
+A too-sloppy or wracking hatch can be refitted with adhesive-backed sandpaper
+stuck to the fixed rail, worked back and forth until the fit loosens on every
+binding plane, leaving clearance for paint thickness; canning wax also frees a
+sticking slide. See [hatch hardware and security — refitting a too-sloppy or
+wracking hatch](/construction/hatch-hardware.md#refitting-a-too-sloppy-or-wracking-hatch).
+Neither alder nor hemlock suits Paradox's structural or joiner work well —
+the design's plywood scantlings were sized around lumberyard "hem-fir," a
+fast-growing, renewable, replanted farm-forest product, with no rot found
+aboard the original Paradox after years of use in AC exterior plywood.
+Alaska yellow cedar suits joinery work (soft but pleasant), and old-growth
+Douglas fir is a good general choice, though over-sanding fir wears away its
+soft summer-growth wood faster than the harder winter growth — edge tools
+suit it better than sandpaper. See [hull scantlings — whether alder and
+hemlock suit structural and joiner
+work](/design/hull-scantlings.md#alder-and-hemlock-for-structural-and-joiner-work).
+
+**Ground tackle, sea anchors, and radio.** Stowing anchor rode aboard a
+cockpit-less boat can use stern rollers, a Fortress-style or folding squid
+anchor, or a reel of nylon webbing mounted in a side-deck rig hoop — though a
+portable reel is not worth the complexity; see
+[ground tackle and anchoring](/operations/ground-tackle.md). Small surplus
+military chutes (closer to a cargo-drop drogue than a purpose-built sea
+anchor) can be re-rigged with long shrouds and a swivel to stop them
+collapsing and refilling; chain should never be part of a parachute
+sea-anchor rode, since a fishing boat has been pulled under and imploded on
+one. A flush, self-draining Danforth well on the afterdeck, or an off-center
+PVC-tube scheme for a folding grapnel, both work as anchor stowage; keeping
+weight and motion aft and inboard also suits a big sailor (6'1", 225 lb), who
+found moving forward on a small boat upset her balance. A cockpit-worked
+lanyard-and-roller retrieval system — bow-mounted rollers, an afterdeck
+locker, and a lanyard-and-block riding the rode back to the companionway —
+lets ground tackle be set, weighed, and swapped for a sea anchor without going
+forward, though a plainer stern-set method is simpler. A parachute sea anchor
+streamed roughly 45° off the bow protects a Paradox's exposed stern fittings
+better than a series drogue run off the transom; weather routing remains the
+first line of storm avoidance. See [ground tackle and anchoring — surplus
+military chutes as sea anchors, and lead angle under different
+hulls](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls),
+[— a flush anchor well, weight distribution, and
+drainage](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage),
+[— a cockpit-worked lanyard-and-roller retrieval
+system](/operations/ground-tackle.md#a-cockpit-worked-lanyard-and-roller-retrieval-system),
+and [transom deck plate — a proposed permanent tiller boot, and a sea-anchor
+vs. series-drogue
+rebuttal](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
+The Paradox's lightning-protection wiring, already run inside the mast, can
+double as a ready-made antenna groundplane for a permanently installed
+longwire HF radio with an automatic tuner — disabled for lightning protection,
+re-enabled for radio use — a simpler approach than a portable antenna; in
+practice a laptop-coupled cell phone or shortwave receiver has become a more
+likely source of weather data than a full HF ham rig. See [radio and
+electronics](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
+
+**Seamanship, stability, and blue-water suitability.** A seamanlike attitude,
+not a vessel's in-hindsight "seaworthiness" label, is what makes passages
+safe — the Paradox itself is "a masterful design" on this count; see
+[blue-water suitability](/design/blue-water-suitability.md#seamanship-over-seaworthiness-a-professional-builders-endorsement).
+A heavier sailor's weight, shifting during a knockdown, affects the
+righting-moment picture directly — ballast (including water ballast) is what
+absorbs that shift; see [Little Jim — a first crossing of the Solent](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003)
+and [heavy-weather tactics — securing the crew during a
+knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
+A basic depth sounder, fishfinder, or handheld GPS are all excellent value,
+and a depth sounder in particular is prized in the Pacific Northwest for
+following a chosen fathom line as a line of position in fog; see [GPS and
+navigation instruments — fitting a depth sounder or
+fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
+
+**Design fidelity applied to hull strength and materials.** The Paradox's
+design-as-drawn is already robust and needs no "strengthening" — as-specified
+sheer clamps and single-piece chine logs go in without much trouble, and
+adding hull weight also strains the rig and deck hardware above the sheer
+line, a load a light-displacement boat handles poorly. Added strength has a
+place only when an owner is building up an already-underbuilt secondhand
+boat, not in new construction to the plans. The same fidelity logic extends to
+material substitution: a boat built in aluminum instead of plywood could only
+still bear the Paradox name if Matt Layden himself modified his own design for
+it — a case argued at length against a steel-hulled Paradox proposal, judged
+"a horrible mistake." Mass and momentum favor a heavy, high-wetted-surface
+hull like Paradox at sculling — mass is what lets a boat carry its way between
+strokes (a loaded canoe glides where a solo paddler must keep stroking; a
+supertanker will coast for miles at a speed that stops a catamaran the instant
+its sail luffs) — while a light hull instead gains **acceleration**. A spare
+yuloh is accordingly unnecessary: it is auxiliary propulsion, not the sole
+source, so it does not need a paddler's backup. The plans' 30 mm yuloh-blade
+curve figure is measured from the yuloh's own centerline, not a fixed bend
+radius, since the blade is laminated around an arbitrary center and shaped
+afterward. See [hull planking — is a second layer of cloth
+worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth),
+[— museums, materials, and the case for building to
+spec](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec),
+[aluminum and steel Paradox (speculative) — why a steel Paradox would be "a
+horrible
+mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake),
+[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it),
+and [yuloh and stowed-rig retention — building the yuloh
+itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
+Surveying the archive's actual build variety — foam-core composite,
+stitch-and-glue plywood, and aluminum/steel proposals among them — only the
+original Paradox is truly "the real Paradox," with every other built example
+either aspiring to it or departing from it to be judged on its own terms;
+Matt Layden himself treats his design as a guide rather than a manual, on
+condition that a builder changing material recalculate the resulting weights
+and centers. See [aluminum and steel Paradox (speculative) — epilogue: why
+materials questions draw pushback, and a belated
+apology](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
+
+**Owning "Swash."** Smith's own Paradox, built strictly as drawn from Joubert
+Okoume BS-1088 plywood and Honduras mahogany, sails and moors downriver from
+Deer Island, Oregon, on the Columbia River — cruising grounds he judged well
+suited to year-round Northwest sailing. Briefly listed for sale in July 2004
+during a divorce, he ultimately kept and finished her himself. Full name
+origin, home waters, ownership philosophy, and the for-sale episode:
+[boats/swash.md](/boats/swash.md).
+
+**Community role.** Smith proposed a group-written, plans-only **Paradox build
+manual** — free, concise, edited for neutrality, and open to occasional,
+respectfully-posed clarifying questions to Matt Layden himself where the
+group's own knowledge fell short. The proposal directly provoked
+[Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
+into founding a rival splinter group; Smith declined to join it and publicly
+confirmed that Glen Maxwell, not Don, is `paradoxbuilders`' actual founder and
+moderator. [William Longyard](/people/william-longyard.md), author of *A
+Speck on the Sea*, agreed to help keep the manual "unbiased, concise and
+factual"; a bibliography thread drew *The Gougeon Brothers on Boat
+Construction*, three out-of-print Percy Blandford titles, and a nod to Harold
+"Dynamite" Payson. Smith wrote the manual's draft **introduction**, a
+**"Preparations"** installment (build-site guidance and a full categorized
+tool list), and a **"Deck Beam Template" and "Laminating Jigs"** installment —
+5mm Honduras mahogany laminates, 30-40 clamps per beam, and a corrected note
+that thinner laminates spring back *more*, not less, than thicker ones. He
+held that the design's self-fairing plywood tolerates real-world variance
+even as early sloppiness compounds through a build, and defended the tool
+list's scope against a "wildly excessive" charge (his own stationary power
+tools totaled under $1,200 new). No further group build-manual content beyond
+these installments is recorded. See [build effort and workspace — the Build
+Manual's introduction](/construction/build-effort.md#the-build-manuals-introduction),
+[— the Build Manual's "Preparations"
+installment](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory),
+[deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and
+"Laminating Jigs"
+installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment),
+and [— plywood versus solid timber
+lamination](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).
+
+Smith also acted as list moderator while Glen Maxwell was away on his Atlantic
+crossing, diagnosing a group-wide Yahoo storage-limit lockout and founding a
+second group, `paradoxbuilders2`, for photo and file overflow; see
+[the mailing list — the photo-storage limit, and the founding of
+paradoxbuilders2](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
+He gave newcomers some of the archive's fullest practical advice: keep a build
+log, break the project into small tasks, search the archives before asking,
+and learn to sail on a cheap dinghy (Phil Bolger's "Elegant Punt," a "Cape Cod
+Frosty," or an "El Toro") rather than treat the Paradox itself as a first
+sailing lesson; a very tall or heavy newcomer can expect no problem with
+weight in the stock cabin, though height may call for an inflatable mattress
+letting the legs hang past bulkhead #2 onto a cushion. See [Paradox as a first
+boat — advice for a newcomer at the very
+start](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first)
+and [crew size and cabin fit — a very large sailor's fit:
+6'8"/315 lb, and a cardboard-mockup
+suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
+He also gave the archive's fullest fishing-technique account — a homemade
+"meathook" trolling rig of tuna cord, surgical tubing, and a feathered jig,
+developed with commercial albacore fishermen and used to land sierra, bonito,
+albacore, yellowfin, yellowtail, and dorado — and a stove comparison rating
+Force 10's products good value against the Forespar Mini-Galley 2000; see
+[fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising)
+and [cabin heating — choosing a galley cooking
+stove](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative).
+He listed the part-built "Swash" for sale for $3,000 in July 2004, citing his
+divorce, but ultimately kept working toward finishing her himself; see
+[secondhand Paradox market — an unfinished hull for sale: "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
+He posted the `paradoxbuilders` list's **1,000th message**, and was among the
+first to welcome [Matt Layden](/matt-layden/biography.md)'s own
+[first-ever list post](/matt-layden/biography.md).
+
+**Further design and construction answers.** The rudder's pivot point sits on
+the transom centerline, per the plans; see [rudder — pivot point on the
+transom
+centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
+The plans' 3-layer-roving/4mm-glass bottom laminating schedule targets
+abrasion resistance rather than raw strength, since the stressed 18mm plywood
+bottom is already strong on its own, and is likely driven as much by economy
+as engineering; 12 oz biaxial cloth would serve the same 4mm target, though
+mat is not compatible with epoxy. See [hull planking — woven roving versus
+biaxial cloth: what the laminating schedule is
+for](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for).
+LED nav-light current draw should be figured against a charging battery
+(14.4V) or a rested, fully-charged one (12.6V), not just a steady 12V supply;
+under COLREGS, side lights — unlike the steaming and stern functions — may
+not be folded into a combined tricolor unit. See [running lights — running
+LEDs off a charging battery rather than a steady 12V
+supply](/operations/running-lights.md#running-leds-off-a-charging-battery-rather-than-a-steady-12v-supply).
+A raised, glazed cockpit enclosure has a real precedent outside boatbuilding:
+the F-16 fighter's canopy, adapted for unlimited hydroplane racing boats for
+nearly twenty years — "close cousins" to Paradox given the shared
+chine-runner/hydrodynamic-fence lineage. See [aluminum and steel Paradox
+(speculative) — a raised cabin, canopy, and cockpit-height
+ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas).
+Tacking trouble is better diagnosed as rudder stall (from being pushed to
+leeward too fast) and over-sheeting than as a rig-balance problem, worse in
+light air and eased by tacking more slowly with sheets tended throughout, plus
+telltales at the luff, leech, draft, and just aft of the mast; balance is
+found empirically through halyard placement rather than by a fore/aft split
+at the mast. See [sailing characteristics — center of effort, rudder stall,
+and telltale placement as the real tacking
+variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
+
+# Citations
+
+[1] Archive message page_904 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 919, 2003-04-22) — "Newbie...": professional boatbuilder of 20 years, read the whole archive before posting; the black-and-white Little Cruiser action shots and Paradox heavy-weather shots decided him on building his own Paradox "sistership"; will follow the plans exactly, having "long ago learned the hard lesson of inserting my own ingenuity within the careful work of the designer"; quotes Alastair's "silk purse into a sow's ear" line approvingly; judges Paradox drawn after "an evolution of a single type," then refined through the prototype's own extensive use, unlike most designs' "whim or fancy" origin; congratulates Alastair on Little Jim's launch; asks Glen to share his sail's "need for improvement."
+[2] Archive message page_906 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 921, 2003-04-22) — "Re: Newbie, sails, Cedar Key Messabout": his own prior sprit sail (built to the designer's scantlings in perfect Sitka Spruce) developed a horrible wrinkle from head to clew under load — practical use "belied poor design"; suggests Glen either reinforce the bowing yard with Kevlar/epoxy strands on the tension surface, or simply cut a new sail to fit the yard's existing bowed shape; "the best accessory for my sewing machine [is] several, sharp seam rippers... if you can't tie knots, tie lots."
+[3] Archive message page_917 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 932, 2003-04-24) — "Re: (Son of) Little Jim (II, the sequel)": suggests Alastair's tacking trouble came from sailing over-sheeted; use the sheet-easing-to-flutter rule before each tack; has used the flowerpot-on-stove heat trick himself "to great success" but is nervous of the hot pot coming loose; asks whether a gimballed kerosene lamp (used aboard his own 20 ft canoe yawl) would be practical aboard a Paradox, ahead of a planned fall/winter Columbia River cruise.
+[4] Archive message page_925 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 940, 2003-04-25) — "Re: (Son of) Little Jim (II, the sequel)": his canoe yawl was an Elver (designer Steve Redmond), modified by himself with leeboards instead of a centerboard; found her disappointing in general; agrees with Glen Maxwell that modifying an existing design should be unnecessary given how many good designs exist; distinguishes changing a design's geometry/specifications (off-limits) from changing details that don't affect them (a builder's prerogative); weighs in on the foam-flotation "HUGE controversy" as a detail-level choice; cites firsthand rot/ventilation experience and Fir plywood checking under glass; jokes about CO2 air bladders as flotation; states his preference for glued-in foam under a protective sheet, Okoume ply only; jokes about "chime log" terminology; still unfamiliar with a "welsh miner's lamp" by name; wants the lamp mainly for heat, in an unobtrusive but gimbal-capable spot; wonders about a metal chimney with baffles/coils.
+[5] Archive message page_926 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 941, 2003-04-25) — "Re: Sails,": "Of course! I feel quite the fool for having neglected to mention leach telltails." Recommends placing several along the leech; cassette tape works well as tell-tale material, particularly in light conditions.
+[6] Archive message page_938 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 953, 2003-05-04) — "rig details": Paradox plans have finally arrived; will seriously consider fitting Glen's topping lift; asks whether the brass tack-pipe spacer will damage the deck over time, floating a speculative UHMW "donut"/ball-and-socket fix; looking forward to getting started next week.
+[7] Archive message page_941 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 956, 2003-05-05) — "Re: rig details": has used the same thimble-in-a-bridle topping-lift arrangement on a boom tent; will try Matt's foot-pressure technique first but doubts he'll go too long without a topping lift; asks whether the tack strop goes slack, risking deck contact, once hoisted and more vertical.
+[8] Archive message page_950 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 965, 2003-05-09) — "Re: West Coast Trailer Sailers": thanks Larry for the photo link; enjoyed the side-by-side shots of Whisper and Zoe and the shots of Zoe under sail, "especially enticing"; welcomes Matt Layden to the list, "You have a truly remarkable design in Paradox."
+[9] Archive message page_973 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 989, 2003-05-29) — "Re: Further adventures of Little Jim (long)": asks how Alastair feels about Little Jim's stability now, what a "chain ferry" is, and whether he had enough coffee; recalls Glen using a chamois aboard Zoe for defogging, likes David's optical-cleaner tip.
+[10] Archive message page_983 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 999, 2003-06-01) — "Re: Foam Cushions": has used Therm-a-Rest cushions "with great pleasure" — light, insulating, self-inflating, low-bulk, several sizes, the Classic about 2.25 in thick, pricier than Glen's foam; bought his on sale at REI; will instead look for an inner tube covered in Sunbrella, secured to a single centerline point on the helmseat/sole so it can flip side to side by tack; suggests 1 in closed-cell foam as temporary fenders/kneeling pads or lee-side bracing.
+[11] Archive message page_984 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1000, 2003-06-01) — "1000!": "Hey my post is number 1000!"
+[12] Archive message page_986 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1002, 2003-06-04) — "Re: Foam Cushions": "That sounds like just the ticket"; had wrongly assumed Glen stuffed the cushions forward when not in use, as with Therm-a-Rests; thanks him again for the foam-by-mail link.
+[13] Archive message page_987 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1003, 2003-06-06) — "Plywood": went with Joubert Okoume BS-1088 plywood; agrees Douglas Fir marine ply is structurally fine as Matt specifies, but the difficulty prepping/finishing it (even epoxied) argues for mahogany-family ply; Okoume "a pure joy to work"; would not have ruled out cheaper BS-6566 Okoume either, but his supplier stocks only BS-1088; using Honduras Mahogany lumber through most of the boat for ease of work/finish, since most of it will be painted; uses West System epoxy, trusts it completely, warming up to MAS; links a condensed BS-1088 standard text (worldpanel.com/bs1088.htm); names Emerson/Crosscut and Edensaw as Pacific NW exotic-lumber/marine-plywood sources.
+[14] Archive message page_992 (kd7ixk / David C. Smith, cross-posted `microcruising`/`paradoxbuilders`, msgnum 1008, 2003-06-11) — "Re: [microcruising] Re: Anchor Rodes": is building a Paradox, which dispenses with a conventional cockpit; will deploy ground tackle standing in the companionway; will always keep the primary rode set from the bow; weighs stern anchor rollers (too heavy vs. plain cleats), a Fortress-style flat-stowed anchor or folding squid anchor in a tube, and a reel loaded with 1 in nylon webbing mounted in one of the Paradox's side-deck rig-stowage hoops (horizontal after-deck mount vs. a self-draining recessed well); concludes a portable reel would cause more problems than it solves, though a mounted reel still interests him; relates his own mainsheet-fouled-on-a-piling showing-off mishap; still a while off needing to settle the question.
+[15] Archive message page_991 (ifida / Glen Maxwell, cross-posted `microcruising`/`paradoxbuilders`, msgnum 1007, 2003-06-11) — "Re: [microcruising] Re: Anchor Rodes": quotes Smith's original 10 June message in full; describes his own stern-set/walk-forward anchoring routine and braided-nylon-rode preference; recounts losing an entire flaked rode-and-anchor bag overboard in front of jeering fishermen on a pier while sculling hard to clear it, since fixed with a bungee cord across the afterdeck to secure the bag.
+[16] Archive message page_999 (Jim Goeckermann / `jgoeckermann`, `paradoxbuilders`, msgnum 1015, 2003-06-13) — "Leaking inspection plates": asks whether teflon tape or paste would help seal inspection plates, and what construction hours to expect for a "workboat"-finish hull.
+[17] Archive message page_1000 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1016, 2003-06-13) — "Re: Leaking inspection plates": recommends glycerin as an O-ring lubricant (per watermaker-membrane manufacturers/suppliers), with good results on Beckson deckplates; favors Glen's dowel-rod tool but also uses Channellock pliers' rubber-coated handles plus a wrench for extra leverage seating O-rings.
+[18] Archive message page_1019 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1035, 2003-06-19) — "Re: LED array navigation lights?": needles David LeBlanc's cross-posting complaint; kerosene running lights are impractical, and a kerosene anchor light is technically illegal unless hoisted above the masthead (contra the Pardeys, "they're wrong"), per his own repeated Coast Guard/police encounters; LEDs are cheap as a system and last ~10,000 hours without sooting sails or the cabin; recommends USCG-approved Hella LED nav lights if not building an array; reports poor results from dry-cell dinghy lights; notes an all-around white masthead light alone satisfies both running-light and anchor-light rules unless motoring.
+[19] Archive message page_1052 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1068, 2003-07-07) — "Re: Paradox offshore": answers a newcomer's (Blake Lauder's) offshore-range question — full text and citation at [design/blue-water-suitability.md](/design/blue-water-suitability.md#seamanship-over-seaworthiness-a-professional-builders-endorsement).
+[20] Archive message page_1054 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1070, 2003-07-09) — "Re: Paradox offshore": "Thank you kindly, Glen."
+[21] Archive message page_1055 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1071, 2003-07-09) — "materials": researching materials as a matter of regional pride; West System has always performed perfectly but at a price premium; System Three's regular epoxy performs well though slightly more flexible than West's (likely the hardener/resin ratio), and he intends to switch to it for the rest of his build for its product range and price; on non-skid, dislikes sand-in-paint for being hard to remove later, likes Glen Maxwell's walnut-shell-in-epoxy method, but personally favors "Spantex" (formerly "Flex-o-Tex"/"Dex-o-Tex"), a latex-rubber base with Hypalon rubber chunks for grip that required no maintenance for eight years on a prior boat, from ice to desert conditions.
+[22] Archive message page_1071 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1087, 2003-07-11) — "Re: Transom": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
+[23] Archive message page_1073 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1089, 2003-07-12) — "Re: Transom": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
+[24] Archive message page_1075 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1091, 2003-07-13) — "Re: Bottom Paint ??": full text and citation at [construction/bottom-painting.md](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
+[25] Archive message page_1077 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1093, 2003-07-13) — "Re: Bottom Paint ??": full text and citation at [construction/bottom-painting.md](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
+[26] Archive message page_1079 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1095, 2003-07-13) — "Re: Bottom Paint ??": full text and citation at [construction/bottom-painting.md](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
+[27] Archive message page_1082 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1098, 2003-07-14) — "Re: Transom": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
+[28] Archive message page_1088 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1104, 2003-07-19) — "HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
+[29] Archive message page_1090 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1106, 2003-07-23) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
+[30] Archive message page_1093 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1109, 2003-07-29) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#sailmail-vs-winlinkairmail-and-the-costlegality-tradeoffs-of-ham-gear).
+[31] Archive message page_1095 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1111, 2003-07-29) — "Re: HAM savvy?": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#sailmail-vs-winlinkairmail-and-the-costlegality-tradeoffs-of-ham-gear).
+[32] Archive message page_1103 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1120, 2003-08-03) — "Re: New Sail": full text and citation at [design/rig.md](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement).
+[33] Archive message page_1106 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1123, 2003-08-08) — "materials": points to `onlinemetals.com` (Seattle), a small-quantity metal supplier with a nice inventory; his boat is coming along well — deckbeams laminated back in May, before a few months off for house/car maintenance; expects to spring the sides around the bulkheads that coming weekend; will post photos once the hull takes on a third dimension; "Having fun with this little project."
+[34] Archive messages page_1111/page_1112 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1128/1129, 2003-08-14) — "Chine logs" / "braided carbon sleeves": full text and citations at [construction/chine-runner-construction.md](/chine-runners/construction.md#milling-solid-chine-logs-from-a-dense-hardwood) and [design/rig.md](/design/rig.md#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig).
+[35] Archive message page_1117 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1134, 2003-08-15) — "Re: Chine logs": full text and citation at [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting).
+[36] Archive message page_1130 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1147, 2003-08-18) — "Re: Chine logs": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#sheer-clamp-and-chine-log-installation-order).
+[37] Archive message page_1131 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1148, 2003-08-18) — "Re: braided carbon sleeves": full text and citation at [design/rig.md](/design/rig.md#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig).
+[38] Archive messages page_1133/page_1134/page_1137/page_1138 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1150/1151/1154/1155, 2003-08-19) — "Shim deckbeam #1?" and replies: full text and citations at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
+[39] Archive message page_1141 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1158, 2003-08-19) — "Re: Shim deckbeam #1?": full text and citation at [design/rudder.md](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).
+[40] Archive message page_1150 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1167, 2003-08-23) — "Re: Aussie Paradox update": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#a-fuller-progress-report-sides-bottom-deck-framing-and-interior-detail).
+[41] Archive message page_1169 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1186, 2003-09-09) — "Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+[42] Archive message page_1171 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1188, 2003-09-10) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+[43] Archive message page_1180 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1197, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+[44] Archive message page_1181 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1198, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec).
+[45] Archive message page_1182 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1199, 2003-09-11) — "Re: Robust constuction": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec).
+[46] Archive message page_1184 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1201, 2003-09-15) — "off topic interlude": full text and citation at references/off-topic-cross-posts.md (a Latitude 38 video-clip cost/benefit aside).
+[47] Archive message page_1200 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1220, 2003-09-23) — "Re: newest network critical patch": warns the list that a forwarded "MS Customer Services" email offering a Windows security patch as an attachment is a Trojan Horse, not a genuine Microsoft update — Microsoft never distributes patches via email attachment; full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-tripod-link-spam-saga).
+[48] Archive message page_1205 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1225, 2003-09-30) — "Re: A new world record (long)": full text and citation at [boats/little-jim.md](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003).
+[49] Archive message page_1206 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1226, 2003-10-02) — "ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
+[50] Archive message page_1208 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1228, 2003-10-03) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
+[51] Archive message page_1216 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1236, 2003-10-05) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+[52] Archive message page_1217 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1237, 2003-10-05) — "Re: Paradox Ballast/Runners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+[53] Archive message page_1225 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1245, 2003-10-20) — "Re: Paradox - New Web Site": full text and citation at [references/paradox-uk-website.md](/references/paradox-uk-website.md).
+[54] Archive message page_1227 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1247, 2003-10-24) — "Re: Ventilation dran question": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-vent-trunks-own-drain).
+[55] Archive message page_1260 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1280, 2003-11-11) — "Re: Bulkhead questions (long)": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#what-a-scab-is-and-a-scarphed-alternative-that-eliminates-it).
+[56] Archive message page_1263 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1283, 2003-11-11) — "Re: Bulkhead questions (long)": tells Glen Maxwell he needs to "sit down and fight with" his camera and will try that night; hopes Glen has gotten in a lot of sailing.
+[57] Archive messages page_1262/page_1266/page_1268 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1282/1286/1288, 11-12 Nov 2003) — "Re: Bulkhead questions (long)": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#which-side-of-the-station-line-a-bulkheads-dimensioned-face-falls-on).
+[58] Archive message page_1269 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1289, 2003-11-13) — "Introducing Swash": uploaded photos to the album, thanking Glen Maxwell for help "extricating my head from my butt" on the process; names his boat "Swash" (the sound of water; swagger; the USGS acronym for Survey Wide Area SHorelines); built a rolling cradle from 4x4 timbers and 5 in swivel casters after seeing Alastair's musing about using his son's giant skateboard; bottom on, hull right-side-up in the garage for the winter; prepping the interior for foam board; contemplating a second vent trunk forward of bulkhead #1 — a deck hole (perhaps a Beckson access plate), water baffle(s), and a drain with a possible flapper valve to keep noise down while the bow plunges — sturdy enough for regular filling without much added weight; still just at the contemplation stage.
+[59] Archive message page_1271 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1291, 2003-11-13) — "Re: Introducing Swash": "Beautiful workmanship Smith, I sure do envy you that quality lumber, it will save you more then you paid for it. Sure wish I'd of gone that route."
+[60] Archive message page_1280 (openboat / Alastair, `paradoxbuilders`, msgnum 1300, 2003-11-14) — "Re: Introducing Swash": "It's looking great... You seem to have cornered the market in clamps"; built his own with only ten clamps of assorted sizes; jokes that Smith's apparently better finish "doesn't mean it will sail better of course."
+[61] Archive message page_1282 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1302, 2003-11-14) — "Re: New Files uploaded": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
+[62] Archive message page_1283 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1303, 2003-11-14) — "Re: Introducing Swash": no worries about his casters getting stopped by gravel and having to push uphill; would enjoy reading more Paradox design-comparison stories, noting Glen got a new sail after his own "trouncing" to windward by Matt Layden; floats a "round robin" boat-swap race day as a better test of performance than owners racing their own boats; suggests meeting at Cafe Sport; describes his clamp-buying spree since moving off a boat that couldn't support more than half a dozen small clamps — 12 in bar clamps at $1 each from Homier, a Harbor Freight sale on C-clamps (20 6 in clamps in pairs for $4.99, 20 8 in clamps in pairs for $5.99) and pipe-clamp fittings (20 sets at $4.99 each, pipe bought locally); with plenty of clamps he waits for the epoxy to kick before unclamping, with fewer he sometimes has to fasten mid-cure; praises the Little Jim photos on Bill Serjeant's site.
+[63] Archive message page_1286 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1306, 2003-11-14) — "Re: Tools": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
+[64] Archive message page_1337 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1357, 2003-11-17) — "A proposal, a real one": proposes a group-composed, free Paradox build manual, built strictly to Matt Layden's plans as drawn; full text and citation at [people/don-elliott.md](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
+[65] Archive message page_1340 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1360, 2003-11-17) — "Re: New Paradox boatbuilding group": full text and citation at [people/don-elliott.md](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
+[66] Archive message page_1341 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1361, 2003-11-17) — "Re: (Taking my marbles and going away) Group": full text and citation at [people/don-elliott.md](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
+[67] Archive message page_1349 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1369, 2003-11-17) — "Re: A proposal, a real one": invites William Longyard, citing his authorship of *A Speck on the Sea*, to help keep a group-written Paradox build manual "unbiased, concise and factual"; offers his own services in any capacity the group sees fit.
+[68] Archive messages page_1348/page_1350 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1368/1370, 2003-11-17) — "Re: Oppositional Defiant Disorder and 2 HP Motors" / "Re: 2 HP Motors": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+[69] Archive message page_1352 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1372, 2003-11-17) — "Re: A proposal, a real one": "I'd be glad to help in any way I can."
+[70] Archive message page_1354 (servo_bot / "Andy", `paradoxbuilders`, msgnum 1374, 2003-11-17) — "Re: A proposal, a real one": a self-described tech writer volunteers editorial and book-building experience; suggests the manual clarify esoteric building terminology, provide a procedural build schedule, and explain difficult tasks such as rolling bevels for inexperienced woodworkers; also suggests a bill of materials, an errata section, and directions for sailmakers.
+[71] Archive message page_1356 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1376, 2003-11-17) — "Re: A proposal, a real one": "Wonderful Idea Smith."
+[72] Archive message page_1368 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1388, 2003-11-17) — "Re: A proposal, a real one": welcomes Bill Longyard's and Andy's volunteered services; reiterates all contributions are welcome; the manual cannot capture every trick of the trade, so builders should still be pointed to the group archives and to posing questions directly to the list; proposes a bibliography of relevant construction books as a valuable inclusion, nominating "The Gougeon Brothers on Boat Construction," and opens a dedicated thread for nominations; will begin work on an introduction covering materials and tools; asks for volunteers to write up specific sections (spars, rudder, insulation/flotation, vent trunk, etc.), warning against duplicated effort; notes the manual is subject to group editing for a single clear voice, respecting the plans as drawn.
+[73] Archive message page_1369 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1389, 2003-11-17) — "bibliography suggestions": "'Gougeon Brothers on Boat Construction' — Please feel free to list relevant books, to be cosidered by the group for inclusion in the Build Manual."
+[74] Archive message page_1372 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1392, 2003-11-17) — "Re: A proposal, a real one": "I would be perfectly willing to defer to someone else, to write the introduction to the build manual, to include plans, materials, and tools (or other). Perhaps a builder of a completed boat would like to contribute?"
+[75] Archive message page_1373 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1393, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/william-longyard.md](/people/william-longyard.md#citations).
+[76] Archive message page_1377 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1397, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
+[77] Archive message page_1380 (arvent / "Nels", `paradoxbuilders`, msgnum 1400, 2003-11-17) — "Re: bibliography suggestions": full text and citation at [people/nels.md](/people/nels.md#citations).
+[78] Archive message page_1408 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1428, 2003-11-18) — "Re: A proposal, a real one": thanks Glen for volunteering to write up the lower gudgeon, which he too had wondered about; floats candidate methods while waiting to see Glen's solution — a chopped-mat-and-epoxy undersized part cast in a female mold and wrapped in roving; an undersized part carved from purpleheart or similar hardwood, likewise wrapped in roving; or a Duraglass/Kitty Hair polyester-filler part wrapped in epoxy/roving — suspecting all are more complicated than Matt Layden intended.
+[79] Archive message page_1409 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1429, 2003-11-18) — "Re: A proposal, a real one": full text and citation at [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
+[80] Archive message page_1420 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1440, 2003-11-19) — "rolling bevels": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s).
+[81] Archive message page_1426 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1446, 2003-11-19) — "Re: 2 HP Motors": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
+[82] Archive message page_1445 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1465, 2003-11-24) — "Re: rolling bevels": had been out of commission for a few days; will get some build-manual progress done that night; the rolling-bevel explanation could certainly be included, but admits he tends to be longwinded — "the editors will have their work cut out for them."
+[83] Archive message page_1446 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1466, 2003-11-24) — "Re: Spray In Foam": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#spray-in-foam-versus-sheet-foam-for-insulation).
+[84] Archive message page_1447 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1467, 2003-11-24) — "Build Manual, Introduction": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-introduction).
+[85] Archive message page_1449 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1469, 2003-11-24) — "Re: Build Manual, Introduction": full text and citation at [people/david-beard.md](/people/david-beard.md#citations).
+[86] Archive message page_1452 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1472, 2003-11-25) — "Re: Insulation and rot": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#citations).
+[87] Archive message page_1491 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1511, 2003-12-11) — "Re: Paradox in CAD": full text and citation at [construction/stem-notching.md](/construction/stem-notching.md#aside-an-early-catia-3d-model-of-the-paradox).
+[88] Archive message page_1619 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1641, 2003-12-29) — "Re: Steel?": suspects Jack Gardiner of trolling but extends the benefit of the doubt; argues a steel Paradox would be "a horrible mistake" since the design was drawn and calculated for plywood/epoxy/glass composite, and fears inexperienced builders skipping Matt Layden's required center-of-gravity/weight recalculation for a different material; estimates roughly five flatbar longitudinals per side would be needed for adequate stiffness, adding heavy welding/fairing/distortion and eating into stowage volume, with every longitudinal both trapping water and requiring full teardown-and-refinish to repair once the thin (auto-body-gauge) sheetmetal dents, as it will; contrasts this with Paradox's specified 18 mm plywood bottom under three layers of 24 oz roving, "darn near bulletproof" and trivially repaired cosmetically; favors metal only for 30 ft+ heavy-displacement monohulls; questions Jack's basis for speculating on an alternate material and geometry before even receiving his plans; quotes Alastair's "silk purse into a sow's ear" line; closes urging Jack to wait for his plans, study them, read the archives, and "DO THE CALCULATIONS" before proceeding.
+[89] Archive message page_1622 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1644, 2003-12-29) — "Re: Steel?": full text and citation at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#reviving-old-crystallized-epoxy-a-heat-trick-and-a-microwave-mishap).
+[90] Archive messages page_1623/page_1625 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1645/1647, 2003-12-29) — "Re: Another Option": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar).
+[91] Archive message page_1636 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1658, 2003-12-29) — "Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[92] Archive message page_1649 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1671, 2003-12-30) — "Re: Sad Comentary": full text and citation at [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
+[93] Archive message page_1650 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1672, 2003-12-30) — "Re: Alternative building materials": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
+[94] Archive message page_1651 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1673, 2003-12-30) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[95] Archive message page_1653 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1675, 2003-12-30) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[96] Archive message page_1663 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1685, 2003-12-30) — "Re: rudder": full text and citation at [design/rudder.md](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
+[97] Archive message page_1664 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1686, 2003-12-30) — "anchor locker": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage).
+[98] Archive message page_1668 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1690, 2003-12-30) — "Re: anchor locker": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage).
+[99] Archive message page_1673 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1695, 2003-12-31) — "Re: anchor locker": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage).
+[100] Archive message page_1677 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1699, 2003-12-31) — "Re: anchor lockers and Anchoring": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#a-cockpit-worked-lanyard-and-roller-retrieval-system).
+[101] Archive message page_1678 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1700, 2003-12-31) — "Re: Woven roving vrs 45X45 biax": full text and citation at [construction/hull-planking.md](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for).
+[102] Archive message page_1705 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1727, 2004-01-01) — "Re: Mast": full text and citation at [design/rig.md](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
+[103] Archive message page_1711 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1733, 2004-01-01) — "parachute anchor": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls).
+[104] Archive message page_1737 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1737, 2004-01-02) — "Re: Wooden spars": full text and citation at [design/rig.md](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
+[105] Archive message page_1747 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1747, 2004-01-02) — "Center of Gravity": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
+[106] Archive message page_1732 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1754, 2004-01-03) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[107] Archive message page_1735 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1757, 2004-01-03) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[108] Archive message page_1737 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1759, 2004-01-03) — "Re: ParaPlastic": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast).
+[109] Archive message page_1738 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1760, 2004-01-03) — "Re: Build Manual, Preparations": full text and citation at [construction/build-effort.md](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+[110] Archive message page_1803 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1826, 2004-01-10) — "Re: LED navigation lights part 2": full text and citation at [operations/running-lights.md](/operations/running-lights.md#running-leds-off-a-charging-battery-rather-than-a-steady-12v-supply).
+[111] Archive message page_1804 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1827, 2004-01-10) — "Bow Fairlead": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#glen-maxwells-bow-fairlead-construction).
+[112] Archive message page_1812 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1835, 2004-01-11) — "Re: mast": full text and citation at [design/rig.md](/design/rig.md#aluminum-as-a-mast-material-engineering-fit-not-just-substitution).
+[113] Archive message page_1818 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1841, 2004-01-11) — "Re: mast": full text and citation at [design/rig.md](/design/rig.md#aluminum-as-a-mast-material-engineering-fit-not-just-substitution).
+[114] Archive message page_1842 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1865, 2004-01-21) — "Re: enlarged paradox?": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#enlarging-for-a-tall-sailor-and-three-named-stretch-methods).
+[115] Archive message page_1856 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1879, 2004-01-24) — "Re: building update": "I assure you, it is certainly not the Paradox design upon which I had intended a plexiglass dome. I didn't mention domes on this group, because I didn't feel the subject pertinent to the group, let alone the design."
+[116] Archive message page_1858 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1881, 2004-01-24) — "Re: building update": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas).
+[117] Archive message page_1871 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1894, 2004-01-24) — "Re: Double Rudders": full text and citation at [operations/self-steering.md](/operations/self-steering.md#weighing-a-tillerpilot-against-a-genuine-wind-vane).
+[118] Archive message page_1917 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1940, 2004-02-11) — "Build Manual, Laminating Beams": full text and citation at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
+[119] Archive message page_1920 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1943, 2004-02-13) — "Re: Build Manual, Laminating Beams": full text and citation at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
+[120] Archive message page_1922 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1945, 2004-02-13) — "Re: Build Manual, Laminating Beams": full text and citation at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
+[121] Archive message page_1926 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1949, 2004-02-14) — "Re: Build Manual, Laminating Beams": full text and citation at [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).
+[122] Archive message page_1961 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1984, 2004-03-13) — "Re: Hatch": full text and citation at [construction/hatch-hardware.md](/construction/hatch-hardware.md#refitting-a-too-sloppy-or-wracking-hatch).
+[123] Archive message page_1993 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2016, 2004-03-26) — "Re: Force 10 stove": full text and citation at [operations/cabin-heating.md](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative).
+[124] Archive message page_2000 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2023, 2004-03-29) — "Re: Trolling": full text and citation at [operations/provisioning-and-water.md](/operations/provisioning-and-water.md#fishing-while-cruising).
+[125] Archive message page_2005 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2028, 2004-04-07) — "Re: Got my plans today": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first).
+[126] Archive message page_2007 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2030, 2004-04-09) — "Re: Got my plans today": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first).
+[127] Archive message page_2009 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2032, 2004-04-10) — "Re: Got my plans today": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first).
+[128] Archive message page_2012 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2035, 2004-04-11) — "Re: Got my plans today": thanks Smith for the El Toro link; asks whether the El Toro is basically a pram-style dinghy, matching the boat used by the sailing school he plans to attend; remarks he loves Manitoba in summer and fall but tires of -35C winters, with spring running late that year.
+[129] Archive messages page_2014/page_2015 (churo65 / "Ron", `paradoxbuilders`, msgnum 2037/2038, 2004-04-13, both 03:08 — the second a duplicate send of the first) — "Re: Got my plans today": a new prospective builder from Hillsboro, Oregon (west of Portland) who had already purchased Paradox plans; quotes Smith's El Toro reply and Alf's weather banter in full, then asks whether Smith has a Paradox on the water in the Portland area or is still building.
+[130] Archive message page_2016 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2039, 2004-04-13) — "Re: Got my plans today": full text and citation above (Why he chose Paradox: winter cruising on the lower Columbia River).
+[131] Archive message page_2018 (alfswatzky / "Alf Sawatzky", `paradoxbuilders`, msgnum 2041, 2004-04-13) — "Re: Got my plans today": thanks Alastair, having read the Little Jim trip logs on his website — "excellent work... totally entertaining" — and asks for more if Alastair has any to share.
+[132] Archive message page_2019 (topsail / "Phil", `paradoxbuilders`, msgnum 2042, 2004-04-14) — "Paradox": "I would commit 7 different kinds of mayhem to see a paradox under construction"; lives in Washington State, his wife has friends in the Portland area, and he would like to see Smith's Paradox in person sometime; "It looks like you are really building to a very high standard."
+[133] Archive message page_2021 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2044, 2004-04-14) — "Re: Paradox": flattered by Phil's interest but declines to show the boat before it's finished, "like an author who keeps the manuscript under wraps"; will post more photos as he progresses and let the list know if Swash appears at a NW boat show or festival; asks whether Phil will also build to the Paradox design.
+[134] Archive message page_2022 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2045, 2004-04-14) — "Re: Boatbuilding wood": answers Phil's alder/hemlock question — wouldn't use either himself; relays Matt Layden's own stated rationale that Paradox's scantlings are sized for lumberyard "hem-fir," a fast-growing renewable resource, with no rot found aboard the original Paradox and AC exterior plywood used throughout; recommends Alaska yellow cedar (soft, good for joinery) and old-growth Douglas fir (favoring edge tools over sanding, since the softer summer wood sands away faster than the winter wood); points to Edensaw Hardwoods, whose owners have hands-on boatbuilding and sailing experience.
+[135] Archive message page_2044 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2068, 2004-05-07) — "Re: big guy in a small boat": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
+[136] Archive message page_2058 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2082, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
+[137] Archive message page_2060 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2084, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
+[138] Archive message page_2065 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2089, 2004-05-10) — "Re: Heading For Europe": full text and citation at [references/mailing-list.md](/references/mailing-list.md#nels-heads-to-europe-as-a-departing-co-moderator).
+[139] Archive message page_2066 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2090, 2004-05-10) — "Re: Photos": full text and citation at [references/mailing-list.md](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
+[140] Archive message page_2067 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2091, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
+[141] Archive message page_2068 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2092, 2004-05-10) — "Invitation to Paradoxbuilders2": full text and citation at [references/mailing-list.md](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
+[142] Archive message page_2070 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2094, 2004-05-10) — "Re: Error": full text and citation at [references/mailing-list.md](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
+[143] Archive message page_2101 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2101, 2004-05-13) — "Re: Re watertight boot on the Paradox tiller": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#roberts-sources-and-smiths-closing-rebuttal).
+[144] Archive message page_2104 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2104, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-simpler-alternative-for-the-tiller-opening-a-second-rubber-baffle-disc).
+[145] Archive message page_2086 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2110, 2004-05-15) — "Storm Tactics Handbook": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing).
+[146] Archive message page_2106 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2131, 2004-06-02) — "Re: new sail rev.": full text and citation at [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
+[147] Archive message page_2117 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2142, 2004-06-10) — "Re: Yuloh": full text and citation at [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
+[148] Archive message page_2121 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2146, 2004-06-12) — "Re: Yuloh": full text and citation at [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh).
+[149] Archive message page_2137 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2162, 2004-06-18) — "Re: depth finder": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
+[150] Archive message page_2138 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2163, 2004-06-18) — "Re: Greetings from Horta, Azores": full text and citation at [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing).
+[151] Archive message page_2156 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2181, 2004-07-08) — "SWASH, for sale": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
+[152] Archive message page_2157 (arvent / Nels, `paradoxbuilders`, msgnum 2182, 2004-07-19) — "Re: SWASH, for sale": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
+[153] Archive message page_2159 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2184, 2004-07-20) — "Re: SWASH, for sale": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
+[154] Archive message page_2169 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2195, 2004-07-30) — "Re: Sail Draft": full text and citation at [design/rig.md](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).

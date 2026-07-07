@@ -42,6 +42,13 @@ degree of workmanship desired (see
 detailed "Zoë" build-time figures live on the
 [Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) sub-page.
 
+The FAQ recurred again in July 2006: Glen gave a new member the same
+patience answer (the Bolducs were most likely away on a sailing trip) and
+confirmed Don Elliott's paid construction manual was worth its price. See
+[building plans — a July 2006 recurrence, and a blunt assessment of the paid
+manual's
+quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).
+
 ## Welcoming newcomers
 
 As founder, Glen made a point of welcoming new members to the group,
@@ -119,7 +126,7 @@ itself. Don announced the new group would take over all future Paradox
 building articles, including a forthcoming "Ballast Installation part 2"
 piece, reserving `paradoxbuilders` itself for occasional notices only. When
 Don's announcement wrongly asserted his own moderator status over the
-original group, [DC](/people/dc.md) corrected the record directly: Glen
+original group, [David C. Smith](/people/david-c-smith.md) corrected the record directly: Glen
 Maxwell — "a professional boatbuilder of no ill repute" — remains
 `paradoxbuilders`' founder and actual moderator, not Don.
 
@@ -217,7 +224,7 @@ though even there only the moderator can remove an entry once added; Glen
 adopted the idea and gave the database feature a try for the FAQ file.
 
 The editing-rights bottleneck itself had a more direct fix: Glen made **Nels
-and DC assistant moderators**, giving them file-editing access to both the
+and Smith assistant moderators**, giving them file-editing access to both the
 Build Manual and the FAQ folders so edits no longer had to route through him.
 
 The FAQ proposal also drew a suggestion to add anchoring and anchor stowage
@@ -255,7 +262,11 @@ Photographs from Don's launch, posted to a UK builder's own website "with a
 promise of more to come," led to identification of the boat's probable name,
 **"The Edge"** — see [Don Elliott's Paradox](/boats/elliott-paradox.md). The
 Amsterdam builder's "RHXll" boat drew a further round of "RHXII" photos to
-the group's album two days later.
+the group's album two days later. That builder, **Ronald de Hon**, never
+finished the boat — family trouble forced him to abandon the build and offer
+the unfinished hull for sale in April 2006; see [secondhand market — an
+abandoned build for sale:
+"RHXII"](/operations/secondhand-market.md#an-abandoned-build-for-sale-rhxii-april-2006).
 
 Amid the Don Elliott dispute, an autumn refit report on
 "[Little Jim](/boats/little-jim.md)" — the first substantive, non-contentious
@@ -390,9 +401,9 @@ the gesture as backhanded rather than conciliatory, since an unrelated
 epoxy-shelf-life reply had been posted inside the same steel thread, and
 confirmed he would continue his research privately rather than take the
 invitation at face value. No further "Steel?" posts followed. See [aluminum
-and steel Paradox (speculative) — DC's rebuttal: why a steel Paradox would
+and steel Paradox (speculative) — Smith's rebuttal: why a steel Paradox would
 be "a horrible
-mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 
 ## A welfare check during the 2004 hurricane season
 
@@ -524,7 +535,7 @@ had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
 [21] Archive message page_763 (Glen Maxwell, `paradoxbuilders`, msgnum 777, 2002-11-10) — "Re: Plans": "Drop Dave Bolduc an e-mail at: mbolduc@... He sales plans for Matt, I think they are $35 but don't hold me to that."
 [22] Archive message page_989 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1005, 2003-06-10) — "Re: Aussie Paradox": "Welcome aboard Andrew, thanks for the details of your project."
 [23] Archive message page_1066 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1082, 2003-07-10) — "Re: LOOKS LIKE I FOUND MY FUTURE BOAT.....": "Welcome aboard Duane! Tailwinds, Glen" — quotes Duane's full introduction message in reply.
-[24] Archive message page_1200 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1220, 2003-09-23) — "Re: newest network critical patch": warns that a forwarded "MS Customer Services" email offering a Windows security patch as an attachment is a Trojan Horse; Microsoft never issues patches by email; advises anyone unsure to check Microsoft's own website directly.
+[24] Archive message page_1200 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1220, 2003-09-23) — "Re: newest network critical patch": warns that a forwarded "MS Customer Services" email offering a Windows security patch as an attachment is a Trojan Horse; Microsoft never issues patches by email; advises anyone unsure to check Microsoft's own website directly.
 [25] Archive message page_1272 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1292, 2003-11-13) — "RHXll": asks who is building the unidentified boat posted to the photo album's "RHXll" folder, where it is being built, and for more pictures — unanswered in the archive.
 [26] Archive message page_1277 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1297, 2003-11-14) — "Re: RHXll": "I would echo that. Please more pics and info."
 [27] Archive message page_1273 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1293, 2003-11-13) — "Need more pictures and progress reports": asks Andrew Graham and David Beard for updates on "Aussie Paradox" and "Whisper"; asks Don Elliott whether he ever named his completed boat or whether the group must keep calling her "Elliott's Paradox"; general call for anyone who has started but not shared their experience; "building a boat is like eating an elephant... just belly up and take one bite at a time... one day your plate will be empty."
@@ -551,13 +562,13 @@ had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
 [50] Archive message page_1400 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 1420, 2003-11-18) — "Tools list": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
 [51] Archive message page_1402 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1422, 2003-11-18) — "FAQ File": "I started the FAQ file using Nels list of questions as a departure point"; asks members to use the edit button to add answers and new questions, by searching past posts and copy-pasting good replies, with two screens open (editing and searching); will clean up the file's long text lines in a word processor once a first pass is done.
 [52] Archive message page_1404 (arvent / Nels, `paradoxbuilders`, msgnum 1424, 2003-11-18) — "Re: FAQ File": explains only the folder's creator can use the edit function; suggests contributors offline their answers to Glen, or post to the group first for discussion, with a poll available for disputed subjects, and each contributor signing their own answer; offers, as a worked example, an FAQ-style answer on chine-runner effectiveness — full text and citation at [design/chine-runners-and-windward-performance.md](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential).
-[53] Archive message page_1409 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1429, 2003-11-18) — "Re: A proposal, a real one": "Fantastic Nels. I would add to your list: 1) Is lofting required? 2) Is this an instant boat? 3) How difficult is this boat to build? 4) How much time could I expect building to take? 5) Will I need a helper for any construction task?"
+[53] Archive message page_1409 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1429, 2003-11-18) — "Re: A proposal, a real one": "Fantastic Nels. I would add to your list: 1) Is lofting required? 2) Is this an instant boat? 3) How difficult is this boat to build? 4) How much time could I expect building to take? 5) Will I need a helper for any construction task?"
 [54] Archive message page_1413 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1433, 2003-11-18) — "Re: Speaking up for Don": "I know you are in a difficult position and I appreciate the fact that you have considered the issue thoroughly. I hope Don does get in touch with you and you both can come to a mutual understanding. Back to boats..."
 [55] Archive message page_1422 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 1442, 2003-11-19) — "Re: FAQ File": the database feature can be used so everyone can add to the list; only the moderator can remove entries; notes the Bolger group used this same function to list Bolger design stats.
 [56] Archive message page_1423 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1443, 2003-11-19) — "Re: FAQ File": "Thanks Paul, I'll give that a try."
 [57] Archive message page_1429 (kjell.karlsson / "kjellkkk" / Kjell Karlsson, `paradoxbuilders`, msgnum 1449, 2003-11-20) — "Re: A proposal, a real one": describes his own lower gudgeon method — a simple mold, three straight sides and one angled about 45 degrees per the drawing, built up from many short (5 cm x 10-25 cm) strips of thick (613 g/m²) fiberglass cloth into a roughly 6 cm-thick lamination; fitted a Delrin bushing around the bronze rod since that much glass, while strong, made a poor wearing surface alone; "Of course, I don't know if it works."
-[58] Archive message page_1435 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1455, 2003-11-22) — "Re: FAQ File": made Nels and DC assistant moderators, giving them file-editing access to the Build Manual and FAQ folders; asks them to confirm they now have access. Quotes Nels's 18 November message (chine-runner FAQ example) and Glen's own FAQ-launch message in full.
-[59] Archive message page_1438 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1458, 2003-11-22) — "Re: rolling bevels": "Great explanation DC, will this be part of the Build Manual?"
+[58] Archive message page_1435 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1455, 2003-11-22) — "Re: FAQ File": made Nels and Smith assistant moderators, giving them file-editing access to the Build Manual and FAQ folders; asks them to confirm they now have access. Quotes Nels's 18 November message (chine-runner FAQ example) and Glen's own FAQ-launch message in full.
+[59] Archive message page_1438 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1458, 2003-11-22) — "Re: rolling bevels": "Great explanation Smith, will this be part of the Build Manual?"
 [60] Archive message page_1439 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1459, 2003-11-22) — "Re: A proposal, a real one": "Thanks Kjell." Quotes Kjell's lower-gudgeon method in full.
 [61] Archive message page_1440 (rdehon / Ronald de Hon, `paradoxbuilders`, msgnum 1460, 2003-11-23) — "RHXII": reports new "RHXII" photos uploaded to the group's photo album.
 [62] Archive message page_1441 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1461, 2003-11-23) — "Re: RHXII": "Great pictures Ron, from the looks of your project you are almost finish. Do you have a launch date in mind? Please keep us informed of your progress."
@@ -567,7 +578,7 @@ had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
 [66] Archive message page_1463 (arvent / "Nels", `paradoxbuilders`, msgnum 1483, 2003-11-29) — "Re: Off to Philly": apologizes to Derek; the note was meant, as co-moderator, to confirm to Glen he'd received his instructions; the "other site" line was a feeble attempt at humour, no real beef with Don or anyone; acknowledges tone is easily misconstrued in writing.
 [67] Archive message page_1466 (arvent / "Nels", `paradoxbuilders`, msgnum 1486, 2003-11-30) — "Welcome New Members": welcomes about a dozen new members from the prior couple of weeks; points them to the group's photos/files and Links section (other Paradox/related-design sites, where to buy plans); discloses the group is "in the progress of considering developing plans for a somewhat enlarged version of Paradox" and invites feedback of any kind.
 [68] Archive message page_1516 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1536, 2003-12-23) — "Re: Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md#census-six-paradoxes-launched-december-2003).
-[69] Archive message page_1629 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1651, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+[69] Archive message page_1629 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1651, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [70] Archive message page_1633 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1655, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
 [71] Archive message page_1639 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1661, 2003-12-29) — "Re: New Pictures For Paradox Phans!": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter).
 [72] Archive message page_1971 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1994, 2004-03-24) — "Re: More pics": "Great pics Kjell, thanks for sharing! Tailwinds, Glen."
@@ -606,3 +617,4 @@ had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
 [105] Archive message page_2998 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3029, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": suspects Don Elliott himself may be behind the folder mix-up, having seemed to know of Derek's ballast question, but says Don remains a fellow Paradox builder and sailor with useful contributions to make and has always been helpful to him; thanks the group as a whole, naming Nels, Chris, Bill, David, Jack, and Dave among others, for Paradox-specific and general building/sailing/life knowledge as launch nears; jokes about the variety of surnames on the list (French, Swedish, Norwegian, Anglo-Saxon) and asks in passing whether "Molduc" is East European. Signed "Derek."
 [106] Archive message page_3000 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3031, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": "Thanks Derek, she looks great!" Signed "Glen."
 [107] Archive message page_3002 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3033, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": "Molduc?????? Apologies - I meant Bolduc, of course. This diabetes does strange things to the mind :0)" Signed "Derek."
+[108] Archive message page_3713 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 3745, 2006-07-15) — "Re: Paradox Plans": full text and citation at [references/building-plans.md](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality). Signed "Glen."

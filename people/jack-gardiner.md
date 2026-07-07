@@ -242,9 +242,9 @@ touch — which Jack read as backhanded, pointing out that same correspondent's
 own epoxy-topic replies inside the steel thread, before confirming he would
 carry on his research privately. No further "Steel?" posts, and no steel
 Paradox by Jack or anyone else, followed. See
-[aluminum and steel Paradox (speculative) — DC's rebuttal: why a steel
+[aluminum and steel Paradox (speculative) — Smith's rebuttal: why a steel
 Paradox would be "a horrible
-mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 - **A one-word callback to his own "Steel?" thread.** When David Beard
   wondered what it would take to design a 25 ft Paradox, Jack answered in
   jest with the single word "Steel!!!" — a nod to his own earlier steel-hull
@@ -419,7 +419,7 @@ had his own copy of *The Sailmaker's Apprentice* in hand.
 Answering David Beard's saltwater-trolling question, Jack gave a
 Northeast-Atlantic-seaboard technique — see [fishing while
 cruising](/operations/provisioning-and-water.md#fishing-while-cruising) for
-his lure recommendation and safety notes, and DC's separate meathook-rig
+his lure recommendation and safety notes, and Smith's separate meathook-rig
 account from Pacific waters.
 
 Wishing [Glen Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus)
@@ -514,6 +514,16 @@ bronze work-hardens it into a brittle state. See [chine runner construction —
 fabricating chine runners in steel, if the whole hull is
 steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel)
 for the full exchange.
+
+When the "Steel Paradox?" question recurred again in August 2006, Jack
+summed up his standing view rather than repeating the whole debate: the
+topic had been "well beaten" already, the **stock 13'10" length is
+questionable** for a steel build, but a **larger, stretched hull would work
+out better** — consistent with his own earlier resolution to build a stock
+wood Paradox first and pursue steel only on a bigger hull, if at all. See
+[aluminum and steel Paradox (speculative) — a second 2006 recurrence,
+briefly
+answered](/design/aluminum-construction-idea.md#a-second-2006-recurrence-briefly-answered).[212]
 
 ## Launch: "Jill"
 
@@ -876,6 +886,108 @@ or study plans might be available, Jack asked only where he was located
 market — a want-to-buy inquiry from
 Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
 
+Updating his own steel-enlargement plans, Jack settled on the smaller of the
+two hull lengths he had earlier been weighing: a **16 ft version, in corten
+steel specifically**, which he judged renders most other steel-construction
+objections moot. Answering the same newcomer's two-person question, he
+confirmed sailing his own stock boat 2-up is "cramped, but doable," and
+recommended building to "the pinacle of matts building sailing" — the
+design as Matt Layden himself judged safest and best suited — over
+second-guessing it before ever sailing one. See [stretched Paradox — a steel
+enlargement idea, and the case against
+it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it)
+and [first-boat suitability — the two-person question, answered
+directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[201]
+Closing out Derek Clark's rowlock/wedge exchange, Jack supplied the
+terminology note that Americans call the same fitting an "oarlock." See
+[boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[202]
+Derek's own closing reply — that he would adopt "oarlock" too if he were ever
+"blown round that side of the pond" — followed the next day.[204]
+
+Jack's outboard, generator, and family circumstances are covered in full on
+[boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions):
+a 6 hp Johnson outboard and a gifted 1,000-watt two-stroke generator for
+charging batteries, his home sailing grounds in Rhode Island waters near
+Newport, and a health scare — a tonsil infection that closed his windpipe
+almost to the point of needing an emergency airway, resolved without lasting
+complication.[203]
+
+Answering Derek Clark's compass question, Jack pointed out that a GPS's
+bearing comes from satellites rather than magnetic north, so nearby iron
+does not affect it. See [GPS and navigation instruments — compass choice and
+mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[206]
+
+Weighing in on the "max weight and height" thread, Jack — at 5 ft 7 in —
+described being able to climb bodily into his own boat's forward
+compartment, which he left open with no bulkhead-#1 panel, and still fitting
+comfortably two-up with a crewmate nearly 6 ft tall; he pointed a larger
+sailor toward the enlarged/stretched Paradox files instead of assuming the
+stock cabin is a hard limit. See [interior bin panels and hinged floor —
+reaching the extreme forward compartment, just behind the
+stem](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem).[207]
+
+Answering a bulkhead-3 steel-reinforcement proposal, Jack endorsed steel as
+a viable material provided it is properly prepared (sandblasted or
+hand-ground, then epoxy-coated), trading strength for cross-sectional area
+against the plans' plywood web. See [crew size and cabin fit — modifying
+bulkhead 3 to gain room for sleeping
+two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[208]
+
+Answering a newcomer's plywood-grade question the next day, Jack gave the
+fullest first-hand plywood report of his own build on record — exterior fir
+skinned in doubled 2 oz glass, a 3/4 in exterior fir floor, single-layer 12
+oz biaxial cloth on the bottom, stitch-and-glue/tabbed/filleted
+construction, no bottom damage after repeated beaching on moderate rubble —
+plus a plain-language guide to reading a plywood grading stamp. See
+[plywood grade and foam flotation debate — a July 2006 recurrence, and a
+recommendation for MDO
+plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[209]
+
+When the same newcomer returned with plans in hand, a barn-platform build
+plan, and questions about enlarging Paradox for a couple and using his own
+larch (tamarack) trees for masts and booms, Jack proposed building an
+enlarged boat's sides from two bonded plywood layers with opposing seams
+rather than one thick sheet, scaling the same doubling up to the larger
+bulkheads and rig; on the larch question, proposed testing measured pieces
+against a known mast wood such as clear Douglas fir or Sitka spruce with a
+fishing scale rigged as a "poor man's tensometer," recording breaking load,
+bend, and twist; and recalled flipping his own stock boat's hull
+single-handed, built up on two leveled bunks marked to the hull's
+resting shape. See [double-layer plywood for an enlarged Paradox and
+testing an unconventional mast
+wood](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood)
+and [wood species for a scratch-built wooden
+mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).[210]
+
+Answering a question on why the Paradox sail is sleeved rather than lashed
+to the yard and boom, Jack judged it Matt Layden's preference for
+simplicity, and gave his own bottom-layup detail (a single layer of 12 oz
+biax, about a gallon of epoxy) before reporting Jill's first sail of the
+2006 season. Full account at
+[boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[211]
+
+## Urging Derek Clark not to leave the list
+
+When Derek Clark announced he was leaving the group after selling "Enuf,"
+Jack — although not among the builders Derek had thanked by name — added his
+own case for staying. He valued his own Paradox over his 19 ft, 75 hp
+motorboat specifically because a dead outboard still leaves the sail to get
+him home, and judged Paradox worth taking into rough offshore weather over a
+powerboat for the same reason, with the added option of simply beaching her
+and seeking help if needed. He judged Paradox's design the product of a
+great deal of deep thought, whose survivability-in-a-small-space genius only
+becomes more apparent with familiarity, and urged Derek not to sell himself
+short or burn bridges regardless of which way his decision went. Derek
+apologized for the oversight in his thank-you list, having assumed Jack
+would not want the publicity. Jack closed the exchange by drawing on his own
+experience of losing a boat to misfortune and building past it: blown onto a
+beach and trying to haul his own Paradox free with his truck, he backed the
+drive wheels straight over the rudder and crushed it — "I built it and I can
+replace it, Il make it even better!!" No longer owning a Paradox, in his
+view, is beside the point, since the group is called Paradox **builders**,
+and that description still fits Derek regardless. Full account at
+[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[213][214][215]
+
 # Citations
 
 [1] Archive message page_1515 (alex29 / "Jack", `paradoxbuilders`, msgnum 1535, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -908,8 +1020,8 @@ Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
 [28] Archive message page_1613 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1635, 2003-12-28) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#solid-round-stock-as-an-alternative-to-pipe).
 [29] Archive message page_1614 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1636, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#solid-round-stock-as-an-alternative-to-pipe).
 [30] Archive message page_1618 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1640, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-welded-angle-flange-framing-method-with-no-water-traps).
-[31] Archive message page_1628 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1650, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
-[32] Archive message page_1630 (alex29 / "Jack", `paradoxbuilders`, msgnum 1652, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+[31] Archive message page_1628 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1650, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+[32] Archive message page_1630 (alex29 / "Jack", `paradoxbuilders`, msgnum 1652, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [33] Archive message page_1634 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1656, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
 [34] Archive message page_1642 (alex29 / "Jack", `paradoxbuilders`, msgnum 1664, 2003-12-30) — "Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 [35] Archive message page_1644 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1666, 2003-12-29) — "Re: Chinerunners": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
@@ -944,8 +1056,8 @@ Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
 [65] Archive message page_1837 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1860, 2004-01-20) — "Re: building update": the photos are sorted to the bottom of the photo section, fixed by refreshing the browser; reports good progress despite a tough winter slowing epoxy work (needs heat to reach working temperature); has not yet started the floor; sheer clamps installed the night before, chine logs going in that day; has not yet needed a claw hammer or dead-blow mallet.
 [66] Archive message page_1838 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1861, 2004-01-20) — "Re: building update": answers Glen's interior/seaming question — his S&G technique does not stitch panels with wire, instead clamping or pinning the joint with sheetrock screws; uses West epoxy and West silica (same as Cabosil) with added wood flour to slow runs; 4 oz, 2 in-wide tape for inside joints; will use 12 oz biaxial cloth on the bow glue-ups to tab them in; vent trunk and bin sides next.
 [67] Archive message page_1854 (alex29 / "Jack", `paradoxbuilders`, msgnum 1877, 2004-01-23) — "Re: building update": bottom about to go on; thinking aloud about extending the cabin forward over the "forward stateroom," stepping up the aft hatch/helm area for more headroom and a bigger seat, or a plexiglass dome over the "forward stateroom" — attributed (mistakenly) to "Nels."
-[68] Archive message page_1855 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1878, 2004-01-23) — "Re: building update": "woops, Wrong guy, not Nels, DC, too many brilliant minds to remember. epoxy reaction. sorry."
-[69] Archive message page_1857 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1880, 2004-01-23) — "Re: building update": apologizes to DC for conflating his post with another; was weighing all options for a little more room, including molding his own P-51-style sliding cockpit canopy; "I assure you it wont happen again."
+[68] Archive message page_1855 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1878, 2004-01-23) — "Re: building update": "woops, Wrong guy, not Nels, Smith, too many brilliant minds to remember. epoxy reaction. sorry."
+[69] Archive message page_1857 (alex29 / "Jack Gardiner", `paradoxbuilders`, msgnum 1880, 2004-01-23) — "Re: building update": apologizes to Smith for conflating his post with another; was weighing all options for a little more room, including molding his own P-51-style sliding cockpit canopy; "I assure you it wont happen again."
 [70] Archive message page_1859 (alopenboat / "Alastair", `paradoxbuilders`, msgnum 1882, 2004-01-24) — "Re: building update": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas); congratulates Jack — "When the bottom goes on is when it really becomes a boat. Well done!"
 [71] Archive message page_1860 (alex29 / "Jack", `paradoxbuilders`, msgnum 1883, 2004-01-24) — "Re: building update": agrees with Alastair's floor-vs-roof tradeoff; lowering the floor would cut into water-tank capacity; wants the mast to stow "over" rather than inside the boat; judges a stretched-length Paradox is probably the better answer, still just looking at the options; jokes about hiring "a midget deck hand."
 [72] Archive message page_1861 (alex29 / "Jack", `paradoxbuilders`, msgnum 1884, 2004-01-24) — "Re: building update": "Your right and AFTER I posted and read it it hit me. Im just a big kid and get excited over boats and ideas. I do not mean any harm."
@@ -1078,3 +1190,18 @@ Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
 [198] Archive messages page_3234/page_3236 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3265, 2005-12-05, and msgnum 3267, 2005-12-06) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).
 [199] Archive message page_3244 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3275, 2005-12-07) — "Re: Rudder construction...": full text and citation at [design/rudder.md](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress); set his own pivot-bolt washers flush with the surrounding surfaces, bedded in epoxy. Signed "Jack."
 [200] Archive message page_3248 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3279, 2005-12-09) — "Re: paradox or similar wanted": "Where are you located?" — asks "Ken Pagans" (`lvltlbts`) for his location; full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).
+[201] Archive message page_3289 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3320, 2006-01-24) — "Re: Paradox questions": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it) and [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).
+[202] Archive message page_3290 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3321, 2006-01-24) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+[203] Archive messages page_3291/page_3294 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3322/3325, 2006-01-24) — "Re: More progress and another question": full text and citation at [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions) (6 hp Johnson outboard and 1,000-watt generator setup, Newport-area sailing conditions, his 103-year-old grandfather, and a hospitalization for a tonsil infection that had closed his windpipe).
+[204] Archive message page_3299 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3330, 2006-01-25) — "Re: More progress and another question": replies to Jack's "oarlocks" terminology note — "If I get blown round that side of the pond that's what I'll call them too." Full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+[205] Archive message page_3303 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3334, 2006-01-26) — "Re: Plywood for Paradox": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-2006-recurrence-budget-exterior-ply-and-why-green-plywood-should-be-avoided) (green/pressure-treated-plywood caution, exterior-vs-marine glue equivalence, and his own two-season exterior A/C ply track record).
+[206] Archive message page_3381 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3412, 2006-03-08) — "Re: Compass": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#compass-choice-and-mounting). Signed "Jack."
+[207] Archive message page_3430 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3461, 2006-03-18) — "Re: re paradox max weight and height": full text and citation at [design/interior-bins-and-floor.md](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem). Signed "Jack."
+[208] Archive message page_3721 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3753, 2006-07-16) — "Re: Bulkhead 3": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two). Signed "Jack."
+[209] Archive message page_3742 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3774, 2006-07-18) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood). Signed "Jack."
+[210] Archive message page_3769 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3801, 2006-07-20) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood) and [design/rig.md](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast). Signed "Jack."
+[211] Archive message page_3829 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3861, 2006-08-17) — "Re: Paradox sails": full text and citation at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season); judges Matt Layden chose sail sleeves for simplicity; used a single layer of 12 oz biax cloth on his own hull bottom; reports Jill's first sail of the 2006 season. Signed "Jack."
+[212] Archive message page_3866 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3898, 2006-08-19) — "Re: Steel Paradox?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-second-2006-recurrence-briefly-answered); "Dont get me going. LOL" — the topic has been well beaten already; the stock size is questionable for steel, but a larger version would work out. Signed "Jack."
+[213] Archive message page_3960 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3993, 2006-09-16) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); values his own Paradox over his 19 ft, 75 hp motorboat since a dead outboard still leaves the sail to get him home; would rather sail a Paradox than a powerboat in rough offshore weather, with beaching as a further fallback; judges Paradox's design the product of deep thought whose survivability-in-a-small-space genius grows more apparent with familiarity; urges Derek not to sell himself short or burn bridges. Signed "Jack."
+[214] Archive message page_3968 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4002, 2006-09-17) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); apologizes to Jack for the oversight in his thank-you list, having assumed Jack would not want the publicity; agrees ("Very likely!") he may simply like fixing and building more than sailing.
+[215] Archive message page_3977 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 4011, 2006-09-18) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); recounts being blown onto a beach and driving his truck's drive wheels over his own Paradox's rudder while trying to pull her free, crushing it — "I built it and I can replace it, Il make it even better!!"; argues that no longer owning a Paradox does not disqualify Derek from the group, since it is called Paradox builders, and that is what Derek still is; closes with "Yep sometimes the cart gets ahead of the horse." Signed "Jack."

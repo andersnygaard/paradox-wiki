@@ -1,0 +1,114 @@
+---
+type: Concept
+title: Window glazing — Lexan/polycarbonate versus Perspex/acrylic
+description: How to choose and source clear glazing for a Paradox's windows — the practical tradeoffs between polycarbonate (Lexan) and acrylic (Perspex/Plexiglas), chemical hazards and protective film, UK/US sourcing and pricing notes, and a boat cover's role in protecting the finished glazing.
+tags: [paradox, construction, windows, glazing, lexan, perspex, acrylic, polycarbonate, materials]
+timestamp: 2026-07-06T00:00:00Z
+---
+
+# Window glazing — Lexan/polycarbonate versus Perspex/acrylic
+
+A Paradox's windows can be glazed in either of two clear plastics —
+**polycarbonate** (trade name Lexan) or **acrylic** (trade names Perspex,
+Plexiglas, Lucite, Acrylite, and Rhoplex/Oroglas) — and the two have
+genuinely different working properties, not just different price points.
+
+## Toughness versus scratch resistance: the core tradeoff
+
+**Polycarbonate (Lexan)** is far tougher and more impact-resistant than
+acrylic. It is the material used for jet-aircraft cockpit canopies,
+bulletproof glazing, shatterproof eyewear, and ice-hockey and football face
+guards. A demonstration of its resilience: a quarter-inch sheet of Lexan
+laid over an open barrel and struck repeatedly with a two-pound sledgehammer
+eventually deformed into the barrel under the hardest blow but did not
+break — the sheet had to be worked back into a rough cylinder with a
+Spanish windlass to get it back out.
+
+**Acrylic (Perspex/Plexiglas)** is more brittle by comparison — it can crack
+under impact or under excess stressing (for example, over-tightening a
+screw through it) — but is harder and more scratch-resistant than
+polycarbonate, and easier to polish back to clarity if scratched. Acrylic
+also costs a fraction of what polycarbonate costs, and is the more commonly
+used term in the US for the same family of sheet plastic.
+
+Both materials are used in boat windows; acrylic simply cannot carry
+structural loads the way polycarbonate can. Either should be specified with
+a **UV coating**, or it will cloud over much sooner in sunlight — a bigger
+factor in the tropics than in temperate climates. Cost-conscious builders
+who cannot get factory-fresh sheet can often find **drops or damaged
+sheets** from a local plastics supplier or fabricator at a considerable
+discount over a full new sheet.
+
+## Working the two materials
+
+The two plastics behave differently under tools and heat, which matters
+when cutting a window opening:
+
+- **Acrylic** can be edge-polished with a heat source such as a propane
+  torch (practice first) and bends fairly easily with a heat gun.
+- **Polycarbonate** chars and burns under high heat rather than
+  softening cleanly, and an amateur will get only marginal results trying to
+  cold-bend or heat-form it — the forming temperature is close to the
+  temperature that damages the material outright.
+- **Laser cutting** leaves acrylic with a smooth edge, while polycarbonate
+  chars at the cut and needs the burnt edge scraped, leaving a sanded look.
+
+One builder's own glazing choice for a see-through hull-bottom viewing
+window was Lexan Excel D (UV-coated): it scratches with use, but because
+polycarbonate's refractive index is close to water's, visibility through the
+scratched panel stayed serviceable even underwater. See [glass-bottom
+viewing panel](/design/glass-bottom-idea.md) for that use case, and
+[cutting window openings into the cabin sides](/boats/enuf.md#cutting-window-openings-into-the-cabin-sides)
+for a builder's own use of 3 mm Lexan offcuts glazing routed window recesses
+directly into the plywood cabin sides.
+
+Two further chemical hazards to Lexan/polycarbonate windows worth planning
+around: **petrol splashed on Lexan ruins it** — a caution most relevant to a
+boat with an outboard rather than one relying only on a sculling oar for
+auxiliary power — and some **insect repellents containing DEET** likewise
+damage polycarbonate on contact. One builder's home-built 23-footer used
+ordinary Perspex/acrylic instead and had no such problems.[9][10]
+
+A protective **Mylar film**, of the kind sold as automotive sun-blocking
+window tint or household window-darkening film, was suggested as a way to
+extend either material's working life: it is inexpensive, peels off cleanly
+once scratched or dirtied rather than requiring the underlying pane to be
+replaced, comes in shades from near-clear to near-black, can be reapplied
+every season or so, and — being a polyester — resists chemical damage in its
+own right while adding UV protection for the Lexan or acrylic beneath it.
+This mirrors the same trade already used on NASCAR windshields and
+helicopter canopies.[11]
+
+A **boat cover** for the cabin and decks while trailered or laid up was
+recommended as a further layer of protection, expected to pay for itself
+many times over by keeping paint, epoxy, and Lexan/acrylic glazing free of
+UV and abrasion damage, and as a deterrent against curious or careless
+passersby — a benefit that applies equally to a boat left on a mooring
+between trailer-sailing trips.[13][14]
+
+## UK sourcing and pricing
+
+UK builders sourced Lexan from **Master Plastics (S.W.) Ltd** (trading as
+`fascias.com`); a 2.05 m x 1.25 m x 6 mm sheet cost about £160 in 2003.
+By April 2006, the same 6 mm sheet size had actually become *cheaper* —
+£99.52 including VAT plus postage — a rare direction for a materials price
+to move. Plexiglass/acrylic sheet, by contrast, was recommended as a
+lower-cost alternative worth checking with local plastics suppliers and
+fabricators before committing to the pricier polycarbonate.
+
+# Citations
+
+[1] Archive message page_3533 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 3564, 2006-04-01) — "Lexan": asks where to get Lexan in the UK, whether Perspex is the same material, and whether there are alternatives for the Paradox's windows. Signed "Bill."
+[2] Archive message page_3534 (LJGeib / "Larry," `paradoxbuilders`, msgnum 3565, 2006-04-01) — "Re: Lexan": detailed comparison of polycarbonate (Lexan, DuPont's trade name) versus acrylic (Perspex): polycarbonate is much tougher, used for bulletproof glazing, shatterproof eyewear, and hockey/football face guards; acrylic is more brittle, cracking more easily under impact or stress (e.g. over-tightened screws), but easier to see through and polish if scratched; acrylic edges can be heat-polished with a torch and acrylic bends with a heat gun, while polycarbonate chars/burns under high heat and resists amateur cold-bending or thermoforming; laser-cut acrylic leaves a smooth edge while laser-cut polycarbonate chars and needs scraping to a sanded finish; both materials need a UV coating or will cloud faster, especially in the tropics; recounts laying 1/4 in Lexan over an open barrel and striking it repeatedly with a 2 lb sledgehammer — it deformed into the barrel but did not break, and had to be worked back into a cylinder with a Spanish windlass to remove; used Lexan Excel D (UV-coated) for a hull-bottom viewing window — it scratches but stays usable since its refractive index is close to water's. Signed "Larry."
+[3] Archive message page_3535 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3566, 2006-04-01) — "Re: Lexan": used Plexiglass — more scratch-resistant than Lexan but not as tough, and a fraction of the cost; suggests checking the local yellow pages for plastics suppliers/fabricators, who often sell drops or damaged sheets at a considerable discount. Signed "Glen."
+[4] Archive message page_3536 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3567, 2006-04-01) — "Re: Lexan": sourced his own Lexan from Master Plastics (S.W.) Ltd (`www.fascias.com`); a 2.05 m x 1.25 m x 6 mm sheet cost about £160 in 2003. Signed "Al, Yeovil, England."
+[5] Archive message page_3537 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3568, 2006-04-01) — "Re: Lexan": thanks Larry for "an informative and helpful posting." Signed "Bill."
+[6] Archive message page_3538 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3569, 2006-04-01) — "Re: Lexan": thanks Glen for the Plexiglass tip, calling Lexan "really expensive" and welcoming a cheaper option that would do the job. Signed "Bill."
+[7] Archive message page_3539 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3570, 2006-04-01) — "Re: Lexan": reports the current UK price for a 6 mm Lexan sheet had actually fallen to £99.52 including VAT, plus postage — "not often prices get cheaper." Signed "Bill."
+[8] Archive message page_3540 (reppeto / Paul Reppeto, `paradoxbuilders`, msgnum 3571, 2006-04-01) — "Lexan": quotes a reference definition of Perspex (trade name for acrylic/PMMA sheet first produced in 1930, also sold as Plexiglas, Lucite, Acrylite, and Rhoplex/Oroglas) and adds his own polycarbonate toughness anecdote — as a young man, laid 1/4 in Lexan over an open barrel and struck it with a 2 lb sledgehammer until it deformed into the barrel without breaking, then had to work it back into a cylinder shape with a Spanish windlass to remove it; polycarbonate also has good electrical properties, useful for mounting low-voltage fuses and connectors; agrees acrylic/Plexiglass costs a fraction of Lexan's price and is more scratch-resistant, joking "just don't shoot musket balls at it." Signed "Paulr."
+[9] Archive message page_3542 (flexwing462 / james hall / Jim Hall, `paradoxbuilders`, msgnum 3573, 2006-04-02) — "Re: Lexan": notes petrol splashed on Lexan ruins it, a caution most relevant to boats with outboard engines rather than those relying on a sculling oar; used ordinary Perspex on his own home-built 23-footer with no problems. Signed "Jim Hall."
+[10] Archive message page_3543 (mark / Mark Balogh, `paradoxbuilders`, msgnum 3574, 2006-04-02) — "Re: Lexan": adds that polycarbonate is also subject to damage from some insect repellents containing DEET. Signed "Mark."
+[11] Archive message page_3544 (LJGeib / "Larry," `paradoxbuilders`, msgnum 3575, 2006-04-02) — "Re: Lexan": suggests covering Lexan (or acrylic) with a Mylar film of the kind sold as automotive sunscreen window tint or household window-darkening film — NASCAR drivers and helicopter pilots use the same trick over their own Lexan windshields; the film is cheap, easy to apply, peels off when scratched or dirty rather than requiring the pane's replacement, comes in shades from near-clear to near-black, could be reapplied roughly once a season, and, being a polyester, should itself resist chemical damage while adding UV protection. Signed "Larry."
+[12] Archive message page_3545 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3576, 2006-04-02) — "Lexan": thanks everyone who contributed to his request for help sourcing Lexan in the UK, more information than expected, calling the group "knowledgeable and helpful." Signed "Bill."
+[13] Archive message page_3547 (arvent / "Nels", `paradoxbuilders`, msgnum 3578, 2006-04-05) — "Re: Lexan": suggests sewing a boat cover to protect the cabin and decks while trailered or stored, expecting its cost to be repaid many times over in protecting paint, epoxy, and Lexan, and noting it would also help against curious or uncaring passersby. Signed "Nels."
+[14] Archive message page_3548 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3579, 2006-04-05) — "Re: Lexan": agrees the boat-cover suggestion makes a lot of sense, especially since he expects to leave his own Paradox on a mooring between periods of trailer-sailing. Signed "Bill."

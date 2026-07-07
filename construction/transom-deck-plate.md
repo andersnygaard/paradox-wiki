@@ -72,6 +72,65 @@ practice:
   led overboard via the vent port — a second, simpler tank-draining method
   alongside the galley-pump/spigot technique above.
 
+## The fill/suction copper pipe: sizing, timing, and the fittings that connect to it
+
+The plans draw the water-tank **fill/suction line** in **12 mm copper
+pipe**. Filling from a tap takes roughly **5 to 10 minutes per side**,
+about twice as long again using a 12-volt bilge pump in reverse — slower
+than rigging the mast and sail, so a builder can set the tank filling and
+get on with the rest of launch prep in the meantime. A pair of **deck
+fittings sourced secondhand at a boat jumble**, fitted with a plug that
+screws into the pump inlet, connects the bilge pump to the fill/suction
+pipe for draining. Since the deck fittings sit outside the hull, filling
+is as simple as pointing a hose roughly at the fitting; water that misses
+just runs off over the side rather than causing any harm.
+
+One hazard is specific and worth calling out: **forcing water in too
+fast can blow an inspection hatch off** — one builder's own inspection
+hatch popped doing exactly that. Filling at home before towing to a
+launch site is not recommended either; a builder who wanted a boat ready
+to sail immediately at the ramp preferred to carry the ballast as fixed
+lead instead and dispense with the bother of a pre-filled tank altogether.
+
+Whether to sail with the tanks full matters more than the 70 kg of water
+might suggest against 180 kg of fixed lead: leaving the water out in
+light conditions is workable, but has a **noticeable effect on initial
+stability** even against that much lead ballast already aboard — Matt
+Layden's own design intent for the tank was fresh drinking water, not
+extra stability margin to be dispensed with casually. See [weight and
+ballast — real-world under-ballasted
+handling](/design/weight-and-ballast.md#real-world-under-ballasted-handling)
+for the same effect measured on other boats. Closing off the fill/suction
+pipes at deck level to collect rainwater instead is possible in theory —
+pull the filler plug and block the toe-rail gap with a rubber block — but
+in practice rarely necessary, except perhaps where local regulations make
+it the only legal way to take on fresh water.
+
+Two alternatives to building the tanks at all have been floated, neither
+built or tested. **Sea water** in place of fresh could remove the "not
+drinking it anyway" objection outright, with the side benefit of less risk
+of rot forming in an unused tank — though a builder weighing this against
+simply carrying more fixed lead judged the headroom and floor-space gain
+from omitting the tanks altogether the more attractive trade.[54] A
+simpler alternative again: skip the built-in tank as storage entirely and
+carry drinking water in ordinary bottles, following the Bolducs' own
+practice — square-section bottles were suggested as an efficient shape for
+the space.[55]
+
+For the water tank's suitability as a **drinking-water** supply, epoxy
+suppliers on both sides of the Atlantic decline to certify their resin
+for potable use — consistent with the divided opinion recorded at [water
+tank construction and lining — epoxy: mixed
+opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions); a
+builder who has sailed with and without water in the tanks describes it
+as only "a little more tender" without, not a serious handling problem,
+and now fills the tanks only for trips of more than a day or two. Using
+**CPVC** rather than PVC pipe for the fill/suction line is recommended,
+being smaller in outside diameter for the same bore. **Matt Layden's own
+boat** draws water out of its tanks with a **fuel bulb** rather than a
+bilge pump — a deliberately inconvenient method he says goes a long way
+toward encouraging fresh-water conservation afloat.[49][50][51][52][53]
+
 ## The vent trunk's own drain
 
 Distinct again from both the transom deck plate and the vent baffle is the
@@ -226,6 +285,19 @@ to epoxy the fan into the rim of a removable access-hatch cover, so the fan
 can be swapped for a plain cover and stored separately when the boat is
 trailered and left bug-free.[39]
 
+### A proposed DC air-conditioning trial
+
+A small **24-volt DC air-conditioning unit**, developed for golf carts by
+one owner's own employer (Tecumseh Products), was volunteered for testing
+aboard [Whisper](/boats/whisper.md) in mid-2006 — compact, "plug and play,"
+and run from a generator rather than the boat's own battery bank. The
+proposer judged it probably unsuited to a Paradox's power budget, but
+potentially useful on larger boats; no test result is recorded.[56] The
+only prior air-conditioning practice on record is a standard household
+**110V window unit** run dockside off shore power, fitted snugly into the
+companionway opening — a fraction of the cost of a purpose-built marine
+DC unit mounted on a hatch.[57][58]
+
 ## Sealing stubborn inspection plates: three builders' techniques
 
 A recurring nuisance is a deck plate that leaks or seats stubbornly, and
@@ -263,7 +335,7 @@ workspace](/construction/build-effort.md#time) for this data point folded
 alongside the other recorded build-time figures (Glen Maxwell's
 ~500-to-1,000+ hour range, Matt Layden's own ~3-4 months full-time).
 
-## A proposed permanent tiller boot, and DC's rebuttal (with sea-anchor vs. series-drogue doctrine)
+## A proposed permanent tiller boot, and Smith's rebuttal (with sea-anchor vs. series-drogue doctrine)
 
 A **permanent watertight boot** over the tiller opening, going further than
 the vinyl boot described above, has been proposed together with a small
@@ -341,7 +413,7 @@ sea when forecast conditions already exceed 20 knots and 10 ft seas — but
 incremental exposure to worsening weather is itself how a sailor builds a
 genuine foul-weather threshold and gains experience.
 
-## Robert's sources, and DC's closing rebuttal
+## Robert's sources, and Smith's closing rebuttal
 
 The series-drogue case draws on two authorities: a direct consultation with
 **Matt Layden** (17 October 2003) and U.S. Coast Guard report CG-D-20-87
@@ -376,6 +448,36 @@ boat, since chance combinations of circumstance can catch even a cautious,
 experienced sailor in a severe storm — hence a preference for pre-planned
 contingency equipment and a "B" plan, on the other side of this
 disagreement.
+
+## Stowing the mast, boom, yard, and sail through the transom hatch for road travel
+
+The transom hatch doubles as the loading route for the spars and sail when
+the boat is trailered rather than sailed, and the fit through it and over
+the stern baffle is tight enough to raise its own practical question, distinct
+from the watertightness concerns above: whether to stow the mast inside the
+boat while leaving the boom, yard, and sail lashed on the side deck, or bring
+everything inside, and whether the transom hatch is worth fitting at all
+given the trouble of maneuvering spars through it.[47]
+
+In practice the spars **do** go in through the transom hatch, though it is a
+tight, fiddly fit — the furling axle has to be removed from the boom first,
+and the plywood discs on the furling drum are the tightest-fitting part of
+the whole job — done partly from outside the boat and partly from in. Once
+loaded, everything sits secure for the road with no risk of parts working
+loose, but the boom is not left in its normal sailing-stowed position for any
+real distance, since it sticks out too far behind the transom that way. The
+**mast** itself can be laid along the top of the already-stowed boom with a
+single lashing at the front — the same rig used to duck under low bridges
+while under sail — and it should be practical, given a bed already made up
+and ready, to sleep aboard on the road without pulling the mast back out
+again.[48]
+
+Beyond the loading question, the transom hatch earns its place for two
+further reasons: **road security** — nothing is at risk of being lost or
+coming loose while under way behind a car, which is "very comforting" — and
+**build access**, since reaching in through the hatch to fit the rear deck
+fittings is easier than crawling all the way through bulkhead 4 to reach the
+same spot from inside.[48]
 
 ## A simpler alternative for the tiller opening: a second rubber baffle disc
 
@@ -460,24 +562,24 @@ against the theoretical flooding scenario.
 [11] Archive message page_713 (Alastair, `paradoxbuilders`, msgnum 725, 2002-09-28) — "Re: Vent Baffle": the baffle inside is high enough to stop water coming over the top under normal conditions; the tiller hole is low enough to stay above the water even if the boat is upside down; doesn't know if this has ever been tested.
 [12] Archive message page_714 (dave / Dave Bolduc, `paradoxbuilders`, msgnum 726, 2002-09-28) — "Vent Baffle": the rope tiller arrangement has worked on Little Cruiser for ten years; replaced the original 3-strand dacron line with low-stretch double-braided line about 18 months ago, which tightened the steering; not much water gets in the boot on Little Cruiser or the baffle on Paradox in his experience, more from splashing than anything; a wave breaking right on the stern might let a little more in.
 [13] Archive message page_999 (Jim Goeckermann / `jgoeckermann`, `paradoxbuilders`, msgnum 1015, 2003-06-13) — "Leaking inspection plates": asks whether teflon tape or teflon paste would help seal inspection plates; separately asks, for a "workboat" finish, what the estimated hours of construction for a completed hull would be.
-[14] Archive message page_1000 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1016, 2003-06-13) — "Re: Leaking inspection plates": membrane manufacturers/suppliers recommend glycerin as a good lubricant for water-system O-rings; has used it with good success on Beckson deckplates; is much in favor of Glen's dowel-rod tool but has also used the rubber-coated handles of Channellock pliers, coupled with a wrench, for extra leverage seating O-rings.
+[14] Archive message page_1000 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1016, 2003-06-13) — "Re: Leaking inspection plates": membrane manufacturers/suppliers recommend glycerin as a good lubricant for water-system O-rings; has used it with good success on Beckson deckplates; is much in favor of Glen's dowel-rod tool but has also used the rubber-coated handles of Channellock pliers, coupled with a wrench, for extra leverage seating O-rings.
 [15] Archive message page_1001 (openboat / Alastair, `paradoxbuilders`, msgnum 1017, 2003-06-13) — "Re: More photos": answers David Beard's transom-port question; lost the cover once, forgetting to refit it before driving away; leaking "can't" be a problem since the port is outside the baffle and any leakage drains overboard.
 [16] Archive message page_1002 (openboat / Alastair, `paradoxbuilders`, msgnum 1018, 2003-06-13) — "Re: Leaking inspection plates": the real fix is decent covers with an O-ring, tightened more than finger-tight, rather than teflon tape/paste; in practice not really a problem — a sponge wipe handles the damp underneath a sleeping mat, and more water comes in on his feet launching from a beach; his own 18-month build, guesses 1 year for a repeat, or a couple of months for an experienced full-time builder.
 [17] Archive message page_1226 (billnolen66 / Bill Nolen, `paradoxbuilders`, msgnum 1246, 2003-10-23) — "Ventilation dran question": reading "Little Jim's" website, asks where the vent trunk's drain is, quoting its line about water running in the deck vent, into the vent trunk, and out through the drain.
-[18] Archive message page_1227 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1247, 2003-10-24) — "Re: Ventilation dran question": the vent trunk drains through a thru-hull fitted directly below the trunk; points to photos of Zoë's vent trunk in the files section.
-[19] Archive message page_1269 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1289, 2003-11-13) — "Introducing Swash": full text and citation at [people/dc.md](/people/dc.md).
+[18] Archive message page_1227 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1247, 2003-10-24) — "Re: Ventilation dran question": the vent trunk drains through a thru-hull fitted directly below the trunk; points to photos of Zoë's vent trunk in the files section.
+[19] Archive message page_1269 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1289, 2003-11-13) — "Introducing Swash": full text and citation at [people/david-c-smith.md](/people/david-c-smith.md).
 [20] Archive message page_2056 (boat142 / "boat142" / Robert, `paradoxbuilders`, msgnum 2080, 2004-05-10) — "Re: big guy in a small boat": has discussed a series-sea-drogue installation with Matt Layden, who agreed a watertight boot could replace the bug netting on the tiller arm, with a seacock-fitted scupper to drain the transom baffle; estimates a severe storm could last up to 30 hours, with the hull working itself up to wave speed and avoiding serious hydro-pistoning except briefly when a breaking wave strikes (a negative 4 G impact, in his estimate); recommends anchoring a series drogue at each transom corner via a welded eye on a genoa track on each side of the deck to spread the load and avoid line chafe.
 [21] Archive message page_2057 (boat142 / "boat142" / Robert, `paradoxbuilders`, msgnum 2081, 2004-05-10) — "water tight boot on the Paradox tiller arm": if a permanent watertight boot is fitted on the tiller arm, proposes adding a small dorade or mushroom vent (with its own watertight heavy-weather cover) on the aft deck to replace the lost tiller-port ventilation; alternatively, a removable boot fitted only for storms would let the tiller port keep its fair-weather ventilation role without needing a new vent at all — his own preferred option.
-[22] Archive message page_2058 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2082, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": sees no problem with the existing vent-baffle/transom design, but many problems with an ocean-proof cloth tiller boot, series-drogue deployment, and an after-deck vent installation; asks, pointedly, when Robert begins construction.
-[23] Archive message page_2059 (boat142 / "boat142" / Robert, `paradoxbuilders`, msgnum 2083, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": clarifies he never called the open tiller port a design deficiency, only raised the series-sea-drogue question objectively, having discussed it first with Matt Layden, the boat's designer, who was not offended and did not raise any of DC's objections himself.
-[24] Archive message page_2060 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2084, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": corrects Robert's terminology ("tiller," not "tiller arm"); argues real storms more often bring multiple, chaotic wave trains rather than one, in which a series drogue helps but still exposes the fragile stern (rudder, transom, tiller port, deck plate, after-house plexiglass); prefers a parachute sea anchor streamed ~45° off the bow instead, presenting the hull's strongest geometry to the seas, raising a protective windward slick, and better shielding the rudder and ventilation system, with no large flat panel exposed as there would be running off under a drogue or warps; judges a series drogue best suited to a double-ender with a keel-hung rudder; would not trust a tiller boot to survive a transom slamming, drawing a car gearshift-boot analogy for the looseness needed for full tiller travel; calls a seacock/thru-hull/check-valve drain arrangement impractical; notes a dorade or mushroom vent would have to be disabled in a real storm at the worst possible moment, and that passive, always-open ventilation (the as-designed system) avoids interior/exterior pressure differentials blamed elsewhere for blown-out deckhouses and portlights; closes noting the USCG has "exactly ZERO experience" with the Paradox design in storm conditions, and that ultimately only experience counts.
-[25] Archive message page_2064 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2088, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": reacting to DC's "hydro pistoning," "multiple wave trains," and "pyramidal displays" language, jokes he'd think he was "out on the wrong day in any wrong boat"; judges Paradox a coastal cruiser for which reliable weather forecasts should be easy to come by; recalls that Alastair (referred to as "Al"), on his own record-setting Poole-to-Cowes crossing, made an error of judgement on the fourth attempt; "Let's be safe out there."
-[26] Archive message page_2067 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2091, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": agrees with Derek; views weather forecasts and updates as a valuable first step in storm tactics, best used to avoid adverse conditions altogether; rarely felt compelled to put to sea when static conditions already exceeded 20 knots and 10 ft seas, though conditions can still worsen once underway — which itself incrementally builds a sailor's foul-weather threshold and experience.
+[22] Archive message page_2058 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2082, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": sees no problem with the existing vent-baffle/transom design, but many problems with an ocean-proof cloth tiller boot, series-drogue deployment, and an after-deck vent installation; asks, pointedly, when Robert begins construction.
+[23] Archive message page_2059 (boat142 / "boat142" / Robert, `paradoxbuilders`, msgnum 2083, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": clarifies he never called the open tiller port a design deficiency, only raised the series-sea-drogue question objectively, having discussed it first with Matt Layden, the boat's designer, who was not offended and did not raise any of Smith's objections himself.
+[24] Archive message page_2060 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2084, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": corrects Robert's terminology ("tiller," not "tiller arm"); argues real storms more often bring multiple, chaotic wave trains rather than one, in which a series drogue helps but still exposes the fragile stern (rudder, transom, tiller port, deck plate, after-house plexiglass); prefers a parachute sea anchor streamed ~45° off the bow instead, presenting the hull's strongest geometry to the seas, raising a protective windward slick, and better shielding the rudder and ventilation system, with no large flat panel exposed as there would be running off under a drogue or warps; judges a series drogue best suited to a double-ender with a keel-hung rudder; would not trust a tiller boot to survive a transom slamming, drawing a car gearshift-boot analogy for the looseness needed for full tiller travel; calls a seacock/thru-hull/check-valve drain arrangement impractical; notes a dorade or mushroom vent would have to be disabled in a real storm at the worst possible moment, and that passive, always-open ventilation (the as-designed system) avoids interior/exterior pressure differentials blamed elsewhere for blown-out deckhouses and portlights; closes noting the USCG has "exactly ZERO experience" with the Paradox design in storm conditions, and that ultimately only experience counts.
+[25] Archive message page_2064 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2088, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": reacting to Smith's "hydro pistoning," "multiple wave trains," and "pyramidal displays" language, jokes he'd think he was "out on the wrong day in any wrong boat"; judges Paradox a coastal cruiser for which reliable weather forecasts should be easy to come by; recalls that Alastair (referred to as "Al"), on his own record-setting Poole-to-Cowes crossing, made an error of judgement on the fourth attempt; "Let's be safe out there."
+[26] Archive message page_2067 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2091, 2004-05-10) — "Re: water tight boot on the Paradox tiller arm": agrees with Derek; views weather forecasts and updates as a valuable first step in storm tactics, best used to avoid adverse conditions altogether; rarely felt compelled to put to sea when static conditions already exceeded 20 knots and 10 ft seas, though conditions can still worsen once underway — which itself incrementally builds a sailor's foul-weather threshold and experience.
 [27] Archive message page_2099 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2099, 2004-05-13) — "Re watertight boot on the Paradox tiller": cites his authorities as a direct consultation with Matt Layden (2003-10-17) and USCG report CG-D-20-87 (May 1987); summarizes the report's four hull types studied and its series-sea-drogue conclusion; reiterates Matt Layden's reported tiller-boot fabric/vent/scupper recommendations; clarifies his "tiller arm" wording in msgnum 2083 was accidental, referring instead to a proposed two-part tiller with a designed breaking point; explains why he does not see a cabin-trunk over-pressure risk on Paradox (a 120 mm deck hole forward of the windshield, plus the loosely-tracked sliding hatch, vent any pressure buildup); proposes a 15 ft/sec water-jet stern test before rigging a series drogue, citing the same USCG report for the number; argues the raked transom, hull rocker, and beam give buoyancy for a stern-hung drogue, while the sunken forefoot bow resists aquaplaning/pounding; estimates roughly ±10° yaw around the rudder axis under a stern-led drogue versus a 14 ft moment arm stressing the rudder continually under a bow-led parachute anchor; still prefers a removable watertight tiller boot, kept rolled up until needed.
-[28] Archive message page_2100 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2100, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": responding to DC's coastal-cruiser/forecasting caution, agrees Paradox is a fair-weather coastal microcruiser but maintains that "smart" seamanship (per Matt Layden) means planning for the worst, since chance combinations of circumstance can catch even an experienced, cautious sailor in a severe storm — hence his preference for pre-planned contingency equipment and a "B" plan of action.
-[29] Archive message page_2101 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2101, 2004-05-13) — "Re: Re watertight boot on the Paradox tiller": rejects the USCG report as an authority, comparing its two-decade-old, still-debated status to the saccharin-cancer and Iraq-WMD reports, and noting its most fervent series-drogue advocates tend to be sailmakers, canvas workers, and inexperienced sailors seeking a one-size-fits-all fix; contrasts the series drogue with the plain truck tire favored by many experienced bluewater sailors — cheap, reusable, easily discarded, and respected by sailors who have actually crossed the Tasman Sea or Indian Ocean; declines to re-argue his prior objections, restates that he stands by them; invites Robert to test his own theories and report back.
+[28] Archive message page_2100 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2100, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": responding to Smith's coastal-cruiser/forecasting caution, agrees Paradox is a fair-weather coastal microcruiser but maintains that "smart" seamanship (per Matt Layden) means planning for the worst, since chance combinations of circumstance can catch even an experienced, cautious sailor in a severe storm — hence his preference for pre-planned contingency equipment and a "B" plan of action.
+[29] Archive message page_2101 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2101, 2004-05-13) — "Re: Re watertight boot on the Paradox tiller": rejects the USCG report as an authority, comparing its two-decade-old, still-debated status to the saccharin-cancer and Iraq-WMD reports, and noting its most fervent series-drogue advocates tend to be sailmakers, canvas workers, and inexperienced sailors seeking a one-size-fits-all fix; contrasts the series drogue with the plain truck tire favored by many experienced bluewater sailors — cheap, reusable, easily discarded, and respected by sailors who have actually crossed the Tasman Sea or Indian Ocean; declines to re-argue his prior objections, restates that he stands by them; invites Robert to test his own theories and report back.
 [30] Archive message page_2103 (openboat / "Alastair", `paradoxbuilders`, msgnum 2103, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": takes no firm side on the drogue question, having no scenario of his own that would call for one; proposes a second baffle — a rubber disc — fixed to the tiller about 6 in forward of the transom, to deflect water entering the tiller slot without blocking ventilation; asks whether a bow-deployed drogue would actually endanger the rudder, since raising it should keep it clear of the water regardless.
-[31] Archive message page_2104 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2104, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": judges Alastair's rubber-disc idea "makes a lot of sense" — simpler than his own half-formed idea of a flange on the vent baffle's edge, likely more forgiving of the rig being stowed through the access plate, and still ventilated as Alastair described.
+[31] Archive message page_2104 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2104, 2004-05-13) — "Re: water tight boot on the Paradox tiller arm": judges Alastair's rubber-disc idea "makes a lot of sense" — simpler than his own half-formed idea of a flange on the vent baffle's edge, likely more forgiving of the rig being stowed through the access plate, and still ventilated as Alastair described.
 [32] Archive message page_2082 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2106, 2004-05-14) — "Re: water tight boot on the Paradox tiller arm": restates the bow-led parachute anchor's rudder-stress case (a sustained 45° turn over a 14 ft moment arm for up to 30 hours) and the series drogue's "Y"-bridle/shock-absorber/~90-drogue-line/weighted-extension rigging, arguing it avoids the parachute anchor's failure modes (wave-oscillation disintegration, going slack in a trough at the moment of a breaking-wave strike, being thrown to the far side of the boat and briefly accelerating it); raises a bow-led-anchor flooding scenario — a breaking sea overtopping the main vent trunk faster than the aft bilge pump can clear it, flooding forward into the stateroom and further sinking the bow, potentially requiring the anchor line be cut from the forward hatch at risk of injury.
 [33] Archive message page_2083 (openboat / "Alastair", `paradoxbuilders`, msgnum 2107, 2004-05-14) — "Re: water tight boot on the Paradox tiller arm": had assumed the sea anchor was held at 45° by a bow/stern-cleat bridle rather than by continuous rudder input; cautions that an over-short bridle can load both bridle legs beyond the drogue line's own load; reports a firsthand passage where green water repeatedly washed over the entire boat (enough to have swamped an open dinghy) — water entering the vent trunk was in relatively small quantities and the drain cleared it faster than it came in, with no stateroom flooding; questions whether a drogue's pull could plausibly draw the transom a foot out of the water, as Robert's flooding scenario implied; describes three methods (undetailed here) he has devised for anchoring off the bow without leaving the cabin, one of which he uses in practice and which doubles as a harness jackline and a ready stern/bow line when coming alongside; jokes "haven't we already broken the rudder off?" in response to Robert's back-injury scenario.
 [34] Archive message page_2084 (robertplabbe / "boat142" / Robert, `paradoxbuilders`, msgnum 2108, 2004-05-15) — "Re: water tight boot on the Paradox tiller arm": restates the bridle/rudder-stress point (a bridle-held 45° angle of attack spreads a breaking wave's force like a "broadside on a snowplow" against the hull's flare and chine-runner "fence"); asks whether anyone has tested a bow/broadside parachute sea anchor on a similarly-proportioned chine-runner sharpie; reiterates the USCG report contains rigging-load numbers for reference; attributes the flooding-path scenario to hydrodynamic leverage around the boat's center of area, the transom sitting closer to it with more buoyancy than the bow; discloses he has not yet begun building; calls the tiller/rudder assembly "overdesigned and just about as foolproof as you can get," unsure of its actual weakest point.
@@ -493,3 +595,15 @@ against the theoretical flooding scenario.
 [44] Archive message page_3263 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3294, 2006-01-15) — "Re: Transom ventilation Port": a cover openable at sea would also be difficult to reach in rough conditions; if he wanted one, he would fit or make a cover hinged at the bottom, operated by a line from inside, restricted to opening about 60° so a following wave would wash it shut rather than wash water in (he has never had water come in the tiller slot itself); notes the hatch does not need to be watertight at all, since any water it does admit is directed back out of the tiller slot by the baffle. Signed "Al, Yeovil, England."
 [45] Archive message page_3266 (ifida / "Glen C. Maxwell" / Glen Maxwell, `paradoxbuilders`, msgnum 3297, 2006-01-16) — "Re: Transom ventilation Port": it was not until he actually saw Matt Layden's own Paradox in person that he noticed its port was installed so Matt could remove the cover from the inside. Full text and citation at [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#matt-laydens-own-transom-port-opens-from-inside). Signed "Glen."
 [46] Archive message page_3267 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3298, 2006-01-16) — "Re: Transom ventilation Port": asks whether Matt sails with the port cover off, doubting he would want to try closing his own from inside in a seaway — "perhaps his arms are much longer than mine." Signed "Al, Yeovil, England."
+[47] Archive message page_3553 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3584, 2006-04-12) — "Spar and Sail Internal Stowage": working on his stern baffle, notes little clearance for the mast, boom, yard, and sail to pass through the transom hatch and over the baffle; asks whether most builders stow the mast inside while leaving the boom, yard, and sail on the side deck, and whether the transom hatch is worth having at all, its only other apparent use (ventilation) being less necessary in the UK; also notes stowing the mast inside means removing it before using the boat as a "caravan" for road travel, and cites Andrew Graham's "Zero" in Australia, whose mast is carried on top of the cabin on a removable bow crutch instead, undone and moved aside to enter the cabin. Signed "Bill."
+[48] Archive message page_3554 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3585, 2006-04-12) — "Re: Spar and Sail Internal Stowage": the spars are a tight but workable fit through the transom hatch, the furling-axle removal and the furling-drum plywood discs being the fiddliest parts, done partly from outside and partly from in; would not want to travel with the boom in its normal stowed position, since it sticks out too far behind; reckons it would be (just) possible to sleep aboard on the road without removing the spars, given a made-up bed; lays the mast along the top of the stowed boom with a single front lashing, the same arrangement used passing under low bridges under sail; values the transom hatch for the road security it gives (nothing loose or lost in transit) and for build access, reaching rear deck fittings through the hatch being easier than crawling through bulkhead 4. Signed "Al, Yeovil, England."
+[49] Archive message page_3625 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3656, 2006-05-16) — "Fill/suction copper pipes": asks how drawing 5's 12 mm fill/suction copper pipe works in practice — fill/drain timing, whether Alastair's 12-volt bilge pump matches the pipe's internal diameter, best method of filling (funnel vs. reverse-pump), filling at home before towing, whether 70 kg of water ballast alongside 180 kg of fixed lead meaningfully changes road trim, and how to close the fill/suction pipes at deck level to collect rainwater instead. Signed "Bill."
+[50] Archive message page_3626 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3657, 2006-05-16) — "Re: Fill/suction copper pipes": fill/drain takes about 5-10 minutes per side from a tap, about twice as long with the bilge pump, and is quicker than rigging the mast and sail; uses deck fittings sourced at a boat jumble with a plug that screws into the pump inlet; fills by pointing a hose near the outside fitting, letting overflow run over the side; warns forcing water in too fast blew off one of his own inspection hatches; would replace water ballast with lead rather than pre-fill at home; has sailed without the water in light conditions with a noticeable effect on initial stability; neither of his two epoxy suppliers (System Three, epoxy-resins.co.uk) would certify their resin for potable water; closing the fill/suction pipes at deck level for rainwater collection is possible (filler plug removed, rubber block in the toe-rail gap) but rarely necessary in practice. Signed "Al, Yeovil, England."
+[51] Archive message page_3627 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3658, 2006-05-17) — "Re: Fill/suction copper pipes": points to his own plumbing photos in the group's files section; connects a hose to the sink pump when back on the trailer, leading it out the vent hole, and a couple of pump strokes siphons the tanks dry; would use CPVC rather than PVC for the fill/suction line, being smaller for the same bore; has sailed with and without water in the tanks, a little more tender without but not a problem, and now only fills for trips of more than a day or two; used a five-part epoxy similar to WEST with no issues; recommends scrubbing out the tank to remove amine blush before using it for drinking water; notes Matt Layden draws water from his own tanks with a fuel bulb rather than a pump, which Matt says goes a long way toward encouraging fresh-water conservation. Signed "Glen."
+[52] Archive message page_3629 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3660, 2006-05-17) — "Central tank divider": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#an-off-centre-tank-divider-confirmed-correct-against-the-plans).
+[53] Archive messages page_3628/page_3630 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3659, 2006-05-17, "Re: Fill/suction copper pipes"; msgnum 3661, 2006-05-17, "Re: Fill/suction copper pipes") — thanks Glen Maxwell for the plumbing photos and the CPVC tip, having spent a while examining the photos; separately thanks Alastair "as usual, very helpful" for answering his questions. Signed "Bill."
+[54] Archive message page_3631 (flexwing462 / James "Jim" Hall, `paradoxbuilders`, msgnum 3662, 2006-05-17) — "Re: Fill/suction copper pipes": asks why not use sea water for the ballast if it isn't going to be drunk anyway, reasoning it would also mean less chance of rot forming in an unused tank; the more he thinks about it, the more attractive he finds simply skipping the tanks altogether in favor of a bit more fixed lead, for a gain in foot room and headroom.
+[55] Archive message page_3632 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3663, 2006-05-17) — "Re: Fill/suction copper pipes": is likewise considering turning the tank area into ordinary storage and filling it with water bottles instead, following Dave Bolduc's own practice; recalls having seen square-shaped water bottles somewhere.
+[56] Archive message page_3701 (dlb / "David Beard", `paradoxbuilders`, msgnum 3733, 2006-07-03) — "Air Conditioning": his employer, Tecumseh Products, developed a small plug-and-play 24V DC air-conditioning system for golf carts; volunteers "Whisper" as a test platform, to be run off a generator; thinks it's probably not suited for Paradox but might work for larger boats.
+[57] Archive message page_3702 (lqqtbank / "WENCESLAO RAFOL, JR", `paradoxbuilders`, msgnum 3734, 2006-07-03) — "Re: Air Conditioning": asks whether the unit runs on 12V or an inverter; describes his own practice of hooking up to 110V dockside power and running a standard window AC unit, snugly fitted in the companionway, costing under $100 versus $900 for a hatch-mounted marine AC unit; asks David to share more detail.
+[58] Archive message page_3703 (moffittone / "William Moffitt", `paradoxbuilders`, msgnum 3735, 2006-07-04) — "Re: Air Conditioning": asks David for a picture and/or specifications on the unit. Signed "Bill."

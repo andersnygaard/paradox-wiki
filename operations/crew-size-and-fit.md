@@ -3,7 +3,7 @@ type: Concept
 title: Crew size and cabin fit ("wearing the boat")
 description: How a sailor's height and weight fit the Paradox's enclosed cabin, and how the boat handles being sailed and cruised with two or three aboard.
 tags: [paradox, operations, ergonomics, cabin, comfort, crew-size, ballast, two-up]
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Crew size and cabin fit ("wearing the boat")
@@ -158,6 +158,83 @@ trick works for him too when he shifts down the bed in his sleep; he judged
 the roof could go up a little, or the floor down, if more clearance were
 ever wanted.
 
+## Pilot weight, height, and stability at stock length
+
+**Weight is not a limiting factor** at stock length: the boat carries a
+couple of hundred pounds of removable lead ballast that can be reduced to
+compensate for a heavier sailor, so there is no fixed "max pilot weight" as
+such.[102] Height is bounded instead by the cabin's fixed interior geometry —
+sitting headroom of **860 mm (about 34 in)** and a stock sleeping length of
+**1.8 m (about 5 ft 11 in)**, extendable by a further **0.8 m (about 31 in)**
+with a minor modification (the same bulkhead-trimming approach already
+described above under Glen Maxwell's measured cabin dimensions).[103]
+
+A **6 ft 4 in, 280 lb** prospective builder who had already ordered the
+plans reported being told separately that the stock-length boat would be
+**unstable** for someone his size — a stability caution distinct from the
+simple fits-inside-the-cabin question, and not further explained or
+quantified in the archive.[104]
+
+[Alastair](/people/alastair.md) disputed the caution directly, pointing to
+his own website's "Stability" page — showing him, at 180 lb, struggling to
+capsize "[Little Jim](/boats/little-jim.md)" by hand — as evidence the hull
+itself is not the limiting factor.[105] [Derek Clark](/people/derek-clark.md)
+identified himself as the likely source of the warning, but clarified it was
+never really about **stability**: his own brother is built to the same
+6'4"/280 lb dimensions, and Derek doubted there was room for a man that size
+to move around comfortably with the cabin hatch shut, independent of whether
+the hull could support or balance his weight. Before the cabin went on
+"[Enuf](/boats/enuf.md)," his brother had seen the bare hull and likened it
+to one of his own shoes, joking "I'd need two of those. Do they come in a
+left and right?"[106] Derek drew a further distinction between raw mass and
+how it is carried: at his own size he judged himself "close to the
+comfortable limit" on mass but was saved by being short, whereas a solo
+sailor near 280 lb loses the option other larger crews have had of splitting
+that mass into two people who can counterbalance side to side.[107]
+
+Responding to Al's point that [Matt Layden](/matt-layden/biography.md) had
+himself sailed two-up on several occasions, Al separately cited **Hugo
+Vihlen**'s solo Atlantic crossing in *Father's Day* — 105 days aboard a boat
+just 5 ft 4 in long — as a benchmark for how little boat a determined solo
+sailor actually needs.[108] Derek countered with a second, closer benchmark:
+**Stephen Ladd** spent three years cruising a boat "a little shorter than a
+Paradox."[109] Paul Reppeto, a recurring below-threshold correspondent who
+had met Ladd and seen his boat firsthand at the Port Townsend Wooden Boat
+Festival, filled in the
+detail: Ladd is about 5 ft 6 in and medium-built, and his boat — shallow
+draft, rounded chines, only a token keel if any, unpainted fiberglass —
+looked deliberately rough, in keeping with Ladd's account of traveling
+simply and without room for much else. At 6 ft 1 in and 250 lb himself, Paul
+judged he would fit in Ladd's boat but "feel like I was in a coffin," and
+wondered whether this was a case for a **"Big Paradox," roughly 20% larger**
+— an independent, later echo of the already-circulated "Big Paradox" concept
+(see [stretched Paradox](/design/variants/stretched-paradox.md)).[110]
+
+Derek's own technical answer for accommodating longer sailors reaffirms the
+same bulkhead-trimming fix described above under Glen Maxwell's measured
+cabin dimensions: **dropping the floor between bulkheads 1 and 2** to the
+level of the main floor lets a longer sailor lie down without difficulty,
+though turning over without hitting fittings such as a bulkhead-mounted
+kettle remains the harder problem regardless of floor height. Asked directly
+about a stretched "Big Paradox," Derek's own preference ran the other
+direction — toward a **reduced Madrigal**-style design instead, with a full-
+length aft cabin and a lug rig, possibly with a mizzen, should he ever build
+again.[111] [Alastair](/people/alastair.md) closed the thread by encouraging
+Paul to pursue the Big Paradox idea and report back on the result.[112]
+
+Independent corroboration of Alastair's stability claim came from a
+non-owner who took an hour-long test sail aboard "Little Jim": at **6 ft,
+260 lb**, he found himself comfortable both sitting cross-legged on the
+cabin floor and in the helmsman's seat, judged the 3-ft-wide floor wide
+enough to sleep on slightly on the diagonal (with the option of extending
+the floor platform forward of the mast, or simply bracing the feet against
+something), and — despite the sail taking place in calm water and light
+wind — described boarding the boat as feeling "like stepping onto a
+pontoon" compared with any other 14 ft boat he had been on, crediting the
+hull's weight and enclosed design with a feeling of security he judged would
+extend to rougher conditions. He also praised the control layout, with
+every line falling to hand while facing forward.[113]
+
 ## Extended two-up cruising — undocumented
 
 Whether two people can travel aboard together on **longer trips**, in terms
@@ -175,7 +252,9 @@ remains open.
 ## Takeaways
 
 - The stock Paradox comfortably fits at least one sailor of **6 ft / 210 lb**
-  (Chris Becker's mockup finding), with headroom the tightest margin.
+  (Chris Becker's mockup finding), with headroom the tightest margin. A
+  6 ft / 260 lb non-owner's test sail aboard "Little Jim" independently
+  corroborated the hull's stability and comfort for a sailor of that size.
 - Two adults of ordinary stature (5'6"-5'9", 185-190 lb) cruised together
   successfully for a weekend, cooking aboard while sleeping ashore
   (Glen and Nancy's Sebastian trip, above).
@@ -340,7 +419,66 @@ storage** can gain roughly another **100 mm**; sacrificing the
 [flotation](/construction/plywood-grades-and-foam-flotation.md) as well can
 gain **200 mm** — the most precise figures on record for how much of
 Paradox's stock two-up sleeping space is fixed by the floor plan itself
-versus recoverable by giving up storage or flotation volume.
+versus recoverable by giving up storage or flotation volume. Two
+independent, later data points from builders' own boats corroborate this
+figure closely: **1.9 m by 0.9 m** for Alastair's own "Little Jim," and
+**74.5 in by 36 in** (about 1.89 m by 0.91 m) for [Derek Clark](/people/derek-clark.md)'s
+"[Enuf](/boats/enuf.md)" — see [first-boat suitability — build-time figures
+and difficulty rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating)
+for both builders' full answers to a newcomer's build-time and dimension
+questions.
+
+## Modifying bulkhead 3 to gain room for sleeping two
+
+Beyond trimming storage or flotation, a builder can gain further sleeping
+room by directly reworking **bulkhead 3** — the bulkhead separating the
+sleeping space from the bins between bulkheads 2 and 4. One proposal was to
+eliminate those bins entirely and narrow the bulkhead's vertical plywood webs
+to **1.5 in (38 mm)** wide, reinforced with 1.5 by 0.25 in steel angle
+epoxy-coated against rust, keeping the top and bottom areas of the bulkhead
+to the plans; a further idea was to make the bins themselves removable
+("cloth bins" that unhook and stow elsewhere as needed) rather than fixed.
+
+Builders answering this proposal agreed the modification should work, but
+differed on method. Plywood and fibreglass, not steel, is the preferred
+reinforcement: doubling or trebling the bulkhead's thickness where it is
+narrowed does the same structural job without the risk of rust, or
+alternatively narrowing the web to **2 in** and fillet-and-glass-taping it
+to the hull sides with three 4 in-wide layers of tape — neater, needs no
+rustproofing, and won't "look like a bodge." The Paradox hull is "massively
+over built," so glassing this bulkhead is not something that would be
+noticed structurally elsewhere in the boat. A retained **storage bin**
+between bulkheads 2, 3, and 4, just under the carlin and about 5 in high (for
+a GPS, camera, torches, and similar small gear), was suggested as worth
+keeping even in a narrowed bulkhead 3, since it also braces the deck above
+and gives the crew a more comfortable backrest — with the bulkhead itself cut
+away to 2 in wide below the bin, on a 3 in radius. Two inches of insulating
+foam fitted between bulkheads 2, 3, and 4 was recommended to make the
+enlarged sleeping area smoother and more comfortable to lie against. One of
+the Antipodean-built Paradoxes was recalled as already being a two-hander,
+worth contacting directly for its own solution to the same problem — prompting
+a joking suggestion of a "double decker Paradox" instead.
+
+The only structural caution raised was temporary: brace the top of the
+bulkhead across its width until the hanging knees go in, so the narrowed
+webs cannot be forced inward before the boat's other structure is in place
+to hold them.
+
+The builder who opened this thread, [Stephen Yahn](/people/stephen-yahn.md),
+went on to build the modification in steel rather than plywood on his own
+Paradox, "Ironsides" — see
+[people/stephen-yahn.md](/people/stephen-yahn.md#starting-ironsides-and-a-widened-bulkhead-3)
+for the executed version, with real weldment weights and fastenings.[121]
+
+A carpenter's follow-up endorsed the steel-angle option on the same terms as
+the plywood/fibreglass alternative: modern surface preparation (sandblasting
+with dedicated blast media rather than beach sand, or at minimum abrading
+with a hand grinder) followed by an epoxy coating makes steel a well-proven
+reinforcement material, trading strength for cross-sectional area against
+the plans' plywood web. The builder who had opened the thread thanked the
+group for the full set of answers, singling out the storage-bin-as-backrest
+idea and the steel-bracing ("spale") reassurance in particular, and said he
+intended to post progress photos of the modification once built.
 
 ## A very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup suggestion
 
@@ -441,6 +579,13 @@ standing sailor's weight were really a stability problem, discomfort would
 force a retreat below well before it became dangerous — since acquiring
 better cushions, he has had no reason to.
 
+A separate headroom fix, worked out for a tall ("beanpole") workmate who
+took an interest in the design but could not sit inside without severely
+denting his head on the cabin top: a shallow, roughly **4 in deep footwell**
+cut into the cabin sole gives the extra headroom needed, without raising the
+cabin top or lowering the whole sole. The workmate never built a boat of his
+own.[114]
+
 ## Series drogue vs. sea anchor geometry, and testing a rear window against green water
 
 Combining the removable rear window with a properly sized heavy-weather
@@ -458,7 +603,7 @@ let a little water through, and while that is only a few cupfuls in that
 setting, sustained stern-on wave action over many hours could add up to a
 significant amount — a concern that carries directly into the tiller-port/
 vent-baffle watertightness question addressed in full at [transom deck plate
-and vent baffle](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-dcs-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
+and vent baffle](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
 
 ## Why the cabin is enclosed: a convertible-car analogy
 
@@ -627,7 +772,7 @@ inside the cabin — the same removable-rear-window idea seen on
 [31] Archive message page_1915 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1938, 2004-02-09) — "Re: Newbie": gives the measurements from "Zoë" — bench-to-closed-hatch 67 cm (26.8 in), cabin-sole-to-closed-hatch 91 cm (36.4 in).
 [32] Archive message page_1916 (ntsrfer / "Todd", `paradoxbuilders`, msgnum 1939, 2004-02-10) — "Re: Newbie": thanks Glen; has requested a set of plans; asks whether "Dan," a Southern California prospective builder from earlier in the archive, ever started his Paradox — unanswered in the archive.
 [33] Archive message page_2043 (jcbanik / "James", `paradoxbuilders`, msgnum 2067, 2004-05-06) — "big guy in a small boat": at 6'8"/315 lb, asks whether he would be uncomfortable sailing a Paradox.
-[34] Archive message page_2044 (kd7ixk / "DC", `paradoxbuilders`, msgnum 2068, 2004-05-07) — "Re: big guy in a small boat": at 6'1"/225 lb himself, expects no weight problem but flags height, suggesting an inflatable mattress (as Glen Maxwell uses) to elevate a sleeper enough for the lower legs to hang past bulkhead #2 onto a cushion; expects no trouble sitting on the thwart with the hatch open, a more reclined posture needed with it closed; renews the case for stretching the design; cautions against a cardboard mockup for tight interiors, since a flimsy box moving underfoot on entry/exit "can put one off."
+[34] Archive message page_2044 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 2068, 2004-05-07) — "Re: big guy in a small boat": at 6'1"/225 lb himself, expects no weight problem but flags height, suggesting an inflatable mattress (as Glen Maxwell uses) to elevate a sleeper enough for the lower legs to hang past bulkhead #2 onto a cushion; expects no trouble sitting on the thwart with the hatch open, a more reclined posture needed with it closed; renews the case for stretching the design; cautions against a cardboard mockup for tight interiors, since a flimsy box moving underfoot on entry/exit "can put one off."
 [35] Archive message page_2045 (mbolduc / "Dave Bolduc", `paradoxbuilders`, msgnum 2069, 2004-05-07) — "Re: big guy in a small boat": comfort is relative to what one is used to; likens the cabin to a car or a two-man tent; recommends seeing the boat in person before deciding.
 [36] Archive message page_2046 (openboat / "Alastair", `paradoxbuilders`, msgnum 2070, 2004-05-07) — "Re: big guy in a small boat": height alone is not the problem — a 6'2" friend with a long torso/short legs found the hatch-shut cabin too cramped, while the same height with long legs/short torso would be fine; judges it still more comfortable than an open boat in the weather.
 [37] Archive message page_2047 (Shorty / "Shorty", `paradoxbuilders`, msgnum 2071, 2004-05-08) — "Re: Digest Number 514": suggests building a cardboard mock-up of the cockpit and living area and "sailing" it in the living room to judge fit before committing to plywood, as he did himself with a cardboard PDRacer to decide on air-box sizing; notes free cardboard is available from big-box stores' overnight stockers.
@@ -661,3 +806,23 @@ inside the cabin — the same removable-rear-window idea seen on
 [99] Archive message page_3158 (william / "williamserjeant" / William Serjeant, `paradoxbuilders`, msgnum 3189, 2005-09-19) — "Quintessential Seat — Are we sitting comfortably?": notes Uffa Fox once fitted a horse's saddle as a helmsman's seat on one of his boats, calling it the most comfortable he ever sat on, though not practical for Paradox; floats a bicycle saddle as a lighter alternative. Signed "Bill."
 [100] Archive message page_3167 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3198, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": the most comfortable bicycle seat he has seen was on a Dursley Pedersen, essentially a hammock sat astride; proposes a similar arrangement stretched athwartships to provide back support, adjustable in tension and position. Signed "Derek."
 [101] Archive message page_3168 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3199, 2005-09-19) — "Re: Quintessential Seat — Are we sitting comfortably?": uses various cushions (throw pillows, strapped marine-type, overstuffed) and constantly changes seating arrangements; had also contemplated a swinging hammock-type seat, but the problem is getting the boat's center of gravity down quickly on a passing powerboat wake or a good-sized wave, which depends greatly on how and where the boat is used; keeps a roughly 16 in tall work radio (running on its own charging batteries) in an aluminum tubular frame, using it with a cushion on top for a better view while motoring. Signed "Jack."
+[102] Archive message page_3357 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3387, 2006-02-25) — "Re: Paradox max pilot weight ,height": full text and citation at [people/alastair.md](/people/alastair.md); weight is irrelevant since a couple of hundred pounds of lead ballast can be removed to compensate. Signed "Al, Yeovil, England."
+[103] Archive message page_3357 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3387, 2006-02-25) — "Re: Paradox max pilot weight ,height": gives his own Paradox's sitting headroom (860 mm / ~34 in) and stock sleeping length (1.8 m / ~5 ft 11 in, extendable a further 0.8 m / ~31 in with a minor mod). Signed "Al, Yeovil, England."
+[104] Archive message page_3360 (wyliewesty / "wyliewesty" / "Wayne" / William Nix, `paradoxbuilders`, msgnum 3391, 2006-02-27) — "Re: Paradox max pilot weight ,height": had already ordered the plans, but was told the boat would be unstable for someone of his size (6'4", 280 lb). Signed "Wayne."
+[105] Archive message page_3362 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3393, 2006-02-27) — "Re: Paradox max pilot weight ,height": asks who told Wayne that, and whether they had ever been near a Paradox; points to his own website's "Stability" page, showing him (180 lb) trying hard to capsize "Little Jim" by hand. Signed "Al, Yeovil, England."
+[106] Archive messages page_3364/page_3365 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3395/3396, 2006-02-27) — "Re: Paradox max pilot weight ,height": thinks he was the one who told Wayne this; his brother is built to the same 6'4"/280 lb dimensions, and Derek doubts there is room for a man that size to move around comfortably with the cabin hatch shut; recalls his brother seeing the bare hull of "Enuf" before the cabin went on and likening it to one of his own shoes — "I'd need two of those. Do they come in a left and right?" Signed "Derek."
+[107] Archive message page_3366 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3397, 2006-02-27) — "Re: Paradox max pilot weight ,height": agrees the boat would sail fine with Wayne's mass aboard, but notes Matt Layden's own two-up sailing was with the load split between two people who could counterbalance side to side; judges himself close to the comfortable mass limit but saved by being short.
+[108] Archive message page_3365 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3396, 2006-02-27) — "Re: Paradox max pilot weight ,height": the boat would sail fine with Wayne aboard, since Matt Layden himself sailed two-up on several occasions; cites Hugo Vihlen's "The Stormy Voyage of Father's Day" — 105 days in a boat 5 ft 4 in long — wondering what people mean by saying Paradox isn't big enough. Signed "Al, Yeovil, England."
+[109] Archive message page_3366 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3397, 2006-02-27) — "Re: Paradox max pilot weight ,height": counters that Stephen Ladd spent three years in a boat a little shorter than a Paradox.
+[110] Archive message page_3368 (reppeto / "ldjonerik" / Paul Reppeto, `paradoxbuilders`, msgnum 3399, 2006-02-27) — "Re: Paradox max pilot weight ,height": met Stephen Ladd and saw his boat at the Port Townsend Wooden Boat Festival; describes Ladd (about 5'6", medium build) and his shallow-draft, rounded-chine, token-keel, unpainted-fiberglass boat, deliberately rough-looking, consistent with Ladd's account of traveling simply; at 6'1"/250 lb, judges he would fit in Ladd's boat but "feel like I was in a coffin"; wonders whether this is a chance to encourage a "Big Paradox," 20% larger. Signed "Paul."
+[111] Archive message page_3369 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3400, 2006-02-28) — "Re: Paradox max pilot weight ,height": notes he is "little peoples," just two of them; explains a Paradox can accommodate longer people by dropping the floor between bulkheads 1 and 2 to the level of the main floor — lying down is not a problem, but turning over without hitting fittings such as a bulkhead-mounted kettle would be; asked about a "Big Paradox," says if he builds again it would instead be a reduced Madrigal with a full-length aft cabin and a lug rig, perhaps with a mizzen. Signed "Derek."
+[112] Archive message page_3370 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3401, 2006-02-28) — "Re: Paradox max pilot weight ,height": encourages Paul to pursue the "Big Paradox" idea and report back on how it turns out. Signed "Al, Yeovil, England."
+[113] Archive message page_3408 (barrattneil / Neil Barratt, `paradoxbuilders`, msgnum 3439, 2006-03-14) — "re paradox max weight and height": a non-owner (6 ft, 260 lb) recounts an hour-long test sail aboard "Little Jim" courtesy of Alastair; comfortable alternating between sitting cross-legged on the cabin floor and the helmsman's seat; judges the 3-ft-wide floor wide enough to sleep on slightly on the diagonal, with room to extend the platform forward of the mast or brace the feet on something; found boarding felt "like stepping onto a pontoon" compared with any other 14 ft boat, crediting the hull's weight and enclosed nature with a feeling of security and control he expects would extend to rougher conditions than his own calm, light-wind sail; praises the control layout, with every line falling to hand while facing forward. Signed "Neil."
+[114] Archive message page_3611 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3642, 2006-05-01) — "Re: Mock up of Hatch": recalls a tall ("beanpole") workmate who took an interest in his build but could not sit inside without severely denting his head, and describes the fix they worked out — a roughly 4 in deep footwell — as a simple way to gain the same extra headroom Jim Hall's "lower the cabin sole" joke was aiming at; the workmate ultimately bought a model helicopter instead of building a boat. Signed "Al, Yeovil, England."
+[115] Archive message page_3717 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3749, 2006-07-16) — "Bulkhead 3": proposes eliminating the bins between bulkheads 2, 3, and 4 and narrowing bulkhead 3's vertical plywood webs to 1.5 in, reinforced with 1.5 by 0.25 in steel angle, epoxy-coated for rustproofing, keeping the bulkhead's top and bottom areas per plan; the goal is room to sleep two; also floats making the bins removable ("cloth bins") rather than fixed; asks finished builders for their insight.
+[116] Archive message page_3718 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3750, 2006-07-16) — "Re: Bulkhead 3": "can't think why this wouldn't work"; suggests doubling or trebling the bulkhead's plywood thickness instead of using steel; recalls one of the Antipodean-built Paradoxes is a two-hander, worth emailing for their own solution; jokes about a "double decker Paradox" as an alternative idea.
+[117] Archive message page_3719 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3751, 2006-07-16) — "Re: Bulkhead 3": would not use steel angle; instead narrow the web/frame to 2 in and fillet-and-glass-tape it to the hull sides with three 4 in-wide layers, neater and with no rust risk; recommends a storage bin between bulkheads 2, 3, and 4 just under the carlin, about 5 in high, for GPS/camera/torches, with the bulkhead cut away to 2 in wide on a 3 in radius below it, doubling as extra deck support and a more comfortable backrest; recommends 2 in of insulation foam between bulkheads 2, 3, and 4 for comfort; notes the Paradox is "massively over built" and glassing this frame "would not be noticed in the scheme of things." Signed "Jeff UK."
+[118] Archive message page_3720 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3752, 2006-07-16) — "Re: Bulkhead 3": agrees with Derek and Jeff, it should be fine; the only precaution is temporary bracing across the top of the bulkhead until the hanging knees go in, to be sure it doesn't get forced in. Signed "Al, Yeovil, England."
+[119] Archive message page_3721 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3753, 2006-07-16) — "Re: Bulkhead 3": steel, properly prepared by modern practice, trades strength for area and should work fine; recommends sandblasting (not beach sand) and epoxy coating, or at minimum abrading with a hand grinder; could not recall the exact strength-to-wood ratio offhand, guessing "5 to 1 or more." Signed "Jack."
+[120] Archive message page_3722 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3754, 2006-07-16) — "Re: Bulkhead 3": thanks the group for their answers — the doubled-bulkhead idea might suit canal cruising, the backrest idea is important to him, the bracing ("spale") idea is reassuring, and Jack's steel answer matches his own thinking; intends to post progress photos.
+[121] Archive message page_3785 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3817, 2006-07-26) — "Ironsides": full text and citation at [people/stephen-yahn.md](/people/stephen-yahn.md#starting-ironsides-and-a-widened-bulkhead-3); announces his boat, named Ironsides, and reports building the bulkhead 3 modification with a 1.5 in web reinforced by steel weldments (4.8 lb each) sealed in epoxy and hot-dip galvanized bolts, cloth bins planned in place of plywood, now trial-assembling sides and bulkheads. Signed "Steve Yahn."

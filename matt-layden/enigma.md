@@ -158,6 +158,49 @@ A **new prototype Enigma with a hard cabin** — rather than the fold-down soft
 cabin of the original — was being finished as of the source site's 24 August
 2012 blog post.
 
+A **video of the 2006 race**, filmed and later hosted online by Steve Isaac
+(who went on to write and photograph the 2007 *Small Craft Advisor*
+interview below), was cited on the mailing list as visible proof that the
+chine runners were working: watching Enigma's progress to windward in the
+footage convinced at least one builder the runners "really work," prompting
+interest in buying a set for himself.[30] See
+[chine runners and windward performance](/chine-runners/windward-performance.md)
+for the stock Paradox's own owner-reported pointing-angle data.
+
+A separate correspondent pointed the list to further footage of the same
+Ultimate Florida Challenge, hosted on the race organizer Watertribe's own
+"ChallengeViewer" page, showing Enigma sailing directly toward the camera
+against a current with no keel and a square sail — visible proof, again, of
+her ability to head upwind. Matt raced under the call-sign **"Wizard"** for
+the event; a race commentator's caption on the footage, remarking on how
+easily Matt struck, set, and reefed his sail on arriving at and departing
+Fort Clinch, coined the phrase **"the Wizard Shuffle"** for the effortless,
+practiced routine by which Matt got underway.[34]
+
+Revisiting the same ChallengeViewer footage in 2006, a builder estimated
+Enigma's actual angle to the wind directly from the video, using the line of
+an incoming swell as a visual reference: roughly **45 degrees off the
+wind**, which he judged very acceptable for a cruising boat, on par with
+production cruisers still being built today.[35] A second viewer, cross-checking
+against fixed shoreline landmarks visible in the same footage, added that
+Enigma appeared to **tack effortlessly** while Matt continued filming
+throughout the maneuver.[36] A third correspondent, watching the same
+footage afresh, praised the boat's versatility directly — few boats sail
+coastal water and also travel 60 miles up a river — and separately confirmed
+from the video that the chine runners were clearly working.[37]
+
+## Construction detail: no separate cabin sole
+
+Working from the same race footage, one correspondent noted Enigma's mast
+step appeared to be a short (about 3 in) plastic tube faired and glassed
+directly to the bottom panel, with **no separate cabin/cockpit sole** fitted
+over it — the crew instead sits directly on the bottom panel, a difference
+from Paradox's raised floor.[31] The likely reason, confirmed by a
+correspondent building his own Paradox, is straightforward: keeping crew
+weight as low as possible matters more in a small boat of this kind, and
+omitting a raised sole saves a few pounds toward Enigma's light-displacement
+design goal (see [design particulars](#design-particulars) above).[32]
+
 ## The external construction-photo link
 
 The Enigma page links out to an external construction-photo page at
@@ -256,6 +299,13 @@ first chine-runner boat. The two figures are not necessarily in conflict
 
 ### Plans
 
+Even before Matt's own April 2006 announcement (below), builders following
+the 2006 race were already hoping Enigma plans would eventually be sold,
+and were prepared to buy a set; one builder pointed to designers' general
+exposure to **product-liability litigation** if someone were harmed using
+a boat built to their plans as the likely reason for any hesitation, while
+still hoping Matt would decide to sell plans given the evident demand.[33]
+
 **Matt Layden** noted in April 2006 that he was "working on an article for Small
 Craft Advisor with a fairly detailed description of Enigma and her origins" and
 would "have construction plans out later this year with some minor mods based on
@@ -306,3 +356,11 @@ working name (see [The "Mini Paradox" working name](#the-mini-paradox-working-na
 [27] Archive message page_2824 (LJGeib / "Larry" / Larry Whited, `paradoxbuilders`, msgnum 2855, 2005-06-14) — "What software is Matt using?": looking at Matt Layden's brother's mini-Paradox website, asks whether anyone recognizes the 3D modeling software shown in the posted JPEGs. Signed "Larry."
 [28] Archive message page_2825 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2856, 2005-06-14) — "Re: What software is Matt using?": identifies it as Rhino 3D — the same program he uses himself — noting it handles chine or smooth-hulled boats and accepts plugins for full hydrodynamic analysis from RhinoMarine (Proteus Engineering, also makers of the NURBS-based FastShip); the specific computer that produced the screen grabs was not running RhinoMarine. Signed "Chris."
 [29] Archive messages page_3153/page_3154/page_3156 (usuallywright / "davewright112002" / Dave Wright, msgnum 3184, 2005-09-15; LJGeib / Larry Whited, msgnum 3185, 2005-09-15; logicaid / "logicaidnz" / Alan, msgnum 3187, 2005-09-16), `paradoxbuilders`, "New 12 foot Design, was Re: Pounding?": a newcomer asked for a link to Matt Layden's newer 12 ft design; Larry Whited supplied the `physics.bgsu.edu/~layden/FunStuff/Boats/Matt_Boat/matts_boat2005.htm` construction-photo page directly; Alan pointed to microcruising.com as carrying the same information.
+[30] Archive message page_3412 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 3443, 2006-03-14) — "Re: Enigma and Ultimate Florida Challenge": hopes Enigma plans become available and would buy a set; the latest video (linked via `link5.streamhoster.com`, credited to Steve Isaac) shows the chine runners really work by the way she goes to windward; the boat seems to stand up to quite a bit of wind and sea; notes the group would have to ask Dave and Mindy Bolduc about Matt's plans for Enigma once they return from their own cruise. Signed "Jeff UK." (Reply at page_3413, msgnum 3444, windgypsy34/Dave of Holland MI agreeing she is "a delightful little boat designed and sailed by a super skipper" — pure agreement, no new fact, not separately cited.)
+[31] Archive message page_3416 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 3447, 2006-03-15) — "Re: re enigma": working from the same race video, notes Enigma's mast step appears to be a plastic tube about 3 in high, faired and glassed to the bottom panel, with no separate cabin/cockpit sole fitted — the crew appears to sit directly on the floor/bottom panel — and guesses this saves a few pounds of weight. Signed "Jeff UK."
+[32] Archive message page_3417 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3448, 2006-03-15) — "Re: re enigma": agrees with Jeff UK's mast-step/no-sole observation — makes sense in a small boat of this sort to keep crew weight as low as possible. Signed "Bill."
+[33] Archive message page_3415 (barrattneil / "Neil" / Neil Barratt, `paradoxbuilders`, msgnum 3446, 2006-03-15) — "re enigma": would also buy Enigma plans if reasonably priced like Paradox's; notes a discussion on microcruising.com about building Enigma from the CAD drawings on Matt's construction description, judging plans would still make the job much easier than working out fitting positions by trial and error from a bare hull; has long been interested in Swamp Thing and considers Enigma a refined, lighter version; Matt, like many designers, has justifiable litigation concerns if someone is harmed using one of his boats, but still hopes he releases plans, expecting many takers. Signed "Cheers Neil."
+[34] Archive message page_3586 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3617, 2006-04-17) — "Enigma Sailing": points to video proof of a 12 ft boat with a square sail and no keel heading upwind against a current, viewable via Watertribe's own ChallengeViewer page (`www.watertribe.com/ChallengeViewer/default.aspx`); identifies the wake line as "Wizard" — Matt Layden's call-sign for the 2006 Ultimate Florida Challenge — heading directly toward the camera; quotes the race commentator "Chief"'s caption, "Wizard arriving and departing Fort Clinch. Watch how easy it is to strike, set, and reef his sail. Also, learn the Wizard Shuffle :)", interpreting "the Wizard Shuffle" as Matt's effortless routine for getting underway. Signed "Nels."
+[35] Archive message page_3881 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3913, 2006-08-21) — "Re: I started the maxi paradox today": watching Matt's ChallengeViewer video again, using the line of an incoming swell as a reference, estimates Enigma is sailing at about 45 degrees to the wind — very acceptable for a cruising boat, on a par with production cruisers still being built. Signed "Jeff UK."
+[36] Archive message page_3882 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3914, 2006-08-22) — "Re: I started the maxi paradox today": replying to Jeff UK's 45-degree estimate, notes the buildings on shore in the same footage as a further reference point, and that Enigma seems to tack effortlessly while Matt continues shooting the video. Signed "Nels."
+[37] Archive message page_3884 ("Niels" / "sail2xs" / "sailzafu", `paradoxbuilders`, msgnum 3916, 2006-08-23) — "Re: I started the maxi paradox today": thanks Nels for pointing out the videos; the chine runners seem to sail fine, and likes the roller-furling boom; remarks on how versatile Matt's boats are — not many boats sail coastal water and also travel 60 miles up a river. Signed "Niels." Same brand-new correspondent tracked at [design/furling-system.md](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum) and [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way), distinct from the established "Nels" (`arvent`/`recree8`).

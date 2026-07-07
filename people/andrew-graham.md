@@ -43,7 +43,7 @@ individual construction detail — lives on that boat page.
 - **Australian cost benchmark.** He estimated a good boat achievable for
   about **$5,000 AUD**.
 - **Shimming deck beam #1, and a longitudinal-beam workaround.** Hit the
-  same beam #1/centerline shortfall DC and Hugh's New Zealand Paradox both
+  same beam #1/centerline shortfall David C. Smith and Hugh's New Zealand Paradox both
   met, fixed with a 5mm centerline shim and a shaved frame 3; sidestepped
   the equivalent problem on his intermediate deck beams by running them
   longitudinally rather than athwartships; also laminated his chine runners
@@ -101,6 +101,10 @@ individual construction detail — lives on that boat page.
   again using Zero's shallow draught to shortcut across sandbanks; shelved a
   longer New Year's cruise for persistently poor weather. See
   [Aussie Paradox — a three-day singlehanded cruise](/boats/aussie-paradox.md#a-three-day-singlehanded-cruise).
+- A visiting UK builder, [Bill Serjeant](/people/bill-serjeant.md), hoped to
+  meet Andrew and see "Zero" in person during a June 2006 trip to Australia,
+  though a couple of emails to him went unanswered on the record. See
+  [people/bill-serjeant.md](/people/bill-serjeant.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia).[15]
 
 # Citations
 
@@ -118,3 +122,4 @@ individual construction detail — lives on that boat page.
 [12] Archive message page_1482 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1502, 2003-12-04) — "Zero": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
 [13] Archive message page_1500 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1520, 2003-12-15) — "Zero proves herself": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#zero-proves-herself-an-18-mile-open-water-passage-across-moreton-bay).
 [14] Archive message page_1830 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1853, 2004-01-19) — "Zero three day cruise": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#a-three-day-singlehanded-cruise).
+[15] Archive message page_3680 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3712, 2006-06-14) — "Re: Starting a Paradox in Ithaca": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia); hoped to meet Andrew Graham in Australia and see his Paradox, though a couple of emails to him had gone unanswered.

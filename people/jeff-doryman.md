@@ -3,7 +3,7 @@ type: Person
 title: Jeff (UK, "doryman_uk")
 description: UK boatbuilder and list member who ordered materials for his own Paradox derivative, contributed chine-runner and stitch-and-glue construction methods, argued against bilge keels and metal-edged runners, and designed a from-scratch 16 ft redesign, "Paramour."
 tags: [paradox, builder, people, uk, bilge-keels, stretch, chine-runners, paramour]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Jeff (UK, "doryman_uk")
@@ -237,8 +237,8 @@ concrete build plan (above); the steel question was not raised again. See
 [aluminum and steel Paradox (speculative) — the design-philosophy objection
 escalates into a personal
 dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute)
-and [DC's rebuttal: why a steel Paradox would be "a horrible
-mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+and [Smith's rebuttal: why a steel Paradox would be "a horrible
+mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 
 ### Seamanship and gear opinions
 
@@ -273,6 +273,70 @@ mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox
   outboard power — weighing a 2 hp four-stroke against a bigger motor and
   whether Paradox can
   plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+- **A full motor-only "Power Paradox" conversion scheme:** answering a
+  builder considering a sail-free, motor-only Paradox, laid out a complete
+  conversion — reduced draught and rocker, a small 2-2.5 hp four-stroke
+  with the throttle led into the cabin, trim adjusted by tilting the
+  engine rather than shifting ballast (the hull will not plane regardless
+  of engine size), no chine runners needed, a forward deck hatch and solar
+  vent in place of the vent trunk, a fold-down single-burner galley in the
+  same area, wash boards as on Little Cruiser, and 2 in of extra transom
+  rake with a small outboard well and skeg. See [auxiliary outboard power
+  — ballasting for power-only use, and a full "Power Paradox" conversion
+  scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[51]
+- **Boom taper and a plastic-pipe boom.** On the sail-furling drum question,
+  agreed the boom's taper — not any drum fence — controls where the sail
+  sits when reefed, tunable with a plane/spokeshave or built up with
+  wrapped draught excluder to clear persistent creases, and floated a boom
+  laminated from three or four lengths of 1 in plastic water pipe on plywood
+  spacers (hidden by the sail's sleeve). See [rig and sail — the reefing
+  triangle, and why reshaping the boom taper is the wrong
+  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[52]
+- **Enigma-style vee for an enlarged hull.** Suggested to a builder starting
+  an 18-19 ft enlarged Paradox that veeing the bottom panel forward of
+  midships (as on Enigma) would save a few hundred pounds of displacement.
+  See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
+  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[53]
+- **A 7'6" Paradox/Enigma rig, mentioned then dropped.** On seeing Nels's
+  carbon-tape boom-core idea, declared it the answer for the rig of a
+  "7' 6" version of PARADOX / ENIGMA" he had discussed off-list, and said he
+  would "get on with the drawings right away" — but no drawings or further
+  mention of this scaled-down rig followed on record, beyond a closing
+  exchange of jokes with Alastair (a Venetian-blind sail) and Derek Clark
+  (whether it would be "controlled by electric motors"), which he closed out
+  himself with a one-line quip blaming a keyboard glitch for a run of
+  missing R's in his own reply. See [a scaled-down
+  "mini" Paradox
+  (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[54][56][57]
+- **Scaling a mast and sail together for an enlarged hull.** Answering the
+  builder of the 18-19 ft "maxi paradox," gave a worked method for sizing a
+  new rig to an enlarged hull: design the mast to fit inside the boat first,
+  then scale the Mk2 sail up to match (expecting to reduce it slightly once
+  drawn), using the stock Paradox sail plan as a guide for the sail's lead —
+  recalling his own past calculation put the lead at just under **10%**. See
+  [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
+  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[55]
+- **A near-built 17 ft Paradox-type motor cruiser, and "PARANIGMA."** "Jeff
+  UK" disclosed, in September 2006, a motor-cruiser project of his own that
+  had never previously appeared on the list: a **17 ft, Paradox-type hull**
+  with the same accommodation as Paradox but a multi-chine bottom, sized for
+  his 2 hp Honda outboard, for which he had already cut the hull parts and
+  bulkheads a year before — derailed only by scaffolding erected next door.
+  He named his still-pending next design **"PARANIGMA,"** his own portmanteau
+  for a Paradox/Enigma hybrid, and said the motor cruiser would follow once
+  PARANIGMA was finished. Full thread context at [boats/enuf.md — a near-miss
+  Paradox-type motor cruiser, and "Enuf" as a talking point for
+  motorboating](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[58]
+- **Objecting to a full-skeg, barn-door-rudder redesign.** Answering a
+  correspondent's own drawn Paradox interpretation, explained why moving the
+  rudder onto a long skeg is not a simple hardware swap: it shifts the
+  center of lateral resistance aft, forcing the sail's center of effort and
+  the mast aft with it, and alters the sail's lead — concluding the change
+  is not worth making without fully understanding the consequences, since it
+  only adds draught and risks a worse-sailing boat. Full text at
+  [design/rudder.md — a proposed full skeg and barn-door rudder, and why it
+  shifts the whole
+  design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[59]
 
 ### List persona
 
@@ -296,6 +360,13 @@ A secondhand-boat aside is also on record: an eBay-listed cat-ketch
 centerboard cruiser flagged as good microcruiser material, alongside a
 recurring gripe that comparable secondhand boats cost roughly twice as
 much in the UK as in the US.[49]
+
+When Derek Clark announced he was leaving the group after selling "Enuf,"
+Jeff UK argued the group's 753-strong membership was never mostly Paradox
+owners or builders in the first place, so a member switching to a motor
+cruiser was no disqualification — closing with "welcome back from the
+brink." Full account at
+[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[60]
 
 # Citations
 
@@ -324,7 +395,7 @@ much in the UK as in the US.[49]
 [23] Archive message page_1201 (paddler_jeff / Jeff Forrest, `paradoxbuilders`, msgnum 1221, 2003-09-24) — "Jeff Please": "Has anyone heard from Jeff Please. He was working on a 16' stitch and glue version of Paradox. Jeff are you out there?"
 [24] Archive message page_1202 (apcf14 / "Jay" / "Jeff UK", `paradoxbuilders`, msgnum 1222, 2003-09-24) — "Re: Jeff Please": still lurking, still means to build a Paradox but has not started due to work commitments; met Alastair in person at Cowes aboard "little Jim," remarks on how much room Matt Layden designed into the boat; his own 16 ft Paradox-type drawings are finished with enough detail to build, describing the design simply as stretching Paradox by 8 in for extra living space; building area occupied by two other boats; his sailing cruiser sat in the garden all summer; joking offer to sell 5 gallons of 3-year-old epoxy.
 [25] Archive message page_1207 (apcf14 / "Jay" / "Jeff UK", `paradoxbuilders`, msgnum 1227, 2003-10-03) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
-[26] Archive message page_1208 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1228, 2003-10-03) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
+[26] Archive message page_1208 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1228, 2003-10-03) — "Re: ballast": full text and citation at [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
 [27] Archive message page_1222 (apcf14 / "Jay" / "Jeff UK", `paradoxbuilders`, msgnum 1242, 2003-10-17) — "Re: Material list": full text and citation at [design/hull-scantlings.md](/design/hull-scantlings.md#plywood-bill-of-materials).
 [28] Archive message page_1275 (apcf14 / "Jeff UK", `paradoxbuilders`, msgnum 1295, 2003-11-14) — "Re: New Files uploaded": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
 [29] Archive message page_1281 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1301, 2003-11-14) — "Re: RHXll": "OK Glen. I cannot tell a lie. It's not mine."
@@ -339,7 +410,7 @@ much in the UK as in the US.[49]
 [38] Archive message page_1585 (apcf14 / "Jeffery Please", `paradoxbuilders`, msgnum 1606, 2003-12-28) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute).
 [39] Archive message page_1611 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1633, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#solid-round-stock-as-an-alternative-to-pipe).
 [39a] Archive message page_1612 (apcf14 / "Jeffery Please", `paradoxbuilders`, msgnum 1634, 2003-12-29) — "Re: Stitch 'n Glue": "Hi bill. I have put a few posts out on this subject." — a one-line reply forwarding William Longyard's new "Stitch 'n Glue" thread opener in full, cross-referencing his own earlier steel-thread posts on the same topic; no new content of its own.
-[40] Archive message page_1620 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1642, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+[40] Archive message page_1620 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1642, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [41] Archive message page_1679 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1701, 2003-12-31) — "Re: anchor locker": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#jeff-uks-bridle-scheme-and-a-flat-afterdeck-counterproposal).
 [42] Archive message page_1680 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1702, 2003-12-31) — "Re: anchor lockers and Anchoring": full text and citation at [operations/ground-tackle.md](/operations/ground-tackle.md#jeff-uks-bridle-scheme-and-a-flat-afterdeck-counterproposal).
 [43] Archive message page_1685 (apcf14 / "Jeffery Please", `paradoxbuilders`, msgnum 1707, 2003-12-31) — "Re: Steel RE RE revisited": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
@@ -349,3 +420,14 @@ much in the UK as in the US.[49]
 [47] Archive message page_1942 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1965, 2004-02-23) — "Re: boat plans": full text and citation at [references/building-plans.md](/references/building-plans.md#why-paradox-resists-easy-enlargement); welcomes Alf Sawatzky, points to microcruising.com, under $50.
 [48] Archive message page_1972 (apcf14 / "Jeffery Please" / "Jeff UK", `paradoxbuilders`, msgnum 1972, 2004-02-26) — "Re: boat plans": full text and citation at [references/building-plans.md](/references/building-plans.md#why-paradox-resists-easy-enlargement); suggests posting to the `microcruising` Yahoo Group directly; reports he too cannot get the Bolducs' e-mail to work.
 [49] Archive message page_2868 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, msgnum 2899, 2005-06-30) — "Basis for a Microcruiser": full text and citation at references/off-topic-cross-posts.md (a secondhand cat-ketch cruiser spotted on eBay, and a transatlantic price gripe).
+[50] Archive message page_3756 (apcf14 / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3788, 2006-07-20) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood); "I want my cake and eat it Derek. I want marine ply and the toys, that I know I wont use. Thank heaven for eBay."
+[51] Archive message page_3816 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3848, 2006-08-12) — "Re: Ballast": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme); a full motor-only "Power Paradox" conversion scheme — reduced draught/rocker, a 2-2.5 hp four-stroke with cabin-led throttle, trim adjusted by tilting the engine (the hull will not plane regardless of engine size), no chine runners, a forward deck hatch/solar vent replacing the vent trunk, a fold-down single-burner galley, Little-Cruiser-style wash boards, and 2 in of added transom rake with a small outboard well and skeg. Signed "Jeff UK."
+[52] Archive message page_3838 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3870, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/rig.md](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix); the boom's taper (larger outboard diameter = sail further from the drum when reefed) controls the reefed sail position, tunable with a plane/spokeshave or built up with wrapped self-adhesive draught excluder; floats a boom laminated from three or four lengths of 1 in plastic water pipe on plywood spacers, hidden by the sail's sleeve. Signed "Jeff UK."
+[53] Archive message page_3834 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3866, 2006-08-19) — "Re: I started the maxi paradox today": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); suggests veeing the bottom panel forward of midships like Enigma to save a few hundred pounds of displacement on an enlarged hull. Signed "Jeff UK."
+[54] Archive message page_3847 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3879, 2006-08-19) — "Re: Paradox sails": quotes Nels's carbon-tape boom-core message in full; declares "I reccon you've crack it Nel's" and says it is "Just the rig for the 7' - 6" version of PARADOX / ENIGMA we talked about," and that he "will get on with the drawings right away." Signed "Jeff UK."
+[55] Archive message page_3850 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3882, 2006-08-19) — "Re: I started the maxi paradox today": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); answers Chris Curtis's mast/sail-sizing question — design the mast first, then scale the Mk2 sail to fit, using the stock sail plan as a lead guide; recalls a past calculation putting the sail's lead at just under 10%. Signed "Jeff UK."
+[56] Archive message page_3856 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3888, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/variants/scaled-down-idea.md](/design/variants/scaled-down-idea.md); "I will get onto the Armature Yacht Research Society at once" — mock-serious one-line reply to Alastair's Venetian-blind sail joke, quoted in full. Signed "Jeff."
+[57] Archive message page_3861 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3893, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/variants/scaled-down-idea.md](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative); "Derek, I think someone is playing around with my r's" — closing one-liner, quoting Derek's "electric motors" joke in full. Signed "Jeff."
+[58] Archive message page_3946 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3979, 2006-09-09) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating); reveals a near-built 17 ft Paradox-type multi-chine motor cruiser for his 2 hp Honda outboard, derailed by scaffolding next door; names his still-pending next design "PARANIGMA," a Paradox/Enigma portmanteau. Signed "Jeff."
+[59] Archive message page_3966 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 4000, 2006-09-17) — "Re: MoDz'": full text and citation at [design/rudder.md](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design); objects that a full skeg/barn-door rudder redesign shifts the center of lateral resistance and the sail's center of effort aft, moving the mast further into the cabin and altering the sail's lead; "The thing about PARADOX is her simplicity." Signed "Jeff UK."
+[60] Archive message page_3972 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 4006, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); argues a motor cruiser is no disqualification given the group's 753 members are mostly not Paradox owners or builders; "Welcome back from the brink." Signed "Jeff UK." (Outlook Express `multipart/alternative` duplicate; pruned to the plain-text version.)

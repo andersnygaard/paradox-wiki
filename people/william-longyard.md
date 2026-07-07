@@ -130,9 +130,9 @@ boats, and he is separately the author of the small-boat-voyaging book
   22 gauge steel, where the 12-gauge (.10 in) plate proposed for a Paradox
   hull is roughly three times thicker — spray-in insulation remains a good
   idea regardless. See
-  [aluminum and steel Paradox (speculative) — DC's rebuttal: why a steel
+  [aluminum and steel Paradox (speculative) — Smith's rebuttal: why a steel
   Paradox would be "a horrible
-  mistake"](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+  mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 - **A real steel-dinghy photo.** A 9 ft Dutch steel dinghy — a common
   motor-barge tender on the Rhine and Danube and throughout Holland, where
   small steel boatbuilding is itself a common trade — stands as concrete
@@ -255,7 +255,7 @@ kept. See [aluminum and steel Paradox (speculative) — stretching the cabin
 top and sizing windows for open-water
 use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
 
-An alternative anchor-locker approach to [DC](/people/dc.md)'s uses a
+An alternative anchor-locker approach to [David C. Smith](/people/david-c-smith.md)'s uses a
 conventional bow anchor well with the chain stowed low for stability, a
 split forward window to reach the foredeck without going out on it, and a
 mast-trunk drain with an in-line strainer. See
@@ -269,7 +269,7 @@ written between the late 1940s and 1970s and out of print, but findable
 through used-book sites such as abe.com and alibris.com. Blandford is "the
 quintessential English amateur," always finding the least expensive,
 cleverest way of doing things. See
-[DC — contributions and stories](/people/dc.md#contributions-and-stories).
+[David C. Smith — contributions and stories](/people/david-c-smith.md#contributions-and-stories).
 
 Longyard was the sole list member to publicly object when
 [Glen Maxwell](/people/glen-maxwell.md) banned
@@ -357,13 +357,13 @@ provision for a long passage regardless.
 [12] Archive message page_1067 (ifida / Glen Maxwell, `paradoxbuilders`, msgnum 1083, 2003-07-10) — "Re: New Book for Small Boat Fans": already has a copy on order from Amazon since Dave Bolduc first mentioned it; asks if it has shipped yet and whether to cancel the order in favor of a signed copy from Longyard.
 [13] Archive message page_1068 (longyard / Longyard William H., `paradoxbuilders`, msgnum 1084, 2003-07-10) — "Re: New Book for Small Boat Fans": copies are now shipping from Amazon; if too late to cancel, offers to exchange the Amazon copy for a signed one for $4 postage, or suggests giving the Amazon copy to a friend and buying a fresh one; hopes to write another small-boat book soon.
 [14] Archive message page_1069 (kevin1b / Kevin Banks, `paradoxbuilders`, msgnum 1085, 2003-07-11) — "Re: New Book for Small Boat Fans": asks whether Longyard will accept cash by post, as he did buying his Paradox plans and Don Elliott's articles (an English personal check may be difficult to use overseas); asks the cost to ship a copy to England.
-[15] Archive message page_1076 (Longyard William H., `paradoxbuilders`, msgnum 1092, 2003-07-13) — "Re: Bottom Paint ??": asks DC whether he plans to tint Micron Shark White with a generic color tint or mix it with green Micron paint — see [bottom painting](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
+[15] Archive message page_1076 (Longyard William H., `paradoxbuilders`, msgnum 1092, 2003-07-13) — "Re: Bottom Paint ??": asks David C. Smith whether he plans to tint Micron Shark White with a generic color tint or mix it with green Micron paint — see [bottom painting](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
 [16] Archive message page_1161 (longyard / William H. Longyard, `paradoxbuilders`, msgnum 1178, 2003-09-07) — "Re: Glass": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
 [17] Archive message page_1165 (longyard / William H. Longyard, `paradoxbuilders`, msgnum 1182, 2003-09-07) — "Re: Glass": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
 [18] Archive message page_1168 (longyard / William H. Longyard, `paradoxbuilders`, msgnum 1185, 2003-09-09) — "Re: Glass": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
 [19] Archive message page_1211 (longyard / Longyard William H., `paradoxbuilders`, msgnum 1231, 2003-10-03) — "Re: ballast": glad to hear Hammerite mentioned — has used it about 15 years, "bulletproof"; hard to get in the US, knows only one supplier (eastwoodco.com), and only the spray version there; asks if anyone knows a US source for the brushable version.
-[20] Archive message page_1349 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1369, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/dc.md](/people/dc.md#contributions-and-stories).
-[21] Archive message page_1352 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1372, 2003-11-17) — "Re: A proposal, a real one": "DC, I'd be glad to help in any way I can. Bill Longyard."
+[20] Archive message page_1349 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1369, 2003-11-17) — "Re: A proposal, a real one": full text and citation at [people/david-c-smith.md](/people/david-c-smith.md#contributions-and-stories).
+[21] Archive message page_1352 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1372, 2003-11-17) — "Re: A proposal, a real one": "Smith, I'd be glad to help in any way I can. Bill Longyard."
 [22] Archive message page_1373 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1393, 2003-11-17) — "Re: A proposal, a real one": recommends Percy Blandford's *Practical Boatman*, *Build Your Own Boat*, and *Modern Sailmaking* as bibliography candidates; Blandford was "the quintessential English amateur," always finding the least expensive and cleverest way of doing things; the books, written late 1940s-1970s, are out of print but findable via abe.com/alibris.com; "wonderful glimpses into the past of early amateur plywood boat construction, but highly relevant for Paradox builders."
 [23] Archive message page_1375 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1395, 2003-11-17) — "Speaking up for Don": commends Glen Maxwell's work for the group but urges him to reconsider banning Don Elliott; describes Don as "a remarkably talented man" and "tremendous artist" who generously let Longyard reproduce one of his sketches, illustrating the Stephen Ladd story, in *A Speck on the Sea*; proposes the group instead adopt a going-forward "no personal name-calling" rule applied equally to everyone, rather than singling Don out; warns he will not stay if the bickering becomes the norm, having already seen at least one member leave over it, but will support banning anyone (Don included) who resorts to name-calling going forward.
 [24] Archive message page_1379 (longyard / "Longyard William H.", `paradoxbuilders`, msgnum 1399, 2003-11-17) — "Re: Speaking up for Don": replies to Nels — holds everyone, Don included, to a reasonable standard of civility, and supports banning unreasonable posters, but would have preferred a "last warning to all" first; values disagreement across many viewpoints as long as it stays impersonal; defers the final decision to Glen as the list's moderator and host: "It's his 'house,' he's the host, and I'm his guest."
@@ -397,7 +397,7 @@ provision for a long passage regardless.
 [52] Archive message page_1600 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1622, 2003-12-28) — "Re: Stitch 'n Glue": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-stitch-and-glue-paradox-as-steels-practical-alternative).
 [53] Archive message page_1603 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1625, 2003-12-28) — "Re: Stitch 'n Glue": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
 [54] Archive message page_1616 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1638, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#a-welded-angle-flange-framing-method-with-no-water-traps).
-[55] Archive message page_1627 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1649, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#dcs-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+[55] Archive message page_1627 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1649, 2003-12-29) — "Re: Steel?": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 [56] Archive message page_1632 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1654, 2003-12-29) — "Re: Alternative building materials": full text and citation at [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
 [57] Archive message page_1637 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1659, 2003-12-29) — "New Pictures For Paradox Phans!": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter).
 [58] Archive message page_1638 (longyard / "William  Longyard", `paradoxbuilders`, msgnum 1660, 2003-12-29) — "Re: New Pictures For Paradox Phans!": full text and citation at [boats/bris-paradox.md](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter).

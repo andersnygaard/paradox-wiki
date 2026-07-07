@@ -3,7 +3,7 @@ type: Person
 title: Alastair (Yeovil, England)
 description: UK builder of the Paradox "Little Jim," who built the boat single-handed in a garage barely longer than the hull and became one of the archive's most detailed cruising and construction correspondents.
 tags: [paradox, builder, people, uk]
-timestamp: 2026-07-04T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Alastair
@@ -248,6 +248,24 @@ contributions and cross-link to where each is told in full.
   closed hatch, lets a padlock pop through it to lock the boat from
   outside — see
   [hatch hardware and security](/construction/hatch-hardware.md#a-padlock-through-the-hatch-rail-alternative).
+- **A formica wear-surface fix for a sticking hatch, and why a jammed hatch
+  is not the real emergency.** Re-surfacing the hatch's foam-lined running
+  edge with kitchen-worktop formica strip cured years of sticking at some
+  cost to the foam seal's watertightness, after PTFE tape and parcel tape
+  both proved short-lived. On the further worry of being trapped by a
+  collision-jammed hatch: the runner's seven bolts each side are removable
+  from inside, the boat floats even full of water regardless, and the real
+  fire risk from the nearby cooker matters more than a stuck hatch — see
+  [hatch hardware and security — a formica wear-surface fix for a foam-lined
+  hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch)
+  and [heavy-weather tactics — whether a closed cabin is a safety risk, or a
+  comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[299]
+- **Skepticism toward a taller hard-top hatch redesign.** Reviewing a fellow
+  builder's cardboard hatch mock-up, judged it would likely foul the furled
+  sail dropping into its stowed position, while conceding the only way to
+  settle it was to build it and find out — see [boats/enuf.md — a cardboard
+  hatch mock-up, and a lower alternate seat
+  position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[300]
 - **A caution on comprehensive tool lists.** Seeing a complete tool inventory
   before starting a build risks putting a builder off, since a finished
   Paradox can be built with only about a tenth of the tools such a list
@@ -352,9 +370,139 @@ contributions and cross-link to where each is told in full.
   scratch](/construction/build-effort.md#workspace) and [non-skid deck
   finish — truck-bed and industrial
   coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
+- **Ballast-tank fill/suction plumbing, in practice.** Filling or draining a
+  side takes 5-10 minutes from a tap, longer by bilge pump, using deck
+  fittings sourced at a boat jumble; forcing water in too fast once blew off
+  one of his own inspection hatches, and sailing without the water ballast
+  in light conditions has a noticeable effect on initial stability even with
+  the full lead load aboard. See [transom deck plate — the fill/suction
+  copper pipe: sizing, timing, and the fittings that connect to
+  it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[301]
+- **Answering a newcomer's rough-weather FAQ.** Heeling itself is what
+  engages a chine runner, addressing a prospective builder's tacking
+  question; the worst water he has met came aboard as solid green water
+  over the cabin running a tide race with the tide against the wind, sailed
+  with tiller and mainsheet both locked off and no water reaching the cabin
+  despite audible flow through the vent trunk. See [heavy-weather tactics —
+  a newcomer's rough-weather FAQ: tacking, pitchpoling, submarining, and
+  lying to a
+  drogue](/operations/heavy-weather-tactics.md#a-newcomers-rough-weather-faq-tacking-pitchpoling-submarining-and-lying-to-a-drogue).[302]
+- **Marine ply over exterior grade, and a minimal building floor.** Chose
+  marine plywood over the plans' suggested exterior grade for his own boat to
+  avoid extra maintenance down the line; a Paradox needs no more than a
+  workbench and a couple of 4x4s on the ground to build on, with a flat patch
+  of ground useful only for scarfing the side and bottom sheets, since the
+  construction sequence is organized to be difficult to get wrong. See
+  [plywood grade and foam flotation debate — a July 2006 recurrence, and a
+  recommendation for MDO
+  plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[312]
+- **Free scrap lead, and what actually counts as "ballast."** Rather than
+  buying lead, got 17 lead bricks (25 lb each) for the price of two pints of
+  beer — tyre-fitters' shops routinely have buckets of old wheel-balance
+  weights they pay to have taken away; now uses only 4 of the bricks, having
+  progressively swapped lead out as he added other "useful" equipment aboard.
+  Separately cautioned that a simple lead-weight figure is a slippery number
+  to compare between boats, since it depends on whether water ballast and
+  always-carried heavy gear (anchor, etc.) are counted as "ballast" or as
+  stores/equipment — by different countings, his own boat could answer
+  anywhere from 100 to 350 lb. See [weight, ballast, and displacement —
+  ballast](/design/weight-and-ballast.md#ballast).[313][314]
+- **A removable ballast fastening for access after the floors are fitted.**
+  Drilled and tapped directly into the top of his own lead pigs and bolted
+  on a plate anchored at its other end into the top of the chine log — not
+  a rigid clamp, but the pigs show no sign of shifting and the fitting is
+  expected to hold even inverted. Recommends leaving the ballast unfastened
+  at first regardless of method, since he and Derek Clark both moved pigs
+  around during early sails to get their boats properly balanced. See
+  [weight, ballast, and displacement — reaching the ballast fastenings
+  after the floors are
+  in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[334]
+- **Underballasting is forgiving, not dangerous.** When asked about the
+  minimum ballast needed to keep a "Power Paradox" (motor-only) stable,
+  answered from direct experience that a boat does not suddenly become
+  unstable from too little ballast — "Enuf" sailed significantly
+  underballasted at her first launch with only increased tenderness to show
+  for it, and on two occasions of his own has forgotten to fill the water
+  ballast entirely, noticing only while moving on deck, not while sailing.
+  See [auxiliary outboard power — ballasting for power-only use](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[318]
+- **A wire-template tiller technique.** Alongside the nail-jig lamination
+  method above, offered a template-free way to find a tiller's needed
+  curve — bend a length of stiff wire (a coat-hanger will do) against the
+  rudder stock, checking clearance as the rudder swings from side to side.
+  See [design/rudder.md — tiller
+  construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[319]
+- **A friction tiller-rope lock, and when a lock is actually needed.** Built a
+  simple two-disc clamp — one disc fixed under the side deck, the other on a
+  bolt passed through it — that grips the tiller rope by tightening the bolt
+  disc down. Judged a lock rarely necessary in ordinary sailing, since
+  friction alone usually holds the tiller, but found the tiller line does
+  need to be held or locked when sailing in shallow water with the rudder
+  partly raised, when tiller loads can become surprisingly large. See
+  [self-steering — locking the tiller rope, and why most builders don't
+  bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[326][327]
+- **Fixing water-ballast tank tops leak-free, and a chine-log ballast-access
+  method.** Coats the underside of the tank top with thickened glue, then
+  reaches in through the access hatches to work the squeezed-out excess into
+  a fillet by hand — a technique that has kept the tank tops themselves
+  leak-free, unlike the inspection hatches. Separately, secures his own lead
+  ballast by drilling and tapping into the top of each pig and bolting on a
+  plate anchored into the chine log; not particularly rigid, but shows no
+  sign of the pigs shifting, and recommends leaving ballast unfastened
+  until after the first few sails so it can be shifted to trim the boat.
+  When a fellow builder's flap-covered ballast bolts proved hard to reach,
+  suggested cutting small access holes above the bolt heads as an
+  alternative to a removable plank. See [water tank construction and
+  lining — fixing the tank tops in
+  place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place)
+  and [weight, ballast, and displacement — reaching the ballast fastenings
+  after the floors are
+  in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[335][336]
+- **Why Matt Layden's own foot-drag furling method needs no extra
+  hardware.** Asked whether a winch-style dead drum, to add drag on the
+  slack line while hoisting or furling, would be worth building in
+  alongside the vent-trunk cleats, judged it unnecessary: Matt Layden keeps
+  tension on both lines with his foot because he does not fit a topping
+  lift, and any such device would still need a foot (not just a cam cleat)
+  to hold the *other* line's two-handed load. Of his own two departures
+  from the stock plans that he judges genuinely successful — beyond fitting
+  a topping lift — one is a window let into the hatch, and the other is
+  splitting the underfloor locker lids so they can be opened with the seat
+  still down; every other change he tried stemmed from not yet
+  understanding how the stock system worked. See
+  [design/rig.md — why Matt Layden's foot-drag furling method needs no
+  extra
+  hardware](/design/rig.md#why-matt-laydens-foot-drag-furling-method-needs-no-extra-hardware).[337]
+- **Does not drink his own ballast water.** Found "interesting slime" in the
+  tank after his first season filling from a tap; now fills instead from
+  whatever water he is floating in, using an electric bilge pump, keeping
+  the option to clean the tank out and refill with drinking water for a
+  genuinely long trip. See [water tank construction and lining — fixing the
+  tank tops in
+  place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place).[338]
 
 ## Rig, electrics, and furling
 
+- **A side-mounted electric outboard on "Little Jim."** Fitted an electric
+  motor to the hull's side, rather than the transom, specifically to avoid
+  keeping petrol inside the cabin, using brass hinges with a removable pin
+  braced by a forward strut after an earlier, less sturdy bracket distorted
+  at full throttle; the motor cannot stay mounted while sailing and needs
+  only slight angling to hold a straight course under power. See [auxiliary
+  outboard power — further field experience with a side-mounted
+  outboard](/operations/auxiliary-outboard-power.md#further-field-experience-with-a-side-mounted-outboard).[324]
+- **Publishing the outboard-bracket photos, and reacting to Stephen Yahn's
+  side mount.** Called Stephen Yahn's own side-mounted bracket for
+  "Ironsides" an elegant solution, while cautioning it might ship water while
+  being fitted afloat; separately published his own removable, side-mounted
+  outboard-bracket photos on his website (with a change-of-address notice
+  after the previous site was overwhelmed by spam), noting the mount keeps
+  the motor clear of the sheet for motor-sailing so long as the heel angle
+  stays short of submerging the outboard's head. See [auxiliary outboard
+  power — a worked side-mount installation, and the risk of shipping water
+  while fitting it
+  afloat](/operations/auxiliary-outboard-power.md#a-worked-side-mount-installation-and-the-risk-of-shipping-water-while-fitting-it-afloat)
+  and [an outboard bracket published for
+  reference](/operations/auxiliary-outboard-power.md#an-outboard-bracket-published-for-reference).[328][329]
 - **How the mast steps and unsteps.** The mast foot simply sits on a
   hull-bottom block, held upright by the deck partners, so lowering it is
   only a matter of lifting it about 600 mm clear before laying it down on
@@ -414,6 +562,22 @@ contributions and cross-link to where each is told in full.
   sail material behind the storage hoop once furled. See [rig and sail — the
   reefing triangle, and why reshaping the boom taper is the wrong
   fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).
+  Later explained the underlying mechanics from three seasons' use: where the
+  sail sits on the boom while furling is set by the boom's taper and the
+  sail's tack angle, not by any fence around the drum (a fence would only
+  jam), the taller Mk2 sail wanting to move forward toward the drum as it
+  rolls up; he corrected his own phrasing to "taper of *boom*" and noted he
+  had retrofit his own under-tapered boom with a rigid-foam wedge at the clew
+  end.[321] See [furling system — the Mk1/Mk2 tack-angle difference, and why
+  the sail can't be fenced onto the
+  drum](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum).
+  Gave his own Mk1 boom's worked taper dimensions (50 x 38 mm at the clew,
+  35 x 38 mm at the tack, about 30 mm difference in circumference), estimated
+  the Mk2 sail's forward creep at about 2.5 in (citing Derek Clark's figure),
+  and reported furling is as easy as it looks in the WaterTribe video, apart
+  from rope blisters until the hands harden. See [furling system — worked
+  boom dimensions for the Mk1
+  taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[322][323]
 - **Masthead sheave choice.** A Tufnol sheave on a stainless pin at the
   masthead beats a plain grooved "dumb sheave": since hauling up the sail is
   the single most physically demanding task aboard, a proper bearing there
@@ -562,6 +726,73 @@ contributions and cross-link to where each is told in full.
   pipe strut. See [rig and sail — the tack strut
   also carries compression, not just
   tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension).
+- **Wrapping a Mark II sail on the boom.** Answered a fellow builder's
+  sail-wrap question with his own topping-lift fix for the luff climbing over
+  the drum, confirmed the tack need not align exactly with the mast since the
+  sail's position along the boom sets the rig's balance, and advised tapering
+  the boom thinnest at the tack end — his own under-tapered boom needed
+  packing with rigid foam instead. See [rig and sail — wrapping a Mark II
+  sail on the boom: tack position, balance, and
+  taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).
+- **Boom orientation and yard sag.** On "Little Jim" the boom has no fixed
+  top or bottom, since tightening the reefing line after hoisting simply
+  settles it with whichever side ends up uppermost; on a fellow builder's
+  persisting yard-sag question, recommended working on the yard's own
+  curvature rather than having the sail recut, since a yard can be swapped
+  back to standard if an experiment fails. See [rig and sail — which side of
+  the boom and yard faces up, and curing persistent yard
+  sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag).
+- **His own masthead topping-lift arrangement, in detail.** Answering Bill
+  Serjeant's third topping-lift question, described his own eye (not a
+  block) screwed to the aft side of the mast, carrying a two-part span to
+  port of the mast but starboard of the sail — never fouled in use, the
+  only care needed being to keep the yard on the correct side of the ropes
+  when hauling, and the aft span doubles as a place to tie off the halyard
+  and topping lift so they don't slap the mast at night. See [furling
+  system — a third topping-lift question: reading the deck-tube layout at
+  the
+  mast](/design/furling-system.md#a-third-topping-lift-question-reading-the-deck-tube-layout-at-the-mast).[303]
+- **Tack-pipe deck wear, resolved.** Answering a newcomer's worry that the
+  tack strop's brass tube might chew a divot into the deck, explained that a
+  flared pipe end does far less damage than a cut end, that a small
+  glass/epoxy pad round the deck fitting helps further, but the paint there
+  will scratch regardless — a bonded bronze or stainless disc solves it
+  outright for a builder who wants the problem gone entirely. See [rig and
+  sail — tack-pipe deck wear](/design/rig.md#tack-pipe-deck-wear).[304]
+- **Why the mainsheet at the helmsman's back is not awkward.** Explained
+  that the sheet is pulled in by thrusting forward with the arm while
+  bracing the back against bulkhead 4, with the slack falling into a bin
+  behind the bulkhead where it cannot tangle round the feet — unlike a
+  dinghy, the sheet is set once and left alone rather than played
+  continuously. See [rig and sail — why the mainsheet presented at the
+  helmsman's back is not awkward in
+  practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice).[305]
+- **Deck loops in copper pipe, and ashore spar storage.** His own deck
+  retaining loops are copper water pipe rather than brass tube, glued into
+  a block under the deck; being tube they are the boat's weakest exterior
+  fitting, guarded against by keeping the starboard loop as low a
+  semicircle as possible so lines can't wrap round it. He stores the mast,
+  boom, and sail in his home garage between outings rather than leaving
+  them aboard, removing the furling axle first, since loading the boat for
+  a trip would be difficult with the spars still inside. See [yuloh and
+  stowed-rig retention — deck-loop material choices, and a fastening
+  variant](/design/yuloh-and-stowed-rig-retention.md#deck-loop-material-choices-and-a-fastening-variant)
+  and [yuloh and stowed-rig retention — storing the mast, boom, and sail
+  when not
+  sailing](/design/yuloh-and-stowed-rig-retention.md#storing-the-mast-boom-and-sail-when-not-sailing).[307][308]
+- **Laminating a tiller around a nail jig.** Banged a row of nails into a
+  board tracing the desired curve, then laminated the tiller's wood strips
+  directly around them — a simpler alternative needing no separate forming
+  jig. See [design/rudder.md — tiller construction: laminated wood versus
+  bent metal
+  tube](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[317]
+- **Confirming the pintles mount on the centerline.** Answered a question on
+  whether the rudderstock, gudgeons, and pintles should hang on the
+  transom's centerline: his own are, which puts the rudder blade itself
+  very slightly to starboard and the tiller very slightly to port — a
+  minor, purely cosmetic asymmetry. See [design/rudder.md — rudder pivot
+  point on the transom
+  centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).[320]
 
 ## Trailering
 
@@ -598,6 +829,12 @@ that UK trailers favor rubber-in-compression suspension. See
   manhandle.
   See [trailering — UK trailer weight limits, and whether brakes are
   necessary](/operations/trailering.md#uk-trailer-weight-limits-and-whether-brakes-are-necessary).
+- **The raised rudder blade scraping the upper pintle bracket.** His own
+  boat's paint has scraped off where the bolt heads rub, though the epoxy
+  underneath stays sound — countersinking the bolts deeper would avoid even
+  that; doesn't consider it a real problem. See [rudder and chine
+  experiments — the raised blade scraping against the upper pintle
+  bracket](/design/rudder.md#the-raised-blade-scraping-against-the-upper-pintle-bracket).
 
 ## Sailing performance and weight
 
@@ -665,6 +902,14 @@ that UK trailers favor rubber-in-compression suspension. See
   sand and bin dampness, and chafe at the furling-line and tack-line deck
   fairleads. See
   [Little Jim — an autumn refit](/boats/little-jim.md#an-autumn-refit-sand-and-damp-stowage-and-chafe-fixes).
+- **Sailing hatch-shut is a comfort choice, not a defensive one.** Answering a
+  newcomer's worry that a closed cabin in a gust means anticipating disaster,
+  clarified that closing the hatch is more often simply more comfortable —
+  he sails that way even on calm, sunny days — and that self-righting (rated
+  from as far over as 160°) needs no crew action at all, unlike a Bolger
+  "Birdwatcher"-type hull righted by shifting body weight. See [heavy-weather
+  tactics — whether a closed cabin is a safety risk, or a
+  comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[287][288]
 - **A weathercocking/ballast-trim diagnosis.** Excess weight forward hangs a
   Paradox nose-to-wind on a tack, while excess weight aft prevents her from
   coming up into the wind at all — a trim balance that can need rebalancing
@@ -713,6 +958,14 @@ that UK trailers favor rubber-in-compression suspension. See
   98 to 150 degrees depending on chop, with heel steady at 20 degrees
   throughout. See [pointing and tacking-angle
   expectations](/operations/pointing-and-tacking-angles.md).
+- **An occasional tacking quirk, mostly resolved by trim.** "Little Jim"
+  occasionally stuck head-to-wind or failed to come about on launching;
+  experimenting with fore-and-aft trim mostly sorted it, though the effect
+  may partly be down to developing technique rather than the trim itself.
+  Every other point of sail handles the same regardless of trim; gybing
+  stays consistently benign. See [rudder and chine experiments — sudden,
+  total loss of rudder effect mid-tack, and tacking
+  technique](/design/rudder.md#sudden-total-loss-of-rudder-effect-mid-tack-and-tacking-technique).[339][340][341]
 
 ## Design philosophy and community role
 
@@ -876,6 +1129,13 @@ as close to the plans as possible, and noted the roof could go up or the
 floor down if more clearance were ever wanted. See [crew size and fit —
 Glen Maxwell's measured cabin
 dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[265]
+Answering a later, separate max-pilot-weight/height question, Alastair judged
+weight irrelevant at stock length (removable lead ballast can be reduced to
+compensate) and gave "Little Jim"'s own sitting headroom (860 mm/~34 in) and
+stock sleeping length (1.8 m/~5 ft 11 in, extendable a further 0.8 m/~31 in
+with a minor mod). See [crew size and fit — pilot weight, height, and
+stability at stock
+length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).[283]
 On long-passage seat comfort, he rotates between a hard foam cushion, a soft
 foam cushion, and a small inner tube every couple of hours, finding the
 rotation itself — not any single cushion — is what actually reduces the
@@ -908,7 +1168,101 @@ plate — a 2006 revisiting](/construction/transom-deck-plate.md#a-2006-revisiti
 Answering a yuloh-mounting question, cautioned that an ordinary rowlock
 risks tangling with the mainsheet and wears the oar enough to need good
 leathers, though a rowlock socket keeps the designed pin as a fallback
-option. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[276]
+option, and added that a transom wedge's top face should ideally sit
+parallel to the oar, though the exact angle probably doesn't matter much.
+See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[276][277]
+Answering a newcomer's build-time and dimension questions, gave his own
+build time for "Little Jim" as about 18 months and the flat sleeping area
+as 1.9 m by 0.9 m, with roughly another 0.5 m of legroom available from a
+small modification to the forward access; pointed to his own
+construction-photo website. See [first-boat suitability — build-time
+figures and difficulty
+rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).[278]
+The same newcomer's follow-up two-person-capacity question drew a direct
+answer: not really a boat for two under way, since only one person fits on
+the helm seat; sleeping two is a "cosy affair, but not impossible," with
+extra width gained by modifying the storage arrangements, as Kjell Karlsson
+has done on his composite-built boat. Also confirmed no plans exist for
+Little Cruiser (though Dave Bolduc, who owns her and sells the Paradox
+plans, hopes to create some) and gave a stock Paradox's material needs as
+about 10 sheets of plywood and 40-50 litres of epoxy. See [first-boat
+suitability — the two-person question, answered
+directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[279][280]
+Disputed a stability caution passed to a large prospective builder by
+pointing to his own website's "Stability" page and photo of himself trying
+to capsize "Little Jim" by hand; cited Matt Layden's own two-up sailing and
+Hugo Vihlen's 105-day, 5 ft 4 in *Father's Day* crossing as evidence little
+boats can do more than people expect; closed the thread by encouraging a
+correspondent's independent "Big Paradox" (20% larger) proposal. See [crew
+size and fit — pilot weight, height, and stability at stock
+length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length)
+and [stretched Paradox](/design/variants/stretched-paradox.md).[284][285]
+Answering a spar-and-sail road-stowage question, described loading the mast,
+boom, yard, and sail through the transom hatch as a tight but workable fit,
+laying the mast atop the already-stowed boom with a single lashing (the same
+rig used passing under low bridges under sail), and valued the hatch both
+for road security and for easier build access to the rear deck fittings. See
+[transom deck plate — stowing the mast, boom, yard, and sail through the
+transom hatch for road
+travel](/construction/transom-deck-plate.md#stowing-the-mast-boom-yard-and-sail-through-the-transom-hatch-for-road-travel).[289]
+Separately answered a road-trailering question about sleeping aboard between
+cruising grounds: has done so in his own motor cruiser and would consider it
+in a Paradox, but cautioned against remote laybys (having been woken there by
+police, though never moved on) in favor of an ordinary residential street,
+which draws no attention. See [boats/enuf.md — a carpal-tunnel operation
+halts progress, and a five-week
+pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[290]
+Closed out the same thread with a joking offer of a cold-water bucket wash
+for anyone dossing outside his house, and a light closer that a Paradox's
+closed cabin at least keeps its sailor dry and warm.[291][292]
+Following up on that same exchange, offered a hesitant newcomer a firsthand
+test sail at a DCA meeting near Hurst Point, gave the "Little Jim" build's
+own cost and time figures (about 18 months, roughly £2,500), and put the
+poor market for unconventional small-boat designs down to a
+racing-influenced marketing effect rather than any real performance
+shortfall. See [secondhand Paradox market — build vs. buy secondhand: a UK
+newcomer's cost-benefit
+hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[293][294][295]
+Answering a new member's plans-sourcing question, gave the standard
+patience answer (the Bolducs were probably out sailing) and judged Don
+Elliott's manual, assuming that was meant, useful for a first-timer despite
+"quite a lot of less useful stuff" in it. See [building plans — a July 2006
+recurrence, and a blunt assessment of the paid manual's
+quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[309]
+Agreed with a proposal to narrow and reinforce bulkhead 3 for two-person
+sleeping, adding only that the bulkhead should be temporarily braced across
+its top until the hanging knees go in. See [crew size and fit — modifying
+bulkhead 3 to gain room for sleeping
+two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[310]
+Continuing the ballast-poll banter over his own surplus lead bricks, offered
+them on provided he wasn't made to drink the beer in exchange (disliking the
+taste), and noted it would likely be cheaper to source lead locally than to
+travel any distance to collect his. See [weight, ballast, and displacement —
+Ballast](/design/weight-and-ballast.md#ballast).[315]
+Asked in 2006 by a prospective visitor whether anyone lived near Florida to
+show him a Paradox in person, replied only to wonder aloud whether Matt
+Layden himself lived in Florida, before Glen Maxwell and David Beard answered
+with their own locations and open invitations.[325]
+When Derek Clark put "Enuf" up for sale in September 2006, called the asking
+price a bargain and asked, half in jest, whether he had pushed Derek too hard
+sailing together at Poole. See
+[boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[330]
+Commenting on Bill Serjeant's rudder photos, reported that he and Derek Clark
+had both found the mainsheet dropping into the rudder-stock/transom gap and
+riding up over the pintle/gudgeon on a broad reach or run, fixed with a small
+wooden fairlead insert. See [design/rudder.md — rudder-stock height and
+mainsheet fouling at the transom
+notch](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).[331]
+When Derek Clark announced his departure from the group, argued he had a
+duty to keep lurking and offering build advice rather than leave outright,
+estimating he held some 11% of the world's complete Paradox build
+knowledge. See
+[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[332]
+Answering a new correspondent's own full-skeg, barn-door-rudder redesign
+sketch, asked bluntly whether an engine was planned, since without one the
+boat would likely need help getting through a tack. See [design/rudder.md —
+a proposed full skeg and barn-door rudder, and why it shifts the whole
+design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[333]
 
 # Citations
 
@@ -1002,8 +1356,8 @@ option. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave
 [88] Archive message page_903 (openboat / Alastair, `paradoxbuilders`, msgnum 918, 2003-04-21) — "Re: A Paradox sighted in UK waters": describes the trailer to David Beard as "a simple design of parallel rollers"; will include pictures once the film is used up on his next trip out (the next day).
 [89] Archive message page_912 (openboat / Alastair, `paradoxbuilders`, msgnum 927, 2003-04-23) — "(Son of) Little Jim (II, the sequel)": "Whooee!! what a boat!"; first real sail, Poole Harbour to Middlebere Lake and back overnight; misdiagnosed sail crease fixed as too-far-aft on the yard; 2 kn on the GPS in the misty calm, over 5 kn (unconfirmed) later; tiller lockable for up to 2 miles, no leeway visible, 20 degrees max heel, hung up tacking twice; asks where to place and how to read tell-tales.
 [90] Archive message page_918 (openboat / Alastair, `paradoxbuilders`/`microcruising`, msgnum 933, 2003-04-24) — "Little Jim pictures": posts the first-launch photo set at www.asjg.clara.co.uk/little_jim/little_jim.htm.
-[91] Archive message page_911 (openboat / Alastair, `paradoxbuilders`, msgnum 926, 2003-04-23) — "Re: Newbie, sails, Cedar Key Messabout": one-line reply to DC's question about why he's always hoping for calm nights — "Because I can't get to sleep if the water is all lumpy."
-[92] Archive message page_917 (kd7ixk / "DC", `paradoxbuilders`, msgnum 932, 2003-04-24) — "Re: (Son of) Little Jim (II, the sequel)": congratulates Alastair; suggests easing the sheet until the luff flutters, then sheeting in just enough to firm the sail, before tacking.
+[91] Archive message page_911 (openboat / Alastair, `paradoxbuilders`, msgnum 926, 2003-04-23) — "Re: Newbie, sails, Cedar Key Messabout": one-line reply to David C. Smith's question about why he's always hoping for calm nights — "Because I can't get to sleep if the water is all lumpy."
+[92] Archive message page_917 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 932, 2003-04-24) — "Re: (Son of) Little Jim (II, the sequel)": congratulates Alastair; suggests easing the sheet until the luff flutters, then sheeting in just enough to firm the sail, before tacking.
 [93] Archive message page_943 (openboat / Alastair, `paradoxbuilders`, msgnum 958, 2003-05-07) — "Re: Rig Details": full furl/unfurl walkthrough; points to his website's "Afloat" photo; made the halyard and furling line continuous to reduce cabin rope, leaving only a small loop loose; cannot simply drop the sail over the side in an emergency this way, but was never convinced that would help anyway; "so far that seems to work too."
 [94] Archive message page_953 (openboat / Alastair, `paradoxbuilders`, msgnum 969, 2003-05-09) — "Re: New Paradox Sail": "Hi Matt, welcome, and thanks for creating such a great boat as Paradox."
 [95] Archive message page_954 (openboat / Alastair, `paradoxbuilders`/`microcruising`, msgnum 970, 2003-05-09) — "Little Jim's third outing": two-day Poole Harbour cruise, Ridge Wharf to Brownsea Island and Green Island, reefed at 30 degrees of heel, near-grounding on the double-tide pattern, 8-mile Bournemouth Pier speed trial (3.7 kn average), Studland Bay ice-cream detour, long tidal beat home; notes constant passerby interest.
@@ -1042,14 +1396,14 @@ option. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave
 [128] Archive message page_1255 (openboat / Alastair, `paradoxbuilders`, msgnum 1275, 2003-11-08) — "Re: Bulkhead questions (long)": full text and citation at [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#clarifying-the-bevel-and-cleat-relationship-and-a-rebuild-it-differently-alternative).
 [129] Archive message page_1256 (openboat / Alastair, `paradoxbuilders`, msgnum 1276, 2003-11-08) — "Re: Tank tops": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
 [130] Archive message page_1279 (openboat / Alastair, `paradoxbuilders`, msgnum 1299, 2003-11-14) — "Re: New Files uploaded": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
-[131] Archive message page_1280 (openboat / Alastair, `paradoxbuilders`, msgnum 1300, 2003-11-14) — "Re: Introducing Swash": full text and citation at [people/dc.md](/people/dc.md).
+[131] Archive message page_1280 (openboat / Alastair, `paradoxbuilders`, msgnum 1300, 2003-11-14) — "Re: Introducing Swash": full text and citation at [people/david-c-smith.md](/people/david-c-smith.md).
 [132] Archive messages page_1292/page_1297/page_1298 (openboat / Alastair, `paradoxbuilders`, msgnum 1312/1317/1318, 2003-11-15) — "Re: Tools": full text and citation at [construction/build-effort.md](/construction/build-effort.md#tools).
 [133] Archive message page_1309 (openboat / Alastair, `paradoxbuilders`, msgnum 1329, 2003-11-16) — "Re: Fresh Water tanks": full text and citation at [operations/provisioning-and-water.md](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
 [134] Archive message page_1312 (openboat / Alastair, `paradoxbuilders`, msgnum 1332, 2003-11-16) — "Re: Fresh Water tanks": full text and citation at [operations/provisioning-and-water.md](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
 [135] Archive message page_1314 (openboat / Alastair, `paradoxbuilders`, msgnum 1334, 2003-11-16) — "Re: Rudder Foil Shape": full text and citation at [design/rudder.md](/design/rudder.md#foil-section-not-a-standard-naca-airfoil).
 [136] Archive message page_1315 (openboat / Alastair, `paradoxbuilders`, msgnum 1335, 2003-11-16) — "Re: Square tubs verses round tubs": wry closing remark on the Don/Glen exchange — advice from Don, "which apparently isn't his personal opinion," and advice from Glen, "with supporting reasoning, which presumably is his personal opinion," leaving everyone free to form their own view without it becoming "another of Don's confrontations."
 [137] Archive message page_1335 (openboat / Alastair, `paradoxbuilders`, msgnum 1355, 2003-11-16) — "Re: Rudder Foil Shape": full text and citation at [design/rudder.md](/design/rudder.md#foil-section-not-a-standard-naca-airfoil).
-[138] Archive message page_1425 (openboat / "Alastair", `paradoxbuilders`, msgnum 1445, 2003-11-19) — "Re: 2 HP Motors": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-dcs-mass-and-momentum-case-against-it).
+[138] Archive message page_1425 (openboat / "Alastair", `paradoxbuilders`, msgnum 1445, 2003-11-19) — "Re: 2 HP Motors": full text and citation at [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
 [139] Archive message page_1457 (openboat / "Alastair", `paradoxbuilders`, msgnum 1477, 2003-11-27) — "Re: Mast Construction help": full text and citation at [design/rig.md](/design/rig.md#reading-the-masts-plan-views).
 [140] Archive message page_1459 (ifida / "Glen Maxwell", `paradoxbuilders`, msgnum 1479, 2003-11-28) — "Re: new sail": credits Alastair's foam-on-boom-end idea; full text and citation at [design/rig.md](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
 [141] Archive message page_1465 (openboat / "Alastair", `paradoxbuilders`, msgnum 1485, 2003-11-30) — "Re: Foam sheets?": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md).
@@ -1191,3 +1545,68 @@ option. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave
 [274] Archive message page_3263 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3294, 2006-01-15) — "Re: Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Al, Yeovil, England."
 [275] Archive message page_3267 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3298, 2006-01-16) — "Re: Transom ventilation Port": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports). Signed "Al, Yeovil, England."
 [276] Archive message page_3270 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3301, 2006-01-21) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom). Signed "Al, Yeovil, England."
+[277] Archive message page_3272 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3303, 2006-01-22) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom). Signed "Al, Yeovil, England."
+[278] Archive message page_3276 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3307, 2006-01-22) — "Re: Paradox questions": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating). Signed "Al, Yeovil, England."
+[279] Archive message page_3283 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3314, 2006-01-23) — "Re: Paradox questions": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly). Signed "Al, Yeovil, England."
+[280] Archive message page_3286 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3317, 2006-01-23) — "Re: Paradox questions": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly) and [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating). Signed "Al, Yeovil, England."
+[281] Archive message page_3311 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3342, 2006-01-27) — "Re: Cabin Top": full text and citation at [boats/enuf.md](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use); his own knockdown experience with water ingress, and the RNLI deck-locker-cover precedent. Signed "Al, Yeovil, England."
+[282] Archive message page_3315 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3346, 2006-01-27) — "Re: Cabin Top": full text and citation at [boats/enuf.md](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use); suggests bolting the cabin roof on rather than gluing/nailing it, to make a modification reversible. Signed "Al, Yeovil, England."
+[283] Archive message page_3357 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3387, 2006-02-25) — "Re: Paradox max pilot weight ,height": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length); weight is irrelevant given removable lead ballast; gives sitting headroom (860 mm) and stock/extended sleeping length (1.8 m/+0.8 m). Signed "Al, Yeovil, England."
+[284] Archive messages page_3362/page_3365 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3393/3396, 2006-02-27) — "Re: Paradox max pilot weight ,height": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length); disputes the stability caution, pointing to his own "Stability" webpage and photo trying to capsize "Little Jim" by hand; cites Matt Layden's own two-up sailing and Hugo Vihlen's "Father's Day" (105 days in a 5 ft 4 in boat). Signed "Al, Yeovil, England."
+[285] Archive message page_3370 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3401, 2006-02-28) — "Re: Paradox max pilot weight ,height": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length); encourages Paul Reppeto to pursue his "Big Paradox" idea and report the result. Signed "Al, Yeovil, England."
+[286] Archive message page_3387 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3418, 2006-03-09) — "Re: Mk 2 sail": full text and citation at [design/rig.md](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper). Signed "Al, Yeovil, England."
+[287] Archive message page_3459 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3490, 2006-03-23) — "Re: RE TRAPPED IN BOAT": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort). Signed "Al, Yeovil, England."
+[288] Archive message page_3460 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3491, 2006-03-23) — "Re: I am concerned that a sailor is trapped in the yacht.": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort). Signed "Al, Yeovil, England."
+[289] Archive message page_3554 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3585, 2006-04-12) — "Re: Spar and Sail Internal Stowage": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#stowing-the-mast-boom-yard-and-sail-through-the-transom-hatch-for-road-travel). Signed "Al, Yeovil, England."
+[290] Archive message page_3559 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3590, 2006-04-13) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); has slept aboard his own motor cruiser this way and would consider it in a Paradox; cautions against remote laybys, recommending a residential road instead. Signed "Al, Yeovil, England."
+[291] Archive message page_3563 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3594, 2006-04-13) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); jokingly offers Jim Hall a bucket of cold water to wash with in the morning. Signed "Al, Yeovil, England."
+[292] Archive message page_3570 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3601, 2006-04-14) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); tells Jim Hall he can arrange to feel "all at sea" on request, adding that a Paradox at least keeps its sailor dry and warm. Signed "Al, Yeovil, England."
+[293] Archive message page_3573 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3604, 2006-04-14) — "Re: Enuf pics?": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation); invites Jim Hall to a DCA meeting at Hurst Point (29-30 April) with a test sail at Keyhaven; blames a "racing lobby" marketing effect for unconventional designs' poor sales; has written off his own build cost. Signed "Al, Yeovil, England."
+[294] Archive message page_3574 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3605, 2006-04-14) — "Re: Enuf pics?": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation); gives the "Little Jim" build's cost/time figures — about 18 months, roughly £2,500. Signed "Al, Yeovil, England."
+[295] Archive message page_3578 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3609, 2006-04-14) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-recurring-close-of-the-enuf-pics-thread); jokes "the water goes round the other way in Oz" in reply to Derek Clark's windward-conditions question. Signed "Al, Yeovil, England."
+[296] Archive message page_3593 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3624, 2006-04-26) — "Sliding hatch runners": full text and citation at [construction/hatch-hardware.md](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch). Signed "Al, Yeovil, England."
+[297] Archive message page_3595 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3626, 2006-04-26) — "Re: Sliding hatch runners": full text and citation at [construction/hatch-hardware.md](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch). Signed "Al, Yeovil, England."
+[298] Archive message page_3599 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3630, 2006-04-27) — "Re: Sliding hatch runners": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort). Signed "Al, Yeovil, England."
+[299] Archive message page_3604 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3635, 2006-04-27) — "Re: Sliding hatch runners": thanks Stephen Yahn and wishes him well getting his plans soon.
+[300] Archive message page_3609 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3640, 2006-05-01) — "Re: Mock up of Hatch": full text and citation at [boats/enuf.md](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position). Signed "Al, Yeovil, England."
+[301] Archive message page_3626 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3657, 2006-05-16) — "Re: Fill/suction copper pipes": full text and citation at [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it). Signed "Al, Yeovil, England."
+[302] Archive message page_3639 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3670, 2006-05-22) — "Re: Rough-weather handling": full text and citation at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#a-newcomers-rough-weather-faq-tacking-pitchpoling-submarining-and-lying-to-a-drogue). Signed "Al, Yeovil, England."
+[303] Archive message page_3641 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3672, 2006-05-25) — "Re: Topping Lift Again": full text and citation at [design/furling-system.md](/design/furling-system.md#a-third-topping-lift-question-reading-the-deck-tube-layout-at-the-mast). Signed "Al, Yeovil, England."
+[304] Archive message page_3644 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3675, 2006-05-26) — "Re: Deck Chewing": full text and citation at [design/rig.md](/design/rig.md#tack-pipe-deck-wear). Signed "Al, Yeovil, England."
+[305] Archive message page_3650 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3681, 2006-05-26) — "Re: Deck Chewing": full text and citation at [design/rig.md](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice). Signed "Al, Yeovil, England."
+[306] Archive message page_3652 (openboat / "" / Alastair, `paradoxbuilders`, msgnum 3684, 2006-05-27) — "Re: Deck Chewing": full text and citation at [design/rig.md](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice); values a good night's sleep, usually found aboard his Paradox, but finds it difficult to sleep on a lumpy sea. Signed "Al, Yeovil, England."
+[307] Archive message page_3708 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3740, 2006-07-08) — "Re: Deck Loops": full text and citation at [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#deck-loop-material-choices-and-a-fastening-variant). Signed "Al, Yeovil, England."
+[308] Archive message page_3709 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3741, 2006-07-08) — "Re: Spar storage": full text and citation at [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#storing-the-mast-boom-and-sail-when-not-sailing). Signed "Al, Yeovil, England."
+[309] Archive message page_3715 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3747, 2006-07-15) — "Re: Paradox Plans": full text and citation at [references/building-plans.md](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality). Signed "Al, Yeovil, England."
+[310] Archive message page_3720 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3752, 2006-07-16) — "Re: Bulkhead 3": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two). Signed "Al, Yeovil, England."
+[311] Archive message page_3724 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3756, 2006-07-17) — "Re: Rudder Pintels": full text and citation at [design/rudder.md](/design/rudder.md#the-raised-blade-scraping-against-the-upper-pintle-bracket). Signed "Al, Yeovil, England."
+[312] Archive message page_3732 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3764, 2006-07-18) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood). Signed "Al, Yeovil, England."
+[313] Archive message page_3736 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3768, 2006-07-18) — "Re: Ballast Poll": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast). Signed "Al, Yeovil, England."
+[314] Archive message page_3737 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3769, 2006-07-18) — "Re: New poll for paradoxbuilders": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast). Signed "Al, Yeovil, England."
+[315] Archive message page_3746 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3778, 2006-07-19) — "Re: Ballast Poll": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast). Signed "Al, Yeovil, England."
+[316] Archive message page_3757 (OpenBoat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3789, 2006-07-20) — "Re: New poll for paradoxbuilders": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast); itemizes his own actual weight load-out and the wheel-weight lead-melting technique. Signed "Al, Yeovil, England."
+[317] Archive message page_3809 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3841, 2006-08-10) — "Re: Tiller Shape": full text and citation at [design/rudder.md](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube); banged some nails into a board and laminated the tiller round them. Signed "Al, Yeovil, England."
+[318] Archive message page_3814 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3846, 2006-08-12) — "Re: Ballast": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme); no numeric answer, but a boat is unlikely to suddenly become unstable from too little ballast; "Enuf" launched significantly underballasted with only increased tenderness to show for it; has twice forgotten his own water ballast, noticing only on deck, not while sailing; advises taking all ballast out and reporting back. Signed "Al, Yeovil, England."
+[319] Archive message page_3811 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3843, 2006-08-11) — "Re: Tiller Shape": full text and citation at [design/rudder.md](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube); does not recall how he settled on his own tiller's shape, but suggests bending a length of stiff wire against the rudder stock and checking it clears every internal obstruction as the rudder swings side to side. Signed "Al, Yeovil, England."
+[320] Archive message page_3827 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3859, 2006-08-15) — "Re: Rudder": full text and citation at [design/rudder.md](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline); his own pintles are on the centerline, putting the rudder blade slightly to starboard and the tiller slightly to port. Signed "Al, Yeovil, England."
+[321] Archive messages page_3835/page_3837 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3867, 2006-08-19; msgnum 3869, 2006-08-19) — "Re: Paradox sails": full text and citations at [design/furling-system.md](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum) and [design/rig.md](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix); explains the boom-taper/tack-angle control of the sail's furled position (a drum fence would only jam), reports never having the furling line come off the drum in three seasons, notes his own self-designed topping lift fouls up more often, corrects "taper of sail" to "taper of boom," and describes retrofitting his own under-tapered boom with a rigid-foam wedge taped at the clew end. Signed "Al, Yeovil, England."
+[322] Archive message page_3844 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3876, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/furling-system.md](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper); gives his own Mk1 boom's worked taper dimensions — rectangular section with 8 mm radius corners, 50 x 38 mm at the clew, 35 x 38 mm at the tack, about 30 mm difference in circumference; notes the sail's forward creep while furling is not a problem so long as it is allowed for rather than fought. Signed "Al, Yeovil, England."
+[323] Archive message page_3846 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3878, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/furling-system.md](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper); estimates the Mk2 sail's forward creep at about 2.5 in (citing Derek Clark's figure), well within the boom's length to stay clear of the furling reel once set up; reports furling is as easy as it looked in the WaterTribe video, apart from rope blisters until the hands harden. Signed "Al, Yeovil, England."
+[324] Archive message page_3891 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3923, 2006-08-27) — "Re: Side Motor Mount": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#further-field-experience-with-a-side-mounted-outboard); fitted an electric motor to "Little Jim"'s side rather than her transom, using brass hinges with a removable pin and a forward strut after an earlier bracket distorted at full throttle; cannot be left mounted while sailing; needs little angling to hold a straight course, turning to starboard quicker than to port. Signed "Hoping for calm nights, Al, Yeovil, England."
+[325] Archive message page_3908 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3940, 2006-09-02) — "Re: Paradox in or near FL": "Doesn't Matt Layden live in Florida?" Signed "Hoping for calm nights, Al, Yeovil, England."
+[326] Archive message page_3912 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3944, 2006-09-03) — "Re: Tiller Rope Lock": full text and citation at [operations/self-steering.md](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother); made two roughly 3-inch discs, one on a bolt and one on a nut fastened under the side deck, clamping the tiller rope between them. Signed "Hoping for calm nights, Al, Yeovil, England."
+[327] Archive message page_3917 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3949, 2006-09-03) — "Re: Tiller Rope Lock": full text and citation at [operations/self-steering.md](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother); agrees a lock is rarely necessary in normal sailing, since he was relying on friction alone (not a lock) when seen standing up; but in shallow water with the rudder partly raised the tiller line must be held or locked, since large tiller loads can be seen. Signed "Hoping for calm nights, Al, Yeovil, England."
+[328] Archive message page_3918 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3950, 2006-09-03) — "Re: Side Motor Mount Photos, under IRONSIDES": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-worked-side-mount-installation-and-the-risk-of-shipping-water-while-fitting-it-afloat); calls Stephen Yahn's side mount an elegant solution, hoping it doesn't take on too much water while being fitted afloat. Signed "Hoping for calm nights, Al, Yeovil, England."
+[329] Archive message page_3920 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3952, 2006-09-04) — "Paradox outboard bracket": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#an-outboard-bracket-published-for-reference); cross-posted to `paradoxbuilders` and `smallsailboats`, has posted pictures of his own removable side-mounted outboard bracket on his website, noting the mount avoids sheet fouling for motor-sailing so long as heel does not submerge the outboard's head, and flagging a new web address after the old one was overwhelmed by spam. Signed "Hoping for calm nights, Al, Yeovil, England."
+[330] Archive message page_3936 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3968, 2006-09-07) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale); calls the asking price a bargain and asks whether he pushed Derek too hard sailing together.
+[331] Archive message page_3949 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3982, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); praises Bill's rudder photos; describes the mainsheet/pintle fouling problem and his wooden-insert fairlead fix. Signed "Al, Yeovil, England."
+[332] Archive message page_3964 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3998, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); "No need to leave Derek, in fact you have a duty to stay. You contain 11% of the complete build information in the known world." Signed "Al, Yeovil, England."
+[333] Archive message page_3965 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3999, 2006-09-17) — "Re: MoDz'": full text and citation at [design/rudder.md](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design); "Are you intending to fit an engine? I expect you will need it if you want to get through a tack." Signed "Al, Yeovil, England."
+[334] Archive message page_3980 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4014, 2006-09-24) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); drilled and tapped into the top of his own lead pigs and bolted on a plate anchored into the chine log; not particularly rigid, but shows no sign of movement; recommends leaving ballast unfastened at first, since he and Derek Clark both moved pigs around on early sails to balance the boat. Signed "Al, Yeovil, England."
+[335] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); coats the tank top's underside with masses of thickened glue, reaching in through the access hatches to spread the squeezed-out excess into a fillet by hand, wearing disposable gloves; no leaks at the tank tops this way, unlike the inspection hatches. Signed "Al, Yeovil, England."
+[336] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); suggests 1 in access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
+[337] Archive message page_3987 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4021, 2006-10-03) — "Re: Haliyard and Reef lines": full text and citation at [design/rig.md](/design/rig.md#why-matt-laydens-foot-drag-furling-method-needs-no-extra-hardware) and [people/stephen-yahn.md](/people/stephen-yahn.md); explains Matt Layden keeps tension on both halyard and furling lines with his foot because he uses no topping lift, and any dead-drum device would still need a foot, not just hands, to hold the other line's load; built to the stock plans rather than his own early "improvements," most of which he later found stemmed from not understanding the system; the only two changes he judges genuinely successful are the hatch window and splitting the underfloor locker lids so they open with the seat down; remains unsure whether he will keep his water ballast at all. Signed "Al, Yeovil, England."
+[338] Archive message page_3989 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4023, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [people/stephen-yahn.md](/people/stephen-yahn.md); does not drink the ballast water either, having found "interesting slime" in the tank after his first season filling from a tap; now fills from whatever water he is floating in via an electric bilge pump, keeping the option to clean and refill with drinking water for a genuinely long trip. Signed "Al, Yeovil, England."
+[339] Archive message page_3994 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4029, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-trim-question-and-little-jims-tacking-quirk); asks Alastair how much fore-and-aft trim actually matters, having assumed Paradox was heavy enough that the ballast sitting slightly one way or the other would make no real difference. Signed "Bill."
+[340] Archive message page_3996 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4030, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [design/rudder.md](/design/rudder.md#sudden-total-loss-of-rudder-effect-mid-tack-and-tacking-technique); on launching "Little Jim" he occasionally had trouble tacking, not coming up to the wind or getting stuck head to wind; playing with the trim mostly sorted it, though it may just have been his own developing technique and not the boat; sails happily on any point regardless of trim, tested with a passenger's weight moved about; only tacking seems trim-sensitive; gybes benignly, always giving another way round. Signed "Al, Yeovil, England."
+[341] Archive message page_3997 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4031, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-trim-question-and-little-jims-tacking-quirk); looks forward to discovering whether "Faith" shows the same tacking characteristic once she is on the water. Signed "Bill."

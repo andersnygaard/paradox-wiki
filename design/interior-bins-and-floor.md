@@ -86,6 +86,59 @@ often needed without going in through the cabin at all; see
 [Jack Gardiner](/people/jack-gardiner.md#construction-begins) for that build's
 approach.
 
+### Reaching the extreme forward compartment, just behind the stem
+
+Ahead of the bulkhead-#2 opening lies a second, still-more-forward space —
+the small compartment just behind the stem — which a first-time prospective
+owner, in his mid-sixties and "not as supple as the young 'uns," worried
+might be impractical to reach into at all.[27] The practical technique is to
+**lie prone and reach in**, borrowed from touring kayaking: a length of rope
+tied to gear stowed in the extremities, left within reach of the cockpit,
+avoids having to reach all the way in on future trips. Any small boat's
+cabin has spots that are awkward to reach; the Paradox's is otherwise an
+uncluttered, flat-floored open rectangle.[28]
+
+Some owner-diagrams show this space depicted like "a little shopping
+basket" of stowed items, which is closer to artistic licence than practical
+guidance — actually getting items in and out of the extreme bow compartment
+is awkward; such published diagrams are themselves copyrighted material, not
+open for general discussion. Using the space instead as fixed **emergency
+flotation** was raised and rejected as an alternative to stowage: if that
+flotation were ever actually needed, the boat would trim bow-up and
+stern-down, leaving a survivor sitting on the stem awaiting rescue — better
+than sinking, but not a practical primary strategy. Whichever way a flooded
+Paradox ends up trimmed, the safer course in any case is to **stay with the
+boat** rather than leave it: a hull floating even at deck level still offers
+more than the water alongside it.[31][32][33]
+
+A separate firsthand data point on reaching this space at all: one
+owner-builder, at 5 ft 7 in, can actually climb into the (empty) forward
+compartment bodily, and routinely reaches in just his upper body to retrieve
+buoyant, seldom-used gear stowed there. He regularly sails two-up with a
+crewmate nearly 6 ft tall, and the boat still "fits."[34]
+
+A **fitted deck hatch** over this extreme forward space, giving direct
+outside access without reaching in through the cabin, was suggested but not
+known to have been built by anyone on record.[27][29] A more radical
+alternative was also floated: doing away with interior partitions
+altogether in favor of one open-plan cabin, of the kind built into a much
+larger (23-24 ft) gaff cutter, to ease access to the forepeak and avoid
+small, closed-in compartments — this would require redesigning the
+port-side vent/control-line box and reinforcing the hull where bulkhead #2
+now sits, judged "all do-able" but never taken up.[29]
+
+The **actual purpose of bulkhead #2's opening**, per the plans, is to let
+the mast and spars stow inside when not rigged — not for general storage,
+since the rest of the boat already offers plenty of accessible stowage.
+Leaving bulkhead #2 solid, unopened, is an explicit option for a builder who
+does not want to carry spars internally.[30] At least one Southern
+Hemisphere build is on record as having opened bulkhead #2 out to the port
+side instead of following the plans as drawn, though the builder is not
+identified with confidence.[30] One owner's wife, seeing the opened
+bulkhead-#2 hole, likened it to "a sidecar on a motorbike" — a comparison
+that prompted the further half-joking thought that the opening might make a
+handy way to wheel the whole boat around ashore.[30]
+
 ### Design intent: watertight bulkhead, opening is optional
 
 Bulkhead #2 **is designed to be a watertight bulkhead**, and the **access
@@ -106,6 +159,13 @@ Taken together, the opening exists purely for stowage convenience, at a real
 (if modest) cost to structural strength, and a builder prioritizing
 strength/collision safety over stowage access can simply omit it and foam the
 compartment solid.
+
+Foam flotation fitted under the gunwales carries a practical corollary in a
+genuine swamping: a crew that finds the boat riding low needs to **remove
+ballast and bail**, since the foam alone is not meant to carry a fully
+ballasted boat high. The space aft of the rearmost bulkhead is buoyant in the
+same way — both from any foam flotation fitted there and from air trapped in
+the sealed compartment itself.[34]
 
 The same question applies to **bulkhead #1**: the plans mark it as
 watertight, yet also show optional openings into it, raising the same choice
@@ -144,7 +204,10 @@ lived-in accounts of the Paradox's small cabin (see
 of bulkhead #1 is workable but genuinely cramped, even for an experienced
 owner-builder. See also
 [head and sanitation arrangements](/operations/head-and-sanitation.md) for
-where a portable head is stowed instead.
+where a portable head is stowed instead. A larger-than-average sailor
+weighing the stock interior against these figures is pointed toward the
+[stretched/enlarged Paradox](/design/variants/stretched-paradox.md) variants
+rather than assuming the standard 14 ft cabin is a hard limit.[34]
 
 ## Forward and aft bin sides: how far they extend to the hull
 
@@ -233,6 +296,22 @@ concentrated low and central rather than where it is easiest to reach); see
 also [ground tackle](/operations/ground-tackle.md) for the fuller debate over
 where an anchor and its rode are best stowed aboard a Paradox.[21]
 
+## A removable-floorboard technique for full storage and ballast access
+
+An alternative to the plans' hinged aft floorboards dispenses with hinges
+altogether: the floorboards are supported instead on removable under-flaps
+taken from the sides of the storage bins, so that either side of the floor
+can simply be lifted clear and slid forward, opening the whole of the
+storage compartments beneath rather than only the area under one hinged
+lid. The same builder fitted side flaps, built as separate removable
+"planks," either side of the water tanks, giving good ongoing access to the
+forward ballast — the same removable-plank approach recommended for the
+ballast-tank top generally; see [weight, ballast, and displacement —
+reaching the ballast fastenings after the floors are
+in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in)
+and [people/bill-serjeant.md](/people/bill-serjeant.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access)
+for the fuller build context.[35]
+
 # Citations
 
 [1] Archive message page_044 (Alastair, `paradoxbuilders`, 2001-07-28) — asks about two bin cleats seemingly missing from bulkhead #1 on sheet 7; can find the port cleat (in line with the bulkhead-#2 cleat) but not the starboard one.
@@ -261,3 +340,12 @@ where an anchor and its rode are best stowed aboard a Paradox.[21]
 [24] Archive message page_2611 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2641, 2005-04-09) — "Re: Construction Questions": has put a hole in bulkhead 1 on his own "Enuf" to store spars inside, unsure why beyond a mention of motorway service areas and disappearing spars; filled the rest of the forward compartment with expanded polystyrene foam below deck plus empty 2-liter Pepsi bottles and an empty ice-cream tub for buoyancy, silicone-glued together so they cannot float free through a big hole; separately split the floor aft of bulkhead 3 athwartships to stow anchors in blocks beneath the floor in front of the seat, so an anchor can be lifted out, the warp attached, and it put out without leaving the cabin; carries a 15 lb Danforth-type and a 14 lb fisherman (chosen per *Beachcruising and Coastal Cruising*) and asks, noting Little Cruiser uses much smaller anchors, for thoughts on suitable anchor weights for a Paradox. Quotes John Hall's original bulkhead-1/anchor-well question in full.
 [25] Archive message page_2613 (openboat / "Alastair", `paradoxbuilders`, msgnum 2643, 2005-04-10) — "Re: Construction Questions": his own deck fittings are all through-bolted, needing access to the underside of the foredeck, which an unopened bulkhead 1 would rule out; a "watertight" compartment sealed without an opening tends in practice to fill with water it then cannot drain — if sealed buoyancy is wanted, a hatch that can be opened for spar storage/inspection and closed underway is preferable.
 [26] Archive message page_2613 (openboat / "Alastair", `paradoxbuilders`, msgnum 2643, 2005-04-10) — "Re: Construction Questions" (anchor-well portion): also considered a flush anchor well; downsides are undesirable weight up forward (he uses the space to stow bedding instead) and, except in a flat calm, not wanting to be out on the exposed bow — all his own anchoring is done from the hatch. Signed "Hoping for calm nights, Al, Yeovil, England."
+[27] Archive message page_3411 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3442, 2006-03-14) — "Re: re paradox max weight and height": a prospective owner in his mid-sixties, having seen only pictures and diagrams, asks whether reaching through the hole alongside the mast into the forward compartment poses any difficulty for someone "not as supple as the young 'uns." Signed "Jim Hall."
+[28] Archive message page_3414 (barrattneil / "Neil" / Neil Barratt, `paradoxbuilders`, msgnum 3445, 2006-03-15) — "re paradox max weight and height": answers Jim Hall — from his own test sail roughly two years earlier, he would lie prone and reach in, and a hook might help; touring kayakers often tie a length of rope to gear stowed in a boat's extremities, left within reach of the cockpit; any small cabin boat has places that are hard to reach, and the Paradox's cabin is an uncluttered, flat-floored open rectangle; suggests an owner's advice would be more useful than his own. Signed "Cheers Neil."
+[29] Archive message page_3418 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3449, 2006-03-15) — "Re: re paradox max weight and height": thanks Neil; wonders whether anyone has fitted a small deck hatch over the extreme forward compartment behind the stem for direct outside access; recounts having built and lived in a larger (23-24 ft) gaff cutter decades earlier with fully open-plan accommodation (no interior partitions) to ease access to the forepeak and avoid claustrophobic compartments, and asks whether the Paradox could be modified along the same lines — noting this would mean redesigning the port-side vent/control-line box and reinforcing the hull where bulkhead #2 now sits, but judges it "all do-able." Signed "Jim Hall."
+[30] Archive message page_3419 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3450, 2006-03-16) — "Re: re paradox max weight and height": answers Jim Hall — the extreme forward compartment does not need to be reachable at all; the plans suggest leaving bulkhead #1 solid unless the builder wants to stow the mast and spars inside, in which case an opening sized to their length is needed, and doubts it is worth opening for storage space alone given how much accessible stowage the boat already has; on the open-plan/no-partitions idea, notes that opening bulkhead #2 will not help anyone who dislikes small spaces, since his own wife likened the opened bulkhead-#2 hole to "a sidecar on a motorbike" (half-joking that it might double as a way to move the boat around ashore, or perhaps describes the Enigma instead); recalls that one of the Antipodean builds was built with bulkhead #2 opened out on the port side. Signed (unsigned; posted as "dclark52001").
+[31] Archive message page_3420 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3451, 2006-03-16) — "Re: re paradox max weight and height": thanks Derek; concludes the diagrams showing the extreme forward compartment full of stowed items, like a "little shopping basket," must be artistic licence, since getting things in and out sounds impractical. Signed "Jim Hall."
+[32] Archive message page_3420 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3451, 2006-03-16) — "Re: re paradox max weight and height" (flotation portion): judges using the extreme forward compartment as fixed emergency flotation impractical in the way that matters most — if it were ever needed in earnest, the boat would float bow-up and stern-down, leaving a survivor to sit on the stem awaiting rescue, "still that's better than sinking ain't it." Signed "Jim Hall."
+[33] Archive message page_3422 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3453, 2006-03-16) — "Re: re paradox max weight and height": clarifies the forward-compartment diagram Jim Hall referred to is a specific person's own published (and copyrighted) picture, not open for general discussion; on flotation trim, says he would not worry which way a flooded boat floated so long as it floated at all — his own intention, which he hopes never to test, is to stay in the boat, since a hull floating even at deck level is still better than being in the water.
+[34] Archive message page_3430 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3461, 2006-03-18) — "Re: re paradox max weight and height": notes that fitting foam flotation under the gunwales means a swamped crew needs to remove ballast and bail, since the foam is not meant to carry a fully ballasted boat afloat on its own; left his own forward compartment open (no bulkhead-#1 panel) and, at 5 ft 7 in, can climb into it bodily when it is empty, or reach in just his upper body to retrieve buoyant, seldom-used gear when it is not; regularly sails two-up with a crewmate nearly 6 ft tall and reports the boat still "fits"; notes the space behind the rearmost bulkhead is separately buoyant, both from any foam fitted there and from trapped air in the sealed compartment; recommends the enlarged/stretched Paradox files (in the group's file section) to any "super sizers." Signed "Jack."
+[35] Archive message page_3990 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4024, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access); has kept his aft floorboards per plan but without hinges, supported instead by removable under-flaps from the storage-bin sides, so either side of the floor can be lifted and slid forward for full storage access; has also fitted side flaps/planks either side of the water tanks for forward ballast access; plans to post photos to his website. Signed "Bill."

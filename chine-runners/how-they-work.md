@@ -271,6 +271,46 @@ of individual builders (see, e.g., fabrication accounts at [chine runner
 construction](/chine-runners/construction.md)), not on a published formula or
 measured comparison.
 
+## Narrow "wing" runners on a Chris Morejohn sharpie, and a centerboard-plus-runner combination
+
+A 2006 sighting of Chris Morejohn's 40 ft sharpie **"Jubilee"** — a sister
+hull to "[Hogfish Maximus](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus),"
+photographed in the group's Hogfish Maximus files folder — raised the runner
+width question again at a larger scale: her chine runners looked strikingly
+**narrow** for a 40-footer, prompting the question of whether a hull scaled
+up from Paradox needs proportionally bigger runners at all. The answer given
+was that the narrow "wing" runners are **more effective than their size
+suggests** and do not need to be bigger: both "Jubilee" and "Hogfish Maximus"
+combine chine runners with a **centerboard**, and the combination works well,
+without excessive turbulence even running downwind with the board fully
+raised. This is the archive's clearest on-the-record example of a
+Layden-family hull pairing a **retractable centerboard alongside chine
+runners** rather than treating them as alternatives — [Glen
+Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus),
+who crewed "Hogfish Maximus" across the Atlantic, is cited as the firsthand
+source for how well the combination performs. Extrapolating from this, a
+centerboard becomes worth adding **alongside** chine runners at around a
+**25 ft waterline**, depending also on how much offshore sailing is planned —
+with a centerboard additionally useful for trimming a lightly loaded boat, not
+purely for extra lateral resistance. No formula was offered for exactly how
+runner size itself should scale with hull size, leaving the [no-published-
+scaling-formula](#no-published-scaling-formula-and-no-bilgeboardbilge-keel-experiment-on-record)
+question open at any hull length short of that threshold.[58][59]
+
+[Glen Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus)
+— who crewed "Hogfish Maximus" across the Atlantic and is the firsthand
+authority Nels's answer above points to — gave his own direct comparison of
+the two designers' runners once pressed. Chris Morejohn's runners on
+"Jubilee" and "Hogfish Maximus" are **"much different" from Matt Layden's**:
+Morejohn designs from the perspective of the flow at the chine/hull
+junction itself, rather than from Layden's lifting-body system, and the
+result is a runner that rides **wetter** than Layden's (confirmed firsthand
+on the Atlantic crossing) because it does not extend as far aft. Morejohn's
+runners are also **less aerodynamically shaped**, and narrower than they
+would be if scaled directly from a Paradox's own proportions — the clearest
+on-record confirmation that "Jubilee"'s narrow appearance reflects a
+genuinely different design approach, not merely an error of scale.[60]
+
 The fullest account on record of how the runners' **size and shape changed
 over time** comes from [Dave Bolduc](/people/bolduc/dave.md): on Swamp Thing,
 Matt Layden's earliest chine-runner boat, they started out **small and
@@ -592,9 +632,9 @@ fitting.[55][56][57]
 [5] Archive message page_790 (Glen Maxwell, `paradoxbuilders`, msgnum 804, 2002-12-14) — "Re: Chine runners": their purpose is to prevent leeway while keeping shallow draft and no centerboard trunk in the cabin; effectiveness requires heavy displacement so they stay well submerged when heeled; Paradox's draft goes from 9 in upright to approx. 23 in at 30 degrees of heel.
 [6] Archive message page_796 (Alastair, `paradoxbuilders`, msgnum 810, 2002-12-18) — "Re: Chine runners": Paradox was designed from the start to use chine runners, which together with the rudder provide all lateral resistance; heeling is countered by hull shape and ballast, as in other craft; a keelboat's keel actually promotes heeling since the water's force on it adds to the sail force, with ballast at the keel's foot (or in the bilges) countering it.
 [7] Archive message page_1404 (arvent / Nels, `paradoxbuilders`, msgnum 1424, 2003-11-18) — "Re: FAQ File": worked FAQ example — "Due to Paradox's relatively heavy displacement for it's size and the rocker of the hull, when the boat heels the lower chine runner effectively acts as a shallow fin keel would in a v-bottomed boat. The upwind chine clears the water and the lower chine effectively increases the waterline length of the boat. The result is a faster, more weatherly boat than what it would first appear to be when looking at the boat sitting at rest."
-[8] Archive message page_1411 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1431, 2003-11-18) — "Re: FAQ File": chine runners don't add to waterline length at any orientation, since Paradox has little net overhang to submerge under heel or speed; endorses Nels's heeled-hull/long-keel analogy; describes the chine runners as "sort of like a Scheel Keel, without the keel."
-[9] Archive message page_1416 (arvent / Nels, `paradoxbuilders`, msgnum 1436, 2003-11-18) — "Re: FAQ File": accepts DC's correction — did not mean the chine runners themselves lengthen the waterline; restates that heeled sharpies generally present a longer, narrower hull to the water, a characteristic he suspects may be less pronounced on Paradox, whose bow and stern usually show clear of the water in photos.
-[10] Archive message page_1417 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1437, 2003-11-18) — "Re: FAQ File": Commodore Ralph Munroe's sharpie Egret's pronounced after overhang genuinely lengthens her waterline at speed, as her bow wave re-crests at the stern and wets the buoyant overhang; a longer waterline raises speed potential but does not guarantee it, since the added wetted surface is itself a drag penalty; a transom-hung rudder does not count toward waterline length.
+[8] Archive message page_1411 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1431, 2003-11-18) — "Re: FAQ File": chine runners don't add to waterline length at any orientation, since Paradox has little net overhang to submerge under heel or speed; endorses Nels's heeled-hull/long-keel analogy; describes the chine runners as "sort of like a Scheel Keel, without the keel."
+[9] Archive message page_1416 (arvent / Nels, `paradoxbuilders`, msgnum 1436, 2003-11-18) — "Re: FAQ File": accepts Smith's correction — did not mean the chine runners themselves lengthen the waterline; restates that heeled sharpies generally present a longer, narrower hull to the water, a characteristic he suspects may be less pronounced on Paradox, whose bow and stern usually show clear of the water in photos.
+[10] Archive message page_1417 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1437, 2003-11-18) — "Re: FAQ File": Commodore Ralph Munroe's sharpie Egret's pronounced after overhang genuinely lengthens her waterline at speed, as her bow wave re-crests at the stern and wets the buoyant overhang; a longer waterline raises speed potential but does not guarantee it, since the added wetted surface is itself a drag penalty; a transom-hung rudder does not count toward waterline length.
 [11] Archive message page_1419 (arvent / Nels, `paradoxbuilders`, msgnum 1439, 2003-11-18) — "Re: FAQ File": closes the exchange — his original point was that Paradox is faster than her static hull shape suggests, which owners consistently confirm though skeptics doubt both her speed and the chine runners' efficiency; she would sail faster with overhangs and a longer waterline for her beam, but that is not her purpose; she is a very efficient sailing package for her intended role as a one-person skinny-water microcruiser, not a racing machine.
 [12] Dave's Wiki (aiki.pbworks.com) — "Advantages of Matt Layden mini cruisers" (`https://aiki.pbworks.com/w/page/1594232/Advantages%20of%20Matt%20Layden%20mini%20cruisers`), Dave Raftery — "The chine runner … consists of a wooden foil shape which extends horizontally outward from the chine of the hull. The combination of the air foil shape, the heel of the hull and a large rudder, provide lateral resistance without the need for a centerboard."
 [13] microcruising.com — blog "5-11-19" (`http://www.microcruising.com/new1a.htm`), David & Mindy Bolduc — Matt Layden's chine-runner "hydrodynamic fence… with low pressure on one side and high pressure on the other which enables his sharpies to sort of 'fly' upwind through the water with the aid of a big rudder to reduce leeway."
@@ -642,3 +682,6 @@ fitting.[55][56][57]
 [56] Archive message page_3241 (reppeto / "ldjonerik" / Paul Reppeto, `paradoxbuilders`, msgnum 3272, 2005-12-06) — "Re: design help needed": suspects the runners work on Paradox partly because the hull is narrow enough to heel substantially under sail, making them act like a leeboard or side-mounted centerboard; doubts the wider Jewelbox Jr would heel enough to make them effective; suggests twin fin keels instead; mentions he is himself building a Bolger Teal, substituting twin fin keels for its stock leeboard, since he finds the leeboard "pretty ugly." Signed "Paul."
 [57] Archive message page_3245 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 3276, 2005-12-07) — "Re: design help needed": the hulls are very different — Paradox has a lot less rocker in the bow — "I may not work." Signed "Hi Ken" salutation.
 [54] Archive message page_2790 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 2820, 2005-06-11) — "Chine runners": posts, without wanting to reopen debate over whether/why/how they work, a quote from designer Matt Layden describing the chine runners/winglets as small horizontally protruding fins at the chines amidship that help the hull function as a "lifting body" to resist leeway; Layden states a centerboard or other retractable vertical fin would do the job better, but he has "a mental allergy to moving parts and complication"; the runners are easy to build and protect the hull rather than weakening it, as a board does, and take up no interior space, always an issue in a small cruiser. Signed "Glen."
+[58] Archive messages page_3371/page_3372/page_3373 (arvent / "Nels", `paradoxbuilders`, msgnum 3402, 2006-03-01, "Re: Paradox max pilot weight ,height," posts a `tinyurl.com` link to a photo, joking "dig the chine runner on this baby!"; william / "barnacleid" / Bill Serjeant, msgnum 3403, 2006-03-01, cannot get the link to open; arvent / "Nels", msgnum 3404, 2006-03-01, "Re: Paradox max pilot weight ,height," clarifies the photo is of "Jubilee," the 40 ft sharpie in the group's Hogfish Maximus files folder, showing her on a travelift with the chine runners clearly visible) — see [people/chris-morejohn.md](/people/chris-morejohn.md) for "Jubilee"'s identity as a Chris Morejohn-designed Hogfish-family sharpie.
+[59] Archive messages page_3377/page_3379 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3408, 2006-03-02, "Re: Paradox max pilot weight ,height": asks why "Jubilee"'s chine runners look so narrow for her size, and whether a hull scaled up from Paradox needs proportionally bigger runners; arvent / "Nels", msgnum 3410, 2006-03-03, "Re: Paradox max pilot weight ,height": not exactly sure how the width was decided, but both "Jubilee" and "Hogfish Maximus" combine chine runners with a centerboard, a combination Glen Maxwell (who sailed on "Hogfish Maximus") can speak to firsthand; the narrow "wing" runners prove more effective than expected and do not create excessive turbulence even sailing downwind with the board fully raised; speculates a centerboard becomes worth adding alongside chine runners at around a 25 ft waterline, depending partly on how much offshore sailing is planned, and that a centerboard is separately useful for trimming a lightly loaded boat; links `www.mermaidresearch.com/` as "an interesting design.")
+[60] Archive message page_3464 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3495, 2006-03-24) — "Re: Paradox max pilot weight ,height": answers Nels's/Bill's narrow-runner question directly — the chine runners on "Jubilee" and "Hogfish Maximus" are much different from Matt Layden's, since Chris Morejohn approaches the runner's design from the perspective of the chine/hull junction flow rather than Layden's lifting-body system; found firsthand on the Atlantic crossing that Morejohn's runners ride wetter than Layden's because they do not extend as far aft, and are also not as aerodynamically shaped nor as wide as they would be if scaled from a Paradox. Signed "Glen."

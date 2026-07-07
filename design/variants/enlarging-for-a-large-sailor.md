@@ -50,6 +50,24 @@ Short of those caveats, a 10% enlargement is straightforward — a practical
 ceiling drawn from a builder already partway through executing it himself,
 rather than a theoretical estimate.
 
+## Fitting a couple aboard a stock or slightly enlarged Paradox
+
+A recurring question from prospective builders planning to sail two-up: how
+a Paradox handles a couple of noticeably different sizes, both underway and
+sleeping aboard, given that most photos and reports on record show the boat
+sailed solo. A concrete case put to the group involved a 5'11", ~200 lb
+builder and his wife, just under 5 ft tall — see [double-layer plywood for
+an enlarged Paradox and testing an unconventional mast
+wood](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood)
+for the same builder's plywood and mast-wood questions. See also [modifying
+bulkhead 3 to gain room for sleeping
+two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two)
+for a structural approach to the same two-up sleeping problem, and [pilot
+weight, height, and stability at stock
+length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length)
+for Matt Layden's own two-up sailing and the load-splitting/counterbalancing
+technique that made it work in practice.
+
 ## Paramour: a ground-up redesign for a bigger sailor
 
 Rather than scaling stock Paradox further, one builder in the UK drew a
@@ -104,3 +122,4 @@ Paramour's designer size her up to 16 ft.
 [8] Archive message page_2110 (carolfo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 2135, 2004-06-05) — "new guy": introduces himself after resolving a Yahoo login problem; a longtime fan of the design who might build one someday; asks whether anyone has built a Paradox with the cabin sides flush with the hull sides, reasoning it would open up the interior and increase righting in a knockdown.
 [9] Archive message page_2111 (arvent / "Nels", `paradoxbuilders`, msgnum 2136, 2004-06-07) — "Re: new guy": welcomes Robert aboard; answers that the stepped-in side decks are handy for stowing the yuloh and spars when not in use — signed "Reporting from Norway," apparently while travelling, distinct from his established Canadian base.
 [10] Archive message page_2113 (melodymann / "LEON", `paradoxbuilders`, msgnum 2138, 2004-06-08) — "Re: new guy": agrees the side-deck stowage point is a good one; wonders whether a sprit rig (no boom or yard) would remove the need to store spars on deck at all, or whether roof brackets could serve the same purpose instead.
+[11] Archive message page_3766 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3798, 2006-07-20) — "Re: Plywood Choices": asks how a Paradox handles a crew of two — himself, 5'11" and just under 200 lb, and his wife, just under 5 ft tall — both sailing and sleeping aboard, having seen pictures of two people in the boat but no direct report of the fit.

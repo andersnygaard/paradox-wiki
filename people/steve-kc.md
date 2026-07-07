@@ -52,8 +52,8 @@ floated for the boat — **"Windependent"** and **"Cette Assez"** (French for
   Alastair's elevate-and-weight method.
 - **Deck-beam lamination.** Building deck beams in 3mm Douglas Fir and
   prebending the strips against expected springback surfaced a reversed
-  claim in DC's Build Manual lamination installment — that thicker laminates
-  spring back less than thin ones — an error DC confirmed needed correction;
+  claim in David C. Smith's Build Manual lamination installment — that thicker laminates
+  spring back less than thin ones — an error Smith confirmed needed correction;
   see [deck and cabin beam lamination — lamination thickness and springback
   in
   practice](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).

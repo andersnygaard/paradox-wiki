@@ -1,9 +1,9 @@
 ---
 type: Person
 title: Derek Clark
-description: UK Paradox builder who built "Enuf," contributed a steel-hull mast query and mainsheet/outboard questions, and closed his build with an unprompted thank-you to the list.
+description: UK Paradox builder who built "Enuf," contributed a steel-hull mast query and mainsheet/outboard questions, wrote a free community beginner's guide to building a Paradox, and sold the boat and left the group in September 2006 after a diabetes diagnosis made sailing her too risky.
 tags: [paradox, people, uk, builder, enuf]
-timestamp: 2026-07-05T00:00:00Z
+timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Derek Clark
@@ -42,7 +42,16 @@ Don remained a fellow builder and sailor with useful contributions to make.
 Derek asked whether a secondhand aluminum Skipper 12 dinghy mast might suit a
 Paradox, and separately asked whether Matt Layden's own mast design had been
 arrived at by engineering calculation or simply from what materials he had on
-hand — left unanswered in the archive. Answering Bill Serjeant's masthead-wiring
+hand — left unanswered in the archive. Answering a tiller-shape question in
+August 2006, he described bending a one-inch galvanized pipe to shape by
+working it through a hole drilled in a 4x2 block until it curved enough, then
+cutting it to length and giving it a final touch-up bend in a vice so it
+would clear the under-deck foam at the extremes of its swing — a fast,
+jig-free alternative to laminating a wooden tiller — and, asked to confirm,
+said he used the bent pipe itself directly as the finished tiller, quicker
+and handier than either laminating plywood strips or bending ash. See
+[design/rudder.md — tiller
+construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[78][79] Answering Bill Serjeant's masthead-wiring
 question in October 2005, he pointed to Alastair's own recessed below-deck
 plug as a model, and mentioned building his own masthead light inside a
 translucent plastic ball (of the kind sold containing washing-machine powder)
@@ -83,7 +92,35 @@ over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspec
 He also flagged Jim Michalak's "Robbsboat" and its Cormorant relative as a
 possible Paradox alternative worth watching, prompting a detailed comparison
 against Bolger's AS29; see [the mailing list — list
-culture](/references/mailing-list.md#list-culture).
+culture](/references/mailing-list.md#list-culture). Follow-up: challenged
+whether Michalak's own designs are actually proven for long-distance,
+single-handed coastal cruising the way Paradox is, conceding "somewhat"
+that a skilled sailor can do anything in anything, but holding it is surely
+better to start with a boat suited to the purpose — see [the mailing list —
+list culture](/references/mailing-list.md#list-culture). On a builder's
+proposed folding tabernacle mast for an enlarged Paradox, offered his own
+mast (lighter than the builder's, liftable single-handed from the foredeck)
+as a data point against needing one, but judged a folding mast could still
+suit river/canal use with low bridges, given only a forestay to help haul it
+upright. See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
+way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[80]
+Corrected his own earlier report of the Mk2 sail's forward creep while
+furling from 2.5 in to the true **7.5 in** — a typo, not a re-measurement —
+while restating the Mk1/Mk2 tack-angle explanation, and reported building a
+new boom from leftover mahogany; see [the furling system — worked boom
+dimensions for the Mk1 taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[81]
+Questioned whether birdsmouth hollow-mast construction is really as simple as
+suggested, reasoning that trying it would mean cutting up his existing mast
+regardless, with no guarantee of a better result; see [stretched Paradox — a
+builder's 18-19 ft "maxi paradox," under
+way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[82]
+Asked afterward whether a bigger boom taper was now needed given the
+corrected 7.5 in figure, was unconvinced it would help — the Mk2 sail's
+greater tack angle already pushes the tack-securing point back along the
+boom regardless of taper — and left the real-world test of his rebuilt
+mahogany boom, due the following Tuesday, to settle it. See [the furling
+system — worked boom dimensions for the Mk1
+taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[83]
 
 ## Resuming the build after a break
 
@@ -94,9 +131,310 @@ Lexan-and-cork-gasket transom port for spar stowage. Through January 2006
 he finished the boom and mast, weighed a strop-and-sheave halyard against
 cutting a mast slot, and settled a recurring bamboo-vs-wood yard question by
 building the yard from wood after all, cutting around a knotted section of
-the boom blank. Full build narrative at
+the boom blank; he also settled on a wedge-and-rowlock socket at the transom
+(Alastair's suggestion) for sculling, and confirmed with David Beard that his
+own 2 hp Honda outboard, like Beard's on "Whisper," is the preferred
+short-shaft version. Full build narrative at
 [boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater)
 and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+Answering a newcomer's build-time and dimension questions, Derek gave his own
+build timeline (started September 2004, non-continuous, only the cabin left
+after about 16 months) and his sleeping area's exact measurements (74.5 in by
+36 in) — see [first-boat suitability — build-time figures and difficulty
+rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).
+Closing out his rowlock/wedge exchange, thanked Alastair for settling on the
+right word ("rowlock") for the fitting, prompting Jack Gardiner's aside that
+the American term for the same thing is "oarlock" — which Derek took in good
+humor, agreeing he would call it that too if ever blown to the American side
+of the Atlantic. A working answer to his original yuloh-in-a-rowlock question
+came from David Platten, describing a leathered loom and forward-facing
+leather button on his own non-Paradox lugger's yuloh; Derek thanked him
+directly, calling the technique "very helpful." Planning ahead for
+"Enuf"'s cabin, floated building a **slot-top** design (as Jim Michalak and
+Phil Bolger often use) from 12 mm ply with routed, Lexan-glazed window
+openings and a lift-out rear window for outboard access, and looked at
+plasticised lorry-curtain fabric — already proven skinning a kayak — as a way
+to seal such a slot against the risk of a knocked-down boat not floating with
+it open. Weighing Bill Serjeant's and Alastair's cautionary replies, Derek
+concluded it is difficult to improve on the original design, cited a
+non-Paradox boat built of exterior plywood and polyester resin that lasted
+some 15 years as a durability data point, and settled on Alastair's
+bolt-rather-than-glue suggestion for the cabin roof so any experiment could
+be reversed. See [boats/enuf.md — the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom)
+and [boats/enuf.md — a slot-top cabin idea for open-water
+use](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use).
+
+Days later, unable to add a photo to his "Enuf" album, Derek ran into the same
+group-permissions problem on Don Elliott's own group; Bill Serjeant answered
+that upload privileges are a moderator-controlled Yahoo Groups setting, not a
+fault on the member's end. See [the mailing list — photo-album upload
+privileges are a moderator-controlled
+setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting).
+David Beard and Glen Maxwell separately pointed him to `paradoxbuilders2`,
+revealing the original group had by then filled to its own member capacity;
+after finally getting one photo through, Derek's upload trouble persisted
+over several more attempts, prompting a Kurt Vonnegut one-liner from Nels. In
+the same window he cut window openings into "Enuf"'s cabin sides and
+laminated centre-beam hand grabs from salvaged oak. Full account at
+[boats/enuf.md — the original group reaches capacity, and a return to
+routine build
+progress](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress)
+and [boats/enuf.md — cutting window openings into the cabin
+sides](/boats/enuf.md#cutting-window-openings-into-the-cabin-sides). Still
+blocked a week later, Derek worked around the privileges error entirely by
+opening a new "Enuf" album on Bill Serjeant's `smallsailboats` group
+instead — see [boats/enuf.md — a workaround: an Enuf album on a different
+group entirely](/boats/enuf.md#a-workaround-an-enuf-album-on-a-different-group-entirely).
+
+Separately, Derek suggested adding builders' e-mail addresses to Bill
+Serjeant's Paradox owners/builders database, with Bill's blessing to poll
+the list's opinion on the idea — see [references/paradox-uk-website.md — a
+2006 database
+renewal](/references/paradox-uk-website.md#a-2006-database-renewal-and-a-new-los-angeles-builder).
+Turning leftover Lexan window offcuts to a second use, he asked what
+adhesive would join polycarbonate scraps into small electrical-output
+boxes, and separately flagged shopfitters' skips as a source of free scrap
+copper wire and fittings. See [boats/enuf.md — polycarbonate scraps for
+electrical enclosures, and a scavenged copper-wire
+source](/boats/enuf.md#polycarbonate-scraps-for-electrical-enclosures-and-a-scavenged-copper-wire-source).
+Separately asked what compasses other builders had fitted and where,
+noting Alastair's Silva 70n on "Little Jim" — see [GPS and navigation
+instruments — compass choice and
+mounting](/operations/gps-navigation.md#compass-choice-and-mounting).
+
+In the recurring "max pilot weight, height" thread, Derek identified himself
+as the likely source of a stability caution given to a 6'4"/280 lb
+prospective builder, clarified the real issue was cabin room rather than
+hull stability, and recalled his brother — built to the same dimensions —
+likening bare-hulled "Enuf" to one of his own shoes. He also gave the
+practical fix for fitting longer sailors (dropping the floor between
+bulkheads 1 and 2) and named his own hypothetical next boat, a reduced
+Madrigal with a full-length aft cabin and lug rig. See [crew size and fit —
+pilot weight, height, and stability at stock
+length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).
+As the thread wound down into banter, Derek traded good-humored jokes with
+Nels over a spoof weight-loss program. He also repeated his standing compass
+question a week later, in near-identical terms; the question was finally
+answered by [Jack Gardiner](/people/jack-gardiner.md) — a GPS's bearing comes
+from satellites rather than magnetic north, so nearby iron does not affect
+it, unlike his own wristwatch compass, which showed real deviation in
+testing — settling on the GPS's compass for ordinary use and a small
+handheld for sighting and backup. Derek also confirmed he uses an older
+Garmin 76, preferring "a box of GPSs" over celestial navigation, which he
+judged "smacks of sorcery." See [GPS and navigation instruments — compass
+choice and mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[44][45][46][47]
+
+Trying to wrap his new Mark II sail on the boom, Derek found the luff
+climbing up over the furling drum rather than sitting close to it, and asked
+whether the tack should sit in line with the mast and whether tapering his
+still-untapered boom would leave a bigger leftover flap of sail once rolled
+— answered in full by [Alastair](/people/alastair.md). See [rig and sail —
+wrapping a Mark II sail on the boom: tack position, balance, and
+taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).[48]
+
+Derek is based in Wolverhampton, "not far from" Alastair and "Little Jim" in
+Yeovil, and expected to launch "Enuf" at Wareham, Dorset shortly. See
+[boats/enuf.md — home base and an expected launch
+site](/boats/enuf.md#home-base-and-an-expected-launch-site).[49]
+
+Closing out the "max weight and height" thread's forward-compartment tangent,
+Derek clarified that a diagram a newcomer asked about was a specific
+person's own copyrighted picture, not open for general discussion, and
+restated his own view on flooding: he would not worry which way a swamped
+boat trimmed so long as it floated, since staying in the boat beats getting
+out of it. He then answered a fresh plywood-durability question with his own
+practice of using exterior-grade ply (cheaper, and covered in epoxy and
+fibreglass regardless), noting neither "Enuf"'s stablemate "Swamp Thing" nor
+"Little Cruiser" was originally glassed. See [plywood grade and foam
+flotation debate — long-term plywood durability, resale value, and why to
+expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[50][51]
+
+Suggesting Bill Serjeant might have a view given his own 50/50 canoe build,
+Derek gave a candid accounting of his own epoxy costs — buying in small
+quantities at around £50/gallon rather than the £34/gallon he could have
+had in bulk, and eventually giving up tracking the running total once it
+became clear it was substantial (his best guess: around £2,500 all in). He
+sketched a budget-conscious next build (salvaged exterior ply and pine,
+epoxy reserved for edges/end-grain/bilges, household paint elsewhere),
+reasoning that wood isn't the right material if building for posterity.
+Separately, closing out the epoxy-pricing sub-thread, he recommended UK
+Epoxies (`epoxy-resins.co.uk`) as a supplier and Jim Michalak's new book for
+its epoxy-chemistry commentary. See [plywood grade and foam flotation
+debate — long-term plywood durability, resale value, and why to expect
+neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[52][53]
+
+His own boom axle failed a second time in March 2006, leaving the boom with
+a curve in two planes that he decided to live with rather than fix, and he
+separately warned Bill Serjeant that crystals forming in an epoxy dispensing
+pump had once cost him significant time and money redoing a hull bottom,
+favoring Jim Michalak's cup-and-marked-stick mixing method as more reliable.
+See [rig and sail — which side of the boom and yard faces up, and curing
+persistent yard
+sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag)
+and [plywood grade and foam flotation debate — long-term plywood durability,
+resale value, and why to expect
+neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[54][55]
+
+With his own build largely behind him, Derek wrote and posted a free,
+copyright-free "Beginners guide to building a Paradox" to the group's files
+section, condensing his own build's practical lessons into about four pages
+and inviting other builders to amend it; well received for its
+practical-experience angle, he followed up with a revision incorporating
+readers' suggestions within the day. See [building plans — a
+community-written beginner's
+guide](/references/building-plans.md#a-community-written-beginners-guide).[56][57]
+
+A carpal tunnel operation in April 2006 halted his build entirely for five
+weeks, still hurting when he next reported in; asked whether "Enuf" photos
+had ever been posted, he pointed to both his original and mirrored photo
+folders, which in turn prompted a good-humored sub-thread on sleeping
+aboard while trailering between cruising grounds. See
+[boats/enuf.md — a carpal-tunnel operation halts progress, and a five-week
+pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[58]
+Also gave his own list of vehicle overnight-parking spots (lorry laybys,
+small industrial estates, remote beauty-spot car parks) drawn from
+sleeping in VW campers and a Land Rover, and re-confirmed that his
+`smallsailboats`-hosted photo album is Bill Serjeant's site, not Don
+Elliott's similarly-named "Smallboats" group.[59][60][61]
+Doubted that British sailing conditions differ enough from American,
+Australian, or New Zealand conditions to change windward performance, and
+judged a UK secondhand market for an odd craft like Paradox unlikely,
+citing an acquaintance who spent about £4,000 building a Bolger Micro and
+sold it for £1,000. See [secondhand Paradox market — build vs. buy
+secondhand: a UK newcomer's cost-benefit
+hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[62]
+
+Tried out a proposed hard-top hatch design as a full-size cardboard mock-up
+before committing plywood, then redesigned it around a lower, second seat
+position (his wife's suggestion) after Glen Maxwell judged the original too
+tall to clear the boom; also gave a build-progress update on his recovering
+carpal-tunnel hand. See [boats/enuf.md — a cardboard hatch mock-up, and a
+lower alternate seat
+position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[63]
+
+Finished rubbing down the hull and applied the first coat of pigmented
+epoxy resin, with rain repeatedly delaying the work. See [boats/enuf.md —
+rubbing down, and the first coat of pigmented
+resin](/boats/enuf.md#rubbing-down-and-the-first-coat-of-pigmented-resin).[64]
+
+Weighing in on a 12-volt wiring-gauge debate, Derek judged sizing the
+conductor to actual current draw the cost-effective approach, but held
+that using the largest cross-section of copper that will physically fit
+remains the real ideal, aiming for no losses in the conductor at all — he
+has used salvaged multi-strand 240-volt lighting cable and machine-tool
+cable himself, picked up free from a skip behind a shop. See [radio and
+electronics — 12-volt wiring
+gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).[65]
+Posting a fresh round of "Enuf" photos, Derek candidly owned up to the
+boat's visibly wavy, truncated chine runners — the result of a sanding-disc
+mishap rather than a deliberate change — and confirmed the plastic box
+visible through the transom in his build photos is a Porta Potti. See
+[boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta
+Potti in the
+transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[66][67]
+
+Welcomed a new Ithaca, New York builder to the list, judging himself about
+two weeks from finishing and launching "Enuf" and noting Bill Serjeant's own
+"amazing progress." See
+[people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md).[68]
+
+Bluntly rated the paid construction manual as only about 30% readable,
+recommending Jim Michalak's book from Duckworks instead. See [building
+plans — a July 2006 recurrence, and a blunt assessment of the paid manual's
+quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[69]
+Answering a bulkhead-3 modification proposal for sleeping two, suggested
+doubling or trebling the bulkhead's plywood thickness rather than adding
+steel reinforcement, and recalled one of the Antipodean-built Paradoxes as
+already a two-hander worth consulting directly. See [crew size and fit —
+modifying bulkhead 3 to gain room for sleeping
+two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[70]
+
+"Enuf" was finally launched in early August 2006, sailed for the first time
+over three days in Poole Harbour alongside Alastair and "Little Jim" — an
+eventful maiden outing (a mudbank and three moored boats struck, an outboard
+that fouled the mainsheet and made the steering wander) that left Derek
+already planning a relocated motor, a new boom, and a different mainsheet
+lead. Full account at
+[boats/enuf.md](/boats/enuf.md#launched-three-days-in-poole-harbour-and-lessons-from-the-outboard).[77]
+
+Following up on that outboard trouble, Derek described his own working
+setup: a transom-mounted **2.3 hp Honda** petrol motor, chosen over an
+electric motor (having seen Alastair's own side-mounted electric motor work
+well) specifically to avoid depending on recharging, with the throttle
+extended by a PVC pipe and the kill switch worked by a cord, both reached
+through a removable rear window. It returns about 7 miles per litre at 4 mph,
+carrying one litre in the motor's own tank plus a four-litre reserve in
+bottles behind bulkhead four — a stowage compromise he judged too close to
+his cooking area for comfort — and he was considering an external tank fed
+by bulb and pipe, the approach he believed the Bolducs used, with the
+throttle eventually brought inside by a Bowden cable. See [auxiliary outboard
+power — a transom-mounted petrol outboard, fuel stowage, and
+trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[84]
+
+On a tiller-rope-lock question, described his own two-piece plywood-and-wingnut
+clamp, but said he was never confident enough in it to rely on for long,
+preferring to hold the tiller rope in one hand and the mainsheet in the
+other since he never felt he had good control of the rudder at any rope
+tension tried; while motoring he instead steered with the tiller braced in
+the small of his back, shifting along the seat. He was weighing a wheel,
+mounted to port, driving the tiller through a shorter rope and pulleys or a
+Bowden cable, as a possible fix. See [self-steering — locking the tiller
+rope, and why most builders don't
+bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[85]
+In the same Honda 2 hp reliability thread, Derek asked whether it would be
+worth carrying a spare throttle cable — answered that the cable sees so
+little stress in normal use it should last a very long time — and then
+himself supplied the likely failure mode by analogy with motorcycle throttle
+cables of similar construction, which do occasionally break or shed a
+nipple; a broken cable could be worked around afloat with string tied to the
+throttle control's exposed piano wire, though replacing the cable outright
+would be easier. See [auxiliary outboard power — a Honda 2 hp's spare-parts
+and reliability
+record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[86][87]
+
+## Selling "Enuf"
+
+A diabetic, Derek found the exertion of sailing brought on hypoglycemic
+episodes at a level he judged too risky to continue, and put "Enuf" up for
+sale in September 2006 rather than keep sailing through it. The sale terms,
+the community's reaction, and the "Viking burial" fallback he offered if no
+buyer came forward are recorded in full at
+[boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[88] In the thread that
+followed, he gave a fuller account of the diabetes itself and reported his
+wife had bought him a small motor cruiser to restore in Enuf's place, and
+closed by reflecting that the build and time spent on Poole Harbour had been
+worthwhile regardless. Full account, and the "PARANIGMA" motor-cruiser
+project it drew out of Jeff UK in reply, at
+[boats/enuf.md](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[89]
+
+"Enuf" sold within days, setting off by road toward a new owner in Norway;
+in the same reply, Derek floated a fresh, purpose-built Honda-outboard
+"power microcruiser" design idea of his own, pitching it to designers Jim
+Michalak, Paul Fisher, and John Welsford — full detail at
+[boats/enuf.md](/boats/enuf.md#the-sale-completes-and-a-honda-outboard-power-microcruiser-idea).[90][91]
+He then announced his departure from the group after roughly 30 months,
+timed to the boat's departure and prompted in part by a scheduled operation
+he hoped might cure his diabetes outright. The announcement drew immediate,
+unanimous pushback rather than farewells — from Jeff UK, from a first-time
+correspondent posting as "SH," and from [Jack Gardiner](/people/jack-gardiner.md)
+in particular, who argued the design itself, and the security of always
+having a sail to fall back on, was reason enough not to give it up; Derek's
+own reply agreed his new boat was a microcruiser by his own definition too,
+but drew the line at the group's actual scope ("this is the Paradoxbuilders
+group"), rather than conceding the leaving question itself.
+[David Beard](/people/david-beard.md) and [Alastair](/people/alastair.md)
+added their own pleas to stay, and Wenceslao Rafol, Jr. offered that a
+health-first decision needed no defense. Derek's replies thanked David Beard
+by name, made peace with Jack Gardiner over an unintentional oversight in
+his thank-you list, and — jokingly comparing himself to Frank Sinatra's many
+"retirements" — allowed he might reconsider. Jeff UK kept pressing the same
+point (a boat is not disqualified by being a motor cruiser, and the group's
+753-strong membership was never mostly Paradox owners anyway); Jack Gardiner
+closed the thread with his own account of driving a truck over his stranded
+Paradox's rudder and rebuilding it regardless, arguing ownership was beside
+the point since the group is called Paradox *builders*. Derek confirmed to
+"SH" that he was not, in fact, leaving. Full account at
+[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[92][93][94][95][96][97][98][99][100][101][102][103][104]
 
 # Citations
 
@@ -109,7 +447,7 @@ and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-h
 [7] Archive message page_2965 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2996, 2005-07-25) — "Re: Welcome to the Club, Brother Nels!": replying to Nels naming him "number one on our list," "My God, what have I done? My wife says that whatever it is I probably deserve it :0)"
 [8] Archive message page_2998 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3029, 2005-08-01) — "Re: Jack gardiner's Tack Strut & Boom Axle": suspects Don Elliott himself may be behind the group's photo-folder mix-up, having seemed to know of Derek's ballast question, but says Don remains a fellow Paradox builder and sailor with useful contributions to make and has always been helpful to him; thanks the group as a whole, naming Nels, Chris, Bill, David, Jack, and Dave among others, for Paradox-specific and general building/sailing/life knowledge as launch nears. Signed "Derek."
 [9] Archive message page_1807 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 1830, 2004-01-10) — "mast": asks whether a secondhand aluminum Skipper 12 dinghy mast — constant 2-3/8 in diameter, 1/16 in wall thickness, about 6 in short (fixable with a wooden plug) — would suit a Paradox mast. Signed "Derek."
-[10] Archive message page_1814 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1837, 2004-01-11) — "Re: mast": thanks Alastair and DC for the input; asks whether Matt Layden's own mast design was arrived at by engineering calculation or was more a question of what materials he had on hand — unanswered in the archive. Signed "Derek."
+[10] Archive message page_1814 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1837, 2004-01-11) — "Re: mast": thanks Alastair and David C. Smith for the input; asks whether Matt Layden's own mast design was arrived at by engineering calculation or was more a question of what materials he had on hand — unanswered in the archive. Signed "Derek."
 [11] Archive message page_1756 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1778, 2004-01-04) — "Re: Main Sheet": asks David Beard whether a picture of Matt's single-line mainsheet setup exists anywhere. Signed "Derek."
 [12] Archive message page_1758 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1780, 2004-01-04) — "Re: Main Sheet": reports finding only a picture of Matt's boat drawn up on a beach with her sail down, and asks if anyone has found a stern picture. Signed "Derek."
 [13] Archive message page_1761 (dclark52001 / "Derek Clark", `paradoxbuilders`, msgnum 1784, 2004-01-04) — "Re: Main Sheet": posts two candidate photo links, hoping they show Matt's mainsheet setup. Signed "Derek."
@@ -121,3 +459,86 @@ and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-h
 [19] Archive message page_3228 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3259, 2005-11-15) — "Re: Bilges": full text and citation at [construction/rot-inspection-ice-pick.md](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 [20] Archive messages page_3253/page_3255 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3284/3286, 2005-12-15/2006-01-14) — "Robbsboat"/"Re: Robbsboat": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); reports restarting his "Enuf" build with a new boom, and a propane fan heater warming his garage from 9°C to 20°C.
 [21] Archive messages page_3265/page_3268/page_3269/page_3270 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3296/3299/3300/3301, 2006-01-15/2006-01-20/2006-01-21) — "Re: Robbsboat & Ventilation & Cover"/"More progress & questions"/"More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater) and [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom); built a transom spar-stowage port, finished the boom and mast, and settled a bamboo-vs-wood yard question.
+[22] Archive messages page_3271/page_3273/page_3278 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3302/3304/3309, 2006-01-21/2006-01-22) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) and [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane); settles on a wedge-and-rowlock transom fitting, thanks David Beard for the outboard answer, and confirms his own Honda is the short-shaft version.
+[23] Archive message page_3275 (wyliewesty / "Wayne", `paradoxbuilders`, msgnum 3306, 2006-01-22) — "Paradox questions": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).
+[24] Archive message page_3277 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3308, 2006-01-22) — "Re: Paradox questions": full text and citation at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating); gives his sleeping area's dimensions (74.5 in by 36 in) and his own build timeline. Signed "Derek."
+[25] Archive message page_3288 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3319, 2006-01-23) — "Cabin Top": full text and citation at [boats/enuf.md](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use).
+[26] Archive message page_3299 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3330, 2006-01-25) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom); replies to Jack Gardiner's "oarlocks" note. Signed "Derek."
+[27] Archive message page_3300 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3331, 2006-01-25) — "Re: More progress and another question": full text and citation at [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom); thanks David Platten for the yuloh/rowlock technique. Signed "Derek."
+[28] Archive messages page_3313/page_3314/page_3316 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3344/3345/3347, 2006-01-27) — "Re: Plywood for Paradox"/"Re: Cabin Top": full text and citations at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-2006-recurrence-budget-exterior-ply-and-why-green-plywood-should-be-avoided) and [boats/enuf.md](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use); cites "Madrigal" as a durability data point, thanks Al and Bill for their cabin-top advice, and agrees to bolt rather than glue/nail the cabin lid. Signed "Derek."
+[29] Archive messages page_3328/page_3330 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3359/3361, 2006-02-05) — "progress"/"Re: progress": full text and citations at [references/mailing-list.md](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting); reports the same photo-upload "privileges" error on Don Elliott's group, thanks Bill Serjeant for the explanation, and asks whether "The Moderator" reads the list.
+[30] Archive messages page_3331/page_3332 (dlb / "buster38801" / David Beard, msgnum 3362, 2006-02-05; ifida / "Glen C. Maxwell", msgnum 3363, 2006-02-06) — "Re: progress": full text and citations at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress) and [references/mailing-list.md](/references/mailing-list.md#the-original-group-reaches-its-member-capacity); both point Derek to `paradoxbuilders2`, the original group having reached its member capacity.
+[31] Archive message page_3333 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3364, 2006-02-06) — "Re: progress": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); got a photo uploaded after all, showing a knot repair wrapped in fibreglass tape. Signed "Derek."
+[32] Archive message page_3334 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 3365, 2006-02-06) — "Re: progress": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); checked Derek's album himself, found plenty of room, and asked him to try again.
+[33] Archive message page_3335 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3366, 2006-02-07) — "Re: progress": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); the upload error persists; jokes about "privileges," and separately mentions being confronted by a nine-year-old at work. Signed "Derek."
+[34] Archive message page_3336 (arvent / "recree8" / Nels, `paradoxbuilders`, msgnum 3367, 2006-02-09) — "Re: progress": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); a Kurt Vonnegut one-liner in reply.
+[35] Archive message page_3337 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3368, 2006-02-10) — "Re: progress": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); the front window, cabin sides, and rear panel are tacked and clamped in place, cabin roof due next. Signed "Derek."
+[36] Archive message page_3338 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3369, 2006-02-11) — "Windows": full text and citation at [boats/enuf.md](/boats/enuf.md#cutting-window-openings-into-the-cabin-sides); routes window openings into the cabin sides and makes centre-beam hand grabs from salvaged oak. Signed "Derek."
+[37] Archive message page_3339 (wyliewesty / "wyliewesty" / "Wayne" / William Nix, `paradoxbuilders`, msgnum 3370, 2006-02-11) — "Enuf pics": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); asks where current "Enuf" pictures are.
+[38] Archive message page_3340 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3371, 2006-02-11) — "Re: Enuf pics": full text and citation at [boats/enuf.md](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress); has not taken any newer photos, may get to it end of week. Signed "Derek." Signed "Derek."
+[39] Archive message page_3341 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3372, 2006-02-17) — "New Pic Elsewhere": full text and citation at [boats/enuf.md](/boats/enuf.md#a-workaround-an-enuf-album-on-a-different-group-entirely). Signed "Derek."
+[40] Archive messages page_3347/page_3348 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3378, 2006-02-22, "Bill's Database"; msgnum 3379, 2006-02-23, "Re: Bill's Database"): full text and citation at [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-2006-database-renewal-and-a-new-los-angeles-builder); suggests adding builders' e-mail addresses to Bill Serjeant's Paradox owners/builders database, with Bill's permission to poll the list's opinion; corrects his own typo ("their" for "there") the next day. Signed "Derek."
+[41] Archive message page_3359 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3390, 2006-02-26) — "Lexan": full text and citation at [boats/enuf.md](/boats/enuf.md#polycarbonate-scraps-for-electrical-enclosures-and-a-scavenged-copper-wire-source). Signed implicitly (no signoff in the message body).
+[42] Archive message page_3361 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3392, 2006-02-27) — "Compass": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#compass-choice-and-mounting). Signed "Derek."
+[43] Archive messages page_3364/page_3366/page_3369 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3395/3397/3400, 2006-02-27/2006-02-28) — "Re: Paradox max pilot weight ,height": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length). Signed "Derek."
+[44] Archive messages page_3374/page_3376 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3405, 2006-03-01, and msgnum 3407, 2006-03-02) — "Re: Paradox max pilot weight ,height": pure banter — jokes that Nels's offered $65 weight-loss program is a scam to fund a Bahamas retirement, then declines Nels's free "SPWBAS" program in kind, joking about his wife's reaction and what he'd get out of it.
+[45] Archive message page_3380 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3411, 2006-03-08) — "Compass": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#compass-choice-and-mounting); repeats his standing compass question in near-identical terms; no reply recorded.
+[46] Archive message page_3382 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3413, 2006-03-08) — "Re: Compass": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#compass-choice-and-mounting). Signed "derek."
+[47] Archive message page_3384 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3415, 2006-03-08) — "Re: Compass": full text and citation at [operations/gps-navigation.md](/operations/gps-navigation.md#compass-choice-and-mounting); would rather carry a box of GPSs than deal with celestial navigation ("smacks of sorcery"); has the older Garmin 76. Signed "Derek."
+[48] Archive message page_3385 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3416, 2006-03-09) — "Mk 2 sail": full text and citation at [design/rig.md](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper). Signed "Derek and Enuf."
+[49] Archive message page_3396 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3427, 2006-03-10) — "Re: New member": full text and citation at [boats/enuf.md](/boats/enuf.md#home-base-and-an-expected-launch-site).
+[50] Archive message page_3422 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3453, 2006-03-16) — "Re: re paradox max weight and height": full text and citation at [design/interior-bins-and-floor.md](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem).
+[51] Archive messages page_3428 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3459, 2006-03-18) — "Re: was Re: re paradox max weight and height -now plywood": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).
+[52] Archive message page_3431 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3462, 2006-03-19) — "Re: re plywood": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).
+[53] Archive message page_3440 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3471, 2006-03-20) — "Re: re plywood": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).
+[54] Archive message page_3442 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3473, 2006-03-20) — "Re: Paradox sail and spars": full text and citation at [design/rig.md](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag).
+[55] Archive message page_3448 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3479, 2006-03-21) — "Re: re plywood": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).
+[56] Archive message page_3451 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3482, 2006-03-21) — "Beginners guide to building a Paradox": full text and citation at [references/building-plans.md](/references/building-plans.md#a-community-written-beginners-guide).
+[57] Archive messages page_3454/page_3455 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3485, 2006-03-22; msgnum 3486, 2006-03-23) — "Re: Beginners guide to building a Paradox": full text and citation at [references/building-plans.md](/references/building-plans.md#a-community-written-beginners-guide); thanks John Pertalion, then posts a revision 2 after reader suggestions.
+[58] Archive message page_3556 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3587, 2006-04-12) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); points to both photo folders; reports no work for five weeks owing to a carpal tunnel operation, which still hurts.
+[59] Archive message page_3561 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3592, 2006-04-13) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); lists his own vehicle overnight-parking spots from experience in VW campers and a Land Rover. Signed "Derek."
+[60] Archive message page_3562 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3593, 2006-04-13) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); confirms the `smallsailboats` site is Bill Serjeant's, and that Bill is building a Paradox.
+[61] Archive message page_3567 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3598, 2006-04-14) — "Re: Enuf pics?": full text and citation at [boats/enuf.md](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause); agrees Don Elliott's "Smallboats" group was likely the source of William Nix's access confusion; reports adding three more "Enuf" photos to the Smallsailboats album.
+[62] Archive message page_3576 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3607, 2006-04-14) — "Re: Enuf pics?": full text and citation at [operations/secondhand-market.md](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation); doubts British conditions differ meaningfully from US/Oz/NZ; recommends *Shoal Waters*; judges a UK secondhand market for odd craft unlikely, citing a Bolger Micro that sold for a quarter of its build cost.
+[63] Archive message page_3608 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3639, 2006-04-29) — "Re: Mock up of Hatch": full text and citation at [boats/enuf.md](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position). Signed "Derek."
+[64] Archive messages page_3643/page_3648 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3674/3679, 2006-05-26) — "Enuf" (subject line garbled in transmission): full text and citation at [boats/enuf.md](/boats/enuf.md#rubbing-down-and-the-first-coat-of-pigmented-resin); finished rubbing down the hull and applied the first coat of pigmented resin. Signed "Derek."
+[65] Archive message page_3659 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3691, 2006-05-28) — "Re: 12 volt wiring": full text and citation at [operations/radio-and-electronics.md](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat). Signed "Derek."
+[66] Archive messages page_3664/page_3669 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3696/3701, 2006-06-03) — "Enuf Update"/"Re: Enuf Update": full text and citation at [boats/enuf.md](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom); posts extra photos and confirms the chine runners came out wavy and truncated owing to a sanding-disc mishap.
+[67] Archive message page_3668 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3700, 2006-06-03) — "Re: Enuf Update... Fridge.": full text and citation at [boats/enuf.md](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom); confirms the transom's plastic box is a Porta Potti, and describes his newly bought compact 335 model.
+[68] Archive message page_3676 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3708, 2006-06-12) — "Re: Starting a Paradox in Ithaca": full text and citation at [people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md); welcomes the new Ithaca builder, judges himself about two weeks from finishing and launching, and notes Bill Serjeant's amazing progress. Signed "Derek."
+[69] Archive message page_3714 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3746, 2006-07-15) — "Re: Paradox Plans": full text and citation at [references/building-plans.md](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).
+[70] Archive message page_3718 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3750, 2006-07-16) — "Re: Bulkhead 3": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).
+[71] Archive message page_3752 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3784, 2006-07-19) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood); jokes that soft-ply-core water damage is "the Lord's punishment for over indulgence in GPS's."
+[72] Archive message page_3753 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3785, 2006-07-19) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); relays Jim Michalak's own verdict that his designs are "lake boats not sea boats."
+[73] Archive message page_3763 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3795, 2006-07-20) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#list-culture); asks Ron Eike for the Frolic2 Everglades entrants' e-mail; concedes "somewhat" you can do anything in anything, but questions whether Michalak's designs are proven for long-distance, single-handed coastal cruising. Signed "Derek."
+[74] Archive message page_3773 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3805, 2006-07-21) — "Re: Plywood Choices": full text and citation at [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood); calls Jack Gardiner's opposing-seam double-layer idea "a good idea," recalling his own bent-bottom-panel nightmares, and asks whether laminated sides could use offset butt joints instead of scarfs.
+[75] Archive message page_3774 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3806, 2006-07-21) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#whether-watertribe-racing-tests-the-boat-or-the-crew); the "blow up canoe"/crews-not-boats remark that opened this sub-thread.
+[76] Archive message page_3777 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3809, 2006-07-21) — "Re: Paradox Plans": full text and citation at [references/mailing-list.md](/references/mailing-list.md#whether-watertribe-racing-tests-the-boat-or-the-crew); clarifies he, not Ron Eike, wrote the "blow up canoe" remark, meaning only that Steve "Chief" Isaac thoroughly vets WaterTribe's boats and equipment. Signed "Derek."
+[77] Archive message page_3796 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3828, 2006-08-03) — "Enuf in the water": full text and citation at [boats/enuf.md](/boats/enuf.md#launched-three-days-in-poole-harbour-and-lessons-from-the-outboard).
+[78] Archive message page_3812 (dclark52001 / Derek Clark, `paradoxbuilders`, msgnum 3844, 2006-08-11) — "Re: Tiller Shape": full text and citation at [design/rudder.md](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube); took a one-inch galvanized pipe and bent it by working it through a hole drilled through a 4x2 block until it curved enough, then cut it to length; gave it a bit more bend in a vice afterward so it would not stick in the under-deck foam at the extremes of its swing.
+[79] Archive message page_3822 (dclark52001 / Derek Clark, `paradoxbuilders`, msgnum 3854, 2006-08-13) — "Re: Tiller Shape": full text and citation at [design/rudder.md](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube); confirms he used the bent galvanized pipe itself as the finished tiller, handier and quicker than his other two options (laminating plywood strips or bending ash).
+[80] Archive message page_3849 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3881, 2006-08-19) — "Re: I started the maxi paradox today": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); has also wondered about a tabernacle; his own mast is lighter than the builder's and easily lifted in and out single-handed from the foredeck; thinks a folding mast could still suit river/Broads use with low bridges, needing only a forestay to help haul it upright; may cut his own mast that winter. Signed "Derek Clark."
+[81] Archive message page_3851 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3883, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/furling-system.md](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper); corrects his own previously-quoted Mk2 forward-creep figure from 2.5 in to 7.5 in, a typo; restates the Mk1/Mk2 tack-angle explanation; reports building a new boom from leftover mahogany. Signed "Derek."
+[82] Archive message page_3859 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3891, 2006-08-19) — "Re: I started the maxi paradox today": full text and citation at [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way); thanks Larry for the birdsmouth suggestion but questions whether it is really simple, reasoning he would need to cut up his existing mast regardless with no guarantee of a working result. Signed "Derek Clark."
+[83] Archive message page_3862 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3894, 2006-08-19) — "Re: Paradox sails": full text and citation at [design/furling-system.md](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper); answers Larry's bigger-taper question — not sure it will help, since the Mk2 sail's increased tack angle already pushes the tack-securing point back along the boom; can't work out the sums but will judge by how the rebuilt boom actually performs; expects to know by Tuesday. Signed "Derek."
+[84] Archive message page_3898 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3930, 2006-08-28) — "Re: Side Motor Mount": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim); has seen Al Law's side-mounted electric motor work well but chose a transom-mounted 2.3 hp Honda petrol motor to avoid depending on recharging, throttle extended by PVC pipe and kill switch worked by a cord, both reached through a removable rear window; gets about 7 miles per litre at 4 mph, one litre in the motor's tank plus a four-litre reserve behind bulkhead four, too close to the cooking area for his comfort; considering an external tank fed by bulb and pipe, as he believes the Bolducs do. Signed "Off sailing tomorrow :0)"
+[85] Archive message page_3914 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3946, 2006-09-03) — "Re: Tiller Rope Lock": full text and citation at [operations/self-steering.md](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother); has two pieces of plywood held together by a bolt and wingnut, one V-notched to hold the rope and the other screwed by bulkhead 3, the wingnut held off the plywood by a spring so the rope can be pulled free without undoing the nut; wasn't confident enough in it to use for long, preferring the tiller rope in one hand and mainsheet in the other, never feeling he had good control of the rudder; while motoring sat with the tiller in the small of his back, steering by shifting along the seat; noted Al Law standing up in his boat while sailing, so must have had both mainsheet and tiller rope locked off; looking at a wheel mounted to port to work the tiller through a shorter rope and pulleys or Bowden cable.
+[86] Archive message page_3959 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3959, 2006-09-05) — "Re: Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); asks whether it would be worth carrying a spare throttle cable.
+[87] Archive message page_3931 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3963, 2006-09-06) — "Re: Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record); notes motorcycle throttle cables of similar construction do occasionally break or shed a nipple, and describes the string-and-piano-wire workaround.
+[88] Archive message page_3934 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3966, 2006-09-07) — "Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale); offers "Enuf" for sale, citing hypoglycemic episodes brought on by the exertion of sailing.
+[89] Archive messages page_3942/page_3943 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3975/3976, 2006-09-09) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating); gives a fuller diabetes account to Niels and reports buying a small motor cruiser to restore in Enuf's place; tells Jeff UK he feels at peace with the decision and enjoyed both the build and Poole Harbour itself.
+[90] Archive message page_3955 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3988, 2006-09-13) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#the-sale-completes-and-a-honda-outboard-power-microcruiser-idea); reports "Enuf" sold "more or less immediately" and departs for Norway via Norfolk that Saturday; his new motor cruiser is delivered that afternoon.
+[91] Archive message page_3955 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3988, 2006-09-13) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#the-sale-completes-and-a-honda-outboard-power-microcruiser-idea); floats a 14 ft by 4-4.5 ft Honda 2/2.3 hp outboard-powered "power microcruiser" design idea, pitched to Jim Michalak, Paul Fisher, and John Welsford.
+[92] Archive message page_3957 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3990, 2006-09-16) — "Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); announces he is leaving the group after about 30 months, timed to "Enuf"'s departure for Trondheim and a scheduled operation he hopes may cure his diabetes; thanks the list, naming Al Law, Dave Bolduc, David Beard, and Don Elliot.
+[93] Archive message page_3958 (apcf14 / "roverticket" / Jeff UK, `paradoxbuilders`, msgnum 3991, 2006-09-16) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); objects that Derek's new motor cruiser is itself a microcruiser and tells him to drop "this leaving crap."
+[94] Archive message page_3959 (herrons / "liam_lund_macdonald" / "SH", `paradoxbuilders`, msgnum 3992, 2006-09-16) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); a first-time correspondent argues against burning bridges over a health setback.
+[95] Archive message page_3960 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 3993, 2006-09-16) — "Re: Goodbye - YEAH": full text and citation at [people/jack-gardiner.md](/people/jack-gardiner.md#urging-derek-clark-not-to-leave-the-list); urges Derek not to sell himself short or burn bridges, valuing the security of a sail over pure motor power.
+[96] Archive message page_3961 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3994, 2006-09-16) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); a short plea to stay in touch even if Derek must leave the group.
+[97] Archive message page_3962 ("WENCESLAO RAFOL, JR" / `lqqtbank`, `paradoxbuilders`, msgnum 3995, 2006-09-16) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); a health-first decision needs no defense; takes his own sailing pleasure from reading others' logs online.
+[98] Archive message page_3964 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3998, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); argues Derek has a duty to keep lurking and offering advice as a build veteran rather than leave outright.
+[99] Archive message page_3968 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4002, 2006-09-17) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); apologizes to Jack Gardiner for the oversight in his thank-you list; clarifies he accepted a buyer's offer before hearing about the possible operation cure, so does not consider the sale premature.
+[100] Archive message page_3969 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4003, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); thanks David Beard, notes his e-mail is posted on Bill Serjeant's website.
+[101] Archive message page_3970 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4004, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); tells Wenceslao Rafol, Jr. he may reconsider, joking that Frank Sinatra "left about 47 times."
+[102] Archive message page_3967 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 4001, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); replies to Jeff UK's quoted question that the new boat is a microcruiser by his own definition too, but "this is the Paradoxbuilders group Jeff?"
+[103] Archive messages page_3971/page_3972 (dclark / "dclark52001" / Derek Clark and apcf14 / "roverticket" / Jeff UK, `paradoxbuilders`, msgnum 4005/4006, 2006-09-17) — "Re: Goodbye - YEAH" / "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); Derek confirms to SH he is not actually leaving; Jeff UK presses the 753-member/microcruiser argument further and welcomes him "back from the brink."
+[104] Archive message page_3977 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 4011, 2006-09-18) — "Re: Goodbye - YEAH": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts) and [people/jack-gardiner.md](/people/jack-gardiner.md#urging-derek-clark-not-to-leave-the-list); recounts driving his truck over his own Paradox's rudder on a beach and rebuilding it; argues Derek is still a Paradox builder regardless of ownership.

@@ -328,6 +328,140 @@ thread rather than the scaling question itself.
 Pete Hodges's 10%-scale "Paradox 1.1," begun in January 2002, remains the
 closest the archive comes to a completed stretched build.
 
+## A builder's 18-19 ft "maxi paradox," under way
+
+A more ambitious scale-up was actually begun in August 2006, when a North
+Idaho builder took delivery of most of his plywood and started a Paradox
+enlarged to **18 ft, possibly 19 ft** — the largest scale-up the archive
+records a builder committing wood to, well beyond the ±10% comfort zone and
+into the 25-35% enlargement range where the boat effectively becomes a new
+design. His stated model was the **"ultimate cruiser?"** concept sketch
+bundled with the Paradox plans and posted in the `paradoxbuilders` file area.
+Planned modifications went beyond a simple stretch: a **top deck styled more
+like the [BRIS Paradox](/boats/bris-paradox.md)'s**, a small **external
+cockpit aft of the doghouse**, terminating the **mast on the top deck with
+"Little Cruiser"-type mast braces** (rather than passing it through to the
+hull bottom), and a **folding, tabernacle-stepped mast** dropping between
+posts. Freeing the cabin sole of the mast step opened room for a **6.5 ft
+double berth forward** plus ~5.5 ft aft for seating, table, galley, and head,
+with a **hatch over the forward berth** for ventilation and anchor access. He
+was building a **9.5 ft pram sailboat first** as building-and-sailing
+practice (having not sailed in 20-plus years), and a **balsa scale mockup**
+to visualize the final shape, expecting the basic hull over the following
+winter and water time by 2008.[72]
+
+Two design responses followed. Applying the boat's own younger sibling as
+precedent, one builder suggested **veeing the bottom panel forward of
+midships, as on [Enigma](/matt-layden/enigma.md)**, to shed a few hundred
+pounds of displacement on the larger hull.[73] The other flagged the
+**tabernacle mast** as the scheme's real engineering risk: a folding mast
+step is not easy to design and brace against sail loads, since the mast
+structure is essentially what drives the boat — a caution paired with a
+request for the planned sail type and area.[74]
+
+The builder answered that he planned to use a **lug sail**, though without
+much personal sailing background beyond reading about the traditional lug,
+and needed a method for sizing the mast's width and length and the sail's
+area — a question left open for the following winter's work, since it would
+not need answering until the top deck went on.[75]
+
+On the tabernacle-mast question, a separate builder offered a direct
+comparison from his own boat: his mast is light enough to **lift in and out
+single-handed while standing on the foredeck**, needing no folding
+tabernacle at all — but judged that for **river and canal use with low
+bridges**, a folding mast could still be worthwhile, needing only a
+**forestay** added to the rigging to help haul it upright.[76]
+
+A third builder's response raised the trade-off a folding tabernacle avoids:
+raising a mast by hand needs the forestay to gain enough leverage once the
+mast is high enough, or else a vertical strut braced to the horizontal mast
+to manage the geometry the way larger masts are raised — mechanically
+awkward enough that building a **lighter mast in the first place** (proposed:
+hollow **birdsmouth** construction) was offered as the simpler alternative to
+solving the tabernacle problem at all.[78] The builder actually doing the
+enlarged build was unpersuaded: birdsmouth construction is not simple, and
+committing to it would mean cutting up the mast he already had on hand with
+no guarantee of a working result, leaving him needing to build a replacement
+from scratch either way if it failed.[79]
+
+The birdsmouth proposal came with a worked construction method: eight
+staves, cut on a table saw with each edge beveled to the correct angle so
+they glue up into a hollow octagonal (or, by making two opposing staves
+wider than the rest, oblong) spar, sized by two simple ratios — **stave
+width = desired diameter ÷ 2.5**, **stave thickness = desired diameter ÷
+5**. For a boom-sized spar, 15 x 30 mm staves come out close to right.
+Tapering the spar toward one end is done by reducing stave width by about
+1/8 of the reduction in circumference, close enough that final planing and
+sanding takes care of the rest; a boom benefits from a stave thickness cut
+about 20% thinner than a mast's, left mostly octagonal rather than rounded
+off, though the resulting spar then ends up correspondingly smaller and
+that reduction has to be allowed for in the target diameter. The hardest
+part, by the same builder's own account building one, was shaping the solid
+plugs glued into each end for fittings — fitting all eight sides at once
+proved difficult enough that on one mast he resorted to sawing it in half
+lengthwise, fitting the plugs as two half-sections, and gluing the halves
+back together, before later attempts got easier with practice.[80] A
+follow-up correction caught the builder's own initial claim that a bigger
+taper would need a bigger width/thickness ratio: working it through in a
+CAD program instead confirmed that **reducing the stave thickness by a
+fixed 20% leaves the width-to-diameter ratio unchanged**, regardless of the
+taper — the ratio only depends on the target diameter, not on how much the
+spar is thinned.[82]
+
+The mast/sail-sizing question was then answered directly: design the
+**mast first**, to fit inside the enlarged hull, then **scale up the Mk2
+sail** to match (expecting the sail to need slight reduction once drawn),
+using the **stock Paradox sail plan as a guide for the sail's lead** — a
+figure previously worked out at **just under 10%**.[77] See [rig and
+sail](/design/rig.md) for the stock sail's own dimensions and lead.
+
+This same builder had, a week earlier, floated the opposite idea — a
+*scaled-down* single-sheet "mini" Paradox as a quick way onto the water — before
+committing to the enlarged build instead; see [a scaled-down "mini" Paradox
+(speculative)](/design/variants/scaled-down-idea.md). He is a below-threshold,
+unconfirmed-identity 2006 correspondent tracked in the project backlog against
+the established Sandpoint, Idaho owner of
+[boats/curtis-paradox.md](/boats/curtis-paradox.md) — same name and lake, but
+kept separate pending corroboration; his enlarged build had no boat name on
+record as of this thread.
+
+He weighed the tabernacle question himself once the term was explained to
+him: terminating the mast on deck, to gain all the space it would otherwise
+take up below, was his own first choice, with a folding tabernacle only a
+fallback if he judged he could learn the engineering and get away with it
+safely — uncertain, given the increase in size over a stock Paradox, whether
+he should even be stepping a fully rigged mast through the hull at all, and
+turning to a stack of boatbuilding and sailing books borrowed from the
+library to work through the question before committing either way.[81]
+
+He accepted the veed-bottom suggestion, planning to build the enlarged bottom
+panel in **two bonded layers** rather than handle a single 19 ft sheet of
+plywood by hand, but otherwise chose to keep the stock Paradox lower hull
+unmodified apart from its size — reasoning that, as a complete amateur
+boatbuilder, he preferred not to compound an already-large scale-up with
+further hull-shape changes. He separately said he would like to build an
+[Enigma](/matt-layden/enigma.md)-type boat as well, but judged the hull
+design beyond his own ability to work out from scratch.[83]
+
+A further design suggestion came for the enlarged hull's windward
+performance: a **narrow dagger board**, whose case would double as
+structural support for the deck or cabin roof, positioned so that the
+**center of lateral resistance is the same whether the board is up or
+down** — placing it, by that rule, close to midships.[84] Pointing to the
+WaterTribe Ultimate Florida Challenge video already on record of Enigma
+sailing to windward "quite respectably" in choppy water despite her lug rig
+(see [Enigma](/matt-layden/enigma.md#racing-history-and-change-of-ownership)),
+one correspondent questioned whether a centreboard was worth the added
+complexity at all, given the performance a chine-runner hull can already
+deliver upwind.[85]
+
+The same builder discussed his enlarged hull's design choices further with
+another correspondent building an independent, non-Paradox derivative (see
+[Paul V. — the "Whaleback" derivative
+resurfaces](/people/paul-v.md#contributions-and-stories)), confirming in the
+exchange that his own plan remained a Paradox enlarged by roughly a third
+with a chubbier top deck, somewhat like the [BRIS Paradox](/boats/bris-paradox.md).[86]
+
 ## No official larger plans exist
 
 No larger-than-14ft Paradox plan set has ever been published — a question
@@ -533,7 +667,12 @@ stop being "in harmony" and a builder is really designing a new boat:
 
 - **"Big Paradox"** — the already-circulated larger-Paradox lines (see
   above), giving a boat closer in feel to [Little
-  Cruiser](/matt-layden/little-cruiser.md), suited to two people.
+  Cruiser](/matt-layden/little-cruiser.md), suited to two people. A
+  correspondent who had met Stephen Ladd and judged himself too large for
+  Ladd's own boat independently proposed the same idea again in early 2006,
+  suggesting roughly 20% larger; see [crew size and fit — pilot weight,
+  height, and stability at stock
+  length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).[71]
 - **"Stretch Paradox"** — lengthen only, by spreading out the station
   spacing uniformly, keeping the sail plan, mast, and fittings close to
   stock. A longer waterline drives more easily under the existing rig
@@ -585,7 +724,9 @@ Following a renewed call to enlarge Paradox by 20% (see
 voice for building a whole Paradox hull in steel (see
 [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md)) —
 floated building his next, larger "ultimate cruiser" in steel, undecided
-between a **16 ft and a 19 ft** hull.[63]
+between a **16 ft and a 19 ft** hull.[63] Over a year later he had settled on
+the smaller of the two: specifically a **16 ft version in corten steel**,
+which he judged renders most other steel-construction objections moot.[70]
 
 The enlargement idea itself found support — carrying Matt Layden's
 "apparent, tacit blessing," given how freely the designer's own scaling rule
@@ -695,7 +836,7 @@ rig types depending on a builder's own interest.[69]
 [53] Archive message page_1487 (arvent / "Nels", `paradoxbuilders`, msgnum 1507, 2003-12-09) — "Re: scaling the boat": welcomes Fredrik; points to the "Larger Paradox" files folder, which gives figures for a 20% increase and records that Matt Layden feels it would work fine; points to other folders on materials and to links-section resources; building time depends on skill/time/tools/space, finishing typically takes as long as building, most builders take about a year part-time; cost depends heavily on location; recommends contacting local builders, naming Norway, Denmark, and Sweden as countries with builders working in plywood and epoxy; asks what part of Norway Fredrik is from and whether he is near Oslo, recalling a fellow there who built a 25 ft schooner and used to post to the group.
 [54] Archive message page_1489 (arvent / "Nels", `paradoxbuilders`, msgnum 1509, 2003-12-10) — "Re: scaling the boat": "I sent you some information direct to your email address."
 [55] Archive message page_1841 (jasonstancil / "smithriverranger" / Jason Stancil, `paradoxbuilders`, msgnum 1864, 2004-01-21) — "enlarged paradox?": has been considering a build for two years; asks whether anyone has actually built or begun a scaled-up Paradox, and whether a straight 20% (1.2×) dimension multiplication is really as simple as it sounds; at 6'2" tall, worries about being cramped in the stock 14-footer.
-[56] Archive message page_1842 (kd7ixk / "DC", `paradoxbuilders`, msgnum 1865, 2004-01-21) — "Re: enlarged paradox?": at 6'1", 225 lb, has plenty of room in the as-designed interior; points Jason to Glen Maxwell's larger-Paradox numbers already posted in the files section.
+[56] Archive message page_1842 (kd7ixk / David C. Smith, `paradoxbuilders`, msgnum 1865, 2004-01-21) — "Re: enlarged paradox?": at 6'1", 225 lb, has plenty of room in the as-designed interior; points Jason to Glen Maxwell's larger-Paradox numbers already posted in the files section.
 [57] Archive message page_1844 (arvent / "Nels", `paradoxbuilders`, msgnum 1867, 2004-01-22) — "Re: enlarged paradox?": about 5 in shorter than Jason, shares some of his reservations; recalls Glen's article describing a visitor who had to be talked to in the rain since there was no room to invite him aboard with the hatch closed — not a problem in Florida but relevant living mostly in Canada; quotes Andrew Graham's "Zero" cruise report that humid weather made two-up cruising uncomfortable; concludes a larger boat would offer more two-up possibilities without much added investment, while stressing the design itself "cannot be improved for what it was designed to do."
 [58] Archive message page_1845 (LJGeib / "Larry", `paradoxbuilders`, msgnum 1868, 2004-01-21) — "Re: enlarged paradox?": names and describes three stretch methods, cautioning against more than about a 10% enlargement for any of them — "Big Paradox" (the already-circulated larger lines, closer in feel to Little Cruiser, a nice 2-person boat), "Stretch Paradox" (lengthen only, spreading the stations, keeping the standard sail plan/mast/fittings, easier to drive on the longer waterline except possibly in light air, faster in moderate/heavy air, displacement growing linearly), and "Pug Paradox" (a non-uniform stretch concentrated amidships, in inch ratios such as 1:2:3:3:2:1, 1:2:4:2:1, or 1:4:2:4:2:4:1, a technique from Eric Schrade's kayak-building book, giving a bigger cabin in a shorter length with performance between the standard and stretched versions); the "Pug" name is a misnomer coined by a friend to annoy him.
 [59] Archive message page_1964 (paull01 / "paull01" / Paul, Seattle WA, `paradoxbuilders`, msgnum 1987, 2004-03-15) — "Lines Comparison": has traced the lines of Paradox, Little Cruiser, and Bolger's Jessie Cooper, uploaded to the "Larger Paradox" files folder; finds Jessie Cooper's lines similar to both Layden designs; at 25 ft, wonders how such a hull would sail with chine runners, noting Bolger's own complaint of a centerboard jamming in thin water; floats a centerboard off to one side of the walkway, as sketched among Matt Layden's own concepts for a bigger cruiser, as a possible alternative.
@@ -709,3 +850,20 @@ rig types depending on a builder's own interest.[69]
 [67] Archive message page_2891 (reppeto / "ldjonerik" / Paul Reppeto, `paradoxbuilders`, msgnum 2922, 2005-07-04) — "Re: New file uploaded to paradoxbuilders": "I just wanna see more work on a 17' foot Paradox or KS2." Signed "Paulr."
 [68] Archive message page_2897 (frogpondoflakeanna / "Dan", `paradoxbuilders`, msgnum 2928, 2005-07-07) — "Re: New file uploaded to paradoxbuilders": a 17 ft Paradox sounds like exactly what he had been aiming for, though he judges himself not clever enough to adapt the stock 13'10" plans himself and expects he "would probably kill myself before my feet got dry at sea-trials"; asks that progress be shared with the group as it develops. Signed "Dan."
 [69] Archive message page_2903 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, msgnum 2934, 2005-07-15) — "17' KSDuo design images posted": full technical announcement of the KSDuo/KSDuoX design — photos posted to the "Paradox Builders 2" Yahoo group's files section under "17'KSDuo"; 17 ft LOA, 66 in beam overall, 2,300 lb design displacement, strip-built in Western Red Cedar (or suitable available wood) with epoxy/glass laminate both sides; raised pop-top main hatch, 3-degree aft-angled self-draining cockpit deck, aft compartment for a 5 hp outboard/fuel/anchor, folding solar-cell side windows over screened ventilation, enclosed dodger/bimini/side-panel option, cable-actuated remote-wing tiller, 2-degree toe-in bilge keels for low draft and upright drying-out, flip-up bungee-tensioned rudder, molded-in scuppered toe rails, watertight foam-crush-zone bow anchor compartment, and a carbon-fiber-sparred gaff yawl rig balanced for full or reefed combinations. Invites comment from the group. Signed "Chris Ostlind."
+[70] Archive message page_3289 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3320, 2006-01-24) — "Re: Paradox questions": has been considering building the 16 ft version, possibly in corten steel specifically, which renders most other steel-construction objections moot; sails his own stock 14 ft boat 2-up, "cramped, but doable"; recommends a newcomer build to "the pinacle of matts building sailing," the design as Matt Layden himself judged safest and best suited. Signed "Jack."
+[71] Archive message page_3368 (reppeto / "ldjonerik" / Paul Reppeto, `paradoxbuilders`, msgnum 3399, 2006-02-27) — "Re: Paradox max pilot weight ,height": full text and citation at [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length); at 6'1"/250 lb, wonders if this is a chance to encourage a "Big Paradox," 20% larger. Signed "Paul."
+[72] Archive message page_3833 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`/`microcruising`, msgnum 3865, 2006-08-18) — "I started the maxi paradox today": received most of his build plywood and started work toward an 18 ft (possibly 19 ft) enlarged Paradox based on the plans' "ultimate cruiser?" concept; modifications include a BRIS-style top deck, a small external cockpit aft of the doghouse, a mast terminated on the top deck with Little-Cruiser-type braces and folding between posts (a tabernacle), a 6.5 ft forward double berth freed by moving the mast step, ~5.5 ft of aft accommodation, and a hatch over the forward berth; building a 9.5 ft pram first as practice (not having sailed in 20-plus years) and a balsa mockup to visualize the shape; expects the basic hull over winter and water time by 2008; will post pictures. Signs "Chris Curtis, Sandpoint Computers" with two phone numbers. This correspondent is the below-threshold, unconfirmed-identity 2006 "Chris Curtis" tracked in the project backlog against the established Sandpoint, Idaho Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md); not merged here.
+[73] Archive message page_3834 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3866, 2006-08-19) — "Re: I started the maxi paradox today": if the drawings are not yet finalized, suggests veeing the bottom panel forward of midships like Enigma to save a few hundred pounds of displacement. Signed "Jeff UK."
+[74] Archive message page_3840 (arvent / "Nels", `paradoxbuilders`, msgnum 3872, 2006-08-19) — "Re: I started the maxi paradox today": names the folding-mast arrangement a "tabernacle" and cautions such a step is not easy to design and brace for positive stoutness against sail loads, the mast structure being what drives the boat; asks what sail type and area are planned. Signed "Nels."
+[75] Archive message page_3842 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3874, 2006-08-19) — "Re: I started the maxi paradox today": plans to use a lug sail, though without much personal sailing background beyond reading about the traditional lug; needs to figure out the mast's width and length and the sail's area, and asks for hints or formulas; expects time to work it out before the top deck goes on. Signs "Chris Curtis / Sandpoint Computers" with two phone numbers, matching his batch 373/377/383 signature. Same below-threshold, unconfirmed-identity flag as noted elsewhere on this page against the established Sandpoint, Idaho Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md).
+[76] Archive message page_3849 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3881, 2006-08-19) — "Re: I started the maxi paradox today": has also been wondering about a tabernacle; his own mast is lighter than the builder's and he can easily lift it in and out single-handed while standing on the foredeck; thinks a folding mast could still be worthwhile for river and Broads use with low bridges, needing only a forestay added to help haul it upright; may cut his own mast that winter. Signed "Derek Clark."
+[77] Archive message page_3850 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3882, 2006-08-19) — "Re: I started the maxi paradox today": answers Chris Curtis's mast/sail-sizing question — design the mast first to fit inside the boat, then scale the Mk2 sail up to match (expecting to reduce it slightly once drawn), using the stock Paradox sail plan as a guide for the sail's lead; recalls a past calculation putting the lead at just under 10%. Signed "Jeff UK."
+[78] Archive message page_3852 (LJGeib / "lorenzojose2000" / Larry, `paradoxbuilders`, msgnum 3884, 2006-08-19) — "Re: I started the maxi paradox today": on Derek Clark's tabernacle musing, notes raising a mast by hand needs the forestay to gain leverage once the mast is high enough, or else a strut vertical when the mast is horizontal to manage the vectors, as larger masts are raised; asks why not simply build a lighter mast that can be lifted by hand, suggesting birdsmouth hollow construction as simpler. Signed "Larry."
+[79] Archive message page_3859 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3891, 2006-08-19) — "Re: I started the maxi paradox today": thanks Larry, but questions whether birdsmouth hollow construction is really simple; reasons that attempting it would mean cutting up his existing mast regardless, and if it didn't work he would need to build a new one anyway. Signed "Derek Clark."
+[80] Archive message page_3865 (LJGeib / "lorenzojose2000" / Larry, `paradoxbuilders`, msgnum 3897, 2006-08-19) — "Re: I started the maxi paradox today": full construction method for a birdsmouth hollow spar — 8 staves, table-saw-cut, glued into an octagonal (or, with two wider opposing staves, oblong) section; stave width = diameter/2.5, stave thickness = diameter/5; for a boom, 15 x 30 mm staves; tapering by reducing stave width ~1/8 of the circumference reduction, finished with planing/sanding; boom stave thickness cut ~20% thinner than a mast's and left mostly octagonal, with the resulting spar correspondingly smaller so the target diameter must allow for it; the hardest part was the end plugs for fittings — on one mast, resorted to sawing it lengthwise, fitting half-plugs, and gluing it back together; a linked how-to page (`users2.ev1.net/~fshagan/bm.htm`) is also given. Signed "Larry."
+[81] Archive message page_3869 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3901, 2006-08-19) — "Re: I started the maxi paradox today": just learned the term "tabernacle" that morning; his own first choice is to terminate the mast on deck to gain all the below-deck space, with a folding tabernacle only a fallback if he judges he can learn the engineering safely; uncertain, given the increase in size, whether he should even be stepping a fully rigged mast through the hull at all; came back from the library with ten books on boatbuilding and sailing. Signed "Chris Curtis, Sandpoint Computers."
+[82] Archive message page_3870 (LJGeib / "lorenzojose2000" / Larry Geib, `paradoxbuilders`, msgnum 3902, 2006-08-19) — "Re: I started the maxi paradox today": self-correction — realized immediately after sending [80] that the claim was wrong; reducing stave thickness by a fixed 20% leaves the stave-width-to-diameter ratio unchanged regardless of taper, confirmed by drawing it up in a CAD program (width=1/thickness=.5/diameter=2.5 vs. width=1/thickness=.4/diameter=2.5). Signed "Larry."
+[83] Archive message page_3871 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3903, 2006-08-19) — "Re: I started the maxi paradox today": accepts the veed-bottom suggestion; plans to build the enlarged bottom in two layers rather than manhandle a single 19 ft sheet of plywood; will otherwise stick with the stock Paradox lower hull unmodified apart from size, citing his own complete-amateur status; would love to build an Enigma-type boat too, but lacks the skill to work out its hull on his own. Signed "Chris Curtis."
+[84] Archive message page_3878 ("Niels" / "sailzafu", `paradoxbuilders`, msgnum 3910, 2006-08-21) — "Re: I started the maxi paradox today": suggests a simple narrow dagger board for the extra length, whose case would also help support the deck or cabin roof, then asks how far back from the mast to place it. Signed "Niels." A brand-new correspondent, distinct from the established "Nels" (`arvent`/`recree8`) — different handle, different Yahoo `u=` (256251358), signs "Niels."
+[85] Archive message page_3880 (apcf14 / "roverticket" / "Jeff" / "Jeff UK", `paradoxbuilders`, msgnum 3912, 2006-08-21) — "Re: I started the maxi paradox today": answers Niels — place the board so the center of lateral resistance is the same whether it is up or down, guessing this puts it near midships; points to the WaterTribe Ultimate Florida Challenge video of Enigma sailing to windward "quite respectably" in choppy water with a lug rig, and asks whether a centreboard is really worth the extra hassle given that performance. Signed "Jeff UK."
+[86] Archive message page_3900 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3932, 2006-08-28) — "Re: Whaleback, Paradox derivative": full text and citation at [people/paul-v.md](/people/paul-v.md#contributions-and-stories); asks Paul V. why his "Whaleback" derivative's sides are flatter than Paradox's and why he did not simply build a larger Paradox, not advocating either but learning from the comparison; confirms his own plan remains a Paradox enlarged by roughly a third with a chubbier top deck, somewhat like the BRIS Paradox. Signed "Chris Curtis, Sandpoint Computers."

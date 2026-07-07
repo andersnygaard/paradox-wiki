@@ -1,5 +1,6034 @@
 # Bundle Update Log
 
+## 2026-07-07 (batch 400: page_3991-page_4000)
+
+This batch covers ten messages spanning **4-6 October 2006**, continuing
+directly from batch 399. Msgnum run 4025-4026-4027-4028-4029-4030-4031-
+4032-4033-4034 is distinct and consecutive, continuing directly from batch
+399's last msgnum, 4024 — no new archive gap this batch. The standing gaps
+(2122/2190/2229/2385/2611/2614/2753/3682/3969/3996) are unchanged; ten gaps
+remain on record in total. All ten source `.eml` byte sizes matched the
+dispatch table exactly (2937/2028/2620/3497/2367/2372/2490/1594/1638/2136
+for page_3991 through page_4000), confirmed via direct `wc -c` and
+`X-Yahoo-Msgnum` header read before any content read — all ten msgnums
+distinct, no same-size pair, stale-read risk ruled out.
+
+The batch closes out the "Haliyard and Reef lines" thread and opens two
+short new ones. Alastair confirmed he does not drink his own ballast water
+either (batch 399 carried his first reply; this batch's follow-up settles
+Bill Serjeant's own water-dispensing plan via a side-locker container).
+Jim Hall suggested old car batteries as a free UK source of scrap lead —
+garages there must pay to dispose of them — with a caution about the
+hazard of breaking one open; Stephen Yahn declined, since his own local
+recycling center now takes batteries and scrap metal for free ahead of
+reselling it to industrial recyclers, removing any reward for the risk.
+Written into a new "Sourcing lead cheaply, and why scrap has largely
+replaced it" section on `design/weight-and-ballast.md` (cites [149]-[150]),
+cross-linked from `people/stephen-yahn.md` (cites [28]-[29]).
+
+Bill Serjeant asked Alastair how sensitive Paradox's fore-and-aft trim
+really is; Alastair's answer added a new data point to "Little Jim"'s
+known tacking quirk (occasionally sticking head-to-wind or failing to come
+about) — trim experimentation mostly resolved it, though he allows it may
+partly be his own developing technique; every other point of sail is
+trim-insensitive, and gybing stays consistently benign. Folded into the
+existing "Sudden, total loss of rudder effect mid-tack, and tacking
+technique" section on `design/rudder.md` (cite [71]), cross-linked from
+`people/alastair.md` (cites [339]-[341]) and a new "A trim question, and
+Little Jim's tacking quirk" section on `people/bill-serjeant.md`
+(cites [113]-[115]).
+
+Bill Serjeant posted a further round of "Faith" build photographs (the
+number 2 deck beam and mooring-cleat backing blocks fitted); Stephen Yahn
+complimented the work, and Bill asked in turn how "Ironsides" was coming
+along. Written into a new "Build progress photographs, and comparing
+notes with another builder" section on `people/bill-serjeant.md`
+(cites [116]-[118]) and a new "Comparing build progress with Bill
+Serjeant" section on `people/stephen-yahn.md` (cites [30]-[31]).
+
+Five files touched in total: `design/weight-and-ballast.md` (new section,
+cites [149]-[150], count 152/150==numeric max up from 150/148, the
+documented `[53a]`/`[53b]` +2 gap preserved), `design/rudder.md` (extended
+existing section, cite [71], count 71/71==max up from 70/70),
+`people/bill-serjeant.md` (two new sections, cites [113]-[118], count
+118/118==max up from 112/112), `people/alastair.md` (new bullet, cites
+[339]-[341], count 341/341==max up from 338/338), `people/stephen-yahn.md`
+(two new sections, cites [28]-[31], count 31/31==max up from 27/27). No
+new pages created. `matt-layden/biography.md` frozen and untouched — no
+Matt Layden content this batch. Anchor checker (both `anchorcheck.js` and
+`anchorcheck2.js`) run clean: 0 broken across 3,165 anchors, up from 3,153
+at the end of batch 399.
+
+## 2026-07-07 (batch 399: page_3981-page_3990)
+
+This batch covers ten messages spanning **24 September - 4 October 2006**,
+continuing directly from batch 398. Msgnum run
+4015-4016-4017-4018-4019-4020-4021-4022-4023-4024 is distinct and
+consecutive, continuing directly from batch 398's last msgnum, 4014 — no
+new archive gap this batch. The standing gaps
+(2122/2190/2229/2385/2611/2614/2753/3682/3969/3996) are unchanged; ten gaps
+remain on record in total. All ten source `.eml` byte sizes matched the
+dispatch table exactly (1959/2098/2666/2541/3302/1654/3049/3358/2695/4051
+for page_3981 through page_3990), confirmed via direct `wc -c` and
+`X-Yahoo-Msgnum` header read before any content read — all ten msgnums
+distinct, no same-size pair, stale-read risk ruled out. The flagged large
+file, page_3990 (4051 bytes), was confirmed as a single archive message —
+Bill Serjeant's Outlook-style reply quoting Stephen Yahn's and Alastair's
+prior messages in full beneath his own new floorboard/locker-access
+technique — pruned to its genuinely new content with no loss.
+
+Five messages (page_3981-3985) close out the "Ballast access"/"Top to
+water ballast tank" thread opened at the end of batch 398. Alastair
+answered Bill Serjeant's tank-top fixing question with a
+thickened-glue-and-hand-fillet technique through the access hatches, which
+has kept the tank tops themselves leak-free (unlike the inspection
+hatches) — written into a new "Fixing the tank tops in place" answer on
+`construction/water-tank-lining.md` (cites [38]-[39], also correcting the
+prior "no reply is on record" note now that batch 399 supplies the
+answer). On ballast access, Bill filled in his own fastening arrangement
+(wooden retaining pieces bolted into a floor block and the chine log) and
+proposed a removable plank where a fixed flap had been hiding the access
+bolts; Alastair's counter-suggestion of small access holes was rejected in
+turn (still hard to reach, and would cover the ballast tank's jubilee-clip
+plumbing joint); Bill settled on building the tank top's sides as separate
+removable "planks" — written into `design/weight-and-ballast.md`'s
+existing "Reaching the ballast fastenings after the floors are in" section
+(cites [146]-[148]), with cross-linked additions on
+`people/bill-serjeant.md` (cites [108]-[111]) and `people/alastair.md`
+(cites [335]-[336]).
+
+The remaining five messages (page_3986-3990) are a new, fully
+self-contained "Haliyard and Reef lines" thread: Stephen Yahn proposed a
+winch-style dead drum for extra line drag, by analogy with a big-boat
+winch and Matt Layden's own foot-drag furling technique; Alastair judged
+it unnecessary (Matt needs his foot on both lines regardless, since he
+fits no topping lift) and, in passing, named his own two genuinely
+successful stock-plan departures (a hatch window, and split underfloor
+locker lids); Stephen thanked him, decided to split his own floor hatches,
+ruled out drinking his own ballast water after his wife's epoxy-tank
+objection, and reported retail lead's rising cost was pushing him toward
+scrap steel; Alastair separately detailed his own ballast-water practice
+(tank slime found the first season, now filled via bilge pump from
+whatever water he is floating in); and Bill Serjeant closed the thread
+with his own removable-floorboard technique — aft floorboards supported on
+removable bin-side under-flaps so either side lifts and slides forward for
+full storage access, plus removable "plank" side-flaps for forward
+ballast access, echoing his own tank-top solution above. Written into a
+new "Why Matt Layden's foot-drag furling method needs no extra hardware"
+section on `design/rig.md` (cites [257]-[258]), extensions to
+`people/stephen-yahn.md` (cites [25]-[27]) and `people/alastair.md` (cites
+[337]-[338]), a light extension to the existing tank-water-quality passage
+on `construction/water-tank-lining.md` (cite [39], the same citation as the
+tank-top answer above, since both facts came in Alastair's same two
+messages), a new "A removable-floorboard technique for full storage and
+ballast access" section on `design/interior-bins-and-floor.md` (cite [35]),
+and a new "A removable-floorboard technique for full storage and ballast
+access" section on `people/bill-serjeant.md` (cite [112]).
+
+Citation counts verified count==numeric-max (respecting documented
+pre-existing gaps) both before and after edits:
+`construction/water-tank-lining.md` 39/39 (up from 37/37),
+`design/weight-and-ballast.md` 150 entries/max 148 (up from 147/145,
+`[53a]`/`[53b]` +2 gap preserved), `people/bill-serjeant.md` 112/112 (up
+from 107/107), `people/alastair.md` 338/338 (up from 334/334),
+`design/rig.md` 260 entries/max 258 (up from 258/256, `[7a]`/`[7b]` +2 gap
+preserved), `people/stephen-yahn.md` 27/27 (up from 24/24),
+`design/interior-bins-and-floor.md` 35/35 (up from 34/34). No duplicate
+citation numbers found in any touched file. Both anchor checkers
+(`anchorcheck.js` and `anchorcheck2.js`) ran clean: 0 broken across 3,153
+anchors, up from 3,125 at the end of batch 398.
+
+Correspondents this batch: Alastair (`openboat`/`alopenboat`, u=275164091,
+the documented outlier value, corroborated by signature "Al, Yeovil,
+England" — 4 messages), Bill Serjeant (`william`/`barnacleid`, u=186923448,
+signing "Bill" — 4 messages), and Stephen Yahn (`yahns`/`yahn101a`,
+u=207571043, signing "Steve Yahn" — 2 messages). No David Beard/LeBlanc,
+Jack Gardiner/mat_man22, three-Larrys, Bill-name-collision, or Niels/Nels
+conflation risk this batch — none of those correspondents appeared. No
+Matt Layden content this batch beyond a routine reference to his own
+established foot-drag furling technique (already documented on
+`design/rig.md`); `matt-layden/biography.md` frozen and untouched.
+
+Backlog: no currently Open item's trigger condition was met this batch
+(none of the tracked below-threshold/unconfirmed-identity correspondents —
+Jeff UK, botebilder/Ernie Fossel, UK-newcomer Larry, Jason Stancil,
+chalcid_1, Dave Wright, John Larson, Martin/Feaviour, West/westburke, ken
+pagans, Wayne/William Nix, David Platten, Mats Blomstrand, John Pertalion —
+authored a message this batch); a "Batch 399 correspondent + gap check"
+section appended recording the msgnum run and attribution checks. No new
+archive gap this batch.
+
+## 2026-07-07 (batch 398: page_3971-page_3980)
+
+This batch covers ten messages spanning **17-24 September 2006**, continuing
+directly from batch 397. Msgnum run 4005-4006-4007-4008-4009-4010-4011-4012-4013-4014
+is distinct and consecutive, continuing directly from batch 397's last
+msgnum, 4004 — no new archive gap this batch. The standing gaps
+(2122/2190/2229/2385/2611/2614/2753/3682/3969/3996) are unchanged; ten gaps
+remain on record in total. All ten source `.eml` byte sizes matched the
+dispatch table exactly (2505/3181/2641/6400/5225/3062/6083/1379/1363/2126
+for page_3971 through page_3980), confirmed via direct `wc -c` before any
+content read — no same-size pair, stale-read risk ruled out. The three
+flagged large files were each confirmed as a single archive message:
+page_3974 (6400 bytes) is David Beard's Outlook Express
+`multipart/alternative` reply quoting Niels's message, itself quoting
+Derek Clark's original "Goodbye" post, in full beneath a one-line "Amen";
+page_3975 (5225 bytes) is Tim Soxman's dual plain-text/HTML reply quoting
+Niels's message in full beneath one new line; page_3977 (6083 bytes) is
+Jack Gardiner's Outlook Express `multipart/alternative` reply quoting
+Derek Clark's apology in full beneath his own new beach/rudder story — all
+three pruned to their genuinely new content with no loss.
+
+Seven of the ten messages close out the "Goodbye"/"Goodbye - YEAH" thread
+that has run since batch 396. Derek Clark confirmed to "SH" that he was not
+in fact leaving ("so, by reading this I ain't actually gone!"); Jeff UK
+pressed the same point further, noting the group's 753 members are mostly
+not Paradox owners or builders in the first place, so a motor-cruiser
+owner is no downgrade, and welcomed Derek "back from the brink." The
+health question drew wider sympathy once it reached the list generally:
+Niels asked directly for the diabetes procedure's details, a first-time
+correspondent (Tim Soxman) asked to be included too, and Derek confirmed
+he had e-mailed both off-group. Jack Gardiner closed the thread with the
+fullest personal case yet for staying — recounting how he once drove his
+own truck's wheels over his stranded Paradox's rudder while trying to
+haul her off a beach, crushing it, and rebuilt it anyway ("I built it and
+I can replace it, Il make it even better!!"), arguing that no longer
+owning a Paradox is beside the point since the group is called Paradox
+**builders**. Written into `boats/enuf.md`'s existing "A departure, an
+outpouring of support, and second thoughts" section (cites [278]-[284]),
+with cross-linked additions on `people/derek-clark.md`, `people/jack-gardiner.md`
+(his own beach/rudder story told in full), and `people/jeff-doryman.md`.
+
+The remaining three messages open a new "Ballast access" thread: Bill
+Serjeant asked whether other builders had found the inner ballast bolts
+hard to reach once the overlapping floors were fitted, and separately how
+best to fix down the water ballast tank tops. Alastair answered the first
+question in full — drilling and tapping directly into the top of his own
+lead pigs and bolting on a plate anchored into the chine log, not
+perfectly rigid but showing no sign of movement, and recommending against
+fastening ballast down at all until after the first few sails, since he
+and Derek Clark both moved pigs around to trim their boats. The tank-top
+question went unanswered on the list. Written into a new
+"Reaching the ballast fastenings after the floors are in" section on
+`design/weight-and-ballast.md` (cites [144]-[145]) and a new "Fixing the
+tank tops in place" section on `construction/water-tank-lining.md` (cite
+[37]), with cross-linked additions on `people/bill-serjeant.md` and
+`people/alastair.md`.
+
+Citation counts verified count==numeric-max (respecting documented
+pre-existing gaps) both before and after edits: `boats/enuf.md` 284/284 (up
+from 277/277), `people/derek-clark.md` 104/104 (up from 102/102),
+`people/jack-gardiner.md` 214 entries/max 215 (up from 213/214, `[53]` +1
+gap preserved), `people/jeff-doryman.md` 61 entries/max 60 (up from 60/59,
+`[39a]` +1 gap preserved), `design/weight-and-ballast.md` 147 entries/max
+145 (up from 145/143, `[53a]`/`[53b]` +2 gap preserved),
+`construction/water-tank-lining.md` 37/37 (up from 36/36),
+`people/bill-serjeant.md` 107/107 (up from 105/105), `people/alastair.md`
+334/334 (up from 333/333). Both anchor checkers (`anchorcheck.js` and
+`anchorcheck2.js`) ran clean: 0 broken across 3,125 anchors, up from 3,110
+at the end of batch 397.
+
+Backlog updates: the Jeff-UK identity item extended with this batch's
+resurfacing (no merge-triggering link to `doryman_uk`); a "Batch 398
+correspondent + gap check" section appended recording the msgnum run,
+attribution checks, and Tim Soxman's introduction as a genuine, thin,
+below-threshold one-off correspondent with no boat/build (no dedicated
+Open item warranted). No new archive gap this batch.
+
+## 2026-07-07 (batch 397: page_3961-page_3970)
+
+This batch covers ten messages spanning **16-17 September 2006**, continuing
+directly from batch 396. Msgnum run 3994-3995-3997-3998-3999-4000-4001-4002-4003-4004
+is distinct, continuing directly from batch 396's last msgnum, 3993 — **a
+new archive gap**: msgnum 3996 does not exist between page_3962 (msgnum
+3995) and page_3963 (msgnum 3997), a genuine message missing from the Yahoo
+archive rather than a file/msgnum offset error (not "fixed" or searched
+for, per instruction). The standing gaps
+(2122/2190/2229/2385/2611/2614/2753/3682/3969) are unchanged; ten gaps are
+now on record in total. All ten source `.eml` byte sizes matched the
+dispatch table exactly (5558/2487/1500/2672/1829/4352/1409/1918/2657/1756
+for page_3961 through page_3970), confirmed via direct `wc -c` before any
+content read — no same-size pair, stale-read risk ruled out. The two
+flagged large files were each confirmed as a single archive message: page_3961
+(5558 bytes) is David Beard's Outlook Express `multipart/alternative` reply
+quoting Derek Clark's original "Goodbye" post in full beneath a short new
+plea; page_3966 (4352 bytes) is Jeff UK's Outlook Express
+`multipart/alternative` reply (parallel plain-text/HTML encodings of the
+same new message, no quoted material) — both pruned to their genuinely new
+content with no loss.
+
+Seven of the ten messages continue and close out the "Goodbye"/"Goodbye -
+YEAH" thread opened in batch 396 by Derek Clark's departure announcement.
+David Beard and Alastair each added a short plea for Derek to stay in
+touch — Alastair's framed as a positive duty to keep lurking and offering
+build advice, having accumulated, in his own estimate, "11% of the complete
+build information in the known world" — while a longtime below-threshold
+correspondent, Wenceslao Rafol, Jr., wrote that a health-first decision
+needed no defense, comparing it to his own long-deferred hope of sailing
+around the globe. Derek's four replies settled into gratitude rather than
+argument: he thanked David Beard by name and noted his e-mail remained
+posted on Bill Serjeant's website; he made peace with Jack Gardiner over an
+unintentional oversight in his thank-you list, agreeing he might simply
+enjoy fixing and building more than sailing, while defending the sale's
+timing against the diabetes-cure news (he had accepted a buyer's offer
+before the consultant mentioned a possible cure); he drew a line with Jeff
+UK between "microcruiser" in general and the group's actual Paradoxbuilders
+scope; and he told Wenceslao he might reconsider, joking that "Frank
+Sinatra left about 47 times, didn't he?" Written into `boats/enuf.md`'s
+existing "A departure, an outpouring of support, and second thoughts"
+section (cites [271]-[277]), with short cross-linked paragraphs on
+`people/derek-clark.md`, `people/david-beard.md`, `people/alastair.md`, and
+`people/jack-gardiner.md`.
+
+The remaining three messages open a new, unrelated "MoDz'" thread: a
+correspondent posting as "SH" (`herrons`/`liam_lund_macdonald`, previously a
+one-off well-wisher in batch 396's "Goodbye - YEAH" thread) posted his own
+drawn interpretation of Paradox, fitted with a full-length skeg carrying an
+external "barn door" rudder, asking the list for thoughts. Alastair asked
+bluntly whether an engine was planned, since the redesign would likely need
+one to get through an ordinary tack; Jeff UK gave a detailed technical
+objection — moving the rudder onto a long skeg shifts the center of lateral
+resistance aft, forcing the sail's center of effort and the mast aft with
+it (disturbing the vent box/mast step) and altering the sail's lead,
+concluding the change is not worth making without fully understanding the
+consequences, and suggesting a small forward centerboard as a lighter-touch
+alternative. Written into a new `design/rudder.md` section, "A proposed
+full skeg and barn-door rudder, and why it shifts the whole design" (cites
+[68]-[70]), cross-linked from the existing abstract CE/skeg discussion on
+`design/rig.md`, with short cross-linked additions on `people/alastair.md`
+and `people/jeff-doryman.md`.
+
+Citation counts verified count==numeric-max (respecting documented
+pre-existing gaps) both before and after edits: `boats/enuf.md` 277/277 (up
+from 270/270), `people/derek-clark.md` 102/102 (up from 95/95),
+`people/david-beard.md` 270/270 (up from 269/269), `people/alastair.md`
+333/333 (up from 331/331), `people/jack-gardiner.md` 213 entries/max 214
+(up from 212/213, `[53]` +1 gap preserved), `design/rudder.md` 70/70 (up
+from 67/67), `people/jeff-doryman.md` 60 entries/max 59 (up from 59/58,
+`[39a]` +1 gap preserved). Both anchor checkers (`anchorcheck.js` and
+`anchorcheck2.js`) ran clean: 0 broken across 3,110 anchors, up from 3,093
+at the end of batch 396.
+
+Backlog updates: the Jeff-UK identity item extended with this batch's two
+resurfacings (no merge-triggering link to `doryman_uk`); the Wenceslao
+Rafol Jr./William Moffitt item updated with Wenceslao's resurfacing; a new
+Open item added for "SH" (`herrons`/`liam_lund_macdonald`), tracking his
+first genuine (if unbuilt) design contribution; the new msgnum-3996 archive
+gap recorded.
+
+## 2026-07-07 (batch 396: page_3951-page_3960)
+
+This batch covers ten messages spanning **12-16 September 2006**, continuing
+directly from batch 395. Msgnum run
+3984-3985-3986-3987-3988-3989-3990-3991-3992-3993 is distinct and fully
+consecutive with batch 395's last msgnum, 3983 — no new archive gap this
+batch (the standing gaps 2122/2190/2229/2385/2611/2614/2753/3682/3969 are
+unchanged). All ten source `.eml` byte sizes matched the dispatch table
+exactly (6243/1981/2425/2968/4070/1770/2075/5642/3900/11404 for page_3951
+through page_3960), confirmed via direct `wc -c` before any content read —
+no same-size pair, stale-read risk ruled out. The three flagged large files
+were each confirmed as a single archive message consisting mostly of
+quoted-reply boilerplate: page_3951 (6243 bytes) is Glen Maxwell's
+`multipart/alternative` reply quoting the entire "Faith's rudder" chain
+beneath two new paragraphs; page_3958 (5642 bytes) is Jeff UK's Outlook
+Express `multipart/alternative` reply quoting Derek Clark's "Goodbye"
+message in full beneath a short new objection; page_3960 (11404 bytes) is
+Jack Gardiner's Outlook Express `multipart/alternative` reply quoting the
+full "Goodbye - YEAH" chain (Derek's original post plus "SH"'s reply plus
+Jeff UK's reply, nested three deep) beneath his own new paragraphs — all
+three pruned to their genuinely new content with no loss.
+
+The first four messages (page_3951, 3953, 3954, and the tail of the prior
+"Faith's rudder" thread) continue Bill Serjeant's rudder photos. Glen
+Maxwell confirmed the same mainsheet/topping-lift tang problem David Beard
+had flagged (a heavy West Marine part bent on his own boat, forcing him to
+furl the mainsheet along with the sail) and separately described fixing his
+raised rudder banging its trailing edge against the transom, with a small
+stainless bracket and a length of rubber hose as a stop. Bill confirmed he
+had fitted Alastair's wooden fairlead insert the same day with good results,
+and — having deliberately held off modifying the tang to load-test the
+stock part first — conceded the point once David Beard weighed in and
+resolved to reinforce it before Faith's launch the following summer. Written
+into `design/rudder.md`'s existing rudder-stock-height/mainsheet-fouling
+section (Glen's tang/rudder-stop content) and a new paragraph on
+`people/bill-serjeant.md`'s "Faith's rudder" section (Bill's and Glen's own
+replies).
+
+The remaining six messages trace the conclusion of the "Enuf" story. A new
+below-threshold correspondent, Steve H., replying to the "Paradox for Sale
+UK" thread, offered to buy the Mark II sail himself if no boat buyer came
+forward, mentioning his son's study year at Oxford. Derek Clark reported
+"Enuf" had in fact sold "more or less immediately" and would depart by road
+for a new owner in Trondheim, Norway, via Norfolk; in the same message he
+floated a fresh, purpose-built **Honda-outboard "power microcruiser"**
+design idea of his own — a 14 ft by 4-4.5 ft stitch-and-glue plywood
+hull around the ubiquitous Honda 2/2.3 hp four-stroke outboard — pitching
+it to designers Jim Michalak, Paul Fisher, and John Welsford. Four days
+later Derek announced his departure from the group after roughly 30 months,
+timed to "Enuf"'s departure and a scheduled operation he hoped might cure
+his diabetes outright, thanking Al Law, Dave Bolduc, David Beard, and Don
+Elliot by name. The announcement drew immediate, unanimous pushback rather
+than farewells: Jeff UK argued the new motor cruiser was itself a
+microcruiser and told him to drop "this leaving crap"; a first-time
+correspondent posting as "SH" (`liam_lund_macdonald`) argued against burning
+bridges over a health setback; and Jack Gardiner gave the fullest tribute,
+valuing his own Paradox over his 75 hp motorboat because a dead outboard
+still leaves the sail to get him home, and judging Paradox's design the
+product of deep thought whose survivability-in-a-small-space genius grows
+more apparent with familiarity. Written as two new `boats/enuf.md` sections
+("The sale completes, and a Honda-outboard 'power microcruiser' idea" and "A
+departure, an outpouring of support, and second thoughts"), with
+`people/derek-clark.md`'s "Selling 'Enuf'" section extended and a new
+"Urging Derek Clark not to leave the list" section added to
+`people/jack-gardiner.md`. One message (page_3956, Joe/`jemurray44`'s Cobra
+GPS-units-for-sale cross-post) was a pure commercial off-topic post with
+zero Paradox content — excluded from the tree entirely per the pruning
+rubric, no citation added, no catch-all page resurrected.
+
+**Files updated:** `design/rudder.md` (new paragraph in "Rudder-stock height
+and mainsheet fouling at the transom notch"; cite [67], up from 66 to 67);
+`people/bill-serjeant.md` ("Faith's rudder" section extended; cites
+[103]-[105], up from 102 to 105); `boats/enuf.md` (two new sections, "Enuf
+offered for sale" implicitly closed out; cites [264]-[270], up from 263 to
+270; frontmatter description updated to reflect the sale/departure);
+`people/derek-clark.md` ("Selling 'Enuf'" section extended; cites [90]-[95],
+up from 89 to 95; frontmatter description updated); `people/jack-gardiner.md`
+(new section "Urging Derek Clark not to leave the list"; cite [213], up from
+212 entries/212 max to 212 entries/213 max — the documented `[53]` +1 gap
+preserved unchanged).
+
+**Correspondents this batch:** Glen Maxwell, Bill Serjeant, David Beard
+(quoted, no new message), Alastair (quoted, no new message), Derek Clark,
+Steve H. (`sdhender`/`steveh2992`, new, below-threshold, one-off), Joe
+(`jemurray`/`jemurray44`, new, excluded — commercial cross-post), Jeff UK
+(`apcf14`/`roverticket`), "SH" (`herrons`/`liam_lund_macdonald`, new,
+below-threshold, one-off), Jack Gardiner (`alex29`/`tidybowlmann`).
+
+**Attribution checks:** Bill Serjeant confirmed via `william@...`/
+`barnacleid`, u=186923448, signing "Bill" — consistent with the established
+identity. David Beard confirmed via `dlb@...`/`buster38801`, quoted at
+u=55757302 in the prior batch's own header read (this batch he appears only
+in quoted text, no new header) — correctly not conflated with David LeBlanc
+(`whisper@`/`meerkatoz`). Glen Maxwell confirmed via `ifida@...`/`ifida2000`,
+u=152648841, signing "Glen." Jeff UK reconfirmed via `apcf14@...`/
+`roverticket`, u=117851260, signing "Jeff"/"Jeff UK" — distinct from
+established `doryman_uk` (no new linking detail this batch; see the standing
+backlog item). Jack Gardiner reconfirmed via `alex29@...`/`tidybowlmann`,
+u=111173743, posting as "John Gardiner" and signing "Jack" — the documented
+"posts as John Gardiner, signs Jack" pattern, correctly not conflated with
+`mat_man22`. No Larry, Bill-name-collision, or Niels/Nels conflation risk
+this batch — none of those handles appeared. Matt Layden was not mentioned
+this batch; `matt-layden/biography.md` remains frozen and untouched.
+
+**Anchor checker:** both `anchorcheck.js` and `anchorcheck2.js` run clean —
+0 broken across 3,093 anchors, up from 3,079 at the end of batch 395.
+
+**Archive timeline:** advances from 8-12 September 2006 (batch 395 end) to
+12-16 September 2006 (this batch's last message, page_3960, timestamped
+2006-09-16 20:15:28 -0400).
+
+## 2026-07-07 (batch 395: page_3941-page_3950)
+
+This batch covers ten messages spanning **8-12 September 2006**, continuing
+directly from batch 394. Msgnum run 3974-3975-3976-3977-3978-3979-3980-3981-
+3982-3983 is distinct and fully consecutive with batch 394's last msgnum,
+3973 — no new archive gap this batch (the standing gaps
+2122/2190/2229/2385/2611/2614/2753/3682/3969 are unchanged). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(4847/5317/2113/2780/1804/5723/2916/1386/2207/2909 for page_3941 through
+page_3950), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out. The three flagged large
+files were each confirmed as a single archive message consisting mostly of
+quoted-reply boilerplate: page_3941 (4847 bytes, Alan) and page_3942 (5317
+bytes, Derek Clark) each quote the entire prior chain of the "Paradox for
+Sale UK" thread beneath a short genuinely new reply; page_3946 (5723 bytes)
+is Jeff UK's Outlook Express `multipart/alternative` duplicate reply, also
+fully quoting Derek Clark's message and, within it, Jeff's own prior note —
+pruned to its several new paragraphs (the motor-cruiser/"PARANIGMA"
+disclosure) with no loss.
+
+The first seven messages (page_3941-3947, msgnum 3974-3980) close out the
+"Paradox for Sale UK" thread running since batch 394. Alan seconded Jeff
+UK's radio-controlled-model suggestion for "Enuf" and joked about sailing
+such a model across the Atlantic. Derek Clark gave Niels a fuller account of
+his diabetes (explaining the UK/US blood-glucose scale difference and a
+near-coma close call on both Poole nights), and reported that his wife had
+bought him a small 4.98 m, 0.6 m-draft motor cruiser to restore in "Enuf"'s
+place. Replying to Jeff UK's condolences, Derek said he felt at peace with
+the decision, reflecting fondly on Poole Harbour's wildlife (Sitka deer, a
+kingfisher, an oyster on the beach) as compensation for the sailing he was
+giving up. Jeff UK's request to hear about the new boat, and Derek's
+"is it safe to mention motor boats here?" joke in reply, drew out **a new
+biographical fact about Jeff UK himself**: he revealed he had once cut hull
+parts and bulkheads for his own 17 ft Paradox-type, multi-chine motor
+cruiser (derailed only by scaffolding erected next door) and still intends
+to build it — after finishing a planned **"PARANIGMA,"** his own
+Paradox/Enigma portmanteau design. He encouraged Derek to post about
+motorboating on the list regardless, since many members motor more than
+they sail. Derek closed the sub-thread by naming David Beard and Al Law as
+two more members with their own motoring ideas. All of this is narrated in
+full, per the "narrate once, cross-link" convention, in a new
+`boats/enuf.md` section, with the "Enuf offered for sale" section itself
+also expanded to carry the fuller diabetes account and the motor-cruiser
+detail; short cross-linked summaries were added to `people/derek-clark.md`
+and `people/jeff-doryman.md` (a new bullet recording the near-built motor
+cruiser and "PARANIGMA").
+
+The last three messages (page_3948-3950, msgnum 3981-3983) open a new
+"Faith's rudder" thread. Bill Serjeant posted fresh photographs of his own
+Paradox "Faith"'s completed rudder. Alastair replied that he (and, by his
+account, Derek Clark) had independently found the same rudder-height/
+mainsheet-fouling problem already tracked on `design/rudder.md` — the
+mainsheet dropping into the gap between the rudder stock and transom on a
+broad reach or run, forcing it to slide over the pintle/gudgeon on every
+sail adjustment — and offered a further fix: a small wooden insert filling
+the gap to act as a fairlead. David Beard separately flagged a hardware-
+strength problem visible in the same photos: the stock mainsheet/
+topping-lift tang is not strong enough and bends under load, a problem he
+fixed on his own "Whisper" by bolting three tangs together, and believed
+Glen Maxwell had met the same problem. This new material was written as a
+new section on `people/bill-serjeant.md` ("Faith's rudder: a sheet-fairlead
+fix, and boom-tang strength," the natural home since it concerns Bill's own
+boat and photos), with the fairlead technique cross-linked into
+`design/rudder.md`'s existing rudder-stock-height/mainsheet-fouling section
+as a second, independently-corroborating report, and short cross-linked
+paragraphs added to `people/alastair.md` and `people/david-beard.md`.
+
+**Files updated:** `boats/enuf.md` (new section "A near-miss Paradox-type
+motor cruiser, and 'Enuf' as a talking point for motorboating"; "Enuf
+offered for sale" section expanded; cites [257]-[263], up from 256 to 263);
+`people/derek-clark.md` ("Selling Enuf" section extended; cite [89], up
+from 88 to 89); `people/jeff-doryman.md` (new "PARANIGMA"/motor-cruiser
+bullet in the "Jeff UK" sub-section; cite [58], 59 entries/numeric max 58
+up from 58 entries/max 57, the pre-existing `[39a]` gap preserved);
+`people/bill-serjeant.md` (new section "Faith's rudder: a sheet-fairlead
+fix, and boom-tang strength"; cites [100]-[102], up from 99 to 102);
+`design/rudder.md` (second independent report added to the existing
+"Rudder-stock height and mainsheet fouling at the transom notch" section;
+cite [66], up from 65 to 66); `people/alastair.md` (short cross-linked
+paragraph; cite [331], up from 330 to 331); `people/david-beard.md` (new
+"Boom-hardware strength" paragraph; cite [269], up from 268 to 269). All
+seven files verified count==numeric-max after edits (respecting documented
+pre-existing gaps: jeff-doryman.md `[39a]`, plus the other files'
+unaffected standing gaps). No files created; no files pruned. Matt Layden
+was not mentioned in this batch's ten messages; `matt-layden/biography.md`
+remains frozen and untouched.
+
+**Correspondents:** Alan (`logicaid`/`logicaidnz`, u=47492986), Derek Clark
+(`dclark`/`dclark52001`, u=24083034), Jeff UK (`apcf14`/`roverticket`,
+u=117851260), Bill Serjeant (`william`/`barnacleid`, u=186923448 — the
+documented reverted-display profile name), Alastair (`openboat`/
+`alopenboat`, u=275164091 — the documented outlier `u=`, corroborated by
+signature and boat-history continuity), and David Beard (`dlb`/
+`buster38801`, u=55757302). No new correspondents this batch. No
+attribution-trap conflations (David Beard/LeBlanc, Jack Gardiner/mat_man22,
+three-Larrys, Bill-name-collision, Niels/Nels) triggered.
+
+Anchor checker (`anchorcheck.js` and `anchorcheck2.js`) run clean after all
+edits: **0 broken across 3,079 anchors**, up from 3,068 at the end of batch
+394. `.okf-progress/cursor.txt` set to `3950`; a "Batch 395 correspondent +
+gap check" section appended to `.okf-progress/backlog.md`, including an
+update in place to the standing Jeff-UK identity-disambiguation Open item.
+
+## 2026-07-07 (batch 394: page_3931-page_3940)
+
+This batch covers ten messages spanning **6-8 September 2006**, continuing
+directly from batch 393. Msgnum run
+3963-3964-3965-3966-3967-3968-3970-3971-3972-3973 is distinct, confirmed via
+direct `X-Yahoo-Msgnum` header read and continuing from batch 393's last
+msgnum, 3962 — but **a new archive gap** appears this batch: msgnum 3969 is
+missing between page_3936 (msgnum 3968) and page_3937 (msgnum 3970), a
+genuine message deleted from the Yahoo archive rather than a file-offset
+artifact, now recorded alongside the standing gaps
+(2122/2190/2229/2385/2611/2614/2753/3682/3969). All ten source `.eml` byte
+sizes matched the dispatch table exactly
+(2029/5356/2317/2448/1620/2984/2483/3104/3529/9528 for page_3931 through
+page_3940), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out. The two flagged large
+files were confirmed as single archive messages consisting mostly of
+quoted-reply/HTML boilerplate: page_3932 (5356 bytes) is David Beard's
+Outlook Express `multipart/alternative` duplicate reply, its genuinely new
+content limited to one line (adding a spare throttle cable to his shopping
+list); page_3940 (9528 bytes) is Jeff UK's Outlook Express
+`multipart/alternative` duplicate reply, its new content limited to a few
+lines of banter, sympathy, and a suggestion, both pruned to their
+non-duplicate content per the spec.
+
+The batch closes out the "Honda 2 hp outboard" thread opened in batch 393:
+Derek Clark supplied the throttle cable's likely failure mode by analogy
+with motorcycle cables of similar construction (breakage or a nipple pulling
+off, workable around afloat with string tied to the exposed piano wire), and
+David Beard added a spare cable to his own shopping list for the planned
+Tenn-Tom cruise. Jeff UK then posted a bare, unelaborated eBay UK link to an
+electric trolling motor — zero discussion, no reply, excluded from the tree
+entirely per the pruning rubric.
+
+**The batch's major event:** Derek Clark announced his Paradox "Enuf" for
+sale ("Paradox for Sale UK"), explaining that the physical exertion of
+sailing had brought on diabetic hypoglycemic episodes on both of his Poole
+Harbour outings — including one at night, at anchor, that he found
+frightening to manage alone — and that he had decided to give up sailing her
+rather than continue. His asking price (£700 for the boat, Mk2 sail, and 99
+kg of lead ballast; £500 for a nearly-new trailer) made no attempt to
+recover his build costs, and he offered a "Viking burial" for the hull if no
+buyer came forward. The announcement drew a warm response: Alastair (who
+had sailed alongside "Enuf" at Poole) called it a bargain; a new,
+below-threshold Spanish correspondent, **"cuatralbo,"** asked about
+registering the boat in Spain; Alan (NZ) praised Derek's Duckworks article
+and sense of humor; Niels revealed he too is diabetic and described his own
+glucose-management practice, but judged shipping to Florida impractical;
+and Jeff UK closed the thread with a joking buy-and-commute suggestion for
+Niels and a proposal that Derek build a radio-controlled model of "Enuf"
+instead. The full narrative lives on `boats/enuf.md` per the
+narrate-once-cross-link convention, with a short summary + link added to
+`people/derek-clark.md`.
+
+Separately, Dave Bolduc shared a materials-sourcing tip: a 50-yard roll of
+4 oz E-glass cloth bought on eBay for $35, judged good for tapes and small
+parts (and, with care, even a Paradox's topsides in the seller's heavier
+6 oz weight) — folded into `people/bolduc/dave.md`'s existing
+"Construction and materials" bullet list.
+
+**Files updated:** `operations/auxiliary-outboard-power.md` (extended "A
+Honda 2 hp's spare-parts and reliability record," cites [67]-[68], count
+68/68 up from 66/66); `boats/whisper.md` (extended the Tenn-Tom
+delivery-cruise section, cite [97], count 97/97 up from 96/96);
+`people/derek-clark.md` (extended the Honda-2hp bullet, cite [87]; new
+"Selling Enuf" summary+link section, cite [88], count 88/88 up from 86/86);
+`boats/enuf.md` (new section "Enuf offered for sale," cites [251]-[256],
+count 256/256 up from 250/250 — corrected in-flight after an initial draft
+mistakenly reused already-existing citation numbers [89]-[94]; re-verified
+fully sequential 1-256 with zero duplicates after the fix); `people/
+alastair.md` (one-line cross-link, cite [330], count 330/330 up from
+329/329); `people/bolduc/dave.md` (new eBay-glass-cloth bullet, cite [108];
+count 109/109 total entries with a pre-existing but previously undocumented
+`[26a]` suffix preserved, numeric max 108, up from numeric max 107). No new
+pages created; "cuatralbo" (below-threshold, one-off, no boat) was not given
+a standalone page per the pruning rubric — fully captured via citation on
+`boats/enuf.md`; Jeff UK's bare eBay trolling-motor link was excluded from
+the tree entirely (noted only in the backlog). No off-topic catch-all page
+was created or resurrected. Anchor checkers (`anchorcheck.js` and
+`anchorcheck2.js`) both run clean: 0 broken across 3,068 anchors, up from
+3,062 at the end of batch 393.
+
+## 2026-07-07 (batch 393: page_3921-page_3930)
+
+This batch covers ten messages spanning **4-6 September 2006**, continuing
+directly from batch 392 with no new archive gap (msgnum run
+3953-3954-3955-3956-3957-3958-3959-3960-3961-3962 is distinct and fully
+consecutive, continuing from batch 392's last msgnum, 3952). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(1683/2102/2094/1684/1775/2055/2346/5890/17195/2598 for page_3921 through
+page_3930), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. Both
+flagged large files were confirmed as single archive messages consisting
+mostly of quoted-reply/HTML boilerplate: page_3928 (5890 bytes) is David
+Beard's plain-text/HTML `multipart/alternative` Outlook Express duplicate
+reply, its genuinely new content limited to one short paragraph giving his
+planned cruise route; page_3929 (17195 bytes) is Chris Curtis's Apple Mail
+plain-text/HTML `multipart/alternative` reply, its new content limited to a
+one-paragraph well-wish and a request for photos/a sailing log, both pruned
+to their non-duplicate content per the spec.
+
+David Beard opened a new **"Honda 2 hp outboard"** thread researching spare
+parts (shear pins, props, spark plugs already on hand) for a planned
+roughly 300-mile winter delivery cruise down the **Tennessee-Tombigbee
+Waterway** ("the Tenn-Tom") from Bay Springs Lake to Pirates Cove, Alabama,
+using the Honda as main power for the whole passage — a rare case of a
+Paradox owner relying on the outboard rather than the sailing rig as primary
+propulsion. Stephen Yahn reported two trouble-free years with his own Honda
+2 hp and separately praised Alastair's previously-published outboard-bracket
+photos; a new, below-threshold correspondent, **John Pertalion** (Boone,
+NC), had no outboard advice but was excited about the cruise route and
+asked for start/finish details; Stephen Yahn shared a squeeze-bottle
+oil-top-up tip; Derek Clark asked whether a spare throttle cable was worth
+carrying, answered (by Stephen Yahn) that it sees so little stress it
+should last a long time; **Chris Curtis** (Yahoo handle `joe_mapango`,
+signing "Chris Curtis, Sandpoint Computers") wished David well and asked for
+photos and a written sailing log — this signature's "Sandpoint" match is
+new corroborating detail toward the standing pending-merge question against
+the established Sandpoint, Idaho owner at `boats/curtis-paradox.md`, noted
+in the backlog but kept separate pending dedicated review per the standing
+project caution. Separately, **Niels** (`sail2xs`/`sailzafu`, established
+below-threshold correspondent, distinct from "Nels") took up Glen Maxwell's
+standing invitation to visit "Zoë," noting Jacksonville's proximity to
+Glen's Live Oak home as the most convenient of several offers received, and
+arranged to follow up off-list.
+
+**Files updated:** `operations/auxiliary-outboard-power.md` (two new
+sections, "A Honda 2 hp's spare-parts and reliability record" and "A winter
+Tenn-Tom Waterway delivery cruise, and Whisper's outboard as primary power,"
+cites [58]-[66], count 66/66 up from 57/57); `boats/whisper.md` (new
+section "A winter Tenn-Tom Waterway delivery cruise," cites [92]-[96], count
+96/96 up from 91/91); `people/david-beard.md` (cruise-plan paragraph added
+to his outboard contributions, cites [267]-[268], count 268/268 up from
+266/266); `people/stephen-yahn.md` (reliability/oil-tip/throttle-cable
+paragraph added, cites [21]-[24], count 24/24 up from 20/20);
+`people/derek-clark.md` (throttle-cable question added, cite [86], count
+86/86 up from 85/85); `people/glen-maxwell/build-and-zoe.md` (Niels's
+follow-up to the Zoë-visit invitation added, cite [253], count 253/253 up
+from 252/252). John Pertalion (below-threshold, no boat, one appearance) was
+not given a standalone page per the pruning rubric — fully captured via
+citations on the two files above. No file was created this batch; no
+off-topic catch-all page was created or resurrected. Anchor checkers
+(`anchorcheck.js` and `anchorcheck2.js`) both run clean: 0 broken across
+3,062 anchors, up from 3,046 at the end of batch 392.
+
+## 2026-07-07 (batch 392: page_3911-page_3920)
+
+This batch covers ten messages, all dated **3-4 September 2006**, continuing
+directly from batch 391 with no new archive gap (msgnum run
+3943-3944-3945-3946-3947-3948-3949-3950-3951-3952 is distinct and fully
+consecutive, continuing from batch 391's last msgnum, 3942). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(1624/2163/4605/2773/2129/1634/2643/2507/2937/1928 for page_3911 through
+page_3920), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. The
+one large flagged file (page_3913, 4605 bytes) was confirmed as ONE archive
+message: David Beard's ordinary Outlook Express `multipart/alternative`
+plain-text/HTML duplicate (also fully quoting Stephen Yahn's original
+message), pruned to its genuinely new content with no loss. Archive timeline
+advances from 29 August - 3 September 2006 (batch 391 end) to 3-4 September
+2006 (this batch's last message, page_3920, timestamped 2006-09-04 18:42
++0100 / logged 2006-09-04 17:53 UTC), covering a new "Tiller Rope Lock"
+thread (opened and closed within the batch) and the continuation/close of
+the "Side Motor Mount" thread opened at the end of batch 390 (photos of
+Stephen Yahn's finished mount, Alastair's reaction, and Alastair's own
+outboard-bracket website cross-post to two lists).
+
+**Files updated:**
+
+- [operations/self-steering.md](/operations/self-steering.md) — new section
+  "Locking the tiller rope, and why most builders don't bother," covering two
+  working friction-clamp designs (a two-disc bolt/nut clamp, and a
+  V-notched-plywood-and-wingnut clamp) and the case that a lock is rarely
+  needed except in shallow water with the rudder partly raised, plus one
+  builder's dissatisfaction with tiller-rope steering generally and an
+  unbuilt wheel/Bowden-cable alternative (cites [27]-[32], count 32/32 up
+  from 26/26).
+- [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md) —
+  two new sections: "A worked side-mount installation, and the risk of
+  shipping water while fitting it afloat" (Stephen Yahn's full "Ironsides"
+  side-mount construction detail — wooden pad, hitch pin, ball valve,
+  stiffening shelf, copper grounding pipe — and the afloat-fitting/heel risk
+  Alastair flagged) and "An outboard bracket published for reference"
+  (Alastair's own outboard-bracket photos and site-address update) (cites
+  [54]-[57], count 57/57 up from 53/53).
+- [people/stephen-yahn.md](/people/stephen-yahn.md) — added the tiller-lock
+  question/close and the side-mount photos/afloat-fitting reply, cross-linked
+  to the full accounts (cites [17]-[20], count 20/20 up from 16/16).
+- [people/alastair.md](/people/alastair.md) — added a new "Construction
+  contributions" bullet for his two-disc tiller-rope lock and the
+  when-a-lock-matters finding, and a new "Rig, electrics, and furling" bullet
+  for his reaction to Stephen Yahn's side mount plus his own outboard-bracket
+  website cross-post (cites [326]-[329], count 329/329 up from 325/325).
+- [people/david-beard.md](/people/david-beard.md) — added his tiller-lock
+  reply ("Whisper" sails herself, no lock needed after five years) (cite
+  [266], count 266/266 up from 265/265).
+- [people/derek-clark.md](/people/derek-clark.md) — added his detailed
+  two-piece plywood/wingnut tiller-lock design and his broader dissatisfaction
+  with tiller-rope steering, including the unbuilt wheel/Bowden-cable idea
+  (cite [85], count 85/85 up from 84/84).
+
+Attribution: Stephen Yahn (`yahns`/`yahn101a`, established builder
+"Ironsides") authored four messages (opening and closing the tiller-lock
+thread, opening the side-motor-mount-photos thread, and replying to
+Alastair's afloat-fitting caution). Alastair (`openboat`/`alopenboat`,
+u=275164091 this batch, the documented outlier `u=` for the same person as
+the usual u=214650167, corroborated by signature "Al, Yeovil, England")
+authored four messages (the two-disc tiller-lock design, the
+lock-when-it-matters follow-up, the side-mount reaction, and the
+outboard-bracket cross-post). David Beard (`dlb`/`buster38801`, established,
+confirmed distinct from David LeBlanc) authored one message. Derek Clark
+(`dclark`/`dclark52001`, established builder "Enuf") authored one message.
+No attribution traps triggered (no David Beard/LeBlanc conflation, no Jack
+Gardiner/`mat_man22` conflation, no three-Larrys conflation, no Bill-name
+collision, no Jeff-UK/`doryman_uk` conflation, no Niels/Nels conflation); none
+of the currently-open below-threshold/unconfirmed-identity correspondents
+(Jeff UK, botebilder/Ernie Fossel, UK-newcomer "Larry," Chris Curtis, John
+Pertalion, "Niels") authored a message this batch. `matt-layden/biography.md`
+frozen and not touched — no Matt Layden biographical content this batch
+(only a passing "Matt calls out for a plasic pipe" construction-spec mention
+in Stephen Yahn's motor-mount post, already folded into the technical
+section, not biography). Anchor checker (both `anchorcheck.js` and
+`anchorcheck2.js`) run clean: 0 broken across 3,046 anchors, up from 3,029 at
+the end of batch 391.
+
+## 2026-07-07 (batch 391: page_3901-page_3910)
+
+This batch covers ten messages dated **29 August - 3 September 2006**,
+continuing directly from batch 390 with no new archive gap (msgnum run
+3933-3934-3935-3936-3937-3938-3939-3940-3941-3942 is distinct and fully
+consecutive, continuing from batch 390's last msgnum, 3932). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(2684/1812/2061/2274/1994/4737/1372/1655/4328/2733 for page_3901 through
+page_3910), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. The
+two large flagged files (page_3906, 4737 bytes; page_3909, 4328 bytes) were
+each confirmed as ONE archive message: page_3906 is Glen Maxwell's ordinary
+Thunderbird `multipart/alternative` plain-text/HTML duplicate of his own
+Dabbler-sail reply (also fully quoting Dave Bolduc's original), and
+page_3909 is David Beard's Outlook Express `multipart/alternative`
+plain-text/HTML duplicate of his own one-line reply (also fully quoting the
+prior two messages in the "Paradox in or near FL" thread); both pruned to
+their genuinely new content with no loss. Archive timeline advances from
+27-29 August 2006 (batch 390 end) to 29 August - 3 September 2006, closing
+out the "Side Motor Mount" thread with Stephen Yahn's own fuel-stowage
+reply, continuing the new "Whaleback, Paradox derivative" thread opened at
+the end of batch 390 with two John Pertalion design replies and Paul V.'s
+redirect to `microcruising`, opening a new "Paradox sail quote from Dabbler
+Sails" thread, and opening a new "Paradox in or near FL" thread.
+
+**Files updated:**
+
+- [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md) —
+  extended "A transom-mounted petrol outboard, fuel stowage, and trim" with
+  Stephen Yahn's own reply to Derek Clark's setup: an outside plastic
+  jerrycan on the transom in place of bottles near the cooking area, and the
+  outboard's anticavitation plate set flush with the hull bottom to protect
+  the chine runners (cite [53], count 53/53 up from 52/52).
+- [people/stephen-yahn.md](/people/stephen-yahn.md) — added the same
+  fuel-jerrycan/anticavitation-plate detail, cross-linked to the full
+  account (cite [16], count 16/16 up from 15/15).
+- [people/paul-v.md](/people/paul-v.md) — extended the "Whaleback" derivative
+  bullet with John Pertalion's design commentary (beam, hull fullness,
+  transom width, then an apology on realizing Paul was already building) and
+  Paul V.'s own reply declining to continue the design-change discussion on
+  `paradoxbuilders`, redirecting to `microcruising` (cites [54]-[56], count
+  56/56 up from 53/53).
+- [design/rig.md](/design/rig.md) — new paragraph under "Sail pricing"
+  documenting a 2006 Dabbler Sails quote from Stuart Hopkins ($600 5 oz
+  white / $700 color, $25 UPS shipping, 30-day validity) and Glen Maxwell's
+  direct, still-current endorsement of his own Dabbler-built Mark II sail,
+  reconfirming his superseded Mark I sail passed to another builder, "Bill
+  Sargent" (cites [255]-[256], count 258/258 up from 256/256, respecting the
+  documented `[7a]`/`[7b]` +2 gap).
+- [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md) —
+  extended "Rig, furling, and sail" with the same Dabbler-quote
+  reconfirmation, cross-linked to `design/rig.md#sail-pricing`; extended
+  "Community role and firsthand Matt Layden knowledge" with Glen's precise
+  2006 location (Live Oak, FL, near the I-10/I-75 junction) and his
+  invitation to a prospective Florida visitor to come see "Zoë" (cites
+  [251]-[252], count 252/252 up from 250/250).
+- [people/alastair.md](/people/alastair.md) — added his one-line reply on
+  the new "Paradox in or near FL" thread, wondering whether Matt Layden
+  himself lives in Florida (cite [325], count 325/325 up from 324/324).
+- [people/david-beard.md](/people/david-beard.md) — added his reply on the
+  same thread, giving his Tupelo, MS location and a standing open
+  invitation to sail, noting the parallel to his earlier offer on the "near
+  Dallas" thread (cite [265], count 265/265 up from 264/264).
+
+Attribution: Stephen Yahn (`yahns`/`yahn101a`, established builder
+"Ironsides") authored one message, quoting Derek Clark's prior setup in
+full before adding his own genuinely new content. John Pertalion
+(`john`/`ajmctaggert`, established below-threshold correspondent) authored
+two messages, both pure design commentary on Paul V.'s non-Paradox
+"Whaleback" boat — updated in place in the backlog, still below the
+standalone-page threshold. Paul V. (`cruisenewsnet`, established person
+page) authored one message. Dave Bolduc (`mbolduc`/`boldav38`, established)
+opened the new sail-quote thread. Glen Maxwell (`ifida`/`ifida2000`,
+established) authored two messages (the sail-quote reply and the
+Florida-location reply). "Niels" (`sail2xs`/`sailzafu`, u=256251358,
+established below-threshold correspondent since batch 388, reconfirmed
+distinct from the established "Nels"/`arvent`/`recree8`) opened the new
+"Paradox in or near FL" thread — updated in place in the backlog, still no
+boat/build of his own. Alastair (`openboat`/`alopenboat`, u=275164091 this
+batch, the documented outlier — usual u=214650167 — corroborated by
+signature "Al, Yeovil, England") and David Beard (`dlb`/`buster38801`,
+confirmed distinct from David LeBlanc per the standing disambiguation note)
+each authored one reply on the same thread. No attribution traps triggered
+(no David Beard/LeBlanc conflation, no Jack Gardiner/`mat_man22`
+conflation, no three-Larrys conflation, no Bill-name collision — "Bill
+Sargent," reconfirmed as Glen's Mk1-sail recipient, is a pre-existing,
+deliberately unmerged mention distinct from Bill Serjeant — no Jeff-UK/
+`doryman_uk` conflation, no Niels/Nels conflation; Jeff UK and Chris Curtis
+did not author any message this batch, only appearing in others' quoted
+text). `matt-layden/biography.md` frozen and not touched — Alastair's "does
+Matt Layden live in Florida?" aside is a passing, unelaborated question, not
+new biographical content. No new below-threshold backlog items opened (both
+correspondents who authored messages this batch, John Pertalion and
+"Niels," already had standing backlog items, updated in place); no items
+resolved. Anchor checker (both `anchorcheck.js` and `anchorcheck2.js`) run
+clean: 0 broken across 3,029 anchors, up from 3,025 at the end of batch 390.
+
+## 2026-07-07 (batch 390: page_3891-page_3900)
+
+This batch covers ten messages dated **27-29 August 2006**, continuing
+directly from batch 389 with no new archive gap (msgnum run
+3923-3924-3925-3926-3927-3928-3929-3930-3931-3932 is distinct and fully
+consecutive, continuing from batch 389's last msgnum, 3922). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(3411/3950/9706/1733/1783/2192/7766/3410/1621/7699 for page_3891 through
+page_3900), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. The
+three large flagged files (page_3893, 9706 bytes; page_3897, 7766 bytes;
+page_3900, 7699 bytes) were each confirmed as ONE archive message: the two
+"Jeff UK" messages are ordinary Outlook Express `multipart/alternative`
+plain-text/HTML duplicates of already-quoted thread content, and the Chris
+Curtis message is an Apple Mail `multipart/alternative` duplicate with a
+repeated signature block; all three pruned to their genuinely new content
+with no loss. Archive timeline advances from 21-27 August 2006 (batch 389
+end) to 27-29 August 2006, closing out the "Side Motor Mount" thread and
+opening a new "Whaleback, Paradox derivative" thread.
+
+**Files updated:**
+
+- [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md) —
+  two new sections, "Further field experience with a side-mounted outboard"
+  and "A transom-mounted petrol outboard, fuel stowage, and trim" (cites
+  [46]-[52], count 52/52 up from 45/45): Alastair's own side-mounted
+  electric motor on "Little Jim" (brass-hinge/removable-pin bracket,
+  forward strut, cannot stay mounted while sailing, minimal angling
+  needed); Alan's book-precedent and chine-runner-fouling caution; a thin
+  "Jeff UK" folding-canoe aside; Nels's own side-mounted-canoe experience
+  ("crabbed sideways," no keel a contributing factor); Paul V.'s
+  outboard-bracket-box proposal; "Jeff UK"'s weight/trim-shift math and a
+  caravan-leveller/ink-tinted-fuel-line trim-check trick; and Derek Clark's
+  own transom-mounted 2.3 hp Honda petrol setup (PVC-pipe throttle
+  extension, ~7 miles/litre at 4 mph, external-tank plans referencing the
+  Bolducs).
+- [people/alastair.md](/people/alastair.md) — new "Rig, electrics, and
+  furling" bullet on the side-mounted electric motor, cross-linked to the
+  full account on `operations/auxiliary-outboard-power.md` per
+  narrate-once-cross-link (cite [324], count 324/324 up from 323/323).
+- [people/derek-clark.md](/people/derek-clark.md) — new paragraph on his
+  transom-mounted petrol outboard setup, cross-linked to the full account
+  (cite [84], count 84/84 up from 83/83).
+- [people/stephen-yahn.md](/people/stephen-yahn.md) — added his
+  thank-you/progress follow-up (blocks fitted inside the hull for the
+  motor mount, rudder/tiller work still in progress) (cite [15], count
+  15/15 up from 14/14).
+- [people/paul-v.md](/people/paul-v.md) — two new contribution bullets: the
+  transom outboard-bracket-box idea, and the "Whaleback" derivative
+  resurfacing directly on `paradoxbuilders` (having drawn no interest on
+  `microcruising`), including Chris Curtis's (`ccurtis`/`joe_mapango`)
+  design questions and his own maxi-paradox confirmation, cross-linked to
+  `design/variants/stretched-paradox.md` (cites [51]-[53], count 53/53 up
+  from 50/50; frontmatter timestamp refreshed).
+- [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md) —
+  extended the "maxi paradox" section with Chris Curtis's Whaleback
+  exchange, cross-linked to `people/paul-v.md` per narrate-once-cross-link
+  (cite [86], count 86/86 up from 85/85).
+
+Attribution: Alastair's Yeovil u=275164091 this batch is the documented
+outlier (usual u=214650167), corroborated by signature and the "Little
+Jim" reference — same person, no split. "Jeff UK" (`apcf14`/`roverticket`)
+reconfirmed distinct from established `doryman_uk`; neither message this
+batch touches `people/jeff-doryman.md`. Paul V. (`cruisenewsnet`) confirmed
+as the already-established person, not a new correspondent. Chris Curtis
+(`ccurtis`/`joe_mapango`) reconfirmed distinct from the established
+Sandpoint, Idaho Chris Curtis of `boats/curtis-paradox.md`. No new
+below-threshold backlog items opened; no items resolved. Anchor checker
+(both `anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across
+3,025 anchors, up from 3,015 at the end of batch 389.
+
+## 2026-07-07 (batch 389: page_3881-page_3890)
+
+This batch covers ten messages dated **21-27 August 2006**, continuing
+directly from batch 388 with no new archive gap (msgnum run
+3913-3914-3915-3916-3917-3918-3919-3920-3921-3922 is distinct and fully
+consecutive, continuing from batch 388's last msgnum, 3912). All ten
+source `.eml` byte sizes matched the dispatch table exactly
+(7678/1776/1386/2145/2124/2185/1771/2109/2046/2238 for page_3881 through
+page_3890), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out.
+The large page_3881 (7678 bytes) was confirmed as ONE archive message —
+Jeff UK's Outlook Express reply on the "I started the maxi paradox today"
+thread, inflated by an ordinary `multipart/alternative` plain-text/HTML
+body duplication plus a fully-quoted prior exchange (his own centreboard/
+CLR answer to "Niels," already on record from batch 388) — pruned to its
+genuinely new content (the 45-degrees-to-wind ENIGMA-video observation)
+with no loss. Archive timeline advances from 19-21 August 2006 (batch 388
+end) to 21-27 August 2006, spanning the tail of the maxi-paradox/ENIGMA-video
+sub-thread, a new "Spline weights for lofting on Ebay" thread, and a new
+"Side Motor Mount" post — a wider date spread than recent batches but
+still an unbroken continuation with no new gap.
+
+**Files updated:**
+
+- [matt-layden/enigma.md](/matt-layden/enigma.md) — extended the "Racing
+  history and change of ownership" section (cites [35]-[37], count 37/37
+  up from 34/34) with three further viewers' observations on the same 2006
+  Watertribe ChallengeViewer footage already cited at [34]: Jeff UK's
+  reference-swell estimate that Enigma sails at roughly 45 degrees to the
+  wind, judged very acceptable for a cruising boat; Nels's corroborating
+  note that she tacks effortlessly, using shoreline buildings as a further
+  reference point; and brand-new correspondent "Niels" confirming from the
+  same footage that the chine runners "seem to sail fine" and praising the
+  roller-furling boom and the boat's versatility (coastal sailing and a
+  60-mile river run alike).
+- [construction/panel-layout.md](/construction/panel-layout.md) — new
+  section "Lofting weights ('spline weights' or 'lead ducks')" (cites
+  [39]-[43], count 43/43 with the pre-existing `[32a]` gap preserved, up
+  from 38/38) — Dave Bolduc's eBay lead-duck listing and DIY-casting
+  pointer, DBoboc9556's price-inflation joke, Curtis/`azskybum`'s bid and
+  shipping-cost remark, and Dave Bolduc's own scrap-lead-casting technique
+  (used for Swamp Thing's trim ballast) plus a photo cross-reference
+  showing Matt Layden using similar ducks.
+- [people/bolduc/dave.md](/people/bolduc/dave.md) — one-line "Lofting
+  weights, cheap or homemade" entry cross-linking to
+  panel-layout.md per the narrate-once-cross-link convention (cites
+  [105]-[107], count 107/107 up from 104/104).
+- [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md) —
+  new section "A side-mounted outboard, to keep the cabin layout unchanged"
+  (cite [45], count 45/45 up from 44/44) — Stephen Yahn's proposal to clip
+  a 2 hp Honda outside the hull near bulkhead #4, run from the hatchway,
+  rather than fit a transom mount or cut a removable cabin panel.
+- [people/stephen-yahn.md](/people/stephen-yahn.md) — one-line cross-link
+  to the side-motor-mount idea (cite [14], count 14/14 up from 13/13).
+- [people/kjell-karlsson.md](/people/kjell-karlsson.md) — new contribution
+  entry, "A composite-build progress inquiry, left unanswered" (cite [60],
+  count 60/60 up from 59/59) — "Niels" asked Kjell Karlsson whether he had
+  been sailing since completing the BRIS Paradox and for his foam-hull
+  scantlings; no reply is recorded in the archive.
+
+No new pages were created. No messages were excluded this batch — all ten
+carried genuine, if sometimes minor, Paradox-relevant content, and no
+catch-all off-topic page was created or resurrected
+(`references/off-topic-cross-posts.md` remains deleted).
+
+**Correspondents seen:** "Jeff"/"Jeff UK" (`apcf14`/`roverticket`,
+u=117851260, established below-threshold unconfirmed-identity
+correspondent, 1 message); Nels (`arvent`/`recree8`, u=62964199,
+established, 1 message); "Niels" (`sail2xs`/`sailzafu`, u=256251358,
+established brand-new-as-of-batch-388 correspondent, 3 messages —
+confirmed distinct from "Nels" throughout via handle, `u=`, and spelling
+together); Dave Bolduc (`mbolduc`/`boldav38`, established, 3 messages);
+DBoboc9556 (brand-new, one-off joke reply, below pruning threshold for a
+standalone identity note); Curtis (`azskybum`, u=3165345, established
+below-threshold correspondent, Phoenix AZ, 1 message — reconfirmed
+distinct from the unrelated established Sandpoint, Idaho "Chris Curtis" per
+the standing caution); Stephen Yahn (`yahns`/`yahn101a`, u=207571043,
+established builder "Ironsides," 1 message).
+
+**Attribution checks.** No David Beard/LeBlanc, Jack Gardiner/`mat_man22`,
+three-Larrys, Bill-name-collision, or Curtis/`azskybum`-vs-established-Chris-Curtis
+conflation risk arose this batch (the only "Curtis" appearing was
+`azskybum`, correctly kept separate from the Sandpoint, Idaho identity).
+"Niels" (`sail2xs`/`sailzafu`) reconfirmed distinct from "Nels"
+(`arvent`/`recree8`) on every appearance this batch, per the standing
+caution introduced at batch 388. `matt-layden/biography.md` remains frozen
+and was not touched — the ENIGMA-video observations added this batch are
+community characterizations of footage already on record, not new
+biographical facts about Matt Layden himself.
+
+**Anchor checker:** both `anchorcheck.js` and `anchorcheck2.js` ran clean —
+0 broken links across 3,015 anchors (up from 3,005 at the end of batch
+388, +10 from the new headings and cross-links added this batch).
+
+## 2026-07-07 (batch 388: page_3871-page_3880)
+
+This batch covers ten messages dated **19-21 August 2006**, continuing
+directly from batch 387 with no new archive gap (msgnum run
+3903-3904-3905-3906-3907-3908-3909-3910-3911-3912 is distinct and fully
+consecutive, continuing from batch 387's last msgnum, 3902). All ten
+source `.eml` byte sizes matched the dispatch table exactly
+(19515/1584/3741/4824/3122/1732/4656/2953/1469/5535 for page_3871 through
+page_3880), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out.
+The very large page_3871 (19515 bytes) was confirmed as ONE archive
+message — Chris Curtis's Apple Mail reply on the maxi-paradox thread,
+inflated by a duplicated plain-text/HTML `multipart/alternative` body plus
+a fully-quoted copy of his own prior post — not multiple messages; pruned
+to its genuinely new content with no loss. The other three pages flagged
+large (page_3874, page_3877, page_3880) each proved to be a single
+ordinary message inflated by Thunderbird/Outlook Express
+`multipart/alternative` HTML duplication plus a quoted prior message, not
+multiple archive messages. No new pages created; three existing pages
+extended across three files. Four of the ten messages (page_3872,
+page_3873, page_3876, page_3877) were pure content-free banter — a
+continuing keyboard-glitch joke and copterpack's apology to Jack Gardiner
+for re-asking an already-answered steel question — excluded from the tree
+entirely per the pruning rubric, with no citations added since both
+exchanges were already fully covered by existing citations from prior
+batches.
+
+Two threads run through the batch, both continuations from batches
+384-387: "Paradox sails" (the furling-drum/boom-taper mechanics) and "I
+started the maxi paradox today" (the North Idaho builder's 18-19 ft
+enlarged Paradox).
+
+**`design/furling-system.md` extended** with a new subsection, "A second
+builder's own forward-gather fix, and Matt Layden's technique reconfirmed"
+(cites [75]-[77], numeric max 77 / distinct count 78 with the documented
+[29a] gap, up from 74/75). Glen Maxwell gave his own Mk1-then-Mk2 sail
+history on "Zoë" (the Mk1 sail since passed to another builder, "Bill
+Sargent") and his personal fix for the sail gathering forward while
+furling — tack attached close to the drum, clew end of the boom kept
+slightly raised, topping lift also in use — then relayed Matt Layden's own
+foot-pressure furling technique directly, in his own words, on the list.
+This is a **reconfirmation**, not new fact: the same technique is already
+recorded firsthand from Glen at the 2003 Cedar Key Messabout in
+`people/glen-maxwell/matt-layden-eyewitness.md` [11], so it was
+cross-linked rather than re-narrated, and `matt-layden/biography.md`
+(frozen) was correctly left untouched. Derek Clark thanked Glen and
+reported that he and Alastair had already tried varying the topping lift's
+height at the clew without success, planning to try again with his newly
+rebuilt boom. A brand-new correspondent, "Niels" (`sail2xs`/`sailzafu`,
+u=256251358 — confirmed distinct from the long-established "Nels,"
+`arvent`/`recree8`, u=62964199, via handle/`u=`/spelling together),
+confirmed the same foot-pressure technique works on his own non-Paradox
+boat, a "Seaward Fox," likening the stock gear to the F-27 trimaran's
+roller-furling boom.
+
+**`design/variants/stretched-paradox.md` extended** (cites [83]-[85],
+count 85/85, up from 82/82). Chris Curtis accepted the earlier veed-bottom
+suggestion for his enlarged hull and settled on building the bottom panel
+in two bonded layers rather than manhandling a single 19 ft plywood sheet,
+otherwise keeping the stock Paradox lower hull unmodified given his
+complete-amateur status; separately said he would like to build an
+Enigma-type boat too, but lacks the skill to work out its hull on his own.
+"Niels" then suggested a narrow dagger board for the enlarged hull's extra
+length (its case doubling as structural support for the deck or cabin
+roof) and asked where to place it; Jeff UK answered with a
+center-of-lateral-resistance placement rule (board near midships, matched
+whether up or down), pointed to the already-documented WaterTribe Ultimate
+Florida Challenge video of Enigma sailing to windward "quite respectably"
+in choppy water despite her lug rig (cross-linked to the existing citation
+on `matt-layden/enigma.md` rather than re-narrated), and questioned whether
+a centreboard is worth the added complexity given that performance.
+
+**`people/glen-maxwell/build-and-zoe.md` extended** (cite [250], count
+250/250, up from 249/249). The "Rig, furling, and sail" section now records
+"Zoë"'s own Mk1-to-Mk2 sail history and Glen's personal forward-gather fix,
+cross-linked to the fuller account on `design/furling-system.md` per the
+narrate-once-cross-link convention.
+
+**Backlog:** the long-running "joe_mapango"/Chris Curtis unconfirmed-identity
+item was updated in place with this batch's resurfacing (kept terse, per
+its own standing flag for compaction at the next holistic review, ~4000);
+a new below-threshold-newcomer Open item was added for "Niels"
+(`sail2xs`/`sailzafu`). A "Batch 388 correspondent + gap check" section was
+appended to `.okf-progress/backlog.md`. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 3,005
+anchors, up from 3,001 at the end of batch 387.
+
+## 2026-07-07 (batch 387: page_3861-page_3870)
+
+This batch covers ten messages dated **19-20 August 2006** (the last two
+spilling into the small hours of the 20th, 03:27-03:36 UTC, the same
+posting session as the 19th), continuing directly from batch 386 with no
+new archive gap (msgnum run 3893-3894-3895-3896-3897-3898-3899-3900-3901-3902
+is distinct and fully consecutive, continuing from batch 386's last msgnum,
+3892). All ten source `.eml` byte sizes matched the dispatch table exactly
+(5786/1840/2468/1778/5281/4329/2331/1661/10061/2269 for page_3861 through
+page_3870), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. The
+four pages flagged large in the dispatch table (page_3861, page_3865,
+page_3866, page_3869) each proved to be a single ordinary message inflated
+by Outlook Express/Thunderbird/Apple Mail `multipart/alternative` HTML
+duplication of the same plain-text body, plus (page_3869) a fully-quoted
+prior message and a long HTML signature block — not multiple archive
+messages — pruned to genuinely new content per the spec. No new pages
+created; nine existing pages extended across six files. All ten messages
+carried genuine Paradox-relevant content; none were excluded.
+
+Three threads run through the batch, interleaved by timestamp: the
+continuation of "Paradox sails" (the furling-drum/boom-taper mechanics and
+the Venetian-blind sail joke, both opened in earlier batches), the
+long-recurring "Steel Paradox?" question (finally answered this time,
+rather than going unanswered as in batch 386), and the continuation of "I
+started the maxi paradox today" (the birdsmouth-mast/tabernacle sub-thread
+opened batch 386).
+
+**`design/furling-system.md` extended (cites [73]-[74], numeric max 74 /
+distinct count 75 with the documented [29a] gap, up from 72/73).** Derek
+Clark, asked whether a bigger boom taper was now needed given the corrected
+7.5 in figure, was unconvinced it would help — the Mk2 sail's greater tack
+angle already pushes the tack-securing point back regardless of taper — and
+deferred to how his rebuilt mahogany boom actually performs. Stephen Yahn
+thanked Alastair for the furling-drum explanation ("a relief to hear...
+less parts to make").
+
+**`design/aluminum-construction-idea.md` extended (cites [120]-[122], count
+122/122, up from 119/119; citation [119]'s text corrected).** The
+three-year-recurring "Steel Paradox?" question — last recorded in batch 386
+as drawing no reply — was in fact answered the next day: Stephen Yahn
+recommended Thomas E. Colvin's *Steel Boatbuilding* and gave a reference
+figure (1/8 in steel plate ≈ 5.1 lb/sq ft); Jack Gardiner summed up the
+standing debate rather than reopening it ("well beaten," stock size
+questionable, a larger hull would work out better, consistent with his own
+2004 resolution to build wood first); Nels closed the recurrence with a
+one-line joke. Citation [119]'s "no reply is recorded" note was corrected
+to reflect the reply that did arrive.
+
+**`design/variants/stretched-paradox.md`'s "A builder's 18-19 ft 'maxi
+paradox,' under way" section extended (cites [80]-[82], count 82/82, up
+from 79/79).** Larry gave a full birdsmouth hollow-spar construction
+method — stave width/thickness ratios (diameter÷2.5 and diameter÷5), a
+worked 15×30 mm boom example, a tapering technique, and the end-plug
+fitting difficulty that once drove him to saw a mast in half lengthwise —
+then, the same day, corrected his own claim that a bigger taper needs a
+different stave ratio (a CAD drawing confirmed the width-to-diameter ratio
+is unchanged by a fixed thickness reduction). Chris Curtis, having just
+learned the term "tabernacle," explained his own preference to terminate
+the mast on deck rather than fold it, and that he was working through ten
+library books before committing either way.
+
+**`design/variants/scaled-down-idea.md` extended (cites [11]-[12], count
+12/12, up from 10/10).** "Jeff UK" closed his own Venetian-blind joke
+sub-thread with a one-liner blaming a keyboard glitch for missing R's.
+Separately, Nels extended the same joke into a more substantive aside:
+fitting Paradox's sailplan, chine runners, and furling convenience — scaled
+**up**, not down — onto Phil Bolger's 18 ft Camper design #640, with a
+150 sq ft sail, and (in the same joking spirit as the thread) batteries
+doing triple duty as ballast, venetian-blind-slat power, and a cold-drinks
+cooler.
+
+**`people/stephen-yahn.md`, `people/derek-clark.md`, `people/jack-gardiner.md`,
+`people/jeff-doryman.md`, and `people/nels.md` extended** with one-line
+summaries and cross-links for each correspondent's contribution above
+(cites [12]-[13], [83], [212], [57], and [169] respectively), per the
+narrate-once-cross-link convention.
+
+Citation integrity verified across all nine touched files (full numeric
+sort of `[N]` anchors, count vs. numeric max, both before and after
+edits) — all match expected counts, respecting every file's documented
+pre-existing gaps. Anchor checker (`anchorcheck.js` and `anchorcheck2.js`)
+run clean: **0 broken across 3,001 anchors**, up from 2,987 at the end of
+batch 386. `cursor.txt` advanced to **3870**.
+
+## 2026-07-07 (batch 386: page_3851-page_3860)
+
+This batch covers ten messages all dated **19 August 2006**, continuing
+directly from batch 385 with no new archive gap (msgnum run
+3883-3884-3885-3886-3887-3888-3889-3890-3891-3892 is distinct and fully
+consecutive, continuing from batch 385's last msgnum, 3882). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(1754/3866/1769/2882/1393/4617/2059/2447/1567/1753 for page_3851 through
+page_3860), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. The
+two pages flagged large in the dispatch table (page_3852, page_3856) each
+proved to be a single ordinary message inflated by AOL/Thunderbird
+`multipart/alternative` HTML duplication and/or a quoted Outlook Express HTML
+reply chain — not multiple archive messages — pruned to genuinely new
+content per the spec. No new pages created; six existing pages extended. One
+message (Steve/copterpack's bare "Steel Paradox?" recurrence) drew no reply
+within the batch; three messages from a brand-new correspondent (Rachel,
+`penokee`/`penokeeblue`) were pure off-topic Mac-keyboard banter with zero
+Paradox content and were excluded from the tree per the pruning rubric,
+recorded only as a new below-threshold-newcomer backlog item.
+
+Two threads run through the batch, interleaved by timestamp: the
+continuation of "Paradox sails" (opened batch 382/383/384/385 — the
+furling-drum/boom-taper mechanics, corrected here) and the continuation of
+"I started the maxi paradox today" (the 18-19 ft enlarged Paradox begun in
+batch 384 — extended here with a birdsmouth-mast alternative to the folding
+tabernacle).
+
+**`design/furling-system.md` extended (cites [71]-[72], numeric max 72 /
+distinct 73 with the documented [29a] gap, up from 70/71).** Derek Clark
+corrected his own previously-cited Mk2 sail forward-creep figure: **7.5 in**,
+not 2.5 in — a typo in his earlier report, not a re-measurement — while
+restating the Mk1 (near-90-degree tack, furls on itself) versus Mk2 (greater
+tack angle, forward creep) explanation, and reported building a new boom
+from leftover mahogany. Larry confirmed the Mac degree-symbol technique and
+asked whether a bigger boom taper would now be in order given the corrected
+figure. The body prose's own stated forward-creep figure was corrected from
+2.5 in to 7.5 in to match.
+
+**`design/variants/stretched-paradox.md`'s "A builder's 18-19 ft 'maxi
+paradox,' under way" section extended (cites [78]-[79], count 79/79, up
+from 77/77).** Responding to Derek Clark's tabernacle musing, Larry suggested
+the mechanical challenge of hand-raising a mast (needing forestay leverage or
+a bracing strut) could be sidestepped by building a lighter mast outright,
+proposing hollow birdsmouth construction; the builder actually facing the
+tabernacle question was unpersuaded — birdsmouth is not obviously simple, and
+attempting it would mean cutting up his existing mast regardless, with no
+guarantee of a working replacement.
+
+**`design/variants/scaled-down-idea.md` extended (cites [9]-[10], count
+10/10, up from 8/8).** The Venetian-blind sail joke closed out with two more
+one-liners: a mock-serious promise to consult the "Armature Yacht Research
+Society," and a deadpan follow-up asking whether the joke sail would be
+"controlled by electric motors" and what that implied for battery size.
+
+**`design/aluminum-construction-idea.md` extended (cite [119], count
+119/119, up from 118/118).** The bare question "would it be an option to
+build Paradox in steel?" recurred once more in 2006, unelaborated and
+unanswered on record — the extensive 2003-2004 steel debate already on this
+page remains the closest the archive comes to a reply.
+
+**`people/derek-clark.md` extended (cites [81]-[82], count 82/82, up from
+80/80)** with the boom-taper correction/mahogany-boom note and the
+birdsmouth pushback, both cross-linked rather than re-narrated. **
+`people/jeff-doryman.md`'s "Jeff UK" subsection extended (cite [56], numeric
+max 56 / distinct 57 with the documented [39a] gap, up from 55/56)** with
+the "Armature Yacht Research Society" joke closing out the 7'6" Enigma-rig
+aside. **`people/alastair.md`** was read for context but not edited this
+batch — Alastair was quoted (his batch-385 boom dimensions and Venetian-
+blind joke) but authored no new message.
+
+Correspondents this batch: Derek Clark (`dclark`/`dclark52001`, established,
+4 messages), Larry (`LJGeib`/`lorenzojose2000`, u=32666901 — the second,
+distinct "Larry," not Larry Whited, established, 1 message), "Jeff"/"Jeff
+UK" (`apcf14`/`roverticket`, u=117851260, established below-threshold
+unconfirmed-identity correspondent, reconfirmed distinct from `doryman_uk`,
+1 message), "copterpack" (`gilbertvm`, u=170782875 — a new u= value for this
+already-established below-threshold handle, no conflict, 1 message), and
+Rachel (`penokee`/`penokeeblue`, u=201467060 — brand-new correspondent, 3
+off-topic messages, new backlog item, no citation added). No attribution
+traps triggered (no David Beard/LeBlanc, no Jack Gardiner/mat_man22, no
+three-Larrys conflation, no Bill-name collisions, no azskybum-vs-Chris-
+Curtis conflation, no Jeff-UK/`doryman_uk` conflation). `matt-layden/
+biography.md` frozen and not touched. Archive timeline holds at 19 August
+2006. Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0
+broken across 2,987 anchors, up from 2,983 at the end of batch 385. Full
+correspondent/gap-check detail recorded in `.okf-progress/backlog.md` under
+"Batch 386 correspondent + gap check."
+
+## 2026-07-07 (batch 385: page_3841-page_3850)
+
+This batch covers ten messages all dated **19 August 2006**, continuing
+directly from batch 384 with no new archive gap (msgnum run
+3873-3874-3875-3876-3877-3878-3879-3880-3881-3882 is distinct and fully
+consecutive, continuing from batch 384's last msgnum, 3872). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(4248/10749/1935/2299/3986/2328/5735/1992/2129/12066 for page_3841 through
+page_3850), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. Four
+pages were flagged large in the dispatch table (page_3841/3842/3845/3847);
+each proved to be a single ordinary message inflated by client-side
+multipart/alternative HTML duplication (AOL/Thunderbird and Apple Mail) plus
+full quoted-reply chains — not multiple archive messages — pruned to
+genuinely new content per the spec. No new pages created; six existing pages
+extended.
+
+Two threads run through the batch, interleaved by timestamp: the continuation
+of "Paradox sails" (opened batch 382/383/384 — the furling-drum/boom-taper
+mechanics, extended here with worked dimensions) and the continuation of
+"I started the maxi paradox today" (the 18-19 ft enlarged Paradox begun in
+batch 384 — extended here with mast/sail-sizing and a tabernacle-mast
+follow-up).
+
+**`design/furling-system.md` extended (new subsection "Worked boom
+dimensions for the Mk1 taper" under the existing "Mk1/Mk2 tack-angle
+difference" section, cites [69]-[70], numeric max 70 / distinct 71 with the
+documented [29a] gap, up from 68/69).** A second correspondent ("Larry")
+independently suggested tapering the boom to counter the sail's forward
+creep while furling, guessing a 3/8 in diameter difference (working out to
+29.92 mm of circumference) before deferring to Alastair's fuller
+explanation already on record. Alastair then gave his own Mk1 boom's exact
+worked dimensions — 50 x 38 mm at the clew, 35 x 38 mm at the tack, about
+30 mm difference in circumference — confirming the 3/8 in guess almost
+exactly, and reported the Mk2 sail's ~2.5 in forward creep (citing Derek
+Clark's figure) stays well clear of the drum once the boom is set up, with
+furling itself "as easy as it looked" in the WaterTribe video of Matt
+Layden's roller-blind demonstration, apart from rope blisters until the
+hands harden.
+
+**`design/variants/stretched-paradox.md`'s "A builder's 18-19 ft 'maxi
+paradox,' under way" section extended (cites [75]-[77], count 77/77, up from
+74/74).** The North Idaho builder answered that he planned a lug sail but
+needed a method for sizing the mast and sail area, a question left open for
+the winter's work. Derek Clark offered a data point against needing a
+folding tabernacle mast at all (his own mast is light enough to lift in and
+out single-handed from the foredeck) but judged one could still suit
+river/canal cruising with low bridges, needing only a forestay to help haul
+it upright. "Jeff UK" then answered the mast/sail-sizing question directly:
+design the mast first to fit the enlarged hull, then scale the Mk2 sail to
+match (expecting a slight reduction once drawn), using the stock sail plan
+as a guide for the sail's lead — recalling a past calculation of just under
+10%.
+
+**`design/variants/scaled-down-idea.md` extended (cites [7]-[8], count 8/8,
+up from 6/6).** A never-elaborated echo of this page's own scaled-down
+concept surfaced in the unrelated boom-material sub-thread: prompted by
+Nels's carbon-tape boom-core idea, "Jeff UK" declared himself ready to draw
+up the rig for a "7' 6" version of PARADOX / ENIGMA" discussed off-list —
+close in size to this page's 7.6 ft proposal, but no drawings or further
+mention followed, beyond Alastair's joking reply about a Venetian-blind
+sail depowered by opening its slats.
+
+**`people/jeff-doryman.md`'s "Jeff UK" subsection extended (cites [54]-[55],
+numeric max 55 / distinct 56 with the documented [39a] gap, up from 53/54)**
+with the 7'6" Enigma-rig aside and the mast/sail-scaling answer to Chris
+Curtis, both cross-linked rather than re-narrated. **`people/derek-clark.md`
+extended (cite [80], count 80/80, up from 79/79)** with his tabernacle-mast
+data point. **`people/alastair.md` extended (cites [322]-[323], count
+323/323, up from 321/321)** with his worked boom-taper dimensions and the
+furling-ease/blister detail.
+
+Correspondents this batch: Larry (`LJGeib`/`lorenzojose2000`, u=32666901 —
+the second, distinct "Larry," not Larry Whited, established since batch
+384's predecessor threads), Alastair (`openboat`/`alopenboat`, established),
+Chris Curtis (`ccurtis`/`joe_mapango`, u=181858645, the below-threshold,
+unconfirmed-identity 2006 North Idaho correspondent — his signature again
+reads "Chris Curtis / Sandpoint Computers" with the same phone numbers as
+batches 373/377/383/384, and his header again routes through
+`spt217.nidaho.net`, reconfirming but not adding to the identity signal
+already tracked in the backlog against the established Sandpoint, Idaho
+Chris Curtis of `boats/curtis-paradox.md` — kept separate), "Jeff UK"
+(`apcf14`/`roverticket`, established below-threshold unconfirmed-identity
+correspondent, reconfirmed distinct from `doryman_uk`), and Derek Clark
+(`dclark`/`dclark52001`, established). No new correspondents this batch; no
+attribution traps triggered. `matt-layden/biography.md` frozen and not
+touched. Archive timeline holds at 19 August 2006. Anchor checkers
+(`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,983
+anchors, up from 2,974 at the end of batch 384. Full correspondent/gap-check
+detail recorded in `.okf-progress/backlog.md` under "Batch 385 correspondent
++ gap check."
+
+## 2026-07-07 (batch 384: page_3831-page_3840)
+
+This batch covers messages all dated **18-19 August 2006**, continuing
+directly from batch 383 with no new archive gap (msgnum run
+3863-3864-3865-3866-3867-3868-3869-3870-3871-3872 is distinct and fully
+consecutive, continuing from batch 383's last msgnum, 3862). All ten source
+`.eml` byte sizes matched the dispatch table exactly
+(2035/2580/7533/9593/2830/8256/4219/9810/2072/2021 for page_3831 through
+page_3840), confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read
+before any content read — no same-size pair, stale-read risk ruled out. Five
+pages were flagged large in the dispatch table (page_3833/3834/3836/3837/3838);
+each proved to be a single ordinary message inflated by client-side
+multipart/alternative HTML duplication (Apple Mail and Outlook Express) plus
+full Yahoo-style quoted reply chains — not multiple archive messages — pruned
+to genuinely new content per the spec. No new pages created; seven existing
+pages extended.
+
+Two threads run through the batch: the continuation of the "Paradox sails"
+thread (opened batch 382/383 — why the sail is sleeved, extended here into
+the furling-drum/boom-taper mechanics) and a new "I started the maxi paradox
+today" thread (a builder starting an 18-19 ft enlarged Paradox).
+
+**`design/furling-system.md` extended (new section "The Mk1/Mk2 tack-angle
+difference, and why the sail can't be fenced onto the drum," cites [65]-[68],
+numeric max 68 / distinct 69 with the documented [29a] gap, up from 64/65).**
+Stephen Yahn asked whether a stationary housing/fence around the furling drum
+would keep the sail positioned and the furling line on; Alastair explained why
+it would not work — the sail's furled position on the boom is set by the boom's
+taper and the sail's tack angle, not by any fence, the near-90° Mk1 sail
+furling on top of itself while the taller >90° Mk2 sail wants to move forward
+toward the drum (needing ~2.5 in clearance), a fence only jamming it — and that
+the stock furling line, never run slack, has never come off the drum in three
+seasons (the topping lift being the part that actually fouls). Cross-linked to
+the boom-taper technique on `design/rig.md`.
+
+**`design/rig.md` "reefing triangle" section extended (cites [253]-[254],
+numeric max 254 / distinct 256 with the documented [7a]/[7b] pair, up from
+252/254).** Added the general boom-taper principle for controlling the sail's
+furled position relative to the drum (larger outboard diameter = sail further
+from the drum, tunable with a plane/spokeshave or built up with wrapped
+draught excluder), Alastair's own under-tapered-boom retrofit (rigid-foam wedge
+taped at the clew), Jeff UK's plastic-water-pipe laminated boom idea, and
+Nels's carbon-fiber-tape-wrapped rigid-foam boom core — both light-boom
+alternatives hidden (and UV-protected) by the sail's sleeve. This section is the
+canonical home for the boom-taper/boom-construction knowledge, cross-linked from
+`furling-system.md` [67]/[68].
+
+**`people/alastair.md`** — existing "reefing triangle and boom taper" bullet
+extended (cite [321], count 321/321) with the tack-angle/drum mechanics and his
+"taper of boom" self-correction plus foam-wedge retrofit, cross-linked to both
+`furling-system.md` and `rig.md`.
+
+**`people/jeff-doryman.md`** ("Jeff UK" sub-section) — two new bullets (cites
+[52]-[53], numeric max 53 / distinct 54 with the documented [39a] gap, up from
+51/52): his boom-taper/plastic-pipe-boom contribution on the sails thread, and
+his Enigma-style vee-the-bottom suggestion to the maxi-paradox builder. (No
+[52] gap: numbering runs consecutively; the sole documented gap remains [39a].)
+
+**`people/stephen-yahn.md`** — new paragraph (cite [11], count 11/11) for his
+roller-furling housing/fence question, cross-linked to `furling-system.md`.
+
+**`people/nels.md`** — two new bullets (cites [167]-[168], count 168/168): his
+carbon-tape boom-core alternative plus his admiration of Matt Layden's sailplan
+(recalling Matt landing Enigma in the Florida Challenge), and his tabernacle-mast
+engineering caution to the maxi-paradox builder.
+
+**`design/variants/stretched-paradox.md` extended (new section "A builder's
+18-19 ft 'maxi paradox,' under way," cites [72]-[74], count 74/74, up from
+71/71).** Chris Curtis (`ccurtis`/`joe_mapango`) reported taking delivery of
+plywood and starting an 18 ft (possibly 19 ft) enlarged Paradox modeled on the
+plans' "ultimate cruiser?" concept — the largest scale-up the archive records a
+builder committing wood to — with a BRIS-style top deck, external cockpit, a
+Little-Cruiser-braced tabernacle mast, a 6.5 ft forward double berth, and a
+9.5 ft practice pram and balsa mockup under way first; Jeff UK suggested veeing
+the bottom forward like Enigma to save displacement, and Nels flagged the
+tabernacle mast as the real engineering risk. Cross-linked to
+`scaled-down-idea.md` (his opposite, earlier mini-Paradox idea) and the backlog
+disambiguation against the established Sandpoint, Idaho Chris Curtis; no boat
+name on record for the enlarged build.
+
+**Attribution checks.** All six correspondents confirmed via `From:`/Yahoo
+`u=`/profile against standing identities, no drift: Stephen Yahn
+(`yahns`/`yahn101a`, u=207571043), Alastair (`openboat`/`alopenboat`,
+u=275164091 — the documented outlier `u=`, same person per the standing note),
+"Jeff UK" (`apcf14`/`roverticket`, u=117851260 — reconfirmed distinct from
+established `doryman_uk`; same handle, no shared boat name/self-identification/
+Paramour reference, no new linking detail), Nels (`arvent`/`recree8`,
+u=62964199), Derek Clark (`dclark52001`, u=24083034), Matt Noonan
+(`twitch_816`/`men99` — quoted, did not author this batch; reconfirmed distinct
+from Matt Layden), and Chris Curtis (`ccurtis`/`joe_mapango`, u=181858645 —
+the unconfirmed-identity 2006 correspondent, kept SEPARATE from the established
+Sandpoint, Idaho Chris Curtis per the standing backlog flag). No David
+Beard/LeBlanc, Jack Gardiner/mat_man22, three-Larrys, Bill-name, or
+azskybum-Curtis traps triggered. `matt-layden/biography.md` frozen and not
+touched.
+
+**Backlog:** the "joe_mapango"/Chris Curtis unconfirmed-identity item updated
+in place (real build progress this batch — an 18-19 ft enlarged Paradox actually
+started, plywood in hand, though still no boat name; kept unmerged); a "Batch
+384 correspondent + gap check" section appended. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) clean: 0 broken across 2,974 anchors
+(up from 2,955 at end of batch 383).
+
+## 2026-07-07 (batch 383: page_3821-page_3830)
+
+This batch covers messages spanning **13-18 August 2006**, continuing
+directly from batch 382 with no new archive gap (msgnum run
+3853-3854-3855-3856-3857-3858-3859-3860-3861-3862 is distinct and fully
+consecutive, continuing directly from batch 382's last msgnum, 3852). All
+ten source `.eml` byte sizes matched the dispatch table exactly
+(2284/1865/2281/1810/15249/1400/1739/1663/5855/1627 for page_3821 through
+page_3830), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out. Two of the ten
+(page_3825, page_3829) were flagged large in the dispatch table, but each
+proved to be a single ordinary message inflated by client-side
+multipart/alternative HTML duplication (Apple Mail and Outlook Express
+respectively) plus, in page_3829's case, a full quoted reply chain — not
+multiple archive messages — pruned to genuinely new content per the spec.
+No new pages created; eight existing pages extended.
+
+Four threads run through the batch: the tail of "Mini Paradox idea" (opened
+batch 382), a short "Tiller Shape" coda (opened batch 381, closed here), a
+new "Rudder" thread on pintle/gudgeon centerline placement, and a new
+"Paradox sails" thread on why the sail is sleeved rather than lashed.
+
+**`design/variants/scaled-down-idea.md` extended (cites [3]-[6], count
+6/6) — the "Mini Paradox idea" thread's resolution.** Matt Noonan
+suggested a weekend-buildable PDRacer as a cheaper alternative; Ray
+(`knobmaker`/`rhaldridge`, the archive's long-standing below-threshold
+catamaran-designer correspondent) judged the scale-down plausible given
+Matt Layden's own Enigma is already a scaled-down Paradox, but recommended
+a secondhand fiberglass boat or a Jim Michalak design instead for fastest,
+cheapest results; Neil Barratt gave a firsthand caution from his own
+similarly tiny boat — unstable until fitted with pipe-insulation sponsons,
+at the cost of moving away from the original concept — and pointed to the
+Bolger Minuet as a properly-ballasted small-yacht alternative. The original
+proposer (`ccurtis`/`joe_mapango`) then closed the thread: judged the
+scale-down too risky given his own reduced-beam concern and lack of naval-
+architecture background, and reported having instead started a different
+small boat that same weekend — a modified plywood pram with a V-bottom from
+John Gardner's *Building Classic Small Craft*. Frontmatter description
+updated to reflect the idea's abandonment. This correspondent remains the
+same below-threshold, unconfirmed-identity 2006 "Chris Curtis" tracked
+since batch 373 against the established Sandpoint, Idaho Chris Curtis of
+`boats/curtis-paradox.md` — kept separate per standing project caution.
+
+**`design/rudder.md` extended (cites [64]-[65], count 65/65).** Derek
+Clark confirmed he used his bent galvanized pipe directly as the finished
+tiller (no separate lamination), closing the "Tiller Shape" thread. A new
+"Rudder" thread added a real-world data point to the existing "rudder
+pivot point on the transom centerline" section: Stephen Yahn asked whether
+the gudgeons/pintles (as opposed to the blade's own pivot bolt) should
+mount on the centerline; Alastair confirmed his own do, putting the blade
+itself very slightly to starboard and the tiller very slightly to port — a
+minor, purely cosmetic asymmetry.
+
+**`boats/jill.md` extended (new section "Why the sail uses sleeves rather
+than lashings, and a first sail of the 2006 season," cites [32]-[34],
+count 34/34).** The new "Paradox sails" thread: Matt Noonan relayed a local
+sailmaker's question about why the Paradox sail is fitted with sleeves on
+the yard and boom rather than lashings; Jack Gardiner judged it Matt
+Layden's preference for simplicity, gave his own bottom-layup detail (a
+single layer of 12 oz biax cloth, about a gallon of epoxy, noting biax was
+scarce when the original Paradox was built), and reported Jill's first
+sail of the 2006 season (6-10 kt wind, four hours without touching the
+tiller). Nels agreed and added that sleeves also give cleaner airflow and
+work better with roller reefing than ties would. The general sleeve-vs-
+lashing rationale (simplicity, airflow, roller-reefing compatibility) was
+also folded into **`design/rig.md`**'s existing "Rolling boom and sail
+foot" section (cites [251]-[252], count 254/252 — the file's known
+pre-existing `[7a]`/`[7b]` suffix pair accounts for the +2), per
+narrate-once-cross-link (general technique on the topic page, Jack's own
+build/sailing narrative kept in full on the boat page).
+
+**`people/matt-noonan-ithaca.md` extended (cites [10]-[11], count 11/11),
+`people/jack-gardiner.md` extended (cite [211], count 210/211 — the file's
+known pre-existing +1 gap at `[53]` accounts for the -1), `people/nels.md`
+extended (cite [166], count 166/166), `people/alastair.md` extended (cite
+[320], count 320/320), `people/stephen-yahn.md` extended (cites [9]-[10],
+count 10/10), and `people/derek-clark.md` extended (cite [79], count
+79/79) — all per narrate-once-cross-link, summary-plus-link only, full
+technique/narrative on the linked topic or boat page.**
+
+**Backlog:** updated the Neil Barratt below-threshold watch-list item and
+the "joe_mapango"/Chris Curtis unconfirmed-identity item in place with
+this batch's resurfacings; appended a "Batch 383 correspondent + gap
+check" section. No exclusions this batch — all ten messages carried
+genuine Paradox-relevant content. Anchor checker (both `anchorcheck.js`
+and `anchorcheck2.js`) run clean: 0 broken across 2,955 anchors (up from
+2,937 at the end of batch 382).
+
+## 2026-07-07 (batch 382: page_3811-page_3820)
+
+This batch covers messages spanning **11-13 August 2006**, continuing
+directly from batch 381 with no new archive gap (msgnum run
+3843-3844-3845-3846-3847-3848-3849-3850-3851-3852 is distinct and fully
+consecutive, continuing directly from batch 381's last msgnum, 3842). All
+ten source `.eml` byte sizes matched the dispatch table exactly
+(2214/1925/1479/2532/6691/9168/6998/2114/2307/2032 for page_3811 through
+page_3820), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out. Three of the ten
+(page_3815, page_3816, page_3817) were large, but each proved to be a single
+ordinary message carrying heavy Yahoo-style full-quote reply chains and/or
+an HTML MIME alternative part, not multiple archive messages — pruned to
+their genuinely new content per the spec. One new page created; seven
+existing pages extended.
+
+Three threads run through the batch: the tail of "Tiller Shape" (opened
+batch 381), a new "Ballast" thread (a hypothetical motor-only "Power
+Paradox"), and a new "Mini Paradox idea" thread (a newcomer's proposed
+scaled-down hull, unrelated to the established "Mini Paradox"/Enigma name).
+
+**`design/rudder.md` extended (existing heading "Tiller construction:
+laminated wood versus bent metal tube" retained; cites [60]-[63], count
+63/63).** Closed out the "Tiller Shape" thread: a wire-template method for
+finding the needed curve by bending stiff wire against the rudder stock and
+checking clearance as the rudder swings; a bent-galvanized-pipe tiller made
+by working one-inch pipe through a hole drilled in a 4x2 block; and Stephen
+Yahn's closing follow-ups. The tiller's own length and amount of curve
+remain unspecified on the plans, an open question left on the record since
+batch 381.
+
+**`operations/auxiliary-outboard-power.md` extended (new section
+"Ballasting for power-only use, and a full \"Power Paradox\" conversion
+scheme," cites [41]-[44], count 44/44).** David Beard asked how much
+ballast a motor-only "Power Paradox" would need to stay stable; Alastair
+answered from experience that underballasting is forgiving, not
+dangerous — "Enuf" sailed significantly underballasted at her first launch
+with only increased tenderness to show for it (cross-linked to
+`boats/enuf.md` rather than re-narrated) — and recommended simply removing
+ballast and testing empirically. "Jeff UK" (`apcf14`/`roverticket`) then
+gave the fullest motor-only conversion scheme on record: reduced draught
+and rocker, a small 2-2.5 hp four-stroke with a cabin-led throttle, trim
+adjusted by tilting the engine rather than shifting ballast (the hull will
+not plane regardless of engine size, consistent with the file's existing
+finding), no chine runners needed, a forward deck hatch and solar vent
+replacing the vent trunk, a fold-down single-burner galley in the same
+area, Little-Cruiser-style wash boards, and 2 in of added transom rake with
+a small outboard well and skeg.
+
+**New page `design/variants/scaled-down-idea.md` created (cites [1]-[2],
+count 2/2), linked from `design/variants/index.md`.** A newcomer
+(`ccurtis`/`joe_mapango`) proposed a .55-scale, ~7.6 ft stitch-and-glue
+single-sheet "mini" Paradox as a quick, cheap way onto the water while his
+own full-size build was still ahead of him; Stephen Yahn's only reply
+offered no verdict, instead recalling his own earlier idea of fitting a
+Paradox deck, cabin, chine runners, and sail rig onto a Bolger Brick hull
+instead. The page states plainly, per the spec's identity-merge caution,
+that this is unrelated to the established "Mini Paradox" working name
+(which was the 2005 nickname for what is now confirmed to be Matt Layden's
+own Enigma) and cross-links to `matt-layden/enigma.md` to prevent
+confusion. This correspondent is the same below-threshold, unconfirmed-
+identity 2006 "Chris Curtis" tracked since batch 373 against the
+established Sandpoint, Idaho Chris Curtis of `boats/curtis-paradox.md` —
+kept separate per standing project caution; not merged.
+
+**`people/stephen-yahn.md` extended (cites [6]-[8], count 8/8),
+`people/alastair.md` extended (cites [318]-[319], count 319/319),
+`people/derek-clark.md` extended (cite [78], count 78/78),
+`people/david-beard.md` extended (cites [263]-[264], count 264/264), and
+`people/jeff-doryman.md` extended (cite [51], count 52/51 — the file's
+known pre-existing `[39a]` suffix pair accounts for the +1) — all per
+narrate-once-cross-link, summary-plus-link only, full technique on the
+linked concept page.**
+
+Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) both ran clean: 0
+broken links across 2,937 anchors. No off-topic exclusions this batch —
+all ten messages carried genuine Paradox-relevant content. Archive timeline
+advances from 11 August 2006 to 13 August 2006.
+
+## 2026-07-07 (batch 381: page_3801-page_3810)
+
+This batch covers messages spanning **8-11 August 2006**, continuing
+directly from batch 380 with no new archive gap (msgnum run
+3833-3834-3835-3836-3837-3838-3839-3840-3841-3842 is distinct and fully
+consecutive, continuing directly from batch 380's last msgnum, 3832). All ten
+source `.eml` byte sizes matched the dispatch table exactly (1438/2560/2955/
+2131/2634/2706/3355/1378/1758/1650 for page_3801 through page_3810),
+confirmed via direct `wc -c` and header read before any content read — no
+same-size pair, stale-read risk ruled out; every message was a single,
+ordinary plain-text or short multipart/alternative reply, no unusual
+boilerplate. No new pages created this batch; six existing pages extended.
+
+Three threads run through the batch: the continuation of "Question about
+lightning protection" (opened batch 380), a new "Glass over plywood -
+deterioration" thread, and a new "Tiller Shape" thread.
+
+**`design/lightning-protection.md` extended (heading renamed from "Where the
+copper flashing sits in the layup: left open" to "Where the copper flashing
+sits in the layup, and copper's bonus as an antifoulant," cites [7]-[9],
+count 9/9) and `people/matt-noonan-ithaca.md` extended (cites [8]-[9], count
+9/9).** Glen Maxwell's own build answers the layer-order question left open
+at the end of batch 380 in practice: the copper grounding flashing is bonded
+straight to the bare wood, then faired over the top with microballoons and
+sanded fair — exposed at the hull's outer surface, not buried beneath glass
+or bottom paint. Matt Noonan's follow-up asked whether the exposed copper
+also works as an antifoulant; Glen confirmed it does, sparing a copper-clad
+bottom from separate anti-fouling paint and its yearly maintenance.
+`people/glen-maxwell/build-and-zoe.md` also extended (existing "lightning-
+protection ground plate" bullet, cite [249], count 249/249) with the same
+antifouling fact, cross-linked rather than re-narrated.
+
+**`people/stephen-yahn.md` extended (new section "Continued build progress:
+grounding, hull-condition testing, and the tiller," cites [2]-[5], count
+5/5).** Stephen Yahn chose a one-inch copper pipe doing double duty as both
+his vent-trunk drain and mast lightning-ground conductor; contributed a
+practical tap-test hull-condition technique to a newcomer's question; and
+opened an unanswered tiller-dimensioning question after Alastair's
+nail-lamination technique didn't address the length/curve he was actually
+after.
+
+**`construction/rot-inspection-ice-pick.md` extended (new section "An
+alternative, tool-free technique: the tap test," cites [20]-[22], count
+22/22).** Dmitry Orlov (established below-threshold correspondent, still no
+Paradox of his own) asked how to assess an older, similarly-constructed
+glass-over-plywood boat's hull condition before buying it; Stephen Yahn
+answered with the tap test (listen for a sharp tight tone versus a dull
+one), and "Jeff UK" added that rot in a glassed-over plywood boat is
+normally caused by fresh water and bad storage. Filed here rather than on
+`construction/plywood-grades-and-foam-flotation.md`, per that file's own
+existing distinction between choosing plywood grade for a *new* build and
+surveying an *already-built* hull for hidden rot.
+
+**`design/rudder.md` extended (existing section "Tiller construction:
+laminated wood versus bent metal tube," cites [57]-[59], count 59/59) and
+`people/alastair.md` extended (new bullet, cite [317], count 317/317).**
+Alastair's own tiller-making method — banging a row of nails into a board
+traced to the desired curve, then laminating the tiller's wood strips
+directly around them — adds a third technique alongside the section's
+existing ash-lamination and bent-metal-tube methods. The tiller's actual
+length and amount of curve are not spelled out on the plans and remain an
+open question on the record; Stephen Yahn's follow-up asking specifically
+for those dimensions went unanswered within the batch.
+
+**Attribution checks:** Glen C. Maxwell (`ifida`/`ifida2000`), Matt Noonan
+(`men99`/`twitch_816`, Ithaca NY — explicitly not Matt Layden), Dmitry Orlov
+(`dmitry.orlov`/`orlov_dm`), "Jeff UK" (`apcf14`/`roverticket`,
+u=117851260 — still the standing unconfirmed identity vs. established
+`people/jeff-doryman.md`/`doryman_uk`, no new linking detail either way),
+and Stephen Yahn (`yahns`/`yahn101a`) all confirmed via `From:`/Yahoo
+`u=`/profile against standing identities, no drift. Alastair's reply
+(page_3809) carries the documented outlier `u=275164091` (`openboat`/
+`alopenboat`) rather than his usual `u=214650167` — the known outlier,
+reconfirmed same person, not a new identity question. None of David
+Beard/David LeBlanc, Jack Gardiner/`mat_man22`, the three "Larry"s, the
+established "Wayne"s/"Bill"s, or Curtis/`azskybum` vs. established Chris
+Curtis were implicated this batch. `matt-layden/biography.md` (frozen) was
+not touched — no new Matt Layden biographical content surfaced.
+
+**No exclusions this batch.** All ten messages carried genuine
+Paradox-relevant construction content (lightning grounding and antifouling;
+hull-condition survey technique; tiller shaping) — none met the pruning
+rubric's zero-Paradox-content bar, so no catch-all off-topic page was
+created or resurrected (`references/off-topic-cross-posts.md` remains
+deleted).
+
+**Backlog:** Dmitry Orlov's and "Jeff UK"'s standing below-threshold/
+unconfirmed-identity Open items both updated in place with this batch's
+resurfacings. "Batch 381 correspondent + gap check" section appended to
+`backlog.md`. Anchor checker (both `anchorcheck.js` and `anchorcheck2.js`)
+run clean: 0 broken across 2,925 anchors. Cursor set to 3810.
+
+## 2026-07-07 (batch 380: page_3791-page_3800)
+
+This batch covers messages spanning **28 July - 7 August 2006**, continuing
+directly from batch 379 with no new archive gap (msgnum run
+3823-3824-3825-3826-3827-3828-3829-3830-3831-3832 is distinct and fully
+consecutive, continuing directly from batch 379's last msgnum, 3822). All ten
+source `.eml` byte sizes matched the dispatch table exactly (14294/3407/3546/
+3275/1277/2893/1526/4278/1399/2898 for page_3791 through page_3800),
+confirmed via direct `wc -c` and header read before any content read — no
+same-size pair, stale-read risk ruled out. The two flagged large pages were
+both confirmed to be ONE archive message each: page_3791 (14294 bytes) is
+Glenn Lundström's English-language follow-up reply, its size coming from a
+paired plain-text/HTML MIME-alternative encoding of the same short message
+plus a full quoted copy of Bengt Genell's prior "Ladikan launched at last"
+post in both parts; page_3798 (4278 bytes) is Jeff UK's "ParaPlastic" answer,
+its size coming from a paired plain-text/HTML MIME-alternative encoding of
+the same short answer plus a fully quoted copy of Cary's original question in
+both parts. No new pages created this batch; seven existing pages extended.
+
+Four threads run through the batch: the tail of "Ladikan launched at last"
+(three congratulatory replies plus a new correspondent's English-language
+self-introduction), the automated closing notice for Stephen Yahn's ballast-
+weight poll (opened batch 379), a new "Enuf in the water" launch-report
+thread, a new "ParaPlastic" construction-terminology thread, and a new
+"Question about lightning protection" thread.
+
+**`boats/ladikan.md` extended (cites [4]-[7], count 7/7).** Recorded the
+launch's full reply set: Glenn Lundström's English-language re-introduction
+(apologizing for having replied in Swedish first), congratulations from Glen
+Maxwell and Derek Clark (the latter asking for more cabin photos and noting
+he was himself on target to launch "Enuf" the following Monday), and Stephen
+Yahn's ballast question (having likewise skipped a water tank on
+"Ironsides").
+
+**`boats/enuf.md` extended (new section "Launched: three days in Poole
+Harbour, and lessons from the outboard," cite [250], count 250/250) and
+`people/derek-clark.md` extended (summary + link, cite [77], count 77/77).**
+Derek Clark launched and sailed "Enuf" for the first time over three days in
+Poole Harbour alongside Alastair and "Little Jim" — an eventful maiden outing
+(one mudbank and three moored boats struck, a near-miss with a channel
+marker, a sleepless first night worrying about water ingress) that exposed a
+double problem with the fitted outboard (fouling the mainsheet, and forcing
+an awkward reach to the throttle that let the steering wander, the direct
+cause of the double collision when the tiller jammed in the foam). Derek
+came away planning to relocate the motor to starboard, extend the tiller,
+try a different mainsheet lead, and build a new boom.
+
+**`boats/bris-paradox.md` extended (new section "A 2006 newcomer's question:
+what 'ParaPlastic' actually is," cites [89]-[90], count 90/90).** More than
+two years after Kjell Karlsson's BRIS-built Paradox became a list fixture
+under this nickname, a newcomer (Cary) asked what the "paraplastic coating"
+actually was; Jeff UK answered that it is not a coating at all but the
+boat's own foam-sheet/glass-cloth/polyester-resin construction method,
+matching the BRIS/Divinycell foam-sandwich build already documented on this
+page. Folded into the established page rather than a new one, since
+"ParaPlastic" is Kjell Karlsson's own boat.
+
+**`design/weight-and-ballast.md` extended (new bullet under "Ballast," cite
+[143], count 145/143 == numeric max 143, the file's documented [53a]/[53b]
+pair unaffected) and `people/mark-waters.md` extended (cite [11], count
+11/11).** Stephen Yahn's ballast-weight poll (opened batch 379) closed with
+only two votes cast: 250 lb (Glen Maxwell) and 300 lb (Mark Waters), both
+toward the lighter end of the ten-choice range on offer.
+
+**`design/lightning-protection.md` extended (new section "Where the copper
+flashing sits in the layup: left open," cites [5]-[6], count 6/6) and
+`people/matt-noonan-ithaca.md` extended (cite [7], count 7/7).** Matt Noonan,
+mid-build in Ithaca, NY, asked exactly where the copper grounding flashing
+should sit in the hull's layup (against the bare wood, above the glass but
+below the bottom paint, or exposed to the water) while reporting the chine
+runners underway and the hull's first turnover next; a reply pointed only to
+a general web reference without answering the specific layer-order question,
+leaving it open on the record.
+
+**Backlog:** Cary's (`woodworksgrimm`) standing below-threshold Open item and
+"Steve in Panama"/`reallyfixed`'s standing below-threshold Open item both
+updated in place with this batch's resurfacings; a new below-threshold Open
+item added for Glenn Lundström (a possible third independent Swedish Paradox
+builder, after Kjell Karlsson's "BRIS Paradox" and Bengt Genell's "Ladikan,"
+if his stated build intent is realized). "Batch 380 correspondent + gap
+check" section appended to `backlog.md`. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,914
+anchors (up from 2,908 at end of batch 379; two self-introduced broken
+anchors from a guessed heading slug were caught and fixed before final
+verification). Cursor set to 3800.
+
+## 2026-07-07 (batch 379: page_3781-page_3790)
+
+This batch covers messages spanning **21-28 July 2006**, continuing directly
+from batch 378 with no new archive gap (msgnum run
+3813-3814-3815-3816-3817-3818-3819-3820-3821-3822 is distinct and fully
+consecutive, continuing directly from batch 378's last msgnum, 3812). All
+ten source `.eml` byte sizes matched the dispatch table exactly
+(1809/2342/6037/2446/1721/3308/2754/3047/3220/13280 for page_3781 through
+page_3790), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out. The two flagged large
+pages were both confirmed to be ONE archive message each: page_3783 (6037
+bytes) is mark greenwood's HTML-only "Good Luck Admiral!" reply, its size
+coming entirely from a full quoted copy of Derek Clark's prior message plus
+Hotmail/Yahoo Groups CSS boilerplate, with no new fact of its own; page_3790
+(13280 bytes) is Glenn Lundström's Swedish-language reply, its size coming
+from a paired plain-text/HTML MIME alternative (both encoding the same
+Swedish self-introduction) plus a full quoted copy of Bengt Genell's prior
+message. Two same-day msgnum/timestamp artifacts noted, not stale reads:
+page_3784/msgnum 3816 (Derek Clark, 19:55:45 UTC) precedes page_3785/msgnum
+3817 (Stephen Yahn, 19:50:43 UTC) despite Yahn's own `Date:` header being
+about five minutes earlier — an ordinary Yahoo Group processing-order
+artifact, left in its assigned msgnum position per the standing rule that
+msgnum order is authoritative.
+
+Two new person pages and one new boat page created, promoting two
+below-threshold watch-list correspondents whose standing "start a
+build/name a boat" trigger conditions were both met this batch. Five
+existing pages extended.
+
+**New: `people/stephen-yahn.md`.** Promoted from the below-threshold
+watch-list (open since batch 358). Stephen Yahn (Puget Sound, Manchester,
+Washington, formerly a Picaroon owner) reported starting his own Paradox,
+named **"Ironsides,"** and having built the previously-proposed bulkhead 3
+modification in steel rather than plywood — a 1.5 in web reinforced with
+steel weldments (4.8 lb each) sealed in epoxy, hot-dip galvanized bolts also
+epoxy-sealed, cloth bins planned in place of fixed plywood bins, now
+trial-assembling sides and bulkheads (page_3785, cite [1]). The new page
+consolidates his long-standing scattered record across
+`design/yuloh-and-stowed-rig-retention.md`, `design/rig.md`,
+`operations/radio-and-electronics.md`, `design/rudder.md`,
+`design/weight-and-ballast.md`, and
+`construction/plywood-grades-and-foam-flotation.md` per narrate-once-cross-link
+(those files' own citations are untouched). **`operations/crew-size-and-fit.md`**
+extended: the "Modifying bulkhead 3" section now cross-links to the executed,
+real-materials version on his person page (new cite [121]; file's known
+[54]-[87] gap preserved, count 87 = max 121 minus the 34-item gap). Added to
+`people/index.md`. Backlog: the standing Stephen Yahn below-threshold Open
+item marked **RESOLVED** in `.okf-progress/backlog.md` (trigger met); the
+still-unanswered swamped-flotation-test question he raised in batch 361
+remains open and uncited, carried forward separately.
+
+**New: `boats/ladikan.md` and `people/bengt-genell.md`.** Promoted from the
+below-threshold watch-list (Bengt Genell, tracked since the post-3000
+review). After a two-year build, Bengt Genell launched his plywood Paradox
+on **Lake Mälaren**, central Sweden, in July 2006, naming her **"Ladikan"**
+(old Swedish for "the little box") — a from-scratch budget build (exterior
+plywood, screws in place of unavailable ring nails, water tanks and
+lightning protection omitted, all outer surfaces fiberglassed) and a
+scratch-built wood reefing/furling gaff copied directly from [Andrew
+Graham](/people/andrew-graham.md)'s Australian "Zero," cross-linked to
+`boats/aussie-paradox.md`'s own reefing-drum yard-fitting section
+(page_3788, cite [1]). Weighed 420 kg on the trailer without ballast (~300
+kg without the trailer); lead ballast pigs supplemented with sandbags to
+reach the design waterline; sailing untested owing to a windless spell.
+Two replies followed: Paul Reppeto's spelling correction to "Lädikan"
+(page_3789, cite [2]), and a **new correspondent**, 67-year-old retired
+Swede Glenn Lundström (Vara), who introduced himself in Swedish as
+similarly drawn to Paradox's simplicity and planning his own build at a
+mature age (page_3790, cite [3]). `boats/ladikan.md` also folds in Bengt's
+earlier, previously citation-only build history (a March 2004 sheet-layout
+question, an August-September 2004 polyester-vs-epoxy budget question).
+`people/bengt-genell.md` is a short characterization page cross-linking to
+the boat page per convention, consolidating his January 2004 introduction
+and the same build questions from `construction/panel-layout.md` and
+`construction/epoxy-coating-technique.md` (those files' own citations
+untouched). **`boats/bris-paradox.md`** (Kjell Karlsson's composite-built,
+first-documented Swedish Paradox) gets a new one-line "See also"
+cross-link to Ladikan as a second, independent Swedish build; no other
+change to that file besides a timestamp refresh. Added to `boats/index.md`
+and `people/index.md`. Backlog: Bengt Genell removed from the
+below-threshold watch-list in `.okf-progress/backlog.md` (promoted).
+
+**Plywood grades and foam flotation —
+`construction/plywood-grades-and-foam-flotation.md`.** Extended "A
+double-layer plywood technique for an enlarged Paradox" with a second
+builder's (Nels) independent answer to the same butt-joint-vs-scarf
+question — agreeing on the same bonding-area figures, and adding two new
+ideas: pre-bending a laminated bottom panel by weighting each end and
+raising the middle before gluing the layers, and building a foam-cored
+panel from scratch via home vacuum-bagging as the next step beyond doubled
+plywood (page_3781, new cite [94]; file's known [5]-[6] gap preserved,
+count 92 = max 94 minus the 2-item gap).
+
+**Enuf (Derek Clark) — `boats/enuf.md`.** New section "Onto the trailer,
+and calculating the ballast by weighing the whole rig": the hatch's
+finished shape settled close to the plans after all; Derek's ballast-sizing
+method (weigh the loaded trailer with boat, stores, and skipper aboard,
+subtract the trailer's own weight, check the result against design
+displacement) (page_3782); a well-wisher's "Good Luck Admiral!" reply
+(page_3783); getting the hull onto the trailer — a winch-wire grommet/pipe
+fix after a pressed-splice failure, a mudguard-clearance problem needing
+longer mounting bolts, and the trailer's roller/timber-lashing setup, with
+the hull's bottom sitting 22 in above the ground (page_3784); and a
+running joke about the trailer's mismatched paint color (page_3787). New
+cites [246]-[249]; file's numbering has no gap, count 249 = max 249.
+
+**Glen C. Maxwell build and "Zoë" —
+`people/glen-maxwell/build-and-zoe.md`.** The "2006 personal website"
+section gets one added sentence recording a third correspondent's belated
+"Great site!!!" reply, quoting Dale Bowers' already-cited original message
+in full with no new fact of its own (page_3786, new cite [248]; file's
+numbering has no gap, count 248 = max 248).
+
+**Attribution/identity checks:** Alan (`logicaid`/`logicaidnz`, u=47492986)
+reconfirmed via header against the established below-threshold identity,
+distinct from Alastair (`openboat`/`alopenboat`) — no conflation risk. Derek
+Clark, Nels, and mark greenwood reconfirmed via header against their
+established pages/standing identities, no drift. Neither Jeff UK, Chris
+Curtis/`joe_mapango`, "Steve in Panama"/`reallyfixed`, nor `john h wright`
+authored a message this batch — none of those standing Open items were
+touched. Full detail in `.okf-progress/backlog.md`'s "Batch 379
+correspondent + gap check" section and `.okf-progress/batches.log`.
+
+Anchor checkers (`anchorcheck.js`, `anchorcheck2.js`) run after all edits:
+**0 broken across 2,908 anchors**, both checkers agree (two self-introduced
+broken anchors in the new pages, from a guessed heading slug, were caught
+and fixed before this entry was written).
+
+## 2026-07-07 (batch 378: page_3771-page_3780)
+
+This batch covers messages spanning **20-21 July 2006** (nine of the ten
+messages dated 21 July 2006, with one — page_3772, Ron Eike's Duckworks
+pointer — dated 20 July 2006 by its own `Date:` header despite carrying a
+later msgnum than page_3771, an ordinary Yahoo processing-order/timezone
+artifact, not a stale read), continuing directly from batch 377 with no new
+archive gap (msgnum run 3803-3804-3805-3806-3807-3808-3809-3810-3811-3812 is
+distinct and fully consecutive, continuing directly from batch 377's last
+msgnum, 3802). All ten source `.eml` byte sizes matched the dispatch table
+exactly (8392/1988/2137/1793/3416/2135/2700/4025/2167/2288 for page_3771
+through page_3780), confirmed via direct `wc -c` and header read before any
+content read — no same-size pair, stale-read risk ruled out. No new pages
+created; four existing pages extended. Two threads run through the batch:
+the tail of "Paradox Plans" (a Ralph Monroe/Phil Bolger sharpie-history
+correction, a WaterTribe "boat vs. crew" debate touched off by a Duckworks
+Magazine pointer, and Nels's substantive account of Matt Layden's own
+WaterTribe racing tactics and record — pages 3771, 3772, 3774, 3775, 3776,
+3777, 3778, 3779) and "Plywood Choices" (a butt-joint-vs-scarf follow-up to
+last batch's double-layer plywood technique — pages 3773, 3780). The one
+large flagged page (page_3771, 8392 bytes) was confirmed to be ONE archive
+message carrying heavy nested Yahoo quoted-reply/multipart MIME boilerplate
+(a text+HTML duplicate pair, plus a long quoted chain reproducing two prior
+messages from batch 377 in full) — pruned to the new prose plus citations,
+no separate content lost, not mistaken for multiple messages. The other
+flagged large page (page_3778, 4025 bytes) proved to be one substantive,
+un-quoted, single-author message (Nels's own WaterTribe/Gary-Blankenship
+reply) with no unusual boilerplate.
+
+**Mailing list — `references/mailing-list.md`.** Extended "List culture"
+with a sharpie-history correction (Jeff UK: Paradox's hull shape is closer
+to century-old original sharpies, with more freeboard for her length, than
+to Phil Bolger's sharpies, and distinct from Ralph "the Commodore" Monroe's
+own "Kingfisher"/"Egret") and a note on Duckworks Magazine (Chuck Leinweber,
+a Frolic2 Everglades competitor himself, sells Michalak's, Welsford's, and
+others' plans). Added a new section, "Whether WaterTribe racing tests the
+boat or the crew": a "blow up canoe" dismissal of WaterTribe racing (Derek
+Clark) drew both a rebuttal on the Gulf of Mexico's real scale and danger
+(john h wright, a new one-off correspondent) and a clarification that the
+remark meant only that WaterTribe's organizer, Steve "Chief" Isaac,
+thoroughly vets entries (Derek Clark again); separately, the Everglades
+Challenge does weed out boats by mechanical failure, and a swamped
+lead-keeled racer sinks where a small positive-flotation boat does not (Ron
+Eike). Nels then gave the fullest technical answer: most competitors never
+leave sight of land on an essentially coastal, shoal-water course; **Matt
+Layden was among the first to work the deeper, calmer water** rather than
+hug the shoal coastline; and — crediting Gary Blankenship's account — a
+cabin's shelter from wind/rain/cold/sun and not needing to make camp ashore
+each night were as important to Matt's results as the boat itself, cross-
+linked to the frozen `matt-layden/biography.md` WaterTribe section rather
+than re-narrated. A closing correction fixed the record on which race used
+which boat: the inflatable-kayak result was from the **Michigan Challenge**
+(Aug. 2003), not Florida; the 2004 Florida Challenge instead saw Matt use
+his own home-built "Rob Royoid" kayak for the Everglades portages — again
+cross-linked to the biography rather than re-narrated. Cites [52]-[58],
+count 58/58, up from 51/51.
+
+**Plywood grades and foam flotation —
+`construction/plywood-grades-and-foam-flotation.md`.** Extended "A
+double-layer plywood technique for an enlarged Paradox, and testing an
+unconventional mast wood" with the natural follow-up: whether a laminated,
+two-layer panel could use offset butt joints instead of scarfs throughout
+(Derek Clark, prompted by his own troublesome scarfed-bottom repair). Answered
+by Matt Noonan (Ithaca, NY, `twitch_816`) — once a panel is laminated from two
+full layers, a plain butt joint needs no scarf or taping beyond sealing the
+sheet edges, since the lamination's own full-sheet bonding area (over 4,600
+sq in) dwarfs a scarf's (~384 sq in) or an unscarfed butt's (~36 sq in); he
+also reported his own stock-size hull's bottom panel wired on and scarfed
+(with his two brothers' help), now fitting out the interior and vent trunk.
+Cites [92]-[93], count 91/93 == numeric max 93 (the file's own documented +2
+gap unaffected), up from 89/91.
+
+**Matt Noonan — `people/matt-noonan-ithaca.md`.** Added his July 2006 build
+update (bottom panel wired on and scarfed, interior/vent-trunk work
+underway, progress pausing for an apartment move) and his butt-joint/scarf
+answer to Derek Clark, cross-linked to the fuller technical explanation on
+`plywood-grades-and-foam-flotation.md` rather than re-narrated. Cite [6],
+count 6/6, up from 5/5.
+
+**Ron Eike, Nels, and Derek Clark person pages.** Added cross-reference-only
+citations (per each page's established "full text and citation at
+references/mailing-list.md" convention) for this batch's mailing-list
+contributions: `people/ron-eike.md` cites [14]-[15] (count 15/15, up from
+13/13); `people/nels.md` cites [164]-[165] (count 165/165, up from 163/163);
+`people/derek-clark.md` cites [74]-[76] (count 76/76, up from 73/73).
+
+**Correspondents:** Jeff UK (`apcf14`/`roverticket`, u=117851260, unconfirmed
+identity vs. established `doryman_uk` — see the standing backlog item),
+Ron Eike (`reike2`/`sailman58`, established), Derek Clark (`dclark`/
+`dclark52001`, u=24083034, established), john h wright (`jhargrovewright2`,
+u=210840173, brand-new one-off, no boat, no build — added to backlog),
+Nels (`arvent`/`recree8`, u=62964199, established), and Matt Noonan (Ithaca,
+NY, `men99`/`twitch_816`, u=208350665, established promoted builder — NOT
+Matt Layden). No brand-new below-threshold newcomer beyond john h wright; no
+identity-merge performed; David Beard/David LeBlanc, Jack Gardiner/
+`mat_man22`, the three "Larry"s, the established "Wayne"s/"Bill"s, Jeff
+UK/`doryman_uk` (checked and correctly kept separate again this batch), and
+Curtis/`azskybum` vs. established Chris Curtis were not implicated. Neither
+`joe_mapango`/Chris Curtis nor "Steve in Panama"/`reallyfixed` authored a new
+message this batch (both only appeared as quoted text inside other authors'
+replies) — neither standing Open item was advanced.
+
+Anchor checkers (`anchorcheck.js`, `anchorcheck2.js`) both ran clean: 0
+broken links across 2,899 anchors.
+
+## 2026-07-07 (batch 377: page_3761-page_3770)
+
+This batch covers messages spanning **20 July 2006** (all ten messages dated
+20 July 2006, continuing directly from batch 376's 19-20 July span with no
+day-level advance within the batch), continuing directly from batch 376 with
+no new archive gap (msgnum run 3793-3802 is distinct and consecutive,
+continuing directly from batch 376's last msgnum, 3792). No new pages
+created; eight existing pages extended. Two threads run through the batch:
+the tail of "Paradox Plans" (the Robbsboat/Michalak "lake boats, not sea
+boats" debate, Matt Layden's own 25,000-mile sailing record, and Bolger's
+"Black Skimmer"/"Martha Jane" designs — pages 3761, 3762, 3763, 3764, 3765,
+3767, 3768, 3770) and "Plywood Choices" (the Lake Pend Oreille newcomer,
+"joe_mapango"/Chris Curtis, resurfacing with plans in hand to ask about
+enlarging for a couple and using larch/tamarack for a mast, answered by Jack
+Gardiner — pages 3766, 3769). Two of the ten source `.eml` files were very
+large (page_3766, 25538 bytes; page_3769, 28222 bytes), each confirmed to be
+ONE archive message carrying heavy nested Yahoo quoted-reply/multipart MIME
+boilerplate (page_3766's own multipart/alternative text+HTML duplicate; the
+long quoted chain in page_3769 reproducing the entire prior "Plywood
+Choices" thread) — pruned aggressively per the spec with no content lost.
+
+**Mailing list — `references/mailing-list.md`.** Extended "List culture"
+with five new beats on the Michalak/Bolger "lake boats" thread: Derek
+Clark's challenge to Ron Eike over whether Michalak's designs are actually
+proven for long-distance, single-handed coastal cruising; Nels's fuller
+reply that Michalak and Bolger both describe their small boats
+conservatively (plausibly for liability), that a boat's seaworthiness turns
+on the captain's skill as much as the hull, and — the batch's most
+significant Matt Layden fact — that **Matt has sailed, rowed, sculled, and
+paddled over 25,000 miles in small boats**, including one winter spent
+aboard a boat in ice and snow, and remains reluctant to publish plans
+himself for liability reasons; a Robbsboat-plus-chine-runners-and-Paradox-rig
+thought experiment; the Panama City buyer's aside about a Bolger "Black
+Skimmer" design and the Bolducs' increasingly popular, multi-language
+website; and Nels's closing Bolger design guidance (check with Bolger before
+building a Black Skimmer; his "Martha Jane" successor is more practical,
+trailer-friendly, and roomier, with tabernacled masts, water ballast, and
+(in a later upgrade) self-righting cockpit sponsons). Cites [47]-[51], count
+51/51, up from 46/46.
+
+**Weight, ballast, and displacement — `design/weight-and-ballast.md`.**
+Extended "Ballast" with a dissenting view on the Ballast Poll itself: Nels
+argued the poll was solving a non-problem, since almost every builder
+under-ballasts the first sail or two without harm, and that it is more
+useful to start building and worry about ballast once the hull is actually
+in the water. Cite [142], count 144/142 == numeric max 142 (the file's own
+documented [53a]/[53b] pair unaffected), up from 143/141.
+
+**Plywood grades and foam flotation —
+`construction/plywood-grades-and-foam-flotation.md`.** New section "A
+double-layer plywood technique for an enlarged Paradox, and testing an
+unconventional mast wood": the Lake Pend Oreille newcomer (having ordered
+his plans, secured plywood/MDO/A/BX quotes, and begun a barn-truss hull-flip
+platform) asked how a Paradox handles a crew of two of very different sizes,
+and whether his own stand of larch (tamarack) trees would suit masts and
+booms; Jack Gardiner answered with a two-bonded-layer opposing-seam plywood
+technique for an enlarged hull and bulkheads, a fishing-scale "poor man's
+tensometer" test methodology for judging an untested mast wood against clear
+Douglas fir or Sitka spruce, and his own single-handed hull-flipping
+technique from a stock build. Cites [90]-[91], count 89/91 == numeric max 91
+(the file's own documented +2 gap unaffected), up from 87/89.
+
+**Rig and sail — `design/rig.md`.** Extended "Wood species for a
+scratch-built wooden mast" with a new "Testing an unconventional local wood
+before committing to it" passage, generalizing Jack Gardiner's larch/oak
+test methodology (fishing-scale tensometer, breaking load, bend, twist,
+epoxy uptake) as the general answer to "would species X work for a mast."
+Cite [250], count 252/250 == numeric max 250 (the file's own documented
+[7a]/[7b] pair unaffected), up from 251/249.
+
+**Enlarging Paradox for a tall/heavy sailor —
+`design/variants/enlarging-for-a-large-sailor.md`.** New section "Fitting a
+couple aboard a stock or slightly enlarged Paradox," cross-linking the Lake
+Pend Oreille newcomer's crew-of-two question to the plywood/mast-wood
+discussion and to Matt Layden's own two-up sailing technique already
+documented on `crew-size-and-fit.md`. Cite [11], count 11/11, up from
+10/10.
+
+**Nels — `people/nels.md`.** Added four citation-only entries (content
+narrated on `weight-and-ballast.md`/`mailing-list.md`): the ballast-poll
+dissent, the Michalak/Bolger-conservatism-and-Matt's-mileage message, the
+Robbsboat thought experiment, and the Black Skimmer/Martha Jane guidance.
+Cites [160]-[163], count 163/163, up from 159/159.
+
+**Derek Clark — `people/derek-clark.md`.** Extended "Other contributions"
+with his challenge to Ron Eike over whether Michalak's designs are proven
+for coastal cruising (content narrated on `mailing-list.md`). Cite [73],
+count 73/73, up from 72/72.
+
+**Jack Gardiner — `people/jack-gardiner.md`.** Added a new paragraph for his
+double-layer-plywood/larch-testing/hull-flipping reply to the Lake Pend
+Oreille newcomer (content narrated on
+`plywood-grades-and-foam-flotation.md` and `rig.md`). Cite [210], count
+209/210 == numeric max 210 (the file's own documented [53] gap unaffected),
+up from 208/209.
+
+**Identity/attribution notes.** Nels (`arvent`/`recree8`, u=62964199), Derek
+Clark (`dclark`/`dclark52001`, u=24083034), and Jack Gardiner (`alex29`/
+`tidybowlmann`, u=111173743) all reconfirmed via header against their
+established identities. "John Doe"/`reallyfixed`/"Steve in Panama"
+(u=273389476) reconfirmed as the established below-threshold correspondent
+tracked in the backlog since batch 374 — three more messages this batch,
+still no boat/build. **"joe_mapango"/Chris Curtis (`ccurtis@...`,
+u=181858645) authored his first new message since his batch-373
+introduction** — the resurfacing the standing unconfirmed-identity flag was
+watching for — giving his full name in a signature ("Chris Curtis, Sandpoint
+Computers") with two phone numbers, and showing genuine build progress
+(plans ordered, plywood quotes in hand, a barn platform under construction).
+This is still kept **separate** from the already-established
+`people/chris-curtis.md`/`boats/curtis-paradox.md` (a Sandpoint, Idaho, Chris
+Curtis whose own citation is a 2019 groups.io message describing a finished,
+Texas-200-completed boat) per the project's identity-merge caution — no
+explicit self-identification bridging the 2006 newcomer to the 2019 finished
+owner has surfaced, and the 13-year gap plus different narrative stage
+remain real caveats despite the same name and the same specific
+lake/town. No new person or boat page was created for him; his content is
+captured via citations only in `construction/plywood-grades-and-foam-flotation.md`
+and `design/variants/enlarging-for-a-large-sailor.md`, and the backlog item
+was updated in place (see `.okf-progress/backlog.md`). No other identity
+cautions (David Beard/David LeBlanc, the three "Larry"s, the established
+"Wayne"s/"Bill"s, Curtis/`azskybum`) were implicated this batch. Jeff UK
+(`apcf14`/`roverticket`) did not appear this batch. `matt-layden/biography.md`
+(frozen) was **not edited** despite this batch's significant new Matt Layden
+facts (the 25,000-mile mileage figure and the plans-non-publication/liability
+reasoning) — those facts were placed in `references/mailing-list.md` instead
+(a secondhand characterization from Nels, not firsthand testimony) and
+flagged in the backlog for the next holistic review to assess whether they
+merit corroborated promotion into the frozen biography.
+
+**Anchor checker:** both `anchorcheck.js` and `anchorcheck2.js` ran clean — 0
+broken across 2,889 anchors (up from 2,874 at the end of batch 376).
+
+## 2026-07-07 (batch 376: page_3751-page_3760)
+
+This batch covers messages spanning **19-20 July 2006** (page 3751 dated 19
+July; the remaining nine dated 19-20 July), continuing directly from batch 375
+with no new archive gap (msgnum run 3783-3792 is distinct and consecutive,
+continuing directly from batch 375's last msgnum, 3782). No new pages
+created; nine existing pages extended. Three threads run through the batch:
+the tail of "Paradox Plans" (design-lineage/Michalak-alternative banter and
+the Panama City buyer's sharpie-shape theory — pages 3751, 3753, 3754, 3758,
+3759, 3760), the tail of "Plywood Choices" (Jeff UK/Derek Clark's soft-ply/GPS
+banter — pages 3752, 3756), and the tail of "Ballast Poll"/"New poll for
+paradoxbuilders" (pages 3755, 3757).
+
+**Paul V. — `people/paul-v.md`.** Added a new fact: replying to the Panama
+City buyer's guess that Paradox and Little Cruiser carry a lot of Phil
+Bolger's sharpie philosophy, Paul V. judged it is actually **Ted Monroe's**
+sharpie work that inspired Paradox, and revealed he was by 2006 building a
+stitch-and-glue chine-runner sharpie of his own design, directly inspired by
+Matt Layden's boats. Cite [50], count 50/50, up from 49/49.
+
+**Building plans — `references/building-plans.md`.** Extended "A July 2006
+recurrence, and a blunt assessment of the paid manual's quality" with Paul
+V.'s Monroe-sharpie correction; the Panama City buyer's sharpie bottom-shape
+theory (a curved bottom matching the sides' curve presents a clean V to the
+water when heeled, lifting the bow and cutting drag — credited to Bolger,
+possibly earlier others), his stated uncertainty about the Paradox/Little
+Cruiser's reserve stability, his own reading list (David Gerr's "The Nature
+of Boats," Skene's "Elements of Yacht Design," an ordered sharpie book), local
+sailors' "crazy, too small" verdict on Little Cruiser, and his stated goal of
+cruising Panama Bay and the Pearl Islands; and his closing one-line suggestion
+that Michalak's design "could be modified as needed." Cites [163]-[165],
+count 165/165, up from 162/162.
+
+**Mailing list — `references/mailing-list.md`.** Extended "List culture" with
+Jim Michalak's own blunt verdict on his designs ("lake boats, not sea boats"),
+given directly to Derek Clark, and Ron Eike's WaterTribe Everglades Challenge
+counterexample (a Michalak "Frolic2" finished the race in good shape). Cites
+[45]-[46], count 46/46, up from 44/44.
+
+**Ron Eike — `people/ron-eike.md`.** Added a short summary + cross-link for
+his Frolic2/Everglades Challenge counterpoint (narrate-once-cross-link; full
+text lives on `mailing-list.md`). Cite [13], count 13/13, up from 12/12.
+
+**Derek Clark — `people/derek-clark.md`.** Added two citation-only entries
+(content narrated elsewhere): his "Lord's punishment for over indulgence in
+GPS's" plywood joke, and his relay of Michalak's "lake boats" verdict. Cites
+[71]-[72], count 72/72, up from 70/70.
+
+**Weight, ballast, and displacement — `design/weight-and-ballast.md`.**
+Extended "Ballast" with Stephen Yahn's restated poll question and thanks to
+Alastair for the tire-store lead-sourcing idea, and Alastair's fuller,
+itemized answer to his own poll question: 100 lb lead, a 50 lb battery, an
+electric outboard, three anchors with chain, drinking water atop the ballast
+water, a second battery, and tinned food — judging that a Paradox's real
+advantage is that extra weight is never really a problem; sometimes skips
+filling the water ballast on short trips with no clear penalty beyond feeling
+slightly more tender; and the technique of melting old wheel-balance weights
+in a bread-tin mould to let their steel retaining clips float free for
+skimming. Cites [140]-[141], count 141/141, up from 139/139.
+
+**Alastair — `people/alastair.md`.** Added a citation-only entry for his
+itemized weight-load-out reply (content narrated on `weight-and-ballast.md`).
+Cite [316], count 316/316, up from 315/315.
+
+**Plywood grades and foam flotation — `construction/plywood-grades-and-foam-flotation.md`.**
+Extended "A July 2006 recurrence, and a recommendation for MDO plywood" with
+the tail of the Jeff UK/Derek Clark soft-ply/GPS banter, closing the exchange
+as good-natured rather than a real disagreement. Cites [88]-[89], count 87/89
+== numeric max 89 (the file's own documented +2 gap unaffected), up from
+85/87.
+
+**Jeff UK — `people/jeff-doryman.md`.** Added a citation-only entry for his
+"cake and eat it" eBay/marine-ply joke (content narrated on
+`plywood-grades-and-foam-flotation.md`). Cite [50], count 50/50, up from
+49/49.
+
+**Nels — `people/nels.md`.** Added a citation-only entry for his one-line
+"Good point" agreement with Derek Clark's Michalak relay (content narrated on
+`mailing-list.md`). Cite [159], count 159/159, up from 158/158.
+
+**Identity/attribution notes.** "Paul V." (`cruisenewsnet`, u=93248685)
+confirmed via header against the established `people/paul-v.md` identity — no
+new alias risk. "Ron" (`reike2`/`sailman58`, u=96285849) confirmed via header
+against the established `people/ron-eike.md` identity. Alastair's `openboat`/
+`alopenboat` header (u=275164091, the batch-372-flagged outlier `u=` value)
+recurred again this batch, consistent with every prior batch's "Al, Yeovil,
+England" signature — no second-person risk. Jeff UK (`apcf14`/`roverticket`,
+u=117851260) reconfirmed, still no linking detail toward `doryman_uk`. Derek
+Clark (`dclark52001`, u=24083034) and Nels (`arvent`/`recree8`, u=62964199)
+both reconfirmed via header. No new correspondents introduced this batch; all
+ten messages were authored by six already-established standing identities
+(Paul V., Derek Clark, Nels, Stephen Yahn, Jeff UK, Alastair, Ron Eike, and
+the "Steve in Panama"/`reallyfixed` below-threshold correspondent tracked in
+the backlog).
+
+**Anchor checker:** both `anchorcheck.js` and `anchorcheck2.js` ran clean — 0
+broken across 2,874 anchors (up from 2,865 at the end of batch 375).
+
+## 2026-07-07 (batch 375: page_3741-page_3750)
+
+This batch covers messages spanning **18-19 July 2006** (page 3741 dated 18
+July; the remaining nine dated 19 July), continuing directly from batch 374
+with no new archive gap (msgnum run 3773-3782 is distinct and consecutive,
+continuing directly from batch 374's last msgnum, 3772). No new pages
+created; seven existing pages extended. Three threads run through the batch:
+the tail of "Paradox Plans" (the Panama City buyer's international-purchase
+question — pages 3741, 3745, 3748, 3750), the tail of "Plywood Choices"
+(pages 3742, 3743, 3749), and the tail of "Ballast Poll" (pages 3744, 3746,
+3747).
+
+**Plywood grades and foam flotation — `construction/plywood-grades-and-foam-flotation.md`.**
+Extended "A July 2006 recurrence, and a recommendation for MDO plywood" with
+Jack Gardiner's fullest first-hand plywood report on record from his own
+finished boat (exterior fir, doubled 2 oz glass, 3/4 in exterior fir floor,
+single-layer 12 oz biaxial cloth on the bottom, stitch-and-glue/tabbed/
+filleted construction, no bottom damage after repeated beaching on moderate
+rubble) plus a plain-language plywood-grading-stamp guide (face grade first,
+backside grade second: A/A, A/B, A/C, B/C, C/DX); Jeff UK's restatement that
+a soft, water-absorbing plywood core forces repairs at the worst possible
+time rather than saving money; and the Panama City buyer's note on the
+Paradox/Little Cruiser designs' debt to Phil Bolger's sharpie philosophy
+(cross-linked to `construction/hull-planking.md`'s existing stitch-and-glue
+section) plus his practical report that British Standard 1088 is Sam
+Devlin's favored plywood grading standard, that only 3/8 in American
+"AA"-standard marine plywood is available to him locally in Panama, and a
+pointer to online scarfing guides. Cites [84]-[87], count 85/87 == numeric
+max 87 (documented +2 gap unaffected), up from 81/83.
+
+**Building plans — `references/building-plans.md`.** Extended "A July 2006
+recurrence, and a blunt assessment of the paid manual's quality" with the
+close of the Panama City buyer's plans-purchase thread: plans confirmed to
+ship in a standard 11x14 in envelope, with summer reconfirmed as a
+recurring slow season for the Bolducs to reply; a download-option idea was
+floated without elaboration; and the buyer himself decided to wait until
+winter to order, mentioning Phil Bolger's sharpie philosophy and Sam
+Devlin's stitch-and-glue book as background reading toward a possible
+modified design of his own. Cites [160]-[162], count 162/162 == numeric max
+162, no gaps, up from 159/159.
+
+**Mailing list — `references/mailing-list.md`.** Extended the existing
+Robbsboat/Jim Michalak alternative-design comparison ("List culture") with
+its mid-2006 recurrence: Nels pointed a plywood-choice newcomer to Jim
+Michalak's "Robb's boat" (now hosted at `duckworksbbs.com`) as a cheap,
+simple alternative buildable in 3/8 in plywood, judged possibly roomier
+inside than a Paradox, though none of the several then under construction
+were yet finished; Michalak's own building book was again recommended as
+highly regarded. Cite [44], count 44/44 == numeric max 44, no gaps, up from
+43/43.
+
+**Weight, ballast, and displacement — `design/weight-and-ballast.md`.**
+Extended "Ballast" with the close of the Ballast Poll thread's beer-for-lead
+banter between Jeff UK and Alastair (no new technical fact beyond the
+already-recorded free-scrap-lead/wheel-balance-weight source, but confirmed
+as genuine, on-topic, continuing correspondence rather than excluded as
+off-topic): Jeff jokingly offered beer for Alastair's surplus lead bricks;
+Alastair agreed in principle (provided he wasn't made to drink the beer) and
+noted it would likely be cheaper to source lead locally than to travel to
+collect his; Jeff closed with a joke about a trapeze and stripping local
+church roofs for lead. Cites [137]-[139], count 141/139 == numeric max 139
+(the file's own documented `[53a]`/`[53b]` letter-suffix pair unaffected, no
+new gap), up from 138/136 including the pair.
+
+**Person pages.** `people/jack-gardiner.md` — a new paragraph on his
+plywood-grade answer to the July 2006 newcomer, cite [209], count 208/209 ==
+numeric max 209 (the file's own documented +1 gap at `[53]` unaffected), up
+from 207/208. `people/nels.md` — a new "Other contributions" bullet on the
+plans-envelope/summer-timing answer and the Robbsboat pointer, cites
+[157]-[158], count 158/158 == numeric max 158, no gaps, up from 156/156.
+`people/alastair.md` — a new bullet on the ballast-poll banter (offering his
+surplus lead, declining the beer, noting local sourcing is cheaper), cite
+[315], count 315/315 == numeric max 315, no gaps, up from 314/314.
+
+**Backlog actions:** the standing "Jeff UK" unconfirmed-identity item was
+updated in place with four more recurrences this batch (plywood-thread
+agreement, two Ballast Poll banter messages, and the plans-download idea) —
+still no linking detail toward `doryman_uk`. The "Steve in Panama"/
+`reallyfixed` below-threshold item (introduced batch 374) was updated in
+place with his two batch-375 messages (the Bolger/Devlin-book reply and the
+BS1088/scarfing-guide reply) — still no boat, no build. The `joe_mapango`/
+Chris Curtis unconfirmed-identity flag was rechecked: he authored no new
+message this batch, appearing only as quoted text inside Jack Gardiner's and
+John Doe's replies — item noted as checked but not advanced.
+
+Exclusions: none — all ten source pages carried genuine, on-topic Paradox
+content (plywood grade/technique, plans-purchase logistics, and ballast
+sourcing, even where the ballast-poll exchange was mostly banter). Page
+3742 (9604 bytes, flagged large) was confirmed to be one archive message
+carrying a duplicated multipart/alternative text+HTML pair; page_3749 (9935
+bytes, flagged large) was confirmed to be one archive message quoting Jack
+Gardiner's and Chris Curtis's prior messages in full. Both pruned per the
+spec with no content lost. Anchor checker (both `anchorcheck.js` and
+`anchorcheck2.js`) run clean: 0 broken across 2,865 anchors (up from 2,852 at
+end of batch 374). Archive timeline advances from 18 July 2006 to 18-19 July
+2006 (messages span 18, 19, 19, 19, 19, 19, 19, 19, 19, 19 July 2006).
+
+## 2026-07-07 (batch 374: page_3731-page_3740)
+
+This batch covers messages spanning **18 July 2006** only (all ten messages
+share the same date), continuing directly from batch 373 with no new archive
+gap (msgnum run 3763-3772 is distinct and consecutive, continuing directly
+from batch 373's last msgnum, 3762). No new pages created; five existing
+pages extended. Three threads run through the batch: the tail of "Plywood
+Choices" (pages 3731-3733, 3738, 3740), a new "Ballast Poll"/"New poll for
+paradoxbuilders" pair (pages 3734-3737), and a new one-off international
+"Paradox Plans" purchase-logistics thread (page 3739).
+
+**Plywood grades and foam flotation — `construction/plywood-grades-and-foam-flotation.md`.**
+Extended "A July 2006 recurrence, and a recommendation for MDO plywood" with
+the thread's close: two replies reinforced spending savings on plywood grade
+rather than a concrete floor, since the price gap between good and poor
+plywood is small next to total build cost; confirmed only a workbench and a
+couple of 4x4s are needed to build on, with a flat patch useful for scarfing;
+a simple wooden floor (house-flooring sheet over basic framing, laid on
+existing gravel) was offered as a further alternative. Nels followed up his
+MDO recommendation with more technical detail: a Paradox could in principle
+be built with no fibreglass cloth at all (epoxy only to seal joints) and
+still last, though glass to the waterline helps abrasion resistance, and
+antifouling or an epoxy/graphite-powder mix serves the same role short of
+glass; ordinary exterior house/porch/floor enamel over MDO gives a durable
+semi-gloss finish. The thread closed on a one-line joke ("toys" are more
+interesting than plywood). Cites [79]-[83], count 81/83 == numeric max 83
+(documented +2 gap unaffected), up from 76/78.
+
+**Weight, ballast, and displacement — `design/weight-and-ballast.md`.**
+Extended "Ballast" with a new topic: a group poll asked builders how much
+ballast weight worked best (150-400 lb in 25 lb steps). Replies established
+two durable points — free scrap lead is often better value than bought lead
+(tyre-fitters' shops routinely give away buckets of old wheel-balance
+weights), and "how much ballast" is not a single well-defined number, since
+water ballast and always-carried heavy gear can be counted in or out
+depending on how the question is asked, making the same boat's honest answer
+swing by 250 lb depending on the counting convention. Cites [133]-[136],
+count 138/136 == numeric max 136 plus the file's own documented `[53a]`/
+`[53b]` letter-suffix pair (no new gap), up from 134/132 including the pair.
+
+**Building plans — `references/building-plans.md`.** Extended "A July 2006
+recurrence, and a blunt assessment of the paid manual's quality" with a
+variant of the long-running plans-FAQ from an international buyer: a
+prospective builder in Panama City, unable to reach Dave Bolduc by e-mail,
+proposed paying by money order via international courier to a Miami
+freight-forwarder address (to avoid mailing to Panama directly) and asked
+what packaging the plans need — left an open question in the archive. Cites
+[159], count 159/159 == numeric max 159, no gaps, up from 158/158.
+
+**Person pages.** `people/alastair.md` — a new "Construction contributions"
+bullet on marine-vs-exterior plywood choice and minimal building-floor
+requirements, plus a new bullet on free scrap lead and what counts as
+"ballast," cites [312]-[314], count 314/314 == numeric max 314, no gaps, up
+from 311/311. `people/nels.md` — extended the existing MDO plywood bullet
+with the new no-glass/antifouling/enamel-finish technical detail, cite [156],
+count 156/156 == numeric max 156, no gaps, up from 155/155.
+
+**Identity note (not a new merge risk):** Alastair's four messages this
+batch all carried the `u=275164091` outlier Yahoo group-post ID first
+flagged batch 372 and reconfirmed batch 373 — same `From:` address, same
+`X-Yahoo-Profile: alopenboat`, same "Al, Yeovil, England" signature on every
+message, so all four are attributed to the single standing Alastair Law
+identity with no action needed. The batch-373 unconfirmed-identity flag on
+`joe_mapango`/Chris Curtis was rechecked: his prior message was quoted in
+full within Alan's reply this batch, but he did not author a new message
+himself, so the backlog item is updated as "checked" without being advanced
+either toward or away from a merge.
+
+Exclusions: none — all ten source pages carried genuine, on-topic Paradox
+content. The two flagged large pages (page_3731, 7467 bytes; page_3733, 5906
+bytes) were confirmed each to be one archive message carrying heavy Yahoo
+quoted-reply/multipart MIME boilerplate (full prior-message quoting), pruned
+per the spec with no content lost. The automated Yahoo system poll-notice
+message (page_3734, no human author) was folded into the citation record
+alongside Stephen Yahn's own poll announcement rather than dropped, since it
+supplies the poll's exact wording/options as a verifiable fact. Anchor
+checker (both `anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken
+across 2,852 anchors (up from 2,846 at end of batch 373). Archive timeline
+holds at 18 July 2006 (all ten messages dated the same day batch 373 ended
+on).
+
+## 2026-07-07 (batch 373: page_3721-page_3730)
+
+This batch covers messages spanning **16-18 July 2006**, continuing directly
+from batch 372 with no new archive gap (msgnum run 3753-3762 is distinct and
+consecutive, continuing directly from batch 372's last msgnum, 3752). No new
+pages created; six existing pages extended. Three threads run through the
+batch: the close of the "Bulkhead 3" thread (pages 3721-3722, 16 July 2006),
+a new "Rudder Pintels" thread (pages 3723-3724 and 3727, 17-18 July 2006),
+and a new "Plywood Choices" thread introducing a brand-new correspondent
+(pages 3725-3726 and 3728-3730, 17-18 July 2006).
+
+**Crew size and fit — `operations/crew-size-and-fit.md`.** Extended
+"Modifying bulkhead 3 to gain room for sleeping two" with the thread's close:
+a carpenter endorsed the steel-angle option on the same terms as the
+plywood/fibreglass alternative (modern surface prep — sandblasting or hand
+grinding — then an epoxy coat, trading strength for area), and the original
+poster thanked the group, singling out the storage-bin-as-backrest idea and
+the bracing reassurance, intending to post progress photos. Cites
+[119]-[120], count 86/120 == numeric max 120 (documented [54]-[87] gap of 34
+unaffected), up from 84/118.
+
+**Rudder and chine experiments — `design/rudder.md`.** New section "The
+raised blade scraping against the upper pintle bracket": raising the rudder
+blade fully vertical can bring it into light contact with the upper pintle
+bracket — cosmetic (scraped paint at the bolt heads, sound epoxy underneath)
+rather than structural, and not considered a problem worth a fixed-pin
+redesign that would cost the ability to raise/lower the blade at both stock
+positions. Cites [54]-[56], count 56/56 == numeric max 56, no gaps, up from
+53/53.
+
+**Building plans — `references/building-plans.md`.** Extended "A July 2006
+recurrence, and a blunt assessment of the paid manual's quality" with a
+newcomer (from North Idaho) wishing he could simply pay online rather than
+by mail; the correspondent who had just ordered his own plans days earlier
+explained the actual mechanic — PayPal payment addressed to the Bolducs' own
+e-mail, with the $40 fee already covering the mailing cost, after e-mailing
+ahead to say a payment is coming. Cites [157]-[158], count 158/158 ==
+numeric max 158, no gaps, up from 156/156.
+
+**Plywood grades and foam flotation — `construction/plywood-grades-and-foam-flotation.md`.**
+New section "A July 2006 recurrence, and a recommendation for MDO plywood":
+a newcomer near Lake Pend Oreille, North Idaho, asked whether cheap plywood
+would suffice and whether a poured-concrete floor is needed over his barn's
+gravel, both settled by the study plans' own guidance and the design's
+self-jigging assembly sequence. One reply named **MDO (medium-density
+overlay) plywood** specifically — smoother surface, better paint-holding,
+manufactured in Washington State — as superior to ordinary exterior fir
+plywood, and explained leveling a gravel floor with posts and checked 2x4s.
+The newcomer confirmed he would build with exterior-grade plywood and had
+e-mailed the Bolducs to confirm availability/price/payment, incidentally
+explaining his "joe_mapango" screen name (a childhood nickname from growing
+up overseas). Cites [75]-[78], count 76/78 == numeric max 78 (documented +2
+gap unaffected), up from 72/74.
+
+**Person pages.** `people/jack-gardiner.md` — one-line cross-link for the
+steel-bulkhead answer, cite [208], count 207/208 == numeric max 208
+(documented +1 gap at [53] unaffected), up from 206/207.
+`people/alastair.md` — one-line cross-link for the pintle-scraping answer,
+cite [311], count 311/311 == numeric max 311, no gaps, up from 310/310.
+`people/nels.md` — one-line cross-link for the MDO plywood recommendation,
+cite [155], count 155/155 == numeric max 155, no gaps, up from 154/154.
+
+**Identity note (not actioned as a merge):** the new "Plywood Choices"
+correspondent signs as **Chris Curtis**, Yahoo profile `joe_mapango`
+(`ccurtis@...`, u=181858645), writing from near **Lake Pend Oreille, North
+Idaho** — a brand-new-to-Paradox newcomer in July 2006 who has not yet
+ordered plans. This is a strong nominal and geographic match to the
+already-established `people/chris-curtis.md` / `boats/curtis-paradox.md`
+(Chris Curtis of **Sandpoint, Idaho**, a town on Lake Pend Oreille, whose own
+citation is a 2019 groups.io message describing a already-finished,
+Texas-200-sailed Paradox). Per the identity-merge caution, the two are kept
+separate for now — the established page is sourced 13 years later in the
+archive's actual chronology and describes a different narrative stage
+(finished owner vs. total newcomer) — but the match is strong enough to
+flag explicitly rather than silently coincide; see the new backlog item for
+the trigger to merge/confirm. No page was created for the 2006 newcomer
+(below-threshold: no plans ordered yet, no boat).
+
+Exclusions: none — all ten source pages carried genuine, on-topic Paradox
+content across the two closing/opening threads. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,846
+anchors (up from 2,840 at end of batch 372). Archive timeline advances from
+9-16 July 2006 to 16-18 July 2006.
+
+## 2026-07-07 (batch 372: page_3711-page_3720)
+
+This batch covers messages spanning **9-16 July 2006**, continuing directly
+from batch 371 with no new archive gap (msgnum run 3743-3752 is distinct and
+consecutive, continuing directly from batch 371's last msgnum, 3742). No new
+pages created; six existing pages extended. Three threads run through the
+batch: the tail of "Spar storage" (page 3711, 9 July 2006), a new "Paradox
+Plans" thread (pages 3712-3716, 15 July 2006), and a new "Bulkhead 3" thread
+(pages 3717-3720, 16 July 2006).
+
+**Yuloh and stowed-rig retention — `design/yuloh-and-stowed-rig-retention.md`.**
+Extended "Storing the mast, boom, and sail when not sailing" with the tail of
+the "Spar storage" thread: a sailor whose nearest boat launch is a half-mile
+away judged simply lashing the mast to the sail bundle on deck would likely
+be good enough for short trips, rather than breaking the rig down for garage
+storage every time; separately reported buying his plywood, ready to begin
+his own build. Cite [39], count 39/39 == numeric max 39, no gaps, up from
+38/38.
+
+**Building plans — `references/building-plans.md`.** New section "A July
+2006 recurrence, and a blunt assessment of the paid manual's quality": a new
+member (having already e-mailed the Bolducs without a reply) asked where
+else to buy plans and whether Don Elliott's paid construction manual was
+worth the money. The patience answer (the Bolducs are most likely away
+cruising) recurred as usual, but the manual-quality replies split more
+sharply than in any earlier recurrence on record: one builder rated only
+about 30% of the manual as actually readable and recommended Jim Michalak's
+book from Duckworks instead, while another judged it worth the price for a
+first-timer despite "quite a lot of less useful stuff." A third pointed past
+the manual entirely to Derek Clark's own first-person Duckworks Magazine
+account of building "Enuf," plus the group's own links page. Cites
+[152]-[156], count 156/156 == numeric max 156, no gaps, up from 151/151.
+
+**Crew size and fit — `operations/crew-size-and-fit.md`.** New section
+"Modifying bulkhead 3 to gain room for sleeping two": a builder proposed
+eliminating the bins between bulkheads 2-4 and narrowing bulkhead 3's
+vertical webs to 1.5 in, reinforced with epoxy-coated steel angle, to make
+room for a second sleeper. Answering builders preferred plywood/fibreglass
+reinforcement over steel (doubling/trebling the bulkhead thickness, or a 2 in
+web fillet-and-glass-taped to the hull with three 4 in layers of tape) as
+neater and rust-free, given the hull is "massively over built"; one also
+recommended retaining a small storage bin under the carlin between bulkheads
+2-4 for a GPS/camera/torches, doubling as a backrest and extra deck support,
+plus 2 in of insulation foam for comfort. One of the Antipodean-built
+Paradoxes was recalled as already a two-hander, worth consulting directly;
+the only structural caution raised was temporary bracing across the
+bulkhead's top until the hanging knees go in. Cites [115]-[118], count 84/84
+== numeric max 118 (known [54]-[87] gap unaffected), up from 80/114.
+
+**Alastair — `people/alastair.md`.** Two new cross-link bullets: his July
+2006 plans-FAQ answer (patience + a qualified endorsement of Don Elliott's
+manual) and his agreement with the bulkhead-3 modification, adding only the
+temporary-bracing caution. Cites [309]-[310], count 310/310 == numeric max
+310, no gaps, up from 308/308.
+
+**Derek Clark — `people/derek-clark.md`.** Two new paragraphs: his blunt
+~30%-readable manual assessment (recommending Jim Michalak's book instead),
+and his plywood-reinforcement answer to the bulkhead-3 proposal, including
+the Antipodean two-hander cross-reference. Cites [69]-[70], count 70/70 ==
+numeric max 70, no gaps, up from 68/68.
+
+**Nels — `people/nels.md`.** New bullet: pointed a newcomer to Derek Clark's
+own Duckworks Magazine article and the group's links page rather than the
+paid manual. Cite [154], count 154/154 == numeric max 154, no gaps, up from
+153/153.
+
+**Glen Maxwell (list founder and moderator) —
+`people/glen-maxwell/list-founder-and-moderator.md`.** Extended "The
+recurring 'where do I get plans?' answer" with Glen's July 2006 recurrence:
+the same patience answer, plus confirmation that Don Elliott's manual was
+worth its price. Cite [108], count 108/108 == numeric max 108, no gaps, up
+from 107/107.
+
+**Attribution/identity notes.** David Beard/David LeBlanc, Jack
+Gardiner/`mat_man22`, the three "Larry"s, the two established "Wayne"s, and
+Curtis/`azskybum` vs. Chris Curtis did not appear this batch — no conflation
+risk triggered. "Jeff UK" (`apcf14`/`roverticket`) reappeared with a
+substantive bulkhead-3 answer, correctly kept separate from `doryman_uk` per
+the standing unconfirmed-identity item. Alastair's `openboat`/`alopenboat`
+messages this batch carried Yahoo group-post IDs of `u=214650167` (page 3715)
+and an outlier `u=275164091` (page 3720); both share the same From address,
+`alopenboat` profile, and "Al, Yeovil, England" signature as the standing
+Alastair Law identity, so both are attributed to him — the `u=275164091`
+value is treated as a Yahoo group-post artifact, not a distinct person (no
+other signal anywhere in the batch suggests a second poster). Cary
+(`woodworksgrimm`), the new member who opened the "Paradox Plans" thread, is
+a below-threshold newcomer — logged to `backlog.md` rather than promoted, no
+boat/build yet.
+
+Anchor checker (both `anchorcheck.js` and `anchorcheck2.js`) run clean: 0
+broken across 2,840 anchors (up from 2,828 at the end of batch 371).
+
+## 2026-07-07 (batch 371: page_3701-page_3710)
+
+This batch covers messages spanning **3-9 July 2006**, continuing directly
+from batch 370 with no new archive gap (msgnum run 3733-3742 is distinct and
+consecutive, continuing directly from batch 370's last msgnum, 3732). No new
+pages created; five existing pages extended. Two distinct threads run
+through the batch: "Air Conditioning" (pages 3701-3703, 3-4 July 2006) and
+"Deck Loops"/"Spar storage" (pages 3704-3710, 8-9 July 2006).
+
+**Transom deck plate — `construction/transom-deck-plate.md`.** New
+subsection "A proposed DC air-conditioning trial": David Beard volunteered
+"Whisper" as a test platform for a small 24V DC air-conditioning unit
+developed by his employer, Tecumseh Products (originally for golf carts),
+judging it probably unsuited to Paradox's power budget but potentially
+useful on larger boats; two correspondents (Wenceslao Rafol, Jr. and William
+Moffitt) asked for voltage/specs, contrasting a $100 Walmart 110V window-AC
+practice against a $900 marine unit. No test result recorded. Cites
+[56]-[58], count 58/58 == numeric max 58, no gaps, up from 55/55.
+
+**Yuloh and stowed-rig retention — `design/yuloh-and-stowed-rig-retention.md`.**
+Two new sections. "Deck-loop material choices, and a fastening variant":
+builders have used both brass tube (per the plans) and plain copper water
+pipe for the two deck retaining loops, glued into an under-deck block the
+same basic way; being tube, the loops are the boat's weakest exterior
+fitting, guarded against by keeping the starboard (yuloh) loop as low a
+semicircle as possible so lines can't wrap round it. "Storing the mast,
+boom, and sail when not sailing": one builder removes the furling axle and
+stores the spars in his home garage rather than aboard, for ease of loading
+and security on a long tow; sun damage to an on-deck sail bundle has not
+been a problem in his own sailing area. Cites [32]-[38], count 38/38 ==
+numeric max 38, no gaps, up from 31/31.
+
+**Alastair — `people/alastair.md`.** Extended the "Rig, electrics, and
+furling" section with a new bullet cross-linking his copper-pipe deck loops
+and ashore spar-storage practice to the design page above (narrate-once-
+cross-link; no re-narration). Cites [307]-[308], count 308/308 == numeric
+max 308, no gaps, up from 306/306.
+
+**Whisper — `boats/whisper.md`.** New section "A proposed DC
+air-conditioning trial" summarizing and cross-linking David Beard's AC
+volunteering. Cite [91], count 91/91 == numeric max 91, no gaps, up from
+90/90.
+
+**David Beard — `people/david-beard.md`.** Extended the "A 2006 full re-wire,
+and a deck-wear non-problem confirmed" paragraph with one sentence + link on
+the AC-unit volunteering (narrate-once-cross-link; full detail lives on
+`boats/whisper.md` and `construction/transom-deck-plate.md`). Cite [262],
+count 262/262 == numeric max 262, no gaps, up from 261/261.
+
+**Correspondents seen:** David Beard (`dlb`/`buster38801`, u=55757302,
+standing identity, 1 message), Wenceslao Rafol, Jr. (`lqqtbank`, u=86501200,
+brand-new below-threshold identity, 1 message — new Open item added),
+William Moffitt (`moffittone`, u=5726256, brand-new below-threshold
+identity, 1 message, signs "Bill" — new Open item added alongside
+Wenceslao's), Stephen Yahn (`yahns`/`yahn101a`, u=207571043, standing
+below-threshold identity since batch 358, 5 messages — his fullest
+resurfacing yet, including his first-ever stated location, "Manchester,
+Washington, USA"), Glen C. Maxwell (`ifida`/`ifida2000`, u=152648841,
+standing identity, 1 message), Alastair (`openboat`/`alopenboat` of Yeovil,
+u=214650167, standing identity, 2 messages).
+
+**No exclusions this batch** — all ten messages carried genuine Paradox
+content (a proposed hot-weather-comfort accessory tied to a named boat;
+deck-hardware fastening technique; spar-storage practice), none met the
+pruning rubric's zero-Paradox-content bar.
+
+**Attribution checks:** David Beard, Stephen Yahn, Glen C. Maxwell, and
+Alastair all confirmed via header (`From:`/Yahoo `u=`) against standing
+identities; Wenceslao Rafol, Jr. and William Moffitt confirmed via header as
+genuinely new identities. William Moffitt's "Bill" signature was checked
+against both established "Bill" identities (Bill Serjeant, u=186923448;
+"Wayne"/William Nix, u=236231327) — distinct `u=` from both, no conflation.
+David Beard reconfirmed as NOT David LeBlanc. None of the other standing
+conflation risks (Jack Gardiner/`mat_man22`, the three "Larry"s, Curtis/
+`azskybum` vs. Chris Curtis, or any Paul variant) appeared this batch.
+`matt-layden/biography.md` (frozen) was not touched.
+
+**Citation-collision check clean across all five touched files** (count
+equals true numeric max verified by full sort, not tail read, both before
+and after adding; zero new duplicates, zero invented letter-suffixes; all
+documented pre-existing gaps elsewhere in the tree — `jack-gardiner.md`'s
+[53] gap, `crew-size-and-fit.md`'s [54]-[87] gap,
+`plywood-grades-and-foam-flotation.md`'s +2 gap, `design/rig.md`'s
+[7a]/[7b] pair, `design/weight-and-ballast.md`'s [53a]/[53b] pair,
+`design/furling-system.md`'s [29a] gap — confirmed unaffected, none of
+those files touched this batch). Anchor checker (both `anchorcheck.js` and
+`anchorcheck2.js`) run clean: 0 broken across 2,828 anchors, up from 2,820
+at the end of batch 370.
+
+**Backlog actions:** Stephen Yahn's standing below-threshold Open item
+updated in place with this batch's resurfacing. Two new below-threshold
+newcomers (Wenceslao Rafol, Jr. and William Moffitt) logged with a single
+combined new Open item. A "Batch 371 correspondent + gap check" section was
+appended to `backlog.md`. `.okf-progress/cursor.txt` set to 3710.
+
+## 2026-07-07 (batch 370: page_3691-page_3700)
+
+This batch covers messages spanning **21 June - 2 July 2006**, continuing
+directly from batch 369 with no new archive gap (msgnum run 3723-3732 is
+distinct and consecutive, continuing directly from batch 369's last msgnum,
+3722). No new pages created; four existing pages extended. Two threads run
+through the batch: "Mark Waters Paradox" (pages 3691-3694, praise for a
+finished Los Angeles-built boat already introduced in batch 369) and "New
+paradox site" (pages 3696-3700, Glen Maxwell announcing his own personal
+website with photographs of "Zoë"), bridged by a single message (page 3695)
+in which Bill Serjeant mirrored Derek Clark's already-cited "Enuf with her
+sail up" photos to his own site.
+
+**Mark Waters — `people/mark-waters.md`.** Extended with the gallery-link
+post itself and the praise it drew: Bill Serjeant posted the link to the
+group; Glen Maxwell called the finished boat "incredibly beautiful"; Anthony
+"Magsman" singled out the interior finish; Alastair admired the standard of
+finish. Cites [7]-[10], count 10/10 == numeric max 10, no gaps, up from 6/6.
+
+**Enuf — `boats/enuf.md`.** Extended "A lower hatch cover, and the furled
+sail riding forward over the drum" with Bill Serjeant mirroring a selection
+of Derek Clark's photos to his own `paradox-uk.co.uk` site, crediting Derek
+by name. Cite [245], count 245/245 == numeric max 245, no gaps, up from
+244/244.
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Extended "Chine-runner and
+gudgeon photos, and Mark Waters' Paradox" with the gallery-link post and the
+praise it drew, and with mirroring Derek Clark's "Enuf with her sail up"
+photos to his own site; added a new passage on welcoming Glen Maxwell's new
+personal website (noting new-to-him photos and praising Zoë's bunk
+cushions) and offering to link it from `paradox-uk.co.uk` ahead of a
+two-month tour of eastern Australia. Cites [97]-[99], count 99/99 == numeric
+max 99, no gaps, up from 96/96.
+
+**Glen C. Maxwell — `people/glen-maxwell/build-and-zoe.md`.** New section "A
+2006 personal website, and Zoe bunk cushions": Glen put up his own personal
+website with photographs of "Zoë" for the first time outside the group's
+photo sections, promising captions and construction shots to follow; the
+site drew praise from Bill Serjeant (new-to-him photos, the bunk cushions,
+an offer to cross-link) and from new correspondent Dale Bowers (praise for
+the shakedown-cruise write-up); Glen thanked both in reply. Cites [244]-[247],
+count 247/247 == numeric max 247, no gaps, up from 243/243.
+
+**Correspondents seen:** Bill Serjeant (`barnacleid`/`william@`,
+u=186923448, standing identity, 3 messages), Glen C. Maxwell (`ifida`/
+`ifida2000`, u=152648841, standing identity, 4 messages), Anthony "Magsman"
+(`magsman999`, u=189356789, established below-threshold identity since
+batch 367, 1 message — standing Open item updated, no new fact), Alastair
+(`openboat`/`alopenboat` of Yeovil, u=214650167, standing identity, 1
+message). One new below-threshold newcomer: Dale Bowers (`bowersdale`,
+u=131628169, arriving via a Hotmail address), 1 message — new Open item
+added to `backlog.md`.
+
+**No exclusions this batch** — all ten messages carried genuine Paradox
+content (praise/community engagement around two builders' own boats and
+websites), none met the pruning rubric's zero-Paradox-content bar.
+
+**Attribution checks:** Bill Serjeant, Glen C. Maxwell, Anthony "Magsman,"
+and Alastair all confirmed via header (`From:`/Yahoo `u=`) against standing
+identities; Dale Bowers confirmed via header as a genuinely new identity.
+None of the standing conflation risks (David Beard/David LeBlanc, Jack
+Gardiner/`mat_man22`, the three "Larry"s, the two "Wayne"s, Curtis/
+`azskybum` vs. Chris Curtis, or any Paul variant) appeared this batch.
+`matt-layden/biography.md` (frozen) was not touched.
+
+**Citation-collision check clean across all four touched files** (count
+equals true numeric max verified by full sort, not tail read, both before
+and after adding; zero new duplicates, zero invented letter-suffixes, all
+documented pre-existing gaps elsewhere in the tree — `jack-gardiner.md`'s
+[53] gap, `crew-size-and-fit.md`'s [54]-[87] gap,
+`plywood-grades-and-foam-flotation.md`'s +2 gap, `design/rig.md`'s
+[7a]/[7b] pair, `design/weight-and-ballast.md`'s [53a]/[53b] pair,
+`design/furling-system.md`'s [29a] gap — confirmed unaffected, none of
+those files touched this batch). One initial slug-guess error was caught
+and fixed before finalizing: a new `build-and-zoe.md` heading originally
+read "...Zoë's bunk cushions," whose diacritic-stripping slug did not match
+the cross-link written in `bill-serjeant.md`; running `anchorcheck.js`
+surfaced the break immediately, and the heading was renamed to "...Zoe bunk
+cushions" (with the one cross-link updated to match) rather than guessing
+the slugger's exact diacritic-handling rule.
+
+**Msgnum/byte-size check:** msgnum run 3723-3724-3725-3726-3727-3728-3729-
+3730-3731-3732 (pages 3691-3700 respectively) confirmed distinct and fully
+consecutive via direct `X-Yahoo-Msgnum` header read, continuing directly
+from batch 369's last msgnum, 3722 — no new gap. Standing archive gaps at
+2122/2190/2229/2385/2611/2614/2753/3682 unaffected, not re-flagged. All ten
+source `.eml` byte sizes matched the dispatch table exactly
+(1376/2408/1690/1882/2204/1578/1923/1667/2007/1703 for page_3691 through
+page_3700), confirmed via direct `wc -c` and header read before any content
+read — no same-size pair, stale-read risk ruled out.
+
+**Anchor checker** (both `anchorcheck.js` and `anchorcheck2.js`) run clean:
+0 broken across 2,820 anchors (up from 2,814 at the end of batch 369).
+Archive timeline advances to 21 June - 2 July 2006.
+
+## 2026-07-07 (batch 369: page_3681-page_3690)
+
+This batch covers messages spanning **14 June - 21 June 2006**, continuing
+directly from batch 368 with no new archive gap (msgnum run 3713-3722 is
+distinct and consecutive, continuing directly from batch 368's last msgnum,
+3712). No new pages created; five existing pages extended.
+
+**Small Sailboats / Paradox-UK websites — `references/paradox-uk-website.md`.**
+Extended "A second outage, June 2006, and an apparent domain-registrar
+issue" with the outage's resolution: Bill Serjeant re-uploaded the site
+within a day and confirmed it fully "up and running"; the correspondent who
+first flagged the outage (Anthony "Magsman") thanked him, relieved it
+wasn't his own computer, and praised the site's real-world sailing links
+and Bill's own sailing life. Cites [67]-[69], count 69/69 == numeric max
+69, no gaps, up from 66/66.
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Extended "A June 2006 site
+outage" with the restoration; added two new sections: "Chine-runner and
+gudgeon photos, and Mark Waters' Paradox" (Bill uploaded photos of Faith's
+chine runner and lower gudgeon, put a third layer of glass on her bottom
+ahead of a month away in Australia, and praised Mark Waters' own Paradox
+photos as "superb"; Glen Maxwell complimented the workmanship in turn) and
+"Why he wanted a kit, and a possible plywood-bottom kit method" (his reason
+for wanting a kit was speed of construction, not a full kit; floats a
+three-layer thin-plywood bottom, the first layer stitched to the sides, as
+a possible kit construction method). Cites [92]-[96], count 96/96 ==
+numeric max 96, no gaps, up from 91/91.
+
+**Enuf — `boats/enuf.md`.** New section "A lower hatch cover, and the
+furled sail riding forward over the drum": Derek Clark posted fresh photos
+of the hatch cover, floated dropping it to just two inches high, and
+reported the furling sail riding forward over the drum one morning for
+reasons he couldn't isolate (the boom's outboard end sat lower than
+before). Cite [244], count 244/244 == numeric max 244, no gaps, up from
+243/243.
+
+**Matt (Ithaca, NY) — `people/matt-noonan-ithaca.md`.** Extended with his
+reply describing Ithaca (glacially carved gorges/waterfalls/lakes, a move
+to Cayuga Lake that August, graduate math studies at Cornell) and a
+pigment/UV and hull-color Q&A with Derek Clark: Derek's supplier's claim
+that pigment alone (no paint) protects the epoxy from UV — the same claim
+already on record for Enuf's own paint scheme, cross-linked rather than
+re-narrated — a "British Racing Green" correction, and the reasoning behind
+a bright red sail (visible in distress at sea, inconspicuous with sail down
+up rivers). Cites [4]-[5], count 5/5 == numeric max 5, no gaps, up from
+3/3.
+
+**Mark Waters — `people/mark-waters.md`.** One-line narrate-once-cross-link
+addition: Bill Serjeant later saw photos of Waters' finished Paradox and
+called them "superb," cross-linked to `people/bill-serjeant.md` rather than
+re-narrated. Cite [6], count 6/6 == numeric max 6, no gaps, up from 5/5.
+
+**Correspondents seen:** Anthony "Magsman" (`magsman999`, u=189356789,
+standing below-threshold identity since batch 367, 2 messages — relief at
+the site fix and the Holy Island question), Bill Serjeant (`barnacleid`/
+`william@`, u=186923448, standing identity, 5 messages — two site-restore
+confirmations, the chine-runner/gudgeon/Mark-Waters photo update, and the
+kit-rationale reply), Derek Clark (`dclark`/`dclark52001`, u=24083034,
+standing identity, 2 messages — the hatch-cover/furling-drum report and the
+pigment/UV/red-sail answer), Matt (Ithaca, NY) (`men99`/`twitch_816`,
+u=208350665, standing identity since batch 368, 1 message — the Ithaca
+description and pigment/UV question), Glen C. Maxwell (`ifida`/`ifida2000`,
+u=152648841, standing identity, 1 message — complimenting Bill's chine-runner
+and gudgeon workmanship). No other correspondents this batch.
+
+**No exclusions this batch** — all ten messages carried genuine Paradox
+content (site-outage resolution, build/paint/rig detail, or direct
+community welcome), none met the pruning rubric's zero-Paradox-content bar.
+
+**Attribution checks:** Anthony "Magsman," Bill Serjeant, Derek Clark, Matt
+(Ithaca, NY), and Glen C. Maxwell all confirmed via header (`From:`/Yahoo
+`u=`) against standing identities; none of the standing conflation risks
+(David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, the three "Larry"s,
+the two "Wayne"s, Curtis/`azskybum` vs. Chris Curtis, or any Paul variant)
+appeared this batch. Matt (Ithaca)'s first name was again kept distinct from
+designer Matt Layden throughout — no page merge, no biography edit.
+
+**Citation-collision check clean across all five touched files** (count
+equals true numeric max verified by full sort, not tail read, both before
+and after adding; zero new duplicates, zero invented letter-suffixes, all
+documented pre-existing gaps elsewhere in the tree — `jack-gardiner.md`'s
+[53] gap, `crew-size-and-fit.md`'s [54]-[87] gap,
+`plywood-grades-and-foam-flotation.md`'s +2 gap, `design/rig.md`'s
+[7a]/[7b] pair, `design/weight-and-ballast.md`'s [53a]/[53b] pair,
+`design/furling-system.md`'s [29a] gap — confirmed unaffected, none of
+those files touched this batch).
+
+**Msgnum/byte-size check:** msgnum run 3713-3714-3715-3716-3717-3718-3719-
+3720-3721-3722 (pages 3681-3690 respectively) confirmed distinct and fully
+consecutive via direct `X-Yahoo-Msgnum` header read, continuing directly
+from batch 368's last msgnum, 3712 — no new gap. Standing archive gaps at
+2122/2190/2229/2385/2611/2614/2753/3682(archive-gap) unaffected, not
+re-flagged (this batch's *page* `page_3682` is unrelated to that standing
+msgnum gap, per the dispatch note). All ten source `.eml` byte sizes
+matched the dispatch table exactly (2642/1997/4688/1986/1857/3696/1945/
+1958/2926/1753 for page_3681 through page_3690), confirmed via direct
+`wc -c` and header read before any content read — no same-size pair, stale
+-read risk ruled out.
+
+**Anchor checker** (both `anchorcheck.js` and `anchorcheck2.js`) run clean:
+0 broken across 2,814 anchors (up from 2,807 at the end of batch 368).
+Archive timeline advances to 14-21 June 2006.
+
+## 2026-07-07 (batch 368: page_3671-page_3680)
+
+This batch covers messages spanning **4 June - 14 June 2006**, continuing
+directly from batch 367 with no new archive gap (msgnum run 3703-3712 is
+distinct and consecutive, continuing directly from batch 367's last
+msgnum, 3702). One new person page created; four existing pages extended.
+
+**New person — `people/matt-noonan-ithaca.md`.** A new Paradox builder,
+"Matt" (Yahoo handle `twitch_816`), introduced himself from the Ithaca, New
+York area (moving to a house on Cayuga Lake that fall) as a long-time
+lurker finally starting to build, having already completed two
+Yost-designed folding kayaks and a PDRacer — judged Paradox by far the most
+complex of the four. He is keeping a public build log at
+`www.math.cornell.edu/~noonan/boats/paradox.html`. Derek Clark and Bill
+Serjeant both welcomed him to the list. No boat name yet (just starting),
+so no `boats/` page created. Cites [1]-[3], 3/3, no gaps.
+
+**Small Sailboats / Paradox-UK websites — `references/paradox-uk-website.md`.**
+New section "A second outage, June 2006, and an apparent domain-registrar
+issue": the `smallsailboats.co.uk` domain went down again in June 2006,
+this time showing a registrar's holding page rather than site content —
+flagged independently by two below-threshold correspondents (Anthony
+"Magsman" and the established NZ correspondent Alan/`logicaidnz`), with
+Bill Serjeant confirming he was working to sort out the registration
+itself. Cites [62]-[66], count 66/66 == numeric max 66, no gaps, up from
+61/61.
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Two new sections: "The
+bottom fixed, chine runners complete, and a two-month pause for Australia"
+(his own build reaching the bottom-glassing stage by mid-June 2006, then
+pausing two months for a trip to Australia, where he hoped — so far
+without reply — to meet Andrew Graham and see "Aussie Paradox"; given while
+welcoming the new Ithaca builder) and "A June 2006 site outage"
+(cross-linking the `paradox-uk-website.md` outage account). Cites
+[89]-[91], count 91/91 == numeric max 91, no gaps, up from 88/88.
+
+**Derek Clark — `people/derek-clark.md`.** One-line narrate-once-cross-link
+addition for welcoming the new Ithaca builder, cross-linked to
+`people/matt-noonan-ithaca.md` rather than re-narrated. Cite [68], count
+68/68 == numeric max 68, no gaps, up from 67/67.
+
+**Andrew Graham — `people/andrew-graham.md`.** One-line cross-link bullet:
+Bill Serjeant's hoped-for June 2006 visit and unanswered emails, cross-linked
+to `people/bill-serjeant.md` rather than re-narrated. Cite [15], count
+15/15 == numeric max 15, no gaps, up from 14/14.
+
+**People index.** Added `matt-noonan-ithaca.md` to `people/index.md`.
+
+**Exclusions (pruning rubric, zero Paradox content, no citation added):**
+page_3671 (msgnum 3703, Derek Clark's reply to Nels continuing the
+off-topic "Owen" personal-misfortune tangent already flagged excluded in
+batch 367) and page_3678 (msgnum 3710, Nels's one-line "Spam Alert!,"
+zero Paradox content).
+
+**Correspondents seen:** Derek Clark (`dclark`/`dclark52001`, u=24083034,
+standing identity), Anthony "Magsman" (`magsman999`, u=189356789, standing
+below-threshold identity since batch 367), Alan (`logicaid`/`logicaidnz`,
+u=47492986, established below-threshold NZ correspondent — note his `u=`
+here, 47492986, differs from the `u=214650167` figure previously recorded
+for Alastair/`openboat`; Alan and Alastair are and remain distinct
+established identities, no conflation), Matt/`twitch_816` (`men99`,
+u=208350665, new builder, promoted this batch), Bill Serjeant
+(`barnacleid`/`william@`, u=186923448, standing identity), Nels
+(`arvent`/`recree8`, u=62964199, standing identity, off-topic one-liner
+only, no citation).
+
+**Attribution checks:** all correspondents confirmed via `From:`/Yahoo
+`u=` headers against standing identities; none of David Beard/David
+LeBlanc, Jack Gardiner/`mat_man22`, Curtis/`azskybum` vs. established
+Chris Curtis, the two established "Wayne"s, or the three "Larry"s
+appeared this batch — no conflation risk triggered. Matt Layden's frozen
+biography not touched — the new Ithaca builder happens to share Matt
+Layden's first name, but the two are never conflated in prose (the new
+page is titled "Matt (Ithaca, NY)" and links to
+`/matt-layden/biography.md` are unaffected).
+
+**Archive timeline** advances from 29 May-3 June 2006 to 4-14 June 2006.
+**Anchor checker** (both `anchorcheck.js` and `anchorcheck2.js`) run clean:
+0 broken across 2,807 anchors (up from 2,801 at the end of batch 367).
+Cursor set to 3680.
+
+## 2026-07-07 (batch 367: page_3661-page_3670)
+
+This batch covers messages spanning **29 May - 3 June 2006**, continuing
+directly from batch 366 with no new archive gap (msgnum run 3693-3702 is
+distinct and consecutive, continuing directly from batch 366's last
+msgnum, 3692). No new files created; five existing pages extended.
+
+**Radio and electronics — `operations/radio-and-electronics.md`.** Closed
+out the "12 volt wiring" thread: Stephen Yahn accepted Glen Maxwell's
+size-to-the-load correction while admitting a personal preference for
+"the easy overkill" over a precisely matched conductor [26]; Glen Maxwell
+gave a fuller account of his own wiring practice — smallest wire possible
+for a tidy, unsightly-wire-free installation, conduit on his own Paradox,
+and clear duct tape over wiring taped to the ceiling on his brothers' and
+his own Peep Hen boats where conduit wasn't practical [27]. 27/27, no
+gaps, up from 25/25.
+
+**Enuf — `boats/enuf.md`.** New section "New photos, an unplanned
+chine-runner shape, and a Porta Potti in the transom": a further round of
+"Enuf" photos posted to Bill Serjeant's `smallsailboats` group drew a
+newcomer's ("Anthony aka Magsman," below-threshold, one appearance) question
+about a plastic box visible through the transom, answered by Nels (a Porta
+Potti in storage position) and confirmed by Derek Clark, who had just
+bought a newer, more compact model; the same photos drew Nels's
+observation that the chine runners looked off the plans' shape, and
+Derek's candid admission that a sanding-disc mishap with his angle grinder,
+not a deliberate design change, was the real cause — along with his
+after-the-fact "not wanting just a clone Paradox" rationalization and an
+admission that he had guessed at some plan details he didn't fully
+understand. Cites [239]-[243], 243/243, no gaps, up from 238/238. An
+unrelated Microcruisers-group member's ("Owen") personal misfortune,
+raised by Derek and answered sympathetically by Nels, carries zero Paradox
+content and was excluded from the tree entirely per the pruning rubric.
+
+**Cross-links (narrate-once-cross-link).** `people/derek-clark.md` gained a
+short summary + link for the chine-runner admission and Porta Potti
+confirmation (cites [66]-[67], 67/67, up from 65/65); `people/nels.md`
+gained a matching summary + link bullet for spotting the chine-runner
+shape and guessing the transom box (cite [153], 153/153, up from 152/152);
+`people/glen-maxwell/build-and-zoe.md` extended its existing 12-volt-wiring
+bullet with Glen's conduit/duct-tape practice — cross-link only, no new
+citation (243/243 unchanged, facts fully cited on
+radio-and-electronics.md).
+
+Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) both run clean: 0
+broken across 2,801 anchors (up from 2,796 at the end of batch 366).
+Archive timeline advances to 29 May - 3 June 2006.
+
+## 2026-07-07 (batch 366: page_3651-page_3660)
+
+This batch covers messages spanning **26-29 May 2006**, continuing directly
+from batch 365. A **new archive gap at msgnum 3682** falls between the two
+batches (batch 365 ended at msgnum 3681/page_3650; this batch opens at
+msgnum 3683/page_3651) — a genuine message missing from the Yahoo archive,
+recorded alongside the standing gaps (2122, 2190, 2229, 2385, 2611, 2614,
+2753). This batch's own msgnums, 3683-3692, are distinct and consecutive
+among themselves. No new files created; nine existing pages extended.
+
+**Rig and sail — `design/rig.md`.** Closed out the "Deck Chewing" thread
+begun in batch 365: David Beard independently confirmed the same
+non-problem on "Whisper" — her tack-strop deck pipe is cut a little short
+and never touches the deck once the sail is hoisted (extends "Tack-pipe
+deck wear," cite [246]). A newcomer's curiosity about a recurring
+"hoping for calm nights" signature line drew out a real fact: sleep comes
+easily enough at anchor aboard a Paradox, but a lumpy, rolling sea is what
+actually disturbs it — not any design flaw (extends "Why the mainsheet
+presented at the helmsman's back is not awkward in practice," cites
+[247]-[248]). The same newcomer, a Picaroon owner without a Paradox of his
+own, wondered whether a four-foot-wide hull might roll uncomfortably
+quickly at anchor, and named the design's trailer-friendliness — which his
+own boat lacks — as part of its appeal (cite [249]).
+
+**Radio and electronics — `operations/radio-and-electronics.md`.** New
+section "12-volt wiring gauge: choosing conductor size for a low-draw
+boat," covering a full wire-gauge debate prompted by David Beard's 2006
+re-wire of "Whisper" for LED lighting, auxiliary plugs, and a handheld GPS:
+Glen Maxwell's practical 22-gauge speaker-wire technique (color-coded,
+disappears under paint, held with duct tape); a counter-recommendation for
+the thickest affordable gauge with tinned conductors and aircraft-grade
+insulation for fire safety; Glen's pushback that a lighting circuit's
+~0.08 amp draw does not call for heavy-gauge wire, and that wire should be
+sized to the load; and Derek Clark's reconciling view — size to the load
+for cost-effectiveness, but the largest cross-section that fits is the
+real ideal, illustrated by his own free, skip-salvaged 240-volt lighting
+and machine-tool cable (cites [22]-[25]). Frontmatter description updated
+to mention wiring-gauge choices.
+
+**Furling system — `design/furling-system.md`.** Closed out the "Topping
+Lift Again" thread begun in batch 365: Bill Serjeant thanked Glen Maxwell
+in turn for his detailed reply, alongside his earlier thanks to Alastair
+(cite [64]).
+
+**Boats/people cross-links (narrate-once-cross-link).** `boats/whisper.md`
+gained a new "Deck wear at the tack-strop fitting, and a 2006 wiring
+re-do" section (cites [89]-[90]) pointing to the full rig.md/
+radio-and-electronics.md treatments. `people/david-beard.md` extended its
+"Masthead-light wiring" material with the 2006 re-wire and deck-wear
+confirmation (cites [260]-[261]). `people/glen-maxwell/build-and-zoe.md`
+gained a one-paragraph summary+link bullet in "Construction techniques"
+for his wiring-gauge practice (no new citation — facts fully cited on
+radio-and-electronics.md). `people/derek-clark.md` extended its build
+narrative with his wiring-cost-effectiveness view (cite [65]).
+`people/alastair.md` (cite [306]) and `people/bill-serjeant.md` (cite
+[88]) each gained a citation-only cross-link for their respective
+continuing appearances in the Deck Chewing and Topping Lift Again threads.
+
+**Correspondents this batch:** Alastair (Yeovil, England), David Beard
+(Whisper), Glen C. Maxwell, Stephen Yahn (below-threshold newcomer,
+Picaroon owner), Derek Clark (Enuf), Bill Serjeant (Faith) — all confirmed
+via `From:`/Yahoo `u=` headers against standing identities, no new
+correspondents, no attribution-trap conflations triggered.
+
+Citation-collision checks: all nine touched files verified count == true
+numeric max (full sort, not tail read) both before adding and after,
+preserving all documented pre-existing gaps (design/rig.md's existing
+letter-suffix gaps; design/furling-system.md's [29]/[29a] gap;
+jack-gardiner.md's, crew-size-and-fit.md's, plywood-grades-and-foam-
+flotation.md's, weight-and-ballast.md's, and furling-system.md's other
+standing gaps, none of which were touched this batch). Anchor checkers
+(anchorcheck.js and anchorcheck2.js) both run clean: 0 broken across 2,796
+anchors (up from 2,783 at the end of batch 365).
+
+## 2026-07-07 (batch 365: page_3641-page_3650)
+
+This batch holds the archive timeline at 25-26 May 2006 (messages span
+25-26 May 2006, a dense same-day/next-day exchange continuing directly
+from batch 364's 17-25 May 2006 span). Two threads: the resolution of
+Bill Serjeant's "Topping Lift Again" question left unanswered at the end
+of batch 364 (pages 3641, 3645, 3647), and a new "Deck Chewing" thread
+covering tack-strop deck wear and mainsheet ergonomics (pages 3642, 3644,
+3649, 3650), running in parallel with Derek Clark's and Bill Serjeant's
+hull-fairing progress reports (pages 3643, 3646, 3648). No new files or
+pages created; six existing pages extended.
+
+**Furling system — `design/furling-system.md`.** Resolved the "third
+topping-lift question" left open at the end of batch 364: **Alastair**
+answered the masthead-block question directly (an eye, not a block,
+screwed to the aft side of the mast, carrying a two-part span port of the
+mast but starboard of the sail, never fouled in use); **Glen Maxwell**
+gave the fuller answer on his own three-block purchase (confirmed still
+starboard-side with a below-deck downhaul through a vent-box-cleated deck
+tube, corrected Bill's tube-order guess — the innermost port-side tube is
+the topping lift, not the furling line — and explained the multi-block
+purchase's self-centering intent); Bill thanked Alastair for the
+explanation. The body text's prior "unanswered within the archive" framing
+was updated to reflect the resolution. Added as citations [61]-[63] (count
+63/63, numeric max 63 — up from 60/60, no gap).
+
+**Rig and sail — `design/rig.md`.** Two additions. First, a new section
+"Why the mainsheet presented at the helmsman's back is not awkward in
+practice," placed directly after "Sailed entirely from the helm station,"
+answering a newcomer's worry that the plans' aft-led mainsheet looks
+awkward next to a dinghy's forward-led sheet: in practice the sheet is
+pulled in by thrusting forward with the arm while bracing the back against
+bulkhead 4, with slack falling into a bin behind the bulkhead, and — unlike
+a dinghy — the sheet is set once and left alone rather than played
+continuously. Second, extended "Tack-pipe deck wear" with the "Deck
+Chewing" thread: a newcomer's worry that the tack strop's brass tube might
+chew a divot into the deck, answered by Alastair — a flared pipe end does
+far less damage than a cut end, a glass/epoxy pad round the deck fitting
+helps further, but the paint will scratch regardless; a bonded bronze or
+stainless disc solves it outright for a builder who wants it gone
+entirely. Added as citations [242]-[245] (count 245/245, numeric max 245 —
+up from 241/241, no new gap; the pre-existing `[7a]`/`[7b]` pair is
+unaffected).
+
+**Enuf — `boats/enuf.md`.** New section "Rubbing down, and the first coat
+of pigmented resin," continuing the hull-fairing narrative in parallel
+with the cardboard hatch mock-up thread: Derek finished rubbing the hull
+down (admitting he hates the job) and hoped to roll on pigmented epoxy,
+but rain repeatedly pushed the work back; Bill Serjeant, working through
+the same weather on "Faith," reported the same rain delay bevelling his
+own bottom piece, plus the multi-day cure-temperature dependency that
+makes garage work impractical; Derek then applied the first coat of
+pigmented resin, reporting only that "it doesn't look nice" yet. Two of
+the batch's three subject lines for this thread arrived double-encoded and
+garbled ("Enuf" plus two stray `±` characters); treated as a transmission
+artifact, not reproduced verbatim, and noted plainly in the citations.
+Added as citations [236]-[238] (count 238/238, numeric max 238 — up from
+235/235, no gap).
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Cross-linked (not
+re-narrated) both new threads per narrate-once-cross-link: Alastair's and
+Glen Maxwell's topping-lift answers plus Bill's own thank-you, and the
+rain/bevel progress reply to Derek Clark's hull-fairing report. Updated
+the "boats/faith.md split candidate" backlog item in place with this
+batch's two additional citations. Added as citations [86]-[87] (count
+87/87, numeric max 87 — up from 85/85, no gap).
+
+**Derek Clark — `people/derek-clark.md`.** Cross-linked the hull
+rubbing-down and first-pigmented-coat progress to `boats/enuf.md`. Added as
+citation [64] (count 64/64, numeric max 64 — up from 63/63, no gap).
+
+**Alastair — `people/alastair.md`.** Added three new bullets to "Rig,
+electrics, and furling": his own masthead topping-lift arrangement in
+detail, the tack-pipe deck-wear answer, and the mainsheet-ergonomics
+answer — all cross-linked to `design/furling-system.md` and `design/
+rig.md` rather than re-narrated. Added as citations [303]-[305] (count
+305/305, numeric max 305 — up from 302/302, no gap).
+
+Correspondents this batch: Alastair (`openboat`/`alopenboat`, `u=214650167`,
+standing identity, 4 messages), Bill Serjeant (`barnacleid`/`william@`,
+`u=186923448`, standing identity, 2 messages), Glen C. Maxwell (`ifida`/
+`ifida2000`, `u=152648841`, standing identity, 1 message), Derek Clark
+(`dclark`/`dclark52001`, `u=24083034`, standing identity, 2 messages), and
+Stephen Yahn (`yahns`/`yahn101a`, `u=207571043`, established
+below-threshold identity, 2 messages — the deck-chewing and
+mainsheet-position questions, his standing Open item updated). No
+newcomers. Msgnum run 3672-3681 (pages 3641-3650) confirmed distinct and
+consecutive from batch 364's last msgnum 3671; all ten byte sizes matched
+the dispatch table exactly. Both anchor checkers (`anchorcheck.js`,
+`anchorcheck2.js`) run clean: 0 broken across 2,783 anchors (up from 2,772
+at end of batch 364).
+
+## 2026-07-07 (batch 364: page_3631-page_3640)
+
+This batch advances the archive timeline from 17 May 2006 to 25 May 2006
+(messages span 17, 18, 19, 21, 22, and 25 May 2006, continuing directly
+from batch 363's 2-17 May 2006 span). Two threads and one new topic: the
+tail of "Fill/suction copper pipes" (pages 3631-3637, a ballast-materials
+tangent — sea water or water bottles in place of the built-in tanks, and
+Bill Serjeant's sheet-lead/sand/epoxy ballast-fixing technique), a new
+"Rough-weather handling" thread from a first-time correspondent (pages
+3638-3639), and a new, still-unanswered "Topping Lift Again" question from
+Bill Serjeant (page 3640). No new files or pages created; six existing
+pages extended.
+
+**Transom deck plate — `construction/transom-deck-plate.md`.** Extended
+"The fill/suction copper pipe" section with a short new paragraph on two
+untested alternatives to building the tanks at all: sea water in place of
+fresh (removing the "not drinking it anyway" objection, at the cost of
+rot risk in an unused tank, weighed by one builder against simply carrying
+more fixed lead for the headroom/floor-space gain) and skipping the tank
+for ordinary water bottles, following the Bolducs' own practice. Added as
+citations [54]-[55] (count 55/55, numeric max 55 — up from 53/53, no gap).
+
+**Weight and ballast — `design/weight-and-ballast.md`.** Extended
+"Installing the lead ballast" with a third ballast-fixing method: sheet
+lead bedded permanently in place with a sand/epoxy infill, proven on Bill
+Serjeant's own prior 25 ft Folksong. Documents why sand is used at all
+(cheapest available heavy infill for bulking out epoxy, and a legitimate
+way to add ballast weight cheaply in its own right — not a substitute for
+glass-cloth reinforcement) and a curing-heat caution for any real volume of
+sand/epoxy poured in a confined bilge space. Added as citations [129]-[132]
+(count 134/134 against numeric max 132 — up from 130/130 against numeric
+max 128; the pre-existing `[53a]`/`[53b]` +2 gap is unchanged, not a new
+gap).
+
+**Heavy-weather tactics — `operations/heavy-weather-tactics.md`.** New
+section "A newcomer's rough-weather FAQ: tacking, pitchpoling, submarining,
+and lying to a drogue," gathering a first-time correspondent's
+first-principles questions (why the boat doesn't get blown off course
+mid-tack when neither chine runner grips water; pitchpoling risk given the
+lack of bow flare; "submarining" behavior, steering, and vent intrusion;
+lying to a drogue; lying a-hull) and Alastair's answers as far as they go —
+heeling itself engages the chine runner regardless of tack; the worst
+water on record came aboard as solid green water in a tide race running
+with the tide against the wind; sailing that race with tiller and
+mainsheet both locked off, the boat steered herself with no adjustment and
+no water reached the cabin despite audible flow into the vent trunk. Two
+of the correspondent's questions (drogue behavior, chine runners lying
+a-hull) remain unanswered on record. Added as citations [46]-[47] (count
+47/47, numeric max 47 — up from 45/45, no gap).
+
+**Furling system — `design/furling-system.md`.** New section "A third
+topping-lift question: reading the deck-tube layout at the mast," following
+directly after the existing two topping-lift sections. Bill Serjeant,
+having settled on fitting a topping lift, asked Glen Maxwell (copying the
+list) a detailed rigging-geometry question — his own reading of the plans'
+three port-side deck tubes (tack strop, topping lift, furling line, reading
+outward) and the one starboard tube (main halyard); whether Glen's own
+topping lift still runs a 3-block purchase with a below-deck downhaul
+routed like the main halyard; how much independent control the arrangement
+gives over each end of the boom; and a comparison of Alastair's port-side
+two-part topping lift against a starboard-side alternative he believed
+David Beard used on "Whisper," weighing yard-wear against a stow-side
+line-crossing problem. Unanswered within the archive as of this question.
+Added as citation [60] (count 61/61 against numeric max 60 — up from
+60/60 against numeric max 59; the pre-existing `[29a]` +1 gap is unchanged,
+not a new gap).
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Extended "Ballast-tank
+plumbing, and an off-centre tank divider" with a new paragraph
+cross-linking the ballast-alternatives tangent and the sand/epoxy ballast
+technique to their full homes on `transom-deck-plate.md` and
+`weight-and-ballast.md` (cites [80]-[84]). Extended "A second topping-lift
+question" with a new paragraph on the third, more detailed topping-lift
+question, cross-linked to `furling-system.md` (cite [85]). Added as
+citations [80]-[85] (count 85/85, numeric max 85 — up from 79/79, no gap).
+
+**Alastair — `people/alastair.md`.** Extended "Construction contributions"
+with a new bullet, "Answering a newcomer's rough-weather FAQ," summarizing
+his chine-runner/tide-race/vent-trunk answers and cross-linking to the full
+exchange on `heavy-weather-tactics.md`. Added as citation [302] (count
+302/302, numeric max 302 — up from 301/301, no gap).
+
+**Correspondents this batch:** Bill Serjeant (`barnacleid`/`william@`,
+standing identity, 5 messages), James "Jim" Hall (`flexwing462`, standing
+below-threshold identity since batch 339, 3 messages), Stephen Yahn
+(`yahns`/`yahn101a`, standing below-threshold identity since batch 358, 1
+message), Alastair (`openboat`/`alopenboat`, standing identity, 1 message),
+and one brand-new below-threshold newcomer, Dmitry Orlov
+(`dmitry.orlov`/`orlov_dm`), a prospective builder asking his first
+questions about the design — new Open item added to `backlog.md` rather
+than a standalone page. No exclusions this batch; all ten source pages
+carried genuine on-topic Paradox content. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,772
+anchors (up from 2,758 at end of batch 363).
+
+## 2026-07-07 (batch 363: page_3621-page_3630)
+
+This batch advances the archive timeline from 2 May 2006 to 17 May 2006
+(messages span 3 May, 4 May, 16 May, and 17 May 2006, continuing directly
+from batch 362's 1-2 May 2006 span). Three threads: the tail of "Dry
+Assembly of 'Faith'" (pages 3621-3623, Bill Serjeant's frames/floors/vent
+trunk progress), one excluded pure off-topic cross-post (page 3624, a
+"Check out todays Captain Humphreys" link with zero Paradox content — no
+citation, no page, per the pruning rubric), and two new Bill Serjeant
+threads: "Fill/suction copper pipes" (pages 3625-3627, 3629-3630) and
+"Central tank divider" (page 3628). No new files created; six existing
+pages extended.
+
+**Bill Serjeant — `people/bill-serjeant.md`.** New section "Gluing the
+frames and floors, and the vent trunk," continuing directly from the dry
+assembly milestone: Bill glued the floors and vent trunk permanently and
+cut in the frames, revealing he had actually begun the frames in late
+February despite his first photo album's suggestion of a late start —
+being retired, he can work the build about four days a week (cite [71],
+page_3622/msgnum 3653); posted the completed vent trunk photo and planned
+to epoxy the frames and side panels the next day (cites [72]-[73],
+page_3621/msgnum 3652 and page_3623/msgnum 3654). New section
+"Ballast-tank plumbing, and an off-centre tank divider": cross-links to
+the fill/suction copper pipe question and answers now living in full on
+`transom-deck-plate.md` (cites [74]-[76]) and Bill's two thank-yous to
+Glen Maxwell and Alastair (cites [77]-[78]); a second paragraph
+cross-links the off-centre tank-divider discovery, now living in full on
+`water-tank-lining.md` (cite [79]). Added as citations [71]-[79] (count
+79/79, numeric max 79 — up from 70/70, no gap).
+
+**Transom deck plate — `construction/transom-deck-plate.md`.** New section
+"The fill/suction copper pipe: sizing, timing, and the fittings that
+connect to it," inserted directly after the existing "Filling and draining
+the water tank" section. Bill Serjeant asked how the plans' 12 mm
+fill/suction copper pipe performs in practice — fill/drain timing, the
+bilge-pump/deck-fitting arrangement, filling method, filling at home
+before towing, whether 70 kg of water ballast meaningfully changes road
+trim against 180 kg of fixed lead, and closing the pipes off at deck level
+for rainwater collection (cite [49], page_3625/msgnum 3656). Alastair
+answered in full: 5-10 minutes per side from a tap (about twice as long by
+bilge pump), a boat-jumble deck-fitting/plug arrangement, a warning that
+forcing water in too fast once blew off one of his own inspection hatches,
+a preference for lead over a pre-filled tank, a noticeable stability
+effect when sailing without the water ballast, and that neither of his two
+epoxy suppliers would certify their resin for drinking water (cite [50],
+page_3626/msgnum 3657). Glen Maxwell separately answered: his own plumbing
+photos, a hose-to-sink-pump/vent-hole siphon-draining technique, a CPVC
+(smaller OD, same bore) recommendation over PVC, sailing with and without
+tank water (a little more tender but workable), amine-blush scrubbing
+before drinking, and the fact that Matt Layden empties his own boat's
+tanks with a fuel bulb specifically to encourage fresh-water conservation
+(cite [51], page_3627/msgnum 3658). Cross-linked Bill's "Central tank
+divider" thread, now living in full on `water-tank-lining.md` (cite [52],
+page_3628/msgnum 3659), and Bill's two thank-you replies to Glen and
+Alastair (cite [53], page_3629/msgnum 3660 and page_3630/msgnum 3661).
+Added as citations [49]-[53] (count 53/53, numeric max 53 — up from 48/48,
+no gap).
+
+**Water tank construction and lining — `construction/water-tank-lining.md`.**
+New section "An off-centre tank divider, confirmed correct against the
+plans." Fitting the floor-support dividers into their dados, Bill Serjeant
+discovered the plans' central tank divider sits off-centre to port rather
+than on the boat's true centerline — correct per the drawings for
+bulkheads #2 and #3, leaving the port tank marginally smaller than the
+starboard tank (made smaller again by the drain-pipe block inside it).
+Checking Matt Layden's own drawings against an apparent second
+misalignment (the under-floor locker divider not lining up with the tank
+divider) turned up the real culprit: the plan-view construction drawing
+(sheet 4) itself appears to draw the tank dividers on the centerline, an
+inconsistency resolved by cross-checking photos of other builders'
+completed boats, which confirmed the off-centre layout as correct (cite
+[36], page_3628/msgnum 3659). Added as citation [36] (count 36/36, numeric
+max 36 — up from 35/35, no gap).
+
+**Weight and ballast — `design/weight-and-ballast.md`.** Extended
+"Real-world under-ballasted handling" with a one-line cross-link: Alastair
+sailing "Little Jim" without her water-tank ballast in light conditions
+still shows a noticeable effect on initial stability even with the full
+lead load aboard, cross-linking the fuller fill/suction plumbing discussion
+now on `transom-deck-plate.md` rather than re-narrating it (cite [128],
+page_3626/msgnum 3657). Added as citation [128] (count 130/130 against
+numeric max 128 — up from 129/129 against 127; the file's pre-existing
+`[53a]`/`[53b]` letter-suffix gap of 2 is unchanged and was reconfirmed,
+not a new gap).
+
+**Alastair — `people/alastair.md`.** New bullet under "Construction
+contributions": ballast-tank fill/suction plumbing in practice — fill/drain
+timing, the boat-jumble deck fittings, the blown-inspection-hatch warning,
+and the noticeable stability effect of sailing without the water ballast —
+cross-linking the full exchange on `transom-deck-plate.md` rather than
+re-narrating it (cite [301], page_3626/msgnum 3657). Added as citation
+[301] (count 301/301, numeric max 301 — up from 300/300, no gap).
+
+**Glen Maxwell (build and Zoë) —
+`people/glen-maxwell/build-and-zoe.md`.** Extended the existing "Water tank
+construction and lining" bullet under "Painting, epoxy, and materials"
+with Glen's fill/suction plumbing contribution: CPVC over PVC for a
+smaller outside diameter at the same bore, his own hose/bilge-pump siphon
+draining technique, and the fact that Matt Layden uses a fuel bulb rather
+than a pump to draw water from his own boat's tanks, deliberately
+inconvenient to encourage fresh-water conservation — cross-linking the
+full exchange on `transom-deck-plate.md` rather than re-narrating it (cite
+[243], page_3627/msgnum 3658). Routed here rather than to
+`matt-layden-eyewitness.md` since this is ordinary fellow-builder technical
+correspondence, not firsthand-of-Matt eyewitness material (the Matt-Layden
+detail is itself only a secondhand technique note, not an eyewitness
+account). Added as citation [243] (count 243/243, numeric max 243 — up
+from 242/242, no gap).
+
+**Exclusion.** Page_3624 (msgnum 3655, Kristofer Harlson /
+`seabiscuit0607`/`seadog4553`, "Check out todays Captain Humphreys") is a
+pure off-topic cross-post link with zero Paradox design/construction/
+sailing content — excluded entirely per the pruning rubric (no catch-all
+leaf resurrected; `references/off-topic-cross-posts.md` stays deleted).
+
+**Anchor checker:** both `anchorcheck.js` and `anchorcheck2.js` run clean,
+0 broken across 2,758 anchors (up from 2,742 at end of batch 362).
+
+## 2026-07-07 (batch 362: page_3611-page_3620)
+
+This batch advances the archive timeline from 1 May 2006 to 2 May 2006
+(messages span 1-2 May 2006, continuing directly from batch 361's 27
+April-1 May 2006 span). Two threads: the tail of "Mock up of Hatch" (pages
+3611, 3616, 3617) and a new "Dry Assembly of 'Faith'" thread (pages
+3612-3615, 3618-3620), in which Bill Serjeant posted photos of his Paradox's
+hull dry-fitted together for the first time. No new files created; three
+existing pages extended.
+
+**Crew size and cabin fit — `operations/crew-size-and-fit.md`.** Extended
+the "A very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup
+suggestion" section with a new headroom-fix anecdote: Alastair, replying to
+Jim Hall's "lower the cabin sole" joke on the hatch-mockup thread, recalled a
+tall ("beanpole") workmate who could not sit inside his own Paradox without
+denting his head — solved with a roughly 4 in deep footwell cut into the
+cabin sole, gaining the needed headroom without lowering the whole floor or
+raising the cabin top; the workmate never built a boat of his own, buying a
+model helicopter instead (cite [114], page_3611/msgnum 3642). Added as
+citation [114] (count 80/80 against numeric max 114 — up from 79/79 against
+113; the file's pre-existing `[54]`-`[87]` gap of 34 numbers is unchanged
+and was reconfirmed, not a new gap).
+
+**Enuf — `boats/enuf.md`.** Extended the "A cardboard hatch mock-up, and a
+lower alternate seat position" section closing out the "Mock up of Hatch"
+thread: cross-linked Alastair's footwell anecdote back to
+`crew-size-and-fit.md` rather than re-narrating it (cite [233], page_3611/
+msgnum 3642). Derek Clark humoured Alastair's furled-boom skepticism with a
+joke that only the two of them need ever know if it does strike, plus a
+"just in case" fix — a hole in the hatch top fitted with a red rubber glove
+so he can reach up and help the furled boom into position without getting
+his hand wet — joking he would rename the boat "Bantam" if he fitted it
+(cite [234], page_3616/msgnum 3647). Derek separately confirmed, replying to
+Jim Hall's "basement" joke, that he had "gone part way" and lowered the seat
+already, per the redesign already on record (cite [235], page_3617/msgnum
+3648). Added as citations [233]-[235] (count 235/235, numeric max 235 — up
+from 232/232, no gap).
+
+**Bill Serjeant — `people/bill-serjeant.md`.** New section "A dry assembly
+of the hull, named 'Faith'," following directly on from the RHXII section.
+Bill posted photographs of Faith's hull dry-assembled for the first time —
+panels and bulkheads fitted unglued to check the fit before committing epoxy
+(cite [64], page_3612/msgnum 3643). Alastair and Derek Clark both praised
+the stem joint's fit; Derek said if his own stem had fitted that well he'd
+have left the foredeck off so everyone could see it (cites [65]-[66],
+page_3613/msgnum 3644 and page_3615/msgnum 3646). Bill explained the tight
+fit cost him most of the wood he started with — three large, expensive
+blocks, with very little left by the time the stem was shaped (cites
+[67]-[68], page_3614/msgnum 3645 and page_3618/msgnum 3649). Jim Hall
+remarked on the pace of the work — from only small parts before the cold
+weather set in, to very nearly a complete hull within a few weeks of the
+cold snap ending (cite [69], page_3619/msgnum 3650). Glen Maxwell closed the
+thread with "Great Job!, Bill, keep the photos coming" (cite [70],
+page_3620/msgnum 3651 — this page was the batch's largest at 5067 bytes,
+confirmed to be a short reply padded almost entirely by quoted-message and
+Yahoo sponsored-link boilerplate in its HTML part; pruned to a one-line
+citation, no separate section). Added as citations [64]-[70] (count 70/70,
+numeric max 70 — up from 63/63, no gap).
+
+**Attribution and identity notes.** No attribution traps triggered: none of
+David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, Curtis/`azskybum` vs.
+the established Chris Curtis, the two established "Wayne"s, or the three
+"Larry"s appeared this batch. `matt-layden/biography.md` (frozen) was not
+touched — Alastair's and Derek's "follow Matt's lead"/nay-sayers banter
+(already covered by batch 361's citation [231]) carries no new biographical
+fact.
+
+**Backlog.** Updated Jim Hall's long-standing below-threshold Open item with
+this batch's one-line resurfacing (still no boat/build, promotion trigger
+unmet, still flagged for compaction at the ~4000 review). Added a new Open
+item flagging Bill Serjeant's accumulating build narrative — now including a
+hull dry-assembly milestone — as a possible `boats/faith.md` split candidate
+for the next holistic review (mirroring `boats/enuf.md`'s precedent for an
+in-progress, unlaunched build), rather than actioning a page split mid-batch.
+Appended a "Batch 362 correspondent + gap check" section recording
+correspondents seen, attribution checks, the msgnum/byte-size verification,
+and citation-collision checks.
+
+**Verification.** Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`)
+both run clean: 0 broken across 2,742 anchors (up from 2,740 at the end of
+batch 361). `cursor.txt` set to 3620.
+
+## 2026-07-07 (batch 361: page_3601-page_3610)
+
+This batch advances the archive timeline from 27 April 2006 to 1 May 2006
+(messages span 27 April-1 May 2006, continuing directly from batch 360's
+24-27 April 2006 span). Two threads: a brief off-list closeout of the
+"RHXII"/"Paradox in Build" thread (page_3601), a thin unanswered technical
+question and the tail-end thank-you banter on the "Sliding hatch runners"
+thread (pages 3602-3604), and a new "Mock up of Hatch" thread (pages
+3605-3610). No new files created; six existing pages extended.
+
+**Secondhand Paradox market — `operations/secondhand-market.md`.** Extended
+the existing "An abandoned build for sale: 'RHXII' (April 2006)" section:
+Bill Serjeant reported contacting Ronald de Hon off-list and, having seen
+the "RHX11" photos already posted to the group, called the boat "great" and
+called it a sadness de Hon could not finish her (cite [43], page_3601/msgnum
+3632). Added as citation [43] (count 43/43, numeric max 43 — up from 42/42,
+no gap).
+
+**Heavy-weather tactics — `operations/heavy-weather-tactics.md`.** The
+existing "Whether a closed cabin is a safety risk, or a comfort" section
+gained a one-line open question, adjacent to the float-when-full design
+claim already recorded there: Stephen Yahn asked whether anyone has ever
+deliberately flooded a "plans built" Paradox while afloat to see how she
+behaves and how low she squats, with no answer recorded on record (cite
+[45], page_3602/msgnum 3633). Added as citation [45] (count 45/45, numeric
+max 45 — up from 44/44, no gap).
+
+**Enuf — `boats/enuf.md`.** New section "A cardboard hatch mock-up, and a
+lower alternate seat position." Derek Clark posted a cardboard mock-up of a
+proposed hard-top hatch — aiming to let the seat be used and the outboard
+run with the hatch closed, Lexan-glazed and sliding on internal fittings —
+asking for comment before cutting ply (cite [227], page_3605/msgnum 3636).
+Jim Hall welcomed the idea subject to boom-clearance/windage checks, and
+asked after Derek's recovering carpal-tunnel hand (cite [228], page_3606/
+msgnum 3637). Glen Maxwell judged the mock-up too tall to clear the boom
+(cite [229], page_3607/msgnum 3638). Derek confirmed he'd left 4 cm of
+clearance but found the taller version simply ugly from every angle; his
+wife's suggestion of a second, lower seat position let him cut the height
+down considerably, at some cost to knee bend; described the revised
+brass-strip slide arrangement and a removable wooden hold-down block, plus a
+lighthearted security plan (cord, cam cleats, bolts, wing nuts, a padlock);
+and reported his hand much improved (cite [230], page_3608/msgnum 3639).
+Alastair remained skeptical the taller original would clear the furled
+sail, conceded the only way to know was to build and test it, and joked
+that Derek should follow Matt Layden's own example and ignore the
+"nay-sayers" (cite [231], page_3609/msgnum 3640). Jim Hall closed with a
+deadpan suggestion to lower the cabin sole instead if headroom can't be
+gained upward past the boom (cite [232], page_3610/msgnum 3641). Added as
+citations [227]-[232] (count 232/232, numeric max 232 — up from 226/226, no
+gap).
+
+**People pages — cross-links, no new narrative (per narrate-once-cross-link).**
+`people/bill-serjeant.md` gained a one-line RHXII off-list-contact closure
+sentence (cite [63], count 63/63, up from 62/62, no gap). `people/alastair.md`
+gained two cross-link entries: a brief reply thanking Stephen Yahn and
+wishing him well with his plans (cite [299]), and the mock-up-hatch
+skepticism/Matt-Layden joke as a new "Construction contributions" bullet,
+cross-linked to `boats/enuf.md` (cite [300]); count 300/300, up from 298/298,
+no gap. `people/derek-clark.md` gained a cross-link paragraph summarizing the
+hatch mock-up/redesign/hand-recovery update, linked to `boats/enuf.md` (cite
+[63], count 63/63, up from 62/62, no gap). `people/glen-maxwell/build-and-zoe.md`
+gained a new bullet under "Design questions and the Paradox census" for
+Glen's boom-clearance judgment, cross-linked to `boats/enuf.md` (cite [242]
+— this file's true numeric max was already 241 before this batch, confirmed
+by full numeric sort; count 242/242, up from 241/241, no gap).
+
+**Attribution and identity notes.** Stephen Yahn's "Al Law" thank-you
+(page_3603) independently corroborates Alastair's surname (Law), previously
+sourced only from his 2020 AYRS retrospective talk on `boats/little-jim.md`.
+Glen C. Maxwell's boom-clearance comment was routed to
+`people/glen-maxwell/build-and-zoe.md` (ordinary fellow-builder technical
+judgment) rather than `matt-layden-eyewitness.md`, since it is not
+eyewitness-of-Matt-Layden material. No attribution traps triggered: none of
+David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, Curtis/`azskybum` vs.
+the established Chris Curtis, the two established "Wayne"s, or the three
+"Larry"s appeared this batch. `matt-layden/biography.md` (frozen) was not
+touched — the passing "follow Matt's lead" joke carries no new biographical
+fact.
+
+**Backlog.** Updated the standing below-threshold Open items for Stephen
+Yahn (thread-closing thanks plus the new flooding-test open question) and
+Jim Hall (routine mock-up-hatch banter, still flagged for ~4000-review
+compaction) with this batch's resurfacing detail; neither cleared its
+promotion trigger. Appended a new "Batch 361 correspondent + gap check"
+section recording the msgnum run, attribution checks, and the treatment of
+the RHXII-closeout and hatch-thank-you material as thin closing banter
+(cited, not new-sectioned) per "keep the fact, drop the turn-taking."
+
+**Anchor check.** Both `anchorcheck.js` and `anchorcheck2.js` ran clean: 0
+broken across 2,740 anchors (up from 2,732 at the end of batch 360).
+
+## 2026-07-07 (batch 360: page_3591-page_3600)
+
+This batch advances the archive timeline from 24 April 2006 to 27 April
+2006 (messages span 24-27 April 2006, continuing directly from batch 359's
+14-24 April 2006 span). Two threads: a short "Paradox in Build"/"RHXII"
+exchange (pages 3591-3592, 3597, 3600) and a new "Sliding hatch runners"
+thread (pages 3593-3596, 3598-3599). No new files created; six existing
+pages extended.
+
+**Hatch hardware and security — `construction/hatch-hardware.md`.** New
+section "A formica wear-surface fix for a foam-lined hatch." Alastair
+reported a years-long sticking problem with "Little Jim"'s foam-lined
+hatch — the sheet-5 upstand rides directly on the foam, wearing it — cured
+at last by re-surfacing the running edge with kitchen-worktop formica strip
+stuck on with double-sided tape, after PTFE tape (rucked up) and brown
+parcel tape (half a season) both fell short; thin-enough brass strip could
+not be sourced (cites [7], [9], page_3593/msgnum 3624 and page_3595/msgnum
+3626). Nels asked the attachment method, whether formica on the lower
+surface alone would do, and floated UHMW strip or brass as alternatives
+(cite [8], page_3594/msgnum 3625). Jim Hall suggested nylon curtain rail,
+once sold as "Swish," as a further low-friction option (cite [10],
+page_3596/msgnum 3627). Added as citations [7]-[10] (count 10/10, numeric
+max 10 — up from 6/6, no gap).
+
+**Whether a closed cabin is a safety risk, or a comfort —
+`operations/heavy-weather-tactics.md`.** The existing section gained a new
+paragraph on a jammed-hatch-after-a-collision worry, distinct from the
+capsize scenario already covered: Stephen Yahn (resurfacing from batch 358)
+asked how a sailor would break out if a crash bound the hatch slides shut
+while taking on water, given the polycarbonate glazing's strength (cite
+[43], page_3598/msgnum 3629). Alastair answered that the hatch runner is
+held by seven bolts each side, reachable and removable from inside; the
+boat floats even full of water regardless; a hard kick would likely snap
+the runner's quarter-inch wooden lip; and the more serious practical risk
+is fire, since the cooker sits just behind the hatch, hence carrying both
+an extinguisher and a fire blanket (cite [44], page_3599/msgnum 3630).
+Added as citations [43]-[44] (count 44/44, numeric max 44 — up from 42/42,
+no gap).
+
+**An abandoned build for sale: "RHXII" — `operations/secondhand-market.md`.**
+New section. Amsterdam builder Ronald de Hon, whose "RHXII" build had been
+chased for progress photos by Glen Maxwell since 2003 (see
+`people/glen-maxwell/list-founder-and-moderator.md`), announced he could not
+finish the boat owing to family trouble and offered her for sale for any
+reasonable offer (cite [40], page_3592/msgnum 3623). Bill Serjeant offered
+to add de Hon's e-mail address to the UK registry to help find a buyer
+(cite [41], page_3597/msgnum 3628); de Hon accepted gladly (cite [42],
+page_3600/msgnum 3631). No sale or further progress recorded after this
+point. Added as citations [40]-[42] (count 42/42, numeric max 42 — up from
+39/39, no gap). Cross-linked (no new citation) from
+`people/glen-maxwell/list-founder-and-moderator.md`'s existing "Chasing down
+quiet builders for photos and progress reports" section, noting the build
+was ultimately abandoned.
+
+**Bill Serjeant — `people/bill-serjeant.md`.** Added his thank-you reply to
+Glen Maxwell's "Looks great!!!!!!" congratulation on the "Paradox in Build"
+thread, admitting the build is a challenge but that he is excited to see
+the boat gradually taking shape (cite [61], page_3591/msgnum 3622), and his
+registry offer to Ronald de Hon, cross-linked to the fuller RHXII account on
+`operations/secondhand-market.md` (cite [62], page_3597/msgnum 3628). Added
+as citations [61]-[62] (count 62/62, numeric max 62 — up from 60/60, no
+gap).
+
+**Alastair — `people/alastair.md`.** Added a new "Construction
+contributions" bullet summarizing the formica hatch-runner fix and the
+jammed-hatch safety answer, cross-linked to their full accounts on
+`construction/hatch-hardware.md` and `operations/heavy-weather-tactics.md`
+per narrate-once-cross-link (cites [296]-[298], page_3593/msgnum 3624,
+page_3595/msgnum 3626, page_3599/msgnum 3630). Added as citations
+[296]-[298] (count 298/298, numeric max 298 — up from 295/295, no gap).
+
+**Nels — `people/nels.md`.** Added a new "Other contributions" bullet for
+his hatch-runner attachment/alternatives question, cross-linked to
+`construction/hatch-hardware.md` (cite [152], page_3594/msgnum 3625). Added
+as citation [152] (count 152/152, numeric max 152 — up from 151/151, no
+gap).
+
+Correspondents seen: Bill Serjeant (barnacleid/william@, u=186923448,
+standing identity, 2 messages), Ronald de Hon (rdehon/RdeHon, u=87839973,
+standing identity — recurring "RHXII" builder since batch ~137 — 2
+messages), Alastair (openboat/alopenboat, u=214650167, standing Yeovil
+identity, 3 messages), Nels (arvent/recree8, u=62964199, standing identity,
+1 message), Jim Hall (flexwing462, u=59421796, standing below-threshold
+identity since batch 339, 1 message — Open item updated), Stephen Yahn
+(yahns/yahn101a, u=207571043, standing below-threshold identity since batch
+358, 1 message — Open item updated). No newcomers. Attribution checks:
+Bill Serjeant (`barnacleid`/`william@`, u=186923448) confirmed via header on
+all messages as the same standing "one person across three handles"
+identity; Alastair (`openboat`/`alopenboat`) confirmed via header as
+Yeovil's established "Al," not a separate "Al" page, per the standing
+`alopenboat`-is-Alastair note; none of David Beard/David LeBlanc, Jack
+Gardiner/`mat_man22`, Curtis/`azskybum` vs. established Chris Curtis, the
+two established "Wayne"s, or the three "Larry"s appeared — no conflation
+risk triggered this batch. Msgnum run 3622-3623-3624-3625-3626-3627-3628-
+3629-3630-3631 (pages 3591-3600 respectively) confirmed distinct and fully
+consecutive via direct `X-Yahoo-Msgnum` header read, continuing directly
+from batch 359's last msgnum 3621. All ten source `.eml` byte sizes matched
+the dispatch table exactly (1550/1505/1881/2144/2969/2032/1838/5868/
+4145/3861 for page_3591 through page_3600), no same-size pair, stale-read
+risk ruled out. Standing archive gaps at 2122, 2190, 2229, 2385, 2611, 2614,
+and 2753 unaffected, not re-flagged. Citation-collision check clean across
+all six touched files (count equals numeric max in every case; zero new
+gaps, zero duplicates, zero invented letter-suffixes; other documented
+pre-existing gaps elsewhere in the tree — `jack-gardiner.md`'s +1 gap at
+`[53]`, `crew-size-and-fit.md`'s `[54]`-`[87]` gap,
+`plywood-grades-and-foam-flotation.md`'s +2 gap, `design/rig.md`'s
+`[7a]`/`[7b]` pair, `design/weight-and-ballast.md`'s `[53a]`/`[53b]`
+pair — confirmed unaffected, none of these files touched this batch).
+Anchor checker (both `anchorcheck.js` and `anchorcheck2.js`) run clean: 0
+broken across 2,732 anchors (up from 2,721 at end of batch 359).
+
+## 2026-07-06 (batch 359: page_3581-page_3590)
+
+This batch advances from 14-15 April 2006 to 14-24 April 2006, continuing
+directly from batch 358's span. The ten pages split into two threads: the
+tail of the same long "Enuf pics?" thread (pages 3581-3586), and a new
+short "Paradox in Build" progress thread on Bill Serjeant's own boat
+"Faith" (pages 3587-3590). Two genuinely substantive additions (Bill
+Serjeant's comparative build-cost/time data, and Derek Clark's contested
+design-history counter-theory), one small factual addition (Matt Layden's
+"Wizard"/"Wizard Shuffle" Ultimate Florida Challenge detail), plus closing
+banter and a build milestone. No new files created; four existing pages
+extended.
+
+**Build vs. buy secondhand — `operations/secondhand-market.md`.** The
+existing "Build vs. buy secondhand: a UK newcomer's cost-benefit
+hesitation" section gained three new paragraphs. Derek Clark's rebuttal to
+Jim Hall's regional-boat-design theory (from batch 358) argues regional
+style reflects divergent solutions to the same problem more than genuinely
+different conditions — the flat-bottomed Yorkshire coble (launched
+transom-first up a sloping beach) versus Kent/Sussex boats (launched
+bow-first up pebble beaches like Hastings) both answering the same
+beach-launching problem; styles staying local before mass media let ideas
+spread; and the same short/steep seas recurring off the US East Coast,
+Australia, and New Zealand, so hull form need not be sea-condition-specific
+(cite [39], page_3581/msgnum 3612). Bill Serjeant's quantified build-cost
+data point — having built a 25  ft boat with *less* work than his Paradox
+at only marginally lower cost, started August 2005 with completion not
+expected before summer 2007, and even a full-time professional unable to
+finish one in under six months (cite [37], page_3584/msgnum 3615). Nels's
+economy-over-time counter-perspective — right-sizing the boat to the
+sailing actually done, a bigger boat's larger engine and moorage/haul-out
+costs, Bolger's BirdwatcherII on a 27 lb Honda 2 hp, towability behind a
+1.5-litre car, the Enigma car-topping analogy, and a Sven Yrvind reading
+recommendation (cite [38], page_3585/msgnum 3616). Added as citations
+[37]-[39] (count 39/39, numeric max 39 — up from 36/36, no gap).
+
+**A recurring close of the "Enuf pics?" thread — `boats/enuf.md`.** The
+existing closing-banter paragraph was extended with Derek Clark's
+self-deprecating "may have put the pointy bit at the wrong end"/too-old-for-Oz
+joke (cite [225], page_3582/msgnum 3613) and Jim Hall's "after you haul it
+out of the building shed you might be able to turn it round" rejoinder
+(cite [226], page_3583/msgnum 3614). Added as citations [225]-[226] (count
+226/226, numeric max 226 — up from 224/224, no gap).
+
+**Racing history — `matt-layden/enigma.md`.** The existing "Racing history
+and change of ownership" section gained a paragraph on further Ultimate
+Florida Challenge footage Nels pointed the list to, on Watertribe's own
+"ChallengeViewer" page — Enigma sailing directly toward the camera against
+a current with no keel and a square sail — recording that Matt raced under
+the call-sign "Wizard" and that a race commentator's caption coined "the
+Wizard Shuffle" for Matt's effortless get-underway routine (cite [34],
+page_3586/msgnum 3617). Added as citation [34] (count 34/34, numeric max 34
+— up from 33/33, no gap). `matt-layden/biography.md` (frozen) was left
+untouched — it already fully narrates the 2006 UFC campaign and carries no
+"Wizard" mention; the new detail lives on enigma.md only.
+
+**Build-cost comparison, and a hull-assembly milestone —
+`people/bill-serjeant.md`.** A new section: a one-line cross-link to Bill's
+build-cost data point on secondhand-market.md (cite [56], narrate-once-
+cross-link), then the "Paradox in Build" milestone — good progress with
+fine weather arrived, fresh photos at his `con_gallery.htm`, hull assembly
+starting within days with practically every other part built (cite [57],
+page_3587/msgnum 3618); congratulations from David Beard (cite [58],
+page_3588/msgnum 3619) and Glen Maxwell (cite [59], page_3589/msgnum 3620);
+Bill's thanks and dry-fit plan (cite [60], page_3590/msgnum 3621). Added as
+citations [56]-[60] (count 60/60, numeric max 60 — up from 55/55, no gap).
+
+Correspondents: Derek Clark (`dclark52001`, u=24083034, standing identity,
+2 messages), Jim Hall (`flexwing462`, u=59421796, standing below-threshold
+identity since batch 339, 1 message — still no boat/build, promotion
+trigger unmet), Bill Serjeant (`barnacleid`/`william@`, u=186923448,
+standing identity, 3 messages — his own build reaching the hull-assembly
+stage), Nels (`arvent`/`recree8`, u=62964199, standing identity, 2
+messages), David Beard (`dlb`/`buster38801`, u=55757302, standing identity,
+1 message — confirmed David Beard NOT David LeBlanc via header, per the
+standing attribution trap), Glen C. Maxwell (`ifida`/`ifida2000`,
+u=152648841, standing identity, 1 message). No newcomers this batch;
+Alan/Alastair/Stephen Yahn appear only inside page_3584's quoted reply
+boilerplate (pruned, not re-cited). Msgnum run 3612-3621 (pages 3581-3590)
+confirmed distinct and fully consecutive continuing from batch 358's last
+msgnum 3611; all ten source `.eml` byte sizes matched the dispatch table
+exactly (3331/2778/1878/5427/4261/2136/1646/2175/1645/2299), no same-size
+pair, stale-read risk ruled out. Standing archive gaps at
+2122/2190/2229/2385/2611/2614/2753 unaffected. Anchor checker
+(`anchorcheck.js` and `anchorcheck2.js`): 0 broken across 2,721 anchors
+(up from 2,719 at end of batch 358).
+
+## 2026-07-06 (batch 358: page_3571-page_3580)
+
+This batch advances from 13-14 April 2006 to 14-15 April 2006, continuing
+directly from batch 357's span. All ten pages form a single continuing
+"Enuf pics?" thread that evolves from banter into a substantive build-vs-buy
+debate: a UK newcomer's own ambivalence over building a Paradox versus
+buying something secondhand, whether the design performs to windward as
+well in "British conditions" as elsewhere, and a design-history tangent on
+why flat-bottomed sharpies suit American waters. New content was folded into
+a new section on `operations/secondhand-market.md`, a matching new section
+on `chine-runners/windward-performance.md`, one-line cross-link summaries on
+`people/alastair.md` and `people/derek-clark.md`, and closing banter on
+`boats/enuf.md`.
+
+**Build vs. buy secondhand: a UK newcomer's cost-benefit hesitation —
+`operations/secondhand-market.md`.** A new section captures the archive's
+fullest first-person build-vs-buy hesitation: drawn to the Paradox for its
+inside-the-cabin sailing (disliking wet, cold, open cockpits), but aware no
+secondhand boat on the market offers that, and weighing an uncertain resale
+market against the time/money cost of a from-scratch build. Alastair
+answered with a concrete offer — a test sail near Keyhaven timed around a
+Dinghy Cruising Association meeting at Hurst Point, Hampshire (declined
+owing to a prior commitment) — and gave "Little Jim"'s own build cost and
+time figures (about 18 months, roughly £2,500), framing the resale worry as
+moot since he had already written off the build cost in advance. He also
+offered a marketing/racing-culture explanation for why unconventional
+small-boat designs sell poorly (the Topper Cruz's racer-styled cruising
+hull, and the post-America's-Cup fad for irrelevant winged keels on
+cruisers). Derek Clark judged a UK secondhand market for odd craft unlikely,
+citing an acquaintance's Bolger Micro that sold for a quarter of its build
+cost, and recommended the book *Shoal Waters*. Added as citations [30]-[36]
+(count 36/36, numeric max 36 — up from 29/29, no gap).
+
+**A recurring skeptic's question: does British water sail differently? —
+`chine-runners/windward-performance.md`.** A new section captures Derek
+Clark's rebuttal to the "British conditions" windward-performance doubt,
+cross-linked from the secondhand-market section above: sailing conditions
+are not seriously different enough between the UK, US, Australia, and New
+Zealand to change a boat's windward performance, and conventional designs'
+market dominance is better explained by advertising, salesmanship, and
+self-perception than by any real performance gap. Added as citation [12]
+(count 12/12, numeric max 12 — up from 11/11, no gap).
+
+**A recurring close of the "Enuf pics?" thread — `boats/enuf.md`.** A new
+section closes out the thread's residual banter (Alastair's "I'll keep in
+touch," a joke that "the water goes round the other way in Oz," and Alan's
+one-line "pointy-bit at the other end" joke), cross-linking to the two
+substantive sections above rather than re-narrating them. Added as citations
+[222]-[224] (count 224/224, numeric max 224 — up from 221/221, no gap).
+
+**Person-page cross-links.** `people/alastair.md` gained a summary paragraph
+covering the DCA/Keyhaven sail offer, the build cost figures, and the
+racing-culture marketing theory, linked to the new secondhand-market
+section (citations [293]-[295], count 295/295, numeric max 295 — up from
+292/292, no gap). `people/derek-clark.md` gained a one-line summary of his
+windward-conditions/secondhand-market reply, linked the same way (citation
+[62], count 62/62, numeric max 62 — up from 61/61, no gap).
+
+No new person or boat pages were created — all content extended existing
+hub/person/boat pages via cross-link per the narrate-once-cross-link
+convention. No content was excluded this batch; all ten source pages
+carried genuine, on-topic material. Correspondents: James/Jim Hall
+(standing below-threshold identity since batch 339, his fullest
+first-person content on record — still no boat/build, promotion trigger
+unmet), Alastair (standing identity), Stephen Yahn (brand-new below-
+threshold one-off, new Open item added to `backlog.md`), Derek Clark
+(standing identity), Alan (standing established NZ below-threshold
+identity, one-line joke, no new fact). Attribution checks confirmed all
+standing identities via `From:`/Yahoo `u=` headers with no conflation risk
+(David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, Curtis/`azskybum` vs.
+established Chris Curtis, and the two established "Wayne"s all checked,
+none triggered). Msgnum run 3602-3611 (pages 3571-3580) confirmed distinct
+and fully consecutive continuing from batch 357's last msgnum 3601; all ten
+source `.eml` byte sizes matched the dispatch table exactly
+(3251/8783/3612/1677/1747/3037/2072/2130/2480/2220), no same-size pair,
+stale-read risk ruled out. Anchor checker (`anchorcheck.js` and
+`anchorcheck2.js`): 0 broken across 2,719 anchors (up from 2,708 at end of
+batch 357).
+
+## 2026-07-06 (batch 357: page_3561-page_3570)
+
+This batch stays within 13-14 April 2006, continuing directly from batch
+356's 9-13 April 2006 span. It continues the "Enuf pics?" thread with a
+good-humored "dossing"/vehicle-overnight-parking sub-thread (Derek Clark's
+and Nels' own parking tips, answering Jim Hall's laybys question), a
+Bill-Serjeant-site-vs-Don-Elliott's-"Smallboats" naming mix-up raised by a
+brand-new correspondent, and a closing joke exchange between Jim Hall and
+Alastair. All folded into the existing `boats/enuf.md` "A carpal-tunnel
+operation halts progress, and a five-week pause" section, with one-line
+cross-link summaries added to `people/derek-clark.md`, `people/alastair.md`,
+`people/bill-serjeant.md`, and `people/nels.md`. Correspondents are mostly
+already-established identities (Derek Clark, Alastair, Nels, Martin
+Feaviour, Jim Hall, Bill Serjeant) plus one brand-new one-off, Carlos
+Reynoso.
+
+**Vehicle overnight-parking tips and the Bill-Serjeant/Don-Elliott naming
+mix-up — `boats/enuf.md`.** Answering Jim Hall's question about the
+legality and practice of "dossing" (sleeping) aboard a boat on its trailer
+in laybys, Derek Clark listed his own preferred UK overnight-parking spots
+from experience in VW campers and a Land Rover (motorway/A-road lorry
+laybys, small industrial estates, remote Welsh/borders beauty-spot car
+parks, and possibly 24-hour supermarket car parks), while Nels added a
+matching Canadian list (farmers' field "easements," closed rural gas
+stations, communication-tower clearings, and quiet parking near
+small-village churches). Separately, a brand-new correspondent, Carlos
+Reynoso, asked whether the `smallsailboats` photo site — already
+confirmed by Derek as Bill Serjeant's own — might actually be Don Elliott's
+similarly-named but unrelated "Smallboats" group, which would explain
+William Nix's reported access trouble; Derek judged the guess plausible
+and reported adding three more "Enuf" photos to the album. Bill Serjeant
+himself then confirmed he could see and enjoyed the photos, and the thread
+closed with a light joke exchange between Jim Hall and Alastair over a
+"bucket of cold water" wash and the closed cabin's dry-and-warm comfort.
+Added as citations [215]-[221], continuing directly from the file's
+existing [214] (count 221/221, numeric max 221 — no gap). In extending this
+section, found and fixed a pre-existing inline-citation numbering error
+left over from an earlier batch's edit: the section's first two paragraphs
+pointed to citations `[166]`-`[171]` (which are actually a March 2006
+fabric-roll-top discussion) instead of the correct `[209]`-`[214]`
+(carpal-tunnel/photo-access/laybys citations); corrected in place, no
+citation content, dates, or numbers changed — only the inline body
+pointers. Cross-linked with one-line summaries on `people/derek-clark.md`
+(cites [59]-[61], count 61/61, numeric max 61 — no gap),
+`people/alastair.md` (cites [291]-[292], count 292/292, numeric max 292 —
+no gap), `people/bill-serjeant.md` (cite [55], count 55/55, numeric max 55
+— no gap), and `people/nels.md` (cite [151], count 151/151, numeric max
+151 — no gap).
+
+**Excluded:** one message, page_3565 (Martin Feaviour's "PARADOX DOSSERS"
+pure banter — a dossing-in-a-park anecdote and a joke that "matt is a no.1
+dosser") — zero Paradox construction/sailing content, excluded per the
+pruning rubric, no citation added.
+
+**Correspondents and attribution.** Derek Clark (`dclark`/`dclark52001`),
+Alastair (`openboat`/`alopenboat` of Yeovil), and Nels (`arvent`/`recree8`)
+are all standing identities, confirmed via header. Martin Feaviour
+(`martin304919`) is the same standing below-threshold identity introduced
+batch 320 — correctly excluded this batch. Carlos Reynoso (`losnoso`) is a
+brand-new one-off, no collision with any standing correspondent; new Open
+item added to `backlog.md`. James/Jim Hall (`flexwing462`, `u=59421796`) is
+the same established batch-339 identity. Bill Serjeant
+(`william`/`barnacleid`, `u=186923448`) confirmed via header as himself —
+double-checked against the standing `wyliewesty` (William Nix) identity to
+rule out any conflation, since both correspond on "Enuf pics?" threads and
+Nix has previously signed his own messages "Bill"; William Nix did not
+appear at all this batch. None of the other standing attribution traps
+(David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, Curtis/`azskybum`
+vs. established Chris Curtis, the two established "Wayne"s) were
+triggered.
+
+**Verification.** Msgnum run 3592-3593-3594-3595-3596-3597-3598-3599-3600-
+3601 (pages 3561-3570) confirmed distinct and fully consecutive, continuing
+from batch 356's last msgnum 3591; standing archive gaps at 2122, 2190,
+2229, 2385, 2611, 2614, and 2753 unaffected. All ten source byte sizes
+matched the dispatch table exactly (2341/3033/1769/3326/1714/2703/2164/
+1819/1790/2332 for page_3561 through page_3570), no same-size pair, ruling
+out the stale-read risk. Citation counts verified count=max across all
+five touched files (`boats/enuf.md` 221/221, `people/derek-clark.md`
+61/61, `people/alastair.md` 292/292, `people/bill-serjeant.md` 55/55,
+`people/nels.md` 151/151), no duplicates, no invented letter-suffixes;
+other pre-existing documented gaps elsewhere in the tree (`jack-gardiner.md`'s
++1 gap at `[53]`, `crew-size-and-fit.md`'s `[54]`-`[87]` gap,
+`plywood-grades-and-foam-flotation.md`'s +2 gap, `design/rig.md`'s
+`[7a]`/`[7b]` pair, `design/weight-and-ballast.md`'s `[53a]`/`[53b]` pair)
+confirmed unaffected, none of those files touched this batch. Anchor
+checker (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across
+2,708 anchors (up from 2,699 at end of batch 356). `cursor.txt` set to
+3570.
+
+## 2026-07-06 (batch 356: page_3551-page_3560)
+
+This batch advances the archive timeline from 2-8 April 2006 to **9-13 April
+2006**. It closes out the "No Reply from MBULDOC" plans-FAQ thread with a
+one-line clarification of the confusion behind it, adds a new spar-and-sail
+road-stowage exchange to `construction/transom-deck-plate.md`, and folds a
+carpal-tunnel-halted-progress/photo-access thread, with a good-humored
+sleeping-on-the-trailer sub-thread, into `boats/enuf.md`. Correspondents are
+mostly already-established identities (Bill Serjeant, Alastair, "Wayne"/
+William Nix, Derek Clark, James/Jim Hall) plus one brand-new below-threshold
+newcomer, Roger Lepage.
+
+**Clarifying "MBULDOC" — `references/building-plans.md`.** The unanswered
+plans-request thread opened in batch 355 ("No Reply from MBULDOC") turned out
+to hinge on a garbled subject line: a new below-threshold correspondent,
+Roger Lepage, twice confirmed over two short messages that the intended
+contact was simply David/Dave Bolduc under his own name. Added as citations
+[150]-[151], continuing directly from batch 355's [149] (count 151/151,
+numeric max 151 — no gap).
+
+**Spar-and-sail stowage through the transom hatch —
+`construction/transom-deck-plate.md`.** Bill Serjeant, working on his stern
+baffle, asked whether most builders stow the mast inside the boat for road
+travel while leaving the boom, yard, and sail on the side deck, and whether
+the transom hatch is worth fitting at all given the tight fit passing spars
+through it. Alastair answered in full: the spars do go in through the hatch,
+though it is a tight, fiddly job (the furling axle must come out of the boom
+first, and the furling-drum plywood discs are the tightest-fitting part);
+the boom is not left in its normal sailing-stowed position for any real
+road distance, since it sticks out too far behind; the mast lies along the
+top of the already-stowed boom with a single front lashing (the same
+arrangement used ducking under low bridges under sail); and the hatch earns
+its place for both road security (nothing loose or lost in transit) and
+build access (reaching the rear deck fittings through the hatch beats
+crawling through bulkhead 4). Added as citations [47]-[48], continuing
+directly from the file's existing [46] (count 48/48, numeric max 48 — no
+gap). Cross-linked with one-line summaries on `people/bill-serjeant.md`
+(cite [54], count 54/54) and `people/alastair.md` (cite [289], count
+290/290 alongside the item below).
+
+**Carpal-tunnel pause, photo access, and sleeping on the trailer —
+`boats/enuf.md`.** Derek Clark reported no work done on "Enuf" for five
+weeks owing to a carpal tunnel operation, still hurting, while answering
+"Wayne"/William Nix's question about whether photos had been posted by
+pointing to both the original and mirrored photo-folder locations. Wayne
+(who signs his messages "Bill" — a personal quirk, **not** a claim to be
+Bill Serjeant, confirmed via header) reported being denied access to the
+mirrored folder and reaffirmed his own intent to start building once he
+finishes an already-under-way VW trike project currently occupying his
+garage space. Get-well wishes from James/Jim Hall grew into a short
+sleeping-on-the-trailer sub-thread: whether builders sleep aboard in a
+layby or a campsite while trailering between cruising grounds, and whether
+layby-sleeping runs afoul of local rules. Alastair answered from his own
+practice — he has slept aboard his motor cruiser this way and would
+consider it in a Paradox, but cautioned against remote laybys (having been
+woken there by police, though never moved on) in favor of an ordinary
+residential street, which draws no attention; Jim Hall closed with a joke
+about "dossing" outside Alastair's own house next time he's tired. Added as
+citations [209]-[214], continuing directly from the file's existing [208]
+(count 214/214, numeric max 214 — no gap). Cross-linked with summaries on
+`people/derek-clark.md` (cite [58], count 58/58) and `people/alastair.md`
+(cite [290], count 290/290).
+
+**Below-threshold newcomers and watch-list updates.** New Open item: Roger
+Lepage (`roglep`), a one-off correspondent, thin, no boat. Updated: the
+"aeroboar" item (his thread was answered, though not by him resurfacing),
+the "Wayne"/William Nix item (a new stated blocker — the VW trike build —
+before he starts his Paradox), and the long-running "Jim Hall" item (already
+flagged for compaction at the ~4000 review). All ten source messages carried
+genuine on-topic content or a directly relevant clarification; nothing was
+excluded under the pruning rubric this batch.
+
+All ten source `.eml` byte sizes matched the dispatch table exactly
+(1291/1250/2752/3926/1281/1666/4240/2461/3236/2234 for page_3551 through
+page_3560, confirmed via direct `wc -c` and `X-Yahoo-Msgnum` header read) —
+no same-size pair, ruling out the stale-read risk. Msgnum run
+3582-3583-3584-3585-3586-3587-3588-3589-3590-3591 confirmed distinct and
+fully consecutive, continuing directly from batch 355's last msgnum 3581;
+standing archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected. All
+six touched files verified count == numeric max with zero new gaps and zero
+duplicates. Anchor checker (`anchorcheck.js` and `anchorcheck2.js`) run
+clean: 0 broken across 2,699 anchors (up from 2,691 at end of batch 355).
+Cursor advanced to 3560.
+
+## 2026-07-06 (batch 355: page_3541-page_3550)
+
+This batch advances the archive timeline from 30 March - 1 April 2006 to
+**2-8 April 2006**. It closes out the "Hatch mod stuff" thread with one more
+design idea, extends the new "Lexan" window-glazing page with chemical-hazard
+and protective-film notes plus a boat-cover tangent, and adds a short new
+"plans FAQ" recurrence to `references/building-plans.md`. All correspondents
+are already-established identities (Alan, James/Jim Hall, Mark Balogh,
+"Larry"/LJGeib, Bill Serjeant, Derek Clark, Nels) except one brand-new
+below-threshold newcomer, "aeroboar."
+
+**Hatch mod stuff, one more design idea — `boats/enuf.md`.** Alan
+(`logicaid`/`logicaidnz`, the established New Zealand below-threshold
+correspondent) proposed adapting a "Griffiths hatch" (citing a *Practical
+Sailor* article) by replacing its front hinge with wooden guide-blocks
+riding in loose coach-roof tracks: closed, the blocks lock the hatch's front
+edge down; lifted, the hatch slides forward like an ordinary sliding hatch;
+with open-ended tracks the hatch could be lifted off entirely and remounted
+on vertical bars above the opening at anchor, or, partly raised with a
+washboard fitted, double as a windscreen for a sailor seated on the rear
+deck. Derek Clark judged Alan had "cracked it," planned a card mock-up
+checked against mast/boom clearance, and floated combining Alan's and
+copterpack's ideas for both headroom and a secure fit — while noting a
+wrist injury from sanding had paused his own build work. Added as citations
+[207]-[208], continuing directly from batch 354's [206] (count 208/208,
+numeric max 208 — no gap).
+
+**Window glazing extensions — `construction/window-glazing-materials.md`.**
+The "Lexan" thread continued with two chemical-hazard cautions — petrol
+splashed on Lexan ruins it (James/Jim Hall, `flexwing462`, an established
+below-threshold correspondent since batch 339), and some DEET-containing
+insect repellents damage polycarbonate (Mark Balogh, resurfacing from batch
+351) — followed by a protective-Mylar-film tip from "Larry" (LJGeib/
+`lorenzojose2000`): an inexpensive, peel-off automotive/household window
+tint film, reapplied roughly once a season, that adds UV protection and
+resists chemical damage in its own right (the same trick used on NASCAR
+windshields and helicopter canopies). Bill Serjeant then closed the thread
+with thanks to the group, prompting a short boat-cover tangent: Nels
+suggested sewing a cover to protect the cabin, decks, paint, epoxy, and
+Lexan glazing while trailered or moored, expecting it to pay for itself
+many times over and double as a deterrent to curious passersby; Bill agreed,
+noting his own plan to leave "Faith" on a mooring between trailer-sailing
+trips. Added as citations [9]-[14], continuing directly from batch 354's
+[8] (count 14/14, numeric max 14 — no gap). Frontmatter `description`
+updated to reflect the expanded scope.
+
+**A new "plans FAQ" recurrence — `references/building-plans.md`.** A
+brand-new correspondent, "aeroboar," asked the group for help getting a set
+of Paradox plans after e-mailing Dave Bolduc without a reply — the same
+recurring pattern documented at length elsewhere on this page. "Larry"
+(LJGeib) replied the same week counseling patience, guessing Dave was likely
+off sailing in the Bahamas. Added as a new subsection ("An April 2006
+recurrence: unanswered e-mail to Dave Bolduc") with citations [148]-[149],
+continuing directly from batch 354's [147] (count 149/149, numeric max
+149 — no gap). "aeroboar" recorded as a new below-threshold Open item in
+`.okf-progress/backlog.md` (no boat, no build progress — a one-off plans
+inquiry).
+
+**Identity re-verification (no tree change needed):** re-confirmed via the
+stable Yahoo `u=` account-ID header that "Larry"/LJGeib/`lorenzojose2000`
+(u=32666901 on both this batch's page_3544 and page_3550) remains the same
+person across the archive and genuinely distinct from "Larry Whited"
+(`lwhited`, u=1717655). All new "Larry" content this batch was attributed
+to "Larry"/LJGeib by name only, never to Larry Whited.
+
+Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken
+across 2,691 anchors (unchanged from end of batch 354 — no new cross-file
+links were added this batch, only new citations and prose referencing
+existing headings/files).
+
+## 2026-07-06 (batch 354: page_3531-page_3540)
+
+This batch advances the archive timeline from 29 March 2006 to **30 March -
+1 April 2006**. It closes out the long-running "Hatch mod stuff" thread with
+Alastair's final word, then covers an entirely new self-contained topic — a
+"Lexan" thread comparing polycarbonate versus acrylic window glazing — given
+its own new construction page. All correspondents are already-established
+identities (Alastair, Bill Serjeant, Glen Maxwell, "Larry"/LJGeib, Paul
+Reppeto) — no new below-threshold identity surfaced this batch.
+
+**Hatch mod stuff, closing exchange — `boats/enuf.md`.** Alastair closed out
+the folding-hatch-versus-sliding-hatch debate with a live-and-let-live
+verdict: nothing rules out building both designs, so a builder should simply
+build whichever he prefers and try the alternative later if not satisfied.
+Separately, replying to Derek Clark's "It was Swamp Thing" correction on
+which boat suffered the open-hatch knockdown, Alastair recalled the incident
+differently — not Paradox in his own recollection, but cited at the time as
+the trigger for a design progression rather than definitively "Swamp Thing"
+or "Gjac." Added as citations [205]-[206], continuing directly from batch
+353's [204] (count 206/206, numeric max 206 — no gap).
+
+**Window glazing: Lexan vs Perspex/acrylic — new page
+`construction/window-glazing-materials.md`.** Bill Serjeant opened a new
+"Lexan" thread asking where to source it in the UK and whether Perspex is
+the same material. The thread produced a genuinely substantive, self-
+contained materials comparison: "Larry" (LJGeib/`lorenzojose2000`) gave a
+detailed polycarbonate-vs-acrylic technical breakdown (toughness, scratch
+resistance, heat-forming/laser-cutting behavior, UV coating, his own
+Lexan Excel D hull-viewing-window use); Glen Maxwell recommended Plexiglass
+as cheaper and more scratch-resistant, with a yellow-pages tip for
+discounted offcuts; Alastair gave his own UK Lexan source (Master Plastics
+S.W. Ltd) and a 2003 price (£160 for a 2.05m x 1.25m x 6mm sheet); Bill
+later reported the 2006 UK price had actually fallen to £99.52 including
+VAT; Paul Reppeto (`reppeto`/`ldjonerik`, confirmed distinct from Paul V.
+and paul-nz per standing identity notes) added a reference-quality Perspex
+history/definition and his own sledgehammer-and-barrel polycarbonate-
+toughness anecdote. New page created with 8 citations (count 8/8, numeric
+max 8). Cross-linked from `construction/index.md`, `design/glass-bottom-
+idea.md` (existing Lexan/polycarbonate content), `boats/enuf.md` (Derek
+Clark's own window-glazing work), and `people/bill-serjeant.md` (new
+section + citations [50]-[53], count 53/53, numeric max 53 — no gap).
+
+**Identity note (verified, no tree change needed):** confirmed via the
+stable Yahoo `u=` account-ID header that `LJGeib`/`lorenzojose2000`
+(u=32666901, this batch's page_3534) is consistently the same person across
+page_896, page_3038, and this batch — and remains a genuinely distinct
+identity from "Larry Whited" (`lwhited`, u=1717655), per the disambiguation
+already recorded on `boats/little-jim.md` and `boats/enuf.md`. In the course
+of checking this, an inconsistent historical claim was found in
+`.okf-progress/backlog.md`'s batch-329 correspondent log (asserting the two
+Larrys are "the same standing identity," apparently citing the wrong page
+number — page_3290 is actually Jack Gardiner, not LJGeib). This is a
+backlog/process-log annotation, not a live tree error — the tree itself
+(`little-jim.md`, `enuf.md`) has always correctly kept the two Larrys
+separate, consistent with the header evidence. Left unresolved as archived
+batch-log text; not in scope to edit past batches' log entries.
+
+Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken
+across 2,691 anchors (up from 2,690 at end of batch 353 — one new
+cross-link, `design/glass-bottom-idea.md` to the new
+`construction/window-glazing-materials.md`, plus the new page's own internal
+links and the `boats/enuf.md`/`people/bill-serjeant.md` links to it).
+
+## 2026-07-06 (batch 353: page_3521-page_3530)
+
+This batch stays entirely within 29 March 2006 (no date advance from batch
+352's 28-29 March), closing out the "A heavy question-ballast." thread's
+water-container sub-discussion, continuing "Hatch mod stuff" through a
+knockdown-recollection detour, and closing out the "Database" registry's
+"mini me" digression. All correspondents are already-established identities
+("Jeff UK," Derek Clark, copterpack, Nels, Bill Serjeant, Alastair) — no new
+below-threshold identity surfaced this batch.
+
+**Water containers as ballast — `design/weight-and-ballast.md`.** Two
+practical answers closed out the built-in-tanks-vs-portable-containers
+question from batch 352: "Jeff UK" described using 2-litre carbonated-drink
+bottles on his own Leisure 17 and suggested online camping stores as a
+source of purpose-made containers; Derek Clark described his own planned
+system — a 5-litre rigid ready-use container refilled from two or three
+10-litre roll-up containers stowed under the floor beneath the seat,
+favoring flexible over rigid containers to avoid the leak-prone-cap and
+wrong-shape problems raised earlier in the thread. Cites [126]-[127] (new
+numeric max 126-127, count 129, preserving the file's pre-existing
+`[53a]`/`[53b]` +2 gap unaffected).
+
+**Hatch mod stuff — `boats/enuf.md`.** Copterpack answered Jim Hall's
+material question from batch 352 in detail: steel hinges under each panel,
+a watertight flexible seal along the folding lines, and elastic-band seals
+inside and out, opening or closing in seconds. Derek Clark then pressed
+Alastair on his own knockdown account — whether a stiff hatch could really
+be slid shut in time, whether an open boat would have fared differently,
+and which Bolduc/Layden boat ("Swamp Thing" or "Gjac") Matt Layden's own
+open-hatch knockdown had happened aboard. Alastair's reply confirmed he'd
+had the hatch closed for 2.5 hours before the wave hit, credited luck for
+his own close call versus two other small boats that made the same
+crossing safely, weighed the sliding hatch's adjustability against a domed
+hatch's visibility risk, and — genuinely uncertain himself which boat the
+open-hatch knockdown belonged to — gave a fuller account of his own water
+ingress (enough through the harness-strap gap to wet his sleeve, not enough
+to pump, dried with a sponge, over in seconds, "nuisance" not "danger" even
+had the hatch been open). This same new water-ingress detail was folded
+back into the canonical Hurst Narrows knockdown narrative on
+`boats/little-jim.md` (cite [108], cross-linked rather than re-narrated in
+full a second time) per narrate-once-cross-link. Copterpack then answered
+Alastair's visibility concern (welded steel dome sections glazed with
+lexan/plexiglass, variable folding stages for a half-open position); Derek
+Clark closed the exchange with a one-line verdict ("thoughts loudly thunk")
+and, asked to confirm the open-hatch-knockdown boat, first guessed "Little
+Cruiser" or a Paradox before correcting himself the same evening: it was
+"Swamp Thing." Cites [199]-[204] on `boats/enuf.md` (new numeric max/count
+199-204, both equal, no gaps) and [108] on `boats/little-jim.md` (new
+numeric max/count 108, both equal, no gaps).
+
+**Database registry — `references/paradox-uk-website.md`.** Nels asked
+whether "mini me" had chine runners and hoped to see her under sail even
+though she isn't a true Paradox; Bill Serjeant pointed to the `microcruising`
+Yahoo Group's own "Mini Me" photo album, judged the boat likely more
+vulnerable than a Paradox given her cockpit arrangement and higher-aspect
+rig, and noted what looked like a daggerboard case on the cabin's port
+side — raising the possibility she uses a daggerboard rather than chine
+runners. Cites [60]-[61] (new numeric max/count 60-61, both equal, no gaps).
+
+**No new person/boat pages; no pages excluded.** All ten source pages
+carried genuine, on-topic content and were folded into the three existing
+pages above (`design/weight-and-ballast.md`, `boats/enuf.md`,
+`references/paradox-uk-website.md`), plus one cross-file enrichment on
+`boats/little-jim.md`. Anchor checkers (`anchorcheck.js`/`anchorcheck2.js`):
+0 broken across 2,690 links (up from 2,688 at end of batch 352 — two new
+cross-links added: `boats/enuf.md` → `matt-layden/index.md` and
+`boats/little-jim.md` → `boats/enuf.md`).
+
+## 2026-07-06 (batch 352: page_3511-page_3520)
+
+This batch spans 28-29 March 2006 (one day's advance from batch 351), closing
+out the "A heavy question-ballast." and "Hatch mod stuff" threads and adding
+one follow-up to the "Database" registry thread. All correspondents are
+already-established identities (Bill Serjeant, "Jeff UK," Jim Hall, Alan,
+Alastair) — no new below-threshold identity surfaced this batch.
+
+**Ballast placement — `design/weight-and-ballast.md`.** "Jeff UK" offered a
+simple dowel-and-weights demonstration (a ~4 ft dowel, weights first bunched
+at the centre then moved to the ends) making the moment-of-inertia
+difference between centered and end-loaded ballast tangible without
+calculation. A separate strand of the same thread argued out whether to keep
+the plans' built-in water tanks at all: Jim Hall shared Alan's rot-trap worry
+about the built-in tanks, doubted shallow-enough plastic cans exist, and
+floated a boxed-wine-style flexible bladder as an alternative; Alan pointed
+to a New Zealand chandlery's small rigid tank as a possible stock fit, but
+Alastair found it both too wide and too high for the space once checked
+against his own hull. Alan also replied to "Bll"'s battery-acid-in-wood
+caution from batch 351, noting his own batteries are fully sealed and
+mountable in any orientation but could still leak if cracked or
+overcharged. Cites [121]-[125] (new numeric max 121-125, count 127,
+preserving the file's pre-existing `[53a]`/`[53b]` +2 gap unaffected).
+
+**Hatch mod stuff — `boats/enuf.md`.** Jim Hall asked "copterpack" (the
+folding-hatch newcomer from batch 350) what material he had in mind for the
+folding sections, guessing glued-up flat perspex. Alan pressed the security
+question against a fabric/hinged hatch: if the hinges were fabric rather
+than metal, what stops it leaking, given a sliding hatch's advantage of being
+slammable shut instantly in a knockdown? Alastair's answer drew directly on
+his own recorded 90-degree knockdown aboard "little Jim" (narrated in full
+on `operations/heavy-weather-tactics.md`, cross-linked rather than
+re-narrated here) — there would have been no time to act either way, the
+boat going from 25 to 90 degrees of heel in about three seconds and back
+upright within ten; his real worry about a fabric or dome top was the hatch
+lifting under the wave itself and admitting water, which on reflection left
+the stock sliding hatch looking like the better design. Cites [196]-[198]
+(new numeric max/count 196-198, both equal, no gaps).
+
+**Database registry — `references/paradox-uk-website.md`.** Bill Serjeant
+closed out the "mini me" question from batch 351: having checked "Wayne"
+[Mason]'s boat, he judged her hull, though similar to a Paradox's, to be
+Wayne's own design rather than a variant close enough to classify as one,
+so the registry was not updated. Cite [59] (new numeric max/count 59, no
+gaps).
+
+**Excluded per the pruning rubric.** One source page (page_3513, msgnum
+3544) was Jim Hall's pure one-line acknowledgment ("Ah:-))") of Alastair's
+hat-stand joke — zero Paradox content, excluded entirely, no citation added.
+
+**Attribution/identity notes.** Bill Serjeant confirmed via header
+(`william`/`barnacleid`) as the same standing identity. "Jeff UK" confirmed
+via header (`apcf14`/`roverticket`) as the standing, still-unconfirmed-vs-
+`doryman_uk` identity (see the open backlog item; no new linking detail this
+batch). Jim Hall confirmed via header (`flexwing462`, From: "james hall") as
+the standing below-threshold identity. Alan confirmed via header
+(`logicaid`/`logicaidnz`) as the established New Zealand correspondent, not
+a newcomer, not one of the three Pauls, not Alastair/"Al." Alastair
+confirmed via header (`openboat`/`alopenboat`) on both his messages this
+batch, correctly routed to `people/alastair.md`/`boats/little-jim.md`, no
+separate "Al" page. No other established watch-list identity appeared this
+batch.
+
+**Anchor checker:** `anchorcheck.js` and `anchorcheck2.js` both run clean —
+0 broken across 2,688 links (up from 2,687 at end of batch 351, one new
+cross-link from `boats/enuf.md` to
+`operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown`).
+
+## 2026-07-06 (batch 351: page_3501-page_3510)
+
+This batch spans 28 March 2006, opening a new "A heavy question-ballast."
+thread that dominates the batch (seven of ten source pages) alongside a
+short "Database" registry follow-up and one more "Hatch mod stuff" reply.
+All correspondents are already-established identities except one genuine
+newcomer (Mark Balogh) and one recurring-but-below-threshold identity
+(kayaker37/"Paul," resurfacing after roughly a year and a half off-list).
+
+**Ballast placement — `design/weight-and-ballast.md`.** Alan (`logicaidnz`,
+the established New Zealand correspondent) reopened the archive's standing
+"why does the lead sit outboard rather than on the centerline" question,
+prompted by his plan to use reclaimed sealed lead-acid telecoms batteries as
+combined electric-outboard power and ballast. Alastair answered from his own
+build experience (only fore/aft position ever needed adjusting, never
+lateral; suggested mounting outboard batteries forward of bulkhead 3 in the
+side locker). A newcomer, Mark Balogh, then supplied the fullest technical
+answer on record: splitting the lead evenly either side of the centerline
+keeps its own center of gravity centered regardless of the split, so it acts
+as dead weight (hull form supplies the stability) rather than as movable live
+ballast, with a secondary, minor rolling-damping effect from the outboard
+spacing — resolving the outboard-vs-centered question in favor of the design
+as drawn. A one-off correspondent ("Bll") added a battery-acid-in-wood
+caution (heavy epoxy/glass sealing, frequent water and neutralizing rinses).
+Derek Clark described his own planned centerline trim puzzle (lead replacing
+water, anchors, water tank, outboard weight, and his own bulk all needing
+balancing, to be sorted empirically on launch day per Alastair's promise);
+Alastair separately noted the transom-clear-of-water vs. bow-high schools of
+thought on fore/aft trim, then thanked Mark for resolving his own confusion.
+Cites [114]-[120] (new numeric max 114-120; file's pre-existing `[53a]`/
+`[53b]` letter-suffix pair, documented since an earlier batch, is unaffected
+and still accounts for the file's count-two-over-numeric-max).
+
+**Hatch mod stuff — `boats/enuf.md`.** "Copterpack," the folding-hatch
+newcomer from batch 350, followed up giving Derek Clark blanket permission to
+use the idea and explaining how to add one or two further folding stages so
+the hatch can rest halfway as well as fully open; judged his own drawn hatch
+probably too tall and a little too long. Cite [195].
+
+**Database registry — `references/paradox-uk-website.md`.** Kayaker37
+("Paul," an established recurring below-threshold identity on record since
+2002, explicitly disambiguated on `people/paul-v.md` from Paul V. and
+Paul(NZ)) resurfaced after roughly eighteen months off-list to flag a
+modified Paradox missing from Bill Serjeant's registry — a boat nicknamed
+"mini me" — first misnaming, then correcting, its builder from "Dave Mason"
+to Wayne Mason, with photos posted to the `microcruising` Yahoo Group's
+photo section. Cites [57]-[58].
+
+**Attribution/identity notes.** Alan/`logicaidnz` confirmed via header as
+the same established New Zealand correspondent on record since ~batch 324
+(not a newcomer, not one of the three Pauls, not Alastair/"Al"). Alastair
+confirmed via header as `openboat`/`alopenboat` of Yeovil on all four of his
+messages this batch. Derek Clark confirmed via header (`dclark`/
+`dclark52001`) on his two messages. Kayaker37 cross-checked against the
+existing disambiguation note on `people/paul-v.md` (a fourth, already-
+recorded "Paul," distinct from Paul V., Paul(NZ), and any other established
+Paul) — no new identity risk. Mark Balogh (`mark@`/`bsdbatwing`) and "Bll"
+(`BllFs6@`/`bllfsh666`) are both brand-new, one-off correspondents with no
+prior archive appearance and no conflict with any established identity;
+neither is tracked as an Open backlog item since neither shows a build/boat
+of their own and both questions were fully resolved within this batch. No
+appearance this batch by David Beard/David LeBlanc, Jack Gardiner/
+`mat_man22`, the two established "Wayne"s, Curtis/`azskybum` vs. the
+established Chris Curtis, "Jeff UK"/`roverticket` vs. `doryman_uk`, or Bill
+Serjeant/Neil Barratt/John Pertalion/Martin Feaviour/Dylan Winter/Jim Hall.
+
+`design/weight-and-ballast.md` citations now 120/120 numeric max (122 total
+counting the pre-existing `[53a]`/`[53b]` pair), up from 113/113 (115 total)
+immediately prior to this batch (verified by direct numeric sort of the
+file's existing `[N]` anchors before editing, not a tail read).
+`boats/enuf.md` citations now 195/195, up from 194/194 at the end of batch
+350. `references/paradox-uk-website.md` citations now 58/58, up from 56/56.
+No other files touched. No new below-threshold Open item was required (Mark
+Balogh and "Bll" are thin one-offs whose content was fully resolved
+in-thread; kayaker37's resurfacing updates his existing, long-standing
+tracked identity rather than creating a new one). Msgnum run 3532-3541
+confirmed distinct and consecutive from batch 350's last msgnum 3531,
+matching all ten dispatch-table byte sizes exactly via direct
+`X-Yahoo-Msgnum` header read. Both `anchorcheck.js` and `anchorcheck2.js` ran
+clean: 0 broken across 2,687 anchors (unchanged from batch 350 — no headings
+added or renamed, only prose and citations). Archive timeline reached 28
+March 2006 (all ten messages same day).
+
+## 2026-07-06 (batch 350: page_3491-page_3500)
+
+This batch spans a single day, 27 March 2006, continuing directly from batch
+349 and closing off the remaining strands of the same two threads on
+`boats/enuf.md`: the fabric-roll-top/hard-top-vs-soft-top cabin-hatch
+conversation (now including a "Hatch mod stuff" sub-thread) and closing
+banter on the umbrella/hat-stand joke. Nine of the ten source pages are
+exchanges among three already-established correspondents — Jim Hall, Derek
+Clark, and Alastair — plus one brand-new, one-off correspondent,
+"copterpack," who contributed a genuinely useful folding-hatch design idea.
+
+**A fabric roll-top, and the wider hard-top-vs-soft-top question —
+`boats/enuf.md`.** Extended the section with: Alastair's answer to Derek's
+hatch-runners sourcing question (he'd assumed they were a stock item but
+could not find any for sale, and floated adapting ordinary U-section curtain
+rail instead); the continuing umbrella/hat-stand banter (Jim Hall's joke
+about needing a use for a useless hat stand, Alastair's curly-hooks-as-
+boat-hook-or-anchor reply, and his separate note that golfing umbrellas
+double as an improvised cuddy for a brew-up aboard open boats); and a new
+"Hatch mod stuff" sub-thread in which first-time correspondent "copterpack"
+posted a folding-hatch drawing to the group's photo section — Derek's
+unreserved enthusiasm ("I think that you've cracked it"), Alastair's
+assessment that it resolves his own objection to a fabric/dome hatch (not
+being able to prop it half-open, which he does often enough underway), and
+Derek's closing Porta-Potti joke. Also added, from earlier in the same
+"Hatch mod stuff" thread: Jim Hall's deadpan "transparent plastic pram hood"
+suggestion in reply to Derek's original fabric-top proposal, and Derek's
+"it would be an enigma" rejoinder (having already built the cabin in wood
+and polycarbonate). Cites [185]-[194].
+
+`boats/enuf.md` citations now 194 total/194 numeric max, no gaps, up from
+184/184 at the end of batch 349. No other file required changes — every
+source message in this batch folded into the single existing section
+covering the fabric-roll-top/hard-top design conversation. A new
+below-threshold Open item was created in `.okf-progress/backlog.md` for
+"copterpack" (`gilbertvm`); Jim Hall's existing, already-flagged-for-
+compaction Open item was updated in place with this batch's two
+resurfacings (pure banter, no new fact beyond the joke content itself).
+Msgnum run 3522-3531 confirmed distinct and consecutive from batch 349's
+last msgnum 3521, matching all ten dispatch-table byte sizes exactly,
+including the close-in-size pair page_3495/page_3496 (3381/3371 bytes,
+msgnum 3526/3527) confirmed as genuinely distinct messages via header and
+body diff. Both `anchorcheck.js` and `anchorcheck2.js` ran clean: 0 broken
+across 2,687 anchors (up from 2,686 at end of batch 349). Archive timeline
+reached 27 March 2006 (unchanged from batch 349 — both batches fall on the
+same day).
+
+## 2026-07-06 (batch 349: page_3481-page_3490)
+
+This batch spans a single day, 27 March 2006, and closes out both threads
+batch 348 had opened on `boats/enuf.md`: the fabric-roll-top/hard-top-vs-
+soft-top cabin-hatch conversation and Derek Clark's boom-axle brass-rod
+story. All ten source pages are exchanges among three already-established
+correspondents — Jim Hall, Derek Clark, and Alastair — finishing off both
+threads with one genuine new security question plus closing banter.
+
+**A fabric roll-top, and the wider hard-top-vs-soft-top question —
+`boats/enuf.md`.** Extended the section with Jim Hall's direct security
+question (prompted by noticing how securely "Little Jim" locks with a
+padlock through the hatch slider): would a soft top leave "Enuf" more
+vulnerable to vandals? Derek's answer conceded the trade-off but judged it
+an acceptable risk given his own mooring's location, restated his
+bungee-and-clip fabric-top design with a bolt-in ply/plastic security board
+for bad weather or when unattended, and noted he might still build the
+stock slider instead. Also added: Alastair's in-kind bowler-hat joke
+(Panama/bobble hat/deerstalker); Derek's plexiglass dome, already on his
+shelf from a charity money box, which he confirmed solves only the
+see-through problem and not the need for a slider; Alastair's more detailed
+answer on hatch/dome clearance under the boom, his own build-time reasoning
+for keeping the stock hatch (nothing about the perceived shortcomings was
+structural), and his verdict after three full sailing seasons that the only
+modification worth the effort is **proper hatch runners**; a running joke
+about the money-box dome's coin slots (leave them in for "donations" vs. the
+"gin palace" passer-by joke); and Derek's follow-up question asking where
+such hatch runners can actually be bought (left open at the end of this
+batch). Cites [175]-[182].
+
+**Bending the boom axle's brass rod, and a cheaper steel alternative —
+`boats/enuf.md`.** Closed out the thread: Derek's laconic answer to Jim
+Hall's brass-vs-steel question ("just following the plans, Jim, for a
+change") and Jim Hall's closing joke crediting Derek's plans-following
+self-discipline. Cites [183]-[184].
+
+`boats/enuf.md` citations now 184 total/184 numeric max, no gaps, up from
+174/174 at the end of batch 348. No other file required changes — Jim
+Hall has no standalone person page (below-threshold, tracked in
+`.okf-progress/backlog.md`), and Derek Clark's/Alastair's person pages
+already carry only a summary-plus-link to this boat page per
+narrate-once-cross-link, unaffected by extending the existing narrative.
+No new person or boat pages; no pages excluded — all ten messages carried
+genuine, on-topic content continuing threads already tracked on this page.
+
+## 2026-07-06 (batch 348: page_3471-page_3480)
+
+This batch spans 25-27 March 2006, closing out Jim Hall's visit thank-you and
+running a single, continuous cabin-hatch design conversation (a new
+correspondent, "Alan," Derek Clark, Alastair, and Jim Hall) alongside Derek's
+boom-axle brass-rod story and Jim Hall's proposed steel alternative.
+
+**Alastair's reply to Jim Hall's visit — `boats/little-jim.md`.** Added
+Alastair's short thank-you/welcome reply immediately following the "A
+visitor's firsthand impression, sheltering from the rain" section, closing
+out that thread. Cite [107] (107/107, no gaps, up from 106/106).
+
+**A fabric roll-top, and the wider hard-top-vs-soft-top question —
+`boats/enuf.md`.** New section following "A slot-top cabin idea for
+open-water use," carrying the "fabric top" conversation forward from where
+`operations/heavy-weather-tactics.md` cite [39] had left it (Derek's
+"planned design uses a fabric roll-top," mentioned only in a citation, not
+narrated in the body until now). A new correspondent, "Alan"
+(`logicaid`/`logicaidnz`), asked Derek to elaborate, prompting a four-way
+design conversation: Derek's own sliding ply/polycarbonate support panel
+under the roll-top and his open question about building the top permanently
+higher than the plans to preserve standing headroom without sacrificing
+weatherproofing; Alan's sequence of ideas — a bolt-on hard-top, a
+hinged-forward pop-top (abandoned once the 45-degree lift needed to stand
+was shown to foul the boom), and a hooped, dome-tent-style fabric cover
+braced by permanently-sleeved bendy rods in angled sockets; Jim Hall's
+plexiglass-dome-insert question; and Alastair's own already-practiced
+solution — an umbrella clamped to the sliding hatch, adjustable for
+position, plus his stated preference for the stock hard hatch on security
+grounds (cross-linked to Bill Serjeant's earlier slot-top security caution).
+Cites [166]-[167], [169]-[173] (9 of this batch's 10 pages feed this thread).
+
+**Bending the boom axle's brass rod, and a cheaper steel alternative —
+`boats/enuf.md`, cross-linked from `design/rig.md`.** New section
+immediately following "The tack strut and boom axle's pivot joint" (a
+distinct, later fabrication story about the axle rod itself, not the pivot
+fork). Derek's own account: sourcing 12.7 mm brass rod after 18 months of
+searching, a lathe favour repaid in wine, a snapped cold-bend, a failed
+braze, a failed silver-solder attempt, then buying correct-size rod outright
+and bending it successfully in a vintage vice's built-in former just below
+cherry-red heat — "the moral of this story is that being cheap can get
+expensive." Jim Hall's reply questioned the choice of brass altogether,
+describing his own thirty-year-old boat's all-mild-steel deck fittings
+finished in Galvafroid cold-galvanising paint as simpler, cheaper, and more
+easily sourced/welded, optionally hot-dip galvanised for durability. Cites
+[168], [174]. `boats/enuf.md` now 174/174 citations (up from 165/165, no
+gaps). Added a one-sentence cross-link from `design/rig.md`'s existing
+boom-axle-as-failure-point paragraph to this new section — no new citation
+on `rig.md` (pointer only).
+
+**Backlog:** Jim Hall's existing below-threshold Open item updated in place
+with this batch's two resurfacings (plexiglass-dome question, boom-axle
+steel suggestion). New below-threshold Open item created for "Alan"
+(`logicaid`/`logicaidnz`) — a substantive multi-message design contributor
+with no boat/build of his own on record yet, flagged as a stronger-than-usual
+promotion candidate given the volume/quality of his contributions. Full
+"Batch 348 correspondent + gap check" section appended to
+`.okf-progress/backlog.md` with msgnum run, attribution checks, and citation
+counts. Anchor checkers (`anchorcheck.js`, `anchorcheck2.js`) both run clean:
+0 broken across 2,686 anchors (up from 2,683 at end of batch 347).
+
+## 2026-07-06 (batch 347: page_3461-page_3470)
+
+This batch spans 23-25 March 2006, covering three linked rig/design threads
+plus a firsthand visit account and a new heavy-weather Q&A.
+
+**Why the boom is curved, and Bill Serjeant's build progress —
+`design/rig.md`, `people/bill-serjeant.md`.** Extended the "Which side of
+the boom and yard faces up, and curing persistent yard sag" section with
+Glen Maxwell's direct answer to Bill Serjeant: the boom is curved so that
+furling it for reefing removes the sail's draft, letting a reefed sail set
+correctly rather than sag — a rationale distinct from (and now fully
+explaining) the yard-sag question already covered there. Bill, reassured,
+reported making the stempost that day with frames and cleats next. Cites
+[240]-[241] on `design/rig.md` (243 total citation lines/241 numeric max,
+the file's pre-existing `[7a]`/`[7b]` letter-suffix pair unaffected, no new
+gaps); cites [48]-[49] on `people/bill-serjeant.md` (49/49, no gaps). A
+narrate-once-cross-link summary sentence (no new citation, per the file's
+existing convention of uncited summary bullets) was also added to
+`people/glen-maxwell/build-and-zoe.md`'s "Rig, furling, and sail" section.
+
+**Glen Maxwell's firsthand comparison of Morejohn's and Layden's chine
+runners — `chine-runners/how-they-work.md`, `people/glen-maxwell/matt-
+layden-eyewitness.md`.** Pressed on why "Jubilee"'s and "Hogfish Maximus"'s
+chine runners look so narrow (a question left partly open at the end of
+batch ~318's thread), Glen — the one builder who crewed "Hogfish Maximus"
+across the Atlantic — gave a direct verdict: Chris Morejohn's runners are
+"much different" from Matt Layden's, designed from the chine/hull-junction
+flow rather than Layden's lifting-body system, and ride wetter (confirmed
+firsthand on the crossing) because they don't extend as far aft; they are
+also less aerodynamically shaped and narrower than a Paradox-scaled runner
+would be. Extended the existing "Narrow 'wing' runners on a Chris Morejohn
+sharpie" section on `chine-runners/how-they-work.md` (cite [60], 60/60, no
+gaps) and added a new paragraph plus cross-link to `people/glen-maxwell/
+matt-layden-eyewitness.md`'s "Atlantic crossing aboard Hogfish Maximus"
+section (cite [50], 50/50, no gaps).
+
+**A visitor's firsthand impression of "Little Jim," sheltering from the
+rain — `boats/little-jim.md`.** New section: a UK sailor (previously
+introduced batch 339, "Jim Hall") visited Alastair in person, sitting out a
+rain shower in the cabin. Struck by how solid the construction felt, found
+the cabin exactly as small as expected and forward access difficult, but
+light and airy enough to avoid claustrophobia; suggested a hatch that
+elevates slightly to give sitting headroom at anchor without opening it
+fully, and praised Alastair's build as a brave first-in-the-UK effort that
+"turned out brilliantly." Cites [105]-[106] (106/106, no gaps).
+
+**A new heavy-weather question, answered from firsthand experience —
+`operations/heavy-weather-tactics.md`.** A new correspondent (a months-long
+lurker with prior sailing experience up to 22 ft boats) asked how a Paradox
+sails in a blow and whether a wave pattern can be read from inside the
+cabin. Alastair answered from his own experience: the roughest open water
+he has met was a Force 5 quartering-to-beam wind, handled by simply
+pointing where he wanted to go and letting the hull punch through, with the
+cabin closed as ordinary comfortable practice rather than a defensive
+posture — consistent with the cabin-safety material added in batch 346.
+New section "Handling in a blow: pointing through it rather than reducing
+sail early," cite [42] (42/42, no gaps).
+
+**Excluded per the pruning rubric:** three of the ten source pages carried
+pure off-topic microlight-flying banter between Derek Clark and "Jim
+Hall" (a shared scare-story exchange about sudden loss of lift, plus one
+throwaway "pointy coffin" joke about the boat's appearance) — zero durable
+Paradox content, excluded entirely, no citations added, consistent with
+how prior batches (341-345) treated the same correspondents' off-topic
+asides.
+
+**Correspondents:** Glen C. Maxwell (`ifida`/`ifida2000`, standing
+identity), Bill Serjeant (`william`/`barnacleid`, standing identity, same
+underlying `william@` account as `williamserjeant`), "Jim Hall"
+(`flexwing462`, standing below-threshold identity, carried forward from
+batches 339-344), Derek Clark (`dclark`/`dclark52001`, standing identity),
+Alastair (`openboat`/`alopenboat`, standing identity, Yeovil). One
+brand-new below-threshold correspondent: Dylan Winter (`dylanwinter2001`),
+a genuine one-off heavy-weather question, fully answered, new Open item
+logged.
+
+Cursor advanced to **3470**. Anchor checkers (`anchorcheck.js` and
+`anchorcheck2.js`): 0 broken across 2,683 anchors (up from 2,677 at end of
+batch 346).
+
+## 2026-07-06 (batch 346: page_3451-page_3460)
+
+This batch spans 21-23 March 2006, covering two threads: Derek Clark's
+posting of a free community-written beginner's guide to building a Paradox,
+and a newcomer's cabin-safety question that drew out the clearest statement
+on record of self-righting and the "closed cabin as comfort, not trap"
+principle.
+
+**A free "Beginners guide to building a Paradox" — new material on
+`references/building-plans.md`.** With his own "Enuf" build largely behind
+him, Derek Clark wrote and posted a short, roughly four-page, copyright-free
+"Beginners guide to building a Paradox" to `paradoxboatbuilders2`'s files
+section, distilling what he judged necessary reading, tools, and lessons
+learned, kept short by avoiding repetition, and open to other builders'
+amendments. Martin Feaviour (`martin304919`, standing below-threshold
+identity) praised it as "a refreshing change" — practical, warts-and-all
+wisdom from an actual builder, something the group had never had before —
+and hoped Derek would eventually add his own account of the launch. John
+Pertalion (`ajmctaggert`, standing below-threshold identity) likewise
+praised its grounding in common sense and practical thinking over blindly
+following the plans or "correct" technique. Incorporating a couple of
+useful suggestions, Derek posted a revision 2 to the same files section the
+next day. New section "A community-written beginner's guide" (cites
+[144]-[147], 147 total/147 max, no gaps, up from 143/143). Cross-linked with
+a short new paragraph on `people/derek-clark.md` (cites [56]-[57], 57/57, no
+gaps, up from 55/55; frontmatter description extended).
+
+**Whether a closed cabin traps a sailor in a knockdown — new material on
+`operations/heavy-weather-tactics.md`.** A newcomer, mikezcnc/Mike, asked
+whether a Paradox's closed cabin means anticipating disaster in a sudden
+gust, unable to picture sitting inside waiting out the worst. Derek Clark
+answered first: Paradox carries no keel but a lot of ballast low down and is
+supposed to self-right, which in Al Law's own experience it does; even if a
+lid were not fully watertight, the hull's air pockets and built-in buoyancy
+would keep her afloat deck-level, and the standard advice — as with any
+capsize — is to stay with the boat rather than swim for it, since a boat is
+far easier to spot than a person in the water; he cited James Bullimore's
+famous multi-day survival in an air pocket inside an upturned catamaran as a
+precedent for staying put. Martin Feaviour then asked whether a Paradox
+could instead be righted by shifting body weight, as in Bolger's
+"Birdwatcher." Alastair answered both threads directly and firsthand:
+self-righting is rated from a stability curve to work even from as far over
+as 160 degrees, needing no crew action at all — unlike a Birdwatcher-type
+hull — and his own accidental 90-degree knockdown (a seamanship error, not
+weather) recovered before he had "really registered what had happened,"
+closer to sailing "a yacht than a dinghy" in that respect. Separately, he
+clarified that sailing with the hatch shut is usually a comfort decision
+rather than a defensive one — he does it even on calm, sunny days, since the
+cabin gives good all-round vision and ventilation rather than shutting the
+sailor away — and recalled the one occasion water actually got in: closed up
+early as conditions worsened, wearing a harness cleated to the aft deck
+whose webbing held the hatch open by its own thickness, admitting a trickle
+that wet a sleeve but never enough to need the bilge pump, sponged dry by
+hand afterward. New section "Whether a closed cabin is a safety risk, or a
+comfort" (cites [38]-[41], 41 total/41 max, no gaps, up from 37/37;
+frontmatter description extended). Cross-linked with a short new bullet on
+`people/alastair.md` under the Little Jim contributions list (cites
+[287]-[288], 288 total/288 max, no gaps, up from 286/286).
+
+**No new person/boat pages.** All ten source pages carried genuine
+Paradox-relevant content and were folded into the two threads above; none
+were excluded this batch. mikezcnc/Mike is a brand-new one-off correspondent
+whose safety question was fully answered — logged as a new below-threshold
+`backlog.md` Open item rather than promoted, since no boat or build
+followed. Martin Feaviour's and John Pertalion's standing below-threshold
+Open items were both updated in place with this batch's resurfacing
+(Martin's real name confirmed via the `From:` header; neither cleared the
+promotion trigger). Msgnum run 3482-3491 (pages 3451-3460) confirmed
+distinct and fully consecutive continuing from batch 345's last msgnum
+3481; all ten source `.eml` byte sizes matched the dispatch table exactly,
+no same-size pair, stale-read risk ruled out. Anchor checker
+(`anchorcheck.js` and `anchorcheck2.js`): 0 broken across 2,677 links (up
+from 2,671 at end of batch 345). Archive timeline reached 23 March 2006.
+
+## 2026-07-06 (batch 345: page_3441-page_3450)
+
+This batch spans 20-21 March 2006, continuing both the "Paradox sail and
+spars" yard-sag/boom thread and the "re plywood" epoxy-mixing thread, plus
+one off-topic vehicle-banter reply and a one-off correspondent's off-topic
+cross-post, both excluded per the pruning rubric.
+
+**A second boom-axle failure, and a joking aerodynamic-shape reply — new
+material on `design/rig.md`.** Continuing the yard-sag thread, Derek Clark
+reported a second boom-axle breakage on his own build, leaving the boom
+with a curve in two planes that he decided to live with rather than fix,
+reasoning it may not show once inside the sail's sleeve. Alastair replied in
+jest, asking whether the newly-curved boom was in fact an advanced
+aerodynamic shape designed to exploit vortex shedding off the mast. Both
+folded into the existing "Which side of the boom and yard faces up, and
+curing persistent yard sag" section (cites [238]-[239], 241 total/239
+numeric max, preserving the pre-existing `[7a]`/`[7b]` letter-suffix pair).
+Cross-linked with a short new paragraph on `people/derek-clark.md` (cites
+[54]-[55], 55/55, no gaps).
+
+**Metering small epoxy batches: pumps versus a marked cup versus syringes —
+new material on
+`construction/plywood-grades-and-foam-flotation.md`.** Extending the "Long-term
+plywood durability, resale value, and why to expect neither" section's UK
+epoxy-sourcing sub-thread, three builders compared notes on mixing small,
+accurate batches. Bill Serjeant uses UK Epoxies' 2:1 mix with dispensing
+pumps he rates excellent for guessing minute quantities — his own Paradox
+the third boat built using the same pair. Derek Clark countered with a
+caution: crystals forming in his own hardener pump once cost him
+significant time and money redoing a hull bottom, after which he judged Jim
+Michalak's simpler method (2:1 ratio in an unwaxed paper cup against a stick
+marked at the half-inch and three-quarter-inch levels) more reliable,
+though he noted a fellow UK Epoxies customer, Rob Hewitt, has used the same
+pumps for years without issue. Neil Barratt (`barrattneil`, standing
+below-threshold identity) described his own method — cheap, reusable
+plastic syringes from a local farm supplies shop — and named his epoxy
+supplier, CFS in Cornwall, as good value with helpful, reliable mail order.
+Bill Serjeant closed the exchange: periodically clearing his pump nozzles
+with a bit of wire is all the maintenance they have ever needed. Cites
+[71]-[74] (72 total/74 numeric max, preserving the file's pre-existing +2
+gap). Cross-linked with short new paragraphs on `people/bill-serjeant.md`
+(cites [46]-[47], 47/47, no gaps) and `people/derek-clark.md` (cite [55],
+folded into the same edit as the boom-axle note above).
+
+**No new person/boat pages.** Neil Barratt's epoxy-syringe/CFS-supplier
+contribution is genuinely useful and now cited, but he remains a non-owner,
+non-builder — the backlog.md watch-list entry was updated in place rather
+than promoted. Three pages were excluded entirely per the pruning rubric,
+zero Paradox content, no citation added anywhere: Derek Clark's pure
+off-topic vehicle-history banter (a Reliant, a BSA A7, a Norton) replying to
+the running Isetta/Messerschmitt/Bond 250G bubble-car joke thread
+(consistent with batches 341-344's identical treatment); a brand-new,
+one-off correspondent (Kristofer Harlson, `seadog4553`) posting only a link
+to a non-Paradox sailing-voyage website, `captainhumphreys.com`; and Bill
+Serjeant's skeptical off-topic reply to that same link.
+
+**Correspondents seen:** Derek Clark, Alastair, Bill Serjeant (all standing
+identities), Neil Barratt (standing below-threshold identity). Kristofer
+Harlson was a brand-new one-off off-topic poster, correctly given no watch
+item. No other established watch-list identity appeared this batch.
+
+**Verification:** msgnum run 3472-3481 (pages 3441-3450) confirmed distinct
+and fully consecutive, continuing directly from batch 344's last msgnum
+3471; all ten source `.eml` byte sizes matched the dispatch table exactly
+(1928/2335/2802/1404/1823/3180/3039/3698/1650/4128), no same-size pair,
+stale-read risk ruled out. Standing archive gaps at 2122/2190/2229/2385/
+2611/2614/2753 unaffected. Citation-collision checks clean across all four
+touched files. Anchor checker (`anchorcheck.js` and `anchorcheck2.js`) run
+clean: 0 broken across 2,671 links (up from 2,662 at end of batch 344).
+Archive timeline reached 21 March 2006. Cursor set to 3450.
+
+## 2026-07-06 (batch 344: page_3431-page_3440)
+
+This batch spans 19-20 March 2006, extending both the "re plywood"
+epoxy-cost/durability thread and the "Paradox sail and spars" yard-sag
+thread, plus recurring off-topic bubble-car banter from Alastair and Neil
+Barratt excluded entirely per the pruning rubric.
+
+**Epoxy cost, budget-build philosophy, marine-ply/fiberglass spec, and UK
+epoxy sourcing — new material on
+`construction/plywood-grades-and-foam-flotation.md`.** Derek Clark suggested
+Bill Serjeant might weigh in (having previously built a 50/50 canoe without
+fully epoxying it) and gave a candid accounting of his own epoxy costs —
+starting out at ~£50/gallon in small quantities versus the £34/gallon he
+could have had buying 8-gallon packs, eventually giving up tracking the
+running total once it became clear it was substantial (best guess ~£2,500
+all in) — and sketched a budget-conscious next build (salvaged exterior ply
+and pine, epoxy reserved for edges/end-grain/bilges, household paint
+elsewhere), reasoning wood isn't the right material if building for
+posterity. Neil Barratt, nearing completion of his own (non-Paradox)
+modified "Brat" dinghy, reported the same experience (epoxy his largest
+expense, plus building-space, heating, and tooling costs), judged the
+marine-vs-exterior-ply and marine-vs-house-paint debates unresolvable in
+general, cited a 30-plus-foot French-built fiberglass yacht with a
+sun-damaged, see-through topside as evidence fiberglass is no durability
+guarantee, and cited Robb White against Tom Firth Jones as two experienced,
+opposed authorities on plywood boatbuilding. Jim Hall replied at length,
+agreeing amateur-built resale value is poor across kit cars/aircraft/boats,
+confessing he is "not really an enthusiastic boat builder type," sharing
+Neil's doubt about trapped moisture in fully encapsulated wood, and
+suggesting spending more on plywood while skipping epoxy/fiberglass might
+yield a cheaper, more durable boat overall. Bill Serjeant gave a specific
+hull specification: heavy fiberglass sheathing regardless of ply grade (per
+the plans' sheet #5 — 4 mm of fiberglass, sides/deck one layer each), sealed
+with three coats of epoxy and a compatible top-coat paint, a combination
+that gives 20-year-plus life expectancy on his own marine-plywood boats
+including his epoxy/marine-paint-finished "50/50" canoe. Jeff UK asked where
+Derek got his epoxy prices, reporting a £113/gallon quote of his own and the
+disappearance of MAS epoxy and SP Systems' walk-in discount from his part of
+the UK; Jim Hall speculated (unconfirmed) that epoxy is oil-derived,
+explaining the price rise; Derek Clark closed the sub-thread recommending UK
+Epoxies (`epoxy-resins.co.uk`) as an alternative supplier and a new Jim
+Michalak book for its epoxy-chemistry commentary. New citations [64]-[70] on
+[construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither)
+(68 count/70 numeric max, preserving the file's pre-existing +2 gap, up from
+61/63 at end of batch 343). Updated
+[people/derek-clark.md](/people/derek-clark.md) (cites [52]-[53], 53/53, no
+gaps) and [people/bill-serjeant.md](/people/bill-serjeant.md) (cite [45],
+45/45, no gaps) with 1-2 sentence summaries and cross-links per
+narrate-once-cross-link.
+
+**Curing yard sag: increasing yard depth, and pre-bending against the load —
+extension to `design/rig.md`.** Pressed directly by Bill Serjeant on how to
+modify the yard itself to cure its persistent sag, Alastair answered that he
+had not himself noticed sag on his own yard (not having specifically looked
+for it), agreed increasing the yard's depth would be a straightforward
+stiffening fix, and floated a more targeted approach — estimating the actual
+bend under load, then building a replacement yard with that same amount of
+bend pre-formed in the opposite direction so it straightens out in use — while
+leaving open, unanswered, whether the distortion actually costs a sail of
+this type much in practice. New citation [237] on
+[design/rig.md](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag)
+(239 total/237 numeric max, preserving the file's pre-existing `[7a]`/`[7b]`
+letter-suffix pair, up from 238/236 at end of batch 343). No update needed to
+`people/alastair.md`, whose existing yard-sag summary + link already covers
+this sub-thread per narrate-once-cross-link.
+
+**Correspondents, exclusions, and gap check.** Derek Clark, Neil Barratt,
+Jim Hall, Bill Serjeant, Alastair, and "Jeff UK" (`roverticket`/`apcf14`,
+standing unconfirmed-identity watch item, no new linking detail) all
+appeared. Two pages (page_3435, page_3437) were pure off-topic bubble-car
+banter (Alastair's "I had one of those too!", then Neil Barratt's
+Isetta/Messerschmitt/Bond 250G joke with Jim Hall) — zero Paradox content,
+excluded entirely per the pruning rubric, no citation added, consistent with
+batch 343's identical treatment of the same running joke. Jim Hall and Neil
+Barratt's below-threshold backlog entries were updated in place with this
+batch's resurfacing detail; neither cleared a promotion trigger (no boat
+name, no build start, no plans order). Msgnums 3462-3471 (pages
+3431-3440) confirmed distinct and consecutive from batch 343's last msgnum
+3461, via direct `X-Yahoo-Msgnum` header read; all ten byte sizes matched the
+dispatch table exactly (3732/3203/5100/3578/1618/2111/1483/2147/2112/2657),
+no same-size pair. Standing archive gaps at 2122, 2190, 2229, 2385, 2611,
+2614, and 2753 unaffected, not re-flagged. Anchor checker (both
+`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,662
+anchors (up from 2,655 at end of batch 343). Archive timeline reached 20
+March 2006.
+
+## 2026-07-06 (batch 343: page_3421-page_3430)
+
+This batch spans 16-18 March 2006, closing out the "paradox max weight and
+height" thread's forward-compartment/copyright tangent and opening a new
+plywood-durability/resale exchange, plus recurring off-topic banter from Neil
+Barratt and Jim Hall (bubble cars) excluded entirely per the pruning rubric.
+
+**Forward-compartment picture is copyrighted; staying in a flooded boat; a
+5'7" builder's own access and buoyancy notes — updates to
+`design/interior-bins-and-floor.md`.** Derek Clark clarified that the
+forward-compartment diagram Jim Hall had asked about is a specific person's
+own copyrighted picture, not open for general list discussion, and restated
+his own flooding philosophy: he would not worry which way a swamped boat
+trimmed so long as it floated, since staying in the boat beats getting out of
+it. Jack Gardiner then added firsthand detail: at 5 ft 7 in he can climb
+bodily into his own boat's forward compartment (left open, no bulkhead-#1
+panel) when empty, and reaches in just his upper body for buoyant,
+seldom-used gear when it isn't; he regularly sails two-up with a crewmate
+nearly 6 ft tall and reports the boat still "fits." He also noted that foam
+flotation fitted under the gunwales requires a swamped crew to remove ballast
+and bail (the foam alone can't carry a fully ballasted boat afloat), that the
+space aft of the rearmost bulkhead is separately buoyant from its own foam
+and trapped air, and pointed larger sailors toward the
+[stretched/enlarged Paradox variants](/design/variants/stretched-paradox.md)
+rather than assuming the stock cabin is a hard limit. New citations [33]-[34]
+on
+[design/interior-bins-and-floor.md](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem)
+(34 total/34 max, no gaps, up from 32/32 at end of batch 342).
+
+**Plywood durability and resale value — new section on
+`construction/plywood-grades-and-foam-flotation.md`.** Jim Hall asked whether
+ordinary exterior plywood (as the designer suggests) is as durable as marine
+grade, noting a Little Cruiser website's account of rectification work for
+rotting ply, and asked more generally whether a plywood boat could be left to
+grandchildren or holds any resale value. Derek Clark answered that he uses
+exterior ply himself (under half the cost of marine grade, and covered in
+epoxy/fibreglass regardless), noting neither Swamp Thing nor Little Cruiser
+was originally glassed (and possibly not epoxied) when built. Neil Barratt
+gave the fuller answer: a scratch-built plywood boat rarely recovers its
+material cost on resale, so building one should be justified by wanting the
+boat and the skills, not by return on investment; epoxy bonds far better than
+the polyester resin used on Little Cruiser and Swamp Thing when they were
+built; plywood's real long-term enemy is moisture trapped in the end grain
+between waterproof glue lines, needing ongoing maintenance (noting a rival
+school of thought favors not fully encapsulating wood, letting it breathe);
+Little Cruiser and Swamp Thing, both around 20 years old with Swamp Thing
+having had several owners and a lifetime outdoors in the tropics, are the
+design's own proof plywood construction holds up over decades; secondhand
+plywood boats generally sell slowly and cheaply, but a Paradox would face a
+tiny secondhand market with next to no competition in it. New section "Long-term
+plywood durability, resale value, and why to expect neither" with citations
+[61]-[63] on
+[construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither)
+(61 total citations file-wide, up from 58; block itself 54-63, no gaps).
+
+**Person-page updates (narrate-once-cross-link).** `people/derek-clark.md`
+gained a short summary + link paragraph covering the copyright
+clarification, the "stay in the boat" restatement, and the plywood-durability
+answer (cites [50]-[51], 51 total/51 max, no gaps, up from 49/49).
+`people/jack-gardiner.md` gained a short summary + link paragraph covering
+his 5'7"/forward-compartment/buoyancy contribution (cite [207], 206
+total/207 numeric max, preserving the pre-existing +1 gap at [53], up from
+205/206).
+
+**Excluded per the pruning rubric — zero Paradox content.** Three pages
+(page_3421, page_3423, page_3424) were pure off-topic banter between Neil
+Barratt and Jim Hall about Messerschmitt/Isetta bubble cars (plus an
+unrelated tangent about an airline pilot exporting household waste as
+checked baggage) — no Paradox design, construction, or sailing content of
+any kind. No citation added anywhere, consistent with how Neil Barratt's and
+Jim Hall's prior off-topic asides were handled in batches 341-342. Neil
+Barratt remains a recurring below-threshold, non-owner correspondent (no
+promotion trigger met); Jim Hall remains a below-threshold newcomer with no
+plans order, build start, or boat name on record yet.
+
+Msgnum run 3452-3461 (pages 3421-3430), confirmed distinct and consecutive
+from batch 342's last msgnum 3451; all ten byte sizes matched the dispatch
+table exactly. Anchor checker (`anchorcheck.js` and `anchorcheck2.js`) run
+clean after all edits: 0 broken across 2,655 anchors (up from 2,648 at end
+of batch 342). Archive timeline reached 18 March 2006.
+
+## 2026-07-06 (batch 342: page_3411-page_3420)
+
+This batch spans 14-16 March 2006, entirely a continuation of two threads
+already open at the end of batch 341: the "paradox max weight and height"
+thread's tail (a prospective owner asking how to reach the boat's extreme
+forward compartments) and a new "Enigma and Ultimate Florida Challenge"
+sub-thread ("re enigma") sparked by a race video showing the chine runners
+working to windward.
+
+**Reaching the extreme forward compartment, and an open-plan redesign idea —
+new content on `design/interior-bins-and-floor.md`.** A prospective owner in
+his mid-sixties, "Jim Hall" (below-threshold newcomer, `flexwing462`,
+carried forward from batches 339-341), asked whether reaching through the
+bulkhead-#2 hole into the forward compartment posed any difficulty for an
+inflexible sailor. Neil Barratt answered from his own test-sail experience:
+lie prone and reach in, borrowing a rope-and-hook technique from touring
+kayaking; any small boat's cabin has awkward corners, and Paradox's is an
+otherwise uncluttered, flat-floored rectangle. Jim Hall then asked about the
+still-more-forward compartment behind the stem specifically, floated fitting
+a small outside-accessible deck hatch over it, and — recalling his own
+decades-old, fully open-plan 23-24 ft gaff cutter — asked whether Paradox
+could be similarly de-partitioned to ease forward access, at the cost of
+redesigning the port vent/control-line box and reinforcing bulkhead #2's
+area. Derek Clark answered that the space does not need to be reachable at
+all (bulkhead #1 is meant to stay solid unless spars are stowed inside it,
+which needs only a spar-sized hole) and that opening bulkhead #2 does
+nothing for claustrophobia — his own wife likened the opened hole to "a
+sidecar on a motorbike" — while recalling that one Southern-Hemisphere build
+had opened bulkhead #2 to port (builder not identified with confidence). Jim
+Hall closed the thread concluding the plans' "shopping basket" storage
+diagrams for that space are artistic licence, and that using it as fixed
+emergency flotation would only leave a survivor trimmed bow-up awaiting
+rescue — "better than sinking ain't it." New subsection "Reaching the
+extreme forward compartment, just behind the stem" on
+[design/interior-bins-and-floor.md](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem)
+(cites [27]-[32], 32 total/32 max, no gaps).
+
+**A 2006 race video as visible proof the chine runners work to windward, and
+an Enigma construction detail — new content on `matt-layden/enigma.md`.**
+Following up on batch 341's Ultimate Florida Challenge mention, "Jeff UK"
+(established identity, `roverticket`/`apcf14`) pointed to a Steve-Isaac-
+hosted video of Enigma's 2006 race and judged it visible proof the chine
+runners "really work" to windward, prompting his own interest in buying a
+set; windgypsy34/Dave (Holland MI, below-threshold, carried forward from
+batch 341) replied with pure agreement, no new fact. Working from the same
+footage, Jeff UK separately noted Enigma's mast step appeared to be a short
+plastic tube glassed directly to the bottom panel with no separate cabin
+sole — the crew sitting directly on the floor — which Bill Serjeant agreed
+would save weight by keeping crew mass low in a small boat. Neil Barratt,
+in a parallel "re enigma" post, said he too would buy Enigma plans if
+reasonably priced, noted a microcruising.com discussion of building Enigma
+from Matt's CAD drawings, and raised designers' product-liability litigation
+exposure as the likely reason for any hesitation to release them. New
+material folded into the existing "Racing history" and "Plans" sections,
+plus a new "Construction detail: no separate cabin sole" section, on
+[matt-layden/enigma.md](/matt-layden/enigma.md#construction-detail-no-separate-cabin-sole)
+(cites [30]-[33], 33 total/33 max, no gaps); cross-linked to
+[chine-runners/windward-performance.md](/chine-runners/windward-performance.md)
+for the stock Paradox's own owner-reported pointing-angle evidence.
+
+**Correspondents:** "Jeff UK" (`roverticket`/`apcf14`, established identity),
+windgypsy34/Dave (Holland MI, below-threshold, carried forward from batch
+341, no new fact), Neil Barratt (`barrattneil`, below-threshold, carried
+forward from batch 341), "Jim Hall" (`flexwing462`, below-threshold, carried
+forward from batches 339-341, no promotion trigger met), Derek Clark
+(`dclark`/`dclark52001`, standing identity), Bill Serjeant (`william`/
+`barnacleid`, standing identity, same underlying `william@` account as
+`williamserjeant`). No other established watch-list identity (David Beard,
+Jack Gardiner, Chris Ostlind, Curtis/`azskybum`, botebilder/Ernie Fossel,
+Mats Blomstrand, David Platten, John Pertalion, Alastair) appeared this
+batch.
+
+Archive timeline reached **16 March 2006**. Msgnum run
+3442-3443-3444-3445-3446-3447-3448-3449-3450-3451 (pages 3411-3420
+respectively), confirmed distinct and fully consecutive via direct
+`X-Yahoo-Msgnum` header read, continuing directly from batch 341's last
+msgnum 3441. All ten source `.eml` byte sizes matched the dispatch table
+exactly (2840/2140/2401/1919/2201/1650/1848/3065/2594/3222 for page_3411
+through page_3420) — no same-size pair, stale-read risk ruled out. Standing
+archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected, not
+re-flagged. Attribution checks: "Jeff UK" (`roverticket`) vs. established
+Jeff (`doryman_uk`) — the unconfirmed-identity backlog item, not triggered
+either way since no new linking detail surfaced; Bill Serjeant's
+`barnacleid`/`williamserjeant` one-account rule; Derek Clark and Bill
+Serjeant's standing identities — all checked via header against this
+batch's correspondents; none triggered incorrectly. No other at-risk
+identity (David Beard/David LeBlanc, Jack Gardiner/`mat_man22`, the two
+established "Wayne"s, Curtis/`azskybum` vs. the established Chris Curtis,
+the three distinct "Paul"s) appeared this batch. Citation checks clean on
+both touched files (count equals numeric max, zero new gaps, zero
+duplicates, zero invented letter-suffixes; other pre-existing documented
+gaps elsewhere in the tree — `jack-gardiner.md`'s +1 gap at `[53]`,
+`crew-size-and-fit.md`'s `[54]`-`[87]` gap, `plywood-grades-and-foam-
+flotation.md`'s +2 gap through `[58]`, `design/rig.md`'s `[7a]`/`[7b]`
+suffix pair — confirmed unaffected):
+`design/interior-bins-and-floor.md` 32/32,
+`matt-layden/enigma.md` 33/33. Anchor checker (`anchorcheck.js` and
+`anchorcheck2.js`) run clean: 0 broken across 2,648 links (up from 2,644 at
+end of batch 341). No new person/boat pages this batch — Jim Hall's
+technical questions remain below the promotion threshold (still no boat, no
+build start); windgypsy34/Dave contributed no new fact. Backlog actions: no
+existing Open item's promotion trigger was met; appended a new "Batch 342
+correspondent + gap check" section to `backlog.md` recording the msgnum run,
+attribution checks, and confirmation of no new below-threshold
+correspondents this batch.
+
+## 2026-07-06 (batch 341: page_3401-page_3410)
+
+This batch spans 12-14 March 2006: David Beard closes out Wayne/William Nix's
+"near Dallas" thread with a hospitality offer, Alastair asks to be added to
+the UK owners-database e-mail column, Bill Serjeant's boat is finally named
+("Faith") while he opens a boom/yard curvature-and-sag thread that Alastair
+answers in full, a non-owner's test sail aboard "Little Jim" independently
+corroborates the hull's stability for a larger sailor, and the batch closes
+with a thin fan question about Matt Layden's Ultimate Florida Challenge that
+is excluded as already fully answered elsewhere in the tree.
+
+**Bill Serjeant's boat named "Faith" — resolves the open boat-naming backlog
+item from batch 318.** Shaping and sanding his boom, Bill Serjeant referred
+to his Paradox as "Faith" for the first time on record, settling the
+~80-name shortlist question he had put to the group in October 2005. Added to
+[people/bill-serjeant.md](/people/bill-serjeant.md) (cite [42]) and the
+frontmatter description; the backlog's open boat-naming item is resolved
+below.
+
+**Boom/yard curvature, and curing persistent yard sag — new rig content.**
+Bill Serjeant asked which side of the boom and yard (plans show one side
+straight, one curved) should face up, and separately raised a longer-running
+concern about the yard sagging under sail weight (worsened to windward),
+including whether recutting the sail itself (Glen Maxwell's suggestion) was
+the right fix. Alastair answered that the boom has no fixed top or bottom in
+practice, and recommended working on the yard's own curvature instead of the
+sail, since a yard is easy to swap back if an experiment fails. New section
+"Which side of the boom and yard faces up, and curing persistent yard sag" on
+[design/rig.md](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag)
+(cites [234]-[236], numeric max 236 + pre-existing `[7a]`/`[7b]` suffix pair,
+238 total, no gaps); summarized with a cross-link on
+[people/bill-serjeant.md](/people/bill-serjeant.md) (cites [43]-[44]) and
+[people/alastair.md](/people/alastair.md) (new bullet under "Rig, electrics,
+and furling," no new citation needed — folded under existing rig-answer
+coverage).
+
+**A non-owner's test sail aboard "Little Jim" corroborates hull stability —
+new content on `operations/crew-size-and-fit.md`.** Neil Barratt, a 6 ft,
+260 lb non-owner, took an hour-long test sail aboard Alastair's "Little Jim"
+and reported comfortable sitting/sleeping positions, a 3-ft-wide floor, and a
+boarding/stability impression ("like stepping onto a pontoon") that
+independently corroborates Alastair's own stability claims from the
+still-open "Paradox max pilot weight, height" thread. Added to the existing
+"Pilot weight, height, and stability at stock length" section on
+[operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length)
+(cite [113], count 79/max 113, pre-existing `[54]`-`[87]` gap unaffected) and
+the Takeaways list; summarized with a cross-link (no new citation) on
+[boats/little-jim.md](/boats/little-jim.md) as a new "A non-owner's test sail
+(March 2006)" section, per narrate-once-cross-link.
+
+**Owners-database e-mail follow-up.** Alastair asked Bill Serjeant to add his
+own e-mail to the registry's e-mail column, having missed the original
+request; Bill confirmed he would. Added to
+[references/paradox-uk-website.md](/references/paradox-uk-website.md#a-2006-database-renewal-and-a-new-los-angeles-builder)
+(cite [56], count 56/56, no gaps) — the canonical registry-narrative home for
+this fact, per narrate-once-cross-link (not duplicated on either person
+page).
+
+**David Beard closes the "near Dallas" thread.** Replying to Wayne/William
+Nix's already-tracked "Any Paradox's near Dallas Texas?" post (opened batch
+340, previously unanswered), David Beard offered a visit and sail at his own
+home in Tupelo, Mississippi — not actually near Dallas, but the thread's
+first and only reply. Added as a one-line citation on
+[people/david-beard.md](/people/david-beard.md) (cite [259], count 259/259,
+no gaps); Wayne's backlog entry updated to record the reply (still no
+confirmed plans order, boat name, or build start — promotion trigger
+remains unmet).
+
+**Excluded per the pruning rubric.** The batch's final page (windgypsy34/
+Dave, Holland MI, "Enigma and Ultimate Florida Challenge") asks only whether
+anyone else has followed Matt Layden's Ultimate Florida Challenge run and
+whether Enigma's plans will become available — both already fully
+documented on [matt-layden/biography.md](/matt-layden/biography.md) (frozen
+biography; UFC campaign already covered) and
+[matt-layden/enigma.md](/matt-layden/enigma.md) (plans-availability letter
+already quoted). Zero new fact, pure fan excitement — excluded entirely, no
+citation added anywhere, consistent with the frozen-Matt-Layden-biography
+rule and the narrate-once-cross-link convention.
+
+**Correspondents:** David Beard (`dlb`/`buster38801`, standing identity,
+Tupelo MS), Alastair (`openboat`/`alopenboat`, standing identity, Yeovil),
+Bill Serjeant (`william`/`barnacleid`, standing identity, same underlying
+`william@` account as `williamserjeant`), Neil Barratt (`barrattneil`, new,
+below-threshold non-owner test-sail account — thin, single appearance, not
+promoted), and "windgypsy34"/Dave of Holland, MI (new, below-threshold,
+excluded per the pruning rubric above). "Wayne"/William Nix (`wyliewesty`)
+did not himself post this batch but is referenced throughout (his batch-340
+"near Dallas" thread finally answered). No other established watch-list
+identity (Jack Gardiner, Chris Ostlind, Curtis/`azskybum`, Jeff-UK,
+botebilder/Ernie Fossel, Mats Blomstrand, David Platten, John Pertalion,
+Derek Clark) appeared this batch.
+
+Archive timeline reached **14 March 2006**. Msgnum run
+3432-3433-3434-3435-3436-3437-3438-3439-3440-3441 (pages 3401-3410
+respectively), confirmed distinct and fully consecutive via direct
+`X-Yahoo-Msgnum` header read, continuing directly from batch 340's last
+msgnum 3431. All ten source `.eml` byte sizes matched the dispatch table
+exactly (2301/2010/2926/2131/3626/4308/2828/2402/3009/1504 for page_3401
+through page_3410) — no same-size pair, stale-read risk ruled out. Standing
+archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected, not
+re-flagged. Attribution checks: Bill Serjeant's `barnacleid`/`williamserjeant`
+one-account rule, David Beard (`dlb`/`buster38801`) vs. David LeBlanc, and
+Alastair-as-"Al"-of-Yeovil were all checked via header against this batch's
+correspondents; none triggered incorrectly — no other at-risk identity (Jack
+Gardiner/`mat_man22`, the two established "Wayne"s, Curtis/`azskybum` vs. the
+established Chris Curtis, the three distinct "Paul"s) appeared this batch.
+Citation checks clean on all six touched files (count equals numeric max,
+preserving documented pre-existing gaps, zero new gaps, zero duplicates,
+zero invented letter-suffixes): `design/rig.md` 236 numeric max (238 total
+incl. `[7a]`/`[7b]`); `people/bill-serjeant.md` 44/44; `people/alastair.md`
+286/286; `people/david-beard.md` 259/259;
+`references/paradox-uk-website.md` 56/56; `operations/crew-size-and-fit.md`
+79 count/113 numeric max (pre-existing `[54]`-`[87]` gap unaffected);
+`boats/little-jim.md` unchanged at 104/104 (cross-link only, no new
+citation). Anchor checker (`anchorcheck.js` and `anchorcheck2.js`): 0 broken
+across 2,644 links (up from 2,636 at end of batch 340). Cursor set to 3410.
+
+## 2026-07-06 (batch 340: page_3391-page_3400)
+
+This batch spans 10-12 March 2006: nine of the ten pages continue the
+already-excluded "New member" thread (Jim Hall/`flexwing462`, introduced
+batch 339) with pure location/introduction banter, and the tenth opens a new,
+thin "Any Paradox's near Dallas Texas?" thread from the established
+below-threshold "Wayne"/William Nix. One genuinely new durable fact surfaced
+inside the banter thread — Derek Clark's home base and expected launch
+site — added to the tree; everything else stayed excluded per the pruning
+rubric.
+
+**Derek Clark's home base and expected launch site, newly on record.**
+Welcoming Jim Hall to the list, Derek Clark gave his own location for the
+first time in the archive — Wolverhampton, in the English Midlands — noting
+it put him "not far from" Alastair and "Little Jim" in Yeovil, and named
+Wareham, Dorset (on Poole Harbour, the same water Alastair sails) as where he
+expected to launch "Enuf" shortly. Added a new "Home base and an expected
+launch site" section to [boats/enuf.md](/boats/enuf.md#home-base-and-an-expected-launch-site)
+(cite [165], 165 total/165 numeric max, no gaps) and a matching one-line
+cross-link on [people/derek-clark.md](/people/derek-clark.md#citations) (cite
+[49], 49 total/49 max, no gaps), per the narrate-once-cross-link convention.
+
+**Excluded per the pruning rubric — no new pages, no new citations beyond the
+one above.** The rest of the "New member" thread — Bill Serjeant (posting as
+`barnacleid`) pointing Jim Hall to his website and offering to meet if Jim
+were in SE England; Jim Hall's replies giving his own location (Shaftesbury,
+Dorset) and clarifying he's on the "western side of Southern England" rather
+than the SE; Alastair inviting Jim to visit and see "Little Jim," with Jim
+asking whether Al keeps the boat at home in Yeovil (already-established fact,
+confirmed again); and Jim's closing "will reply off list" — carries zero new
+Paradox-specific design/construction/sailing content beyond Derek's location
+note captured above. Consistent with batch 339's treatment of this same
+thread, Jim Hall remains excluded as a below-threshold newcomer (backlog
+entry unchanged, no trigger met — no plans ordered, no build started, no
+boat named). Bill Serjeant's and Alastair's replies here add nothing beyond
+what is already fully on record on their own person pages, so no citations
+were added to either.
+
+**"Wayne" (William Nix, Dallas TX) opens a new, unanswered thread.** In a new
+"Any Paradox's near Dallas Texas?" post, the already-tracked below-threshold
+"Wayne" (`wyliewesty`) asked whether anyone near Dallas is building a
+Paradox, reporting he has his plans in hand and will "begin building soon,"
+and hoping to see a finished boat in person during one of his long-distance
+motorcycle trips. No reply is recorded in this batch (his message was the
+batch's last page). No boat name, no build start yet — the standing
+promotion trigger (order/build/boat-name) remains unmet; logged as a new data
+point on Wayne's existing `backlog.md` entry rather than added to the tree,
+consistent with how other thin "anyone near me" newcomer questions (e.g.
+John Larson's Chicago question, batch 318) have been handled.
+
+**Correspondents:** Bill Serjeant (`barnacleid`/`william@`, standing
+identity — same one-account rule as `williamserjeant`), Derek Clark
+(`dclark`/`dclark52001`, standing identity), Alastair (`openboat`/
+`alopenboat`, standing identity, Yeovil), "Jim Hall" (`flexwing462`, below-
+threshold, carried forward from batch 339, still excluded), and "Wayne"
+(`wyliewesty`, William Nix, Dallas TX, standing below-threshold watch-list
+identity). No other established watch-list identity (David Beard, Jack
+Gardiner, Chris Ostlind, Curtis/`azskybum`, Jeff-UK, botebilder/Ernie Fossel,
+Mats Blomstrand, David Platten, John Pertalion) appeared this batch.
+
+Archive timeline reached **12 March 2006**. Msgnum run
+3422-3423-3424-3425-3426-3427-3428-3429-3430-3431 (pages 3391-3400
+respectively), confirmed distinct and fully consecutive via direct
+`X-Yahoo-Msgnum` header read, continuing directly from batch 339's last
+msgnum 3421. All ten source `.eml` byte sizes matched the dispatch table
+exactly (3015/1408/1758/2387/1886/1946/1989/1519/2025/1665 for page_3391
+through page_3400) — no same-size pair, stale-read risk ruled out. Standing
+archive gaps at 2122/2190/2229/2385/2611/2614/2753 unaffected, not
+re-flagged. Attribution checks: Bill Serjeant's `barnacleid`/`williamserjeant`
+one-account rule, the two established "Wayne"s (`wtorry` vs. `wyliewesty`/
+William Nix), and Alastair-as-"Al"-of-Yeovil were all checked via header
+against this batch's correspondents; none triggered incorrectly. Citation
+checks clean on both touched files (count equals numeric max, zero gaps, zero
+duplicates, zero invented letter-suffixes): `boats/enuf.md` 165/165 numeric
+max; `people/derek-clark.md` 49/49. Anchor checker (`anchorcheck.js` and
+`anchorcheck2.js`): 0 broken across 2,636 links (up from 2,634 at end of
+batch 339). Cursor set to 3400.
+
+## 2026-07-06 (batch 339: page_3381-page_3390)
+
+This batch spans 8-10 March 2006: Jack Gardiner finally answers Derek Clark's
+long-standing "Compass" question, a new "Mk 2 sail" boom-wrap thread is asked
+and answered in full, and two thin, below-threshold items close out the
+batch (a new-member introduction, and a link-share revisiting Matt Layden's
+already-documented cartoppable "mini Paradox"/Enigma).
+
+**The compass question, answered.** Jack Gardiner (posting as "John
+Gardiner," `alex29`/`tidybowlmann`) answered Derek Clark's twice-repeated
+question directly: a GPS's bearing comes from satellites, not magnetic
+north, so nearby iron does not throw it off — unlike Derek's own
+wristwatch-based electronic compass, which showed real deviation when
+tested. The exchange settled on relying on the GPS's compass for ordinary
+use and carrying a small handheld compass for sighting and backup. Jack
+separately gave a personal-kit data point (a Garmin GPSMAP 76 plus a smaller
+eTrex Vista, both paired to a laptop for a moving-map display), and Derek
+capped the thread with a one-liner preferring "a box of GPSs" to celestial
+navigation, which "smacks of sorcery." Updated
+[operations/gps-navigation.md](/operations/gps-navigation.md) — retitled the
+now-resolved "Compass choice and mounting — an open question" heading to
+"Compass choice and mounting" and added the resolution and kit details
+(cites [20]-[22], 22 total/22 max, no gaps); cross-linked and updated on
+[people/jack-gardiner.md](/people/jack-gardiner.md) (cite [206], 205
+total/206 numeric max, preserving the pre-existing +1 gap at [53]) and
+[people/derek-clark.md](/people/derek-clark.md) (cites [46]-[47], 48
+total/48 max, no gaps). Fixed the three inbound cross-links to this file's
+renamed heading (two on `derek-clark.md`, the body prose on
+`gps-navigation.md` itself) in the same pass.
+
+**A new "Mk 2 sail" boom-wrap thread, asked and answered in full.** Derek
+Clark reported his Mark II sail's luff climbing up over the furling drum
+instead of sitting close to it as he rolled the sail onto the boom, and
+asked whether the tack should sit in line with the mast and whether tapering
+his still-untapered boom would leave a bigger leftover flap of sail once
+rolled. Alastair answered in full: his own topping lift, set to raise the
+boom's aft end slightly, draws the roll away from the drum; the sail's
+position along the boom (and the yard) sets the rig's overall balance and
+took him the better part of a season to tune by feel; and the boom should be
+tapered thinnest at the tack end — his own under-tapered boom needed packing
+with rigid foam instead, and a loose triangular flap of leftover sail once
+fully rolled is normal, simply tucked under the boom. This directly answers
+a question the archive had left open since October 2004 (whether a revised
+boom taper exists for the newer, taller Mark II sail). Added a new
+"Wrapping a Mark II sail on the boom: tack position, balance, and taper"
+section to [design/rig.md](/design/rig.md), immediately following the
+existing "Quantifying the new sailplan's effect on boom furling geometry"
+section (cites [232]-[233], 235 total/233 numeric max, preserving the
+pre-existing [7a]/[7b] letter-suffix pair); cross-linked and summarized on
+[people/alastair.md](/people/alastair.md) (cite [286], 286 total/286 max, no
+gaps) and [people/derek-clark.md](/people/derek-clark.md) (cite [48], same
+file totals as above).
+
+**Excluded per the pruning rubric — no new pages, no citations.** A "New
+member" self-introduction from "Jim Hall" (`flexwing462`) described a 1970s
+24 ft gaff cutter, retirement plans, and curiosity about why sharpie-type
+hulls are uncommon in England — zero Paradox-specific content beyond
+lurking interest; Derek Clark's one-line "where are you based?" reply went
+unanswered in this batch. Logged as a new below-threshold newcomer in
+`backlog.md` rather than given a page or a mailing-list mention. Separately,
+Jack Gardiner shared a WaterTribe Challenge-viewer video link ("Matt's
+cartoppable mini Paradox," the "Wizard" video) with Derek Clark's one-line
+Mac-compatibility reply pointing to the Microcruising Forum; "Matt's
+cartoppable mini Paradox" is the already-fully-documented **Enigma**
+(`matt-layden/enigma.md`), and per the frozen-biography rule this thin
+link-share/reaction adds no corroborating detail worth appending — excluded
+entirely, no citation, consistent with the pruning rubric's off-topic/thin
+threshold.
+
+**Correspondents:** Jack Gardiner (`alex29`/`tidybowlmann`, standing
+identity, posting as "John Gardiner," signing "Jack" — confirmed distinct
+from `mat_man22`), Derek Clark (`dclark`/`dclark52001`, standing identity),
+Alastair (`openboat`/`alopenboat`, standing identity, Yeovil — confirmed as
+the same "Al" of Yeovil, no separate page), "Jim Hall" (`flexwing462`, new,
+below-threshold, logged in backlog only). No established watch-list
+identities ("Wayne"/William Nix, Curtis/azskybum, Bill Serjeant, David
+Beard, Chris Ostlind) appeared this batch.
+
+Archive timeline reached **10 March 2006**. Msgnum run 3412-3421 (pages
+3381-3390), confirmed distinct and fully consecutive continuing from batch
+338's last msgnum 3411; all ten source `.eml` byte sizes matched the
+dispatch table exactly (3941/4623/7818/8896/2389/2598/3429/2800/1419/1579),
+no same-size pair, stale-read risk ruled out. Standing archive gaps at
+2122/2190/2229/2385/2611/2614/2753 unaffected, not re-flagged. Citation
+checks clean across all five touched files (count equals numeric max except
+the two pre-existing documented gaps noted above — `jack-gardiner.md`'s +1
+gap at [53] and `design/rig.md`'s [7a]/[7b] letter-suffix pair — zero new
+gaps introduced, zero duplicates, zero invented letter-suffixes):
+`operations/gps-navigation.md` 22/22, `design/rig.md` 235/233 numeric max,
+`people/derek-clark.md` 48/48, `people/jack-gardiner.md` 205/206 numeric
+max, `people/alastair.md` 286/286. Anchor checker (`anchorcheck.js` and
+`anchorcheck2.js`): 0 broken across 2,634 links (up from 2,626 at end of
+batch 338). Cursor set to 3390.
+
+## 2026-07-06 (batch 338: page_3371-page_3380)
+
+This batch spans 1-8 March 2006: the "Paradox max pilot weight, height"
+thread's banter tail (Nels, Bill Serjeant, Derek Clark), which resolves into
+a genuine new technical thread when a photo link posted as a joke turns out
+to show Chris Morejohn's 40 ft sharpie **"Jubilee"** — and Derek Clark's
+standing compass question resurfaces unanswered.
+
+**"Jubilee" identified; a centerboard-plus-chine-runner combination
+documented.** Nels posted a photo link (originally as a tongue-in-cheek
+"alternative to a Big Paradox") that Bill Serjeant could not open; Nels
+clarified it showed **"Jubilee,"** the 40 ft sharpie in the group's Hogfish
+Maximus files folder — the same 40 ft Chris Morejohn "Hogfish" hull
+previously advertised for sale via mermaidresearch.com in 2005, now
+identified by name. Bill asked why her chine runners looked so narrow for a
+hull that size, and whether a Paradox-family hull scaled up needs
+proportionally bigger runners; Nels answered that the narrow "wing" runners
+prove more effective than expected, that both "Jubilee" and "Hogfish
+Maximus" pair chine runners with a **centerboard** (a combination Glen
+Maxwell, who sailed on "Hogfish Maximus," can speak to firsthand), and
+speculated a centerboard becomes worth adding alongside chine runners at
+around a 25 ft waterline. Added a new "Narrow 'wing' runners on a Chris
+Morejohn sharpie, and a centerboard-plus-runner combination" section to
+[chine-runners/how-they-work.md](/chine-runners/how-they-work.md) (cites
+[58]-[59], 59 total/59 max, no gaps); updated
+[people/chris-morejohn.md](/people/chris-morejohn.md) with the "Jubilee"
+name and centerboard fact (cite [8], 8 total/8 max, no gaps);
+[people/nels.md](/people/nels.md) with a new bullet plus the batch's banter
+citations, following the file's existing house style of citing Nels's
+one-liners (cites [146]-[150], 150 total/150 max, no gaps); and
+[people/bill-serjeant.md](/people/bill-serjeant.md) with a new "A
+chine-runner-width question, prompted by 'Jubilee'" section (cites
+[40]-[41], 41 total/41 max, no gaps).
+
+**A repeated, still-unanswered compass question.** Derek Clark reposted his
+standing "Compass" question — whether an electronic compass built into a
+wristwatch or GPS is thrown off by nearby iron — in near-identical terms a
+week after first asking it (batch 337); again no reply is recorded in the
+archive. Added as cite [19] on
+[operations/gps-navigation.md](/operations/gps-navigation.md) (19 total/19
+max, no gaps); noted with a cross-link on
+[people/derek-clark.md](/people/derek-clark.md) alongside a brief mention of
+his banter with Nels over the weight-loss-program joke (cites [44]-[45], 45
+total/45 max, no gaps).
+
+**Correspondents:** Nels (`arvent`/`recree8`), Bill Serjeant
+(`william`/`barnacleid`, one of his three established handles), Derek Clark
+(`dclark`/`dclark52001`) — all confirmed via headers as their standing
+identities, no new correspondents this batch, no attribution-trap risks
+triggered.
+
+Anchor checkers (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken
+across 2,626 anchors (up from 2,613 at the end of batch 337). Archive
+timeline reached 8 March 2006. Cursor advanced to 3380.
+
+## 2026-07-06 (batch 337: page_3361-page_3370)
+
+This batch spans 27-28 February 2006, a single continuous overnight
+exchange: the "Paradox max pilot weight, height" thread (opened batch 336)
+runs to its conclusion, and Derek Clark opens a new, unanswered compass
+question.
+
+**Derek Clark** asked what compasses other builders had fitted and where,
+citing **Alastair**'s Silva 70n mounted on bulkhead 2 of "Little Jim" as the
+one data point on record, and separately asked whether a digital compass (as
+built into a GPS unit or a wristwatch) is thrown off by local iron enough to
+matter, and whether one of those could substitute for a dedicated compass —
+no reply is recorded in the archive. Added a new "Compass choice and
+mounting — an open question" section to
+[operations/gps-navigation.md](/operations/gps-navigation.md) (cite [18], 18
+total/18 max, no gaps; retitled the frontmatter description/tags to cover
+compass alongside GPS and depth-sounder topics, since this is now the
+natural single home for all three); extended
+[people/derek-clark.md](/people/derek-clark.md) with a 1-2 sentence summary
++ link.
+
+**The "max pilot weight, height" thread concluded.** Continuing directly
+from batch 336's opening exchange (Wayne/William Nix's stability caution),
+**Alastair** disputed the caution outright, pointing to his own website's
+"Stability" page and a photo of himself (180 lb) trying hard to capsize
+"Little Jim" by hand. **Derek Clark** identified himself as the likely
+source of the original warning, but clarified it was never really about
+hull stability: his own brother is built to the same 6'4"/280 lb
+dimensions, and Derek doubts there is room for a man that size to move
+comfortably with the cabin hatch shut — his brother had earlier seen
+bare-hulled "Enuf" and likened it to one of his own shoes ("I'd need two of
+those. Do they come in a left and right?"). Derek separately distinguished
+raw mass from how it is carried: Matt Layden's own two-up sailing split the
+load between two people who could counterbalance side to side, unlike a
+single very large sailor. Al cited **Hugo Vihlen**'s 105-day, 5 ft 4 in
+"Father's Day" Atlantic crossing as a benchmark for how little boat a
+determined solo sailor needs; Derek countered with **Stephen Ladd**'s three
+years cruising "a boat a little shorter than a Paradox." **Paul Reppeto**
+(`reppeto@`/`ldjonerik`, Olympia WA — an established recurring
+below-threshold correspondent who builds a Bolger Teal, not a Paradox)
+supplied the vivid detail: he had met Ladd and seen his boat firsthand at
+the Port Townsend Wooden Boat Festival, and at 6'1"/250 lb judged he'd fit
+in Ladd's boat but "feel like I was in a coffin" — wondering whether this
+was a chance to encourage a **"Big Paradox," 20% larger**, independently
+echoing the already-named "Big Paradox" stretch concept on
+[design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md)
+(added a cross-link there rather than re-narrating, cite [71], 71 total/71
+max, no gaps). Derek gave the practical fix for longer sailors (dropping the
+floor between bulkheads 1 and 2 to the main floor's level) and named his own
+hypothetical next boat — a reduced Madrigal with a full-length aft cabin and
+lug rig, possibly with a mizzen. Al closed the thread encouraging Paul to
+pursue the Big Paradox idea and report back. Extended the existing "Pilot
+weight, height, and stability at stock length" section on
+[operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md) (cites
+[105]-[112], 112 total/112 max, preserving the file's documented
+pre-existing [54]-[87] gap); extended
+[people/derek-clark.md](/people/derek-clark.md) (cites [42]-[43], 43
+total/43 max, no gaps) and
+[people/alastair.md](/people/alastair.md) (cites [284]-[285], 285 total/285
+max, no gaps) with 1-2 sentence summaries + links. Updated the standing
+Wayne/William Nix backlog item: the unstable-at-his-size caution is now
+resolved/explained, though Wayne himself did not resurface this batch and
+the actual promotion trigger (a confirmed order, build start, or boat name)
+remains unmet. Paul Reppeto's appearance is a resurfacing of his own
+standing below-threshold identity, correctly kept distinct from both
+[people/paul-v.md](/people/paul-v.md) and
+[people/paul-nz.md](/people/paul-nz.md) — three distinct "Paul"s on record,
+none conflated.
+
+Anchor checker (`anchorcheck.js` and `anchorcheck2.js`) run clean after all
+edits: 0 broken across 2,613 anchors.
+
+## 2026-07-06 (batch 336: page_3351-page_3360)
+
+This batch spans 24-27 February 2006. Three threads: an epilogue to batch
+335's database renewal, a new "max pilot weight, height" FAQ, and a
+standalone "Lexan" adhesive/materials question.
+
+**Bill Serjeant** added the promised e-mail-address column to his Paradox
+registry, naming its first four volunteers (David Beard, Mark Waters, Derek
+Clark, himself). The column drew in a new prospective builder, **"Curtis"**
+(`azskybum`, Phoenix, Arizona), who had already ordered the plans and book
+and hoped to use the posted addresses to find nearby owners — a
+below-threshold newcomer, logged in `.okf-progress/backlog.md` rather than
+given a standalone page; explicitly distinct from the established
+`people/chris-curtis.md` (Idaho, Texas 200 sailor). **Chris Ostlind**
+replied with off-topic banter about Arizona summers (excluded per the
+pruning rubric, no citation) before Bill told Curtis the registry's
+standing rule applies to him too: added once he starts building, not
+merely on ordering plans. Bill then posted the registry's direct link
+(`www.smallsailboats.co.uk/paradox/names.htm`) to the whole list and
+separately flagged Mark Waters' e-mail address on file as apparently
+incorrect. Extended
+[references/paradox-uk-website.md](/references/paradox-uk-website.md)'s
+existing "A 2006 database renewal, and a new Los Angeles builder" section
+(cites [52]-[55], 55 total/55 max, no gaps) — full narrative stays there
+per narrate-once-cross-link; extended
+[people/bill-serjeant.md](/people/bill-serjeant.md) (cites [38]-[39], 39
+total/39 max, no gaps) and [people/mark-waters.md](/people/mark-waters.md)
+(cite [5], 5 total/5 max, no gaps) with 1-2 sentence summaries + links.
+
+**"Wayne"** (`wyliewesty`/William Nix, established below-threshold
+identity) asked whether Paradox has a maximum pilot weight or height at
+stock length. Derek Clark asked what a "max pilot" was (banter, no
+citation); **Alastair** gave the substantive answer — weight is irrelevant
+given a couple hundred pounds of removable lead ballast, "Little Jim"'s own
+sitting headroom is 860 mm (~34 in), and stock sleeping length is 1.8 m
+(~5 ft 11 in), extendable a further 0.8 m (~31 in) with a minor mod. Wayne
+then reported he had already ordered the plans, but had separately been
+told the boat would be **unstable** for someone his size (6'4", 280 lb) — a
+caution left unexplained and unquantified in the archive. Created a new
+"Pilot weight, height, and stability at stock length" section on
+[operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md) (cites
+[102]-[104]; 70 total/104 numeric max, preserving the file's documented
+pre-existing [54]-[87] gap); extended
+[people/alastair.md](/people/alastair.md) with a 1-2 sentence summary + link
+(cite [283], 283 total/283 max, no gaps).
+
+**Derek Clark**, repurposing leftover Lexan window offcuts, asked what
+adhesive would join polycarbonate scraps into small electrical-enclosure
+boxes (left unanswered in the archive), and separately flagged shopfitters'
+skips as a source of free scrap copper wire and electrical fittings.
+Extended [boats/enuf.md](/boats/enuf.md) with a new "Polycarbonate scraps
+for electrical enclosures, and a scavenged copper-wire source" section
+(cite [164], 164 total/164 max, no gaps); extended
+[people/derek-clark.md](/people/derek-clark.md) with a 1-2 sentence summary
++ link (cite [41], 41 total/41 max, no gaps).
+
+Correspondents seen: Bill Serjeant (`william@`, displaying as `barnacleid`
+throughout — the same underlying account per the standing
+one-person-three-handles note), Curtis (`azskybum`, new, below-threshold),
+Chris Ostlind (`Chris@`/`wedgesail`, established below-threshold, banter
+only), "Wayne"/William Nix (`wyliewesty`, established below-threshold,
+explicitly distinct from the other established "Wayne"/`wtorry`), Derek
+Clark (`dclark@`/`dclark52001`), Alastair (`openboat`/`alopenboat`,
+Yeovil). Attribution checks (David Beard/David LeBlanc, Jack
+Gardiner/mat_man22, multiple-Wayne conflation, Chris Curtis/azskybum's
+"Curtis") all clear. Msgnum run 3382-3391 (pages 3351-3360) confirmed
+distinct and fully consecutive continuing from batch 335's last msgnum
+3381; all ten source byte sizes matched the dispatch table exactly, ruling
+out the stale-read risk. Archive timeline reached 27 February 2006. Anchor
+checker (`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across
+2,604 anchors (up from 2,597 at the end of batch 335). Full
+correspondent/gap/attribution detail logged in `.okf-progress/backlog.md`
+under "Batch 336 correspondent + gap check."
+
+## 2026-07-06 (batch 335: page_3341-page_3350)
+
+This batch spans 17-23 February 2006. Two threads: a coda to batch 334's
+photo-privileges saga, and a February 2006 renewal of Bill Serjeant's
+Paradox owners/builders database that introduces a new, directly-promoted
+builder.
+
+**Derek Clark**, still without upload privileges on `paradoxbuilders` a
+week after batch 334's episode, worked around the block entirely by
+opening a new "Enuf" album — with a fresh photo — on Bill Serjeant's own
+`smallsailboats` Yahoo group instead. **Glen Maxwell**'s suggested fix for
+the original group (delete the album and start a new one, guessing Yahoo's
+album-format switch had broken something) went untested in the archive;
+Derek's cross-posted workaround stands as the saga's last recorded word.
+Extended [boats/enuf.md](/boats/enuf.md) with a new "A workaround: an Enuf
+album on a different group entirely" section (cites [162]-[163], 163
+total/163 max, no gaps); extended [people/derek-clark.md](/people/derek-clark.md)
+with a 1-2 sentence summary + link per narrate-once-cross-link (cites
+[39]-[40], 40 total/40 max, no gaps).
+
+Separately, **Bill Serjeant** renewed his standing Paradox registry appeal
+(`www.smallsailboats.co.uk/paradox/names.htm`), this time specifically
+asking for photos of finished boats on the water or trailer rather than
+further building-stage pictures. The appeal drew in **Mark Waters**
+(`mwatersworld`), a Los Angeles, California builder whose Paradox — built
+strictly to plans — was already 90% complete with completion expected by
+summer 2006, and who had previously built a Selway-Fisher 50/50 sailing
+canoe. **Chris Ostlind** (`wedgesail`), an established below-threshold
+watch-list identity who grew up in Redondo Beach, asked Waters to clarify
+whether "L.A." meant the city or the wider county, hoping to visit the boat
+in person. Derek Clark separately proposed adding builders' e-mail
+addresses to the registry, with Bill's blessing to poll the list first;
+both Mark Waters and **David Beard** agreed without objection. A
+near-complete, plans-faithful build clears the promotion threshold
+outright, so **created [people/mark-waters.md](/people/mark-waters.md)**
+(4 citations, no gaps) rather than logging Waters as a below-threshold
+watch-list item, and added him to
+[people/index.md](/people/index.md). Extended
+[references/paradox-uk-website.md](/references/paradox-uk-website.md)
+with a new "A 2006 database renewal, and a new Los Angeles builder"
+section (cites [44]-[51], 51 total/51 max, no gaps) — the full narrative
+of the registry-renewal episode lives here per narrate-once-cross-link;
+extended [people/bill-serjeant.md](/people/bill-serjeant.md) with a 1-2
+sentence summary + link (cites [36]-[37], 37 total/37 max, no gaps).
+
+Correspondents seen: Derek Clark (`dclark@`/`dclark52001`), Glen C. Maxwell
+(`ifida@`/`ifida2000`), Bill Serjeant (`william@`, displaying as
+`barnacleid` on both his messages this batch — the same underlying account
+per the standing one-person-three-handles note), Mark Waters
+(`mwatersworld@`/`mwatersworld`, new), Chris Ostlind (`Chris@`/`wedgesail`,
+established below-threshold), David Beard (`dlb@`/`buster38801`, confirmed
+distinct from David LeBlanc). Attribution checks (David Beard/David
+LeBlanc, Jack Gardiner/mat_man22, multiple-Wayne conflation) all clear —
+none of the at-risk identities besides David Beard appeared this batch.
+Msgnum run 3372-3381 (pages 3341-3350) confirmed distinct and fully
+consecutive continuing from batch 334's last msgnum 3371; all ten source
+byte sizes matched the dispatch table exactly, ruling out the stale-read
+risk. Archive timeline reached 23 February 2006. Anchor checker
+(`anchorcheck.js` and `anchorcheck2.js`) run clean: 0 broken across 2,597
+anchors (up from 2,588 at the end of batch 334). Full correspondent/gap/
+attribution detail logged in `.okf-progress/backlog.md` under "Batch 335
+correspondent + gap check."
+
+## 2026-07-06 (batch 334: page_3331-page_3340)
+
+This batch spans 5-11 February 2006 and continues directly from batch 333's
+"progress" thread. **David Beard** and **Glen Maxwell** independently told
+Derek Clark to use `paradoxbuilders2` instead of the original group for his
+photo-upload trouble — revealing, as a new fact distinct from the
+already-documented moderator-permission mechanics, that the original
+`paradoxbuilders` group had itself by this point filled to its member
+capacity. Derek got one photo through (a knot repair wrapped in fibreglass
+tape), but further attempts kept failing with the same "privileges" error;
+Glen checked Derek's album himself and found plenty of room, unable to
+explain the block. **Nels** answered Derek's renewed frustration (and an
+aside about being confronted by a nine-year-old at work) with a Kurt Vonnegut
+one-liner, which Derek took in good humor before returning to genuine build
+progress: the front window, cabin sides, and rear panel of "Enuf" were all
+tacked and clamped in place, and days later Derek routed window openings
+directly into the cabin sides (needing a longer router bit than he had on
+hand, bought from B&Q along with unplanned extras) and laminated two
+salvaged-oak hand grabs for the centre beam. A newcomer, **"Wayne"**
+(`wyliewesty`, real name William Nix, Dallas TX — still below the
+standalone-page threshold, no boat or build of his own), asked where current
+"Enuf" photos could be found; Derek admitted he had nothing more recent than
+the hull-on-rollers picture already posted.
+
+- **`boats/enuf.md`** — added two new sections: "Cutting window openings into
+  the cabin sides" (the router-bit/Lexan/hand-grab build progress) and "The
+  original group reaches capacity, and a return to routine build progress"
+  (the paradoxbuilders2 redirection, the Vonnegut joke, and Wayne's
+  photo-status question). Cites [152]-[161], 161 total/161 max, no gaps.
+- **`references/mailing-list.md`** — new "The original group reaches its
+  member capacity" section under the photo-privileges material, recording
+  the original group's membership ceiling as distinct from the 2004
+  photo/file storage ceiling. Cites [42]-[43], 43 total/43 max, no gaps.
+- **`people/derek-clark.md`** — extended the photo-privileges paragraph with
+  a summary + link to the new `boats/enuf.md` sections (narrate-once,
+  cross-link). Cites [30]-[38], 38 total/38 max, no gaps.
+- **`people/nels.md`** — added a citation for the Vonnegut one-liner. Cite
+  [145], 145 total/145 max, no gaps.
+
+No new person/boat pages were warranted: "Wayne"/William Nix remains below
+the standalone-page threshold (no boat, no build beyond intent to eventually
+order plans), consistent with his standing backlog entry. Glen Maxwell's two
+routine troubleshooting replies this batch were folded into
+`references/mailing-list.md` and `boats/enuf.md` rather than re-narrated on
+his own person page, since the fact (group at capacity) is a mailing-list
+fact, not a distinct Glen Maxwell story. Anchor checkers (`anchorcheck.js`,
+`anchorcheck2.js`) ran clean: 0 broken across 2,588 links. Archive timeline
+reached 11 February 2006.
+
+## 2026-07-06 (batch 333: page_3321-page_3330)
+
+This batch spans 29 January–5 February 2006 and covers three short, mostly
+mechanical threads. **David Beard** asked the list for the link to Dave
+Bolduc's Micro Cruising Yahoo group; **Alastair** and **Chris Ostlind**
+answered within an hour with the direct group URL and the
+`microcruising.com` homepage respectively — Beard's own follow-up clarified
+he had actually meant a different, unrelated group ("Imp"), which is
+off-topic and excluded from the tree. **Mats Blomstrand**, a below-threshold
+newcomer introduced in batch 330, explained (answering Nels' standing
+question) that he is not yet building his Paradox — he plans a smaller
+practice project first, either Hannu's Portuguese-style dinghy or Jim
+Michalak's "Mayfly," to learn building methods before starting the boat he's
+already been studying plans and drafting a materials list for; Nels couldn't
+get the dinghy link to open, and **Larry Whited** fixed it, tracing the fault
+to a trailing period caught in the URL. Finally, **Derek Clark** hit a
+photo-album "privileges" error trying to add pictures to his "Enuf" album (and
+the same error on Don Elliott's group); **Bill Serjeant** — posting this time
+under his original `barnacleid` Yahoo Profile display, still the same
+`william@` account — explained that photo-upload access is a
+moderator-controlled Yahoo Groups setting, not a member-side fault, describing
+his own `smallsailboats` group's all-members-open policy by comparison. Derek
+thanked him and closed with an unanswered aside: "Does 'The Moderator' read
+this?"
+
+- **`references/micro-cruising-group.md`** — new "A recurring request for the
+  group's own link" section for the January 2006 link-request thread. Cites
+  [5]-[7], 7 total/7 max, no gaps.
+- **`people/david-beard.md`** — added a one-line cross-link paragraph for his
+  link request (and, in the citation only, his off-topic "Imp" clarification).
+  Cite [258], 258 total/258 max, no gaps.
+- **`people/nels.md`** — added a citation for his reply continuing the Mats
+  Blomstrand thread (broken link, Mayfly comment). Cite [144], 144 total/144
+  max, no gaps.
+- **`references/mailing-list.md`** — new "Photo-album upload privileges are a
+  moderator-controlled setting" section under "Spam and moderation,"
+  documenting the Yahoo Groups moderator-permission mechanics Bill Serjeant
+  described. Cites [39]-[41], 41 total/41 max, no gaps.
+- **`people/derek-clark.md`** — added a short paragraph cross-linking the
+  photo-privileges exchange. Cite [29], 29 total/29 max, no gaps.
+- **`people/bill-serjeant.md`** — added a citation for the moderator-mechanics
+  answer, and updated the "one person across three handles" note to record
+  his Yahoo Profile briefly displaying as `barnacleid` again in February 2006
+  (same underlying `william@` account, not a fourth identity). Cite [35], 35
+  total/35 max, no gaps.
+
+No new person/boat pages were warranted: Mats Blomstrand and Chris Ostlind
+both remain below the standalone-page threshold (no boat, no build), and
+David Beard's "Imp" tangent is off-topic personal color excluded per the
+pruning rubric, given no citation body prose beyond a passing note. Anchor
+checkers (`anchorcheck.js`, `anchorcheck2.js`) ran clean: 0 broken across
+2,571 links. Archive timeline reached 5 February 2006.
+
+## 2026-07-06 (batch 332: page_3311-page_3320)
+
+This batch closed out the "Cabin Top" thread's slot-top-versus-stock-design
+debate and the "Plywood for Paradox" thread's Madrigal aside, all dated 27-28
+January 2006. **Alastair** answered **Bill Serjeant**'s knockdown caution
+(from batch 331) with his own experience aboard "Little Jim": water does not
+start coming inside until the mast is nearly in the water, wind alone cannot
+cause a full knockdown without wave action, and the boat popped back upright
+almost immediately, limiting ingress to little more than a wet sleeve. He
+judged a slot-top could work with a reasonably well-sealed soft cover — citing
+the RNLI's own plasticised-fabric deck-locker covers as a precedent — but
+weighed that against the stock cabin's theft security, his biggest
+reservation. **Derek Clark** thanked both correspondents, concluding again
+that it is "difficult to improve on the original," and Alastair then proposed
+**bolting the cabin roof on rather than gluing and nailing it**, so a
+modification could be tried and reverted if it didn't work out — Derek took
+up the idea, noting his own boat would launch on a lake where an imperfect
+experimental seal matters less than at sea. Separately, on "Plywood for
+Paradox," Derek cited **"Madrigal,"** a 22 ft boat built of exterior plywood
+and polyester resin in Greece, sailed to England via the French canal system,
+and lasting about 15 years before finally rotting through after being left in
+a field — a corroborating non-Paradox durability data point; Bill supplied
+the boat's own website. Bill also answered a new correspondent, **Robert**
+(`cheepwings`), who asked for more detail on the Hina capsize story, by
+pointing to two pages on his own website rather than retelling it — resolving
+batch 331's open item. **Nels** joked Bill should write a book of his sailing
+stories; Bill's reply reminisced about capsizing a racing kayak in a
+cross-Bristol-Channel race and a lighthearted science-fiction novel he once
+wrote — pure banter with no Paradox content, excluded from the tree per the
+pruning rubric.
+
+- **`boats/enuf.md`** — extended the existing "A slot-top cabin idea for
+  open-water use" section with Alastair's knockdown-experience rebuttal, the
+  RNLI soft-cover precedent, Derek's thanks, and Alastair's bolt-rather-than-
+  glue suggestion (adopted by Derek). Cites [148]-[151], 151 total/151 max, no
+  gaps.
+- **`construction/plywood-grades-and-foam-flotation.md`** — extended the "A
+  2006 recurrence: budget exterior ply" section with the Madrigal durability
+  data point and its website link. Cites [59]-[60], 58 count/60 numeric max
+  (pre-existing +2 gap through [58] confirmed unaffected), no new gaps.
+- **`people/bill-serjeant.md`** — extended the existing Hina-knockdown section
+  with Bill's website-link answer to Robert's follow-up question. Cite [34],
+  34 total/34 max, no gaps.
+- **`people/derek-clark.md`** — extended the existing slot-top summary
+  paragraph (narrate-once-cross-link) with the Madrigal citation, the thanks,
+  and the bolt-on decision. Cite [28], 28 total/28 max, no gaps.
+- **`people/alastair.md`** — added two cross-link-only citations for his two
+  messages this batch (knockdown experience; bolt-on suggestion), both fully
+  narrated on `boats/enuf.md`. Cites [281]-[282], 282 total/282 max, no gaps.
+
+No new person/boat pages were warranted: Nels' and Bill's page_3320/msgnum3351
+banter (kayak-capsize aside, novel mention) is off-topic personal color with
+zero Paradox content and was excluded per the pruning rubric, not given a
+citation anywhere. Anchor checkers (`anchorcheck.js`, `anchorcheck2.js`) ran
+clean: 0 broken across 2,565 links. Archive timeline reached 28 January 2006.
+
+## 2026-07-06 (batch 331: page_3301-page_3310)
+
+This batch covered a "Plywood for Paradox" budget-materials thread and the
+tail of the "Paradox questions"/"Cabin Top" threads. A newcomer waiting on
+his plans ("Wayne," real name **William Nix**) asked whether cheap
+non-marine exterior plywood needs more epoxy than marine grade, how it
+compares for longevity, whether hardware-store **green-tinted** exterior
+plywood is suitable, and where to find cheap epoxy. **Jack Gardiner** gave
+the fullest answer — buy the best affordable grade and sheathe it in light
+fabric, never pair expensive ply with cheap epoxy, and (the key caution)
+**green plywood is pressure-treated and unsuitable**, its moisture content
+wrong for laminating/filleting; exterior and marine grade share the same
+glue, differing only in veneer quality, and epoxy quantity is not a major
+cost factor on a boat this size. A recurring below-threshold correspondent,
+**John Pertalion**, pointed to RAKA's online epoxy guide and independently
+confirmed the pressure-treated caution. **David Beard** added a concrete
+data point: he used the same **AC exterior plywood grade as Matt Layden and
+Glen Maxwell** on his own Paradox, with System Three epoxy, and recommended
+Don Elliott's building manual. Wayne separately asked whether "Little
+Cruiser" was built with fiberglass, having seen none when her paint was
+stripped — a question the archive answers on its own terms: Little Cruiser
+was **not originally sheathed** in epoxy/fiberglass, which is exactly why
+she developed surface checking, addressed only in her 2005 refit (already
+recorded on `matt-layden/little-cruiser.md`). Separately, **Bill Serjeant**
+closed out the two-person-capacity thread with his standing builder-registry
+invitation, then, replying to Derek Clark's slot-top cabin idea for "Enuf,"
+cautioned against deviating from Matt Layden's design even on sheltered
+waters — self-righting and water-ingress risk on a knockdown — illustrated
+with his own 22 ft Wharram Hina catamaran's knockdown by a freak gust. A new
+correspondent, Robert (`cheepwings`), asked Bill for more detail on the
+Hina's capsize story; unanswered as of the batch's last page.
+
+- **`construction/plywood-grades-and-foam-flotation.md`** — added a new "A
+  2006 recurrence: budget exterior ply, and why 'green' plywood should be
+  avoided" section covering Jack Gardiner's, John Pertalion's, and David
+  Beard's answers, plus a cross-link to `little-cruiser.md` for the
+  fiberglass-sheathing question. Cites [54]-[58], 56 total/58 numeric max
+  (pre-existing gap at [5]-[6] confirmed unaffected), no new gaps.
+- **`people/jack-gardiner.md`** — added a summary+link paragraph
+  (narrate-once-cross-link) for the plywood-budget answer. Cite [205], 204
+  count/205 numeric max, pre-existing +1 gap at [53] confirmed unaffected.
+- **`people/david-beard.md`** — added a summary+link paragraph for his
+  AC-ply/System-Three data point. Cite [257], 257 total/257 max, no gaps.
+- **`matt-layden/little-cruiser.md`** — added a cross-link citation for
+  Wayne's fiberglass-sheathing question, answered by the file's own existing
+  2005-refit narrative (no new prose needed — the fact was already fully
+  narrated there). Cite [35], 35 total/35 max, no gaps.
+- **`people/bill-serjeant.md`** — added a clause to the existing registry
+  paragraph for his January 2006 repeat invitation, and a new short section
+  ("A caution against departing from the stock design, and the Wharram
+  Hina's knockdown") summarizing his Cabin Top reply with a cross-link to the
+  full story on `boats/enuf.md`. Cites [32]-[33], 33 total/33 max, no gaps.
+- **`boats/enuf.md`** — extended "A slot-top cabin idea for open-water use"
+  with Bill Serjeant's design-philosophy caution and Wharram Hina knockdown
+  story. Cite [147], 147 total/147 max, no gaps.
+
+No new person or boat pages were created this batch — John Pertalion (a
+recurring below-threshold correspondent, previously seen batch ~264) and
+Robert/`cheepwings` (a brand-new one-off correspondent whose question went
+unanswered) both remain below the standalone-page threshold; Chris Ostlind's
+banter reply carried no new fact and was correctly excluded from the tree
+per the attribution calculus (residue, not authority/story). Anchor checkers
+(`anchorcheck.js`, `anchorcheck2.js`) both ran clean: 0 broken across 2,561
+anchors. Archive timeline reached 26-27 January 2006.
+
+## 2026-07-06 (batch 330: page_3291-page_3300)
+
+This batch closed out the "More progress and another question" thread for
+good (its outboard, rowlock/yuloh, and terminology sub-threads all now
+resolved) and covered a new "Plans for Paradox" FAQ thread. **Jack Gardiner**
+gave the fullest equipment picture yet of "Jill"/"JillBaby": a **6 hp
+Johnson** outboard (60 lb, offset with ballast) run at low rpm, and a gifted
+**1,000-watt two-stroke generator** for charging batteries, answering
+**Nels**'s detailed follow-up questions on mounting, fuel/oil storage, and
+fume ventilation (forward-compartment stowage next to a large deep-cell
+marine battery, a 12V fan in the vent trunk). Jack also gave his home
+sailing grounds (Rhode Island waters near Newport: strong currents/tides,
+changing winds, rocky coasts, heavy traffic) and explained his 103-year-old
+grandfather's bearing on how far he ranges from home, then reported a health
+scare — a tonsil infection that had closed his windpipe almost to the point
+of needing an emergency airway — resolved without further complication, with
+Nels wishing him a speedy recovery. Separately, **David Platten** (a
+recurring below-threshold UK correspondent, not a Paradox builder) answered
+**Derek Clark**'s standing yuloh-in-a-rowlock question with a tested
+technique from his own 14 ft lugger — a leathered loom and a forward-facing
+(not aft-facing, as expected) leather button — featured in *Watercraft
+Magazine*'s Nov/Dec 2005 issue; Derek thanked him directly. Derek also closed
+out the "oarlocks" terminology exchange with Jack. Separately, "Wayne" (real
+name **William Nix**) opened a new "Plans for Paradox" thread; a new
+correspondent, **Mats Blomstrand**, pointed him to Dave Bolduc, and Nels
+asked in passing (unanswered) whether Mats was himself building a Paradox —
+the archive's twentieth-or-so recurrence of the "where do I get the plans"
+FAQ.
+
+- **`boats/jill.md`** — added a new "A 6 hp outboard, an onboard generator,
+  and local sailing conditions" section covering the Johnson outboard,
+  generator, sailing grounds, grandfather, and hospitalization. Cites
+  [28]-[31], 31 total/31 max, no gaps.
+- **`people/jack-gardiner.md`** — added summary+link paragraphs for the
+  jill.md content above (narrate-once-cross-link) and for Derek Clark's
+  closing "oarlocks" reply. Cites [203]-[204], 203 count/204 numeric max,
+  pre-existing +1 gap at [53] confirmed unaffected.
+- **`boats/enuf.md`** — extended "The yard, revisited" with David Platten's
+  yuloh-in-a-rowlock technique, Derek Clark's thanks to him, and Derek's
+  closing "blown round that side of the pond" reply to Jack's oarlocks note.
+  Cites [144]-[146], 146 total/146 max, no gaps.
+- **`design/yuloh-and-stowed-rig-retention.md`** — added a "standard-rowlock
+  alternative to the plans' pivot bolt" paragraph documenting David
+  Platten's technique, cross-linked to `boats/enuf.md`. Cite [31], 31
+  total/31 max, no gaps.
+- **`references/building-plans.md`** — added a new "A January 2006
+  recurrence, twentieth time on record" section for Wayne/William Nix's new
+  plans-request thread and Mats Blomstrand's answer. Cites [141]-[143], 143
+  total/143 max, no gaps.
+- **`people/nels.md`** — added a bullet covering Nels's generator questions,
+  well-wishes to Jack, and his unanswered question to Mats Blomstrand. Cites
+  [141]-[143], 143 total/143 max, no gaps.
+- **`people/derek-clark.md`** — extended the existing rowlock/wedge
+  paragraph with David Platten's answer, Derek's thanks, and the closing
+  "oarlocks" exchange with Jack. Cites [26]-[27], 27 total/27 max, no gaps.
+
+No new person or boat pages were created this batch — David Platten (a
+recurring below-threshold correspondent with no Paradox of his own) and Mats
+Blomstrand (a brand-new one-off correspondent) both remain below the
+standalone-page threshold per the pruning rubric, folded into existing hub
+pages instead. Anchor checkers (`anchorcheck.js`, `anchorcheck2.js`) both ran
+clean: 0 broken across 2,554 anchors. Archive timeline reached 24-25 January
+2006.
+
+## 2026-07-06 (batch 329: page_3281-page_3290)
+
+This batch closed out the "More progress and another question" thread's
+last open thread (rowlock vs. oarlock terminology), opened a new "Cabin
+Top" thread on **Derek Clark**'s "Enuf," and answered a two-part newcomer
+FAQ from **"Wayne"** (real name **William Nix**, Dallas TX, per this
+batch's `From:` header) that batch 328 had introduced. **Jack Gardiner**
+closed the rowlock exchange with the American-English terminology note
+("we call em oarlocks on this side of the pond"). Derek Clark separately
+floated a **slot-top cabin** design for "Enuf" — 12 mm plywood sides/front
+with routed, Lexan-glazed window openings and a lift-out rear window for
+outboard access, weighing the risk that a knocked-down boat with the slot
+open might not float, and proposing a plasticised lorry-curtain fabric
+(already proven skinning a kayak) to seal it — a distinct, concrete
+proposal from the archive's earlier, more theoretical steel-hull-companion
+cabin-top discussion. On the newcomer FAQ: **Alastair** answered Wayne's
+two-person-capacity doubt directly (not really a two-person sailing boat,
+since only one person fits the helm seat; sleeping two is workable with
+extra width gained by modifying storage, as **Kjell Karlsson** did on his
+composite build) and, days later, gave a stock Paradox's materials needs
+(10 sheets of ply, 40-50 L epoxy) and confirmed no Little Cruiser plans
+exist. **Jack Gardiner** corroborated with his own 2-up sailing experience
+("cramped, but doable") and an update to his own steel-enlargement
+musing — now specifically a **16 ft, corten-steel** "ultimate cruiser." A
+three-message off-topic "Tristan Jones" thread continuation (Larry Whited,
+Glen Maxwell, Derek Clark, all discussing the sailing-memoir author with
+zero Paradox content) was excluded from the tree entirely per the pruning
+rubric, consistent with batch 328's treatment of the thread's opening post.
+
+- **`boats/enuf.md`** — extended "The yard, revisited" with Jack Gardiner's
+  oarlock terminology note, and added a new "A slot-top cabin idea for
+  open-water use" section for Derek Clark's Cabin Top post. Cites
+  [142]-[143], 143 total/143 max, no gaps.
+- **`operations/first-boat-suitability.md`** — added a materials data point
+  to "Build-time figures and difficulty rating," and a new "The two-person
+  question, answered directly" section answering Wayne/William Nix's
+  capacity question. Cites [37]-[40], 40 total/40 max, no gaps.
+- **`design/variants/stretched-paradox.md`** — extended "A steel
+  enlargement idea, and the case against it" with Jack Gardiner's 16 ft/
+  corten-steel update. Cite [70], 70 total/70 max, no gaps.
+- **`people/alastair.md`** — added a new paragraph covering the two-person
+  answer and materials/Little-Cruiser-plans answer. Cites [279]-[280], 280
+  total/280 max, no gaps.
+- **`people/jack-gardiner.md`** — added a new paragraph covering the steel
+  update, the two-person corroboration, and the oarlock note. Cites
+  [201]-[202], 201 total (pre-existing +1 gap at [53] preserved)/202
+  numeric max.
+- **`people/derek-clark.md`** — extended with the rowlock close-out and
+  the new Cabin Top/slot-top idea. Cite [25], 25 total/25 max, no gaps.
+
+Correspondents this batch: Larry Whited (`lwhited@`/`lwhited`, off-topic
+only), "Wayne"/William Nix (`wyliewesty`), Alastair (`openboat@`/
+`alopenboat`, Yeovil), Glen Maxwell (`ifida@`/`ifida2000`, off-topic
+only), Derek Clark (`dclark@`/`dclark52001`), and Jack Gardiner (`alex29@`/
+`tidybowlmann`, posting as "John Gardiner," signs "Jack"). Attribution
+checks: Alastair confirmed the same standing identity ("Al, Yeovil,
+England"); Jack Gardiner confirmed distinct from `mat_man22`; "Wayne"
+confirmed the same standing identity introduced batch 328, explicitly
+distinct from the established "Wayne" (`wtorry`); David Beard did not
+appear this batch. Anchor checker (`anchorcheck.js`/`anchorcheck2.js`) run
+clean: 0 broken across 2,540 anchors. Archive timeline reached 23-24
+January 2006.
+
+## 2026-07-06 (batch 328: page_3271-page_3280)
+
+This batch closed out the outboard-brand question batch 327 had left
+unanswered, resolved the rowlock/wedge design left open on "Enuf," and
+recorded a newcomer FAQ thread. **Alastair** answered **Derek Clark**'s
+wedge-angle question for a transom-mounted rowlock socket (ideally cut
+parallel to the oar, though the exact angle probably doesn't matter much);
+Derek confirmed "rowlock" was the word he'd been looking for. **David
+Beard** then answered the 2 hp Honda-versus-Suzuki outboard question,
+confirming he runs a 2 hp Honda on "Whisper"; asked a follow-up about shaft
+length, he confirmed trying both and preferring the **short shaft**, which
+reaches hull speed at a little under half throttle — closing out a
+question the file had previously (and now incorrectly) recorded as
+unanswered, so that citation's text was corrected in place. Separately, a
+newcomer to micro-boating, **"Wayne" (wyliewesty)**, asked how long a
+Paradox takes to build and the sleeping area's inside dimensions; Alastair
+answered with his own ~18-month build and "Little Jim"'s 1.9 m by 0.9 m
+flat sleeping area (pointing to his construction-photo website), and Derek
+Clark gave his own 74.5 in by 36 in figure plus his build timeline
+(started September 2004, non-continuous, only the cabin left). Both
+answers were folded into `operations/first-boat-suitability.md`'s
+build-time section, with a cross-reference added from
+`operations/crew-size-and-fit.md`'s existing floor-dimension section. A
+single off-topic, zero-reply "Tristan Jones" book-discussion post (David
+Beard asking whether the sailing-memoir author's stories are believable)
+was excluded from the tree entirely per the pruning rubric — no Paradox
+content, no reply on record, and no catch-all leaf was created or reused.
+
+- **`boats/enuf.md`** — extended "The yard, revisited" with the
+  wedge/rowlock exchange and the outboard-shaft resolution; corrected the
+  stale "went unanswered" citation text now that the question has an
+  answer on record. Cites [137]-[141], 141 total/141 max, no gaps.
+- **`operations/auxiliary-outboard-power.md`** — added the short-shaft data
+  point to the existing Honda/Whisper passage. Cites [39]-[40], 40
+  total/40 max, no gaps.
+- **`operations/first-boat-suitability.md`** — extended "Build-time figures
+  and difficulty rating" with Alastair's and Derek Clark's own build-time
+  figures, and a new subsection answering Wayne's dimension/build-time
+  questions. Cites [34]-[36], 36 total/36 max, no gaps.
+- **`operations/crew-size-and-fit.md`** — added a corroborating cross-link
+  (Alastair's and Derek Clark's own sleeping-area measurements) to the
+  existing floor-dimensions section; no new citations added (pre-existing
+  [54]-[87] gap on this file unaffected, still 67 total/101 max).
+- **`boats/whisper.md`** — added David Beard's short-shaft confirmation to
+  the existing outboard-weight/trim passage. Cite [88], 88 total/88 max,
+  no gaps.
+- **`people/derek-clark.md`** — extended the "Resuming the build" section
+  with the wedge/outboard resolution and the Wayne-thread answer. Cites
+  [22]-[24], 24 total/24 max, no gaps.
+- **`people/alastair.md`** — extended the yuloh/rowlock summary+link
+  paragraph and added a new build-time/dimensions paragraph. Cites
+  [277]-[278], 278 total/278 max, no gaps.
+- **`people/david-beard.md`** — new paragraph answering Derek Clark's
+  outboard questions a second time. Cites [255]-[256], 256 total/256 max,
+  no gaps.
+
+Correspondents this batch: Derek Clark (`dclark@`/`dclark52001`), Alastair
+(`openboat@`/`alopenboat`, Yeovil), David Beard (`dlb@`/`buster38801`), and
+a new below-threshold newcomer, "Wayne" (`wyliewesty`). Attribution checks:
+David Beard confirmed distinct from David LeBlanc throughout; Alastair
+confirmed as the same standing identity as "Al" of Yeovil (not a separate
+person). Anchor checker (`anchorcheck.js`/`anchorcheck2.js`) run clean: 0
+broken across 2,524 anchors. Archive timeline reached 21-22 January 2006.
+
 ## 2026-07-06 (batch 327: page_3261-page_3270)
 
 This batch closed out two threads batch 326 had reopened. On the **transom
@@ -1596,11 +7625,11 @@ rationale in `.okf-progress/review-3000/A2-missing-boats.md` and
   promoted"); short biography, community role in the mid-2005 Don Elliott
   ban revisiting, and non-boat contributions (mast/mainsheet questions),
   with the full build narrative cross-linked to `boats/enuf.md`.
-- `boats/swash.md` — DC's Columbia River-area Paradox, built strictly to the
+- `boats/swash.md` — Smith's Columbia River-area Paradox, built strictly to the
   plans. Consolidates the name origin ("Introducing Swash"), the "Owning
   Swash" home-waters/ownership-philosophy passage, and the July 2004
   for-sale-during-a-divorce episode (kept and finished rather than sold) —
-  previously on `people/dc.md` and `operations/secondhand-market.md`.
+  previously on `people/david-c-smith.md` and `operations/secondhand-market.md`.
 
 **Trimmed/cross-linked on source pages:**
 - `people/jack-gardiner.md` — "Launch: 'Jill'" section (previously the full
@@ -1613,13 +7642,13 @@ rationale in `.okf-progress/review-3000/A2-missing-boats.md` and
   — **kept** rather than removed or renamed, since both have inbound anchors
   from `log.md`, `design/weight-and-ballast.md`, `people/bolduc/dave.md`, and
   `construction/chine-log-vs-taped-seam.md`.
-- `people/dc.md` — "Owning 'Swash'" paragraph reduced to a short summary +
+- `people/david-c-smith.md` — "Owning 'Swash'" paragraph reduced to a short summary +
   link to `boats/swash.md`.
 - `operations/secondhand-market.md` — added a one-line pointer to
   `boats/swash.md` at the top of the existing "An unfinished hull for sale"
   section; the section itself was left in place (topical home for the
   secondhand-market angle, and its heading has inbound anchors from
-  `log.md`, `people/dc.md`, and `people/nels.md`).
+  `log.md`, `people/david-c-smith.md`, and `people/nels.md`).
 - `design/weight-and-ballast.md`, `construction/hull-assembly-sequence.md`,
   `construction/topside-painting.md`, `design/rig.md`,
   `people/glen-maxwell/list-founder-and-moderator.md` — left as-is (topical
@@ -1657,7 +7686,7 @@ in `.okf-progress/review-3000/A5-prune.md`; task list in
   `references/materials-sourcing-links.md`, `people/david-leblanc.md`,
   `people/william-longyard.md`, `people/bolduc/dave.md`,
   `people/mat-man22.md` — 9 pages); `matt-layden/biography.md`,
-  `people/dc.md`, and the remainder of `people/jeff-doryman.md`/
+  `people/david-c-smith.md`, and the remainder of `people/jeff-doryman.md`/
   `people/william-longyard.md`/`people/nels.md` only referenced it from
   inside their own frozen `# Citations` blocks and were left as-is per the
   citation-freeze rule.
@@ -1708,7 +7737,7 @@ Verified via grep across `bundle/` that no surviving page's body prose links
 to any of the 4 deleted files; a handful of frozen `# Citations`-block
 references into the deleted `off-topic-cross-posts.md` remain by design
 (low-impact per the prune rules) in `matt-layden/biography.md`,
-`people/dc.md`, `people/jeff-doryman.md`, `people/william-longyard.md`, and
+`people/david-c-smith.md`, `people/jeff-doryman.md`, `people/william-longyard.md`, and
 `people/nels.md`. `log.md`'s own historical references to the deleted files
 (this changelog) were left as-is, being a historical record rather than
 reader-facing navigation.
@@ -1777,8 +7806,8 @@ already-standing identities: Glen Maxwell, Chris Ostlind, Jack Gardiner
 (dclark/`dclark52001`), and Gene T. (`goldranger02-boats`/`tehansky`, a
 standing below-threshold correspondent). Derek Clark authored the plurality
 of messages (5 of 10) and is reconfirmed **STRENGTHENED but NOT promoted**
-per standing instruction — no link to `people/dc.md`, no `boats/enuf.md`
-created. David Beard, David LeBlanc, DC, John Hall, both other Pauls, and Jeff
+per standing instruction — no link to `people/david-c-smith.md`, no `boats/enuf.md`
+created. David Beard, David LeBlanc, Smith, John Hall, both other Pauls, and Jeff
 UK did not appear; two-UK-Jeffs/three-Larrys/two-Roberts/two-Rons watches not
 triggered. Jason Stancil identity-reconcile, Jack Gardiner "Jill" boat-page
 split, Jeff UK vs doryman_uk, and Derek Clark consolidation candidacy remain
@@ -1919,9 +7948,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Clark is reconfirmed STRENGTHENED — supplying his fullest single-batch
   ballast-layout detail yet plus the tack-strut photo upload and biaxial-
   sheathing/void report — but deliberately left NOT promoted per standing
-  instruction, with no link to [people/dc.md](/people/dc.md); the
+  instruction, with no link to [people/david-c-smith.md](/people/david-c-smith.md); the
   `boats/enuf.md`/`people/derek-clark.md` consolidation candidacy is
-  reiterated but untouched. David Beard, David LeBlanc, DC, John Hall, and
+  reiterated but untouched. David Beard, David LeBlanc, Smith, John Hall, and
   both other Pauls (kayaker37, Paul V.) did not appear this batch. The
   two-distinct-UK-Jeffs, three-distinct-Larrys, and two-distinct-
   Roberts/Rons watches were not triggered (no traffic from any of those
@@ -2037,11 +8066,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   reply, the ballast-confidence reply, and the pigment-mechanics reply),
   confirmed via headers each time, reconfirmed STRENGTHENED but
   deliberately left NOT promoted per standing instruction, with no link to
-  [people/dc.md](/people/dc.md); the `boats/enuf.md`/
+  [people/david-c-smith.md](/people/david-c-smith.md); the `boats/enuf.md`/
   `people/derek-clark.md` consolidation candidacy is reiterated but
   untouched. The batch-296 correction (`alfswatzky` = standing Alf
   Sawatzky, not new) is unaffected — he did not appear this batch. David
-  Beard, David LeBlanc, DC, and John Hall did not appear. Two-distinct-UK-
+  Beard, David LeBlanc, Smith, and John Hall did not appear. Two-distinct-UK-
   Jeffs, three-distinct-Larrys, and two-distinct-Roberts/Rons watches were
   not triggered. Jason Stancil identity-reconcile, Jack Gardiner's "Jill"
   boat-page-split, the Jeff UK vs. doryman_uk identity item, and the Derek
@@ -2135,12 +8164,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   technical showing yet (sheathing labor-time, a full solo hull-turning
   method, and a complete paint-scheme rationale) — reconfirmed STRENGTHENED
   but deliberately left NOT promoted per explicit instruction, with no link
-  to [people/dc.md](/people/dc.md); the `boats/enuf.md`/
+  to [people/david-c-smith.md](/people/david-c-smith.md); the `boats/enuf.md`/
   `people/derek-clark.md` consolidation candidacy is reiterated but
   untouched. Jack Gardiner (`alex29@...`/`tidybowlmann`) authored one message
   under the "John Gardiner" display name, confirmed via headers as the same
   standing Rhode Island correspondent, correctly distinct from John Hall.
-  David Beard, David LeBlanc, DC, John Hall, both Pauls, Paul Reppeto, and
+  David Beard, David LeBlanc, Smith, John Hall, both Pauls, Paul Reppeto, and
   Jeff UK did not appear this batch. Two-distinct-UK-Jeffs,
   three-distinct-Larrys, and two-distinct-Roberts/Rons watches were not
   triggered. Jason Stancil identity-reconcile, Jack Gardiner's "Jill"
@@ -2218,9 +8247,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   **Standing-watch checks.** Derek Clark (`dclark@`/`dclark52001`, boat
   "Enuf") authored two messages this batch (page_2952/page_2958, msgnum
-  2983/2989), confirmed via headers, correctly not conflated with DC
+  2983/2989), confirmed via headers, correctly not conflated with Smith
   (`kd7ixk@`/`betelgeuserdude`) and correctly given no link to
-  [people/dc.md](/people/dc.md) per standing instruction; the
+  [people/david-c-smith.md](/people/david-c-smith.md) per standing instruction; the
   STRENGTHENED-not-promoted flag and `boats/enuf.md`/`people/derek-clark.md`
   consolidation candidacy are reiterated but untouched. Glen Maxwell
   (`ifida@`/`ifida2000`) authored two messages (page_2951/page_2955, msgnum
@@ -2244,7 +8273,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   authored one message (page_2960, msgnum 2991), confirmed via headers,
   reconfirmed as the same established boat-design professional already cited
   since batch 232 — still below the promotion threshold, no Paradox
-  boat/build of his own on record. David Beard, David LeBlanc, DC, Jack
+  boat/build of his own on record. David Beard, David LeBlanc, Smith, Jack
   Gardiner, John Hall, both Pauls, Paul Reppeto, "Jeff UK," and `jeff_hammell`
   did not appear this batch. The two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, and two-distinct-Rons watches were not triggered.
@@ -2344,9 +8373,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   **Standing-watch checks.** Derek Clark (`dclark@`/`dclark52001`, boat
   "Enuf") authored one message this batch (page_2944, msgnum 2975),
-  confirmed via headers, correctly not conflated with DC
+  confirmed via headers, correctly not conflated with Smith
   (`kd7ixk@`/`betelgeuserdude`) and correctly given no link to
-  [people/dc.md](/people/dc.md) per standing instruction; the
+  [people/david-c-smith.md](/people/david-c-smith.md) per standing instruction; the
   STRENGTHENED-not-promoted flag and `boats/enuf.md` consolidation candidacy
   are reiterated but untouched. "Jeff UK" (`apcf14@`/`roverticket`) authored
   one message (page_2942, msgnum 2973), confirmed via headers, correctly kept
@@ -2364,7 +8393,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md)),
   not a new identity. Nels (`arvent@`/`recree8`) authored one message
   (page_2945, msgnum 2976), confirmed via headers, reconfirmed as the same
-  standing Canadian correspondent. David Beard, David LeBlanc, DC, Jack
+  standing Canadian correspondent. David Beard, David LeBlanc, Smith, Jack
   Gardiner, John Hall, both Pauls, and Paul Reppeto did not appear this
   batch. The two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, and two-distinct-Rons watches were not triggered.
@@ -2491,7 +8520,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md)
   (cite [38], batch ~284, msgnum 2866) — not a new identity, no new person
   page. David Beard (`dlb@`/`buster38801`), David LeBlanc (`whisper@`/
-  `meerkatoz`), and DC (`kd7ixk@`/`betelgeuserdude`) all did not appear this
+  `meerkatoz`), and Smith (`kd7ixk@`/`betelgeuserdude`) all did not appear this
   batch, no confusion possible. Two Pauls (`kayaker37` vs. Paul V.
   `cruisenewsnet`/`sohaven2002`) and Paul Reppeto (`reppeto`/`ldjonerik`) did
   not appear this batch. The two-distinct-UK-Jeffs, three-distinct-Larrys,
@@ -2602,8 +8631,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "Enuf") authored three of this batch's ten messages (page_2922/2924/2923,
   msgnum 2953/2954/2955), continuing as the canal-touring thread's main
   respondent to Nels; confirmed via headers each time, correctly not
-  conflated with DC (`kd7ixk@`/`betelgeuserdude`), who did not appear this
-  batch, and correctly given no link to people/dc.md. Per the well-established
+  conflated with Smith (`kd7ixk@`/`betelgeuserdude`), who did not appear this
+  batch, and correctly given no link to people/david-c-smith.md. Per the well-established
   16+-batch STRENGTHENED-not-promoted precedent, he was again NOT promoted to
   a dedicated person/boat page this batch. Alastair (`openboat@`/`alopenboat`)
   authored one message (page_2925, msgnum 2956), confirmed via headers,
@@ -2628,7 +8657,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   references/building-plans.md as ordinary welcome/plans-FAQ content rather
   than any people/glen-maxwell/ sub-file (not an eyewitness/authority story
   in its own right). David Beard (`dlb@`/`buster38801`), David LeBlanc
-  (`whisper@`/`meerkatoz`), and DC (`kd7ixk@`/`betelgeuserdude`) all did not
+  (`whisper@`/`meerkatoz`), and Smith (`kd7ixk@`/`betelgeuserdude`) all did not
   appear this batch, no confusion possible. "Jeff UK" (`apcf14@`/
   `roverticket`) did not appear this batch (distinct from both the
   established UK Jeff `doryman_uk` and this batch's new, below-threshold
@@ -2734,8 +8763,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   msgnum 2942/2946/2948/2949), continuing as the tack-strut thread's main
   asker and also opening the revived mainsheet/canal sub-thread with his own
   River Severn/yuloh-speed reply; confirmed via headers each time, correctly
-  not conflated with DC (`kd7ixk@`/`betelgeuserdude`), who did not appear
-  this batch, and correctly given no link to people/dc.md. Per the
+  not conflated with Smith (`kd7ixk@`/`betelgeuserdude`), who did not appear
+  this batch, and correctly given no link to people/david-c-smith.md. Per the
   well-established 15+-batch STRENGTHENED-not-promoted precedent, he was
   again NOT promoted to a dedicated person/boat page this batch; his content
   continues to route to design/rig.md alongside the long-flagged list of
@@ -2879,12 +8908,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   **Standing-watch checks.** David Beard (`dlb@`/`buster38801`) appeared
   once as author (page_2906/msgnum 2937, brass-pipe source pointer),
   confirmed via headers, correctly not conflated with David LeBlanc
-  (`whisper@`/`meerkatoz`) or DC (`kd7ixk@`/`betelgeuserdude`), neither of
+  (`whisper@`/`meerkatoz`) or Smith (`kd7ixk@`/`betelgeuserdude`), neither of
   whom appeared this batch. Derek Clark (`dclark@`/`dclark52001`) appeared
   as author four times (page_2904/2907/2908/2910, msgnum 2935/2938/2939/2941,
   the tack-strut/boom-axle thread), confirmed via headers each time,
-  correctly not conflated with DC — reconfirmed STRENGTHENED but **not**
-  promoted this batch, no link to people/dc.md added; his content continues
+  correctly not conflated with Smith — reconfirmed STRENGTHENED but **not**
+  promoted this batch, no link to people/david-c-smith.md added; his content continues
   to route to the existing topical home (design/rig.md) per the standing
   15+-batch precedent. Jack Gardiner (`alex29@`/`tidybowlmann`, signing both
   "Jack" and "John Gardiner") appeared as author three times
@@ -2992,11 +9021,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   **Standing-watch checks.** David Beard (dlb@/buster38801) did not appear
   as an author this batch (referenced only retrospectively in a quoted
-  reply-chain); David LeBlanc (whisper@/meerkatoz) and DC
+  reply-chain); David LeBlanc (whisper@/meerkatoz) and Smith
   (kd7ixk@/betelgeuserdude) did not appear. Derek Clark
   (dclark@/dclark52001) appeared once as author (page_2889/msgnum 2920,
   "Will Bitcomet install to a Mac?"), confirmed via headers, correctly not
-  conflated with DC, correctly given no link to people/dc.md — reconfirmed
+  conflated with Smith, correctly given no link to people/david-c-smith.md — reconfirmed
   STRENGTHENED but NOT promoted. Jack Gardiner (alex29@/tidybowlmann,
   signing both "Jack" and "John Gardiner") appeared once as author
   (page_2888/msgnum 2919), confirmed via headers, correctly kept distinct
@@ -3122,22 +9151,22 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   page. Flagged explicitly in `.okf-progress/backlog.md` as a strong
   candidate for consolidation into `people/derek-clark.md` +
   `boats/enuf.md` in a dedicated single-writer pass (mirroring how
-  Alastair/Little Jim and DC/Swash were consolidated), given how much
+  Alastair/Little Jim and Smith/Swash were consolidated), given how much
   scattered content now exists across construction/chine-log-vs-taped-seam.md,
   construction/scarf-joints.md, construction/build-effort.md,
   construction/deck-and-cabin-beams.md, construction/epoxy-coating-technique.md,
   construction/topside-painting.md, design/interior-bins-and-floor.md,
   design/rudder.md, operations/trailering.md, operations/crew-size-and-fit.md,
   design/rig.md, people/jack-gardiner.md, and now
-  operations/cabin-heating.md. No link to people/dc.md (a distinct
+  operations/cabin-heating.md. No link to people/david-c-smith.md (a distinct
   standing identity) was added.
 
   **Standing-watch checks.** David Beard (dlb@/buster38801) appeared once
   as author (page_2893/msgnum 2924, tack-strut pipe offer), confirmed via
   headers, correctly not conflated with David LeBlanc (whisper@/meerkatoz)
-  or DC (kd7ixk@/betelgeuserdude), neither of whom appeared this batch.
+  or Smith (kd7ixk@/betelgeuserdude), neither of whom appeared this batch.
   Derek Clark (dclark@/dclark52001) appeared as author three times,
-  confirmed via headers each time, correctly not conflated with DC.
+  confirmed via headers each time, correctly not conflated with Smith.
   Alastair (openboat@/alopenboat) appeared as author three times
   (page_2895/2896, msgnum 2926/2927, plus quoted in page_2893), confirmed
   via headers. Jack Gardiner did not appear as an author this batch (only
@@ -3245,9 +9274,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/nels.md`.
 
   **Standing-watch checks.** David Beard (dlb@/buster38801), David LeBlanc
-  (whisper@/meerkatoz), and DC (kd7ixk@/betelgeuserdude) were correctly
+  (whisper@/meerkatoz), and Smith (kd7ixk@/betelgeuserdude) were correctly
   distinguished — David Beard appeared once as author (page_2872/msgnum2903),
-  confirmed via headers, correctly not conflated with David LeBlanc or DC.
+  confirmed via headers, correctly not conflated with David LeBlanc or Smith.
   Derek Clark (dclark@/dclark52001) did not appear this batch. Jack Gardiner
   (alex29@/tidybowlmann, also signing "John Gardiner") appeared three times
   as author (page_2874/msgnum2905, page_2879/msgnum2910, plus the system
@@ -3338,7 +9367,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/alastair.md](/people/alastair.md); Derek Clark (the other
   correspondent in both threads, `dclark@`/`dclark52001`, boat "Enuf")
   remains the STRENGTHENED-but-not-promoted candidate, with no link to
-  [people/dc.md](/people/dc.md) (a distinct standing identity).
+  [people/david-c-smith.md](/people/david-c-smith.md) (a distinct standing identity).
 
   **A thin off-topic aside**: "Jeff UK" linked an eBay-listed cat-ketch
   centerboard cruiser as good microcruiser material, using it to note a
@@ -3360,11 +9389,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   maintained throughout.** Reed (`captreed48`) is a genuinely new
   below-threshold correspondent (no boat/build on record) added to the
   standing list. Attribution-trap check: David Beard (`dlb@`/`buster38801`),
-  David LeBlanc (`whisper@`/`meerkatoz`), and DC (`kd7ixk@`/`betelgeuserdude`)
+  David LeBlanc (`whisper@`/`meerkatoz`), and Smith (`kd7ixk@`/`betelgeuserdude`)
   all did not appear this batch, no confusion possible; Derek Clark
   (`dclark@`/`dclark52001`) appeared twice as author, confirmed via
-  headers each time, correctly not conflated with DC and correctly given
-  no link to `people/dc.md`; Jack/John Gardiner (`alex29`/`tidybowlmann`)
+  headers each time, correctly not conflated with Smith and correctly given
+  no link to `people/david-c-smith.md`; Jack/John Gardiner (`alex29`/`tidybowlmann`)
   appeared only via already-existing citation text, not as an author of
   any of this batch's ten messages; Alastair (`openboat`/`alopenboat`)
   confirmed via headers throughout; "Jeff UK" (`apcf14`/`roverticket`)
@@ -3440,12 +9469,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Derek Clark (`dclark@`/`dclark52001`, boat "Enuf") appeared once, asking
   what Mac users could view the file on — the STRENGTHENED promote-later
   candidate remains NOT promoted, with no link to
-  [people/dc.md](/people/dc.md) (a distinct standing identity, `kd7ixk@`/
+  [people/david-c-smith.md](/people/david-c-smith.md) (a distinct standing identity, `kd7ixk@`/
   `betelgeuserdude`). Bob Sutton, "Andy" (`servo_bot`), Bjørn Harbo, and
   Paul (`kayaker37`) did not reappear this batch; Jack/John Gardiner
   (`alex29`/`tidybowlmann`) authored most of the batch, correctly kept
   distinct throughout from John Hall (`jdmhall`, Tasmania), who did not
-  appear. David Beard, David LeBlanc, DC, and Glen Maxwell were all absent
+  appear. David Beard, David LeBlanc, Smith, and Glen Maxwell were all absent
   this batch — no attribution-trap risk arose. The two distinct UK Jeffs,
   three-distinct-Larrys, and two-distinct-Roberts/Rons watches were not
   triggered. Jason Stancil's identity-reconcile and Jack Gardiner's "Jill"
@@ -3496,7 +9525,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   established correspondents with no boat/build of their own on record, so
   none crossed the promotion threshold.
 
-  **Standing-watch checks.** David Beard, David LeBlanc, DC (`kd7ixk`), and
+  **Standing-watch checks.** David Beard, David LeBlanc, Smith (`kd7ixk`), and
   Derek Clark all did not appear this batch — no attribution-trap confusion
   possible. Jack/John Gardiner (`alex29`/`tidybowlmann`) appeared throughout
   as author, correctly kept distinct from John Hall (`jdmhall`, Tasmania),
@@ -3505,7 +9534,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   previously cited on boats/zoe.md's hatch-skylight question — not a new
   identity, and still no boat or build of his own on record. "Andy"
   (`servo_bot`) reconfirmed the same already-standing below-threshold
-  correspondent previously cited on people/dc.md and references/building-plans.md
+  correspondent previously cited on people/david-c-smith.md and references/building-plans.md
   — not new. Bjørn Harbo (`bharbo`/`bjharbo`) reconfirmed the same
   well-established, long-recurring correspondent already cited across
   design/rig.md, design/furling-system.md, people/david-beard.md,
@@ -3599,12 +9628,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   the pre-existing [53] gap, documented in HANDOVER.md, remains the only
   gap — no new gaps introduced).
 
-  **Standing-watch checks.** David Beard/David LeBlanc/DC/Derek Clark
+  **Standing-watch checks.** David Beard/David LeBlanc/Smith/Derek Clark
   attribution: all four correctly disambiguated by header (`dclark@`/
-  `dclark52001` = Derek Clark throughout this batch; no DC (`kd7ixk`) posts
+  `dclark52001` = Derek Clark throughout this batch; no Smith (`kd7ixk`) posts
   this batch; no David Beard or David LeBlanc posts this batch). Derek Clark
   reconfirmed a STRENGTHENED but still NOT-promoted correspondent (five of
-  this batch's ten messages are his) — no link added to people/dc.md, no
+  this batch's ten messages are his) — no link added to people/david-c-smith.md, no
   new person page created for him, per standing instruction. Jack Gardiner
   vs. John Hall: this batch's alex29/tidybowlmann poster ("John Gardiner,"
   signed "Jack") is confirmed Jack/John Gardiner, not John Hall (no John
@@ -3727,9 +9756,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Clark** (`dclark52001`, boat "Enuf") appeared as author three times this
   batch (battery-ballast reply, the book-thanks/displacement message, and
   its correction) — reconfirmed **STRENGTHENED but NOT promoted**, no link
-  to [people/dc.md](/people/dc.md) (a distinct standing identity, confirmed
+  to [people/david-c-smith.md](/people/david-c-smith.md) (a distinct standing identity, confirmed
   via headers). Attribution-trap check: David Beard (dlb@/buster38801),
-  David LeBlanc (whisper@/meerkatoz), and DC (kd7ixk@/betelgeuserdude) did
+  David LeBlanc (whisper@/meerkatoz), and Smith (kd7ixk@/betelgeuserdude) did
   not appear this batch. The two distinct UK Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, and two-distinct-Rons watches were not triggered.
   Jack Gardiner did not appear this batch. Jason Stancil identity-reconcile
@@ -3830,7 +9859,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "Enuf") appeared as author once this batch (the Rob Roy canoe purchase
   question) plus as the addressed/quoted correspondent throughout the
   canoe sub-thread -- reconfirmed STRENGTHENED but NOT promoted, no link
-  to [people/dc.md](/people/dc.md) (a distinct standing identity, confirmed
+  to [people/david-c-smith.md](/people/david-c-smith.md) (a distinct standing identity, confirmed
   via headers: dclark@/dclark52001 vs. kd7ixk@/betelgeuserdude). Attribution-
   trap check: David Beard (dlb@/buster38801) and David LeBlanc
   (whisper@/meerkatoz) did not appear this batch. Larry Whited
@@ -3942,9 +9971,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   promoted. **Derek Clark** (`dclark52001`, boat "Enuf") appeared as author
   once this batch (the original halyard question, answered above) and as a
   quoted correspondent throughout — reconfirmed **STRENGTHENED but NOT
-  promoted**, no link to [people/dc.md](/people/dc.md) (a distinct standing
+  promoted**, no link to [people/david-c-smith.md](/people/david-c-smith.md) (a distinct standing
   identity, confirmed via headers). Attribution-trap check: David Beard
-  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), and DC
+  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), and Smith
   (kd7ixk@/betelgeuserdude) did not appear this batch. Jack Gardiner's
   "John Gardiner" display-name variant (alex29@/tidybowlmann) correctly
   recognized as the same person, distinct from John Hall (jdmhall,
@@ -4055,12 +10084,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "Reading the plans: a first-time builder's backlog of questions", cites
   [114]-[115], 115 total).
 
-  **Standing-watch checks.** David Beard, David LeBlanc, and DC (all three
+  **Standing-watch checks.** David Beard, David LeBlanc, and Smith (all three
   distinct identities) did not appear this batch — no confusion possible.
   Derek Clark (`dclark@`/`dclark52001`) appeared as author three times
   (halyard question, sail-tape data, plans answer), confirmed via headers
-  each time, correctly not conflated with DC and correctly given no link to
-  people/dc.md per standing instruction (STRENGTHENED promote-later
+  each time, correctly not conflated with Smith and correctly given no link to
+  people/david-c-smith.md per standing instruction (STRENGTHENED promote-later
   candidate, still not promoted — no new trigger, all three items are
   topical Q&A rather than build narrative). Jack Gardiner
   ("John Gardiner"/`tidybowlmann`/`alex29`) appeared twice as author,
@@ -4157,7 +10186,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   **(3) The mast-weight-for-roll report, resolved.** **Brent Geery** located
   the report Glen Maxwell had been unable to relocate in batch 278: a
-  January 2004 mast-construction exchange in which **DC** said a heavier
+  January 2004 mast-construction exchange in which **Smith** said a heavier
   carbon-fiber/wood composite mast "would provide a more comfortable
   motion," to which Glen had replied a composite mast would run "about half
   the weight and triple the strength" — a case for a lighter, stronger mast
@@ -4200,7 +10229,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   additions to [people/alastair.md](/people/alastair.md) (cite [248], 248
   total) and [people/nels.md](/people/nels.md) (cite [131], 131 total).
 
-  **Standing-watch checks.** David Beard, David LeBlanc, DC, and Derek Clark
+  **Standing-watch checks.** David Beard, David LeBlanc, Smith, and Derek Clark
   (all four distinct identities) did not appear this batch — no confusion
   possible. Jack Gardiner ("John Gardiner"/`tidybowlmann`) appeared and was
   correctly kept distinct from John Hall (`jdmhall`, Tasmania), who did not
@@ -4326,7 +10355,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Geery** (`fasttimes`/`brentgeery`), **Glen Maxwell** (`ifida`/`ifida2000`),
   and **Alastair** (`openboat`/`alopenboat`) all reappeared as standing
   identities. Attribution-trap check: **David Beard** (`dlb@`/`buster38801`),
-  **David LeBlanc** (`whisper@`/`meerkatoz`), **DC** (`kd7ixk@`/
+  **David LeBlanc** (`whisper@`/`meerkatoz`), **Smith** (`kd7ixk@`/
   `betelgeuserdude`), and **Derek Clark** (`dclark@`/`dclark52001`) all did
   not appear this batch, no confusion possible; John Hall's message carried
   the subject-line artifact "Subject: RE: Re: Mini Paradox" (a client
@@ -4422,17 +10451,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Standing-open-items check: **Derek Clark** (`dclark52001`, boat "Enuf,"
   STRENGTHENED promote-later candidate) appeared once as author this batch
   (page_2763/msgnum2794) — still NOT promoted per standing instruction, no
-  link to people/dc.md; **Jason Stancil** identity-reconcile and **Jack
+  link to people/david-c-smith.md; **Jason Stancil** identity-reconcile and **Jack
   Gardiner**'s "Jill" boat-page-split remain OPEN 3000-review items, neither
   surfaced this batch (Jack Gardiner and Glen Maxwell did not appear as
   authors). No genuinely new below-threshold correspondents this batch;
   **Ray** (`knobmaker`/`rhaldridge`) and **Brent Geery** (`fasttimes`/
   `brentgeery`) both reconfirmed as standing identities. Attribution-trap
   check: **David Beard** (`dlb@`/`buster38801`), **David LeBlanc**
-  (`whisper@`/`meerkatoz`), and **DC** (`kd7ixk@`/`betelgeuserdude`) all did
+  (`whisper@`/`meerkatoz`), and **Smith** (`kd7ixk@`/`betelgeuserdude`) all did
   not appear this batch, no confusion possible; **Derek Clark**
   (`dclark@`/`dclark52001`) appeared once as author, confirmed via headers,
-  correctly not conflated with DC; **Alastair** (`openboat@`/`alopenboat`)
+  correctly not conflated with Smith; **Alastair** (`openboat@`/`alopenboat`)
   confirmed via headers throughout; the two distinct UK Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons
   watches all not triggered (no traffic from any of those identities this
@@ -4538,7 +10567,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   STRENGTHENED promote-later candidate) appeared as author twice this batch
   (page_2751/msgnum2782, page_2752/msgnum2783, plus once more at
   page_2757/msgnum2788) — still NOT promoted per standing instruction, no
-  link to people/dc.md; **Jason Stancil** identity-reconcile and **Jack
+  link to people/david-c-smith.md; **Jason Stancil** identity-reconcile and **Jack
   Gardiner**'s "Jill" boat-page-split remain OPEN 3000-review items, neither
   surfaced this batch (Jack Gardiner appeared once as author, ordinary
   Mk2-sail content unrelated to the split question). New below-threshold
@@ -4549,7 +10578,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Mini Paradox question with no boat/build of his own on record. Attribution-trap
   check: **David Beard** (`dlb@`/`buster38801`) and **David LeBlanc**
   (`whisper@`/`meerkatoz`) did not appear this batch, no confusion possible;
-  **DC** (`kd7ixk@`/`betelgeuserdude`) did not appear, correctly not
+  **Smith** (`kd7ixk@`/`betelgeuserdude`) did not appear, correctly not
   conflated with **Derek Clark** (`dclark@`/`dclark52001`, appeared three
   times as author, confirmed via headers each time); **Jack Gardiner**'s
   "John Gardiner" From:-header variant (`alex29@`/`tidybowlmann`) correctly
@@ -4642,17 +10671,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`dclark52001`, boat "Enuf", STRENGTHENED promote-later candidate)
   appeared once as author (page_2743/msgnum 2774, answering a hinge/shelf
   question) — still NOT promoted, no new trigger, no link to
-  people/dc.md. Jason Stancil identity-reconcile and Jack Gardiner's "Jill"
+  people/david-c-smith.md. Jason Stancil identity-reconcile and Jack Gardiner's "Jill"
   boat-page-split remain OPEN 3000-review items; Jack Gardiner appeared once
   as author (page_2741/msgnum 2772), ordinary plans-answer content bearing
   no relation to the "Jill" split question. No genuinely new below-threshold
   correspondents this batch; Brent Geery, Jack Gardiner, Glen Maxwell, and
   Alastair all reappeared as already-standing identities, correctly not
   re-flagged as new. Attribution-trap check: David Beard (dlb@/buster38801),
-  David LeBlanc (whisper@/meerkatoz), and DC (kd7ixk@/betelgeuserdude) all
+  David LeBlanc (whisper@/meerkatoz), and Smith (kd7ixk@/betelgeuserdude) all
   did not appear this batch, no confusion possible; Derek Clark
   (dclark@/dclark52001) appeared once as author, confirmed via headers,
-  correctly not conflated with DC; Jack Gardiner's "John Gardiner"
+  correctly not conflated with Smith; Jack Gardiner's "John Gardiner"
   From:-header variant (alex29@/tidybowlmann) correctly recognized as the
   same person; Glen Maxwell (ifida@/ifida2000) and Alastair
   (openboat@/alopenboat) both confirmed via headers; the two distinct UK
@@ -4758,7 +10787,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   since batch 260) and **Brent Geery** (`fasttimes`/`brentgeery`, standing
   since batch 270) both reappeared as already-standing identities, correctly
   not re-flagged as new. Attribution-trap check: David Beard, David LeBlanc,
-  DC, and Derek Clark all did not appear this batch; the two distinct UK
+  Smith, and Derek Clark all did not appear this batch; the two distinct UK
   Jeffs, three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons
   watches all not triggered; Glen Maxwell did not appear as author this
   batch. Jack Gardiner appeared once as author, correctly identified via
@@ -4888,7 +10917,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   appeared three times as author (page_2725, page_2727, and quoted within
   page_2726/page_2728), correctly identified via headers throughout and not
   confused with David LeBlanc (`whisper@`/`meerkatoz`, absent this batch);
-  DC (`kd7ixk@`/`betelgeuserdude`) did not appear, correctly not conflated
+  Smith (`kd7ixk@`/`betelgeuserdude`) did not appear, correctly not conflated
   with Derek Clark (`dclark@`/`dclark52001`, appeared twice, confirmed via
   headers each time); the two UK Jeffs, three Larrys, two Roberts, and two
   Rons watches all not triggered beyond the confirmed standing `lorenzojose2000`
@@ -4979,10 +11008,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   boat-page-split remain OPEN 3000-review items, neither surfaced this
   batch. No genuinely new below-threshold correspondents (Derek Clark,
   Nels, and Chris Ostlind are all already-standing identities).
-  Attribution-trap check clean: David Beard, David LeBlanc, DC, the two
+  Attribution-trap check clean: David Beard, David LeBlanc, Smith, the two
   UK Jeffs, three Larrys, two Roberts, and two Rons did not appear this
   batch; Derek Clark confirmed via headers each time, not conflated with
-  DC; Glen Maxwell did not appear at all. Byte sizes cross-checked via
+  Smith; Glen Maxwell did not appear at all. Byte sizes cross-checked via
   `wc -c` against dispatch instructions exactly (2024/2080/3462/2949/3031/
   4365/2207/2393/2116/2575 bytes for page_2711 through page_2720
   respectively), no stale-read issues, all ten `X-Yahoo-Msgnum` values
@@ -5071,7 +11100,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Standing-open-items check: Derek Clark (`dclark52001`, boat "Enuf",
   STRENGTHENED promote-later candidate) appeared once this batch as author
   (the "Books" thread) — still NOT promoted per standing instruction, no
-  new trigger, no link to people/dc.md (a distinct standing identity).
+  new trigger, no link to people/david-c-smith.md (a distinct standing identity).
   Jason Stancil identity-reconcile and Jack Gardiner's "Jill"
   boat-page-split remain OPEN 3000-review items; Jack Gardiner did appear
   this batch as an ordinary correspondent, with nothing bearing on the
@@ -5080,10 +11109,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identity from 2003, correctly not re-flagged as new.
 
   Attribution-trap check: David Beard (`dlb@`/`buster38801`), David LeBlanc
-  (`whisper@`/`meerkatoz`), and DC (`kd7ixk@`/`betelgeuserdude`) all did not
+  (`whisper@`/`meerkatoz`), and Smith (`kd7ixk@`/`betelgeuserdude`) all did not
   appear this batch, no confusion possible; Derek Clark
   (`dclark@`/`dclark52001`) appeared once as author, confirmed via headers,
-  correctly not conflated with DC; Jack Gardiner's "John Gardiner"
+  correctly not conflated with Smith; Jack Gardiner's "John Gardiner"
   From:-header variant (`alex29@`/`tidybowlmann`) correctly recognized as
   the same person via Received-header verification; the two distinct UK
   Jeffs, three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons
@@ -5201,7 +11230,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Standing-open-items check: Derek Clark (`dclark52001`, boat "Enuf",
   STRENGTHENED promote-later candidate) appeared twice this batch as author
   — still NOT promoted per standing instruction, no new trigger, no link to
-  people/dc.md (a distinct standing identity). Jason Stancil
+  people/david-c-smith.md (a distinct standing identity). Jason Stancil
   identity-reconcile and Jack Gardiner's "Jill" boat-page-split remain OPEN
   3000-review items, neither surfaced this batch (Jack Gardiner did not
   appear). One genuinely new below-threshold correspondent (Brent Geery);
@@ -5210,7 +11239,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   Attribution-trap check: David Beard (`dlb@`/`buster38801`) appeared once
   this batch, correctly identified via headers and not confused with David
-  LeBlanc (`whisper@`/`meerkatoz`, absent this batch); DC
+  LeBlanc (`whisper@`/`meerkatoz`, absent this batch); Smith
   (`kd7ixk@`/`betelgeuserdude`) did not appear, correctly not conflated
   with Derek Clark (`dclark@`/`dclark52001`); the two distinct UK Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons
@@ -5299,10 +11328,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   list; Daved Ferrell (`jackefroste`) and Adrian Dodd (`adrianrdodd`) both
   reappeared as already-standing identities from batch 268, correctly not
   re-flagged as new. **Attribution-trap check:** David Beard
-  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), and DC
+  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), and Smith
   (kd7ixk@/betelgeuserdude) all did not appear this batch, no confusion
   possible; Derek Clark (dclark@/dclark52001) appeared twice as author,
-  confirmed via headers each time, correctly not conflated with DC; the two
+  confirmed via headers each time, correctly not conflated with Smith; the two
   distinct UK Jeffs, three-distinct-Larrys, two-distinct-Roberts, and
   two-distinct-Rons watches all not triggered (no traffic from any of those
   identities this batch). Glen Maxwell appeared twice this batch (WAG Bag
@@ -5358,7 +11387,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   whether the group's files section — again nearing capacity — warranted a
   `paradoxbuilders2`-style overflow group; **Nels** pointed out that
   `paradoxbuilders2` already existed, its files section still empty,
-  confirming a year on that DC's May 2004 overflow group had seen little
+  confirming a year on that Smith's May 2004 overflow group had seen little
   real use. Paul thanked him and told Kjell to keep the "ParaPlastic" photos
   coming. Folded into the existing canonical home
   [references/mailing-list.md](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2)
@@ -5397,7 +11426,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`yer_amigo`) — added to the standing list; Daved Ferrell (`jackefroste`)
   reappeared as an already-standing identity from batch 265, correctly not
   re-flagged as new. **Attribution-trap check:** David Beard
-  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), DC
+  (dlb@/buster38801), David LeBlanc (whisper@/meerkatoz), Smith
   (kd7ixk@/betelgeuserdude), and Derek Clark (dclark@/dclark52001) all did
   not appear this batch, no confusion possible; the two distinct UK Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons watches
@@ -5507,7 +11536,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   batch (page_2662/msgnum2692, page_2663/msgnum2693, page_2667/msgnum2697,
   page_2668/msgnum2698) — still NOT promoted per standing instruction, no new
   trigger beyond ordinary topical contributions, not linked to
-  `people/dc.md` (a distinct standing identity). Jason Stancil
+  `people/david-c-smith.md` (a distinct standing identity). Jason Stancil
   identity-reconcile and Jack Gardiner's "Jill" boat-page-split remain OPEN
   3000-review items; Jack Gardiner appeared four times this batch as author
   (page_2661, page_2665, page_2666 — as "John Gardiner" — msgnum 2691, 2695,
@@ -5516,7 +11545,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (quoted once, page_2664, replying as Alastair), Alastair, Glen Maxwell,
   Kjell Karlsson, kayaker37/Paul, and Derek Clark are all already-standing
   identities. **Attribution-trap check:** David Beard (dlb@/buster38801) and
-  David LeBlanc (whisper@/meerkatoz) both did not appear this batch; DC
+  David LeBlanc (whisper@/meerkatoz) both did not appear this batch; Smith
   (kd7ixk@/betelgeuserdude) did not appear, correctly not conflated with
   Derek Clark (dclark@/dclark52001, appeared four times as author, confirmed
   via headers each time); the two distinct UK Jeffs stayed correctly
@@ -5632,13 +11661,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   question). Derek Clark (`dclark52001`, boat "Enuf") appeared once this
   batch (page_2652/msgnum 2682) — remains a **strengthened promote-later
   candidate**, still not promoted per standing instruction, and not linked
-  to `people/dc.md` (a distinct standing identity). No genuinely new
+  to `people/david-c-smith.md` (a distinct standing identity). No genuinely new
   below-threshold correspondents this batch: Jeff UK (`roverticket`), Derek
   Clark, Kjell Karlsson, Dave Bolduc, Jack Gardiner, and Alastair are all
   already-standing identities. **Attribution-trap check:** David Beard,
-  David LeBlanc, and DC did not appear this batch, so no confusion was
+  David LeBlanc, and Smith did not appear this batch, so no confusion was
   possible; Derek Clark (`dclark@`/`dclark52001`) appeared once as author,
-  confirmed via headers, correctly not conflated with DC; the two distinct
+  confirmed via headers, correctly not conflated with Smith; the two distinct
   UK Jeffs stayed correctly separate — "Jeff UK" (`apcf14@`/`roverticket`)
   authored two messages this batch (page_2654, msgnum 2684; and quoted
   throughout), the other standing Jeff (`doryman_uk`) did not appear.
@@ -5715,9 +11744,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   below-threshold correspondent: **jackefroste**/Daved Ferrell (Puget Sound,
   asking to see a built or in-progress Paradox nearby before starting his
   own; unanswered, no boat/build of his own) — added to the standing list,
-  no page created. **Attribution-trap check:** David Beard, David LeBlanc, DC,
+  no page created. **Attribution-trap check:** David Beard, David LeBlanc, Smith,
   and Glen Maxwell did not appear this batch; Derek Clark (four appearances
-  as author) stayed correctly unconflated with DC; the two distinct UK
+  as author) stayed correctly unconflated with Smith; the two distinct UK
   Jeffs stayed correctly separate — "Jeff UK" (`roverticket`) authored three
   messages this batch, the other standing Jeff (`doryman_uk`) did not appear.
   Three-distinct-Larrys, two-distinct-Roberts, and two-distinct-Rons watches
@@ -5804,7 +11833,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   still NOT promoted per standing instruction, no new trigger beyond ordinary
   topical contributions and a workspace anecdote; no link to any person page
   (careful not to conflate with the distinct standing identity
-  `people/dc.md`). Jason Stancil identity-reconcile and Jack Gardiner's
+  `people/david-c-smith.md`). Jason Stancil identity-reconcile and Jack Gardiner's
   "Jill" boat-page-split remain OPEN 3000-review items, neither surfaced this
   batch (pages 2631-2640, Jack Gardiner did not appear). New below-threshold
   correspondent: **John Pertalion** (`ajmctaggert`, page_2634/msgnum2664),
@@ -5813,7 +11842,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   **Attribution-trap check:** David Beard (`dlb@`/`buster38801`) appeared
   twice this batch (page_2632/msgnum2662 author, plus quoted in full in
   page_2635) — correctly kept separate from David LeBlanc (`whisper@`/
-  `meerkatoz`, did not appear); DC (`kd7ixk@`/`betelgeuserdude`) did not
+  `meerkatoz`, did not appear); Smith (`kd7ixk@`/`betelgeuserdude`) did not
   appear, correctly not conflated with Derek Clark (`dclark@`/`dclark52001`,
   appeared as author twice plus quoted once, confirmed via headers each
   time); William Serjeant (`williamserjeant@`, boat "Bumper") appeared twice
@@ -5904,7 +11933,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (page_2628/msgnum2658 opening the trailer thread, page_2630/msgnum2660
   thanks/tow-vehicle anecdote) — still NOT promoted per standing
   instruction, no new trigger, and not linked to any person page (careful
-  not to conflate with the distinct standing identity `people/dc.md`).
+  not to conflate with the distinct standing identity `people/david-c-smith.md`).
   Jason Stancil identity-reconcile and Jack Gardiner's "Jill" boat-page-split
   remain OPEN 3000-review items; neither surfaced this batch (Jack Gardiner
   did not appear in pages 2621-2630). No genuinely new below-threshold
@@ -5914,7 +11943,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   **Attribution-trap check:** David Beard (`dlb@`/`buster38801`) and David
   LeBlanc (`whisper@`/`meerkatoz`) both did not appear this batch, no
-  confusion possible; DC (`kd7ixk@`/`betelgeuserdude`) did not appear,
+  confusion possible; Smith (`kd7ixk@`/`betelgeuserdude`) did not appear,
   correctly not conflated with Derek Clark (`dclark@`/`dclark52001`,
   appeared twice, see above); two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, two-distinct-Rons watches all not triggered (no
@@ -6019,7 +12048,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   correspondents: Alan (`logicaidnz`) and Richard Peeters (`t57042`), both
   added to the standing below-threshold list. Attribution-trap check: David
   Beard and David LeBlanc both did not appear this batch, no confusion
-  possible; DC (`kd7ixk`) did not appear, correctly not conflated with Derek
+  possible; Smith (`kd7ixk`) did not appear, correctly not conflated with Derek
   Clark; two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts,
   two-distinct-Rons watches all not triggered. Glen Maxwell appeared twice
   this batch (quoted in John Hall's thanks, and the "Seating two?" answer),
@@ -6107,7 +12136,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identities. Derek Clark (boat "Enuf") appeared once more as author, still
   not promoted per standing instruction — his new citation carries no link to
   any person page (he has none), taking care not to conflate with the
-  distinct standing identity DC/`kd7ixk` (`people/dc.md`). Jason Stancil
+  distinct standing identity Smith/`kd7ixk` (`people/david-c-smith.md`). Jason Stancil
   identity-reconcile and Jack Gardiner's "Jill" boat-page-split remain OPEN
   3000-review items, neither surfaced this batch. Attribution-trap and
   identity watches all clear (see batches.log for full detail). Cursor
@@ -6256,9 +12285,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   boat-page-split remain OPEN 3000-review items, neither surfaced this batch.
   Attribution-trap check: David Beard (`dlb@`/`buster38801`) appeared twice as
   author (page_2586, page_2589) correctly kept separate from David LeBlanc
-  (`whisper@`/`meerkatoz`, did not appear); DC (`kd7ixk@`/`betelgeuserdude`)
+  (`whisper@`/`meerkatoz`, did not appear); Smith (`kd7ixk@`/`betelgeuserdude`)
   did not appear; Derek Clark (`dclark@`/`dclark52001`) appeared four times as
-  author, confirmed via headers each time, no confusion with DC;
+  author, confirmed via headers each time, no confusion with Smith;
   two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts,
   two-distinct-Rons watches all not triggered (no traffic from any of those
   identities this batch). One genuinely new below-threshold correspondent:
@@ -6331,9 +12360,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   and Jack Gardiner's "Jill" boat-page-split remain OPEN 3000-review items,
   neither surfaced this batch. Attribution-trap check: David Beard
   (`dlb@`/`buster38801`) and David LeBlanc (`whisper@`/`meerkatoz`) both did
-  not appear this batch, no confusion possible; DC (`kd7ixk@`/`betelgeuserdude`)
+  not appear this batch, no confusion possible; Smith (`kd7ixk@`/`betelgeuserdude`)
   did not appear; Derek Clark (`dclark@`/`dclark52001`) confirmed via headers
-  each appearance, no confusion with DC; two-distinct-UK-Jeffs,
+  each appearance, no confusion with Smith; two-distinct-UK-Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, two-distinct-Rons watches all
   not triggered (no traffic from any of those identities this batch); Glen
   Maxwell did not appear this batch, so no routing question arises. James
@@ -6422,9 +12451,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Gardiner's "Jill" boat-page-split remain OPEN 3000-review items, neither
   surfaced this batch. **Attribution-trap check:** David Beard
   (`dlb@`/`buster38801`) and David LeBlanc (`whisper@`/`meerkatoz`) both did
-  not appear; DC (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek Clark
+  not appear; Smith (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek Clark
   (`dclark@`/`dclark52001`) appeared twice, confirmed via headers, no
-  confusion with DC; two-distinct-UK-Jeffs watch triggered — Jeff UK
+  confusion with Smith; two-distinct-UK-Jeffs watch triggered — Jeff UK
   (`apcf14@`/`roverticket`) correctly kept separate from Jeff
   (`doryman_uk`, did not appear); two-distinct-Roberts watch triggered —
   Robert/`carolfo`/"cheepwings" correctly kept separate from
@@ -6541,7 +12570,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Dave Bolduc, Glen Maxwell) are already-established standing identities.
   Attribution-trap check: David Beard (`dlb@`/`buster38801`) appeared twice
   as author plus once quoted, correctly kept separate from David LeBlanc
-  (`whisper@`/`meerkatoz`, did not appear); DC (`kd7ixk@`/`betelgeuserdude`)
+  (`whisper@`/`meerkatoz`, did not appear); Smith (`kd7ixk@`/`betelgeuserdude`)
   did not appear, no confusion with Derek Clark (`dclark@`/`dclark52001`,
   appeared three times as author); two-distinct-UK-Jeffs, three-distinct-
   Larrys, two-distinct-Roberts, two-distinct-Rons watches all not triggered.
@@ -6632,7 +12661,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   One genuinely new below-threshold correspondent (Terry/`celtikman59`),
   recorded in `backlog.md`. Alan Davison (`bty468633`), John Hall
   (`jdmhall`), and William Serjeant all reconfirmed standing identities.
-  **Attribution-trap check:** David Beard/David LeBlanc, DC/Derek Clark,
+  **Attribution-trap check:** David Beard/David LeBlanc, Smith/Derek Clark,
   the two UK Jeffs, the three Larrys, and the two Robert/Ron pairs did not
   appear this batch — no confusion possible. Jack Gardiner's From: header
   read "John Gardiner" (`alex29@`/`tidybowlmann`) as previously documented —
@@ -6723,7 +12752,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   on record; added to backlog.md. Aaron Edelman/`bolger1900` and Felix Bors
   both reappeared, reconfirmed standing below-threshold. Attribution-trap
   check: David Beard (`dlb@`/`buster38801`) and David LeBlanc
-  (`whisper@`/`meerkatoz`) did not appear; DC (`kd7ixk@`/`betelgeuserdude`)
+  (`whisper@`/`meerkatoz`) did not appear; Smith (`kd7ixk@`/`betelgeuserdude`)
   did not appear; Derek Clark (`dclark@`/`dclark52001`) did not appear;
   two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts,
   two-distinct-Rons watches all not triggered (no traffic from any of those
@@ -6821,9 +12850,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identity-reconcile and Jack Gardiner's "Jill" boat-page-split remain OPEN
   3000-review items, neither surfaced this batch. Attribution-trap check:
   David Beard (`dlb@`/`buster38801`) and David LeBlanc (`whisper@`/`meerkatoz`)
-  did not appear; DC (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek
+  did not appear; Smith (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek
   Clark (`dclark@`/`dclark52001`) appeared once, confirmed via headers, no
-  confusion with DC; three-distinct-Larrys watch triggered — Larry Whited
+  confusion with Smith; three-distinct-Larrys watch triggered — Larry Whited
   (`lwhited@`) appeared twice, correctly kept separate from Larry/`newspipetr3`
   and second-Larry/`LJGeib` (neither appeared). msgnum run
   2549-2550-2551-2552-2553-2554-2555-2556-2557-2558 confirmed distinct and
@@ -7034,10 +13063,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   remain OPEN 3000-review items, neither surfaced this batch.
   **Attribution-trap check:** David Beard (dlb@/buster38801) appeared once
   as author (page_2496, msgnum 2524), confirmed via headers, no confusion
-  with David LeBlanc (whisper@/meerkatoz, did not appear); DC
+  with David LeBlanc (whisper@/meerkatoz, did not appear); Smith
   (kd7ixk@/betelgeuserdude) did not appear; Derek Clark (dclark@/dclark52001)
   appeared once as author (page_2492, msgnum 2520), confirmed via headers, no
-  confusion with DC; two-distinct-UK-Jeffs, three-distinct-Larrys,
+  confusion with Smith; two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, two-distinct-Rons watches all not triggered (no
   traffic from any of those identities this batch). **msgnum run**
   2519-2520-2521-2522-2523-2524-2525-2526-2527-2528 confirmed distinct and
@@ -7130,10 +13159,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   remain OPEN 3000-review items, neither surfaced this batch since neither
   correspondent appeared in pages 2481-2490. Attribution-trap check: David
   Beard (dlb@/buster38801) and David LeBlanc (whisper@/meerkatoz) both did
-  not appear this batch, no confusion possible; DC (kd7ixk@/betelgeuserdude)
+  not appear this batch, no confusion possible; Smith (kd7ixk@/betelgeuserdude)
   did not appear; Derek Clark (dclark@/dclark52001) appeared as author six
   times (page_2483/2484/2486/2487/2490, msgnum 2511/2512/2514/2515/2518),
-  confirmed via headers each time, no confusion with DC; two-distinct-UK-
+  confirmed via headers each time, no confusion with Smith; two-distinct-UK-
   Jeffs, three-distinct-Larrys, two-distinct-Roberts, two-distinct-Rons
   watches all not triggered (no traffic from any of those identities this
   batch). msgnum run 2509-2510-2511-2512-2513-2514-2515-2516-2517-2518
@@ -7204,10 +13233,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   this batch (neither correspondent appeared in pages 2471-2480).
   Attribution-trap check: David Beard (`dlb@`/`buster38801`) and David
   LeBlanc (`whisper@`/`meerkatoz`) both did not appear — no confusion
-  possible. DC (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek Clark
+  possible. Smith (`kd7ixk@`/`betelgeuserdude`) did not appear; Derek Clark
   (`dclark@`/`dclark52001`) appeared as author three times
   (page_2472/2476/2480, msgnum 2500/2504/2508), confirmed via headers each
-  time, no confusion with DC. Two-distinct-UK-Jeffs, three-distinct-Larrys,
+  time, no confusion with Smith. Two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, two-distinct-Rons watches all not triggered (no
   traffic from any of those identities this batch).
   **No archive gap this batch.** msgnum run
@@ -7280,10 +13309,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   3000-review items; neither surfaced this batch (neither correspondent
   appeared in pages 2461-2470). Attribution-trap check: David Beard
   (`dlb@`/`buster38801`) and David LeBlanc (`whisper@`/`meerkatoz`) both did
-  not appear — no confusion possible. DC (`kd7ixk@`/`betelgeuserdude`) did
+  not appear — no confusion possible. Smith (`kd7ixk@`/`betelgeuserdude`) did
   not appear; Derek Clark (`dclark@`/`dclark52001`) appeared six times
   (page_2462/2464/2466/2470, msgnum 2490/2492/2494/2498), confirmed via
-  headers each time, no confusion with DC. Two-distinct-UK-Jeffs,
+  headers each time, no confusion with Smith. Two-distinct-UK-Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, two-distinct-Rons watches all
   not triggered (no traffic from any of those identities this batch).
   **No archive gap this batch.** msgnum run
@@ -7369,8 +13398,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   boat-page-split remain OPEN 3000-review items, neither surfaced this batch
   (Jack Gardiner did not appear). Attribution-trap check: David Beard
   (`dlb@`/`buster38801`) vs. David LeBlanc (`whisper@`/`meerkatoz`) — neither
-  appeared, no confusion possible; DC (`kd7ixk@`/`betelgeuserdude`) vs. Derek
-  Clark (`dclark@`/`dclark52001`) — DC did not appear, Derek Clark appeared
+  appeared, no confusion possible; Smith (`kd7ixk@`/`betelgeuserdude`) vs. Derek
+  Clark (`dclark@`/`dclark52001`) — Smith did not appear, Derek Clark appeared
   six times (page_2451/2454/2457/2458/2460, msgnum
   2479/2482/2485/2486/2488), confirmed via headers each time, no confusion;
   confirmed `openboat`/`alopenboat` (Yeovil, England, "Little Jim") is the
@@ -7463,8 +13492,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   cross-link into the existing chine-log thread and Jack's own person page
   instead. Jason Stancil identity-reconcile remains OPEN, did not surface
   this batch. Attribution-trap check: David Beard (`dlb@`/`buster38801`) vs.
-  David LeBlanc (`whisper@`/`meerkatoz`) — neither appeared. DC (`kd7ixk@`/
-  `betelgeuserdude`) vs. Derek Clark (`dclark@`/`dclark52001`) — DC did not
+  David LeBlanc (`whisper@`/`meerkatoz`) — neither appeared. Smith (`kd7ixk@`/
+  `betelgeuserdude`) vs. Derek Clark (`dclark@`/`dclark52001`) — Smith did not
   appear, Derek Clark appeared four times (page_2443/2445/2447/2450, msgnum
   2471/2473/2475/2478), confirmed via headers each time, no confusion. Jack
   Gardiner's From: header read "John Gardiner" (`alex29@`/`tidybowlmann`) on
@@ -7556,8 +13585,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Gardiner's "Jill" boat-page split remain OPEN 3000-review items, neither
   surfaced this batch. Attribution-trap check: David Beard (`dlb@`/
   `buster38801`) vs. David LeBlanc (`whisper@`/`meerkatoz`) — neither
-  appeared. DC (`kd7ixk@`/`betelgeuserdude`) vs. Derek Clark (`dclark@`/
-  `dclark52001`) — DC did not appear, Derek Clark appeared twice (page_2431/
+  appeared. Smith (`kd7ixk@`/`betelgeuserdude`) vs. Derek Clark (`dclark@`/
+  `dclark52001`) — Smith did not appear, Derek Clark appeared twice (page_2431/
   2435, msgnum 2459/2463), confirmed via headers each time, no confusion.
   Two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts,
   two-distinct-Rons watches not triggered (no traffic from any of those
@@ -7624,7 +13653,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   No new person pages, no prunings, narrate-once-cross-link maintained
   throughout. Standing-open-items and attribution-trap checks clean (David
-  Beard and David LeBlanc both absent; DC absent, Derek Clark appeared three
+  Beard and David LeBlanc both absent; Smith absent, Derek Clark appeared three
   times, all confirmed via headers, no confusion; both UK Jeffs, all three
   Larrys, both Roberts, both Rons — none appeared, no conflicts). Jack
   Gardiner's message carried his standing "John Gardiner"/`alex29`/
@@ -7688,7 +13717,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
   No new person pages, no prunings, narrate-once-cross-link maintained
   throughout. Standing-open-items and attribution-trap checks clean (David
-  Beard vs. David LeBlanc, DC vs. Derek Clark, both UK Jeffs, all three
+  Beard vs. David LeBlanc, Smith vs. Derek Clark, both UK Jeffs, all three
   Larrys, both Roberts, both Rons — none confused or in conflict this
   batch; neither appeared save LJGeib/second-Larry, reconfirmed); Jason
   Stancil's OPEN identity-reconcile item did not resurface this batch.
@@ -7757,7 +13786,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   header/byte check but carrying no human-authored content — no file
   touched for it. No new person pages, no prunings, narrate-once-cross-link
   maintained throughout. Standing-open-items and attribution-trap checks
-  clean (David Beard vs. David LeBlanc, DC vs. Derek Clark, both UK Jeffs,
+  clean (David Beard vs. David LeBlanc, Smith vs. Derek Clark, both UK Jeffs,
   all three Larrys, both Roberts, both Rons — none confused; Jason Stancil's
   identity-reconcile item reconfirmed but not newly resolved); msgnum run
   2429-2438 confirmed distinct and fully consecutive from batch 240's 2428,
@@ -7793,7 +13822,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Zoë, Don Elliot, David's Whisper, Jack's boat, an unnamed New Zealand
   "Petite Lady," an unnamed Australian "Zero," and Al Law's Little Jim) and
   asking how many more were under construction. **Alastair** answered with
-  three further named boats from his own notes (DC's "Swash," Ronald de Hon's
+  three further named boats from his own notes (Smith's "Swash," Ronald de Hon's
   "RHXII" in Amsterdam, Chris Becker's "Walden" in Australia) and a fuller
   builders'-in-progress list (Jeff Forrest, Paul/`kayaker37`, Jack Gardiner,
   Steve of Kansas City, Kjell Karlsson, and Derek Clark himself in
@@ -7990,8 +14019,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identity, Jack Gardiner's "Jill" boat-page split) carried forward
   unresolved, neither surfaced this batch. Attribution-trap check: David
   Beard (`dlb@`/`buster38801`) vs. David LeBlanc (`whisper@`/`meerkatoz`) —
-  neither appeared this batch, no confusion possible; DC (`kd7ixk@`/
-  `betelgeuserdude`) vs. Derek Clark (`dclark@`/`dclark52001`) — DC did not
+  neither appeared this batch, no confusion possible; Smith (`kd7ixk@`/
+  `betelgeuserdude`) vs. Derek Clark (`dclark@`/`dclark52001`) — Smith did not
   appear, Derek Clark appeared once (page_2363, msgnum 2391, confirmed via
   `dclark@`/`dclark52001` headers), no confusion; two-distinct-UK-Jeffs,
   three-distinct-Larrys, two-distinct-Roberts, two-distinct-Rons watches all
@@ -8066,7 +14095,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   added to the standing list; LJGeib/second-Larry resurfaced once,
   already-known, no promotion warranted. Attribution-trap check: David
   Beard (`dlb@`/`buster38801`) vs. David LeBlanc (`whisper@`/`meerkatoz`) —
-  neither appeared this batch, no confusion possible; DC (`kd7ixk@`/
+  neither appeared this batch, no confusion possible; Smith (`kd7ixk@`/
   `betelgeuserdude`) vs. Derek Clark (`dclark@`/`dclark52001`) — neither
   appeared this batch; three-distinct-Larrys watch correctly kept
   LJGeib/`lorenzojose2000` (this batch's "Larry") separate from
@@ -8225,8 +14254,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Corbridge/allcritters, Kellan/dagon_gsl, Dan/dstgean, "Andy"/servo_bot all
   checked, none newly promoted this batch. Attribution-trap check: David
   Beard (dlb@/buster38801) vs. David LeBlanc (whisper@/meerkatoz) — neither
-  appeared this batch; DC (kd7ixk@/betelgeuserdude) vs. Derek Clark
-  (dclark@/dclark52001) — DC did not appear, Derek Clark appeared three
+  appeared this batch; Smith (kd7ixk@/betelgeuserdude) vs. Derek Clark
+  (dclark@/dclark52001) — Smith did not appear, Derek Clark appeared three
   times (page_2337 msgnum 2364, page_2340 msgnum 2367, and his "Little Jim"
   aside; all via dclark@/dclark52001 headers), no confusion; Jack Gardiner's
   From: header read "John Gardiner" on his epoxy-advice message (page_2335,
@@ -8337,8 +14366,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   newly promoted this batch beyond "Andy"/servo_bot's initial one-off
   appearance; attribution-trap check — David Beard (dlb@/buster38801) vs.
   David LeBlanc (whisper@/meerkatoz): neither appeared this batch, no
-  confusion possible; DC (kd7ixk@/betelgeuserdude) vs. Derek Clark
-  (dclark@/dclark52001): DC did not appear, Derek Clark appeared twice
+  confusion possible; Smith (kd7ixk@/betelgeuserdude) vs. Derek Clark
+  (dclark@/dclark52001): Smith did not appear, Derek Clark appeared twice
   (page_2321 msgnum 2348, page_2324 msgnum 2351, page_2325 msgnum 2352,
   confirmed via dclark@/dclark52001 headers throughout), no confusion; two
   distinct UK Jeffs correctly kept separate — Jeff UK/`roverticket` (this
@@ -8423,8 +14452,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Kellan/dagon_gsl, Dan/dstgean all checked, none newly promoted beyond
   Jason Stancil's initial appearance; attribution-trap check — David Beard
   (dlb@/buster38801) vs. David LeBlanc (whisper@/meerkatoz): neither appeared
-  this batch, no confusion possible; DC (kd7ixk@/betelgeuserdude) vs. Derek
-  Clark (dclark@/dclark52001): DC did not appear, Derek Clark appeared twice
+  this batch, no confusion possible; Smith (kd7ixk@/betelgeuserdude) vs. Derek
+  Clark (dclark@/dclark52001): Smith did not appear, Derek Clark appeared twice
   (page_2312 msgnum 2339, confirmed via dclark@/dclark52001 headers), no
   confusion; two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts,
   two-distinct-Rons watches all not triggered (no traffic from any of those
@@ -8607,7 +14636,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   31 Dec 2001/1 Jan 2002, confirmed as clock errors against the
   Received/list-relay headers showing the true date of 13 Sep 2004,
   consistent with a prior batch's similar finding; David Beard vs. David
-  LeBlanc, DC vs. Derek Clark, two-distinct-UK-Jeffs, three-distinct-Larrys,
+  LeBlanc, Smith vs. Derek Clark, two-distinct-UK-Jeffs, three-distinct-Larrys,
   two-distinct-Roberts, two-distinct-Rons watches all not triggered (no
   traffic from any of those identities this batch, aside from the
   already-disambiguated Derek Clark himself). Msgnum run
@@ -8688,7 +14717,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (page_2276 msgnum 2303), each confirmed via matching `X-Yahoo-Profile:
   tidybowlmann` / `u=111173743` headers as the same established person, no
   new identity created; David Beard (dlb@/buster38801) vs. David LeBlanc
-  (whisper@/meerkatoz): neither appeared this batch; DC (kd7ixk@/
+  (whisper@/meerkatoz): neither appeared this batch; Smith (kd7ixk@/
   betelgeuserdude) vs. Derek Clark (dclark@/dclark52001): neither appeared;
   two-distinct-UK-Jeffs, three-distinct-Larrys, two-distinct-Roberts, and
   two-distinct-Rons watches not triggered (no traffic from any of those
@@ -8783,7 +14812,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   correspondents (all participants — John/Jack Gardiner, Kjell Karlsson,
   Bengt Genell, Paul/kayaker37 — already established). Attribution-trap
   check: David Beard (dlb@/buster38801) vs. David LeBlanc (whisper@/
-  meerkatoz): neither appeared this batch; DC (kd7ixk@/betelgeuserdude) vs.
+  meerkatoz): neither appeared this batch; Smith (kd7ixk@/betelgeuserdude) vs.
   Derek Clark (dclark@/dclark52001): neither appeared; Jack Gardiner's From:
   header read "John Gardiner" on all three of his messages this batch
   (page_2261 msgnum 2288, page_2265 msgnum 2292, page_2269 msgnum 2296),
@@ -8890,7 +14919,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   james56greene, Lee Corbridge/allcritters all checked, none newly promoted,
   no genuinely new below-threshold correspondents this batch. Attribution-trap
   check: David Beard (dlb@/buster38801) vs. David LeBlanc (whisper@/
-  meerkatoz) — neither appeared this batch, no confusion possible; DC
+  meerkatoz) — neither appeared this batch, no confusion possible; Smith
   (kd7ixk@/betelgeuserdude) vs. Derek Clark (dclark@/dclark52001) — neither
   appeared this batch, no confusion possible; Jack Gardiner's From: header
   read "John Gardiner" on all three of his messages this batch (page_2253
@@ -8988,7 +15017,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Karlsson, Glen Maxwell, Robert/carolfo, Alastair — are already-established
   identities). Attribution-trap check: David Beard (dlb@/buster38801) did not
   appear this batch, no confusion possible; David LeBlanc (whisper@/meerkatoz)
-  did not appear; DC (kd7ixk@/betelgeuserdude) and Derek Clark (dclark@/
+  did not appear; Smith (kd7ixk@/betelgeuserdude) and Derek Clark (dclark@/
   dclark52001) did not appear; three-distinct-Larrys, two-distinct-Roberts
   (Robert/carolfo appeared, correctly distinguished from Robert/boat142, who
   did not), and two-distinct-Rons watches not triggered. msgnum run
@@ -9117,7 +15146,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Update (batch page_2211–page_2220, msgnum 2238-2247, continuing directly
   from batch 221's 2237, no new gap)**: 28-31 August 2004. Three items, no
   new files. (1) Closing out the **"polyester?" thread** (opened batch 221):
-  DC agreed with James Greene's verdict but floated a hybrid layup for the
+  Smith agreed with James Greene's verdict but floated a hybrid layup for the
   bottom specifically — epoxy for the first and last laminates, polyester
   for the layers between, provided both resins are properly dewaxed before
   the changeover — reasoning that the bottom glass functions mainly as a
@@ -9191,8 +15220,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `allcritters`), added to the standing list and `backlog.md`.
   Attribution-trap check: David Beard (`dlb@`/`buster38801`) vs. David
   LeBlanc (`whisper@`/`meerkatoz`) — neither appeared this batch, no
-  confusion possible; DC (`kd7ixk@`/`betelgeuserdude`) vs. Derek Clark
-  (`dclark@`/`dclark52001`) — both appeared this batch (DC in the polyester
+  confusion possible; Smith (`kd7ixk@`/`betelgeuserdude`) vs. Derek Clark
+  (`dclark@`/`dclark52001`) — both appeared this batch (Smith in the polyester
   thread, page_2211 msgnum 2238; Derek Clark in the "new builder in Oz" coda,
   page_2218 msgnum 2245), each correctly attributed via `From:`/
   `X-Yahoo-Profile:` headers, no confusion between the two; three-distinct-
@@ -9285,7 +15314,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   below-threshold correspondents added to the standing list going forward
   (Dave Blow/smallshelters, James Greene/james56greene). Attribution-trap
   check: David Beard (dlb@/buster38801) vs. David LeBlanc (whisper@/meerkatoz)
-  — neither appeared this batch; DC (kd7ixk/betelgeuserdude) vs. Derek Clark
+  — neither appeared this batch; Smith (kd7ixk/betelgeuserdude) vs. Derek Clark
   (dclark@/dclark52001) — only Derek Clark appeared, correctly attributed via
   headers; three-distinct-Larrys, two-distinct-Roberts, two-distinct-Rons
   watches not triggered (no traffic from any of those six this batch).
@@ -9359,7 +15388,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   no Paradox content — and was not folded into any topic page. No new person
   pages; no prunings. Attribution traps checked: David Beard (`dlb@...`/
   `buster38801`) vs. David LeBlanc (`whisper@...`/`meerkatoz`) — only David
-  Beard appeared, correctly attributed throughout; DC (`kd7ixk`) vs. Derek
+  Beard appeared, correctly attributed throughout; Smith (`kd7ixk`) vs. Derek
   Clark (`dclark52001`) — only Derek Clark appeared this batch, correctly
   attributed via headers, and NOT promoted to a person page per the
   standing strengthened promote-later hint. Msgnum run 2217-2226, fully
@@ -9449,7 +15478,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Update (batch page_2171–page_2180, msgnum 2197-2206, continuing directly
   from batch 217's 2196, no new gap)**: 1-6 August 2004. Two centerpieces,
   both closing out threads opened in the prior batch. (1) The **"Sail
-  Draft"/"Paradox weight" pair closed out**: Glen Maxwell corroborated DC's
+  Draft"/"Paradox weight" pair closed out**: Glen Maxwell corroborated Smith's
   point that Matt Layden's own sail already carries generous draft, with Matt
   considering adding still more — extended [design/rig.md — how much draft a
   Paradox lug sail should
@@ -9507,13 +15536,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [215]), and `people/david-beard.md` (bullet updated, no new citation). (2)
   A new **"Sail Draft" thread**: David Beard asked how much draft a properly
   cut Paradox lug sail should carry; Larry ("LJGeib") recalled Matt Layden's
-  own sail as cut flat; DC qualified that a heavier vessel needs more, not
+  own sail as cut flat; Smith qualified that a heavier vessel needs more, not
   less, draft, pointing to Glen Maxwell's own writeup and Matt Layden's "new
   sail" post already on file. New section, [design/rig.md — how much draft a
   Paradox lug sail should
   carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry)
   (cites [144]-[146]); cross-links added to `people/david-beard.md` (cite
-  [227]) and `people/dc.md` (cite [154]). (3) Two new one-off correspondents
+  [227]) and `people/david-c-smith.md` (cite [154]). (3) Two new one-off correspondents
   asked generic newcomer questions, both answered by Alastair: **Matt
   Wagner** (`trisurfnturf`) asked how many plywood sheets, yards of glass
   cloth, and gallons of epoxy a Paradox build needs, plus build-hours/cost
@@ -9553,19 +15582,19 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (cites [33]-[34]); cross-links added to `references/paradox-uk-website.md`
   (cite [28]), `people/alastair.md` (cite [214], new "Sailing performance and
   weight" bullet), and `design/weight-and-ballast.md` (cite [84], new
-  paragraph in "Real-world under-ballasted handling"). (2) **DC offered his
+  paragraph in "Real-world under-ballasted handling"). (2) **Smith offered his
   part-built Paradox "Swash" for sale**, citing his own divorce, with the
   archive's fullest itemized account of an unfinished hull's completion
   state and cost ($1,600+ in receipts, ~$2,000 estimated total material
   cost, $3,000 asking price); Nels inquired on a third party's behalf
   (further photos, remaining cost/time, glass and chine-runner status,
-  offering a trailer and cash); DC confirmed the boat unsold, credited David
+  offering a trailer and cash); Smith confirmed the boat unsold, credited David
   Beard with urging him to finish her himself through the divorce, and
   admitted growing less willing to give her up the longer the process ran.
   New section,
   [operations/secondhand-market.md — an unfinished hull for sale:
   "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004)
-  (cites [23]-[25]); cross-links added to `people/dc.md` (cites [151]-[153])
+  (cites [23]-[25]); cross-links added to `people/david-c-smith.md` (cites [151]-[153])
   and `people/nels.md` (cite [93]). (3) **Derek Clark** reported building a
   1/10-scale cardboard mock-up of his own future Paradox to check dimensions
   and refresh his sense of the interior arrangement, confirmed he now has
@@ -9660,7 +15689,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   avoid a through-hull); a new below-threshold correspondent, "chadoora,"
   questioned whether an electronic depth finder is needed at all on a
   boat drawing about a foot, arguing coastal-navigation competence and the
-  boat's own "slowing" against the bottom suffice; **DC** made the
+  boat's own "slowing" against the bottom suffice; **Smith** made the
   Pacific-Northwest case for a depth sounder as cheap insurance and the most
   useful coastal-navigation tool in fog; Derek Clark closed the thread with a
   detailed rebuttal (RYA-certified, fog/position-finding rationale, and his
@@ -9669,9 +15698,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [operations/gps-navigation.md — fitting a depth sounder or fishfinder
   without through-hulling the
   bottom](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom)
-  (cites [7]-[13]); cross-links added to `people/dc.md` (cite [149]) and
+  (cites [7]-[13]); cross-links added to `people/david-c-smith.md` (cite [149]) and
   `people/alastair.md` (cite [211]). (2) **Glen Maxwell's first at-sea report**
-  from his Atlantic crossing: writing in from **Horta, Azores**, he thanked DC
+  from his Atlantic crossing: writing in from **Horta, Azores**, he thanked Smith
   and Nels for covering the list, congratulated Hugh Miller on launching
   "Petite Lady," and gave a detailed passage account aboard Chris Morejohn's
   **"Hogfish Maximus"** — a slow but uneventful crossing (Bermuda in 14 days/
@@ -9680,7 +15709,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   the chine runners worked well even at this larger size, with the
   daggerboard needed for under 48 hours of the whole passage. He judged
   "Hogfish Maximus" itself too big for his own taste but thought a **21-25 ft
-  Paradox** would suit ocean voyaging well; DC replied enviously, and David
+  Paradox** would suit ocean voyaging well; Smith replied enviously, and David
   Beard wondered what a 25 ft Paradox would take, guessing a total redesign.
   Extended
   [people/glen-maxwell/matt-layden-eyewitness.md — a report from Horta, and
@@ -9691,7 +15720,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [design/blue-water-suitability.md](/design/blue-water-suitability.md#glen-maxwells-case-for-blue-water-capability-from-personal-experience)
   (cites [37]-[39], extending Glen's existing blue-water endorsement and
   adding a new "What remains unresolved" bullet on the untested 21-25 ft
-  stretched-Paradox idea); cross-links added to `people/dc.md` (cite [150]),
+  stretched-Paradox idea); cross-links added to `people/david-c-smith.md` (cite [150]),
   `people/david-beard.md` (cite [223]), and `people/chris-morejohn.md` (no
   new citation, prose-only). A separate, incidental sailmaker endorsement from
   David Beard — recommending **Dabbler** on hearing that sailmaker Hugh Horten
@@ -9704,7 +15733,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Update (batch page_2121–page_2130, msgnum 2146-2155)**: 12-17 June 2004.
   Two threads, both direct continuations of ongoing questions, plus one
   independent report, none newly opened outside existing topics. (1) The
-  **"Yuloh" thread** continued past batch 212's resolution with **DC**
+  **"Yuloh" thread** continued past batch 212's resolution with **Smith**
   answering David Beard's wood-species question — a single piece of **5/4
   Douglas Fir**, chosen for straight grain despite running slightly diagonal
   across the board, judging most species/qualities would work fine — and
@@ -9716,7 +15745,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh)
   (cites [28]-[29]) and
   [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off)
-  (cite [28]); cross-links added to `people/dc.md` (cite [148]) and
+  (cite [28]); cross-links added to `people/david-c-smith.md` (cite [148]) and
   `people/bolduc/dave.md` (cite [80]). (2) A **New Zealand Paradox update**:
   Dave Bolduc reported the builder's surname for the first time — **Hugh
   Miller** (previously recorded only as "Hugh") — still sailing and enjoying
@@ -9768,7 +15797,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `dlb@.../buster38801` u=55757302 (David Beard) confirmed via
   From:/X-Yahoo-Profile on both his messages, no confusion with
   `whisper@.../meerkatoz` (David LeBlanc, no traffic this batch);
-  `kd7ixk@.../betelgeuserdude` (DC) confirmed on his message, no confusion
+  `kd7ixk@.../betelgeuserdude` (Smith) confirmed on his message, no confusion
   with `dclark@.../dclark52001` (Derek Clark, no traffic this batch);
   three-distinct-Larrys watch not triggered (no Larry traffic this batch).
   Msgnum run 2146-2147-2148-2149-2150-2151-2152-2153-2154-2155 confirmed
@@ -9783,7 +15812,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/bolduc/dave.md` 81 total, `people/don-elliott.md` 42 total,
   `people/kjell-karlsson.md` 32 total, `people/nels.md` 92 total,
   `people/alastair.md` 210 total, `people/david-beard.md` 221 total,
-  `people/jack-gardiner.md` 89 total, `people/dc.md` 148 total; `boats/index.md`
+  `people/jack-gardiner.md` 89 total, `people/david-c-smith.md` 148 total; `boats/index.md`
   carries no citations block, prose-only cross-link update); all new
   cross-link anchors verified against actual headings in their target
   files; cursor set to 2130.
@@ -9810,7 +15839,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   starting his own yuloh build, asked how to read the figure and where the
   bend should start/stop; **Steve** pointed to a laminating photo in the
   group's Photos album and read the 30mm as deviation from a straight
-  end-to-end line; **DC** clarified it as **deflection from the yuloh's own
+  end-to-end line; **Smith** clarified it as **deflection from the yuloh's own
   centerline**, not a fixed radius, since the blade is laminated around an
   arbitrary center and shaped afterward with some springback, and recalled
   secondhand from Dave Bolduc that Matt Layden had since built a new,
@@ -9818,7 +15847,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (two planks over a 30mm block, ends weighted down to the floor until the
   glue cured); **David Beard** then confirmed **Matt Layden's new yuloh is
   straight**, working well but harder on the arm and wrist than a curved
-  blade — resolving DC's own remembered uncertainty and independently
+  blade — resolving Smith's own remembered uncertainty and independently
   corroborating Dave Bolduc's April-2003 account on
   [operations/sculling-and-yuloh-technique.md](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off);
   **Steve** then built his own yuloh from two Douglas fir 2x4s (thinned on a
@@ -9827,7 +15856,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [design/yuloh-and-stowed-rig-retention.md](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket)
   (cites [22]-[27]), with a light corroborating addition to
   `operations/sculling-and-yuloh-technique.md` (cite [27]); cross-links added
-  to `people/david-beard.md` (cites [219]-[220]), `people/dc.md` (cite
+  to `people/david-beard.md` (cites [219]-[220]), `people/david-c-smith.md` (cite
   [147]), `people/alastair.md` (cite [209]), and `people/steve-kc.md` (cites
   [9]-[10]). No new files, no renames, no prunings — all content extended
   existing pages per narrate-once-cross-link. Timeline reached 7-11 June
@@ -9845,7 +15874,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   this batch. Attribution-trap check: `dlb@...`/`buster38801` u=55757302
   (David Beard) confirmed via From:/X-Yahoo-Profile on all four of his
   messages, no confusion with `whisper@...`/`meerkatoz` (David LeBlanc, no
-  traffic this batch); `kd7ixk@...`/`betelgeuserdude` (DC) confirmed on his
+  traffic this batch); `kd7ixk@...`/`betelgeuserdude` (Smith) confirmed on his
   one message, no confusion with `dclark@...`/`dclark52001` (Derek Clark, no
   traffic this batch). Three-distinct-Larrys watch not triggered (no Larry
   traffic this batch). Msgnum run 2136-2137-2138-2139-2140-2141-2142-2143-
@@ -9859,7 +15888,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/nels.md` 91 total, `construction/build-effort.md` 64 total,
   `people/alastair.md` 209 total, `design/yuloh-and-stowed-rig-retention.md`
   27 total, `operations/sculling-and-yuloh-technique.md` 27 total,
-  `people/david-beard.md` 220 total, `people/dc.md` 147 total,
+  `people/david-beard.md` 220 total, `people/david-c-smith.md` 147 total,
   `people/steve-kc.md` 10 total — no duplicate numbers found via grep in any
   file). All new cross-link anchors verified against actual headings in
   their target files. Cursor set to 2120.
@@ -9871,7 +15900,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   his own earlier (msgnum 1478) question about the lug rig's dynamics — was
   the forward ("jib") portion of the sail too small, and would moving the
   halyard aft help, or is the whole question moot given the lug sail's free
-  movement. **DC** answered with the fullest textbook-style tacking-mechanics
+  movement. **Smith** answered with the fullest textbook-style tacking-mechanics
   case in the archive: think in terms of the sail's overall center of effort
   rather than a fore/aft mast split, find balance empirically via halyard
   placement once trimmed, diagnose most tacking trouble as rudder stall
@@ -9889,7 +15918,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   variables," on
   [operations/sailing-characteristics.md](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables)
   (cites [38]-[40]); cross-link summaries added to `people/kjell-karlsson.md`
-  (cite [31]), `people/dc.md` (cite [146]), and `people/alastair.md` (cite
+  (cite [31]), `people/david-c-smith.md` (cite [146]), and `people/alastair.md` (cite
   [205]). (2) A **newcomer's generic "how long/how much does a Paradox
   cost" question** (Ron, `rondune508`, below-threshold, no further posts)
   drew **Jack Gardiner**'s $2,000-8,000 US cost-range answer (plywood grade,
@@ -9939,7 +15968,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Robert/carolfo ("cheepwings"), both added to the standing list going
   forward. Attribution-trap check — dlb@.../buster38801 (David Beard) and
   whisper@.../meerkatoz (David LeBlanc) both had no traffic this batch;
-  kd7ixk@.../betelgeuserdude (DC) confirmed via From:/X-Yahoo-Profile on his
+  kd7ixk@.../betelgeuserdude (Smith) confirmed via From:/X-Yahoo-Profile on his
   one message, no confusion with dclark@.../dclark52001 (Derek Clark, no
   traffic this batch); three-distinct-Larrys watch had no traffic from any
   of the three this batch. Byte sizes cross-checked via `wc -c` against
@@ -9947,7 +15976,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   2992/1309 bytes for page_2101 through page_2110 respectively), no
   stale-read issue. Citation-collision check clean across all eight touched
   files (`operations/sailing-characteristics.md` 40 total,
-  `people/kjell-karlsson.md` 31 total, `people/dc.md` 146 total,
+  `people/kjell-karlsson.md` 31 total, `people/david-c-smith.md` 146 total,
   `people/alastair.md` 207 total, `construction/build-effort.md` 62 total,
   `people/jack-gardiner.md` 88 total,
   `construction/epoxy-coating-technique.md` 29+29a total,
@@ -10016,7 +16045,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   flagged. Attribution-trap check: `dlb@.../buster38801` u=55757302 (David
   Beard) confirmed via From:/X-Yahoo-Profile on all three of his messages,
   no confusion with `whisper@.../meerkatoz` (David LeBlanc, no traffic this
-  batch); `kd7ixk@.../betelgeuserdude` (DC) had no traffic this batch, no
+  batch); `kd7ixk@.../betelgeuserdude` (Smith) had no traffic this batch, no
   confusion with `dclark@.../dclark52001` (Derek Clark, also no traffic);
   three-distinct-Larrys watch positively exercised — `LJGeib@.../
   lorenzojose2000` (second Larry) confirmed distinct from Larry Whited
@@ -10125,7 +16154,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#bow-led-vs-stern-led-ground-tackle-the-rudder-stress-and-flooding-path-case-restated)
   (cites [32]-[36]); cross-link bullet on `people/alastair.md` (cites
   [199]-[200]); no cross-link needed on Robert (below-threshold, no person
-  page). (3) A new, independent "Storm Tactics Handbook" thread: **DC**
+  page). (3) A new, independent "Storm Tactics Handbook" thread: **Smith**
   recommended the book of that title as further reading once the
   tiller-boot debate wound down, while judging Paradox unlikely ever to
   meet the extreme conditions it addresses; **David Beard**, aboard
@@ -10139,7 +16168,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   difficulty. Added as a new section, "Untested heaving-to ideas: boom
   position, minimal sail, and deliberate unbalancing," on
   [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing)
-  (cites [28]-[31]); cross-links on `people/dc.md` (cite [145]),
+  (cites [28]-[31]); cross-links on `people/david-c-smith.md` (cite [145]),
   `people/david-beard.md` (cites [215]-[216]), and `people/alastair.md`
   (cite [201]). No new files, no renames, no prunings — all content
   extended existing pages, consistent with narrate-once-cross-link. No new
@@ -10149,7 +16178,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   buster38801` u=55757302 (David Beard) confirmed via From:/X-Yahoo-Profile
   on both his Storm-Tactics messages, no confusion with `whisper@.../
   meerkatoz` (David LeBlanc, no traffic this batch); `kd7ixk@.../
-  betelgeuserdude` (DC) confirmed on his one message, no Derek Clark
+  betelgeuserdude` (Smith) confirmed on his one message, no Derek Clark
   (`dclark52001`) traffic this batch; three-distinct-Larrys watch not
   triggered (no Larry traffic this batch). Msgnum run 2105-2114 confirmed
   distinct and fully consecutive, continuing directly from batch 208's
@@ -10159,7 +16188,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Citation-collision check clean across all six touched files
   (`references/mailing-list.md` 32 total, `construction/transom-deck-plate.md`
   36 total, `operations/heavy-weather-tactics.md` 31 total,
-  `people/alastair.md` 201 total, `people/dc.md` 145 total,
+  `people/alastair.md` 201 total, `people/david-c-smith.md` 145 total,
   `people/david-beard.md` 216 total — no duplicates in any). Cross-link
   anchors verified against actual headings in
   `construction/transom-deck-plate.md` and
@@ -10171,7 +16200,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`boat142`) cited a direct 2003 consultation with **Matt Layden** and USCG
   report CG-D-20-87 (May 1987) as his authorities, restating Matt Layden's
   reported tiller-boot fabric/vent/scupper recommendations and a proposed
-  15 ft/sec water-jet stern test before rigging a series drogue. **DC**
+  15 ft/sec water-jet stern test before rigging a series drogue. **Smith**
   rejected the USCG report's authority outright (comparing its still-debated
   status to the saccharin-cancer and Iraq-WMD reports, and its advocates to
   sailmakers/canvas workers/inexperienced sailors seeking a panacea),
@@ -10182,12 +16211,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   concrete resolution: **Alastair** proposed a simpler fix than either a
   sealed boot or a redesign — a second rubber baffle disc fixed to the
   tiller ahead of the transom, deflecting water without blocking
-  ventilation — which DC endorsed as "making a lot of sense" and more
+  ventilation — which Smith endorsed as "making a lot of sense" and more
   practical than his own half-formed flange idea. Added as two new sections,
-  "Robert's sources, and DC's closing rebuttal" and "A simpler alternative
+  "Robert's sources, and Smith's closing rebuttal" and "A simpler alternative
   for the tiller opening: a second rubber baffle disc," on
-  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#roberts-sources-and-dcs-closing-rebuttal)
-  (cites [27]-[31]); cross-link updates on `people/dc.md` (cites
+  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#roberts-sources-and-smiths-closing-rebuttal)
+  (cites [27]-[31]); cross-link updates on `people/david-c-smith.md` (cites
   [143]-[144], extending the existing tiller-boot bullet) and
   `people/alastair.md` (cites [197]-[198], new bullet). Separately, **David
   Beard** posted two further "New Photos" announcements — a `paradox2`
@@ -10217,7 +16246,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Maximus," the group hit a genuine Yahoo Groups **photo-storage limit**
   head-on. **David Beard** uploaded new "Whisper" photos and then found
   himself locked out of the photo section by a recurring group error,
-  independently confirmed the same day by **Bert Vercauteren**. **DC**,
+  independently confirmed the same day by **Bert Vercauteren**. **Smith**,
   filling the moderation gap, diagnosed the storage ceiling, deleted his
   own large-format "Swash" photos as a first step, and — resolving the
   archive's own previously-open question of exactly when and by whom
@@ -10225,7 +16254,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   10 May 2004 for photo/file overflow, restricted to Paradox and other
   Matt Layden material, asking members to keep the main discussion on
   `paradoxbuilders` itself. When David Beard still could not get back into
-  the photo section, DC found he had to fully delete, rather than resize,
+  the photo section, Smith found he had to fully delete, rather than resize,
   three off-topic photos (a steel dinghy, a Bris rudder, a "water in my
   backyard" shot) to restore general access, and proposed reserving
   `paradoxbuilders2`'s files section for photo folders going forward. Added
@@ -10235,25 +16264,25 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [references/mailing-list.md](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2)
   (cites [19]-[26]), updating the existing `paradoxbuilders2` history-table
   row to record the resolved founding date/founder; cross-link updates on
-  `people/dc.md` (cites [138]-[142]), `people/david-beard.md` (cites
+  `people/david-c-smith.md` (cites [138]-[142]), `people/david-beard.md` (cites
   [211]-[212]), `people/bert-vercauteren.md` (cite [8]). Separately, **Nels**
   — revealed to have been appointed a `paradoxbuilders` co-moderator at some
   earlier, unrecorded point — announced he was leaving for a multi-month
-  trip to Europe and would go quiet on the list; DC thanked him. Cross-link
+  trip to Europe and would go quiet on the list; Smith thanked him. Cross-link
   update on `people/nels.md` (cite [89]), plus a lead-paragraph note
   recording his co-moderator role. Independently, the batch-206 "water tight
   boot on the Paradox tiller arm" thread reached its natural close: **Derek
-  Clark** reacted to DC's storm-tactics language with a lighter caution that
+  Clark** reacted to Smith's storm-tactics language with a lighter caution that
   Paradox is a coastal cruiser for which reliable weather forecasts should
   be easy to come by, recalling that even Alastair's own record-setting
   Poole-to-Cowes crossing involved an error of judgement on its fourth
-  attempt; **DC** agreed, adding that he rarely puts to sea when forecast
+  attempt; **Smith** agreed, adding that he rarely puts to sea when forecast
   conditions already exceed 20 knots/10 ft seas, and that incremental
   exposure to worsening conditions is itself how a sailor builds a genuine
   foul-weather threshold. Extended the existing "A proposed permanent
-  tiller boot, and DC's rebuttal" section on
-  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-dcs-rebuttal-with-sea-anchor-vs-series-drogue-doctrine)
-  (cites [25]-[26]); cross-link update on `people/dc.md` (cites
+  tiller boot, and Smith's rebuttal" section on
+  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine)
+  (cites [25]-[26]); cross-link update on `people/david-c-smith.md` (cites
   [138],[140], interleaved with the photo-storage cites above since both
   threads ran the same day). No new files, no renames, no prunings — all
   content extended existing pages, consistent with the
@@ -10272,9 +16301,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Attribution-trap check: `dlb@...`/`buster38801` (David Beard) confirmed
   via `From:`/`X-Yahoo-Profile:` on both his messages, no confusion with
   `whisper@...`/`meerkatoz` (David LeBlanc, no traffic this batch);
-  `kd7ixk@...`/`betelgeuserdude` (DC) confirmed on all five of his messages;
-  `dclark@...`/`dclark52001` (Derek Clark) confirmed distinct from DC on
-  his one message — the DC/Derek Clark trap is squarely exercised this
+  `kd7ixk@...`/`betelgeuserdude` (Smith) confirmed on all five of his messages;
+  `dclark@...`/`dclark52001` (Derek Clark) confirmed distinct from Smith on
+  his one message — the Smith/Derek Clark trap is squarely exercised this
   batch since both posted in the same thread, and both were verified
   against `From:`/`X-Yahoo-Profile:` headers directly; no confusion found.
   Three-distinct-Larrys watch not triggered (no Larry traffic this batch).
@@ -10319,7 +16348,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   preferably, a storm-only removable boot), and a series-sea-drogue
   ground-tackle scheme anchored to welded eyes on genoa tracks at each
   transom corner, citing an informal conversation with Matt Layden as not
-  having raised any objection. **DC** rejected the tiller-boot/vent
+  having raised any objection. **Smith** rejected the tiller-boot/vent
   proposal point-by-point (transom-slam hydraulic loading on a loose boot,
   an impractical drain arrangement, a storm-vulnerable dorade/mushroom
   vent, and the as-designed system's passive fair-weather/foul-weather
@@ -10327,10 +16356,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   fullest case on record for a **bow-led parachute sea anchor at ~45°**
   over a **stern-led series drogue** given Paradox's exposed transom
   fittings (rudder, tiller port, deck plate, after-house plexiglass) —
-  added as a new section, "A proposed permanent tiller boot, and DC's
+  added as a new section, "A proposed permanent tiller boot, and Smith's
   rebuttal (with sea-anchor vs. series-drogue doctrine)," on
-  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-dcs-rebuttal-with-sea-anchor-vs-series-drogue-doctrine)
-  (cites [20]-[24]), with a cross-link update on `people/dc.md` (cites
+  [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine)
+  (cites [20]-[24]), with a cross-link update on `people/david-c-smith.md` (cites
   [136]-[137]). New below-threshold correspondent **Robert** (`boat142`/
   `robertplabbe@...`) added to `backlog.md`; no boat, no build started,
   promote only if he starts one. No new files, no renames, no prunings —
@@ -10347,7 +16376,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (David Beard) confirmed via `From:`/`X-Yahoo-Profile:` on both
   crew-size-and-fit messages, no confusion with `whisper@...`/`meerkatoz`
   (David LeBlanc, no traffic this batch); `kd7ixk@...`/`betelgeuserdude`
-  (DC) confirmed on both tiller-boot messages, no Derek Clark
+  (Smith) confirmed on both tiller-boot messages, no Derek Clark
   (`dclark52001`) traffic this batch; the three-distinct-Larrys watch list
   not triggered (no Larry traffic this batch). Msgnum run 2075-2084
   confirmed distinct and fully consecutive, continuing directly from batch
@@ -10356,7 +16385,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   3004/5819 bytes for page_2051 through page_2060 respectively), no
   stale-read issue. Citation-collision check clean across all five touched
   files (`operations/crew-size-and-fit.md`,
-  `construction/transom-deck-plate.md`, `people/dc.md`,
+  `construction/transom-deck-plate.md`, `people/david-c-smith.md`,
   `people/alastair.md`, `people/david-beard.md`). Cursor set to 2060.
 
 * **Import — two *Small Craft Advisor* Matt Layden interviews** (out-of-band, not
@@ -10401,7 +16430,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (2) A new **"big guy in a small boat"** thread — a new correspondent,
   **James** (6'8"/315 lb), asked whether he would be comfortable sailing a
   Paradox, drawing the fullest single round of fit/comfort replies on
-  record: **DC** (inflatable-mattress sleeping fix, cardboard-mockup
+  record: **Smith** (inflatable-mattress sleeping fix, cardboard-mockup
   caution), **Dave Bolduc** (comfort is relative; see the boat in person),
   **Alastair** (height distribution, not raw height, is what matters; later
   a convertible-car analogy answering a second newcomer's claustrophobia
@@ -10412,7 +16441,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   removable rear window doubling as a reading/chart-table perch). Added in
   full as a new section on
   [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion)
-  (cites [33]-[40]), with cross-link summaries on `people/dc.md` (cite
+  (cites [33]-[40]), with cross-link summaries on `people/david-c-smith.md` (cite
   [135]), `people/bolduc/dave.md` (cite [79]), `people/alastair.md` (cites
   [193]-[194]), and `people/david-beard.md` (cite [209]). New below-threshold
   correspondents James (`jcbanik`) and Roger Nuffer (`rogernuffer`) added to
@@ -10429,7 +16458,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   only Shorty/shortypen resurfaced as expected; none of the others appeared.
   Attribution-trap check: `dlb@...`/`buster38801` (David Beard) confirmed on
   the Chine-Runners and big-guy-thread messages, no confusion with
-  `whisper@...`/`meerkatoz` (David LeBlanc, no traffic this batch); `DC`
+  `whisper@...`/`meerkatoz` (David LeBlanc, no traffic this batch); `Smith`
   (`kd7ixk@...`/`betelgeuserdude`) confirmed, no Derek Clark
   (`dclark52001`) traffic this batch. Msgnum run 2065-2074 confirmed
   distinct and consecutive, continuing directly from batch 204's 2064, no
@@ -10438,7 +16467,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   bytes for page_2041 through page_2050 respectively), no stale-read issue.
   Citation-collision check clean across all eight touched files
   (`boats/whisper.md`, `people/alastair.md`, `chine-runners/how-they-work.md`,
-  `people/nels.md`, `operations/crew-size-and-fit.md`, `people/dc.md`,
+  `people/nels.md`, `operations/crew-size-and-fit.md`, `people/david-c-smith.md`,
   `people/bolduc/dave.md`, `people/david-beard.md`); a pre-existing
   non-sequential citation-number artifact was noted (but not introduced or
   touched) in `people/david-beard.md` ([143] dated earlier than [142],
@@ -10452,20 +16481,20 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   crossing to Portugal via Bermuda and the Azores, three months allowed for
   the trip — drew well-wishes from **Jack Gardiner** (his own Paradox about
   three weeks from launch), **Dave Bolduc** (recalling his own boyhood years
-  living in Portugal), and **DC**. Added in full to
+  living in Portugal), and **Smith**. Added in full to
   [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus)
   with a cross-link summary on
   [people/chris-morejohn.md](/people/chris-morejohn.md) and one-line citations
-  on `people/jack-gardiner.md` and `people/dc.md`'s existing pages. (2) **Kjell
+  on `people/jack-gardiner.md` and `people/david-c-smith.md`'s existing pages. (2) **Kjell
   Karlsson**'s "sheet entry" question — reviving a months-old open item about
-  Matt Layden changing the mainsheet's transom entry — was answered by **DC**
+  Matt Layden changing the mainsheet's transom entry — was answered by **Smith**
   (the group's photos show the original prototype's single-part sheet,
   changed on the plans to a two-part purchase; proposed bungee-tethered cleat
   chocks and a yuloh-mount dome fitting against fouling) and **Alastair**
   (confirmed the two-part purchase's mechanical-advantage rationale and the
   port-side, off-centre transom eye, matching the off-centre mast). Added as a
   new section, [design/rig.md](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans),
-  with cross-link summaries on `people/dc.md`, `people/alastair.md`, and
+  with cross-link summaries on `people/david-c-smith.md`, `people/alastair.md`, and
   `people/kjell-karlsson.md`. (3) **David Beard**'s "Chine Runners" note — a
   second report from the same Pirates Cove sea trials as batch 203's mainsheet
   fix — described rebuilding "Whisper"'s chine runners to within 1-2 mm after
@@ -10477,14 +16506,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   with cross-link summaries on `people/david-beard.md` and
   `people/alastair.md`. No new files, no renames, no prunings — all content
   extended existing pages; eight files touched (`people/glen-maxwell/matt-layden-eyewitness.md`,
-  `people/chris-morejohn.md`, `design/rig.md`, `people/dc.md`,
+  `people/chris-morejohn.md`, `design/rig.md`, `people/david-c-smith.md`,
   `people/alastair.md`, `people/kjell-karlsson.md`, `boats/whisper.md`,
   `people/david-beard.md`), plus a one-line citation added to
   `people/jack-gardiner.md`.
 
 * **Update (batch page_2021–page_2030, msgnum 2044-2052,2054)**: 14 April – 3
   May 2004 (msgnum 2053 a genuine archive gap, no page). No single dominant
-  thread — several independent exchanges. (1) **DC** declined a Portland-area
+  thread — several independent exchanges. (1) **Smith** declined a Portland-area
   visit request from **Phil** (WA State, `topsail@...`), comparing himself to
   "an author who keeps the manuscript under wraps," then answered Phil's
   standing alder/hemlock boatbuilding-wood question in depth — Matt Layden's
@@ -10493,7 +16522,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   item flagged in batch 202; a second correspondent, **Larry** (`LJGeib`,
   distinct from both the below-threshold "Larry"/`newspipetr3` and from
   **Larry Whited**), independently confirmed the same verdict. Extended
-  [people/dc.md](/people/dc.md) and resolved
+  [people/david-c-smith.md](/people/david-c-smith.md) and resolved
   [design/hull-scantlings.md](/design/hull-scantlings.md#alder-and-hemlock-for-structural-and-joiner-work).
   (2) **Dave Bolduc** posted Matt Layden's own leach-tabling drawing (made
   years earlier for Little Cruiser's sail), extending the "paradox sails"
@@ -10522,7 +16551,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [design/rig.md](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted),
   with a 1-2 sentence cross-link summary on `people/david-beard.md`. No new
   files, no renames, no prunings — all content extended existing pages; nine
-  files touched (`people/dc.md`, `design/hull-scantlings.md`,
+  files touched (`people/david-c-smith.md`, `design/hull-scantlings.md`,
   `design/rig.md`, `people/bolduc/dave.md`, `boats/bris-paradox.md`,
   `people/kjell-karlsson.md`,
   `people/glen-maxwell/list-founder-and-moderator.md`, `boats/whisper.md`,
@@ -10538,27 +16567,27 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   punning "West Wight Puddle." Added to
   [references/mailing-list.md](/references/mailing-list.md#list-culture).
   (2) **"Got my plans today"** continued: Alf Sawatzky confirmed the El Toro
-  is a pram-style dinghy and traded weather banter with DC; **Alastair**
+  is a pram-style dinghy and traded weather banter with Smith; **Alastair**
   cautioned Alf that sailing a Paradox feels much more like sailing a yacht
   than a dinghy, based on his own experience launching Little Jim with
   little prior sailing background — added as a new section on
   [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#sailing-a-paradox-feels-more-like-sailing-a-yacht-than-a-dinghy),
   with a cross-link summary on `people/alastair.md`. A new prospective
-  builder, **"Ron"** (Hillsboro, Oregon, plans already purchased), asked DC
+  builder, **"Ron"** (Hillsboro, Oregon, plans already purchased), asked Smith
   whether he had a Paradox on the water near Portland or was still building;
-  **DC** answered with his own design rationale — the lower Columbia River's
+  **Smith** answered with his own design rationale — the lower Columbia River's
   winter-quiet, shoal-draft cruising grounds, a planned Puget Sound/inland
   BC route, a preference for a multihull if he ever trailers to the Sea of
   Cortez, and his general philosophy of owning several boats each suited to
   a specific requirement rather than one boat for everything — added to
-  `people/dc.md`. Ron and Alf remain below the person-page threshold (no
+  `people/david-c-smith.md`. Ron and Alf remain below the person-page threshold (no
   build started yet). (3) Two posts from a new one-off correspondent,
-  **"Phil"** (WA State): a request to visit DC's Swash, and a genuine but
+  **"Phil"** (WA State): a request to visit Smith's Swash, and a genuine but
   unresolved technical question — whether alder or hemlock suit
   boatbuilding for structural/joiner work — noted on
   [design/hull-scantlings.md](/design/hull-scantlings.md#lumber-and-plywood-sourcing).
   No new files, no renames, no prunings — all content extended existing
-  pages; five files touched (`people/dc.md`, `people/alastair.md`,
+  pages; five files touched (`people/david-c-smith.md`, `people/alastair.md`,
   `operations/first-boat-suitability.md`, `references/mailing-list.md`,
   `design/hull-scantlings.md`).
 
@@ -10576,7 +16605,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   with cross-link summaries on `people/bolduc/dave.md` and
   `people/alastair.md`. (2) A **"Got my plans today"** thread: new prospective
   builder **Alf Sawatzky** (Winnipeg-area carpenter/cabinetmaker, no sailing
-  background) introduced himself on receiving his plans; **DC** gave the
+  background) introduced himself on receiving his plans; **Smith** gave the
   archive's fullest newcomer-encouragement advice — keep a build log, break
   the project into small tasks, search the archives before asking, and learn
   to sail on a cheap dinghy first (recommending Phil Bolger's "Elegant Punt,"
@@ -10584,7 +16613,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   weather-banter subthread (Winnipeg vs. NW Oregon climate, an El Toro
   class-association link). Added as a new section on
   [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first),
-  with a cross-link summary on `people/dc.md`; Alf remains below the
+  with a cross-link summary on `people/david-c-smith.md`; Alf remains below the
   person-page threshold (no build started yet), consistent with the file's
   existing "hello members!" newcomer citations. (3) A standalone post: **Ken
   Preston**, a Potter owner still years from building, suggested a future
@@ -10593,15 +16622,15 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [references/mailing-list.md](/references/mailing-list.md#list-culture).
   No new files, no renames, no prunings — all content extended existing
   pages per the narrate-once-cross-link convention. David Beard vs. David
-  LeBlanc and DC vs. Derek Clark attribution traps checked throughout: no
+  LeBlanc and Smith vs. Derek Clark attribution traps checked throughout: no
   confusion (no David LeBlanc or Derek Clark traffic this batch; `kd7ixk@...`
-  /`betelgeuserdude` = DC and `mbolduc@...`/`boldav38` = Dave Bolduc both
+  /`betelgeuserdude` = Smith and `mbolduc@...`/`boldav38` = Dave Bolduc both
   reconfirmed). Msgnum run 2024-2033 confirmed distinct and fully
   consecutive, continuing directly from batch 200's 2023; all ten byte sizes
   matched the dispatch instructions exactly, no stale-read issue; verified no
   new citation-number collisions in any of the six touched files
   (`design/mast-partners.md`, `people/bolduc/dave.md`, `people/alastair.md`,
-  `operations/first-boat-suitability.md`, `people/dc.md`,
+  `operations/first-boat-suitability.md`, `people/david-c-smith.md`,
   `references/mailing-list.md`).
 
 * **~2000 HOLISTIC TREE REVIEW** (post-batch-200, cursor 2000): 5-agent read-only
@@ -10627,13 +16656,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   photographed, folded into
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md).
   (2) A new **"Force 10 stove"** thread: **David Beard** asked about a
-  Force 10 Seacook gimballed propane galley stove for "Whisper"; **DC**
+  Force 10 Seacook gimballed propane galley stove for "Whisper"; **Smith**
   had no direct experience but suggested comparing it against the
   **Forespar Mini-Galley 2000**, and David settled on the Forespar — added
   as a new "Choosing a galley cooking stove" section on
   [operations/cabin-heating.md](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative),
   distinct from that file's existing heating-technique content, with
-  cross-links from `people/david-beard.md` and `people/dc.md`. (3) A new
+  cross-links from `people/david-beard.md` and `people/david-c-smith.md`. (3) A new
   **"paradox sails"** thread: **Jack Gardiner**, sewing his own sail on a
   Sailrite LS-1, asked Glen Maxwell for yard/boom sleeve dimensions; Glen
   gave the archive's fullest sail-building technique — measure the yard's
@@ -10645,16 +16674,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/glen-maxwell/build-and-zoe.md`. A fourth, separate **"Trolling"**
   thread — David Beard's saltwater-fishing question, Jack Gardiner's cheap
   broken-back "Atom Bomber" lure recommendation for Northeast Atlantic
-  species, and DC's detailed Pacific "meathook" trolling rig (tuna cord,
+  species, and Smith's detailed Pacific "meathook" trolling rig (tuna cord,
   surgical-tubing shock absorber, feathered jig) — became a new "Fishing
   while cruising" section on
   [operations/provisioning-and-water.md](/operations/provisioning-and-water.md#fishing-while-cruising),
   a natural fit alongside that file's existing note on caught fish
   supplementing the Bolducs' stores, with cross-links from
-  `people/david-beard.md`, `people/jack-gardiner.md`, and `people/dc.md`.
+  `people/david-beard.md`, `people/jack-gardiner.md`, and `people/david-c-smith.md`.
   No new files, no renames, no prunings — all content extended existing
   pages per the narrate-once-cross-link convention. David Beard vs. David
-  LeBlanc and DC vs. Derek Clark attribution traps checked throughout: no
+  LeBlanc and Smith vs. Derek Clark attribution traps checked throughout: no
   confusion. Msgnum run 2014-2023 confirmed distinct and consecutive,
   continuing from batch 199's 2013.
 
@@ -10703,9 +16732,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Sawatzky, Shane Hersey, Bengt Genell, Bill/wam_53) checked: only
   `kayaker37`/Paul and `crag8`/Craig resurfaced (both already-established
   below-threshold identities, confirmed via `X-Yahoo-Profile` headers); none
-  of the others reappeared. David Beard vs. David LeBlanc and DC vs. Derek
+  of the others reappeared. David Beard vs. David LeBlanc and Smith vs. Derek
   Clark attribution traps checked against `From:`/`X-Yahoo-Profile:` headers
-  throughout: no confusion (no David LeBlanc, DC, or Derek Clark traffic
+  throughout: no confusion (no David LeBlanc, Smith, or Derek Clark traffic
   this batch; `dlb@...`/`buster38801` u=55757302 = David Beard reconfirmed).
   Msgnum run 2004-2013 confirmed distinct and fully consecutive, continuing
   directly from batch 198's 2003.
@@ -10749,16 +16778,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `kayaker37`/Paul resurfaced (his own standing, already-established
   below-threshold identity, distinct from `paull01`/Paul-Seattle and from
   Paul V.), folded inline per convention; none of the others reappeared.
-  David Beard vs. David LeBlanc and DC vs. Derek Clark attribution traps
+  David Beard vs. David LeBlanc and Smith vs. Derek Clark attribution traps
   checked against `From:`/`X-Yahoo-Profile:` headers throughout: no
-  confusion (no David LeBlanc, DC, or Derek Clark traffic this batch).
+  confusion (no David LeBlanc, Smith, or Derek Clark traffic this batch).
   Msgnum run 1994-2003 confirmed distinct and fully consecutive, continuing
   directly from batch 197's 1993.
 
 * **Update (batch page_1961–page_1970, msgnum 1984-1993)**: 13-24 March 2004.
   Five short, independent exchanges, no single centerpiece thread. The
   **"Hatch"** thread carried from the previous batch got a further reply:
-  **DC** gave a sandpaper-refitting technique for a too-tight or wracking
+  **Smith** gave a sandpaper-refitting technique for a too-tight or wracking
   hatch, seconding Glen Maxwell's carnauba-wax fix — extended
   [hatch hardware and security](/construction/hatch-hardware.md). A new
   **"Beams and Bulkheads"** thread: **Steve (KC)** asked whether a finished
@@ -10782,13 +16811,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identifying fellow Swedish sailor Lasse (of the BRIS-hulled,
   Atlantic-crossing *Libra*) — extended
   [the "BRIS Paradox"](/boats/bris-paradox.md). Cross-linked from
-  [people/dc.md](/people/dc.md), [people/steve-kc.md](/people/steve-kc.md),
+  [people/david-c-smith.md](/people/david-c-smith.md), [people/steve-kc.md](/people/steve-kc.md),
   [people/alastair.md](/people/alastair.md),
   [people/david-beard.md](/people/david-beard.md), and
   [people/kjell-karlsson.md](/people/kjell-karlsson.md) per the
   narrate-once-cross-link convention; no new files. Two new below-threshold
   correspondents (Paul of Seattle, and Bill); all standing identity Open
-  items checked, none resurfaced. David Beard vs. David LeBlanc and DC vs.
+  items checked, none resurfaced. David Beard vs. David LeBlanc and Smith vs.
   Derek Clark attribution traps checked against `From:`/`X-Yahoo-Profile`
   headers throughout, no confusion.
 * **Update (batch page_1951–page_1960, msgnum 1974-1983)**: 1-13 March 2004.
@@ -10868,14 +16897,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   spare emergency rudder, a foam-filled mast, toerails/handholds, and
   smaller or reinforced cabin windows) and asked whether any would
   meaningfully improve Paradox's offshore readiness; **Alastair** and
-  **DC** answered item by item (a sprayhood adds nothing sailed from the
+  **Smith** answered item by item (a sprayhood adds nothing sailed from the
   enclosed pilothouse; the yuloh already serves as an emergency rudder; the
   mast is already wood/air-filled; toerails and hatch slides already serve
   as handholds; window strength should be judged by what's actually
   "enough," not assumed inadequate — Alastair's own reef-knot-in-a-lexan-
   offcut test backing the point), while **William Serjeant** placed Paradox
   as a coastal/estuary cruiser capable of an ocean crossing "in the right
-  hands" but not designed for it. DC's own windvane follow-up (forward-of-
+  hands" but not designed for it. Smith's own windvane follow-up (forward-of-
   mast mounting sits in dirty air abaft the beam) and Alastair's closing
   citation of Matt Layden's Watertribe-forum self-steering quote rounded out
   the thread. A short bridging thread carried over from batch 193's
@@ -10899,22 +16928,22 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   buy plans — no boat or further posts recorded. No new files, no renames,
   no prunings.
 * **Update (batch page_1921–page_1930, msgnum 1944-1953)**: 13-16 February
-  2004. **Centerpiece:** the reception and correction of **DC**'s Build
+  2004. **Centerpiece:** the reception and correction of **Smith**'s Build
   Manual "Laminating Beams" installment — **Alastair** worried its accuracy
   emphasis might needlessly intimidate novice builders, having gotten exactly
-  the boat he wanted from his own deliberately workboat-finish build; DC
+  the boat he wanted from his own deliberately workboat-finish build; Smith
   defended precision as a goal while conceding the design's self-fairing
   plywood tolerates real variance, and invited anyone to draft or amend a
   section; **Steve (Kansas City)**, prebending his own 3mm Douglas Fir beam
-  strips, then caught a genuine error in the installment — DC had reversed
-  the springback claim — which DC corrected, adding his own lamination
+  strips, then caught a genuine error in the installment — Smith had reversed
+  the springback claim — which Smith corrected, adding his own lamination
   figures (5mm Honduras mahogany, 30-40 clamps per beam, recommending 7-8mm
   in hindsight) and a full-length clamp-pad tip; **Alastair** capped the
   thread with his own figures (7mm strips, steamed first, only 3 clamps) —
   new sections "Precision versus a workboat finish" and "Lamination
   thickness and springback in practice" on [deck and cabin beam
   lamination](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment),
-  extending [Alastair](/people/alastair.md), [DC](/people/dc.md), and [Steve
+  extending [Alastair](/people/alastair.md), [David C. Smith](/people/david-c-smith.md), and [Steve
   (Kansas City)](/people/steve-kc.md). A separate "Everglades Challenge"
   thread: Alastair noted Matt Layden was entering the March 2004 Everglades
   Challenge in a sailing kayak rather than Paradox; David Beard predicted
@@ -10940,16 +16969,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identities beyond Steve KC's expected substantive appearance;
   kayaker37/Paul resurfaced once (below-threshold, folded inline per
   convention, no person page); Todd (below threshold, newly recurring)
-  likewise folded inline. David Beard vs. David LeBlanc and DC vs. Derek
+  likewise folded inline. David Beard vs. David LeBlanc and Smith vs. Derek
   Clark attribution traps checked against `From:`/`X-Yahoo-Profile:` headers
   throughout: no confusion (no David LeBlanc or Derek Clark traffic this
-  batch; David Beard's `dlb`/`buster38801` identity, u=55757302, and DC's
+  batch; David Beard's `dlb`/`buster38801` identity, u=55757302, and Smith's
   `kd7ixk`/`betelgeuserdude` identity, u=144918809, both confirmed via
   headers). Msgnum run 1944-1953 confirmed distinct and fully consecutive,
   continuing directly from batch 192's 1943; all ten byte sizes matched the
   dispatch instructions exactly, no stale-read issue; citation-collision
   check clean across all seven touched files (`construction/deck-and-cabin-beams.md`,
-  `people/alastair.md`, `people/dc.md`, `people/steve-kc.md`,
+  `people/alastair.md`, `people/david-c-smith.md`, `people/steve-kc.md`,
   `people/david-beard.md`, `matt-layden/biography.md`,
   `operations/heavy-weather-tactics.md`).
 
@@ -10973,7 +17002,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Zoë)](/people/glen-maxwell/build-and-zoe.md), and cross-linked from
   [Southern California sailing and the Catalina Island crossing
   question](/operations/southern-california-and-catalina-crossing.md#a-builders-own-start-plans-a-scale-model-and-the-mast-question).
-  (3) **Centerpiece:** **DC**'s Build Manual "Deck Beam Template" and
+  (3) **Centerpiece:** **Smith**'s Build Manual "Deck Beam Template" and
   "Laminating Jigs" installment — the promised next section after
   "Preparations" — a full method for building the deck, cabin, and hatch
   beam templates off sheets 7 and 10, building the laminating jig to the
@@ -10984,15 +17013,15 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "nicely explained" — new section on [deck and cabin beam
   lamination](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment),
   extending [build effort and workspace](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory)
-  (cross-link only), [DC](/people/dc.md), [Alastair](/people/alastair.md), and
+  (cross-link only), [David C. Smith](/people/david-c-smith.md), [Alastair](/people/alastair.md), and
   [Glen Maxwell (build and Zoë)](/people/glen-maxwell/build-and-zoe.md). No
   new files; all content extended existing pages. Standing-open-items check:
   none of Jeff UK/roverticket, botebilder/Ernie Fossel, below-threshold
   Larry/newspipetr3, Derek Clark/dclark52001, Fredrik, Jake, "Lugger #2",
   kayaker37/Paul, Steve/Kansas City, Howard Welch, Jason Stancil, or John Hall
   resurfaced; one new below-threshold newcomer, Todd (`ntsrfer`/`ktsrfer`),
-  kept inline per the people threshold. No DC-vs-Derek-Clark confusion (no
-  Derek Clark traffic this batch, though DC himself is the centerpiece
+  kept inline per the people threshold. No Smith-vs-Derek-Clark confusion (no
+  Derek Clark traffic this batch, though Smith himself is the centerpiece
   contributor — his `kd7ixk`/`betelgeuserdude` identity confirmed via
   headers); no David LeBlanc traffic, so the David Beard-vs-David LeBlanc
   trap was not implicated (David Beard's own `dlb`/`buster38801` identity,
@@ -11041,7 +17070,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   City (here promoted from below-threshold watch-item to a substantive
   yuloh-construction contributor, still filed at his existing person page),
   Howard Welch, Jason Stancil, or John Hall resurfaced beyond Steve KC's own
-  continuing presence. No DC or Derek Clark traffic this batch, so the DC-
+  continuing presence. No Smith or Derek Clark traffic this batch, so the Smith-
   vs-Derek-Clark trap was not implicated; no David LeBlanc traffic, so the
   David Beard-vs-David LeBlanc trap was not implicated (David Beard's own
   `dlb`/`buster38801` identity confirmed via headers as usual). msgnum run
@@ -11119,7 +17148,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Update (batch page_1871–page_1880, msgnum 1894-1903)**: 24-25 January
   2004. (1) The "Double Rudders" thread's practical-self-steering coda —
-  DC's tillerpilot/wind-vane assessment (longitudinal tillerpilot mount,
+  Smith's tillerpilot/wind-vane assessment (longitudinal tillerpilot mount,
   mainsheet-fouling and beach-ability obstacles, a sketched
   vane-plus-trim-tab linkage) and Alastair's own view (inside-hull tiller
   pilot, a forward-of-mast vane idea, Matt Layden's Watertribe
@@ -11127,7 +17156,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   unnecessary), closed the next day by William Serjeant thanking Alastair
   and hoping to visit and see "Little Jim" — new section on
   [self-steering](/operations/self-steering.md#weighing-a-tillerpilot-against-a-genuine-wind-vane),
-  extending [DC](/people/dc.md), [Alastair](/people/alastair.md), and
+  extending [David C. Smith](/people/david-c-smith.md), [Alastair](/people/alastair.md), and
   [Small Sailboats / Paradox-UK websites](/references/paradox-uk-website.md).
   (2) A final coda to the "Sea Trial article" saga — below-threshold Derek
   Clark's belated thank-you for the pictures — extending
@@ -11202,7 +17231,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (3) **The centerpiece** — Jack Gardiner's "building update" thread turns to
   cabin-height ideas: extending the cabin forward, stepping up the aft hatch,
   or a plexiglass dome, the last mistakenly attributed to "Nels" then
-  corrected to **DC**, who clarifies the dome was never meant for a Paradox
+  corrected to **Smith**, who clarifies the dome was never meant for a Paradox
   and supplies the archive's only aircraft-canopy precedent (the F-16
   fighter canopy, adapted for unlimited-hydroplane racing boats); Alastair
   counters with a floor-lowering-vs-roof-raising design tradeoff (boom
@@ -11211,16 +17240,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   cabin, canopy, and cockpit-height ideas" on [aluminum and steel Paradox
   (speculative)](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas),
   extending [Jack Gardiner](/people/jack-gardiner.md#construction-begins),
-  [DC](/people/dc.md), and [Alastair](/people/alastair.md). Eight files
+  [David C. Smith](/people/david-c-smith.md), and [Alastair](/people/alastair.md). Eight files
   extended (`boats/zoe.md`, `references/paradox-uk-website.md`,
   `design/rudder.md`, `people/william-longyard.md`, `people/jack-gardiner.md`,
-  `people/dc.md`, `design/aluminum-construction-idea.md`,
+  `people/david-c-smith.md`, `design/aluminum-construction-idea.md`,
   `people/alastair.md`); no new files, no renames, no prunings. Standing-
   watchlist check: none of Jeff UK/roverticket, botebilder/Ernie Fossel,
   below-threshold Larry/newspipetr3, Derek Clark/dclark52001, Fredrik, Jake,
   "Lugger #2," kayaker37/Paul, Steve/Kansas City, or Jason Stancil resurfaced
-  this batch. DC (`kd7ixk`/`betelgeuserdude`) appeared but Derek Clark did
-  not, so no DC-vs-Derek-Clark confusion risk arose; no David Beard or David
+  this batch. Smith (`kd7ixk`/`betelgeuserdude`) appeared but Derek Clark did
+  not, so no Smith-vs-Derek-Clark confusion risk arose; no David Beard or David
   LeBlanc traffic this batch; Jack Gardiner's `alex29`/`tidybowlmann`
   identity (u=111173743) confirmed consistent, not split. Msgnum run
   1874-1883 confirmed distinct and consecutive, continuing from batch 185's
@@ -11232,7 +17261,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   21-22 January 2004, both extending existing pages (no new files).
   **Centerpiece:** a new **"enlarged paradox?"** thread — newcomer
   **Jason Stancil**, over 6 ft tall, asks whether a straight 20% scale-up is
-  really as simple as multiplying every dimension; **DC** (6'1", plenty of
+  really as simple as multiplying every dimension; **Smith** (6'1", plenty of
   room himself) points to Glen Maxwell's already-circulated larger-Paradox
   files; **Nels** adds a two-up-cruising case for going bigger (a visitor
   left standing in the rain for lack of cabin room; Andrew Graham's own
@@ -11243,7 +17272,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   amidships-concentrated stretch borrowed from kayak design) — all capped
   around a 10% enlargement; extended
   [Stretched Paradox](/design/variants/stretched-paradox.md#enlarging-for-a-tall-sailor-and-three-named-stretch-methods),
-  [DC](/people/dc.md), and [Nels](/people/nels.md). Second thread: the
+  [David C. Smith](/people/david-c-smith.md), and [Nels](/people/nels.md). Second thread: the
   **"Sea Trial article"** saga continues from batch 184 — Glen Maxwell
   offers to zip pictures directly to below-threshold **Derek Clark**, who
   asks to also share them with UK builder **William Serjeant**; Serjeant
@@ -11257,7 +17286,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [Alastair](/people/alastair.md), and
   [Glen C. Maxwell — build and "Zoë"](/people/glen-maxwell/build-and-zoe.md).
   Eight files extended (`design/variants/stretched-paradox.md`,
-  `people/dc.md`, `people/nels.md`, `boats/zoe.md`,
+  `people/david-c-smith.md`, `people/nels.md`, `boats/zoe.md`,
   `design/furling-system.md`, `references/paradox-uk-website.md`,
   `people/alastair.md`, `people/glen-maxwell/build-and-zoe.md`); no new
   files, no renames, no prunings. Standing-watchlist check: below-threshold
@@ -11266,7 +17295,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   asked the enlargement question that opened this batch's centerpiece
   thread (kept inline, no boat/build); none of Jeff UK/roverticket,
   botebilder/Ernie Fossel, below-threshold Larry/newspipetr3, Fredrik, Jake,
-  "Lugger #2," kayaker37/Paul, or Steve/Kansas City resurfaced. DC vs. Derek
+  "Lugger #2," kayaker37/Paul, or Steve/Kansas City resurfaced. Smith vs. Derek
   Clark attribution trap checked carefully — both appear this batch, but in
   different threads, verified against `From:`/`X-Yahoo-Profile:` headers
   throughout; no David Beard or David LeBlanc traffic this batch; Jack
@@ -11313,10 +17342,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`dclark52001`) resurfaced once (thanking Glen for the Sea Trial article);
   none of Jeff UK/roverticket, botebilder/Ernie Fossel, below-threshold
   Larry/newspipetr3, Fredrik, Jake, "Lugger #2," kayaker37/Paul, or
-  Steve/Kansas City resurfaced. David Beard vs. David LeBlanc and DC vs.
+  Steve/Kansas City resurfaced. David Beard vs. David LeBlanc and Smith vs.
   Derek Clark attribution traps checked against `From:`/`X-Yahoo-Profile:`
   headers throughout (only David Beard's `dlb@`/`buster38801` and Derek
-  Clark's `dclark52001` appeared; no David LeBlanc or DC/`kd7ixk` traffic
+  Clark's `dclark52001` appeared; no David LeBlanc or Smith/`kd7ixk` traffic
   this batch); Jack Gardiner's `alex29`/`tidybowlmann` identity (u=111173743)
   confirmed consistent. Msgnum run 1854-1863 confirmed distinct and
   consecutive, continuing from batch 183's 1853; all ten byte sizes matched
@@ -11364,8 +17393,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Gardiner chine-log/sheer-clamp question); none of Jeff UK/roverticket,
   botebilder/Ernie Fossel, below-threshold Larry/newspipetr3, Fredrik, Jake,
   "Lugger #2," kayaker37/Paul, or Steve/Kansas City's original open item
-  (now a recurring correspondent) raised new concerns. DC (`kd7ixk`) did not
-  appear this batch, so no DC/Derek Clark confusion risk arose; Jack
+  (now a recurring correspondent) raised new concerns. Smith (`kd7ixk`) did not
+  appear this batch, so no Smith/Derek Clark confusion risk arose; Jack
   Gardiner's `alex29`/`tidybowlmann` identity confirmed consistent via
   headers throughout. Msgnum run 1844-1853 confirmed distinct and fully
   consecutive, continuing directly from batch 182's 1843; all ten byte sizes
@@ -11373,7 +17402,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   no new citation-number collisions in any of the nine touched files.
 
 * **Update (batch page_1811–page_1820, msgnum 1834-1843)**: The "mast" thread
-  continues and closes: **DC** gives the fullest case that aluminum and wood
+  continues and closes: **Smith** gives the fullest case that aluminum and wood
   masts of the same diameter do not carry comparable strength, and that a
   secondhand spar should either be sized by yacht-design spar formulas or
   bought new rather than trusted to luck; **Alastair** adds that converting
@@ -11381,7 +17410,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   building the plans' wooden mast right the first time (which he himself
   found easier than expected); below-threshold **Derek Clark** asks,
   unanswered, whether Matt Layden's own mast was engineering-calculated or
-  materials-driven, and DC closes with a one-line "Spare masts" reply; new
+  materials-driven, and Smith closes with a one-line "Spare masts" reply; new
   in [rig and sail](/design/rig.md#aluminum-as-a-mast-material-engineering-fit-not-just-substitution).
   The "Translating Sven's Book" project gets a further Nels update
   (confirming William Longyard's chapter count and photocopy offer, plus a
@@ -11398,16 +17427,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   solid top and run up the outside, with a hindsight wish he'd instead run
   copper strips under the glass sheathing near the top); new in
   [running lights](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
-  Extended [Nels](/people/nels.md), [DC](/people/dc.md),
+  Extended [Nels](/people/nels.md), [David C. Smith](/people/david-c-smith.md),
   [Alastair](/people/alastair.md), and
   [Steve (Kansas City)](/people/steve-kc.md) with cross-links and citations
   for all of the above. Standing-watchlist check: below-threshold
   **Derek Clark** (`dclark52001`) resurfaced once more (the "mast" thread's
   close); none of Jeff UK/roverticket, botebilder/Ernie Fossel,
   below-threshold Larry/newspipetr3, Fredrik, Jake, "Lugger #2",
-  kayaker37/Paul resurfaced. **DC vs. Derek Clark attribution trap**
+  kayaker37/Paul resurfaced. **Smith vs. Derek Clark attribution trap**
   carefully checked against `From:`/`X-Yahoo-Profile:` headers, since both
-  appear this batch (DC = `kd7ixk`/`betelgeuserdude`; Derek Clark =
+  appear this batch (Smith = `kd7ixk`/`betelgeuserdude`; Derek Clark =
   `dclark52001`) — no confusion. Timeline: 11-13 January 2004. No new
   files, no renames, no prunings — all content extends existing pages.
   Msgnum run 1834-1843 confirmed distinct and fully consecutive, continuing
@@ -11421,12 +17450,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   before; new in
   [the "BRIS Paradox"](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
   The LED-navigation-lights thread gets a coda on charging voltage and
-  COLREGS: **DC** asks whether Alastair's LED figures hold under a
+  COLREGS: **Smith** asks whether Alastair's LED figures hold under a
   charging battery, and restates that COLREGS side lights, unlike the
   steaming/stern functions, may never be folded into a combined tricolor
   unit; new in
   [running lights](/operations/running-lights.md#running-leds-off-a-charging-battery-rather-than-a-steady-12v-supply).
-  A new one-off "Bow Fairlead" exchange has DC asking Glen Maxwell whether
+  A new one-off "Bow Fairlead" exchange has Smith asking Glen Maxwell whether
   his PVC fairlead horns are drilled or just scuffed for bond, and whether
   they flex; new in
   [ground tackle and anchoring](/operations/ground-tackle.md#glen-maxwells-bow-fairlead-construction).
@@ -11440,16 +17469,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   maintenance-free, with a cable-tie "Y" trick to stop mast wiring
   "pinging" at night; new in
   [rig and sail](/design/rig.md#reusing-a-secondhand-dinghy-mast).
-  Extended [Nels](/people/nels.md), [DC](/people/dc.md),
+  Extended [Nels](/people/nels.md), [David C. Smith](/people/david-c-smith.md),
   [Glen C. Maxwell](/people/glen-maxwell/build-and-zoe.md), and
   [William Longyard](/people/william-longyard.md) with cross-links and
   citations for all of the above. Standing-watchlist check: below-threshold
   **Derek Clark** (`dclark52001`) resurfaced twice (the "mast" thread);
   none of Jeff UK/roverticket, botebilder/Ernie Fossel, below-threshold
   Larry/newspipetr3, Fredrik, Jake, "Lugger #2", kayaker37/Paul, or
-  Steve/Kansas City resurfaced. **DC vs. Derek Clark attribution trap**
+  Steve/Kansas City resurfaced. **Smith vs. Derek Clark attribution trap**
   carefully checked against `From:`/`X-Yahoo-Profile:` headers, since both
-  appear this batch in adjacent threads (DC = `kd7ixk`/`betelgeuserdude`
+  appear this batch in adjacent threads (Smith = `kd7ixk`/`betelgeuserdude`
   in the LED/fairlead threads; Derek Clark = `dclark52001` in the mast
   thread) — no confusion. Timeline: 9-10 January 2004. No new files, no
   renames, no prunings — all content extends existing pages. Msgnum run
@@ -11706,9 +17735,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Beard (`dlb@`/`buster38801`) vs. David LeBlanc (`whisper@`/`meerkatoz`)
   disambiguation check throughout — all `dlb@`/`buster38801` citations this
   batch verified against their own `From:`/`X-Yahoo-Profile:` headers as
-  David Beard; no David LeBlanc traffic this batch. DC (`kd7ixk`/
+  David Beard; no David LeBlanc traffic this batch. Smith (`kd7ixk`/
   `betelgeuserdude`) vs. Derek Clark (`dclark52001`) also held cleanly — no
-  DC traffic this batch. No Glen Maxwell content this batch requiring the
+  Smith traffic this batch. No Glen Maxwell content this batch requiring the
   `people/glen-maxwell/` sub-file split. Verified no new citation-number
   collisions in any of the six touched files
   (`design/rig.md`, `construction/build-effort.md`, `people/david-beard.md`,
@@ -11734,7 +17763,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   The tools debate drew several further contributions: a below-threshold
   correspondent, **Larry**, made the case for accumulating fine antique
   tools cheaply over years rather than buying new, replying to
-  [DC](/people/dc.md)'s dislike of ornamental "modern outlook" tools; a
+  [David C. Smith](/people/david-c-smith.md)'s dislike of ornamental "modern outlook" tools; a
   below-threshold newcomer, **Derek Clark** (`dclark52001`), replied with
   his own tradesman-vs-one-boat-builder distinction and a minimal starter
   kit; [Alastair](/people/alastair.md) drew out a "builders vs. boaters"
@@ -11748,7 +17777,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   minimalist case independent professional weight. All new in
   [build effort and workspace](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
   **[Kjell Karlsson](/people/kjell-karlsson.md) answered
-  [DC](/people/dc.md)'s previously-unanswered "ParaPlastic" question** —
+  [David C. Smith](/people/david-c-smith.md)'s previously-unanswered "ParaPlastic" question** —
   expecting his composite Paradox to come out slightly lighter than Matt
   Layden's stock design, confirming matching house/deck sandwich
   construction, and confirming a 60mm, 2mm-thick carbon-fiber mast —
@@ -11778,16 +17807,16 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Batch 174 (pages 1731–1740, msgnum 1753–1762, 2–3 January 2004) —
   centerpiece: the tail of the "Build Manual, Preparations" tool-list
-  debate (David LeBlanc's "workshop or a boat?" pushback and DC's defense),
+  debate (David LeBlanc's "workshop or a boat?" pushback and Smith's defense),
   Alastair's cabin-only anchoring routine, and Jack Gardiner's resolution
   of the "Steel?" saga to build stock wood first.**
-  [DC](/people/dc.md)'s comprehensive Build Manual tool inventory (batch
+  [David C. Smith](/people/david-c-smith.md)'s comprehensive Build Manual tool inventory (batch
   173) drew a sharper second round of pushback: [David
   LeBlanc](/people/david-leblanc.md) called it "wildly excessive," joking it
   would cost more than the boat, and proposed a tiered
   minimum/nice-to-have/luxury list instead, citing a fiddlier boat design
   whose prototype was built with only an electric drill and planer as power
-  tools. DC defended the list's comprehensiveness — his own stationary power
+  tools. Smith defended the list's comprehensiveness — his own stationary power
   tools cost no more than $1,200 new, with a $300 drill press deliberately
   deferred — and reposted the full inventory unable to find consensus on any
   item to trim; LeBlanc then softened his tone with an apology, restating
@@ -11810,7 +17839,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [rig and sail](/design/rig.md#a-proposed-birdsmouth-building-tutorial-and-existing-published-guides).
   [William Longyard](/people/william-longyard.md) posted a bare link to Sven
   Yrvind's own website (`www.yrvind.com`), folded into his existing Yrvind
-  expertise section. [DC](/people/dc.md) asked
+  expertise section. [David C. Smith](/people/david-c-smith.md) asked
   [Kjell Karlsson](/people/kjell-karlsson.md) about his new "ParaPlastic"
   build photos — dry weight, house/deck construction, carbon mast — left
   unanswered in the archive; new in
@@ -11840,7 +17869,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   new to
   [blue-water suitability](/design/blue-water-suitability.md#flat-panels-and-the-brute-hammer-of-a-breaking-wave),
   left without a direct reply in the archive. Separately,
-  [DC](/people/dc.md) opened a new "Center of Gravity" thread asking how a
+  [David C. Smith](/people/david-c-smith.md) opened a new "Center of Gravity" thread asking how a
   sailor should be secured to the sole during a knockdown (Velcro pants,
   snaphook, seatbelt), reasoning from his own ~225 lb frame and a drawing of
   Sven Yrvind's new boat that appeared to show the crew buckled in; **Bill
@@ -11858,7 +17887,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   open "V" cut into each stave, dovetailing into its neighbor), resolving an
   open item carried from batch 172 — new to
   [rig and sail](/design/rig.md). Three smaller items extended existing
-  construction pages: [Alastair](/people/alastair.md) cautioned that DC's
+  construction pages: [Alastair](/people/alastair.md) cautioned that Smith's
   full Build Manual tool inventory might have discouraged him before he
   started building, since he owns only about a tenth of it (extending
   [build effort and workspace](/construction/build-effort.md)); Alastair
@@ -11866,7 +17895,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   chine-runner technique, answering a newcomer's "Chinerunners" question
   alongside David Beard (extending
   [chine runner construction](/chine-runners/construction.md));
-  and Alastair confirmed DC's plans-based reading that the rudder pivots on
+  and Alastair confirmed Smith's plans-based reading that the rudder pivots on
   the ship's centerline, closing out David Beard's "rudder" question
   (extending [rudder and chine experiments](/design/rudder.md)). No new
   files, no renames, no prunings. Standing open items checked in
@@ -11910,7 +17939,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   flat bottom" and "Why a keel-less, dory-like hull resists tripping in
   steep waves"), cross-linked from `people/william-longyard.md`,
   `people/nels.md`, and `people/kjell-karlsson.md`.
-  Separately, [DC](/people/dc.md) replied directly to Glen Maxwell's earlier
+  Separately, [David C. Smith](/people/david-c-smith.md) replied directly to Glen Maxwell's earlier
   sea-anchor report with rigging notes on surplus military parachutes
   (closer to a cargo-drop drogue than a purpose-built sea anchor unless
   re-rigged with long shrouds and a swivel) and monohull-vs-multihull lead
@@ -11919,9 +17948,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   and settling on deploying the sea anchor early instead. [Ron
   Eike](/people/ron-eike.md), in the ongoing "Mast" thread, recalled a
   composite gaff built over a tapered PVC-pipe mandrel wrapped in carbon
-  fiber, judging a spruce core (as DC proposed for a Paradox mast) would add
+  fiber, judging a spruce core (as Smith proposed for a Paradox mast) would add
   real strength the PVC core lacked. A short "Wooden spars" thread asked
-  whether Douglas fir is the only alternative to Sitka spruce; DC ranked
+  whether Douglas fir is the only alternative to Sitka spruce; Smith ranked
   Douglas fir strongest, with Honduras mahogany and Alaskan yellow cedar
   also usable at some cost in strength, noting a birdmouth/carbon-sleeve
   build loosens the wood choice further; Kjell Karlsson's follow-up
@@ -11930,7 +17959,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   military chutes as sea anchors, and lead angle under different hulls")
   and [rig and sail](/design/rig.md) (Ron Eike's composite-gaff aside, and
   "Wood species for a scratch-built wooden mast"), cross-linked from
-  `people/dc.md` and `people/ron-eike.md`. No renames; no pruning; no new
+  `people/david-c-smith.md` and `people/ron-eike.md`. No renames; no pruning; no new
   files. Standing open items checked in `.okf-progress/backlog.md` — none of
   Jeff UK, botebilder/Ernie Fossel, below-threshold Larry, Derek Clark,
   Fredrik, Jake, "Lugger #2", kayaker37/Paul, or Steve/Kansas City
@@ -11955,7 +17984,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [Nels](/people/nels.md) supplied two published birdsmouth-tutorial links
   and recalled a WoodenBoat Magazine article on the subject, which Glen
   judged both links **too thin on detail and worked examples** for a
-  first-time taperer. [DC](/people/dc.md) revived his August-2003
+  first-time taperer. [David C. Smith](/people/david-c-smith.md) revived his August-2003
   birdmouth-spruce-mandrel/braided-carbon-sleeve composite mast proposal,
   judging the weight penalty against the plans' spec mast negligible and the
   real payoff the building experience; Glen estimated the resulting spar
@@ -11967,7 +17996,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   existing published guides" and "A birdmouth-and-carbon composite mast,
   revisited" on [rig and sail](/design/rig.md), cross-linked from
   `people/jack-gardiner.md`, `people/william-longyard.md`, `people/nels.md`,
-  `people/dc.md`, and `people/glen-maxwell/build-and-zoe.md`.
+  `people/david-c-smith.md`, and `people/glen-maxwell/build-and-zoe.md`.
   Separately, Glen Maxwell gave a direct continuation of the
   "anchor lockers and Anchoring" thread from batches 169–170: why the
   **port side deck** stays cluttered under sail (raised boom sits too low,
@@ -12081,7 +18110,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   directly from batch 168's 1702.
 
 * **Batch 168 (pages 1671–1680, msgnum 1693–1702, 30–31 December 2003) —
-  centerpiece: Glen Maxwell's full anchoring account and DC's cockpit-worked
+  centerpiece: Glen Maxwell's full anchoring account and Smith's cockpit-worked
   lanyard retrieval system.** The batch opens by closing out the "Another
   book" thread's tail: [William Longyard](/people/william-longyard.md)
   answered Jack Gardiner's question of whether his next book was "in the
@@ -12094,24 +18123,24 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/william-longyard.md](/people/william-longyard.md), with
   [people/jack-gardiner.md](/people/jack-gardiner.md)'s prior "unanswered"
   note closed out. The centerpiece is a five-message continuation of the
-  "anchor locker"/"anchor lockers and Anchoring" threads: [DC](/people/dc.md)
+  "anchor locker"/"anchor lockers and Anchoring" threads: [David C. Smith](/people/david-c-smith.md)
   answered Longyard's split-window idea with a Lewmar hatch/portlight
   alternative he'd already weighed (1695); [Glen C.
   Maxwell](/people/glen-maxwell.md) gave the archive's fullest first-person
   anchoring account — declining a below-deck well aboard Zoë for canvas-ice-bag
   stowage, Matt Layden's stern-set cockpit-worked method, and the Cedar Key
-  bag-overboard anecdote (1696); DC answered with an elaborate cockpit-worked
+  bag-overboard anecdote (1696); Smith answered with an elaborate cockpit-worked
   lanyard-and-roller retrieval system adapted from a parachute-sea-anchor rig,
   conceding "lot to be said for the simplicity" of Glen's method (1699); and
   "Jeff (UK, `roverticket`)" closed with a bow-ring/bridle scheme and a
   flat-afterdeck counterproposal to Glen, both unanswered (1701, 1702) — all
   new in [operations/ground-tackle.md](/operations/ground-tackle.md),
-  cross-linked from [people/dc.md](/people/dc.md),
+  cross-linked from [people/david-c-smith.md](/people/david-c-smith.md),
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md),
   and [people/jeff-doryman.md](/people/jeff-doryman.md). A short "Woven
   roving vrs 45X45 biax" side-thread (1698, 1700) — Jack Gardiner asking
   whether biaxial cloth could substitute for the plans' woven-roving glass
-  schedule, DC answering that the schedule targets abrasion resistance rather
+  schedule, Smith answering that the schedule targets abrasion resistance rather
   than raw strength — is new in
   [construction/hull-planking.md](/construction/hull-planking.md). "Jeff UK"
   (`roverticket`) resurfacing is a standing backlog identity-check item; no
@@ -12127,23 +18156,23 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files were uploaded to the Files section, naming which program opens each
   (1683), then considered uploading a 2D dxf file too after William
   Longyard's suggestion (1684) — closing beats folded into
-  [construction/panel-layout.md](/construction/panel-layout.md). [DC](/people/dc.md)
+  [construction/panel-layout.md](/construction/panel-layout.md). [David C. Smith](/people/david-c-smith.md)
   then answered [David Beard](/people/david-beard.md)'s batch-166 rudder
   pivot-point question (1685) — the plans put the upper rudder half's
   centerline on the vessel centerline, a cosmetic-only concern since the
   lower half and tiller work fine off-center — closing that open item in
   [design/rudder.md](/design/rudder.md). The centerpiece is a new
-  four-message "anchor locker" thread: DC proposed a flush, self-draining
+  four-message "anchor locker" thread: Smith proposed a flush, self-draining
   afterdeck Danforth well and a PVC-tube scheme for a folding grapnel (1686);
   [William Longyard](/people/william-longyard.md) countered with a
   conventional bow anchor well for stability, from his experience that
-  insufficient forward weight makes small boats fidgety in chop (1687); DC
+  insufficient forward weight makes small boats fidgety in chop (1687); Smith
   explained his preference for aft, inboard stowage as a big man (6'1", 225
   lb) whose forward movement upsets a small boat's balance (1690); Longyard
   closed with a split forward window for foredeck access without going on
   deck, and a mast-trunk drain with an in-line strainer (1692) — all new in
   [operations/ground-tackle.md](/operations/ground-tackle.md), cross-linked
-  from [people/dc.md](/people/dc.md) and
+  from [people/david-c-smith.md](/people/david-c-smith.md) and
   [people/william-longyard.md](/people/william-longyard.md). A minor
   "Another book" sub-thread (1688, 1689, 1691) — a newcomer (Kellan,
   `dagon_gsl`) hoping for a follow-up to *A Speck on the Sea*, Longyard's
@@ -12157,8 +18186,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Batch 166 (pages 1651–1660, msgnum 1673–1682, 30 December 2003) —
   centerpiece: the Hull-program nesting/CAD workflow, and the Build Manual's
   first reception.** [Glen C. Maxwell](/people/glen-maxwell.md) thanked
-  [DC](/people/dc.md) for the "Build Manual, Preparations" installment
-  (1673), and DC previewed the manual's next sections — deckbeams, then
+  [David C. Smith](/people/david-c-smith.md) for the "Build Manual, Preparations" installment
+  (1673), and Smith previewed the manual's next sections — deckbeams, then
   bulkheads (1675) — closing beat folded into
   [construction/build-effort.md](/construction/build-effort.md). The
   centerpiece is a six-message "nesting" thread in which Glen introduced
@@ -12175,7 +18204,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   in [construction/panel-layout.md](/construction/panel-layout.md),
   distinct from (and not a resolution of) the still-open stretched-Paradox
   nesting question from batch 165. A one-line closer (1676, Longyard
-  thanking DC for a "well reasoned and written letter") ends the multi-batch
+  thanking Smith for a "well reasoned and written letter") ends the multi-batch
   "Alternative building materials" epilogue in
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md).
   The batch's one new fact: [David Beard](/people/david-beard.md) opened a
@@ -12187,7 +18216,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (new section, citations [17]-[22]),
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
   (citation [97]), [design/rudder.md](/design/rudder.md) (new section,
-  citation [36]), [people/dc.md](/people/dc.md) ([94]-[95]),
+  citation [36]), [people/david-c-smith.md](/people/david-c-smith.md) ([94]-[95]),
   [people/william-longyard.md](/people/william-longyard.md) ([60]-[62]),
   [people/jack-gardiner.md](/people/jack-gardiner.md) ([39]),
   [people/david-beard.md](/people/david-beard.md) ([184]), and
@@ -12221,14 +18250,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (not merely bent) nails as a permanent lapstrake/canoe fastening technique
   — from kayaker37 ("Paul," an established below-threshold handle) citing
   Don Elliott's building guide and linking illustrated instructions (1670),
-  and from [DC](/people/dc.md), who cited his father's clench-nailed
+  and from [David C. Smith](/people/david-c-smith.md), who cited his father's clench-nailed
   cedar/canvas Oldtown canoe and two reference books, "Gougeon Brothers on
   Boat Construction" and Robert Steward's "Boatbuilding Manual" (1671) — new
   section in
   [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md).
-  The batch closes with DC's return-visit reply (1672) to William Longyard's
+  The batch closes with Smith's return-visit reply (1672) to William Longyard's
   "heresy" joke on the "Alternative building materials" thread (which Derek
-  Clark had closed in batch 164 with his "will build in wood" post): DC's
+  Clark had closed in batch 164 with his "will build in wood" post): Smith's
   fullest general statement that "the Paradox design is what it is,"
   surveying the archive's actual build variety (Kjell Karlsson's foam-core
   composite, Jeff UK's stitch-and-glue plywood, the aluminum/steel
@@ -12247,15 +18276,15 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
   (citation [96]), [people/jack-gardiner.md](/people/jack-gardiner.md)
   ([34]-[38]), [people/david-beard.md](/people/david-beard.md) ([183]), and
-  [people/dc.md](/people/dc.md) ([92]-[93]). No new files created; no
+  [people/david-c-smith.md](/people/david-c-smith.md) ([92]-[93]). No new files created; no
   renames; no pruning. Verified no new citation-number collisions in any of
   the eight touched files. Msgnum run 1663-1672 confirmed distinct and
   fully consecutive, continuing directly from batch 164's 1662; all ten
   byte sizes matched the dispatch instructions exactly, no stale-read
   issue.
 * **Batch 164 (pages 1631–1640, msgnum 1653–1662, 29 December 2003) —
-  centerpiece: DC's "Build Manual, Preparations" installment, and the
-  "Steel?" thread's true last word.** [DC](/people/dc.md) posted the group
+  centerpiece: Smith's "Build Manual, Preparations" installment, and the
+  "Steel?" thread's true last word.** [David C. Smith](/people/david-c-smith.md) posted the group
   Build Manual's fullest single tool inventory — build-site guidance (shelter
   against dew/rain/airborne debris; heating/cooling considerations for epoxy
   and paint; a garage as optimal but not required) and a categorized tool
@@ -12295,7 +18324,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (new "Epilogue" section, citations [92]-[95]),
   [boats/bris-paradox.md](/boats/bris-paradox.md) (citations [32]-[35]),
   [references/materials-sourcing-links.md](/references/materials-sourcing-links.md)
-  (citation [8]), [people/dc.md](/people/dc.md) ([91]),
+  (citation [8]), [people/david-c-smith.md](/people/david-c-smith.md) ([91]),
   [people/nels.md](/people/nels.md) ([73]),
   [people/william-longyard.md](/people/william-longyard.md) ([56]-[59]),
   [people/jack-gardiner.md](/people/jack-gardiner.md) ([33]),
@@ -12312,8 +18341,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Batch 163 (pages 1621–1630, msgnum 1643–1652, 29 December 2003) —
   centerpiece: the "Steel?" thread's genuine final close, one batch after
-  its coda appeared to have already landed.** DC and Jeffery Please
-  ("Jeff UK") traded a short epoxy-shelf-life exchange — DC has used epoxy
+  its coda appeared to have already landed.** Smith and Jeffery Please
+  ("Jeff UK") traded a short epoxy-shelf-life exchange — Smith has used epoxy
   "much older" than three years, with the hardener rather than the resin
   the real limiting factor — which drew [Glen C.
   Maxwell](/people/glen-maxwell.md) in with the archive's fullest epoxy-
@@ -12321,14 +18350,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   confirmed by West System's own ten-year-old-epoxy testing, plus a
   cautionary story of a 15-second microwave reheat that nearly exothermed
   out of the appliance. Running alongside, [Nels](/people/nels.md) and
-  [DC](/people/dc.md) sparred over whether Nels's welded-aluminum-hull/
+  [David C. Smith](/people/david-c-smith.md) sparred over whether Nels's welded-aluminum-hull/
   inflatable-collar RIB hybrid post and photo-album upload belonged on a
-  Paradox-specific list at all, with DC pointing to Boatdesign/
+  Paradox-specific list at all, with Smith pointing to Boatdesign/
   Microcruising as better homes for off-topic material and Glen Maxwell's
-  moderator say as the final word. William Longyard corrected DC's
+  moderator say as the final word. William Longyard corrected Smith's
   auto-body steel-gauge comparison (12-gauge is roughly three times
   thicker than the 20-22 gauge actual auto bodies use). The thread then
-  closed for real: [Jack Gardiner](/people/jack-gardiner.md) answered DC's
+  closed for real: [Jack Gardiner](/people/jack-gardiner.md) answered Smith's
   rebuttal point by point before announcing he was taking his steel-
   Paradox research private; Glen Maxwell offered the list's closing word —
   welcoming a Paradox in "steel, aluminum, foam sandwich, or any other
@@ -12341,7 +18370,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md)
   (new section, citations [8]-[9]),
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
-  (citations [84]-[91]), [people/dc.md](/people/dc.md) ([89]-[90]),
+  (citations [84]-[91]), [people/david-c-smith.md](/people/david-c-smith.md) ([89]-[90]),
   [people/nels.md](/people/nels.md) ([71]-[72]),
   [people/jack-gardiner.md](/people/jack-gardiner.md) ([31]-[32]),
   [people/william-longyard.md](/people/william-longyard.md) ([55]),
@@ -12366,7 +18395,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Jack's solid-round-stock chine-runner edge over square-tube frames, and
   William Longyard's counter-proposal of frames bent from 0.10 in plate on
   a brake into welded "L"-flange shapes with no water-trapping cavity,
-  which Jack confirmed shop access to try. [DC](/people/dc.md) — the
+  which Jack confirmed shop access to try. [David C. Smith](/people/david-c-smith.md) — the
   Pacific Northwest professional boatbuilder behind the archive's
   designer-fidelity credo — then returned after a long absence to deliver
   the thread's fullest technical rebuttal of a steel Paradox: welding
@@ -12388,7 +18417,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   understood to have been a larger Swamp Thing, not previously documented
   anywhere in the design lineage. Extended
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
-  (citations [77]–[83]), [people/dc.md](/people/dc.md) ([88]),
+  (citations [77]–[83]), [people/david-c-smith.md](/people/david-c-smith.md) ([88]),
   [people/jack-gardiner.md](/people/jack-gardiner.md) ([28]–[30]),
   [people/william-longyard.md](/people/william-longyard.md) ([54]),
   [people/jeff-doryman.md](/people/jeff-doryman.md) ([39]–[39a]–[40]),
@@ -12452,7 +18481,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   UK/roverticket, botebilder/Ernie Fossel, below-threshold
   Larry/newspipetr3, Derek Clark, Fredrik, Jake — none resurfaced) plus
   HANDOVER.md's threads-to-watch (Bolducs' Little Cruiser trip report,
-  DC/Andrew Graham/Kjell Karlsson/NZ build, "Sail balance"/lee-helm, "Jeff
+  Smith/Andrew Graham/Kjell Karlsson/NZ build, "Sail balance"/lee-helm, "Jeff
   Please"/Paramour, the moderator-approval switch — none resurfaced),
   recorded in backlog.md. Timeline: messages dated 28–29 December 2003.
   msgnum run 1623–1632 confirmed distinct and fully consecutive, continuing
@@ -12501,7 +18530,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   identity, no new corroborating link found; botebilder/Ernie Fossel,
   below-threshold Larry/newspipetr3, Derek Clark, Fredrik/fredrilu,
   Jake/jacobtm6 — none resurfaced) plus HANDOVER.md's threads-to-watch
-  (Bolducs' Little Cruiser trip report, DC/Andrew Graham/Kjell
+  (Bolducs' Little Cruiser trip report, Smith/Andrew Graham/Kjell
   Karlsson/NZ build, "Sail balance"/lee-helm, "Jeff Please"/Paramour, the
   moderator-approval switch — none resurfaced), recorded in backlog.md.
   Timeline: all ten messages dated 28 December 2003. msgnum run
@@ -12956,7 +18985,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [Aussie Paradox](/boats/aussie-paradox.md#zero-proves-herself-an-18-mile-open-water-passage-across-moreton-bay),
   with a cross-link added from [Andrew Graham](/people/andrew-graham.md).
   The batch's other thread continued "Paul" (`kayaker37`)'s CAD-model
-  upload (introduced in batch 149): [DC](/people/dc.md) praised the
+  upload (introduced in batch 149): [David C. Smith](/people/david-c-smith.md) praised the
   renderings and asked about the build manual; Paul explained his Rhino 2.0
   workflow (bulkhead-outline lofting, Greg Carlson's Hull design software,
   under-scaled chine runners); [Nels](/people/nels.md) asked about scale
@@ -12982,12 +19011,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   touched (`construction/stem-notching.md`, `boats/aussie-paradox.md`,
   `people/andrew-graham.md`,
   `design/chine-runners-and-windward-performance.md`, `people/nels.md`,
-  `people/dc.md`, `people/jeff-doryman.md`,
+  `people/david-c-smith.md`, `people/jeff-doryman.md`,
   `people/glen-maxwell/build-and-zoe.md`). Cursor advanced to 1500.
 
 * **Batch 149 (pages 1481–1490, msgnum 1501–1510, 3–11 December 2003) —
   centerpiece: closing out the "Zero" launch thread, plus two newcomer
-  Q&As.** [DC](/people/dc.md) congratulated Andrew Graham on "Zero,"
+  Q&As.** [David C. Smith](/people/david-c-smith.md) congratulated Andrew Graham on "Zero,"
   praising her paint scheme and plexiglass tint and asking about interior
   arrangement and galley access; Andrew replied with his Moreton Bay/Brisbane
   sailing grounds, crediting Alastair's "Little Jim" launch photos with
@@ -13031,7 +19060,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Batch 148 (pages 1471–1480, msgnum 1491–1500, 1–2 December 2003) —
   centerpiece: Andrew Graham launches "Zero," the first Australian-built
   Paradox to sail.** Two threads. First, the "Chine Log shape" thread (opened
-  in batch 147) closed out: [DC](/people/dc.md) explained the chine log's
+  in batch 147) closed out: [David C. Smith](/people/david-c-smith.md) explained the chine log's
   puzzling extra triangular section as simply another rolling bevel — chine
   logs and sheer clamps are both cut to a constant bevel per the plans, then
   dressed off with a straight edge once glued in place to accept the flat
@@ -13042,7 +19071,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   conclusion from the lines drawing; the original asker, Paul, then worked
   out for himself that it's easier to glue the chine log flat to the side
   first and cut the rolling bevel into the bottom face rather than the log's
-  side, which DC confirmed ("Bingo. Same with the sheer clamp."). Folded
+  side, which Smith confirmed ("Bingo. Same with the sheer clamp."). Folded
   into `construction/hull-assembly-sequence.md` (extended "Fit at trial
   assembly rather than pre-cutting a perfect bevel" section, citations
   37-41; corrected the prior "remained open in the archive" line, now
@@ -13143,7 +19172,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 * **Batch 146 (pages 1451–1460, msgnum 1471–1480, 25–28 November 2003) —
   centerpiece: the "Insulation and rot" thread, opened in batch 145,
   answered in full.** [David Beard](/people/david-beard.md) pointed Derek
-  Clark to Glen Maxwell's removable-foam idea; [DC](/people/dc.md) gave the
+  Clark to Glen Maxwell's removable-foam idea; [David C. Smith](/people/david-c-smith.md) gave the
   full technical answer — his own choice of epoxy-glued foam board under a
   3 mm Okoume veneer versus Glen's removable-panel approach, weighing
   condensation risk, foil-facing durability, and deck-leak exposure, and
@@ -13154,7 +19183,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   foam. Folded into `construction/plywood-grades-and-foam-flotation.md`
   (citation 29 updated, new citations 30-33) and `operations/ground-tackle.md`
   (new section "Stowing wet warps," citation 18), with `people/david-beard.md`
-  (citation 175) and `people/dc.md` (citation 86) cross-linking. A second
+  (citation 175) and `people/david-c-smith.md` (citation 86) cross-linking. A second
   thread, "Mast Construction help": Paul (`kayaker37`) worked through the
   same mast plan-view confusion documented in `design/rig.md` a year and a
   half earlier; [Alastair](/people/alastair.md) gave the fullest published
@@ -13194,38 +19223,38 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   eight files that received edits
   (`construction/plywood-grades-and-foam-flotation.md` [30]-[33],
   `operations/ground-tackle.md` [18], `people/david-beard.md` [175],
-  `people/dc.md` [86], `design/rig.md` [60]-[64],
+  `people/david-c-smith.md` [86], `design/rig.md` [60]-[64],
   `design/mast-partners.md` [prose only], `people/alastair.md` [139]-[140],
   `people/kjell-karlsson.md` [11]-[12],
   `people/glen-maxwell/list-founder-and-moderator.md` [63]).
 
 * **Batch 145 (pages 1441–1450, msgnum 1461–1470, 23–25 November 2003) —
-  centerpiece: DC posted the Build Manual's draft Introduction.** DC's
+  centerpiece: Smith posted the Build Manual's draft Introduction.** Smith's
   group-written Paradox Build Manual proposal (batch 139-141) reached actual
-  content: DC posted a full draft introduction setting the manual's scope
+  content: Smith posted a full draft introduction setting the manual's scope
   (guidance for builders of Matt Layden's design, following the plans as
   drawn), covering metric plan measurements, plans-copying and build-journal
   advice, ambiguous-species materials referencing, individually-compiled
   materials lists, bulk-purchase savings, and flexible task ordering — folded
   into `construction/build-effort.md` (new section "The Build Manual's
-  introduction," citation 40), cross-linked from `people/dc.md` (citation
+  introduction," citation 40), cross-linked from `people/david-c-smith.md` (citation
   84, prose extended) and `people/glen-maxwell/list-founder-and-moderator.md`.
   David Beard volunteered to write the Yuloh section — folded into
   `people/david-beard.md` (citation 173) and cross-linked from
-  `construction/build-effort.md` (citation 41). DC's follow-up asking after
+  `construction/build-effort.md` (citation 41). Smith's follow-up asking after
   David's own progress, whether "Whisper" was still being prepped for a
   planned trip, and how a new boat was coming along went unanswered in the
   archive — folded into `people/david-beard.md` (citation 174) and
-  `people/dc.md` (citation 85, prose extended). A second thread: William
+  `people/david-c-smith.md` (citation 85, prose extended). A second thread: William
   Longyard opened "Spray In Foam," pointing to `TekSupply.com` for
   high-volume urethane spray-in insulation/flotation foam after finding
-  canned "Great Stuff" unpredictable; DC answered with a full technical
+  canned "Great Stuff" unpredictable; Smith answered with a full technical
   rundown of commercially applied two-part polyurethane spray foam as a
   standardized metal-boat insulation technique adaptable to a Paradox,
   weighing it against the sheet foam he used on his own boat — folded into
   `construction/plywood-grades-and-foam-flotation.md` (new section
   "Spray-in foam versus sheet foam for insulation," citations 27-28), with
-  `people/william-longyard.md` (citation 31, new bullet) and `people/dc.md`
+  `people/william-longyard.md` (citation 31, new bullet) and `people/david-c-smith.md`
   (citation 83) cross-linking. A new correspondent, Derek Clark
   (`dclark52001`), asked whether fixed insulation might contribute to and
   hide rot, weighed against its contribution to positive buoyancy —
@@ -13240,9 +19269,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/david-beard.md` (citation 172). Glen also replied to Ron de Hon's
   further "RHXII" photo upload (batch 144) asking about a launch date —
   folded into `people/glen-maxwell/list-founder-and-moderator.md` (citation
-  62). DC gave a thin, one-line confirmation that his "rolling bevels"
+  62). Smith gave a thin, one-line confirmation that his "rolling bevels"
   technique post would be folded into the Build Manual, apologizing for
-  being longwinded — folded into `people/dc.md` (citation 82). No new
+  being longwinded — folded into `people/david-c-smith.md` (citation 82). No new
   files, no promotions or prunings. Msgnum mapping was a **clean, fully
   consecutive run (1461-1470) with no gaps**, continuing directly from
   batch 144's 1460, spanning 23-25 November 2003. All ten source files'
@@ -13252,7 +19281,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   seven files that received edits
   (`people/glen-maxwell/list-founder-and-moderator.md` [62],
   `boats/zoe.md` [28]-[29], `people/david-beard.md` [172]-[174],
-  `construction/build-effort.md` [40]-[41], `people/dc.md` [82]-[85],
+  `construction/build-effort.md` [40]-[41], `people/david-c-smith.md` [82]-[85],
   `construction/plywood-grades-and-foam-flotation.md` [27]-[29],
   `people/william-longyard.md` [31]). Checked all three standing Open
   items ("Jeff UK"/`roverticket`, "botebilder"/Ernie Fossel, the
@@ -13272,7 +19301,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   with a float tied to the line as insurance against losing one — folded
   into `operations/ground-tackle.md` (new section "How many anchors to
   carry," citation 17). Glen fixed the FAQ folder's editing bottleneck
-  directly by making **Nels and DC assistant moderators**, giving them file
+  directly by making **Nels and Smith assistant moderators**, giving them file
   access — folded into
   `people/glen-maxwell/list-founder-and-moderator.md` (citation 58). Kjell
   Karlsson clarified his earlier T-12 question was about finding a Swedish
@@ -13286,7 +19315,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   unable to compare fairly since the original sail was so poorly cut —
   folded into
   `design/chine-runners-and-windward-performance.md` (citation 18); calling
-  DC's "rolling bevels" post a great explanation and asking if it would join
+  Smith's "rolling bevels" post a great explanation and asking if it would join
   the Build Manual, and thanking Kjell for his lower-gudgeon write-up —
   both folded into
   `people/glen-maxwell/list-founder-and-moderator.md` (citations 59-60).
@@ -13298,7 +19327,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files, no promotions or prunings.
 
 * **Batch 143 (pages 1421–1430, msgnum 1441–1450, 18–20 November 2003) —
-  DC's mass-and-momentum case against carrying a spare yuloh; Kjell
+  Smith's mass-and-momentum case against carrying a spare yuloh; Kjell
   Karlsson's own lower-gudgeon method and T-12 sourcing follow-up; the
   Tools list and FAQ File threads reach their conclusions.** "Larry"
   closed out the tools-list authorship question, reassuring Bill Serjeant
@@ -13311,21 +19340,21 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   The **batch centerpiece**: continuing the "2 HP Motors" thread into a
   yuloh discussion, Nels doubted (as a paddler) that a heavy hull like
   Paradox's would scull well and asked about carrying a spare yuloh; Alastair
-  confirmed yuloh plans are included with the Paradox plans; DC answered with
+  confirmed yuloh plans are included with the Paradox plans; Smith answered with
   a full mass-and-momentum argument — heavier vessels carry farther between
   strokes than light ones (schooners working up rivers, a supertanker
   coasting past a stopped Hobie 18, a loaded vs. solo-paddled canoe), while
   light hulls instead gain acceleration — and judged a spare yuloh
   unnecessary, since the yuloh is auxiliary rather than sole propulsion —
   folded into `operations/sculling-and-yuloh-technique.md` (new section,
-  citations 23-25), with `people/dc.md` (citation 81), `people/nels.md`
+  citations 23-25), with `people/david-c-smith.md` (citation 81), `people/nels.md`
   (citation 44), and `people/alastair.md` (citation 138) cross-linking
   rather than duplicating. Kjell Karlsson offered his own lower-gudgeon
   construction method (a thick fiberglass-strip lamination in a simple
   angled mold, with a Delrin bushing for wear) ahead of Glen Maxwell's
   promised build-manual write-up — folded into
   `people/glen-maxwell/list-founder-and-moderator.md` (citation 57), with
-  `people/dc.md` and `people/kjell-karlsson.md` (citation 10) cross-linking.
+  `people/david-c-smith.md` and `people/kjell-karlsson.md` (citation 10) cross-linking.
   Kjell separately asked Glen for T-12 thinner's chemical name; Glen didn't
   know it either but phoned Fiberglass Coatings directly for current stock
   and pricing (nine 5-gallon pails at $37.50, three 1-gallon containers at
@@ -13347,21 +19376,21 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   across the nine files that received edits
   (`construction/build-effort.md` [39],
   `people/glen-maxwell/list-founder-and-moderator.md` [55]-[57],
-  `operations/sculling-and-yuloh-technique.md` [23]-[25], `people/dc.md`
+  `operations/sculling-and-yuloh-technique.md` [23]-[25], `people/david-c-smith.md`
   [81], `people/nels.md` [44], `people/alastair.md` [138],
   `people/jeff-doryman.md` [33], `construction/epoxy-coating-technique.md`
   [25]-[26], `people/kjell-karlsson.md` [9]-[10]).
 
 * **Batch 142 (pages 1411–1420, msgnum 1431–1440, 18–19 November 2003) —
-  DC and Nels close out the FAQ file's chine-runner example with a
+  Smith and Nels close out the FAQ file's chine-runner example with a
   waterline-length correction and the Egret sharpie example; Alastair's
-  foam-taper fix resolves the boom-mod thread; DC writes a standalone
-  "rolling bevels" technique post.** In the FAQ File thread, DC corrected
+  foam-taper fix resolves the boom-mod thread; Smith writes a standalone
+  "rolling bevels" technique post.** In the FAQ File thread, Smith corrected
   Nels's chine-runner FAQ example on one point — the runners themselves do
   not lengthen the waterline, since Paradox has little net overhang to
   submerge under heel or speed — while endorsing Nels's broader heeled-hull/
   long-keel analogy and offering his own "Scheel Keel, without the keel"
-  description; Nels accepted the correction; DC then illustrated true
+  description; Nels accepted the correction; Smith then illustrated true
   waterline-lengthening with Commodore Ralph Munroe's sharpie Egret, and
   Nels closed the exchange restating his original point (Paradox sails
   faster than her static hull shape suggests, though she is not a racing
@@ -13370,27 +19399,27 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   the "boom mod?" thread, Alastair supplied a simple field fix for his
   sail's incomplete furl — a bit of rigid foam taped to the boom's outboard
   end — which Glen Maxwell called clever and planned to try on Zoë's new
-  sail — folded into the same file (citations 16-17). DC continued the "2 HP
+  sail — folded into the same file (citations 16-17). Smith continued the "2 HP
   Motors" discussion into the FAQ file with a note on oars, sculling, and
   John Letcher's writing on oar-powered displacement sailboats, looking
   forward to using a proper yuloh — `operations/auxiliary-outboard-power.md`
   (citation 26). William Longyard closed the "Speaking up for Don" thread
   with a brief conciliatory note to Glen Maxwell — folded into
   `people/glen-maxwell/list-founder-and-moderator.md` (citation 54) and
-  `people/william-longyard.md` (citation 30). Alastair answered DC's
+  `people/william-longyard.md` (citation 30). Alastair answered Smith's
   "Autumn refit" follow-up questions in full: reefing on a single tack is
   desirable since it de-powers the sail faster in gusts, a topping lift adds
   about 5 seconds to furling, and the endless halyard/reefing-line system
   works well despite minor kinking and two acknowledged risks (no instant
   sail drop, and chafe damage requires replacing the whole line) — folded
   into `boats/little-jim.md` (citation 81, and citation 80 updated from
-  "unanswered" to answered). The batch centerpiece is DC's standalone
+  "unanswered" to answered). The batch centerpiece is Smith's standalone
   **"rolling bevels"** post — a clean technique writeup on cutting the
   Paradox's rolling bevels (chine runners; bulkhead #2/#3 sides), including
   his own measured bulkhead #2 angles (8° at the sheer, rolling to 13° at
   the chine) and a two-person bandsaw technique for tracking a changing
   bevel angle — folded into `construction/hull-assembly-sequence.md` (new
-  section, citation 32) and cross-linked from `people/dc.md` (citation 80).
+  section, citation 32) and cross-linked from `people/david-c-smith.md` (citation 80).
   No new files, no promotions or prunings. All three standing Open backlog
   items (Jeff UK, botebilder/Ernie Fossel, below-threshold Larry/
   newspipetr3) checked: none resurfaced. Msgnum mapping was a clean, fully
@@ -13408,10 +19437,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   effectiveness via a "shallow fin keel" analogy — folded into
   `design/chine-runners-and-windward-performance.md` (new section, citation
   9) and `people/glen-maxwell/list-founder-and-moderator.md` (citations
-  51-52). DC added five more candidate FAQ questions (lofting, "instant
+  51-52). Smith added five more candidate FAQ questions (lofting, "instant
   boat" status, build difficulty, time estimate, need for a helper) —
   `people/glen-maxwell/list-founder-and-moderator.md` (citation 53) and
-  `people/dc.md` (citation 79). The "Tools list" authorship thread reached
+  `people/david-c-smith.md` (citation 79). The "Tools list" authorship thread reached
   its full resolution: Nels argued no such list can really be copyrighted;
   Bill Serjeant then drew a sharp distinction between his own freely-posted
   tools list (compiled independently from Don Elliott's booklet) and a
@@ -13430,12 +19459,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (citation 43). Nels also closed out the "2 HP Motors" thread's physics
   with a Phil Bolger quote on why low-hp motors suit short, flat-bottomed,
   rockered hulls — `operations/auxiliary-outboard-power.md` (citation 25)
-  and `people/nels.md` (citation 42). DC asked Alastair two unanswered
+  and `people/nels.md` (citation 42). Smith asked Alastair two unanswered
   rig-maintenance follow-ups on the "Autumn refit" (a parrel to contain the
   yard when reefed; whether the endless halyard/reefing-line arrangement
   still works) — `boats/little-jim.md` (citation 80) — and separately
   thanked Glen for volunteering to write up the lower gudgeon, floating
-  three candidate construction methods of his own — `people/dc.md`
+  three candidate construction methods of his own — `people/david-c-smith.md`
   (citation 78). A one-off newcomer, "Kellan," recommended William
   Longyard's *A Speck on the Sea* to the list unprompted —
   `people/william-longyard.md` (citation 29). No new files, no promotions
@@ -13454,7 +19483,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   deferential "it's his house, he's the host" line, Glen preferred "our
   house," having no wish to be the dominant voice or cast as disciplinarian.
   Nels noted, after the ban, that Don was still cross-posting his articles
-  and new site to the Bolducs' own `microcruising` group. Building on DC's
+  and new site to the Bolducs' own `microcruising` group. Building on Smith's
   build-manual proposal, Nels proposed a companion **FAQ folder** with a
   30-question candidate list spanning plans sourcing through day-to-day
   living aboard; Glen created the folder the same morning. Bill Serjeant
@@ -13475,7 +19504,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `construction/epoxy-coating-technique.md` (citation 24),
   `construction/build-effort.md` (citation 36), `references/paradox-uk-website.md`
   (citations 7–8), `design/rig.md` (citation 59), `people/kjell-karlsson.md`
-  (citation 8), and `people/dc.md` (bibliography-thread prose update, no new
+  (citation 8), and `people/david-c-smith.md` (bibliography-thread prose update, no new
   citation). No new files, no promotions or prunings. Checked all three
   standing backlog identity items ("Jeff UK," "botebilder"/Ernie Fossel, the
   below-threshold "Larry"/`newspipetr3`): none resurfaced in this batch.
@@ -13531,7 +19560,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   daysailers publicly unsubscribed over "the flaming and long diatribes,"
   leaving quote-trimming and take-it-private etiquette advice on his way
   out — folded as a citation-level mention into `people/don-elliott.md`
-  (citation 37). DC's build manual thread advanced: DC offered to defer the
+  (citation 37). Smith's build manual thread advanced: Smith offered to defer the
   introduction to a builder of a completed boat; Glen Maxwell gave the
   effort its most concrete push yet, asking members to simply write up one
   specific problem they had had to puzzle through rather than worry about
@@ -13539,7 +19568,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   bibliography thread drew two recommendations — William Longyard named
   three out-of-print Percy Blandford titles, and Nels named Harold
   "Dynamite" Payson, whom he had met in person years earlier. Folded into
-  `people/dc.md` (citations 74–77), `people/glen-maxwell/list-founder-and-moderator.md`
+  `people/david-c-smith.md` (citations 74–77), `people/glen-maxwell/list-founder-and-moderator.md`
   (new section, citation 43), `people/william-longyard.md` (citation 22),
   and `people/nels.md` (citation 36). Glen also closed out two threads from
   the prior day with brief replies — "Now this is more like it" to
@@ -13557,13 +19586,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   distinct on direct read (no stale-read issue). Verified no new
   citation-number collisions across the five files that received new
   citations (`people/don-elliott.md` [34]–[37], `people/nels.md`
-  [35]–[36], `people/william-longyard.md` [22]–[24], `people/dc.md`
+  [35]–[36], `people/william-longyard.md` [22]–[24], `people/david-c-smith.md`
   [74]–[77], `people/glen-maxwell/list-founder-and-moderator.md`
   [41]–[43]).
 
 * **Batch 137 (pages 1361–1370, msgnum 1381–1390, 17 November 2003) — the
   Don Elliott ban's unanimous reception, the "RHXll" mystery boat finally
-  claimed, Little Jim's autumn refit, and DC's build manual gains a
+  claimed, Little Jim's autumn refit, and Smith's build manual gains a
   bibliography thread.** Every member who responded to Glen Maxwell's ban of
   Don Elliott backed it: David Hahn (Delta, Utah) called it a favor to the
   group, having left the separate Smallboats group over similar fighting;
@@ -13588,20 +19617,20 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   two lessons from the recent Solent crossing — beach-sand and bin-dampness
   fixes, and chafe repairs to the furling-line and tack-line deck fairleads
   — folded into `boats/little-jim.md` (new section, citation 79) with a
-  one-line cross-link from `people/alastair.md`. DC's build-manual thread
+  one-line cross-link from `people/alastair.md`. Smith's build-manual thread
   (running since batch 134) continued: welcoming Bill Longyard's and Andy's
   volunteering, reiterating that the manual should still point builders to
   the group archives and direct questions rather than try to capture every
   trick of the trade, and opening a bibliography-nominations thread with
   *The Gougeon Brothers on Boat Construction* as the first suggestion —
-  folded into `people/dc.md` (citations 72–73). No new files, no promotions
+  folded into `people/david-c-smith.md` (citations 72–73). No new files, no promotions
   or prunings. Msgnum mapping was a clean, fully consecutive run
   (1381–1390) with no gaps, continuing directly from batch 136's 1380, all
   ten messages dated 17 November 2003.
 
 * **Batch 136 (pages 1351–1360, msgnum 1371–1380, 17 November 2003) — Glen
   Maxwell bans Don Elliott from `paradoxbuilders`, the archive's only
-  recorded member ban; DC's build manual proposal draws two more volunteers;
+  recorded member ban; Smith's build manual proposal draws two more volunteers;
   Jeff UK settles the planing question.** The batch centerpiece: after
   returning from a few days away to an inbox full of complaints, Glen
   Maxwell announced he was banning Don Elliott from the group — quoting at
@@ -13618,12 +19647,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   would post only to the new Paradoxboatbuilders group — folded into
   `people/don-elliott.md` (citation 31) and cross-linked from
   `design/weight-and-ballast.md`'s existing ballast-pig-layout section
-  (citation 64). DC's build-manual proposal (running since batch 134) drew
+  (citation 64). Smith's build-manual proposal (running since batch 134) drew
   two concrete volunteers: William Longyard agreed to help "in any way I
   can," and a new tech-writer correspondent, "Andy," offered editorial
   help and suggested a bill of materials, errata section, and sailmaking
   directions; Glen Maxwell endorsed the proposal outright. Folded into
-  `people/dc.md` (citations 69–71), `people/william-longyard.md` (citation
+  `people/david-c-smith.md` (citations 69–71), `people/william-longyard.md` (citation
   21), and `people/glen-maxwell/build-and-zoe.md` (citation 175); "Andy"
   kept inline per the people threshold (one message, no boat). Separately,
   "Jeff UK" gave the archive's definitive answer on whether a Paradox can
@@ -13657,35 +19686,35 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   eight files that received new citations
   (`people/glen-maxwell/list-founder-and-moderator.md` [32]-[33],
   `people/don-elliott.md` [31]-[32], `design/weight-and-ballast.md` [64],
-  `people/dc.md` [69]-[71], `people/william-longyard.md` [21],
+  `people/david-c-smith.md` [69]-[71], `people/william-longyard.md` [21],
   `people/glen-maxwell/build-and-zoe.md` [175]-[177],
   `operations/auxiliary-outboard-power.md` [19], `people/jeff-doryman.md`
   [30]-[31], `construction/epoxy-coating-technique.md` [21]-[22]).
 
 * **Batch 135 (pages 1341–1350, msgnum 1361–1370, 16–17 November 2003) —
-  the Don Elliott/DC schism reaches its sharpest exchange, and DC's build
+  the Don Elliott/Smith schism reaches its sharpest exchange, and Smith's build
   manual proposal recruits an author.** The "Taking my marbles and going
-  away" thread continued directly from batch 134's split: DC rebutted Don's
+  away" thread continued directly from batch 134's split: Smith rebutted Don's
   "time-wasters" characterization point by point — he had posted boat
   photos while Don had posted none, and Don had "flamed" his own customers
   and the list's moderator — and needled Don's grammar with a reading list
   (Strunk & White, Plotnik, Shertzer). Don's two replies did not engage the
-  substance, calling DC's post itself proof of the pettiness described and
+  substance, calling Smith's post itself proof of the pettiness described and
   dismissing him as "a sniper," closing with "I only react in kind." Folded
   into `people/don-elliott.md`'s existing "A rival group" section
-  (citations 29–30) and `people/dc.md` (citation 66). Separately, DC's
-  build-manual proposal (introduced batch 134) got a direct follow-up: DC
+  (citations 29–30) and `people/david-c-smith.md` (citation 66). Separately, Smith's
+  build-manual proposal (introduced batch 134) got a direct follow-up: Smith
   invited William H. Longyard — citing his authorship of *A Speck on the
   Sea* — to help keep the manual "unbiased, concise and factual"; no reply
-  is recorded. Folded into `people/dc.md`'s existing build-manual bullet
+  is recorded. Folded into `people/david-c-smith.md`'s existing build-manual bullet
   (citation 67) and `people/william-longyard.md` (citation 20). A new "2 HP
   Motors" thread (titled by Nels "Oppositional Defiant Disorder and 2 HP
-  Motors," advising DC that responding to Don only feeds the behavior) ran
+  Motors," advising Smith that responding to Don only feeds the behavior) ran
   through outboard-sizing questions: Nels asked whether a 2 hp Yamaha
   four-stroke suits a Paradox; William Longyard, prompted by seeing one
   aboard Dave and Mindy Bolduc's Little Cruiser, asked separately whether
   anyone had gotten a Paradox to plane with a larger engine; Don Elliott
-  noted the plans design in no motor at all, only a single oar; DC weighed
+  noted the plans design in no motor at all, only a single oar; Smith weighed
   four-stroke-vs-two-stroke tradeoffs and Yamaha's parts/service edge,
   deferred the weight-and-practicality question to David Beard's and the
   Bolducs' own experience, described his own yuloh-plus-reserve-outboard
@@ -13693,7 +19722,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   aft "planing rails" (George Calkins) as reminiscent of Paradox's chine
   runners without directly answering the question. Folded as a new section
   into `operations/auxiliary-outboard-power.md` (citations 14–18),
-  cross-linked from `people/nels.md` (citation 33) and `people/dc.md`
+  cross-linked from `people/nels.md` (citation 33) and `people/david-c-smith.md`
   (citation 68). No new files, no promotions or prunings; checked all three
   standing backlog items ("Jeff UK," "botebilder"/Ernie Fossel, the
   below-threshold "Larry"/`newspipetr3`) — none resurfaced. Msgnum mapping
@@ -13703,32 +19732,32 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   and all ten `X-Yahoo-Msgnum` headers confirmed distinct on direct read
   (no stale-read issue). Verified no new citation-number collisions across
   the five files that received new citations (`people/don-elliott.md`
-  [29]–[30], `people/dc.md` [66]–[68], `people/william-longyard.md` [20],
+  [29]–[30], `people/david-c-smith.md` [66]–[68], `people/william-longyard.md` [20],
   `operations/auxiliary-outboard-power.md` [14]–[18], `people/nels.md`
   [33]).
 
 * **Batch 134 (pages 1331–1340, msgnum 1351–1360, 16–17 November 2003) —
-  Don Elliott founds a rival "Paradoxboatbuilders" splinter group, and DC's
+  Don Elliott founds a rival "Paradoxboatbuilders" splinter group, and Smith's
   build-manual proposal.** The batch centerpiece: after weeks of friction
   over tone — capped by a lurker's ("Brian"/`jerseyman999`) public plea for
   Don Elliott to "count to ten" rather than answer disagreement with
   rudeness — Don announced a second Yahoo group, "Paradoxboatbuilders,"
-  explicitly excluding Nels, DC, and "Betelgeuserdude" (DC's own Yahoo
+  explicitly excluding Nels, Smith, and "Betelgeuserdude" (Smith's own Yahoo
   handle, named as if a separate person) as unserious "time-wasters." Don
-  defended his combative style to Brian at length, then, replying to DC's
+  defended his combative style to Brian at length, then, replying to Smith's
   same-day proposal for a group-written Paradox build manual, dismissed the
   idea, claimed primary credit for Paradox's public existence (his own 1996
   *Messing About In Boats* article and having built "the first Paradox
   after Matt"), and claimed co-support of the craft with Dave Bolduc "since
-  its beginning." DC's reply declined to join the rival group and corrected
+  its beginning." Smith's reply declined to join the rival group and corrected
   the record that Glen Maxwell — not Don — is `paradoxbuilders`' actual
   founder and moderator. Folded as a new section into `people/don-elliott.md`
   ("A rival group, and a dispute over who founded and moderates the list,"
-  citations 25–28), cross-linked from `people/dc.md` (new "Proposed a
+  citations 25–28), cross-linked from `people/david-c-smith.md` (new "Proposed a
   group-written Paradox build manual" bullet, citations 64–65),
   `people/glen-maxwell/list-founder-and-moderator.md` (new "A rival group,
   and Glen's moderator role reaffirmed" section), and `people/david-beard.md`
-  (168, "Great Idea DC."). Separately, the "Rudder Foil Shape" thread closed
+  (168, "Great Idea Smith."). Separately, the "Rudder Foil Shape" thread closed
   out: "Paul" (`kayaker37`) corrected his own earlier arithmetic — the
   rudder foil's total 24 mm thickness is two 12 mm plies, not two 24 mm
   plies, giving a 0.06 ratio that confirms NACA 0006 as the closest
@@ -13923,7 +19952,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [10] and [12]) had mislabeled `LJGeib`/`lorenzojose2000` messages as
   "Larry Whited" — but a genuinely separate, self-identified **Larry
   Whited** (`lwhited@...`/`lwhited`) is independently confirmed elsewhere in
-  the archive (e.g. `people/dc.md` citation 8, and `little-jim.md` citation
+  the archive (e.g. `people/david-c-smith.md` citation 8, and `little-jim.md` citation
   23 itself, immediately following the miscited one). Corrected all three to
   read `LJGeib / "Larry"` and added disambiguation notes in both files; no
   facts were lost, only the false surname attribution. No new files, no
@@ -13956,7 +19985,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [boats/elliott-paradox.md](/boats/elliott-paradox.md) (citation 8,
   "probable" promoted to "confirmed" in the body) and
   `people/glen-maxwell/list-founder-and-moderator.md` (citation 31). The
-  bilge-pump thread continued: DC praised Glen's pump installation and
+  bilge-pump thread continued: Smith praised Glen's pump installation and
   explained his own choice to eliminate limber holes in favor of closed,
   compartmentalized bilge spaces with a three-tier sponge/portable-pump/
   fixed-pump response to water; Glen Maxwell then gave the batch's
@@ -13966,21 +19995,21 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   an unbuilt rubber-disc tiller-seal idea, plus a Ft. Pierce inlet
   near-swamping story of his own — both folded into
   [design/weight-and-ballast.md](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump)
-  (citations 60-61), cross-linked from `people/dc.md` (citation 61) and, for
+  (citations 60-61), cross-linked from `people/david-c-smith.md` (citation 61) and, for
   the Matt Layden eyewitness material, a new section of
   [people/glen-maxwell/matt-layden-eyewitness.md](/people/glen-maxwell/matt-layden-eyewitness.md#watching-matt-pump-out-at-the-everglades-challenge-start)
   (citation 16). A new "Tools" thread had Bill Serjeant, alarmed at
   clamp-heavy deck-beam photos, ask how many clamps a build really needs and
-  for help trimming Don Elliott's tool-list page down to essentials; DC
+  for help trimming Don Elliott's tool-list page down to essentials; Smith
   explained his own clamp count came from laminating thinner strips than
   necessary, gave a test-lamination method to find the thickest workable
   stock, and generalized that tool needs grow with a build's progress —
   folded as a new section into
   [construction/build-effort.md](/construction/build-effort.md#tools)
-  (citations 24-25), cross-linked from `people/dc.md` (citation 63).
-  Separately, DC and Alastair's "Introducing Swash" exchange continued with
-  a "round robin" boat-swap race idea and DC's clamp-shopping-spree detail
-  (Homier and Harbor Freight), folded into `people/dc.md` (citation 62). Alan
+  (citations 24-25), cross-linked from `people/david-c-smith.md` (citation 63).
+  Separately, Smith and Alastair's "Introducing Swash" exchange continued with
+  a "round robin" boat-swap race idea and Smith's clamp-shopping-spree detail
+  (Homier and Harbor Freight), folded into `people/david-c-smith.md` (citation 62). Alan
   Terry asked, in a duplicate post sent twice within the hour, whether
   Little Cruiser's outboard installation (seen in a photo) had proved
   unsatisfactory, seconding dclark52001's unanswered inside-the-cabin
@@ -14011,7 +20040,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`people/glen-maxwell/list-founder-and-moderator.md` [30]-[31],
   `boats/elliott-paradox.md` [8], `design/weight-and-ballast.md` [60]-[63],
   `people/glen-maxwell/matt-layden-eyewitness.md` [16],
-  `construction/build-effort.md` [24]-[25], `people/dc.md` [61]-[63],
+  `construction/build-effort.md` [24]-[25], `people/david-c-smith.md` [61]-[63],
   `operations/auxiliary-outboard-power.md` [9], `people/don-elliott.md`
   [17], `people/jeff-doryman.md` [29]).
 
@@ -14046,35 +20075,35 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [boats/elliott-paradox.md](/boats/elliott-paradox.md#record)
   (citations 5-7) and cross-linked as a one-line addition to
   `people/don-elliott.md`. The "Introducing Swash" thread closed out with
-  Glen's and Alastair's praise for DC's photos and workmanship (Alastair
-  joking DC had "cornered the market in clamps"), folded into `people/dc.md`
+  Glen's and Alastair's praise for Smith's photos and workmanship (Alastair
+  joking Smith had "cornered the market in clamps"), folded into `people/david-c-smith.md`
   (citations 59-60), cross-linked from `people/alastair.md` (citation 131).
   Considered but did not promote a dedicated `boats/swash.md` — this
   batch's Swash content was thin (two short replies, no new build
   narrative beyond batch 127's naming), so the full narrative continues to
-  live on `people/dc.md` per convention; revisit once Swash gets a
+  live on `people/david-c-smith.md` per convention; revisit once Swash gets a
   substantial launch/cruise narrative of her own. No new files, no
   prunings. Msgnum mapping was a clean, fully consecutive run (1291–1300)
   with no gaps, continuing directly from batch 127's 1290.
 
 * **Batch 127 (pages 1261–1270, msgnum 1281–1290, 11–13 November 2003) —
-  the bulkhead-bevel FAQ thread's final round, and DC names his boat
+  the bulkhead-bevel FAQ thread's final round, and Smith names his boat
   "Swash."** The "Bulkhead questions (long)" thread (running since batch
-  125) reached its natural close: DC restated for the record why Paradox's
+  125) reached its natural close: Smith restated for the record why Paradox's
   bulkheads need beveling at all — unlike "instant"-boat jig practice,
   where a bevel is designed out — then walked "Paul" (`kayaker37`) through
   a detailed, sheet-by-sheet reading of dimensioned faces, bevels, and
   cleat-camber arithmetic (correcting his own "least width" cleat figure to
   "most width" along the way), folded into
   [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#which-side-of-the-station-line-a-bulkheads-dimensioned-face-falls-on)
-  (citations 27–31), cross-linked from `people/dc.md` (citation 57). The
-  batch centerpiece: DC's "Introducing Swash" post finally named his
+  (citations 27–31), cross-linked from `people/david-c-smith.md` (citation 57). The
+  batch centerpiece: Smith's "Introducing Swash" post finally named his
   in-progress Paradox "sistership" **"Swash"** — for "the sound of water,"
   "swagger," and the USGS acronym "Survey Wide Area SHorelines" — with her
   bottom on and right-side-up in the garage, a self-built rolling cradle,
   and interior foam-board prep underway; he also floated a speculative
   second vent trunk forward of bulkhead #1 (deck hole, water baffles,
-  flapper-valve drain) for extra ventilation, folded into `people/dc.md`
+  flapper-valve drain) for extra ventilation, folded into `people/david-c-smith.md`
   (citation 58, updated lead) and, for the vent-trunk idea specifically, a
   new subsection of
   [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#a-second-forward-vent-trunk-speculative)
@@ -14084,7 +20113,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   bulletin boards' new Small Sailboats Usergroup, distinct from his own
   `smallsailboats.co.uk`/`paradox-uk.co.uk` site pairing — folded into
   `references/paradox-uk-website.md` as a new section (citation 5). Updated
-  `people/index.md`'s DC summary to reflect the "Swash" naming. No new
+  `people/index.md`'s Smith summary to reflect the "Swash" naming. No new
   files, no promotions or prunings. Msgnum mapping was a clean, fully
   consecutive run (1281–1290) with no gaps, continuing directly from batch
   126's 1280.
@@ -14109,8 +20138,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   plywood to size, overlap cleats, cut bevels only at trial assembly, work
   outward from bulkhead 3); separately, Kjell Karlsson asked what a "6mm ply
   scab" is (his English-Swedish dictionary gave no translation), answered by
-  DC — a scab is simply a butt block, eliminable by scarphing the bulkhead's
-  plywood together, alongside DC's own full bandsaw-bevel-cutting method —
+  Smith — a scab is simply a butt block, eliminable by scarphing the bulkhead's
+  plywood together, alongside Smith's own full bandsaw-bevel-cutting method —
   both folded into
   [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#clarifying-the-bevel-and-cleat-relationship-and-a-rebuild-it-differently-alternative)
   and
@@ -14118,7 +20147,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (citations 23–26), cross-linked from
   [people/alastair.md](/people/alastair.md) (128),
   [people/kjell-karlsson.md](/people/kjell-karlsson.md) (7), and
-  [people/dc.md](/people/dc.md) (55). A new "Tank tops" thread had David
+  [people/david-c-smith.md](/people/david-c-smith.md) (55). A new "Tank tops" thread had David
   Beard ask how to reinforce "Whisper"'s plans-structural hinged tank tops
   without losing their hinged storage access; Alastair doubted the extra
   stiffness is strictly necessary and described his own planned
@@ -14158,7 +20187,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/david-beard.md](/people/david-beard.md) [164],
   [boats/whisper.md](/boats/whisper.md) [72],
   [people/kjell-karlsson.md](/people/kjell-karlsson.md) [7],
-  [people/dc.md](/people/dc.md) [55]).
+  [people/david-c-smith.md](/people/david-c-smith.md) [55]).
 
 * **Batch 125 (pages 1241–1250, msgnum 1261–1270, 6–8 November 2003) — how
   bailing actually works without opening the hatch, and a full bulkhead
@@ -14287,17 +20316,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   to a **new file**
   [references/paradox-uk-website.md](/references/paradox-uk-website.md)
   (citations 1–2, added to `references/index.md`), cross-linked from
-  [people/dc.md](/people/dc.md) (citation 53), who congratulated him. A new
+  [people/david-c-smith.md](/people/david-c-smith.md) (citation 53), who congratulated him. A new
   correspondent, Bill Nolen (`billnolen66`, sailing a West Wight Potter 14
   "Piglet" out of Oklahoma City), asked — quoting a line from "Little Jim"'s
-  website — where the vent trunk's own drain is; DC answered it drains
+  website — where the vent trunk's own drain is; Smith answered it drains
   through a thru-hull fitted directly below the trunk and pointed to photos
   of Zoë's vent trunk in the files section; Bill Nolen thanked him but
   decided to keep his Potter rather than start a Paradox — folded as a new,
   clearly-distinct section (alongside the existing transom-deck-plate and
   vent-baffle sections) into
   [construction/transom-deck-plate.md](/construction/transom-deck-plate.md#the-vent-trunks-own-drain)
-  (citations 17–18), cross-linked from [people/dc.md](/people/dc.md)
+  (citations 17–18), cross-linked from [people/david-c-smith.md](/people/david-c-smith.md)
   (citation 54); Bill Nolen kept inline per the people threshold (single
   appearance, explicitly not building a Paradox). Skipped page_1229 (Susan
   Walker's unsubscribe request) and page_1230 (Bill Serjeant's reply with
@@ -14312,7 +20341,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `X-Yahoo-Msgnum` headers confirmed distinct on direct read). Verified no
   new citation-number collisions were introduced across the five files that
   received new citations (`design/hull-scantlings.md` [8]-[9],
-  `people/jeff-doryman.md` [27], `people/dc.md` [53]-[54],
+  `people/jeff-doryman.md` [27], `people/david-c-smith.md` [53]-[54],
   `construction/transom-deck-plate.md` [17]-[18], plus the new file's own
   [1]-[2]).
 
@@ -14322,7 +20351,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   aside; plus a small bulkhead-bevel-angle FAQ.** Continuing straight from
   batch 121's plaster-mold ballast thread,
   [construction/chine-runner-construction.md](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe)
-  picked up: DC cautioned against steel/wood composites over corrosion and
+  picked up: Smith cautioned against steel/wood composites over corrosion and
   bedding-compound risk, favoring bronze plate with bronze fasteners as the
   durable (if costlier) alternative, and reiterated the chine runners are
   shaped fairing blocks, not simple structural fillets; Michael (`reekree8`,
@@ -14330,13 +20359,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   steel bedded in 3M 5200 as a middle path, asking whether resulting
   corrosion would be disastrous once the coating chipped; Paul V. proposed a
   lead-birdshot-and-silica-epoxy putty worked onto the runners (or under the
-  hull-bottom glass) by hand, estimating 100–200 lb achievable this way; DC
+  hull-bottom glass) by hand, estimating 100–200 lb achievable this way; Smith
   separately corrected his own batch-121 casting-mold proposal — a finished,
   beveled runner section cannot serve as the mold plug, which must be built
   flat on the bench instead — folded into
   [construction/chine-runner-construction.md](/chine-runners/construction.md)
   (citations 20–24), cross-linked from
-  [people/dc.md](/people/dc.md) (citations 51–52),
+  [people/david-c-smith.md](/people/david-c-smith.md) (citations 51–52),
   [people/paul-v.md](/people/paul-v.md) (citation 49), and
   [people/william-longyard.md](/people/william-longyard.md) (citation 19, a
   US Hammerite-sourcing aside seconding Alastair's paint choice from batch
@@ -14371,7 +20400,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   new citation-number collisions were introduced across the seven files
   that received new citations
   (`construction/chine-runner-construction.md` [20]-[24],
-  `people/william-longyard.md` [19], `people/dc.md` [51]-[52],
+  `people/william-longyard.md` [19], `people/david-c-smith.md` [51]-[52],
   `people/paul-v.md` [49], `construction/hull-assembly-sequence.md`
   [17]-[20], `people/alastair.md` [122],
   `people/glen-maxwell/build-and-zoe.md` [168]).
@@ -14389,7 +20418,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/alastair.md](/people/alastair.md) (citations 120–121), with
   one-line replies from Glen Maxwell
   ([people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md),
-  citation 167) and DC ([people/dc.md](/people/dc.md), citation 48, who
+  citation 167) and Smith ([people/david-c-smith.md](/people/david-c-smith.md), citation 48, who
   also asked how a heavier sailor's weight would affect the righting-moment
   graph). Separately, Jeff Forrest (`paddler_jeff`) repeated, nearly two
   years on, his original check-in on Jeff (UK, `doryman_uk`)'s stretched
@@ -14403,7 +20432,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/jeff-forrest.md](/people/jeff-forrest.md) (citation 11), and
   [design/variants/paramour-design.md](/design/variants/paramour-design.md)
   (citation 6, "Fate unknown" retitled to reflect the update). A new
-  "ballast" thread had DC reopen the lead-in-chine-runner-mold idea first
+  "ballast" thread had Smith reopen the lead-in-chine-runner-mold idea first
   raised in batch 112, this time with full plaster-mold casting detail;
   Jeff UK reprised the movable-vs-fixed-ballast objection and proposed a
   flush-runner alternative; a new one-off, Michael (`reekree8`, building
@@ -14414,7 +20443,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [construction/chine-runner-construction.md](/chine-runners/construction.md#casting-lead-ballast-into-the-runners)
   (citations 15–19), cross-linked from
   [people/jeff-doryman.md](/people/jeff-doryman.md) (citations 25–26),
-  [people/dc.md](/people/dc.md) (citations 49–50), and
+  [people/david-c-smith.md](/people/david-c-smith.md) (citations 49–50), and
   [people/alastair.md](/people/alastair.md) (citation 121); Michael kept
   inline below the people threshold. No new files, no promotions or
   prunings. Msgnum mapping was a clean, fully consecutive run
@@ -14449,11 +20478,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   close-ups already posted in the group's files section under "Topping
   Lift," and Bjorn's thanks — folded into
   [design/rig.md](/design/rig.md#masthead-reference-photographs) (citations
-  55–58). DC's "Re: newest network critical patch" flagged a forwarded
+  55–58). Smith's "Re: newest network critical patch" flagged a forwarded
   fake-Microsoft email carrying a malicious attachment as a Trojan Horse —
   list-hygiene content with no boat relevance, folded minimally (one line
   plus citation, matching the tree's existing JS/Kak virus-incident
-  precedent) into [people/dc.md](/people/dc.md) (citation 47) and
+  precedent) into [people/david-c-smith.md](/people/david-c-smith.md) (citation 47) and
   [people/glen-maxwell/list-founder-and-moderator.md](/people/glen-maxwell/list-founder-and-moderator.md#the-tripod-link-spam-saga)
   (citation 24). No new files, no promotions or prunings. Msgnum mapping
   had one confirmed real archive gap between 1216 and 1220 (both
@@ -14465,9 +20494,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Batch 119 (pages 1181–1190, msgnum 1198–1207, 11–17 September 2003) —
   the "Robust construction" thread's final week, closed out by Matt
-  Layden's own scantlings post.** DC and [Jeff (UK,
+  Layden's own scantlings post.** Smith and [Jeff (UK,
   "doryman_uk")](/people/jeff-doryman.md) (posting as "Jeff UK"/`roverticket`/
-  "Jay") traded a further round: DC's maritime/aircraft-museum analogy for
+  "Jay") traded a further round: Smith's maritime/aircraft-museum analogy for
   building to spec (judging Paradox's 12mm sides "not the least bit
   troublesome," 9mm adequate, and the hull buildable in aluminum, but
   drawn for plywood) and his Folkboat analogy answering Kjell Karlsson
@@ -14489,12 +20518,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [construction/hull-planking.md](/construction/hull-planking.md#matt-laydens-own-account-of-the-scantling-choice)
   (citations 22–27), a new cross-link pointer added to
   [design/hull-scantlings.md](/design/hull-scantlings.md), and cross-linked
-  from [people/dc.md](/people/dc.md) (citations 44–45) and
+  from [people/david-c-smith.md](/people/david-c-smith.md) (citations 44–45) and
   [people/jeff-doryman.md](/people/jeff-doryman.md) (citations 21–22,
-  updated disambiguation note). Separately: DC shared an off-topic
+  updated disambiguation note). Separately: Smith shared an off-topic
   'Lectronic Latitude sailing-video link, folded into a new section of
   references/off-topic-cross-posts.md
-  with a cross-linked summary in [people/dc.md](/people/dc.md); [Andrew
+  with a cross-linked summary in [people/david-c-smith.md](/people/david-c-smith.md); [Andrew
   Graham](/people/andrew-graham.md) posted a further "Aussie Paradox"
   photo round (sheathed hull/deck, cabin framing, foredeck anchor
   storage, a flat-cabin-front/back plans deviation), folded into
@@ -14513,10 +20542,10 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Batch 118 (pages 1171–1180, msgnum 1188–1197, 9–11 September 2003) —
   the full "Robust construction" thread, continuing directly from batch
-  117's opening posts.** DC's design-fidelity strength argument (batch 117)
+  117's opening posts.** Smith's design-fidelity strength argument (batch 117)
   and David Beard's "Whisper" sides revelation drew a wide round of replies
   spanning both the archive's philosophical case for building to spec and a
-  new, separate rudder-ballast sub-thread. DC answered David directly (added
+  new, separate rudder-ballast sub-thread. Smith answered David directly (added
   strength helps an owner building up an already-underbuilt secondhand boat,
   not new construction) and extended his designer-fidelity logic to material
   substitution — a Paradox built in aluminum could only still bear the name
@@ -14536,12 +20565,12 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Maxwell](/people/glen-maxwell.md) illustrated "how strong is too strong"
   with a pre-Paradox racing story — crewing Roger Hatfield's trimaran
   "Hatter" in the Around St. Croix Race, going airborne off a wave and
-  landing hard, Hatfield's own verdict "I built her too heavy." DC closed the
+  landing hard, Hatfield's own verdict "I built her too heavy." Smith closed the
   thread noting that added hull weight also strains the rig and deck
   hardware above the sheer line. All folded into
   [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)
   (citations 16–21), cross-linked from
-  [people/dc.md](/people/dc.md) (citations 42–43),
+  [people/david-c-smith.md](/people/david-c-smith.md) (citations 42–43),
   [people/jeff-doryman.md](/people/jeff-doryman.md) (citation 20, updated
   disambiguation note), [people/kjell-karlsson.md](/people/kjell-karlsson.md)
   (citation 6), [people/andrew-graham.md](/people/andrew-graham.md)
@@ -14576,7 +20605,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
 
 * **Batch 117 (pages 1161–1170, msgnum 1178–1187, 7–9 September 2003) —
   resolves the standing-open "Glass" second-layer-cloth question via two
-  converging threads: a Sven Yrvind flexible-sandwich explanation, and DC's
+  converging threads: a Sven Yrvind flexible-sandwich explanation, and Smith's
   "Robust construction" case answered by David Beard revealing Whisper's
   true 1/4 in ply sides.** Read all ten source e-mails; every
   `X-Yahoo-Msgnum` header was distinct (1178–1187), confirming no stale-read
@@ -14607,17 +20636,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/kjell-karlsson.md](/people/kjell-karlsson.md) (citation 5), and
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md)
   (citation 163, Glen's "couldn't put it down" praise of Longyard's book).
-  Separately, DC's "Robust construction" post gave the archive's most
+  Separately, Smith's "Robust construction" post gave the archive's most
   forceful professional-boatbuilder case that Paradox's design-as-drawn
   needs no strengthening — backed by plywood cost figures and his own
   trouble-free sheer-clamp/chine-log installation — and David Beard's reply
-  agreeing with DC revealed that "Whisper"'s sides were originally built
+  agreeing with Smith revealed that "Whisper"'s sides were originally built
   with **1/4 in ply** rather than the plans' 1/2 in, closing the loop with
   the earlier undersize-side-panel discovery; he added a second 1/4 in
   layer of his own during a later refit. Folded into
   [construction/hull-planking.md](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)
   (citations 14–15, and citation 13 updated from "unanswered" to answered),
-  cross-linked from [people/dc.md](/people/dc.md) (citation 41) and
+  cross-linked from [people/david-c-smith.md](/people/david-c-smith.md) (citation 41) and
   [people/david-beard.md](/people/david-beard.md) (citations 159–161, and
   the Undersize-side-panels paragraph extended). No new files created, no
   promotions or prunings. All three standing backlog items (Jeff UK,
@@ -14698,8 +20727,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files' byte sizes matched the batch instructions exactly. Msgnum mapping
   was a **clean, fully consecutive run (1158–1167) with no gaps**,
   continuing directly from batch 114's 1157 — the twenty-ninth gap-free
-  ten-page batch of the last thirty. **DC** and **Alastair** closed out
-  the prior batch's rudder-stock-height/mainsheet-fouling problem: DC
+  ten-page batch of the last thirty. **Smith** and **Alastair** closed out
+  the prior batch's rudder-stock-height/mainsheet-fouling problem: Smith
   suggested a webbing tie from rudder head to deck (not shock cord) or a
   deck-led sheet; Alastair clarified the sheet actually rides over the top
   of the pintle rather than dropping into the notch, described his own
@@ -14708,7 +20737,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   reefing — folded into
   [design/rudder.md](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch)
   (citations 23–24), cross-linked from
-  [people/dc.md](/people/dc.md) (citation 39) and
+  [people/david-c-smith.md](/people/david-c-smith.md) (citation 39) and
   [people/alastair.md](/people/alastair.md) (citation 113). A new **"Water
   Collection"** thread — David Beard asking whether the plans'
   rain-catchment plumbing is worth installing if the tanks themselves
@@ -14741,7 +20770,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (citations 7–9), cross-linked from
   [people/andrew-graham.md](/people/andrew-graham.md) (citation 6),
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md)
-  (citation 160), and [people/dc.md](/people/dc.md) (citation 40, DC's
+  (citation 160), and [people/david-c-smith.md](/people/david-c-smith.md) (citation 40, Smith's
   reply hoping to see Andrew's launch photos soon). No new files created,
   no promotions or prunings. Checked all three standing backlog
   identity/below-threshold items ("Jeff UK," "botebilder"/Ernie Fossel,
@@ -14755,7 +20784,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files' byte sizes matched the batch instructions exactly. Msgnum mapping
   was a **clean, fully consecutive run (1148–1157) with no gaps**,
   continuing directly from batch 113's 1147 — the twenty-eighth gap-free
-  ten-page batch of the last twenty-nine. **DC**, dry-fitting his hull,
+  ten-page batch of the last twenty-nine. **Smith**, dry-fitting his hull,
   found deck beam #1 **below fair at the centerline**, matching a shim
   already visible on **Hugh's New Zealand Paradox**; **Andrew Graham**
   independently hit the identical shortfall on **Aussie Paradox**, fixing
@@ -14768,7 +20797,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   extensive gap-filling — folded into a new section of
   [construction/deck-and-cabin-beams.md](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline)
   (citations 13–19), with cross-linked summaries added to
-  [people/dc.md](/people/dc.md) (citation 38),
+  [people/david-c-smith.md](/people/david-c-smith.md) (citation 38),
   [people/andrew-graham.md](/people/andrew-graham.md) (citation 5),
   [boats/aussie-paradox.md](/boats/aussie-paradox.md) (citation 6, new
   section), [people/alastair.md](/people/alastair.md) (citation 111), and
@@ -14780,13 +20809,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   transom against the top pintle — folded into a new section of
   [design/rudder.md](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch)
   (citation 22), cross-linked from
-  [people/alastair.md](/people/alastair.md) (citation 112). DC also posted
+  [people/alastair.md](/people/alastair.md) (citation 112). Smith also posted
   a standalone follow-up to his own unanswered "braided carbon sleeves"
   sourcing question (batch 112), naming a candidate supplier, **A&P
   Technology** (`braider.com`) — folded into
   [design/rig.md](/design/rig.md#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig)'s
   existing birdmouth-carbon-spar section (citation 54), cross-linked from
-  [people/dc.md](/people/dc.md) (citation 37). **Don Elliott**'s one-line
+  [people/david-c-smith.md](/people/david-c-smith.md) (citation 37). **Don Elliott**'s one-line
   "Thanks Mike" closed out the "Building Paradox booklet a special notice"
   printing-defect thread (batches 112–113) — folded as a closing line into
   [references/building-the-paradox-articles.md](/references/building-the-paradox-articles.md#a-printing-defect-in-the-booklet-form-missing-chapter-12-or-13)
@@ -14831,7 +20860,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (citations 12–13), cross-linked from
   [people/don-elliott.md](/people/don-elliott.md) (citation 15); Mike Sieloff
   kept inline per the people threshold (single message, no boat). Finally,
-  **"DC"** replied to Alastair's prior "Chine logs" message (batch 112),
+  **David C. Smith** replied to Alastair's prior "Chine logs" message (batch 112),
   confirming the plan to fit sheer clamps before chine logs and expecting
   little trouble from them, wondering whether Matt Layden's own prototype
   used green or air-dried lumber for its chine logs, and detailing a test
@@ -14842,8 +20871,8 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   into a new section of
   [construction/chine-runner-construction.md](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding)
   (citation 14), cross-linked from
-  [people/dc.md](/people/dc.md) (citation 36) and
-  [people/alastair.md](/people/alastair.md) (this DC-authored citation was
+  [people/david-c-smith.md](/people/david-c-smith.md) (citation 36) and
+  [people/alastair.md](/people/alastair.md) (this Smith-authored citation was
   placed in `chine-runner-construction.md` and `dc.md` only, not duplicated
   into `alastair.md`, which received only its own water-damage citation
   above). No new files created, no promotions or prunings; checked all three
@@ -14854,7 +20883,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (`construction/epoxy-coating-technique.md` [9]-[15],
   `boats/whisper.md` [68]-[69], `people/david-beard.md` [153]-[155],
   `people/nels.md` [22], `people/alastair.md` [110],
-  `construction/chine-runner-construction.md` [14], `people/dc.md` [36],
+  `construction/chine-runner-construction.md` [14], `people/david-c-smith.md` [36],
   `references/building-the-paradox-articles.md` [12]-[13],
   `people/don-elliott.md` [15]).
 
@@ -14866,7 +20895,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files' byte sizes matched the batch instructions exactly. Msgnum mapping
   was a **clean, fully consecutive run (1128–1137) with no gaps**,
   continuing directly from batch 111's 1127 — the twenty-sixth gap-free
-  ten-page batch of the last twenty-seven. Content: [DC](/people/dc.md)
+  ten-page batch of the last twenty-seven. Content: [David C. Smith](/people/david-c-smith.md)
   opened the batch reporting that milling chine logs from **Honduras
   Mahogany** (used throughout his boat) proved much harder to bend than
   white oak, possibly requiring resawing and lamination, and — in a
@@ -14898,11 +20927,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (citation 21) and [people/alastair.md](/people/alastair.md) (citations
   108–109). The same thread's **hardware-bonding** technique — Glen's
   epoxy-set-fastener pull-test method as an alternative to thru-bolting deck
-  hardware, and DC's caution that direct sun on black-colored bonded
+  hardware, and Smith's caution that direct sun on black-colored bonded
   hardware could generate enough heat to weaken the epoxy bond — was folded
   into
   [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting)
-  (citations 18–20), cross-linked from [people/dc.md](/people/dc.md)
+  (citations 18–20), cross-linked from [people/david-c-smith.md](/people/david-c-smith.md)
   (citations 34–35) and
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md)
   (citations 155–156). Separately, the "New Boatbuilding Method" thread
@@ -14927,7 +20956,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md)
   18–20, [design/rig.md](/design/rig.md) 53,
   [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
-  6, [people/dc.md](/people/dc.md) 34–35, [people/nels.md](/people/nels.md)
+  6, [people/david-c-smith.md](/people/david-c-smith.md) 34–35, [people/nels.md](/people/nels.md)
   21, [people/alastair.md](/people/alastair.md) 108–109,
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md)
   155–156).
@@ -14946,7 +20975,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   fully consecutive run (1118–1127) with no gaps**, continuing directly
   from batch 110's 1117. Content: three replies to Glen Maxwell's "New
   Sail" post (batch 110) — [Dave Bolduc](/people/bolduc/dave.md) and
-  [DC](/people/dc.md) both asked the cloth weight and whether Dabbler
+  [David C. Smith](/people/david-c-smith.md) both asked the cloth weight and whether Dabbler
   followed Matt Layden's instructions, and Glen answered fully (5 oz
   cloth, sailmaker Stuart's Nutshell-pram-fleet pedigree, confirmation the
   leech tell-tales work well, and Matt Layden's own two-inch-camber "eye
@@ -14954,19 +20983,19 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   technique) while also offering his superseded original sail for sale —
   folded into
   [design/rig.md](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)
-  (citations 50–52), cross-linked from [people/dc.md](/people/dc.md)
+  (citations 50–52), cross-linked from [people/david-c-smith.md](/people/david-c-smith.md)
   (citation 32). Dave Bolduc posted a further round of New Zealand Paradox
   photos, and this batch's exchange with Glen Maxwell reveals the
   previously unnamed New Zealand builder's first name, **Hugh** (a
   then-67-year-old builder), who hoped to have the boat sailing by the New
   Zealand summer — updated
   [boats/index.md](/boats/index.md) and [people/dave-bolduc.md](/people/bolduc/dave.md)
-  (citations 68–69) accordingly. DC's own "materials" post pointed the list
+  (citations 68–69) accordingly. Smith's own "materials" post pointed the list
   to `onlinemetals.com` (a Seattle small-quantity metal supplier) alongside
   a build-progress note (deckbeams laminated in May, sides due to be
   sprung around the bulkheads that week) — folded into
   [references/materials-sourcing-links.md](/references/materials-sourcing-links.md)
-  (citation 7) and [people/dc.md](/people/dc.md) (citation 33). Two thin,
+  (citation 7) and [people/david-c-smith.md](/people/david-c-smith.md) (citation 33). Two thin,
   unrelated outside pitches: Chilean boatbuilder Antonio Bordeu introduced
   a frameless urethane-foam composite method with no Paradox connection,
   drawing one curious but unresolved question from Glen Maxwell and no
@@ -14981,14 +21010,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [boats/bris-paradox.md](/boats/bris-paradox.md#reference-material-and-a-related-yrvind-mailing-list)
   (citation 20), paying off the prior batch's secondhand mention that the
   wider group wanted the book translated. **Skipped:** page_1110 (msgnum
-  1127, DC, subject "Chine logs") has an empty body (`Content-Length: 1`
+  1127, Smith, subject "Chine logs") has an empty body (`Content-Length: 1`
   in the header, confirmed genuinely blank on direct read) — no content to
   extract. No new files created, no promotions or prunings. Checked all
   three standing backlog Open items ("Jeff UK," "botebilder"/Ernie Fossel,
   the below-threshold "Larry"/`newspipetr3`): none resurfaced in this
   batch. Verified no new citation-number collisions were introduced across
   the six files that received new citations
-  ([design/rig.md](/design/rig.md) 50–52, [people/dc.md](/people/dc.md)
+  ([design/rig.md](/design/rig.md) 50–52, [people/david-c-smith.md](/people/david-c-smith.md)
   32–33, [people/dave-bolduc.md](/people/bolduc/dave.md) 68–69,
   [references/materials-sourcing-links.md](/references/materials-sourcing-links.md)
   7, [design/aluminum-construction-idea.md](/design/aluminum-construction-idea.md)
@@ -15007,14 +21036,14 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   conclusion — [Dave Bolduc](/people/bolduc/dave.md)'s firsthand
   Outbacker-vs-Buddipole portable-antenna comparison and Waterway Radio and
   Cruising Club net practice; a technical exchange between
-  [David LeBlanc](/people/david-leblanc.md) and [DC](/people/dc.md) on
+  [David LeBlanc](/people/david-leblanc.md) and [David C. Smith](/people/david-c-smith.md) on
   SailMail vs. Winlink/Airmail, Pactor I/II/III TNC cost and speed, the
   legality of ham radio for marine SSB use, and weatherfax reception; and
   Dave Bolduc's closing PocketMail alternative — folded into three new
   sections of
   [operations/radio-and-electronics.md](/operations/radio-and-electronics.md)
   (citations 4–9), with cross-linked citations added to
-  [people/dc.md](/people/dc.md) (citations 30–31),
+  [people/david-c-smith.md](/people/david-c-smith.md) (citations 30–31),
   [people/david-leblanc.md](/people/david-leblanc.md) (citations 47–48), and
   [people/dave-bolduc.md](/people/bolduc/dave.md) (citations 66–67). A new
   "Tank Tops" thread — [David Beard](/people/david-beard.md) asking whether
@@ -15058,7 +21087,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   closing line into
   [construction/bottom-painting.md](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail)
   (citation 33). The "Transom" crown/bevel thread also closed, with
-  [DC](/people/dc.md) catching and correcting his own fatigue-caused
+  [David C. Smith](/people/david-c-smith.md) catching and correcting his own fatigue-caused
   rudder-template drafting slip (a plumb transom shown instead of the plans'
   raked one) — folded into
   [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly)
@@ -15078,7 +21107,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   [people/don-elliott.md](/people/don-elliott.md),
   [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md),
   and [construction/build-effort.md](/construction/build-effort.md); Duane
-  remains below the person-page threshold. Separately, DC opened a new "HAM
+  remains below the person-page threshold. Separately, Smith opened a new "HAM
   savvy?" thread proposing to use the Paradox mast's existing
   lightning-protection wiring as a ready-made HF radio antenna groundplane
   with an automatic tuner — a genuinely new topic with no prior home in the
@@ -15101,19 +21130,19 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   consecutive (1087–1096) with no gaps, continuing directly from batch 107's
   1086 — the twenty-third gap-free ten-page batch of the last twenty-four.
   All ten source files' byte sizes matched the batch instructions exactly and
-  no stale-read issue surfaced. Content: "DC" (`betelgeuserdude`) asked
+  no stale-read issue surfaced. Content: David C. Smith (`betelgeuserdude`) asked
   whether the transom's side framing (and bulkhead #4) should carry crown,
   given inconsistent plan sheets; [Alastair](/people/alastair.md) answered
   from his own build (a slight, asymmetric crown, not enough to cause
   trouble) and offered a looser philosophy — don't fuss over exact bevels
   ahead of time, shape them freehand with an angle grinder at trial assembly
-  instead — which DC adopted for his own stem bevel — folded into
+  instead — which Smith adopted for his own stem bevel — folded into
   [construction/hull-assembly-sequence.md](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly)
   (new section, citations 13–15) with cross-linked summaries in
-  [people/dc.md](/people/dc.md) and [people/alastair.md](/people/alastair.md).
+  [people/david-c-smith.md](/people/david-c-smith.md) and [people/alastair.md](/people/alastair.md).
   Separately, [David Beard](/people/david-beard.md) asked for antifouling
   alternatives for "Whisper" (Interlux Brightsides below the waterline, thin
-  films, or Sven Yrvind's reported Bris-hull waxing practice), drawing DC's
+  films, or Sven Yrvind's reported Bris-hull waxing practice), drawing Smith's
   extensive technical case against wax/enamel/LPU shortcuts and his
   epoxy-barrier/vinyl/Pettit-Trinidad recommendation for serious cruising
   (Interlux Micron, tinted green, for his own boat), a tint follow-up with
@@ -15124,7 +21153,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Offshore recommendation from his SeaPearl 28 — folded into
   [construction/bottom-painting.md](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail)
   (new section, citations 26–32) with cross-linked summaries in
-  [people/dc.md](/people/dc.md), [people/david-beard.md](/people/david-beard.md)
+  [people/david-c-smith.md](/people/david-c-smith.md), [people/david-beard.md](/people/david-beard.md)
   (citation 149), [people/david-leblanc.md](/people/david-leblanc.md)
   (citation 45), and [people/william-longyard.md](/people/william-longyard.md)
   (citation 15). No new files, no promotions/prunings; all three standing
@@ -15160,7 +21189,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   is recorded — folded into
   [people/william-longyard.md](/people/william-longyard.md) (citations
   12–14; also fixed a pre-existing duplicated `# Citations` heading in that
-  file). "DC" (`betelgeuserdude`) posted a message titled "Transom" with a
+  file). David C. Smith (`betelgeuserdude`) posted a message titled "Transom" with a
   completely empty body (`Content-Length: 1`) — logged as skipped, no content
   to extract. No new files, no promotions/prunings; all three standing Open
   items checked (Jeff UK, botebilder/Ernie Fossel, below-threshold
@@ -15191,17 +21220,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   last twenty-two. All ten source files' byte sizes matched the batch
   instructions exactly and no stale-read issue surfaced. Content: new
   one-off correspondent Blake Lauder asked how far offshore a Paradox
-  could safely venture, drawing [DC](/people/dc.md)'s fullest statement
+  could safely venture, drawing [David C. Smith](/people/david-c-smith.md)'s fullest statement
   yet on seamanship-over-seaworthiness — a seamanlike attitude, gained
   through experience, matters more than a vessel's in-hindsight
   "seaworthy" label; he judged the Paradox "a masterful design" refined
   through the designer's own years of experimentation, and saw no reason
   it could not make transoceanic passages in an experienced sailor's
   hands — endorsed without qualification by Glen Maxwell ("Exceptionally
-  well put DC!") and David Beard ("Just wait till you spend time in
+  well put Smith!") and David Beard ("Just wait till you spend time in
   one") — folded into `design/blue-water-suitability.md` (new section,
-  citations `[12]`-`[17]`) with a cross-linked summary in `people/dc.md`.
-  DC separately opened a "materials" thread comparing epoxy brands
+  citations `[12]`-`[17]`) with a cross-linked summary in `people/david-c-smith.md`.
+  Smith separately opened a "materials" thread comparing epoxy brands
   (West System vs. System Three, the latter slightly more flexible but
   earning his preference for the rest of his build) and non-skid deck
   coatings (sand-in-paint vs. Glen Maxwell's walnut-shell-in-epoxy vs.
@@ -15209,7 +21238,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "Flex-o-Tex," eight years' maintenance-free service on a prior boat) —
   folded into `construction/epoxy-brands-and-chemistry.md` (new section)
   and `construction/non-skid-deck.md` (new section), cross-linked from
-  `people/dc.md`. William Longyard announced his new book, *A Speck on
+  `people/david-c-smith.md`. William Longyard announced his new book, *A Speck on
   the Sea* (McGraw-Hill), profiling over 70 small-boat ocean voyagers
   since Roman times — folded into `people/william-longyard.md` (new
   section). A new prospective builder, "keywestdale" (Duane, of
@@ -15227,7 +21256,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Verified no new citation-number collisions were introduced across the
   six files that received new citations (`design/blue-water-suitability.md`
   `[12]`-`[17]`, `construction/epoxy-brands-and-chemistry.md` `[7]`,
-  `construction/non-skid-deck.md` `[5]`, `people/dc.md` `[19]`-`[21]`,
+  `construction/non-skid-deck.md` `[5]`, `people/david-c-smith.md` `[19]`-`[21]`,
   `people/william-longyard.md` `[11]`, `construction/build-effort.md`
   `[11]`-`[12]`, `people/david-beard.md` `[147]`-`[148]`).
 * **Batch 105 (pages 1041–1050, msgnum 1057–1066, 23–29 June 2003) — the
@@ -15469,11 +21498,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Davis, asking about a solar/battery-powered LED nav-light setup —
   drew David LeBlanc's cross-posting complaint and kerosene-lamp
   counter-argument, Larry Whited's pointer to Dave Bolduc's
-  microcruising.com supplier review, and DC's detailed LED rebuttal
+  microcruising.com supplier review, and Smith's detailed LED rebuttal
   (including a direct challenge to the Pardeys' published advice and a
   Paradox-specific COLREGs point already established in the archive) —
   folded into `operations/running-lights.md` (new section), `people/
-  david-leblanc.md`, and `people/dc.md`; Susan Davis stays an inline,
+  david-leblanc.md`, and `people/david-c-smith.md`; Susan Davis stays an inline,
   cross-linked mention per the people threshold, as she already was
   elsewhere in the bundle. The batch closed with **Kjell Karlsson**
   ("kjellkkk"), introducing himself and a decade-plus, in-progress
@@ -15499,7 +21528,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `[19]`-`[21]`, `people/don-elliott.md` `[10d]`, `boats/little-jim.md`
   `[72]`-`[73]`, `people/alastair.md` `[106]`, `operations/
   running-lights.md` `[7]`-`[10]`, `people/david-leblanc.md` `[45]`,
-  `people/dc.md` `[18]`, `matt-layden/biography.md` `[42]`,
+  `people/david-c-smith.md` `[18]`, `matt-layden/biography.md` `[42]`,
   `boats/bris-paradox.md` `[1]` [new file], `people/kjell-karlsson.md`
   `[1]` [new file]) — the pre-existing `people/glen-maxwell/*`
   collision history is unchanged (Glen did not post this batch).
@@ -15739,11 +21768,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   "Anchor Rodes" thread (cc'd to `paradoxbuilders`): Glen Maxwell's own
   stern-set/walk-forward anchoring routine, braided-nylon-rode
   preference, and a rode-bag-lost-overboard-at-a-pier anecdote, and
-  "DC"'s own out-loud reasoning on stowing rode aboard a Paradox's
+  David C. Smith's own out-loud reasoning on stowing rode aboard a Paradox's
   cockpit-less layout (stern rollers rejected as too heavy, a
   webbing-reel-in-a-rig-hoop idea left unsettled) — folded into
   `operations/ground-tackle.md` (new section), `people/glen-maxwell.md`,
-  and `people/dc.md`. Alastair then posted the interior photos of
+  and `people/david-c-smith.md`. Alastair then posted the interior photos of
   "little Jim" that David Beard had asked for back in May, drawing
   Glen Maxwell's fuller water-tank-leak dowel-handle fix (extending his
   original January 2002 tip), Alastair's own Vaseline-sealed
@@ -15754,11 +21783,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `construction/transom-deck-plate.md` (cross-linked). The batch closed
   with a new one-off correspondent, **Jim Goeckermann**
   (`jgoeckermann`), asking about sealing leaking inspection plates and
-  build-hours for a "workboat"-finish hull; "DC" answered the sealing
+  build-hours for a "workboat"-finish hull; David C. Smith answered the sealing
   question with a glycerin-lubrication and Channellock-pliers-leverage
   O-ring trick from his own professional watermaker-membrane
   experience (the build-hours question went unanswered) — folded into
-  `construction/transom-deck-plate.md` (new section) and `people/dc.md`.
+  `construction/transom-deck-plate.md` (new section) and `people/david-c-smith.md`.
   No new files created; Greg Blanchette, Richard Green, and Jim
   Goeckermann all kept as inline, cross-linked one-off mentions per the
   people threshold. Checked all three standing identity/naming Open
@@ -15771,7 +21800,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   introduced across the five files that received new citations
   (`operations/ground-tackle.md` `[15]`-`[16]`, `boats/little-jim.md`
   `[60]`-`[64]`, `construction/transom-deck-plate.md` `[13]`-`[14]`,
-  `people/glen-maxwell.md` `[178]`-`[179]`, `people/dc.md`
+  `people/glen-maxwell.md` `[178]`-`[179]`, `people/david-c-smith.md`
   `[14]`-`[17]`, `people/david-beard.md` `[137]`-`[138]`) — the
   pre-existing `people/glen-maxwell.md` collision areas (`[71]`/`[72]`/
   `[84]` and the separate `[172]` duplicate) are unchanged and remain
@@ -15791,9 +21820,9 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   archive's fullest cabin-bedding technique yet — a foam-by-mail source
   tested at the Cedar Key Messabout, cut to cover the entire cabin sole —
   which drew a Therm-a-Rest/Sunbrella-covered-inner-tube alternative from
-  "DC"; in between his two replies in that thread, **DC's own post
+  David C. Smith; in between his two replies in that thread, **Smith's own post
   happened to be the `paradoxbuilders` list's 1,000th**, which he noted
-  with a one-line "Hey my post is number 1000!" aside. Days later, DC
+  with a one-line "Hey my post is number 1000!" aside. Days later, Smith
   reported his own plywood purchase for his in-progress build (Joubert
   Okoume BS-1088, Honduras Mahogany lumber, West System epoxy) — folded
   into `construction/plywood-grades-and-foam-flotation.md` as a new,
@@ -15811,11 +21840,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   introduction substantial enough (real name, location, detailed
   construction choices, a photo gallery, welcomed by two established
   members) to clear the boats/people threshold on the same basis as
-  Chris Becker and DC — **promoted to new `people/andrew-graham.md` and
+  Chris Becker and Smith — **promoted to new `people/andrew-graham.md` and
   `boats/aussie-paradox.md`**, cross-linked from `boats/index.md` and
   `people/index.md`. Folded the rest into `boats/little-jim.md` (two new
   sections: the Foam Cushions thread and the 1,000th-post aside),
-  `people/glen-maxwell.md` (two new sections), `people/dc.md` (two new
+  `people/glen-maxwell.md` (two new sections), `people/david-c-smith.md` (two new
   sections), and `construction/plywood-grades-and-foam-flotation.md`
   (one new section). No prunings. While adding new citations to
   `people/glen-maxwell.md`, **discovered a pre-existing citation
@@ -15836,7 +21865,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   starting with (or immediately after) batch 100. Verified no new
   citation-number collisions were introduced across the six files that
   received new citations (`boats/little-jim.md` `[54]`-`[59]`,
-  `people/glen-maxwell.md` `[175]`-`[177]`, `people/dc.md`
+  `people/glen-maxwell.md` `[175]`-`[177]`, `people/david-c-smith.md`
   `[10]`-`[13]`, `construction/plywood-grades-and-foam-flotation.md`
   `[21]`, `people/andrew-graham.md` `[1]`-`[3]` [new file],
   `boats/aussie-paradox.md` `[1]`-`[3]` [new file]).
@@ -15863,7 +21892,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   thread yet, running through 1 June: David Beard's anti-fog-cleaner
   tip and a second cabin fan/exhaust-port idea; a concrete
   outboard-weight/trim comparison (a 65 lb motor unbalanceable vs. a
-  27 lb 2 hp Honda that "works great"); "DC"'s stability/chain-ferry
+  27 lb 2 hp Honda that "works great"); David C. Smith's stability/chain-ferry
   questions, answered with the clearest confidence statement yet in
   "little Jim"'s offshore seaworthiness; a new one-off correspondent,
   **Neil McVicar** (Glasgow), asking about the helming position (no
@@ -15874,7 +21903,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   foam pads or a small vinyl-covered cushion. Folded into
   `boats/little-jim.md` (two major new sections plus the reply thread),
   `people/alastair.md`, `people/david-beard.md`, `people/dave-bolduc.md`,
-  `people/dc.md`, `boats/whisper.md`, `people/jeff-doryman.md`
+  `people/david-c-smith.md`, `boats/whisper.md`, `people/jeff-doryman.md`
   (cross-linked note on the friend-of-"Jeff UK" contact — no linking
   detail, identity question still open), `boats/index.md`. No new files
   created; Neil McVicar kept as an inline, cross-linked mention (one-off,
@@ -15890,7 +21919,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   files that received new citations (`boats/little-jim.md`
   `[44]`-`[53]`, `people/alastair.md` `[101]`-`[104]`,
   `people/david-beard.md` `[134]`-`[137]`, `people/dave-bolduc.md`
-  `[64]`, `people/dc.md` `[9]`, `boats/whisper.md` `[63]`-`[65]`,
+  `[64]`, `people/david-c-smith.md` `[9]`, `boats/whisper.md` `[63]`-`[65]`,
   `people/jeff-doryman.md` `[19]`).
 
 * **Batch 97 (pages 961–970, msgnum 977–986, 23–27 May 2003) — the
@@ -16031,7 +22060,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   continuing directly from batch 94's 955 with **no gaps** — the
   eleventh gap-free ten-page batch in a row — spanning 5–9 May 2003 (a
   short jump from 5 to 7 to 8–9 May). Content opened with the tail of
-  the "rig details" thread carried over from batch 94: DC's own
+  the "rig details" thread carried over from batch 94: Smith's own
   cautious follow-up on Matt's foot-pressure furling trick (still
   leaning toward fitting a topping lift regardless) and a tack-strop
   slack question; then Glen Maxwell, still not having seen Alastair's
@@ -16040,7 +22069,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   halyard/furling-line** refinement (a single line doing both jobs,
   leaving only a small loop of rope in the cabin), which Glen called
   "a great idea." Folded into `design/furling-system.md` (three new
-  sections), `people/dc.md`, `people/glen-maxwell.md`, and
+  sections), `people/david-c-smith.md`, `people/glen-maxwell.md`, and
   `people/alastair.md`. **BATCH CENTERPIECE:** four days after the 2003
   Cedar Key Messabout, **Matt Layden posted to `paradoxbuilders` himself
   for the first time** — the only message from the designer's own hand
@@ -16062,11 +22091,11 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `construction/sailmaking.md` (Matt's full technical recipe, extending
   the existing Bolduc-sourced sailmaking content), `design/rig.md`
   (summary + cross-links), and `people/glen-maxwell.md`,
-  `people/dave-bolduc.md`, `people/david-beard.md`, `people/dc.md`
+  `people/dave-bolduc.md`, `people/david-beard.md`, `people/david-c-smith.md`
   (reaction sections). A final, smaller thread closed the batch: Dave
   Bolduc asked after the **West Coast Trailer Sailers**' website, which
   a friend said carried Cedar Key photos of two Paradoxes; Larry Whited
-  supplied the link, and DC confirmed the photos showed "Whisper" and
+  supplied the link, and Smith confirmed the photos showed "Whisper" and
   "Zoë" together — independent, outside photographic corroboration
   (alongside the archive's own planning thread and the Bolducs'
   microcruising.com cruising log) that the messabout came off as
@@ -16091,7 +22120,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `[47]`-`[48]`, `construction/sailmaking.md` `[13]`-`[14]`,
   `matt-layden/biography.md` `[34]`-`[37]`, `boats/original-paradox.md`
   `[42]`-`[43]`, `operations/group-cruise-reports.md` `[27]`-`[29]`,
-  `people/dc.md` `[7]`-`[8]`, `people/alastair.md` `[93]`,
+  `people/david-c-smith.md` `[7]`-`[8]`, `people/alastair.md` `[93]`,
   `people/glen-maxwell.md` `[172]`-`[174]`, `people/dave-bolduc.md`
   `[61]`, `people/david-beard.md` `[131]`).
 
@@ -16117,7 +22146,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/jeff-doryman.md` on the "Jeff UK" identity question (still
   unresolved — no linking detail this batch either, though a new
   circumstantial point was noted). **BATCH CENTERPIECE:** after a four-day
-  gap, new correspondent DC's own Paradox plans arrived, and he asked a
+  gap, new correspondent Smith's own Paradox plans arrived, and he asked a
   tack-pipe deck-wear question — answered by both Alastair and Glen
   Maxwell from their own boats' matching swaged-copper-pipe fairlead
   solution. Glen's reply then delivered the long-anticipated payoff: he
@@ -16134,17 +22163,17 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   Layden sighting), `matt-layden/index.md`, `operations/group-cruise-reports.md`
   (new section confirming the messabout went ahead and closing the loop
   on Glen's April commitment to attend), and `people/glen-maxwell.md` and
-  `people/dc.md` (new sections plus top-description updates). No new
+  `people/david-c-smith.md` (new sections plus top-description updates). No new
   files, promotions, or prunings — the Cedar Key content matched four
   existing homes well; Patrick Hooker stays inline per the people
   threshold. Verified no new citation-number collisions across the eight
   files touched (`design/rig.md` `[44]`–`[46]`, `design/furling-system.md`
   `[38]`, `matt-layden/biography.md` `[33]`, `people/glen-maxwell.md`
-  `[172]`, `operations/group-cruise-reports.md` `[26]`, `people/dc.md`
+  `[172]`, `operations/group-cruise-reports.md` `[26]`, `people/david-c-smith.md`
   `[6]`, `design/variants/stretched-paradox.md` `[45]`–`[50]`,
   `people/david-leblanc.md` `[41]`).
 
-* **Batch 93 (pages 921–930, msgnum 936–945, 25–30 April 2003) — DC'S
+* **Batch 93 (pages 921–930, msgnum 936–945, 25–30 April 2003) — Smith's
   FULLER INTRODUCTION AND PROMOTION; "LIL CRUISER PLANS."** Read all ten
   source `.eml` files and confirmed each genuinely distinct; re-derived
   every msgnum from its own `X-Yahoo-Msgnum` header. Pages 921–930 mapped
@@ -16154,7 +22183,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   gap from 25 to 28 to 29–30 April). Content was a direct continuation of
   two threads batch 92 had already opened (the "Sails," thread and "(Son
   of) Little Jim (II, the sequel)" cabin-heating/tell-tale sub-thread),
-  plus one new thread. **BATCH CENTERPIECE:** new correspondent **"DC"**
+  plus one new thread. **BATCH CENTERPIECE:** new correspondent **David C. Smith**
   (`betelgeuserdude`, introduced batch 92) filled out considerably —
   answering David LeBlanc's question about his prior boat, he revealed he
   had owned and modified a 20 ft Elver canoe yawl (leeboards for a
@@ -16164,13 +22193,13 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   half-joking CO2-air-bladder aside), and pressed his own still-unanswered
   gimballed-kerosene-lamp cabin-heating question — Alastair answered part
   of it (no spot above eye height; his own cabin uses LEDs) and David
-  LeBlanc suggested a Welsh miner's lamp. DC also closed out the tell-tale
+  LeBlanc suggested a Welsh miner's lamp. Smith also closed out the tell-tale
   question (leech placement, cassette tape) with Glen Maxwell, who
   separately admitted he hadn't thought of stiffening his yard with carbon
-  tow as DC had suggested. Given DC's recurring, multi-thread engagement
+  tow as Smith had suggested. Given Smith's recurring, multi-thread engagement
   across two batches (design philosophy, sail trim, cabin heating, his own
   boat history), **promoted him from an inline mention to his own
-  `people/dc.md`**, cross-linked from `matt-layden/biography.md`,
+  `people/david-c-smith.md`**, cross-linked from `matt-layden/biography.md`,
   `design/rig.md`, `operations/cabin-heating.md`,
   `construction/plywood-grades-and-foam-flotation.md`, and
   `people/index.md`. Separately, Dave Bolduc gave a fuller cold-weather-
@@ -16190,7 +22219,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `people/david-leblanc.md`. A small housekeeping item: Glen Maxwell's own
   brief reply to Alastair's "Little Jim pictures" post (echoing 440ford's
   and Longyard's congratulations) was added to `boats/little-jim.md`. No
-  new files needed beyond `people/dc.md`; no other promotions or
+  new files needed beyond `people/david-c-smith.md`; no other promotions or
   prunings. All three standing identity/naming Open items ("Big Cruiser,"
   "Jeff UK," "botebilder"/Ernie Fossel) were checked and remain correctly
   deferred, none resurfaced. Confirmed the holistic-review item's trigger
@@ -16202,7 +22231,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   `construction/plywood-grades-and-foam-flotation.md` (new cross-reference
   section, no new numbered citations), `design/variants/stretched-paradox.md`
   `[42]`-`[44]`, `people/dave-bolduc.md` `[59]`-`[60]`,
-  `people/david-leblanc.md` `[40]`, `people/dc.md` `[1]`-`[5]`).
+  `people/david-leblanc.md` `[40]`, `people/david-c-smith.md` `[1]`-`[5]`).
 
 * **Batch 92 (pages 911–920, msgnum 926–935, 23–24 April 2003) — "LITTLE
   JIM"'S FIRST REAL SAIL, AND THE CEDAR KEY THREAD RUNS ITS COURSE.** Read
@@ -16221,7 +22250,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   overnight from Poole Harbour to Middlebere Lake and back, over 5 kn
   (unconfirmed) at best, up to 20 degrees of heel, a course held for 2
   miles with the tiller locked, and two failed tacks; new correspondent
-  **"DC"** (`betelgeuserdude`) replied with sheet-easing/tell-tale advice
+  **David C. Smith** (`betelgeuserdude`) replied with sheet-easing/tell-tale advice
   that likely explains the tacking trouble, plus his own unanswered
   flowerpot-safety/gimballed-kerosene-lamp cabin-heating question — folded
   into `boats/little-jim.md` (two new sections), `people/alastair.md` (new
@@ -16278,7 +22307,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   cause of her uncertain stability. Folded into `boats/little-jim.md`
   (new section), `design/weight-and-ballast.md` (new subsection),
   `people/alastair.md`, and `people/david-beard.md`. **BATCH
-  CENTERPIECE:** a new correspondent, **"DC"** (`betelgeuserdude`, a
+  CENTERPIECE:** a new correspondent, **David C. Smith** (`betelgeuserdude`, a
   self-described professional boatbuilder of 20 years who read the
   entire archive before posting), introduced himself under "Newbie...,"
   announced he would build his own Paradox "sistership," and endorsed
@@ -16290,7 +22319,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   butt kicking on me to windward"; Matt separately diagnosed a **bowing
   yard** needing a small crescent cut; and Glen confirmed **Matt makes
   his own sails**, fiddling by cutting and re-cutting — advice Glen
-  planned to take up himself. DC offered his own sailmaker's take on the
+  planned to take up himself. Smith offered his own sailmaker's take on the
   yard-bow problem from a bad experience with his own sprit. The same
   message also confirmed **five Paradoxes now afloat** (counting "Little
   Jim") and opened planning for the **2003 Cedar Key messabout**
@@ -16302,7 +22331,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   (cross-reference added), `operations/group-cruise-reports.md` (new
   section), `people/glen-maxwell.md`, `people/david-beard.md`, and
   `people/alastair.md`. Checked both standing identity-caution Open items
-  and the "Big Cruiser" item: none resurfaced. **DC kept as an inline,
+  and the "Big Cruiser" item: none resurfaced. **Smith kept as an inline,
   cross-linked mention** (two messages, one thread, announced intent to
   build but no boat/progress yet) per the people threshold — not yet
   promoted, per precedent (Nels, botebilder/Ernie Fossel). No new files

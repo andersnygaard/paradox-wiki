@@ -1,0 +1,145 @@
+---
+type: Concept
+title: A scaled-down "mini" Paradox (speculative)
+description: A proposed .55-scale, roughly 7.6 ft stitch-and-glue single-sheet hull, floated by a newcomer as a quick, cheap way onto the water while awaiting his own full-size Paradox build; abandoned in favor of a different small boat, unbuilt on record.
+tags: [paradox, design, scale, speculative, stitch-and-glue]
+timestamp: 2026-07-07T00:00:00Z
+---
+
+# A scaled-down "mini" Paradox (speculative)
+
+Where [stretched Paradox](/design/variants/stretched-paradox.md) and
+[enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md)
+scale the design up, one newcomer proposed scaling it **down** instead —
+a quick, cheap single-occupant hull to learn on while a full-size Paradox
+build was still ahead of him.
+
+Note: this proposal is unrelated to the established
+**["Mini Paradox"](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)**
+working name, which was the 2005 construction-era nickname for what is now
+known to be Matt Layden's own **Enigma** — a distinct, smaller Layden design
+actually built and sailed. This page concerns only a hobbyist's unbuilt
+scaling idea for the stock Paradox hull itself.
+
+## The proposal: a .55-scale hull built quick and cheap
+
+Working from the stock Paradox's dimensions, the idea was to reduce every
+dimension by a factor of **.55**, giving a hull roughly **7.6 ft long, 26 in
+wide, and 19 in tall** — small enough that the sides, bottom, and top could
+each come from a single sheet of plywood, plus some bulkheads and the
+transom. The build would skip the stock design's rounded cabin top
+entirely, using 1-by stock for bulkheads instead, built stitch-and-glue for
+speed. The resulting cockpit would run about 42 in long by 22 in wide, with
+the sailor sitting inside it, facing forward and somewhat down into the
+hull; a roped tiller was proposed to avoid reaching behind to steer.
+
+The motivation was not a considered design exercise but pure impatience: no
+local lake offered sailboat rentals, and the proposer wanted to get on the
+water, learn to sail, and get comfortable with the Paradox-style rig at
+minimal cost and effort while his full-size Paradox plans and build area
+were still being prepared. Left open on the record: whether to use a
+weighted centerboard or simply add weight to the bottom of the hull for
+stability.
+
+## Reception: a comparison to the Bolger Brick, and a cheaper-and-quicker alternative
+
+The first reply on record did not judge the scale-down idea itself, instead
+recalling an earlier, related idea of the respondent's own: fitting a
+**Paradox deck, cabin, chine runners, and sail rig, scaled down, onto a
+Bolger Brick hull** — a flat-sided, easy-to-build hull form — rather than
+scaling the Paradox hull itself.
+
+A second reply suggested an even quicker route to the same underlying
+goal — sailing something, soon, without a scratch design exercise — by
+building a **PDRacer** in a single weekend instead; a stock PDRacer forgoes
+chine runners to stay "class legal," but building outside class rules to
+add them was floated as "a fun experiment."
+
+A third, more considered reply judged the .55-scale idea itself an
+open question worth trying, since [Matt Layden](/matt-layden/biography.md)'s
+own **Enigma** is already a scaled-down Paradox "in many respects," making it
+plausible the concept could be scaled down further still. For simply
+getting on the water fastest and cheapest, though, the same reply
+recommended two proven, non-Paradox routes ahead of any scaled-down
+build: buying a **secondhand small fiberglass boat** outright (far less
+money than building anything in the same size range), or building one of
+**Jim Michalak's** designs — optimized for cheap, easy building, reported to
+sail well, and (in several of his designs) rigged with a **lug sail**,
+giving some exposure to a rig with Paradox-like characteristics; Michalak's
+"Piccup Squared" was named as one example.
+
+A fourth reply, from a correspondent who had already built a small,
+similarly-conceived tiny boat of his own, offered a firsthand caution rather
+than encouragement: his own boat proved **not stable**, workable only lying
+down recumbent (with an unresolved boarding/exit problem), until he added
+**pipe-insulation sponsons encased in polythene** on both sides — which
+made it acceptably stable in calm water, but at the cost of moving further
+and further from the original small-boat concept. He pointed instead to the
+**Bolger Minuet**, a tiny yacht built with a ballast keel, as a small design
+that solves the same stability problem properly rather than by improvised
+sponsons.
+
+## Resolution: the proposer built a different small boat instead
+
+Weighing the replies, the original proposer judged the mini-Paradox
+scale-down too great a risk of its own — worried specifically about the
+reduced beam that scaling down would produce, and, not being a naval
+architect, unwilling to gamble on an unproven scaled hull. He also ruled out
+the suggested PDRacer on aesthetic grounds alone ("I could not bring myself
+to 'sail' in something that looked like that").
+
+Instead, within the same weekend, he started building a small plywood
+**pram with a V-bottom**, designed as a rowboat, from plans in John Gardner's
+book *Building Classic Small Craft* — modified with a taller first bulkhead
+to carry a mast, side benches instead of a thwart, a centerboard, and a
+rudder. He judged the result close to the fiberglass-boat/Michalak
+alternatives suggested to him, just not flat-bottomed. This closed out the
+mini-Paradox thread: no scaled-down Paradox hull was built, and the
+underlying goal (getting on the water quickly and cheaply while a full
+Paradox build lay ahead) was met by a different small-craft design instead.
+
+A separate, never-elaborated echo of the same scale surfaced a week later in
+the unrelated boom-material sub-thread of "Paradox sails": prompted by a
+lightweight carbon-tape-and-foam boom idea, "Jeff UK" mentioned working on
+drawings for the rig of a "**7' 6" version of PARADOX / ENIGMA**" discussed
+with a correspondent off the list — close to this page's 7.6 ft scaled-down
+proposal in size, but no drawings, dimensions, or further mention of this rig
+followed on record, beyond a joking reply suggesting a Venetian blind, its
+slats opened to depower the sail, as a sail material for a rig this
+small.[7][8] The joke closed out with two more one-liners: a mock-serious
+promise to consult the "Armature Yacht Research Society," and a follow-up
+asking, deadpan, whether the Venetian-blind sail would be "controlled by
+electric motors" and what that implied for battery size — the thread ended
+there, with no further mention of the 7'6" rig on record.[9][10] "Jeff UK"
+closed out the joke himself with a one-line quip blaming a keyboard glitch
+for a run of missing letter R's in his own reply, quoting the "electric
+motors" line in full but adding no further content.[11]
+
+The Venetian-blind idea also drew a more substantive, if still speculative,
+riff from a separate correspondent: rather than a 7.5 ft rig, he floated
+fitting Paradox's sailplan, chine runners, and roller-furling convenience —
+scaled up rather than down — onto **Phil Bolger's Camper design #640** (an
+18 ft, 5 ft 3 in beam, 6 in draft, twin-rowing-position open sharpie with a
+150 sq. ft. gaff rig on a tabernacled mast and a walk-through birdwatcher-
+style raised deck, completely unballasted as drawn), with a **150 sq ft**
+sail — larger than Paradox's own — as the natural size for a hull that
+big. He extended the Venetian-blind joke to its logical, tongue-in-cheek
+conclusion: fit batteries as ballast, use them to power the blind's slats
+(depowering the sail and adjusting airflow/shade in the cabin at the same
+time), and, not incidentally, run an electric cooler to keep the drinks
+cold.[12]
+
+# Citations
+
+[1] Archive message page_3817 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3849, 2006-08-12) — "Mini Paradox idea": has bought the Paradox plans and is prepping his work area, but wants to sail sooner than that build will allow; proposes a .55-scale stitch-and-glue hull (~7.6 ft x 26 in x 19 in), single-sheet sides/bottom/top, 1-by bulkheads instead of a rounded cabin top, a 42 in x 22 in cockpit, and a roped tiller; asks whether a weighted centerboard or simple bottom weight would serve, and whether the idea is worth pursuing. Signed "Chris Curtis." This correspondent is the below-threshold, unconfirmed-identity 2006 "Chris Curtis" tracked in the project backlog against the established Sandpoint, Idaho Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md) — see that backlog item for the full disambiguation; not merged here.
+[2] Archive message page_3820 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 3852, 2006-08-13) — "Re: Mini Paradox idea": not having sailed his own Paradox yet, offers no verdict on whether a smaller Paradox is a good idea; recalls his own earlier, related thought — fitting a Paradox deck, cabin, chine runners, and sail rig, scaled down, onto a Bolger Brick hull instead of scaling the Paradox hull itself. Signed "Steve Yahn."
+[3] Archive message page_3821 (men99 / "twitch_816" / Matt Noonan, `paradoxbuilders`, msgnum 3853, 2006-08-13) — "Re: Mini Paradox idea": suggests building a PDRacer in a weekend instead; a stock PDRacer has no chine runners to stay "class legal," but adding them outside class rules "would be a fun experiment." Signed "Matt." Full profile at [people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md).
+[4] Archive message page_3823 (knobmaker / "rhaldridge" / Ray, `paradoxbuilders`, msgnum 3855, 2006-08-13) — "Re: Mini Paradox idea": Matt Layden's Enigma is already a scaled-down Paradox "in many respects," so scaling down further is plausible and worth trying; for getting on the water fastest and cheapest, recommends instead buying a secondhand small fiberglass boat, or building one of Jim Michalak's designs (cheap, easy, sails well, several rigged with a lug sail giving some exposure to Paradox-like rig characteristics) — names Michalak's "Piccup Squared" as an example, linking `duckworksbbs.com`. Signed "Ray." This is the archive's standing below-threshold correspondent Ray (`knobmaker`/`rhaldridge`), a non-Paradox-building catamaran designer previously cited on [chine-runners/how-they-work.md](/chine-runners/how-they-work.md), [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md), [operations/crew-size-and-fit.md](/operations/crew-size-and-fit.md), [operations/ground-tackle.md](/operations/ground-tackle.md), and [references/materials-sourcing-links.md](/references/materials-sourcing-links.md).
+[5] Archive message page_3824 (barrattneil / Neil Barratt, `paradoxbuilders`, msgnum 3856, 2006-08-14) — "re mini paradox": built a similarly tiny boat of his own after having similar ideas; found it not stable, workable only lying down recumbent, with a boarding/exit problem; added pipe-insulation sponsons encased in polythene on each side, which made it acceptably stable in calm water at the cost of moving further from the original concept; points to the Bolger Minuet, a tiny yacht with a ballast keel, as a design that solves the same problem properly. Signed "Neil." Established below-threshold correspondent (visiting sailor and test-sail reviewer of "Little Jim") — see the project backlog for his fuller record.
+[6] Archive message page_3825 (ccurtis / "joe_mapango" / Chris Curtis, `paradoxbuilders`, msgnum 3857, 2006-08-14) — "Re: Mini Paradox idea": thanks everyone for the suggestions; had seen the PDRacer already but could not bring himself to sail in something that looked like that; wanted something simple but still a "real" boat; weighed the mini-Paradox idea hard over the weekend but worried about its reduced beam scaled down, and, not being a naval engineer, did not want to take the risk. Instead started a different boat project that same weekend: a small plywood pram with a V-bottom, designed as a rowboat, from plans in John Gardner's *Building Classic Small Craft*, modified with a taller first bulkhead for a mast, side benches, a centerboard, and a rudder — judged close to what Ray had suggested, just not flat-bottomed. Reports having been on the group a month and learned a lot from it and from microcruising.com. Signs "Chris Curtis / Sandpoint Computers" with two phone numbers, matching his batch 373/377 signature. Same unconfirmed-identity flag as citation [1] above.
+[7] Archive message page_3847 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3879, 2006-08-19) — "Re: Paradox sails": full text and citation at [people/jeff-doryman.md](/people/jeff-doryman.md#seamanship-and-gear-opinions); reacting to Nels's carbon-tape boom-core idea, says he will "get on with the drawings right away" for the rig of a "7' 6" version of PARADOX / ENIGMA" discussed previously off-list. Signed "Jeff UK."
+[8] Archive message page_3848 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3880, 2006-08-19) — "Re: Paradox sails": joking reply to Jeff UK's 7'6" Paradox/Enigma rig comment — if the sail were made from a Venetian blind, it could be depowered by opening the slats. Signed "Al, Yeovil, England."
+[9] Archive message page_3856 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3888, 2006-08-19) — "Re: Paradox sails": "I will get onto the Armature Yacht Research Society at once" — a mock-serious one-line reply to Alastair's Venetian-blind joke, quoting it in full. Signed "Jeff" (quoted signature "Al, Yeovil, England" from the message he is replying to).
+[10] Archive message page_3858 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3890, 2006-08-19) — "Re: Paradox sails": "Controlled by electric motors then? Does this have shocking implications for battery size?" — continuing the Venetian-blind sail joke, quoting the full prior exchange. Signed "Derek" (unsigned in the message body, name from the `dclark52001` posting identity).
+[11] Archive message page_3861 (apcf14 / "roverticket" / "Jeff", `paradoxbuilders`, msgnum 3893, 2006-08-19) — "Re: Paradox sails": full text and citation at [people/jeff-doryman.md](/people/jeff-doryman.md#seamanship-and-gear-opinions); "Derek, I think someone is playing around with my r's" — closing one-liner, quoting Derek's "electric motors"/battery-size joke in full. Signed "Jeff."
+[12] Archive message page_3867 (arvent / "Nels", `paradoxbuilders`, msgnum 3899, 2006-08-19) — "Re: Paradox sails": full text and citation at [people/nels.md](/people/nels.md#design-and-build-ideas); replying to Jeff's "7'6" PARADOX/ENIGMA" comment, floats a bigger, 150 sq ft sail instead, sized for Bolger's Camper design #640 (18 ft LOA, 5'3" beam, 6 in draft, twin rowing positions, open two-person sleeping space, 150 sq ft gaff rig on a tabernacled mast, walk-through birdwatcher-style raised deck, unballasted as drawn) fitted with Paradox's sailplan and chine runners; jokes about batteries for ballast doubling as venetian-blind-slat power (for both depowering the sail and cabin sunshine/airflow control) and running an electric cooler to keep drinks cold. Signed "Nels."
