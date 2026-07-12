@@ -8,163 +8,69 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Materials sourcing links
 
-This page consolidates the external-link-only materials-sourcing
-references for Paradox builders: epoxy/fiberglass sourcing and the Kevlar
-cost debate, plexiglass/Lexan glazing sources, general (non-Paradox-specific)
-boatbuilding community links, and West System Epoxy website pointers.
+This page consolidates the external-link-only materials-sourcing references for Paradox builders: epoxy/fiberglass sourcing and the Kevlar cost debate, plexiglass/Lexan glazing sources, general (non-Paradox-specific) boatbuilding community links, and West System Epoxy website pointers.
 
 # Online metal ordering (onlinemetals.com)
 
-**`onlinemetals.com`**, a Seattle-based online metal supplier specializing in
-small quantities, is a sourcing option for any builder needing metal stock
-(chine runner shoes, fittings, etc.) in less than mill-order quantities.
+**`onlinemetals.com`**, a Seattle-based online metal supplier specializing in small quantities, is a sourcing option for any builder needing metal stock (chine runner shoes, fittings, etc.) in less than mill-order quantities.
 
 # Marine plywood sourcing in the Los Angeles area
 
-For a Los Angeles-area builder, **Allied Plywood/Veneer**
-(`alliedveneer.com/marineplywood`) is a recommended top marine-plywood
-source.[16] Marine ply runs expensive there in practice: about ten sheets
-of the supplier's best-grade stock cost a little over $1,000.[17]
+For a Los Angeles-area builder, **Allied Plywood/Veneer** (`alliedveneer.com/marineplywood`) is a recommended top marine-plywood source.[16] Marine ply runs expensive there in practice: about ten sheets of the supplier's best-grade stock cost a little over $1,000.[17]
 
 # Epoxy and fiberglass sourcing (raka.com), and the Kevlar cost debate
 
-**raka.com** supplies epoxies, fiberglass cloths and tapes, fillers, and
-pigments, and is a materials-sourcing option for Paradox builders.
+**raka.com** supplies epoxies, fiberglass cloths and tapes, fillers, and pigments, and is a materials-sourcing option for Paradox builders.
 
 ## Kevlar vs. fiberglass: a cost comparison
 
-Raka.com's prices support a cost comparison that stands as one more reason
-not to use Kevlar on a Paradox (relevant to any builder considering a
-Kevlar-glass bottom — see
-[hull planking — the stitch-and-glue debate](/construction/hull-planking.md)):
+Raka.com's prices support a cost comparison that stands as one more reason not to use Kevlar on a Paradox (relevant to any builder considering a Kevlar-glass bottom — see [hull planking — the stitch-and-glue debate](/construction/hull-planking.md)):
 
 - 60 in wide, 5 oz **Kevlar**: **$25/yd**
 - 60 in wide, 6 oz **fiberglass cloth**: **$5.75/yd**
 - A biaxial-weave Kevlar product ran up to **$45/yd**
 
-By this figuring, even **triple-sheathing** a bottom in fiberglass still
-costs roughly 40% less than a single Kevlar layup — and since a Paradox needs
-only about **5 yards** of material either way, the absolute Kevlar premium
-("another $125 or so") is modest in dollar terms even if steep in percentage
-terms. Nylon peel ply (smoothed over a final epoxy coat for a fine finish,
-then peeled off once cured) runs **$11.75/yd** for 60 in width.
+By this figuring, even **triple-sheathing** a bottom in fiberglass still costs roughly 40% less than a single Kevlar layup — and since a Paradox needs only about **5 yards** of material either way, the absolute Kevlar premium ("another $125 or so") is modest in dollar terms even if steep in percentage terms. Nylon peel ply (smoothed over a final epoxy coat for a fine finish, then peeled off once cured) runs **$11.75/yd** for 60 in width.
 
-A practical, cost-driven counterpoint to buying Kevlar at retail: a Paradox
-bottom needs only about **5 sq metres** of material, well within reach of
-scrounging rather than buying at "mug's price." A yard building high-tech
-racing boats is a plausible source of **offcuts** ("got a bit of Kevlar to
-spare... I've got cash, no receipt"), since such yards often have leftover
-roll-ends going to waste — pram dinghies have been built entirely from
-tear-offs discarded into scrap bins during professional mould-shop layups,
-material that would otherwise be thrown out or sold cheaply to whoever asked
-at the door. As one builder put it, "half the fun of building boats at home,
-if you've no shame, is the money you can save," and the same scrounging
-opportunity plausibly exists in the US as in the UK. This doesn't change the
-underlying Kevlar-handling difficulty (hard to wet out, cut, and sand)
-flagged elsewhere in the archive — see
-[David LeBlanc's Kevlar caution](/people/david-leblanc.md).
+A practical, cost-driven counterpoint to buying Kevlar at retail: a Paradox bottom needs only about **5 sq metres** of material, well within reach of scrounging rather than buying at "mug's price." A yard building high-tech racing boats is a plausible source of **offcuts** ("got a bit of Kevlar to spare... I've got cash, no receipt"), since such yards often have leftover roll-ends going to waste — pram dinghies have been built entirely from tear-offs discarded into scrap bins during professional mould-shop layups, material that would otherwise be thrown out or sold cheaply to whoever asked at the door. "Half the fun of building boats at home, if you've no shame, is the money you can save," and the same scrounging opportunity plausibly exists in the US as in the UK. This doesn't change the underlying Kevlar-handling difficulty (hard to wet out, cut, and sand) flagged elsewhere in the archive — see [a Kevlar-handling caution](/people/david-leblanc.md).
 
-A separate, unresolved sourcing question concerns **braided carbon-fiber
-sleeve** suitable for wetting out over a birdmouth wood spar mandrel: an
-aerospace/aircraft-industry source would be preferable to the
-orthopedic-supply source already identified — see
-[rig and sail — a birdmouth carbon-fiber composite spar](/design/rig.md#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig)
-for the full technique and citation.
+A separate, unresolved sourcing question concerns **braided carbon-fiber sleeve** suitable for wetting out over a birdmouth wood spar mandrel: an aerospace/aircraft-industry source would be preferable to the orthopedic-supply source already identified — see [rig and sail — a birdmouth carbon-fiber composite spar](/design/rig.md#a-birdmouth-carbon-fiber-composite-spar-as-an-alternative-to-the-plans-rig) for the full technique and citation.
 
 # Inexpensive plexiglass and Lexan for glazing
 
-Paradox's steering-station glazing is valued for the **good lighting and
-visibility** it gives the helmsman, while itself using only a **minimal
-amount** of plexiglass or Lexan compared with some other designs — retail
-plexiglass or Lexan from a chandlery like West Marine or BoatUS runs
-expensive in quantity, so cheaper glazing sources are worth knowing. The
-general approach: check the yellow pages for local **plastics dealers** and
-ask whether they have any **drops or damaged sheets**, which usually carry a
-good discount and still leave plenty of usable material for a small-boat
-project. A US supplier serving the central-East-Coast area,
-**`harborsales.net`**, is one named source.
+Paradox's steering-station glazing is valued for the **good lighting and visibility** it gives the helmsman, while itself using only a **minimal amount** of plexiglass or Lexan compared with some other designs — retail plexiglass or Lexan from a chandlery like West Marine or BoatUS runs expensive in quantity, so cheaper glazing sources are worth knowing. The general approach: check the yellow pages for local **plastics dealers** and ask whether they have any **drops or damaged sheets**, which usually carry a good discount and still leave plenty of usable material for a small-boat project. A US supplier serving the central-East-Coast area, **`harborsales.net`**, is one named source.
 
-Beyond the boat itself, Paradox's design **ingenuity** — its unapologetic
-single-mindedness in serving its intended purpose "without any regard for
-offending convention or punditry" — has drawn interest from builders of other
-small craft; its **inside steering station** in particular has been borrowed
-as an idea for a small catamaran design, on the reasoning that an enclosed
-helm makes just as much sense on a multihull, where higher speed brings
-stronger apparent wind and denser spray, as it does on Paradox.
+Beyond the boat itself, Paradox's design **ingenuity** — its unapologetic single-mindedness in serving its intended purpose "without any regard for offending convention or punditry" — has drawn interest from builders of other small craft; its **inside steering station** in particular has been borrowed as an idea for a small catamaran design, on the reasoning that an enclosed helm makes just as much sense on a multihull, where higher speed brings stronger apparent wind and denser spray, as it does on Paradox.
 
 Further sourcing angles for cheap glazing, drawn from outside the US:
 
-- In the **UK**, a local plastics firm often has **offcuts** left over from
-  other jobs; sizing parts to fit available offcuts earns a further discount
-  off the standard per-square-metre price. Sending a spouse or child in to
-  ask tends to get **better discounts, and sometimes free material** — one
-  scrap dealer who held out for a higher price on a spare aluminum cooking
-  pot (eyed as an anchor-warp bucket) gave the same pot away free a few days
-  later.
-- A local **glass supplier** (as opposed to a plastics dealer) is another
-  source of scrap offcuts, and even full sheets bought there are priced well
-  below a marine chandlery.
-- Six pieces of **1/4 in scratch-resistant Marguard Lexan**, bought from an
-  eBay seller ("Plasticsfolks", 100%-rated over 525 transactions at the
-  time) reglazed all of Little Cruiser's windows
-  in one order, with shipping combined across the pieces; the sheets arrived
-  slightly larger than advertised and in good condition. Online offcut
-  sellers' pieces are usually genuine offcuts, but added shipping cost is the
-  one real downside — worth comparing a local source against an online one
-  before ordering.
+- In the **UK**, a local plastics firm often has **offcuts** left over from other jobs; sizing parts to fit available offcuts earns a further discount off the standard per-square-metre price. Sending a spouse or child in to ask tends to get **better discounts, and sometimes free material** — one scrap dealer who held out for a higher price on a spare aluminum cooking pot (eyed as an anchor-warp bucket) gave the same pot away free a few days later.
+- A local **glass supplier** (as opposed to a plastics dealer) is another source of scrap offcuts, and even full sheets bought there are priced well below a marine chandlery.
+- Six pieces of **1/4 in scratch-resistant Marguard Lexan**, bought from an eBay seller ("Plasticsfolks", 100%-rated over 525 transactions at the time), reglazed all of Little Cruiser's windows in one order, with shipping combined across the pieces; the sheets arrived slightly larger than advertised and in good condition. Online offcut sellers' pieces are usually genuine offcuts, but added shipping cost is the one real downside — worth comparing a local source against an online one before ordering.
 
 # General boatbuilding resource links (cedar-strip site, newsgroup, forum)
 
-Three general small-boat-building resources, unconnected to Paradox
-specifically, are worth knowing to any builder:
+Three general small-boat-building resources, unconnected to Paradox specifically, are worth knowing to any builder:
 
-- **Glenn Ashmore's cedar-strip boatbuilding site**, `rutuonline.com` — a
-  favorite reference on cedar-strip construction. (Note: the domain given in
-  the archive, `rutuonline.com`, does not obviously match "Ashmore"; it is
-  reproduced exactly as posted.) Ashmore posts on the **rec.boats.building**
-  newsgroup.
+- **A cedar-strip boatbuilding site**, `rutuonline.com` — a favorite reference on cedar-strip construction, with posting activity also on the **rec.boats.building** newsgroup. (Note: the domain given in the archive, `rutuonline.com`, does not obviously match the site's usual attribution; it is reproduced exactly as posted.)
 - **rec.boats.building** — a Usenet newsgroup, accessible via Google Groups.
-- **The WoodenBoat Forum** — an online discussion board, at the time hosted
-  via a Hypernet/UBB Ultimate.cgi bulletin-board URL.
+- **The WoodenBoat Forum** — an online discussion board, at the time hosted via a Hypernet/UBB Ultimate.cgi bulletin-board URL.
 
-These are general amateur-boatbuilding community pointers rather than
-Paradox-specific content, recorded as a minor reference item per the
-precedent of other tangential external links in this bundle (see
-[Dave Carnell's boat-building articles](/references/dave-carnell-articles.md)).
+These are general amateur-boatbuilding community pointers rather than Paradox-specific content, recorded as a minor reference item per the precedent of other tangential external links in this bundle (see [boat-building articles](/references/dave-carnell-articles.md)).
 
-More generally, beyond this bundle's own links section, on the order of a
-hundred other discussion groups cover boatbuilding in various materials. For
-a prospective builder choosing among them, buying plans matched to a
-preferred building method and boat type gives by far the best chance of
-success, rather than modifying an existing design to fit a different
-material or method — sticking with a design as sold keeps the designer's own
-support available if problems come up during the build, a resource lost the
-moment a builder starts modifying.
+More generally, beyond this bundle's own links section, on the order of a hundred other discussion groups cover boatbuilding in various materials. For a prospective builder choosing among them, buying plans matched to a preferred building method and boat type gives by far the best chance of success, rather than modifying an existing design to fit a different material or method — sticking with a design as sold keeps the designer's own support available if problems come up during the build, a resource lost the moment a builder starts modifying.
 
 # West System Epoxy resources (moisture barriers and a sharpie-building article)
 
-The **West System Epoxy** website (`www.westsystem.com`) serves Paradox
-builders for two distinct purposes.
+The **West System Epoxy** website (`www.westsystem.com`) serves Paradox builders for two distinct purposes.
 
 ## Moisture-barrier coatings and penetrating epoxy
 
-For **moisture-barrier coatings** and **penetrating epoxy** (relevant to
-the refit thread — see
-[checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md)),
-**West Marine** is a retail source and the **West System Epoxy** website an
-informational one, though the latter "[doesn't] seem to be completely up to
-date."
+For **moisture-barrier coatings** and **penetrating epoxy** (relevant to the refit thread — see [checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md)), **West Marine** is a retail source and the **West System Epoxy** website an informational one, though the latter "[doesn't] seem to be completely up to date."
 
 ## "Building a Wood/Epoxy Sharpie" article
 
-A construction article on the same site is reached from the West System
-homepage by clicking **"Epoxyworks Magazine"**, then **"Epoxyworks Back
-Issues"**, then **"Epoxyworks Number 15, Spring 2000"** — the article is
-called **"Building a Wood/Epoxy Sharpie."** The construction shown **is not
-exactly like a Paradox**, but it may still hold useful information for
-Paradox builders. The same magazine issue covers the **largest wood/epoxy
-ship ever built**: a **213 ft, three-masted barque** — of interest to anyone
-wanting a "more ambitious project."
+A construction article on the same site is reached from the West System homepage by clicking **"Epoxyworks Magazine"**, then **"Epoxyworks Back Issues"**, then **"Epoxyworks Number 15, Spring 2000"** — the article is called **"Building a Wood/Epoxy Sharpie."** The construction shown **is not exactly like a Paradox**, but it may still hold useful information for Paradox builders. The same magazine issue covers the **largest wood/epoxy ship ever built**: a **213 ft, three-masted barque** — of interest to anyone wanting a "more ambitious project."
 
 # Citations
 

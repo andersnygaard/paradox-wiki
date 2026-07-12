@@ -8,49 +8,17 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Sven Yrvind — voyages and boats
 
-This page establishes *who* [Sven Yrvind](/people/yrvind.md) is, and why his
-judgment on the [chine runner](/chine-runners/index.md) carries the weight it
-does. For his direct connection to the [Paradox](/paradox.md), see [Paradox and
-the chine runner](/people/yrvind/paradox-and-the-chine-runner.md); for the
-archive's detailed design comparison, see [blue-water suitability and comparison
-to Sven Yrvind's boats](/design/blue-water-suitability.md).
+This page establishes *who* [Sven Yrvind](/people/yrvind.md) is, and why his judgment on the [chine runner](/chine-runners/index.md) carries the weight it does. For his direct connection to the [Paradox](/paradox.md), see [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md); for the archive's detailed design comparison, see [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
 
 ## An ocean voyager in the smallest possible boats
 
-Yrvind is a Swedish sailor who has spent a lifetime making **ocean passages in
-boats most sailors would consider far too small for the open sea**, and building
-them himself, often in his mother's basement or equally spartan quarters. The
-career that gives his design opinions their authority runs, by his own account,
-through a series of hard-won lessons:
+Yrvind is a Swedish sailor who has spent a lifetime making **ocean passages in boats most sailors would consider far too small for the open sea**, and building them himself, often in his mother's basement or equally spartan quarters. The career that gives his design opinions their authority runs, by his own account, through a series of hard-won lessons:
 
-- **Anna, Denmark 1968.** An early cruise in the 13-ft *Anna* (75 cm draft) —
-  bound for England with a French companion — first taught him that **deep draft
-  is a nuisance**: anchored off Knudshoved, the pair had to wade ashore with the
-  water "annoyingly" up to their crotches.
-- **Bris and Tristan da Cunha, 1974.** Attempting to round **Cape Horn** east to
-  west in a 20-footer built in his mother's basement, he was **capsized and, a
-  week later, pitch-poled** in the Southern Ocean. He turned east, ran before
-  the westerlies for two months to **Tristan da Cunha** — the world's most
-  isolated inhabited island — where *Bris*, shallow enough to be lifted out and
-  beached, became **the first boat ever from the outside world to land there**;
-  he stayed four months teaching mathematics.
-- **Aluminum-Bris and the Falklands, 1980.** He built a 19-ft **Aluminum-Bris**
-  for a successful Cape Horn attempt, but cruising the **Falkland Islands**
-  afterward — where the wind reached 100 knots on three occasions during a
-  four-month stay — he realized he had designed her so single-mindedly for deep
-  stormy water that he had **forgotten the advantages of shallow draft**, and
-  wished for a flat-bottomed boat that could take the ground and be pulled up a
-  beach.
+- **Anna, Denmark 1968.** An early cruise in the 13-ft *Anna* (75 cm draft) — bound for England with a French companion — first taught him that **deep draft is a nuisance**: anchored off Knudshoved, the pair had to wade ashore with the water "annoyingly" up to their crotches.
+- **Bris and Tristan da Cunha, 1974.** Attempting to round **Cape Horn** east to west in a 20-footer built in his mother's basement, he was **capsized and, a week later, pitch-poled** in the Southern Ocean. He turned east, ran before the westerlies for two months to **Tristan da Cunha** — the world's most isolated inhabited island — where *Bris*, shallow enough to be lifted out and beached, became **the first boat ever from the outside world to land there**; he stayed four months teaching mathematics.
+- **Aluminum-Bris and the Falklands, 1980.** He built a 19-ft **Aluminum-Bris** for a successful Cape Horn attempt, but cruising the **Falkland Islands** afterward — where the wind reached 100 knots on three occasions during a four-month stay — he realized he had designed her so single-mindedly for deep stormy water that he had **forgotten the advantages of shallow draft**, and wished for a flat-bottomed boat that could take the ground and be pulled up a beach.
 
-Learning to use a **yuloh** (the sculling oar the Japanese call "ro") in a
-Japanese fishing village crystallized the conviction that underlies his later
-work and his affinity for Matt Layden: a **strong flat bottom** gives shallow
-draft, initial stability, interior floor space, and the ability to take the
-ground undamaged — advantages he came to prize over the deep-draft orthodoxy he
-was raised on. He is blunt that **racing rules, not seamanship**, drove cruising
-boats toward deep draft, and that cruising — mostly done downwind, and needing to
-make landfall in shallow places — is better served by a shallow, flat-bottomed
-hull.
+Learning to use a **yuloh** (the sculling oar the Japanese call "ro") in a Japanese fishing village crystallized the conviction that underlies his later work and his affinity for Matt Layden: a **strong flat bottom** gives shallow draft, initial stability, interior floor space, and the ability to take the ground undamaged — advantages he came to prize over the deep-draft orthodoxy he was raised on. He is blunt that **racing rules, not seamanship**, drove cruising boats toward deep draft, and that cruising — mostly done downwind, and needing to make landfall in shallow places — is better served by a shallow, flat-bottomed hull.
 
 ## His boats
 
@@ -63,36 +31,14 @@ hull.
 
 ## Design philosophy — the archive's contrast with Matt Layden
 
-Yrvind stands as the **structural and philosophical opposite** of Matt
-Layden, even though the two men's hulls are hydrodynamically similar and
-both designers deliberately **under-power** their boats. The contrast (see
-[blue-water suitability](/design/blue-water-suitability.md) for the full
-discussion and sourcing):
+Yrvind stands as the **structural and philosophical opposite** of Matt Layden, even though the two men's hulls are hydrodynamically similar and both designers deliberately **under-power** their boats. The contrast (see [blue-water suitability](/design/blue-water-suitability.md) for the full discussion and sourcing):
 
-- **Flex-composite construction.** Yrvind builds in **Divinycell foam-sandwich
-  with a flexible resin**, engineered to **absorb an impact and "bounce back"**
-  — striking a log, a container, or a sleeping whale — rather than crack, on the
-  same principle as a flexing airliner wing. He kept the expensive divinycell/
-  epoxy even after searching for a cheaper alternative: no substitute met his
-  own sledgehammer-test standard, so the choice was driven by insulation needs
-  for cold **North Sea** sailing rather than by cost — a genuinely
-  *design*-driven material choice.
-- **A split, multi-sail rig** — a tops'l gaff plus jibs and a light-air
-  spinnaker/ballooner — rather than Layden's single simple lug (see [rig and
-  sail](/design/rig.md)).
-- **Double-ended hulls**, and hulls deliberately made **highly unstable when
-  inverted** (aided by a very short mast) so a capsized boat rights itself
-  quickly.
-- **A reluctant preference for a centerboard** over chine runners on his own
-  boats, for better performance in large offshore waves — the one place he and
-  Matt part company (see [Paradox and the chine
-  runner](/people/yrvind/paradox-and-the-chine-runner.md)).
+- **Flex-composite construction.** Yrvind builds in **Divinycell foam-sandwich with a flexible resin**, engineered to **absorb an impact and "bounce back"** — striking a log, a container, or a sleeping whale — rather than crack, on the same principle as a flexing airliner wing. He kept the expensive divinycell/epoxy even after searching for a cheaper alternative: no substitute met his own sledgehammer-test standard, so the choice was driven by insulation needs for cold **North Sea** sailing rather than by cost — a genuinely *design*-driven material choice.
+- **A split, multi-sail rig** — a tops'l gaff plus jibs and a light-air spinnaker/ballooner — rather than Layden's single simple lug (see [rig and sail](/design/rig.md)).
+- **Double-ended hulls**, and hulls deliberately made **highly unstable when inverted** (aided by a very short mast) so a capsized boat rights itself quickly.
+- **A reluctant preference for a centerboard** over chine runners on his own boats, for better performance in large offshore waves — the one place he and Matt part company (see [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md)).
 
-Yrvind himself readily admits his boats are **far more expensive and complicated
-to build** than Layden's — a cost he considers justified by maximum safety on
-long ocean passages. That trade — Yrvind's complex, impact-absorbing ocean boats
-versus Layden's simple, cheap, shallow-water coastal cruisers — is the axis on
-which the whole Paradox-vs-Bris comparison turns.
+Yrvind himself readily admits his boats are **far more expensive and complicated to build** than Layden's — a cost he considers justified by maximum safety on long ocean passages. That trade — Yrvind's complex, impact-absorbing ocean boats versus Layden's simple, cheap, shallow-water coastal cruisers — is the axis on which the whole Paradox-vs-Bris comparison turns.
 
 # Citations
 

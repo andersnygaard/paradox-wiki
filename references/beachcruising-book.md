@@ -8,66 +8,17 @@ timestamp: 2026-07-02T00:00:00Z
 
 # "Beach Cruising and Coastal Camping"
 
-**"Beach Cruising and Coastal Camping"** is a small-boat cruising book by **Ida
-Little and Michael Walsh** that is cited on [Dave Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) as an external,
-published source documenting [Matt Layden](/matt-layden/biography.md)'s boats.
-It includes a **photograph of Matt aboard [Swamp Thing](/matt-layden/swamp-thing.md)
-in the Abacos** (the Bolducs' links page places it on **page 197**) and a
-discussion of Layden's micro-cruisers.
+**"Beach Cruising and Coastal Camping"** is a small-boat cruising book by **Ida Little and Michael Walsh**, cited as an external, published source documenting [Matt Layden](/matt-layden/biography.md)'s boats.[1][2] It includes a **photograph of Matt aboard [Swamp Thing](/matt-layden/swamp-thing.md) in the Abacos**, placed on **page 197**, and a discussion of Layden's micro-cruisers.[1][2]
 
-Author **Ida Little** was **in attendance at Matt Layden's May 2019 Cedar Key
-talk** (see [Matt Layden (biography)](/matt-layden/biography.md) and
-[group cruise reports](/operations/group-cruise-reports.md)), where Matt himself
-referenced the book while recounting Swamp Thing's place in his design lineage —
-"this 13' sailboat which appeared in the book, Beach Cruising and Coastal
-Camping, by Ida Little, who by the way was in attendance."
+The book's author was **in attendance at Matt Layden's May 2019 Cedar Key talk** (see [Matt Layden (biography)](/matt-layden/biography.md) and [group cruise reports](/operations/group-cruise-reports.md)), where Matt himself referenced the book while recounting Swamp Thing's place in his design lineage — "this 13' sailboat which appeared in the book, Beach Cruising and Coastal Camping, by Ida Little, who by the way was in attendance."[3]
 
-It is one of the few **independent, published** records of the Layden designs,
-alongside [Don Elliott](/people/don-elliott.md)'s
-["Building the Paradox" articles](/references/building-the-paradox-articles.md)
-and the periodical/press coverage catalogued on the
-[microcruising.com](/references/microcruising-website.md) site.
+It is one of the few **independent, published** records of the Layden designs, alongside ["Building the Paradox" articles](/references/building-the-paradox-articles.md) and the periodical/press coverage catalogued on the [microcruising.com](/references/microcruising-website.md) site.
 
 ## A wider Paradox-sailor reading list
 
-Beyond "Beach Cruising and Coastal Camping," builders and sailors on the
-list have recommended a wider shelf of small-boat and micro-cruising
-literature: **"Sailing Just for Fun"** by Charles Stock; **"Beachcruising"**
-by Douglas Alvord; **John Mellor**'s **"Pilotage"**; and, for readers of
-Swedish, anything by **Sven Yrvind** (see [the "BRIS
-Paradox"](/boats/bris-paradox.md) for Kjell Karlsson's own English
-translation of Yrvind's Matt Layden/Paradox chapter). [Dave and Mindy
-Bolduc](/people/bolduc/dave.md)'s own [microcruising.com](/references/microcruising-website.md)
-writing was itself nominated as reading-list material in its own right —
-"they should write a book" — alongside any published writing by [Matt
-Layden](/matt-layden/biography.md) himself.
+Beyond "Beach Cruising and Coastal Camping," a wider shelf of small-boat and micro-cruising literature has been recommended: **"Sailing Just for Fun"** by Charles Stock; **"Beachcruising"** by Douglas Alvord; John Mellor's **"Pilotage"**; and, for readers of Swedish, anything by **Sven Yrvind** (see [the "BRIS Paradox"](/boats/bris-paradox.md) for an English translation of Yrvind's Matt Layden/Paradox chapter).[4][5] The [microcruising.com](/references/microcruising-website.md) writing was itself nominated as reading-list material in its own right — "they should write a book" — alongside any published writing by [Matt Layden](/matt-layden/biography.md) himself.[5]
 
-Norman Luxton and John Voss's **"Tilikum"** — an account of a
-hollow-cedar-log Haida Indian dugout canoe, later decked over, sailed by
-Voss on an around-the-world voyage — is a further reference point,
-though at **38 ft** it is larger than the **instructional,
-small-boat-technique** reading a microcruiser sailor typically wants;
-**Shane Acton**'s **"Shrimpy"** books sit closer to that mark, extending
-the "general sailing, but still small" category. Voss's other, smaller
-boat in the same book was only **19 ft**, considered suicidal to take to
-sea at the time. Tilikum's appendix remains worthwhile decades later for
-its storm tactics — **trailing warps** and **riding to a sea anchor**
-while trying to stay quartering to the seas rather than fight through
-them — plus the period technique of streaming bags of oil to lay an oil
-slick and blunt breaking seas, now of more historical than practical
-interest. Also recommended: **Lin and Larry Pardey**'s books, and
-**Annie Hill**'s "Voyaging on a Small Income" — both cover boats larger
-than a microcruiser but remain worthwhile for how others "done it" — and
-**Charles Stock**'s demonstrated skill at finding small "hidey holes" to
-snug down and wait out a storm, offered as proof a small boat can be
-safer than a larger one when coastal cruising, given a captain who plans
-his moves well. An English-language account of what **Sven Yrvind** has
-written about using a **yuloh** ("vrikare," or "flick oar") remains
-wanted.[6] The Pardeys maintain their own website with further
-living-aboard tips, at landlpardey.com.[7] A further recommended online
-read is an e-book-format small-boat-voyage account hosted at
-ibiblio.org.[8]
+Norman Luxton and John Voss's **"Tilikum"** — an account of a hollow-cedar-log Haida Indian dugout canoe, later decked over, sailed by Voss on an around-the-world voyage — is a further reference point, though at **38 ft** it is larger than the **instructional, small-boat-technique** reading a microcruiser sailor typically wants; Shane Acton's **"Shrimpy"** books sit closer to that mark, extending the "general sailing, but still small" category.[6] Voss's other, smaller boat in the same book was only **19 ft**, considered suicidal to take to sea at the time. Tilikum's appendix remains worthwhile decades later for its storm tactics — **trailing warps** and **riding to a sea anchor** while trying to stay quartering to the seas rather than fight through them — plus the period technique of streaming bags of oil to lay an oil slick and blunt breaking seas, now of more historical than practical interest. Also recommended: Lin and Larry Pardey's books, and Annie Hill's "Voyaging on a Small Income" — both cover boats larger than a microcruiser but remain worthwhile for how others "done it" — and Charles Stock's demonstrated skill at finding small "hidey holes" to snug down and wait out a storm, offered as proof a small boat can be safer than a larger one when coastal cruising, given a captain who plans his moves well. An English-language account of what Sven Yrvind has written about using a **yuloh** ("vrikare," or "flick oar") remains wanted.[6] The Pardeys maintain their own website with further living-aboard tips, at landlpardey.com.[7] A further recommended online read is an e-book-format small-boat-voyage account hosted at ibiblio.org.[8]
 
 # Citations
 

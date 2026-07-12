@@ -8,249 +8,97 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Fastening and gluing
 
-Plywood joints on the [Paradox](/paradox.md) are epoxy-glued and mechanically
-fastened. There are two documented approaches, plus shared epoxy technique.
+Plywood joints on the [Paradox](/paradox.md) are epoxy-glued and mechanically fastened. There are two documented approaches, plus shared epoxy technique.
 
 ## The plans' method — permanent bronze ring nails
 
-Matt Layden's plans (**Sheet 1**) call for **bronze ring nails** left in
-permanently:
+Matt Layden's plans (**Sheet 1**) call for **bronze ring nails** left in permanently:
 
-> "Space the nails 40–70 mm according to the ply thickness. Fastenings are
-> intended as a permanent backup to the glue bonds, to limit splitting and
-> delaminating or age."
+> "Space the nails 40–70 mm according to the ply thickness. Fastenings are intended as a permanent backup to the glue bonds, to limit splitting and delaminating or age."
 
-Per the plans notes, the nails are a **permanent backup to the glue joint**,
-resisting the working (movement) of the boat in a heavy seaway or from hard
-crashes. Building with epoxy plus bronze ring nails is long-standing common
-practice, and builders are best served following the plans to the letter and
-clearing any deviation with [Matt Layden](/matt-layden/biography.md) first.
+Per the plans notes, the nails are a **permanent backup to the glue joint**, resisting the working (movement) of the boat in a heavy seaway or from hard crashes. Building with epoxy plus bronze ring nails is long-standing common practice, and builders are best served following the plans to the letter and clearing any deviation with [Matt Layden](/matt-layden/biography.md) first.
 
-**Matt considers the ring nails structural**, so builders should use them
-wherever the plans specify. Even though epoxy is an excellent adhesive and
-the glued parts may not fail *at the glue line*, the **joint can still fail
-elsewhere — e.g. at the next lamination**. This shows up when tearing up an
-old glued-and-nailed floor: where there were no ring nails the plywood pries
-up with a crowbar, but **wherever a nail was present, each nail had to be
-removed before the plywood would come up**.
+**Matt considers the ring nails structural**, so builders should use them wherever the plans specify. Even though epoxy is an excellent adhesive and the glued parts may not fail *at the glue line*, the **joint can still fail elsewhere — e.g. at the next lamination**. This shows up when tearing up an old glued-and-nailed floor: where there were no ring nails the plywood pries up with a crowbar, but **wherever a nail was present, each nail had to be removed before the plywood would come up**.
 
-**Nail spacing** tracks how hard the ply must be pulled down: ~**70 mm**
-where the panel is nearly flat, **tighter** (toward 40 mm) on high-curvature
-areas like the bottom, whichever ply thickness is being fastened at the
-time.
+**Nail spacing** tracks how hard the ply must be pulled down: ~**70 mm** where the panel is nearly flat, **tighter** (toward 40 mm) on high-curvature areas like the bottom, whichever ply thickness is being fastened at the time.
 
-**Nail sizing** tracks the 40/70 mm range to **nail size**, which in turn
-tracks lumber size:
+**Nail sizing** tracks the 40/70 mm range to **nail size**, which in turn tracks lumber size:
 
-- **Big nails** go into **big/thick stuff** and are spaced **further apart
-  (~70 mm)** — they grip strongly. Spacing them too close will **split** the
-  wood.
-- **Small nails** go into **little/thin stuff** and must be spaced **closer
-  (~40 mm)** because each nail is weaker, so more of them are needed for
-  strength.
+- **Big nails** go into **big/thick stuff** and are spaced **further apart (~70 mm)** — they grip strongly. Spacing them too close will **split** the wood.
+- **Small nails** go into **little/thin stuff** and must be spaced **closer (~40 mm)** because each nail is weaker, so more of them are needed for strength.
 
-**Assembly tip:** **pre-install the nails in the panel before it is put in
-place.** This speeds assembly — there is no time for fumbling while the glue
-is going off.
+**Assembly tip:** **pre-install the nails in the panel before it is put in place.** This speeds assembly — there is no time for fumbling while the glue is going off.
 
 ## A builder's alternative — removable screws
 
-An alternative approach uses **temporary screws** as clamps, removed after
-cure, on the reasoning that:
+An alternative approach uses **temporary screws** as clamps, removed after cure, on the reasoning that:
 
 - **No nails while gluing** — hammering drives epoxy out of the joint.
-- **No fasteners left in** — metal attracts moisture as it heats and cools
-  with the surrounding wood, becoming a source of rot.
-- After removing a screw, the hole is **clear-coated with epoxy using a pipe
-  cleaner**, then **filled with thickened epoxy via a syringe**.
+- **No fasteners left in** — metal attracts moisture as it heats and cools with the surrounding wood, becoming a source of rot.
+- After removing a screw, the hole is **clear-coated with epoxy using a pipe cleaner**, then **filled with thickened epoxy via a syringe**.
 
-This is "more than one way to skin a cat" rather than a case against
-following the plans — "it's hard to go wrong following instructions" — and a
-boat built this way has never broken up in a seaway. See also the
-removable-screw workflow in [hull planking](/construction/hull-planking.md).
+This is "more than one way to skin a cat" rather than a case against following the plans — "it's hard to go wrong following instructions" — and a boat built this way has never broken up in a seaway. See also the removable-screw workflow in [hull planking](/construction/hull-planking.md).
 
 ## Controlling epoxy squeeze-out
 
-- With nails spaced far enough apart, epoxy is **not** squeezed out; heavy
-  clamping with screws or tools *will* squeeze it out.
-- Mix the correct amount of **silica thickener (Cab-O-Sil)** into the epoxy
-  to resist squeeze-out under compression.
+- With nails spaced far enough apart, epoxy is **not** squeezed out; heavy clamping with screws or tools *will* squeeze it out.
+- Mix the correct amount of **silica thickener (Cab-O-Sil)** into the epoxy to resist squeeze-out under compression.
 
 ## Gluing the sheer clamps and chine logs: dry-fit first, then glue
 
-Bending the sheer strakes (sheer clamps) and chine logs into their curved
-position can take enough time that spreading epoxy **before** the wood is
-offered up risks the glue going off (curing) while the piece is still only
-half-seated; gluing only **after** the wood is in place, on the other hand,
-leaves no obvious way to work the glue into the joint.
+Bending the sheer strakes (sheer clamps) and chine logs into their curved position can take enough time that spreading epoxy **before** the wood is offered up risks the glue going off (curing) while the piece is still only half-seated; gluing only **after** the wood is in place, on the other hand, leaves no obvious way to work the glue into the joint.
 
-Gluing "Zoë"'s sheer clamps and chine logs during the summer months, using a
-**slow hardener** to extend working time, worked fine done **one piece at a
-time**, since the glued surface area for each is **under 2 sq ft** — small
-enough that a slow hardener gives ample time to complete the joint. The
-method is **dry-fit first, glue second**: fit the wood dry, using
-**sheet-rock screws** to hold it in a trial assembly so pieces can be
-installed and removed repeatedly until the fit is correct; only once
-satisfied, remove the wood, apply the glue, and replace the piece for good.
-This is the same **temporary-screw, trial-fit-before-final-bonding** workflow
-used elsewhere in the build (see the "removable screws" section above and
-[hull planking](/construction/hull-planking.md)), applied here to the sheer
-clamps and chine logs specifically — because the piece is only glued once
-its fit is already proven, there is no risk of the epoxy going off mid-bend.
+Gluing "Zoë"'s sheer clamps and chine logs during the summer months, using a **slow hardener** to extend working time, worked fine done **one piece at a time**, since the glued surface area for each is **under 2 sq ft** — small enough that a slow hardener gives ample time to complete the joint. The method is **dry-fit first, glue second**: fit the wood dry, using **sheet-rock screws** to hold it in a trial assembly so pieces can be installed and removed repeatedly until the fit is correct; only once satisfied, remove the wood, apply the glue, and replace the piece for good. This is the same **temporary-screw, trial-fit-before-final-bonding** workflow used elsewhere in the build (see the "removable screws" section above and [hull planking](/construction/hull-planking.md)), applied here to the sheer clamps and chine logs specifically — because the piece is only glued once its fit is already proven, there is no risk of the epoxy going off mid-bend.
 
 ## Hidden voids in a secondary lamination pose little risk
 
-A hidden **void** (air pocket) can go undetected when laminating an extra
-layer of plywood onto an existing panel — for example, adding an extra 1/4
-in of plywood to a hull side, coating both surfaces with straight epoxy then
-Cabosil-thickened epoxy, and fastening with a mix of nails into
-bulkheads/logs and drywall screws elsewhere. Such a void would likely be
-only a **small pocket of air**, fully surrounded by epoxy and
-epoxy-saturated plywood, with no path for rot spores to reach it — rot needs
-food, oxygen, *and* moisture, and the void supplies no moisture route unless
-the epoxy skin around it is later breached. The pocket is also **too small**
-for thermal expansion/contraction to cause damage, and too small to let the
-new lamination flex differently from the rest of the panel.
+A hidden **void** (air pocket) can go undetected when laminating an extra layer of plywood onto an existing panel — for example, adding an extra 1/4 in of plywood to a hull side, coating both surfaces with straight epoxy then Cabosil-thickened epoxy, and fastening with a mix of nails into bulkheads/logs and drywall screws elsewhere. Such a void would likely be only a **small pocket of air**, fully surrounded by epoxy and epoxy-saturated plywood, with no path for rot spores to reach it — rot needs food, oxygen, *and* moisture, and the void supplies no moisture route unless the epoxy skin around it is later breached. The pocket is also **too small** for thermal expansion/contraction to cause damage, and too small to let the new lamination flex differently from the rest of the panel.
 
-A practical way to **locate** voids after the fact: watch for spots of
-**condensation that recur in the same place** on the painted hull's exterior
-on cold mornings after the boat has sat outside overnight — a telltale sign
-of a thermal difference under the paint (the same effect can appear over
-bulkheads or cleats for the same reason). The overall verdict: the less
-one worries about it, the better.
+A practical way to **locate** voids after the fact: watch for spots of **condensation that recur in the same place** on the painted hull's exterior on cold mornings after the boat has sat outside overnight — a telltale sign of a thermal difference under the paint (the same effect can appear over bulkheads or cleats for the same reason). The overall verdict: the less one worries about it, the better.
 
-This is a data point specific to a **secondary/repair lamination** (adding
-thickness to an existing panel) rather than the original hull-panel
-lamination sequence documented elsewhere on this page, but the same general
-reasoning — small, fully encapsulated voids are a cosmetic/diagnostic
-curiosity rather than a structural or rot risk, so long as the epoxy skin
-around them stays intact — follows naturally from the squeeze-out and
-nail-vs-screw material above.
+This is a data point specific to a **secondary/repair lamination** (adding thickness to an existing panel) rather than the original hull-panel lamination sequence documented elsewhere on this page, but the same general reasoning — small, fully encapsulated voids are a cosmetic/diagnostic curiosity rather than a structural or rot risk, so long as the epoxy skin around them stays intact — follows naturally from the squeeze-out and nail-vs-screw material above.
 
 ## Armoring small drilled holes against rot
 
-The same Cabosil-thickened epoxy protects small **drilled holes** (such as
-the boom-end tack-line holes) from rot: straight epoxy first to saturate the
-end grain, then a Cabosil-thickened coat as an "armor coating." The full
-method, along with an unresolved practical question about coating narrow,
-deep holes without closing them up, is documented in
-[boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
+The same Cabosil-thickened epoxy protects small **drilled holes** (such as the boom-end tack-line holes) from rot: straight epoxy first to saturate the end grain, then a Cabosil-thickened coat as an "armor coating." The full method, along with an unresolved practical question about coating narrow, deep holes without closing them up, is documented in [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
 
 ## Hardware bonding: epoxy-set fasteners in place of thru-bolting
 
-**Hardware bonding** — setting a fastener into a pre-filled, epoxy-lined hole
-rather than through-bolting it — is superior to thru-bolting for attaching
-deck hardware such as pad-eyes and U-bolts; boats have been lifted by
-hardware-bonded fittings alone. A test procedure lets a builder verify the
-technique for themselves:
+**Hardware bonding** — setting a fastener into a pre-filled, epoxy-lined hole rather than through-bolting it — is superior to thru-bolting for attaching deck hardware such as pad-eyes and U-bolts; boats have been lifted by hardware-bonded fittings alone. A test procedure lets a builder verify the technique for themselves:
 
 1. Drill a **1/2 in hole, about 1 in deep**, into a piece of 2x stock.
 2. Fill the hole with a **high-density epoxy mixture**.
 3. Once cured, drill a **3/16 in hole** in the center of the plug.
-4. Dip a **1/4 in stainless steel machine fastener** in epoxy and drive it
-   into the hole; let cure.
-5. Pull the fastener in tension until it is destroyed or the holding
-   strength is proven.
+4. Dip a **1/4 in stainless steel machine fastener** in epoxy and drive it into the hole; let cure.
+5. Pull the fastener in tension until it is destroyed or the holding strength is proven.
 
-Consult **WEST System's** own technique literature for the method. Its
-advantages over thru-bolting: no drilled hole all the way through the
-hull/deck for water to find, and once cured, **moisture cannot reach the
-surrounding wood** to start rot — the epoxy plug fully encapsulates the
-fastener.
+Consult **WEST System's** own technique literature for the method. Its advantages over thru-bolting: no drilled hole all the way through the hull/deck for water to find, and once cured, **moisture cannot reach the surrounding wood** to start rot — the epoxy plug fully encapsulates the fastener.
 
-The technique's structural logic holds up given a thick enough structure to
-set the plug in, with one caution: hardware exposed to **direct sunlight**,
-especially black-colored fittings, could get hot enough to **weaken the
-epoxy bond** through heat alone. The mitigation is to choose an **epoxy
-formulation less sensitive to heat** for such an application — West System,
-once fully cured, is favored for this reason over faster (e.g. 1:1-ratio)
-epoxy mixes. See
-[chine runner construction — casting lead ballast in a chine-runner mold](/chine-runners/construction.md#casting-lead-ballast-into-the-runners)
-for the specific application (bonding cast-lead ballast to the chine log)
-that prompted this exchange.
+The technique's structural logic holds up given a thick enough structure to set the plug in, with one caution: hardware exposed to **direct sunlight**, especially black-colored fittings, could get hot enough to **weaken the epoxy bond** through heat alone. The mitigation is to choose an **epoxy formulation less sensitive to heat** for such an application — West System, once fully cured, is favored for this reason over faster (e.g. 1:1-ratio) epoxy mixes. See [chine runner construction — casting lead ballast in a chine-runner mold](/chine-runners/construction.md#casting-lead-ballast-into-the-runners) for the specific application (bonding cast-lead ballast to the chine log) that prompted this exchange.
 
 ## Why the plans show clenched (not simply bent) nails, and how to clench one
 
-The plans show the cabin construction with nails **bent over** — not a
-temporary clamping step sacrificed once construction is finished, but a
-permanent, deliberate detail.
+The plans show the cabin construction with nails **bent over** — not a temporary clamping step sacrificed once construction is finished, but a permanent, deliberate detail.
 
-The nails as drawn are not simply bent over — they are **clenched**, a
-distinct and permanent traditional fastening technique long used in
-**lapstrake boats and canoes**, including canvas-and-cedar canoes built as
-early as the 1900s. Screws, by contrast, hold poorly in plywood over the
-long term even where the epoxy bond itself stays sound, since **the glue in
-the plywood's own laminations can give way** before the epoxy joint does —
-whereas clenched nails, correctly done, are **stronger than screws and
-easier to execute than rivets**.
+The nails as drawn are not simply bent over — they are **clenched**, a distinct and permanent traditional fastening technique long used in **lapstrake boats and canoes**, including canvas-and-cedar canoes built as early as the 1900s. Screws, by contrast, hold poorly in plywood over the long term even where the epoxy bond itself stays sound, since **the glue in the plywood's own laminations can give way** before the epoxy joint does — whereas clenched nails, correctly done, are **stronger than screws and easier to execute than rivets**.
 
-Clenching is a specific technique, not just bending a nail flat at 90
-degrees: the protruding end is **curved back into the wood** rather than
-simply folded over, which is what gives a clenched nail its strength as a
-permanent fastener (see
-[http://www.faeringdesigninc.com/instruct2.html](http://www.faeringdesigninc.com/instruct2.html)
-for illustrated instructions). Clenched nails finish **flush on both
-sides**, so a light fill of epoxy and microballoons fairs the surface
-without the time-consuming trim work an exposed screw head or nut would
-need. For a builder who would rather avoid nails and washers regardless,
-alternatives include flathead machine screws and nuts, rivets and roves, or
-— if using solid wood rather than plywood — fastening from below with
-flathead wood screws, or simply trusting a well-made epoxy joint alone,
-provided the structure is thick enough to set the fastener in. Reference
-works on the various fastening methods include **"Gougeon Brothers on Boat
-Construction"** and Robert Steward's **"Boatbuilding Manual."**
+Clenching is a specific technique, not just bending a nail flat at 90 degrees: the protruding end is **curved back into the wood** rather than simply folded over, which is what gives a clenched nail its strength as a permanent fastener (see [http://www.faeringdesigninc.com/instruct2.html](http://www.faeringdesigninc.com/instruct2.html) for illustrated instructions). Clenched nails finish **flush on both sides**, so a light fill of epoxy and microballoons fairs the surface without the time-consuming trim work an exposed screw head or nut would need. For a builder who would rather avoid nails and washers regardless, alternatives include flathead machine screws and nuts, rivets and roves, or — if using solid wood rather than plywood — fastening from below with flathead wood screws, or simply trusting a well-made epoxy joint alone, provided the structure is thick enough to set the fastener in. Reference works on the various fastening methods include **"Gougeon Brothers on Boat Construction"** and Robert Steward's **"Boatbuilding Manual."**
 
-Where wood quality or glue-bond longevity is a concern — a lesser grade of
-plywood, or finishing with ordinary paint rather than a full epoxy seal over
-all wood surfaces — clenched nails' role as a mechanical backup to the glue
-bond matters more, not less, since nails moving slightly over time can break
-an epoxy seal and let water in if the surrounding wood is not otherwise
-protected. This is the same "permanent backup to the glue bond" logic
-documented above for the plans' bronze ring nails generally, applied here
-specifically to the clench-nailed cabin construction.
+Where wood quality or glue-bond longevity is a concern — a lesser grade of plywood, or finishing with ordinary paint rather than a full epoxy seal over all wood surfaces — clenched nails' role as a mechanical backup to the glue bond matters more, not less, since nails moving slightly over time can break an epoxy seal and let water in if the surrounding wood is not otherwise protected. This is the same "permanent backup to the glue bond" logic documented above for the plans' bronze ring nails generally, applied here specifically to the clench-nailed cabin construction.
 
 ## Bronze ring nails bending over: pilot-hole sizing
 
-Sheer strakes need not match the plans' nominal dimension exactly: one
-builder fitted his at **20 mm rather than 25 mm**, simply because that size
-let him get both strakes out of an available sapele offcut left over from
-cutting the chine logs.
+Sheer strakes need not match the plans' nominal dimension exactly: fitting them at **20 mm rather than 25 mm** is workable, and can simply be a matter of getting both strakes out of an available sapele offcut left over from cutting the chine logs.
 
-Bronze ring nails driven into sheer strakes (or other solid-wood members
-already bedded on epoxy) can bend over in their last third of length rather
-than driving home cleanly, especially where the nail's point reaches the
-glue line itself — even into a pre-drilled pilot hole. This is a **pilot-hole
-sizing problem**, not a flaw in the fastener: enlarging the pilot hole, even
-to what feels like a generously large diameter, generally cures the bending
-without weakening the nail's hold — one builder found that even a
-noticeably larger pilot hole still left the nail effectively impossible to
-withdraw again once driven, evidence the fastener still bites hard despite
-the larger hole. Test pieces are worth cutting first to dial in a working
-pilot-hole size before committing to the actual sheer strakes or chine logs.
+Bronze ring nails driven into sheer strakes (or other solid-wood members already bedded on epoxy) can bend over in their last third of length rather than driving home cleanly, especially where the nail's point reaches the glue line itself — even into a pre-drilled pilot hole. This is a **pilot-hole sizing problem**, not a flaw in the fastener: enlarging the pilot hole, even to what feels like a generously large diameter, generally cures the bending without weakening the nail's hold — even a noticeably larger pilot hole still leaves the nail effectively impossible to withdraw again once driven, evidence the fastener still bites hard despite the larger hole. Test pieces are worth cutting first to dial in a working pilot-hole size before committing to the actual sheer strakes or chine logs.
 
-A workable rule of thumb, arrived at from a UK chandlery's own published
-nail/pilot-hole size tables: take the tabulated pilot-hole diameter and add
-about **1/64 in**. Fasteners sized this way go in cleanly through both the
-plywood and into solid sapele beneath it, with no further bending.
+A workable rule of thumb, arrived at from a UK chandlery's own published nail/pilot-hole size tables: take the tabulated pilot-hole diameter and add about **1/64 in**. Fasteners sized this way go in cleanly through both the plywood and into solid sapele beneath it, with no further bending.
 
 ## Fasteners and adhesives in the Bolduc rebuilds (microcruising.com)
 
-The [Little Cruiser](/matt-layden/little-cruiser.md) and
-[Swamp Thing](/matt-layden/swamp-thing.md) rebuilds by
-[David & Mindy Bolduc](/people/bolduc/dave.md) corroborate Dave's
-"ring nails are structural" argument above with direct practice: during
-Swamp Thing's rot repair, **bronze ring nails were added to back up the old
-ones** — "All rotted wood is removed, and bronze ring nails are added to
-back up the old ones." Later, Swamp Thing's entirely new bottom panel was
-fastened the same way: **bronze ring nails** driven through **pre-drilled
-holes**, with the panel bedded on **epoxy thickened with cabosil**. See
-[hull planking](/construction/hull-planking.md) for the fuller bottom-panel
-sequence this confirms.
+The [Little Cruiser](/matt-layden/little-cruiser.md) and [Swamp Thing](/matt-layden/swamp-thing.md) rebuilds corroborate the "ring nails are structural" argument above with direct practice: during Swamp Thing's rot repair, **bronze ring nails were added to back up the old ones** — "All rotted wood is removed, and bronze ring nails are added to back up the old ones." Later, Swamp Thing's entirely new bottom panel was fastened the same way: **bronze ring nails** driven through **pre-drilled holes**, with the panel bedded on **epoxy thickened with cabosil**. See [hull planking](/construction/hull-planking.md) for the fuller bottom-panel sequence this confirms.
 
-A different adhesive pairing appears on the [folding dinghy](/construction/folding-dinghy.md):
-its canvas hinges are bonded with **3M 5200** and tacked with **¼" stainless
-steel staples**, rather than nails or screws — a fastening choice suited to
-a flexible cloth hinge rather than a rigid plywood joint.
+A different adhesive pairing appears on the [folding dinghy](/construction/folding-dinghy.md): its canvas hinges are bonded with **3M 5200** and tacked with **¼" stainless steel staples**, rather than nails or screws — a fastening choice suited to a flexible cloth hinge rather than a rigid plywood joint.
 
 # Citations
 

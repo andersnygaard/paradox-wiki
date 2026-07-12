@@ -1,308 +1,101 @@
 ---
 type: Concept
 title: Topside and hull painting choices
-description: Economical topside/hull finish-paint options for a Paradox — house paint versus marine finishes, the roll-and-tip application technique, primer choice, hull-colour selection and epoxy UV protection, and the Bolducs' practice-tested enamel method.
+description: Economical topside/hull finish-paint options for a Paradox — house paint versus marine finishes, the roll-and-tip application technique, primer choice, hull-colour selection and epoxy UV protection, and a practice-tested enamel method.
 tags: [paradox, construction, painting, finishing, house-paint, awlgrip]
 timestamp: 2026-07-01T00:00:00Z
 ---
 
 # Topside and hull painting choices
 
-Ordinary **exterior house paint** is a viable, economical finish for a
-Paradox's topsides and hull, as an alternative to marine paints. This is a
-distinct question from
-[bottom painting over epoxy](/construction/bottom-painting.md), which
-addresses how to bond *antifouling* durably to cured epoxy; this page covers
-the **choice of topside/hull finish paint** itself, for boats such as a
-[secondhand Paradox](/operations/secondhand-market.md) whose owner wants to
-keep costs down.
+Ordinary **exterior house paint** is a viable, economical finish for a Paradox's topsides and hull, as an alternative to marine paints. This is a distinct question from [bottom painting over epoxy](/construction/bottom-painting.md), which addresses how to bond *antifouling* durably to cured epoxy; this page covers the **choice of topside/hull finish paint** itself, for boats such as a [secondhand Paradox](/operations/secondhand-market.md) whose owner wants to keep costs down.
 
 ## House paint versus marine finishes
 
-**Exterior house paint** is a viable, economical topside finish. Used on an
-old brown trimaran, it gave **very good service** — holding up for the
-**three years** the family lived aboard her, and easy to patch dings and
-scratches. Trade-offs:
+**Exterior house paint** is a viable, economical topside finish. Used on an old brown trimaran, it gave **very good service** — holding up for the **three years** a family lived aboard her, and easy to patch dings and scratches. Trade-offs:
 
 - House paint does not **hold a gloss as long** as marine finishes.
-- It is a "bit of a bummer to remove" if the owner later wants to switch to a
-  non-latex finish.
-- **Oil-based** house paints (increasingly hard to find even by 2001) last
-  longer than **latex**.
-- **West Marine's "Sea Gloss"** is a cheap marine paint, good value for the
-  quality, as a budget-friendly alternative to house paint.
+- It is a "bit of a bummer to remove" if the owner later wants to switch to a non-latex finish.
+- **Oil-based** house paints (increasingly hard to find even by 2001) last longer than **latex**.
+- **West Marine's "Sea Gloss"** is a cheap marine paint, good value for the quality, as a budget-friendly alternative to house paint.
 
-For comparison, painting **"Zoë"** took only about **one quart of Awlgrip**, so
-a Paradox does not need much paint regardless of which product is chosen.
+For comparison, painting **"Zoë"** took only about **one quart of Awlgrip**, so a Paradox does not need much paint regardless of which product is chosen.
 
-An article on [Dave Carnell's boat-building website](/references/dave-carnell-articles.md)
-argues that **water-based paint is not merely acceptable but superior** for
-this kind of small plywood boat.
+A [boat-building reference article](/references/dave-carnell-articles.md) argues that **water-based paint is not merely acceptable but superior** for this kind of small plywood boat.
 
-Between house paint, Sea Gloss, Awlgrip, and water-based paint, no single
-finish is the settled recommendation; the choice comes down to budget, desired
-longevity of gloss, and whether the boat will later be repainted with a
-different finish.
+Between house paint, Sea Gloss, Awlgrip, and water-based paint, no single finish is the settled recommendation; the choice comes down to budget, desired longevity of gloss, and whether the boat will later be repainted with a different finish.
 
 ## Roll-and-tip technique
 
-Roll-and-tip is a way to get a smooth, professional-looking finish with a
-roller rather than a sprayer:
+Roll-and-tip is a way to get a smooth, professional-looking finish with a roller rather than a sprayer:
 
-- **Roll** the paint on in **one direction**; **tip** it with a brush in the
-  perpendicular direction to smooth the surface and pop air bubbles left by
-  the roller.
-- Apply **very thin coats** — three is typical — rather than one thick coat.
-  This produces a **very smooth surface** and reduces the risk of runs. Done
-  well, the result can fool onlookers into thinking the paint was **sprayed
-  on**, though spraying would have been faster. Plan on roughly **one coat per
-  day**.
-- One well-tested method: a **foam roller cut in half**, rolling thin coats
-  **vertically** from sheer to waterline in sections about **15 in wide**,
-  then lightly **tipping with a 3 in foam brush**, stroking **from wet to
-  dry** (e.g., if starting at the bow, tipping strokes run from stern to bow).
-- **Keep a wet edge**: many paints flash off quickly, so don't tackle too big
-  a section before tipping it, or the edge will show. Practice on scrap first.
-- **Foam brushes wear out fast** — keep spares on hand so a worn brush can be
-  swapped immediately without losing the wet edge; figure on roughly one brush
-  per coat, with two spares in reserve.
-- **Only stroke in one direction**; after each stroke, flip the brush to its
-  other side on the return pass.
-- Builders differ on whether to **roll vertically and tip horizontally**, or
-  the reverse; rolling vertically is a common preference.
-- **Tool storage trick (oil-based paint only):** rather than clean or discard
-  the roller and brush between coats, **immerse them in water** so air can't
-  reach the paint film; the next day, shake off the water (rolling the roller
-  across newspaper to dry it) and continue. The same roller and brush have
-  been reused for **bottom jobs for years** this way.
+- **Roll** the paint on in **one direction**; **tip** it with a brush in the perpendicular direction to smooth the surface and pop air bubbles left by the roller.
+- Apply **very thin coats** — three is typical — rather than one thick coat. This produces a **very smooth surface** and reduces the risk of runs. Done well, the result can fool onlookers into thinking the paint was **sprayed on**, though spraying would have been faster. Plan on roughly **one coat per day**.
+- One well-tested method: a **foam roller cut in half**, rolling thin coats **vertically** from sheer to waterline in sections about **15 in wide**, then lightly **tipping with a 3 in foam brush**, stroking **from wet to dry** (e.g., if starting at the bow, tipping strokes run from stern to bow).
+- **Keep a wet edge**: many paints flash off quickly, so don't tackle too big a section before tipping it, or the edge will show. Practice on scrap first.
+- **Foam brushes wear out fast** — keep spares on hand so a worn brush can be swapped immediately without losing the wet edge; figure on roughly one brush per coat, with two spares in reserve.
+- **Only stroke in one direction**; after each stroke, flip the brush to its other side on the return pass.
+- Builders differ on whether to **roll vertically and tip horizontally**, or the reverse; rolling vertically is a common preference.
+- **Tool storage trick (oil-based paint only):** rather than clean or discard the roller and brush between coats, **immerse them in water** so air can't reach the paint film; the next day, shake off the water (rolling the roller across newspaper to dry it) and continue. The same roller and brush have been reused for **bottom jobs for years** this way.
 
 ## Glen Maxwell's full Awlgrip roll-and-tip recipe, and why not to spray it
 
-"Zoë"'s widely admired finish was rolled and tipped, not sprayed, even though
-onlookers who saw the boat in person took the result for a sprayed finish. The
-recipe: work **vertically** in sections no larger than about **6 sq ft** at a
-time, roll the paint on, then tip it with a **foam brush** worked
-horizontally; always brush **into** the just-finished wet section rather than
-back over it; move quickly and keep the coats thin; keep about **four spare
-foam brushes** on hand in case one blows out or gets too soggy to use cleanly.
-A single **1-quart Awlgrip kit** (paint, H3002 converter, T0031 reducer)
-yields about **53 oz of finished, catalyzed paint** — enough for three coats
-on the whole hull with a little left over — and the technique works equally
-well with ordinary one-part enamels, not just two-part polyurethanes. Awlgrip
-is judged the **cheapest paint to buy in practice** despite its per-quart
-price, because it holds its gloss for roughly **ten years** without fading
-and covers a large area per quart.
+"Zoë"'s widely admired finish was rolled and tipped, not sprayed, even though onlookers who saw the boat in person took the result for a sprayed finish. The recipe: work **vertically** in sections no larger than about **6 sq ft** at a time, roll the paint on, then tip it with a **foam brush** worked horizontally; always brush **into** the just-finished wet section rather than back over it; move quickly and keep the coats thin; keep about **four spare foam brushes** on hand in case one blows out or gets too soggy to use cleanly. A single **1-quart Awlgrip kit** (paint, H3002 converter, T0031 reducer) yields about **53 oz of finished, catalyzed paint** — enough for three coats on the whole hull with a little left over — and the technique works equally well with ordinary one-part enamels, not just two-part polyurethanes. Awlgrip is judged the **cheapest paint to buy in practice** despite its per-quart price, because it holds its gloss for roughly **ten years** without fading and covers a large area per quart.
 
-An **HVLP outfit** (such as a Turbinaire) can spray a fine finish, but
-spraying **Awlgrip or any other two-part polyurethane paint** is not
-recommended: atomized, these products are seriously toxic, to the point that
-anyone doing the spraying should wear a full-face mask supplied with an
-oxygen-rich air mixture, not just an ordinary respirator. Builders working
-with any of these products should request the manufacturer's **MSDS
-(Material Safety Data Sheet)** for every product used on a boat — free of
-charge and required to be supplied on request under US federal law — as a
-straightforward way to know exactly what hazard is being handled.
+An **HVLP outfit** (such as a Turbinaire) can spray a fine finish, but spraying **Awlgrip or any other two-part polyurethane paint** is not recommended: atomized, these products are seriously toxic, to the point that anyone doing the spraying should wear a full-face mask supplied with an oxygen-rich air mixture, not just an ordinary respirator. Builders working with any of these products should request the manufacturer's **MSDS (Material Safety Data Sheet)** for every product used on a boat — free of charge and required to be supplied on request under US federal law — as a straightforward way to know exactly what hazard is being handled.
 
 ## Primer choice
 
-Primer choice depends on the **type of finish paint** used over it, so it is
-usually chosen alongside the topcoat rather than in isolation. For a
-budget-minded finish on a hull that needs smoothing out:
+Primer choice depends on the **type of finish paint** used over it, so it is usually chosen alongside the topcoat rather than in isolation. For a budget-minded finish on a hull that needs smoothing out:
 
 - Use **West Marine's Sea Gloss** for the finish.
-- Start with just a **quart**, applied from the **sheer down to the
-  waterline**, to see how far it goes before buying more.
-- **Sand with an orbital sander first** to smooth the existing surface before
-  priming/painting.
-- Avoid **latex**: it makes it harder for a **future owner** to repaint with a
-  different (non-latex) finish later, and lowers the boat's likely **resale
-  value** compared with a Sea Gloss finish — a relevant consideration for a
-  [secondhand Paradox](/operations/secondhand-market.md) being kept only until
-  a from-scratch build is finished.
+- Start with just a **quart**, applied from the **sheer down to the waterline**, to see how far it goes before buying more.
+- **Sand with an orbital sander first** to smooth the existing surface before priming/painting.
+- Avoid **latex**: it makes it harder for a **future owner** to repaint with a different (non-latex) finish later, and lowers the boat's likely **resale value** compared with a Sea Gloss finish — a relevant consideration for a [secondhand Paradox](/operations/secondhand-market.md) being kept only until a from-scratch build is finished.
 
 ## Paint blisters from a tarp left on too long
 
-Small blisters can appear across a finished **Interlux Brightsides** topside
-paint job wherever a **tarp** left in place for an extended period (roughly
-six weeks) has been in contact with the paint — even on a hull that had
-previously taken the same paint without incident. The likely cause is
-**residual moisture trapped below the paint surface**: as the covered hull
-warms, that trapped moisture expands and lifts the paint film into small
-blisters. The problem was observed on
-"[Whisper](/boats/whisper.md)" after uncovering her for the first time in
-about six weeks.
+Small blisters can appear across a finished **Interlux Brightsides** topside paint job wherever a **tarp** left in place for an extended period (roughly six weeks) has been in contact with the paint — even on a hull that had previously taken the same paint without incident. The likely cause is **residual moisture trapped below the paint surface**: as the covered hull warms, that trapped moisture expands and lifts the paint film into small blisters. The problem was observed on "[Whisper](/boats/whisper.md)" after uncovering her for the first time in about six weeks.
 
-Several further explanations point to the same underlying mechanism —
-trapped heat and moisture with nowhere to escape:
+Several further explanations point to the same underlying mechanism — trapped heat and moisture with nowhere to escape:
 
-- **Tarp material matters.** Some tarps are known within the wooden-boat
-  community to cause this kind of damage; **poly tarps** are one such
-  material. A cover should **breathe**, and the same problem has been
-  reported with car covers.[12]
-- **Incomplete cure** is an alternative or contributing cause: if the paint
-  had not fully hardened before being covered, heat building up under the
-  tarp could cause it to bubble.[12] A **very fresh** paint job that has not
-  finished **outgassing** can blister this way; the blisters may settle back
-  down and the paint re-adhere over time, or, if not, the job may need to be
-  stripped and redone from scratch.[13]
-- **A sealed air gap concentrates heat and light** against the hull, the same
-  effect as a plastic kayak left sitting on a lawn in summer — the sun's
-  light focuses through the plastic and kills the grass beneath within an
-  hour. A tarp needs a **clear air space** between itself and the hull to
-  prevent this kind of focused heat reaching the paint surface; combined with
-  an incomplete cure, the paint film is left doubly vulnerable.[14]
+- **Tarp material matters.** Some tarps are known within the wooden-boat community to cause this kind of damage; **poly tarps** are one such material. A cover should **breathe**, and the same problem has been reported with car covers.[12]
+- **Incomplete cure** is an alternative or contributing cause: if the paint had not fully hardened before being covered, heat building up under the tarp could cause it to bubble.[12] A **very fresh** paint job that has not finished **outgassing** can blister this way; the blisters may settle back down and the paint re-adhere over time, or, if not, the job may need to be stripped and redone from scratch.[13]
+- **A sealed air gap concentrates heat and light** against the hull, the same effect as a plastic kayak left sitting on a lawn in summer — the sun's light focuses through the plastic and kills the grass beneath within an hour. A tarp needs a **clear air space** between itself and the hull to prevent this kind of focused heat reaching the paint surface; combined with an incomplete cure, the paint film is left doubly vulnerable.[14]
 
 ## Choosing a hull colour, and why the epoxy's UV protection matters more than the shade
 
-A hull colour is best chosen with the epoxy's UV protection in mind first,
-and aesthetics second. A **coloured powder additive**, sold by at least one
-UV finishing-epoxy supplier as sufficient on its own to protect the cured
-epoxy from ultraviolet degradation, is not to be relied on as the sole UV
-barrier: **paint (not colour alone) provides the opacity that actually
-shields epoxy from UV**, and a varnish used over epoxy should specifically
-carry UV inhibitors. In practice, though, a single coat of plain epoxy left
-unprotected has also been reported to show no visible deterioration after two
-years, under the lower UV levels found in temperate regions such as the
-UK — so the risk is real but climate-dependent, and worth confirming directly
-with a supplier rather than taking a colour-additive's UV claim at face
-value.
+A hull colour is best chosen with the epoxy's UV protection in mind first, and aesthetics second. A **coloured powder additive**, sold by at least one UV finishing-epoxy supplier as sufficient on its own to protect the cured epoxy from ultraviolet degradation, is not to be relied on as the sole UV barrier: **paint (not colour alone) provides the opacity that actually shields epoxy from UV**, and a varnish used over epoxy should specifically carry UV inhibitors. In practice, though, a single coat of plain epoxy left unprotected has also been reported to show no visible deterioration after two years, under the lower UV levels found in temperate regions such as the UK — so the risk is real but climate-dependent, and worth confirming directly with a supplier rather than taking a colour-additive's UV claim at face value.
 
-Beyond UV protection, **darker hull colours run measurably hotter in strong
-sun**: epoxy can begin to soften once it reaches roughly 150°F, an effect
-made worse by dark pigment, so darker shades are best reserved for areas
-closer to the waterline rather than used across the whole topsides. In
-practice a UK boat is unlikely to see that kind of heat except in the
-proverbial "month of Sundays" — the risk is real in principle but easy to
-overstate at temperate latitudes.[22]
+Beyond UV protection, **darker hull colours run measurably hotter in strong sun**: epoxy can begin to soften once it reaches roughly 150°F, an effect made worse by dark pigment, so darker shades are best reserved for areas closer to the waterline rather than used across the whole topsides. In practice a UK boat is unlikely to see that kind of heat except in the proverbial "month of Sundays" — the risk is real in principle but easy to overstate at temperate latitudes.[22]
 
-For choosing the shade itself, one practical design approach is to look at
-the traditional hull colours used by other boats already sailing the home
-waters, then choose a **complementary colour** (opposite it on the colour
-wheel) both for visibility and for the visual "energy" complementary schemes
-create — for example, pairing a **bright red sail** (chosen for visibility
-against the sea in poor weather, over the more common tan) with a
-**green hull**, green being red's complement — a paler green in particular
-has been floated as a companion to a red sail.[23]  A complementary scheme
-can also feel visually tiring to those aboard, since it engages the
-colour-sensitive part of the brain more; keeping the colours **muted above
-the gunnels** and reserving stronger contrast for lower down softens that
-effect while still keeping the boat visible from a distance.
+For choosing the shade itself, one practical design approach is to look at the traditional hull colours used by other boats already sailing the home waters, then choose a **complementary colour** (opposite it on the colour wheel) both for visibility and for the visual "energy" complementary schemes create — for example, pairing a **bright red sail** (chosen for visibility against the sea in poor weather, over the more common tan) with a **green hull**, green being red's complement — a paler green in particular has been floated as a companion to a red sail.[23]  A complementary scheme can also feel visually tiring to those aboard, since it engages the colour-sensitive part of the brain more; keeping the colours **muted above the gunnels** and reserving stronger contrast for lower down softens that effect while still keeping the boat visible from a distance.
 
-A practical shortcut for narrowing the choice among already-built boats is
-the [UK Paradox photo gallery](http://www.smallsailboats.co.uk/paradox/para_gallery.htm),
-useful for comparing finished hull colours side by side — bright yellow
-("Petite Lady"), white ("Swash"), grey ("Zero"), and green ("Little Jim")
-among them, alongside Zoë's widely admired finish.[24][26] A **pale, lighter
-shade** (grey or a pale gold, for instance) has the practical advantage that
-it is easier to paint over later if the owner changes their mind, and a
-flattish finish also helps hide surface imperfections in a first-time paint
-job — set against the view that a light colour shows dirt and wear more, and
-that a boat is better sailed than endlessly repainted.[27][28][29] One tip
-learned the hard way: **PVC floor tape does not stay stuck** as a trim-line
-material on a hull.[29]
+A practical shortcut for narrowing the choice among already-built boats is the [UK Paradox photo gallery](http://www.smallsailboats.co.uk/paradox/para_gallery.htm), useful for comparing finished hull colours side by side — bright yellow ("Petite Lady"), white ("Swash"), grey ("Zero"), and green ("Little Jim") among them, alongside Zoë's widely admired finish.[24][26] A **pale, lighter shade** (grey or a pale gold, for instance) has the practical advantage that it is easier to paint over later if the owner changes their mind, and a flattish finish also helps hide surface imperfections in a first-time paint job — set against the view that a light colour shows dirt and wear more, and that a boat is better sailed than endlessly repainted.[27][28][29] One tip learned the hard way: **PVC floor tape does not stay stuck** as a trim-line material on a hull.[29]
 
-A more pragmatic, if tongue-in-cheek, school of thought holds that sailing
-time is better spent than repainting time, and that the simplest colour
-choice is whatever paint a builder already has on hand — sometimes wryly
-dubbed "urban camouflage" for a hull that ends up matching the household
-garage.[29][30][31] Once resigned to a grey hull, one builder floated a
-final joke on the naval-camouflage association: painted grey with an air
-rifle mounted on the bow, a small boat "could probably pass off as one of
-our modern navy ships at many a dockyard" — a line answered in kind, first
-with mock orders reassigning the "Admiral" to the Persian Gulf, or
-alternatively painting the boat in Spitfire colours in case a "Zero"
-happened by (a pun on the grey-hulled Paradox "Zero" named earlier in the
-same thread), and then with the builder's own reply that a grey hull and
-mounted air gun would in any case need a better-turned-out crew to complete
-the impression.[32][33][34]
+A more pragmatic, if tongue-in-cheek, school of thought holds that sailing time is better spent than repainting time, and that the simplest colour choice is whatever paint a builder already has on hand — sometimes wryly dubbed "urban camouflage" for a hull that ends up matching the household garage.[29][30][31] Once resigned to a grey hull, one builder floated a final joke on the naval-camouflage association: painted grey with an air rifle mounted on the bow, a small boat "could probably pass off as one of our modern navy ships at many a dockyard" — a line answered in kind, first with mock orders reassigning the "Admiral" to the Persian Gulf, or alternatively painting the boat in Spitfire colours in case a "Zero" happened by (a pun on the grey-hulled Paradox "Zero" named earlier in the same thread), and then with the builder's own reply that a grey hull and mounted air gun would in any case need a better-turned-out crew to complete the impression.[32][33][34]
 
-A practical, safety-driven rationale for choosing a **bright bottom
-colour**: red paint applied to the very bottom of the hull makes scratches
-and scores in the finish show through clearly for early detection, and,
-should the boat ever end up capsized and inverted, is easy for a rescue
-helicopter to spot from the air. One builder combined this with **green**
-for the sides and deck, applied as a pigment mixed into the final finish
-coat rather than as a separate paint layer — a supplier's recommendation,
-made after the builder had already bought paint of his own, that a pigment
-in the finish coat could achieve the colour more simply.[42]
+A practical, safety-driven rationale for choosing a **bright bottom colour**: red paint applied to the very bottom of the hull makes scratches and scores in the finish show through clearly for early detection, and, should the boat ever end up capsized and inverted, is easy for a rescue helicopter to spot from the air. One builder combined this with **green** for the sides and deck, applied as a pigment mixed into the final finish coat rather than as a separate paint layer — a supplier's recommendation, made after the builder had already bought paint of his own, that a pigment in the finish coat could achieve the colour more simply.[42]
 
-That red-for-visibility reasoning was directly challenged: independent
-testing of colour visibility over distance has found **bright yellow**,
-not red, to be the most visible from the farthest away, with red actually
-ranking among the worst performers despite the common assumption that red
-would win — which is why most safety devices are made yellow rather than
-red.[43] The builder took the point as a fair one, retracting distance
-visibility as a reason to favour red, though the scratch/score-visibility
-rationale for the bottom colour stood on its own.[44] A related distress
-question — whether an international distress symbol could simply be
-painted on a flat-enough hull bottom, for use if the boat were ever found
-capsized — was set aside in favour of carrying flares, judged more useful
-over a distance, especially given the yellow-over-red visibility
-point.[45][46]
+That red-for-visibility reasoning was directly challenged: independent testing of colour visibility over distance has found **bright yellow**, not red, to be the most visible from the farthest away, with red actually ranking among the worst performers despite the common assumption that red would win — which is why most safety devices are made yellow rather than red.[43] The point was taken as a fair one, retracting distance visibility as a reason to favour red, though the scratch/score-visibility rationale for the bottom colour stood on its own.[44] A related distress question — whether an international distress symbol could simply be painted on a flat-enough hull bottom, for use if the boat were ever found capsized — was set aside in favour of carrying flares, judged more useful over a distance, especially given the yellow-over-red visibility point.[45][46]
 
-On the practical mechanics of a pigmented final coat: it is mixed into the
-last coat of epoxy and applied with a wide (8 in) spatula, then dragged out
-to a smooth, shiny or matt surface as preferred; a **textured, non-slip
-deck surface** can be produced in the same step by sprinkling on sugar
-while the coat is still wet and washing it off with hot water a day later
-— reported as easier on bare feet than a sanded, gritty texture. The final
-pigmented coat cures hard enough to walk on in about four hours. Because
-one full batch of pigmented epoxy may not stretch to cover deck and both
-sides in a single pour, the coat is best applied in two or three separate
-sessions (deck, then each side, or deck then port side then starboard);
-any resulting shade difference between sessions was judged unlikely to
-matter, and, if visible from some angles, easy enough to blame on the
-light.[47][48] The finished scheme was jokingly summed up as "three-tone
-green with a yellow bottom," with the international distress word "HELP!"
-proposed, tongue-in-cheek, as a finishing touch in International Red.[49]
+On the practical mechanics of a pigmented final coat: it is mixed into the last coat of epoxy and applied with a wide (8 in) spatula, then dragged out to a smooth, shiny or matt surface as preferred; a **textured, non-slip deck surface** can be produced in the same step by sprinkling on sugar while the coat is still wet and washing it off with hot water a day later — reported as easier on bare feet than a sanded, gritty texture. The final pigmented coat cures hard enough to walk on in about four hours. Because one full batch of pigmented epoxy may not stretch to cover deck and both sides in a single pour, the coat is best applied in two or three separate sessions (deck, then each side, or deck then port side then starboard); any resulting shade difference between sessions was judged unlikely to matter, and, if visible from some angles, easy enough to blame on the light.[47][48] The finished scheme was jokingly summed up as "three-tone green with a yellow bottom," with the international distress word "HELP!" proposed, tongue-in-cheek, as a finishing touch in International Red.[49]
 
 ## A jury-rigged topping lift
 
-A jury-rigged topping lift can help with a roller-furling arrangement during
-a test sail (see [rig and sail](/design/rig.md) for the rolling-boom furling
-setup) — one builder reported it "worked great."
+A jury-rigged topping lift can help with a roller-furling arrangement during a test sail (see [rig and sail](/design/rig.md) for the rolling-boom furling setup) — reportedly it "worked great."
 
 ## Colour-matching at a paint store, and oil versus latex again
 
-As a practical follow-on to choosing a shade, most paint stores can scan and
-colour-match a swatch produced in image-editing software (Photoshop or
-similar), so a builder can settle on an exact custom shade digitally, print or
-save a colour chart, and have it mixed to match rather than relying only on
-off-the-shelf stock colours. [Dave Bolduc](/people/bolduc/dave.md) produced
-several candidate hull colours this way, favouring a light olive shade as a
-complement to a red sail; a light-to-medium **green** was floated as a close
-alternative, mixed the same way.
+As a practical follow-on to choosing a shade, most paint stores can scan and colour-match a swatch produced in image-editing software (Photoshop or similar), so a builder can settle on an exact custom shade digitally, print or save a colour chart, and have it mixed to match rather than relying only on off-the-shelf stock colours. Several candidate hull colours have been produced this way, favouring a light olive shade as a complement to a red sail; a light-to-medium **green** was floated as a close alternative, mixed the same way.
 
-On oil versus latex house paint (see [house paint versus marine
-finishes](#house-paint-versus-marine-finishes) above), Dave Bolduc's own
-preference is for **oil-based** house paint over latex, judging it harder and
-more abrasion-resistant, though he noted many builders have had good success
-with latex regardless. For "**Little Cruiser**" specifically, the Bolducs
-used **Red Devil brand one-part polyurethane semi-gloss enamel** — since
-discontinued, though they had stocked up on it at a discontinuation sale
-price — and judge that **any reasonable oil-based paint** will serve well
-without the cost of a marine-branded product.
+On oil versus latex house paint (see [house paint versus marine finishes](#house-paint-versus-marine-finishes) above), one long-held preference is for **oil-based** house paint over latex, judging it harder and more abrasion-resistant, though many builders have had good success with latex regardless. For "**Little Cruiser**" specifically, the paint used was **Red Devil brand one-part polyurethane semi-gloss enamel** — since discontinued, though a supply had been stocked up at a discontinuation sale price — and the verdict is that **any reasonable oil-based paint** will serve well without the cost of a marine-branded product.
 
 ## The Bolducs' topside painting method (microcruising.com)
 
-[David & Mindy Bolduc](/people/bolduc/dave.md)'s preferred topside paint for
-**Little Cruiser** was cheap **RED DEVIL polyurethane enamel**, bought from
-K-Mart and preferred over "expensive marine stuff" (reportedly discontinued
-around 2002). They thin it about **12.5%** — **1 oz of mineral spirits per 8
-oz of paint** — topping up the mix with a few more drops of thinner every 15
-minutes to keep it flowing. Ideal painting temperature is **60-70°F**; work
-faster if it's hotter.
+The preferred topside paint for **Little Cruiser** was cheap **RED DEVIL polyurethane enamel**, bought from K-Mart and preferred over "expensive marine stuff" (reportedly discontinued around 2002). It is thinned about **12.5%** — **1 oz of mineral spirits per 8 oz of paint** — topping up the mix with a few more drops of thinner every 15 minutes to keep it flowing. Ideal painting temperature is **60-70°F**; work faster if it's hotter.
 
-Application tool: a **yellow lint-free foam roller** ("FOAM9," from Jamestown
-Distributors), which dries in **3-5 hours**. Surface prep: fill deep dings
-with epoxy plus lightweight filler (see
-[epoxy coating technique](/construction/epoxy-coating-technique.md)), fill
-light scratches with white **3M glazing compound**, then wet-sand the whole
-surface with **180-grit** paper before wiping down and tack-clothing. During
-the paint job itself, the boat is enclosed inside a **temporary greenhouse
-shelter** to keep out leaves, bugs, and debris while curing. All paint is
-filtered through **no-see-um netting** (cut into 5"x5" squares in a small
-funnel) before use.
+Application tool: a **yellow lint-free foam roller** ("FOAM9," from Jamestown Distributors), which dries in **3-5 hours**. Surface prep: fill deep dings with epoxy plus lightweight filler (see [epoxy coating technique](/construction/epoxy-coating-technique.md)), fill light scratches with white **3M glazing compound**, then wet-sand the whole surface with **180-grit** paper before wiping down and tack-clothing. During the paint job itself, the boat is enclosed inside a **temporary greenhouse shelter** to keep out leaves, bugs, and debris while curing. All paint is filtered through **no-see-um netting** (cut into 5"x5" squares in a small funnel) before use.
 
 # Citations
 

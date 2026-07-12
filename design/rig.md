@@ -8,1588 +8,390 @@ timestamp: 2026-07-05T00:00:00Z
 
 # Rig and sail
 
-The [Paradox](/paradox.md) carries a **simple, robust rig** — a large part of
-its appeal for rough-weather sailing. The mast passes through the deck at the
-reinforced [mast partners](/design/mast-partners.md), and the running rigging /
-control lines are led back into the enclosed cabin so the boat is sailed
-entirely from inside.
+The [Paradox](/paradox.md) carries a **simple, robust rig** — a large part of its appeal for rough-weather sailing. The mast passes through the deck at the reinforced [mast partners](/design/mast-partners.md), and the running rigging / control lines are led back into the enclosed cabin so the boat is sailed entirely from inside.
 
 ## Lug-type sail — no parrel (a deliberate compromise)
 
-The rig is a **lugsail-type** setup, but simpler than a conventional lug:
-there is **nothing holding the yard to the mast except the halyard** — no
-*parrel* (the line or loop that on a conventional lugsail keeps the yard from
-blowing away from the mast). This is a **deliberate compromise**: with no
-parrel, the furled sail can be **laid alongside the cabin** without having to
-reach out and undo one — a long reach from the enclosed cabin.
+The rig is a **lugsail-type** setup, but simpler than a conventional lug: there is **nothing holding the yard to the mast except the halyard** — no *parrel* (the line or loop that on a conventional lugsail keeps the yard from blowing away from the mast). This is a **deliberate compromise**: with no parrel, the furled sail can be **laid alongside the cabin** without having to reach out and undo one — a long reach from the enclosed cabin.
 
-- The **tack** is made secure through a **brass pipe to the deck**. This pipe
-  also acts as a **swivel joint**, holding the forward end of the spar from
-  going over the side when the sail is furled.
-- The trade-off is efficiency: at the masthead the **yard stands away from
-  the mast**, which is "not very efficient." Even so, a Paradox was
-  photographed sailing at **6 kts** in these conditions (see below).
+- The **tack** is made secure through a **brass pipe to the deck**. This pipe also acts as a **swivel joint**, holding the forward end of the spar from going over the side when the sail is furled.
+- The trade-off is efficiency: at the masthead the **yard stands away from the mast**, which is "not very efficient." Even so, a Paradox was photographed sailing at **6 kts** in these conditions (see below).
 
-The rig **stays on one side of the mast permanently** on a tack — it does not
-swing over the way a Bermudan or Gunter rig's boom does. See
-[sailing characteristics and rig balance — how a lugger tacks](/operations/sailing-characteristics.md)
-for the fuller discussion, including a tacking-with/without-outboard data
-point for "[Whisper](/boats/whisper.md)."
+The rig **stays on one side of the mast permanently** on a tack — it does not swing over the way a Bermudan or Gunter rig's boom does. See [sailing characteristics and rig balance — how a lugger tacks](/operations/sailing-characteristics.md) for the fuller discussion, including a tacking-with/without-outboard data point for "[Whisper](/boats/whisper.md)."
 
 ## Sail bearing on the mast, and mast offset
 
-The design's lack of a parrel (above) has one direct, testable consequence:
-on the **starboard tack** the sail bears against the mast, a natural result
-of a boomed lug rig with no parrel holding the yard clear. The mast itself is
-**not on the centerline** — it is **offset to port**.
+The design's lack of a parrel (above) has one direct, testable consequence: on the **starboard tack** the sail bears against the mast, a natural result of a boomed lug rig with no parrel holding the yard clear. The mast itself is **not on the centerline** — it is **offset to port**.
 
 ## Sheet entry through the transom: prototype versus plans
 
-The **original prototype Paradox** and the **plans as drawn** lead the
-mainsheet through the transom differently, a distinction that has caused
-confusion for builders working from photographs of the prototype rather
-than the plans themselves. On the prototype, photographed early in the
-archive, the sheet is a **single line** fastened to the boom and led
-through the transom; the plans instead show an **improved, two-part
-purchase**, changed by Matt Layden for the mechanical advantage a builder
-needs to haul in the sail without a winch. The plans' sheet-1 view shows the
-sheet's fixed end at an eye on the **port side of the transom**, with the
-working end led through a hole offset to the same side as the
-[off-center mast](#sail-bearing-on-the-mast-and-mast-offset) — "off centre
-because the mast is off centre." A recommended fix for the sheet catching on
-deck hardware: wooden chocks fitted under the cleat horns (tethered with
-bungee cord so they cannot be lost overboard) and a dome-shaped fitting over
-the yuloh mounting point — continuing the same
-[mainsheet-fouling problem](#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)
-documented above.
+The **original prototype Paradox** and the **plans as drawn** lead the mainsheet through the transom differently, a distinction that has caused confusion for builders working from photographs of the prototype rather than the plans themselves. On the prototype, photographed early in the archive, the sheet is a **single line** fastened to the boom and led through the transom; the plans instead show an **improved, two-part purchase**, changed by Matt Layden for the mechanical advantage a builder needs to haul in the sail without a winch. The plans' sheet-1 view shows the sheet's fixed end at an eye on the **port side of the transom**, with the working end led through a hole offset to the same side as the [off-center mast](#sail-bearing-on-the-mast-and-mast-offset) — "off centre because the mast is off centre." A recommended fix for the sheet catching on deck hardware: wooden chocks fitted under the cleat horns (tethered with bungee cord so they cannot be lost overboard) and a dome-shaped fitting over the yuloh mounting point — continuing the same [mainsheet-fouling problem](#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted) documented above.
 
 ## Rolling boom and sail foot
 
-The sail is set on a **rolling boom** (a boom that rotates to roll the sail up
-for reefing/stowing). The **foot of the sail has a sleeve** through which the
-boom slides; the sail is then **made fast fore and aft with ties**.
+The sail is set on a **rolling boom** (a boom that rotates to roll the sail up for reefing/stowing). The **foot of the sail has a sleeve** through which the boom slides; the sail is then **made fast fore and aft with ties**.
 
-The same sleeved arrangement is used at the **yard**, not only the boom, and
-builders have asked why the sail uses sleeves at all rather than simply
-lashing it to the yard and boom. The consensus reasoning: **simplicity** —
-Matt Layden preferring the sail not be over-complicated — plus two concrete
-functional advantages a lashed sail would lack. A sleeve gives **cleaner
-airflow** off the spar than a series of ties would, and it works
-**better with roller reefing**, since the cloth stays captured on the spar
-at every reefed position rather than needing to be re-tied as the sail
-rolls up. Builders considering omitting the sleeves for simplicity are
-advised against it on this basis.
+The same sleeved arrangement is used at the **yard**, not only the boom, raising the question of why the sail uses sleeves at all rather than simply lashing it to the yard and boom. The reasoning: **simplicity** — Matt Layden preferring the sail not be over-complicated — plus two concrete functional advantages a lashed sail would lack. A sleeve gives **cleaner airflow** off the spar than a series of ties would, and it works **better with roller reefing**, since the cloth stays captured on the spar at every reefed position rather than needing to be re-tied as the sail rolls up. Omitting the sleeves for simplicity is advised against on this basis.
 
-A **pulley fitted at the end of the boom** carries **two holes for the tack
-line** — not redundant, but a simple through-and-back arrangement that lets
-the line be pulled to **tighten and make fast the tack**. See
-[boom-end tack line holes](/construction/boom-end-tack-line-holes.md) for
-this detail and a related question about protecting small drilled holes in
-the boom from rot.
+A **pulley fitted at the end of the boom** carries **two holes for the tack line** — not redundant, but a simple through-and-back arrangement that lets the line be pulled to **tighten and make fast the tack**. See [boom-end tack line holes](/construction/boom-end-tack-line-holes.md) for this detail and a related question about protecting small drilled holes in the boom from rot.
 
-In practice, operating this rolling-boom furling gear single-handed is
-non-trivial — see [furling system](/design/furling-system.md) for the
-friction/three-hands problem and its topping-lift fix.
+In practice, operating this rolling-boom furling gear single-handed is non-trivial — see [furling system](/design/furling-system.md) for the friction/three-hands problem and its topping-lift fix.
 
 ## The reefing triangle, and why reshaping the boom taper is the wrong fix
 
-Reefing leaves a small triangle of sail standing proud near the head, caused
-by the extra thickness where the sail's seam meets the boom as it rolls up.
-Reshaping the boom's own taper to remove the triangle is not the recommended
-fix: doing so changes the boom's geometry and risks the sail no longer
-rolling up and furling correctly. Two practical alternatives avoid touching
-the boom's taper at all: **feeding a length of rigid foam in from the boom's
-end**, which lets the sail roll back along the boom into a thinner roll
-instead of rolling neatly at the mast where the seam's extra thickness
-would otherwise build up a thicker roll each turn (this is the same
-foam-taper fix documented above; see also
-[Glen Maxwell's endorsement](#rolling-boom-and-sail-foot)); or simply
-**stuffing the extra material behind the sail's storage hoop** once furled,
-an even simpler workaround. A separate, sail-side fix for the same
-symptom — a crease rather than a triangle — is sewing a **luff rope** into
-the sail's leading edge, which lets the sail be adjusted and can noticeably
-reduce the crease at the head; see
-[boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease)
-for the full account.
+Reefing leaves a small triangle of sail standing proud near the head, caused by the extra thickness where the sail's seam meets the boom as it rolls up. Reshaping the boom's own taper to remove the triangle is not the recommended fix: doing so changes the boom's geometry and risks the sail no longer rolling up and furling correctly. Two practical alternatives avoid touching the boom's taper at all: **feeding a length of rigid foam in from the boom's end**, which lets the sail roll back along the boom into a thinner roll instead of rolling neatly at the mast where the seam's extra thickness would otherwise build up a thicker roll each turn (this is the same foam-taper fix documented above); or simply **stuffing the extra material behind the sail's storage hoop** once furled, an even simpler workaround. A separate, sail-side fix for the same symptom — a crease rather than a triangle — is sewing a **luff rope** into the sail's leading edge, which lets the sail be adjusted and can noticeably reduce the crease at the head; see [boats/jill.md](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease) for the full account.
 
-The same boom-taper principle also controls **where the sail sits relative
-to the furling drum** as it rolls up (see
-[the Mk1/Mk2 tack-angle difference](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum)):
-the **larger the diameter of the boom's outboard end, the further the sail
-sits from the drum when reefed**, fine-tunable with a plane or spokeshave to
-remove the last, and used the same way to clear bagging or creases that
-persist through reefing.[253] Where a boom was built with **too little**
-taper, material can be added locally instead of re-planing — self-adhesive
-draught excluder wrapped around the boom, or a length of rigid foam fixed to
-the outboard (clew) end with double-sided tape, the latter being how one
-builder retrofit his own under-tapered boom.[253][254] On boom
-**construction** itself, two lighter alternatives to a solid wooden boom
-have been floated, both relying on the sail's sleeve to hide (and, in the
-second case, protect from UV) a boom that would otherwise "look bloody
-'orrible": a boom laminated from three or four lengths of 1 in plastic water
-pipe held to shape with plywood spacers, and a **tapered rigid-foam core
-wrapped in carbon-fiber tape set in epoxy** (the same lightweight-cast tape
-used for setting broken limbs), both judged to weigh about the same as a
-wooden boom.[253][254]
+The same boom-taper principle also controls **where the sail sits relative to the furling drum** as it rolls up (see [the Mk1/Mk2 tack-angle difference](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum)): the **larger the diameter of the boom's outboard end, the further the sail sits from the drum when reefed**, fine-tunable with a plane or spokeshave to remove the last, and used the same way to clear bagging or creases that persist through reefing.[253] Where a boom was built with **too little** taper, material can be added locally instead of re-planing — self-adhesive draught excluder wrapped around the boom, or a length of rigid foam fixed to the outboard (clew) end with double-sided tape, the latter a documented retrofit for an under-tapered boom.[253][254] On boom **construction** itself, two lighter alternatives to a solid wooden boom have been floated, both relying on the sail's sleeve to hide (and, in the second case, protect from UV) a boom that would otherwise "look bloody 'orrible": a boom laminated from three or four lengths of 1 in plastic water pipe held to shape with plywood spacers, and a **tapered rigid-foam core wrapped in carbon-fiber tape set in epoxy** (the same lightweight-cast tape used for setting broken limbs), both judged to weigh about the same as a wooden boom.[253][254]
 
 ## Sailed entirely from the helm station — no going forward
 
-A defining handling fact about the rig: **all sail controls, including
-reefing, are worked from the helm station** — to roller-furl the sail on the
-[rolling boom](#rolling-boom-and-sail-foot) you release the sheet, and there
-is **no need to go forward** at any point. This is consistent
-with the enclosed, sailed-from-inside cabin layout described on the
-[trunk](/paradox.md) and with the cockpit-worked
-[anchoring technique](/operations/ground-tackle.md) developed for the same
-reason. For study plans and further particulars, see
-[Dave Bolduc's site](/references/building-plans.md)
-(`http://home.triad.rr.com/lcruise/paradox1.htm`).
+A defining handling fact about the rig: **all sail controls, including reefing, are worked from the helm station** — to roller-furl the sail on the [rolling boom](#rolling-boom-and-sail-foot) you release the sheet, and there is **no need to go forward** at any point. This is consistent with the enclosed, sailed-from-inside cabin layout described on the [trunk](/paradox.md) and with the cockpit-worked [anchoring technique](/operations/ground-tackle.md) developed for the same reason. For study plans and further particulars, see the [study-plan sources](/references/building-plans.md) (`http://home.triad.rr.com/lcruise/paradox1.htm`).
 
 ## Why the mainsheet presented at the helmsman's back is not awkward in practice
 
-The mainsheet as drawn comes to the helmsman from behind rather than from in
-front, which can look awkward on paper next to a dinghy's forward-led sheet.
-In practice it works the opposite way round: the sheet is pulled in by
-**thrusting forward with the arm while bracing the back against bulkhead
-4**, and the slack falls into a bin behind that bulkhead where it cannot
-tangle around the helmsman's feet. The key difference from a dinghy is that
-a Paradox's sheet is not played continuously — the sail is set, the sheet
-locked off, and left alone unless the wind or course changes — so the
-sheet's position at the helmsman's back is a non-issue for the boat's
-ordinary sailed-from-inside handling, rather than a problem calling for a
-forward-led sheet and extra blocks.[242][243]
+The mainsheet as drawn comes to the helmsman from behind rather than from in front, which can look awkward on paper next to a dinghy's forward-led sheet. In practice it works the opposite way round: the sheet is pulled in by **thrusting forward with the arm while bracing the back against bulkhead 4**, and the slack falls into a bin behind that bulkhead where it cannot tangle around the helmsman's feet. The key difference from a dinghy is that a Paradox's sheet is not played continuously — the sail is set, the sheet locked off, and left alone unless the wind or course changes — so the sheet's position at the helmsman's back is a non-issue for the boat's ordinary sailed-from-inside handling, rather than a problem calling for a forward-led sheet and extra blocks.[242][243]
 
-A recurring signature line — "hoping for calm nights" — prompted a
-newcomer's curiosity about what actually disturbs sleep aboard a Paradox.
-The answer: a good night's sleep comes easily enough at anchor in the
-boat itself, but a **lumpy, rolling sea** is what makes sleep difficult —
-not any flaw specific to the design.[247][248] The same newcomer, a
-Picaroon owner without a Paradox of his own, wondered whether a boat as
-narrow as four feet might roll uncomfortably quickly at anchor, and named
-a trailer-friendly hull — which his own boat is not — as part of what
-draws him to the design.[249]
+A recurring signature line — "hoping for calm nights" — prompted curiosity about what actually disturbs sleep aboard a Paradox. The answer: a good night's sleep comes easily enough at anchor in the boat itself, but a **lumpy, rolling sea** is what makes sleep difficult — not any flaw specific to the design.[247][248] A related question — whether a boat as narrow as four feet might roll uncomfortably quickly at anchor — arose alongside the observation that a trailer-friendly hull is part of what draws sailors to the design.[249]
 
 ## Mast rake — where it comes from, and how it's built
 
-The mast is drawn with a clear **rearward rake**, though the plans do not
-dimension this rake explicitly as a separate angle anywhere. One reading of
-the plans: the mast is **parallel to bulkhead #2**, with the offsets (top
-and bottom) from bulkhead #2 to the vertical **scarf line** implicitly
-defining the rake — a hedged best guess rather than a precise answer.
+The mast is drawn with a clear **rearward rake**, though the plans do not dimension this rake explicitly as a separate angle anywhere. One reading of the plans: the mast is **parallel to bulkhead #2**, with the offsets (top and bottom) from bulkhead #2 to the vertical **scarf line** implicitly defining the rake — a hedged best guess rather than a precise answer.
 
-The fuller and more direct account of **how the rake is actually built in**,
-from a builder's own experience building the mast:
+The fuller and more direct account of **how the rake is actually built in**, from firsthand experience building the mast:
 
 - The mast's **back (aft) side is straight** — it does not rake.
-- The **forward face slopes aft**, which is what produces the visible
-  rearward rake.
-- This shape comes not from cutting an angle into flat stock but from
-  **curving the mast's side plates**: when the **face plate** is glued on
-  last, it simply **follows the curve already built into the side plates**,
-  producing the raked forward face as a natural consequence of the
-  side-plate shape rather than a separately-dimensioned angle.
+- The **forward face slopes aft**, which is what produces the visible rearward rake.
+- This shape comes not from cutting an angle into flat stock but from **curving the mast's side plates**: when the **face plate** is glued on last, it simply **follows the curve already built into the side plates**, producing the raked forward face as a natural consequence of the side-plate shape rather than a separately-dimensioned angle.
 
-This complements the
-[mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md)
-concept (finishing/fit issues with the same hollow mast) and the
-[mast partners](/design/mast-partners.md) concept (where the mast passes
-through the deck).
+This complements the [mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md) concept (finishing/fit issues with the same hollow mast) and the [mast partners](/design/mast-partners.md) concept (where the mast passes through the deck).
 
 ## Reading the mast's plan views
 
-Because the plans draw long, small-section objects like the mast **at two
-different scales** at once — a large scale for the cross-sections and a small
-(compressed) scale for the length — the mast's profile drawings are a common
-source of confusion for first-time builders, notably for a builder working up
-a scale balsa model before starting a full-size boat (see
-[Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md)).
-The mast has **four sides**: a flat back, with the front side tapering near
-the top — the front plate naturally following the side-plate taper once
-installed, consistent with the
-mast-rake explanation
-above. Drawing a model mast at a single consistent scale, rather than
-following the plans' compressed-length convention literally, resolves the
-confusion.
+Because the plans draw long, small-section objects like the mast **at two different scales** at once — a large scale for the cross-sections and a small (compressed) scale for the length — the mast's profile drawings are a common source of confusion for first-time builders, notably when working up a scale balsa model before starting a full-size boat (see [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md)). The mast has **four sides**: a flat back, with the front side tapering near the top — the front plate naturally following the side-plate taper once installed, consistent with the mast-rake explanation above. Drawing a model mast at a single consistent scale, rather than following the plans' compressed-length convention literally, resolves the confusion.
 
 The plans actually show **three views**:
 
-1. A half-section labeled **"Section at Deck,"** showing a section through the
-   starboard half of the mast, drawn at **1:1 scale**.
-2. Behind it, a **side-view section of the whole mast**, showing the front and
-   rear panel dimensions.
-3. To the right, a **half-section viewed from aft**, showing one (starboard)
-   side panel.
+1. A half-section labeled **"Section at Deck,"** showing a section through the starboard half of the mast, drawn at **1:1 scale**.
+2. Behind it, a **side-view section of the whole mast**, showing the front and rear panel dimensions.
+3. To the right, a **half-section viewed from aft**, showing one (starboard) side panel.
 
-The confusion mostly comes from how the dimension lines cross between the two
-views, with the aft-facing view terminating at the line labeled **"CL"**
-(centerline). The mast is "easier to make than to explain" — more complex in
-the drawings than in the finished, physical part.
+The confusion mostly comes from how the dimension lines cross between the two views, with the aft-facing view terminating at the line labeled **"CL"** (centerline). The mast is "easier to make than to explain" — more complex in the drawings than in the finished, physical part.
 
-The same confusion recurs for builders working from the plans alongside
-[Don Elliott](/people/don-elliott.md)'s "Building Paradox" articles: the
-"Section at Deck" is easily mistaken for a **full** section rather than a
-half section, an error compounded by the mast's sharply curved bottom, and it
-can be hard to work out how the **86 mm** and **24 mm** figures relate to the
-centerline or to each other. The fuller answer, expanding on the three-views
-explanation above:
+The same confusion recurs for builders working from the plans alongside the "Building Paradox" articles: the "Section at Deck" is easily mistaken for a **full** section rather than a half section, an error compounded by the mast's sharply curved bottom, and it can be hard to work out how the **86 mm** and **24 mm** figures relate to the centerline or to each other. The fuller answer, expanding on the three-views explanation above:
 
-- The **"Section at Deck"** half-section shows the **front** of the mast on
-  the left (rotated about the line marked 86) and the **rear** on the right —
-  together representing the mast's side view — with a third, separate upright
-  showing the **side cheek** (only one side is drawn, since the mast is
-  symmetrical about the centerline).
-- The dimensions running down the **left** side of the drawing give the
-  mast's full **fore-and-aft width**; the next column over gives the
-  **thickness of the wood**, shared by both the front and rear timbers (which
-  is why the rear timber carries no separate thickness dimension); the
-  dimensions to the **right** of the wood give the **port and starboard
-  timber thickness**, with the remaining figure running from the centerline
-  to the inside face of the timber.
-- The bottom **500 mm** of the mast is drawn both **parallel** (the 86 mm
-  dimension, dashed) and **tapered** (undimensioned), since this section gets
-  cut down to fit whatever size socket the mast step actually turns out to
-  be.
-- **Assembly sequence**, following Don Elliott's advice: lay the **rear
-  timber** on its back (it is straight) and glue on a side piece; once cured,
-  bend and glue on the **front timber**; make the end plugs and fit any
-  wiring; glue on the remaining side piece; finally round off the corners.
-- A practical tip for fitting the mast to the boat: build the **mast step**
-  and **vent trunk** (with one side left removable) onto **bulkhead 2**
-  *before* assembling the hull, so the bulkhead can be set up horizontally on
-  trestles to fit the mast to its step and partners — useful for working
-  indoors without a 20 ft-high roof. Once the deck finally goes on, the mast
-  hole is simply cut to match the partners already in place. This same
-  sequencing is used independently by more than one builder (see
-  [mast partners and vent trunk](/design/mast-partners.md#build-sequence-decking-before-or-after-the-vent-trunk)).
+- The **"Section at Deck"** half-section shows the **front** of the mast on the left (rotated about the line marked 86) and the **rear** on the right — together representing the mast's side view — with a third, separate upright showing the **side cheek** (only one side is drawn, since the mast is symmetrical about the centerline).
+- The dimensions running down the **left** side of the drawing give the mast's full **fore-and-aft width**; the next column over gives the **thickness of the wood**, shared by both the front and rear timbers (which is why the rear timber carries no separate thickness dimension); the dimensions to the **right** of the wood give the **port and starboard timber thickness**, with the remaining figure running from the centerline to the inside face of the timber.
+- The bottom **500 mm** of the mast is drawn both **parallel** (the 86 mm dimension, dashed) and **tapered** (undimensioned), since this section gets cut down to fit whatever size socket the mast step actually turns out to be.
+- **Assembly sequence**: lay the **rear timber** on its back (it is straight) and glue on a side piece; once cured, bend and glue on the **front timber**; make the end plugs and fit any wiring; glue on the remaining side piece; finally round off the corners.
+- A practical tip for fitting the mast to the boat: build the **mast step** and **vent trunk** (with one side left removable) onto **bulkhead 2** *before* assembling the hull, so the bulkhead can be set up horizontally on trestles to fit the mast to its step and partners — useful for working indoors without a 20 ft-high roof. Once the deck finally goes on, the mast hole is simply cut to match the partners already in place. This same sequencing is used independently by more than one builder (see [mast partners and vent trunk](/design/mast-partners.md#build-sequence-decking-before-or-after-the-vent-trunk)).
 
-The three-view reading holds up as the correct explanation for a
-persistently confusing part of the plans, confirmed independently by more
-than one builder over the years.
+The three-view reading holds up as the correct explanation for a persistently confusing part of the plans, confirmed independently by more than one builder over the years.
 
 ## Mast material choices
 
-Most builders simply follow the plans' wooden box-mast construction, drawn on
-page 12 of the plans, but two alternatives are on record. **Irrigation
-tubing** makes a workable mast: 3 in tubing has given excellent results on an
-earlier, smaller 17 ft boat and was planned for reuse — cheap, light, and
-"ready to use" straight from an irrigation supplier, with no building
-required at all. The more usual route is a scratch-built wooden box mast, for
-which builders weighing wood type, taper shape (hexagonal, octagonal, or
-round), and dimensions against a possible future stretched hull are pointed
-to the [mast's plan views](#reading-the-masts-plan-views) above and to
-[Alastair](/people/alastair.md)'s "Rosetta Stone" explanation of them, credited
-by later builders as the clearest walkthrough of the drawings on record.
+Most builders simply follow the plans' wooden box-mast construction, drawn on page 12 of the plans, but two alternatives are on record. **Irrigation tubing** makes a workable mast: 3 in tubing has given excellent results on an earlier, smaller 17 ft boat and was planned for reuse — cheap, light, and "ready to use" straight from an irrigation supplier, with no building required at all. The more usual route is a scratch-built wooden box mast, for which builders weighing wood type, taper shape (hexagonal, octagonal, or round), and dimensions against a possible future stretched hull are pointed to the [mast's plan views](#reading-the-masts-plan-views) above and to the "Rosetta Stone" explanation of them, credited as the clearest walkthrough of the drawings on record.
 
 ## Reusing a secondhand dinghy mast
 
-Beyond building a mast from scratch, one recorded case of **reusing a
-ready-made aluminum dinghy mast** establishes the fit question a builder must
-answer: a **Skipper 12 dinghy mast** — a constant 2-3/8 in diameter, 1/16 in
-wall thickness, about 6 in short of the length needed (fixable with a wooden
-plug extension) — was checked against Paradox's own mast requirements.
+Beyond building a mast from scratch, one recorded case of **reusing a ready-made aluminum dinghy mast** establishes the fit question a builder must answer: a **Skipper 12 dinghy mast** — a constant 2-3/8 in diameter, 1/16 in wall thickness, about 6 in short of the length needed (fixable with a wooden plug extension) — was checked against Paradox's own mast requirements.
 
-The rule of thumb: an aluminum mast of roughly **equivalent diameter to the
-plans' wooden mast will do the same job**, provided the aluminum extrusion's
-minor-axis width matches the mast width called for in the plans. Any
-candidate secondhand mast should be checked along its full length for signs
-of prior weakness — a series of circumferential holes, or a "straightened"
-former bend — before reuse. The case for aluminum generally: it is **lighter,
-more reliable, needs no maintenance**, accepts hardware easily via
-pop-rivet, and simplifies mast wiring; if a wire is run for lights, tying it
-off into "Y" shapes with cable ties roughly every foot before inserting it
-stops the wire's annoying nighttime "pinging" against the inside of the mast.
+The rule of thumb: an aluminum mast of roughly **equivalent diameter to the plans' wooden mast will do the same job**, provided the aluminum extrusion's minor-axis width matches the mast width called for in the plans. Any candidate secondhand mast should be checked along its full length for signs of prior weakness — a series of circumferential holes, or a "straightened" former bend — before reuse. The case for aluminum generally: it is **lighter, more reliable, needs no maintenance**, accepts hardware easily via pop-rivet, and simplifies mast wiring; if a wire is run for lights, tying it off into "Y" shapes with cable ties roughly every foot before inserting it stops the wire's annoying nighttime "pinging" against the inside of the mast.
 
 ## Box-girder mast construction technique, and the birdsmouth alternative
 
-For a from-scratch wooden mast beyond the plans' own drawings, the general
-box-girder mast-building technique described in **Lin and Larry Pardey's
-"Seraffyn" books** applies: build up the inside of the mast at points where
-hardware like winches or fittings will attach, use **12:1 or longer scarphs**
-when scarphing mast timbers to length, and taper and round the mast's
-corners — rounding the leading edge is essential, while the aft edges may be
-left square or rounded to taste. A crumpled roll of aluminum foil run the
-length of the mast's hollow interior serves as a simple, effective **radar
-reflector** — "the biggest radar reflector around." **Bud McIntosh**'s book
-is another source of wooden-mast-building information beyond the Pardeys'.
+For a from-scratch wooden mast beyond the plans' own drawings, the general box-girder mast-building technique described in **Lin and Larry Pardey's "Seraffyn" books** applies: build up the inside of the mast at points where hardware like winches or fittings will attach, use **12:1 or longer scarphs** when scarphing mast timbers to length, and taper and round the mast's corners — rounding the leading edge is essential, while the aft edges may be left square or rounded to taste. A crumpled roll of aluminum foil run the length of the mast's hollow interior serves as a simple, effective **radar reflector** — "the biggest radar reflector around." **Bud McIntosh**'s book is another source of wooden-mast-building information beyond the Pardeys'.
 
-For a more advanced builder, the **birdsmouth** method — building a round,
-hollow mast from many long, narrow staves (like barrel staves), each with a
-matching notch ("rabbet") cut into its edge so the staves interlock into a
-circular section when glued up — is "the pinnacle of the mast maker's art,"
-though it can be "maddening" for a first attempt.
+For a more advanced builder, the **birdsmouth** method — building a round, hollow mast from many long, narrow staves (like barrel staves), each with a matching notch ("rabbet") cut into its edge so the staves interlock into a circular section when glued up — is "the pinnacle of the mast maker's art," though it can be "maddening" for a first attempt.
 
 ## A proposed birdsmouth-building tutorial, and existing published guides
 
-A birdsmouth spar is genuinely easy to build once a builder has tried it: a
-short, five-foot practice sample is enough to see that "the mast literally
-builds itself when cut," with the real skill lying in **making the tapering
-jig** rather than in the cutting itself.
+A birdsmouth spar is genuinely easy to build once tried: a short, five-foot practice sample is enough to see that "the mast literally builds itself when cut," with the real skill lying in **making the tapering jig** rather than in the cutting itself.
 
-Two published guides cover birdsmouth construction: an online walkthrough at
-`users2.ev1.net/~fshagan/bm.htm`, and a fuller article at
-`duckworksmagazine.com/r/articles/birdsmouth/mast.htm` — both judged **too
-thin for a first-time taperer**, lacking enough worked examples and
-step-by-step detail for a builder new to the technique. A birdsmouth article
-also ran in **WoodenBoat magazine issue 149** (July/August 1999 issue, p. 31),
-"Bird's Mouth Hollow Spars" by Aime Ontario Fraser, covering the technique of
-Craig Wright and Richard Duke of Mountain Marine; one builder who built a 6
-ft test section from the article's instructions found it very easy to
-follow "even for me, who has really poor woodworking skills." A further
-birdsmouth article is believed to have run in *Boatbuilder* magazine as
-well.
+Two published guides cover birdsmouth construction: an online walkthrough at `users2.ev1.net/~fshagan/bm.htm`, and a fuller article at `duckworksmagazine.com/r/articles/birdsmouth/mast.htm` — both judged **too thin for a first-time taperer**, lacking enough worked examples and step-by-step detail for a builder new to the technique. A birdsmouth article also ran in **WoodenBoat magazine issue 149** (July/August 1999 issue, p. 31), "Bird's Mouth Hollow Spars" by Aime Ontario Fraser, covering the technique of Craig Wright and Richard Duke of Mountain Marine; a 6 ft test section built from the article's instructions proved very easy to follow "even for me, who has really poor woodworking skills." A further birdsmouth article is believed to have run in *Boatbuilder* magazine as well.
 
 ## A birdmouth-and-carbon composite mast, revisited
 
-A further variant on the birdmouth idea: a composite spar combining a
-**birdmouth-built spruce mandrel** with an outer **carbon-fiber sleeve**,
-worked tight over the wood like a "Chinese finger cuff" then wetted out and
-squeegeed. The weight difference against the plans' spec mast would be
-negligible — if anything the composite mast's extra weight aloft would give
-a more comfortable motion — and the real value in building one would be the
-experience and "bragging rights" rather than a measurable performance gain.
-Such a spar is estimated to come out at roughly **half the weight and triple
-the strength** of the plans' mast.
+A further variant on the birdmouth idea: a composite spar combining a **birdmouth-built spruce mandrel** with an outer **carbon-fiber sleeve**, worked tight over the wood like a "Chinese finger cuff" then wetted out and squeegeed. The weight difference against the plans' spec mast would be negligible — if anything the composite mast's extra weight aloft would give a more comfortable motion — and the real value in building one would be the experience and "bragging rights" rather than a measurable performance gain. Such a spar is estimated to come out at roughly **half the weight and triple the strength** of the plans' mast.
 
-A similar composite spar has been built in person: a **gaff** laid up over a
-tapered PVC-pipe mandrel (the taper cut by removing gores from the pipe and
-cementing it back together), first sheathed in a layer of fiberglass and
-sanded fair, then two layers of tubular carbon fiber applied and wet out
-together in one step — using plastic tape wrapped over the layup in place of
-squeegees to consolidate it. In that build the PVC core contributed
-negligible strength of its own, but a **spruce core** would be expected to
-contribute plenty.
+A similar composite spar has been built in person: a **gaff** laid up over a tapered PVC-pipe mandrel (the taper cut by removing gores from the pipe and cementing it back together), first sheathed in a layer of fiberglass and sanded fair, then two layers of tubular carbon fiber applied and wet out together in one step — using plastic tape wrapped over the layup in place of squeegees to consolidate it. In that build the PVC core contributed negligible strength of its own, but a **spruce core** would be expected to contribute plenty.
 
 ## Wood species for a scratch-built wooden mast
 
-Where **aircraft-grade Sitka spruce** is unavailable or too costly, several
-alternative woods make a viable mast if built to the plans' design
-specifications: **Douglas fir** is the strongest substitute, with **Honduras
-mahogany** and **Alaskan yellow cedar** also usable at some cost in strength.
-Sitka spruce and Douglas fir should be chosen for long, tight grain with
-minimal runout; Honduras mahogany is best bought from planed stock, since it
-tends toward a wilder grain; Alaskan yellow cedar need only be straight and
-clear — cedar's main advantage over spruce is its smell rather than its
-workability, spruce being very hard to beat for ease of working. Building by
-the **birdsmouth method** with a carbon-fiber sleeve (above) loosens the wood
-choice further, since the sleeve itself supplies much of the mast's
-strength regardless of which of these species is used for the staves.
+Where **aircraft-grade Sitka spruce** is unavailable or too costly, several alternative woods make a viable mast if built to the plans' design specifications: **Douglas fir** is the strongest substitute, with **Honduras mahogany** and **Alaskan yellow cedar** also usable at some cost in strength. Sitka spruce and Douglas fir should be chosen for long, tight grain with minimal runout; Honduras mahogany is best bought from planed stock, since it tends toward a wilder grain; Alaskan yellow cedar need only be straight and clear — cedar's main advantage over spruce is its smell rather than its workability, spruce being very hard to beat for ease of working. Building by the **birdsmouth method** with a carbon-fiber sleeve (above) loosens the wood choice further, since the sleeve itself supplies much of the mast's strength regardless of which of these species is used for the staves.
 
-A birdmouth spar takes its name from the shape cut along one edge of each
-stave: an open "V," resembling a bird's open mouth, with the opposite edge of
-the neighboring stave cut to the complementary shape so the two dovetail
-together once glued up — clearest seen in two published illustrations, at
-`duckworksmagazine.com/articles/birdsmouth` and
-`users2.ev1.net/~fshagan/bm.htm`, rather than described in words.
+A birdmouth spar takes its name from the shape cut along one edge of each stave: an open "V," resembling a bird's open mouth, with the opposite edge of the neighboring stave cut to the complementary shape so the two dovetail together once glued up — clearest seen in two published illustrations, at `duckworksmagazine.com/articles/birdsmouth` and `users2.ev1.net/~fshagan/bm.htm`, rather than described in words.
 
-Birdsmouth construction has proven a popular choice among builders reading
-the group's discussion of it — judged "fun challenging" to attempt and not
-too costly a mistake to recover from if a stave is cut wrong.
+Birdsmouth construction has proven a popular choice among builders — judged "fun challenging" to attempt and not too costly a mistake to recover from if a stave is cut wrong.
 
-**Reclaimed heart pine as a mast/spar wood.** Old, well-seasoned **heart
-pine** salvaged from a house remodel (in one recorded case, framing lumber
-from a 1920s house, hard enough that driving a nail into it was nearly
-impossible) is a workable choice for a mast and spars, so long as the
-builder is prepared to dull blades cutting and shaping it — the wood's
-density and stability make it well suited to the purpose regardless of the
-extra tool wear.[175][176][177] Old-growth heart pine's tight, close grain
-and relative lack of knots tend to make it stronger than pine cut today; the
-one caution is wood that has sat in a hot attic rather than a remodeled
-living space, since heat damage or overdrying can make it split and check
-more easily, to the point of splitting when a fastener is driven without a
-pre-drilled pilot hole — a failure mode also documented in old-growth
-**Douglas fir**. Working a test piece first settles the question for any
-individual board. Epoxy adheres to well-seasoned heart pine without special
-preparation, the same as any other suitable spar wood.[178]
+**Reclaimed heart pine as a mast/spar wood.** Old, well-seasoned **heart pine** salvaged from a house remodel (in one recorded case, framing lumber from a 1920s house, hard enough that driving a nail into it was nearly impossible) is a workable choice for a mast and spars, so long as the builder is prepared to dull blades cutting and shaping it — the wood's density and stability make it well suited to the purpose regardless of the extra tool wear.[175][176][177] Old-growth heart pine's tight, close grain and relative lack of knots tend to make it stronger than pine cut today; the one caution is wood that has sat in a hot attic rather than a remodeled living space, since heat damage or overdrying can make it split and check more easily, to the point of splitting when a fastener is driven without a pre-drilled pilot hole — a failure mode also documented in old-growth **Douglas fir**. Working a test piece first settles the question for any individual board. Epoxy adheres to well-seasoned heart pine without special preparation, the same as any other suitable spar wood.[178]
 
-**Testing an unconventional local wood before committing to it.** When a
-builder has ready access to an unconventional but promising species — one
-recorded case was several hundred larch (tamarack) trees on the builder's
-own property, straight-grained hardwood with branches confined to the
-uppermost part of the trunk — the recommended approach is not to guess but
-to test: cut measured pieces, compare them against a known mast wood such as
-clear Douglas fir or Sitka spruce, and use a fishing scale rigged as a
-makeshift tensometer to record the breaking load, the bend under a given
-load, behavior under a twist test, and how well the wood takes epoxy. The
-same test methodology was suggested for judging old, large-diameter oak
-against the same benchmark woods. This is the general answer to "would
-species X work for a mast" whenever a builder has a personal supply of an
-untested wood worth evaluating on its own merits rather than by
-reputation.[250]
+**Testing an unconventional local wood before committing to it.** When a builder has ready access to an unconventional but promising species — one recorded case was several hundred larch (tamarack) trees on the builder's own property, straight-grained hardwood with branches confined to the uppermost part of the trunk — the recommended approach is not to guess but to test: cut measured pieces, compare them against a known mast wood such as clear Douglas fir or Sitka spruce, and use a fishing scale rigged as a makeshift tensometer to record the breaking load, the bend under a given load, behavior under a twist test, and how well the wood takes epoxy. The same test methodology was suggested for judging old, large-diameter oak against the same benchmark woods. This is the general answer to "would species X work for a mast" whenever a builder has a personal supply of an untested wood worth evaluating on its own merits rather than by reputation.[250]
 
 ## Documented performance — Exuma Sound
 
-A photo in the community files (Paradox folder) shows a Paradox sailing on
-**Exuma Sound in 25 kts of wind** with **very little sail rolled up** (heavily
-reefed on the rolling boom), still making about **6 kts**.
-[Chris Morejohn](/people/chris-morejohn.md) was at the helm; **Matt Layden and
-Mindy Bolduc were sitting below** during the outing — a concrete demonstration
-of the boat holding speed under sail in a stiff breeze while the crew stays in
-the cabin.
+A photo in the community files (Paradox folder) shows a Paradox sailing on **Exuma Sound in 25 kts of wind** with **very little sail rolled up** (heavily reefed on the rolling boom), still making about **6 kts**, with one crew at the helm and **Matt Layden** among those sitting below during the outing — a concrete demonstration of the boat holding speed under sail in a stiff breeze while the crew stays in the cabin.
 
 ## Sourcing a sail
 
-A first Paradox sail (for the boat "Zoë") was sourced from **"Sails etc."**
-in **St. Augustine, FL**:
+A first Paradox sail (for the boat "Zoë") was sourced from **"Sails etc."** in **St. Augustine, FL**:
 
 - Cost **$420 US**.
 - Material: **4.5 oz Dacron**.
-- Color: **tan bark** — a premium, imported-from-England cloth color; plain
-  **white** would be considerably cheaper if a sailmaker doesn't charge much
-  of a premium for tan bark, whose main practical benefit is being **easier
-  on the eyes** (less glare) than white.
+- Color: **tan bark** — a premium, imported-from-England cloth color; plain **white** would be considerably cheaper if a sailmaker doesn't charge much of a premium for tan bark, whose main practical benefit is being **easier on the eyes** (less glare) than white.
 
-"[Whisper](/boats/whisper.md)" later needed a **replacement sail**, prompting
-a much larger sail-sourcing discussion recorded below. See
-[Whisper](/boats/whisper.md) for the boat-level record.
+"[Whisper](/boats/whisper.md)" later needed a **replacement sail**, prompting a much larger sail-sourcing discussion recorded below. See [Whisper](/boats/whisper.md) for the boat-level record.
 
 ## Buying vs. building a sail: recommendations and firsthand accounts
 
-Paradox owners have taken two practical paths to a sail: commissioning one
-from a small specialist sailmaker, or sewing it at home.
+Paradox owners have taken two practical paths to a sail: commissioning one from a small specialist sailmaker, or sewing it at home.
 
-**Recommended sailmakers:** three names recur — **Dabbler** in Virginia,
-**Douglas Fowler** in upstate New York, and **Todd Bradshaw** (author of the
-book *Canoe Rig*, believed to be somewhere in the midwest). Dabbler has a
-track record with sailors on sailing canoes and other small boats; **Douglas
-Fowler** is rated the favorite sailmaker among traditional sailing-canoe
-enthusiasts and is believed to have built at least one set of **Caledonia
-Yawl** sails. **Todd Bradshaw**, contacted by phone about sailmaking, proved
-knowledgeable and friendly.
+**Recommended sailmakers:** three names recur — **Dabbler** in Virginia, **Douglas Fowler** in upstate New York, and **Todd Bradshaw** (author of the book *Canoe Rig*, believed to be somewhere in the midwest). Dabbler has a track record with sailors on sailing canoes and other small boats; **Douglas Fowler** is rated the favorite sailmaker among traditional sailing-canoe enthusiasts and is believed to have built at least one set of **Caledonia Yawl** sails. **Todd Bradshaw**, contacted by phone about sailmaking, proved knowledgeable and friendly.
 
-**Building a sail at home:** [David and Mindy Bolduc](/people/bolduc/dave.md)
-give the fullest firsthand account of building a lug sail at home, in the
-same message that also covers the
-[Little Cruiser rudder offsets](/design/rudder.md). There is not enough money
-in small, high-quality sails to attract much commercial interest, which is
-why good small-boat sailmakers can be hard to find. Their own first attempt
-at buying a sail, from **Gambell and Hunter**, was expensive and **lasted
-only one season** due to a fundamental leech-design error — the leech was
-cut on the bias and went slack. Out of frustration, they bought an **old
-commercial zig-zag sewing machine for $250** and sewed an exact copy of Matt
-Layden's own sail; the process was **"not easy, but nothing new is"** — that
-first home-made sail lasted three seasons and was still going strong, with a
-"new and improved" second version planned: heavier cloth (**4 to 5 oz**) and
-the top batten moved down to contact the sail's throat. The recommended
-resource for anyone serious about making their own lugsail is ***The
-Sailmaker's Apprentice***, with further reading at
-`http://www.microcruising.com/sailmaking.htm`. For builders who would rather
-commission the sail, it is simple enough for a **competent sailmaker** to
-build without needing the home-build route; contacting **Sailrite** and
-asking about [Don Elliott](/people/don-elliott.md)'s own experience with a
-Sailrite sail's performance is one route in. The standing warning to anyone
-ordering rather than sewing: **specify exactly what you want**, since these
-are not "run of the mill 100 square foot sails" — they need **lots of draft**
-to pull a "heavy little boat" like Paradox along, and a sailmaker unfamiliar
-with that requirement could deliver a flat sail "fit to push a sunfish"
-rather than a proper cruising sail.
+**Building a sail at home:** the fullest firsthand account of building a lug sail at home comes in the same message that also covers the [Little Cruiser rudder offsets](/design/rudder.md). There is not enough money in small, high-quality sails to attract much commercial interest, which is why good small-boat sailmakers can be hard to find. A first attempt at buying a sail, from **Gambell and Hunter**, was expensive and **lasted only one season** due to a fundamental leech-design error — the leech was cut on the bias and went slack. Out of frustration came an **old commercial zig-zag sewing machine for $250** and an exact copy of Matt Layden's own sail; the process was **"not easy, but nothing new is"** — that first home-made sail lasted three seasons and was still going strong, with a "new and improved" second version planned: heavier cloth (**4 to 5 oz**) and the top batten moved down to contact the sail's throat. The recommended resource for anyone serious about making their own lugsail is ***The Sailmaker's Apprentice***, with further reading at `http://www.microcruising.com/sailmaking.htm`. For builders who would rather commission the sail, it is simple enough for a **competent sailmaker** to build without needing the home-build route; contacting **Sailrite** and asking about a Sailrite sail's performance is one route in. The standing warning to anyone ordering rather than sewing: **specify exactly what you want**, since these are not "run of the mill 100 square foot sails" — they need **lots of draft** to pull a "heavy little boat" like Paradox along, and a sailmaker unfamiliar with that requirement could deliver a flat sail "fit to push a sunfish" rather than a proper cruising sail.
 
-This gives the two practical paths to a Paradox sail side by side — buying
-from a small specialist sailmaker versus building one at home — complementing
-[Little Cruiser](/matt-layden/little-cruiser.md)'s own, considerably more
-complex sail already documented there.
+This gives the two practical paths to a Paradox sail side by side — buying from a small specialist sailmaker versus building one at home — complementing [Little Cruiser](/matt-layden/little-cruiser.md)'s own, considerably more complex sail already documented there.
 
 ## Yard fastening to the sail
 
-The plans show grommets at each end of the sail's **foot** for fastening to
-the boom, but appear to show the **yard** simply sleeved into the sail with no
-visible fastening. In practice, one builder **puts grommets in his own sail**
-and **ties the yard at both ends** — a choice that proved useful, since he
-later needed to **move the yard forward** to rebalance the rig. This is
-distinct from the no-parrel yard-to-mast arrangement documented above.
+The plans show grommets at each end of the sail's **foot** for fastening to the boom, but appear to show the **yard** simply sleeved into the sail with no visible fastening. In practice, one recorded build **puts grommets in the sail** and **ties the yard at both ends** — a choice that proved useful, since the yard later needed to be **moved forward** to rebalance the rig. This is distinct from the no-parrel yard-to-mast arrangement documented above.
 
 ## Sail pricing
 
-Commercial Paradox sail prices held fairly steady across nearly a year and
-across the Atlantic:
+Commercial Paradox sail prices held fairly steady across nearly a year and across the Atlantic:
 
-- An original sail (2001, 4.5 oz Dacron, tanbark): **$420**, built by
-  **Sails Ect.** in **St. Augustine, FL** (phone 904-810-1966; spelled
-  "Sails etc." in earlier correspondence).
-- **Dabbler** quoted **$550** for a **5 oz Dacron** sail with bag for
-  "Whisper" — Dabbler confirmed they had built this exact sail before with
-  success and had followed Don Elliott's articles "with great interest."
-- A UK order came to **300ukp (roughly $500)**, at the same price whichever
-  of white or tan was chosen (tan, in this case) and whichever weight
-  (6 oz, in this case).
+- An original sail (2001, 4.5 oz Dacron, tanbark): **$420**, built by **Sails Ect.** in **St. Augustine, FL** (phone 904-810-1966; spelled "Sails etc." in earlier correspondence).
+- **Dabbler** quoted **$550** for a **5 oz Dacron** sail with bag for "Whisper" — Dabbler confirmed they had built this exact sail before with success and had followed the "Building Paradox" articles "with great interest."
+- A UK order came to **300ukp (roughly $500)**, at the same price whichever of white or tan was chosen (tan, in this case) and whichever weight (6 oz, in this case).
 
-For comparison, the DIY-materials cost runs roughly **$250** for a **101 sq
-ft** sail in 5 oz cloth (or a **Sailrite** kit at around **$223** for 3.9 oz
-white, at least **$100** more for 4.9 oz) — comfortably below the commercial
-quotes above, provided the builder already has a decent sewing machine and
-the time to use it.
+For comparison, the DIY-materials cost runs roughly **$250** for a **101 sq ft** sail in 5 oz cloth (or a **Sailrite** kit at around **$223** for 3.9 oz white, at least **$100** more for 4.9 oz) — comfortably below the commercial quotes above, provided the builder already has a decent sewing machine and the time to use it.
 
-The original $420 sail, two years on, had performed well overall (its owner's
-estimate:
-**85-90 percent** satisfaction) but developed a **slight wrinkle** off the
-wind in light air on some points of sail — uncertain whether a trimming or a
-cutting issue — and he found that Sails Ect. had taken liberties with the
-**tack fitting**, which irritated him. His recommendation for future buyers:
-require the sailmaker to build **exactly as drawn and detailed in the
-plans**.
+The original $420 sail, two years on, had performed well overall (an owner's estimate: **85-90 percent** satisfaction) but developed a **slight wrinkle** off the wind in light air on some points of sail — uncertain whether a trimming or a cutting issue — and Sails Ect. had taken liberties with the **tack fitting**, an irritant. The recommendation for future buyers: require the sailmaker to build **exactly as drawn and detailed in the plans**.
 
-Commercial sailmaking priced out considerably higher in Sweden: a renowned
-Stockholm sailmaker quoted **12,000 SEK** for a single Paradox sail — at the
-roughly 6-SEK-to-the-dollar exchange rate, about **$2,000**, some four times
-the going US price. The standing answer for anyone weighing a professional
-quote against sewing their own is the yard-deflection sail-building advice
-below; sewing a sail at home "is not really that complicated," and a
-worked example of that DIY route follows below.
+Commercial sailmaking priced out considerably higher in Sweden: a renowned Stockholm sailmaker quoted **12,000 SEK** for a single Paradox sail — at the roughly 6-SEK-to-the-dollar exchange rate, about **$2,000**, some four times the going US price. The standing answer for anyone weighing a professional quote against sewing their own is the yard-deflection sail-building advice below; sewing a sail at home "is not really that complicated," and a worked example of that DIY route follows below.
 
-Weighing sailmakers directly against each other, **Dabbler** draws
-consistently good reports — sailmaker **Hugh Horten** uses Dabbler-built
-sails on his own sailing canoes, enough of an endorsement that more than one
-builder has committed to having Dabbler build their next sail. Beyond
-Dabbler, established **UK sailmakers** are also on record as options: **Banks
-Sails**, **Crusader Sails**, **Jeckells Sails**, **Kemp Sails**, and **Lucas
-Sails** — the last with a good reputation from a builder who had a junk sail
-made there some years earlier "at a competitive rate."
+Weighing sailmakers directly against each other, **Dabbler** draws consistently good reports — sailmaker **Hugh Horten** uses Dabbler-built sails on his own sailing canoes, enough of an endorsement that more than one builder has committed to having Dabbler build their next sail. Beyond Dabbler, established **UK sailmakers** are also on record as options: **Banks Sails**, **Crusader Sails**, **Jeckells Sails**, **Kemp Sails**, and **Lucas Sails** — the last with a good reputation from a builder who had a junk sail made there some years earlier "at a competitive rate."
 
-By 2006, a quote direct from Dabbler's **Stuart Hopkins** put a Paradox sail
-at **$600** in 5 oz white, or **$700** in a color such as cream or tanbark —
-an exact quote including the sailbag, plus a flat $25 UPS shipping charge,
-valid for 30 days given oil-driven price movement. Hopkins himself recalled
-having made two or three of these "challenging" sails, and separately
-recalled a photo of one "bellied out on a sand spit in the Bahamas."[255] The
-quote drew a direct, still-current endorsement from Glen Maxwell, whose own
-Dabbler-built Mark II sail (see [the Dabbler re-cut: Mark II sail, a
-decisive improvement](#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)
-above) he remained very pleased with years on; his earlier Mark I sail had
-by then passed to another builder, "Bill Sargent."[256]
+By 2006, a quote direct from Dabbler put a Paradox sail at **$600** in 5 oz white, or **$700** in a color such as cream or tanbark — an exact quote including the sailbag, plus a flat $25 UPS shipping charge, valid for 30 days given oil-driven price movement. Dabbler recalled having made two or three of these "challenging" sails, and separately recalled a photo of one "bellied out on a sand spit in the Bahamas."[255] The quote drew a direct, still-current endorsement from an owner whose own Dabbler-built Mark II sail (see [the Dabbler re-cut: Mark II sail, a decisive improvement](#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement) above) he remained very pleased with years on; that owner's earlier Mark I sail had by then passed to another builder.[256]
 
 ## Sail shape, tacking asymmetry, and reefing behavior
 
-Sailing alongside Matt Layden's own boat at Ft. Desoto just before the 2003
-Everglades Challenge exposed a real shape fault in another builder's sail,
-which Matt then helped correct (see
-[boats/original-paradox.md](/boats/original-paradox.md)
-and
-[matt-layden/biography.md](/matt-layden/biography.md)).
-The specific fault was **insufficient draft/camber**, not excess: reaching
-alongside and slightly to leeward of Matt's boat, the fullness of Matt's own
-sail came as a surprise, and Matt's own view was that his sail "could still
-use a little more draft" even so. The two boats sailed **"very well
-matched"** reaching and running, but on the beat back Matt "put a butt
-kicking on me to windward" — the most enlightening part of the encounter,
-showing what a properly sailed Paradox can do.
+Sailing alongside Matt Layden's own boat at Ft. Desoto just before the 2003 Everglades Challenge exposed a real shape fault in another builder's sail, which Matt then helped correct (see [boats/original-paradox.md](/boats/original-paradox.md) and [matt-layden/biography.md](/matt-layden/biography.md)). The specific fault was **insufficient draft/camber**, not excess: reaching alongside and slightly to leeward of Matt's boat, the fullness of Matt's own sail came as a surprise, and Matt's own view was that his sail "could still use a little more draft" even so. The two boats sailed **"very well matched"** reaching and running, but on the beat back Matt "put a butt kicking on me to windward" — the most enlightening part of the encounter, showing what a properly sailed Paradox can do.
 
-Matt also spotted that the other boat's **yard was bowing slightly**, which
-in turn required a **crescent shape at the top** of the sail, roughly **2½ in
-tall**, with the maximum height at the halyard attachment point. Matt himself
-makes his own sails, "fiddling with them by cutting and re-cutting" until
-satisfied, and recommends builders do the same rather than wait out
-**Dabbler**'s roughly **3-month backlog** — "if we can build the boat we can
-build the sail." Sewing a replacement at home, including experimenting with
-**poly tarp** for the cut, is one path builders have taken as a result.
+Matt also spotted that the other boat's **yard was bowing slightly**, which in turn required a **crescent shape at the top** of the sail, roughly **2½ in tall**, with the maximum height at the halyard attachment point. Matt himself makes his own sails, "fiddling with them by cutting and re-cutting" until satisfied, and recommends builders do the same rather than wait out **Dabbler**'s roughly **3-month backlog** — "if we can build the boat we can build the sail." Sewing a replacement at home, including experimenting with **poly tarp** for the cut, is one path builders have taken as a result.
 
-On the yard-bowing problem more generally, a sailmaker's-eye take from a
-professional boatbuilder's own bad experience with a bowing sprit sail: a
-workable fix is either to **reinforce the yard** with a strip of
-**Kevlar/epoxy on the upper (tension) surface**, or to simply **cut the sail
-to fit the yard's actual bowed shape** rather than fight it structurally —
-laminating **carbon fiber tow** to the top of the spar is a candidate fix of
-the same kind.
+On the yard-bowing problem more generally, a sailmaker's-eye take from firsthand bad experience with a bowing sprit sail: a workable fix is either to **reinforce the yard** with a strip of **Kevlar/epoxy on the upper (tension) surface**, or to simply **cut the sail to fit the yard's actual bowed shape** rather than fight it structurally — laminating **carbon fiber tow** to the top of the spar is a candidate fix of the same kind.
 
-Short-tacking with Matt Layden reefed alongside also turned up a
-**tacking speed asymmetry**: a full knot slower on starboard tack than port.
-See
-[furling system](/design/furling-system.md)
-for the related discovery that Matt's sail rolled counter-clockwise from the
-cockpit when furling.
+Short-tacking with Matt Layden reefed alongside also turned up a **tacking speed asymmetry**: a full knot slower on starboard tack than port. See [furling system](/design/furling-system.md) for the related discovery that Matt's sail rolled counter-clockwise from the cockpit when furling.
 
-A similar leech/luff-flutter puzzle recurred some weeks later on "Whisper,"
-fluttering on one tack only; see
-[sailing characteristics — a one-tack-fluttering puzzle](/operations/sailing-characteristics.md)
-for the fuller exchange, including a data point that ran opposite to the
-"one tack is always better" pattern other builders' experience had
-suggested.
+A similar leech/luff-flutter puzzle recurred some weeks later on "Whisper," fluttering on one tack only; see [sailing characteristics — a one-tack-fluttering puzzle](/operations/sailing-characteristics.md) for the fuller exchange, including a data point that ran opposite to the "one tack is always better" pattern other builders' experience had suggested.
 
 ## Why yard and boom shape matter for pointing
 
-The yard and boom are shaped for two separate reasons, not one: the yard's
-curve is chosen mainly to keep it **light while still strong enough**, with
-its flat edge oriented uppermost, while the boom's shape has more to do with
-getting the sail to **furl correctly** — a boom cut without enough taper can
-leave the sail failing to roll up cleanly (see [boom taper and the foam-tip
-fix](#rolling-boom-and-sail-foot) above). Because the yard's own bend
-directly sets the crescent shape sewn into the head of the sail (see [sail
-shape, tacking asymmetry, and reefing
-behavior](#sail-shape-tacking-asymmetry-and-reefing-behavior) below), getting
-the yard's curve right is what lets the sail take on its intended draft and,
-in turn, point as designed — a badly bowed or mismeasured yard is a more
-direct cause of poor pointing than the boom's shape, which mainly affects
-furling rather than aerodynamic shape.
+The yard and boom are shaped for two separate reasons, not one: the yard's curve is chosen mainly to keep it **light while still strong enough**, with its flat edge oriented uppermost, while the boom's shape has more to do with getting the sail to **furl correctly** — a boom cut without enough taper can leave the sail failing to roll up cleanly (see [boom taper and the foam-tip fix](#rolling-boom-and-sail-foot) above). Because the yard's own bend directly sets the crescent shape sewn into the head of the sail (see [sail shape, tacking asymmetry, and reefing behavior](#sail-shape-tacking-asymmetry-and-reefing-behavior) below), getting the yard's curve right is what lets the sail take on its intended draft and, in turn, point as designed — a badly bowed or mismeasured yard is a more direct cause of poor pointing than the boom's shape, which mainly affects furling rather than aerodynamic shape.
 
-The taper's underlying engineering logic: a spar needs to be **stiffest at
-the point where it is restrained**, in the yard's case where it bears
-against the mast — a yard too flexible there lets the sail's corners sag
-and the sail lose its designed shape. Tapering the yard puts material, and
-therefore stiffness, where that load is carried while removing weight
-everywhere else it serves no structural purpose. This is also why a
-constant-diameter substitute such as bamboo was floated as a candidate
-alternative to a shaped wooden yard — lighter aloft and worth trying as a
-practical experiment, cheap and easy to replace if too flexible, with the
-result useful data for future builders either way — though a yard's
-weight aloft may also affect how gently the boat gybes by accident, a
-question left open on the record.[220]
+The taper's underlying engineering logic: a spar needs to be **stiffest at the point where it is restrained**, in the yard's case where it bears against the mast — a yard too flexible there lets the sail's corners sag and the sail lose its designed shape. Tapering the yard puts material, and therefore stiffness, where that load is carried while removing weight everywhere else it serves no structural purpose. This is also why a constant-diameter substitute such as bamboo was floated as a candidate alternative to a shaped wooden yard — lighter aloft and worth trying as a practical experiment, cheap and easy to replace if too flexible, with the result useful data for future builders either way — though a yard's weight aloft may also affect how gently the boat gybes by accident, a question left open on the record.[220]
 
-Restated in structural-engineering terms, the yard behaves as a **double
-cantilever**: as a section moves away from its single support (the mast),
-the bending moment it must carry decreases, so the yard can progressively
-thin along its length; correctly matching the taper to that falling load
-gives the top of the sail a constant curvature rather than an uneven one.
-A single cantilever, by contrast, is a beam or spar (such as the mast
-itself) fixed at one end only; a double cantilever — the same geometry as
-a seesaw, or as one span of the Firth of Forth rail bridge — is supported
-at one point with both ends free to bend. A constant-diameter bamboo pole
-does not naturally take this shape, and would likely need reinforcement
-where it presses against the mast to avoid being crushed there.[221][225]
+Restated in structural-engineering terms, the yard behaves as a **double cantilever**: as a section moves away from its single support (the mast), the bending moment it must carry decreases, so the yard can progressively thin along its length; correctly matching the taper to that falling load gives the top of the sail a constant curvature rather than an uneven one. A single cantilever, by contrast, is a beam or spar (such as the mast itself) fixed at one end only; a double cantilever — the same geometry as a seesaw, or as one span of the Firth of Forth rail bridge — is supported at one point with both ends free to bend. A constant-diameter bamboo pole does not naturally take this shape, and would likely need reinforcement where it presses against the mast to avoid being crushed there.[221][225]
 
 ## Which side of the boom and yard faces up, and curing persistent yard sag
 
-The plans draw both the boom and the yard with one side straight and the
-other curved, but do not specify which side should face up. In practice it
-usually does not matter: on a rolling boom the sail is hoisted, the halyard
-made off, and the reefing line then tightened, so the boom simply settles
-with whatever side (or corner) happens to be uppermost once tension is
-applied — there is no fixed top or bottom to get wrong.[234]
+The plans draw both the boom and the yard with one side straight and the other curved, but do not specify which side should face up. In practice it usually does not matter: on a rolling boom the sail is hoisted, the halyard made off, and the reefing line then tightened, so the boom simply settles with whatever side (or corner) happens to be uppermost once tension is applied — there is no fixed top or bottom to get wrong.[234]
 
-Yard sag under load is a separate, longer-running concern from the
-furling-taper question addressed above. Photographic evidence of Paradoxes
-under sail shows a persistent tendency for the yard's peak end to bend
-downward under its own weight and the sail's weight, stretching the sail
-between throat and clew and distorting its shape — a tendency that can
-increase further from sheet load pulling on the boom's end when sailing to
-windward. Recutting the sail itself to compensate (removing a long,
-dart-shaped strip of cloth under the yard, tapering from about an inch wide
-at the leech to a smaller amount at the luff) was floated as one fix, but
-the simpler and more reversible approach is to work on the **yard's own
-curvature** instead — deliberately building in initial curvature (camber)
-to counteract the sag — since a yard that doesn't work as hoped can simply
-be swapped back for a standard one, whereas a sail that has already been
-recut cannot easily be restored.[235][236]
+Yard sag under load is a separate, longer-running concern from the furling-taper question addressed above. Photographic evidence of Paradoxes under sail shows a persistent tendency for the yard's peak end to bend downward under its own weight and the sail's weight, stretching the sail between throat and clew and distorting its shape — a tendency that can increase further from sheet load pulling on the boom's end when sailing to windward. Recutting the sail itself to compensate (removing a long, dart-shaped strip of cloth under the yard, tapering from about an inch wide at the leech to a smaller amount at the luff) was floated as one fix, but the simpler and more reversible approach is to work on the **yard's own curvature** instead — deliberately building in initial curvature (camber) to counteract the sag — since a yard that doesn't work as hoped can simply be swapped back for a standard one, whereas a sail that has already been recut cannot easily be restored.[235][236]
 
-Pressed directly on how to modify the yard itself, [Alastair](/people/alastair.md)
-had not himself noticed sag on his own yard (though without having looked for
-it specifically), but agreed **increasing the yard's depth** would be a
-straightforward way to stiffen it. A more targeted fix would be to first
-estimate how much the yard actually bends under load, then build a
-replacement yard with that same amount of bend deliberately pre-formed in
-the *opposite* direction, so that it straightens out once loaded in use.
-Whether this kind of distortion actually costs a sail of this type much in
-practice remains an open question on the record, with no measured
-performance answer given.[237]
+Pressed directly on how to modify the yard itself, one builder had not noticed sag on his own yard (though without having looked for it specifically), but agreed **increasing the yard's depth** would be a straightforward way to stiffen it. A more targeted fix would be to first estimate how much the yard actually bends under load, then build a replacement yard with that same amount of bend deliberately pre-formed in the *opposite* direction, so that it straightens out once loaded in use. Whether this kind of distortion actually costs a sail of this type much in practice remains an open question on the record, with no measured performance answer given.[237]
 
-The boom axle itself is a recurring failure point during a first build: a
-second axle breakage on one boom, on top of an earlier one, left the boom
-with a curve in two planes rather than one — treated as cosmetic rather than
-structural, on the reasoning that once the boom is inside the sail's sleeve
-the curve may not show.[238][239] Fabricating the axle's own brass rod from
-scratch is itself a fiddly job — bending, brazing, and silver-soldering
-brass rod each carry their own pitfalls, and mild steel finished in a
-cold-galvanising paint is a simpler, cheaper alternative some builders
-prefer; see [boats/enuf.md](/boats/enuf.md#bending-the-boom-axles-brass-rod-and-a-cheaper-steel-alternative)
-for that fabrication story in full.
+The boom axle itself is a recurring failure point during a first build: a second axle breakage on one boom, on top of an earlier one, left the boom with a curve in two planes rather than one — treated as cosmetic rather than structural, on the reasoning that once the boom is inside the sail's sleeve the curve may not show.[238][239] Fabricating the axle's own brass rod from scratch is itself a fiddly job — bending, brazing, and silver-soldering brass rod each carry their own pitfalls, and mild steel finished in a cold-galvanising paint is a simpler, cheaper alternative some builders prefer; see [boats/enuf.md](/boats/enuf.md#bending-the-boom-axles-brass-rod-and-a-cheaper-steel-alternative) for that fabrication story in full.
 
-Separately from the sag question, **why the plans draw the boom curved on
-one side at all**: the curve lets the sail's own draft come out of it as the
-sail is furled for reefing, so the reefed sail still sets with the correct
-shape rather than sagging or over-bellying at partial reef — a rationale
-confirmed by [Glen Maxwell](/people/glen-maxwell/build-and-zoe.md).[240] A
-builder who had already built his boom exactly to the plans, one side
-straight and the other curved, took this as reassurance to press on into
-cutting the frames and cleats next.[241]
+Separately from the sag question, **why the plans draw the boom curved on one side at all**: the curve lets the sail's own draft come out of it as the sail is furled for reefing, so the reefed sail still sets with the correct shape rather than sagging or over-bellying at partial reef — a rationale independently confirmed on the record.[240] A builder who had already built his boom exactly to the plans, one side straight and the other curved, took this as reassurance to press on into cutting the frames and cleats next.[241]
 
 ## Mast chafe from the yard, and finishes that prevent it
 
-Where the yard rubs against the mast — most often while sailing reefed,
-with the yard low and the boom's aft end also bearing on the mast at the
-same spot — a **varnished mast finish creates enough friction to burn
-through a sail's sleeve**, in one case an 8 in-long hole in the top
-sleeve. Two independent, complementary fixes are on record: sewing a
-leather chafe protector onto the sail's sleeve at the wear point, paired
-with refinishing the mast in a **petroleum jelly and linseed oil
-mixture** rather than varnish; and, more directly, lengthening the gap in
-the sail's own sleeve so that the **spar, not the sail's cloth, bears
-against the mast**, combined with fitting a **leather sleeve to the
-mast** at the contact point — reported to solve the chafe problem
-entirely. A leather mast sleeve need not run the full length of the
-mast: covering only the few inches around the point where the boom
-rubs while reefed is enough, particularly if reefed sailing tends to load
-only one tack and rarely repeats contact at exactly the same spot. An
-epoxy-and-paint mast finish, left to wear back to bare epoxy over time,
-is a workable alternative to varnish for reducing this friction in the
-first place. A **segmented pole such as bamboo** carries an added chafe
-risk beyond plain friction: unless a segment joint happens to fall
-exactly at the mast contact point, the yard will ride up and over the
-raised joint as it moves — noisy in addition to uneven.[222][223][224]
+Where the yard rubs against the mast — most often while sailing reefed, with the yard low and the boom's aft end also bearing on the mast at the same spot — a **varnished mast finish creates enough friction to burn through a sail's sleeve**, in one case an 8 in-long hole in the top sleeve. Two independent, complementary fixes are on record: sewing a leather chafe protector onto the sail's sleeve at the wear point, paired with refinishing the mast in a **petroleum jelly and linseed oil mixture** rather than varnish; and, more directly, lengthening the gap in the sail's own sleeve so that the **spar, not the sail's cloth, bears against the mast**, combined with fitting a **leather sleeve to the mast** at the contact point — reported to solve the chafe problem entirely. A leather mast sleeve need not run the full length of the mast: covering only the few inches around the point where the boom rubs while reefed is enough, particularly if reefed sailing tends to load only one tack and rarely repeats contact at exactly the same spot. An epoxy-and-paint mast finish, left to wear back to bare epoxy over time, is a workable alternative to varnish for reducing this friction in the first place. A **segmented pole such as bamboo** carries an added chafe risk beyond plain friction: unless a segment joint happens to fall exactly at the mast contact point, the yard will ride up and over the raised joint as it moves — noisy in addition to uneven.[222][223][224]
 
 ## A proposed mast-mounted traveller to keep the yard close when reefed
 
-As the sail is progressively reefed on the rolling boom, the yard's
-geometry carries it aft, away from the mast, with little to hold it close
-on one tack. A **Welsford Houdini** dinghy, rigged with a similarly
-reefable lugsail, uses a **traveller fitted to the mast** to keep its yard
-close to the mast at all points of reefing, raising the open question
-whether Paradox's rig would benefit from the same fitting — noting that
-doing so would require the boom to lift as the sail is reefed, which could
-itself cause problems. No build or trial of a mast-mounted yard traveller
-on a Paradox is recorded.[226]
+As the sail is progressively reefed on the rolling boom, the yard's geometry carries it aft, away from the mast, with little to hold it close on one tack. A **Welsford Houdini** dinghy, rigged with a similarly reefable lugsail, uses a **traveller fitted to the mast** to keep its yard close to the mast at all points of reefing, raising the open question whether Paradox's rig would benefit from the same fitting — noting that doing so would require the boom to lift as the sail is reefed, which could itself cause problems. No build or trial of a mast-mounted yard traveller on a Paradox is recorded.[226]
 
 ## The Dabbler re-cut: Mark II sail, a decisive improvement
 
-Sending an unsatisfactory original sail to **Dabbler** for a re-cut produced
-a documented before/after case study. The resulting **Mark II** sail arrived
-beautifully made, with workmanship judged very impressive, and the fit was
-exact — including allowing about **6 in** to be trimmed off the end of the
-boom, which had been Matt Layden's intention when he drew up the new sail
-plan referenced above (see [Matt Layden's own sail
-dimensions](/design/rig.md#matt-laydens-own-sail-dimensions-his-first-list-post)).
+Sending an unsatisfactory original sail to **Dabbler** for a re-cut produced a documented before/after case study. The resulting **Mark II** sail arrived beautifully made, with workmanship judged very impressive, and the fit was exact — including allowing about **6 in** to be trimmed off the end of the boom, which had been Matt Layden's intention when he drew up the new sail plan referenced above (see [Matt Layden's own sail dimensions](/design/rig.md#matt-laydens-own-sail-dimensions-his-first-list-post)).
 
-The performance difference from the old sail was "no comparison": the new
-sail carries **a lot more draft** and powers up much more quickly,
-eliminated the tack-to-tack performance asymmetry the old sail had shown, and
-lets the boat be trimmed in much tighter without stalling — pointing
-noticeably higher as a result. Weighed against the roughly **$400** that
-might have been saved by going straight to Dabbler rather than the original
-sailmaker, Dabbler is still highly recommended to anyone seeking a quality
-small-boat sail, especially a lug, spritsail, or Gunter rig, with the caveat
-that Dabbler is "a little pricey" — a case of getting what you pay for.
+The performance difference from the old sail was "no comparison": the new sail carries **a lot more draft** and powers up much more quickly, eliminated the tack-to-tack performance asymmetry the old sail had shown, and lets the boat be trimmed in much tighter without stalling — pointing noticeably higher as a result. Weighed against the roughly **$400** that might have been saved by going straight to Dabbler rather than the original sailmaker, Dabbler is still highly recommended to anyone seeking a quality small-boat sail, especially a lug, spritsail, or Gunter rig, with the caveat that Dabbler is "a little pricey" — a case of getting what you pay for.
 
-The Mark II sail is **5 oz cloth**, cut by Dabbler's Stuart, who studied Matt
-Layden's own sail-dimensions post (see below) and built in as much draft as
-he judged the sail could carry and still furl neatly for reefing. Stuart's
-sailmaking experience runs deep: his loft, in Wicomico Church, Virginia, has
-built every sail for a competitive 17-boat fleet of Nutshell prams there,
-giving him a working feel for what small, performance-minded sailors actually
-want. Leech tell-tales, doubted at first, proved themselves in the sail
-trials — they read well in practice. **Matt Layden's eye for measurement**
-produced a striking anecdote: sailing together, Matt remarked that a sail
-looked like it needed about two inches of camber at the top; measuring the
-yard's bend afterward — hanging a fifty-pound weight at the center while
-supporting the ends — confirmed the gap was exactly two inches. The technique
-for checking this: pull a string tight across the yard's ends, then measure
-from string to yard at the quarter, half, and three-quarter points. Getting
-this camber measurement right at the yard, rather than guessing, is what the
-old sail had gotten wrong. The superseded original sail was later resold at
-$250 (against the $550 originally paid for it), still fairly new and only
-needing the camber and draft corrected.
+The Mark II sail is **5 oz cloth**, cut to Matt Layden's own sail-dimensions post (see below) with as much draft built in as could be carried while still furling neatly for reefing. The Dabbler loft, in Wicomico Church, Virginia, has built every sail for a competitive 17-boat fleet of Nutshell prams there, giving it a working feel for what small, performance-minded sailors actually want. Leech tell-tales, doubted at first, proved themselves in the sail trials — they read well in practice. **Matt Layden's eye for measurement** produced a striking anecdote: sailing together, Matt remarked that a sail looked like it needed about two inches of camber at the top; measuring the yard's bend afterward — hanging a fifty-pound weight at the center while supporting the ends — confirmed the gap was exactly two inches. The technique for checking this: pull a string tight across the yard's ends, then measure from string to yard at the quarter, half, and three-quarter points. Getting this camber measurement right at the yard, rather than guessing, is what the old sail had gotten wrong. The superseded original sail was later resold at $250 (against the $550 originally paid for it), still fairly new and only needing the camber and draft corrected.
 
 ## Building a lugsail at home: measuring yard deflection before cutting
 
-A first sail from a St. Augustine loft that did not account for yard bend
-cost roughly $500 in a wasted first attempt before Dabbler cut the corrected
-replacement (above) — the direct basis for the standing advice to any
-builder sewing a Paradox sail at home: **measure the yard's actual
-deflection before cutting the sail**, not after. Both the yard and the boom
-should be built first; supporting them on sawhorses or chair backs and
-hanging a fifty-pound weight at the center gives the same working deflection
-they will show once hoisted. Stretch a string tightly between the two ends,
-then measure the gap between string and yard at the quarter, half, and
-three-quarter points; transferring those three measurements to a paper
-pattern gives the actual shape needed along the top edge of the sail, rather
-than a guessed or nominal curve. Building both spars before the sail also
-lets the builder confirm the sail's sleeves will fit the finished boom and
-yard with room to spare. Matt Layden favors a generously drafted sail cut to
-this method. Matt's own sail-plan notes, in the group's files section, are
-the standard reference for builders sewing their own sail on a Sailrite
-LS-1 in 4.5 oz Dacron (no zigzag needed), alongside a general recommendation
-of Sailrite's
-published sailmaking manuals for anyone building a sail from scratch.
+A first sail from a St. Augustine loft that did not account for yard bend cost roughly $500 in a wasted first attempt before Dabbler cut the corrected replacement (above) — the direct basis for the standing advice to any builder sewing a Paradox sail at home: **measure the yard's actual deflection before cutting the sail**, not after. Both the yard and the boom should be built first; supporting them on sawhorses or chair backs and hanging a fifty-pound weight at the center gives the same working deflection they will show once hoisted. Stretch a string tightly between the two ends, then measure the gap between string and yard at the quarter, half, and three-quarter points; transferring those three measurements to a paper pattern gives the actual shape needed along the top edge of the sail, rather than a guessed or nominal curve. Building both spars before the sail also lets the builder confirm the sail's sleeves will fit the finished boom and yard with room to spare. Matt Layden favors a generously drafted sail cut to this method. Matt's own sail-plan notes, in the group's files section, are the standard reference for builders sewing their own sail on a Sailrite LS-1 in 4.5 oz Dacron (no zigzag needed), alongside a general recommendation of Sailrite's published sailmaking manuals for anyone building a sail from scratch.
 
-One builder completed a home-sewn sail for under **$150 US** in materials —
-**5.5 oz Dacron** cloth bought off-season at a discount, plus V69 thread,
-needles, and 1/4 in seamstick tape from Sailrite. The pieces were laid out
-and cut on a flat area of lawn, and the broadseams sewn — "not a hard task
-at all" compared with boat building itself — using an improvised sliding
-track: two 10-ft sections of vinyl gutter set up on sawhorses and aligned
-with the sewing machine's presser foot, with the sail rolled around a 2 in
-PVC pipe core and temporarily masked to it so the pipe stayed stationary
-while the sail slid through. Sewn on a donated Sailrite LS-1 Ultrafeed
-machine, which cannot zigzag-stitch, doubling up the stitch count worked
-without issue; the yard and boom sleeves were left unsewn until those spars
-were built. Home sail-sewing is "a needed skill for the cruiser" alongside
-engine self-repair, and the result, while not professionally cut, proved
-entirely serviceable precisely because its maker understood how to fix it
-himself.
+One builder completed a home-sewn sail for under **$150 US** in materials — **5.5 oz Dacron** cloth bought off-season at a discount, plus V69 thread, needles, and 1/4 in seamstick tape from Sailrite. The pieces were laid out and cut on a flat area of lawn, and the broadseams sewn — "not a hard task at all" compared with boat building itself — using an improvised sliding track: two 10-ft sections of vinyl gutter set up on sawhorses and aligned with the sewing machine's presser foot, with the sail rolled around a 2 in PVC pipe core and temporarily masked to it so the pipe stayed stationary while the sail slid through. Sewn on a donated Sailrite LS-1 Ultrafeed machine, which cannot zigzag-stitch, doubling up the stitch count worked without issue; the yard and boom sleeves were left unsewn until those spars were built. Home sail-sewing is "a needed skill for the cruiser" alongside engine self-repair, and the result, while not professionally cut, proved entirely serviceable precisely because its maker understood how to fix it himself.
 
-For the sail's **leech tablings** specifically, [David and Mindy
-Bolduc](/people/bolduc/dave.md) — who sewed [Little
-Cruiser](/matt-layden/little-cruiser.md)'s own sail some years earlier —
-have posted a drawing Matt Layden sent them showing his own method of making
-the leech tabling, far easier to follow visually than Matt's written
-description alone, though the exact dimensions shown differ slightly from
-what Matt recommends for Paradox specifically. The illustration is filed in
-the group's Files section, under the "New Sail Plan" folder.
+For the sail's **leech tablings** specifically, the builders who sewed [Little Cruiser](/matt-layden/little-cruiser.md)'s own sail some years earlier have posted a drawing Matt Layden sent them showing his own method of making the leech tabling, far easier to follow visually than Matt's written description alone, though the exact dimensions shown differ slightly from what Matt recommends for Paradox specifically. The illustration is filed in the group's Files section, under the "New Sail Plan" folder.
 
-Matt Layden's taller, higher-peaked new sailplan raises a furling question:
-a taller leech leaves a triangular area above the boom that furling cannot
-roll away completely. Whether increasing the boom's aft circumference to
-match would fix this, or simply cause the sail to wrinkle or slide on the
-boom instead, remains debated. A tapered boom is a plausible fix in theory,
-the main uncertainty being how much larger the aft diameter would need to be
-to roll up the added cloth cleanly; Matt Layden has described the incomplete
-furl as not a serious problem in practice, since the peaked gaff shape means
-the sail is already mostly rolled up by the time any cloth is left over.
+Matt Layden's taller, higher-peaked new sailplan raises a furling question: a taller leech leaves a triangular area above the boom that furling cannot roll away completely. Whether increasing the boom's aft circumference to match would fix this, or simply cause the sail to wrinkle or slide on the boom instead, remains debated. A tapered boom is a plausible fix in theory, the main uncertainty being how much larger the aft diameter would need to be to roll up the added cloth cleanly; Matt Layden has described the incomplete furl as not a serious problem in practice, since the peaked gaff shape means the sail is already mostly rolled up by the time any cloth is left over.
 
 ## Quantifying the new sailplan's effect on boom furling geometry
 
-A geometric analysis, plotting [Matt Layden](/matt-layden/biography.md)'s new
-sail measurements directly onto the plans' sail plan drawing, quantifies the
-change. Holding the tack point and foot angle constant, the throat point
-tilts forward/downward and the peak point tilts forward/upward under the new
-sailplan — the change that produces the taller sail's higher aspect ratio.
-The luff/foot angle increases from 90 (or 91) degrees to **95 degrees**,
-slightly enlarging the "foresail part" of the sail. Two consequences follow:
-the halyard's attachment point on the yard should in principle move from
-**700 mm to 900 mm** from the yard's front end to keep the foot/boom angle
-constant, though at least one boat's new sail has kept the old attachment
-point in use; and measuring perpendicular from foot to peak versus tack/foot
-to yard shows about **6 percent more sail** to furl in the aft part of the
-boom and 6 percent less in the forward part — meaning the boom would need
-roughly **10 mm more circumference aft and 10 mm less forward** for the sail
-to reef and furl cleanly.
+A geometric analysis, plotting [Matt Layden](/matt-layden/biography.md)'s new sail measurements directly onto the plans' sail plan drawing, quantifies the change. Holding the tack point and foot angle constant, the throat point tilts forward/downward and the peak point tilts forward/upward under the new sailplan — the change that produces the taller sail's higher aspect ratio. The luff/foot angle increases from 90 (or 91) degrees to **95 degrees**, slightly enlarging the "foresail part" of the sail. Two consequences follow: the halyard's attachment point on the yard should in principle move from **700 mm to 900 mm** from the yard's front end to keep the foot/boom angle constant, though at least one boat's new sail has kept the old attachment point in use; and measuring perpendicular from foot to peak versus tack/foot to yard shows about **6 percent more sail** to furl in the aft part of the boom and 6 percent less in the forward part — meaning the boom would need roughly **10 mm more circumference aft and 10 mm less forward** for the sail to reef and furl cleanly.
 
-Most builders have simply had their sail built as Matt drew it, without this
-level of analysis. A simpler alternative fix has been raised: a piece of
-**foam taped to the outboard end of the boom**, laid along the foot, to take
-up the extra unfurled sail. A cruder practical workaround is simply to take
-the extra furled sail and stuff it below the rest of the rolled sail. The
-boom-reshaping approach would make a neater package if it worked, and a
-scale model boom and sail would be an easy way to test it; the halyard
-attachment point, on the boats checked, has been built exactly as Matt
-Layden drew or intended it.
+Most builders have simply had their sail built as Matt drew it, without this level of analysis. A simpler alternative fix has been raised: a piece of **foam taped to the outboard end of the boom**, laid along the foot, to take up the extra unfurled sail. A cruder practical workaround is simply to take the extra furled sail and stuff it below the rest of the rolled sail. The boom-reshaping approach would make a neater package if it worked, and a scale model boom and sail would be an easy way to test it; the halyard attachment point, on the boats checked, has been built exactly as Matt Layden drew or intended it.
 
-The same underlying question recurred in October 2004: whether a **revised
-set of boom dimensions** exists specifically for the Mark II sail, given that
-the plans state the boom's taper is critical to correct reefing and
-furling — unanswered on record.[154]
+The same underlying question recurred in October 2004: whether a **revised set of boom dimensions** exists specifically for the Mark II sail, given that the plans state the boom's taper is critical to correct reefing and furling — unanswered on record.[154]
 
 ## Wrapping a Mark II sail on the boom: tack position, balance, and taper
 
-No revised boom dimensions for the Mark II sail were ever published, leaving
-each builder to work out the wrap by trial. Rolling a Mark II sail around the
-boom, the luff resists sitting close to the furling drum and tends to climb
-up over it instead — a symptom of the sail sitting further back along the
-boom than an older Mark I sail does, once raised. Fitting the **topping
-lift** so the boom's aft end rides slightly raised counters this: it draws
-the sail's roll away from the drum rather than piling the luff on top of
-itself at the seam, which would otherwise build a thick roll there and leave
-more of the peak unrolled when stowed.[233]
+No revised boom dimensions for the Mark II sail were ever published, leaving each builder to work out the wrap by trial. Rolling a Mark II sail around the boom, the luff resists sitting close to the furling drum and tends to climb up over it instead — a symptom of the sail sitting further back along the boom than an older Mark I sail does, once raised. Fitting the **topping lift** so the boom's aft end rides slightly raised counters this: it draws the sail's roll away from the drum rather than piling the luff on top of itself at the seam, which would otherwise build a thick roll there and leave more of the peak unrolled when stowed.[233]
 
-The sail's **tack need not sit exactly in line with the mast**, as it
-appears in reference photographs of two boats sailing an older Mark I sail;
-its position along the boom (and correspondingly the yard) can be slid
-fore-and-aft to set the rig's overall balance — moving the center of effort
-forward or back — and getting this right by feel took the better part of a
-first full sailing season.[232][233]
+The sail's **tack need not sit exactly in line with the mast**, as it appears in reference photographs of two boats sailing an older Mark I sail; its position along the boom (and correspondingly the yard) can be slid fore-and-aft to set the rig's overall balance — moving the center of effort forward or back — and getting this right by feel took the better part of a first full sailing season.[232][233]
 
-On the boom's own **taper**, cutting it thinnest at the tack end is the
-right approach, contrary to any assumption that the plans' undimensioned
-Mark I taper no longer applies: too little taper there leaves the extra roll
-of stowed sail needing to be packed out with rigid foam around the boom's
-aft end instead. A loose triangular flap of leftover sail when the sail is
-fully rolled is normal and expected on a Mark II sail — not a sign of
-incorrect taper — and is simply tucked under the boom when a tidy stow is
-wanted.[233]
+On the boom's own **taper**, cutting it thinnest at the tack end is the right approach, contrary to any assumption that the plans' undimensioned Mark I taper no longer applies: too little taper there leaves the extra roll of stowed sail needing to be packed out with rigid foam around the boom's aft end instead. A loose triangular flap of leftover sail when the sail is fully rolled is normal and expected on a Mark II sail — not a sign of incorrect taper — and is simply tucked under the boom when a tidy stow is wanted.[233]
 
 ## Sail aspect ratio, and why a taller, narrower rig would not suit Paradox
 
-The single-sail, keel-less nature of the design rules out simply making the
-rig taller and narrower to gain efficiency, despite that being standard
-practice on a two-winged aircraft. The question was put directly to
-Swedish micro-cruiser designer **Sven Yrvind** by phone: could the sail — the
-one feature of the boat that seemed most improvable — be made taller for a
-higher aspect ratio without increasing its square footage, on the reasoning
-that a longer leading edge (as on an airplane wing or a windmill blade)
-produces more power per square foot?
+The single-sail, keel-less nature of the design rules out simply making the rig taller and narrower to gain efficiency, despite that being standard practice on a two-winged aircraft. The question is whether the sail — the one feature of the boat that seems most improvable — could be made taller for a higher aspect ratio without increasing its square footage, on the reasoning that a longer leading edge (as on an airplane wing or a windmill blade) produces more power per square foot.
 
-Yrvind agreed with the underlying aerodynamics but explained why it does not
-transfer to Paradox: an airplane has **two wings**, one on each side of the
-fuselage, so a lifting wing's tendency to rotate the fuselage is counteracted
-by the opposite wing — improving wing efficiency benefits the whole aircraft
-without cost. A boat has only **one wing** (the sail). Lengthening its leading
-edge for more power also demands the hull/keel do more work resisting the
-resulting rotation. Since Paradox is a "keel-less" boat, a **lower sail plan**
-that asks less of the hull is the better-suited design; a higher-aspect-ratio
-rig would not work well on it. Yrvind's own verdict was that the existing sail
-is the right design for the boat's given hull — Paradox owners can take it as
-a mark of approval from a designer of Yrvind's caliber for the boat's
-"engine."
+The underlying aerodynamics hold, but they do not transfer to Paradox: an airplane has **two wings**, one on each side of the fuselage, so a lifting wing's tendency to rotate the fuselage is counteracted by the opposite wing — improving wing efficiency benefits the whole aircraft without cost. A boat has only **one wing** (the sail). Lengthening its leading edge for more power also demands the hull/keel do more work resisting the resulting rotation. Since Paradox is a "keel-less" boat, a **lower sail plan** that asks less of the hull is the better-suited design; a higher-aspect-ratio rig would not work well on it. The verdict from a designer of Sven Yrvind's caliber is that the existing sail is the right design for the boat's given hull — which Paradox owners can take as a mark of approval for the boat's "engine."
 
 ## Tell-tale placement
 
-The **leech** is the preferred tell-tale location for reading trim on the
-Paradox rig (see
-[boats/little-jim.md](/boats/little-jim.md#first-sail-whooee-what-a-boat-23-april-2003)
-for the first-sail account that raised the question) — flying an **ensign
-from the leech** as well is a related habit, since when air is leaving the
-leech smoothly, "your sail is usually powered up just right." Several
-tell-tales placed along the leech are recommended, and **ordinary cassette
-tape** works well as tell-tale material, particularly in light ("breathy")
-conditions. The topic draws a range of opinions among builders, with no
-single placement universally agreed on.
+The **leech** is the preferred tell-tale location for reading trim on the Paradox rig (see [boats/little-jim.md](/boats/little-jim.md#first-sail-whooee-what-a-boat-23-april-2003) for the first-sail account that raised the question) — flying an **ensign from the leech** as well is a related habit, since when air is leaving the leech smoothly, "your sail is usually powered up just right." Several tell-tales placed along the leech are recommended, and **ordinary cassette tape** works well as tell-tale material, particularly in light ("breathy") conditions. The topic draws a range of opinions among builders, with no single placement universally agreed on.
 
 ## Tack-pipe deck wear
 
-The **brass pipe spacer** surrounding the tack strop does not damage the deck
-in ordinary use, by the practical experience of two independent builders. One
-fitted a **swaged copper (water) pipe** into the deck as the fairlead on
-"[little Jim](/boats/little-jim.md)," with the strut's end swaged back on
-itself to form "half a donut" shape — some paint has rubbed off the copper,
-but the deck itself remains untouched. A second, independent build confirms
-the same from "Zoë": the tack pipe rides in a **flared copper pipe** fitted
-into the deck as a line fairlead, with **no deck damage of any kind** seen
-after two years' use. For most of the actual sailing, the main halyard and
-wind in the sail lift the boom against the topping-lift rope, holding the
-strut clear of the deck rather than grinding against it. A practical tip: cut
-the pipe **about 1½ in longer** than the minimum needed, to ensure the boom
-clears the top corner of the cabin as it swings up from its stowage position
-(cabin height varies enough between builds that a second, taller pipe is
-sometimes needed), then trim it down once clearance is confirmed.
+The **brass pipe spacer** surrounding the tack strop does not damage the deck in ordinary use, by the practical experience of two independent builders. One fitted a **swaged copper (water) pipe** into the deck as the fairlead on "[little Jim](/boats/little-jim.md)," with the strut's end swaged back on itself to form "half a donut" shape — some paint has rubbed off the copper, but the deck itself remains untouched. A second, independent build confirms the same from "Zoë": the tack pipe rides in a **flared copper pipe** fitted into the deck as a line fairlead, with **no deck damage of any kind** seen after two years' use. For most of the actual sailing, the main halyard and wind in the sail lift the boom against the topping-lift rope, holding the strut clear of the deck rather than grinding against it. A practical tip: cut the pipe **about 1½ in longer** than the minimum needed, to ensure the boom clears the top corner of the cabin as it swings up from its stowage position (cabin height varies enough between builds that a second, taller pipe is sometimes needed), then trim it down once clearance is confirmed.
 
-A prospective builder studying the plans separately worried the strop's
-brass tube might instead rest or bump on the deck and chew a divot into
-it.[244] **Alastair**'s answer: yes and no. A **flared pipe end** does far
-less damage than a cut, unflared one, and a small pad of glass/epoxy laid
-around the deck fitting helps further reduce wear — but the paint there is
-going to get scratched regardless. For a builder who wants the problem
-solved outright, a **bronze or stainless-steel disc bonded around the deck
-hole** is the fix.[245] David Beard independently confirms the same
-non-problem on ["Whisper"](/boats/whisper.md): her tack strop's deck pipe
-is cut a little short and never touches the deck once the sail is
-hoisted.[246]
+A prospective builder studying the plans separately worried the strop's brass tube might instead rest or bump on the deck and chew a divot into it.[244] The answer: yes and no. A **flared pipe end** does far less damage than a cut, unflared one, and a small pad of glass/epoxy laid around the deck fitting helps further reduce wear — but the paint there is going to get scratched regardless. For a builder who wants the problem solved outright, a **bronze or stainless-steel disc bonded around the deck hole** is the fix.[245] The same non-problem is independently confirmed on ["Whisper"](/boats/whisper.md): her tack strop's deck pipe is cut a little short and never touches the deck once the sail is hoisted.[246]
 
-Rig-detail follow-ups, including a continuous halyard/furling-line
-refinement, are covered in full in
-[furling system](/design/furling-system.md)
-since they concern the furling mechanism itself rather than the sail or rig
-proper.
+Rig-detail follow-ups, including a continuous halyard/furling-line refinement, are covered in full in [furling system](/design/furling-system.md) since they concern the furling mechanism itself rather than the sail or rig proper.
 
 ## The tack strut also carries compression, not just tension
 
-A builder's own two-season experience corrected a mistaken assumption about
-the **tack tie-down strut**: it is not purely a tension member. Believing
-the strut was only ever in compression while the sail was furled and being
-stowed, he initially built it from ordinary 12mm copper water pipe, split
-at the top and left flimsy on the reasoning that it only had to be strong
-in tension. The forked end crumpled twice in successive seasons — first
-attributed to an unintentional jibe, then, after being straightened and
-reinforced with a second soldered-on pipe layer, to the strut bending round
-the mast when running downwind with the boom forward of the beam. Switching
-to thick-walled rubber hose to allow some flex without damage exposed the
-real cause: **when reefed, the strut must support not only the boom's
-weight (with the sail wrapped round it) but also the added tension of the
-reefing line itself** — a load his first season's largely unreefed sailing,
-and a looser rig setup, had never exposed. The eventual fix was a
-stronger strut built from **water pipe for the straight section, joined to
-a stainless-plate "vee" end** by a pipe fitting — a straightforward but
-more robust departure from the lightweight original. The episode is a
-caution against assuming a fitting's load case from rig theory alone;
-practical testing under a reefed sail is what actually reveals the load
-path.
+Two seasons of experience corrected a mistaken assumption about the **tack tie-down strut**: it is not purely a tension member. On the belief that the strut was only ever in compression while the sail was furled and being stowed, it was first built from ordinary 12mm copper water pipe, split at the top and left flimsy on the reasoning that it only had to be strong in tension. The forked end crumpled twice in successive seasons — first attributed to an unintentional jibe, then, after being straightened and reinforced with a second soldered-on pipe layer, to the strut bending round the mast when running downwind with the boom forward of the beam. Switching to thick-walled rubber hose to allow some flex without damage exposed the real cause: **when reefed, the strut must support not only the boom's weight (with the sail wrapped round it) but also the added tension of the reefing line itself** — a load a first season's largely unreefed sailing, and a looser rig setup, had never exposed. The eventual fix was a stronger strut built from **water pipe for the straight section, joined to a stainless-plate "vee" end** by a pipe fitting — a straightforward but more robust departure from the lightweight original. The episode is a caution against assuming a fitting's load case from rig theory alone; practical testing under a reefed sail is what actually reveals the load path.
 
-A second builder independently confirmed the failure mode: the same
-lightweight-pipe approach did not hold up on his own boat either, and the
-fix that finally worked was switching the strut material outright to
-**bronze (brass) Schedule 40 pipe**, after which the problem did not
-recur. A UK builder trying to source the same fix found that the plans'
-spec — **1/4 in Schedule 40 brass pipe, 14mm O.D., 220mm long** — does not
-map cleanly onto pipe sold locally; he asked whether the bore should be
-1/4 in with a 4mm wall, since that thickness would need to accept an
-8mm tack strop passed through it. He also noted the **220mm length is
-not fixed**: it depends on how far the 12mm brass bar is bent, where the
-tack tie-down hole falls in the deck, and the cabin top's height and
-shape, so the practical approach is to make the strut long and trim it to
-fit on final assembly — his own came out at 250mm.[190]
+The failure mode is independently confirmed: the same lightweight-pipe approach did not hold up on another boat either, and the fix that finally worked was switching the strut material outright to **bronze (brass) Schedule 40 pipe**, after which the problem did not recur. Trying to source the same fix in the UK, the plans' spec — **1/4 in Schedule 40 brass pipe, 14mm O.D., 220mm long** — does not map cleanly onto pipe sold locally; a question arose whether the bore should be 1/4 in with a 4mm wall, since that thickness would need to accept an 8mm tack strop passed through it. The **220mm length is not fixed** either: it depends on how far the 12mm brass bar is bent, where the tack tie-down hole falls in the deck, and the cabin top's height and shape, so the practical approach is to make the strut long and trim it to fit on final assembly — one came out at 250mm.[190]
 
-The builder who first fixed the failure with bronze (brass) Schedule 40 pipe
-offered a spare length of his own stock — bought as a 10 ft stick, with about
-6 ft left over — to any builder needing some.[191] By the time the offer
-reached him, the UK builder's own rebuilt strut had already stood up to a
-weekend's sailing without recurrence, and he suggested other builders take up
-the spare-pipe offer in his place.[192] His finished tack-strut installation,
-uploaded as reference photographs to the group's file area, also documents a
-practical chafe fix: the rope emerging at the deck entry is sleeved in
-plastic tube to reduce wear at that point.[193] A fuller trial followed a
-six-day cruise: the rebuilt strut held up to everything encountered,
-including force-5 jibes and sailing heavily reefed, confirming the original
-failure had indeed been a matter of an under-built strut rather than any flaw
-in the plans' own design.[211]
+A spare length of bronze (brass) Schedule 40 pipe stock — bought as a 10 ft stick, with about 6 ft left over — was offered to any builder needing some.[191] By the time the offer arrived, the UK rebuilt strut had already stood up to a weekend's sailing without recurrence, so others were pointed to the spare-pipe offer instead.[192] That finished tack-strut installation, uploaded as reference photographs to the group's file area, also documents a practical chafe fix: the rope emerging at the deck entry is sleeved in plastic tube to reduce wear at that point.[193] A fuller trial followed a six-day cruise: the rebuilt strut held up to everything encountered, including force-5 jibes and sailing heavily reefed, confirming the original failure had indeed been a matter of an under-built strut rather than any flaw in the plans' own design.[211]
 
 ## The tack strut and boom axle's pivot joint: why a "V," and alternatives
 
-The tack strut and boom axle both terminate in a **forked ("V") end** at
-their pivot bolt in the plans, which prompted a separate question about
-whether the V-shape is functionally necessary or simply how the plans happen
-to draw it. Two untested alternatives were floated: splitting only one of
-the two pieces (leaving the other whole) to make a narrower fork and a
-shorter pivot bolt, or dispensing with the fork altogether and drilling both
-pieces as plain round-section stock, bolted through side by side.[194] No
-engineering objection to either alternative was recorded; a builder who had
-already built the standard forked ("V") version in Schedule 40 pipe (thick-
-walled pipe, not a special "brass" grade as such) offered to share a
-photograph of his own setup, while flagging one specific practical concern
-with substituting **galvanised steel pipe** — cutting it exposes bare metal
-at the cut ends, which will rust where the galvanising has been cut
-through.[195] The plans' brass pipe itself can be sourced from
-`www.onlinemetals.com`.[196] Proposed fixes for the galvanised-pipe cut-end
-rust problem included **epoxying the pipe ends** and fitting a soft-metal
-(copper) cap where the strut meets the deck;[197] a **cold-galvanising
-spray** product or a "Zinga"-brand coating, both of unproven durability in
-this application; and, as a more thorough option, having the small part
-**hot-dip galvanised** at a metal shop — though a UK builder found local
-galvanisers charge a fixed minimum fee (quoted at £70) regardless of the
-piece's small size, making scrap-yard-sourced galvanised pipe (cheap or
-free, replaced as it rusts) a more practical choice than a custom hot-dip
-run for a single fitting. Black-anodised steel was also floated as a
-durable, corrosion-resistant alternative finish.[199][200] A UK builder
-weighing the plans' brass-pipe source against his own galvanised-pipe
-stock judged shipping brass pipe from the US would carry a disproportionate
-CO2 cost for the size of the part, and stayed with galvanised steel.[198]
+The tack strut and boom axle both terminate in a **forked ("V") end** at their pivot bolt in the plans, which prompted a separate question about whether the V-shape is functionally necessary or simply how the plans happen to draw it. Two untested alternatives were floated: splitting only one of the two pieces (leaving the other whole) to make a narrower fork and a shorter pivot bolt, or dispensing with the fork altogether and drilling both pieces as plain round-section stock, bolted through side by side.[194] No engineering objection to either alternative was recorded; a builder who had already built the standard forked ("V") version in Schedule 40 pipe (thick-walled pipe, not a special "brass" grade as such) offered a photograph of the setup, while flagging one specific practical concern with substituting **galvanised steel pipe** — cutting it exposes bare metal at the cut ends, which will rust where the galvanising has been cut through.[195] The plans' brass pipe itself can be sourced from `www.onlinemetals.com`.[196] Proposed fixes for the galvanised-pipe cut-end rust problem included **epoxying the pipe ends** and fitting a soft-metal (copper) cap where the strut meets the deck;[197] a **cold-galvanising spray** product or a "Zinga"-brand coating, both of unproven durability in this application; and, as a more thorough option, having the small part **hot-dip galvanised** at a metal shop — though local galvanisers charge a fixed minimum fee (quoted at £70) regardless of the piece's small size, making scrap-yard-sourced galvanised pipe (cheap or free, replaced as it rusts) a more practical choice than a custom hot-dip run for a single fitting. Black-anodised steel was also floated as a durable, corrosion-resistant alternative finish.[199][200] Weighing the plans' brass-pipe source against local galvanised-pipe stock, shipping brass pipe from the US would carry a disproportionate CO2 cost for the size of the part, so galvanised steel was kept.[198]
 
-Hot-dip galvanising was set aside for a further practical reason beyond
-cost: local galvanisers, at a fixed minimum charge regardless of part size,
-were judged simply unwilling to deal with the aggravation of one-off small
-pieces, whereas galvanised pipe is cheap or free at scrap yards and can be
-replaced outright as it rusts rather than protected indefinitely.[201][202]
-Sourcing suitable **brass tube** directly, as an alternative to galvanised
-pipe, ran into its own supply problem: non-ferrous scrap yards stock only
-thin-wall tube in short lengths, apparently because factories salvage their
-non-ferrous waste more carefully than their ferrous waste — leaving epoxy
-coating as the practical way to get a strong tube at minimal cost.[205] The
-epoxy-coating method itself was refined to **sanding (abrading) the pipe
-before coating**, with a final coat of paint over the epoxy to protect it
-from UV degradation.[206] Tested in practice, the epoxy method "worked fine"
-and was judged much simpler than sourcing or galvanising metal pipe at
-all.[208][209]
+Hot-dip galvanising was set aside for a further practical reason beyond cost: local galvanisers, at a fixed minimum charge regardless of part size, were judged simply unwilling to deal with the aggravation of one-off small pieces, whereas galvanised pipe is cheap or free at scrap yards and can be replaced outright as it rusts rather than protected indefinitely.[201][202] Sourcing suitable **brass tube** directly, as an alternative to galvanised pipe, ran into its own supply problem: non-ferrous scrap yards stock only thin-wall tube in short lengths, apparently because factories salvage their non-ferrous waste more carefully than their ferrous waste — leaving epoxy coating as the practical way to get a strong tube at minimal cost.[205] The epoxy-coating method itself was refined to **sanding (abrading) the pipe before coating**, with a final coat of paint over the epoxy to protect it from UV degradation.[206] Tested in practice, the epoxy method "worked fine" and was judged much simpler than sourcing or galvanising metal pipe at all.[208][209]
 
-Reference photographs of a finished pivot joint were later uploaded to the
-group's Photos section.[216] The joint's fabrication was described in full:
-the furling rope runs through a sheave mounted on a plate that seizes onto
-the axle via a hose clamp; a sleeve, made from the same stock as the pipe,
-increases the axle's effective diameter and spins freely on it so the
-fitting is free to find its own angle rather than bind; two stops (initially
-just hose clamps) hold the assembly in place, with a planned upgrade to
-formal stops machined from the same brass pipe, drilled, tapped, and fitted
-with an adjustable set screw — brazing on a nut first if the pipe wall
-proves too thin to hold threads on its own. The pivot bolt itself is
-serviced periodically: once its threads wear thin from use, the plan is to
-fit a locking nut, cut the bolt off, and step up to the next bolt size
-(1/8 in shown in the reference photos). The end notches cut into the pipe
-were made with a fiber-disk cutoff wheel, though drilling and hacksawing the
-notches out, then sanding the edges smooth, was noted as a workable
-alternative.[217]
+Reference photographs of a finished pivot joint were later uploaded to the group's Photos section.[216] The joint's fabrication was described in full: the furling rope runs through a sheave mounted on a plate that seizes onto the axle via a hose clamp; a sleeve, made from the same stock as the pipe, increases the axle's effective diameter and spins freely on it so the fitting is free to find its own angle rather than bind; two stops (initially just hose clamps) hold the assembly in place, with a planned upgrade to formal stops machined from the same brass pipe, drilled, tapped, and fitted with an adjustable set screw — brazing on a nut first if the pipe wall proves too thin to hold threads on its own. The pivot bolt itself is serviced periodically: once its threads wear thin from use, the plan is to fit a locking nut, cut the bolt off, and step up to the next bolt size (1/8 in shown in the reference photos). The end notches cut into the pipe were made with a fiber-disk cutoff wheel, though drilling and hacksawing the notches out, then sanding the edges smooth, was noted as a workable alternative.[217]
 
 ## Matt Layden's own furling technique
 
-How Matt furls his sail without a topping lift was an open question for some
-time (see [furling system](/design/furling-system.md) for earlier
-speculation on it). Matt Layden furls single-handed without a topping lift
-by using **foot pressure**: pressure on the furling line with his foot while
-hoisting, and pressure on the halyard with his foot while furling, freeing
-both hands for the other line — witnessed in person at the 2003 Cedar Key
-Messabout: "he really makes it look easy, worth a try." See
-[matt-layden/biography.md](/matt-layden/biography.md)
-for the fuller record of this meeting, and
-[furling system](/design/furling-system.md)
-for the cross-reference.
+How Matt furls his sail without a topping lift was an open question for some time (see [furling system](/design/furling-system.md) for earlier speculation on it). Matt Layden furls single-handed without a topping lift by using **foot pressure**: pressure on the furling line with his foot while hoisting, and pressure on the halyard with his foot while furling, freeing both hands for the other line — witnessed in person at the 2003 Cedar Key Messabout: "he really makes it look easy, worth a try." See [matt-layden/biography.md](/matt-layden/biography.md) for the fuller record of this meeting, and [furling system](/design/furling-system.md) for the cross-reference.
 
-Matt confirmed the technique directly when asked about it: he keeps tension
-on the halyard with his foot, leaving both hands free to furl — a method
-that works well once a builder's feet learn to "behave like hands." The
-technique matters more without a tail on the furling line to grip
-independently.[228]
+Matt confirmed the technique directly when asked about it: he keeps tension on the halyard with his foot, leaving both hands free to furl — a method that works well once a builder's feet learn to "behave like hands." The technique matters more without a tail on the furling line to grip independently.[228]
 
 ## Why Matt Layden's foot-drag furling method needs no extra hardware
 
-A winch-style **"dead drum"** — a fixed, non-turning drum built into the
-vent-trunk cleats to add drag on the slack line while hoisting or
-furling, mirroring how a conventional sailboat winch lets a line slip over
-a stationary drum to ease it off — was proposed as a labor-saving addition
-to the stock foot-drag technique above. The idea does not solve a real
-problem: Matt Layden needs high tension on **both** lines simultaneously,
-since he fits no topping lift, and any dead-drum device would still need a
-foot, not just a cam cleat, to hold the *other* line's two-handed load —
-the existing foot-drag method already gets sufficient drag by bending the
-line over the lip where it exits the vent trunk. More generally, a
-first-time builder is better served building strictly to the stock plans
-before modifying anything: nearly all "improvements" conceived before a
-boat is finished turn out, in hindsight, to stem from a builder's own
-incomplete understanding of how the stock system actually works, whereas
-modifications are easy to make later once the boat is sailing. Of one
-long-time builder's own changes, only two — a window let into the hatch,
-and splitting the underfloor locker lids so they can be opened with the
-seat still down — have proven worth keeping, beyond fitting a topping
-lift.[257][258]
+A winch-style **"dead drum"** — a fixed, non-turning drum built into the vent-trunk cleats to add drag on the slack line while hoisting or furling, mirroring how a conventional sailboat winch lets a line slip over a stationary drum to ease it off — was proposed as a labor-saving addition to the stock foot-drag technique above. The idea does not solve a real problem: Matt Layden needs high tension on **both** lines simultaneously, since he fits no topping lift, and any dead-drum device would still need a foot, not just a cam cleat, to hold the *other* line's two-handed load — the existing foot-drag method already gets sufficient drag by bending the line over the lip where it exits the vent trunk. More generally, a first-time builder is better served building strictly to the stock plans before modifying anything: nearly all "improvements" conceived before a boat is finished turn out, in hindsight, to stem from a builder's own incomplete understanding of how the stock system actually works, whereas modifications are easy to make later once the boat is sailing. Of one long-time builder's own changes, only two — a window let into the hatch, and splitting the underfloor locker lids so they can be opened with the seat still down — have proven worth keeping, beyond fitting a topping lift.[257][258]
 
 ## Masthead reference photographs
 
-Close-up photographs of the masthead fitting are kept in the group's files
-section under the **"Topping Lift" folder**, alongside the topping-lift
-drawings and hardware pictures referenced above (see
-[furling system](/design/furling-system.md)).
+Close-up photographs of the masthead fitting are kept in the group's files section under the **"Topping Lift" folder**, alongside the topping-lift drawings and hardware pictures referenced above (see [furling system](/design/furling-system.md)).
 
 ## A dumb sheave versus a bearing sheave at the masthead
 
-The halyard turns at the masthead over either a **"dumb sheave"** — a plain
-groove cut into the wood, with no moving parts — or a proper **sheave running
-on a bearing**. A **Tufnol sheave on a stainless steel pin** is one
-documented masthead fitting; the case for it over a dumb sheave is that,
-since hauling up the sail is the single most physically demanding task
-aboard, anything that eases that effort — such as fitting a proper bearing
-rather than a plain grooved fairlead — is worthwhile. More than one builder
-has weighed the choice and settled on the running bearing once the extra
-ease of hoisting was pointed out.
+The halyard turns at the masthead over either a **"dumb sheave"** — a plain groove cut into the wood, with no moving parts — or a proper **sheave running on a bearing**. A **Tufnol sheave on a stainless steel pin** is one documented masthead fitting; the case for it over a dumb sheave is that, since hauling up the sail is the single most physically demanding task aboard, anything that eases that effort — such as fitting a proper bearing rather than a plain grooved fairlead — is worthwhile. More than one builder has weighed the choice and settled on the running bearing once the extra ease of hoisting was pointed out.
 
 ## Why the masthead halyard hole sits aft of the mast, twisting the halyard a quarter-turn
 
-Matt Layden's own masthead drawing, read from above, shows the **halyard's
-hole through the deck sitting aft of the mast itself** rather than directly
-in line with it — a detail that puzzles a builder working from the plans for
-the first time, since it appears to twist the halyard a quarter-turn around
-the mast between the sheave and the deck.[174]
+Matt Layden's own masthead drawing, read from above, shows the **halyard's hole through the deck sitting aft of the mast itself** rather than directly in line with it — a detail that puzzles a builder working from the plans for the first time, since it appears to twist the halyard a quarter-turn around the mast between the sheave and the deck.[174]
 
 ## Matt Layden's own sail dimensions (his first list post)
 
-[Matt Layden](/matt-layden/biography.md)'s first-ever post to the list shared
-full dimensions and cutting technique for a **new sail he made for the
-original Paradox in February 2003**: shortened foot, raised peak, a
-higher-aspect, more weatherly cut traded against a small loss of furling
-neatness at the peak. See
-[matt-layden/biography.md](/matt-layden/biography.md)
-for the full record of this landmark first post and
-[construction/sailmaking.md](/construction/sailmaking.md)
-for the complete technical recipe — dimensions, broadseam schedule, and
-luff-tape tensioning — which, as a craft/construction document, is filed
-there rather than duplicated in full here. Dave Bolduc, who sailed the boat
-himself shortly afterward, confirmed the new sail "sets very nicely."
+[Matt Layden](/matt-layden/biography.md)'s first-ever post to the list shared full dimensions and cutting technique for a **new sail he made for the original Paradox in February 2003**: shortened foot, raised peak, a higher-aspect, more weatherly cut traded against a small loss of furling neatness at the peak. See [matt-layden/biography.md](/matt-layden/biography.md) for the full record of this landmark first post and [construction/sailmaking.md](/construction/sailmaking.md) for the complete technical recipe — dimensions, broadseam schedule, and luff-tape tensioning — which, as a craft/construction document, is filed there rather than duplicated in full here. Sailed shortly afterward, the new sail was confirmed to "set very nicely."
 
 ## Mainsheet fouling on the rudder and rear deck with an outboard fitted
 
-A separate hardware problem from the mainsheet-at-the-transom-notch issue
-covered on [rudder and chine experiments](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch)
-concerns the mainsheet catching on the **rudder and rear cleats**, a problem
-made worse by having an **outboard** fitted on the rear deck, which adds one
-more obstacle for the sheet to snag. One proposed fix was an **arch** —
-schedule-40 brass pipe — spanning the rear deck to lift the mainsheet clear
-of the rudder, cleats, and outboard alike, rather than addressing each
-obstacle individually as earlier pintle-cap and webbing-strip fixes did.
+A separate hardware problem from the mainsheet-at-the-transom-notch issue covered on [rudder and chine experiments](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch) concerns the mainsheet catching on the **rudder and rear cleats**, a problem made worse by having an **outboard** fitted on the rear deck, which adds one more obstacle for the sheet to snag. One proposed fix was an **arch** — schedule-40 brass pipe — spanning the rear deck to lift the mainsheet clear of the rudder, cleats, and outboard alike, rather than addressing each obstacle individually as earlier pintle-cap and webbing-strip fixes did.
 
-That arch idea was later replaced, after a week of sea trials at Pirates
-Cove, Alabama following a round of Matt Layden's recommended mods, by a
-built, rather than merely proposed, fix: a **schedule-40 brass rod** mounted
-port to starboard across the transom, a couple of inches above the deck,
-with the mainsheet led out through the transom as the plans show and then
-straight up through a **fairlead on the rod**, tied off above its usual
-tie-off point. This keeps the sheet clear of both the motor and the rudder
-without a full arch spanning the deck, and the same rod doubles as a
-mounting point for the **yuloh** and as a hand-hold — see [Whisper — a
-Wooden Boat Festival appearance, and sea trials at Pirates
-Cove](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove)
-for the full report.
+That arch idea was later replaced, after a week of sea trials at Pirates Cove, Alabama following a round of Matt Layden's recommended mods, by a built, rather than merely proposed, fix: a **schedule-40 brass rod** mounted port to starboard across the transom, a couple of inches above the deck, with the mainsheet led out through the transom as the plans show and then straight up through a **fairlead on the rod**, tied off above its usual tie-off point. This keeps the sheet clear of both the motor and the rudder without a full arch spanning the deck, and the same rod doubles as a mounting point for the **yuloh** and as a hand-hold — see [Whisper — a Wooden Boat Festival appearance, and sea trials at Pirates Cove](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove) for the full report.
 
-No load figure for the mainsheet has ever been calculated from Paradox's
-sail-plan geometry; the practical method, absent one, is empirical — go
-sailing with a spring balance hooked onto the sheet and pull it out to the
-angle the rail would hold it, since the load likely varies considerably by
-point of sail.
+No load figure for the mainsheet has ever been calculated from Paradox's sail-plan geometry; the practical method, absent one, is empirical — go sailing with a spring balance hooked onto the sheet and pull it out to the angle the rail would hold it, since the load likely varies considerably by point of sail.
 
-A variant of the same tangle problem — whether leading the mainsheet in over
-the top of the rear deck, at that level, would help keep the sheet clear of
-an outboard mounted there — remains an open question.
+A variant of the same tangle problem — whether leading the mainsheet in over the top of the rear deck, at that level, would help keep the sheet clear of an outboard mounted there — remains an open question.
 
-Asked more than a year after building his transom-mounted rod fix, David
-Beard confirmed he had never gone on to add a travelling block, since the
-fouling had not become enough of a problem to motivate the extra work,
-though he still expected it would help; he also confirmed he was still
-running the same 2 hp Honda outboard he had used throughout "Whisper"'s
-sea trials — specifically the **short-shaft** version, which he prefers
-over a long-shaft Yamaha he also owns: with the motor fully lowered, its
-lowest point stays above the hull's lowest point, so the hull grounds on a
-submerged obstruction before the motor does.[227]
+More than a year after the transom-mounted rod fix was built, no travelling block was ever added, since the fouling had not become enough of a problem to motivate the extra work, though it was still expected to help; the same 2 hp Honda outboard used throughout "Whisper"'s sea trials was still in service — specifically the **short-shaft** version, preferred over a long-shaft Yamaha also owned: with the motor fully lowered, its lowest point stays above the hull's lowest point, so the hull grounds on a submerged obstruction before the motor does.[227]
 
 ### A horse fitted to clear the outboard, and the mainsheet-angle physics behind it
 
-A concrete fitting answers the same mainsheet/outboard tangle question: a
-**horse** — a small arch, sized only after the motor is mounted so its
-height clears the motor — that can be built from scrap copper tubing or
-small-section timber glued up as a pattern, then taken to a metalworker to
-reproduce in stainless steel; the horse could equally be mounted at the
-transom itself, with stays run up to the deck, to preserve the same
-mainsheet angle shown on Matt Layden's own drawings. A further use for the
-same fitting is welding the rear mooring cleats onto the horse itself.
-Whether running the sheet in through the top of the rear deck, above the
-tiller baffle, would let any water carried in on the sheet drain straight
-back out remains unaddressed.
+A concrete fitting answers the same mainsheet/outboard tangle question: a **horse** — a small arch, sized only after the motor is mounted so its height clears the motor — that can be built from scrap copper tubing or small-section timber glued up as a pattern, then taken to a metalworker to reproduce in stainless steel; the horse could equally be mounted at the transom itself, with stays run up to the deck, to preserve the same mainsheet angle shown on Matt Layden's own drawings. A further use for the same fitting is welding the rear mooring cleats onto the horse itself. Whether running the sheet in through the top of the rear deck, above the tiller baffle, would let any water carried in on the sheet drain straight back out remains unaddressed.
 
-The **mainsheet angle** itself is the angle at which the sheet leaves the
-transom relative to the end of the boom. Flattening this angle (making it
-more horizontal) makes the boom harder to haul into the boat's centerline —
-i.e. harder to sail close-hauled. Weighed directly against an outboard, a
-**yuloh** remains the lighter and cheaper choice: an outboard, bracket, and a
-gallon of fuel add roughly **55 lb** to the stern, against a yuloh's **$15**
-to make and about **5 lb** stowed amidships — Matt Layden himself covered
-several thousand miles under yuloh power alone. Trimming ballast forward to
-compensate for a stern-heavy outboard installation matters: builders who
-ignore it risk a boat that will not tack cleanly and can catch crew in the
-stays when coming about.
+The **mainsheet angle** itself is the angle at which the sheet leaves the transom relative to the end of the boom. Flattening this angle (making it more horizontal) makes the boom harder to haul into the boat's centerline — i.e. harder to sail close-hauled. Weighed directly against an outboard, a **yuloh** remains the lighter and cheaper choice: an outboard, bracket, and a gallon of fuel add roughly **55 lb** to the stern, against a yuloh's **$15** to make and about **5 lb** stowed amidships — Matt Layden himself covered several thousand miles under yuloh power alone. Trimming ballast forward to compensate for a stern-heavy outboard installation matters: builders who ignore it risk a boat that will not tack cleanly and can catch crew in the stays when coming about.
 
-The tradeoff is not clear-cut for every sailor: a diabetic builder who
-cannot rely on his own stamina for extended sculling has chosen to keep an
-old, clutch-and-reverse-less Seagull outboard as well as build a yuloh,
-judging a motor would make better headway than yulohing against a contrary
-wind or tide regardless.
+The tradeoff is not clear-cut for every sailor: a diabetic builder who cannot rely on his own stamina for extended sculling has chosen to keep an old, clutch-and-reverse-less Seagull outboard as well as build a yuloh, judging a motor would make better headway than yulohing against a contrary wind or tide regardless.
 
-Photographs of [Little Cruiser](/matt-layden/little-cruiser.md)'s own
-mainsheet arrangement, posted to the group's Photos section, show it working
-adequately with her outboard fitted, though the outboard's tiller handle
-sometimes catches the sheet. Comparing the two boats explains why their
-mainsheets lean opposite ways: on Little Cruiser the sheet leans toward the
-bow because her sail's center of effort, set by a centerboard, sits just
-forward of amidships, while on
-Paradox the sheet leans aft, because without a centerboard the center of
-effort sits aft of amidships — a further aft-mounted skeg, if ever added
-(see [rudder and chine experiments](/design/rudder.md)), would push the
-center of effort even further aft still by moving the center of lateral
-resistance aft with it. Fuel reaches Little Cruiser's outboard from the
-on-deck tank visible in the Bolducs' photographs by a line that runs
-directly to the Bolducs' old 4 hp Evinrude with no pumping needed, though
-their newer 3.3 hp Mercury requires pumping about once an hour; the Bolducs
-also carry extra ballast forward specifically to compensate for the
-outboard's weight aft.
+Photographs of [Little Cruiser](/matt-layden/little-cruiser.md)'s own mainsheet arrangement, posted to the group's Photos section, show it working adequately with her outboard fitted, though the outboard's tiller handle sometimes catches the sheet. Comparing the two boats explains why their mainsheets lean opposite ways: on Little Cruiser the sheet leans toward the bow because her sail's center of effort, set by a centerboard, sits just forward of amidships, while on Paradox the sheet leans aft, because without a centerboard the center of effort sits aft of amidships — a further aft-mounted skeg, if ever added (see [rudder and chine experiments](/design/rudder.md)), would push the center of effort even further aft still by moving the center of lateral resistance aft with it. Fuel reaches Little Cruiser's outboard from the on-deck tank visible in reference photographs by a line that runs directly to her old 4 hp Evinrude with no pumping needed, though the newer 3.3 hp Mercury requires pumping about once an hour; extra ballast is also carried forward specifically to compensate for the outboard's weight aft.
 
-The boom-length difference between the two boats explains their opposite
-mainsheet lean: Little Cruiser's boom is noticeably shorter than Paradox's,
-so Paradox's mainsheet must angle further aft to reach the same relative
-point on a longer boom. A deck-mounted mainsheet (rather than one led
-through the transom) is impractical on Paradox regardless, since the swivel
-fitting used to roll the boom for reefing would foul on the deck fitting,
-and the motor housing itself sits directly in the sheet's way — though
-bringing the sheet in over the top of the rear deck instead of through the
-transom notch has been floated as a possible way to still clear a fitted
-outboard. For sailors with sea access only via a canal system, the outboard
-is often treated as non-negotiable regardless of the rig-purist case against
-it, since yulohing may be impractical against the volume of boat traffic on
-narrow inland waterways.
+The boom-length difference between the two boats explains their opposite mainsheet lean: Little Cruiser's boom is noticeably shorter than Paradox's, so Paradox's mainsheet must angle further aft to reach the same relative point on a longer boom. A deck-mounted mainsheet (rather than one led through the transom) is impractical on Paradox regardless, since the swivel fitting used to roll the boom for reefing would foul on the deck fitting, and the motor housing itself sits directly in the sheet's way — though bringing the sheet in over the top of the rear deck instead of through the transom notch has been floated as a possible way to still clear a fitted outboard. For sailors with sea access only via a canal system, the outboard is often treated as non-negotiable regardless of the rig-purist case against it, since yulohing may be impractical against the volume of boat traffic on narrow inland waterways.
 
-Getting a boat along a UK canal **without any motor at all** — by yuloh or by
-hauling from the towpath — was weighed as a further option for canal access,
-prompted by the UK canal system's 4 mph speed limit and its frequent lock
-stops.[203] Practical technique for hauling a small boat from the bank: rig
-a bridle to the bow and stern cleats with the towline fixed to the bridle
-about two-thirds of the way back from the bow, set the rudder slightly to
-turn the bow out from the bank, and walk at a comfortable 1.5-2 mph,
-adjusting the bridle fore-and-aft and the rudder angle to find the best
-towing angle and keep the boat running as close to the bank as
-possible.[204] **Towpath hauling** has a documented historical method on the
-River Severn: cargo boats ("trows") were hauled upstream against the current
-from Gloucester as far as Bridgnorth by teams of men on the towpath, with the
-tow rope fastened as high as the masthead in at least one surviving
-illustration; on the canals themselves, horses towed from a point just aft
-of the bow on the centerline, before motors displaced both horses and men as
-cheaper and more reliable. Weighed against towing, a **yuloh** was judged
-too slow to cover meaningful distance on a canal over as much as a week — a
-reasonable yuloh speed on a similar small boat (a sampan) is only about 2
-knots, some 4,000 yards an hour — though on a river running downstream the
-yuloh might instead serve mainly as a steering aid, redundant with the
-rudder; a yuloh was judged more useful for the specific case of passing a
-fishing party at low speed without causing offence than for real
-distance-making.[207]
+Getting a boat along a UK canal **without any motor at all** — by yuloh or by hauling from the towpath — was weighed as a further option for canal access, prompted by the UK canal system's 4 mph speed limit and its frequent lock stops.[203] Practical technique for hauling a small boat from the bank: rig a bridle to the bow and stern cleats with the towline fixed to the bridle about two-thirds of the way back from the bow, set the rudder slightly to turn the bow out from the bank, and walk at a comfortable 1.5-2 mph, adjusting the bridle fore-and-aft and the rudder angle to find the best towing angle and keep the boat running as close to the bank as possible.[204] **Towpath hauling** has a documented historical method on the River Severn: cargo boats ("trows") were hauled upstream against the current from Gloucester as far as Bridgnorth by teams of men on the towpath, with the tow rope fastened as high as the masthead in at least one surviving illustration; on the canals themselves, horses towed from a point just aft of the bow on the centerline, before motors displaced both horses and men as cheaper and more reliable. Weighed against towing, a **yuloh** was judged too slow to cover meaningful distance on a canal over as much as a week — a reasonable yuloh speed on a similar small boat (a sampan) is only about 2 knots, some 4,000 yards an hour — though on a river running downstream the yuloh might instead serve mainly as a steering aid, redundant with the rudder; a yuloh was judged more useful for the specific case of passing a fishing party at low speed without causing offence than for real distance-making.[207]
 
-Line-hauling a boat from the bank has a closer analogy in **Canadian canoe
-travel**, where the technique is called "tracking" going upstream and
-"lining" going downstream: a line is attached at each end of the canoe, the
-two lines are typically tied together, and the person handling them can
-fine-tune how much is paid out to the bow versus the stern to steer around
-obstructions even though the canoe itself carries no rudder. The **main
-practical obstruction** to lining or tracking a disused towpath is
-streamside willow growth between the waterline and the old path, along with
-mud and steep banks; negotiating a bad obstruction can require two people
-working separated lines, with the bow line thrown forward to a lead hauler
-once past the obstacle. A setup with one person aboard (paddling or poling)
-and one ashore on the line is no harder to manage than two people ashore,
-and can steer more easily. A small backup outboard — the Honda 2 hp
-four-stroke was suggested by name — was floated as a sensible hedge against
-relying on hauling or a yuloh alone; walking the towpath and lodging at inns
-overnight, or using a canoe with a portage cart to combine paddling and
-walking around unopenable locks, were both offered as simpler alternatives
-to hauling a Paradox-sized boat the same route. Ontario's Rideau Canal was
-cited as a well-supported example of this kind of mixed paddling-and-
-portaging canal trip, with regular Parks Canada campgrounds along its
-length.[210] A **portage cart** capable of supporting 200+ lb is a further
-practical aid on this kind of trip, letting the crew carry only packs by hand
-while leaving heavier gear in the boat; wood-chip-surfaced portage trails,
-such as those maintained along British Columbia's Bowron Lakes canoe
-circuit, are built specifically to allow cart use over otherwise soft
-ground.[212]
+Line-hauling a boat from the bank has a closer analogy in **Canadian canoe travel**, where the technique is called "tracking" going upstream and "lining" going downstream: a line is attached at each end of the canoe, the two lines are typically tied together, and the person handling them can fine-tune how much is paid out to the bow versus the stern to steer around obstructions even though the canoe itself carries no rudder. The **main practical obstruction** to lining or tracking a disused towpath is streamside willow growth between the waterline and the old path, along with mud and steep banks; negotiating a bad obstruction can require two people working separated lines, with the bow line thrown forward to a lead hauler once past the obstacle. A setup with one person aboard (paddling or poling) and one ashore on the line is no harder to manage than two people ashore, and can steer more easily. A small backup outboard — the Honda 2 hp four-stroke was suggested by name — was floated as a sensible hedge against relying on hauling or a yuloh alone; walking the towpath and lodging at inns overnight, or using a canoe with a portage cart to combine paddling and walking around unopenable locks, were both offered as simpler alternatives to hauling a Paradox-sized boat the same route. Ontario's Rideau Canal was cited as a well-supported example of this kind of mixed paddling-and-portaging canal trip, with regular Parks Canada campgrounds along its length.[210] A **portage cart** capable of supporting 200+ lb is a further practical aid on this kind of trip, letting the crew carry only packs by hand while leaving heavier gear in the boat; wood-chip-surfaced portage trails, such as those maintained along British Columbia's Bowron Lakes canoe circuit, are built specifically to allow cart use over otherwise soft ground.[212]
 
-On the towpath-hauling method itself, the disused-towpath willow problem is
-worse on rivers subject to ancient navigation rights, where the paths are no
-longer maintained; finding teams of rope haulers today is equally
-impractical, since the historical hauling gangs were themselves notorious
-for hard drinking and brawling, prompting repeated but unsuccessful attempts
-by 18th- and 19th-century authorities to disband them.[213] Weighing an
-outboard as backup against the towpath-hauling and yuloh options, an
-air-cooled small four-stroke was flagged as reportedly noisy in practice,
-leaving the plainer alternative — walking the towpath and staying at inns
-overnight — as, in one builder's view, simply the easier way to travel.[213]
+On the towpath-hauling method itself, the disused-towpath willow problem is worse on rivers subject to ancient navigation rights, where the paths are no longer maintained; finding teams of rope haulers today is equally impractical, since the historical hauling gangs were themselves notorious for hard drinking and brawling, prompting repeated but unsuccessful attempts by 18th- and 19th-century authorities to disband them.[213] Weighing an outboard as backup against the towpath-hauling and yuloh options, an air-cooled small four-stroke was flagged as reportedly noisy in practice, leaving the plainer alternative — walking the towpath and staying at inns overnight — as, in one builder's view, simply the easier way to travel.[213]
 
-Crossing from England to the continent to reach European canals was
-separately judged straightforward under sail alone: the **English Channel**
-has been crossed many times in craft far smaller and less seaworthy than a
-Paradox, "in craft as small as Mirrors and even the odd bathtub," making a
-towed or ferried crossing unnecessary.[214]
+Crossing from England to the continent to reach European canals was separately judged straightforward under sail alone: the **English Channel** has been crossed many times in craft far smaller and less seaworthy than a Paradox, "in craft as small as Mirrors and even the odd bathtub," making a towed or ferried crossing unnecessary.[214]
 
-A firsthand verdict on the yuloh closes out the thread: it works excellently
-as a power source once the wind drops, but against any wind it is hard work
-to make progress in any direction except downwind, since the yuloh's thrust
-acts so far aft that it cannot easily stop the bow blowing off — fine for
-manoeuvring in a marina, but not a method that could sustain long-distance
-windward progress.[215]
+A firsthand verdict on the yuloh closes out the thread: it works excellently as a power source once the wind drops, but against any wind it is hard work to make progress in any direction except downwind, since the yuloh's thrust acts so far aft that it cannot easily stop the bow blowing off — fine for manoeuvring in a marina, but not a method that could sustain long-distance windward progress.[215]
 
-The core risk restated: an outboard protruding above the transom's top edge
-is struck by the mainsheet on every tack. A tilted-motor-storage approach is
-judged unsafe in a serious jibe — with the sheet already slack as the boom
-crosses, it could catch under the tilted motor's leg and tear it off — and a
-metal hoop cage around a mounted outboard on a lifting bracket has been set
-aside as not worth the effort, particularly given the added problem of where
-to then stow the fuel. One preferred solution is different in kind: an
-**electric outboard**, stowed inside the cabin and mounted alongside the
-steering position only when in use, avoiding the fouling problem altogether
-by removing the permanently-mounted motor.
+The core risk restated: an outboard protruding above the transom's top edge is struck by the mainsheet on every tack. A tilted-motor-storage approach is judged unsafe in a serious jibe — with the sheet already slack as the boom crosses, it could catch under the tilted motor's leg and tear it off — and a metal hoop cage around a mounted outboard on a lifting bracket has been set aside as not worth the effort, particularly given the added problem of where to then stow the fuel. One preferred solution is different in kind: an **electric outboard**, stowed inside the cabin and mounted alongside the steering position only when in use, avoiding the fouling problem altogether by removing the permanently-mounted motor.
 
-Proper jibing technique — taking in mainsheet slack before the boom
-crosses — reduces rig stress regardless of motor mounting, though doing so
-promptly can be harder aboard a Paradox than a conventional boat. One
-protective detail for a horse fitted above the outboard: a section of rubber
-teething-ring (of the kind sold for dogs), tied on with shock cord and
-hooked around the motor's skeg and engine casing, to cushion any incidental
-contact — worthwhile given that a couple of **unexpected jibes** while
-inattentive have been recorded, and taking in slack in time is not
-guaranteed under those conditions: "it would only need one" to cause
-damage.[170]
+Proper jibing technique — taking in mainsheet slack before the boom crosses — reduces rig stress regardless of motor mounting, though doing so promptly can be harder aboard a Paradox than a conventional boat. One protective detail for a horse fitted above the outboard: a section of rubber teething-ring (of the kind sold for dogs), tied on with shock cord and hooked around the motor's skeg and engine casing, to cushion any incidental contact — worthwhile given that a couple of **unexpected jibes** while inattentive have been recorded, and taking in slack in time is not guaranteed under those conditions: "it would only need one" to cause damage.[170]
 
-A long boom, once its full length is actually appreciated from a photograph
-of a finished boat, raises the question whether the mainsheet's attachment
-point could instead be brought further down the boom, to a point above the
-rear deck, with doubled pulleys used to recover the resulting change in
-leverage — and whether a secure attachment could even be made to a boom that
-rolls the sail up around itself for furling. Side-mounting the outboard,
-rather than mounting it on the transom centerline, is a separate idea for
-keeping it clear of the mainsheet and rudder altogether.[171]
+A long boom, once its full length is actually appreciated from a photograph of a finished boat, raises the question whether the mainsheet's attachment point could instead be brought further down the boom, to a point above the rear deck, with doubled pulleys used to recover the resulting change in leverage — and whether a secure attachment could even be made to a boom that rolls the sail up around itself for furling. Side-mounting the outboard, rather than mounting it on the transom centerline, is a separate idea for keeping it clear of the mainsheet and rudder altogether.[171]
 
-From a completed boat's own experience: moving the sheet attachment down the
-boom gains only a few inches of clearance, at a real cost in leverage — and
-doing so changes the sail's geometry, which risks the boat sailing worse for
-the sake of the fitting, given how carefully Matt Layden had already worked
-out the rig. A simple **motor-mount offset to the starboard side** keeps the
-motor clear of the rudder and transom and lets it tilt down more easily
-without striking the rear deck, though the sheet can still foul the rudder
-or motor when a sailor is distracted with other tasks underway — a
-hula-hoop-like guide in that area has been floated as a possible fix. A
-related problem on the same boat's **Mark II sail**: the boom rode very low,
-occasionally dragging in the water, because the yard's attachment point was
-set a bit too far forward, leaving a crease at the sail's top and failing to
-lift the sail's rear edge properly — correctable by adjusting the yard and
-sail rather than the boom, or by fitting a modified topping lift, a fix
-that has worked for the same symptom on another boat.[172][173]
+From a completed boat's own experience: moving the sheet attachment down the boom gains only a few inches of clearance, at a real cost in leverage — and doing so changes the sail's geometry, which risks the boat sailing worse for the sake of the fitting, given how carefully Matt Layden had already worked out the rig. A simple **motor-mount offset to the starboard side** keeps the motor clear of the rudder and transom and lets it tilt down more easily without striking the rear deck, though the sheet can still foul the rudder or motor when a sailor is distracted with other tasks underway — a hula-hoop-like guide in that area has been floated as a possible fix. A related problem on the same boat's **Mark II sail**: the boom rode very low, occasionally dragging in the water, because the yard's attachment point was set a bit too far forward, leaving a crease at the sail's top and failing to lift the sail's rear edge properly — correctable by adjusting the yard and sail rather than the boom, or by fitting a modified topping lift, a fix that has worked for the same symptom on another boat.[172][173]
 
-A hoop-cage idea for guarding the outboard draws a safety objection of its
-own: reentry over the stern past a raised cage would force a sailor to hop
-rather than step, raising the body's center of gravity at the least
-convenient moment — a Paradox is unlikely to go over as a result, but the
-sailor doing the hopping might, making a hand-hold plus a light canvas cover
-for the stowed outboard the safer mitigation. **Stability itself is not a
-practical concern for a Paradox** even at the stern: three adults have stood
-on the aft deck at once without incident, including underway under sail,
-consistent with the further documented evidence of the design's stability
-described in [weight, ballast, and displacement — self-righting range, and
-bailing without opening the
-hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
+A hoop-cage idea for guarding the outboard draws a safety objection of its own: reentry over the stern past a raised cage would force a sailor to hop rather than step, raising the body's center of gravity at the least convenient moment — a Paradox is unlikely to go over as a result, but the sailor doing the hopping might, making a hand-hold plus a light canvas cover for the stowed outboard the safer mitigation. **Stability itself is not a practical concern for a Paradox** even at the stern: three adults have stood on the aft deck at once without incident, including underway under sail, consistent with the further documented evidence of the design's stability described in [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
 
-**Matt Layden's own mainsheet is a single line with no block at the boom
-end** — a simpler arrangement than the pintle-cap, webbing-strip, or
-brass-arch fixes other builders devised, observed on the original Paradox
-during the **Water Tribe Challenge**. No photograph of the rig was confirmed
-for some time: searches for Water Tribe Challenge photographs turned up only
-Matt's boat drawn up on a beach with her sail down, not the stern view
-needed to see the mainsheet arrangement itself, and two candidate links (a
-Guillemot Kayaks raft-race page and a Wayfarer-club regatta report) that, on
-inspection, did not actually show the setup either — until the photograph
-below settled it. Separately, Matt is on record placing **second in a Water
-Tribe race on Lake Michigan sailing a 10 ft inflatable** rather than a
-Paradox — see [Matt Layden](/matt-layden/biography.md#other-craft-and-events)
-for that result.
+**Matt Layden's own mainsheet is a single line with no block at the boom end** — a simpler arrangement than the pintle-cap, webbing-strip, or brass-arch fixes other builders devised, observed on the original Paradox during the **Water Tribe Challenge**. No photograph of the rig was confirmed for some time: searches for Water Tribe Challenge photographs turned up only Matt's boat drawn up on a beach with her sail down, not the stern view needed to see the mainsheet arrangement itself, and two candidate links (a Guillemot Kayaks raft-race page and a Wayfarer-club regatta report) that, on inspection, did not actually show the setup either — until the photograph below settled it. Separately, Matt is on record placing **second in a Water Tribe race on Lake Michigan sailing a 10 ft inflatable** rather than a Paradox — see [Matt Layden](/matt-layden/biography.md#other-craft-and-events) for that result.
 
-The single-line rig is confirmed as **Matt's everyday setup, not a race
-modification**, and requires noticeably more effort to haul in than a
-blocked mainsheet — settling that his stripped-down Water Tribe Challenge
-rig was not a race-only expedient but how he sails day to day.
+The single-line rig is confirmed as **Matt's everyday setup, not a race modification**, and requires noticeably more effort to haul in than a blocked mainsheet — settling that his stripped-down Water Tribe Challenge rig was not a race-only expedient but how he sails day to day.
 
 ### The Sailing Magazine photograph: Matt's actual sheet routing, confirmed
 
-The missing image finally turned up not from the group's own files but from
-a **June 2003 issue of Sailing Magazine** (p. 68 and p. 70), in an article
-titled **"To Key Largo, Any Way You Can"** covering the **WaterTribe
-Everglades Challenge** Matt won (see [Matt Layden — the
-win](/matt-layden/biography.md#the-win) for the race itself). The picture
-appears to show the sheet running through a hole in the transom into the
-hull, just to port of the upper rudder pintle, chafing slightly against the
-pintle — though the photo was printed **mirror-reversed**, confirmed by
-comparison with a second photo on p. 70 (of Matt demonstrating the yuloh)
-showing the same details the other way round. A corrected, right-reading
-re-photograph was uploaded to the group's Files section
-(`/mainsheet picture/Sailing Mag. Paradox.JPG`), confirming it shows **the
-sheeting method Matt actually uses on his own boat, different from the
-plans**. The July 2003 issue of the same magazine carries further Paradox
-photos as well as coverage of sailing canoes.
+The missing image finally turned up not from the group's own files but from a **June 2003 issue of Sailing Magazine** (p. 68 and p. 70), in an article titled **"To Key Largo, Any Way You Can"** covering the **WaterTribe Everglades Challenge** Matt won (see [Matt Layden — the win](/matt-layden/biography.md#the-win) for the race itself). The picture appears to show the sheet running through a hole in the transom into the hull, just to port of the upper rudder pintle, chafing slightly against the pintle — though the photo was printed **mirror-reversed**, confirmed by comparison with a second photo on p. 70 (of Matt demonstrating the yuloh) showing the same details the other way round. A corrected, right-reading re-photograph was uploaded to the group's Files section (`/mainsheet picture/Sailing Mag. Paradox.JPG`), confirming it shows **the sheeting method Matt actually uses on his own boat, different from the plans**. The July 2003 issue of the same magazine carries further Paradox photos as well as coverage of sailing canoes.
 
-Since the plans specify a two-part sheet while Matt's own boat runs a
-single-part one, an open design-intent question follows: if Matt built and
-sailed the simpler single-part sheet himself but drew the plans with a
-two-part sheet instead, that choice implies he saw something wanting in the
-arrangement he actually uses — raising the question of why he never updated
-his own boat to match the plans. No answer is on record.
+Since the plans specify a two-part sheet while Matt's own boat runs a single-part one, an open design-intent question follows: if Matt built and sailed the simpler single-part sheet himself but drew the plans with a two-part sheet instead, that choice implies he saw something wanting in the arrangement he actually uses — raising the question of why he never updated his own boat to match the plans. No answer is on record.
 
 ## Rig details from microcruising.com
 
-The whole boat carries **only three running lines** — halyard, reef line,
-sheet: "There were only three running lines on the whole boat: One to raise
-sail, one to reef and one to sheet." Paradox is **cat-rigged** (no jib), and
-its simple lug sail rolls/furls around the boom. Matt reused the simpler
-boom-furled lug sail from his earlier boats on Paradox but "improved it with
-a drum so that it could be reefed from inside" — see
-[furling system](/design/furling-system.md) for the mechanism in more detail.
-David & Mindy Bolduc report reefing takes about **20 seconds** (release the
-halyard, pull in the reef line(s)), and that the boat's **best upwind
-performance comes from easing the sheet more than a sloop would**.
+The whole boat carries **only three running lines** — halyard, reef line, sheet: "There were only three running lines on the whole boat: One to raise sail, one to reef and one to sheet." Paradox is **cat-rigged** (no jib), and its simple lug sail rolls/furls around the boom. Matt reused the simpler boom-furled lug sail from his earlier boats on Paradox but "improved it with a drum so that it could be reefed from inside" — see [furling system](/design/furling-system.md) for the mechanism in more detail. Reefing takes about **20 seconds** (release the halyard, pull in the reef line(s)), and the boat's **best upwind performance comes from easing the sheet more than a sloop would**.
 
-The **mast is short and lowers quickly**, an intentional design choice so
-Matt's boats could duck under low East-Coast bridges without waiting for an
-opening. On [Little Cruiser](/matt-layden/little-cruiser.md) the mast is
-"supported by struts to facilitate raising and lowering, which is handy for
-getting under low bridges"; on Paradox, per the site's design-lineage
-account, "the mast was stepped like in his earlier [chine-runner] designs,
-but he made a small self-draining well for it to sit in," resting in "a
-special tabernacle or articulating strut that allows it to be easily
-lowered to one side. All you have to do is pull a pin and the whole rig
-folds down." Cross-link [furling system](/design/furling-system.md),
-[sailmaking](/construction/sailmaking.md), and
-[Little Cruiser](/matt-layden/little-cruiser.md).
+The **mast is short and lowers quickly**, an intentional design choice so Matt's boats could duck under low East-Coast bridges without waiting for an opening. On [Little Cruiser](/matt-layden/little-cruiser.md) the mast is "supported by struts to facilitate raising and lowering, which is handy for getting under low bridges"; on Paradox, "the mast was stepped like in his earlier [chine-runner] designs, but he made a small self-draining well for it to sit in," resting in "a special tabernacle or articulating strut that allows it to be easily lowered to one side. All you have to do is pull a pin and the whole rig folds down." Cross-link [furling system](/design/furling-system.md), [sailmaking](/construction/sailmaking.md), and [Little Cruiser](/matt-layden/little-cruiser.md).
 
 ## A birdmouth carbon-fiber composite spar, as an alternative to the plans' rig
 
-Beyond laminating carbon fiber tow onto a solid wood spar to stiffen it
-(above), a builder can go further and build the whole spar as a **wood/carbon
-composite**, matching designer [Matt Layden](/matt-layden/biography.md)'s own
-original composite-rig intent for the design. One proposed method builds the
-spars using the **birdmouth method** — staved, hollow construction from
-strips of **Sitka spruce or a less-brittle cedar than Western Red** — with
-the resulting wood spar serving as a **permanent, semi-structural mandrel**
-for an outer layer of **braided carbon-fiber sleeve**. The braided sleeve is
-slid onto the spar dry, worked along its full length the way a **Chinese
-finger cuff** tightens, then wetted out with epoxy — ideally **without
-vacuum bagging**, where that equipment isn't available. An orthopedic-supply
-source for braided carbon sleeve exists (formulated for easy wet-out, of
-uncertain epoxy compatibility), though a sleeve sourced from the
-**aerospace/aircraft industry** would be preferable for better-characterized
-strength properties; **A&P Technology** (`braider.com`) is one candidate
-supplier specializing in braided composites generally. No report of the spar
-being completed is recorded.
+Beyond laminating carbon fiber tow onto a solid wood spar to stiffen it (above), a builder can go further and build the whole spar as a **wood/carbon composite**, matching designer [Matt Layden](/matt-layden/biography.md)'s own original composite-rig intent for the design. One proposed method builds the spars using the **birdmouth method** — staved, hollow construction from strips of **Sitka spruce or a less-brittle cedar than Western Red** — with the resulting wood spar serving as a **permanent, semi-structural mandrel** for an outer layer of **braided carbon-fiber sleeve**. The braided sleeve is slid onto the spar dry, worked along its full length the way a **Chinese finger cuff** tightens, then wetted out with epoxy — ideally **without vacuum bagging**, where that equipment isn't available. An orthopedic-supply source for braided carbon sleeve exists (formulated for easy wet-out, of uncertain epoxy compatibility), though a sleeve sourced from the **aerospace/aircraft industry** would be preferable for better-characterized strength properties; **A&P Technology** (`braider.com`) is one candidate supplier specializing in braided composites generally. No report of the spar being completed is recorded.
 
 ## Aluminum as a mast material: engineering fit, not just substitution
 
-Beyond the secondhand-aluminum-mast question addressed above, the
-engineering discipline behind a like-for-like substitution matters: an
-aluminum mast salvaged from a lighter dinghy cannot simply be reused on a
-Paradox on the strength of matching diameters, since aluminum and wood of
-the same diameter do **not** carry comparable strength — a mismatch
-"patently absurd" to assume, doubly so on an unstayed rig with no yard
-parrel to share the load, where a mast built too light will go out of column
-and buckle under a deep reef. The correct method is either to run the
-numbers — using a yacht-design text's spar formulas to work out the aluminum
-diameter and wall thickness that actually equal the plans' wooden mast in
-strength — or to buy new material sized to match, rather than trust luck
-with a secondhand spar.
+Beyond the secondhand-aluminum-mast question addressed above, the engineering discipline behind a like-for-like substitution matters: an aluminum mast salvaged from a lighter dinghy cannot simply be reused on a Paradox on the strength of matching diameters, since aluminum and wood of the same diameter do **not** carry comparable strength — a mismatch "patently absurd" to assume, doubly so on an unstayed rig with no yard parrel to share the load, where a mast built too light will go out of column and buckle under a deep reef. The correct method is either to run the numbers — using a yacht-design text's spar formulas to work out the aluminum diameter and wall thickness that actually equal the plans' wooden mast in strength — or to buy new material sized to match, rather than trust luck with a secondhand spar.
 
-A practical caution pulls the other way: building the plans' wooden mast has
-**proved easier than expected** for at least one builder, and a hull already
-finished around an unsatisfactory aluminum mast would be far harder to
-convert to a different rig than simply building the wooden mast correctly
-the first time — an argument for getting the substitution right before
-committing the hull, not after.
+A practical caution pulls the other way: building the plans' wooden mast has **proved easier than expected** for at least one builder, and a hull already finished around an unsatisfactory aluminum mast would be far harder to convert to a different rig than simply building the wooden mast correctly the first time — an argument for getting the substitution right before committing the hull, not after.
 
-A related open question: whether Matt Layden's own wooden mast was actually
-engineered to a calculated section, or was more a
-matter of what materials Matt had on hand at the time — unanswered on
-record. A separate ambiguity — a "how many spares will you have?" aside —
-was later clarified as being about carrying spare masts at all, not spare
-parts for one.
+A related open question: whether Matt Layden's own wooden mast was actually engineered to a calculated section, or was more a matter of what materials Matt had on hand at the time — unanswered on record. A separate ambiguity — a "how many spares will you have?" aside — was later clarified as being about carrying spare masts at all, not spare parts for one.
 
 ## How much draft a Paradox lug sail should carry
 
-How much draft (camber) a properly cut Paradox lug sail should have, and
-whether anyone had measured it, weighs two data points against each other.
-Matt Layden's own sail has been described as **cut flat**, but a
-**heavier vessel needs more, not less, draft** — see [the yard-bowing/draft
-discussion above](#sail-shape-tacking-asymmetry-and-reefing-behavior) for
-Matt's own view that his sail "could still use a little more draft" even at
-its existing fullness. Corroborating that from firsthand knowledge: Matt
-Layden's own sail already carries a generous amount of draft, and Matt has
-been considering adding still more, with his own write-up in the group's
-Files section giving the full detail.
+How much draft (camber) a properly cut Paradox lug sail should have, and whether anyone had measured it, weighs two data points against each other. Matt Layden's own sail has been described as **cut flat**, but a **heavier vessel needs more, not less, draft** — see [the yard-bowing/draft discussion above](#sail-shape-tacking-asymmetry-and-reefing-behavior) for Matt's own view that his sail "could still use a little more draft" even at its existing fullness. Corroborating that from firsthand knowledge: Matt Layden's own sail already carries a generous amount of draft, and Matt has been considering adding still more, with his own write-up in the group's Files section giving the full detail.
 
-The question of whether to add more draft recurs for any builder preparing
-to have a **new sail made** and wondering whether to follow Matt's posted
-dimensions or revise them first. The safer recommendation is to go with the
-latest, already-tested revision rather than gamble on an unproven cut —
-though experimenting can be worthwhile for a builder sewing his own sail who
-already has one good sail as a fallback. [Little
-Cruiser](/matt-layden/little-cruiser.md)'s own next sail added a heavier 5
-oz cloth, a shorter top batten, and a tighter leech tabling, with greater
-draft explicitly not among the changes — consistent with builders generally
-remaining very happy with sails cut to the existing draft, while Matt
-himself keeps considering a little more in his own next one.
+The question of whether to add more draft recurs for any builder preparing to have a **new sail made** and wondering whether to follow Matt's posted dimensions or revise them first. The safer recommendation is to go with the latest, already-tested revision rather than gamble on an unproven cut — though experimenting can be worthwhile for a builder sewing his own sail who already has one good sail as a fallback. [Little Cruiser](/matt-layden/little-cruiser.md)'s own next sail added a heavier 5 oz cloth, a shorter top batten, and a tighter leech tabling, with greater draft explicitly not among the changes — consistent with builders generally remaining very happy with sails cut to the existing draft, while Matt himself keeps considering a little more in his own next one.
 
 ## A speculative small jib
 
-The stock Paradox rig carries a single lugsail with no headsail. Adding a
-small jib salvaged from a **14 ft Blue Jay dinghy**, purely experimentally
-("I must tinker"), is one recorded attempt to see what effect a headsail
-would have on performance. A similar experiment on one of Matt Layden's own
-chine-runner models, fitting a jib, found it **pointed a few degrees
-higher** — worth trying for fun, though not obviously worth the added
-complexity; Matt Layden himself "tinkers a lot too" and once tried a
-spinnaker on one of his cruisers, the remains of which turned up aboard
-[Little Cruiser](/matt-layden/little-cruiser.md) when the Bolducs first
-acquired her, later repurposed into a windscoop. The strongest practical
-case for a small jib comes from a different rationale than pointing
-performance: after repeatedly getting stuck head-to-wind in irons one
-weekend sailing the Salcombe estuary — recoverable only by pulling the bow
-around with the yuloh — a small jib would be genuinely useful for pushing
-the bow through exactly that situation. This remains the only recorded
-experiment adding a second sail to a Paradox.
+The stock Paradox rig carries a single lugsail with no headsail. Adding a small jib salvaged from a **14 ft Blue Jay dinghy**, purely experimentally ("I must tinker"), is one recorded attempt to see what effect a headsail would have on performance. A similar experiment on one of Matt Layden's own chine-runner models, fitting a jib, found it **pointed a few degrees higher** — worth trying for fun, though not obviously worth the added complexity; Matt Layden himself "tinkers a lot too" and once tried a spinnaker on one of his cruisers, the remains of which turned up aboard [Little Cruiser](/matt-layden/little-cruiser.md), later repurposed into a windscoop. The strongest practical case for a small jib comes from a different rationale than pointing performance: after repeatedly getting stuck head-to-wind in irons one weekend sailing the Salcombe estuary — recoverable only by pulling the bow around with the yuloh — a small jib would be genuinely useful for pushing the bow through exactly that situation. This remains the only recorded experiment adding a second sail to a Paradox.
 
 ## Halyard fixing point on the spar: an open question
 
-Where on the **top spar (yard)** the halyard's own fixing point should sit
-was raised as a question in its own right, separate from the masthead-hole
-and quarter-turn-twist question recorded elsewhere on this page.[179] One
-practice is to tie the halyard round the spar through a hoop screwed to its
-underside near the sail's own gap in the cloth, left loose enough to move
-the hoop if needed until the sail can actually be hoisted and checked.[180]
-Another builder places the fixing point at the center of the yard's tapers,
-roughly 700 mm in from the end on his own spar, tying off the halyard there
-rather than fixing it hard, though he was never certain the position was
-correct.[181] The dimension is shown on the plans, though not recalled
-precisely from memory.[182] Not every sail necessarily has a gap in the
-cloth at all, in which case a builder can cut one to suit once the exact
-fixing point is confirmed, taking care to place it correctly rather than
-risk cutting in the wrong spot.[183] Reading the measurements directly off
-the plans' page-1 sail drawing gives a concrete figure: the gap sits
-**664.35 mm from the front and 1935.65 mm from the back** of the sail,
-though a builder working from that drawing should still double-check the
-figure against their own plan set before cutting.[184]
+Where on the **top spar (yard)** the halyard's own fixing point should sit was raised as a question in its own right, separate from the masthead-hole and quarter-turn-twist question recorded elsewhere on this page.[179] One practice is to tie the halyard round the spar through a hoop screwed to its underside near the sail's own gap in the cloth, left loose enough to move the hoop if needed until the sail can actually be hoisted and checked.[180] Another builder places the fixing point at the center of the yard's tapers, roughly 700 mm in from the end on his own spar, tying off the halyard there rather than fixing it hard, though he was never certain the position was correct.[181] The dimension is shown on the plans, though not recalled precisely from memory.[182] Not every sail necessarily has a gap in the cloth at all, in which case a builder can cut one to suit once the exact fixing point is confirmed, taking care to place it correctly rather than risk cutting in the wrong spot.[183] Reading the measurements directly off the plans' page-1 sail drawing gives a concrete figure: the gap sits **664.35 mm from the front and 1935.65 mm from the back** of the sail, though a builder working from that drawing should still double-check the figure against their own plan set before cutting.[184]
 
 # Citations
 

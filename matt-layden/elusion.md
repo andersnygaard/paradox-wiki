@@ -8,23 +8,11 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Elusion
 
-**Elusion** is [Matt Layden](/matt-layden/biography.md)'s newest
-micro-cruiser — the most recent boat in the documented Layden build order,
-following [Terrapin](/matt-layden/terrapin.md),
-[Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md),
-[Little Cruiser](/matt-layden/little-cruiser.md), the [Paradox](/paradox.md),
-[Enigma](/matt-layden/enigma.md), and [Sand Flea](/matt-layden/sand-flea.md).
-She is not a Paradox hull but shares much of Enigma's construction and design —
-itself a boat that blends [Little Cruiser](/matt-layden/little-cruiser.md)'s
-hull shape with [Paradox](/paradox.md)'s furling rig and
-[chine runners](/chine-runners/how-they-work.md).
+**Elusion** is [Matt Layden](/matt-layden/biography.md)'s newest micro-cruiser — the most recent boat in the documented Layden build order, following [Terrapin](/matt-layden/terrapin.md), [Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md), [Little Cruiser](/matt-layden/little-cruiser.md), the [Paradox](/paradox.md), [Enigma](/matt-layden/enigma.md), and [Sand Flea](/matt-layden/sand-flea.md). She is not a Paradox hull but shares much of Enigma's construction and design — itself a boat that blends [Little Cruiser](/matt-layden/little-cruiser.md)'s hull shape with [Paradox](/paradox.md)'s furling rig and [chine runners](/chine-runners/how-they-work.md).
 
 ## A lighter, smaller Enigma
 
-Elusion is similar to Enigma in construction and design, but smaller and
-lighter still — about **120 lbs**, light enough to be realistically
-transported on the roof of a vehicle, making her even easier to cartop than
-Enigma.
+Elusion is similar to Enigma in construction and design, but smaller and lighter still — about **120 lbs**, light enough to be realistically transported on the roof of a vehicle, making her even easier to cartop than Enigma.
 
 ## Design particulars
 
@@ -36,36 +24,21 @@ Enigma.
 | Sail area | not given |
 | Displacement | ~360 lbs |
 
-Sail area is not given. The ~360 lb displacement and the ~120 lb
-"roof-transportable" weight most likely represent laden/design displacement
-versus a lighter unladen hull weight, following the same empty-vs-laden
-pattern documented for [Enigma](/matt-layden/enigma.md).
+Sail area is not given. The ~360 lb displacement and the ~120 lb "roof-transportable" weight most likely represent laden/design displacement versus a lighter unladen hull weight, following the same empty-vs-laden pattern documented for [Enigma](/matt-layden/enigma.md).
 
-Interesting details, matching the same set used for Paradox and Enigma:
-**chine runners**; **stand-up paddle auxiliary**; **self righting**;
-**positive buoyancy**; **all lines lead into cabin**.
+Interesting details, matching the same set used for Paradox and Enigma: **chine runners**; **stand-up paddle auxiliary**; **self righting**; **positive buoyancy**; **all lines lead into cabin**.
 
 ## An unusual auxiliary: a stand-up paddle
 
-Where the rest of the Layden lineage relies on a **sculling oar** or yuloh for
-auxiliary propulsion (see
-[yuloh and stowed-rig retention](/design/yuloh-and-stowed-rig-retention.md)),
-Elusion is the exception: her auxiliary is not the usual sculling oar but
-instead a **stand-up paddle**.
+Where the rest of the Layden lineage relies on a **sculling oar** or yuloh for auxiliary propulsion (see [yuloh and stowed-rig retention](/design/yuloh-and-stowed-rig-retention.md)), Elusion is the exception: her auxiliary is not the usual sculling oar but instead a **stand-up paddle**.
 
 ## Racing history
 
-In **2010**, Matt entered Elusion in the **1,200-mile Watertribe Ultimate
-Florida Challenge** — the demanding circumnavigation race around Florida in
-which Enigma had won her class back in 2006 — and **placed first in his class**
-once again.
+In **2010**, Matt entered Elusion in the **1,200-mile Watertribe Ultimate Florida Challenge** — the demanding circumnavigation race around Florida in which Enigma had won her class back in 2006 — and **placed first in his class** once again.
 
 ## Further media
 
-Beyond the source site's own photos, further Elusion material is linked
-externally: additional photos on **Flickr**
-(`http://www.flickr.com/photos/58781034@N00/4412683434/`) and a
-**YouTube video** (`http://www.youtube.com/watch?v=UmCvru7K7Qo`).
+Beyond the source site's own photos, further Elusion material is linked externally: additional photos on **Flickr** (`http://www.flickr.com/photos/58781034@N00/4412683434/`) and a **YouTube video** (`http://www.youtube.com/watch?v=UmCvru7K7Qo`).
 
 # Citations
 

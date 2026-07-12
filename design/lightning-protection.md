@@ -8,104 +8,41 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Lightning protection
 
-The [Paradox](/paradox.md) plans specify a lightning-dissipation rod at the
-masthead, wired down through the mast to a grounded plate or fitting at the
-waterline (see also the mast's [reuse as a permanent HF radio
-groundplane](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire),
-which depends on the same wiring run).
+The [Paradox](/paradox.md) plans specify a lightning-dissipation rod at the masthead, wired down through the mast to a grounded plate or fitting at the waterline (see also the mast's [reuse as a permanent HF radio groundplane](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire), which depends on the same wiring run).
 
 ## De-ionization, not attraction
 
-The masthead fitting is properly a **de-ionization rod**, not a "lightning
-rod," and works by a common misconception's opposite: it does **not**
-attract a strike and conduct it safely to ground, but instead **repels** a
-strike so it never reaches the boat at all.
+The masthead fitting is properly a **de-ionization rod**, not a "lightning rod," and works by a common misconception's opposite: it does **not** attract a strike and conduct it safely to ground, but instead **repels** a strike so it never reaches the boat at all.
 
-- A visible lightning strike wanders across the sky rather than falling in
-  a straight line because the discharge follows wherever the air's ions
-  happen to be — and those ions are usually falling.
-- The rod **grounds the air directly above its own tip**, effectively
-  shorting out the ions in the air within roughly **20 degrees all the way
-  around the boat**. With no charged path left for a strike to follow down
-  to the boat, the lightning is forced to discharge somewhere else instead.
-  The volume of air below the rod's tip that this protects is called the
-  **cone of protection**.
-- A boat correctly fitted with a system like Matt Layden's should, on this
-  theory, **never have to worry about taking a direct strike**.
+- A visible lightning strike wanders across the sky rather than falling in a straight line because the discharge follows wherever the air's ions happen to be — and those ions are usually falling.
+- The rod **grounds the air directly above its own tip**, effectively shorting out the ions in the air within roughly **20 degrees all the way around the boat**. With no charged path left for a strike to follow down to the boat, the lightning is forced to discharge somewhere else instead. The volume of air below the rod's tip that this protects is called the **cone of protection**.
+- A boat correctly fitted with a system like Matt Layden's should, on this theory, **never have to worry about taking a direct strike**.
 
 ## A firsthand account: strikes without symptoms, until the ground plate was insulated
 
-A catamaran fitted with a system just like Matt Layden's, grounded to a pair
-of **aluminum skegs** ahead of the rudders, went years without a single
-strike while moored in **Jacksonville, Florida** — a self-described
-"lightning capital" — while the grounding path stayed intact.
+A catamaran fitted with a system just like Matt Layden's, grounded to a pair of **aluminum skegs** ahead of the rudders, went years without a single strike while moored in **Jacksonville, Florida** — a self-described "lightning capital" — while the grounding path stayed intact.
 
-- At a haul-out, tired of the skegs corroding, the owner **faired them with
-  Bondo and encapsulated them in epoxy** — inadvertently insulating the
-  grounding plates from the water.
-- Roughly **six weeks later**, out sailing, the radio and other electronics
-  turned up dead; it was written off to equipment age and the gear
-  replaced. About **two months** after that, the replacement radio and a CD
-  player failed the same way. Looking aloft while puzzling over the
-  problem, the antenna itself was gone entirely — "toast, fried, nothing
-  left but the mount."
-- Recognizing what had happened, the owner went over the side with a knife
-  as soon as the boat returned to the mooring and **scraped the epoxy off
-  the skegs** to restore the ground path. No further problem occurred
-  afterward.
+- At a haul-out, tired of the skegs corroding, they were **faired with Bondo and encapsulated in epoxy** — inadvertently insulating the grounding plates from the water.
+- Roughly **six weeks later**, out sailing, the radio and other electronics turned up dead; it was written off to equipment age and the gear replaced. About **two months** after that, the replacement radio and a CD player failed the same way. Looking aloft while puzzling over the problem, the antenna itself was gone entirely — "toast, fried, nothing left but the mount."
+- Once what had happened was recognized, the epoxy was **scraped off the skegs** with a knife over the side as soon as the boat returned to the mooring, restoring the ground path. No further problem occurred afterward.
 
-The sequence — silent equipment failures with no witnessed strike, traced
-only in hindsight to a lost ground connection — reads as indirect evidence
-that the boat was, in fact, being struck (or subjected to induced surges)
-repeatedly once the de-ionization system was accidentally disabled, and that
-the system had been doing its job silently before that.
+The sequence — silent equipment failures with no witnessed strike, traced only in hindsight to a lost ground connection — reads as indirect evidence that the boat was, in fact, being struck (or subjected to induced surges) repeatedly once the de-ionization system was accidentally disabled, and that the system had been doing its job silently before that.
 
 ## A grounding plate seen under the glass
 
-A photograph of a Paradox circulating online, showing a **copper sheet laid
-under the glass** as its grounding path, is a second data point, external to
-the mailing list itself, for the grounding plate's standard use in Matt
-Layden's generally thorough approach to seaworthiness — evidence enough for
-at least one builder of a Bolger "Oldshoe" with tall aluminum masts to
-ground his own build the same way.
+A photograph of a Paradox circulating online, showing a **copper sheet laid under the glass** as its grounding path, is a second data point, external to the mailing list itself, for the grounding plate's standard use in Matt Layden's generally thorough approach to seaworthiness — evidence enough to warrant grounding a Bolger "Oldshoe" with tall aluminum masts the same way.
 
-The photographed plate itself is cut from 6 in copper flashing, laid flush
-with the bottom and faired in, with the vacuum bag sealed using mastic
-rather than 5200 — see
-[Glen Maxwell — construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques)
-for the full technique.
+The photographed plate itself is cut from 6 in copper flashing, laid flush with the bottom and faired in, with the vacuum bag sealed using mastic rather than 5200 — see [construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques) for the full technique.
 
 ## Where the copper flashing sits in the layup, and copper's bonus as an antifoulant
 
-A builder mid-build on his own grounding installation asked exactly where
-the copper flashing should sit relative to the hull's other layers: beneath
-the fiberglass roving (against the bare wood), beneath the bottom paint but
-on top of the glass, or exposed directly to the water. One reply pointed
-only to a general online reference on lightning protection for small boats
-without addressing the layer-order question directly, but Glen Maxwell's own
-build answers it in practice: the copper flashing is bonded straight to the
-bare wood, then faired over the top with **microballoons** and sanded fair —
-it sits **exposed at the hull's outer surface**, not buried beneath glass or
-bottom paint (see [construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques)
-for the vacuum-bagging method itself).
+One layer-order question is exactly where the copper flashing should sit relative to the hull's other layers: beneath the fiberglass roving (against the bare wood), beneath the bottom paint but on top of the glass, or exposed directly to the water. General references on lightning protection for small boats do not address the layer-order question directly, but the standard build answers it in practice: the copper flashing is bonded straight to the bare wood, then faired over the top with **microballoons** and sanded fair — it sits **exposed at the hull's outer surface**, not buried beneath glass or bottom paint (see [construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques) for the vacuum-bagging method itself).
 
-Left exposed at the surface, the copper grounding plate turned out to double
-as an effective **antifoulant** — a copper-sheathed bottom needs no separate
-anti-fouling paint or its yearly maintenance. This prompted a follow-up
-question — whether copper *powder* mixed into the bottom epoxy would give
-the same benefit — which was left for a future building season rather than
-answered on the record.
+Left exposed at the surface, the copper grounding plate turned out to double as an effective **antifoulant** — a copper-sheathed bottom needs no separate anti-fouling paint or its yearly maintenance. Whether copper *powder* mixed into the bottom epoxy would give the same benefit was left for a future building season rather than answered on the record.
 
 ## The rod itself need not be bronze
 
-The plans' masthead rod fitting can be made of **marine-grade aluminium**
-rather than bronze without a functional penalty — a substitution answered
-alongside a broader round of plans-hardware material questions from a new
-Australian builder; see [furling system — hardware materials: stainless
-steel and tufnol as bronze/plastic
-substitutes](/design/furling-system.md#hardware-materials-stainless-steel-and-tufnol-as-bronzeplastic-substitutes)
-for the full exchange, including the same builder's decision to fit one
-despite judging the local lightning risk low.
+The plans' masthead rod fitting can be made of **marine-grade aluminium** rather than bronze without a functional penalty — a substitution that came up alongside a broader round of plans-hardware material questions; see [furling system — hardware materials: stainless steel and tufnol as bronze/plastic substitutes](/design/furling-system.md#hardware-materials-stainless-steel-and-tufnol-as-bronzeplastic-substitutes) for the full exchange, including a decision to fit one despite judging the local lightning risk low.
 
 # Citations
 

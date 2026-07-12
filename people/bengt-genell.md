@@ -8,32 +8,15 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Bengt Genell
 
-**Bengt Genell** (Yahoo handle `bgenell`/`b.genell`) is a Paradox builder
-from **central Sweden**, roughly two hours by car from the coast. He first
-appeared on the list in January 2004 asking, in Swedish, whether other
-Sweden-based Paradox enthusiasts existed after reading a book by [Sven
-Yrvind](/people/yrvind.md) — predating the arrival of fellow Swede [Kjell
-Karlsson](/people/kjell-karlsson.md)'s composite-built "[BRIS
-Paradox](/boats/bris-paradox.md)" thread on the list by several months.
+**Bengt Genell** (Yahoo handle `bgenell`/`b.genell`) is a Paradox builder from **central Sweden**, roughly two hours by car from the coast. He first appeared on the list in January 2004 asking, in Swedish, whether other Sweden-based Paradox enthusiasts existed after reading a book on small-boat voyaging — predating the "[BRIS Paradox](/boats/bris-paradox.md)" composite-built thread on the list by several months.
 
 ## A budget-conscious, from-scratch build
 
-Bengt built a conventional **plywood** Paradox on a tight budget, in
-contrast to Karlsson's composite-material variant — using exterior- rather
-than marine-grade plywood and fiberglassing all outer surfaces regardless,
-after weighing (in August-September 2004) whether cheaper polyester resin
-could substitute for epoxy; full detail on that exchange is at
-[construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy).
-Trailerability was a priority from the outset, since the boat would spend
-most of its life well inland of the coast.
+Bengt built a conventional **plywood** Paradox on a tight budget — in contrast to a composite-material variant built elsewhere — using exterior- rather than marine-grade plywood and fiberglassing all outer surfaces regardless, after weighing (in August-September 2004) whether cheaper polyester resin could substitute for epoxy; full detail on that exchange is at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy). Trailerability was a priority from the outset, since the boat would spend most of its life well inland of the coast.
 
 ## Launching "Ladikan" after two years
 
-After two years of building, Bengt launched his Paradox on **Lake Mälaren**
-in **July 2006**, naming her **"Ladikan"** ("the little box," in Swedish).
-His full build choices, launch weigh-in, and the two replies it drew —
-including a new correspondent's self-introduction — are recorded in full at
-[boats/ladikan.md](/boats/ladikan.md).
+After two years of building, Bengt launched his Paradox on **Lake Mälaren** in **July 2006**, naming her **"Ladikan"** ("the little box," in Swedish). His full build choices, launch weigh-in, and the two replies it drew — including a new correspondent's self-introduction — are recorded in full at [boats/ladikan.md](/boats/ladikan.md).
 
 # Citations
 

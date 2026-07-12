@@ -8,134 +8,41 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Scarf joints vs. butt blocks, and scarf orientation
 
-Practical joinery guidance for lengthening plywood panels on the
-[Paradox](/paradox.md), covering the choice between a true scarf and a butt
-block, and the correct orientation of a scarf joint.
+Practical joinery guidance for lengthening plywood panels on the [Paradox](/paradox.md), covering the choice between a true scarf and a butt block, and the correct orientation of a scarf joint.
 
 ## Butt block vs. true scarf
 
-Building drawing #6 specifies a **scarf joint** just forward of bulkhead #3.
-A butt block *will* work as a substitute — and would in any case be hidden,
-behind the flotation/insulation foam on a side panel, or inside a storage
-compartment or the water tank on the bottom — but it will not give as **fair
-a curve** as a true scarf: a butt block leaves a slight discontinuity in the
-panel's fairness that a tapered scarf avoids.
+Building drawing #6 specifies a **scarf joint** just forward of bulkhead #3. A butt block *will* work as a substitute — and would in any case be hidden, behind the flotation/insulation foam on a side panel, or inside a storage compartment or the water tank on the bottom — but it will not give as **fair a curve** as a true scarf: a butt block leaves a slight discontinuity in the panel's fairness that a tapered scarf avoids.
 
-Scarfing is "easier than you think." In the era before modern epoxies, a
-scarf's strength depended on a tight, precisely-fitted joint; **with today's
-epoxies the glue itself is stronger than the surrounding wood**, so the
-joint no longer has to be geometrically perfect to hold. A practical tip:
-**practice scarfing on scrap** left over from cutting the bulkheads before
-cutting into the actual panel stock. This matches the "epoxy is stronger
-than the wood" framing already recorded for other joints — see
-[fastening and gluing](/construction/fastening-and-gluing.md).
+Scarfing is "easier than you think." In the era before modern epoxies, a scarf's strength depended on a tight, precisely-fitted joint; **with today's epoxies the glue itself is stronger than the surrounding wood**, so the joint no longer has to be geometrically perfect to hold. A practical tip: **practice scarfing on scrap** left over from cutting the bulkheads before cutting into the actual panel stock. This matches the "epoxy is stronger than the wood" framing already recorded for other joints — see [fastening and gluing](/construction/fastening-and-gluing.md).
 
 ## Scarf orientation: forward panel overlays the aft
 
-Once the hull is glassed over, a scarf joint's orientation "really doesn't
-matter" **structurally** — but from a **hydrodynamic** standpoint, the
-**forward panel should overlay the aft panel**, so water flowing aft along
-the hull does not catch an exposed edge. On a hull that isn't glassed above
-the waterline, this orientation matters more, since there is no glass to
-smooth over an exposed edge.
+Once the hull is glassed over, a scarf joint's orientation "really doesn't matter" **structurally** — but from a **hydrodynamic** standpoint, the **forward panel should overlay the aft panel**, so water flowing aft along the hull does not catch an exposed edge. On a hull that isn't glassed above the waterline, this orientation matters more, since there is no glass to smooth over an exposed edge.
 
-A practical **cutting caution** applies for builders who stack two panels and
-cut both scarfs in one pass: because the "**bad side**" (the less attractive
-face veneer) should end up on the **outside**, to be hidden under glass,
-stacking the panels for a single cut means **one of the two scarf cuts
-inevitably falls on the good side** of its panel — worth planning for before
-cutting, rather than discovering afterward.
+A practical **cutting caution** applies for builders who stack two panels and cut both scarfs in one pass: because the "**bad side**" (the less attractive face veneer) should end up on the **outside**, to be hidden under glass, stacking the panels for a single cut means **one of the two scarf cuts inevitably falls on the good side** of its panel — worth planning for before cutting, rather than discovering afterward.
 
 ## "Scarf" vs. "scarph"
 
-Both spellings are used in the archive interchangeably, depending on the
-builder's preference (British builders tend to favor "scarph"). A
-Merriam-Webster dictionary entry for "scarf" (noun, 15th century, Scandinavian
-etymology via Old Norse *skarfr*) confirms that "scarf joint" and "scarf"
-(verb) are standard, dictionary-sanctioned English alongside "scarph."
+Both spellings are used in the archive interchangeably, depending on the builder's preference (British builders tend to favor "scarph"). A Merriam-Webster dictionary entry for "scarf" (noun, 15th century, Scandinavian etymology via Old Norse *skarfr*) confirms that "scarf joint" and "scarf" (verb) are standard, dictionary-sanctioned English alongside "scarph."
 
 ## A lap butt joint as a scarf alternative
 
-For lengthening **bottom-panel plywood** specifically, a **lap butt joint**
-offers a router-cut alternative to a full scarf: a shallow lap is routed into
-each panel end to roughly half the panel's thickness, and a filler strip of
-plywood — cut a shade narrower than the routed recess so epoxy fills the
-gap — bridges the two panels. Because the recess is cut only slightly wider
-than the filler strip, the joint is largely **self-aligning** if measured out
-carefully.
+For lengthening **bottom-panel plywood** specifically, a **lap butt joint** offers a router-cut alternative to a full scarf: a shallow lap is routed into each panel end to roughly half the panel's thickness, and a filler strip of plywood — cut a shade narrower than the routed recess so epoxy fills the gap — bridges the two panels. Because the recess is cut only slightly wider than the filler strip, the joint is largely **self-aligning** if measured out carefully.
 
-Fastening the joint calls for a lighter touch than a chine log: mechanical
-fasteners should not be relied on to hold the joint under clamping pressure,
-since squeezing epoxy out of the joint during nailing starves it of glue.
-Wire nails, or fasteners that can be removed or clenched over once the epoxy
-sets, are preferable to ring nails, which cannot be backed out; on an 18 mm
-bottom panel, a lap taken to a little over 9 mm depth with a 9 mm plywood
-filler piece, fastened with 25 mm bronze ring nails driven just short of
-passing through, is one workable scantling. A strip of fiberglass tape, about
-4 in wide, laid over the joint on the face opposite the 1/4 in filler
-ply — with that filler-ply face itself already covered by the boat's own
-bottom glass layup — reinforces the joint enough that, done this way, it can
-end up **stronger than the surrounding plywood**, with no mechanical
-fasteners needed at all. A wider strip of tape can also be run over the joint
-on the inside of the hull for a doubled reinforcement.
+Fastening the joint calls for a lighter touch than a chine log: mechanical fasteners should not be relied on to hold the joint under clamping pressure, since squeezing epoxy out of the joint during nailing starves it of glue. Wire nails, or fasteners that can be removed or clenched over once the epoxy sets, are preferable to ring nails, which cannot be backed out; on an 18 mm bottom panel, a lap taken to a little over 9 mm depth with a 9 mm plywood filler piece, fastened with 25 mm bronze ring nails driven just short of passing through, is one workable scantling. A strip of fiberglass tape, about 4 in wide, laid over the joint on the face opposite the 1/4 in filler ply — with that filler-ply face itself already covered by the boat's own bottom glass layup — reinforces the joint enough that, done this way, it can end up **stronger than the surrounding plywood**, with no mechanical fasteners needed at all. A wider strip of tape can also be run over the joint on the inside of the hull for a doubled reinforcement.
 
-This lap butt joint is distinct from the **butt block** discussed above: a
-butt block adds a backing piece behind the seam, while the lap butt joint
-recesses and blends the two panel ends into one another before taping over
-the seam.
+This lap butt joint is distinct from the **butt block** discussed above: a butt block adds a backing piece behind the seam, while the lap butt joint recesses and blends the two panel ends into one another before taping over the seam.
 
 ## Glue-line thickness and clamping for a lap butt joint
 
-A **25 mm nail** driven through an 18 mm bottom panel and a 9 mm filler piece
-would pass straight through both — a builder converting between Imperial and
-metric can end up specifying a nail length as though it were half the actual
-figure (an easy trap after decades of thinking in inches despite the
-underlying units having been metric for years). The joint does not need
-nails at all to be strong: **epoxy alone, reinforced by the outer glass
-skin, should already be more than adequate**, and the correct approach is a
-**test joint** to check strength directly, given enough faith that
-well-executed epoxy is stronger than the surrounding plywood provided the
-joint is never left starved of glue in any one spot. Where fasteners are
-used regardless, **screws make better clamps than nails**, since screw
-pressure can be fine-tuned across the joint and backed off again once the
-epoxy has cured, whereas stainless nails left in place ("belt and braces")
-simply add insurance.
+A **25 mm nail** driven through an 18 mm bottom panel and a 9 mm filler piece would pass straight through both — a builder converting between Imperial and metric can end up specifying a nail length as though it were half the actual figure (an easy trap after decades of thinking in inches despite the underlying units having been metric for years). The joint does not need nails at all to be strong: **epoxy alone, reinforced by the outer glass skin, should already be more than adequate**, and the correct approach is a **test joint** to check strength directly, given enough faith that well-executed epoxy is stronger than the surrounding plywood provided the joint is never left starved of glue in any one spot. Where fasteners are used regardless, **screws make better clamps than nails**, since screw pressure can be fine-tuned across the joint and backed off again once the epoxy has cured, whereas stainless nails left in place ("belt and braces") simply add insurance.
 
-For the **glue-line thickness** itself, the aim is a line just thick enough
-that the filler piece nearly floats in the epoxy, flush with the surrounding
-plywood, with a little squeeze-out at the edges — roughly the consistency of
-thickened epoxy at "pancake syrup." Most epoxies bridge gaps of about
-1/16 in or more once thickened, though some of that will still soak into the
-plywood itself. A practical routing method is to cut the recess to 9 mm
-depth while leaving a few shallow ridges proud at that same 9 mm, so the
-glue line can't be squeezed thinner than intended once weight is applied.
-The two panel faces of the joint need not be identical: the better
-plan is a **double (taped) joint on the inside** of the hull and a
-**single, flush seam on the outside**, which — done well — disappears
-entirely once the boat is finished. While the joint sets, poly sheet or wax
-paper on both sides keeps it from bonding to whatever it rests on, with
-enough weight to hold it flat and a few temporary screws to keep the panels
-aligned. A router leaves the recess smooth enough to work this way, though
-good dust protection is worth using, since the phenolic glue already present
-in the plywood is unpleasant to breathe alongside the wood dust itself.
+For the **glue-line thickness** itself, the aim is a line just thick enough that the filler piece nearly floats in the epoxy, flush with the surrounding plywood, with a little squeeze-out at the edges — roughly the consistency of thickened epoxy at "pancake syrup." Most epoxies bridge gaps of about 1/16 in or more once thickened, though some of that will still soak into the plywood itself. A practical routing method is to cut the recess to 9 mm depth while leaving a few shallow ridges proud at that same 9 mm, so the glue line can't be squeezed thinner than intended once weight is applied. The two panel faces of the joint need not be identical: the better plan is a **double (taped) joint on the inside** of the hull and a **single, flush seam on the outside**, which — done well — disappears entirely once the boat is finished. While the joint sets, poly sheet or wax paper on both sides keeps it from bonding to whatever it rests on, with enough weight to hold it flat and a few temporary screws to keep the panels aligned. A router leaves the recess smooth enough to work this way, though good dust protection is worth using, since the phenolic glue already present in the plywood is unpleasant to breathe alongside the wood dust itself.
 
 ## A dovetail-shaped lap joint after a bottom-panel measuring error
 
-Fitting the bottom panel is itself a common place for a measuring error, since
-the forward bottom section's lap joint must be cut before the aft panel is
-offered up for marking, leaving no direct way to check the two against each
-other until that final step. One builder, having trimmed the forward
-bottom-panel piece and cut its lap joint, then discovered — only once the
-last full sheet was lined up against it — a 6 in gap where the two should
-have met, the result of having shifted the forward piece too far forward
-earlier while fitting its joint under a bulkhead. The fix did not require
-starting over: the front joint was reshaped into a **dovetail-shaped lap
-joint**, and a spare offcut was used to fill most of the resulting shortfall
-at the rear, with any small remainder there closed as a plain **butt joint**
-just forward of the transom. This illustrates the same general lesson
-recorded elsewhere on this page — a router-cut lap or dovetail joint, backed
-by epoxy and glass tape, tolerates this kind of fitting correction far more
-forgivingly than a full scarf would.
+Fitting the bottom panel is itself a common place for a measuring error, since the forward bottom section's lap joint must be cut before the aft panel is offered up for marking, leaving no direct way to check the two against each other until that final step. One builder, having trimmed the forward bottom-panel piece and cut its lap joint, then discovered — only once the last full sheet was lined up against it — a 6 in gap where the two should have met, the result of having shifted the forward piece too far forward earlier while fitting its joint under a bulkhead. The fix did not require starting over: the front joint was reshaped into a **dovetail-shaped lap joint**, and a spare offcut was used to fill most of the resulting shortfall at the rear, with any small remainder there closed as a plain **butt joint** just forward of the transom. This illustrates the same general lesson recorded elsewhere on this page — a router-cut lap or dovetail joint, backed by epoxy and glass tape, tolerates this kind of fitting correction far more forgivingly than a full scarf would.
 
 # Citations
 

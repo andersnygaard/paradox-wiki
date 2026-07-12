@@ -8,103 +8,28 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Andrew Graham
 
-**Andrew Graham** (Yahoo handle `amgraham2001`) is a Paradox builder in
-**Brisbane, Australia** — the archive's second identified Australian
-builder, after [Chris Becker](/people/chris-becker.md) ("Walden," also
-Brisbane). A 43-year-old who had owned and cruised a 17 ft trailer sailer
-for about a decade but never built a boat, he carried Paradox plans for
-nearly a year before conditions let him start, building first a covered
-patio and then a shed to work under — a diversion of hull funds he
-counted as money well spent.
+**Andrew Graham** (Yahoo handle `amgraham2001`) is a Paradox builder in **Brisbane, Australia** — the second identified Australian builder, after an earlier Brisbane build, "Walden" (see [Aussie Paradox](/boats/aussie-paradox.md)). A 43-year-old who had owned and cruised a 17 ft trailer sailer for about a decade but never built a boat, he carried Paradox plans for nearly a year before conditions let him start, building first a covered patio and then a shed to work under — a diversion of hull funds he counted as money well spent.
 
 ## His boat: "Aussie Paradox"
 
-Andrew builds [Aussie Paradox](/boats/aussie-paradox.md), a from-scratch
-Paradox kept distinct from Chris Becker's earlier Brisbane build
-"Walden." The full build narrative — frame cutout, side test-fit, and the
-individual construction detail — lives on that boat page.
+Andrew builds [Aussie Paradox](/boats/aussie-paradox.md), a from-scratch Paradox kept distinct from the earlier Brisbane build "Walden." The full build narrative — frame cutout, side test-fit, and the individual construction detail — lives on that boat page.
 
 ## Contributions
 
-- **Adapting Paradox to Australian plywood.** Andrew is the archive's
-  reference case for building Paradox from standard **2400 x 1200mm**
-  Australian sheets, cutting all frames and the transom from a single
-  sheet and noting that builders wanting Matt Layden's original cutting
-  layout would instead need larger imported ply; the detailed deviations
-  (transom-from-frame-4 for +25mm bunk length, omitted mid bins for
-  footroom, cleatless thick-ply framing, and more) are documented on
-  [Aussie Paradox](/boats/aussie-paradox.md). He was careful to flag every
-  change as his own, undiscussed with and unapproved by the designer.
-- **Independent confirmation of plan accuracy.** He cross-checked frame
-  sides against the projected hull panels to within 1mm, and verified
-  frame bevels by both protractor (from the lines drawing, per *The
-  Gougeon Brothers on Boat Construction*) and a batten test, both methods
-  agreeing.
-- **Australian cost benchmark.** He estimated a good boat achievable for
-  about **$5,000 AUD**.
-- **Shimming deck beam #1, and a longitudinal-beam workaround.** Hit the
-  same beam #1/centerline shortfall David C. Smith and Hugh's New Zealand Paradox both
-  met, fixed with a 5mm centerline shim and a shaved frame 3; sidestepped
-  the equivalent problem on his intermediate deck beams by running them
-  longitudinally rather than athwartships; also laminated his chine runners
-  to the sides before attaching the bottom. See
-  [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
-- **A full construction report, hull through interior.** With the hull,
-  deck framing, rudder, and interior panels essentially complete, Andrew
-  posted the archive's fullest single build report for Aussie Paradox —
-  chine-log and sheer-clamp technique, a doubled-up sides/bottom
-  lamination to stiffen the Australian ply, glassing figures, Abelflex
-  foam insulation, and rudder/stock construction including a
-  self-corrected pintle-position error. See
-  [Aussie Paradox](/boats/aussie-paradox.md#a-fuller-progress-report-sides-bottom-deck-framing-and-interior-detail)
-  for the full report.
-- His accompanying two-up sleeping-test photos prompted Dave Bolduc and
-  Alastair to each describe their own onboard sleeping arrangements — see
-  [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
-- **A builder's-choice case in the "Robust construction" thread.** Argued
-  building your own boat means accepting the consequences of your own
-  scantling and material choices, with no bias against foam sandwich,
-  aluminum, or other materials; expects no regrets from his own 16 mm ply
-  sides/bottom, noting Shane Acton circumnavigated in 9 mm ply but was lucky
-  not to lose "Shrimpy" on either of her two shipwrecks. See
-  [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
-- **Deck sheathing, a sand-anchor well, and a hawse pipe.** Reported fitting
-  his deck and sheathing sides/deck in dynel and epoxy, a self-draining
-  sand-anchor well between frames 1 and 2, and a PVC-flange hawse pipe
-  forward of frame 1 keeping the anchor rode's weight low and the interior
-  clear. See [Aussie Paradox](/boats/aussie-paradox.md).
-- Posted a further round of photos showing the hull/deck sheathed and cabin
-  framing underway, flagging a flat cabin front/back as a further plans
-  deviation. See
-  [Aussie Paradox — further photos](/boats/aussie-paradox.md#further-photos-sheathed-hull-cabin-framing-and-a-foredeck-anchor-stow).
-- **Launched "Zero."** Launched 29 November 2003 and sailed and slept
-  aboard within days — the first Australian-built Paradox on the water,
-  a claim later revised on discovery of an earlier, 2000-built secondhand
-  Australian Paradox (see [Aussie Paradox — a
-  correction](/boats/aussie-paradox.md#a-correction-an-earlier-secondhand-australian-paradox)).
-  Full launch, rig, ballast, and first-sail detail (including an overnight
-  and a two-up sail with his partner) lives on
-  [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero).
-- **Sailing grounds and inspiration.** Sails out of **Brisbane, Queensland**
-  in **Moreton Bay**; [Alastair](/people/alastair.md)'s launch photos of
-  "[Little Jim](/boats/little-jim.md)" turned his own envy into the
-  commitment to build. See
-  [Aussie Paradox — a closer look: paint, plexiglass tint, and the
-  galley](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
-- **Zero's first open-water passage.** An 18-nautical-mile round trip across
-  Moreton Bay from Wellington Point to Dunwich and back confirmed
-  satisfactory stability and pointing ability after adding ballast and
-  stores to about 190 kg. See
-  [Aussie Paradox — Zero proves herself](/boats/aussie-paradox.md#zero-proves-herself-an-18-mile-open-water-passage-across-moreton-bay).
-- **A three-day singlehanded cruise.** Crossed the open section of Moreton
-  Bay to Moreton Island without trouble in 15-knot winds and 1-metre waves,
-  again using Zero's shallow draught to shortcut across sandbanks; shelved a
-  longer New Year's cruise for persistently poor weather. See
-  [Aussie Paradox — a three-day singlehanded cruise](/boats/aussie-paradox.md#a-three-day-singlehanded-cruise).
-- A visiting UK builder, [Bill Serjeant](/people/bill-serjeant.md), hoped to
-  meet Andrew and see "Zero" in person during a June 2006 trip to Australia,
-  though a couple of emails to him went unanswered on the record. See
-  [people/bill-serjeant.md](/people/bill-serjeant.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia).[15]
+- **Adapting Paradox to Australian plywood.** A reference case for building Paradox from standard **2400 x 1200mm** Australian sheets, cutting all frames and the transom from a single sheet; builders wanting the original cutting layout would instead need larger imported ply; the detailed deviations (transom-from-frame-4 for +25mm bunk length, omitted mid bins for footroom, cleatless thick-ply framing, and more) are documented on [Aussie Paradox](/boats/aussie-paradox.md), each carefully flagged as an unapproved, undiscussed change from the plans.
+- **Independent confirmation of plan accuracy.** Frame sides cross-checked against the projected hull panels to within 1mm, and frame bevels verified by both protractor (from the lines drawing, per *The Gougeon Brothers on Boat Construction*) and a batten test, both methods agreeing.
+- **Australian cost benchmark.** A good boat estimated achievable for about **$5,000 AUD**.
+- **Shimming deck beam #1, and a longitudinal-beam workaround.** The same beam #1/centerline shortfall met on other Paradox builds, fixed with a 5mm centerline shim and a shaved frame 3; the equivalent problem on the intermediate deck beams sidestepped by running them longitudinally rather than athwartships; chine runners also laminated to the sides before attaching the bottom. See [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
+- **A full construction report, hull through interior.** With the hull, deck framing, rudder, and interior panels essentially complete, the archive's fullest single build report for Aussie Paradox followed — chine-log and sheer-clamp technique, a doubled-up sides/bottom lamination to stiffen the Australian ply, glassing figures, Abelflex foam insulation, and rudder/stock construction including a self-corrected pintle-position error. See [Aussie Paradox](/boats/aussie-paradox.md#a-fuller-progress-report-sides-bottom-deck-framing-and-interior-detail) for the full report.
+- Accompanying two-up sleeping-test photos prompted descriptions of other onboard sleeping arrangements — see [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+- **A builder's-choice case in the "Robust construction" thread.** Building your own boat means accepting the consequences of your own scantling and material choices, with no bias against foam sandwich, aluminum, or other materials; no regrets expected from 16 mm ply sides/bottom, noting a 9 mm-ply circumnavigation aboard "Shrimpy" that was lucky not to be lost on either of her two shipwrecks. See [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+- **Deck sheathing, a sand-anchor well, and a hawse pipe.** Deck fitted and sides/deck sheathed in dynel and epoxy, with a self-draining sand-anchor well between frames 1 and 2, and a PVC-flange hawse pipe forward of frame 1 keeping the anchor rode's weight low and the interior clear. See [Aussie Paradox](/boats/aussie-paradox.md).
+- A further round of photos showed the hull/deck sheathed and cabin framing underway, flagging a flat cabin front/back as a further plans deviation. See [Aussie Paradox — further photos](/boats/aussie-paradox.md#further-photos-sheathed-hull-cabin-framing-and-a-foredeck-anchor-stow).
+- **Launched "Zero."** Launched 29 November 2003 and sailed and slept aboard within days — the first Australian-built Paradox on the water, a claim later revised on discovery of an earlier, 2000-built secondhand Australian Paradox (see [Aussie Paradox — a correction](/boats/aussie-paradox.md#a-correction-an-earlier-secondhand-australian-paradox)). Full launch, rig, ballast, and first-sail detail (including an overnight and a two-up sail with his partner) lives on [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero).
+- **Sailing grounds and inspiration.** Sails out of **Brisbane, Queensland** in **Moreton Bay**; launch photos of "[Little Jim](/boats/little-jim.md)" turned envy into the commitment to build. See [Aussie Paradox — a closer look: paint, plexiglass tint, and the galley](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
+- **Zero's first open-water passage.** An 18-nautical-mile round trip across Moreton Bay from Wellington Point to Dunwich and back confirmed satisfactory stability and pointing ability after adding ballast and stores to about 190 kg. See [Aussie Paradox — Zero proves herself](/boats/aussie-paradox.md#zero-proves-herself-an-18-mile-open-water-passage-across-moreton-bay).
+- **A three-day singlehanded cruise.** Crossed the open section of Moreton Bay to Moreton Island without trouble in 15-knot winds and 1-metre waves, again using Zero's shallow draught to shortcut across sandbanks; a longer New Year's cruise shelved for persistently poor weather. See [Aussie Paradox — a three-day singlehanded cruise](/boats/aussie-paradox.md#a-three-day-singlehanded-cruise).
+- A visiting UK builder hoped to meet Andrew and see "Zero" in person during a June 2006 trip to Australia, though a couple of emails went unanswered on the record. See [boats/faith.md](/boats/faith.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia).[15]
 
 # Citations
 
@@ -122,4 +47,4 @@ individual construction detail — lives on that boat page.
 [12] Archive message page_1482 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1502, 2003-12-04) — "Zero": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
 [13] Archive message page_1500 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1520, 2003-12-15) — "Zero proves herself": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#zero-proves-herself-an-18-mile-open-water-passage-across-moreton-bay).
 [14] Archive message page_1830 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 1853, 2004-01-19) — "Zero three day cruise": full text and citation at [boats/aussie-paradox.md](/boats/aussie-paradox.md#a-three-day-singlehanded-cruise).
-[15] Archive message page_3680 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3712, 2006-06-14) — "Re: Starting a Paradox in Ithaca": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia); hoped to meet Andrew Graham in Australia and see his Paradox, though a couple of emails to him had gone unanswered.
+[15] Archive message page_3680 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3712, 2006-06-14) — "Re: Starting a Paradox in Ithaca": full text and citation at [boats/faith.md](/boats/faith.md#the-bottom-fixed-chine-runners-complete-and-a-two-month-pause-for-australia); hoped to meet Andrew Graham in Australia and see his Paradox, though a couple of emails to him had gone unanswered.

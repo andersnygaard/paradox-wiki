@@ -8,250 +8,83 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Panel layout and nesting
 
-Before cutting, [Paradox](/paradox.md) parts are laid out ("lofted") on the
-plywood sheets. Several parts nest onto a single sheet and the fit is **tight**,
-so careful layout — "check your layout twice before you cut" — matters. See the
-[plywood bill of materials](/design/hull-scantlings.md) for what comes from
-which thickness.
+Before cutting, [Paradox](/paradox.md) parts are laid out ("lofted") on the plywood sheets. Several parts nest onto a single sheet and the fit is **tight**, so careful layout — "check your layout twice before you cut" — matters. See the [plywood bill of materials](/design/hull-scantlings.md) for what comes from which thickness.
 
 ## Tight spots builders hit
 
-- **Bulkhead #2 vs. the forward side panel.** [Matt Layden](/matt-layden/biography.md)'s
-  plans put the **butt joint for bulkhead #2 at 100 mm (stbd) off the ship's
-  centerline**. Moving the joint **over 50 mm** off centerline instead gives a
-  better cutting clearance. All parts for the side panel — both bulkhead-#2
-  pieces and the transom — are meant to come out of that **one sheet** without
-  buying an extra.
-- **Transom vs. side panel.** These can appear to overlap on the sheet. Rough
-  dimensions: the side panel is about **670 mm tall** and the transom about
-  **510 mm**; the aft side-panel base dimension is **28 mm** and the forward
-  base is **115 mm**. Recalculated against the forward panel, the overlap is
-  only about **2.5 cm** at maximum slop.
+- **Bulkhead #2 vs. the forward side panel.** [Matt Layden](/matt-layden/biography.md)'s plans put the **butt joint for bulkhead #2 at 100 mm (stbd) off the ship's centerline**. Moving the joint **over 50 mm** off centerline instead gives a better cutting clearance. All parts for the side panel — both bulkhead-#2 pieces and the transom — are meant to come out of that **one sheet** without buying an extra.
+- **Transom vs. side panel.** These can appear to overlap on the sheet. Rough dimensions: the side panel is about **670 mm tall** and the transom about **510 mm**; the aft side-panel base dimension is **28 mm** and the forward base is **115 mm**. Recalculated against the forward panel, the overlap is only about **2.5 cm** at maximum slop.
 
 ## The missing transom-radius dimension, resolved
 
-The plans give the dimension for the **lowest point** of the transom's curved
-radius but not the corresponding figure for the **top of the radius**, where
-the drawing shows only lines and arrows with no accompanying numbers. The
-figure is **57 mm**, confirmed two independent ways: working back from the
-deck-beam dimensions on plan sheet 10 gives 57 mm at the top-right dimension
-arrows with no problems fitting the deck, and a separate digital model of the
-plans converges on the same 57 mm. A general beam-crop technique applies to
-this same transom-radius/bulkhead-curve family of dimensions: drawing 7 gives
-bulkhead #2 the curve dimensions for the **master beam crop**, a curve common
-to all four bulkheads; rather than cutting a separate crop template for each,
-it is simpler to mark out bulkhead #2 once and use it as the crop for the
-others — lay the already-cut bulkhead #2 onto the next sheet of ply alongside
-the main dimensions already drawn (bulkheads 1, 4, and the transom), line up
-the centerlines and deck marks, and scribe.
+The plans give the dimension for the **lowest point** of the transom's curved radius but not the corresponding figure for the **top of the radius**, where the drawing shows only lines and arrows with no accompanying numbers. The figure is **57 mm**, confirmed two independent ways: working back from the deck-beam dimensions on plan sheet 10 gives 57 mm at the top-right dimension arrows with no problems fitting the deck, and a separate digital model of the plans converges on the same 57 mm. A general beam-crop technique applies to this same transom-radius/bulkhead-curve family of dimensions: drawing 7 gives bulkhead #2 the curve dimensions for the **master beam crop**, a curve common to all four bulkheads; rather than cutting a separate crop template for each, it is simpler to mark out bulkhead #2 once and use it as the crop for the others — lay the already-cut bulkhead #2 onto the next sheet of ply alongside the main dimensions already drawn (bulkheads 1, 4, and the transom), line up the centerlines and deck marks, and scribe.
 
 ## Ways to resolve an overlap
 
-1. **Tilt the side-panel base line** so it is no longer parallel to the edge of
-   the ply — this frees enough room around the parts to clear the transom. This
-   is the recommended fix.
-2. **Swap the transom and the adjacent bulkhead section**, flipping the bulkhead
-   about a horizontal axis, so you only lose the top corner of the bulkhead —
-   which is removed anyway to make room for the **sheer clamp**.
-3. **Buy an extra half/full sheet.** Buying another sheet of 1/2 in ply avoids
-   making a two-piece bulkhead at station #2; a **half sheet** is also the fix
-   if the **rudder cheeks** will not come out of the 18 mm sheet alongside the
-   bow section. If nesting a paper pattern of the side panel first, the ply
-   edge stops being important to the base line.
-4. **Fit a spare part into the freed-up space and move the piece to a different
-   sheet entirely.** The bulkhead-#2 fit issue recurs across builds —
-   [Walden](/boats/walden.md) hit the same snag, not a one-off. One
-   workaround: **move bulkhead #2 over 40 mm**, giving a **511 mm-wide
-   starboard side** and a **591 mm-wide port side**. This in turn means the
-   **transom will not fit** on the sheet as laid out; rather than tilting the
-   baseline or swapping pieces, **fit one of the rudder blades into the
-   freed-up space** and move the transom onto a **different sheet**
-   entirely — a third way to resolve an overlap when there is spare capacity
-   elsewhere in the cutting list.
+1. **Tilt the side-panel base line** so it is no longer parallel to the edge of the ply — this frees enough room around the parts to clear the transom. This is the recommended fix.
+2. **Swap the transom and the adjacent bulkhead section**, flipping the bulkhead about a horizontal axis, so you only lose the top corner of the bulkhead — which is removed anyway to make room for the **sheer clamp**.
+3. **Buy an extra half/full sheet.** Buying another sheet of 1/2 in ply avoids making a two-piece bulkhead at station #2; a **half sheet** is also the fix if the **rudder cheeks** will not come out of the 18 mm sheet alongside the bow section. If nesting a paper pattern of the side panel first, the ply edge stops being important to the base line.
+4. **Fit a spare part into the freed-up space and move the piece to a different sheet entirely.** The bulkhead-#2 fit issue recurs across builds — [Walden](/boats/walden.md) hit the same snag, not a one-off. One workaround: **move bulkhead #2 over 40 mm**, giving a **511 mm-wide starboard side** and a **591 mm-wide port side**. This in turn means the **transom will not fit** on the sheet as laid out; rather than tilting the baseline or swapping pieces, **fit one of the rudder blades into the freed-up space** and move the transom onto a **different sheet** entirely — a third way to resolve an overlap when there is spare capacity elsewhere in the cutting list.
 
 ## Layout tips
 
-- **Mark each side panel** — which is which, inside vs. outside — or you will end
-  up cutting new ones.
-- Keep the **grain of the ply running as Matt indicates**, especially on any
-  added sheet.
-- Nest with **paper patterns** of the parts to juggle a tight fit before
-  committing to the ply.
-- The plans' **layout diagram omits several parts** entirely, so builders should
-  watch for them and plan to use offcuts:
+- **Mark each side panel** — which is which, inside vs. outside — or you will end up cutting new ones.
+- Keep the **grain of the ply running as Matt indicates**, especially on any added sheet.
+- Nest with **paper patterns** of the parts to juggle a tight fit before committing to the ply.
+- The plans' **layout diagram omits several parts** entirely, so builders should watch for them and plan to use offcuts:
   - **Vent trunk pieces** — 18 mm for the front piece, 9 mm for the sides.
   - The **breasthook**.
   - **Butt blocks** — 12 mm.
 
 ## Bulkhead side curves
 
-The plans specify a small **offset (curve) in the side edge** of three of the
-four bulkheads — **5 mm** for bulkhead #1, **7 mm** for bulkhead #2, and **5 mm**
-again for bulkhead #3 — while **bulkhead #4 and the transom** show no offset at
-all, meaning those two have straight sides. The curve likely adds useful
-**stiffness** to the sides. In practice the plywood side panels bend to match
-this curve and nail up cleanly without difficulty.
+The plans specify a small **offset (curve) in the side edge** of three of the four bulkheads — **5 mm** for bulkhead #1, **7 mm** for bulkhead #2, and **5 mm** again for bulkhead #3 — while **bulkhead #4 and the transom** show no offset at all, meaning those two have straight sides. The curve likely adds useful **stiffness** to the sides. In practice the plywood side panels bend to match this curve and nail up cleanly without difficulty.
 
 ## Metric vs. imperial measuring
 
-The Paradox plans' **millimetre values are metric conversions of inch sizes**,
-since [Matt Layden](/matt-layden/biography.md) himself bought his own materials
-in inches. US "nominal" lumber sizes run smaller than stated (a 2x4 board is
-closer to 1-5/8 x 3-1/2 in) due to grading and building-code allowances, so a
-builder working in metric is better off measuring actual lumber dimensions in
-cm at the lumberyard rather than trusting the nominal inch label, aiming for
-**±2 mm** accuracy. There is also a practical distinction between **sawn** and
-**planed** dimensional lumber: sawn stock is close to its nominal size, while
-planed stock is sawn to size and then has more removed. Solid wood dimensions
-(unlike **plywood**, which must be held to size) can vary several millimetres
-without making a significant difference to the finished construction. Using a
-pocket calculator to work in fractional inches (1/2", 1/4", 1/8"...) already
-treats them as a decimal/metric-like system, sidestepping conversion errors by
-adding and subtracting directly rather than converting first.
+The Paradox plans' **millimetre values are metric conversions of inch sizes**, since [Matt Layden](/matt-layden/biography.md) himself bought his own materials in inches. US "nominal" lumber sizes run smaller than stated (a 2x4 board is closer to 1-5/8 x 3-1/2 in) due to grading and building-code allowances, so a builder working in metric is better off measuring actual lumber dimensions in cm at the lumberyard rather than trusting the nominal inch label, aiming for **±2 mm** accuracy. There is also a practical distinction between **sawn** and **planed** dimensional lumber: sawn stock is close to its nominal size, while planed stock is sawn to size and then has more removed. Solid wood dimensions (unlike **plywood**, which must be held to size) can vary several millimetres without making a significant difference to the finished construction. Using a pocket calculator to work in fractional inches (1/2", 1/4", 1/8"...) already treats them as a decimal/metric-like system, sidestepping conversion errors by adding and subtracting directly rather than converting first.
 
-Paradox plans reach Australian and UK builders **already converted to
-metric** without any special request — apparently standard practice for the
-design rather than a special order — so a builder can work entirely in
-millimetres throughout without reconciling Imperial-measure US plans against
-metric plywood by hand. A free online conversion utility
-(`joshmadison.com/software/convert`) covers any remaining unit
-conversions.[32a][33][34]
+Paradox plans reach Australian and UK builders **already converted to metric** without any special request — apparently standard practice for the design rather than a special order — so a builder can work entirely in millimetres throughout without reconciling Imperial-measure US plans against metric plywood by hand. A free online conversion utility (`joshmadison.com/software/convert`) covers any remaining unit conversions.[32a][33][34]
 
-A separate but related Australian plywood problem surfaced in the same
-exchange: **locally produced Australian plywood** runs a metric sheet size
-of **2400 x 1200 mm**, while imported **Gaboon** (Okoume, a West African
-hardwood, also called Samara) runs **2500 x 1220 mm** — closer to the
-dimensions Matt Layden's sheet layout actually assumes. The mismatch bites
-hardest at **bulkhead #3**, drawn **1214 mm wide**, which does not fit the
-locally produced sheet size using the plans' own layout. A Tasmanian builder
-working from a **1:5 scale model** in aircraft ply toward CNC files for a
-local CAD cutting service made his own CNC DXF files available to the
-Bolducs for distribution alongside the plans.[35][36][37]
+A separate but related Australian plywood problem exists: **locally produced Australian plywood** runs a metric sheet size of **2400 x 1200 mm**, while imported **Gaboon** (Okoume, a West African hardwood, also called Samara) runs **2500 x 1220 mm** — closer to the dimensions Matt Layden's sheet layout actually assumes. The mismatch bites hardest at **bulkhead #3**, drawn **1214 mm wide**, which does not fit the locally produced sheet size using the plans' own layout. CNC DXF files worked up from a **1:5 scale model** in aircraft ply toward a local CAD cutting service were offered for distribution alongside the plans.[35][36][37]
 
-A workaround for the local-plywood mismatch followed: build **bulkhead #3 in
-two parts**, scarfing the bottom section on, since the shorter local sheet
-cannot supply its full 1214 mm width in one piece; the left-hand side panel
-on the plans' drawing 6 also will not lay out as dimensioned on a 2400 mm
-sheet, though the right-hand panel yields enough spare material to make up
-the shortfall, and the aft bottom panel comes out slightly narrow near the
-chine runners as well. Beyond sourcing imported Gaboon (which sidesteps the
-sizing problem but raises its own old-growth/rainforest sourcing concern),
-two alternative local timbers were suggested: **Hoop Pine**, whose veneers
-are considered better made than Gaboon's, and the cheaper, more toxic
-**Proof Ply**, which glues and paints well but is treated with CCA or a
-similarly hazardous preservative. A sustainable-timber workaround beyond
-these two options was asked for but not answered on record.[38]
+A workaround for the local-plywood mismatch is to build **bulkhead #3 in two parts**, scarfing the bottom section on, since the shorter local sheet cannot supply its full 1214 mm width in one piece; the left-hand side panel on the plans' drawing 6 also will not lay out as dimensioned on a 2400 mm sheet, though the right-hand panel yields enough spare material to make up the shortfall, and the aft bottom panel comes out slightly narrow near the chine runners as well. Beyond sourcing imported Gaboon (which sidesteps the sizing problem but raises its own old-growth/rainforest sourcing concern), two alternative local timbers are candidates: **Hoop Pine**, whose veneers are considered better made than Gaboon's, and the cheaper, more toxic **Proof Ply**, which glues and paints well but is treated with CCA or a similarly hazardous preservative. A sustainable-timber workaround beyond these two options was asked for but not answered on record.[38]
 
 ## Side-deck and cabin-end-panel layout: a plans tight fit
 
-Since the deck's width is **greater than 4 ft**, the **two side decks and the
-two cabin end panels** do not all come from a single 4 ft-wide sheet of ply
-as the plans show — a related issue to layout of the [mast interior sealing
-and anchor-light fit](/construction/mast-sealing-and-fit.md).
+Since the deck's width is **greater than 4 ft**, the **two side decks and the two cabin end panels** do not all come from a single 4 ft-wide sheet of ply as the plans show — a related issue to layout of the [mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md).
 
-The geometry: the **side decks** span from the **gunwale to the carlines**,
-while the **end pieces** span **between the carlines** — and the distance
-**between the gunwales alone** is already more than 4 ft, before the end
-pieces are even added in. Only **2 of the 6 end pieces** are actually
-affected, small enough that a builder can get away with a **joint in one
-piece at each end** rather than needing a wider sheet.
+The geometry: the **side decks** span from the **gunwale to the carlines**, while the **end pieces** span **between the carlines** — and the distance **between the gunwales alone** is already more than 4 ft, before the end pieces are even added in. Only **2 of the 6 end pieces** are actually affected, small enough that a builder can get away with a **joint in one piece at each end** rather than needing a wider sheet.
 
-This is a genuine tight-fit plans issue, confirmed by re-measuring against
-**sheet #3** of the plans: the **maximum width of the foredeck is 3 ft 11
-in**, and adding a little more for the **deck crown**, a builder following
-the plans exactly will probably go over 4 ft. The fix in practice is to
-**scab in an extra piece on each side** to reach all the way out to the edge
-of the gunwales, a small **jointed addition** at each side rather than a full
-extra sheet. See [Little Jim](/boats/little-jim.md) for the boat-level record
-of this resolution.
+This is a genuine tight-fit plans issue, confirmed by re-measuring against **sheet #3** of the plans: the **maximum width of the foredeck is 3 ft 11 in**, and adding a little more for the **deck crown**, a builder following the plans exactly will probably go over 4 ft. The fix in practice is to **scab in an extra piece on each side** to reach all the way out to the edge of the gunwales, a small **jointed addition** at each side rather than a full extra sheet. See [Little Jim](/boats/little-jim.md) for the boat-level record of this resolution.
 
-This is a fourth kind of layout-fit problem alongside the
-[bulkhead #2](#tight-spots-builders-hit), [transom](#tight-spots-builders-hit),
-and [bulkhead side curve](#bulkhead-side-curves) issues above — this time on
-the **deck** sheets rather than the hull-panel sheets.
+This is a fourth kind of layout-fit problem alongside the [bulkhead #2](#tight-spots-builders-hit), [transom](#tight-spots-builders-hit), and [bulkhead side curve](#bulkhead-side-curves) issues above — this time on the **deck** sheets rather than the hull-panel sheets.
 
 ## Cabin-end C-formed pieces, cut from the same 9mm sheet as bulkhead 1
 
-The plans' layout for the **9mm sheet carrying bulkhead 1** also nests a set
-of small **C-formed pieces** that are easy to miss on a first read, since
-they do not obviously belong with anything drawn on sheet 4 alone. These
-pieces are part of the **cabin ends**: they laminate onto the deck at each
-end of the cabin to give the bottom of the cabin **windows** something to
-attach to, and appear again, in context, on **sheet 4**, above bulkhead 4 and
-at the bottom of the front window.
+The plans' layout for the **9mm sheet carrying bulkhead 1** also nests a set of small **C-formed pieces** that are easy to miss on a first read, since they do not obviously belong with anything drawn on sheet 4 alone. These pieces are part of the **cabin ends**: they laminate onto the deck at each end of the cabin to give the bottom of the cabin **windows** something to attach to, and appear again, in context, on **sheet 4**, above bulkhead 4 and at the bottom of the front window.
 
-In practice the 9mm sheet does not always leave enough room to cut all four
-pieces exactly as drawn once the bin sides have already been removed from
-the same sheet — one builder found the points where they interlock with the
-neighboring part had to be sacrificed for lack of ply, and simply glued in a
-small extra offcut to restore the missing point once the pieces were
-laminated up. The companion 12mm sheet carrying similar pieces can present
-the same shortfall; the fix there is to reorder the layout, as covered in a
-build's own "drawing changes" notes rather than by re-deriving the geometry
-from scratch.
+In practice the 9mm sheet does not always leave enough room to cut all four pieces exactly as drawn once the bin sides have already been removed from the same sheet — the points where they interlock with the neighboring part may have to be sacrificed for lack of ply, and a small extra offcut simply glued in to restore the missing point once the pieces are laminated up. The companion 12mm sheet carrying similar pieces can present the same shortfall; the fix there is to reorder the layout, as covered in a build's own "drawing changes" notes rather than by re-deriving the geometry from scratch.
 
 ## No nesting plan exists for a stretched hull
 
-Whether anyone has worked out a plywood nesting plan for a **stretched**
-Paradox specifically — rather than the stock-length layout documented
-above — is a question that surfaced once on the list but drew no recorded
-answer; see [stretched Paradox](/design/variants/stretched-paradox.md) for
-the design's scaling rules more generally.
+Whether anyone has worked out a plywood nesting plan for a **stretched** Paradox specifically — rather than the stock-length layout documented above — is a question that surfaced once on the list but drew no recorded answer; see [stretched Paradox](/design/variants/stretched-paradox.md) for the design's scaling rules more generally.
 
 ## Lofting weights ("spline weights" or "lead ducks")
 
-Full-size lofting of the plans' curved lines calls for a flexible batten
-bent to the curve and held down at intervals — a job traditionally done with
-cast-lead **"spline weights,"** also called **lead ducks**. A usable
-secondhand set (six ducks, about 6¼ in long and 3½ lb each, lead cast in a
-thick plastic coating with a flat-ish base and a threaded front hole for a
-hook the buyer supplies) can be found cheaply through online auction
-listings — one builder paid about $21 for a set that others have bid up past
-$60, more than the sets are worth once shipping (roughly $14 for six, being
-solid lead) is added in. A builder without access to a secondhand set can
-also **cast a set from scratch**; plans for doing so are published at
-`splineweights.com/makeyourown.htm`. Old discarded wheel-balance lead or
-fishing sinkers are a further scrap-lead source, also usable more generally
-as cast trim ballast. [Matt Layden](/matt-layden/biography.md) himself uses
-lead ducks of this same general type, visible in his own construction
-photos.[39][40][41][42][43]
+Full-size lofting of the plans' curved lines calls for a flexible batten bent to the curve and held down at intervals — a job traditionally done with cast-lead **"spline weights,"** also called **lead ducks**. A usable secondhand set (six ducks, about 6¼ in long and 3½ lb each, lead cast in a thick plastic coating with a flat-ish base and a threaded front hole for a hook the buyer supplies) can be found cheaply through online auction listings — around $21 for a set, though some have been bid up past $60, more than the sets are worth once shipping (roughly $14 for six, being solid lead) is added in. A builder without access to a secondhand set can also **cast a set from scratch**; plans for doing so are published at `splineweights.com/makeyourown.htm`. Old discarded wheel-balance lead or fishing sinkers are a further scrap-lead source, also usable more generally as cast trim ballast. [Matt Layden](/matt-layden/biography.md) himself uses lead ducks of this same general type, visible in his own construction photos.[39][40][41][42][43]
 
 ## Software for nesting and converting the offsets: Hull, VRML, and CAD
 
-Separately from the stretched-length question above, **Gregg Carlson's
-"Hull"** — a freeware naval-architecture program with a **nesting
-function** — provides another way to work the Paradox's own offsets: the
-Paradox's values have already been entered into the program, can be
-enlarged, and can be output as a text file of offsets to play with the
-nesting of developed panels.
+Separately from the stretched-length question above, **"Hull"** — a freeware naval-architecture program with a **nesting function** — provides another way to work the Paradox's own offsets: the Paradox's values have already been entered into the program, can be enlarged, and can be output as a text file of offsets to play with the nesting of developed panels.
 
-**Hull's output files can be imported into AutoCAD**, following a
-step-by-step online tutorial for converting a Hull file to AutoCAD. The
-Paradox's own offsets have been posted to the group's Files section for
-builders' benefit: following the AutoCAD tutorial, a program called
-**"Crossroads"** converts the **VRML** file Hull produces into **DXF**
-format, which imports into **IntelliCAD 2000** without problems — confirming
-the conversion path works in practice, not just in principle. Both the
-original Hull file and the converted 3D DXF file are posted to the Files
-section; the DXF format is **easier for most builders to work with** than
-the native Hull file.
+**Hull's output files can be imported into AutoCAD**, following a step-by-step online tutorial for converting a Hull file to AutoCAD. The Paradox's own offsets have been posted to the group's Files section for builders' benefit: following the AutoCAD tutorial, a program called **"Crossroads"** converts the **VRML** file Hull produces into **DXF** format, which imports into **IntelliCAD 2000** without problems — confirming the conversion path works in practice, not just in principle. Both the original Hull file and the converted 3D DXF file are posted to the Files section; the DXF format is **easier for most builders to work with** than the native Hull file.
 
-The Paradox **`.Hul`** file needs Gregg Carlson's free "Hull Designer"
-program to open, while the 3D **`.dxf`** file needs a 3D CAD program —
-IntelliCAD 2000 is one that works. A **2D** dxf file is a further
-possibility alongside the 3D one already posted, since the file converted so
-far is for 3D programs only.
+The Paradox **`.Hul`** file needs the free "Hull Designer" program to open, while the 3D **`.dxf`** file needs a 3D CAD program — IntelliCAD 2000 is one that works. A **2D** dxf file is a further possibility alongside the 3D one already posted, since the file converted so far is for 3D programs only.
 
-The **3D dxf file** in the Files section's CAD Drawing folder can also be
-imported directly into other boat-design software, such as "Nautilus," to
-compare against a Paradox modeled from the plans (see [blue-water
-suitability](/design/blue-water-suitability.md#flat-panels-and-the-brute-hammer-of-a-breaking-wave)
-for the flat-panel seaworthiness question that prompted this cross-check).
+The **3D dxf file** in the Files section's CAD Drawing folder can also be imported directly into other boat-design software, such as "Nautilus," to compare against a Paradox modeled from the plans (see [blue-water suitability](/design/blue-water-suitability.md#flat-panels-and-the-brute-hammer-of-a-breaking-wave) for the flat-panel seaworthiness question that prompted this cross-check).
 
-This nesting-software thread is distinct from, but complementary to, the
-paper-pattern and hand-layout methods described above: Hull's nesting
-function works from the Paradox's digitized offsets, while the paper-pattern
-method works directly from the plans on the physical sheet of ply.
+This nesting-software thread is distinct from, but complementary to, the paper-pattern and hand-layout methods described above: Hull's nesting function works from the Paradox's digitized offsets, while the paper-pattern method works directly from the plans on the physical sheet of ply.
 
 # Citations
 

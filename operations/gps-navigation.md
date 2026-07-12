@@ -8,112 +8,31 @@ timestamp: 2026-07-04T00:00:00Z
 
 # GPS and navigation instruments
 
-Distinct from the GPS-**logged performance data** on record (see
-[hull speed](/operations/hull-speed.md) and
-[Gulf Stream crossing](/operations/gulf-stream-crossing.md), both of which
-use a GPS as a measuring instrument for speed and position already in
-hand), this is the only recorded discussion of **choosing and
-buying** a GPS unit in the first place.
+Distinct from the GPS-**logged performance data** on record (see [hull speed](/operations/hull-speed.md) and [Gulf Stream crossing](/operations/gulf-stream-crossing.md), both of which use a GPS as a measuring instrument for speed and position already in hand), this is the only recorded discussion of **choosing and buying** a GPS unit in the first place.
 
 ## Choosing an entry-level Garmin
 
-An entry-level **Garmin** handheld (the **eTrex**, or its **Mariner**
-variant with US navigational aids pre-programmed) proved reliable and
-good value for marine use, with newer models continuing to improve on
-older ones.
+An entry-level **Garmin** handheld (the **eTrex**, or its **Mariner** variant with US navigational aids pre-programmed) proved reliable and good value for marine use, with newer models continuing to improve on older ones.
 
 ## A small-boat GPS usage guide
 
-A free downloadable guide, `smallboatgps.com/downloads/smallboatgps.pdf`,
-is "a great guide for using Garmin GPS for boating," with a clear
-explanation of basic navigation terms such as Bearing, Course, and Off
-Course.
+A free downloadable guide, `smallboatgps.com/downloads/smallboatgps.pdf`, is "a great guide for using Garmin GPS for boating," with a clear explanation of basic navigation terms such as Bearing, Course, and Off Course.
 
 ## Fitting a depth sounder or fishfinder without through-hulling the bottom
 
-Fitting an electronic **depth sounder** to a wood-and-epoxy Paradox raises the
-same mounting question as any wooden hull: the transducer will not transmit
-through the boat's own thick wood-and-epoxy bottom, and a through-hull fitting
-is generally avoided, both because it weakens the bottom and because a
-through-hull transducer would be vulnerable to damage when drying out on a
-beach or pulling onto a trailer unless flush-mounted. The practical fix, used
-successfully on a Paradox, is to mount the transducer on the **transom**
-instead — surface-mounted, requiring no hole in the hull — which one owner
-had tested on a temporary bracket with good results before fitting it
-permanently. A basic **fishfinder** is essentially a superset of a depth
-sounder for a similar price — showing bottom contour and structure ahead as
-well as depth, and detecting fish — with the same transom-mount approach
-being the simplest way to fit one, filleting the mounting pipe into the
-plywood and glass at the bottom if a through-hull route is chosen instead.
+Fitting an electronic **depth sounder** to a wood-and-epoxy Paradox raises the same mounting question as any wooden hull: the transducer will not transmit through the boat's own thick wood-and-epoxy bottom, and a through-hull fitting is generally avoided, both because it weakens the bottom and because a through-hull transducer would be vulnerable to damage when drying out on a beach or pulling onto a trailer unless flush-mounted. The practical fix, used successfully on a Paradox, is to mount the transducer on the **transom** instead — surface-mounted, requiring no hole in the hull — tested on a temporary bracket with good results before fitting it permanently. A basic **fishfinder** is essentially a superset of a depth sounder for a similar price — showing bottom contour and structure ahead as well as depth, and detecting fish — with the same transom-mount approach being the simplest way to fit one, filleting the mounting pipe into the plywood and glass at the bottom if a through-hull route is chosen instead.
 
-Whether a depth sounder is even worth fitting on a boat drawing only about a
-foot is a genuine value judgment rather than a settled question. The
-skeptical case: Paradox's shoal draft already clears most obstacles without
-instruments, the boat's own "slowing" against mud or sand gives tactile
-warning, and competent coastal navigation (reading charts, dead reckoning,
-judging distance off) is the more fundamental skill — with the designer
-himself known to prefer sail and
-[yuloh](/design/yuloh-and-stowed-rig-retention.md) over an outboard, by
-extension favoring simplicity over instrumentation. The counter-case: a
-simple sounder or fishfinder costs under $100 and a handheld GPS little
-more, representing very good value for the peace of mind alone; in
-poor-visibility conditions (fog) a depth sounder is often considered the
-single most useful navigational tool for working up or down an unfamiliar
-coast, letting a sailor follow a chosen fathom line as a line of position to
-cross-check dead reckoning — a use case distinct from simply avoiding
-grounding, since "the touch and go method" of finding bottom by feel can be
-dangerous on some coasts. In fog, knowing whether the water underneath is
-one metre (wadeable) or five to ten metres matters for judging position and
-closing hazards long before the boat would ever touch bottom.
+Whether a depth sounder is even worth fitting on a boat drawing only about a foot is a genuine value judgment rather than a settled question. The skeptical case: Paradox's shoal draft already clears most obstacles without instruments, the boat's own "slowing" against mud or sand gives tactile warning, and competent coastal navigation (reading charts, dead reckoning, judging distance off) is the more fundamental skill — with the designer himself known to prefer sail and [yuloh](/design/yuloh-and-stowed-rig-retention.md) over an outboard, by extension favoring simplicity over instrumentation. The counter-case: a simple sounder or fishfinder costs under $100 and a handheld GPS little more, representing very good value for the peace of mind alone; in poor-visibility conditions (fog) a depth sounder is often considered the single most useful navigational tool for working up or down an unfamiliar coast, letting a sailor follow a chosen fathom line as a line of position to cross-check dead reckoning — a use case distinct from simply avoiding grounding, since "the touch and go method" of finding bottom by feel can be dangerous on some coasts. In fog, knowing whether the water underneath is one metre (wadeable) or five to ten metres matters for judging position and closing hazards long before the boat would ever touch bottom.
 
-Narrow, mud-banked channels make the strongest practical case for a sounder
-regardless of draft: in soft mud two or three feet under the surface,
-running aground is not immediately obvious (the mud is too soft to feel as
-a hard stop), and by the time it becomes clear the boat has lost enough
-speed that tacking off is no longer possible — a problem a
-[yuloh](/design/yuloh-and-stowed-rig-retention.md) cannot solve against a
-3-knot tide if no outboard is carried as a backup. Beyond bottom-avoidance,
-a sounder earns its keep for position-fixing: a sudden depth change on a
-coastal passage can give a line of position, and in fog, following a depth
-contour can lead a boat safely into an estuary. Set against the boat's own
-minimal electrical needs generally (no GPS, VHF, or other instrument is
-strictly *necessary*), a depth sounder is nonetheless worth having for the
-extra dimension of information it adds to sailing, "even in deep water,"
-beyond pure avoidance of hazards — obtainable new for as little as £25
-secondhand. A petrol outboard is a separate, harder call on an open boat:
-anything stored on deck, including fuel, risks being washed off during
-lengthy open-water passages (even adhesive tape marking the sheerline has
-been washed off at the bow), and stowing fuel below decks is generally
-considered too dangerous to contemplate.
+Narrow, mud-banked channels make the strongest practical case for a sounder regardless of draft: in soft mud two or three feet under the surface, running aground is not immediately obvious (the mud is too soft to feel as a hard stop), and by the time it becomes clear the boat has lost enough speed that tacking off is no longer possible — a problem a [yuloh](/design/yuloh-and-stowed-rig-retention.md) cannot solve against a 3-knot tide if no outboard is carried as a backup. Beyond bottom-avoidance, a sounder earns its keep for position-fixing: a sudden depth change on a coastal passage can give a line of position, and in fog, following a depth contour can lead a boat safely into an estuary. Set against the boat's own minimal electrical needs generally (no GPS, VHF, or other instrument is strictly *necessary*), a depth sounder is nonetheless worth having for the extra dimension of information it adds to sailing, "even in deep water," beyond pure avoidance of hazards — obtainable new for as little as £25 secondhand. A petrol outboard is a separate, harder call on an open boat: anything stored on deck, including fuel, risks being washed off during lengthy open-water passages (even adhesive tape marking the sheerline has been washed off at the bow), and stowing fuel below decks is generally considered too dangerous to contemplate.
 
-This is the only recorded consumer-electronics purchase-and-setup advice,
-distinct in kind from the boat-specific design/construction/sailing content
-that makes up most of the record.
+This is the only recorded consumer-electronics purchase-and-setup advice, distinct in kind from the boat-specific design/construction/sailing content that makes up most of the record.
 
 ## Compass choice and mounting
 
-The only recorded compass-specific question asks what compasses other
-builders have fitted, and where: one data point on record is a **Silva 70n**
-mounted on bulkhead 2 of "[Little Jim](/boats/little-jim.md)." A related
-question — whether a digital compass (such as the kind built into a GPS unit
-or a wristwatch) is thrown off by local lumps of iron enough to matter for
-navigation, and whether one of those built-in compasses could substitute for
-a dedicated marine compass — went unanswered the first two times it was
-asked, including after being repeated in the same terms a week later.[19]
+The only recorded compass-specific question asks what compasses other builders have fitted, and where: one data point on record is a **Silva 70n** mounted on bulkhead 2 of "[Little Jim](/boats/little-jim.md)." A related question — whether a digital compass (such as the kind built into a GPS unit or a wristwatch) is thrown off by local lumps of iron enough to matter for navigation, and whether one of those built-in compasses could substitute for a dedicated marine compass — went unanswered the first two times it was asked, including after being repeated in the same terms a week later.[19]
 
-A GPS's compass is not affected by nearby iron the way a magnetic compass
-is, since it derives bearing from satellites rather than magnetic north —
-whereas a wristwatch-based electronic compass, tested aboard, showed
-significant deviation near iron. The practical resolution settled on: rely
-on the GPS compass for ordinary steering (deviation-free) and carry a small
-handheld compass for sighting and as backup, rather than trust electronics
-alone.[20] A separate data point for GPS-based navigation generally: a
-**Garmin GPSMAP 76** alongside a smaller **eTrex Vista** as backup, both
-paired with a laptop for a moving-map display and both usable as standalone
-map displays if not connected to a laptop, plus a moderate-quality kayaker's
-compass mounted as a fallback "in case of the unexpected" — one owner's full
-navigation kit, preferring to "carry a box of GPSs" over celestial
-navigation, which he judged smacked of "sorcery."[21][22]
+A GPS's compass is not affected by nearby iron the way a magnetic compass is, since it derives bearing from satellites rather than magnetic north — whereas a wristwatch-based electronic compass, tested aboard, showed significant deviation near iron. The practical resolution settled on: rely on the GPS compass for ordinary steering (deviation-free) and carry a small handheld compass for sighting and as backup, rather than trust electronics alone.[20] A separate data point for GPS-based navigation generally: a **Garmin GPSMAP 76** alongside a smaller **eTrex Vista** as backup, both paired with a laptop for a moving-map display and both usable as standalone map displays if not connected to a laptop, plus a moderate-quality kayaker's compass mounted as a fallback "in case of the unexpected" — a full navigation kit favoring carrying "a box of GPSs" over celestial navigation, which "smacks of sorcery."[21][22]
 
 # Citations
 

@@ -1,521 +1,103 @@
 ---
 type: Person
 title: David Beard
-description: A first-time Paradox builder from Tupelo, MS, who bought and refitted Bob Archibald's secondhand Paradox — naming her "Whisper" — while also building his own Paradox from scratch, and became one of the list's most prolific and enthusiastic contributors.
+description: A first-time Paradox builder from Tupelo, MS, who bought and refitted a secondhand Paradox — naming her "Whisper" — while also building his own Paradox from scratch, and became one of the list's most prolific and enthusiastic contributors.
 tags: [paradox, builder, people]
 timestamp: 2026-07-07T00:00:00Z
 ---
 
 # David Beard
 
-**David Beard** (Tupelo, MS — 90 miles south of Memphis) is a first-time
-boatbuilder who began building his own [Paradox](/paradox.md) around 2000,
-completing the bulkheads before a divorce interrupted the work. In late 2001 he
-bought a secondhand Paradox built and originally sold by **Bob Archibald**, out
-of Steinhatchee, FL, intending to sail her while finishing his own build (see
-[secondhand Paradox market](/operations/secondhand-market.md)). He refitted
-that boat through 2002, naming her **"[Whisper](/boats/whisper.md)"**, and
-became one of the `paradoxbuilders` list's most prolific and enthusiastic
-contributors.
+**David Beard** (Tupelo, MS — 90 miles south of Memphis) is a first-time boatbuilder who began building his own [Paradox](/paradox.md) around 2000, completing the bulkheads before a divorce interrupted the work. In late 2001 he bought a secondhand Paradox built and originally sold out of Steinhatchee, FL, intending to sail her while finishing his own build (see [secondhand Paradox market](/operations/secondhand-market.md)). He refitted that boat through 2002, naming her **"[Whisper](/boats/whisper.md)"**, and became one of the `paradoxbuilders` list's most prolific and enthusiastic contributors.
 
 ## What he built and did
 
-David owned and refitted **"Whisper,"** the secondhand Paradox originally built
-by Bob Archibald — candidly "no Zoë, but she's strong" — spending 2001–2003
-bringing her from a cheap placeholder up toward "Zoë" standard. He was **also
-building his own Paradox from scratch**, his true "keeper" boat, but eventually
-**paused that build** to sail and study "Whisper" first, deciding along the way
-to make two changes on his own boat: omit the water tanks (small water
-containers plus permanent ballast instead) and use a plywood other than
-checking-prone Fir. Owning an already-finished boat, he found, answered many of
-his own construction questions simply by letting him study a completed Paradox
-in person. The full build, launch, refit, and cruise narrative for his boat
-lives on [Whisper](/boats/whisper.md); "Whisper" is confirmed as Bob
-Archibald's original boat.
+David owned and refitted **"Whisper,"** the secondhand Paradox — candidly "no Zoë, but she's strong" — spending 2001–2003 bringing her from a cheap placeholder up toward "Zoë" standard. He was **also building his own Paradox from scratch**, his true "keeper" boat, but eventually **paused that build** to sail and study "Whisper" first, deciding along the way to make two changes on his own boat: omit the water tanks (small water containers plus permanent ballast instead) and use a plywood other than checking-prone Fir. Owning an already-finished boat answered many construction questions simply by allowing study of a completed Paradox in person. The full build, launch, refit, and cruise narrative for his boat lives on [Whisper](/boats/whisper.md); "Whisper" is confirmed as her original builder's boat.
 
 ## Contributions and stories
 
-David's durable contributions cluster around a few themes; the detail lives on
-the linked topic and boat pages.
+David's durable contributions cluster around a few themes; the detail lives on the linked topic and boat pages.
 
-**Chine-runner technique.** Answering a newcomer's question about the
-difficulty of building the chine runners, David reported having no problems
-himself: he made templates, filled the low spots with epoxy, and planed
-down the high spots — "turned out great." See
-[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
+**Chine-runner technique.** Answering a newcomer's question about the difficulty of building the chine runners, David reported having no problems himself: he made templates, filled the low spots with epoxy, and planed down the high spots — "turned out great." See [chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
 
-**Refit and rot repair (the bulkhead-#3 saga).** His refit turned up a sequence
-of problems that became reference cases: a solid-but-discolored spot, then damp
-(not rotten) ply, then genuine **rot in a void** at bulkhead #3. He treated the
-rot with injected **antifreeze** per [Dave Carnell](/references/dave-carnell-articles.md)'s
-method, then epoxy, and later closed the loop by asking whether it was safe to
-epoxy-seal over the treated area (answered by [Dave Bolduc](/people/bolduc/dave.md)).
-A second interior refit raised the same question in reverse — whether epoxy
-might trap residual moisture rather than release it — settled by Matt
-Layden's own recommendation of epoxy inside and out, topped with paint. See
-[checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md),
-[bottom painting over epoxy](/construction/bottom-painting.md), and
-[epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
+**Refit and rot repair (the bulkhead-#3 saga).** His refit turned up a sequence of problems that became reference cases: a solid-but-discolored spot, then damp (not rotten) ply, then genuine **rot in a void** at bulkhead #3. He treated the rot with injected **antifreeze** per a documented method, then epoxy, and later closed the loop by asking whether it was safe to epoxy-seal over the treated area. A second interior refit raised the same question in reverse — whether epoxy might trap residual moisture rather than release it — settled by Matt Layden's own recommendation of epoxy inside and out, topped with paint. See [checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md), [bottom painting over epoxy](/construction/bottom-painting.md), and [epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
 
-**Undersize side panels ("Help!"), and later building them back up to spec.**
-Measuring "Whisper" against the plans, he discovered her sides were roughly
-**6 mm** ply rather than the specified 12 mm — prompting the list's discussion
-of how much a light hull matters (answer: mainly more ballast needed). See
-[undersize side panels](/construction/undersize-side-panel-ply.md) and
-[hull scantlings](/design/hull-scantlings.md). Her sides were in fact
-**1/4 in ply** (rather than the plans' 1/2 in) from the original build; he
-later added a second 1/4 in layer of his own during a later refit, leaving
-her sides a sandwich of ply/glass/epoxy, ply/glass/epoxy — see
-[hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+**Undersize side panels ("Help!"), and later building them back up to spec.** Measuring "Whisper" against the plans, he discovered her sides were roughly **6 mm** ply rather than the specified 12 mm — prompting the list's discussion of how much a light hull matters (answer: mainly more ballast needed). See [undersize side panels](/construction/undersize-side-panel-ply.md) and [hull scantlings](/design/hull-scantlings.md). Her sides were in fact **1/4 in ply** (rather than the plans' 1/2 in) from the original build; he later added a second 1/4 in layer of his own during a later refit, leaving her sides a sandwich of ply/glass/epoxy, ply/glass/epoxy — see [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
 
-**Sail balance, tacking, and the rudder-up discovery.** David's persistent
-handling troubles generated some of the archive's richest sailing-characteristics
-material: real difficulty completing tacks despite decent pointing, later a
-lee-helm symptom, and a full **loaded-weight breakdown** (~750 lb total) that
-seeded a list debate on weight distribution and helm balance
-([sailing characteristics and rig balance](/operations/sailing-characteristics.md),
-[weight and ballast](/design/weight-and-ballast.md)). His most notable single
-observation: **"Whisper" seemed to sail better with her rudder left up**, which
-he proposed testing further and possibly cutting the rudder down by half
-([rudder experiments](/design/rudder.md)).
+**Sail balance, tacking, and the rudder-up discovery.** David's persistent handling troubles generated some of the archive's richest sailing-characteristics material: real difficulty completing tacks despite decent pointing, later a lee-helm symptom, and a full **loaded-weight breakdown** (~750 lb total) that seeded a list debate on weight distribution and helm balance ([sailing characteristics and rig balance](/operations/sailing-characteristics.md), [weight and ballast](/design/weight-and-ballast.md)). His most notable single observation: **"Whisper" seemed to sail better with her rudder left up**, which he proposed testing further and possibly cutting the rudder down by half ([rudder experiments](/design/rudder.md)).
 
-**The jet-ski collision.** A drunk jet-skier struck "Whisper" at anchor around
-11:30 one night; the boat took only cosmetic damage, which David took as proof
-of "the sound design of the hull"
-([sailing characteristics](/operations/sailing-characteristics.md)).
+**The jet-ski collision.** A drunk jet-skier struck "Whisper" at anchor around 11:30 one night; the boat took only cosmetic damage, taken as proof of "the sound design of the hull" ([sailing characteristics](/operations/sailing-characteristics.md)).
 
-**Pounding.** Asked whether Paradox pounds, David reported very little, even
-under power. See [sailing characteristics — pounding: rare at anchor,
-occasional
-underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[247]
+**Pounding.** Asked whether Paradox pounds, David reported very little, even under power. See [sailing characteristics — pounding: rare at anchor, occasional underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[247]
 
-**Casting a lower rudder gudgeon.** In December 2003 David cast his own
-glassed-epoxy lower rudder fitting, confirming the plans' 6-layer, 24 oz
-roving lay-up with Glen Maxwell before working out how to get the heavy
-roving to lie down in the mold — see
-[lower rudder fitting — casting technique](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique).
-Hanging his own rudder that same month, he asked whether the pivot point
-belongs on the transom's centerline — see
-[rudder pivot point on the transom centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
+**Casting a lower rudder gudgeon.** In December 2003 David cast his own glassed-epoxy lower rudder fitting, confirming the plans' 6-layer, 24 oz roving lay-up before working out how to get the heavy roving to lie down in the mold — see [lower rudder fitting — casting technique](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique). Hanging his own rudder that same month, he asked whether the pivot point belongs on the transom's centerline — see [rudder pivot point on the transom centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
 
-**Furling, hardware, and outboards.** He wrestled at length with the furling
-system before confirming Glen Maxwell's **topping lift** "works great," then paid
-that lesson forward by urging [Alastair](/people/alastair.md) to fit one on
-"[Little Jim](/boats/little-jim.md)" before decking over
-([furling system](/design/furling-system.md)). He contributed practical outboard
-data points — that a **65 lb outboard** could not be balanced out on a Paradox
-while a **27 lb 2 hp Honda "works great"** at 4.5 kn — and, crediting Matt
-Layden's "motors are a luxury" philosophy, took a deliberate motor-free yuloh
-trip (see [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)).
-He later reaffirmed the same small-and-light principle to a newcomer weighing
-whether he was too old to handle a Paradox: his Honda 2 hp reaches hull speed
-at about half throttle, while larger outboards in the 50 lb range gave no
-luck getting the sailing trim right. See [auxiliary outboard
-power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
-A later trial of a **4 hp four-stroke Yamaha** confirmed the practical limit on
-the small end of the power range: it reached 6.5 kn but was "pushing way too
-much water" to plane — one more data point behind the settled answer that
-Paradox's hull shape rules out planing regardless of engine size, see
-[auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
-After a week of sea trials at Pirates Cove, Alabama, following Matt Layden's
-recommended mods, David returned to the mainsheet-fouling problem with a
-built fix — a brass rod fairlead bar across the transom — and showed
-"Whisper" at the Josephine, AL Wooden Boat Festival that same spring; see
-[Whisper — a Wooden Boat Festival appearance, and sea trials at Pirates
-Cove](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove).
-Asked over a year later whether he had gone on to add a travelling block as
-well, David confirmed he had not — the fouling had never become enough of a
-problem to justify it, though he still believed it would work — and
-reconfirmed he was still running the same 2 hp Honda, specifically the
-**short-shaft** version, which he prefers over a long-shaft Yamaha he also
-owns since the motor's lowest point then stays above the hull's, so the
-hull grounds first. See [rig and sail — mainsheet fouling on the rudder and
-rear deck with an outboard
-fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[244]
-From the same sea trials, he also reported rebuilding "Whisper"'s
-**chine runners**, which before the re-fit had been far out of shape and
-location; careful rebuilding got them within 1-2 mm of correct, "the
-difference in the world" to her performance — see
-[Whisper — chine runners rebuilt after the shakedown
-cruise](/boats/whisper.md#chine-runners-rebuilt-after-the-shakedown-cruise).
-He also settled the **tack tie-down strut**'s material once and for all on
-his own boat: after a lightweight strut failed the same way another
-builder's did, switching to bronze (brass) Schedule 40 pipe ended the
-problem for good. See [rig and sail — the tack strut also carries
-compression, not just
-tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension).
-In August 2006 he raised a "Power Paradox" idea of his own — a motor-only
-version with no sail — asking how much ballast a hull would need to stay
-stable under power alone, and specifically for a way to calculate a
-stability curve for that case; the exchange it drew, including a detailed
-motor-only conversion scheme, is recorded at [auxiliary outboard power —
-ballasting for power-only use, and a full "Power Paradox" conversion
-scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[263][264]
+**Furling, hardware, and outboards.** He wrestled at length with the furling system before confirming a **topping lift** "works great," then paid that lesson forward by urging fitting one on "[Little Jim](/boats/little-jim.md)" before decking over ([furling system](/design/furling-system.md)). He contributed practical outboard data points — that a **65 lb outboard** could not be balanced out on a Paradox while a **27 lb 2 hp Honda "works great"** at 4.5 kn — and, crediting Matt Layden's "motors are a luxury" philosophy, took a deliberate motor-free yuloh trip (see [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)). He later reaffirmed the same small-and-light principle to a newcomer weighing whether he was too old to handle a Paradox: his Honda 2 hp reaches hull speed at about half throttle, while larger outboards in the 50 lb range gave no luck getting the sailing trim right. See [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane). A later trial of a **4 hp four-stroke Yamaha** confirmed the practical limit on the small end of the power range: it reached 6.5 kn but was "pushing way too much water" to plane — one more data point behind the settled answer that Paradox's hull shape rules out planing regardless of engine size, see [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane). After a week of sea trials at Pirates Cove, Alabama, following Matt Layden's recommended mods, David returned to the mainsheet-fouling problem with a built fix — a brass rod fairlead bar across the transom — and showed "Whisper" at the Josephine, AL Wooden Boat Festival that same spring; see [Whisper — a Wooden Boat Festival appearance, and sea trials at Pirates Cove](/boats/whisper.md#a-wooden-boat-festival-appearance-and-sea-trials-at-pirates-cove). Asked over a year later whether he had gone on to add a travelling block as well, David confirmed he had not — the fouling had never become enough of a problem to justify it, though he still believed it would work — and reconfirmed he was still running the same 2 hp Honda, specifically the **short-shaft** version, which he prefers over a long-shaft Yamaha he also owns since the motor's lowest point then stays above the hull's, so the hull grounds first. See [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[244] From the same sea trials, he also reported rebuilding "Whisper"'s **chine runners**, which before the re-fit had been far out of shape and location; careful rebuilding got them within 1-2 mm of correct, "the difference in the world" to her performance — see [Whisper — chine runners rebuilt after the shakedown cruise](/boats/whisper.md#chine-runners-rebuilt-after-the-shakedown-cruise). He also settled the **tack tie-down strut**'s material once and for all on his own boat: after a lightweight strut failed the same way another builder's did, switching to bronze (brass) Schedule 40 pipe ended the problem for good. See [rig and sail — the tack strut also carries compression, not just tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension). In August 2006 he raised a "Power Paradox" idea of his own — a motor-only version with no sail — asking how much ballast a hull would need to stay stable under power alone, and specifically for a way to calculate a stability curve for that case; the exchange it drew, including a detailed motor-only conversion scheme, is recorded at [auxiliary outboard power — ballasting for power-only use, and a full "Power Paradox" conversion scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[263][264]
 
-**Encouraging first-timers, and welcoming newcomers.** As a self-taught first
-boatbuilder who credited [Don Elliott](/people/don-elliott.md)'s
-["Building the Paradox" articles](/references/building-the-paradox-articles.md),
-David was quick to tell novices "Sure you can!"
-([is Paradox a suitable first boat?](/operations/first-boat-suitability.md)) and
-to welcome new members — Swedish "BRIS Paradox" builder
-[Kjell Karlsson](/people/kjell-karlsson.md) and Kansas City newcomer
-[Steve](/people/steve-kc.md) among them. He was also the first list member to
-reply to designer [Matt Layden](/matt-layden/biography.md)'s own first-ever
-list post, addressing him as a fellow member rather than in the third person.
+**Encouraging first-timers, and welcoming newcomers.** As a self-taught first boatbuilder who credited [Don Elliott](/people/don-elliott.md)'s ["Building the Paradox" articles](/references/building-the-paradox-articles.md), David was quick to tell novices "Sure you can!" ([is Paradox a suitable first boat?](/operations/first-boat-suitability.md)) and to welcome new members — a Swedish "BRIS Paradox" builder and a Kansas City newcomer among them. He was also the first list member to reply to designer [Matt Layden](/matt-layden/biography.md)'s own first-ever list post, addressing him as a fellow member rather than in the third person.
 
-**Robust construction — building back up to spec.** Revealed "Whisper"'s
-sides were originally 1/4 in ply rather than the plans' 1/2 in, so he added
-a second 1/4 in layer during a later refit; see
-[hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+**Robust construction — building back up to spec.** Revealed "Whisper"'s sides were originally 1/4 in ply rather than the plans' 1/2 in, so he added a second 1/4 in layer during a later refit; see [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
 
-**Structural tank tops.** Asked whether there was a way to reinforce
-"Whisper"'s hinged tank-top storage space, specified as structural on the
-plans, without losing the hinged access he valued; see
-[water tank construction and lining — structural hinged tank tops](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
+**Structural tank tops.** Asked whether there was a way to reinforce "Whisper"'s hinged tank-top storage space, specified as structural on the plans, without losing the hinged access he valued; see [water tank construction and lining — structural hinged tank tops](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
 
-**Galley stove choice, and a trolling question.** Weighing a Force 10 Seacook
-gimballed propane stove for "Whisper," compared it against the Forespar
-Mini-Galley 2000 and settled on the Forespar; separately sought saltwater
-trolling advice, having no prior saltwater fishing experience — see
-[cabin heating — choosing a galley cooking
-stove](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative)
-and [fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising).
+**Galley stove choice, and a trolling question.** Weighing a Force 10 Seacook gimballed propane stove for "Whisper," compared it against the Forespar Mini-Galley 2000 and settled on the Forespar; separately sought saltwater trolling advice, having no prior saltwater fishing experience — see [cabin heating — choosing a galley cooking stove](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative) and [fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising).
 
-**Other durable data points and questions** he raised (each detailed on its
-topic page): heavy-weather tactics and rudder position under a sea anchor
-([heavy-weather tactics](/operations/heavy-weather-tactics.md)); Paradox's
-blue-water suitability versus Sven Yrvind's Bris boats
-([blue-water suitability](/design/blue-water-suitability.md)); GPS-logged
-motoring speeds (2–5+ kt on a 4 hp outboard,
-[hull speed](/operations/hull-speed.md)); a $550 Dabbler Sails quote for a lug
-sail ([rig and sail](/design/rig.md)); a never-executed proposal to convert
-"Whisper" into an engine-only **"power sharpie"** rather than sell her
-([Whisper](/boats/whisper.md)); a hatch-lock safety warning against mounting a
-locking hasp's hinge on the hatch itself, which can trap a sailor inside
-([hatch hardware and security](/construction/hatch-hardware.md)); a
-question on whether a second layer of 6 oz cloth over the sides and top is
-worth the added weight and labor
-([hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth));
-and a proposed brass-pipe arch over the rear deck to lift the mainsheet clear
-of the rudder, rear cleats, and a fitted outboard alike — Matt Layden himself
-sailed a simpler single-line mainsheet, with no block on the boom end, during
-the Water Tribe Challenge
-([rig and sail — mainsheet fouling on the rudder and rear deck with an
-outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)).
-Consistent with his own "protect yourself" respirator advice, he later urged
-builders to request a **Material Safety Data Sheet (MSDS)** for every product
-used on a boat — free of charge and required on request under US federal law
-— prompted by an account of two-part-polyurethane paint's spraying hazards.
-See [topside and hull painting — Glen Maxwell's full Awlgrip roll-and-tip
-recipe, and why not to spray
-it](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it).
-He also sealed "Whisper"'s tiller thru-hull with a cut wetsuit-neoprene
-gasket, found the ventilation it otherwise provides "works all too well" in
-cold weather (plugging the holes for winter sailing), and, after a season
-without one, fitted a toe rail he found made moving forward on deck much
-easier. See [transom deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary)
-and [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).[245][246]
+**Other durable data points and questions** he raised (each detailed on its topic page): heavy-weather tactics and rudder position under a sea anchor ([heavy-weather tactics](/operations/heavy-weather-tactics.md)); Paradox's blue-water suitability versus Sven Yrvind's Bris boats ([blue-water suitability](/design/blue-water-suitability.md)); GPS-logged motoring speeds (2–5+ kt on a 4 hp outboard, [hull speed](/operations/hull-speed.md)); a $550 Dabbler Sails quote for a lug sail ([rig and sail](/design/rig.md)); a never-executed proposal to convert "Whisper" into an engine-only **"power sharpie"** rather than sell her ([Whisper](/boats/whisper.md)); a hatch-lock safety warning against mounting a locking hasp's hinge on the hatch itself, which can trap a sailor inside ([hatch hardware and security](/construction/hatch-hardware.md)); a question on whether a second layer of 6 oz cloth over the sides and top is worth the added weight and labor ([hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)); and a proposed brass-pipe arch over the rear deck to lift the mainsheet clear of the rudder, rear cleats, and a fitted outboard alike — Matt Layden himself sailed a simpler single-line mainsheet, with no block on the boom end, during the Water Tribe Challenge ([rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)). Consistent with his own "protect yourself" respirator advice, he later urged builders to request a **Material Safety Data Sheet (MSDS)** for every product used on a boat — free of charge and required on request under US federal law — prompted by an account of two-part-polyurethane paint's spraying hazards. See [topside and hull painting — a full Awlgrip roll-and-tip recipe, and why not to spray it](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it). He also sealed "Whisper"'s tiller thru-hull with a cut wetsuit-neoprene gasket, found the ventilation it otherwise provides "works all too well" in cold weather (plugging the holes for winter sailing), and, after a season without one, fitted a toe rail he found made moving forward on deck much easier. See [transom deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary) and [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk).[245][246]
 
-**A tool-list addition.** In the Build Manual's tools debate, David added one
-specific recommendation to the growing list — a 6 in orbital sander for
-aggressive sanding work. See [build effort and workspace — a first specific
-tool addition: the orbital
-sander](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+**A tool-list addition.** In the Build Manual's tools debate, David added one specific recommendation to the growing list — a 6 in orbital sander for aggressive sanding work. See [build effort and workspace — a first specific tool addition: the orbital sander](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
 
-**Masthead-light wiring.** For routing masthead-light wiring, David's own
-solution was a shallow groove routed into the mast for the wires to lie in,
-rather than running them proud on the outside or fishing them through the
-mast's interior; see [running lights — routing masthead-light wiring outside
-the mast, below the
-sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
+**Masthead-light wiring.** For routing masthead-light wiring, David's own solution was a shallow groove routed into the mast for the wires to lie in, rather than running them proud on the outside or fishing them through the mast's interior; see [running lights — routing masthead-light wiring outside the mast, below the sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
 
-**A 2006 full re-wire, and a deck-wear non-problem confirmed.** Re-wiring
-"Whisper" for a full LED lighting setup, auxiliary plugs, and a handheld
-GPS, David asked the list what wire gauge other builders used, prompting a
-broader wire-sizing discussion; see [radio and electronics — 12-volt wiring
-gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
-Around the same time he confirmed "Whisper" has never suffered the
-tack-strop deck-chewing wear a newcomer worried about, her deck strop
-being cut a little short so it never touches the deck once the sail is
-hoisted; see [rig and sail — tack-pipe deck
-wear](/design/rig.md#tack-pipe-deck-wear).[260][261] Through his employer,
-Tecumseh Products, he also volunteered "Whisper" that July as a test
-platform for a small DC golf-cart air-conditioning unit he judged probably
-unsuited to Paradox's power budget; see [transom deck plate — a proposed DC
-air-conditioning trial](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial).[262]
+**A 2006 full re-wire, and a deck-wear non-problem confirmed.** Re-wiring "Whisper" for a full LED lighting setup, auxiliary plugs, and a handheld GPS, David asked the list what wire gauge other builders used, prompting a broader wire-sizing discussion; see [radio and electronics — 12-volt wiring gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat). Around the same time he confirmed "Whisper" has never suffered the tack-strop deck-chewing wear a newcomer worried about, her deck strop being cut a little short so it never touches the deck once the sail is hoisted; see [rig and sail — tack-pipe deck wear](/design/rig.md#tack-pipe-deck-wear).[260][261] Through his employer, Tecumseh Products, he also volunteered "Whisper" that July as a test platform for a small DC golf-cart air-conditioning unit he judged probably unsuited to Paradox's power budget; see [transom deck plate — a proposed DC air-conditioning trial](/construction/transom-deck-plate.md#a-proposed-dc-air-conditioning-trial).[262]
 
-**Chasing down the MAIB shakedown-cruise article, and volunteering for the
-Build Manual.** Having missed a *Messing About In Boats* article on "Zoë"'s
-shakedown cruise in print, David prompted it to be scanned into the group's
-files section, a request fulfilled some two months later — see
-[Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
-When [David C. Smith](/people/david-c-smith.md#contributions-and-stories) opened the group-written
-Build Manual for contributions, David volunteered to write the **yuloh**
-section. He pointed a newcomer with an insulation-and-rot question to a
-**removable foam flotation** idea, which he planned to use on "Whisper"
-himself — see
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#spray-in-foam-versus-sheet-foam-for-insulation).
-Photos of "Zero," the newly launched first Australian Paradox, sent David
-straight back to work on his own boat; see
-[Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero).
-He confirmed that a Sailing Magazine photo of Matt Layden's single-line
-mainsheet, suspected of being mirror-printed, was indeed reversed; see
-[rig and sail — the Sailing Magazine
-photograph](/design/rig.md#the-sailing-magazine-photograph-matts-actual-sheet-routing-confirmed).
-Answering a newcomer's windward-pointing question, he pointed to the group's
-Paradox FAQ file and a Small Craft Advisor article, and reported having seen
-a Paradox sail alongside Seapearls and point as high as they did — "The
-chine runners work !!"; see
-[chine runners and windward performance — pointing a newcomer to the
-basics](/chine-runners/windward-performance.md#pointing-angles-owners-report).
-When a group project to translate Sven Yrvind's book into English was
-floated, David volunteered to buy a copy if it came together. See [the
-"BRIS Paradox" — a proposed group project to translate Sven Yrvind's full
-book into
-English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
-Once a Sea Trial article on "Zoë" finally reached the files section, David
-suggested its author had enough stories to justify writing a book; see
-[Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles).
-He asked about wood choice for a yuloh's build, then raised the same
-30mm-curve question again himself four months later while starting his own
-yuloh build, reporting that Matt Layden's own new yuloh is straight and
-effective but harder on the wrist than a curved blade — see [yuloh and
-stowed-rig retention — building the yuloh
-itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket)
-and [sculling and yuloh technique — Matt Layden's own yuloh speed, and the
-straight-vs-curved-blade
-trade-off](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off).
-He offered to take cabin measurements from "Whisper" for a newcomer; see
-[crew size and cabin fit — Glen Maxwell's measured cabin
-dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
-On news that Matt Layden was entering the 2004 Everglades Challenge in a
-sailing kayak rather than Paradox, he predicted Matt would be hard to beat
-"no matter what boat he chooses"; see [Matt Layden — other craft and
-events](/matt-layden/biography.md#other-craft-and-events). When an
-Australian builder reported unanswered e-mails to the Bolducs about plans,
-David offered to relay the request and follow up within a week; see
-[building plans — two more 2004 recurrences, and how to reach the Bolducs
-when e-mail
-fails](/references/building-plans.md#why-paradox-resists-easy-enlargement).
-He sought tips for a stiff, wood-on-wood hatch, drawing a carnauba-wax fix, a
-sandpaper-refitting technique, and an aluminium-extrusion suggestion; see
-[hatch hardware and security — wood-on-wood friction, and a wax
-fix](/construction/hatch-hardware.md#wood-on-wood-friction-and-a-wax-fix).
-He reported using a **35 lb thrust electric outboard** on "Whisper" — it
-pushed her along quite well, though he had no GPS at the time to log a speed
-— as a data point for pairing gel-cell battery ballast with electric
-auxiliary power; see [auxiliary outboard power — an electric outboard, and
-gel-cell batteries doing double duty as
-ballast](/operations/auxiliary-outboard-power.md#an-electric-outboard-and-gel-cell-batteries-doing-double-duty-as-ballast).
-Answering a very large prospective builder's fit question, he described
-"Whisper"'s **removable rear window** as letting him sit on the rear deck
-with his feet on the seat, turning the closed hatch into a reading or chart
-table (mindful of the boom) — a fair-weather-only technique, since in bad
-weather the hatch closes and the boat stays watertight, "Little Cruiser"
-having the same removable window without any reported problems; see [crew
-size and cabin fit — a very large sailor's fit: 6'8"/315 lb, and a
-cardboard-mockup
-suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
-He ran into the group's photo-storage limit in May 2004 while uploading new
-"Whisper" photos; see [the mailing list — the photo-storage limit, and the
-founding of
-paradoxbuilders2](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
-Wanting to try heaving-to aboard a Paradox himself, he described his own
-rudder as neutral and sail trim set so a strong gust makes the boat head up
-into the wind — trim he believed correct — while still having trouble
-tacking in light air; see [heavy-weather tactics — untested heaving-to
-ideas](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing).
-That light-air tacking trouble reopened the 2002 weathercocking/ballast-trim
-debate over "Whisper"'s helm, with weight-aft and hull-momentum/rudder-stall
-theories offered in response; see [sailing characteristics and rig balance —
-a second round: weathercocking, ballast, and rudder
-stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
+**Chasing down the MAIB shakedown-cruise article, and volunteering for the Build Manual.** Having missed a *Messing About In Boats* article on "Zoë"'s shakedown cruise in print, David prompted it to be scanned into the group's files section, a request fulfilled some two months later — see [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles). When the group-written Build Manual was opened for contributions, David volunteered to write the **yuloh** section. He pointed a newcomer with an insulation-and-rot question to a **removable foam flotation** idea, which he planned to use on "Whisper" himself — see [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#spray-in-foam-versus-sheet-foam-for-insulation). Photos of "Zero," the newly launched first Australian Paradox, sent David straight back to work on his own boat; see [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero). He confirmed that a Sailing Magazine photo of Matt Layden's single-line mainsheet, suspected of being mirror-printed, was indeed reversed; see [rig and sail — the Sailing Magazine photograph](/design/rig.md#the-sailing-magazine-photograph-matts-actual-sheet-routing-confirmed). Answering a newcomer's windward-pointing question, he pointed to the group's Paradox FAQ file and a Small Craft Advisor article, and reported having seen a Paradox sail alongside Seapearls and point as high as they did — "The chine runners work !!"; see [chine runners and windward performance — pointing a newcomer to the basics](/chine-runners/windward-performance.md#pointing-angles-owners-report). When a group project to translate Sven Yrvind's book into English was floated, David volunteered to buy a copy if it came together. See [the "BRIS Paradox" — a proposed group project to translate Sven Yrvind's full book into English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english). Once a Sea Trial article on "Zoë" finally reached the files section, David suggested its author had enough stories to justify writing a book; see [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles). He asked about wood choice for a yuloh's build, then raised the same 30mm-curve question again himself four months later while starting his own yuloh build, reporting that Matt Layden's own new yuloh is straight and effective but harder on the wrist than a curved blade — see [yuloh and stowed-rig retention — building the yuloh itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket) and [sculling and yuloh technique — Matt Layden's own yuloh speed, and the straight-vs-curved-blade trade-off](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off). He offered to take cabin measurements from "Whisper" for a newcomer; see [crew size and cabin fit — measured cabin dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions). On news that Matt Layden was entering the 2004 Everglades Challenge in a sailing kayak rather than Paradox, he predicted Matt would be hard to beat "no matter what boat he chooses"; see [Matt Layden — other craft and events](/matt-layden/biography.md#other-craft-and-events). When an Australian builder reported unanswered e-mails about plans, David offered to relay the request and follow up within a week; see [building plans — two more 2004 recurrences, and how to reach the Bolducs when e-mail fails](/references/building-plans.md#why-paradox-resists-easy-enlargement). He sought tips for a stiff, wood-on-wood hatch, drawing a carnauba-wax fix, a sandpaper-refitting technique, and an aluminium-extrusion suggestion; see [hatch hardware and security — wood-on-wood friction, and a wax fix](/construction/hatch-hardware.md#wood-on-wood-friction-and-a-wax-fix). He reported using a **35 lb thrust electric outboard** on "Whisper" — it pushed her along quite well, though he had no GPS at the time to log a speed — as a data point for pairing gel-cell battery ballast with electric auxiliary power; see [auxiliary outboard power — an electric outboard, and gel-cell batteries doing double duty as ballast](/operations/auxiliary-outboard-power.md#an-electric-outboard-and-gel-cell-batteries-doing-double-duty-as-ballast). Answering a very large prospective builder's fit question, he described "Whisper"'s **removable rear window** as letting him sit on the rear deck with his feet on the seat, turning the closed hatch into a reading or chart table (mindful of the boom) — a fair-weather-only technique, since in bad weather the hatch closes and the boat stays watertight, "Little Cruiser" having the same removable window without any reported problems; see [crew size and cabin fit — a very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion). He ran into the group's photo-storage limit in May 2004 while uploading new "Whisper" photos; see [the mailing list — the photo-storage limit, and the founding of paradoxbuilders2](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2). Wanting to try heaving-to aboard a Paradox himself, he described his own rudder as neutral and sail trim set so a strong gust makes the boat head up into the wind — trim he believed correct — while still having trouble tacking in light air; see [heavy-weather tactics — untested heaving-to ideas](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing). That light-air tacking trouble reopened the 2002 weathercocking/ballast-trim debate over "Whisper"'s helm, with weight-aft and hull-momentum/rudder-stall theories offered in response; see [sailing characteristics and rig balance — a second round: weathercocking, ballast, and rudder stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
 
-**Sailmaker endorsement, and a stretched-Paradox idea.** He endorsed
-**Dabbler** on hearing that sailmaker Hugh Horten uses Dabbler-built sails on
-his own sailing canoes, and committed to having Dabbler build his own next
-sail; see [rig and sail — sail pricing](/design/rig.md#sail-pricing). On
-hearing of an Atlantic crossing aboard "Hogfish Maximus," he wondered what it
-would take to get a 25 ft Paradox, guessing a total redesign; see [Glen
-Maxwell — Matt Layden eyewitness
-record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing).
-He also pointed a newcomer asking for recent Paradox sailing stories to two
-existing written records — a Files-section article and "Little Jim"'s own
-web pages — in lieu of a fresh trip report; see
-[group cruise reports — where to find a written cruise report, absent a fresh
-one](/operations/group-cruise-reports.md#where-to-find-a-written-cruise-report-absent-a-fresh-one).
-He floated experimentally fitting a small jib salvaged from a 14 ft Blue Jay
-dinghy to his own Paradox, purely to see what it would do — the only
-recorded proposal to add a headsail to the design; see
-[rig and sail — a speculative small jib](/design/rig.md#a-speculative-small-jib).
-He separately asked how much draft a properly cut Paradox lug sail should
-carry — Matt Layden's own sail is cut flat, though heavier vessels are said
-to need more draft; see [rig and sail — how much draft a Paradox lug sail
-should carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).
-He vouched firsthand for Lux Foam cabin cushions, having found no hard spots
-in his own set, and later found the same foam sold directly in 2 in stock,
-skipping a lamination step other builders' cushions had needed; see
-[Little Jim — cabin-cushion
-solutions](/boats/little-jim.md#cabin-cushion-solutions-glen-maxwells-foam-by-mail-system-june-2003).
-Ahead of having a new sail made for his own boat, he asked whether Matt
-Layden might want to revise his posted sail dimensions to add more draft —
-the settled answer was to stick with the already-tested design, Matt himself
-being happy with his own sail as built, if considering a touch more draft;
-see [rig and sail — how much draft a Paradox lug sail should
-carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).
+**Sailmaker endorsement, and a stretched-Paradox idea.** He endorsed **Dabbler** on hearing that a sailmaker uses Dabbler-built sails on his own sailing canoes, and committed to having Dabbler build his own next sail; see [rig and sail — sail pricing](/design/rig.md#sail-pricing). On hearing of an Atlantic crossing aboard "Hogfish Maximus," he wondered what it would take to get a 25 ft Paradox, guessing a total redesign; see [Glen Maxwell — Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing). He also pointed a newcomer asking for recent Paradox sailing stories to two existing written records — a Files-section article and "Little Jim"'s own web pages — in lieu of a fresh trip report; see [group cruise reports — where to find a written cruise report, absent a fresh one](/operations/group-cruise-reports.md#where-to-find-a-written-cruise-report-absent-a-fresh-one). He floated experimentally fitting a small jib salvaged from a 14 ft Blue Jay dinghy to his own Paradox, purely to see what it would do — the only recorded proposal to add a headsail to the design; see [rig and sail — a speculative small jib](/design/rig.md#a-speculative-small-jib). He separately asked how much draft a properly cut Paradox lug sail should carry — Matt Layden's own sail is cut flat, though heavier vessels are said to need more draft; see [rig and sail — how much draft a Paradox lug sail should carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry). He vouched firsthand for Lux Foam cabin cushions, having found no hard spots in his own set, and later found the same foam sold directly in 2 in stock, skipping a lamination step other builders' cushions had needed; see [Little Jim — cabin-cushion solutions](/boats/little-jim.md#cabin-cushion-solutions-glen-maxwells-foam-by-mail-system-june-2003). Ahead of having a new sail made for his own boat, he asked whether Matt Layden might want to revise his posted sail dimensions to add more draft — the settled answer was to stick with the already-tested design, Matt himself being happy with his own sail as built, if considering a touch more draft; see [rig and sail — how much draft a Paradox lug sail should carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry).
 
-As a diver himself, keeping gear aboard his Paradox on ordinary trips, he
-asked how best to stow four dive tanks aboard for longer trips, given how
-cramped the boat already felt with gear for shorter outings; see
-[Jack Gardiner](/people/jack-gardiner.md#a-late-build-status-report-and-stowing-dive-gear-aboard).
+As a diver himself, keeping gear aboard his Paradox on ordinary trips, he asked how best to stow four dive tanks aboard for longer trips, given how cramped the boat already felt with gear for shorter outings; see [a late build status report and stowing dive gear aboard](/people/jack-gardiner.md#a-late-build-status-report-and-stowing-dive-gear-aboard).
 
-Answering a fellow builder's chine-runner curve question, he reported that
-"Whisper" has no upward curve at the runner's outer edge, with no noticed
-effect on performance; see [chine runners — how they
-work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
+Answering a fellow builder's chine-runner curve question, he reported that "Whisper" has no upward curve at the runner's outer edge, with no noticed effect on performance; see [chine runners — how they work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
 
-**Paint blisters under a tarp.** After uncovering "Whisper" following about
-six weeks under a tarp, found small blisters wherever the tarp had touched
-her fresh Interlux Brightsides paint job, despite having painted several
-boats with Brightsides before without incident; see [topside and hull
-painting choices — paint blisters from a tarp left on too
-long](/construction/topside-painting.md#paint-blisters-from-a-tarp-left-on-too-long)
-for the residual-moisture explanation.
+**Paint blisters under a tarp.** After uncovering "Whisper" following about six weeks under a tarp, found small blisters wherever the tarp had touched her fresh Interlux Brightsides paint job, despite having painted several boats with Brightsides before without incident; see [topside and hull painting choices — paint blisters from a tarp left on too long](/construction/topside-painting.md#paint-blisters-from-a-tarp-left-on-too-long) for the residual-moisture explanation.
 
-**A 2005 hatch rebuild.** Ahead of a new sailing season, rebuilt "Whisper"'s
-hatch to improve its sliding action and added a skylight copied from
-"Zoë"'s; see [Whisper — a 2005 hatch rebuild](/boats/whisper.md#a-2005-hatch-rebuild-sliding-action-and-a-skylight-copied-from-zoë).
+**A 2005 hatch rebuild.** Ahead of a new sailing season, rebuilt "Whisper"'s hatch to improve its sliding action and added a skylight copied from "Zoë"'s; see [Whisper — a 2005 hatch rebuild](/boats/whisper.md#a-2005-hatch-rebuild-sliding-action-and-a-skylight-copied-from-zoë).
 
-**Trailer modifications for low-tide launching.** Also ahead of the 2005
-season, modified his trailer to sit lower for launching at low tides,
-starting from a standard power-boat trailer, ahead of attending Cedar Key.
-See [trailering](/operations/trailering.md#a-stock-power-boat-trailer-adapted-for-tongue-weight).
+**Trailer modifications for low-tide launching.** Also ahead of the 2005 season, modified his trailer to sit lower for launching at low tides, starting from a standard power-boat trailer, ahead of attending Cedar Key. See [trailering](/operations/trailering.md#a-stock-power-boat-trailer-adapted-for-tongue-weight).
 
-**Inherited glued-in foam, inspected.** Tore out "Whisper"'s original glued-in
-foam flotation for inspection after buying her neglected and rain-damp;
-found sound wood wherever the glue bond had been good and real problems,
-worst at the corners, wherever it had been poor — going forward, preferred
-screwed-in foam installation over gluing. See [plywood grade and foam
-flotation debate — a real-world data
-point](/construction/plywood-grades-and-foam-flotation.md#a-real-world-data-point-glued-foam-gone-wrong-on-a-neglected-boat).
+**Inherited glued-in foam, inspected.** Tore out "Whisper"'s original glued-in foam flotation for inspection after buying her neglected and rain-damp; found sound wood wherever the glue bond had been good and real problems, worst at the corners, wherever it had been poor — going forward, preferred screwed-in foam installation over gluing. See [plywood grade and foam flotation debate — a real-world data point](/construction/plywood-grades-and-foam-flotation.md#a-real-world-data-point-glued-foam-gone-wrong-on-a-neglected-boat).
 
-**Non-skid deck question.** Asked whether roll-on truck-bed liner
-(Rhino-lining) might work as a deck non-skid, drawing replies pointing to
-cheaper stair-tread strip and spray-applied workboat coatings instead. See
-[non-skid deck finish — truck-bed and industrial
-coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
+**Non-skid deck question.** Asked whether roll-on truck-bed liner (Rhino-lining) might work as a deck non-skid, drawing replies pointing to cheaper stair-tread strip and spray-applied workboat coatings instead. See [non-skid deck finish — truck-bed and industrial coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
 
-**Salvaged heart pine for a scratch-built mast.** While finishing his second
-Paradox, asked whether epoxy would bond well to old, rock-hard heart pine
-salvaged from a 1920s house remodel for use as mast and spar material;
-satisfied by replies confirming the wood was sound and workable, said he
-did not mind sacrificing a few saw blades to get the spars he wanted. See
-[rig and sail — reclaimed heart pine as a mast/spar
-wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
+**Salvaged heart pine for a scratch-built mast.** While finishing his second Paradox, asked whether epoxy would bond well to old, rock-hard heart pine salvaged from a 1920s house remodel for use as mast and spar material; satisfied by replies confirming the wood was sound and workable, said he did not mind sacrificing a few saw blades to get the spars he wanted. See [rig and sail — reclaimed heart pine as a mast/spar wood](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 
-**A free wheelchair-cushion fix for seat fatigue.** Found a discarded demo
-wheelchair cushion eliminated a weekend's worth of helm-seat fatigue
-entirely, and recommended seeking a secondhand one out, since such cushions
-are normally too expensive to buy new. See [crew size and fit — long-passage
-seat comfort: cushion
-practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
+**A free wheelchair-cushion fix for seat fatigue.** Found a discarded demo wheelchair cushion eliminated a weekend's worth of helm-seat fatigue entirely, and recommended seeking a secondhand one out, since such cushions are normally too expensive to buy new. See [crew size and fit — long-passage seat comfort: cushion practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
 
-**On Paradox's shallow-draft appeal.** Some of his own most memorable
-sailing has come on small, out-of-the-way lakes and rivers, since Paradox
-"can go where no sailboat has gone before, like an oversized canoe with
-sleeping quarters" — advising new builders not to fear exploring, to drop
-the mast and go, and to simply get out and push if grounded. See [the "BRIS
-Paradox" — sailing grounds: the Stockholm archipelago, and a Baltic-states
-dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+**On Paradox's shallow-draft appeal.** Some of his own most memorable sailing has come on small, out-of-the-way lakes and rivers, since Paradox "can go where no sailboat has gone before, like an oversized canoe with sleeping quarters" — advising new builders not to fear exploring, to drop the mast and go, and to simply get out and push if grounded. See [the "BRIS Paradox" — sailing grounds: the Stockholm archipelago, and a Baltic-states dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
 
-**A topping-lift confirmation.** Never got the stock furling gear to work
-without a topping lift, and has had zero problems since fitting one. See
-[furling system — a second, later topping-lift question, and two more
-confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+**A topping-lift confirmation.** Never got the stock furling gear to work without a topping lift, and has had zero problems since fitting one. See [furling system — a second, later topping-lift question, and two more confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
 
-**Opened the bilge-finishing question.** Asked how other builders finished
-their bilges, weighing his own plain epoxy coating against painting them —
-worried a coat of white paint would hide rot getting started underneath it.
-See [checking a used Paradox for rot — finishing the bilges: leave
-inspectable, or paint
-over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+**Opened the bilge-finishing question.** Asked how other builders finished their bilges, weighing his own plain epoxy coating against painting them — worried a coat of white paint would hide rot getting started underneath it. See [checking a used Paradox for rot — finishing the bilges: leave inspectable, or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
 
-**Asked after the Cedar Key gathering, and reopened the transom vent-port
-question.** Ahead of the 2006 season, asked whether Cedar Key would happen
-again and when, and confirmed he planned to attend after a few years' gap —
-he had spent those seasons sailing the Mississippi and Alabama Gulf Coast
-instead, and stopped attending group gatherings there after Hurricane
-Katrina, finding the region "just too depressing." See [group cruise
-reports — the 2006 Cedar Key gathering, and notable past
-attendees](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees).
-Separately reopened the transom ventilation port question: never installed
-his own for fear of losing the cover and taking on water, but wondered
-whether other builders had had trouble with it, and how much airflow
-difference the cover made open versus closed. See [transom deck plate — a
-2006 revisiting: an inward-opening cover, a handle and lanyard, or twin
-back-to-back
-ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
+**Asked after the Cedar Key gathering, and reopened the transom vent-port question.** Ahead of the 2006 season, asked whether Cedar Key would happen again and when, and confirmed he planned to attend after a few years' gap — he had spent those seasons sailing the Mississippi and Alabama Gulf Coast instead, and stopped attending group gatherings there after Hurricane Katrina, finding the region "just too depressing." See [group cruise reports — the 2006 Cedar Key gathering, and notable past attendees](/operations/group-cruise-reports.md#the-2006-cedar-key-gathering-and-notable-past-attendees). Separately reopened the transom ventilation port question: never installed his own for fear of losing the cover and taking on water, but wondered whether other builders had had trouble with it, and how much airflow difference the cover made open versus closed. See [transom deck plate — a 2006 revisiting: an inward-opening cover, a handle and lanyard, or twin back-to-back ports](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).
 
-**Answering Derek Clark's outboard questions, once more.** Reconfirmed the
-2 hp Honda on "Whisper" works very well, and, asked about shaft length,
-confirmed he had tried both and prefers the **short shaft**, which pushes
-"Whisper" at hull speed at a little under half throttle. See [auxiliary
-outboard power — weighing a 2 hp four-stroke against a bigger motor, and
-whether Paradox can
-plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane)
-and [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
+**Answering more outboard questions, once more.** Reconfirmed the 2 hp Honda on "Whisper" works very well, and, asked about shaft length, confirmed he had tried both and prefers the **short shaft**, which pushes "Whisper" at hull speed at a little under half throttle. See [auxiliary outboard power — weighing a 2 hp four-stroke against a bigger motor, and whether Paradox can plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane) and [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
 
-In early 2006 he asked the list for the link to the Bolducs' Micro Cruising
-Yahoo group, answered within an hour by Alastair and Chris Ostlind; see
-[Micro Cruising (Yahoo group) — a recurring request for the group's own
-link](/references/micro-cruising-group.md#a-recurring-request-for-the-groups-own-link).
+In early 2006 he asked the list for the link to the Bolducs' Micro Cruising Yahoo group, answered within an hour; see [Micro Cruising (Yahoo group) — a recurring request for the group's own link](/references/micro-cruising-group.md#a-recurring-request-for-the-groups-own-link).
 
-Answering a prospective visitor's "anyone near Florida?" question with his
-own Tupelo, MS location, offered an open invitation to drop by for a sail —
-a standing offer he had extended before, on the same terms, when "Wayne"/
-William Nix asked after builders near Dallas.[265]
+Answering a prospective visitor's "anyone near Florida?" question with his own Tupelo, MS location, offered an open invitation to drop by for a sail — a standing offer he had extended before, on the same terms, when a builder asked after builders near Dallas.[265]
 
-On a tiller-rope-lock question, reported never installing one on "Whisper" —
-after five years of sailing her, he hasn't needed one, since she will sail
-herself. See [self-steering — locking the tiller rope, and why most
-builders don't
-bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[266]
+On a tiller-rope-lock question, reported never installing one on "Whisper" — after five years of sailing her, he hasn't needed one, since she will sail herself. See [self-steering — locking the tiller rope, and why most builders don't bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[266]
 
-**A winter Tenn-Tom Waterway delivery cruise.** In September 2006 he planned
-a roughly 300-mile delivery cruise for "Whisper" that coming winter down the
-Tennessee-Tombigbee Waterway to the Gulf of Mexico, using the Honda 2 hp as
-main power for the whole passage, and asked fellow Honda 2 hp owners what
-spares to carry beyond the routine shear pins, props, and spark plugs he
-already had. See [Whisper — a winter Tenn-Tom Waterway delivery
-cruise](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise) and
-[auxiliary outboard power — a Honda 2 hp's spare-parts and reliability
-record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[267][268]
+**A winter Tenn-Tom Waterway delivery cruise.** In September 2006 he planned a roughly 300-mile delivery cruise for "Whisper" that coming winter down the Tennessee-Tombigbee Waterway to the Gulf of Mexico, using the Honda 2 hp as main power for the whole passage, and asked fellow Honda 2 hp owners what spares to carry beyond the routine shear pins, props, and spark plugs he already had. See [Whisper — a winter Tenn-Tom Waterway delivery cruise](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise) and [auxiliary outboard power — a Honda 2 hp's spare-parts and reliability record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[267][268]
 
-**Boom-hardware strength.** Commenting on Bill Serjeant's rudder photos,
-warned that the stock mainsheet/topping-lift tang bends under load — on his
-own "Whisper" he had to bolt three tangs together in place of the single
-stock part to stop it — and recalled Glen Maxwell running into the same
-problem, though without recording how Glen solved it. See
-[people/bill-serjeant.md — Faith's rudder: a sheet-fairlead fix, and
-boom-tang strength](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength).[269]
+**Boom-hardware strength.** Commenting on another builder's rudder photos, warned that the stock mainsheet/topping-lift tang bends under load — on his own "Whisper" he had to bolt three tangs together in place of the single stock part to stop it — and recalled another builder running into the same problem, though without recording how it was solved. See [Faith's rudder: a sheet-fairlead fix, and boom-tang strength](/boats/faith.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength).[269]
 
-When Derek Clark announced his departure from the group in September 2006,
-added a short plea of his own for Derek to stay in touch even if he left,
-and was thanked by name in Derek's reply. See
-[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[270]
+When a fellow builder announced his departure from the group in September 2006, added a short plea of his own to stay in touch even if he left, and was thanked by name in the reply. See [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[270]
 
 ## Disambiguation notes
 
-- **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile
-  `meerkatoz`, Seattle) — a different member entirely. The two are easily
-  confused because David Beard's own handle `dlb@...`/`buster38801` resembles
-  "David LeBlanc"'s initials, while David LeBlanc's address happens to contain
-  the word "whisper" — the name Beard gave his own boat. Ground truth is the
-  source message's `From:`/`X-Yahoo-Profile:` headers: every
-  `dlb@...`/`buster38801` citation on this page is confirmed David Beard's.
-- **Not David Beede** (`juliejj@...`, profile `djbeede`) — a similarly-spelled
-  member who separately asked about plans in September 2001 (see
-  [building plans](/references/building-plans.md)).
+- **Not [David LeBlanc](/people/david-leblanc.md)** (`whisper@...`, profile `meerkatoz`, Seattle) — a different member entirely. The two are easily confused because David Beard's own handle `dlb@...`/`buster38801` resembles the other member's initials, while that member's address happens to contain the word "whisper" — the name Beard gave his own boat. Ground truth is the source message's `From:`/`X-Yahoo-Profile:` headers: every `dlb@...`/`buster38801` citation on this page is confirmed David Beard's.
+- **Not a similarly-spelled member** (`juliejj@...`, profile `djbeede`) — who separately asked about plans in September 2001 (see [building plans](/references/building-plans.md)).
 
 # Citations
 
@@ -787,5 +369,5 @@ and was thanked by name in Derek's reply. See
 [266] Archive message page_3913 (dlb / "David Beard", `paradoxbuilders`, msgnum 3945, 2006-09-03) — "Re: Tiller Rope Lock": full text and citation at [operations/self-steering.md](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother); did not install a tiller lock, and after five years sailing "Whisper" has not needed one, since she will sail herself. Signed "David."
 [267] Archive message page_3921 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3953, 2006-09-04) — "Honda 2 hp outboard": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record) and [boats/whisper.md](/boats/whisper.md#a-winter-tenn-tom-waterway-delivery-cruise); researching spare parts for a planned ~300-mile winter cruise down the Tenn-Tom waterway to the Gulf of Mexico, using the Honda as main power. Signed "David Beard."
 [268] Archive message page_3928 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3960, 2006-09-05) — "Re: Honda 2 hp outboard": plain-text/HTML duplicate reply to John Pertalion; gives the planned route — Bay Springs Lake to Pirates Cove, Alabama. Signed "David."
-[269] Archive message page_3950 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3983, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); warns the stock mainsheet/topping-lift tang is not strong enough and bends easily; used three tangs bolted together on "Whisper" to stop it; believes Glen Maxwell had the same problem. Signed "David."
+[269] Archive message page_3950 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3983, 2006-09-12) — "Re: Faith's rudder": full text and citation at [boats/faith.md](/boats/faith.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); warns the stock mainsheet/topping-lift tang is not strong enough and bends easily; used three tangs bolted together on "Whisper" to stop it; believes Glen Maxwell had the same problem. Signed "David."
 [270] Archive message page_3961 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 3994, 2006-09-16) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); "You cant leave.........were all pals here.....But if you must please stay in touch. God Bless." Signed "David Beard."

@@ -8,20 +8,16 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Chris Curtis's Paradox
 
-The [Paradox](/paradox.md) owned by **Chris Curtis** (Sandpoint, Idaho). No
-individual boat name has been recorded for this hull, so it is filed under
-its owner. This page is the canonical home for Chris Curtis himself as well
-as his boat, with [people/chris-curtis.md](/people/chris-curtis.md) kept as
-a one-line redirect stub for any inbound links.
+The [Paradox](/paradox.md) owned by **Chris Curtis** (Sandpoint, Idaho). No individual boat name has been recorded for this hull, so it is filed under its owner. This page is the canonical home for Chris Curtis himself as well as his boat.
+
+Distinct from two other below-threshold, citation-only correspondents who also used "Chris Curtis"/"Curtis" on the mailing list: a 2006 newcomer with a Sandpoint Computers signature and no boat/build on record, and one from Phoenix, Arizona (see [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)).
 
 # Provenance and record
 
-- **Built by Lezlie Hensen in Texas**, and **purchased by Chris Curtis from Sean
-  Mulligan**.
+- **Built by Lezlie Hensen in Texas**, and **purchased by Chris Curtis** as a used hull.
 - Has **completed the [Texas 200](/operations/texas-200.md)** coastal raid.
-- Has been **shown several times at the Port Townsend Wooden Boat Show**
-  (pictured there ~2017).
-- Chris describes it as "a great boat in almost every way."
+- Has been **shown several times at the Port Townsend Wooden Boat Show** (pictured there ~2017).
+- "A great boat in almost every way."
 
 # Citations
 

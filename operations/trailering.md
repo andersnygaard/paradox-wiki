@@ -1,264 +1,92 @@
 ---
 type: Concept
 title: Trailering — tow weight, vehicle capacity, and trailer adequacy
-description: Trailering a Paradox — fully-loaded tow weight versus vehicle capacity, why a stock or undersized trailer fails and how to build/rebuild an adequate one, ground-clearance and low-tide launch considerations, and the Bolducs' real-world trailering practice.
+description: Trailering a Paradox — fully-loaded tow weight versus vehicle capacity, why a stock or undersized trailer fails and how to build/rebuild an adequate one, ground-clearance and low-tide launch considerations, and real-world trailering practice.
 tags: [paradox, operations, trailering, weight, newcomer, trailer]
 timestamp: 2026-07-02T00:00:00Z
 ---
 
 # Trailering — tow weight and vehicle capacity
 
-A Paradox's **fully loaded, ready-to-sail weight** — not its bare hull weight
-— is what determines whether a given tow vehicle is adequate. That loaded
-figure is around **410 kg**, comfortably within, for example, a 2000
-Volkswagen Golf TDI's 900 kg tow rating (a bare-hull figure of "a little over
-650 kg" is sometimes quoted separately, and refers to the unloaded boat).
+A Paradox's **fully loaded, ready-to-sail weight** — not its bare hull weight — is what determines whether a given tow vehicle is adequate. That loaded figure is around **410 kg**, comfortably within, for example, a 2000 Volkswagen Golf TDI's 900 kg tow rating (a bare-hull figure of "a little over 650 kg" is sometimes quoted separately, and refers to the unloaded boat).
 
-This 410 kg loaded-weight figure is notably **lower** than the ~650 kg bare
-figure, and lower still than the imperial loaded figure recorded elsewhere in
-the archive (~1,365 lb ≈ 620 kg, from
-[Don Elliott](/people/don-elliott.md)'s heavily-built boat — see
-[weight, ballast, and displacement](/design/weight-and-ballast.md)). The
-archive does not reconcile these figures; they may reflect different boats
-(a heavily-built boat vs. a lighter build), different definitions of "loaded"
-(with or without crew, stores, and full water tanks), or an approximation on
-Glen's part. The two figures are not reconciled here (compare, e.g., the
-3-months-vs-4-months build-time discrepancy in
-[build effort and workspace](/construction/build-effort.md)).
+This 410 kg loaded-weight figure is notably **lower** than the ~650 kg bare figure, and lower still than the imperial loaded figure recorded elsewhere in the archive (~1,365 lb ≈ 620 kg, from a heavily-built boat — see [weight, ballast, and displacement](/design/weight-and-ballast.md)). The archive does not reconcile these figures; they may reflect different boats (a heavily-built boat vs. a lighter build), different definitions of "loaded" (with or without crew, stores, and full water tanks), or an approximation. The two figures are not reconciled here (compare, e.g., the 3-months-vs-4-months build-time discrepancy in [build effort and workspace](/construction/build-effort.md)).
 
-Working plans are available from **David Bolduc** (`mbolduc@...`) at
-**$35 US**, reconfirming the price and distributor already established in
-[building plans](/references/building-plans.md).
+Working plans are available at **$35 US**, reconfirming the price and distributor already established in [building plans](/references/building-plans.md).
 
 ## A trailer-failure data point, and the case for overbuilding
 
-A stock or lightly-modified trailer built for a small, lightweight boat is
-**not adequate** for a Paradox. On "[Whisper](/boats/whisper.md)," driving
-home from a sail, a loose strap was noticed and traced to the trailer's
-**winch bent and nearly pulled out**, its mounting support also bent, and
-**4-5 teeth broken off the winch gear** — a close call that produced the
-governing lesson: **"Paradox needs a well built trailer,"** and the advice
-to other builders is simply to **overbuild**.
+A stock or lightly-modified trailer built for a small, lightweight boat is **not adequate** for a Paradox. On "[Whisper](/boats/whisper.md)," driving home from a sail, a loose strap was noticed and traced to the trailer's **winch bent and nearly pulled out**, its mounting support also bent, and **4-5 teeth broken off the winch gear** — a close call that produced the governing lesson: **"Paradox needs a well built trailer,"** and the advice is simply to **overbuild**.
 
-The best approach is to go over the top on sturdiness. One builder's plan —
-adapting a trailer already built for an **inflatable boat**, expecting it to
-be just within the Paradox's weight limit, then shopping the adaptation
-around to several trailer manufacturers for their advice — illustrates the
-general strategy of erring well past the boat's own weight and checking the
-plan against professional judgment.
+The best approach is to go over the top on sturdiness. One plan — adapting a trailer already built for an **inflatable boat**, expecting it to be just within the Paradox's weight limit, then shopping the adaptation around to several trailer manufacturers for their advice — illustrates the general strategy of erring well past the boat's own weight and checking the plan against professional judgment.
 
 ## Glen Maxwell's trailer specifications, and a loaded-height target
 
-The most detailed trailer-build specification on record comes from
-"[Zoë](/boats/zoe.md)." The root cause of trailer failures like the one
-above: a trailer built for a boat of only about **500 lb**, where a
-Paradox loaded and ready for a week's cruising comes in close to **900 lb**.
-The recommended rebuild sequence:
+The most detailed trailer-build specification on record comes from "[Zoë](/boats/zoe.md)." The root cause of trailer failures like the one above: a trailer built for a boat of only about **500 lb**, where a Paradox loaded and ready for a week's cruising comes in close to **900 lb**. The recommended rebuild sequence:
 
 - Remove the fenders.
 - Fit a **longer axle** and **heavier three-leaf springs** (2,000 lb rated).
-- Mount the axle **on top of the springs** (rather than underneath) to lower
-  the trailer.
-- Have the **spindles welded to the top of the axle** instead of coming out
-  the ends — a further 1.5 in of height reduction.
-- Build **fender extensions** afterward to bring the fenders back out over
-  the tires, clear of the narrower frame.
+- Mount the axle **on top of the springs** (rather than underneath) to lower the trailer.
+- Have the **spindles welded to the top of the axle** instead of coming out the ends — a further 1.5 in of height reduction.
+- Build **fender extensions** afterward to bring the fenders back out over the tires, clear of the narrower frame.
 
-This sequence gave Zoë's trailer a **loaded height to the bottom of the
-boat of 14 in**; adding the Paradox's roughly **9 in waterline draft** comes
-out to just under 2 ft overall — the target worth aiming for. Even this
-setup would not suit every launch site: at **Apalachicola** (see
-[group cruise planning and firsthand trip reports](/operations/group-cruise-reports.md)),
-the drop-off is shallow enough that launch or recovery at low tide is in
-doubt, and a **magic-tilt-type trailer** may help in such cases. Trailer
-parts of the kind described above are available from **Northern Tool &
-Equipment** (catalog by phone, 800-556-7885).
+This sequence gave Zoë's trailer a **loaded height to the bottom of the boat of 14 in**; adding the Paradox's roughly **9 in waterline draft** comes out to just under 2 ft overall — the target worth aiming for. Even this setup would not suit every launch site: at **Apalachicola** (see [group cruise planning and firsthand trip reports](/operations/group-cruise-reports.md)), the drop-off is shallow enough that launch or recovery at low tide is in doubt, and a **magic-tilt-type trailer** may help in such cases. Trailer parts of the kind described above are available from **Northern Tool & Equipment** (catalog by phone, 800-556-7885).
 
-This ~900 lb loaded-for-cruising figure converts to almost exactly **410
-kg** — the same fully-loaded weight used above for tow-vehicle sizing.
-Unlike several other unreconciled weight/time figures elsewhere in the
-archive, this pair is actually **consistent**: the same ~410 kg/900 lb
-loaded-weight figure recurs, just expressed in different units for
-different audiences.
+This ~900 lb loaded-for-cruising figure converts to almost exactly **410 kg** — the same fully-loaded weight used above for tow-vehicle sizing. Unlike several other unreconciled weight/time figures elsewhere in the archive, this pair is actually **consistent**: the same ~410 kg/900 lb loaded-weight figure recurs, just expressed in different units for different audiences.
 
 ## Ground clearance for Gulf Coast ramps
 
-Ground clearance from the bottom of the boat to the ground is a key
-rebuild variable for shallow ramps. A trailer rebuilt to leave **24 3/4 in**
-of clearance was judged workable for **Cedar Key**, whose ramp is "pretty
-steep," by comparison with "Zoë," whose hull bottom sits **15 in** off the
-ground — a height at which retrieval at low tide was still in doubt at
-**Apalachicola** (see
-[group cruise planning and firsthand trip reports](/operations/group-cruise-reports.md)),
-though other ramps in that area reportedly allow launch/retrieval at low
-water. Switching to **pontoon (low-profile) tires** can gain roughly another
-**3 in** of clearance reduction where needed; a **tilt trailer** is a
-workable base design for this kind of rebuild.
+Ground clearance from the bottom of the boat to the ground is a key rebuild variable for shallow ramps. A trailer rebuilt to leave **24 3/4 in** of clearance was judged workable for **Cedar Key**, whose ramp is "pretty steep," by comparison with "Zoë," whose hull bottom sits **15 in** off the ground — a height at which retrieval at low tide was still in doubt at **Apalachicola** (see [group cruise planning and firsthand trip reports](/operations/group-cruise-reports.md)), though other ramps in that area reportedly allow launch/retrieval at low water. Switching to **pontoon (low-profile) tires** can gain roughly another **3 in** of clearance reduction where needed; a **tilt trailer** is a workable base design for this kind of rebuild.
 
 ## Low-profile and retracting-trailer concepts
 
-For launching off a **slip** without wetting the wheels or brakes, and also
-loading/unloading onto a **flat surface such as a beach** at low tide,
-several approaches have been discussed:
+For launching off a **slip** without wetting the wheels or brakes, and also loading/unloading onto a **flat surface such as a beach** at low tide, several approaches have been discussed:
 
-- **Drift-boat-type trailers** (used to launch drift boats into very
-  shallow rivers from the banks) are a useful reference design.
-- **Torsional axles** — each side sprung/mounted independently of the
-  other — allow the bottom of the boat to sit lower, below the axle
-  itself, and are available from **Northern Tool & Equipment**. In the UK,
-  almost all trailers use **independent rubber-in-compression suspension
-  units** rather than leaf springs, which are rare to see there.
-- A **motorcycle trailer** design using a torsional axle plus a **winch**
-  to lower its bed flat onto the ground suggests a possible scaled-up
-  approach for a boat trailer, though likely expensive to build as a
-  one-off.
+- **Drift-boat-type trailers** (used to launch drift boats into very shallow rivers from the banks) are a useful reference design.
+- **Torsional axles** — each side sprung/mounted independently of the other — allow the bottom of the boat to sit lower, below the axle itself, and are available from **Northern Tool & Equipment**. In the UK, almost all trailers use **independent rubber-in-compression suspension units** rather than leaf springs, which are rare to see there.
+- A **motorcycle trailer** design using a torsional axle plus a **winch** to lower its bed flat onto the ground suggests a possible scaled-up approach for a boat trailer, though likely expensive to build as a one-off.
 
-A more radical concept, considered but never built: mounting a pair of
-**torsion axles inside the boat structure itself**, at bulkhead #3, so that
-once the boat was launched the axles (with wheels attached) could be
-**unbolted or unpinned from inside and pulled away** from the hull while it
-floated — with the **towbar** similarly detachable from the stem. The
-wheels, axles, and towbar would then stow in the tow vehicle until needed
-again, with the mounting ports in the hull sides and stem covered over when
-not in use. The idea is judged to have merit but was never developed
-further.
+A more radical concept, considered but never built: mounting a pair of **torsion axles inside the boat structure itself**, at bulkhead #3, so that once the boat was launched the axles (with wheels attached) could be **unbolted or unpinned from inside and pulled away** from the hull while it floated — with the **towbar** similarly detachable from the stem. The wheels, axles, and towbar would then stow in the tow vehicle until needed again, with the mounting ports in the hull sides and stem covered over when not in use. The idea is judged to have merit but was never developed further.
 
-A related concept seen on a dinghy at a boat show: a towbar slotted through
-a hole in the bow, with wheels that **lowered like an aircraft undercarriage**
-by winding a handle. That particular implementation is judged flawed — it
-used standard car suspension parts, likely a maintenance nightmare, with
-doubts about how a boat's structure would hold up to road-pounding with
-wheels mounted so directly to it — but the **basic principle is sound**. A
-simpler variant: a **suspension-free launching undercarriage** used together
-with a car-transporter-type road trailer, retracting once on the trailer to
-lower the boat onto conventional supports for the road. A third variant:
-**leaving the tow ball on the car** and simply **dropping the trailer's back
-end onto the ground** to lower the boat for launch/recovery, rather than
-retracting the axle or undercarriage itself. As with the other concepts in
-this group, any such actuating mechanism would need to be simple and
-inexpensive to be worthwhile — none of these retracting-axle or
-retracting-undercarriage concepts is recorded as ever having been built or
-tested.
+A related concept seen on a dinghy at a boat show: a towbar slotted through a hole in the bow, with wheels that **lowered like an aircraft undercarriage** by winding a handle. That particular implementation is judged flawed — it used standard car suspension parts, likely a maintenance nightmare, with doubts about how a boat's structure would hold up to road-pounding with wheels mounted so directly to it — but the **basic principle is sound**. A simpler variant: a **suspension-free launching undercarriage** used together with a car-transporter-type road trailer, retracting once on the trailer to lower the boat onto conventional supports for the road. A third variant: **leaving the tow ball on the car** and simply **dropping the trailer's back end onto the ground** to lower the boat for launch/recovery, rather than retracting the axle or undercarriage itself. As with the other concepts in this group, any such actuating mechanism would need to be simple and inexpensive to be worthwhile — none of these retracting-axle or retracting-undercarriage concepts is recorded as ever having been built or tested.
 
 ## A small, affordable trailer option, and its real-world weight limit
 
-The **"T-2000"** trailer sold by **Portage Pal** (`portagepal.com`) is a
-small, relatively affordable commercial option — but inadequate for a
-Paradox: it would **not even carry an empty Paradox**, let alone one loaded
-with stores and food for a couple of weeks' cruising, which brings her
-weight up to around **1,000 lb**. The T-2000 is advertised at under $500
-("$499?"), whereas a **custom-built trailer** rated to **2,500 lb capacity**
-costs only a little more — one such build cost **$525**. This is a concrete,
-priced counter-example reinforcing the same "don't under-build the trailer"
-lesson documented above.
+The **"T-2000"** trailer sold by **Portage Pal** (`portagepal.com`) is a small, relatively affordable commercial option — but inadequate for a Paradox: it would **not even carry an empty Paradox**, let alone one loaded with stores and food for a couple of weeks' cruising, which brings her weight up to around **1,000 lb**. The T-2000 is advertised at under $500 ("$499?"), whereas a **custom-built trailer** rated to **2,500 lb capacity** costs only a little more — one such build cost **$525**. This is a concrete, priced counter-example reinforcing the same "don't under-build the trailer" lesson documented above.
 
 ## Adapting a used heavy-duty trailer (the Bolduc/Layden approach)
 
-**Dave Bolduc**'s long experience trailering
-[Little Cruiser](/matt-layden/little-cruiser.md) alongside Paradox points to
-a **used trailer that is fairly heavy duty** for either boat: because both
-designs have **flat bottoms**, they can be adapted to "just about anything
-from a flatbed to a custom trailer with some simple modifications" — a
-looser, more forgiving approach than the detailed built-to-spec rebuild
-worked out for "Zoë" trailer (above).
+Long experience trailering [Little Cruiser](/matt-layden/little-cruiser.md) alongside Paradox points to a **used trailer that is fairly heavy duty** for either boat: because both designs have **flat bottoms**, they can be adapted to "just about anything from a flatbed to a custom trailer with some simple modifications" — a looser, more forgiving approach than the detailed built-to-spec rebuild worked out for "Zoë" trailer (above).
 
-Even a repurposed trailer must not be under-built: Dave's own trailer for
-Little Cruiser was rated for only **1,400 lb**, "lightweight to medium
-duty," and has needed **welding gussets and reinforcement plates onto it
-ever since** — bouncing down the road and across railroad tracks with a
-full load cracks the welds. He also went through **several blow-outs** with
-the trailer's original **skinny 4 in x 12 in** tires before switching to
-**full-size trailer tires** matching those of his tow vehicle. As set up,
-Little Cruiser rests on the trailer on **two treated 2x6 boards amidships**
-and a **2x4 board forward**, with the axle mounted **atop the leaf
-springs** — the same height-lowering technique used for Zoë's trailer above
-— letting Dave **launch at most ramps**.
+Even a repurposed trailer must not be under-built: the trailer used for Little Cruiser was rated for only **1,400 lb**, "lightweight to medium duty," and has needed **welding gussets and reinforcement plates onto it ever since** — bouncing down the road and across railroad tracks with a full load cracks the welds. It also went through **several blow-outs** with the trailer's original **skinny 4 in x 12 in** tires before switching to **full-size trailer tires** matching those of the tow vehicle. As set up, Little Cruiser rests on the trailer on **two treated 2x6 boards amidships** and a **2x4 board forward**, with the axle mounted **atop the leaf springs** — the same height-lowering technique used for Zoë's trailer above — allowing launch at most ramps.
 
-**Matt Layden**'s own approach illustrates the alternative end of the
-spectrum: rather than build or heavily modify a trailer, he simply "went
-out and got a good used heavy duty powerboat trailer with full-sized wheels
-for cheap." It is a characteristically pragmatic, minimal-effort approach to
-boat-support infrastructure, consistent with his prioritizing simplicity and
-low cost elsewhere (see, e.g., his original ~4-month, bicycle-trailer-hauled
-build in [original Paradox](/boats/original-paradox.md)) — here applied to
-trailer selection rather than the boat itself.
+**Matt Layden**'s own approach illustrates the alternative end of the spectrum: rather than build or heavily modify a trailer, he simply "went out and got a good used heavy duty powerboat trailer with full-sized wheels for cheap." It is a characteristically pragmatic, minimal-effort approach to boat-support infrastructure, consistent with his prioritizing simplicity and low cost elsewhere (see, e.g., his original ~4-month, bicycle-trailer-hauled build in [original Paradox](/boats/original-paradox.md)) — here applied to trailer selection rather than the boat itself.
 
 ## Trailer equipment: brakes and bearing buddies
 
-A well-specified trailer need not have brakes: the custom-built trailer for
-"[Zoë](/boats/zoe.md)" has **no brakes**, but does use **bearing buddies**
-(grease-fitting hub caps that keep wheel bearings packed and protected
-during repeated launch/retrieval) — a short, concrete data point rounding
-out the trailer specification given above.
+A well-specified trailer need not have brakes: the custom-built trailer for "[Zoë](/boats/zoe.md)" has **no brakes**, but does use **bearing buddies** (grease-fitting hub caps that keep wheel bearings packed and protected during repeated launch/retrieval) — a short, concrete data point rounding out the trailer specification given above.
 
 ## Always carry a spare tire
 
-Even a **brand new** trailer can suffer a **tire blowout** — one occurred
-before even reaching the boat ramp, with no spare aboard, on a long
-Cumberland Sound trip aboard "[Zoë](/boats/zoe.md)"
-(see [Glen C. Maxwell](/people/glen-maxwell/build-and-zoe.md)).
-The failure happened close enough to a tire store to walk to for a
-replacement — a matter of luck, since the same problem "twenty miles from
-anywhere" would have been far worse. The lesson, distinct from the
-build-quality/overbuilding lessons above since the trailer itself was new
-and presumably sound: **always carry a spare**.
+Even a **brand new** trailer can suffer a **tire blowout** — one occurred before even reaching the boat ramp, with no spare aboard, on a long Cumberland Sound trip aboard "[Zoë](/boats/zoe.md)." The failure happened close enough to a tire store to walk to for a replacement — a matter of luck, since the same problem "twenty miles from anywhere" would have been far worse. The lesson, distinct from the build-quality/overbuilding lessons above since the trailer itself was new and presumably sound: **always carry a spare**.
 
 ## UK trailer weight limits, and whether brakes are necessary
 
-The governing **UK legal limit** for an unbraked trailer: it may weigh up
-to **750 kg gross**, or **half the towing vehicle's kerb weight**, whichever
-is lower — so a builder adapting a candidate dinghy trailer (large
-transverse leaf-spring suspension, unbraked wheels) for a laden "Enuf" may
-well be legal without brakes. In practice, though, a loaded trailer of that
-kind would be very difficult for one person (or even two) to manhandle with
-no brakes at all; keeping the wheels from getting wet during launch and
-recovery makes the lack of trailer brakes much less of a liability. For
-comparison, "[Whisper](/boats/whisper.md)" and "[Zoë](/boats/zoe.md)" both
-ride on fairly ordinary trailers.
+The governing **UK legal limit** for an unbraked trailer: it may weigh up to **750 kg gross**, or **half the towing vehicle's kerb weight**, whichever is lower — so adapting a candidate dinghy trailer (large transverse leaf-spring suspension, unbraked wheels) for a laden "Enuf" may well be legal without brakes. In practice, though, a loaded trailer of that kind would be very difficult for one person (or even two) to manhandle with no brakes at all; keeping the wheels from getting wet during launch and recovery makes the lack of trailer brakes much less of a liability. For comparison, "[Whisper](/boats/whisper.md)" and "[Zoë](/boats/zoe.md)" both ride on fairly ordinary trailers.
 
-Choosing between an aging short-wheelbase Land Rover (poor brakes, low
-speed) and a modern Vauxhall (higher speed, better brakes) as tow vehicle,
-one builder found reassurance in a motorway-patrolman's observation that
-private trailers are stopped and checked only when flagrantly breaking the
-law (such as speeding), since police enforcement effort concentrates on
-commercial trailers, which are more often overloaded or in poor condition.
+Choosing between an aging short-wheelbase Land Rover (poor brakes, low speed) and a modern Vauxhall (higher speed, better brakes) as tow vehicle, one builder found reassurance in a motorway-patrolman's observation that private trailers are stopped and checked only when flagrantly breaking the law (such as speeding), since police enforcement effort concentrates on commercial trailers, which are more often overloaded or in poor condition.
 
 ## A stock power-boat trailer, adapted for tongue weight
 
-**Dave Bolduc** reports that a **regular power-boat trailer** works fine for
-towing both Little Cruiser and Swamp Thing, needing only custom **2x6
-treated-lumber bunks** shaped to follow each hull's rocker. Because that
-kind of trailer is designed around a boat with a heavy engine hanging off
-the transom, a Paradox has to sit centered **slightly ahead of the axle**,
-leaving the stern looking as if it hangs off the trailer a bit — the
-tradeoff that gets the **tongue weight** into the right range, roughly
-**100-150 lb** for a Honda Accord tow vehicle and a fully-loaded,
-expedition-ready boat. The exact figure is not critical, but too little
-tongue weight lets the boat bounce "like a bucking bronco" over bumps; on
-the Bolducs' periodic 900-mile trips to the Florida Keys, he has
-adjusted Little Cruiser's trim on the trailer using trip stores and loose
-lead ballast to keep the tongue weight comfortable.
+A **regular power-boat trailer** works fine for towing both Little Cruiser and Swamp Thing, needing only custom **2x6 treated-lumber bunks** shaped to follow each hull's rocker. Because that kind of trailer is designed around a boat with a heavy engine hanging off the transom, a Paradox has to sit centered **slightly ahead of the axle**, leaving the stern looking as if it hangs off the trailer a bit — the tradeoff that gets the **tongue weight** into the right range, roughly **100-150 lb** for a Honda Accord tow vehicle and a fully-loaded, expedition-ready boat. The exact figure is not critical, but too little tongue weight lets the boat bounce "like a bucking bronco" over bumps; on periodic 900-mile trips to the Florida Keys, Little Cruiser's trim on the trailer has been adjusted using trip stores and loose lead ballast to keep the tongue weight comfortable.
 
-[David Beard](/people/david-beard.md), building from a similar stock
-power-boat trailer, modified his to **sit lower** for launching at low
-tides, ahead of attending the group's Cedar Key gathering.
+Building from a similar stock power-boat trailer, one builder modified his to **sit lower** for launching at low tides, ahead of attending the group's Cedar Key gathering.
 
 ## Trailering the Bolducs' way (microcruising.com)
 
-David and Mindy Bolduc's account of trailering
-[Little Cruiser](/matt-layden/little-cruiser.md) gives an independent,
-long-running real-world counterpart to the specifications and lessons
-above. Little Cruiser's shallow **9-inch draft** makes her, in the Bolducs'
-words, "easy to launch the boat at any ramp," and she "tows nicely behind our
-small four cylinder car" — a notably lighter tow vehicle than generally
-discussed above.
+An account of trailering [Little Cruiser](/matt-layden/little-cruiser.md) gives an independent, long-running real-world counterpart to the specifications and lessons above. Little Cruiser's shallow **9-inch draft** makes her "easy to launch the boat at any ramp," and she "tows nicely behind our small four cylinder car" — a notably lighter tow vehicle than generally discussed above.
 
-The Bolducs routinely trailered from their home in **Greensboro, North
-Carolina**, to **Key Largo, Florida** — a one- to two-day drive — before
-launching for a Bahamas crossing. Underway, the mast **lowers** on its
-struts/tabernacle to clear low bridges, letting them duck under without
-waiting for a bridge opening. Cross-link
-[Little Cruiser](/matt-layden/little-cruiser.md).
+Little Cruiser was routinely trailered from **Greensboro, North Carolina**, to **Key Largo, Florida** — a one- to two-day drive — before launching for a Bahamas crossing. Underway, the mast **lowers** on its struts/tabernacle to clear low bridges, allowing passage underneath without waiting for a bridge opening. Cross-link [Little Cruiser](/matt-layden/little-cruiser.md).
 
 # Citations
 

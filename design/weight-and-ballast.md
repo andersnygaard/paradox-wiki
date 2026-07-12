@@ -8,16 +8,9 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Weight, ballast, and displacement
 
-See also [heavy-weather tactics](/operations/heavy-weather-tactics.md) for a
-real-world heel-angle data point (deck almost awash, "felt pretty solid") and
-the still-open question of a safe maximum heel angle in a seaway.
+See also [heavy-weather tactics](/operations/heavy-weather-tactics.md) for a real-world heel-angle data point (deck almost awash, "felt pretty solid") and the still-open question of a safe maximum heel angle in a seaway.
 
-The [Paradox](/paradox.md) is deliberately a **small, heavy boat with a lot of
-stability**: most of its weight sits **below the waterline, in the bilge**, so
-it stays low and stiff. The figures below come from a boat built "extra
-heavy" by [Don Elliott](/people/don-elliott.md); a lighter build is possible.
-Matt Layden's plans page showing all the sheets of ply and thicknesses is at
-`http://www.tomah.com/delliott/paradoxlayout.jpg`.
+The [Paradox](/paradox.md) is deliberately a **small, heavy boat with a lot of stability**: most of its weight sits **below the waterline, in the bilge**, so it stays low and stiff. The figures below come from a boat built "extra heavy"; a lighter build is possible. Matt Layden's plans page showing all the sheets of ply and thicknesses is at `http://www.tomah.com/delliott/paradoxlayout.jpg`.
 
 ## Loaded-weight breakdown (Don Elliott's boat)
 
@@ -31,7 +24,7 @@ Weight carried in the **bottom 10 inches** of the hull:
 | Water — two tanks, kept full when cruising | 150 lb |
 | Food (about a week's supply) | 80–100 lb |
 | Battery | 45 lb |
-| Anchor and line (Don carries two) | 40 lb |
+| Anchor and line (two carried) | 40 lb |
 | **Subtotal in the bilge** | **~930 lb** |
 
 Weight above the bilge / floor:
@@ -43,1087 +36,255 @@ Weight above the bilge / floor:
 | Crew and their gear (stow low in bad weather for max stability) | 200 lb |
 | **Subtotal above the floor** | **~235 lb + crew** |
 
-**Total ≈ 1,365 lb** loaded, on Don's heavily built boat. That left him roughly
-45 lb of spare capacity (about what the rudder weighs, or half that).
+**Total ≈ 1,365 lb** loaded, on this heavily built boat. That left roughly 45 lb of spare capacity (about what the rudder weighs, or half that).
 
 ## Ballast
 
-- **Lead:** 400 lb, as **ten 40 lb pigs strapped down** in the bilge. Matt
-  Layden allows **less** if desired — carrying more food/equipment lets you
-  reduce lead, as long as any weight is secured.
-- Ballast, tanks, and stores together are what put ~930 lb into the bottom 10
-  inches, giving the boat its stiffness and its expected ability to "plough
-  through" a [chop](/operations/index.md) rather than be knocked about.
-- Beyond buying lead pigs new, builders have found scrap lead shaped like pipe
-  discarded in a skip (dumpster) usable as ready-made ballast pigs.[101]
-- **Free scrap lead is readily available**, and often better value than
-  buying it: tyre-fitters' shops routinely accumulate buckets of old
-  wheel-balance weights they pay someone to haul away, a source that supplied
-  one builder with 17 lead bricks (25 lb each) for the price of two pints of
-  beer. Ballast carried is not fixed for good — it gets swapped out over time
-  as other "useful" equipment comes aboard and takes over part of the
-  weight-budget role.[135] Sourcing scrap lead locally is generally cheaper
-  than traveling any distance to collect someone else's surplus, once travel
-  cost is weighed against simply finding a wheel-balance-weight source closer
-  to home.[137][138][139]
-- **"How much ballast" is not a single well-defined number.** A one-line
-  lead-weight figure is a slippery thing to compare between boats, since it
-  depends on what is being counted as ballast: water ballast, always-carried
-  heavy gear such as ground tackle, and general stores/equipment can all be
-  bundled in or left out depending on how the question is asked. A poll
-  asking Paradox builders how much ballast weight worked best for them,
-  offering choices from 150 to 400 lb, drew the observation that the same
-  boat could honestly be answered anywhere from 100 to 350 lb depending on
-  which of those categories counts.[133][134][136]
-- **One owner's full weight inventory, itemized.** Pressed for a concrete
-  answer to that same poll, one owner broke down everything he actually
-  carries: 100 lb of lead, a 50 lb battery, an electric outboard, three
-  anchors with chain, drinking water carried on top of the water ballast, a
-  second battery for lights, and tinned food. He judges a Paradox's real
-  advantage is that **extra weight isn't a problem** — if a piece of gear
-  might be useful, it can simply be brought along. On some short trips he
-  skips filling the water ballast entirely; the boat still sails just as
-  well, though it feels a little more tender (possibly only his
-  impression).[140] Old wheel-balance weights come with their own steel
-  retaining clips: melting them down (a bread tin makes a serviceable mould)
-  lets the steel float free to be skimmed off, leaving clean lead for
-  casting into ballast bricks.[141]
-- **A dissenting view: the poll itself was solving a non-problem.** Countering
-  the poll's premise, one reply held that almost every builder sails a
-  Paradox without enough ballast the first time or two anyway, without harm,
-  since those early outings are short test sails — better, in this view, to
-  start building and defer the ballast question until the hull is actually in
-  the water once or twice.[142]
-- **Final poll result: a 50/50 split between the two middle choices.** The
-  poll closed with only two votes cast, one for **250 lb** and one for
-  **300 lb** — both toward the lighter end of the ten-choice, 150-400 lb
-  range on offer, and neither at either extreme.[143]
+- **Lead:** 400 lb, as **ten 40 lb pigs strapped down** in the bilge. Matt Layden allows **less** if desired — carrying more food/equipment lets you reduce lead, as long as any weight is secured.
+- Ballast, tanks, and stores together are what put ~930 lb into the bottom 10 inches, giving the boat its stiffness and its expected ability to "plough through" a [chop](/operations/index.md) rather than be knocked about.
+- Beyond buying lead pigs new, scrap lead shaped like pipe discarded in a skip (dumpster) is usable as ready-made ballast pigs.[101]
+- **Free scrap lead is readily available**, and often better value than buying it: tyre-fitters' shops routinely accumulate buckets of old wheel-balance weights they pay someone to haul away, a source that supplied 17 lead bricks (25 lb each) for the price of two pints of beer. Ballast carried is not fixed for good — it gets swapped out over time as other "useful" equipment comes aboard and takes over part of the weight-budget role.[135] Sourcing scrap lead locally is generally cheaper than traveling any distance to collect someone else's surplus, once travel cost is weighed against simply finding a wheel-balance-weight source closer to home.[137][138][139]
+- **"How much ballast" is not a single well-defined number.** A one-line lead-weight figure is a slippery thing to compare between boats, since it depends on what is being counted as ballast: water ballast, always-carried heavy gear such as ground tackle, and general stores/equipment can all be bundled in or left out depending on how the question is asked. A poll asking Paradox builders how much ballast weight worked best for them, offering choices from 150 to 400 lb, drew the observation that the same boat could honestly be answered anywhere from 100 to 350 lb depending on which of those categories counts.[133][134][136]
+- **One owner's full weight inventory, itemized.** Pressed for a concrete answer to that same poll, one owner's full load-out was: 100 lb of lead, a 50 lb battery, an electric outboard, three anchors with chain, drinking water carried on top of the water ballast, a second battery for lights, and tinned food. A Paradox's real advantage is that **extra weight isn't a problem** — if a piece of gear might be useful, it can simply be brought along. On some short trips the water ballast is skipped entirely; the boat still sails just as well, though it feels a little more tender (possibly only an impression).[140] Old wheel-balance weights come with their own steel retaining clips: melting them down (a bread tin makes a serviceable mould) lets the steel float free to be skimmed off, leaving clean lead for casting into ballast bricks.[141]
+- **A dissenting view: the poll itself was solving a non-problem.** Countering the poll's premise, almost every builder sails a Paradox without enough ballast the first time or two anyway, without harm, since those early outings are short test sails — better, in this view, to start building and defer the ballast question until the hull is actually in the water once or twice.[142]
+- **Final poll result: a 50/50 split between the two middle choices.** The poll closed with only two votes cast, one for **250 lb** and one for **300 lb** — both toward the lighter end of the ten-choice, 150-400 lb range on offer, and neither at either extreme.[143]
 
 ## Real-world under-ballasted handling
 
-How much the lead ballast matters in practice is well documented across
-several boats. Sailed with only ~75 lb of ballast aboard (a small fraction of
-the ~400 lb design figure), "[Zoë](/boats/zoe.md)" "ghosted" along fine but
-was noticeably tender; loaded for a week-long overnighter (full water tanks, a
-week's stores) she was still **about 100 lb short** of stiff enough — "a
-little too tender" for confident forward movement on deck to handle anchor or
-dock lines, though day-to-day walking about would already be easier with that
-much added.
+How much the lead ballast matters in practice is well documented across several boats. Sailed with only ~75 lb of ballast aboard (a small fraction of the ~400 lb design figure), "[Zoë](/boats/zoe.md)" "ghosted" along fine but was noticeably tender; loaded for a week-long overnighter (full water tanks, a week's stores) she was still **about 100 lb short** of stiff enough — "a little too tender" for confident forward movement on deck to handle anchor or dock lines, though day-to-day walking about would already be easier with that much added.
 
-A matching cautionary data point runs the other direction: removing 100 lb of
-lead from forward of amidships on "Little Jim" (chasing an unfounded worry
-about being overweight) moved her center of gravity far enough forward to
-bring on considerable weather helm and destroy her tracking ability outright
-— promptly reversed by putting the lead back. See [Alastair — sailing
-performance and weight](/people/alastair.md#sailing-performance-and-weight).
+A matching cautionary data point runs the other direction: removing 100 lb of lead from forward of amidships on "Little Jim" (chasing an unfounded worry about being overweight) moved her center of gravity far enough forward to bring on considerable weather helm and destroy her tracking ability outright — promptly reversed by putting the lead back.
 
-A maiden-sail account supplies a third data point on the same theme:
-launching without enough ballast aboard to reach the boat's roughly 9 in full
-cruising draft left her sitting on her waterline but noticeably tender. The
-standing advice from [Dave Bolduc](/people/bolduc/dave.md) is not to hesitate
-to ballast a Paradox all the way up to her full cruising displacement, since
-the boat "loves the weight" and keeping the chine runners submerged as deep as
-possible is what maximizes windward performance.
+A maiden-sail account supplies a third data point on the same theme: launching without enough ballast aboard to reach the boat's roughly 9 in full cruising draft left her sitting on her waterline but noticeably tender. The standing advice is not to hesitate to ballast a Paradox all the way up to her full cruising displacement, since the boat "loves the weight" and keeping the chine runners submerged as deep as possible is what maximizes windward performance.
 
-"Little Jim" herself was once found tender too, and the question was settled
-empirically on a calm day by holding the mast and leaning weight out over the
-side to observe the result — a firsthand mast-lean-out heel test photographed
-and posted under "Stability & Balance" on a build website. In ordinary sailing
-trim, close-hauled and sailing well, "Little Jim" heels to about
-**20 degrees**, the same steady figure reported repeatedly elsewhere from
-actual passages.[93] A related, smaller-scale data point on the same boat:
-sailing without the water-tank ballast in light conditions is workable, but
-still has a **noticeable effect on initial stability** even with the full
-fixed-lead load aboard — see [transom deck plate — the fill/suction copper
-pipe: sizing, timing, and the fittings that connect to
-it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[128]
+"Little Jim" herself was once found tender too, and the question was settled empirically on a calm day by holding the mast and leaning weight out over the side to observe the result — a firsthand mast-lean-out heel test photographed and posted under "Stability & Balance" on a build website. In ordinary sailing trim, close-hauled and sailing well, "Little Jim" heels to about **20 degrees**, the same steady figure reported repeatedly elsewhere from actual passages.[93] A related, smaller-scale data point on the same boat: sailing without the water-tank ballast in light conditions is workable, but still has a **noticeable effect on initial stability** even with the full fixed-lead load aboard — see [transom deck plate — the fill/suction copper pipe: sizing, timing, and the fittings that connect to it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[128]
 
 ## Waterplane sensitivity
 
-The hull's waterplane is such that the boat **sinks about 1 inch per 200 lb**
-added, so an extra 100 lb lowers her only about 1/2 inch. Builders are urged to
-stay close to the design displacement, though it can be exceeded somewhat —
-[Dave and Mindy Bolduc](/matt-layden/little-cruiser.md) cruise a very similar
-boat **two-up** with gear and stores, so they must go over it some.
+The hull's waterplane is such that the boat **sinks about 1 inch per 200 lb** added, so an extra 100 lb lowers her only about 1/2 inch. Builders are urged to stay close to the design displacement, though it can be exceeded somewhat — a very similar boat is cruised **two-up** with gear and stores (see [Little Cruiser](/matt-layden/little-cruiser.md)), so it must go over it some.
 
 ## Installing the lead ballast
 
 Two methods for securing lead ballast are on record.
 
-**Tapped hardwood blocks.** Threaded fastenings hold the lead down into
-**hardwood blocks (not oak)**, bonded to the hull with epoxy, then **tapped
-(threaded) after bonding** rather than beforehand — the tapping can't be done
-on the bench because the blocks must be drilled and aligned once assembled in
-the boat. This avoids splitting the hardwood blocks or the chines, which would
-otherwise create a lot of extra rework, and is a quick, safe procedure. A
-stronger but slower alternative is to bore the holes oversize, fill with
-epoxy, and set coarse-threaded bolts in the re-drilled holes, waxed for
-removability — "by far the strongest method." Wax or oil near a boat under
-construction is worth handling carefully in general, since either can
-contaminate a joint and cause an epoxy bond to fail.
+**Tapped hardwood blocks.** Threaded fastenings hold the lead down into **hardwood blocks (not oak)**, bonded to the hull with epoxy, then **tapped (threaded) after bonding** rather than beforehand — the tapping can't be done on the bench because the blocks must be drilled and aligned once assembled in the boat. This avoids splitting the hardwood blocks or the chines, which would otherwise create a lot of extra rework, and is a quick, safe procedure. A stronger but slower alternative is to bore the holes oversize, fill with epoxy, and set coarse-threaded bolts in the re-drilled holes, waxed for removability — "by far the strongest method." Wax or oil near a boat under construction is worth handling carefully in general, since either can contaminate a joint and cause an epoxy bond to fail.
 
-**Waxed machine screws.** Drill one size **smaller** than the fastener and
-drive a **machine screw** directly (no tapping needed) for strong holding
-power; **coat the fastener with wax, then dip in epoxy** before driving, for
-even better holding.
+**Waxed machine screws.** Drill one size **smaller** than the fastener and drive a **machine screw** directly (no tapping needed) for strong holding power; **coat the fastener with wax, then dip in epoxy** before driving, for even better holding.
 
-**Sheet lead bedded in a sand/epoxy infill.** A third method, proven on a
-builder's own prior 25 ft Folksong: lay sheet lead against the hull bottom
-and hold it down permanently with a mix of **sand and epoxy resin** poured
-around and over it, rather than (or in addition to) screwing it down.[129]
-Sand serves two purposes at once — it is both the **cheapest available
-heavy infill material** for bulking out epoxy and a legitimate way to add
-**substantial extra ballast weight** cheaply, the same reasoning behind
-sand-filled bags used elsewhere as movable trimming ballast.[132] Any sand
-used **must be dried hot and then cooled before mixing** into the resin, to
-drive off moisture that would otherwise compromise the cure.[129] The
-sheet lead itself could equally be screwed to the bottom on its own, but
-without the sand/resin infill nothing is actually holding it in place;
-sand is not a structural reinforcement in the way glass cloth is, and is
-not a substitute for it — it is added specifically as cheap ballast bulk,
-not strength.[130][131] One practical caution: a sand/epoxy pour of any
-real volume **generates significant exothermic heat while curing**, worth
-planning for in a confined bilge space.[130]
+**Sheet lead bedded in a sand/epoxy infill.** A third method, proven on a prior 25 ft Folksong: lay sheet lead against the hull bottom and hold it down permanently with a mix of **sand and epoxy resin** poured around and over it, rather than (or in addition to) screwing it down.[129] Sand serves two purposes at once — it is both the **cheapest available heavy infill material** for bulking out epoxy and a legitimate way to add **substantial extra ballast weight** cheaply, the same reasoning behind sand-filled bags used elsewhere as movable trimming ballast.[132] Any sand used **must be dried hot and then cooled before mixing** into the resin, to drive off moisture that would otherwise compromise the cure.[129] The sheet lead itself could equally be screwed to the bottom on its own, but without the sand/resin infill nothing is actually holding it in place; sand is not a structural reinforcement in the way glass cloth is, and is not a substitute for it — it is added specifically as cheap ballast bulk, not strength.[130][131] One practical caution: a sand/epoxy pour of any real volume **generates significant exothermic heat while curing**, worth planning for in a confined bilge space.[130]
 
-**Ballast stowage detail.** On one boat, the **forward-compartment lead**
-serves as **trim weight to counterbalance the battery**, held in place by
-**heavy nylon straps (with bolts)** in a tight fit. All lead is **sealed in
-heavy plastic** with **rubber padding top and bottom**, and reportedly "will
-never move in normal use."
+**Ballast stowage detail.** On one boat, the **forward-compartment lead** serves as **trim weight to counterbalance the battery**, held in place by **heavy nylon straps (with bolts)** in a tight fit. All lead is **sealed in heavy plastic** with **rubber padding top and bottom**, and reportedly "will never move in normal use."
 
-These building steps were also written up as an article for **MAIB**
-(*Messing About In Boats* magazine), in addition to the existing ["Building
-the Paradox" articles](/references/building-the-paradox-articles.md).
+These building steps were also written up as an article for **MAIB** (*Messing About In Boats* magazine), in addition to the existing ["Building the Paradox" articles](/references/building-the-paradox-articles.md).
 
-Lead-installation photos (referenced but with no caption text):
-`http://www.tomah.com/delliott/par1.jpg`, `par2.jpg`, `par3.jpg`, `par4.jpg`.
+Lead-installation photos (referenced but with no caption text): `http://www.tomah.com/delliott/par1.jpg`, `par2.jpg`, `par3.jpg`, `par4.jpg`.
 
 ## Reaching the ballast fastenings after the floors are in
 
-The plans' overlapping floors can make the **inner** ballast fastenings hard
-to reach once the boat is otherwise finished, a problem separate from how
-the lead itself is secured (above). One builder's own solution avoids
-threaded fastenings through the hull bottom entirely: drill and tap directly
-into the top face of each lead pig, then bolt on a small plate that itself
-bolts down into the top of the chine log. The fit does not clamp the lead
-rigidly, but shows no sign of the pigs shifting over time, and is expected
-to hold even if the boat were inverted. Ballast should not be fixed down at
-all until after the first few sails, since moving individual pigs around
-while trimming is the normal way a Paradox gets balanced correctly — see
-[the practical, real-world answer to how much ballast to fit, and
-where](#ballast-placement-outboard-vs-centered) above for the same
-launch-light-then-trim method.[144][145]
+The plans' overlapping floors can make the **inner** ballast fastenings hard to reach once the boat is otherwise finished, a problem separate from how the lead itself is secured (above). One solution avoids threaded fastenings through the hull bottom entirely: drill and tap directly into the top face of each lead pig, then bolt on a small plate that itself bolts down into the top of the chine log. The fit does not clamp the lead rigidly, but shows no sign of the pigs shifting over time, and is expected to hold even if the boat were inverted. Ballast should not be fixed down at all until after the first few sails, since moving individual pigs around while trimming is the normal way a Paradox gets balanced correctly — see [the practical, real-world answer to how much ballast to fit, and where](#ballast-placement-outboard-vs-centered) above for the same launch-light-then-trim method.[144][145]
 
-That same arrangement — top wooden retaining pieces bolted through into a
-wooden block glued to the floor near the mid-section, and separately into
-the chine log — lets the pigs be shifted fore and aft as needed, but leaves
-the real access difficulty at the two bolts hidden under the flap that
-projects from the ballast-tank top. A **removable plank** in place of that
-flap was proposed as the fix, rather than continuing to work around a fixed
-flap.[146]
+That same arrangement — top wooden retaining pieces bolted through into a wooden block glued to the floor near the mid-section, and separately into the chine log — lets the pigs be shifted fore and aft as needed, but leaves the real access difficulty at the two bolts hidden under the flap that projects from the ballast-tank top. A **removable plank** in place of that flap was proposed as the fix, rather than continuing to work around a fixed flap.[146]
 
-Cutting **1 in access holes** directly above the bolt heads, as an
-alternative to a full removable plank, was considered and rejected: fixed
-side pieces at that scale would still make the bolts themselves ticklish to
-reach, and would also block off the water inlet/outlet fitting where a PVC
-tube joins the copper pipe with a jubilee clip — a joint that may itself
-need attention at some point. Weighing routine ballast access and
-adjustment against that pipe-joint maintenance need, the preferred solution
-is to build the **sides of the water-ballast tank top as separate,
-removable "planks"** rather than a fixed flap with only small drilled
-holes — giving full access to both the lead ballast and the jubilee-clipped
-plumbing whenever needed.[147][148]
+Cutting **1 in access holes** directly above the bolt heads, as an alternative to a full removable plank, was considered and rejected: fixed side pieces at that scale would still make the bolts themselves ticklish to reach, and would also block off the water inlet/outlet fitting where a PVC tube joins the copper pipe with a jubilee clip — a joint that may itself need attention at some point. Weighing routine ballast access and adjustment against that pipe-joint maintenance need, the preferred solution is to build the **sides of the water-ballast tank top as separate, removable "planks"** rather than a fixed flap with only small drilled holes — giving full access to both the lead ballast and the jubilee-clipped plumbing whenever needed.[147][148]
 
 ## Sourcing lead cheaply, and why scrap has largely replaced it
 
-Buying new lead at retail scrap-metal prices is expensive enough (around
-$0.45/lb quoted across several US tire shops, which routinely take old wheel
-weights) that builders have looked for cheaper alternatives. Old car-battery
-lead has been floated as one option, with the observation that UK councils and
-scrapyards typically charge to dispose of batteries, so a boatbuilder asking
-around a garage workshop for old batteries would likely be given them for
-free; breaking batteries open to recover the lead carries real hazards (the
-sulfuric acid electrolyte, corrosive enough to serve as an effective weed
-killer) and calls for common-sense precautions.[149]
+Buying new lead at retail scrap-metal prices is expensive enough (around $0.45/lb quoted across several US tire shops, which routinely take old wheel weights) that builders have looked for cheaper alternatives. Old car-battery lead has been floated as one option, with the observation that UK councils and scrapyards typically charge to dispose of batteries, so a boatbuilder asking around a garage workshop for old batteries would likely be given them for free; breaking batteries open to recover the lead carries real hazards (the sulfuric acid electrolyte, corrosive enough to serve as an effective weed killer) and calls for common-sense precautions.[149]
 
-In practice, the economics of battery and scrap-metal recycling have shifted
-enough to close off this route in many places: household recycling centers
-now often take used engine oil, batteries, and scrap steel or iron for free,
-reselling it on to industrial recyclers rather than paying the person
-dropping it off — removing the incentive to break batteries open at all, and
-leaving the health risk (both to the builder and, as one builder's wife
-pointed out, to household members nearby) with no offsetting reward. Facing
-the same high retail lead price, the alternative settled on was **scrap
-steel plate**, sourced cheaply through an aerospace-industry surplus outlet
-rather than recovered lead.[150]
+In practice, the economics of battery and scrap-metal recycling have shifted enough to close off this route in many places: household recycling centers now often take used engine oil, batteries, and scrap steel or iron for free, reselling it on to industrial recyclers rather than paying the person dropping it off — removing the incentive to break batteries open at all, and leaving the health risk (both to the builder and to household members nearby) with no offsetting reward. Facing the same high retail lead price, the alternative settled on was **scrap steel plate**, sourced cheaply through an aerospace-industry surplus outlet rather than recovered lead.[150]
 
 ## The ballast pig layout, in full (Don Elliott)
 
-A dedicated, illustrated account of a lead-ballast installation — the fullest
-single record of how the individual lead weights, or **"pigs,"** are sized,
-placed, and secured — comes from [Don Elliott](/people/don-elliott.md)'s
-"Building the Paradox"
-[booklet](/references/building-the-paradox-articles.md) series.
+A dedicated, illustrated account of a lead-ballast installation — the fullest single record of how the individual lead weights, or **"pigs,"** are sized, placed, and secured — appears in the "Building the Paradox" [booklet](/references/building-the-paradox-articles.md) series.
 
-**Quantity and trim.** The plans specify **70 to 180 kg (155-400 lb)** of
-ballast, the amount within that range depending on how heavily the boat will
-otherwise be stored: a light traveler should use the higher figure, a
-heavily stored boat the lower one, and in no case should total displacement
-(hull, ballast, stores, gear, and crew together) exceed the design figure. A
-light-traveling build chose the **maximum, 180 kg (400 lb)**. Ballast
-location affects trim, but Paradox is heavy enough as a design to be fairly
-insensitive to it — only slight relocation of individual pigs is typically
-needed to trim her once afloat.
+**Quantity and trim.** The plans specify **70 to 180 kg (155-400 lb)** of ballast, the amount within that range depending on how heavily the boat will otherwise be stored: a light traveler should use the higher figure, a heavily stored boat the lower one, and in no case should total displacement (hull, ballast, stores, gear, and crew together) exceed the design figure. A light-traveling build chose the **maximum, 180 kg (400 lb)**. Ballast location affects trim, but Paradox is heavy enough as a design to be fairly insensitive to it — only slight relocation of individual pigs is typically needed to trim her once afloat.
 
-**Pig sizing and layout.** Pigs weighing **18 kg (40 lb) each** are one
-workable size, though smaller pigs can be cast for a lower total ballast
-figure. A suggested layout (see
-`http://www.tomah.com/delliott/ballast2.jpg`) places **three pigs each side
-at the forward end of the food locker** (54 kg/120 lb per side) and **two
-more pigs each side forward of that, by the water tanks** (36 kg/80 lb per
-side) — 180 kg (400 lb) total between those two rows alone, with the
-remainder positioned afterward based on the boat's actual floating trim. All
-pigs should sit **as far outboard as possible**. Lead should never be
-handled bare-handed, uncovered, and hands should be washed well afterward
-regardless.
+**Pig sizing and layout.** Pigs weighing **18 kg (40 lb) each** are one workable size, though smaller pigs can be cast for a lower total ballast figure. A suggested layout (see `http://www.tomah.com/delliott/ballast2.jpg`) places **three pigs each side at the forward end of the food locker** (54 kg/120 lb per side) and **two more pigs each side forward of that, by the water tanks** (36 kg/80 lb per side) — 180 kg (400 lb) total between those two rows alone, with the remainder positioned afterward based on the boat's actual floating trim. All pigs should sit **as far outboard as possible**. Lead should never be handled bare-handed, uncovered, and hands should be washed well afterward regardless.
 
-**Isolating lead from the hull structure.** Anything bearing directly and
-permanently on Paradox's floor or plywood structure needs to be isolated
-from it to prevent rot; a thin rubber mat under the ballast is one way to add
-that precaution beyond the interior's epoxy coating. **Two coats of epoxy**
-on all interior surfaces is generally adequate, except where moisture could
-stand — such as at the bulkhead/floor joint, which warrants an epoxy fillet
-plus at least **four coats total** of epoxy (any more being wasted). Don't
-overlook Paradox's drain scuppers, shown on the plans, when coating.
+**Isolating lead from the hull structure.** Anything bearing directly and permanently on Paradox's floor or plywood structure needs to be isolated from it to prevent rot; a thin rubber mat under the ballast is one way to add that precaution beyond the interior's epoxy coating. **Two coats of epoxy** on all interior surfaces is generally adequate, except where moisture could stand — such as at the bulkhead/floor joint, which warrants an epoxy fillet plus at least **four coats total** of epoxy (any more being wasted). Don't overlook Paradox's drain scuppers, shown on the plans, when coating.
 
-**A fiberglass floor barrier under the pigs.** Beneath the ballast pigs, two
-layers of **fiberglass cloth** make a quick, abrasion-resistant water
-barrier (see `http://www.tomah.com/delliott/ballast1.jpg`) — sand the floor
-first and mark the cloth's footprint in advance, since that mark becomes hard
-to find once the cloth is wet. Two ways to wet the cloth out: lay it directly
-on the floor and brush epoxy onto the top surface (epoxy penetrates two
-layers of cloth without difficulty), or the neater alternative of wetting
-both layers out on a sheet of glass first and then lifting and laying the wet
-assembly onto the floor as a unit — wastes a little more epoxy but leaves a
-smoother finish; either way, watch for drips while moving a wet layup.
+**A fiberglass floor barrier under the pigs.** Beneath the ballast pigs, two layers of **fiberglass cloth** make a quick, abrasion-resistant water barrier (see `http://www.tomah.com/delliott/ballast1.jpg`) — sand the floor first and mark the cloth's footprint in advance, since that mark becomes hard to find once the cloth is wet. Two ways to wet the cloth out: lay it directly on the floor and brush epoxy onto the top surface (epoxy penetrates two layers of cloth without difficulty), or the neater alternative of wetting both layers out on a sheet of glass first and then lifting and laying the wet assembly onto the floor as a unit — wastes a little more epoxy but leaves a smoother finish; either way, watch for drips while moving a wet layup.
 
-**A favorite epoxy-mixing container.** A square plastic mixing container
-works well for epoxy generally: its corners give accurate pouring, its low,
-wide, flat base makes it more stable and less tippy than a cup, and its wide
-top lets a stir stick or brush rest across it without tipping over. It is
-reusable — any epoxy that dries inside lifts out afterward as a single
-hardened film, leaving a clean container, unlike disposable paper cups.
+**A favorite epoxy-mixing container.** A square plastic mixing container works well for epoxy generally: its corners give accurate pouring, its low, wide, flat base makes it more stable and less tippy than a cup, and its wide top lets a stir stick or brush rest across it without tipping over. It is reusable — any epoxy that dries inside lifts out afterward as a single hardened film, leaving a clean container, unlike disposable paper cups.
 
-A follow-up **"Ballast Installation part 2"** article covers the pigs'
-actual installation, technique, and required tools — but was posted to a
-separate, newly founded Paradox construction group rather than
-`paradoxbuilders` itself; see [Don Elliott — a rival
-group](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-for that split.
+A follow-up **"Ballast Installation part 2"** article covers the pigs' actual installation, technique, and required tools — but was posted to a separate, newly founded Paradox construction group rather than `paradoxbuilders` itself; see [a rival group](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) for that split.
 
 ## Ballast placement: outboard vs. centered
 
-An open question concerns why the lead ballast sits **outboard** (against the
-chines/bottom at the sides) rather than **on the centerline**: with outboard
-ballast, a rolling motion could set up a **torque/oscillation problem**,
-whereas centered ballast with buoyancy further outboard (i.e. in the
-topsides/chines) would let the boat "pivot with the ballast" while the
-outboard buoyancy helps stabilize it — the opposite of the Paradox's actual
-arrangement. Possible explanations: the single, centered water tank might be
-a factor, there might be a stability gain not obvious at first glance, or the
-placement might simply not matter much. This is a distinct question from the
-already-documented **quantity** and **installation method** of the lead
-(above) — it concerns lateral **placement** of the ballast mass within the
-hull section. See also the related [sailing characteristics and rig
-balance](/operations/sailing-characteristics.md) question.
+An open question concerns why the lead ballast sits **outboard** (against the chines/bottom at the sides) rather than **on the centerline**: with outboard ballast, a rolling motion could set up a **torque/oscillation problem**, whereas centered ballast with buoyancy further outboard (i.e. in the topsides/chines) would let the boat "pivot with the ballast" while the outboard buoyancy helps stabilize it — the opposite of the Paradox's actual arrangement. Possible explanations: the single, centered water tank might be a factor, there might be a stability gain not obvious at first glance, or the placement might simply not matter much. This is a distinct question from the already-documented **quantity** and **installation method** of the lead (above) — it concerns lateral **placement** of the ballast mass within the hull section. See also the related [sailing characteristics and rig balance](/operations/sailing-characteristics.md) question.
 
-A related, narrower question: whether the space between bulkheads #2 and #3,
-outside the water tanks and below the floorboards/side bins, is where the
-lead pigs are stowed, and whether a smaller gel-cell battery could go there
-on each side instead of one larger battery in the storeroom — a **fore-and-aft
-placement** question, distinct from the lateral outboard-vs-centered one
-above. See also [interior bins and hinged floor](/design/interior-bins-and-floor.md)
-for the battery stowage **behind the port bin panel**, further forward,
-between bulkheads #1 and #2.
+A related, narrower question: whether the space between bulkheads #2 and #3, outside the water tanks and below the floorboards/side bins, is where the lead pigs are stowed, and whether a smaller gel-cell battery could go there on each side instead of one larger battery in the storeroom — a **fore-and-aft placement** question, distinct from the lateral outboard-vs-centered one above. See also [interior bins and hinged floor](/design/interior-bins-and-floor.md) for the battery stowage **behind the port bin panel**, further forward, between bulkheads #1 and #2.
 
-One full, worked ballast layout on a boat under construction: 11 kg (roughly
-23 lb) lead pigs distributed either side of the centreline, including a pig
-against bulkhead 2 balancing a 12v 55Ah battery stowed to port at the same
-bulkhead; two lidded compartments against bulkhead 3, each taking up to
-22-30 kg of lead; anchors and chain (about 20 kg) further aft, alongside
-space for 30 litres of water; food storage bins running from bulkhead 2 to
-3; and the crew member's own weight seated or lying between bulkheads 2 and
-4 — for a centerline total, battery included, of roughly 66 kg before
-counting anchors, water, stores, or crew.[110]
+One full, worked ballast layout on a boat under construction: 11 kg (roughly 23 lb) lead pigs distributed either side of the centreline, including a pig against bulkhead 2 balancing a 12v 55Ah battery stowed to port at the same bulkhead; two lidded compartments against bulkhead 3, each taking up to 22-30 kg of lead; anchors and chain (about 20 kg) further aft, alongside space for 30 litres of water; food storage bins running from bulkhead 2 to 3; and the crew member's own weight seated or lying between bulkheads 2 and 4 — for a centerline total, battery included, of roughly 66 kg before counting anchors, water, stores, or crew.[110]
 
-The practical, real-world answer to how much of that ballast to fit, and
-where, is to under-ballast at first rather than commit to a final
-figure on paper: launch with an empty hull, load her with all cruising gear,
-then add lead until she balances level to her designed waterline before
-permanently mounting the ballast in place. Builders generally start on the
-light side, which usefully shows the chine runners' true performance as
-ballast is added later and the boat is brought down progressively closer to
-her final lines. [Don Elliott](/people/don-elliott.md)'s own ballast articles
-(above) remain the fullest illustrated reference for the installation
-itself once the total and placement are settled this way.[111][112] This is
-the same load-then-trim method [Glen Maxwell](/people/glen-maxwell.md) used
-on his own boat, "Zoë."[113]
+The practical, real-world answer to how much of that ballast to fit, and where, is to under-ballast at first rather than commit to a final figure on paper: launch with an empty hull, load her with all cruising gear, then add lead until she balances level to her designed waterline before permanently mounting the ballast in place. Builders generally start on the light side, which usefully shows the chine runners' true performance as ballast is added later and the boat is brought down progressively closer to her final lines. The illustrated ballast articles (above) remain the fullest reference for the installation itself once the total and placement are settled this way.[111][112] This is the same load-then-trim method used on "Zoë."[113]
 
-The same lateral-placement question recurred in 2006, prompted by a builder
-planning to use reclaimed sealed lead-acid telecoms batteries (roughly
-70-90 kg) as combined electric-outboard power and ballast, and puzzled that
-the plans put the lead outboard toward the sides rather than on the
-centerline, seemingly leaving half the ballast outboard of the center of
-buoyancy when heeled.[114] Builder experience answered the question the same
-way as before: only the **fore-and-aft** position of the lead has ever
-needed adjustment in practice; nobody has found reason to question its
-**lateral** placement.[115] For an electric outboard's battery bank
-specifically, mounting it immediately forward of bulkhead #3, embedded in the
-side locker, was suggested as workable.[115]
+The same lateral-placement question recurred in 2006, prompted by a plan to use reclaimed sealed lead-acid telecoms batteries (roughly 70-90 kg) as combined electric-outboard power and ballast, and puzzled that the plans put the lead outboard toward the sides rather than on the centerline, seemingly leaving half the ballast outboard of the center of buoyancy when heeled.[114] Builder experience answered the question the same way as before: only the **fore-and-aft** position of the lead has ever needed adjustment in practice; nobody has found reason to question its **lateral** placement.[115] For an electric outboard's battery bank specifically, mounting it immediately forward of bulkhead #3, embedded in the side locker, was suggested as workable.[115]
 
-A distinct **naval-architecture explanation** settled the underlying physics:
-splitting the ballast evenly either side of the centerline, spaced about
-equally from it, keeps the **center of gravity of the lead itself centered**
-regardless of the split — so the ballast still acts as dead weight holding
-the boat down on her lines, letting the **hull form** supply stability,
-rather than acting like movable live ballast shifted tack to tack (which
-would actually require the weight to move). A secondary effect of spacing the
-ballast outboard is a slight **damping of rolling motion**; weight in the
-extreme ends (bow/stern) slows a boat down, but since the athwartship spacing
-involved here is small, the performance cost of splitting the lead
-outboard-versus-centered is negligible.[116] This is the fullest technical
-answer on record to the outboard-vs-centered question raised earlier in this
-section, and it resolves the question in favor of the design as drawn: even
-split, outboard ballast behaves for practical purposes like centered ballast.
+A distinct **naval-architecture explanation** settled the underlying physics: splitting the ballast evenly either side of the centerline, spaced about equally from it, keeps the **center of gravity of the lead itself centered** regardless of the split — so the ballast still acts as dead weight holding the boat down on her lines, letting the **hull form** supply stability, rather than acting like movable live ballast shifted tack to tack (which would actually require the weight to move). A secondary effect of spacing the ballast outboard is a slight **damping of rolling motion**; weight in the extreme ends (bow/stern) slows a boat down, but since the athwartship spacing involved here is small, the performance cost of splitting the lead outboard-versus-centered is negligible.[116] This is the fullest technical answer on record to the outboard-vs-centered question raised earlier in this section, and it resolves the question in favor of the design as drawn: even split, outboard ballast behaves for practical purposes like centered ballast.
 
-**An intuitive illustration of the physics.** A simple test makes the
-outboard-versus-centered question tangible without any calculation: hold a
-roughly 4 ft dowel with a matched pair of weights first bunched together at
-its centre and pivoted up and down, then moved out to the two ends and
-pivoted again — the same total weight clearly resists the motion far more
-once spread to the ends, the same **moment-of-inertia** effect that governs
-how ballast spread across a Paradox's beam behaves compared with ballast
-concentrated on the centerline.[121]
+**An intuitive illustration of the physics.** A simple test makes the outboard-versus-centered question tangible without any calculation: hold a roughly 4 ft dowel with a matched pair of weights first bunched together at its centre and pivoted up and down, then moved out to the two ends and pivoted again — the same total weight clearly resists the motion far more once spread to the ends, the same **moment-of-inertia** effect that governs how ballast spread across a Paradox's beam behaves compared with ballast concentrated on the centerline.[121]
 
-**Built-in water tanks versus separate portable containers.** The same 2006
-correspondent who raised the lateral-ballast question also meant to do without
-the plans' built-in water tanks, worried they would become a hidden **rot
-trap**, and planned a smaller quantity in shallow portable plastic containers
-instead, doubling as part of the ballast.[114] The practical objection to that
-substitution is finding **containers shallow enough** to fit the tank space:
-cans lying on their sides leak through their tops unless those are guaranteed
-watertight, and a flexible bladder of the kind sold inside boxed wine was
-floated as a possible alternative, with metal or concrete ballast taking the
-tank space instead and drinking water kept separately in ordinary containers
-elsewhere.[122] A New Zealand chandlery's rigid plastic tank was suggested as
-a stock-sized option to fit the space,[123] but on checking the actual
-dimensions it proved both too wide and too high for the built-in tank
-location.[124] Two further practical answers were offered for a builder set
-on avoiding the built-in tanks: reusable 2-litre carbonated-drink bottles (as
-already used successfully on a different small boat), with online
-camping-supply stores suggested as a further source of purpose-made water
-containers;[126] and, from a builder actively planning his own boat's water
-system, a 5-litre rigid container kept topped up for ready use and refilled
-from two or three 10-litre roll-up containers stowed under the floor beneath
-the seat — using flexible, collapsible containers rather than rigid cans to
-sidestep the leak-prone-cap and wrong-shape problems raised above.[127]
+**Built-in water tanks versus separate portable containers.** The same 2006 lateral-ballast question also came with a plan to do without the plans' built-in water tanks, worried they would become a hidden **rot trap**, and to carry a smaller quantity in shallow portable plastic containers instead, doubling as part of the ballast.[114] The practical objection to that substitution is finding **containers shallow enough** to fit the tank space: cans lying on their sides leak through their tops unless those are guaranteed watertight, and a flexible bladder of the kind sold inside boxed wine was floated as a possible alternative, with metal or concrete ballast taking the tank space instead and drinking water kept separately in ordinary containers elsewhere.[122] A New Zealand chandlery's rigid plastic tank was suggested as a stock-sized option to fit the space,[123] but on checking the actual dimensions it proved both too wide and too high for the built-in tank location.[124] Two further practical answers were offered for avoiding the built-in tanks: reusable 2-litre carbonated-drink bottles (as already used successfully on a different small boat), with online camping-supply stores suggested as a further source of purpose-made water containers;[126] and a 5-litre rigid container kept topped up for ready use and refilled from two or three 10-litre roll-up containers stowed under the floor beneath the seat — using flexible, collapsible containers rather than rigid cans to sidestep the leak-prone-cap and wrong-shape problems raised above.[127]
 
-**A battery-in-wood caution.** Independent of placement, anyone planning to
-use lead-acid batteries as ballast was warned to seal their compartment
-unusually thoroughly — heavy epoxy and glass coating, plus frequent rinsing
-with plenty of water and a final neutralizing/buffering rinse — since even a
-trace of leaked battery acid reaching bare wood will destroy it faster than
-rot or insect damage.[117] Sealed batteries mounted in any orientation still
-carry the same risk if cracked or seriously overcharged, making a good
-long-term installation worth real care regardless of battery type.[125]
+**A battery-in-wood caution.** Independent of placement, anyone planning to use lead-acid batteries as ballast was warned to seal their compartment unusually thoroughly — heavy epoxy and glass coating, plus frequent rinsing with plenty of water and a final neutralizing/buffering rinse — since even a trace of leaked battery acid reaching bare wood will destroy it faster than rot or insect damage.[117] Sealed batteries mounted in any orientation still carry the same risk if cracked or seriously overcharged, making a good long-term installation worth real care regardless of battery type.[125]
 
-A related trim exercise, worked through by a builder replacing his own water
-ballast with lead in the same compartments, illustrates how many separate
-weights a Paradox's designer expects to balance against each other: lead in
-place of the water tanks, anchors under the floor behind bulkhead #3, roughly
-30 kg of water beneath the floor forward of bulkhead #4, an outboard motor on
-the transom (~13 kg), and the crew's own weight anywhere between bulkheads #2
-and #4 — a "pretty puzzle" left to be sorted empirically on launch day rather
-than solved on paper in advance.[118] On the fore-and-aft trim question more
-generally, two rules of thumb are in tension: one favors keeping the transom
-clear of the water to reduce drag on a flat-bottomed hull, the other favors a
-bow held slightly high to help her climb over waves — the only firm
-agreement being that sitting perfectly level is *not* the goal.[119] The
-physics explanation above was enough to resolve the original builder's
-confusion, after "a sheet of paper covered in sketches and equations" had
-left him none the wiser on his own.[120]
+A related trim exercise, worked through while replacing water ballast with lead in the same compartments, illustrates how many separate weights a Paradox's designer expects to balance against each other: lead in place of the water tanks, anchors under the floor behind bulkhead #3, roughly 30 kg of water beneath the floor forward of bulkhead #4, an outboard motor on the transom (~13 kg), and the crew's own weight anywhere between bulkheads #2 and #4 — a "pretty puzzle" left to be sorted empirically on launch day rather than solved on paper in advance.[118] On the fore-and-aft trim question more generally, two rules of thumb are in tension: one favors keeping the transom clear of the water to reduce drag on a flat-bottomed hull, the other favors a bow held slightly high to help her climb over waves — the only firm agreement being that sitting perfectly level is *not* the goal.[119] The physics explanation above was enough to resolve the original confusion, after "a sheet of paper covered in sketches and equations" had left the question no clearer.[120]
 
 ## Independent weight and displacement estimates
 
-Several independent weight estimates for real Paradoxes and near-sisters
-converge on a **designed displacement of 1,400 lb**, while showing real boats
-vary well below and somewhat above that figure depending on build weight and
-how fully stored/ballasted they are:
+Several independent weight estimates for real Paradoxes and near-sisters converge on a **designed displacement of 1,400 lb**, while showing real boats vary well below and somewhat above that figure depending on build weight and how fully stored/ballasted they are:
 
-- **Don Elliott's boat** — a detailed ~1,365 lb loaded breakdown (above), on a
-  heavily built hull.
-- **A trailering figure** — a fully loaded weight of around **410 kg**
-  (~900 lb), well below both a ~650 kg bare figure quoted elsewhere and Don
-  Elliott's ~1,365 lb (≈620 kg) loaded figure. See
-  [trailering — tow weight and vehicle capacity](/operations/trailering.md)
-  for the full discussion.
-- **"Zoë," estimated** — empty weight with ballast on the order of **650 lb**,
-  possibly as high as 750 lb; loaded (a month's stores, full water tanks)
-  roughly **900 lb**; **designed displacement 1,400 lb**. An intention to
-  actually weigh her was never recorded as carried out.
-- **"Little Jim," as-weighed** — weighed with the glassing finished and cabin
-  construction just beginning: just under **600 lb**, meaning roughly half of
-  the finished design displacement would still be added as stores, ballast,
-  and crew. This is the only recorded weigh-in of a hull at this specific
-  stage.
-- **Little Cruiser** — per [Dave Bolduc](/people/bolduc/dave.md), the boat
-  weighed **1,000–1,100 lb partially loaded** when about to be trailered, but
-  climbs to roughly **1,600 lb** once loaded with all cruising stores. Dave's
-  practical answer for Paradox matched the design figure: "Paradox should
-  displace around 1400 lbs when cruising for maximum performance," warning
-  that a lighter-than-design boat (around 1,000 lb) would let the chine
-  runners "not dig in as deeply," hurting her ability to carry sail.
-- **A restated design-displacement figure, in full sailing trim.** The most
-  direct answer on record to "how much does a Paradox weigh, loaded and
-  unloaded": design displacement in full sailing trim is **1,410 lb (640
-  kg)**; subtracting the crew and **70 litres (70 kg) of water ballast**
-  gives the boat's own trailering weight — a figure closely matching the
-  1,400 lb design displacement already established above.
-- **"BRIS Paradox," as-weighed.** The foam-sandwich "BRIS Paradox" hull was
-  weighed complete except for mast, boom, and yard, battery, and other small
-  gear, but **including its 70 kg bronze bottom plate** (serving as both
-  chine-runner shoe and ballast): a total of **326 kg** — heavier than
-  expected, though the Divinycell-cored "ParaPlastic" construction likely
-  displaces on the order of 100 kg more than an equivalent plywood hull owing
-  to the core's own thickness.[102] See [the "BRIS
-  Paradox"](/boats/bris-paradox.md) for the full build.
+- **A detailed loaded breakdown** — the ~1,365 lb figure (above), on a heavily built hull.
+- **A trailering figure** — a fully loaded weight of around **410 kg** (~900 lb), well below both a ~650 kg bare figure quoted elsewhere and the ~1,365 lb (≈620 kg) loaded figure above. See [trailering — tow weight and vehicle capacity](/operations/trailering.md) for the full discussion.
+- **"Zoë," estimated** — empty weight with ballast on the order of **650 lb**, possibly as high as 750 lb; loaded (a month's stores, full water tanks) roughly **900 lb**; **designed displacement 1,400 lb**. An intention to actually weigh her was never recorded as carried out.
+- **"Little Jim," as-weighed** — weighed with the glassing finished and cabin construction just beginning: just under **600 lb**, meaning roughly half of the finished design displacement would still be added as stores, ballast, and crew. This is the only recorded weigh-in of a hull at this specific stage.
+- **Little Cruiser** — the boat weighed **1,000–1,100 lb partially loaded** when about to be trailered, but climbs to roughly **1,600 lb** once loaded with all cruising stores. The practical answer for Paradox matched the design figure: "Paradox should displace around 1400 lbs when cruising for maximum performance," warning that a lighter-than-design boat (around 1,000 lb) would let the chine runners "not dig in as deeply," hurting her ability to carry sail.
+- **A restated design-displacement figure, in full sailing trim.** The most direct answer on record to "how much does a Paradox weigh, loaded and unloaded": design displacement in full sailing trim is **1,410 lb (640 kg)**; subtracting the crew and **70 litres (70 kg) of water ballast** gives the boat's own trailering weight — a figure closely matching the 1,400 lb design displacement already established above.
+- **"BRIS Paradox," as-weighed.** The foam-sandwich "BRIS Paradox" hull was weighed complete except for mast, boom, and yard, battery, and other small gear, but **including its 70 kg bronze bottom plate** (serving as both chine-runner shoe and ballast): a total of **326 kg** — heavier than expected, though the Divinycell-cored "ParaPlastic" construction likely displaces on the order of 100 kg more than an equivalent plywood hull owing to the core's own thickness.[102] See [the "BRIS Paradox"](/boats/bris-paradox.md) for the full build.
 
-What "design displacement" itself means is worth stating precisely: a quoted
-displacement figure (such as the 1,410 lb/640 kg above) represents the boat
-floating at her designed waterline, not the full volume of water she would
-displace if entirely swamped. **Displacement** is the weight of the craft at
-her designed waterline, while **"light ship"** — an underused but useful
-term — is her empty weight; the difference between the two is her useful load
-(people, stores, and gear).
+What "design displacement" itself means is worth stating precisely: a quoted displacement figure (such as the 1,410 lb/640 kg above) represents the boat floating at her designed waterline, not the full volume of water she would displace if entirely swamped. **Displacement** is the weight of the craft at her designed waterline, while **"light ship"** — an underused but useful term — is her empty weight; the difference between the two is her useful load (people, stores, and gear).
 
 ### Weight versus displacement
 
-A recorded physics debate works through the distinction between a boat's
-**weight** and its **displacement**, without ever settling on a single agreed
-figure for "Zoë," "Little Jim," or Paradox in general.
+A recorded physics debate works through the distinction between a boat's **weight** and its **displacement**, without ever settling on a single agreed figure for "Zoë," "Little Jim," or Paradox in general.
 
-One position holds the two are not the same thing: displacement is the weight
-of water a boat actually displaces, which need not equal the weight of the
-boat herself, since a pound of lead and a pound of foam displace very
-different amounts of water — foam floats mostly above the waterline while
-lead sits mostly submerged, so a boat can in principle displace more than she
-weighs if enough of her volume floats high and dry. Working through "Little
-Jim"'s numbers (a 600 lb hull, a 250 lb person, 250 lb of stores), this view
-put **1,000 lb** as a reasonable rough estimate for a *loaded* Paradox's
-actual weight.
+One position holds the two are not the same thing: displacement is the weight of water a boat actually displaces, which need not equal the weight of the boat herself, since a pound of lead and a pound of foam displace very different amounts of water — foam floats mostly above the waterline while lead sits mostly submerged, so a boat can in principle displace more than she weighs if enough of her volume floats high and dry. Working through "Little Jim"'s numbers (a 600 lb hull, a 250 lb person, 250 lb of stores), this view put **1,000 lb** as a reasonable rough estimate for a *loaded* Paradox's actual weight.
 
-The opposing position calls the weight/displacement distinction "silly": by
-Archimedes' principle, a boat's weight (including stores and crew) is by
-definition equal to the water it displaces when afloat, so the two figures
-must be the same number for a boat actually in the water. A thought experiment
-backs this up — form a pound of sheet lead into any hollow floating shape and
-it will displace exactly as much water as an equal weight of foam, since the
-immersed volumes will be the same — citing
-[Chuck Leinweber](/people/chuck-leinweber.md)'s Duckworks Magazine column
-"Ballast: Boring or Beautiful" (a lead-and-feathers example) as a fuller
-explanation, and two outside physics references (a US Department of Energy
-"Ask a Scientist" page and a University of Alaska "Elements of Physics" page)
-stating Archimedes' principle in textbook terms. The summary: "what makes a
-boat float on a particular waterline is its weight... A boat can displace
-less than it weighs (if it has sunk) but it can NEVER displace more than it
-weighs."
+The opposing position calls the weight/displacement distinction "silly": by Archimedes' principle, a boat's weight (including stores and crew) is by definition equal to the water it displaces when afloat, so the two figures must be the same number for a boat actually in the water. A thought experiment backs this up — form a pound of sheet lead into any hollow floating shape and it will displace exactly as much water as an equal weight of foam, since the immersed volumes will be the same — with a Duckworks Magazine column "Ballast: Boring or Beautiful" (a lead-and-feathers example) cited as a fuller explanation, and two outside physics references (a US Department of Energy "Ask a Scientist" page and a University of Alaska "Elements of Physics" page) stating Archimedes' principle in textbook terms. The summary: "what makes a boat float on a particular waterline is its weight... A boat can displace less than it weighs (if it has sunk) but it can NEVER displace more than it weighs."
 
-A naval-architecture framing sides implicitly with that second position: for
-a displacement boat like Paradox, the weight of water displaced "will...
-always equal the weight of the boat and its contents" — distinguishing a
-boat's **"liveweight"** (roughly, the boat itself) from its **"deadweight"**
-(everything carried aboard, including the crew).
+A naval-architecture framing sides implicitly with that second position: for a displacement boat like Paradox, the weight of water displaced "will... always equal the weight of the boat and its contents" — distinguishing a boat's **"liveweight"** (roughly, the boat itself) from its **"deadweight"** (everything carried aboard, including the crew).
 
-The first position's final restatement: a pound of lead shaped to float and a
-pound of foam shaped to float will *not* generally displace the same volume of
-water, since most of the foam sits above the waterline while the lead sits
-mostly submerged — the displacement figure quoted for a vessel is the
-**weight of the water actually displaced**, not the weight of whatever
-material is doing the displacing. The debate ends without either side
-conceding and without a consensus figure for a fully loaded Paradox. See also
-the [lee-helm debate](/operations/sailing-characteristics.md) between the
-same two positions.
+The first position's final restatement: a pound of lead shaped to float and a pound of foam shaped to float will *not* generally displace the same volume of water, since most of the foam sits above the waterline while the lead sits mostly submerged — the displacement figure quoted for a vessel is the **weight of the water actually displaced**, not the weight of whatever material is doing the displacing. The debate ends without either side conceding and without a consensus figure for a fully loaded Paradox. See also the [lee-helm debate](/operations/sailing-characteristics.md) between the same two positions.
 
-A separate exchange, prompted by a small canoe advertised with a stated
-**180 lb displacement figure** against a camper-and-kit weight of nearly
-**300 lb**, restates the Archimedes-principle position plainly:
-**displacement means the complete weight a hull can support in the water at
-its design waterline**, which includes the weight of the boat itself plus
-anything carried aboard — so a 180 lb displacement figure would only make
-sense for a canoe roughly six feet long and nine inches wide, not one
-expected to carry 300 lb of paddler and gear.
+A separate exchange, prompted by a small canoe advertised with a stated **180 lb displacement figure** against a camper-and-kit weight of nearly **300 lb**, restates the Archimedes-principle position plainly: **displacement means the complete weight a hull can support in the water at its design waterline**, which includes the weight of the boat itself plus anything carried aboard — so a 180 lb displacement figure would only make sense for a canoe roughly six feet long and nine inches wide, not one expected to carry 300 lb of paddler and gear.
 
 ### Matt Layden's 2003 Everglades Challenge entry
 
-In the same discussion, [Matt Layden](/matt-layden/biography.md) was reported
-to have entered the original Paradox in the **2003 WaterTribe Everglades
-Challenge**, a ~260-mile race from Fort Desoto to Key Largo, registered in the
-class 4/open/experimental division — sailing to the starting point from his
-home in Stuart, Florida, and planning to sail back home again after the race
-finished. This contemporaneous record of the entry, made before the race
-itself, corroborates — well ahead of time — what
-[microcruising.com](/references/microcruising-website.md) later confirmed as
-a first-in-class-and-overall win; see [original Paradox — cruising
-record](/boats/original-paradox.md#cruising-record) for the fuller Everglades
-Challenge writeup. One of the race's rules requires competitors to **launch
-their boat from above the high-tide line**; the expectation was that Matt
-would manage that with a loaded Paradox by waiting for high tide and floating
-her off, then using a **block and tackle** to pull her back out afterward.
+In the same discussion, [Matt Layden](/matt-layden/biography.md) entered the original Paradox in the **2003 WaterTribe Everglades Challenge**, a ~260-mile race from Fort Desoto to Key Largo, registered in the class 4/open/experimental division — sailing to the starting point from his home in Stuart, Florida, and planning to sail back home again after the race finished. This contemporaneous record of the entry, made before the race itself, corroborates — well ahead of time — what [microcruising.com](/references/microcruising-website.md) later confirmed as a first-in-class-and-overall win; see [original Paradox — cruising record](/boats/original-paradox.md#cruising-record) for the fuller Everglades Challenge writeup. One of the race's rules requires competitors to **launch their boat from above the high-tide line**; the expectation was that Matt would manage that with a loaded Paradox by waiting for high tide and floating her off, then using a **block and tackle** to pull her back out afterward.
 
 ## Rebalancing ballast for a heavier outboard
 
-Fitting a **4 hp four-stroke outboard, weighing 65 lb**, to a Paradox is
-heavier than ideal for the boat, though workable. One documented setup: an
-existing ballast of **400 lb in 25 lb blocks**, positioned **between
-bulkheads #2 and #3**, with most of the weight already **shifted aft, close
-to bulkhead #3**. This is a second, distinct outboard-power data point
-alongside [auxiliary outboard power](/operations/auxiliary-outboard-power.md)
-(a smaller 2 hp Evinrude considered for conversion to external fuel), and the
-first case where a poor-windward-performance complaint — a boat that "doesn't
-want to tack or sail to windward" — is tied explicitly to a
-**ballast-placement** concern rather than to rig trim, chine runners, or crew
-technique.
+Fitting a **4 hp four-stroke outboard, weighing 65 lb**, to a Paradox is heavier than ideal for the boat, though workable. One documented setup: an existing ballast of **400 lb in 25 lb blocks**, positioned **between bulkheads #2 and #3**, with most of the weight already **shifted aft, close to bulkhead #3**. This is a second, distinct outboard-power data point alongside [auxiliary outboard power](/operations/auxiliary-outboard-power.md) (a smaller 2 hp Evinrude considered for conversion to external fuel), and the first case where a poor-windward-performance complaint — a boat that "doesn't want to tack or sail to windward" — is tied explicitly to a **ballast-placement** concern rather than to rig trim, chine runners, or crew technique.
 
-**Diagnosis: too much weight forward causes "weathervaning."** One diagnosis
-holds that if the ballast (or other weight) sits **too far forward**, the boat
-will **"weathervane"** — turn to point into the wind — matching the symptom
-above. (That boat's ballast was in fact reported mostly shifted **aft**, not
-forward, so the diagnosis does not fully reconcile with the layout given.)
+**Diagnosis: too much weight forward causes "weathervaning."** One diagnosis holds that if the ballast (or other weight) sits **too far forward**, the boat will **"weathervane"** — turn to point into the wind — matching the symptom above. (That boat's ballast was in fact reported mostly shifted **aft**, not forward, so the diagnosis does not fully reconcile with the layout given.)
 
-**Center of gravity on the plans.** The plans give a ballast **quantity** and
-general **stowage location** (between bulkheads #2 and #3, in the bottom) but
-no explicit center-of-gravity figure to check against — a detail easy to
-overlook (see [mast rake](/design/rig.md) for a similar case of a plans detail
-missed at first). The answer: the boat's **CG will be very close to the area
-marked "C/A" at the waterline on page one of the plans** — a specific
-location on the plan sheet rather than a numeric offset. Whether "C/A" stands
-for "Centre of (wetted) Area," by analogy with how a boat's underwater
-lateral-plane centroid is sometimes labeled, is unconfirmed.
+**Center of gravity on the plans.** The plans give a ballast **quantity** and general **stowage location** (between bulkheads #2 and #3, in the bottom) but no explicit center-of-gravity figure to check against — a detail easy to overlook (see [mast rake](/design/rig.md) for a similar case of a plans detail missed at first). The answer: the boat's **CG will be very close to the area marked "C/A" at the waterline on page one of the plans** — a specific location on the plan sheet rather than a numeric offset. Whether "C/A" stands for "Centre of (wetted) Area," by analogy with how a boat's underwater lateral-plane centroid is sometimes labeled, is unconfirmed.
 
-**Worked lever-arm method for rebalancing ballast.** A general method for
-calculating compensating ballast, based on moment arms (lever arms) from the
-boat's CG:
+**Worked lever-arm method for rebalancing ballast.** A general method for calculating compensating ballast, based on moment arms (lever arms) from the boat's CG:
 
-1. Establish the boat's baseline trim (CG located as intended) before adding
-   the new weight.
-2. Multiply the **added weight** by its **distance from the CG** to get its
-   moment (e.g., adding 65 lb — matching the 4 hp outboard's weight — 7 ft
-   from the CG gives a moment of 7 × 65 = 455 lb-ft).
-3. To counteract that moment with **compensating ballast** placed a chosen
-   distance forward of the CG, divide the moment by that distance (e.g., 455
-   ÷ 3 ft ≈ 152 lb of ballast needed 3 ft forward of the CG).
-4. The **further forward** of the CG the compensating weight can be placed,
-   the **less** extra ballast is needed to counteract a given moment.
+1. Establish the boat's baseline trim (CG located as intended) before adding the new weight.
+2. Multiply the **added weight** by its **distance from the CG** to get its moment (e.g., adding 65 lb — matching the 4 hp outboard's weight — 7 ft from the CG gives a moment of 7 × 65 = 455 lb-ft).
+3. To counteract that moment with **compensating ballast** placed a chosen distance forward of the CG, divide the moment by that distance (e.g., 455 ÷ 3 ft ≈ 152 lb of ballast needed 3 ft forward of the CG).
+4. The **further forward** of the CG the compensating weight can be placed, the **less** extra ballast is needed to counteract a given moment.
 
-This is a general "how to calculate weight shift" method rather than a
-Paradox-specific number, to be applied using a boat's actual outboard
-weight/distance and ballast-placement options.
+This is a general "how to calculate weight shift" method rather than a Paradox-specific number, to be applied using a boat's actual outboard weight/distance and ballast-placement options.
 
 ## Independent software confirmation of Matt Layden's stability calculation
 
-A Paradox modeled from the plans in a professional naval architect's
-"Nautilus" boat-design software, with Matt Layden's stability figures run
-through it, **checks out at 100%** — on the assumption that Matt's own
-**Vertical Center of Gravity** is as low as believed, roughly **120 mm above
-the design waterline**. Matt likely did not use a computer for the full
-stability calculation himself; a complete hand calculation of this kind is "a
-monstrous task" rarely undertaken before computers became available. This
-stands as an outside, independently-run corroboration of the 165°/160°
-self-righting figures already documented above, this time from dedicated
-naval-architecture software rather than an archive recollection or a
-published stability curve.
+A Paradox modeled from the plans in "Nautilus" boat-design software, with Matt Layden's stability figures run through it, **checks out at 100%** — on the assumption that Matt's own **Vertical Center of Gravity** is as low as believed, roughly **120 mm above the design waterline**. Matt likely did not use a computer for the full stability calculation himself; a complete hand calculation of this kind is "a monstrous task" rarely undertaken before computers became available. This stands as an outside, independently-run corroboration of the 165°/160° self-righting figures already documented above, this time from dedicated naval-architecture software rather than an archive recollection or a published stability curve.
 
 ## A designer's safety worry about flat-bottomed hulls
 
-A structural safety concern distinct from the stability-calculation
-confirmation above was also raised about flat-bottomed, keel-less hulls
-generally; see [blue-water suitability — a designer's worry: do flat panels
-invite the "brute hammer" of a breaking
-wave?](/design/blue-water-suitability.md#flat-panels-and-the-brute-hammer-of-a-breaking-wave)
-for the full discussion.
+A structural safety concern distinct from the stability-calculation confirmation above was also raised about flat-bottomed, keel-less hulls generally; see [blue-water suitability — a designer's worry: do flat panels invite the "brute hammer" of a breaking wave?](/design/blue-water-suitability.md#flat-panels-and-the-brute-hammer-of-a-breaking-wave) for the full discussion.
 
 ## The designer's layered ballast: water tanks, stores, and lead together
 
-The lead-pig discussion above reflects how *builders* on the list ballasted
-their boats; [Dave Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) shows that
-[Matt Layden](/matt-layden/biography.md)'s own boats use a **layered** ballast
-scheme in which fixed lead is only one component, alongside **water-tank
-ballast** and **the ship's stores acting as working ballast**:
+The lead-pig discussion above reflects how *builders* on the list ballasted their boats; [microcruising.com](/references/microcruising-website.md) shows that [Matt Layden](/matt-layden/biography.md)'s own boats use a **layered** ballast scheme in which fixed lead is only one component, alongside **water-tank ballast** and **the ship's stores acting as working ballast**:
 
-- **Water ballast.** Every one of Matt's cruising boats carries water ballast:
-  [Paradox](/boats/original-paradox.md) is listed with **"70 liters of fresh
-  water ballast,"** [Swamp Thing](/matt-layden/swamp-thing.md) is "fresh water
-  ballasted," and [Little Cruiser](/matt-layden/little-cruiser.md) carries
-  **30 gallons in four tanks** — "all of them used water ballast." The water is
-  kept in **individual square cubes** fitted to the bilge (so tainted water
-  can't spoil the whole supply, and depleting cubes gradually reduces ballast),
-  and Little Cruiser's tanks **rain-fill automatically** through toe-rails that
-  channel water into deck holes.
-- **Lead too.** Water is not the whole story: the 2000 Small Craft Advisor
-  interview says Little Cruiser is "**ballasted with several hundred pounds of
-  lead** along with an equal amount of weight in gear stored securely in the
-  bilges" — i.e. lead *and* water *and* stores.
-- **Stores as ballast.** "In Matt's sharpies most of the ship's stores make up
-  the ballast"; Little Cruiser is "designed to reach her proper cruising trim
-  only after all the stores were aboard," with the heaviest cans stowed low and
-  amidship — so the crew must **re-shift and top up ballast as stores are
-  consumed** over a long cruise (see [provisioning and water](/operations/provisioning-and-water.md)).
+- **Water ballast.** Every one of Matt's cruising boats carries water ballast: [Paradox](/boats/original-paradox.md) is listed with **"70 liters of fresh water ballast,"** [Swamp Thing](/matt-layden/swamp-thing.md) is "fresh water ballasted," and [Little Cruiser](/matt-layden/little-cruiser.md) carries **30 gallons in four tanks** — "all of them used water ballast." The water is kept in **individual square cubes** fitted to the bilge (so tainted water can't spoil the whole supply, and depleting cubes gradually reduces ballast), and Little Cruiser's tanks **rain-fill automatically** through toe-rails that channel water into deck holes.
+- **Lead too.** Water is not the whole story: the 2000 Small Craft Advisor interview says Little Cruiser is "**ballasted with several hundred pounds of lead** along with an equal amount of weight in gear stored securely in the bilges" — i.e. lead *and* water *and* stores.
+- **Stores as ballast.** "In Matt's sharpies most of the ship's stores make up the ballast"; Little Cruiser is "designed to reach her proper cruising trim only after all the stores were aboard," with the heaviest cans stowed low and amidship — so the crew must **re-shift and top up ballast as stores are consumed** over a long cruise (see [provisioning and water](/operations/provisioning-and-water.md)).
 
-"[Little Jim](/boats/little-jim.md)" shows the same principle at work over
-many years: launched with about **70 kg of water plus 180 kg of lead**, her
-fixed lead was later cut to roughly **50–70 kg**, progressively replaced by
-weight that also does useful work — batteries, anchors, chain, tinned food,
-even a bicycle — each stowed low and doubling as ballast, exactly the
-stores-as-ballast approach Matt Layden's own boats use (see [AYRS meeting
-talk](/references/ayrs-meeting-video.md)).
+"[Little Jim](/boats/little-jim.md)" shows the same principle at work over many years: launched with about **70 kg of water plus 180 kg of lead**, her fixed lead was later cut to roughly **50–70 kg**, progressively replaced by weight that also does useful work — batteries, anchors, chain, tinned food, even a bicycle — each stowed low and doubling as ballast, exactly the stores-as-ballast approach Matt Layden's own boats use (see [AYRS meeting talk](/references/ayrs-meeting-video.md)).
 
-This layered approach helps explain the wide spread of loaded-weight figures
-above (Don Elliott's heavily-built, 400-lb-lead boat at ~1,365 lb versus the
-~410 kg / ~900 lb trailering figure for a lighter boat): how much *lead* a
-boat carries varies, because water and stores carry much of the load. The
-designer also claims a striking **self-righting** result from this low,
-secured mass: per the interview, the ballast plus secured stores should right
-the boat to an angle of heel of **165°** — "better than many modern offshore
-keel boats" — and her heavily crowned deck makes her unlikely to stay
-inverted (she could, if needed, be righted by hand like a capsized dinghy);
-**2 inches of foam insulation** provide positive buoyancy if she is ever
-holed. See [blue-water suitability](/design/blue-water-suitability.md).
+This layered approach helps explain the wide spread of loaded-weight figures above (a heavily-built, 400-lb-lead boat at ~1,365 lb versus the ~410 kg / ~900 lb trailering figure for a lighter boat): how much *lead* a boat carries varies, because water and stores carry much of the load. The designer also claims a striking **self-righting** result from this low, secured mass: per the interview, the ballast plus secured stores should right the boat to an angle of heel of **165°** — "better than many modern offshore keel boats" — and her heavily crowned deck makes her unlikely to stay inverted (she could, if needed, be righted by hand like a capsized dinghy); **2 inches of foam insulation** provide positive buoyancy if she is ever holed. See [blue-water suitability](/design/blue-water-suitability.md).
 
-The same **165° self-righting** figure is independently corroborated years
-before the microcruising.com interview and from a different angle: in the
-"Scaling Paradox and Other Questions" thread (see [stretched
-Paradox](/design/variants/stretched-paradox.md)), a builder recalled having
-received **"a graph, either with the plans or with Dons articles,"** showing
-that a correctly ballasted Paradox self-rights from **165 degrees** of heel —
-i.e. only a 15° window is stable upside down. This is the earliest record of
-the 165° figure appearing on a **builder's own paperwork** (the plans
-themselves, or Don Elliott's construction articles) rather than only in the
-Bolducs' later published interview, strengthening the figure's provenance as
-the designer's own stated claim.
+The same **165° self-righting** figure is independently corroborated years before the microcruising.com interview and from a different angle: in the "Scaling Paradox and Other Questions" thread (see [stretched Paradox](/design/variants/stretched-paradox.md)), a recollection of having received **"a graph, either with the plans or with Dons articles,"** shows that a correctly ballasted Paradox self-rights from **165 degrees** of heel — i.e. only a 15° window is stable upside down. This is the earliest record of the 165° figure appearing on a **builder's own paperwork** (the plans themselves, or the construction articles) rather than only in the later published interview, strengthening the figure's provenance as the designer's own stated claim.
 
 ## How a Paradox feels underloaded
 
-An unballasted, unloaded hull rides too high to get proper directional grip
-from its chine runners or the stability benefit of deeper immersion, and can
-feel alarmingly tender as a result, independent of any flaw in the design
-itself. At the launch of "[Little Jim](/boats/little-jim.md)" (see [Little
-Jim — launched](/boats/little-jim.md) for the full account), it was
-impossible to tell, standing on deck and leaning out against the mast,
-whether the boat had reached the roughly 10 degrees of list seen in a photo
-of Don Elliott doing the same, or something much closer to 45 degrees — she
-felt unpredictably tender, with no ballast, stores, or water aboard yet.
+An unballasted, unloaded hull rides too high to get proper directional grip from its chine runners or the stability benefit of deeper immersion, and can feel alarmingly tender as a result, independent of any flaw in the design itself. At the launch of "[Little Jim](/boats/little-jim.md)" (see [Little Jim — launched](/boats/little-jim.md) for the full account), it was impossible to tell, standing on deck and leaning out against the mast, whether the boat had reached the roughly 10 degrees of list seen in a photo of the same test done elsewhere, or something much closer to 45 degrees — she felt unpredictably tender, with no ballast, stores, or water aboard yet.
 
-This is a **known, recurring problem**: **"not enough ballast to sink the
-paradox to its lines. Some have declared the Paradox unsailable due to
-trying to sail it empty, bobbing on top with no chine leverage for
-directional stability and no immersion to cause stability."** This matches
-the design's already-documented sensitivity to loading (the hull sinks about
-1 in per 200 lb, above).
+This is a **known, recurring problem**: **"not enough ballast to sink the paradox to its lines. Some have declared the Paradox unsailable due to trying to sail it empty, bobbing on top with no chine leverage for directional stability and no immersion to cause stability."** This matches the design's already-documented sensitivity to loading (the hull sinks about 1 in per 200 lb, above).
 
-A corroborating, though less alarming, real-world data point comes from
-"[Zoë](/boats/zoe.md)," sailed with **no water aboard** and doing "just
-fine" — though [Matt Layden](/matt-layden/biography.md) remarked she looked
-"a little low in the water" regardless, suggesting even the designer reads a
-Paradox's trim by eye rather than by a fixed rule. See [Zoë — sailing with no
-water aboard, and a tiller stop](/boats/zoe.md) for the fuller account. A
-third data point comes from "[Whisper](/boats/whisper.md)": leaning out on
-deck the same way, "you could get the mast wet if you tried hard enough" — an
-experience matching Little Jim's own uncertain, possibly-45-degree estimate
-rather than Don Elliott's photographed 10 degrees.
+A corroborating, though less alarming, real-world data point comes from "[Zoë](/boats/zoe.md)," sailed with **no water aboard** and doing "just fine" — though [Matt Layden](/matt-layden/biography.md) remarked she looked "a little low in the water" regardless, suggesting even the designer reads a Paradox's trim by eye rather than by a fixed rule. See [Zoë — sailing with no water aboard, and a tiller stop](/boats/zoe.md) for the fuller account. A third data point comes from "[Whisper](/boats/whisper.md)": leaning out on deck the same way, "you could get the mast wet if you tried hard enough" — an experience matching Little Jim's own uncertain, possibly-45-degree estimate rather than the photographed 10 degrees seen elsewhere.
 
-Taken together, these three accounts (Little Jim, Zoë, Whisper) are a
-practical caution for any builder's own first time afloat, distinct from
-(though related to) the loaded-weight breakdowns above.
+Taken together, these three accounts (Little Jim, Zoë, Whisper) are a practical caution for any builder's own first time afloat, distinct from (though related to) the loaded-weight breakdowns above.
 
-A later exchange, prompted by photographs of "Little Jim" showing how
-sensitive the boat looked to crew weight distribution, sharpened the
-underloaded-vs-fully-loaded question further. Having **never sailed without
-the water ballast**, and, "with some cunning use of the bathroom scales,"
-believed to be carrying the full **1,400 lb** design displacement with one
-crew aboard, "Little Jim" was expected to suffer in stability if
-significantly lighter. Even so, in light winds (under Force 2) she could
-keep pace with a two-up Minisail dinghy, and leeway had never been a problem
-in light or strong winds alike. The conclusion: at her design weight a
-Paradox has to be thought of "as a yacht, not a dinghy" — the sums class her
-as heavy displacement, and the weight rules her out as a beach toy (a crew
-member would have to keep their toes clear when launching or hauling out).
+A later exchange, prompted by photographs of "Little Jim" showing how sensitive the boat looked to crew weight distribution, sharpened the underloaded-vs-fully-loaded question further. Having **never sailed without the water ballast**, and, "with some cunning use of the bathroom scales," believed to be carrying the full **1,400 lb** design displacement with one crew aboard, "Little Jim" was expected to suffer in stability if significantly lighter. Even so, in light winds (under Force 2) she could keep pace with a two-up Minisail dinghy, and leeway had never been a problem in light or strong winds alike. The conclusion: at her design weight a Paradox has to be thought of "as a yacht, not a dinghy" — the sums class her as heavy displacement, and the weight rules her out as a beach toy (a crew member would have to keep their toes clear when launching or hauling out).
 
-A second, independent data point on the light end of the same question comes
-from "Zoë": sailing with her water tanks empty on several outings made her
-**"a little more tender," but did not affect her stability that much** — out
-in 16 kt with about a foot of sail rolled in, "she did just fine." The
-practical recommendation drawn from this is to sail light rather than bother
-filling the tanks every time, when conditions allow.
+A second, independent data point on the light end of the same question comes from "Zoë": sailing with her water tanks empty on several outings made her **"a little more tender," but did not affect her stability that much** — out in 16 kt with about a foot of sail rolled in, "she did just fine." The practical recommendation drawn from this is to sail light rather than bother filling the tanks every time, when conditions allow.
 
-A precise answer to how far "Little Jim" actually stood from her design
-weight at launch: "from various readings from the bathroom scales and a bit
-of calculation we were only about **20 kg (44 lb) lighter than the design
-weight**," a shortfall meant to be carried as **movable ballast** on the next
-outing. The "not enough ballast" diagnosis above was itself reconsidered in
-light of this: **"I think the main problem was just too much wind. I am not
-sure I could have rowed my dinghy very easily in those conditions."** This
-gives a precise **known-shortfall** figure for an underloaded Paradox at
-launch (44 lb, against a 1,400 lb design displacement) — a much smaller gap
-than the general "not enough ballast" framing might suggest — and complicates
-that diagnosis by pointing to the launch day's **force-6 wind** as at least
-as plausible an explanation for the uncertain stability as the ballast
-shortfall itself. Neither explanation is confirmed over the other; both
-remain plausible readings of the same launch-day account.
+A precise answer to how far "Little Jim" actually stood from her design weight at launch: "from various readings from the bathroom scales and a bit of calculation we were only about **20 kg (44 lb) lighter than the design weight**," a shortfall meant to be carried as **movable ballast** on the next outing. The "not enough ballast" diagnosis above was itself reconsidered in light of this: **"I think the main problem was just too much wind. I am not sure I could have rowed my dinghy very easily in those conditions."** This gives a precise **known-shortfall** figure for an underloaded Paradox at launch (44 lb, against a 1,400 lb design displacement) — a much smaller gap than the general "not enough ballast" framing might suggest — and complicates that diagnosis by pointing to the launch day's **force-6 wind** as at least as plausible an explanation for the uncertain stability as the ballast shortfall itself. Neither explanation is confirmed over the other; both remain plausible readings of the same launch-day account.
 
 ## Self-righting range, and bailing without opening the hatch
 
-A basic stability question — how stable is Paradox, how much ballast does she
-carry, is she self-righting, and does her non-self-draining, enclosed
-cockpit/cabin cause a problem — has a full answer pointing to two independent
-sources for the same figure. [Don Elliott](/people/don-elliott.md) published a
-**stability curve** (in the smallboat group) showing Paradox's **range of
-positive stability is about 160 degrees** — consistent with the **165°**
-figure already documented above from the plans/Don's articles and the
-Bolducs' interview.
+A basic stability question — how stable is Paradox, how much ballast does she carry, is she self-righting, and does her non-self-draining, enclosed cockpit/cabin cause a problem — has a full answer pointing to two independent sources for the same figure. A **stability curve** was published (in the smallboat group) showing Paradox's **range of positive stability is about 160 degrees** — consistent with the **165°** figure already documented above from the plans/construction articles and the microcruising.com interview.
 
-The fullest firsthand answer comes from "[Little Jim](/boats/little-jim.md)":
-the stability curve suggests she self-rights from 160°, and in practice she
-**pops back up quickly from 90°**, while standing on the rail and leaning out
-only pulled her over about **30°**. Her ballast: **80 kg water + 100 kg
-lead**, plus anchor and heavy stores, all stowed under the floor. On the
-non-self-draining question: during normal sailing, most water aboard comes
-from wet feet; the only time significant water came aboard was **knocked down
-to 90°** with the hatch open a crack, which let in about **2-3 litres**. A
-Paradox's ability to be **bailed from inside without opening the hatch** is
-one of the design's "cunning" features.
+The fullest firsthand answer comes from "[Little Jim](/boats/little-jim.md)": the stability curve suggests she self-rights from 160°, and in practice she **pops back up quickly from 90°**, while standing on the rail and leaning out only pulled her over about **30°**. Her ballast: **80 kg water + 100 kg lead**, plus anchor and heavy stores, all stowed under the floor. On the non-self-draining question: during normal sailing, most water aboard comes from wet feet; the only time significant water came aboard was **knocked down to 90°** with the hatch open a crack, which let in about **2-3 litres**. A Paradox's ability to be **bailed from inside without opening the hatch** is one of the design's "cunning" features.
 
-The archive's only **quantified field measurement** of a Paradox's righting
-moment also comes from Little Jim. At a boat show, friends hauled the masthead
-down while a crew member sat aboard in full sailing trim, reading the load on
-a **25 lb spring balance** — which ran straight off its scale, so the pull was
-"well over 25 pounds," implying a righting moment of **well over 350 ft-lb**,
-"more than required to undo the wheel nuts on my car." Releasing the masthead
-also showed how strongly the hull damps its own roll. This real-world result
-is consistent with the high positive stability the plans' curve predicts (see
-[AYRS meeting talk](/references/ayrs-meeting-video.md)). A photograph on
-Little Jim's own website
-(`www.asjg.clara.co.uk/little_jim/94_stability.jpg`) shows the boat's
-stability directly.
+The archive's only **quantified field measurement** of a Paradox's righting moment also comes from Little Jim. At a boat show, friends hauled the masthead down while a crew member sat aboard in full sailing trim, reading the load on a **25 lb spring balance** — which ran straight off its scale, so the pull was "well over 25 pounds," implying a righting moment of **well over 350 ft-lb**, "more than required to undo the wheel nuts on my car." Releasing the masthead also showed how strongly the hull damps its own roll. This real-world result is consistent with the high positive stability the plans' curve predicts (see [AYRS meeting talk](/references/ayrs-meeting-video.md)). A photograph on Little Jim's own website (`www.asjg.clara.co.uk/little_jim/94_stability.jpg`) shows the boat's stability directly.
 
-A plotted **righting-moment-versus-heel-angle curve** for Paradox (or possibly
-Little Cruiser) is on file in the group's Photo section, in the **Longyard
-folder** — the same stability data already discussed above via Don Elliott's
-published curve and Little Jim's own field measurements.
+A plotted **righting-moment-versus-heel-angle curve** for Paradox (or possibly Little Cruiser) is on file in the group's Photo section, in the **Longyard folder** — the same stability data already discussed above via the published curve and Little Jim's own field measurements.
 
-Properly secured ballast makes the odds of a Paradox turning turtle and
-staying that way effectively nil — though that should not be overstated as
-an absolute guarantee. Plenty of real-world conditions can keep any boat
-from righting itself again after a capsize: a Paradox's ability to sail in
-very thin water means an owner may take her into shallows where strong
-wind and breaking waves, combined with a soft, muddy bottom, could let the
-mast stick into the bottom and hold the hull inverted — the same "stick in
-the bottom" failure mode seen on capsized multihulls, normally recoverable
-only with a powerboat's help or a lucky wave, freed only by a boat's own
-crew doing something clever. A knockdown with halyards or sheets tangled
-in a bottom obstruction, combined with a leaking hatch and the resulting
-hydraulic pressure from a filling hull, is another scenario that could
-defeat an otherwise strongly self-righting design. In short: a design
-built to be markedly unstable upside-down and to self-right automatically
-still cannot fully rule out every combination of circumstances a sailor
-might eventually encounter.[106][107][108]
+Properly secured ballast makes the odds of a Paradox turning turtle and staying that way effectively nil — though that should not be overstated as an absolute guarantee. Plenty of real-world conditions can keep any boat from righting itself again after a capsize: a Paradox's ability to sail in very thin water means an owner may take her into shallows where strong wind and breaking waves, combined with a soft, muddy bottom, could let the mast stick into the bottom and hold the hull inverted — the same "stick in the bottom" failure mode seen on capsized multihulls, normally recoverable only with a powerboat's help or a lucky wave, freed only by a boat's own crew doing something clever. A knockdown with halyards or sheets tangled in a bottom obstruction, combined with a leaking hatch and the resulting hydraulic pressure from a filling hull, is another scenario that could defeat an otherwise strongly self-righting design. In short: a design built to be markedly unstable upside-down and to self-right automatically still cannot fully rule out every combination of circumstances a sailor might eventually encounter.[106][107][108]
 
-On the multihull-turtling and thin-water scenarios specifically, a builder
-with firsthand sailing experience judged the risk small in practice: a
-Paradox spilling wind and settling rather than staying pinned down the way a
-multihull's mast can, and rigging tangled on an obstruction as something to
-cut free rather than fear, after which the hull would most likely come back
-up, swamped but bailable. Matt Layden's own boat has needed help from a crew
-member before — Matt himself was dislodged from the hull while helping her
-right after a knockdown, by grabbing the cabin-top rail — and the mast is
-built to slide out of its step under load in any case, so entanglement is
-less likely to hold the boat down than it might first appear. Fitting the
-foam flotation as designed was reiterated as the real safeguard, so that if
-a capsize does happen the hull works with the crew toward self-righting
-rather than against them; a 72-hour overboard bag with a flare gun was
-offered as further personal insurance. In the same builder's experience, a
-grounded 30 ft powerboat once needed a full tide cycle and outside help to
-get off a sandbar it had gone hard aground on while surrounded by curious
-onlookers — offered as a reminder that groundings and mishaps are not unique
-to a small, shoal-draft boat like Paradox.[109]
+On the multihull-turtling and thin-water scenarios specifically, the risk is small in practice: a Paradox spills wind and settles rather than staying pinned down the way a multihull's mast can, and rigging tangled on an obstruction is something to cut free rather than fear, after which the hull would most likely come back up, swamped but bailable. Matt Layden's own boat has needed help from a crew member before — Matt himself was dislodged from the hull while helping her right after a knockdown, by grabbing the cabin-top rail — and the mast is built to slide out of its step under load in any case, so entanglement is less likely to hold the boat down than it might first appear. Fitting the foam flotation as designed is the real safeguard, so that if a capsize does happen the hull works with the crew toward self-righting rather than against them; a 72-hour overboard bag with a flare gun is further personal insurance. As a reminder that groundings and mishaps are not unique to a small, shoal-draft boat like Paradox: a grounded 30 ft powerboat once needed a full tide cycle and outside help to get off a sandbar it had gone hard aground on while surrounded by curious onlookers.[109]
 
-Stability at the extreme stern also came up directly, in the context of a
-raised hoop cage proposed to keep the mainsheet clear of a mounted outboard
-(see [rig and sail — a horse fitted to clear the outboard, and the
-mainsheet-angle physics behind
-it](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it)).
-A safety concern about the cage design was raised: reentry over the stern
-past it would force a sailor to hop rather than step down, raising the body's
-center of gravity at an awkward moment — while a Paradox seemed unlikely to
-capsize as a result, the sailor doing the hopping might go over. The direct
-answer: **stability is not a practical problem for a Paradox**, even standing
-at the stern — Little Jim had personally carried **three adults standing on
-the aft deck at once** without any trouble. Pressed on whether that held true
-**underway**, and not simply at rest, the three-adults test was confirmed to
-have been conducted with the boat under sail, though without being tied on
-and without the sail fully hoisted at the time — a lapse in safety practice
-worth correcting in future. Little Jim's own website "Stability & Balance"
-page (see above) documents the design's stability further.
+Stability at the extreme stern also came up directly, in the context of a raised hoop cage proposed to keep the mainsheet clear of a mounted outboard (see [rig and sail — a horse fitted to clear the outboard, and the mainsheet-angle physics behind it](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it)). A safety concern about the cage design was raised: reentry over the stern past it would force a sailor to hop rather than step down, raising the body's center of gravity at an awkward moment — while a Paradox seemed unlikely to capsize as a result, the sailor doing the hopping might go over. The direct answer: **stability is not a practical problem for a Paradox**, even standing at the stern — Little Jim had carried **three adults standing on the aft deck at once** without any trouble. Pressed on whether that held true **underway**, and not simply at rest, the three-adults test was confirmed to have been conducted with the boat under sail, though without being tied on and without the sail fully hoisted at the time — a lapse in safety practice worth correcting in future. Little Jim's own website "Stability & Balance" page (see above) documents the design's stability further.
 
 ## How the "no open hatch" bailing actually works
 
-Exactly how a builder bails a closed-up boat without opening the hatch: an
-ordinary **bilge pump**, electric or manual — a **Whale Guzzler** manual pump
-is one used, modeled directly on the installation studied aboard Matt
-Layden's own boat. Matt Layden uses the same type of pump himself,
-discharging it out through the **tiller opening in the stern** rather than
-through a dedicated thru-hull. Terminology varies by country: the same Whale
-product is sold in the UK under the name **"Gusher"** rather than "Guzzler."
-Put more simply, Paradox "has a hole in the bottom to let the water out" — a
-reference to the vent-trunk drain (see [transom deck plate — the vent
-trunk's own
-drain](/construction/transom-deck-plate.md#the-vent-trunks-own-drain)) — with
-the necessary caveat that this drain path **only works while the boat is
-planing**.
+Exactly how a builder bails a closed-up boat without opening the hatch: an ordinary **bilge pump**, electric or manual — a **Whale Guzzler** manual pump is one used, modeled directly on the installation studied aboard Matt Layden's own boat. Matt Layden uses the same type of pump himself, discharging it out through the **tiller opening in the stern** rather than through a dedicated thru-hull. Terminology varies by country: the same Whale product is sold in the UK under the name **"Gusher"** rather than "Guzzler." Put more simply, Paradox "has a hole in the bottom to let the water out" — a reference to the vent-trunk drain (see [transom deck plate — the vent trunk's own drain](/construction/transom-deck-plate.md#the-vent-trunks-own-drain)) — with the necessary caveat that this drain path **only works while the boat is planing**.
 
-This does not make the vent-trunk opening a "bailer": the trunk simply
-**drains continuously**, at anchor as well as underway, rather than serving
-as a deliberate bailing mechanism — the boat's actual bailing, when needed,
-is done with the bilge pump as described above.
+This does not make the vent-trunk opening a "bailer": the trunk simply **drains continuously**, at anchor as well as underway, rather than serving as a deliberate bailing mechanism — the boat's actual bailing, when needed, is done with the bilge pump as described above.
 
-A related question about what to use for sanitation aboard a Paradox went
-unanswered in the archive — see [head and
-sanitation](/operations/head-and-sanitation.md) for the existing record on
-that topic.
+A related question about what to use for sanitation aboard a Paradox went unanswered in the archive — see [head and sanitation](/operations/head-and-sanitation.md) for the existing record on that topic.
 
 ### Real-world need for the bilge pump
 
-Whether the pump gets much real use is answered by two contrasting
-accounts. In one, being knocked flat with the hatch cracked open brought
-aboard only a few litres — too little for a portable pump to get a purchase
-on, so it was simply mopped up with a sponge.
+Whether the pump gets much real use is answered by two contrasting accounts. In one, being knocked flat with the hatch cracked open brought aboard only a few litres — too little for a portable pump to get a purchase on, so it was simply mopped up with a sponge.
 
-A starker case shows the pump genuinely needed: at the start of the 2003
-Everglades Challenge, hauling "Paradox" out on a high-energy beach, large
-waves slammed into the stern and sent a good deal of water into the cabin,
-and the bilge pump was worked dry with many strokes before finishing the job
-with a sponge. Watching that convinced one builder to want a **bigger pump**
-than the one carried, and prompted an idea never built: a **rubber disc
-mounted on the tiller**, about an inch clear of the transom and large enough
-in diameter to seal against the transom if struck by a following sea —
-keeping most of the water out, or at least confined to the baffle
-compartment, while still allowing normal flow-through ventilation. "Zoë"
-herself has never taken aboard more water than a sponge could handle, though
-seas have come aboard the stern of *other* boats — including once entering
-Ft. Pierce inlet against an opposing tide and strong wind, when a large sport
-fisherman's wake swept over the transom into the cockpit; having the
-washboards already in kept the water confined to the cockpit, "but it was
-still scary."
+A starker case shows the pump genuinely needed: at the start of the 2003 Everglades Challenge, hauling "Paradox" out on a high-energy beach, large waves slammed into the stern and sent a good deal of water into the cabin, and the bilge pump was worked dry with many strokes before finishing the job with a sponge. Watching that prompted a wish for a **bigger pump** than the one carried, and an idea never built: a **rubber disc mounted on the tiller**, about an inch clear of the transom and large enough in diameter to seal against the transom if struck by a following sea — keeping most of the water out, or at least confined to the baffle compartment, while still allowing normal flow-through ventilation. "Zoë" herself has never taken aboard more water than a sponge could handle, though seas have come aboard the stern of *other* boats — including once entering Ft. Pierce inlet against an opposing tide and strong wind, when a large sport fisherman's wake swept over the transom into the cockpit; having the washboards already in kept the water confined to the cockpit, "but it was still scary."
 
-A different design philosophy toward bailing generally exists alongside the
-above, from experience with boats both with and without **limber holes** (the
-drain notches that let bilge water find a boat's lowest point): deliberately
-eliminating them is one option. Where some builders hold every boat must have
-limber holes, this view holds that some hulls benefit instead from **closed,
-compartmentalized bilge spaces** — keeping compartments separate lets a leak
-be caught and addressed before the cabin sole floats, before free-surface
-effect becomes dangerous, and before stores in other compartments are
-damaged. A layered approach to unwanted water follows from this: a sponge or
-towel for ordinary intrusion, a portable cylindrical (Beckson-style) pump for
-more, and a fixed Guzzler-type pump for the unlikely event the cabin sole is
-awash from a roll with the hatch open or some other catastrophic event.
+A different design philosophy toward bailing generally exists alongside the above, from experience with boats both with and without **limber holes** (the drain notches that let bilge water find a boat's lowest point): deliberately eliminating them is one option. Where some builders hold every boat must have limber holes, this view holds that some hulls benefit instead from **closed, compartmentalized bilge spaces** — keeping compartments separate lets a leak be caught and addressed before the cabin sole floats, before free-surface effect becomes dangerous, and before stores in other compartments are damaged. A layered approach to unwanted water follows from this: a sponge or towel for ordinary intrusion, a portable cylindrical (Beckson-style) pump for more, and a fixed Guzzler-type pump for the unlikely event the cabin sole is awash from a roll with the hatch open or some other catastrophic event.
 
 ## Sandbags as ballast
 
-Whether sandbags could substitute for Paradox's own lead-pig ballast is an
-open question. One unconfirmed recollection suggests Dave Bolduc may have
-used stones aboard [Little Cruiser](/matt-layden/little-cruiser.md) to
-replace weight lost as stores were consumed underway, but no firsthand
-sandbag-ballast report for a Paradox itself is on record; compare the
-light-displacement [Enigma](/matt-layden/enigma.md)'s own documented use of
-sandbags below.
+Whether sandbags could substitute for Paradox's own lead-pig ballast is an open question. One unconfirmed recollection suggests stones may have been used aboard [Little Cruiser](/matt-layden/little-cruiser.md) to replace weight lost as stores were consumed underway, but no firsthand sandbag-ballast report for a Paradox itself is on record; compare the light-displacement [Enigma](/matt-layden/enigma.md)'s own documented use of sandbags below.
 
 ## Ballast materials, and the light-displacement Enigma (Dave's Wiki)
 
-[Dave Raftery](/references/daves-wiki.md)'s wiki tabulates ballast-material
-densities for a builder choosing among them on a light boat — **sand ≈ 100,
-steel ≈ 490, lead ≈ 708 lb per cubic foot** — the point being that a denser
-material takes up less precious interior floor space for the same weight. It
-also sharpens the Paradox↔[Enigma](/matt-layden/enigma.md) contrast: where
-heavy-displacement Paradox carries its ~400 lb of fixed lead low in the bilge,
-the **light-displacement Enigma "relies on her crew's weight as ballast to
-maintain stability, and because of her light displacement she could even
-plane."** The Enigma 360 used **tubular sand bags secured to the floor** (~100
-lb) and the Enigma 460 prototype **220 lb of steel plates plus 160 lb of
-sandbags**; the Bolducs later (quoted, Jan 2009) switched their Enigma from bulky
-sandbags to compact **1-lb lead ingots in 12-lb bags** specifically to reclaim
-cabin space — a concrete illustration of the density trade-off above.
+A [wiki reference](/references/daves-wiki.md) tabulates ballast-material densities for a builder choosing among them on a light boat — **sand ≈ 100, steel ≈ 490, lead ≈ 708 lb per cubic foot** — the point being that a denser material takes up less precious interior floor space for the same weight. It also sharpens the Paradox↔[Enigma](/matt-layden/enigma.md) contrast: where heavy-displacement Paradox carries its ~400 lb of fixed lead low in the bilge, the **light-displacement Enigma "relies on her crew's weight as ballast to maintain stability, and because of her light displacement she could even plane."** The Enigma 360 used **tubular sand bags secured to the floor** (~100 lb) and the Enigma 460 prototype **220 lb of steel plates plus 160 lb of sandbags**; the Enigma was later (quoted, Jan 2009) switched from bulky sandbags to compact **1-lb lead ingots in 12-lb bags** specifically to reclaim cabin space — a concrete illustration of the density trade-off above.
 
 ## A laminated sheet-lead bottom as an alternative to loose pigs (speculative)
 
-Early in a Tasmanian build, an idea was floated to build a **sheet-lead**
-ballast layer directly into the bottom panel — laminating a sheet of lead
-(of the kind used in local building construction) between a 12 mm and a
-6 mm ply sheet to make up the plans' 18 mm bottom, rather than cleating
-loose lead pigs down inside the hull. West System's own technical staff
-confirmed a good bond between lead and plywood is achievable, but whether a
-sheet thin enough to laminate would supply the full ballast figure the plans
-call for was left uncalculated.
+Early in a Tasmanian build, an idea was floated to build a **sheet-lead** ballast layer directly into the bottom panel — laminating a sheet of lead (of the kind used in local building construction) between a 12 mm and a 6 mm ply sheet to make up the plans' 18 mm bottom, rather than cleating loose lead pigs down inside the hull. West System's own technical staff confirmed a good bond between lead and plywood is achievable, but whether a sheet thin enough to laminate would supply the full ballast figure the plans call for was left uncalculated.
 
-A related alternative: gluing a **metal sheet as the outermost layer** of the
-bottom (rather than laminated inside it) would add ballast while also serving
-as a wear surface. **Stainless steel** — bondable directly to the hull,
-though difficult — was considered before settling on **bronze** as easier to
-glue and useful as a grounding plate for the mast's lightning protection, at
-the cost of being the more expensive metal of the two.
+A related alternative: gluing a **metal sheet as the outermost layer** of the bottom (rather than laminated inside it) would add ballast while also serving as a wear surface. **Stainless steel** — bondable directly to the hull, though difficult — was considered before settling on **bronze** as easier to glue and useful as a grounding plate for the mast's lightning protection, at the cost of being the more expensive metal of the two.
 
-Two practical objections were raised, drawing on experience ballasting
-"Little Jim." First, the plans' **70-180 kg lead-pig** figure (sheet 5) is
-not a margin for build-weight error — it exists because ballast must be
-**removed as stores are added** over a cruise, so at least part of any
-boat's total lead needs to stay easily adjustable rather than being bonded
-permanently in place (the identical point applies against a steel-bottomed
-hull; see [a steel hull bottom as combined ballast and impact
-protection](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)
-below). Second, getting a boat's **fore-and-aft trim** right in practice
-takes real adjustment after launching — on Little Jim it took **four
-outings** before the ballast was correctly placed, and only then was it
-bolted down permanently; a builder committing to a fixed sheet of lead
-bonded into the bottom would need to be "very confident" of the balance sums
-beforehand, since there would be no way to shift it afterward — a point
-taken as usefully clarifying the fore-and-aft-trim risk of a
-bonded-in-place ballast sheet.
+Two practical objections were raised, drawing on experience ballasting "Little Jim." First, the plans' **70-180 kg lead-pig** figure (sheet 5) is not a margin for build-weight error — it exists because ballast must be **removed as stores are added** over a cruise, so at least part of any boat's total lead needs to stay easily adjustable rather than being bonded permanently in place (the identical point applies against a steel-bottomed hull; see [a steel hull bottom as combined ballast and impact protection](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative) below). Second, getting a boat's **fore-and-aft trim** right in practice takes real adjustment after launching — on Little Jim it took **four outings** before the ballast was correctly placed, and only then was it bolted down permanently; a builder committing to a fixed sheet of lead bonded into the bottom would need to be "very confident" of the balance sums beforehand, since there would be no way to shift it afterward — a point taken as usefully clarifying the fore-and-aft-trim risk of a bonded-in-place ballast sheet.
 
-On **how much ballast a bottom-sheet approach could safely delegate to fixed
-weight**, Little Jim's actual, weighed figures give a real-world answer:
-**120 kg of lead** carried as removable pigs (96 kg — 48 kg per side — just
-forward of bulkhead #3, plus 24 kg further aft behind bulkhead #4), arrived
-at by weighing the boat, gear, and crew, then adding lead until the total
-reached **640 kg**. One pig from each side at bulkhead #3 would likely need
-pulling if stores grew toward 20 kg, with the boat's overall weight
-rechecked each spring as accumulated gear crept the total upward. On the
-underlying weekend-versus-long-tour question: in practice Little Jim had
-only ever been loaded for weekend-scale sailing (the longest trip, one
-week, still saw most meals ashore), so these figures describe that end of
-the range rather than a fully stored long-tour condition.
+On **how much ballast a bottom-sheet approach could safely delegate to fixed weight**, Little Jim's actual, weighed figures give a real-world answer: **120 kg of lead** carried as removable pigs (96 kg — 48 kg per side — just forward of bulkhead #3, plus 24 kg further aft behind bulkhead #4), arrived at by weighing the boat, gear, and crew, then adding lead until the total reached **640 kg**. One pig from each side at bulkhead #3 would likely need pulling if stores grew toward 20 kg, with the boat's overall weight rechecked each spring as accumulated gear crept the total upward. On the underlying weekend-versus-long-tour question: in practice Little Jim had only ever been loaded for weekend-scale sailing (the longest trip, one week, still saw most meals ashore), so these figures describe that end of the range rather than a fully stored long-tour condition.
 
-No sheet-lead-bottom Paradox build, laminated internally or bonded as an
-outer skin, is recorded anywhere in the archive; like the [steel hull bottom
-idea](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)
-below, it remains a one-off, unbuilt proposal.
+No sheet-lead-bottom Paradox build, laminated internally or bonded as an outer skin, is recorded anywhere in the archive; like the [steel hull bottom idea](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative) below, it remains a one-off, unbuilt proposal.
 
-A separate, real-world data point on ballast placement comes from "Zoë"'s own
-trim, offered in the same exchange: no weight at all aft of bulkhead #4, but
-about **22 kg forward of bulkhead #2, to starboard**, placed there
-specifically to offset the weight of a battery on the port side — a
-practical illustration that ballast placement on a built Paradox is driven as
-much by balancing fixed equipment weight across the centerline as by the
-plans' overall fore-and-aft figures.
+A separate, real-world data point on ballast placement comes from "Zoë"'s own trim, offered in the same exchange: no weight at all aft of bulkhead #4, but about **22 kg forward of bulkhead #2, to starboard**, placed there specifically to offset the weight of a battery on the port side — a practical illustration that ballast placement on a built Paradox is driven as much by balancing fixed equipment weight across the centerline as by the plans' overall fore-and-aft figures.
 
 ## Sliding ballast on X-Y tracks (speculative)
 
-Working only from the study plans, before any Paradox was built, one idea
-floated for **actively rebalancing ballast while under way**: building two
-intersecting box-section channels into the bilge — one running fore-and-aft,
-one athwartships — with a ballast-carrying box riding on **skateboard
-wheels** (stainless, self-lubricating, and cheap in a range of sizes) and
-pulled along each track by pulleys and a rope, adjustable "on the X-Y planes"
-with a ratchet to stop the mass rocking loose in a seaway. The arrangement
-was likened to an X-Y beam scale, and the same skateboard-wheel trick was
-suggested to equally ease the [hatch](/construction/hatch-hardware.md)'s own
-sliding action in place of wax. The reasoning was that the scheme might let
-a builder retune ballast position for different sailing conditions rather
-than fix it once at launch — the same fore-and-aft/outboard placement
-questions already worked out empirically above (see [ballast placement:
-outboard vs. centered](#ballast-placement-outboard-vs-centered) and
-[rebalancing ballast for a heavier
-outboard](#rebalancing-ballast-for-a-heavier-outboard)) — but solved by a
-mechanism rather than by unbolting and re-securing fixed pigs. No reply or
-build attempt is recorded in the archive, and — like the [sheet-lead
-bottom](#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative)
-and
-[steel-bottom](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)
-ideas elsewhere on this page — it remains a one-off, unbuilt proposal.
+Working only from the study plans, before any Paradox was built, one idea floated for **actively rebalancing ballast while under way**: building two intersecting box-section channels into the bilge — one running fore-and-aft, one athwartships — with a ballast-carrying box riding on **skateboard wheels** (stainless, self-lubricating, and cheap in a range of sizes) and pulled along each track by pulleys and a rope, adjustable "on the X-Y planes" with a ratchet to stop the mass rocking loose in a seaway. The arrangement was likened to an X-Y beam scale, and the same skateboard-wheel trick was suggested to equally ease the [hatch](/construction/hatch-hardware.md)'s own sliding action in place of wax. The reasoning was that the scheme might let a builder retune ballast position for different sailing conditions rather than fix it once at launch — the same fore-and-aft/outboard placement questions already worked out empirically above (see [ballast placement: outboard vs. centered](#ballast-placement-outboard-vs-centered) and [rebalancing ballast for a heavier outboard](#rebalancing-ballast-for-a-heavier-outboard)) — but solved by a mechanism rather than by unbolting and re-securing fixed pigs. No reply or build attempt is recorded in the archive, and — like the [sheet-lead bottom](#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative) and [steel-bottom](#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative) ideas elsewhere on this page — it remains a one-off, unbuilt proposal.
 
-A related speculation, reasoning from greater experience windsurfing than
-sailing a fixed mast, proposed adapting a **windsurfer's articulated
-("Universal") mast joint** to a Paradox-type hull: a canted, swept-back rig
-of the kind used on a traditional sharpie, married to a track at the mast
-foot that could adjust the rig's fore-and-aft cant, with the sail itself
-reefed by rolling it around the mast much as [Matt Layden's own
-roller-reefing
-sail](/design/rig.md#sail-shape-tacking-asymmetry-and-reefing-behavior)
-already works.
+A related speculation, reasoning from greater experience windsurfing than sailing a fixed mast, proposed adapting a **windsurfer's articulated ("Universal") mast joint** to a Paradox-type hull: a canted, swept-back rig of the kind used on a traditional sharpie, married to a track at the mast foot that could adjust the rig's fore-and-aft cant, with the sail itself reefed by rolling it around the mast much as [Matt Layden's own roller-reefing sail](/design/rig.md#sail-shape-tacking-asymmetry-and-reefing-behavior) already works.
 
-**The answer: retrofit after launch, not before.** Both ideas did eventually
-draw a considered reply. On the sliding-ballast mechanism: it might work but
-could just as easily prove unnecessary, and — since all of a Paradox's
-internal woodwork except the bulkheads and tank top can be **removed in
-about 10 minutes** — a track system would not be too difficult to retrofit
-into a standard build later, once a builder could actually see the interior
-to work with and had confirmed the need. On the windsurfer-rig idea, the
-advice was the same in spirit: build the boat to the plans first, sail her,
-and only then decide whether an improvement is truly needed — "unless you
-have the standard rig to compare it with then you won't really know if you
-have achieved anything." That advice was accepted: a "slightly scaled up"
-but otherwise stock boat was the chosen path, since without a standard rig
-or a standard ballast arrangement to compare against, there was no real way
-to know whether either speculative change would actually be an improvement
-— "how is a person really going to know if something then is an
-improvement" — with the speculative ideas kept as later options rather than
-starting points.
+**The answer: retrofit after launch, not before.** Both ideas did eventually draw a considered reply. On the sliding-ballast mechanism: it might work but could just as easily prove unnecessary, and — since all of a Paradox's internal woodwork except the bulkheads and tank top can be **removed in about 10 minutes** — a track system would not be too difficult to retrofit into a standard build later, once a builder could actually see the interior to work with and had confirmed the need. On the windsurfer-rig idea, the advice was the same in spirit: build the boat to the plans first, sail her, and only then decide whether an improvement is truly needed — "unless you have the standard rig to compare it with then you won't really know if you have achieved anything." That advice was accepted: a "slightly scaled up" but otherwise stock boat was the chosen path, since without a standard rig or a standard ballast arrangement to compare against, there was no real way to know whether either speculative change would actually be an improvement — "how is a person really going to know if something then is an improvement" — with the speculative ideas kept as later options rather than starting points.
 
-The self-righting-during-capsize logic behind the sliding-ballast idea was
-elaborated further, prompted by the observation that a Paradox is already
-self-righting from 160 degrees: a **quick-release locking mechanism** on the
-ballast track — for instance a ring that falls off its retaining grooves
-when inverted and re-engages right-side-up — could make the righting moment
-fire suddenly, rather than relying on the boat's existing static stability
-curve alone, since a mass thrown suddenly to one side rights a hull faster
-than the same mass sitting evenly distributed (an effect likened to a
-kayaker's Eskimo roll, or to standing out on a dagger board). The actual
-speed of any such righting effect would depend entirely on how quickly and
-precisely a real locking/unlocking mechanism could be built, and the whole
-idea remained speculative, not something to build without extensive prior
-testing. The exchange closed admiring the finished boats on the list
-(naming the "[BRIS Paradox](/boats/bris-paradox.md)" specifically) and
-setting the speculative ideas aside in favor of building to the plan
-first — with an unanswered follow-up question about the mechanics of the
-sink-tap water pump-out arrangement described elsewhere in the plans and
-about the technique for bonding copper sheet to the hull.
+The self-righting-during-capsize logic behind the sliding-ballast idea was elaborated further, prompted by the observation that a Paradox is already self-righting from 160 degrees: a **quick-release locking mechanism** on the ballast track — for instance a ring that falls off its retaining grooves when inverted and re-engages right-side-up — could make the righting moment fire suddenly, rather than relying on the boat's existing static stability curve alone, since a mass thrown suddenly to one side rights a hull faster than the same mass sitting evenly distributed (an effect likened to a kayaker's Eskimo roll, or to standing out on a dagger board). The actual speed of any such righting effect would depend entirely on how quickly and precisely a real locking/unlocking mechanism could be built, and the whole idea remained speculative, not something to build without extensive prior testing. The exchange closed admiring the finished boats on the list (naming the "[BRIS Paradox](/boats/bris-paradox.md)" specifically) and setting the speculative ideas aside in favor of building to the plan first — with an unanswered follow-up question about the mechanics of the sink-tap water pump-out arrangement described elsewhere in the plans and about the technique for bonding copper sheet to the hull.
 
 ## A steel hull bottom as combined ballast and impact protection (speculative)
 
-An unbuilt idea floated: build the hull bottom itself from roughly **1/4 in
-steel** rather than plywood, folding part of the ballast into the structure
-to lower the center of gravity while freeing up floor storage space
-otherwise taken by lead pigs. The reasoning was that steel would also be far
-more durable against grounding on sand bars and rocks, and specifically
-against striking a partially submerged shipping container — the boat would
-more likely skid over it than be holed. An open question about bonding
-epoxy reliably to abraded steel, given the differing thermal expansion of
-dissimilar materials, went unanswered in the archive. A second question —
-whether ballast weight is better concentrated amidship or spread toward the
-ends — was answered indirectly: Paradox's 70-180 kg ballast range (sheet 5
-of the plans) is not there to cover build-weight variance; it exists
-because ballast must be tuned to whatever stores are carried on a given
-trip, so a steel-bottomed Paradox would still need the same roughly **110
-kg (240 lb)** of ballast a plywood boat does — folding ballast into the hull
-material does not remove the need to adjust it trip to trip, short of
-grinding away the bottom to compensate for heavy stores. See [aluminum and
-steel Paradox (speculative) — the fuller technical
-exchange](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally)
-this idea opened. No steel-bottomed Paradox build is recorded anywhere in
-the archive; like the [aluminum Paradox
-idea](/design/aluminum-construction-idea.md), it remains a one-off, unbuilt
-proposal — though **steel's density (≈490 lb/cu ft) sits between sand and
-lead** (see the ballast-material table above), making the underlying premise
-at least dimensionally plausible.
+An unbuilt idea floated: build the hull bottom itself from roughly **1/4 in steel** rather than plywood, folding part of the ballast into the structure to lower the center of gravity while freeing up floor storage space otherwise taken by lead pigs. The reasoning was that steel would also be far more durable against grounding on sand bars and rocks, and specifically against striking a partially submerged shipping container — the boat would more likely skid over it than be holed. An open question about bonding epoxy reliably to abraded steel, given the differing thermal expansion of dissimilar materials, went unanswered in the archive. A second question — whether ballast weight is better concentrated amidship or spread toward the ends — was answered indirectly: Paradox's 70-180 kg ballast range (sheet 5 of the plans) is not there to cover build-weight variance; it exists because ballast must be tuned to whatever stores are carried on a given trip, so a steel-bottomed Paradox would still need the same roughly **110 kg (240 lb)** of ballast a plywood boat does — folding ballast into the hull material does not remove the need to adjust it trip to trip, short of grinding away the bottom to compensate for heavy stores. See [aluminum and steel Paradox (speculative) — the fuller technical exchange](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally) this idea opened. No steel-bottomed Paradox build is recorded anywhere in the archive; like the [aluminum Paradox idea](/design/aluminum-construction-idea.md), it remains a one-off, unbuilt proposal — though **steel's density (≈490 lb/cu ft) sits between sand and lead** (see the ballast-material table above), making the underlying premise at least dimensionally plausible.
 
 # Citations
 
@@ -1275,8 +436,8 @@ at least dimensionally plausible.
 [143] Archive message page_3795 (system / `paradoxbuilders` group poll notice, msgnum 3827, 2006-08-02) — "Poll results for paradoxbuilders": automated closing notice for Stephen Yahn's "How much weight for ballast did you find worked best?" poll; final tally, two votes cast: 250 lb (ifida / Glen C. Maxwell) and 300 lb (mwatersworld / Mark Waters), all eight other choices (150-400 lb in 25 lb steps) receiving zero votes.
 [144] Archive message page_3978 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4012, 2006-09-23) — "Ballast access": asks whether anyone has had difficulty reaching the inner ballast bolts after the initial installation, since the plans' overlapping floors can make them hard to get at. Signed "Bill."
 [145] Archive message page_3980 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4014, 2006-09-24) — "Re: Ballast access": drilled and tapped into the top of his own lead pigs and screwed in a plate bolted at its other end into the top of the chine log; does not hold the pigs particularly firmly but shows no sign of movement, and expects it would hold even if the boat were inverted; recommends not fastening ballast down at all to start with, since he and Derek Clark both moved pigs around on early sails to get the boat balanced right. Signed "Al, Yeovil, England."
-[146] Archive message page_3983 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4017, 2006-09-25) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); describes the top wooden retaining pieces bolted through into a wooden block glued to the floor near the mid-section and into the chine log, letting the pigs be shifted fore and aft; the real difficulty is the two bolts under the flap sticking out of the tank ballast top; suggests a removable plank instead of a flap. Signed "Bill."
-[147] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); suggests 1 in diameter access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
-[148] Archive message page_3985 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4019, 2006-09-26) — "Re: Ballast access": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); rejects the access-hole idea — still ticklish to reach, and fixed side pieces would cover the water inlet/outlet pipe where the PVC tube joins the copper pipe via a jubilee clip, a joint that may need attention; decides the best option is to make the sides of the water ballast tank top separate, removable "planks," giving easy access to the lead ballast and to the jubilee clips. Signed "Bill."
+[146] Archive message page_3983 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4017, 2006-09-25) — "Re: Ballast access": full text and citation at [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); describes the top wooden retaining pieces bolted through into a wooden block glued to the floor near the mid-section and into the chine log, letting the pigs be shifted fore and aft; the real difficulty is the two bolts under the flap sticking out of the tank ballast top; suggests a removable plank instead of a flap. Signed "Bill."
+[147] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); suggests 1 in diameter access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
+[148] Archive message page_3985 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4019, 2006-09-26) — "Re: Ballast access": full text and citation at [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); rejects the access-hole idea — still ticklish to reach, and fixed side pieces would cover the water inlet/outlet pipe where the PVC tube joins the copper pipe via a jubilee clip, a joint that may need attention; decides the best option is to make the sides of the water ballast tank top separate, removable "planks," giving easy access to the lead ballast and to the jubilee clips. Signed "Bill."
 [149] Archive message page_3993 (flexwing462 / "james hall" / Jim Hall, `paradoxbuilders`, msgnum 4027, 2006-10-04) — "Re: Haliyard and Reef lines": suggests old car batteries as a lead source, noting UK garage workshops must pay to dispose of them and would likely be glad to give them to a Paradox builder instead; cautions that breaking them open is potentially hazardous and calls for common-sense precautions; notes battery acid makes "excellent weed killer." Signed "Jim Hall (still lurking)."
 [150] Archive message page_3995 (yahns / "yahn101a" / Stephen Yahn, `paradoxbuilders`, msgnum 4028, 2006-10-05) — "Re: Haliyard and Reef lines": replies that recycling economics have changed — his local dump now has a designated free drop-off for old engine oil, batteries, and steel/iron scrap, which it then sells on to industrial recyclers, so there is no longer any reward for breaking batteries open himself; would be too worried about his own and his wife's safety to try. Signed "Steve Yahn."

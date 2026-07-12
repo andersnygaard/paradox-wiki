@@ -8,24 +8,15 @@ timestamp: 2026-07-02T00:00:00Z
 
 # "Building the Paradox" articles
 
-A set of construction articles written by [Don Elliott](/people/don-elliott.md),
-obtainable directly from him by mail. Described as **reasonably
-priced** and **"invaluable"** by professional boat builder
-[Glen C. Maxwell](/people/glen-maxwell.md), and credited by
-[David Beard](/people/david-beard.md) as essential to his own first-time
-build ("I would have never attempted building Paradox" without them — see
-[hull assembly sequence](/construction/hull-assembly-sequence.md)).
+A set of construction articles obtainable directly from their author by mail. Described as **reasonably priced** and **"invaluable"** [1], and credited as essential to a first-time build ("I would have never attempted building Paradox" without them — see [hull assembly sequence](/construction/hull-assembly-sequence.md)).
 
 Notable content:
 
-- A **jig for building the coach roof**, which Glen said "makes this task easy"
-  and wished he had had when building his boat's coach roof.
+- A **jig for building the coach roof**, called out as something that "makes this task easy" [1].
 
 ## Original publication: Messing About In Boats magazine
 
-The series first ran in *Messing About In Boats* (MAIB) as a **five-part**
-"Building Paradox" series credited to Elliott. The full bibliographic
-citation for each installment:
+The series first ran in *Messing About In Boats* (MAIB) as a **five-part** "Building Paradox" series. The full bibliographic citation for each installment:
 
 | Part | Volume | Issue | Page |
 |------|--------|-------|------|
@@ -35,80 +26,35 @@ citation for each installment:
 | Building Paradox - Part 4 | 14 | 12 | 23 |
 | Building Paradox - Part 5 | 14 | 13 | 20 |
 
-Back issues can be sourced through the MAIB index at
-`http://www109.pair.com/btsftp/maib/`, or by contacting the magazine's
-editor, **Bob Hicks**, directly.
+Back issues can be sourced through the MAIB index at `http://www109.pair.com/btsftp/maib/`, or by contacting the magazine's editor directly.
 
 ## Obtaining copies directly from Don Elliott
 
-Don sold the articles himself, by direct personal contact, rather than
-through the list or at a fixed public price — readers obtaining a set
-directly from him described them as **"very helpful & detailed."** His
-mailing address:
+The articles were sold directly, by personal contact, rather than through the list or at a fixed public price — a set obtained this way was described as **"very helpful & detailed."** Mailing address:
 
 > Don Elliott
 > 711 Wisconsin Ave, box 202
 > Tomah WI 54660
 
-The articles are **very inexpensive**, but interested readers should check
-with Don directly for the **current price**. See
-[Don Elliott](/people/don-elliott.md).
+The articles are **very inexpensive**, but interested readers should check directly for the **current price**.
 
 ## Price, page count, and ordering terms
 
-Don's own quoted reply to an order inquiry gives the article set's terms
-directly:
+An order-inquiry reply gives the article set's terms directly:
 
-> "I have the Paradox articles ready for immediate shipping. There are some
-> fifty pages and 16 articles. The articles cover a detailed description of
-> Paradox along with building instructions. The price of the series is $8.00
-> plus $2.00 shipping. If you live overseas the cost is $8.00 plus $4.00
-> shipping. Most oversea send cash, covered well in thick bond paper. Send
-> your order to Don Elliott, 711 Wisconsin Ave, Box 202, Tomah, Wisconsin,
-> 54660. You articles will be sent the same day I receive the order. Personal
-> USA check is fine."
+> "I have the Paradox articles ready for immediate shipping. There are some fifty pages and 16 articles. The articles cover a detailed description of Paradox along with building instructions. The price of the series is $8.00 plus $2.00 shipping. If you live overseas the cost is $8.00 plus $4.00 shipping. Most oversea send cash, covered well in thick bond paper. Send your order to Don Elliott, 711 Wisconsin Ave, Box 202, Tomah, Wisconsin, 54660. You articles will be sent the same day I receive the order. Personal USA check is fine."
 
-This gives a concrete **price** for the article set —
-**$8.00 US plus $2.00 domestic / $4.00 overseas shipping** — and confirms the
-set runs to **about fifty pages across the 16 articles** (a page count
-distinct from, but consistent with, the five-part MAIB serialization above —
-the fifty pages likely represent an expanded or consolidated compilation
-rather than the original magazine layout). Don shipped the same day he
-received payment.
+This gives a concrete **price** for the article set — **$8.00 US plus $2.00 domestic / $4.00 overseas shipping** — and confirms the set runs to **about fifty pages across the 16 articles** (a page count distinct from, but consistent with, the five-part MAIB serialization above — the fifty pages likely represent an expanded or consolidated compilation rather than the original magazine layout). Shipping went out the same day payment was received.
 
-These terms held for at least a year: Don Elliott himself independently
-reconfirmed the same price, page/article count, and mailing address in
-January 2003, on his return to the list after his October 2001
-resignation — see
-[Don Elliott — a reappearance after fourteen months' silence](/people/don-elliott.md)
-and
-[Paradox building plans — a fourteenth recurrence](/references/building-plans.md).
+These terms held for at least a year: the same price, page/article count, and mailing address were independently reconfirmed in January 2003, on a return to the list after an October 2001 resignation — see [Paradox building plans — a fourteenth recurrence](/references/building-plans.md).
 
 ## A printing defect in the booklet form: missing Chapter 12 or 13
 
-A run of the booklet-form compilation (see above) suffered a **misprinting
-and mis-resorting defect**: some copies were missing **Chapter 12 or Chapter
-13**. Chapter 13 is identifiable by its content — a drawing of Paradox's
-**righting moment** and a sketch of Paradox in waves. Don Elliott notified
-recent buyers directly and offered to send the missing pages by e-mail
-attachment or by mail to anyone affected. At least one recipient, **Mike
-Sieloff**, confirmed his own copy was complete, which Don acknowledged with
-thanks.
+A run of the booklet-form compilation (see above) suffered a **misprinting and mis-resorting defect**: some copies were missing **Chapter 12 or Chapter 13**. Chapter 13 is identifiable by its content — a drawing of Paradox's **righting moment** and a sketch of Paradox in waves. Recent buyers were notified directly, with an offer to send the missing pages by e-mail attachment or by mail to anyone affected. At least one copy was confirmed complete, acknowledged with thanks.
 
 ## Corroboration from microcruising.com (the "16 articles" and Don's passing)
 
-[Dave Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) independently confirms
-the count and the compilation. Its "Paradox Sketches" page reproduces Don's
-drawings "with Don's permission" and describes them as having "first appeared in
-'Messing About in Boats' in a **16 part construction article written and
-illustrated by the late Don Elliott**" — corroborating that Don's compilation
-runs to **16 articles / ~50 pages** (distinct from the five-part MAIB
-*serialization* above) and, sadly, confirming that
-**Don Elliott has since died** (see [Don Elliott](/people/don-elliott.md)). The
-site offers the articles in **booklet form** (with ordering information) and, in
-a 2018 update, points readers to Don's own small-books site,
-`smallboatmanuals.weebly.com`, for the Paradox building manual.
+[microcruising.com](/references/microcruising-website.md) independently confirms the count and the compilation. Its "Paradox Sketches" page reproduces the drawings "with Don's permission" and describes them as having "first appeared in 'Messing About in Boats' in a **16 part construction article written and illustrated by the late Don Elliott**" — corroborating that the compilation runs to **16 articles / ~50 pages** (distinct from the five-part MAIB *serialization* above) and, sadly, confirming that **Don Elliott has since died**. The site offers the articles in **booklet form** (with ordering information) and, in a 2018 update, points readers to a small-books site, `smallboatmanuals.weebly.com`, for the Paradox building manual.
 
 # Citations
 

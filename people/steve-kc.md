@@ -8,64 +8,22 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Steve (Kansas City)
 
-**Steve**, of Kansas City, MO — "a mere 15 hour drive from the nearest salt
-water cruising grounds" — is a prospective [Paradox](/paradox.md) builder who
-joined the `paradoxbuilders` list on New Year's Day 2004 with plans,
-plywood, and semi-decent fir 2x4s already in hand, epoxy and nails on order,
-and 98% of the archive already read.
+**Steve**, of Kansas City, MO — "a mere 15 hour drive from the nearest salt water cruising grounds" — is a prospective [Paradox](/paradox.md) builder who joined the `paradoxbuilders` list on New Year's Day 2004 with plans, plywood, and semi-decent fir 2x4s already in hand, epoxy and nails on order, and 98% of the archive already read.
 
 ## Build plan and motivation
 
-Steve's stated build sequence starts with the **"appendages"** — mast, yard,
-boom, rudder, yuloh, and beams — before moving on to the hull itself; by his
-introduction he had already sawed, chiseled, and planed the scarph joints
-for the mast's two side members.
+Steve's stated build sequence starts with the **"appendages"** — mast, yard, boom, rudder, yuloh, and beams — before moving on to the hull itself; by his introduction he had already sawed, chiseled, and planed the scarph joints for the mast's two side members.
 
-His timeline: building for use after an expected retirement 3½ years out,
-with the build itself guessed at about half that time, favoring "enjoy the
-trip as well as the destination" over rushing. Two working names were
-floated for the boat — **"Windependent"** and **"Cette Assez"** (French for
-"It's Enough").
+His timeline: building for use after an expected retirement 3½ years out, with the build itself guessed at about half that time, favoring "enjoy the trip as well as the destination" over rushing. Two working names were floated for the boat — **"Windependent"** and **"Cette Assez"** (French for "It's Enough").
 
 **Contributions.**
 
-- **Mast construction.** Page 12 of the plans' box-mast specs, read together
-  with [Alastair](/people/alastair.md)'s "Rosetta Stone" explanation of the
-  mast's plan-view drawings, is what makes those drawings legible to a
-  builder; see [rig and sail — mast material
-  choices](/design/rig.md#mast-material-choices).
-- **Masthead-light wiring.** With three of the mast's four pieces epoxied
-  together, the choice of routing masthead-light wiring fully inside the
-  mast versus exiting below the light to run outside is covered at [running
-  lights — routing masthead-light wiring outside the mast, below the
-  sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
-- **Lightning protection.** Whether to fit the mast's lightning-dissipation
-  system turns on the de-ionization principle behind it; see [lightning
-  protection](/design/lightning-protection.md).
-- **Yuloh construction.** Reading the plans' 30 mm longitudinal-concavity
-  figure, forging the stern-mounted pivot bolt, and shaping the socket
-  embedded in the yuloh itself are detailed at [yuloh and stowed-rig
-  retention — building the yuloh
-  itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
-  Steve's own yuloh was built from two Douglas fir 2x4s, thinned on a radial
-  arm saw, the handle narrowed with a saber saw, then laminated using
-  Alastair's elevate-and-weight method.
-- **Deck-beam lamination.** Building deck beams in 3mm Douglas Fir and
-  prebending the strips against expected springback surfaced a reversed
-  claim in David C. Smith's Build Manual lamination installment — that thicker laminates
-  spring back less than thin ones — an error Smith confirmed needed correction;
-  see [deck and cabin beam lamination — lamination thickness and springback
-  in
-  practice](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).
-  A finished set of deck beams also works as a template for drawing the
-  bulkheads' curvature, rather than working from the plans and trimming the
-  beams afterward; see [deck and cabin beam lamination — drawing bulkhead
-  curvature from the finished beams, rather than the
-  plans](/construction/deck-and-cabin-beams.md#drawing-bulkhead-curvature-from-the-finished-beams-rather-than-the-plans).
-- **UK/worldwide build-count table.** By November 2004, Steve's boat was
-  still unnamed, being built per plan, and under slow construction owing to
-  other higher-priority projects — recorded in [William
-  Serjeant](/references/paradox-uk-website.md)'s registry update.[11]
+- **Mast construction.** Page 12 of the plans' box-mast specs, read together with a "Rosetta Stone" explanation of the mast's plan-view drawings, is what makes those drawings legible to a builder; see [rig and sail — mast material choices](/design/rig.md#mast-material-choices).
+- **Masthead-light wiring.** With three of the mast's four pieces epoxied together, the choice of routing masthead-light wiring fully inside the mast versus exiting below the light to run outside is covered at [running lights — routing masthead-light wiring outside the mast, below the sheave](/operations/running-lights.md#routing-masthead-light-wiring-outside-the-mast-below-the-sheave).
+- **Lightning protection.** Whether to fit the mast's lightning-dissipation system turns on the de-ionization principle behind it; see [lightning protection](/design/lightning-protection.md).
+- **Yuloh construction.** Reading the plans' 30 mm longitudinal-concavity figure, forging the stern-mounted pivot bolt, and shaping the socket embedded in the yuloh itself are detailed at [yuloh and stowed-rig retention — building the yuloh itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket). Steve's own yuloh was built from two Douglas fir 2x4s, thinned on a radial arm saw, the handle narrowed with a saber saw, then laminated using an elevate-and-weight method.
+- **Deck-beam lamination.** Building deck beams in 3mm Douglas Fir and prebending the strips against expected springback surfaced a reversed claim in the Build Manual lamination installment — that thicker laminates spring back less than thin ones — an error later confirmed as needing correction; see [deck and cabin beam lamination — lamination thickness and springback in practice](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination). A finished set of deck beams also works as a template for drawing the bulkheads' curvature, rather than working from the plans and trimming the beams afterward; see [deck and cabin beam lamination — drawing bulkhead curvature from the finished beams, rather than the plans](/construction/deck-and-cabin-beams.md#drawing-bulkhead-curvature-from-the-finished-beams-rather-than-the-plans).
+- **UK/worldwide build-count table.** By November 2004, Steve's boat was still unnamed, being built per plan, and under slow construction owing to other higher-priority projects — recorded in a registry update.[11]
 
 # Citations
 

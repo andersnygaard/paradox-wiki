@@ -8,30 +8,17 @@ timestamp: 2026-07-01T00:00:00Z
 
 # "guylita"
 
-**"guylita"** (posting address `guylita@...`, Yahoo profile `guylita`) was a
-`paradoxbuilders` list participant whose questions read as an experienced
-sailor's due-diligence on the design rather than a builder's progress updates.
-No real name or other identifying detail is recorded — only the screen name.
+**"guylita"** (posting address `guylita@...`, Yahoo profile `guylita`) was a `paradoxbuilders` list participant whose questions read as an experienced sailor's due-diligence on the design rather than a builder's progress updates. No real name or other identifying detail is recorded — only the screen name.
 
 ## Contributions
 
-- **Self-steering.** What matters most is being able to free oneself from the
-  tiller in stronger winds (e.g. to reef): on boats without that capability,
-  an unattended tiller can jibe the boat under weather helm before the sailor
-  reaches the mast. See [self-steering](/operations/self-steering.md).
-- **Rig balance.** How the lug rig balances across points of sail, whether
-  beating to weather generates weather helm, and whether that helm can be
-  countered with sail trim rather than the tiller — see
-  [sailing characteristics and rig balance](/operations/sailing-characteristics.md).
-- **Ballast placement.** Why the lead ballast sits outboard rather than on the
-  centerline raises a torque/oscillation question; one view is that a centered
-  ballast mass with buoyancy further outboard would be more stabilizing. See
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **Self-steering.** What matters most is being able to free oneself from the tiller in stronger winds (e.g. to reef): on boats without that capability, an unattended tiller can jibe the boat under weather helm before the sailor reaches the mast. See [self-steering](/operations/self-steering.md).
+- **Rig balance.** How the lug rig balances across points of sail, whether beating to weather generates weather helm, and whether that helm can be countered with sail trim rather than the tiller — see [sailing characteristics and rig balance](/operations/sailing-characteristics.md).
+- **Ballast placement.** Why the lead ballast sits outboard rather than on the centerline raises a torque/oscillation question; one view is that a centered ballast mass with buoyancy further outboard would be more stabilizing. See [weight, ballast, and displacement](/design/weight-and-ballast.md).
 
 ## Identity
 
-Only a screen name is known; this slug should be replaced if a real identity is
-confirmed later (per the bundle's identity-caution convention).
+Only a screen name is known; this slug should be replaced if a real identity is confirmed later (per the bundle's identity-caution convention).
 
 # Citations
 

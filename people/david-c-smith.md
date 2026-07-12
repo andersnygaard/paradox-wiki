@@ -8,363 +8,37 @@ timestamp: 2026-07-04T00:00:00Z
 
 # David C. Smith
 
-**David C. Smith** is a Pacific Northwest **professional boatbuilder of twenty years**
-who built his own Paradox, named **"Swash"** once her hull was far enough
-along to launch build photos, and became one of the list's most substantial
-contributors on design philosophy, sail trim, cabin heating, ground tackle,
-and navigation lights. He read the entire archive before introducing himself
-and was actively underway on his build by mid-2003, having bought his plywood
-and lumber. His only prior boat was a modified **Elver** canoe yawl (below).
+**David C. Smith** is a Pacific Northwest **professional boatbuilder of twenty years** who built his own Paradox, named **"Swash"** once her hull was far enough along to launch build photos, and became one of the list's most substantial contributors on design philosophy, sail trim, cabin heating, ground tackle, and navigation lights. He read the entire archive before introducing himself and was actively underway on his build by mid-2003, having bought his plywood and lumber. His only prior boat was a modified **Elver** canoe yawl (below).
 
 ## What he built and sails
 
-By June 2003 he was building a Paradox strictly as drawn, using **Joubert
-Okoume BS-1088 plywood**, **Honduras Mahogany** solid lumber through most of
-the hull, and **West System epoxy**. His earlier boat — his and his wife's
-20 ft **Elver** canoe yawl, designed by **Steve Redmond** and modified by Smith
-himself with leeboards in place of a centerboard — he judged "a
-disappointing boat in general," a verdict he tied directly to having
-"disrespected the work of the designer." His material choices are detailed
-on [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md).
+By June 2003 he was building a Paradox strictly as drawn, using **Joubert Okoume BS-1088 plywood**, **Honduras Mahogany** solid lumber through most of the hull, and **West System epoxy**. His earlier boat — his and his wife's 20 ft **Elver** canoe yawl, a stock design modified by Smith himself with leeboards in place of a centerboard — he judged "a disappointing boat in general," a verdict he tied directly to having "disrespected the work of the designer." His material choices are detailed on [construction/plywood-grades-and-foam-flotation.md](/construction/plywood-grades-and-foam-flotation.md).
 
 ## A designer-fidelity credo
 
-Smith's defining contribution to the list was an articulate, career-boatbuilder's
-case for building strictly **as drawn**. Fidelity to the plans is "a simple
-matter of respect": Paradox was drawn only after an evolution of a single type
-refined through the prototype's own extensive use — the same
-Terrapin-through-Elusion design lineage this archive documents (see
-[Matt Layden](/matt-layden/index.md)). The credo draws a careful line between
-changing a design's **geometry/specifications** (off-limits) and changing
-**details** that do not touch them (a builder's prerogative), citing routine
-detail modifications at "some of the world's highest regarded yards." His own
-disappointing Elver, modified against its designer's intent, gave the credo
-its personal origin. See
-[Matt Layden — a professional boatbuilder joins the list](/matt-layden/biography.md).
+Smith's defining contribution to the list was an articulate, career-boatbuilder's case for building strictly **as drawn**. Fidelity to the plans is "a simple matter of respect": Paradox was drawn only after an evolution of a single type refined through the prototype's own extensive use — the same Terrapin-through-Elusion design lineage this archive documents (see [Matt Layden](/matt-layden/index.md)). The credo draws a careful line between changing a design's **geometry/specifications** (off-limits) and changing **details** that do not touch them (a builder's prerogative), citing routine detail modifications at "some of the world's highest regarded yards." His own disappointing Elver, modified against its designer's intent, gave the credo its personal origin. See [Matt Layden — a professional boatbuilder joins the list](/matt-layden/biography.md).
 
 ## Contributions and stories
 
-**Rig, sail, and steering.** Curing over-sheeted tacking calls for easing the
-sheet to a luff-flutter before firming the sail; **leech telltales** work well
-made from ordinary cassette tape. A bowing yard is fixed with Kevlar/epoxy on
-the tension surface, or by cutting the sail to the yard's own bowed shape. A
-brass tack-pipe spacer does not wear the deck if it is a swaged copper
-fairlead. See [rig and sail](/design/rig.md) and
-[design/furling-system.md](/design/furling-system.md). On mast material: a
-birdmouth-built spar sleeved in braided carbon fiber matches Matt Layden's own
-original composite-rig intent and was judged, by weight and strength estimate,
-roughly half the weight and triple the strength of the stock spruce mast for
-a negligible weight penalty aloft — the real payoff being the building
-experience itself; Douglas fir is the strongest solid alternative to Sitka
-spruce, with Honduras mahogany and Alaskan yellow cedar usable at some cost in
-strength. Sail draft should scale with a boat's displacement — a heavier boat
-needs *more* draft, not less. The original prototype's single-part mainsheet,
-led through the transom to the boom, was superseded on the plans by an
-improved two-part purchase. See [rig and sail — wood species for a
-scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast),
-[— a birdmouth-and-carbon composite mast,
-revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited),
-[— how much draft a Paradox lug sail should
-carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry), and
-[— sheet entry through the transom: prototype versus
-plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans).
-A well-cut sail — Glen Maxwell's Dabbler re-cut among them — is a high enough
-bar that would-be sailmakers may want *The Sailmaker's Apprentice* in hand
-before attempting their own; see
-[rig and sail — the Dabbler re-cut](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement).
+**Rig, sail, and steering.** Curing over-sheeted tacking calls for easing the sheet to a luff-flutter before firming the sail; **leech telltales** work well made from ordinary cassette tape. A bowing yard is fixed with Kevlar/epoxy on the tension surface, or by cutting the sail to the yard's own bowed shape. A brass tack-pipe spacer does not wear the deck if it is a swaged copper fairlead. See [rig and sail](/design/rig.md) and [design/furling-system.md](/design/furling-system.md). On mast material: a birdmouth-built spar sleeved in braided carbon fiber matches Matt Layden's own original composite-rig intent and was judged, by weight and strength estimate, roughly half the weight and triple the strength of the stock spruce mast for a negligible weight penalty aloft — the real payoff being the building experience itself; Douglas fir is the strongest solid alternative to Sitka spruce, with Honduras mahogany and Alaskan yellow cedar usable at some cost in strength. Sail draft should scale with a boat's displacement — a heavier boat needs *more* draft, not less. The original prototype's single-part mainsheet, led through the transom to the boom, was superseded on the plans by an improved two-part purchase. See [rig and sail — wood species for a scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast), [— a birdmouth-and-carbon composite mast, revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited), [— how much draft a Paradox lug sail should carry](/design/rig.md#how-much-draft-a-paradox-lug-sail-should-carry), and [— sheet entry through the transom: prototype versus plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans). A well-cut sail — a re-cut Dabbler among them — is a high enough bar that would-be sailmakers may want *The Sailmaker's Apprentice* in hand before attempting their own; see [rig and sail — the Dabbler re-cut](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement).
 
-**Cabin heating, cushions, and systems.** An inverted flowerpot over the stove
-retains heat but needs securing so it can't shift loose; whether a gimballed
-kerosene lamp suits a Paradox cabin is untested. See
-[cabin heating](/operations/cabin-heating.md). A **Therm-a-Rest**, or a
-Sunbrella-covered inner tube anchored at one centerline point so it flips with
-the tack, both work as cabin cushions; see
-[boats/little-jim.md](/boats/little-jim.md). **Glycerin** lubricates deck-plate
-O-rings well (including on Beckson deckplates), and a Channellock-handle gives
-useful leverage seating a stubborn one; see
-[transom deck plate — leaking inspection plates](/construction/transom-deck-plate.md).
-LEDs beat kerosene running lights on cost and lifespan (roughly 10,000 hours),
-and a single all-around white masthead light satisfies both running- and
-anchor-light COLREGs unless motoring — a point on which the Pardeys' published
-advice is simply wrong. See [running lights](/operations/running-lights.md).
-A closed-bilge design — no limber holes, only compartmentalized bilge spaces
-— pairs with a simple three-tier response to unwanted water: sponge, portable
-pump, fixed pump; see [weight and ballast — has anyone actually needed the
-bilge pump?](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
+**Cabin heating, cushions, and systems.** An inverted flowerpot over the stove retains heat but needs securing so it can't shift loose; whether a gimballed kerosene lamp suits a Paradox cabin is untested. See [cabin heating](/operations/cabin-heating.md). A **Therm-a-Rest**, or a Sunbrella-covered inner tube anchored at one centerline point so it flips with the tack, both work as cabin cushions; see [boats/little-jim.md](/boats/little-jim.md). **Glycerin** lubricates deck-plate O-rings well (including on Beckson deckplates), and a Channellock-handle gives useful leverage seating a stubborn one; see [transom deck plate — leaking inspection plates](/construction/transom-deck-plate.md). LEDs beat kerosene running lights on cost and lifespan (roughly 10,000 hours), and a single all-around white masthead light satisfies both running- and anchor-light COLREGs unless motoring — published advice to the contrary from well-known voices in the field is simply wrong. See [running lights](/operations/running-lights.md). A closed-bilge design — no limber holes, only compartmentalized bilge spaces — pairs with a simple three-tier response to unwanted water: sponge, portable pump, fixed pump; see [weight and ballast — has anyone actually needed the bilge pump?](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
 
-**Materials and construction technique.** Foam-flotation choice is builder's
-discretion: foam glued in under a thin protective sheet avoids the
-condensation and foil-facing risks of a removable-foam approach, though either
-works; see
-[plywood grades and foam flotation](/construction/plywood-grades-and-foam-flotation.md).
-System Three is a sound epoxy choice, and a latex-and-Hypalon-rubber product
-("Spantex") makes a good non-skid deck coating; see
-[epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md#system-threes-flexibility-and-a-regional-supplier-preference)
-and
-[non-skid deck finish](/construction/non-skid-deck.md#spantexflex-o-tex-rubber-based-non-skid).
-Transom-side framing and bulkhead #4 crown differences of a few millimeters
-are trivial and correct out at trial assembly; see
-[hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
-A "scab" is simply a butt block, and bulkhead #2's own scab can be eliminated
-by scarphing its plywood together instead; bulkhead #2's rolling bevel runs
-about 8 degrees at the sheer to 13 degrees at the chine. See [hull assembly
-sequence — what a "scab" is](/construction/hull-assembly-sequence.md#what-a-scab-is-and-a-scarphed-alternative-that-eliminates-it)
-and [— rolling
-bevels](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s).
-Wax, enamel, and other antifouling shortcuts fall short for a bottom finish;
-an epoxy-barrier/vinyl/Pettit-Trinidad build-up (Interlux Micron, tinted
-green) suits serious cruising; see
-[bottom painting over epoxy](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail).
-Sheer clamps install before chine logs without difficulty; Honduras mahogany
-chine logs bend far harder than white oak. See [chine runner construction —
-milling solid chine logs](/chine-runners/construction.md#milling-solid-chine-logs-from-a-dense-hardwood)
-and [— sheer clamp and chine log installation
-order](/chine-runners/construction.md#sheer-clamp-and-chine-log-installation-order).
-Epoxy-set hardware bonding is sound engineering, with one caution: direct
-sunlight on black-colored hardware can generate enough heat to weaken the
-bond, favoring a less heat-sensitive formulation for such uses; see
-[fastening and gluing — hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting).
-Deck beam #1 can come in below fair at the centerline at dry fit — a known
-shortfall also seen on a New Zealand-built Paradox — traced to bulkhead #3's
-deck camber needing the camber template rather than the plotted-as-designed
-line; see [deck and cabin beam lamination — shimming deck beam
-#1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
-Chine-runner ballast lead can be cast into plaster molds shaped from a
-bench-built plug (which must be flat-and-fair on the bench, not an
-already-beveled finished section) and fastened behind the runners' glass
-sheathing, freeing bilge stowage space; bronze plate is the durable choice for
-a chine-runner shoe over steel/wood composites, which risk corrosion and
-bedding-compound failure. See [chine runner construction — lead ballast cast
-into plaster molds, a second
-round](/chine-runners/construction.md#casting-lead-ballast-into-the-runners)
-and [— bronze versus steel plate, and lead birdshot as a lower-tech casting
-alternative](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
-Paradox's bulkheads need beveling at all, unlike "instant"-boat jig practice;
-dimensioned faces, bevels, and cleat-camber measurements read off sheets 2-4,
-7, and 8. See [hull assembly sequence — which side of the station line a
-bulkhead's dimensioned face falls
-on](/construction/hull-assembly-sequence.md#which-side-of-the-station-line-a-bulkheads-dimensioned-face-falls-on).
-A lower gudgeon can be built as a cast part (chopped-strand mat and epoxy in a
-female mold, wrapped in roving), a carved hardwood part such as purpleheart
-(also wrapped in roving), or built up from a polyester filler product
-(Duraglass or Kitty Hair) under epoxy/roving — all more complicated,
-plausibly, than the designer's own original method. See [Glen Maxwell — the
-build manual proposal, a concrete
-push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
-Clenched (not merely bent-over) nails are a permanent, traditional
-lapstrake/canoe fastening method, stronger than screws and easier than rivets,
-finishing flush on both sides under a light epoxy/microballoon fill; see
-[fastening and gluing — why the plans show clenched (not simply bent) nails,
-and how to clench
-one](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
-A too-sloppy or wracking hatch can be refitted with adhesive-backed sandpaper
-stuck to the fixed rail, worked back and forth until the fit loosens on every
-binding plane, leaving clearance for paint thickness; canning wax also frees a
-sticking slide. See [hatch hardware and security — refitting a too-sloppy or
-wracking hatch](/construction/hatch-hardware.md#refitting-a-too-sloppy-or-wracking-hatch).
-Neither alder nor hemlock suits Paradox's structural or joiner work well —
-the design's plywood scantlings were sized around lumberyard "hem-fir," a
-fast-growing, renewable, replanted farm-forest product, with no rot found
-aboard the original Paradox after years of use in AC exterior plywood.
-Alaska yellow cedar suits joinery work (soft but pleasant), and old-growth
-Douglas fir is a good general choice, though over-sanding fir wears away its
-soft summer-growth wood faster than the harder winter growth — edge tools
-suit it better than sandpaper. See [hull scantlings — whether alder and
-hemlock suit structural and joiner
-work](/design/hull-scantlings.md#alder-and-hemlock-for-structural-and-joiner-work).
+**Materials and construction technique.** Foam-flotation choice is builder's discretion: foam glued in under a thin protective sheet avoids the condensation and foil-facing risks of a removable-foam approach, though either works; see [plywood grades and foam flotation](/construction/plywood-grades-and-foam-flotation.md). System Three is a sound epoxy choice, and a latex-and-Hypalon-rubber product ("Spantex") makes a good non-skid deck coating; see [epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md#system-threes-flexibility-and-a-regional-supplier-preference) and [non-skid deck finish](/construction/non-skid-deck.md#spantexflex-o-tex-rubber-based-non-skid). Transom-side framing and bulkhead #4 crown differences of a few millimeters are trivial and correct out at trial assembly; see [hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly). A "scab" is simply a butt block, and bulkhead #2's own scab can be eliminated by scarphing its plywood together instead; bulkhead #2's rolling bevel runs about 8 degrees at the sheer to 13 degrees at the chine. See [hull assembly sequence — what a "scab" is](/construction/hull-assembly-sequence.md#what-a-scab-is-and-a-scarphed-alternative-that-eliminates-it) and [— rolling bevels](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s). Wax, enamel, and other antifouling shortcuts fall short for a bottom finish; an epoxy-barrier/vinyl/Pettit-Trinidad build-up (Interlux Micron, tinted green) suits serious cruising; see [bottom painting over epoxy](/construction/bottom-painting.md#why-wax-enamel-and-other-antifouling-shortcuts-fail). Sheer clamps install before chine logs without difficulty; Honduras mahogany chine logs bend far harder than white oak. See [chine runner construction — milling solid chine logs](/chine-runners/construction.md#milling-solid-chine-logs-from-a-dense-hardwood) and [— sheer clamp and chine log installation order](/chine-runners/construction.md#sheer-clamp-and-chine-log-installation-order). Epoxy-set hardware bonding is sound engineering, with one caution: direct sunlight on black-colored hardware can generate enough heat to weaken the bond, favoring a less heat-sensitive formulation for such uses; see [fastening and gluing — hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting). Deck beam #1 can come in below fair at the centerline at dry fit — a known shortfall also seen on a New Zealand-built Paradox — traced to bulkhead #3's deck camber needing the camber template rather than the plotted-as-designed line; see [deck and cabin beam lamination — shimming deck beam #1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline). Chine-runner ballast lead can be cast into plaster molds shaped from a bench-built plug (which must be flat-and-fair on the bench, not an already-beveled finished section) and fastened behind the runners' glass sheathing, freeing bilge stowage space; bronze plate is the durable choice for a chine-runner shoe over steel/wood composites, which risk corrosion and bedding-compound failure. See [chine runner construction — lead ballast cast into plaster molds, a second round](/chine-runners/construction.md#casting-lead-ballast-into-the-runners) and [— bronze versus steel plate, and lead birdshot as a lower-tech casting alternative](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe). Paradox's bulkheads need beveling at all, unlike "instant"-boat jig practice; dimensioned faces, bevels, and cleat-camber measurements read off sheets 2-4, 7, and 8. See [hull assembly sequence — which side of the station line a bulkhead's dimensioned face falls on](/construction/hull-assembly-sequence.md#which-side-of-the-station-line-a-bulkheads-dimensioned-face-falls-on). A lower gudgeon can be built as a cast part (chopped-strand mat and epoxy in a female mold, wrapped in roving), a carved hardwood part such as purpleheart (also wrapped in roving), or built up from a polyester filler product (Duraglass or Kitty Hair) under epoxy/roving — all more complicated, plausibly, than the designer's own original method. See [the build manual proposal, a concrete push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push). Clenched (not merely bent-over) nails are a permanent, traditional lapstrake/canoe fastening method, stronger than screws and easier than rivets, finishing flush on both sides under a light epoxy/microballoon fill; see [fastening and gluing — why the plans show clenched (not simply bent) nails, and how to clench one](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one). A too-sloppy or wracking hatch can be refitted with adhesive-backed sandpaper stuck to the fixed rail, worked back and forth until the fit loosens on every binding plane, leaving clearance for paint thickness; canning wax also frees a sticking slide. See [hatch hardware and security — refitting a too-sloppy or wracking hatch](/construction/hatch-hardware.md#refitting-a-too-sloppy-or-wracking-hatch). Neither alder nor hemlock suits Paradox's structural or joiner work well — the design's plywood scantlings were sized around lumberyard "hem-fir," a fast-growing, renewable, replanted farm-forest product, with no rot found aboard the original Paradox after years of use in AC exterior plywood. Alaska yellow cedar suits joinery work (soft but pleasant), and old-growth Douglas fir is a good general choice, though over-sanding fir wears away its soft summer-growth wood faster than the harder winter growth — edge tools suit it better than sandpaper. See [hull scantlings — whether alder and hemlock suit structural and joiner work](/design/hull-scantlings.md#alder-and-hemlock-for-structural-and-joiner-work).
 
-**Ground tackle, sea anchors, and radio.** Stowing anchor rode aboard a
-cockpit-less boat can use stern rollers, a Fortress-style or folding squid
-anchor, or a reel of nylon webbing mounted in a side-deck rig hoop — though a
-portable reel is not worth the complexity; see
-[ground tackle and anchoring](/operations/ground-tackle.md). Small surplus
-military chutes (closer to a cargo-drop drogue than a purpose-built sea
-anchor) can be re-rigged with long shrouds and a swivel to stop them
-collapsing and refilling; chain should never be part of a parachute
-sea-anchor rode, since a fishing boat has been pulled under and imploded on
-one. A flush, self-draining Danforth well on the afterdeck, or an off-center
-PVC-tube scheme for a folding grapnel, both work as anchor stowage; keeping
-weight and motion aft and inboard also suits a big sailor (6'1", 225 lb), who
-found moving forward on a small boat upset her balance. A cockpit-worked
-lanyard-and-roller retrieval system — bow-mounted rollers, an afterdeck
-locker, and a lanyard-and-block riding the rode back to the companionway —
-lets ground tackle be set, weighed, and swapped for a sea anchor without going
-forward, though a plainer stern-set method is simpler. A parachute sea anchor
-streamed roughly 45° off the bow protects a Paradox's exposed stern fittings
-better than a series drogue run off the transom; weather routing remains the
-first line of storm avoidance. See [ground tackle and anchoring — surplus
-military chutes as sea anchors, and lead angle under different
-hulls](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls),
-[— a flush anchor well, weight distribution, and
-drainage](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage),
-[— a cockpit-worked lanyard-and-roller retrieval
-system](/operations/ground-tackle.md#a-cockpit-worked-lanyard-and-roller-retrieval-system),
-and [transom deck plate — a proposed permanent tiller boot, and a sea-anchor
-vs. series-drogue
-rebuttal](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine).
-The Paradox's lightning-protection wiring, already run inside the mast, can
-double as a ready-made antenna groundplane for a permanently installed
-longwire HF radio with an automatic tuner — disabled for lightning protection,
-re-enabled for radio use — a simpler approach than a portable antenna; in
-practice a laptop-coupled cell phone or shortwave receiver has become a more
-likely source of weather data than a full HF ham rig. See [radio and
-electronics](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
+**Ground tackle, sea anchors, and radio.** Stowing anchor rode aboard a cockpit-less boat can use stern rollers, a Fortress-style or folding squid anchor, or a reel of nylon webbing mounted in a side-deck rig hoop — though a portable reel is not worth the complexity; see [ground tackle and anchoring](/operations/ground-tackle.md). Small surplus military chutes (closer to a cargo-drop drogue than a purpose-built sea anchor) can be re-rigged with long shrouds and a swivel to stop them collapsing and refilling; chain should never be part of a parachute sea-anchor rode, since a fishing boat has been pulled under and imploded on one. A flush, self-draining Danforth well on the afterdeck, or an off-center PVC-tube scheme for a folding grapnel, both work as anchor stowage; keeping weight and motion aft and inboard also suits a big sailor (6'1", 225 lb), who found moving forward on a small boat upset her balance. A cockpit-worked lanyard-and-roller retrieval system — bow-mounted rollers, an afterdeck locker, and a lanyard-and-block riding the rode back to the companionway — lets ground tackle be set, weighed, and swapped for a sea anchor without going forward, though a plainer stern-set method is simpler. A parachute sea anchor streamed roughly 45° off the bow protects a Paradox's exposed stern fittings better than a series drogue run off the transom; weather routing remains the first line of storm avoidance. See [ground tackle and anchoring — surplus military chutes as sea anchors, and lead angle under different hulls](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls), [— a flush anchor well, weight distribution, and drainage](/operations/ground-tackle.md#a-flush-anchor-well-weight-distribution-and-drainage), [— a cockpit-worked lanyard-and-roller retrieval system](/operations/ground-tackle.md#a-cockpit-worked-lanyard-and-roller-retrieval-system), and [transom deck plate — a proposed permanent tiller boot, and a sea-anchor vs. series-drogue rebuttal](/construction/transom-deck-plate.md#a-proposed-permanent-tiller-boot-and-smiths-rebuttal-with-sea-anchor-vs-series-drogue-doctrine). The Paradox's lightning-protection wiring, already run inside the mast, can double as a ready-made antenna groundplane for a permanently installed longwire HF radio with an automatic tuner — disabled for lightning protection, re-enabled for radio use — a simpler approach than a portable antenna; in practice a laptop-coupled cell phone or shortwave receiver has become a more likely source of weather data than a full HF ham rig. See [radio and electronics](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
 
-**Seamanship, stability, and blue-water suitability.** A seamanlike attitude,
-not a vessel's in-hindsight "seaworthiness" label, is what makes passages
-safe — the Paradox itself is "a masterful design" on this count; see
-[blue-water suitability](/design/blue-water-suitability.md#seamanship-over-seaworthiness-a-professional-builders-endorsement).
-A heavier sailor's weight, shifting during a knockdown, affects the
-righting-moment picture directly — ballast (including water ballast) is what
-absorbs that shift; see [Little Jim — a first crossing of the Solent](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003)
-and [heavy-weather tactics — securing the crew during a
-knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
-A basic depth sounder, fishfinder, or handheld GPS are all excellent value,
-and a depth sounder in particular is prized in the Pacific Northwest for
-following a chosen fathom line as a line of position in fog; see [GPS and
-navigation instruments — fitting a depth sounder or
-fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
+**Seamanship, stability, and blue-water suitability.** A seamanlike attitude, not a vessel's in-hindsight "seaworthiness" label, is what makes passages safe — the Paradox itself is "a masterful design" on this count; see [blue-water suitability](/design/blue-water-suitability.md#seamanship-over-seaworthiness-a-professional-builders-endorsement). A heavier sailor's weight, shifting during a knockdown, affects the righting-moment picture directly — ballast (including water ballast) is what absorbs that shift; see [Little Jim — a first crossing of the Solent](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003) and [heavy-weather tactics — securing the crew during a knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown). A basic depth sounder, fishfinder, or handheld GPS are all excellent value, and a depth sounder in particular is prized in the Pacific Northwest for following a chosen fathom line as a line of position in fog; see [GPS and navigation instruments — fitting a depth sounder or fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
 
-**Design fidelity applied to hull strength and materials.** The Paradox's
-design-as-drawn is already robust and needs no "strengthening" — as-specified
-sheer clamps and single-piece chine logs go in without much trouble, and
-adding hull weight also strains the rig and deck hardware above the sheer
-line, a load a light-displacement boat handles poorly. Added strength has a
-place only when an owner is building up an already-underbuilt secondhand
-boat, not in new construction to the plans. The same fidelity logic extends to
-material substitution: a boat built in aluminum instead of plywood could only
-still bear the Paradox name if Matt Layden himself modified his own design for
-it — a case argued at length against a steel-hulled Paradox proposal, judged
-"a horrible mistake." Mass and momentum favor a heavy, high-wetted-surface
-hull like Paradox at sculling — mass is what lets a boat carry its way between
-strokes (a loaded canoe glides where a solo paddler must keep stroking; a
-supertanker will coast for miles at a speed that stops a catamaran the instant
-its sail luffs) — while a light hull instead gains **acceleration**. A spare
-yuloh is accordingly unnecessary: it is auxiliary propulsion, not the sole
-source, so it does not need a paddler's backup. The plans' 30 mm yuloh-blade
-curve figure is measured from the yuloh's own centerline, not a fixed bend
-radius, since the blade is laminated around an arbitrary center and shaped
-afterward. See [hull planking — is a second layer of cloth
-worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth),
-[— museums, materials, and the case for building to
-spec](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec),
-[aluminum and steel Paradox (speculative) — why a steel Paradox would be "a
-horrible
-mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake),
-[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it),
-and [yuloh and stowed-rig retention — building the yuloh
-itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
-Surveying the archive's actual build variety — foam-core composite,
-stitch-and-glue plywood, and aluminum/steel proposals among them — only the
-original Paradox is truly "the real Paradox," with every other built example
-either aspiring to it or departing from it to be judged on its own terms;
-Matt Layden himself treats his design as a guide rather than a manual, on
-condition that a builder changing material recalculate the resulting weights
-and centers. See [aluminum and steel Paradox (speculative) — epilogue: why
-materials questions draw pushback, and a belated
-apology](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
+**Design fidelity applied to hull strength and materials.** The Paradox's design-as-drawn is already robust and needs no "strengthening" — as-specified sheer clamps and single-piece chine logs go in without much trouble, and adding hull weight also strains the rig and deck hardware above the sheer line, a load a light-displacement boat handles poorly. Added strength has a place only when an owner is building up an already-underbuilt secondhand boat, not in new construction to the plans. The same fidelity logic extends to material substitution: a boat built in aluminum instead of plywood could only still bear the Paradox name if Matt Layden himself modified his own design for it — a case argued at length against a steel-hulled Paradox proposal, judged "a horrible mistake." Mass and momentum favor a heavy, high-wetted-surface hull like Paradox at sculling — mass is what lets a boat carry its way between strokes (a loaded canoe glides where a solo paddler must keep stroking; a supertanker will coast for miles at a speed that stops a catamaran the instant its sail luffs) — while a light hull instead gains **acceleration**. A spare yuloh is accordingly unnecessary: it is auxiliary propulsion, not the sole source, so it does not need a paddler's backup. The plans' 30 mm yuloh-blade curve figure is measured from the yuloh's own centerline, not a fixed bend radius, since the blade is laminated around an arbitrary center and shaped afterward. See [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth), [— museums, materials, and the case for building to spec](/construction/hull-planking.md#museums-materials-and-the-case-for-building-to-spec), [aluminum and steel Paradox (speculative) — why a steel Paradox would be "a horrible mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake), [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it), and [yuloh and stowed-rig retention — building the yuloh itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket). Surveying the archive's actual build variety — foam-core composite, stitch-and-glue plywood, and aluminum/steel proposals among them — only the original Paradox is truly "the real Paradox," with every other built example either aspiring to it or departing from it to be judged on its own terms; Matt Layden himself treats his design as a guide rather than a manual, on condition that a builder changing material recalculate the resulting weights and centers. See [aluminum and steel Paradox (speculative) — epilogue: why materials questions draw pushback, and a belated apology](/design/aluminum-construction-idea.md#epilogue-why-materials-questions-draw-pushback-and-a-belated-apology).
 
-**Owning "Swash."** Smith's own Paradox, built strictly as drawn from Joubert
-Okoume BS-1088 plywood and Honduras mahogany, sails and moors downriver from
-Deer Island, Oregon, on the Columbia River — cruising grounds he judged well
-suited to year-round Northwest sailing. Briefly listed for sale in July 2004
-during a divorce, he ultimately kept and finished her himself. Full name
-origin, home waters, ownership philosophy, and the for-sale episode:
-[boats/swash.md](/boats/swash.md).
+**Owning "Swash."** David C. Smith's own Paradox, built strictly as drawn from Joubert Okoume BS-1088 plywood and Honduras mahogany, sails and moors downriver from Deer Island, Oregon, on the Columbia River — cruising grounds he judged well suited to year-round Northwest sailing. Briefly listed for sale in July 2004 during a divorce, he ultimately kept and finished her himself. Full name origin, home waters, ownership philosophy, and the for-sale episode: [boats/swash.md](/boats/swash.md).
 
-**Community role.** Smith proposed a group-written, plans-only **Paradox build
-manual** — free, concise, edited for neutrality, and open to occasional,
-respectfully-posed clarifying questions to Matt Layden himself where the
-group's own knowledge fell short. The proposal directly provoked
-[Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-into founding a rival splinter group; Smith declined to join it and publicly
-confirmed that Glen Maxwell, not Don, is `paradoxbuilders`' actual founder and
-moderator. [William Longyard](/people/william-longyard.md), author of *A
-Speck on the Sea*, agreed to help keep the manual "unbiased, concise and
-factual"; a bibliography thread drew *The Gougeon Brothers on Boat
-Construction*, three out-of-print Percy Blandford titles, and a nod to Harold
-"Dynamite" Payson. Smith wrote the manual's draft **introduction**, a
-**"Preparations"** installment (build-site guidance and a full categorized
-tool list), and a **"Deck Beam Template" and "Laminating Jigs"** installment —
-5mm Honduras mahogany laminates, 30-40 clamps per beam, and a corrected note
-that thinner laminates spring back *more*, not less, than thicker ones. He
-held that the design's self-fairing plywood tolerates real-world variance
-even as early sloppiness compounds through a build, and defended the tool
-list's scope against a "wildly excessive" charge (his own stationary power
-tools totaled under $1,200 new). No further group build-manual content beyond
-these installments is recorded. See [build effort and workspace — the Build
-Manual's introduction](/construction/build-effort.md#the-build-manuals-introduction),
-[— the Build Manual's "Preparations"
-installment](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory),
-[deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and
-"Laminating Jigs"
-installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment),
-and [— plywood versus solid timber
-lamination](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).
+**Community role.** Smith proposed a group-written, plans-only **Paradox build manual** — free, concise, edited for neutrality, and open to occasional, respectfully-posed clarifying questions to Matt Layden himself where the group's own knowledge fell short. The proposal directly provoked a [rival splinter group](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list); Smith declined to join it and publicly confirmed `paradoxbuilders`' actual founder and moderator. The author of *A Speck on the Sea* agreed to help keep the manual "unbiased, concise and factual"; a bibliography thread drew *The Gougeon Brothers on Boat Construction*, three out-of-print Percy Blandford titles, and a nod to Harold "Dynamite" Payson. Smith wrote the manual's draft **introduction**, a **"Preparations"** installment (build-site guidance and a full categorized tool list), and a **"Deck Beam Template" and "Laminating Jigs"** installment — 5mm Honduras mahogany laminates, 30-40 clamps per beam, and a corrected note that thinner laminates spring back *more*, not less, than thicker ones. He held that the design's self-fairing plywood tolerates real-world variance even as early sloppiness compounds through a build, and defended the tool list's scope against a "wildly excessive" charge (his own stationary power tools totaled under $1,200 new). No further group build-manual content beyond these installments is recorded. See [build effort and workspace — the Build Manual's introduction](/construction/build-effort.md#the-build-manuals-introduction), [— the Build Manual's "Preparations" installment](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory), [deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and "Laminating Jigs" installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment), and [— plywood versus solid timber lamination](/construction/deck-and-cabin-beams.md#plywood-versus-solid-timber-lamination).
 
-Smith also acted as list moderator while Glen Maxwell was away on his Atlantic
-crossing, diagnosing a group-wide Yahoo storage-limit lockout and founding a
-second group, `paradoxbuilders2`, for photo and file overflow; see
-[the mailing list — the photo-storage limit, and the founding of
-paradoxbuilders2](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2).
-He gave newcomers some of the archive's fullest practical advice: keep a build
-log, break the project into small tasks, search the archives before asking,
-and learn to sail on a cheap dinghy (Phil Bolger's "Elegant Punt," a "Cape Cod
-Frosty," or an "El Toro") rather than treat the Paradox itself as a first
-sailing lesson; a very tall or heavy newcomer can expect no problem with
-weight in the stock cabin, though height may call for an inflatable mattress
-letting the legs hang past bulkhead #2 onto a cushion. See [Paradox as a first
-boat — advice for a newcomer at the very
-start](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first)
-and [crew size and cabin fit — a very large sailor's fit:
-6'8"/315 lb, and a cardboard-mockup
-suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
-He also gave the archive's fullest fishing-technique account — a homemade
-"meathook" trolling rig of tuna cord, surgical tubing, and a feathered jig,
-developed with commercial albacore fishermen and used to land sierra, bonito,
-albacore, yellowfin, yellowtail, and dorado — and a stove comparison rating
-Force 10's products good value against the Forespar Mini-Galley 2000; see
-[fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising)
-and [cabin heating — choosing a galley cooking
-stove](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative).
-He listed the part-built "Swash" for sale for $3,000 in July 2004, citing his
-divorce, but ultimately kept working toward finishing her himself; see
-[secondhand Paradox market — an unfinished hull for sale: "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
-He posted the `paradoxbuilders` list's **1,000th message**, and was among the
-first to welcome [Matt Layden](/matt-layden/biography.md)'s own
-[first-ever list post](/matt-layden/biography.md).
+Smith also acted as list moderator during a co-moderator's absence on an Atlantic crossing, diagnosing a group-wide Yahoo storage-limit lockout and founding a second group, `paradoxbuilders2`, for photo and file overflow; see [the mailing list — the photo-storage limit, and the founding of paradoxbuilders2](/references/mailing-list.md#the-photo-storage-limit-and-the-founding-of-paradoxbuilders2). He gave newcomers some of the archive's fullest practical advice: keep a build log, break the project into small tasks, search the archives before asking, and learn to sail on a cheap dinghy (an "Elegant Punt," a "Cape Cod Frosty," or an "El Toro") rather than treat the Paradox itself as a first sailing lesson; a very tall or heavy newcomer can expect no problem with weight in the stock cabin, though height may call for an inflatable mattress letting the legs hang past bulkhead #2 onto a cushion. See [Paradox as a first boat — advice for a newcomer at the very start](/operations/first-boat-suitability.md#advice-for-a-newcomer-at-the-very-start-build-logs-small-tasks-and-a-dinghy-first) and [crew size and cabin fit — a very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion). He also gave the archive's fullest fishing-technique account — a homemade "meathook" trolling rig of tuna cord, surgical tubing, and a feathered jig, developed with commercial albacore fishermen and used to land sierra, bonito, albacore, yellowfin, yellowtail, and dorado — and a stove comparison rating Force 10's products good value against the Forespar Mini-Galley 2000; see [fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising) and [cabin heating — choosing a galley cooking stove](/operations/cabin-heating.md#choosing-a-galley-cooking-stove-the-force-10-seacook-and-the-forespar-alternative). He listed the part-built "Swash" for sale for $3,000 in July 2004, citing his divorce, but ultimately kept working toward finishing her himself; see [secondhand Paradox market — an unfinished hull for sale: "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004). He posted the `paradoxbuilders` list's **1,000th message**, and was among the first to welcome [Matt Layden](/matt-layden/biography.md)'s own [first-ever list post](/matt-layden/biography.md).
 
-**Further design and construction answers.** The rudder's pivot point sits on
-the transom centerline, per the plans; see [rudder — pivot point on the
-transom
-centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
-The plans' 3-layer-roving/4mm-glass bottom laminating schedule targets
-abrasion resistance rather than raw strength, since the stressed 18mm plywood
-bottom is already strong on its own, and is likely driven as much by economy
-as engineering; 12 oz biaxial cloth would serve the same 4mm target, though
-mat is not compatible with epoxy. See [hull planking — woven roving versus
-biaxial cloth: what the laminating schedule is
-for](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for).
-LED nav-light current draw should be figured against a charging battery
-(14.4V) or a rested, fully-charged one (12.6V), not just a steady 12V supply;
-under COLREGS, side lights — unlike the steaming and stern functions — may
-not be folded into a combined tricolor unit. See [running lights — running
-LEDs off a charging battery rather than a steady 12V
-supply](/operations/running-lights.md#running-leds-off-a-charging-battery-rather-than-a-steady-12v-supply).
-A raised, glazed cockpit enclosure has a real precedent outside boatbuilding:
-the F-16 fighter's canopy, adapted for unlimited hydroplane racing boats for
-nearly twenty years — "close cousins" to Paradox given the shared
-chine-runner/hydrodynamic-fence lineage. See [aluminum and steel Paradox
-(speculative) — a raised cabin, canopy, and cockpit-height
-ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas).
-Tacking trouble is better diagnosed as rudder stall (from being pushed to
-leeward too fast) and over-sheeting than as a rig-balance problem, worse in
-light air and eased by tacking more slowly with sheets tended throughout, plus
-telltales at the luff, leech, draft, and just aft of the mast; balance is
-found empirically through halyard placement rather than by a fore/aft split
-at the mast. See [sailing characteristics — center of effort, rudder stall,
-and telltale placement as the real tacking
-variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
+**Further design and construction answers.** The rudder's pivot point sits on the transom centerline, per the plans; see [rudder — pivot point on the transom centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline). The plans' 3-layer-roving/4mm-glass bottom laminating schedule targets abrasion resistance rather than raw strength, since the stressed 18mm plywood bottom is already strong on its own, and is likely driven as much by economy as engineering; 12 oz biaxial cloth would serve the same 4mm target, though mat is not compatible with epoxy. See [hull planking — woven roving versus biaxial cloth: what the laminating schedule is for](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for). LED nav-light current draw should be figured against a charging battery (14.4V) or a rested, fully-charged one (12.6V), not just a steady 12V supply; under COLREGS, side lights — unlike the steaming and stern functions — may not be folded into a combined tricolor unit. See [running lights — running LEDs off a charging battery rather than a steady 12V supply](/operations/running-lights.md#running-leds-off-a-charging-battery-rather-than-a-steady-12v-supply). A raised, glazed cockpit enclosure has a real precedent outside boatbuilding: the F-16 fighter's canopy, adapted for unlimited hydroplane racing boats for nearly twenty years — "close cousins" to Paradox given the shared chine-runner/hydrodynamic-fence lineage. See [aluminum and steel Paradox (speculative) — a raised cabin, canopy, and cockpit-height ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas). Tacking trouble is better diagnosed as rudder stall (from being pushed to leeward too fast) and over-sheeting than as a rig-balance problem, worse in light air and eased by tacking more slowly with sheets tended throughout, plus telltales at the luff, leech, draft, and just aft of the mast; balance is found empirically through halyard placement rather than by a fore/aft split at the mast. See [sailing characteristics — center of effort, rudder stall, and telltale placement as the real tacking variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
 
 # Citations
 

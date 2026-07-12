@@ -8,175 +8,37 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Paul V. (cruisenewsnet / sohaven2002)
 
-**Paul V.** was a US-based small-boat designer and `paradoxbuilders` list
-member who built a Paradox from scratch in a cold-climate "north woods"
-workshop and documented the work in a public "Build Book." He posted from an
-`admin@`/`cruisenewsnet` address (Yahoo profile `cruisenewsnet`) and, as an
-occasional alternate, the handle **`sohaven2002`** — confirmed as the same
-person when he signed one reply "Paul V / aka sohaven2002." [6] He was active
-in November 2001, again in February 2002, and continuously from September 2002,
-becoming one of the list's most prolific builder-correspondents and a volunteer
-co-moderator.
+**Paul V.** was a US-based small-boat designer and `paradoxbuilders` list member who built a Paradox from scratch in a cold-climate "north woods" workshop and documented the work in a public "Build Book." He posted from an `admin@`/`cruisenewsnet` address (Yahoo profile `cruisenewsnet`) and, as an occasional alternate, the handle **`sohaven2002`** — confirmed as the same person when he signed one reply "Paul V / aka sohaven2002." [6] He was active in November 2001, again in February 2002, and continuously from September 2002, becoming one of the list's most prolific builder-correspondents and a volunteer co-moderator.
 
-**Disambiguation.** He is distinct from [Paul (NZ)](/people/paul-nz.md), an
-earlier, unrelated member from southern New Zealand, and from the one-off
-"kayaker37" (also signing "Paul") in the February 2002 "Design" thread — see
-[blue-water suitability](/design/blue-water-suitability.md).
+**Disambiguation.** He is distinct from [Paul (NZ)](/people/paul-nz.md), an earlier, unrelated member from southern New Zealand, and from the one-off "kayaker37" (also signing "Paul") in the February 2002 "Design" thread — see [blue-water suitability](/design/blue-water-suitability.md).
 
 ## His own designs and his Paradox build
 
-Paul was himself designing a **trailerable small boat for the Great Lakes**.
-He considered a Paradox-style chine-keel hull but worried it could trip the
-boat in steep breaking waves, and chose a dory hull instead for its
-self-righting capability and full flotation, with design pages at
-`cruisenews.net/whaleback` — see
-[blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
-[2]
+Paul was himself designing a **trailerable small boat for the Great Lakes**. He considered a Paradox-style chine-keel hull but worried it could trip the boat in steep breaking waves, and chose a dory hull instead for its self-righting capability and full flotation, with design pages at `cruisenews.net/whaleback` — see [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md). [2]
 
-He also built a Paradox to the plans, working slowly through 2002-2003 in a
-wood-heated, frozen workshop. [38] He planned two cold-climate modifications —
-a **hinged, dog-down watertight hatch** in place of the stock sliding hatch,
-and **lead ballast** in place of the built-in water tank — but otherwise
-argued against modifying the design, on the principle that **"a boat is far
-more than the sum of its parts"**; see
-[Motorsailer Paradox (speculative)](/design/variants/motorsailer-idea.md). [23]
-His build progressed from **deck-beam lamination** (six layers of 1/4 in
-plywood and epoxy, seven beams; see
-[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md))
-[33][34][35][36] to **cutting out bulkheads** by January 2003. [40]
+He also built a Paradox to the plans, working slowly through 2002-2003 in a wood-heated, frozen workshop. [38] He planned two cold-climate modifications — a **hinged, dog-down watertight hatch** in place of the stock sliding hatch, and **lead ballast** in place of the built-in water tank — but otherwise argued against modifying the design, on the principle that **"a boat is far more than the sum of its parts"**; see [Motorsailer Paradox (speculative)](/design/variants/motorsailer-idea.md). [23] His build progressed from **deck-beam lamination** (six layers of 1/4 in plywood and epoxy, seven beams; see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md)) [33][34][35][36] to **cutting out bulkheads** by January 2003. [40]
 
 ## Contributions and stories
 
-- **The "Build Book."** Paul maintained a public build-log folder in the
-  group's files section, documenting only techniques he personally knew
-  worked (drawing on past experience compiling build books at **S2 Yachts**),
-  and considered retitling it "Paul's Build Book" to make that intent clear.
-  [35]
-- **Deck-beam lamination.** He championed laminating deck beams from thin
-  plywood and epoxy, defending the technique's stiffness against a doubt
-  about plywood grain, and later tried **PL polyurethane adhesive** as an
-  alternative — see
-  [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
-  [35][37]
-  His Build Book questions also cover bulkhead #3 side cleats and deck-beam
-  dimensions/radius (see
-  [hull assembly sequence](/construction/hull-assembly-sequence.md)
-  and
-  [deck and cabin beams](/construction/deck-and-cabin-beams.md));
-  [17][18] bulkhead side curves and metric-vs-imperial measuring (see
-  [panel layout and nesting](/construction/panel-layout.md));
-  [24][25][26][27][28] and chine-log notching and in-place lamination (see
-  [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)).
-  [29][30][31][32]
-- **The documented build-sequence request.** His question about a documented
-  Paradox building sequence beyond the plans turned up Don Elliott's paid
-  16-part "Building Paradox" series and a spare plans CD from
-  [Charles Wilson](/people/charles-wilson.md) — see
-  [hull assembly sequence](/construction/hull-assembly-sequence.md).
-  [3][4][5]
-- **Moderation.** He proposed requiring moderator approval of new members to
-  stop a run of bare-link spam, then volunteered — alongside
-  [Dave Bolduc](/people/bolduc/dave.md) — as one of the co-moderators who
-  made it possible to close the group to unapproved signups; see
-  [Paradox builders mailing list](/references/mailing-list.md).
-  [9][11][12][13][22]
-- **The vent baffle.** He questioned whether the transom's tiller-rope vent
-  opening was necessary and whether it leaked, expressing reservations about
-  the rope tiller as a primary steering system — see
-  [transom deck plate and vent baffle](/construction/transom-deck-plate.md).
-  [15][16][20][21]
-- **The Swamp Thing question.** His first recorded post asked what made
-  [Swamp Thing](/matt-layden/swamp-thing.md) sail better than
-  [Paradox](/paradox.md) or [Little Cruiser](/matt-layden/little-cruiser.md)
-  (a keel? narrower beam? lighter displacement?), recalling her as "the one
-  with oar holes on the sides." [1]
-- **Weight vs. displacement.** His question "How heavy is a fully loaded and
-  ballasted Paradox? Maybe 1000 lbs?" opened the archive's fullest discussion
-  of a boat's weight versus her displacement — see
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
-  [41][42]
-- **Scaling and chine runners.** Chine runners were, at the time, a
-  relatively new and experimental concept, expected to work on larger
-  sharpies with good rocker and ballast though not yet demonstrated at
-  larger scale; four larger sharpie design sites were cited as reference
-  points — see [Stretched Paradox](/design/variants/stretched-paradox.md).
-  [44]
-- **The BRIS drinking-water trick.** Sven Yrvind's technique of channelling
-  window condensation to a bottle for drinking water reached the list
-  through Paul — see
-  [cabin heating for cold-weather sailing](/operations/cabin-heating.md).
-  [39]
-- **Everglades Challenge reporting.** He posted the archive's fullest
-  real-time checkpoint updates for the 2003 race from the WaterTribe results
-  site, including [Matt Layden](/matt-layden/biography.md) becoming the first
-  competitor to reach Checkpoint 3 — see
-  [the race in progress](/boats/original-paradox.md).
-  Watching Paradox win, he remarked he had "never thought of the Paradox as a
-  racing boat, more of a slow but steady cruiser," and wondered why no
-  Hobie-cat catamarans had entered. [43][45][46][47]
-- **A solar-panel pointer.** A specific 5-watt solar panel (northerntool.com)
-  was recommended as enough to maintain a battery but perhaps not to keep up
-  with several days' daily use — see [Whisper](/boats/whisper.md). [48]
-- **A birdshot-and-epoxy ballast putty.** Proposed mixing lead birdshot into
-  silica-thickened epoxy to a heavy putty, worked onto the chine runner by
-  hand and shaped to a radius — or applied under the hull-bottom glass layup
-  as a low ballast base coat — estimating 100-200 lb of lead achievable this
-  way, with the remainder as pig lead or (to avoid skin contact) sandbags;
-  see
-  [chine runner construction — bronze versus steel plate, and lead birdshot
-  as a lower-tech casting alternative](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy).
-  [49]
-- **A design-lineage correction, and his own chine-runner sharpie.** Answering
-  a newcomer's guess that Paradox and Little Cruiser carry a lot of Phil
-  Bolger's sharpie philosophy, he judged it was **Ted Monroe's sharpie work**,
-  more than Bolger's, that actually inspired Paradox. By 2006 he was building
-  a stitch-and-glue sharpie of his own design fitted with chine runners,
-  directly inspired by Matt Layden's boats; having tried out some of his own
-  ideas, he judged that following the plans is the surer route to a boat that
-  is known to work well, while designing one's own boat suits a builder who
-  has already built a few and wants to experiment. [50]
-- **A transom outboard-bracket-box idea.** On the recurring side/transom
-  outboard-mount question, proposed an open-topped bracket box built onto
-  the transom, sized to hold a 2-gallon fuel jug, with the outboard clamped
-  to the box's aft edge and its throttle, kill switch, and pull-start cord
-  all extended forward to the cockpit. See [auxiliary outboard power — a
-  transom-mounted petrol outboard, fuel stowage, and
-  trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[51]
-- **The "Whaleback" derivative resurfaces.** Revisited his own
-  Paradox-derivative design (see "His own designs and his Paradox build"
-  above) directly on the `paradoxbuilders` list, having found no interest
-  posting about it on the `microcruising` list, and invited discussion of
-  the many building problems his boat shares with Paradox — see the
-  `cruisenews.net/whaleback` design pages. The below-threshold,
-  unconfirmed-identity 2006 "Chris Curtis" (`ccurtis`/`joe_mapango`,
-  Sandpoint Computers — distinct from the established Sandpoint, Idaho
-  Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md))
-  answered with design questions (why Whaleback's sides are flatter than
-  Paradox's, and why he did not simply build a larger Paradox instead) and
-  used the exchange to confirm his own maxi-paradox plan in more
-  detail — see [stretched Paradox — a builder's 18-19 ft "maxi paradox,"
-  under
-  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[52][53]
-  A below-threshold correspondent, John Pertalion, also answered on the
-  design merits alone: liked extending the cabin out to the hull's sides for
-  easier building and maximized interior space, and, drawing the boat
-  himself, would increase the beam slightly, make the hull lines fuller at
-  the ends, and widen the transom — all to help the boat stand up to her rig
-  and sail better — before realizing from a second look that Paul was
-  already well into construction rather than still at the design stage.[54][55]
-  Paul declined to continue the design-change discussion on `paradoxbuilders`
-  itself, judging that construction-method questions belong there but that
-  design changes to Paradox belong on the `microcruising` list instead, and
-  said he would answer Chris Curtis and John there.[56]
+- **The "Build Book."** Paul maintained a public build-log folder in the group's files section, documenting only techniques he personally knew worked (drawing on past experience compiling build books at **S2 Yachts**), and considered retitling it "Paul's Build Book" to make that intent clear. [35]
+- **Deck-beam lamination.** He championed laminating deck beams from thin plywood and epoxy, defending the technique's stiffness against a doubt about plywood grain, and later tried **PL polyurethane adhesive** as an alternative — see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md). [35][37] His Build Book questions also cover bulkhead #3 side cleats and deck-beam dimensions/radius (see [hull assembly sequence](/construction/hull-assembly-sequence.md) and [deck and cabin beams](/construction/deck-and-cabin-beams.md)); [17][18] bulkhead side curves and metric-vs-imperial measuring (see [panel layout and nesting](/construction/panel-layout.md)); [24][25][26][27][28] and chine-log notching and in-place lamination (see [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)). [29][30][31][32]
+- **The documented build-sequence request.** His question about a documented Paradox building sequence beyond the plans turned up Don Elliott's paid 16-part "Building Paradox" series and a spare plans CD from [Charles Wilson](/people/charles-wilson.md) — see [hull assembly sequence](/construction/hull-assembly-sequence.md). [3][4][5]
+- **Moderation.** He proposed requiring moderator approval of new members to stop a run of bare-link spam, then volunteered — alongside [Dave Bolduc](/people/bolduc/dave.md) — as one of the co-moderators who made it possible to close the group to unapproved signups; see [Paradox builders mailing list](/references/mailing-list.md). [9][11][12][13][22]
+- **The vent baffle.** He questioned whether the transom's tiller-rope vent opening was necessary and whether it leaked, expressing reservations about the rope tiller as a primary steering system — see [transom deck plate and vent baffle](/construction/transom-deck-plate.md). [15][16][20][21]
+- **The Swamp Thing question.** His first recorded post asked what made [Swamp Thing](/matt-layden/swamp-thing.md) sail better than [Paradox](/paradox.md) or [Little Cruiser](/matt-layden/little-cruiser.md) (a keel? narrower beam? lighter displacement?), recalling her as "the one with oar holes on the sides." [1]
+- **Weight vs. displacement.** His question "How heavy is a fully loaded and ballasted Paradox? Maybe 1000 lbs?" opened the archive's fullest discussion of a boat's weight versus her displacement — see [weight, ballast, and displacement](/design/weight-and-ballast.md). [41][42]
+- **Scaling and chine runners.** Chine runners were, at the time, a relatively new and experimental concept, expected to work on larger sharpies with good rocker and ballast though not yet demonstrated at larger scale; four larger sharpie design sites were cited as reference points — see [Stretched Paradox](/design/variants/stretched-paradox.md). [44]
+- **The BRIS drinking-water trick.** Sven Yrvind's technique of channelling window condensation to a bottle for drinking water reached the list through Paul — see [cabin heating for cold-weather sailing](/operations/cabin-heating.md). [39]
+- **Everglades Challenge reporting.** He posted the archive's fullest real-time checkpoint updates for the 2003 race from the WaterTribe results site, including [Matt Layden](/matt-layden/biography.md) becoming the first competitor to reach Checkpoint 3 — see [the race in progress](/boats/original-paradox.md). Watching Paradox win, he remarked he had "never thought of the Paradox as a racing boat, more of a slow but steady cruiser," and wondered why no Hobie-cat catamarans had entered. [43][45][46][47]
+- **A solar-panel pointer.** A specific 5-watt solar panel (northerntool.com) was recommended as enough to maintain a battery but perhaps not to keep up with several days' daily use — see [Whisper](/boats/whisper.md). [48]
+- **A birdshot-and-epoxy ballast putty.** Proposed mixing lead birdshot into silica-thickened epoxy to a heavy putty, worked onto the chine runner by hand and shaped to a radius — or applied under the hull-bottom glass layup as a low ballast base coat — estimating 100-200 lb of lead achievable this way, with the remainder as pig lead or (to avoid skin contact) sandbags; see [chine runner construction — bronze versus steel plate, and lead birdshot as a lower-tech casting alternative](/chine-runners/construction.md#lower-tech-casting-lead-birdshot-in-epoxy). [49]
+- **A design-lineage correction, and his own chine-runner sharpie.** Answering a newcomer's guess that Paradox and Little Cruiser carry a lot of Phil Bolger's sharpie philosophy, he judged it was **Ted Monroe's sharpie work**, more than Bolger's, that actually inspired Paradox. By 2006 he was building a stitch-and-glue sharpie of his own design fitted with chine runners, directly inspired by Matt Layden's boats; having tried out some of his own ideas, he judged that following the plans is the surer route to a boat that is known to work well, while designing one's own boat suits a builder who has already built a few and wants to experiment. [50]
+- **A transom outboard-bracket-box idea.** On the recurring side/transom outboard-mount question, proposed an open-topped bracket box built onto the transom, sized to hold a 2-gallon fuel jug, with the outboard clamped to the box's aft edge and its throttle, kill switch, and pull-start cord all extended forward to the cockpit. See [auxiliary outboard power — a transom-mounted petrol outboard, fuel stowage, and trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[51]
+- **The "Whaleback" derivative resurfaces.** Revisited his own Paradox-derivative design (see "His own designs and his Paradox build" above) directly on the `paradoxbuilders` list, having found no interest posting about it on the `microcruising` list, and invited discussion of the many building problems his boat shares with Paradox — see the `cruisenews.net/whaleback` design pages. The below-threshold, unconfirmed-identity 2006 "Chris Curtis" (`ccurtis`/`joe_mapango`, Sandpoint Computers — distinct from the established Sandpoint, Idaho Chris Curtis of [boats/curtis-paradox.md](/boats/curtis-paradox.md)) answered with design questions (why Whaleback's sides are flatter than Paradox's, and why he did not simply build a larger Paradox instead) and used the exchange to confirm his own maxi-paradox plan in more detail — see [stretched Paradox — a builder's 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[52][53] A below-threshold correspondent also answered on the design merits alone: liked extending the cabin out to the hull's sides for easier building and maximized interior space, and, drawing the boat himself, would increase the beam slightly, make the hull lines fuller at the ends, and widen the transom — all to help the boat stand up to her rig and sail better — before realizing from a second look that Paul was already well into construction rather than still at the design stage.[54][55] Paul declined to continue the design-change discussion on `paradoxbuilders` itself, judging that construction-method questions belong there but that design changes to Paradox belong on the `microcruising` list instead, and said he would answer the other correspondents there.[56]
 
 ## Milestones
 
-His 6 January 2003 progress update ("gearing up to start cutting out
-bulkheads… epoxy mixing weather is just a few months away!") is the archive's
-first message dated 2003. [40] A thank-you note for a morale-boosting
-"Building encouragement" trip report [38], sent while his woodburner "tries to
-heat my frozen workshop," is a vivid data point on his cold-climate build
-conditions.
+His 6 January 2003 progress update ("gearing up to start cutting out bulkheads… epoxy mixing weather is just a few months away!") is the archive's first message dated 2003. [40] A thank-you note for a morale-boosting "Building encouragement" trip report [38], sent while his woodburner "tries to heat my frozen workshop," is a vivid data point on his cold-climate build conditions.
 
 # Citations
 

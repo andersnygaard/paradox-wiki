@@ -1,433 +1,118 @@
 ---
 type: Concept
 title: Hull planking ("getting the bottom on")
-description: How builders bend and fasten the plywood bottom and side panels onto the Paradox hull, the tradeoffs of stitch-and-glue as an alternative to the plans' single-sheet method, and Matt Layden's own explanation of why the plans specify hem-fir plywood.
+description: How builders bend and fasten the plywood bottom and side panels onto the Paradox hull, the tradeoffs of stitch-and-glue as an alternative to the plans' single-sheet method, and Matt Layden's explanation of why the plans specify hem-fir plywood.
 tags: [paradox, construction, hull, planking, plywood, technique, stitch-and-glue, matt-layden]
 timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Hull planking
 
-Fitting the [plywood bottom and side panels](/design/hull-scantlings.md) (18 mm
-bottom, 12 mm sides) onto the [Paradox](/paradox.md) is done by bending the
-single-thickness ply into place and drawing it down with fasteners — no
-lamination of thinner sheets is required.
+Fitting the [plywood bottom and side panels](/design/hull-scantlings.md) (18 mm bottom, 12 mm sides) onto the [Paradox](/paradox.md) is done by bending the single-thickness ply into place and drawing it down with fasteners — no lamination of thinner sheets is required.
 
 ## Sequence (Glen C. Maxwell's method)
 
-- **Bottom**: start at the **stern** and screw the panel down about **every
-  5 inches** with **sheetrock (drywall) screws**, working *up both sides a
-  little at a time*.
+- **Bottom**: start at the **stern** and screw the panel down about **every 5 inches** with **sheetrock (drywall) screws**, working *up both sides a little at a time*.
 - **Sides**: start **in the middle** and work **toward the ends**.
-- Tighten the fastener spacing where the panel curves most (e.g. the bottom)
-  and open it up where there is little bending — consistent with the plans'
-  40–70 mm nail-spacing range. See
-  [fastening and gluing](/construction/fastening-and-gluing.md).
+- Tighten the fastener spacing where the panel curves most (e.g. the bottom) and open it up where there is little bending — consistent with the plans' 40–70 mm nail-spacing range. See [fastening and gluing](/construction/fastening-and-gluing.md).
 
-Getting the bottom on this way "is not a problem," credited to [Don Elliott's
-building instructions](/references/building-the-paradox-articles.md).
+Getting the bottom on this way "is not a problem," per the [building-the-Paradox instructions](/references/building-the-paradox-articles.md).
 
 ## Fastener philosophy (temporary vs. permanent)
 
-The screws in the sequence above can be treated as **temporary clamps**,
-removed after the epoxy cures, or left as **permanent bronze ring nails** per
-the designer's plans. Builders remain divided on this — see
-[fastening and gluing](/construction/fastening-and-gluing.md) for both
-positions and the plans' own wording.
+The screws in the sequence above can be treated as **temporary clamps**, removed after the epoxy cures, or left as **permanent bronze ring nails** per the designer's plans. Builders remain divided on this — see [fastening and gluing](/construction/fastening-and-gluing.md) for both positions and the plans' own wording.
 
 ## Stitch-and-glue as an alternative construction method
 
-The sequence above bends a **single sheet** of plywood onto the hull. Builders
-using **stitch-and-glue** construction instead need bottom-panel dimensions
-suited to that method; the plans' side-panel dimensions already supported
-stitch-and-glue, but a matching bottom-panel dimension set was never worked
-out in the archive. See
-[Jeff Forrest](/people/jeff-forrest.md).
+The sequence above bends a **single sheet** of plywood onto the hull. Builders using **stitch-and-glue** construction instead need bottom-panel dimensions suited to that method; the plans' side-panel dimensions already supported stitch-and-glue, but a matching bottom-panel dimension set was never worked out in the archive.
 
-Whether stitch-and-glue is actually worth adopting for Paradox at all — as
-distinct from the bottom-panel dimension gap — remains an open question, with
-arguments on both sides.
+Whether stitch-and-glue is actually worth adopting for Paradox at all — as distinct from the bottom-panel dimension gap — remains an open question, with arguments on both sides.
 
-**Against:** stitch-and-glue would **not simplify** Paradox construction — the
-design needs real **chine logs** to carry the
-[chine runners](/chine-runners/construction.md), and the
-**weight savings** stitch-and-glue typically offers would actually work
-*against* the boat, since Paradox needs to be **heavily ballasted** to sit on
-her lines and resist sliding sideways upwind (see
-[weight, ballast, and displacement](/design/weight-and-ballast.md)).
+**Against:** stitch-and-glue would **not simplify** Paradox construction — the design needs real **chine logs** to carry the [chine runners](/chine-runners/construction.md), and the **weight savings** stitch-and-glue typically offers would actually work *against* the boat, since Paradox needs to be **heavily ballasted** to sit on her lines and resist sliding sideways upwind (see [weight, ballast, and displacement](/design/weight-and-ballast.md)).
 
-**For:** the benefits go beyond weight or chine-log avoidance — stitch-and-
-glue would greatly simplify **bulkhead construction** (much less framing, no
-precise beveling, looser part-fitting tolerances generally), with any weight
-loss easily made up in ballast. On the bending-difficulty question, **Sam
-Devlin**'s stitch-and-glue designs show that bending 1/2 in plywood is
-manageable — Paradox is "basically a box," simpler than many hulls already
-built this way — making it a construction technique "worth looking at ... it
-just has not been done yet."
+**For:** the benefits go beyond weight or chine-log avoidance — stitch-and-glue would greatly simplify **bulkhead construction** (much less framing, no precise beveling, looser part-fitting tolerances generally), with any weight loss easily made up in ballast. On the bending-difficulty question, **Sam Devlin**'s stitch-and-glue designs show that bending 1/2 in plywood is manageable — Paradox is "basically a box," simpler than many hulls already built this way — making it a construction technique "worth looking at ... it just has not been done yet."
 
-**A concrete stitch-and-glue build plan:** one builder worked out a full
-build using **3/8 in marine ply sides**, and a **bottom panel of two layers
-of 3/8 in ply** with a heavy glass-and-**Kevlar** layup — reasoning that few
-builders would cruise as hard as Matt Layden or the Bolducs, so a lighter
-scantling was acceptable, and that 3/8 in ply is about as strong as 1/2 in
-exterior ply, lasts longer, and bends to a fairer curve. **Shane Acton's
-"SHRIMPY"** — a plywood **Caprice**-class hull that sailed around the world
-with a skin only **5/16 in** thick, built near Cowes, England — served as
-precedent for thin-ply strength (the same SHRIMPY precedent later reassured a
-builder about an *unplanned* undersize-ply discovery on his secondhand boat;
-see
-[Help! — undersize side panels](/construction/undersize-side-panel-ply.md)).
-The **chine runners themselves act as an outer chine** (see
-[chine runner construction](/chine-runners/construction.md)), but
-on a wider (4 ft) stitch-and-glue bottom panel the chine runner needs to be
-fixed **outside, flush with the bottom**, then glassed over as in the
-standard plans, rather than let into an internal chine log.
+**A concrete stitch-and-glue build plan:** one builder worked out a full build using **3/8 in marine ply sides**, and a **bottom panel of two layers of 3/8 in ply** with a heavy glass-and-**Kevlar** layup — reasoning that few builders would cruise as hard as Matt Layden or the Bolducs, so a lighter scantling was acceptable, and that 3/8 in ply is about as strong as 1/2 in exterior ply, lasts longer, and bends to a fairer curve. **Shane Acton's "SHRIMPY"** — a plywood **Caprice**-class hull that sailed around the world with a skin only **5/16 in** thick, built near Cowes, England — served as precedent for thin-ply strength (the same SHRIMPY precedent later reassured a builder about an *unplanned* undersize-ply discovery on his secondhand boat; see [Help! — undersize side panels](/construction/undersize-side-panel-ply.md)). The **chine runners themselves act as an outer chine** (see [chine runner construction](/chine-runners/construction.md)), but on a wider (4 ft) stitch-and-glue bottom panel the chine runner needs to be fixed **outside, flush with the bottom**, then glassed over as in the standard plans, rather than let into an internal chine log.
 
-**Fillet radius:** citing Sam Devlin's published guidance (*Devlin's Boat
-Building*), the sizing rule is: hull fillet depth should equal the
-**thickness of the thickest plywood piece** being joined, and should extend
-outward from the joint's centerline **1.5 to 2 times that thickness** —
-wider still depending on the joint's angle. This is somewhat more
-conservative than the "twice thickness" rule of thumb sometimes quoted
-elsewhere.
+**Fillet radius:** per the published guidance in *Devlin's Boat Building*, the sizing rule is: hull fillet depth should equal the **thickness of the thickest plywood piece** being joined, and should extend outward from the joint's centerline **1.5 to 2 times that thickness** — wider still depending on the joint's angle. This is somewhat more conservative than the "twice thickness" rule of thumb sometimes quoted elsewhere.
 
-No consensus has emerged on whether stitch-and-glue is worth adopting for
-Paradox — the chine-log/ballast-vs-weight-savings objection stands against
-the simplification argument and the independent, already-underway
-thinner-ply/Kevlar build plan.
+No consensus has emerged on whether stitch-and-glue is worth adopting for Paradox — the chine-log/ballast-vs-weight-savings objection stands against the simplification argument and the independent, already-underway thinner-ply/Kevlar build plan.
 
-A related but distinct alternative-technique question — **taped-seam**
-construction rather than stitch-and-glue — is treated in detail at
-[chine log vs. taped-seam construction](/construction/chine-log-vs-taped-seam.md),
-which reaches a similar conclusion (the plans' method suits Paradox's weight
-and chine-runner needs) from a build-sequence/ease angle rather than the
-weight/ballast angle above.
+A related but distinct alternative-technique question — **taped-seam** construction rather than stitch-and-glue — is treated in detail at [chine log vs. taped-seam construction](/construction/chine-log-vs-taped-seam.md), which reaches a similar conclusion (the plans' method suits Paradox's weight and chine-runner needs) from a build-sequence/ease angle rather than the weight/ballast angle above.
 
 ## Kevlar vs. fiberglass cost
 
-Kevlar's retail price runs roughly 4x fiberglass cloth by the yard — a
-practical cost consideration for anyone following the Kevlar bottom plan
-above. Scrounging Kevlar offcuts from a professional race-boat yard is a
-cheaper alternative to buying it retail. See
-[epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md)
-for more.
+Kevlar's retail price runs roughly 4x fiberglass cloth by the yard — a practical cost consideration for anyone following the Kevlar bottom plan above. Scrounging Kevlar offcuts from a professional race-boat yard is a cheaper alternative to buying it retail. See [epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md) for more.
 
 ## Bottom construction confirmed by the Bolduc rebuilds (microcruising.com)
 
-Repairing **Enigma** after a collision hole,
-[David & Mindy Bolduc](/people/bolduc/dave.md) confirmed that the
-Enigma/Paradox-family hull was **originally glassed on the outside in 2
-layers of ~3.25 oz tight-weave cloth**; Dave deliberately added a **3rd
-layer** to his patch as sanding allowance, reasoning "since Matt used 2
-layers of this style of cloth in the original construction, I figured the
-extra layer of glass would give me something to sand into later."
+Repairs to **Enigma** after a collision hole confirmed that the Enigma/Paradox-family hull was **originally glassed on the outside in 2 layers of ~3.25 oz tight-weave cloth**; the repair patch deliberately added a **3rd layer** as sanding allowance, on the reasoning that "since Matt used 2 layers of this style of cloth in the original construction, I figured the extra layer of glass would give me something to sand into later."
 
-On [Swamp Thing](/matt-layden/swamp-thing.md)'s 2005-2008 rebuild, the
-**entire bottom was removed** due to extensive dry rot and replaced with new
-**½" A/C-grade plywood**, glued down with epoxy thickened with **cabosil**
-and fastened with **bronze ring nails** through **holes pre-drilled
-precisely to simplify nailing**. As on the plans' method (see
-[fastening and gluing](/construction/fastening-and-gluing.md)), the
-**chine runners were installed only after the bottom panel was fitted and
-trimmed** — confirmed directly in the rebuild's photo captions: "the bottom
-[is] in place, next step will be to install the chine runners." See
-[chine runner construction](/chine-runners/construction.md) for
-more on this sequencing.
+On [Swamp Thing](/matt-layden/swamp-thing.md)'s 2005-2008 rebuild, the **entire bottom was removed** due to extensive dry rot and replaced with new **½" A/C-grade plywood**, glued down with epoxy thickened with **cabosil** and fastened with **bronze ring nails** through **holes pre-drilled precisely to simplify nailing**. As on the plans' method (see [fastening and gluing](/construction/fastening-and-gluing.md)), the **chine runners were installed only after the bottom panel was fitted and trimmed** — confirmed directly in the rebuild's photo captions: "the bottom [is] in place, next step will be to install the chine runners." See [chine runner construction](/chine-runners/construction.md) for more on this sequencing.
 
 ## The case for a second layer of cloth
 
-The plans' original glassing schedule (two layers of ~3.25 oz cloth
-outside, see [bottom construction](#bottom-construction-confirmed-by-the-bolduc-rebuilds-microcruisingcom)
-above) raises the question of whether adding a **second layer of 6 oz cloth**
-to the sides and top is worth the extra epoxy and labor, and how much
-strength gain it would actually buy. [13]
+The plans' original glassing schedule (two layers of ~3.25 oz cloth outside, see [bottom construction](#bottom-construction-confirmed-by-the-bolduc-rebuilds-microcruisingcom) above) raises the question of whether adding a **second layer of 6 oz cloth** to the sides and top is worth the extra epoxy and labor, and how much strength gain it would actually buy. [13]
 
-The wider Sven Yrvind flexible-sandwich comparison this draws is covered in
-full at [the "BRIS Paradox" — why Yrvind specified a flexible, not rigid,
-sandwich](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich):
-in short, glassing the **inside** as well as the outside adds real strength
-(an I-beam effect, with the glass layers as flanges and the plywood as the
-spacing web), but a second **outside** layer mainly buys abrasion resistance;
-hull rigidity is not considered a problem for the plywood Paradox in the first
-place.
+The wider Sven Yrvind flexible-sandwich comparison this draws is covered in full at [the "BRIS Paradox" — why Yrvind specified a flexible, not rigid, sandwich](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich): in short, glassing the **inside** as well as the outside adds real strength (an I-beam effect, with the glass layers as flanges and the plywood as the spacing web), but a second **outside** layer mainly buys abrasion resistance; hull rigidity is not considered a problem for the plywood Paradox in the first place.
 
-On the underlying "is Paradox strong enough" question, the design **as
-drawn is already robust**, its scantlings well-matched to the specified
-materials and techniques, and no reasonable amount of real-world abuse —
-certainly nothing short of a deliberate test to destruction — should trouble
-a properly built hull. Plywood is inexpensive enough (a full set of Okoume
-BS-1088 marine ply for the whole boat has run **$766**, with marine or
-exterior fir plywood options costing progressively less) that
-"over-strengthening" an already sound design solves a problem that does not
-exist, raising the question "how strong is too strong, and at what price?"
-As installation evidence that the design goes together as intended,
-as-specified sheer clamps and solid, single-piece chine logs have gone in
-"without too much trouble," clamped from stem to stern and driven stern to
-stem with the aid of a deadblow mallet. A comparable case from outside
-Paradox: a successful A-class catamaran designer stuck with foam-core
-glass/epoxy and targeted carbon reinforcement rather than switching to a
-fully foam-cored carbon/Kevlar layup like his competitors, since his boats
-were already winning undamaged and without needing extra ballast to meet
-class minimum weight — the same logic applies to Paradox's design
-displacement. [14]
+On the underlying "is Paradox strong enough" question, the design **as drawn is already robust**, its scantlings well-matched to the specified materials and techniques, and no reasonable amount of real-world abuse — certainly nothing short of a deliberate test to destruction — should trouble a properly built hull. Plywood is inexpensive enough (a full set of Okoume BS-1088 marine ply for the whole boat has run **$766**, with marine or exterior fir plywood options costing progressively less) that "over-strengthening" an already sound design solves a problem that does not exist, raising the question "how strong is too strong, and at what price?" As installation evidence that the design goes together as intended, as-specified sheer clamps and solid, single-piece chine logs have gone in "without too much trouble," clamped from stem to stern and driven stern to stem with the aid of a deadblow mallet. A comparable case from outside Paradox: a successful A-class catamaran designer stuck with foam-core glass/epoxy and targeted carbon reinforcement rather than switching to a fully foam-cored carbon/Kevlar layup like his competitors, since his boats were already winning undamaged and without needing extra ballast to meet class minimum weight — the same logic applies to Paradox's design displacement. [14]
 
-A concrete case study of the tradeoff comes from "[Whisper](/boats/whisper.md)":
-her sides were originally built with **1/4 in plywood** rather than the
-plans' specified 1/2 in (see [hull scantlings](/design/hull-scantlings.md)),
-so during a second interior refit (see
-[epoxy pre-coating technique](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint))
-a second 1/4 in layer was added to bring her up to spec — leaving her sides
-as a sandwich of **1/4 in ply, 6 oz glass and epoxy, a second 1/4 in ply
-layer, glass, and epoxy**, expected to be strong, and likely stronger than
-designed provided the original ply was sound and the lamination introduced
-no voids. This closes the loop with the earlier, separately discovered
-**6 mm-undersize-side-panel** episode (see
-[Help! — undersize side panels](/construction/undersize-side-panel-ply.md)):
-"Whisper" was under-spec in more than one place across her build history,
-corrected by building each shortfall back up to spec rather than relying on
-the "it'll probably be fine" precedent (SHRIMPY, etc.) alone. [15]
+A concrete case study of the tradeoff comes from "[Whisper](/boats/whisper.md)": her sides were originally built with **1/4 in plywood** rather than the plans' specified 1/2 in (see [hull scantlings](/design/hull-scantlings.md)), so during a second interior refit (see [epoxy pre-coating technique](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint)) a second 1/4 in layer was added to bring her up to spec — leaving her sides as a sandwich of **1/4 in ply, 6 oz glass and epoxy, a second 1/4 in ply layer, glass, and epoxy**, expected to be strong, and likely stronger than designed provided the original ply was sound and the lamination introduced no voids. This closes the loop with the earlier, separately discovered **6 mm-undersize-side-panel** episode (see [Help! — undersize side panels](/construction/undersize-side-panel-ply.md)): "Whisper" was under-spec in more than one place across her build history, corrected by building each shortfall back up to spec rather than relying on the "it'll probably be fine" precedent (SHRIMPY, etc.) alone. [15]
 
-This case — bringing an owner's already-underbuilt boat up to spec — is
-distinct from building a **new** boat from scratch, where the better practice
-is to stick to the design specifications rather than add cloth or Kevlar
-layers "just because." Pushed to its logical end, that kind of open-ended
-strengthening becomes absurd — five layers of 6 oz cloth, 18 oz cloth,
-Kevlar on the interior, a full stainless-steel bottom shoe — at a cost that
-outweighs any real-world benefit. The same designer-fidelity logic extends to
-**material substitution**: the Paradox design is fundamentally suited to
-aluminum construction, but a boat built to Paradox's lines in a different
-material than the plans specify could only still be called a "Paradox" if
-Matt Layden himself modified his own design for it — otherwise, changing the
-material is no different from dropping a small-block Chevy into a Jaguar: a
-different, lesser thing wearing the original's badge, reflected in resale
-values that track the donor parts rather than the original marque. [16]
+This case — bringing an owner's already-underbuilt boat up to spec — is distinct from building a **new** boat from scratch, where the better practice is to stick to the design specifications rather than add cloth or Kevlar layers "just because." Pushed to its logical end, that kind of open-ended strengthening becomes absurd — five layers of 6 oz cloth, 18 oz cloth, Kevlar on the interior, a full stainless-steel bottom shoe — at a cost that outweighs any real-world benefit. The same designer-fidelity logic extends to **material substitution**: the Paradox design is fundamentally suited to aluminum construction, but a boat built to Paradox's lines in a different material than the plans specify could only still be called a "Paradox" if Matt Layden himself modified his own design for it — otherwise, changing the material is no different from dropping a small-block Chevy into a Jaguar: a different, lesser thing wearing the original's badge, reflected in resale values that track the donor parts rather than the original marque. [16]
 
-A further data point on adequate scantlings: **Shane Acton's "SHRIMPY,"** an
-18 ft 6 in circumnavigator built, uncoated and painted only, with a **5/16
-in** ply skin (a larger 21 ft sister design used 3/8 in), suggests Paradox's
-actual 3/8 in-equivalent sides are already more than adequate — the 1 in
-bottom being the only panel considered justifiably heavy, for absorbing reef
-and coral strikes. The practical takeaway for any builder: buy the best
-plywood affordable, since the price gap between exterior and good mid-range
-marine ply is trivial against the finished boat's service life, finish, and
-resale value. [17]
+A further data point on adequate scantlings: **Shane Acton's "SHRIMPY,"** an 18 ft 6 in circumnavigator built, uncoated and painted only, with a **5/16 in** ply skin (a larger 21 ft sister design used 3/8 in), suggests Paradox's actual 3/8 in-equivalent sides are already more than adequate — the 1 in bottom being the only panel considered justifiably heavy, for absorbing reef and coral strikes. The practical takeaway for any builder: buy the best plywood affordable, since the price gap between exterior and good mid-range marine ply is trivial against the finished boat's service life, finish, and resale value. [17]
 
-Builders are drawn to Paradox, as to a BRIS-method build, for more than
-merely wanting to sail, for which many cheap off-the-shelf boats would
-serve — a "deeper" or "wider" interest in the underlying mechanics,
-materials, and design philosophy, with both [Matt Layden](/matt-layden/biography.md)
-and **Sven Yrvind** free-thinking, unpretentious "amateurs" in the word's
-original sense, who publish their designs as open solutions to a problem
-rather than claim intellectual property or demand obedience. On the strength
-question itself, an extra layer of cloth would not add noticeable stiffness
-but would increase **abrasion resistance** — the reasoning behind adding a
-steel sheet to a BRIS-built bottom for beaching directly on rocks; Yrvind's
-own last "Bris" (since sold) carried more than 20 bottom layers for the same
-reason. [18]
+Builders are drawn to Paradox, as to a BRIS-method build, for more than merely wanting to sail, for which many cheap off-the-shelf boats would serve — a "deeper" or "wider" interest in the underlying mechanics, materials, and design philosophy, with both [Matt Layden](/matt-layden/biography.md) and **Sven Yrvind** free-thinking, unpretentious "amateurs" in the word's original sense, who publish their designs as open solutions to a problem rather than claim intellectual property or demand obedience. On the strength question itself, an extra layer of cloth would not add noticeable stiffness but would increase **abrasion resistance** — the reasoning behind adding a steel sheet to a BRIS-built bottom for beaching directly on rocks; Yrvind's own last "Bris" (since sold) carried more than 20 bottom layers for the same reason. [18]
 
-Building your own boat means being free to accept the consequences of one's
-own scantling and construction-method choices, without bias against foam
-sandwich, aluminum, or any other material — "good boats are made from many
-materials and different people have different skills and resources." **16 mm
-ply sides and bottom** on [Aussie Paradox](/boats/aussie-paradox.md) reflect
-that reasoning; Shane Acton circumnavigated in a 9 mm ply boat but was lucky
-not to lose "Shrimpy" on either of her two recorded shipwrecks. [19]
+Building your own boat means being free to accept the consequences of one's own scantling and construction-method choices, without bias against foam sandwich, aluminum, or any other material — "good boats are made from many materials and different people have different skills and resources." **16 mm ply sides and bottom** on [Aussie Paradox](/boats/aussie-paradox.md) reflect that reasoning; Shane Acton circumnavigated in a 9 mm ply boat but was lucky not to lose "Shrimpy" on either of her two recorded shipwrecks. [19]
 
-The "how strong is too strong" question is illustrated by a firsthand racing
-story from crewing a Gold Coast Yachts-built 34 ft trimaran, "Hatter" (1,900
-lb), in the Around St. Croix Race, trying to beat the boat's own 5 hr 25 min
-record over an 80-mile course. Running downwind under spinnaker in 20-knot
-winds, a gust pushed the boat to roughly 23 knots indicated, backwinding the
-chute into the mast before it refilled with enough force to scare the crew
-onto a reach. The real test came to windward: after slamming into one wave
-and bearing off to rebuild speed, "Hatter" caught the next wave and went
-fully airborne, with only the rudder and daggerboard tips left in the water,
-before landing hard enough to seem she might break apart. She "shook herself
-off and again took off" — proof, as her builder put it, that "I built her too
-heavy!" — and the crew went on to win the race, in 5 hr 30 min, without
-breaking the old record. It stands as a case study in overbuilding paying for
-itself exactly when a hull is pushed hardest, regardless of the extra
-weight's effect on straight-line performance. [20]
+The "how strong is too strong" question is illustrated by a firsthand racing story from crewing a Gold Coast Yachts-built 34 ft trimaran, "Hatter" (1,900 lb), in the Around St. Croix Race, trying to beat the boat's own 5 hr 25 min record over an 80-mile course. Running downwind under spinnaker in 20-knot winds, a gust pushed the boat to roughly 23 knots indicated, backwinding the chute into the mast before it refilled with enough force to scare the crew onto a reach. The real test came to windward: after slamming into one wave and bearing off to rebuild speed, "Hatter" caught the next wave and went fully airborne, with only the rudder and daggerboard tips left in the water, before landing hard enough to seem she might break apart. She "shook herself off and again took off" — proof, as her builder put it, that "I built her too heavy!" — and the crew went on to win the race, in 5 hr 30 min, without breaking the old record. It stands as a case study in overbuilding paying for itself exactly when a hull is pushed hardest, regardless of the extra weight's effect on straight-line performance. [20]
 
-A related strength question the "how strong is too strong" debate leaves
-unexamined is not the topsides taking a direct impact, but the extra strain
-that added hull weight throws onto the **rig and deck hardware** above the
-sheer line — a load Paradox's as-designed, already-overbuilt structure can
-readily absorb, but one that a light-displacement boat handles poorly, since
-the usual "fix" is to upsize the rigging rather than address the root cause
-of added weight. [21]
+A related strength question the "how strong is too strong" debate leaves unexamined is not the topsides taking a direct impact, but the extra strain that added hull weight throws onto the **rig and deck hardware** above the sheer line — a load Paradox's as-designed, already-overbuilt structure can readily absorb, but one that a light-displacement boat handles poorly, since the usual "fix" is to upsize the rigging rather than address the root cause of added weight. [21]
 
 ## Museums, materials, and the case for building to spec
 
-The designer-fidelity case has an analogy from outside boatbuilding: a
-maritime museum, or better yet an air-and-space museum, rewards a close look
-at old flying machines' rigging and structure — a lesson in the same
-"efficiency" balance a boat designer strikes between strength and weight. It
-is worth picturing an experimental-aircraft builder who substitutes
-electrical conduit for aircraft-grade alloy spars before substituting a
-cheaper or heavier material on a boat. Concretely on Paradox, the plans'
-**12 mm hull sides** are "not the least bit troublesome" to wrap around the
-bulkheads, a thinner **9 mm** would suffice for nearly any real-world
-situation, and the hull would go together just as readily in aluminum — but
-the boat was drawn for plywood, and building to the design's actual specified
-material is what matters. As a hands-on confidence-builder for anyone who
-doubts a small boat's strength, spending a winter building one of **Platt
-Monfort's Geodesic Aerolite** boats is recommended. [22]
+The designer-fidelity case has an analogy from outside boatbuilding: a maritime museum, or better yet an air-and-space museum, rewards a close look at old flying machines' rigging and structure — a lesson in the same "efficiency" balance a boat designer strikes between strength and weight. It is worth picturing an experimental-aircraft builder who substitutes electrical conduit for aircraft-grade alloy spars before substituting a cheaper or heavier material on a boat. Concretely on Paradox, the plans' **12 mm hull sides** are "not the least bit troublesome" to wrap around the bulkheads, a thinner **9 mm** would suffice for nearly any real-world situation, and the hull would go together just as readily in aluminum — but the boat was drawn for plywood, and building to the design's actual specified material is what matters. As a hands-on confidence-builder for anyone who doubts a small boat's strength, spending a winter building one of **Platt Monfort's Geodesic Aerolite** boats is recommended. [22]
 
-The underlying design-fidelity question has a sharper yacht-class analogy:
-the **Folkboat**, a successful, fast, weatherly, simple design, later saw a
-builder produce a fiberglass version so faithful in weight and geometry that
-the class association eventually accepted her — yet she was still arguably
-"not a true Folkboat." Later designs "inspired by" the original (the
-Marieholm, with an improved rig and sometimes a diesel auxiliary; the
-Contessa) pushed the drift further, prompting the question, "Can it be said
-that Tania Aebi circumnavigated aboard a Folkboat?" There is a line between
-varying from the plans, which is unobjectionable, and arguing the *design
-itself* needs to be changed for the "better," "stronger," or "more
-flexible" — a complaint comparable to criticizing a Westsail 32 for being too
-lightly built. Summed up: "The design is what it is. You can't improve it,
-you can only change it." [23]
+The underlying design-fidelity question has a sharper yacht-class analogy: the **Folkboat**, a successful, fast, weatherly, simple design, later saw a builder produce a fiberglass version so faithful in weight and geometry that the class association eventually accepted her — yet she was still arguably "not a true Folkboat." Later designs "inspired by" the original (the Marieholm, with an improved rig and sometimes a diesel auxiliary; the Contessa) pushed the drift further, prompting the question, "Can it be said that Tania Aebi circumnavigated aboard a Folkboat?" There is a line between varying from the plans, which is unobjectionable, and arguing the *design itself* needs to be changed for the "better," "stronger," or "more flexible" — a complaint comparable to criticizing a Westsail 32 for being too lightly built. Summed up: "The design is what it is. You can't improve it, you can only change it." [23]
 
-The counter-instinct — that a good design still rewards a builder's own
-tinkering — draws an analogy to the horseless carriage's early red-flag laws,
-which would have kept the automobile primitive forever had tinkerers been
-forbidden from improving on the original; Matt Layden himself is "a far
-sighted tinker" for having already done exactly that in creating Paradox. [24]
-The two positions are not fully reconciled — design-fidelity drawing the
-line at the design's core geometry and materials, the tinkering instinct at
-the builder's own discretion once underway — but both agree the finished
-design itself, as Matt Layden drew it, is sound.
+The counter-instinct — that a good design still rewards a builder's own tinkering — draws an analogy to the horseless carriage's early red-flag laws, which would have kept the automobile primitive forever had tinkerers been forbidden from improving on the original; Matt Layden himself is "a far sighted tinker" for having already done exactly that in creating Paradox. [24] The two positions are not fully reconciled — design-fidelity drawing the line at the design's core geometry and materials, the tinkering instinct at the builder's own discretion once underway — but both agree the finished design itself, as Matt Layden drew it, is sound.
 
 ## Matt Layden's own account of the scantling choice
 
-The recurring scantlings debate eventually drew an answer from
-**[Matt Layden](/matt-layden/biography.md)** himself, the Paradox's
-designer, in a rare direct list post explaining his reasoning.
+The recurring scantlings debate eventually drew a direct answer from **[Matt Layden](/matt-layden/biography.md)**, the Paradox's designer, explaining his reasoning.
 
-The plywood specification calls for cheap **hem-fir**, chosen not only for
-low cost but because it is a **renewable resource** grown on fast-rotation
-farms. Hem-fir is fairly low-density, so a **thicker panel** can be used
-without a weight penalty — the **3-ply, 3/8 in hem-fir** grade is the
-worst of the lot, which is why Matt avoids it below the waterline and
-specifies **1/2 in sides** instead.
+The plywood specification calls for cheap **hem-fir**, chosen not only for low cost but because it is a **renewable resource** grown on fast-rotation farms. Hem-fir is fairly low-density, so a **thicker panel** can be used without a weight penalty — the **3-ply, 3/8 in hem-fir** grade is the worst of the lot, which is why Matt avoids it below the waterline and specifies **1/2 in sides** instead.
 
-Builders who prefer "better" materials — generally meaning irreplaceable
-old-growth tropical hardwood plywood — can shave **1/8 in (3 mm)** off the
-side planking without hurting Matt's feelings, though he does not see it as
-a real improvement except to the bottom line: the weight saved is about
-**20 lb**, a lot on a canoe or racing dinghy but minor on a **1,400 lb,
-5-knot cruiser**. Thinner ply also bends more easily around the frames
-during setup — meaning it may need *extra* temporary bracing to hold the
-hull's shape until the bottom goes on — and saves no appreciable
-construction time, since every part still has to be laid out, cut, dressed,
-installed, and finished regardless of thickness.
+Builders who prefer "better" materials — generally meaning irreplaceable old-growth tropical hardwood plywood — can shave **1/8 in (3 mm)** off the side planking without hurting Matt's feelings, though he does not see it as a real improvement except to the bottom line: the weight saved is about **20 lb**, a lot on a canoe or racing dinghy but minor on a **1,400 lb, 5-knot cruiser**. Thinner ply also bends more easily around the frames during setup — meaning it may need *extra* temporary bracing to hold the hull's shape until the bottom goes on — and saves no appreciable construction time, since every part still has to be laid out, cut, dressed, installed, and finished regardless of thickness.
 
-As evidence for the specified hem-fir's durability, Matt offered the
-original Paradox's own service record: **ten years old**, roughly two-thirds
-of that time afloat and the rest ashore, uncovered, in the Florida sun and
-rain. In that decade, her topsides and decks had been repainted twice, her
-bottom once, and her interior partially once — otherwise she had needed
-almost no maintenance, and remained in "perfect shape barring some
-scratched paint." Matt allowed he would be glad if she were made of a
-more rot-resistant plywood, "but she's not and she's doing fine."
+As evidence for the specified hem-fir's durability, the original Paradox's own service record stands: **ten years old**, roughly two-thirds of that time afloat and the rest ashore, uncovered, in the Florida sun and rain. In that decade, her topsides and decks had been repainted twice, her bottom once, and her interior partially once — otherwise she had needed almost no maintenance, and remained in "perfect shape barring some scratched paint." Matt allowed he would be glad if she were made of a more rot-resistant plywood, "but she's not and she's doing fine."
 
-On alternative materials generally — cored composite, aluminum, steel,
-thermoplastic sheet — Matt's view was that a builder is free to research,
-work out scantlings, or hire an engineer and go for it; any of them can be
-made to work if intelligently engineered. But he doubted any would beat
-"good old 20th century plywood" on the *combination* that matters: economy,
-ease of construction, ease and cost of maintenance and repair, sailing
-performance, interior comfort, and life-cycle environmental impact. The
-boat, he noted, was designed from the outset to be built quickly and
-economically from sheet materials. [25]
+On alternative materials generally — cored composite, aluminum, steel, thermoplastic sheet — a builder is free to research, work out scantlings, or hire an engineer and go for it; any of them can be made to work if intelligently engineered. But none is likely to beat "good old 20th century plywood" on the *combination* that matters: economy, ease of construction, ease and cost of maintenance and repair, sailing performance, interior comfort, and life-cycle environmental impact. The boat was designed from the outset to be built quickly and economically from sheet materials. [25]
 
-Matt's explanation settled the recurring scantlings debate on the list,
-welcomed as a clear statement of the "eco materials" reasoning behind the
-plans. [26][27]
+Matt's explanation settled the recurring scantlings debate on the list, welcomed as a clear statement of the "eco materials" reasoning behind the plans. [26][27]
 
 ## Woven roving versus biaxial cloth: what the laminating schedule is for
 
-A roll of **45x45, 12 oz biaxial cloth** (no mat backing) can substitute for
-the specified woven roving: two layers of the 12 oz biax with a 90-degree 4
-oz layer between them reach the same roughly 4mm total glass thickness the
-plans call for via **3 layers of 24 oz woven roving**, or 3 layers of 2 oz
-mat plus one layer of 24 oz roving, and biax is both stronger and less
-epoxy-hungry than woven roving.
+A roll of **45x45, 12 oz biaxial cloth** (no mat backing) can substitute for the specified woven roving: two layers of the 12 oz biax with a 90-degree 4 oz layer between them reach the same roughly 4mm total glass thickness the plans call for via **3 layers of 24 oz woven roving**, or 3 layers of 2 oz mat plus one layer of 24 oz roving, and biax is both stronger and less epoxy-hungry than woven roving.
 
-The schedule's purpose is **abrasion resistance**, not raw strength: the
-stressed **18mm plywood bottom is already strong "on its own right,"** so
-the specified roving-heavy layup is likely driven more by economy than by
-any structural necessity. Spare biax works fine as a substitute, still
-aiming for a 4mm total buildup, and most builders could get away with less
-glass regardless. **Mat** is not compatible with epoxy at all.
+The schedule's purpose is **abrasion resistance**, not raw strength: the stressed **18mm plywood bottom is already strong "on its own right,"** so the specified roving-heavy layup is likely driven more by economy than by any structural necessity. Spare biax works fine as a substitute, still aiming for a 4mm total buildup, and most builders could get away with less glass regardless. **Mat** is not compatible with epoxy at all.
 
-A later newcomer's more basic version of the same question — why choose one
-fabric over the other at all — drew a fuller technical explanation of the
-two fabrics' handling and strength tradeoffs (weave structure, resin uptake,
-CSM compatibility with epoxy versus polyester/vinylester); see [building
-plans — the 12 oz biaxial-versus-woven-roving question,
-continued](/references/building-plans.md#the-12-oz-biaxial-versus-woven-roving-question-continued-a-professionals-fuller-explanation)
-for the full answer.
+A later newcomer's more basic version of the same question — why choose one fabric over the other at all — drew a fuller technical explanation of the two fabrics' handling and strength tradeoffs (weave structure, resin uptake, CSM compatibility with epoxy versus polyester/vinylester); see [building plans — the 12 oz biaxial-versus-woven-roving question, continued](/references/building-plans.md#the-12-oz-biaxial-versus-woven-roving-question-continued-a-professionals-fuller-explanation) for the full answer.
 
 ## The plans' bottom and topside glass weights, explained to a UK builder
 
-The Paradox plans' own laminating schedule (see [epoxy pre-coating technique
-— a builder's own polyester-to-epoxy conversion](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder)
-for the fuller thread) calls for **3 layers of 24 oz woven roving on the
-bottom** and **6-7.5 oz E-glass on the topsides**. The heavy bottom roving
-schedule gives **tremendous abrasion resistance** but is thirsty for epoxy;
-a builder wanting to reduce the bottom layup could get away with a **single
-layer**, understanding that the boat then tolerates less bottom pounding.
+The Paradox plans' own laminating schedule (see [epoxy pre-coating technique — a builder's own polyester-to-epoxy conversion](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder) for the fuller thread) calls for **3 layers of 24 oz woven roving on the bottom** and **6-7.5 oz E-glass on the topsides**. The heavy bottom roving schedule gives **tremendous abrasion resistance** but is thirsty for epoxy; a builder wanting to reduce the bottom layup could get away with a **single layer**, understanding that the boat then tolerates less bottom pounding.
 
-**[Dave Bolduc](/people/bolduc/dave.md)**'s own practice goes further than
-the stock schedule on both his Paradox-family boats. He does **not** rely on
-an unreinforced epoxy coat on the topsides, having found through experience
-that epoxy alone is insufficient to prevent **checking in fir plywood** —
-the reason both [Little Cruiser](/matt-layden/little-cruiser.md) and [Swamp
-Thing](/matt-layden/swamp-thing.md) are being fully fiberglassed, at 4 oz
-glass on the topsides for both boats. Little Cruiser's bottom additionally
-gets a layer of **5 oz Kevlar** under a layer of **10 oz glass**; informal
-testing showed the kevlar/glass combination wears remarkably well, though
-its cost (even at a discounted "seconds" price) left the choice open of
-whether to fit it to Swamp Thing as well, or use several layers of 10 oz
-glass there instead. Little Cruiser's rudder blade and centerboard already
-carry 6 oz S-glass plus up to two layers of 1.7 oz Kevlar and a layer of 4
-oz glass on their leading edges, with Swamp Thing's rudder blade planned to
-match; a further, harder option for a rudder's leading edge is a **bronze
-rod**, as Matt Layden has done on his own boat — "absolutely
-bombproof."[30][31]
+Field practice on the Paradox-family boats goes further than the stock schedule on both. An unreinforced epoxy coat is **not** relied on for the topsides, experience having shown that epoxy alone is insufficient to prevent **checking in fir plywood** — the reason both [Little Cruiser](/matt-layden/little-cruiser.md) and [Swamp Thing](/matt-layden/swamp-thing.md) are being fully fiberglassed, at 4 oz glass on the topsides for both boats. Little Cruiser's bottom additionally gets a layer of **5 oz Kevlar** under a layer of **10 oz glass**; informal testing showed the kevlar/glass combination wears remarkably well, though its cost (even at a discounted "seconds" price) left the choice open of whether to fit it to Swamp Thing as well, or use several layers of 10 oz glass there instead. Little Cruiser's rudder blade and centerboard already carry 6 oz S-glass plus up to two layers of 1.7 oz Kevlar and a layer of 4 oz glass on their leading edges, with Swamp Thing's rudder blade planned to match; a further, harder option for a rudder's leading edge is a **bronze rod**, as Matt Layden has done on his own boat — "absolutely bombproof."[30][31]
 
-For a builder working with **Far Eastern exterior-grade** plywood rather
-than fir, the same fir-specific checking problem does not necessarily apply,
-but the recommendation holds regardless: **4 oz glass on the topsides**
-regardless of ply species (nothing lighter, since it sands through too
-easily), and **several layers of 10 oz glass or woven roving on the
-bottom**. Kevlar is normally buried under a layer of ordinary fiberglass
-rather than left exposed, since a nicked, unsanded Kevlar surface goes
-"fuzzy." A boat deliberately grounded often, in canal- and liveaboard-style
-cruising, is a case where bottom abrasion resistance is not an area to skimp
-on. See [epoxy pre-coating technique — cloth-weight, canal-abrasion, and
-cloth-only-versus-glassed-topsides questions from a UK
-builder](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder)
-for the fuller exchange, including a home abrasion test proving the
-Kevlar/glass combination's wear resistance, and the view that plain E-glass
-is already abrasion-resistant enough for a trailered, lake-and-river
-Paradox. The Kevlar supplier used for these builds also supplied
-fiberglass, graphite, epoxy, nitrile gloves, and stirring sticks.[32][33]
+For a builder working with **Far Eastern exterior-grade** plywood rather than fir, the same fir-specific checking problem does not necessarily apply, but the recommendation holds regardless: **4 oz glass on the topsides** regardless of ply species (nothing lighter, since it sands through too easily), and **several layers of 10 oz glass or woven roving on the bottom**. Kevlar is normally buried under a layer of ordinary fiberglass rather than left exposed, since a nicked, unsanded Kevlar surface goes "fuzzy." A boat deliberately grounded often, in canal- and liveaboard-style cruising, is a case where bottom abrasion resistance is not an area to skimp on. See [epoxy pre-coating technique — cloth-weight, canal-abrasion, and cloth-only-versus-glassed-topsides questions from a UK builder](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder) for the fuller exchange, including a home abrasion test proving the Kevlar/glass combination's wear resistance, and the view that plain E-glass is already abrasion-resistant enough for a trailered, lake-and-river Paradox. The Kevlar supplier used for these builds also supplied fiberglass, graphite, epoxy, nitrile gloves, and stirring sticks.[32][33]
 
 ## Rudder ballast without a lead casting
 
-A separate rudder-ballast method surfaced in the same "Robust construction"
-thread, prompted by [Kjell Karlsson](/people/kjell-karlsson.md) wondering
-aloud whether the rudder's [lead
-ballast](/design/rudder.md) could be dropped in favor of a bungee cord
-running from the tiller to the rudder's leading edge, both to hold the
-blade down and to help pull it back to vertical past a critical angle —
-see [rudder and chine experiments — rudder ballast without a lead
-casting](/design/rudder.md#rudder-ballast-without-a-lead-casting) for
-[Glen Maxwell](/people/glen-maxwell.md)'s and
-[Alastair](/people/alastair.md)'s answers, including Glen's own **lead-shot-in-epoxy**
-alternative to a hot-lead casting.
+A separate rudder-ballast method surfaced in the same "Robust construction" thread: whether the rudder's [lead ballast](/design/rudder.md) could be dropped in favor of a bungee cord running from the tiller to the rudder's leading edge, both to hold the blade down and to help pull it back to vertical past a critical angle — see [rudder and chine experiments — rudder ballast without a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting) for the answers, including a **lead-shot-in-epoxy** alternative to a hot-lead casting.
 
 # Citations
 

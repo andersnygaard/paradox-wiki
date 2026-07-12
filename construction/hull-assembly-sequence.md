@@ -8,465 +8,129 @@ timestamp: 2026-07-05T00:00:00Z
 
 # Hull assembly sequence
 
-Once a builder has finished cutting and standing up the
-[bulkheads](/construction/panel-layout.md), the next stage is pulling the hull
-itself together. [Don Elliott](/people/don-elliott.md) laid out the
-recommended method for this stage in his "Building the Paradox" articles.
+Once a builder has finished cutting and standing up the [bulkheads](/construction/panel-layout.md), the next stage is pulling the hull itself together. The recommended method for this stage is laid out in the "Building the Paradox" articles.
 
 ## Recommended order
 
 1. **Make the stem** first.
-2. **Make the tank top and floor** — build the floor "doors" as **one big
-   piece for now** and cut them to their final divided form later. Put these
-   in position: doing so early **helps align the hull itself**.
-3. **Pull the side panels to the stem.** This requires real force, since the
-   panels must bend into shape. Don's trick: make a **hot, wet blanket** and
-   wrap it around the panels for a while — the heat and moisture make the
-   plywood noticeably easier to pull into its curved shape.
-4. **Dry-fit repeatedly.** Expect to **assemble the hull two or three times
-   with no glue** ("tack" only) in order to bevel the mating edges and get
-   everything sitting correctly before committing to epoxy.
-5. **Trace for the insulation.** While the hull is temporarily assembled,
-   **mark around the bulkheads and other members in pencil**. These outlines
-   are then used to **cut the insulation pieces** to match, which "assures a
-   good fit."
+2. **Make the tank top and floor** — build the floor "doors" as **one big piece for now** and cut them to their final divided form later. Put these in position: doing so early **helps align the hull itself**.
+3. **Pull the side panels to the stem.** This requires real force, since the panels must bend into shape. A useful trick: make a **hot, wet blanket** and wrap it around the panels for a while — the heat and moisture make the plywood noticeably easier to pull into its curved shape.
+4. **Dry-fit repeatedly.** Expect to **assemble the hull two or three times with no glue** ("tack" only) in order to bevel the mating edges and get everything sitting correctly before committing to epoxy.
+5. **Trace for the insulation.** While the hull is temporarily assembled, **mark around the bulkheads and other members in pencil**. These outlines are then used to **cut the insulation pieces** to match, which "assures a good fit."
 
-In a **2 ft-clearance garage**, the assembled bulkheads can leave the hull
-feeling **both bigger and smaller than expected** — big enough that working on
-it with the garage doors shut in the rain is a squeeze, yet seemingly too
-small for everything that has to fit inside.
+In a **2 ft-clearance garage**, the assembled bulkheads can leave the hull feeling **both bigger and smaller than expected** — big enough that working on it with the garage doors shut in the rain is a squeeze, yet seemingly too small for everything that has to fit inside.
 
 ## Floor-member bevels, and a glue-oversize-then-bevel alternative
 
-The **floor members** that attach to the bottom of the forward and aft
-bulkheads need the **same side and bottom bevels** as the bulkheads
-themselves.
+The **floor members** that attach to the bottom of the forward and aft bulkheads need the **same side and bottom bevels** as the bulkheads themselves.
 
-[Don Elliott](/people/don-elliott.md)'s
-["Building the Paradox" articles](/references/building-the-paradox-articles.md)
-are credited by first-time builders as essential to attempting the boat at
-all — "if it wasn't for the articles I would have never attempted building
-Paradox." A builder-level variant on his sequence: rather than dry-fitting
-and tacking 2-3 times to bevel before gluing (step 4 above), **cut all parts
-oversize, including the floor members, then glue and nail everything first**,
-and cut the bevels into the assembled structure in one pass afterward. This
-is a workable alternative worth weighing alongside Don's original method.
+The ["Building the Paradox" articles](/references/building-the-paradox-articles.md) are essential to attempting the boat at all — "if it wasn't for the articles I would have never attempted building Paradox." A builder-level variant on that sequence: rather than dry-fitting and tacking 2-3 times to bevel before gluing (step 4 above), **cut all parts oversize, including the floor members, then glue and nail everything first**, and cut the bevels into the assembled structure in one pass afterward. This is a workable alternative worth weighing alongside the original method.
 
-Floor members **do need beveling** like the bulkheads — or, as a shortcut,
-can simply be **cut a little short** so they don't require beveling at all,
-an alternative to the cut-oversize-then-bevel method above. The same
-convention is recorded on the drawings under the note **"Bottom Bevel Left
-Standing"**: both bulkhead and floor timber are beveled, most easily done by
-leaving both **proud** after gluing and cutting the bevel into both together
-in one pass. See
-[boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md)
-for that exchange.
+Floor members **do need beveling** like the bulkheads — or, as a shortcut, can simply be **cut a little short** so they don't require beveling at all, an alternative to the cut-oversize-then-bevel method above. The same convention is recorded on the drawings under the note **"Bottom Bevel Left Standing"**: both bulkhead and floor timber are beveled, most easily done by leaving both **proud** after gluing and cutting the bevel into both together in one pass. See [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md) for that exchange.
 
 ## Turning the hull over
 
-Turning the hull over — once the sides are assembled to the bulkheads and
-the sheer strakes are fitted — is described in Don's articles as "easily
-done without outside assistance," though in a **2 ft-clearance garage** it
-can in practice take **two people**, leaving open how the same hull will get
-turned back over once the bottom is fastened on. See
-[Alastair](/people/alastair.md)
-for a fuller account, including a temporary chine-log fitting technique
-(wedge-and-glue into an already-positioned joint) from the same session.
+Turning the hull over — once the sides are assembled to the bulkheads and the sheer strakes are fitted — is described in the articles as "easily done without outside assistance," though in a **2 ft-clearance garage** it can in practice take **two people**, leaving open how the same hull will get turned back over once the bottom is fastened on. A temporary chine-log fitting technique (wedge-and-glue into an already-positioned joint) can come from the same session.
 
-Turning the hull is easy while it is still light — two people can lift an
-unturned, bottomless hull without trouble — but gets markedly harder once
-the bottom is fastened on and the assembly gains real weight. A bottomed
-hull can still be managed with a couple of pairs of roller skates underneath
-it and some luck. The structure also gains real rigidity only once the stem
-goes on: before that stage the hull is still noticeably floppy, becoming a
-single stiff structure only afterward.[49]
+Turning the hull is easy while it is still light — two people can lift an unturned, bottomless hull without trouble — but gets markedly harder once the bottom is fastened on and the assembly gains real weight. A bottomed hull can still be managed with a couple of pairs of roller skates underneath it and some luck. The structure also gains real rigidity only once the stem goes on: before that stage the hull is still noticeably floppy, becoming a single stiff structure only afterward.[49]
 
-Wet-laying the fiberglass sheathing on each side of the hull, prepared over
-several preceding days, took about **two hours per side** for one builder
-working alone — a workload worth planning against a target turnover date,
-since the recommended 48-hour epoxy cure between sheathing and turning may
-have to be shortened under real-world time pressure (a helper's availability,
-a festival deadline) rather than always followed to the letter.[51]
+Wet-laying the fiberglass sheathing on each side of the hull, prepared over several preceding days, took about **two hours per side** for one builder working alone — a workload worth planning against a target turnover date, since the recommended 48-hour epoxy cure between sheathing and turning may have to be shortened under real-world time pressure (a helper's availability, a festival deadline) rather than always followed to the letter.[51]
 
-A hull moved solo from a garage onto a driveway can be turned over without a
-crane or hoist, using materials already on hand: slide it out of the garage
-off temporary support blocks onto **round fence poles** used as rollers,
-flip it onto its side using a pair of long timbers, land it on a sheet of
-scrap plywood, flip it again onto its deck, then roll it back into the
-garage and up onto blocks once more. One such turn was done with **four
-people, all strong**, though the builder judged three could have managed it
-— a useful data point for scaling the moving crew to the number of helpers
-actually on hand, consistent with the crew-size guidance elsewhere on this
-page.[52]
+A hull moved solo from a garage onto a driveway can be turned over without a crane or hoist, using materials already on hand: slide it out of the garage off temporary support blocks onto **round fence poles** used as rollers, flip it onto its side using a pair of long timbers, land it on a sheet of scrap plywood, flip it again onto its deck, then roll it back into the garage and up onto blocks once more. One such turn was done with **four people, all strong**, though the builder judged three could have managed it — a useful data point for scaling the moving crew to the number of helpers actually on hand, consistent with the crew-size guidance elsewhere on this page.[52]
 
-With the hull upside down, the bottom is smoothed and then sheathed in the
-same **biaxial cloth** used on the sides, carried about an inch up the sides
-all round to protect the bottom edge and the chine runners — radiusing the
-chine beforehand allows the cloth to wrap that corner cleanly.[53] Small
-white spots can appear in the angle between a chine runner and the side,
-where the sheathing failed to bond fully into the corner and epoxy did not
-reach underneath the cloth — the fix is to **inject epoxy into the void
-rather than cut the spot out**, since cutting sacrifices the fiberglass
-cloth's own strength and continuity at that spot.[53][54]
+With the hull upside down, the bottom is smoothed and then sheathed in the same **biaxial cloth** used on the sides, carried about an inch up the sides all round to protect the bottom edge and the chine runners — radiusing the chine beforehand allows the cloth to wrap that corner cleanly.[53] Small white spots can appear in the angle between a chine runner and the side, where the sheathing failed to bond fully into the corner and epoxy did not reach underneath the cloth — the fix is to **inject epoxy into the void rather than cut the spot out**, since cutting sacrifices the fiberglass cloth's own strength and continuity at that spot.[53][54]
 
 ## Assembling bulkheads out of sequence, and squaring the resulting box
 
-When the stem's shape proves difficult to get right, or the bow will not
-pull in to meet it, that stage can be set aside in favor of assembling
-**bulkheads 2, 3, and 4 into a square box** first, using the floor panels and
-temporary bin sides — a workable deviation from Don's plans-book order.
-Squareness is checked by comparing the box's corner-to-corner diagonals; on
-one build these came out within 2 mm of each other once glued, clamped, and
-nailed — close enough to proceed.[46] Bulkhead 1 follows the same way once
-the box is square, gluing, clamping, and nailing it home in turn. A garage
-opening onto a roughly 30 ft by 12 ft concrete area gives enough room to
-**turn the hull over alone** at that stage, though a helper is likely needed
-once the bottom's added weight comes into play (see
-[Turning the hull over](#turning-the-hull-over) above for the general
-two-person-job finding this corroborates).[47][50]
+When the stem's shape proves difficult to get right, or the bow will not pull in to meet it, that stage can be set aside in favor of assembling **bulkheads 2, 3, and 4 into a square box** first, using the floor panels and temporary bin sides — a workable deviation from the plans-book order. Squareness is checked by comparing the box's corner-to-corner diagonals; on one build these came out within 2 mm of each other once glued, clamped, and nailed — close enough to proceed.[46] Bulkhead 1 follows the same way once the box is square, gluing, clamping, and nailing it home in turn. A garage opening onto a roughly 30 ft by 12 ft concrete area gives enough room to **turn the hull over alone** at that stage, though a helper is likely needed once the bottom's added weight comes into play (see [Turning the hull over](#turning-the-hull-over) above for the general two-person-job finding this corroborates).[47][50]
 
 ## Pulling a hull's sides together with a Spanish windlass
 
-Beyond Don's hot-wet-blanket method (see [Recommended order](#recommended-order)
-above), a **"Spanish windlass"** is a further technique for pulling a hull's
-bow panels together: loop a length of fairly heavy rope loosely around the
-outside of both sides, like a large noose, then pass a round dowel or pipe
-under the loop and twist it — the loop gradually closes and draws the sides
-toward each other. Two temporary uprights installed just ahead of the loop
-stop it slipping forward as the sides close up, and two temporary scabs at
-the bow ends let clamps be applied and supported once the ends come
-together; once the bow is closed up, an inner stem shaped to fit can be
-installed, the clamps removed, and the stem profile shaped before fitting an
-outer stem piece. The windlass itself needs a helper to hold it in place
-unless it can be locked off — a turn or two of twine seized around the dowel
-and the rope loop does the job.[48]
+Beyond the hot-wet-blanket method (see [Recommended order](#recommended-order) above), a **"Spanish windlass"** is a further technique for pulling a hull's bow panels together: loop a length of fairly heavy rope loosely around the outside of both sides, like a large noose, then pass a round dowel or pipe under the loop and twist it — the loop gradually closes and draws the sides toward each other. Two temporary uprights installed just ahead of the loop stop it slipping forward as the sides close up, and two temporary scabs at the bow ends let clamps be applied and supported once the ends come together; once the bow is closed up, an inner stem shaped to fit can be installed, the clamps removed, and the stem profile shaped before fitting an outer stem piece. The windlass itself needs a helper to hold it in place unless it can be locked off — a turn or two of twine seized around the dowel and the rope loop does the job.[48]
 
-The sharp angles and curves near the bow can make it very difficult for the
-rope loop to grip against, and a slipping Spanish windlass's twisting dowel
-can snap back fast enough to strike a hand or head — **ratchet straps** are a
-safer alternative for pulling sides together at the bow.[47]
+The sharp angles and curves near the bow can make it very difficult for the rope loop to grip against, and a slipping Spanish windlass's twisting dowel can snap back fast enough to strike a hand or head — **ratchet straps** are a safer alternative for pulling sides together at the bow.[47]
 
 ## Finding the documented build sequence
 
-Beyond what the plans themselves show, the fullest documented build
-sequence is [Don Elliott](/people/don-elliott.md)'s paid 16-part "Building
-Paradox" article series, rich with pictures, sketches, and tips, obtainable
-from Don by e-mail. A spare plans CD containing the sequence has also
-circulated among builders. See
-[Paul V. (cruisenewsnet / sohaven2002)](/people/paul-v.md)
-for the fuller thread in which these were pointed to.
+Beyond what the plans themselves show, the fullest documented build sequence is the paid 16-part "Building Paradox" article series, rich with pictures, sketches, and tips, obtainable from the author by e-mail. A spare plans CD containing the sequence has also circulated among builders.
 
 ## Bulkhead #3 has no side cleats, by design
 
-Bulkhead #3 — the 18 mm ply bulkhead in the middle of the cabin, the only
-one with no deck beam — shows no **side cleats** in the plans, unlike the
-other bulkheads. This is correct **by design, not an oversight**: the side
-panel **glues (and nails) directly onto the edge** of bulkhead #3 itself, so
-no separate cleat is needed there — the other bulkheads carry deck beams and
-therefore need cleats to support them. See
-[deck and cabin beam](/construction/deck-and-cabin-beams.md)
-dimensions for the related question this point was first raised alongside.
+Bulkhead #3 — the 18 mm ply bulkhead in the middle of the cabin, the only one with no deck beam — shows no **side cleats** in the plans, unlike the other bulkheads. This is correct **by design, not an oversight**: the side panel **glues (and nails) directly onto the edge** of bulkhead #3 itself, so no separate cleat is needed there — the other bulkheads carry deck beams and therefore need cleats to support them. See [deck and cabin beam](/construction/deck-and-cabin-beams.md) dimensions for the related question this point was first raised alongside.
 
 ## Transom and bulkhead #4 crown, and fitting bevels at trial assembly
 
-The plans are inconsistent about whether the **transom**'s side framing (and
-**bulkhead #4**) should carry any **crown** (compound curvature), rather than
-being flat: different plan sheets show it differently — one page draws the
-transom framing flat, another shows a significant crown with a correction
-line, and a third shows an unspecified ~5 mm crown. In practice this
-inconsistency does not matter much: a **transom crown on the order of 5 mm**
-is trivial, easily removed during the dry run if it turns out to be a
-problem, and a matching crown is reasonable to carry through to bulkhead #4
-if the transom and bulkhead #3 both have it.
+The plans are inconsistent about whether the **transom**'s side framing (and **bulkhead #4**) should carry any **crown** (compound curvature), rather than being flat: different plan sheets show it differently — one page draws the transom framing flat, another shows a significant crown with a correction line, and a third shows an unspecified ~5 mm crown. In practice this inconsistency does not matter much: a **transom crown on the order of 5 mm** is trivial, easily removed during the dry run if it turns out to be a problem, and a matching crown is reasonable to carry through to bulkhead #4 if the transom and bulkhead #3 both have it.
 
-Builders differ on how precisely to shape bevels (including the **stem
-bevel**, which can run to a steep angle — as much as 29 degrees at its
-maximum) ahead of trial assembly. One approach is to hold off on any bevel
-adjustment until the **dry fit**, since cutting a bevel before knowing where
-it needs to "roll" risks having to redo it. A looser, faster alternative: do
-not fuss over shaping bevels precisely at all beforehand — instead, do the
-**trial assembly first**, then take the bevels off freehand with an **angle
-grinder and sanding disc** once the parts are offered up together. Any
-resulting gaps are simply filled with a bit more epoxy. The larger point
-behind this looser approach: getting a Paradox built and sailing matters
-more than chasing perfect joinery — "it's too much fun to sail to spend
-forever building it."
+Builders differ on how precisely to shape bevels (including the **stem bevel**, which can run to a steep angle — as much as 29 degrees at its maximum) ahead of trial assembly. One approach is to hold off on any bevel adjustment until the **dry fit**, since cutting a bevel before knowing where it needs to "roll" risks having to redo it. A looser, faster alternative: do not fuss over shaping bevels precisely at all beforehand — instead, do the **trial assembly first**, then take the bevels off freehand with an **angle grinder and sanding disc** once the parts are offered up together. Any resulting gaps are simply filled with a bit more epoxy. The larger point behind this looser approach: getting a Paradox built and sailing matters more than chasing perfect joinery — "it's too much fun to sail to spend forever building it."
 
-A worthwhile habit when templating parts like the **rudder**: step back and
-recheck the work after a break, rather than pushing on while tired. A rudder
-template can drift into showing a plumb transom rather than the plans'
-raked one — a fatigue-caused drafting slip, not a plans error — the kind of
-mistake best caught by comparing again against the design the next day.
+A worthwhile habit when templating parts like the **rudder**: step back and recheck the work after a break, rather than pushing on while tired. A rudder template can drift into showing a plumb transom rather than the plans' raked one — a fatigue-caused drafting slip, not a plans error — the kind of mistake best caught by comparing again against the design the next day.
 
 ## Finding bulkhead-member angles from the drawings
 
-The plans do not tabulate a cutting angle for every stick used on the
-bulkhead sides — angles are simply the same **at any scale**, so a builder
-can lift them directly off the drawing with a **bevel square**: set the
-square against the drawn lines, then either mark and cut the timber to
-that angle or transfer the setting straight to a saw. A looser alternative
-is to leave the pieces a little long, assemble them, and **plane or fair
-the bevels afterward** with a batten. The lift-from-drawing method can still
-leave some angles wrong on the first try, needing the gaps padded out with a
-strip of wood and re-cut — suggesting the looser after-assembly fit may be
-easier in practice. Neither approach needs to be especially precise, since
-epoxy fills the difference.
+The plans do not tabulate a cutting angle for every stick used on the bulkhead sides — angles are simply the same **at any scale**, so a builder can lift them directly off the drawing with a **bevel square**: set the square against the drawn lines, then either mark and cut the timber to that angle or transfer the setting straight to a saw. A looser alternative is to leave the pieces a little long, assemble them, and **plane or fair the bevels afterward** with a batten. The lift-from-drawing method can still leave some angles wrong on the first try, needing the gaps padded out with a strip of wood and re-cut — suggesting the looser after-assembly fit may be easier in practice. Neither approach needs to be especially precise, since epoxy fills the difference.
 
 ## Bevel order for the chine log and sheer clamp: cut before or after installing
 
-For the chine log and sheer clamp, the bevels are best cut **before**
-installing each log rather than shaped **after** it is already in place —
-cutting them in place afterward is harder. A fuller method: cut the chine log
-and sheer clamp to the profiles shown on plan sheet 5, spring the sides into
-position onto the bulkheads once fitted, then trim the bottom and deck to fit
-as they go on. Bulkhead bevel angles come off plan sheet 2, though in
-practice they need real adjustment (including adding material back) during
-trial assembly — better handled by cutting bulkhead cleats **oversize** and
-taking the final angle off during that trial fit, rather than trusting the
-plan angle exactly. Buying a metric tape measure and working entirely in
-millimetres, rather than converting back and forth, is "much easier" once
-committed to.
+For the chine log and sheer clamp, the bevels are best cut **before** installing each log rather than shaped **after** it is already in place — cutting them in place afterward is harder. A fuller method: cut the chine log and sheer clamp to the profiles shown on plan sheet 5, spring the sides into position onto the bulkheads once fitted, then trim the bottom and deck to fit as they go on. Bulkhead bevel angles come off plan sheet 2, though in practice they need real adjustment (including adding material back) during trial assembly — better handled by cutting bulkhead cleats **oversize** and taking the final angle off during that trial fit, rather than trusting the plan angle exactly. Buying a metric tape measure and working entirely in millimetres, rather than converting back and forth, is "much easier" once committed to.
 
 ## How the chine logs and sheer clamps join the stem
 
-The **chine logs** and **sheer clamps** attach to the **stem** the same way
-they attach to the transom: both members are inlet/notched into the stem,
-per drawing #4. The notch's cut angle need not be perfect, since thickened
-epoxy ends up stronger than the wood. See
-[notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)
-for the fuller technique.
+The **chine logs** and **sheer clamps** attach to the **stem** the same way they attach to the transom: both members are inlet/notched into the stem, per drawing #4. The notch's cut angle need not be perfect, since thickened epoxy ends up stronger than the wood. See [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md) for the fuller technique.
 
 ## Bulkhead construction details not spelled out on the plans
 
-Working through the bulkhead drawings sheet by sheet answers most of the
-bulkhead-construction detail not otherwise spelled out on the plans:
+Working through the bulkhead drawings sheet by sheet answers most of the bulkhead-construction detail not otherwise spelled out on the plans:
 
-**Bulkhead 1.** Both the bottom and side edges are beveled to fit the panel
-each joins; where the plans show a 5 mm curve in the sides, both the plywood
-and its cleat share that same curve. The forward opening's curve is not
-dimensioned — cut it "artistic," staying large enough to fit a head through.
-Deck beams, if laminated, come out oversize and are trimmed back to the
-plywood edge regardless of whether they land over or between the side
-cleats, so the order does not much matter. The vertical cleats seen in some
-builders' photos but not on the plans are a plans omission — the port cleat
-should line up with bulkhead 2's cleat, and the starboard cleat can be set
-independently (one builder used 220 mm from the centerline, successfully).
+**Bulkhead 1.** Both the bottom and side edges are beveled to fit the panel each joins; where the plans show a 5 mm curve in the sides, both the plywood and its cleat share that same curve. The forward opening's curve is not dimensioned — cut it "artistic," staying large enough to fit a head through. Deck beams, if laminated, come out oversize and are trimmed back to the plywood edge regardless of whether they land over or between the side cleats, so the order does not much matter. The vertical cleats seen in some builders' photos but not on the plans are a plans omission — the port cleat should line up with bulkhead 2's cleat, and the starboard cleat can be set independently (one builder used 220 mm from the centerline, successfully).
 
-**Bulkhead 2.** The limber hole is for drainage, and should be cut generous
-enough to get a finger through for filleting the joint once the bottom is
-on. Where the plans show a 6 mm ply "scab" under a cleat, the cleat can
-simply be fitted directly over the scab, though the hatch must then be cut
-to clear it. The diameter symbol on the tiller-rope and wiring holes is the
-standard ⌀ mark; the wiring hole's size is up to the builder — running extra
-holes through each bulkhead early, for wires and hoses not yet planned, is
-easier than drilling and sealing them into a finished boat later, at the
-cost of them rarely ending up exactly where wanted. The vertical cleats are
-beveled roughly 45° on top for safety. The V-shaped filler piece between the
-V-shaped cleats is solid wood, not plywood, and becomes part of the mast
-step. The "2 mm dado" notation on the plans defeated interpretation and was
-simply ignored without ill effect.
+**Bulkhead 2.** The limber hole is for drainage, and should be cut generous enough to get a finger through for filleting the joint once the bottom is on. Where the plans show a 6 mm ply "scab" under a cleat, the cleat can simply be fitted directly over the scab, though the hatch must then be cut to clear it. The diameter symbol on the tiller-rope and wiring holes is the standard ⌀ mark; the wiring hole's size is up to the builder — running extra holes through each bulkhead early, for wires and hoses not yet planned, is easier than drilling and sealing them into a finished boat later, at the cost of them rarely ending up exactly where wanted. The vertical cleats are beveled roughly 45° on top for safety. The V-shaped filler piece between the V-shaped cleats is solid wood, not plywood, and becomes part of the mast step. The "2 mm dado" notation on the plans defeated interpretation and was simply ignored without ill effect.
 
-**Bulkheads 3 and 4, and the transom.** Bulkhead 3, at 18 mm ply, needs no
-side cleats — the side panel glues and nails directly to its edge (see
-[bulkhead #3 has no side cleats, by design](#bulkhead-3-has-no-side-cleats-by-design)
-above for the earlier, shorter version of this same answer). Bulkhead 4's
-sides are beveled despite showing no side curve on the drawing, as is the
-transom's, which is likewise undimensioned there; all bulkhead sides and
-bottoms are beveled to match the angle of the plywood panel fastened to
-them, regardless of whether a curve is separately called out. The deck
-beam's height where undimensioned works out to about 57 mm, following the
-curvature shared by all the deck beams — laminate the beams first, then cut
-plywood to match. The tiller opening's shape is not templated on the
-drawings; instead, drill pilot holes to locate the baffle cleat during
-assembly, then cut and carve the opening to clear the tiller once the
-rudder is hung and can be swung side to side to check clearance.
+**Bulkheads 3 and 4, and the transom.** Bulkhead 3, at 18 mm ply, needs no side cleats — the side panel glues and nails directly to its edge (see [bulkhead #3 has no side cleats, by design](#bulkhead-3-has-no-side-cleats-by-design) above for the earlier, shorter version of this same answer). Bulkhead 4's sides are beveled despite showing no side curve on the drawing, as is the transom's, which is likewise undimensioned there; all bulkhead sides and bottoms are beveled to match the angle of the plywood panel fastened to them, regardless of whether a curve is separately called out. The deck beam's height where undimensioned works out to about 57 mm, following the curvature shared by all the deck beams — laminate the beams first, then cut plywood to match. The tiller opening's shape is not templated on the drawings; instead, drill pilot holes to locate the baffle cleat during assembly, then cut and carve the opening to clear the tiller once the rudder is hung and can be swung side to side to check clearance.
 
-**General reassurance.** Precision is not the point: most of the hull goes
-together by fitting and adjusting until parts sit right — pack a gap with an
-added piece, or cut back and refit an oversize one — "and always remember
-that epoxy is stronger than wood, so all those gaps in the joints just make
-it stronger." One practical trick: nails needing a 2.5 mm pilot hole can be
-temporarily driven as **dowel pins** (from a spare bag of 2.5 mm wire nails)
-to locate two parts being joined, then pulled and replaced with the
-permanent bronze ring nails once the rest of the fasteners are in.
+**General reassurance.** Precision is not the point: most of the hull goes together by fitting and adjusting until parts sit right — pack a gap with an added piece, or cut back and refit an oversize one — "and always remember that epoxy is stronger than wood, so all those gaps in the joints just make it stronger." One practical trick: nails needing a 2.5 mm pilot hole can be temporarily driven as **dowel pins** (from a spare bag of 2.5 mm wire nails) to locate two parts being joined, then pulled and replaced with the permanent bronze ring nails once the rest of the fasteners are in.
 
-A **carline** — a term that stumped the newcomer — is one of the fore-and-aft
-horizontal beams supporting the deck between bulkheads 2 and 4, under the
-side windows (shown on the plans' deck plan, port side).
+A **carline** — a term that stumped a newcomer — is one of the fore-and-aft horizontal beams supporting the deck between bulkheads 2 and 4, under the side windows (shown on the plans' deck plan, port side).
 
 ## Clarifying the bevel-and-cleat relationship, and a rebuild-it-differently alternative
 
-Where the plans show a curve (say 5 mm) on a bulkhead edge, the straight
-line on the drawing is merely a reference: the cleat itself runs right to the
-plywood's edge, sharing the same curve, and both are beveled together to fit
-the panel each joins.
+Where the plans show a curve (say 5 mm) on a bulkhead edge, the straight line on the drawing is merely a reference: the cleat itself runs right to the plywood's edge, sharing the same curve, and both are beveled together to fit the panel each joins.
 
-Curving and beveling an edge in one operation is difficult enough that a
-rebuild-it-differently alternative is worth considering: cut the plywood to
-size and let the cleats **overlap the panel edge**, rather than trying to fit
-them flush. Once the sides are offered up to the bulkheads for trial
-assembly, the correct bevel angle becomes obvious and can be cut at that
-stage. Using **dowel pins** (see the temporary-locating-pin trick above) to
-hold the bulkheads in position, they can then be removed and refitted
-repeatedly without the whole structure collapsing. Working outward from
-**bulkhead 3** is the natural starting point, since — per its no-side-cleats
-construction above — it carries no bevel to begin with.
+Curving and beveling an edge in one operation is difficult enough that a rebuild-it-differently alternative is worth considering: cut the plywood to size and let the cleats **overlap the panel edge**, rather than trying to fit them flush. Once the sides are offered up to the bulkheads for trial assembly, the correct bevel angle becomes obvious and can be cut at that stage. Using **dowel pins** (see the temporary-locating-pin trick above) to hold the bulkheads in position, they can then be removed and refitted repeatedly without the whole structure collapsing. Working outward from **bulkhead 3** is the natural starting point, since — per its no-side-cleats construction above — it carries no bevel to begin with.
 
 ## What a "scab" is, and a scarphed alternative that eliminates it
 
-A **scab**, in plywood construction, is simply another term for a **butt
-block** — a reinforcing patch glued over a joint. On the Paradox plans, the
-one builders most often ask about is the 6 mm ply scab called out on
-**bulkhead #2** (see the "Bulkhead 2" answer above).
+A **scab**, in plywood construction, is simply another term for a **butt block** — a reinforcing patch glued over a joint. On the Paradox plans, the one builders most often ask about is the 6 mm ply scab called out on **bulkhead #2** (see the "Bulkhead 2" answer above).
 
-A builder can eliminate that scab entirely by **scarphing bulkhead #2's
-plywood together** instead of butting and patching it — practical only with
-plywood of sufficiently high quality that the front and back veneers are
-properly matched and joined.
+A builder can eliminate that scab entirely by **scarphing bulkhead #2's plywood together** instead of butting and patching it — practical only with plywood of sufficiently high quality that the front and back veneers are properly matched and joined.
 
-Regarding the surrounding bevel work generally: every edge shown beveled on
-the plans, in both plywood and solid wood, can be measured and marked
-directly off the drawings before cutting, then cut on a **bandsaw** without
-particular difficulty, yielding a near-perfect fit — with the exception of
-bulkhead #2's sides, which carry a **rolling bevel** that is genuinely tough
-to get exact without full-size lofting. The recommended order is to cut the
-bulkheads and transom first, then cut and add the cleats and floors. Cutting
-a bevel takes no more time than cutting square, so there is no need to treat
-beveling as excessive care — tight joinery is simply preferred over
-joinery-filled-with-epoxy-and-hoping, though epoxy does forgive a fair amount
-of looseness if a builder prefers to work faster. The degree of fit and
-finish achieved is ultimately up to the individual builder.
+Regarding the surrounding bevel work generally: every edge shown beveled on the plans, in both plywood and solid wood, can be measured and marked directly off the drawings before cutting, then cut on a **bandsaw** without particular difficulty, yielding a near-perfect fit — with the exception of bulkhead #2's sides, which carry a **rolling bevel** that is genuinely tough to get exact without full-size lofting. The recommended order is to cut the bulkheads and transom first, then cut and add the cleats and floors. Cutting a bevel takes no more time than cutting square, so there is no need to treat beveling as excessive care — tight joinery is simply preferred over joinery-filled-with-epoxy-and-hoping, though epoxy does forgive a fair amount of looseness if a builder prefers to work faster. The degree of fit and finish achieved is ultimately up to the individual builder.
 
 ## Which side of the station line a bulkhead's dimensioned face falls on
 
-A recurring point of confusion, worth stating plainly: on "instant"-boat
-jigs and most station-mold designs, frames are placed so that beveling is
-unnecessary in the first place — a forward station mold sits **aft of** its
-station line. The Paradox plans work the opposite way: a forward bulkhead's
-**dimensioned face lies forward of its station line** (true for both the
-bottom and side panels, though not the floors), which is exactly why
-beveling is necessary rather than optional on this design. So long as the
-plans' specified edge of the bulkhead falls on the station line, the
-resulting hull geometry comes out as designed, regardless of which face is
-treated as the dimensioned one — a bevel can be cut precisely from the
-plotted lines and glued directly, or cut slightly oversize and backfilled
-with epoxy filler; both give the same final geometry.
+A recurring point of confusion, worth stating plainly: on "instant"-boat jigs and most station-mold designs, frames are placed so that beveling is unnecessary in the first place — a forward station mold sits **aft of** its station line. The Paradox plans work the opposite way: a forward bulkhead's **dimensioned face lies forward of its station line** (true for both the bottom and side panels, though not the floors), which is exactly why beveling is necessary rather than optional on this design. So long as the plans' specified edge of the bulkhead falls on the station line, the resulting hull geometry comes out as designed, regardless of which face is treated as the dimensioned one — a bevel can be cut precisely from the plotted lines and glued directly, or cut slightly oversize and backfilled with epoxy filler; both give the same final geometry.
 
-Reading the drawings correctly means checking, sheet by sheet, which face of
-each bulkhead the plans dimension **from** and where its bevel rolls
-**toward**: bulkheads 1 and 2 sit forward of their stations, while bulkheads
-3 and 4 sit aft. Sheets 7 and 8 label each bulkhead drawing "view from aft"
-or "view from fwd" — for bulkhead #1, the plans dimension the **after**
-face, which is the face that lies on the station line, so the bulkhead is
-cut straight to the plotted lines. Bevels themselves are taken off sheet 2,
-where some bevels roll from chine to sheer; plotting and marking all of a
-boat's bevels from sheet 2 in one sitting lets a builder cut cleats and
-floors afterward just by glancing at the marked reference, rather than
-recalculating each one in turn.
+Reading the drawings correctly means checking, sheet by sheet, which face of each bulkhead the plans dimension **from** and where its bevel rolls **toward**: bulkheads 1 and 2 sit forward of their stations, while bulkheads 3 and 4 sit aft. Sheets 7 and 8 label each bulkhead drawing "view from aft" or "view from fwd" — for bulkhead #1, the plans dimension the **after** face, which is the face that lies on the station line, so the bulkhead is cut straight to the plotted lines. Bevels themselves are taken off sheet 2, where some bevels roll from chine to sheer; plotting and marking all of a boat's bevels from sheet 2 in one sitting lets a builder cut cleats and floors afterward just by glancing at the marked reference, rather than recalculating each one in turn.
 
-Bulkhead cleats illustrate why getting this right matters: one builder's
-cleats measured **35 mm at their widest**, not their narrowest, dimension —
-camber cut into both the inboard and outboard faces (5-7 mm, per the design
-spec at each bulkhead) reduces an oversize blank down to its final width
-against the bulkhead, with the inboard face left at 90 degrees to the
-bulkhead (parallel to the centerline) and only the outboard face beveled to
-match the bulkhead's own edge. Cutting cleats to their finished 35 mm width
-from the outset, skipping the camber step, leaves them too narrow once
-beveled — a shortfall that shows up as an unsightly gap once the foam board
-insulation is fitted against the hull. On one build, the resulting
-**least-width** cleat measurements (after camber and bevel) were: bulkhead
-1, 25 mm; bulkhead 2, 30 mm; bulkhead 4, 33 mm; bulkhead 3 needs no cleats at
-all (see [bulkhead #3 has no side cleats, by
-design](#bulkhead-3-has-no-side-cleats-by-design) above); the transom's
-cleats are 45 mm wide as drawn, since the transom carries no bevel. These
-figures are specific to one builder's cuts and should not be used to derive
-bevel angles for another hull — the bevels themselves come from sheet 2, not
-from a cleat's finished width.
+Bulkhead cleats illustrate why getting this right matters: one builder's cleats measured **35 mm at their widest**, not their narrowest, dimension — camber cut into both the inboard and outboard faces (5-7 mm, per the design spec at each bulkhead) reduces an oversize blank down to its final width against the bulkhead, with the inboard face left at 90 degrees to the bulkhead (parallel to the centerline) and only the outboard face beveled to match the bulkhead's own edge. Cutting cleats to their finished 35 mm width from the outset, skipping the camber step, leaves them too narrow once beveled — a shortfall that shows up as an unsightly gap once the foam board insulation is fitted against the hull. On one build, the resulting **least-width** cleat measurements (after camber and bevel) were: bulkhead 1, 25 mm; bulkhead 2, 30 mm; bulkhead 4, 33 mm; bulkhead 3 needs no cleats at all (see [bulkhead #3 has no side cleats, by design](#bulkhead-3-has-no-side-cleats-by-design) above); the transom's cleats are 45 mm wide as drawn, since the transom carries no bevel. These figures are specific to one builder's cuts and should not be used to derive bevel angles for another hull — the bevels themselves come from sheet 2, not from a cleat's finished width.
 
-Working out this relationship in the abstract is harder than doing it: in
-practice, studying the plans sheet by sheet answers nearly every question of
-this kind, though some points genuinely benefit from another builder's
-confirmation before the first cut. Photographing and uploading in-progress
-work to a shared photo album is itself a minor technical hurdle worth pushing
-through — once the knack is found, the resulting photos are "really
-helpful... for those trying to figure out how things go together."
+Working out this relationship in the abstract is harder than doing it: in practice, studying the plans sheet by sheet answers nearly every question of this kind, though some points genuinely benefit from another builder's confirmation before the first cut. Photographing and uploading in-progress work to a shared photo album is itself a minor technical hurdle worth pushing through — once the knack is found, the resulting photos are "really helpful... for those trying to figure out how things go together."
 
 ## What a rolling bevel is, and cutting bulkhead #2's
 
-A **rolling bevel** is an edge whose bevel angle changes — "rolls" —
-continuously along its length, rather than holding one constant angle from
-end to end. The design's most conspicuous rolling bevels are on the **chine
-runners**; the next most noticeable are the **side bevels of bulkheads #2
-and #3**. On sheet 2 of the plans, at station #2, the "sheer" and "design
-WL" reference lines cross the station line at visibly different angles —
-that difference in angle is the bevel's roll. On one builder's own bulkhead
-#2, the cut bevel measured **8 degrees at the sheer and 13 degrees at the
-chine**.
+A **rolling bevel** is an edge whose bevel angle changes — "rolls" — continuously along its length, rather than holding one constant angle from end to end. The design's most conspicuous rolling bevels are on the **chine runners**; the next most noticeable are the **side bevels of bulkheads #2 and #3**. On sheet 2 of the plans, at station #2, the "sheer" and "design WL" reference lines cross the station line at visibly different angles — that difference in angle is the bevel's roll. On one builder's own bulkhead #2, the cut bevel measured **8 degrees at the sheer and 13 degrees at the chine**.
 
-That particular roll is not extreme, and cutting it is straightforward: cut
-the whole bevel on a **bandsaw** to the shallower angle (8 degrees in this
-example), then hand-plane the roll down toward the chine to the steeper
-angle (13 degrees) — easy work, since the parts involved are light and
-manageable. With a helper available and the bandsaw already set up for
-bevel cuts, one builder can start the cut while calling out the changing
-bevel angle for the helper to dial in on the saw as the cut proceeds — a
-technique that takes some practice and teamwork to do smoothly. A tablesaw
-is a (considerable overkill) alternative for a well-equipped shop; a
-carefully guided jigsaw or skilsaw can also do the job, though a bandsaw is
-preferred over either. Because epoxy and fillers are part of the build
-regardless, cutting the shallower angle only (8 degrees, in the example
-above) and simply filling the resulting minor gap on the forward side of the
-joint is an acceptable shortcut, in place of chasing the full roll exactly.
+That particular roll is not extreme, and cutting it is straightforward: cut the whole bevel on a **bandsaw** to the shallower angle (8 degrees in this example), then hand-plane the roll down toward the chine to the steeper angle (13 degrees) — easy work, since the parts involved are light and manageable. With a helper available and the bandsaw already set up for bevel cuts, one builder can start the cut while calling out the changing bevel angle for the helper to dial in on the saw as the cut proceeds — a technique that takes some practice and teamwork to do smoothly. A tablesaw is a (considerable overkill) alternative for a well-equipped shop; a carefully guided jigsaw or skilsaw can also do the job, though a bandsaw is preferred over either. Because epoxy and fillers are part of the build regardless, cutting the shallower angle only (8 degrees, in the example above) and simply filling the resulting minor gap on the forward side of the joint is an acceptable shortcut, in place of chasing the full roll exactly.
 
-The **chine runners** are harder: they carry **two** rolling bevels rather
-than one, demanding constant re-checking to keep the work correct.
-Installing the runners' filler pieces in **short, non-rolling segments**, or
-as **long laminations**, are the two alternate approaches — each with its
-own tradeoffs, and each builder's own situation should decide which is the
-"right" choice for a given boat. See [chine runner
-construction](/chine-runners/construction.md) for the fuller
-build technique.
+The **chine runners** are harder: they carry **two** rolling bevels rather than one, demanding constant re-checking to keep the work correct. Installing the runners' filler pieces in **short, non-rolling segments**, or as **long laminations**, are the two alternate approaches — each with its own tradeoffs, and each builder's own situation should decide which is the "right" choice for a given boat. See [chine runner construction](/chine-runners/construction.md) for the fuller build technique.
 
 ## Fit at trial assembly rather than pre-cutting a perfect bevel
 
-The chine log's drawn shape on sheet 5 — not flat on the bottom, and its
-flare far short of the hull's nominal 16-degree figure partway along its
-length — can look inconsistent against the bulkhead #3 detail on the same
-sheet. In fact the bevel is drawn correctly at the chine log's **ends** but
-not at the **middle**, by design rather than error: once the chine logs are
-in place, they and the bulkheads are meant to be **faired together** so the
-bottom panel fits, which is easier to do at that later stage than trying to
-pre-cut every bevel exactly right and assemble the parts hoping they land
-true. This reflects the design's general build philosophy — rather than the
-"get every part perfect, then assemble and hope it fits" approach, Paradox is
-meant to be built by **assembling each stage to what has already been
-made**, bevel-perfect or not, which guarantees a fit at every step.
+The chine log's drawn shape on sheet 5 — not flat on the bottom, and its flare far short of the hull's nominal 16-degree figure partway along its length — can look inconsistent against the bulkhead #3 detail on the same sheet. In fact the bevel is drawn correctly at the chine log's **ends** but not at the **middle**, by design rather than error: once the chine logs are in place, they and the bulkheads are meant to be **faired together** so the bottom panel fits, which is easier to do at that later stage than trying to pre-cut every bevel exactly right and assemble the parts hoping they land true. This reflects the design's general build philosophy — rather than the "get every part perfect, then assemble and hope it fits" approach, Paradox is meant to be built by **assembling each stage to what has already been made**, bevel-perfect or not, which guarantees a fit at every step.
 
-A related, separate detail is an extra **triangular section** at the chine
-log's bottom. This is simply **another rolling bevel**: as drawn, chine logs
-and sheer clamps alike are cut to a **constant** bevel. Only once the chine
-logs are glued to the sides and bulkheads are they **dressed off with a
-straight edge** to accept the flat bottom — the extra triangular portion is
-removed at that later stage, wherever necessary, exactly as the sheer clamps
-are separately faired to the deck beams to accept the deck. The reference
-corner on the chine log — the lower, outboard corner — stays untouched along
-the log's whole length and always tracks the side panel's edge; the sheer
-clamp's equivalent untouched corner is its upper, outboard one. Read from the
-**lines drawing (sheet 2)**: the outer corner angle is always greater than 90
-degrees to fit between the side panel and the bottom, the chine logs attach
-with that section held constant, and the logs get shaped to let the bottom
-fit snugly only once the bottom itself is offered up. Sawing off a short
-length of scrap sheer clamp and chine log to physically handle and visualize
-the relationship before cutting the real parts is useful groundwork for
-deciding where to cut the bulkheads, transom, and stem.
+A related, separate detail is an extra **triangular section** at the chine log's bottom. This is simply **another rolling bevel**: as drawn, chine logs and sheer clamps alike are cut to a **constant** bevel. Only once the chine logs are glued to the sides and bulkheads are they **dressed off with a straight edge** to accept the flat bottom — the extra triangular portion is removed at that later stage, wherever necessary, exactly as the sheer clamps are separately faired to the deck beams to accept the deck. The reference corner on the chine log — the lower, outboard corner — stays untouched along the log's whole length and always tracks the side panel's edge; the sheer clamp's equivalent untouched corner is its upper, outboard one. Read from the **lines drawing (sheet 2)**: the outer corner angle is always greater than 90 degrees to fit between the side panel and the bottom, the chine logs attach with that section held constant, and the logs get shaped to let the bottom fit snugly only once the bottom itself is offered up. Sawing off a short length of scrap sheer clamp and chine log to physically handle and visualize the relationship before cutting the real parts is useful groundwork for deciding where to cut the bulkheads, transom, and stem.
 
-Working through the geometry this way shows it is in fact easier to **glue
-the chine log down flat against the side first**, then cut the rolling bevel
-into the **bottom face** only — straightforward there because that face is
-straight across — rather than trying to cut a rolling bevel into the log's
-side before installation. This matches the design intent exactly, with the
-same parallel holding for the sheer clamp. Clarity comes with proceeding: the
-building process is, in practice, fairly intuitive once under way.
+Working through the geometry this way shows it is in fact easier to **glue the chine log down flat against the side first**, then cut the rolling bevel into the **bottom face** only — straightforward there because that face is straight across — rather than trying to cut a rolling bevel into the log's side before installation. This matches the design intent exactly, with the same parallel holding for the sheer clamp. Clarity comes with proceeding: the building process is, in practice, fairly intuitive once under way.
 
 # Citations
 

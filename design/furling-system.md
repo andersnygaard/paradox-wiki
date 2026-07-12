@@ -8,569 +8,158 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Furling system
 
-The [Paradox rig](/design/rig.md) reefs and stows its sail by **rolling it
-up on the boom** (the "rolling boom") rather than by conventional slab
-reefing. The stock arrangement, the fixes builders developed for it, and
-the technique the designer himself uses are documented below.
+The [Paradox rig](/design/rig.md) reefs and stows its sail by **rolling it up on the boom** (the "rolling boom") rather than by conventional slab reefing. The stock arrangement, the fixes builders developed for it, and the technique the designer himself uses are documented below.
 
 ## The stock gear's inherent difficulty: a three-hands problem
 
-Operating the furling gear as designed effectively needs **three hands** —
-one to ease the halyard, one to pull in the furling line, and one to hold
-up the boom so it doesn't go overboard ("man lost a lot when he lost his
-tail"). The friction is compounded by the **round thimble** the plans call
-for to run the reefing line through. More than one builder has flagged the
-reefing/furling system as the one part of the design giving pause, precisely
-because it is unusual.
+Operating the furling gear as designed effectively needs **three hands** — one to ease the halyard, one to pull in the furling line, and one to hold up the boom so it doesn't go overboard ("man lost a lot when he lost his tail"). The friction is compounded by the **round thimble** the plans call for to run the reefing line through. The reefing/furling system has been flagged as the one part of the design giving pause, precisely because it is unusual.
 
-Even so, the stock, unmodified gear is workable: raising sail means
-releasing the furling/reefing line and pulling the halyard while holding up
-the boom; reefing means easing the halyard while pulling in the furling line
-at the same time, a two-handed operation with some friction but "not too
-bad." A typical reef on [Little Cruiser](/matt-layden/little-cruiser.md)
-takes about **30 seconds**. **Matt Layden**, by contrast, has been observed
-to **furl/reef Paradox faster** than that, and can **reduce sail downwind in
-strong winds (20-25 kt)** where other sailors must head up into the wind to
-reef. This is the clearest evidence that the furling system's difficulty is
-not inherent to the design but at least partly a matter of **operator
-technique** — the designer works the gear noticeably faster and more capably
-than other experienced sailors of very similar boats, including in
-conditions where they need to change point of sail to cope. The
-[original Paradox](/boats/original-paradox.md), "Paradox #1," was available
-in the water for other builders to inspect firsthand.
+Even so, the stock, unmodified gear is workable: raising sail means releasing the furling/reefing line and pulling the halyard while holding up the boom; reefing means easing the halyard while pulling in the furling line at the same time, a two-handed operation with some friction but "not too bad." A typical reef on [Little Cruiser](/matt-layden/little-cruiser.md) takes about **30 seconds**. **Matt Layden**, by contrast, **furls/reefs Paradox faster** than that, and can **reduce sail downwind in strong winds (20-25 kt)** where other sailors must head up into the wind to reef. This is the clearest evidence that the furling system's difficulty is not inherent to the design but at least partly a matter of **operator technique** — the designer works the gear noticeably faster and more capably than other experienced sailors of very similar boats, including in conditions where they need to change point of sail to cope. The [original Paradox](/boats/original-paradox.md), "Paradox #1," was available in the water for other builders to inspect firsthand.
 
 ## Glen Maxwell's topping-lift solution
 
-The fix for the three-hands problem was a **topping lift** to take the
-boom's weight during furling or raising:
+The fix for the three-hands problem was a **topping lift** to take the boom's weight during furling or raising:
 
-- A **temporary standing topping lift** ran from the **end of the boom** to
-  the **masthead**, adjustable via a **trucker's hitch** reachable from the
-  cabin hatch, so it could be slacked to let the boom settle into its stowed
-  resting place.
-- A second topping lift supported the **front of the boom**, running from
-  about **6 ft above deck** to the front of the furling axle.
-- In use: take up the **forward** topping lift, then the **aft** one —
-  freeing the boom to turn so the sail can be raised, taking care to keep
-  the yard on the correct side of the topping lift.
-- The system **worked very well**; raising and lowering sail was "no longer
-  a chore." The one remaining problem was that it was easy to over-tension
-  the topping lift so it rode against the sail.
+- A **temporary standing topping lift** ran from the **end of the boom** to the **masthead**, adjustable via a **trucker's hitch** reachable from the cabin hatch, so it could be slacked to let the boom settle into its stowed resting place.
+- A second topping lift supported the **front of the boom**, running from about **6 ft above deck** to the front of the furling axle.
+- In use: take up the **forward** topping lift, then the **aft** one — freeing the boom to turn so the sail can be raised, taking care to keep the yard on the correct side of the topping lift.
+- The system **worked very well**; raising and lowering sail was "no longer a chore." The one remaining problem was that it was easy to over-tension the topping lift so it rode against the sail.
 
-**Furling on the side of the boom away from the mast** matters too: it makes
-the furling line exit the drum on the outboard side, giving a fair lead to
-the reefing-line thimble. Lacking the proper-size thimble called for in the
-plans, a nylon bulls-eye fair lead can substitute, drilled and tapped into
-the furling axle — though this is "not much more friction free" than the
-stock brass thimble would have been. The real source of furling friction, it
-turned out, was not the thimble at all but the topping lift itself, before
-one is fitted.
+**Furling on the side of the boom away from the mast** matters too: it makes the furling line exit the drum on the outboard side, giving a fair lead to the reefing-line thimble. Lacking the proper-size thimble called for in the plans, a nylon bulls-eye fair lead can substitute, drilled and tapped into the furling axle — though this is "not much more friction free" than the stock brass thimble would have been. The real source of furling friction, it turned out, was not the thimble at all but the topping lift itself, before one is fitted.
 
-On glassing the hull bottom: a **single layer of fiberglass** is fine unless
-hard groundings are frequent, but a **heavy lay-up** is worth it on a
-from-scratch "keeper" boat — building a replacement while still sailing the
-older boat lets lessons learned be incorporated directly into the new build
-(see [topside and hull painting choices](/construction/topside-painting.md)
-for the related repainting decision on that same secondhand boat).
+On glassing the hull bottom: a **single layer of fiberglass** is fine unless hard groundings are frequent, but a **heavy lay-up** is worth it on a from-scratch "keeper" boat — building a replacement while still sailing the older boat lets lessons learned be incorporated directly into the new build (see [topside and hull painting choices](/construction/topside-painting.md) for the related repainting decision on that same secondhand boat).
 
 ## The running topping lift and internal reroute
 
-To fix the over-tensioning problem with the standing topping lift, a
-**running topping lift** solves it: the line enters through a deck fitting
-just inboard of the furling line (alongside the halyard, furling, and tack
-lines), runs to a **double block** — one sheave for the furling line, the
-other for the topping lift — sharing the same **U-strap** that already holds
-the furling-line block, then continues through the **vent box** beside the
-furling line to a **cam cleat**. Run this way, the topping lift needed no
-further tending: it gave **no further problems** once installed, and the
-control could be led into the cabin so the hatch need not be opened even for
-foul-weather reefing — a position that also makes sense because the sailor
-must be at the mast base anyway to guide the furled sail into its stowed
-position.
+To fix the over-tensioning problem with the standing topping lift, a **running topping lift** solves it: the line enters through a deck fitting just inboard of the furling line (alongside the halyard, furling, and tack lines), runs to a **double block** — one sheave for the furling line, the other for the topping lift — sharing the same **U-strap** that already holds the furling-line block, then continues through the **vent box** beside the furling line to a **cam cleat**. Run this way, the topping lift needed no further tending: it gave **no further problems** once installed, and the control could be led into the cabin so the hatch need not be opened even for foul-weather reefing — a position that also makes sense because the sailor must be at the mast base anyway to guide the furled sail into its stowed position.
 
 ## Full hardware and rigging recipe
 
-The fullest documented hardware description for a working topping-lift/furling
-setup:
+The fullest documented hardware description for a working topping-lift/furling setup:
 
-- **Boom-end strap**: a strap with an **eye at each end and a hole in the
-  middle**, made from a **stainless steel tang, 6 in x 1 in** (West Marine
-  part# 129544). The **main sheet** attaches to the strap's bottom hole; the
-  strap mounts to the **boom end** using the middle hole; the **1/8 in
-  topping lift** ties to the top of the strap. The strap **must be very
-  strong** to resist bending inward and fouling the boom during furling —
-  it took **three straps** before the design and material were right.
+- **Boom-end strap**: a strap with an **eye at each end and a hole in the middle**, made from a **stainless steel tang, 6 in x 1 in** (West Marine part# 129544). The **main sheet** attaches to the strap's bottom hole; the strap mounts to the **boom end** using the middle hole; the **1/8 in topping lift** ties to the top of the strap. The strap **must be very strong** to resist bending inward and fouling the boom during furling — it took **three straps** before the design and material were right.
 - **Blocks**: **Harken #021 dinghy blocks** throughout.
-- **Topping-lift routing**: from the boom-end strap, the topping lift runs up
-  to the **masthead** through a Harken bullet block, falls back down to about
-  **3 ft above the deck** where a loop is tied in the line, then the bitter
-  end is taken back up to about **5-6 ft above deck** and through a **second
-  bullet block** mounted to the **forward face of the mast**, falling from
-  there to the **furling axle**, where it ties off to a **brazed-on brass
-  sail grommet**.
-- **Downhaul/control line**: a separate **1/4 in line** ties to the loop
-  described above; after adjusting both the forward and aft lift lines, a
-  pull on this single line raises the **boom at both ends simultaneously**.
-  A temporary cleat secures the downhaul until the system is tested and
-  tuned.
-- **In use**: after the sail is furled, slack the topping lift and guide the
-  sail into its stowed position; to make sail, pull the topping lift to raise
-  the furled sail to just above the coach roof, hoist, then slack the topping
-  lift again so it doesn't interfere with the set sail. Care is needed that
-  the **aft end of the yard doesn't slip behind the topping lift** until
-  about 1/4 of the sail has been unrolled.
+- **Topping-lift routing**: from the boom-end strap, the topping lift runs up to the **masthead** through a Harken bullet block, falls back down to about **3 ft above the deck** where a loop is tied in the line, then the bitter end is taken back up to about **5-6 ft above deck** and through a **second bullet block** mounted to the **forward face of the mast**, falling from there to the **furling axle**, where it ties off to a **brazed-on brass sail grommet**.
+- **Downhaul/control line**: a separate **1/4 in line** ties to the loop described above; after adjusting both the forward and aft lift lines, a pull on this single line raises the **boom at both ends simultaneously**. A temporary cleat secures the downhaul until the system is tested and tuned.
+- **In use**: after the sail is furled, slack the topping lift and guide the sail into its stowed position; to make sail, pull the topping lift to raise the furled sail to just above the coach roof, hoist, then slack the topping lift again so it doesn't interfere with the set sail. Care is needed that the **aft end of the yard doesn't slip behind the topping lift** until about 1/4 of the sail has been unrolled.
 
-Photos and a drawing of the arrangement are held in the group's files-section
-folder, "Topping Lift" (see [heavy-weather tactics](/operations/heavy-weather-tactics.md)
-for related storm-tactics context). The same hardware exchange also carried a
-parallel offer of [bronze rudder-gudgeon hardware](/construction/rudder-bearing-materials.md)
-made available to the list around the same time.
+Photos and a drawing of the arrangement are held in the group's files-section folder, "Topping Lift" (see [heavy-weather tactics](/operations/heavy-weather-tactics.md) for related storm-tactics context). The same hardware exchange also carried a parallel offer of [bronze rudder-gudgeon hardware](/construction/rudder-bearing-materials.md) made available to the list around the same time.
 
 ## Build-tolerance lesson: the tack-strop pipe
 
-The plans-length pipe cut for the tack strop should be cut **a little long
-(with about 2 in of trim allowance)**, then trimmed down once clearance is
-confirmed — cutting it too short leaves the rolled-up sail sitting very
-tight against the cabin side when swinging up, and a too-short pipe cannot
-be lengthened again short of remaking the fitting from a fresh length of
-pipe (an **8 ft length of schedule-40 brass pipe** is enough stock to redo
-it).
+The plans-length pipe cut for the tack strop should be cut **a little long (with about 2 in of trim allowance)**, then trimmed down once clearance is confirmed — cutting it too short leaves the rolled-up sail sitting very tight against the cabin side when swinging up, and a too-short pipe cannot be lengthened again short of remaking the fitting from a fresh length of pipe (an **8 ft length of schedule-40 brass pipe** is enough stock to redo it).
 
-A newcomer building from freshly bought plans separately flagged a possible
-plan-sheet discrepancy in the same fitting: **Sheet 9** gives the tack-strop
-spacer pipe as 1/4 in (6 mm) inside diameter with an outside diameter of
-14 mm, while the strop itself is specified at 8 mm — leaving the strop
-seemingly loose inside the spacer rather than a snug fit.[45] Read plainly,
-the 6 mm figure is the strop **rope's** own diameter running inside a 14 mm
-OD pipe, not a snug-fit spec — 12 mm water pipe (standard stock in both the
-UK and Australia) works as the spacer in practice, and is what [Alastair](/people/alastair.md)
-used on his own boat.[46][48]
+A possible plan-sheet discrepancy has been flagged in the same fitting: **Sheet 9** gives the tack-strop spacer pipe as 1/4 in (6 mm) inside diameter with an outside diameter of 14 mm, while the strop itself is specified at 8 mm — leaving the strop seemingly loose inside the spacer rather than a snug fit.[45] Read plainly, the 6 mm figure is the strop **rope's** own diameter running inside a 14 mm OD pipe, not a snug-fit spec — 12 mm water pipe (standard stock in both the UK and Australia) works as the spacer in practice.[46][48]
 
 ## Hardware materials: stainless steel and tufnol as bronze/plastic substitutes
 
-Several of the plans' fabricated bronze and cast-plastic fittings can be
-built in more locally available materials without a functional penalty.
-Stainless steel is a viable substitute for "the Bronze bits," but the plans
-actually call for two different fitting types under that label: the
-**ringnails** (fine in galvanized steel if fully encapsulated in epoxy,
-though a galvanized nail won't last as long as bronze) versus the fabricated
-hoops that hold the stowed yuloh and mast, the rudder hardware, and the
-boom's forward reefing fitting. For that second group, [Alastair](/people/alastair.md)
-used **tufnol and stainless steel for the rudder fittings and boom axle**, and
-more of the same water pipe used for the tack-strop spacer to make the
-holding hoops — with no problems reported.[45][47][48]
+Several of the plans' fabricated bronze and cast-plastic fittings can be built in more locally available materials without a functional penalty. Stainless steel is a viable substitute for "the Bronze bits," but the plans actually call for two different fitting types under that label: the **ringnails** (fine in galvanized steel if fully encapsulated in epoxy, though a galvanized nail won't last as long as bronze) versus the fabricated hoops that hold the stowed yuloh and mast, the rudder hardware, and the boom's forward reefing fitting. For that second group, **tufnol and stainless steel** work for the rudder fittings and boom axle, and more of the same water pipe used for the tack-strop spacer serves to make the holding hoops — with no problems reported.[45][47][48]
 
-**Tufnol** is an engineering composite, resembling bakelite in appearance,
-made of (by Alastair's understanding) linen fabric and resin. It machines
-easily, resists reaction with most chemicals, and is fairly expensive; it
-comes in blocks and sheets, and Alastair sourced offcuts through his
-workplace rather than buying full stock. He chose it for the rudder fittings
-over building the plans' own composite fitting simply because he already had
-a piece large enough, and judged it should perform similarly to the
-plans-specified part.[50][51]
+**Tufnol** is an engineering composite, resembling bakelite in appearance, made of linen fabric and resin. It machines easily, resists reaction with most chemicals, and is fairly expensive; it comes in blocks and sheets, and offcuts can be sourced through a workplace rather than buying full stock. Chosen for the rudder fittings over building the plans' own composite fitting simply when a piece large enough is already on hand, it should perform similarly to the plans-specified part.[50][51]
 
-Separately, the plans' masthead lightning-dissipation rod (see [lightning
-protection](/design/lightning-protection.md)) need not be bronze either:
-**marine-grade aluminium is an acceptable substitute** for the rod itself.
+Separately, the plans' masthead lightning-dissipation rod (see [lightning protection](/design/lightning-protection.md)) need not be bronze either: **marine-grade aluminium is an acceptable substitute** for the rod itself.
 
 ## Interest from outside the Paradox community
 
-The rolling-boom system has also drawn attention from builders of other
-small cruisers. A builder finishing a Bolger Micro Navigator fitted with a
-200 sq ft lug sail (in place of the plans' chinese gaff cat yawl rig) — whose
-own three-reef-point sail requires opening the main hatch and leaning out to
-reef by hand — asked whether Paradox's furling gear was specifically designed
-to avoid that problem, whether the approach could be adapted to other lug
-rigs, and how the furling drum and tack-line swivel are built.[49] Adapting
-the rig to a different boat requires first placing the sail's center of
-effort where **Matt Layden** placed it on Paradox, or balance will suffer.
-The roller furling, despite looking complicated, is "about as simple a
-solution as I have come across" once built — a bronze shaft riding in a
-bronze/copper pipe inside the boom end turns a furling drum via a line led
-below deck, and because the rolled sail and yard must be set aside to clear
-the hatch when not in use, the tack fitting passes through a pipe that
-swivels up or down into position. The plan sheets themselves are not shared
-outside the group, the furling system being Matt Layden's own unique
-development; the group's photo section and a specific Files-section photo
-(`TL07.jpg`, under "topping lift") show the arrangement.[52][53] The
-Micro Navigator builder went on to buy a set of Paradox plans and build his
-own yard and boom along traditional lines to get sailing that season,
-planning a beefier tapered boom with the drum-and-thimble reefing system the
-following winter — expecting his sail's own shape to reef and stow neatly
-once converted, and crediting Matt Layden's "well thought out" furling
-design as a case in point of what "a few thousand miles of boating will
-bring to mind."[54][55]
+The rolling-boom system has also drawn attention from builders of other small cruisers. A Bolger Micro Navigator fitted with a 200 sq ft lug sail (in place of the plans' chinese gaff cat yawl rig) — whose own three-reef-point sail requires opening the main hatch and leaning out to reef by hand — raised the question of whether Paradox's furling gear was specifically designed to avoid that problem, whether the approach could be adapted to other lug rigs, and how the furling drum and tack-line swivel are built.[49] Adapting the rig to a different boat requires first placing the sail's center of effort where **Matt Layden** placed it on Paradox, or balance will suffer. The roller furling, despite looking complicated, is "about as simple a solution as I have come across" once built — a bronze shaft riding in a bronze/copper pipe inside the boom end turns a furling drum via a line led below deck, and because the rolled sail and yard must be set aside to clear the hatch when not in use, the tack fitting passes through a pipe that swivels up or down into position. The plan sheets themselves are not shared outside the group, the furling system being Matt Layden's own unique development; the group's photo section and a specific Files-section photo (`TL07.jpg`, under "topping lift") show the arrangement.[52][53] That Micro Navigator project went on to a set of Paradox plans and a home-built yard and boom along traditional lines to get sailing that season, with a beefier tapered boom and the drum-and-thimble reefing system planned for the following winter — the converted sail's own shape expected to reef and stow neatly, and Matt Layden's "well thought out" furling design offered as a case in point of what "a few thousand miles of boating will bring to mind."[54][55]
 
 ## A tested alternative that failed: cleating the tack strop
 
-Running the **downhaul ("tack strop") to a cleat**, the same way the reef
-line is cleated, was proposed as a way to reef without a topping lift at
-all: slacken the tack strop and begin rolling in the reef line, then after a
-foot or two has rolled in, slacken the halyard and lower the sail, repeating
-as needed — letting the sail's own luff and leech act as its topping lift.
-Tested against the rig, **it does not work**: releasing the tack strop
-leaves the furling-drum line with nothing to work against — the whole point
-of the tube fitted over the furling axle — so no matter how hard the line is
-pulled, nothing happens. The topping lift remains the field-proven fix.
+Running the **downhaul ("tack strop") to a cleat**, the same way the reef line is cleated, was proposed as a way to reef without a topping lift at all: slacken the tack strop and begin rolling in the reef line, then after a foot or two has rolled in, slacken the halyard and lower the sail, repeating as needed — letting the sail's own luff and leech act as its topping lift. Tested against the rig, **it does not work**: releasing the tack strop leaves the furling-drum line with nothing to work against — the whole point of the tube fitted over the furling axle — so no matter how hard the line is pulled, nothing happens. The topping lift remains the field-proven fix.
 
 ## Matt Layden's own technique: foot pressure, no topping lift
 
-Matt Layden manages without a topping lift at all: he puts **pressure on the
-furling line with his foot** while hoisting sail, and **pressure on the
-halyard with his foot** while furling — freeing both hands for the line
-actually being worked, rather than needing a hand to hold up the boom
-(observed firsthand at the 2003 Cedar Key Messabout; see
-[matt-layden/biography.md](/matt-layden/biography.md)). It makes furling
-"look easy" and is worth other builders trying first, since it avoids
-rigging an extra topping-lift line altogether. This is a simple
-**body-weight technique** rather than any different hardware or line
-arrangement, and it is consistent with the observation (above) that Matt
-handles the stock gear noticeably faster than other experienced sailors.
+Matt Layden manages without a topping lift at all: he puts **pressure on the furling line with his foot** while hoisting sail, and **pressure on the halyard with his foot** while furling — freeing both hands for the line actually being worked, rather than needing a hand to hold up the boom (observed firsthand at the 2003 Cedar Key Messabout; see [matt-layden/biography.md](/matt-layden/biography.md)). It makes furling "look easy" and is worth other builders trying first, since it avoids rigging an extra topping-lift line altogether. This is a simple **body-weight technique** rather than any different hardware or line arrangement, and it is consistent with the observation (above) that Matt handles the stock gear noticeably faster than other experienced sailors.
 
-A topping lift and the foot-pressure technique are not mutually exclusive:
-one builder, already familiar with the same thimble-in-a-bridle arrangement
-from rigging a boom tent over a gooseneck-less boom, planned to try the
-foot-pressure method first but candidly doubted he would "go too long
-without" some form of topping lift, unable to "wrap [his] mind around the
-transition from stowed on deck, to unfurling" without one. A related fit
-question about the [tack-pipe fairlead](/design/rig.md): whether a strop
-hardened while the rig sits stowed on deck would go slack enough, once
-hoisted and standing more vertically, to let the pipe contact the deck in a
-lull or wind shift.
+A topping lift and the foot-pressure technique are not mutually exclusive. The same thimble-in-a-bridle arrangement, already familiar from rigging a boom tent over a gooseneck-less boom, invites trying the foot-pressure method first while doubting one would "go too long without" some form of topping lift, being hard to "wrap [the] mind around the transition from stowed on deck, to unfurling" without one. A related fit question about the [tack-pipe fairlead](/design/rig.md): whether a strop hardened while the rig sits stowed on deck would go slack enough, once hoisted and standing more vertically, to let the pipe contact the deck in a lull or wind shift.
 
 ## Independent builders converge on the same fix
 
-Three independent builders each found the stock furling gear impractical
-without a topping lift and fitted one as a fix, making it the most
-consistently reported build-and-refit lesson for the rig — including
-[Alastair](/people/alastair.md), building "[Little
-Jim](/boats/little-jim.md)."
+Three independent builders each found the stock furling gear impractical without a topping lift and fitted one as a fix, making it the most consistently reported build-and-refit lesson for the rig — including the build of "[Little Jim](/boats/little-jim.md)."
 
-Alastair's first hands-on rigging trial confirmed the pattern independently:
-a temporary furling arrangement made by winding extra rope onto the reefing
-spool technically worked but was not practical — lowering the sail required
-**3 in steps** at a time and gave him blisters. His verdict, echoing the
-other builders' experience: **"a topping lift it is."** He then rigged his
-own topping lift with **similar geometry** to the system above but simpler:
-a single line over a masthead block, splitting to each end of the boom.
-Once the lengths were right, "it seemed to work ok." He judged the plans'
-suggested **6 mm** furling-line diameter "a tad thin for easy handling." See
-[Little Jim — the sail collected](/boats/little-jim.md) for the boat-level
-record.
+A first hands-on rigging trial confirmed the pattern independently: a temporary furling arrangement made by winding extra rope onto the reefing spool technically worked but was not practical — lowering the sail required **3 in steps** at a time and gave blisters. The verdict, echoing the other builders' experience: **"a topping lift it is."** The topping lift then rigged had **similar geometry** to the system above but simpler: a single line over a masthead block, splitting to each end of the boom. Once the lengths were right, "it seemed to work ok." The plans' suggested **6 mm** furling-line diameter was judged "a tad thin for easy handling." See [Little Jim — the sail collected](/boats/little-jim.md) for the boat-level record.
 
-Before his own trial, Alastair had theorized (untested) that if the radius
-where the furling line comes off the drum is significantly larger than the
-radius of the sail rolled on the boom, the boom would naturally want to roll
-upward and support itself when the halyard and reefing line are pulled
-tight, without needing a topping lift at all — a theory his own first trial
-above did not bear out in practice. See
-[Little Jim — a topping-lift exchange](/boats/little-jim.md)
-for the full exchange, including the recommendation that Alastair fit a
-topping lift before decking over his own hull.
+Before that trial, a theory had been floated (untested) that if the radius where the furling line comes off the drum is significantly larger than the radius of the sail rolled on the boom, the boom would naturally want to roll upward and support itself when the halyard and reefing line are pulled tight, without needing a topping lift at all — a theory the first trial above did not bear out in practice. See [Little Jim — a topping-lift exchange](/boats/little-jim.md) for the full exchange, including the recommendation to fit a topping lift before decking over the hull.
 
 ## Alastair's fuller walkthrough, and a continuous halyard/furling-line innovation
 
-Alastair gave the fullest first-person walkthrough of exactly how a topping
-lift interacts with the halyard and furling line in practice:
+The fullest first-person walkthrough of exactly how a topping lift interacts with the halyard and furling line in practice:
 
-- **Furling (reefing) sequence**: lock off the furling line, then haul on
-  the main halyard — this lifts the boom above the cabin into a severely
-  reefed (no-sail) position. Tighten the topping lift at that point; this
-  stops the boom from falling when the furling line is next eased. Hauling
-  on the halyard alone, without locking the furling line first, "just gives
-  you sore hands" and leaves the boom needing to be helped into position by
-  hand — confirming, from a second builder, the same three-hands problem
-  described above.
-- **Unfurling (making sail) sequence**: once as much sail as wanted is
-  unfurled, make the furling line fast and release the topping lift.
-- His own arrangement (documented with photos on his website, "Afloat" page):
-  one line runs from the boom's end up to the topping-lift halyard and back
-  down to the furling axle; the topping-lift halyard runs through an eye and
-  back down the mast into the cabin. Getting the halyard's attachment point
-  on the boom-line right, so the boom hangs level, took some experimentation.
-- **A genuine innovation**: to reduce the amount of loose rope in the cabin,
-  Alastair made his **halyard and furling line continuous** — a single line
-  rather than two separate ones — so that as the halyard is hauled in, the
-  furling line pays out in step, with only about a **3 ft loop** actually
-  loose in the cabin at any time. The trade-off is that this makes it
-  impossible to simply release the halyard and drop the sail over the side
-  in an emergency — though he was never convinced that dropping all that
-  sail over the side would actually be a good idea in an emergency anyway.
-  "So far that seems to work too." This is the first record of any Paradox
-  builder combining the halyard and furling line into one continuous loop —
-  a refinement on top of the two-line topping-lift systems described above,
-  distinct from but complementary to Matt Layden's own foot-pressure,
-  no-topping-lift technique.
+- **Furling (reefing) sequence**: lock off the furling line, then haul on the main halyard — this lifts the boom above the cabin into a severely reefed (no-sail) position. Tighten the topping lift at that point; this stops the boom from falling when the furling line is next eased. Hauling on the halyard alone, without locking the furling line first, "just gives you sore hands" and leaves the boom needing to be helped into position by hand — a second, independent confirmation of the same three-hands problem described above.
+- **Unfurling (making sail) sequence**: once as much sail as wanted is unfurled, make the furling line fast and release the topping lift.
+- One documented arrangement (with photos on a builder's website, "Afloat" page): one line runs from the boom's end up to the topping-lift halyard and back down to the furling axle; the topping-lift halyard runs through an eye and back down the mast into the cabin. Getting the halyard's attachment point on the boom-line right, so the boom hangs level, takes some experimentation.
+- **A genuine innovation**: to reduce the amount of loose rope in the cabin, the **halyard and furling line can be made continuous** — a single line rather than two separate ones — so that as the halyard is hauled in, the furling line pays out in step, with only about a **3 ft loop** actually loose in the cabin at any time. The trade-off is that this makes it impossible to simply release the halyard and drop the sail over the side in an emergency — though dropping all that sail over the side is not obviously a good idea in an emergency anyway. "So far that seems to work too." This is the first record of any Paradox builder combining the halyard and furling line into one continuous loop — a refinement on top of the two-line topping-lift systems described above, distinct from but complementary to Matt Layden's own foot-pressure, no-topping-lift technique.
 
 ## A tacking-direction asymmetry with the furl direction
 
-Sailing alongside **Matt Layden** at Ft. Desoto just before the 2003
-Everglades Challenge (see
-[boats/original-paradox.md](/boats/original-paradox.md)), photographs showed
-Matt's sail rolling **counter-clockwise as viewed from the cockpit** — the
-opposite furling direction from the "furl away from the mast" convention
-described above.
+Sailing alongside **Matt Layden** at Ft. Desoto just before the 2003 Everglades Challenge (see [boats/original-paradox.md](/boats/original-paradox.md)), photographs showed Matt's sail rolling **counter-clockwise as viewed from the cockpit** — the opposite furling direction from the "furl away from the mast" convention described above.
 
-Sailing reefed for the first time in a long while during the same outing,
-"[Zoë](/boats/zoe.md)" proved a **full knot slower on starboard tack** (sail
-hanging away from the mast) than on port tack while short-tacking — the
-first record of a builder considering reversing the stock furling direction
-based on a measured speed difference between tacks, rather than for
-ease-of-handling reasons alone. See
-[rig and sail](/design/rig.md)
-for the same exchange's sailmaking side.
+Sailing reefed for the first time in a long while during the same outing, "[Zoë](/boats/zoe.md)" proved a **full knot slower on starboard tack** (sail hanging away from the mast) than on port tack while short-tacking — the first record of a builder considering reversing the stock furling direction based on a measured speed difference between tacks, rather than for ease-of-handling reasons alone. See [rig and sail](/design/rig.md) for the same exchange's sailmaking side.
 
 ## A halyard-knot failure and furling-line jam, recovered underway
 
-The furling system's first documented **in-use mishap** came from a
-halyard-knot failure, not the topping-lift/three-hands problem otherwise
-documented throughout this concept (see
-[Glen C. Maxwell — "Building encouragement"](/people/glen-maxwell/build-and-zoe.md)
-for the fuller trip report). Hoisting sail one morning, a **halyard knot let
-go** just as the sail reached the masthead, dropping the whole rig into the
-water — recovery required re-anchoring, dropping the mast, re-reeving the
-halyard, re-stepping the mast, and getting under way again. Once sailing,
-the sail proved not fully hoisted despite a tight halyard: the **furling
-line had jumped off the reel and jammed around the axle**, locking the
-furling gear so the sail could be neither raised nor lowered further. Rather
-than stop to fix it immediately, the fix waited: sailing on with the sail as
-set, beating up a tidal creek on the current until there was room to deal
-with the problem properly, then clearing it by dropping sail, anchoring,
-rewinding the furling line by hand, and getting back under way.
+The furling system's first documented **in-use mishap** came from a halyard-knot failure, not the topping-lift/three-hands problem otherwise documented throughout this concept (see ["Building encouragement"](/people/glen-maxwell/build-and-zoe.md) for the fuller trip report). Hoisting sail one morning, a **halyard knot let go** just as the sail reached the masthead, dropping the whole rig into the water — recovery required re-anchoring, dropping the mast, re-reeving the halyard, re-stepping the mast, and getting under way again. Once sailing, the sail proved not fully hoisted despite a tight halyard: the **furling line had jumped off the reel and jammed around the axle**, locking the furling gear so the sail could be neither raised nor lowered further. Rather than stop to fix it immediately, the fix waited: sailing on with the sail as set, beating up a tidal creek on the current until there was room to deal with the problem properly, then clearing it by dropping sail, anchoring, rewinding the furling line by hand, and getting back under way.
 
-Two lessons follow: **check the halyard knot before hoisting**, and **keep
-some tension on the furling line while hoisting sail** — a slack,
-free-running furling line risks jumping off the drum and fouling if the
-sail catches wind and unfurls too quickly as it goes up.
+Two lessons follow: **check the halyard knot before hoisting**, and **keep some tension on the furling line while hoisting sail** — a slack, free-running furling line risks jumping off the drum and fouling if the sail catches wind and unfurls too quickly as it goes up.
 
 ## A UK builder's topping-lift question
 
-A *Messing About In Boats* sea-trials article (see
-[boats/zoe.md — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles))
-showing Matt Layden getting along without a topping lift prompted the
-question of what other builders' experience was with or without one.
-[Alastair](/people/alastair.md) answered from his own hands-on trial: sailing
-without a topping lift is possible (he tried it on land), but a topping lift
-makes the operation "much simpler, with a lot less heaving" — restating,
-from a third independent builder, the same three-hands difficulty and
-topping-lift fix already established above. His own topping lift, he added,
-is simpler than the two-line system described earlier.
+A *Messing About In Boats* sea-trials article (see [boats/zoe.md — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles)) showing Matt Layden getting along without a topping lift prompted the question of what other builders' experience was with or without one. From a hands-on trial: sailing without a topping lift is possible (tried on land), but a topping lift makes the operation "much simpler, with a lot less heaving" — a third independent builder restating the same three-hands difficulty and topping-lift fix already established above, with a topping lift simpler than the two-line system described earlier.
 
 ## A second, later topping-lift question, and two more confirmations
 
-Nearly two years after his first topping-lift question, the same builder
-asked again — undecided whether to fit one at all, and inclined toward
-Matt Layden's own without-a-topping-lift practice in the interest of
-keeping the design's inherent simplicity (no standing rigging, no foresail,
-a yuloh rather than an engine for backup propulsion).
+Nearly two years after the first topping-lift question, the same question came round again — undecided whether to fit one at all, and inclined toward Matt Layden's own without-a-topping-lift practice in the interest of keeping the design's inherent simplicity (no standing rigging, no foresail, a yuloh rather than an engine for backup propulsion).
 
-Two more builders answered from direct experience, both confirming the
-topping lift is worth fitting rather than skipped:
+Two more builders answered from direct experience, both confirming the topping lift is worth fitting rather than skipped:
 
-- One **could not get the stock gear to work at all** — "I just didn't have
-  the touch" — and has had zero problems since adding a topping lift.
-- The other, **Alastair**, restated the mechanism plainly: without a
-  topping lift, slackening the halyard drops the boom straight onto the
-  cabin roof, where it bangs about while the furling line is hauled in;
-  thicker line might hold enough tension to keep the boom up unaided, but
-  even with a topping lift fitted the furling line still needs a hard pull.
-  He noted his own sail's **heavy cloth (about 6 oz)** likely makes the
-  problem worse than it would be with lighter cloth.
+- One **could not get the stock gear to work at all** — "I just didn't have the touch" — and has had zero problems since adding a topping lift.
+- The other restated the mechanism plainly: without a topping lift, slackening the halyard drops the boom straight onto the cabin roof, where it bangs about while the furling line is hauled in; thicker line might hold enough tension to keep the boom up unaided, but even with a topping lift fitted the furling line still needs a hard pull. A sail's **heavy cloth (about 6 oz)** likely makes the problem worse than it would be with lighter cloth.
 
-This makes at least **five independent builders** — Glen Maxwell, David
-Beard, David C. Smith, and Alastair earlier, plus this pair — who each tried the
-stock gear and independently reached the same conclusion: fit a topping
-lift.
+This makes at least **five independent builders** who each tried the stock gear and independently reached the same conclusion: fit a topping lift.
 
 ## A third topping-lift question: reading the deck-tube layout at the mast
 
-Having settled on fitting a topping lift, a builder returned with a
-detailed question about the exact rigging geometry, working from his own
-reading of the plans' deck-tube layout: three tubes through the deck close
-to and forward of the mast on the port side (read, in order outward, as the
-tack strop, the topping lift, and the furling line), and one tube aft of
-the mast to starboard for the main halyard. He also asked whether
-[Glen Maxwell](/people/glen-maxwell/list-founder-and-moderator.md)'s own
-topping lift still runs a three-block purchase to starboard, and whether
-its downhaul has since moved from a mast-mounted fairlead and jam cleat
-above deck to a below-deck block reached through a deck tube and cleated at
-the front of the vent box, matching the main halyard's own arrangement; and
-how much independent control such a rig gives over the boom's two
-ends — whether the aft end can be hoisted without disturbing the forward
-end's position, and whether the boom can be raised or lowered
-horizontally. A further comparison concerned which side of the boat
-carries the topping lift's single masthead block: **Alastair**'s runs to
-port, split from the furling rod on one part to the mainsheet tang on the
-other; a **starboard**-side block, by contrast, keeps the topping lift clear
-of the yard (avoiding sail wear) but forces the two-part span to cross the
-boat when the sail is stowed on the port deck.[60]
+Having settled on fitting a topping lift, a detailed question returned about the exact rigging geometry, working from a reading of the plans' deck-tube layout: three tubes through the deck close to and forward of the mast on the port side (read, in order outward, as the tack strop, the topping lift, and the furling line), and one tube aft of the mast to starboard for the main halyard. The question also asked whether one builder's own topping lift still runs a three-block purchase to starboard, and whether its downhaul has since moved from a mast-mounted fairlead and jam cleat above deck to a below-deck block reached through a deck tube and cleated at the front of the vent box, matching the main halyard's own arrangement; and how much independent control such a rig gives over the boom's two ends — whether the aft end can be hoisted without disturbing the forward end's position, and whether the boom can be raised or lowered horizontally. A further comparison concerned which side of the boat carries the topping lift's single masthead block: one runs to **port**, split from the furling rod on one part to the mainsheet tang on the other; a **starboard**-side block, by contrast, keeps the topping lift clear of the yard (avoiding sail wear) but forces the two-part span to cross the boat when the sail is stowed on the port deck.[60]
 
-**Alastair** answered the masthead-block question directly: an eye (not a
-block) is screwed to the aft side of the mast, carrying the two-part span
-to port of the mast but starboard of the sail. The ropes have never been
-felt to get in the way when stowed; the only real drawback is care needed
-not to let the yard end up on the wrong side of the ropes when starting to
-haul — not disastrous, but it forces the sail to be reefed slightly, since
-the yard then cannot be hauled all the way to the masthead. The aft span
-also lets the halyard and topping lift be tied off away from the mast, to
-stop them slapping against it at night.[61]
+The masthead-block question was answered directly for the port-side arrangement: an eye (not a block) is screwed to the aft side of the mast, carrying the two-part span to port of the mast but starboard of the sail. The ropes have never been felt to get in the way when stowed; the only real drawback is care needed not to let the yard end up on the wrong side of the ropes when starting to haul — not disastrous, but it forces the sail to be reefed slightly, since the yard then cannot be hauled all the way to the masthead. The aft span also lets the halyard and topping lift be tied off away from the mast, to stop them slapping against it at night.[61]
 
-**Glen Maxwell** gave the fuller answer on his own three-block arrangement:
-yes, he still runs a topping lift to starboard with a three-block purchase,
-and yes, the downhaul now leads to a block in the vent box via a deck tube,
-cleated at the vent box's front exactly like the main halyard. Of the three
-port-side deck tubes near the mast, the **innermost** is in fact the
-topping lift, not the furling line as guessed — the outermost is the tack
-strop, and the furling line runs between the two. The idea behind the
-multi-block purchase is that hauling in on the topping lift brings the boom
-up and centers it into the correct position on its own, letting one line do
-the work of two; in practice it works less well than hoped, but well enough
-that he has not changed it. He confirmed the lines have never fouled, since
-the aft one sits well back — like Alastair, he snugs the halyard up once
-the sail is stowed to port and ties the lines off to it so they don't drum
-against the mast. He normally sails off the hook and hoists on a starboard
-tack; if the yard does catch on the lift he simply lowers it slightly and
-flips it clear — the one point where it becomes a real problem is, as with
-anything, when everything most needs to go right, and the fix is the same
-as ever: take the time to think it through, and with some luck the result
-will look deliberate.[62] Bill thanked Alastair for the explanation,[63]
-and separately thanked Glen Maxwell in turn for his own detailed reply,
-closing out the thread.[64]
+The fuller answer on the three-block arrangement: yes, a topping lift still runs to starboard with a three-block purchase, and yes, the downhaul now leads to a block in the vent box via a deck tube, cleated at the vent box's front exactly like the main halyard. Of the three port-side deck tubes near the mast, the **innermost** is in fact the topping lift, not the furling line as guessed — the outermost is the tack strop, and the furling line runs between the two. The idea behind the multi-block purchase is that hauling in on the topping lift brings the boom up and centers it into the correct position on its own, letting one line do the work of two; in practice it works less well than hoped, but well enough that it has not been changed. The lines have never fouled, since the aft one sits well back — as in the port-side arrangement, the halyard is snugged up once the sail is stowed to port and the lines tied off to it so they don't drum against the mast. Sailing off the hook and hoisting on a starboard tack is the norm; if the yard does catch on the lift it simply lowers slightly and flips clear — the one point where it becomes a real problem is, as with anything, when everything most needs to go right, and the fix is the same as ever: take the time to think it through, and with some luck the result will look deliberate.[62] Both explanations were duly thanked, closing out the thread.[63][64]
 
 ## Related hardware: the boom-end tack-line pulley
 
-A related but distinct piece of boom hardware is the **tack-line holes** in
-the pulley at the boom's end (as opposed to the tack strop/downhaul covered
-above), along with a rot-prevention technique for small drilled holes
-generally. See
-[boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
+A related but distinct piece of boom hardware is the **tack-line holes** in the pulley at the boom's end (as opposed to the tack strop/downhaul covered above), along with a rot-prevention technique for small drilled holes generally. See [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
 
 ## Boom-furling across the Layden family (microcruising.com)
 
-The stock system across Matt Layden's boats is a **simple lug sail, manually
-rolled/furled around the boom** — used since [Swamp Thing](/matt-layden/swamp-thing.md)
-(1985), whose "interesting details" list includes a "roller furling main."
-On Paradox, Matt kept this same approach but **added a drum so the sail could
-be reefed from inside** the cabin, rather than needing to go on deck. Later
-boats in the lineage carry the same feature: Enigma and Sand Flea are both
-described as having a "handy roller furling boom." David & Mindy Bolduc
-report the whole reefing operation — releasing the halyard and pulling in
-the reef line(s) — takes about **20 seconds**. See
-[rig and sail](/design/rig.md) for the broader rig context.
+The stock system across Matt Layden's boats is a **simple lug sail, manually rolled/furled around the boom** — used since [Swamp Thing](/matt-layden/swamp-thing.md) (1985), whose "interesting details" list includes a "roller furling main." On Paradox, Matt kept this same approach but **added a drum so the sail could be reefed from inside** the cabin, rather than needing to go on deck. Later boats in the lineage carry the same feature: Enigma and Sand Flea are both described as having a "handy roller furling boom." The whole reefing operation — releasing the halyard and pulling in the reef line(s) — takes about **20 seconds**. See [rig and sail](/design/rig.md) for the broader rig context.
 
 ## How the boom-furling drum works (Dave's Wiki)
 
-[Dave Raftery](/references/daves-wiki.md)'s wiki gives the clearest mechanical
-description of the system, corroborating the above from a third source: "These
-boats furl the sail around the boom. **The boom actually rotates on its axis.
-There is a drum at the forward end of the boom, around which the sail furling
-line winds. When the sail is raised with the halyard, the furling line is payed
-out, allowing the boom to rotate and release the sail. The process is reversed
-to reef the sail.** All control lines lead inside the cabin." The rig is a
-~100 sq ft low-aspect-ratio lug on an **unstayed mast that can be removed to
-pass under bridges**.
+A [third-source wiki](/references/daves-wiki.md) gives the clearest mechanical description of the system, corroborating the above: "These boats furl the sail around the boom. **The boom actually rotates on its axis. There is a drum at the forward end of the boom, around which the sail furling line winds. When the sail is raised with the halyard, the furling line is payed out, allowing the boom to rotate and release the sail. The process is reversed to reef the sail.** All control lines lead inside the cabin." The rig is a ~100 sq ft low-aspect-ratio lug on an **unstayed mast that can be removed to pass under bridges**.
 
 ## The Mk1/Mk2 tack-angle difference, and why the sail can't be fenced onto the drum
 
-Builders have asked whether a **stationary housing or fence around the
-furling drum** — as seen on some commercial roller-furling gear — would stop
-the sail from wandering as it rolls up, or keep the furling line from
-slipping off the drum. Neither problem is solved that way in practice.
+Builders have asked whether a **stationary housing or fence around the furling drum** — as seen on some commercial roller-furling gear — would stop the sail from wandering as it rolls up, or keep the furling line from slipping off the drum. Neither problem is solved that way in practice.
 
-Where the sail sits on the boom as it furls is governed by the **taper of
-the boom** and the **tack angle** of the sail as cut, not by any fence around
-the drum. The original ("Mk1") sail has a tack angle of nearly 90 degrees, so
-it furls pretty much on top of itself; Matt Layden's taller, later ("Mk2")
-sail plan (see [Mk2 sail](/construction/sailmaking.md)) has a tack angle
-greater than 90 degrees, so it wants to **move forward along the boom, toward
-the drum,** as it rolls up — on the Mk2 sail specifically, the sail needs to
-sit roughly **7.5 in away from the furler drum** (an earlier, widely-repeated
-figure of 2.5 in was a builder's own typo) or it will try to climb over it
-while reefing. Trying to fence or otherwise constrain the sail against this
-tendency does not work; it simply jams. The fix is the same one already
-established for the reefing-triangle problem — **tapering the boom itself**
-(or building up its outboard end) so the sail has room to sit where it wants
-to go; see [the reefing triangle, and why reshaping the boom's own taper is
-the wrong fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix)
-for the boom-taper technique in full, and
-[why the mainsheet presented at the helmsman's back is not awkward in
-practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice)
-for related rig detail.
+Where the sail sits on the boom as it furls is governed by the **taper of the boom** and the **tack angle** of the sail as cut, not by any fence around the drum. The original ("Mk1") sail has a tack angle of nearly 90 degrees, so it furls pretty much on top of itself; Matt Layden's taller, later ("Mk2") sail plan (see [Mk2 sail](/construction/sailmaking.md)) has a tack angle greater than 90 degrees, so it wants to **move forward along the boom, toward the drum,** as it rolls up — on the Mk2 sail specifically, the sail needs to sit roughly **7.5 in away from the furler drum** (an earlier, widely-repeated figure of 2.5 in was a typo) or it will try to climb over it while reefing. Trying to fence or otherwise constrain the sail against this tendency does not work; it simply jams. The fix is the same one already established for the reefing-triangle problem — **tapering the boom itself** (or building up its outboard end) so the sail has room to sit where it wants to go; see [the reefing triangle, and why reshaping the boom's own taper is the wrong fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix) for the boom-taper technique in full, and [why the mainsheet presented at the helmsman's back is not awkward in practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice) for related rig detail.
 
-Separately, the furling **line itself has never been reported coming off the
-drum** by a builder with three seasons' use of the stock gear, since the
-furling-line system (unlike a simple headsail roller-furler) is never run
-slack — it is under tension at both ends of its travel. The one part of a
-typical rig that **does** foul up regularly is the topping lift, not the
-furling drum; see [the running topping lift and internal
-reroute](#the-running-topping-lift-and-internal-reroute) above.
+Separately, the furling **line itself has never been reported coming off the drum** across three seasons' use of the stock gear, since the furling-line system (unlike a simple headsail roller-furler) is never run slack — it is under tension at both ends of its travel. The one part of a typical rig that **does** foul up regularly is the topping lift, not the furling drum; see [the running topping lift and internal reroute](#the-running-topping-lift-and-internal-reroute) above.
 
 ### Worked boom dimensions for the Mk1 taper
 
-One builder's own Mk1 boom gives a concrete worked example of the taper
-described above: **50 x 38 mm** (with 8 mm radius corners) at the clew end,
-tapering to **35 x 38 mm** at the tack end — a difference in circumference of
-about **30 mm**.[70] An independently-guessed rule of thumb for a first
-attempt at this taper — a **3/8 in difference in diameter** between the clew
-and tack ends (about 30 mm of circumference on a round boom section,
-matching the worked Mk1 figure closely) — is a reasonable starting point for
-a builder without the exact plans dimension to hand; since the rig is small,
-the fit can be trial-and-error, refined afterward with a spokeshave and
-plane.[69]
+A worked Mk1 boom gives a concrete example of the taper described above: **50 x 38 mm** (with 8 mm radius corners) at the clew end, tapering to **35 x 38 mm** at the tack end — a difference in circumference of about **30 mm**.[70] An independently-guessed rule of thumb for a first attempt at this taper — a **3/8 in difference in diameter** between the clew and tack ends (about 30 mm of circumference on a round boom section, matching the worked Mk1 figure closely) — is a reasonable starting point without the exact plans dimension to hand; since the rig is small, the fit can be trial-and-error, refined afterward with a spokeshave and plane.[69]
 
-Furling itself, once the boom is correctly tapered, is reported to be **as
-easy as it looks** in the WaterTribe video of Matt Layden's own roller-blind
-style furling demonstration — the main practical hazard being rope blisters
-until a sailor's hands harden to the furling line, not any difficulty with
-the mechanism itself. The Mk2 sail's forward creep as it furls (see above) is
-repeatable once the boom is set up correctly, so a boom tapered to keep the
-furled sail clear of the drum on the first reef stays clear on every
-subsequent one.[70]
+Furling itself, once the boom is correctly tapered, is reported to be **as easy as it looks** in the WaterTribe video of Matt Layden's own roller-blind style furling demonstration — the main practical hazard being rope blisters until a sailor's hands harden to the furling line, not any difficulty with the mechanism itself. The Mk2 sail's forward creep as it furls (see above) is repeatable once the boom is set up correctly, so a boom tapered to keep the furled sail clear of the drum on the first reef stays clear on every subsequent one.[70]
 
-The 2.5 in figure above was later corrected by its own source to **7.5 in**
-— a typo in the original report, not a measurement error — meaning the
-Mk2 sail's forward creep while furling is three times greater than first
-recorded, and a builder tapering a boom for the Mk2 sail should allow for the
-larger figure.[71][72] A builder replacing a Mk1 boom confirmed the same
-worked dimensions given above (50 x 38 mm at the clew, 35 x 38 mm at the
-tack) while rebuilding in mahogany.[71]
+The 2.5 in figure above was later corrected to **7.5 in** — a typo in the original report, not a measurement error — meaning the Mk2 sail's forward creep while furling is three times greater than first recorded, and a boom tapered for the Mk2 sail should allow for the larger figure.[71][72] Replacing a Mk1 boom confirmed the same worked dimensions given above (50 x 38 mm at the clew, 35 x 38 mm at the tack) while rebuilding in mahogany.[71]
 
-Asked directly, once the corrected 7.5 in figure was on record, whether the
-boom's taper itself should now be made more pronounced to match: the builder
-who had just rebuilt his boom in mahogany was not convinced a bigger taper
-would actually help, since the increased tack angle on the Mk2 sail already
-pushed the tack-securing point further back along the boom regardless of
-taper — reasoning he could not fully work out mathematically, but was
-content to let the rebuilt boom's real-world furling performance be the
-judge.[73]
+Asked directly, once the corrected 7.5 in figure was on record, whether the boom's taper itself should now be made more pronounced to match: a bigger taper was not convincingly a help, since the increased tack angle on the Mk2 sail already pushed the tack-securing point further back along the boom regardless of taper — reasoning that could not be fully worked out mathematically, but the rebuilt boom's real-world furling performance would be the judge.[73]
 
-The stationary-housing/fence question above was answered to the original
-asker's satisfaction — a lighter drum arrangement means fewer parts to
-build in the first place, since neither problem it was meant to solve (sail
-position on the boom, or the line coming off the drum) is actually caused by
-the drum itself.[74]
+The stationary-housing/fence question above was answered to satisfaction — a lighter drum arrangement means fewer parts to build in the first place, since neither problem it was meant to solve (sail position on the boom, or the line coming off the drum) is actually caused by the drum itself.[74]
 
 ### A second builder's own forward-gather fix, and Matt Layden's technique reconfirmed
 
-A builder who has sailed both sails — the Mk1 (since passed on to another
-UK builder) and, currently, the Mk2 on "[Zoë](/boats/zoe.md)" — reported his
-own cure for the sail gathering forward while furling: attach the **tack
-close to the drum**, and keep the **clew end of the boom raised slightly**.
-He also runs a topping lift, which helps considerably.[75] Asked, on
-everyone's behalf, how Matt Layden makes furling and unfurling look so easy
-without a topping lift at all, he relayed Matt's own explanation directly:
-Matt holds tension on the **halyard with his foot while lowering**, and on
-the **furling line with his foot while raising** — freeing both hands for
-the line actually being worked (see [Matt Layden's own technique: foot
-pressure, no topping lift](#matt-laydens-own-technique-foot-pressure-no-topping-lift)
-for the fuller record of this same method). One builder replied that he and
-a fellow UK builder had already tried varying the topping lift's height at
-the clew without success, but planned to try again once his newly rebuilt
-boom was in service, reflecting that rig details generally take longer to
-get right than expected.[76] A separate correspondent, sailing a non-Paradox
-roller-furling boom of his own ("Seaward Fox"), confirmed the same
-foot-pressure technique works for him too, comparing the stock Paradox gear
-to the roller-furling boom on the F-27 trimaran.[77]
+Experience of both sails — the Mk1 (since passed on to another UK builder) and, currently, the Mk2 on "[Zoë](/boats/zoe.md)" — yielded a cure for the sail gathering forward while furling: attach the **tack close to the drum**, and keep the **clew end of the boom raised slightly**. A topping lift also helps considerably.[75] On how Matt Layden makes furling and unfurling look so easy without a topping lift at all, his own explanation runs directly: Matt holds tension on the **halyard with his foot while lowering**, and on the **furling line with his foot while raising** — freeing both hands for the line actually being worked (see [Matt Layden's own technique: foot pressure, no topping lift](#matt-laydens-own-technique-foot-pressure-no-topping-lift) for the fuller record of this same method). Varying the topping lift's height at the clew had already been tried without success, but was worth trying again once a newly rebuilt boom was in service — rig details generally take longer to get right than expected.[76] From a non-Paradox roller-furling boom ("Seaward Fox"), the same foot-pressure technique works too, comparing the stock Paradox gear to the roller-furling boom on the F-27 trimaran.[77]
 
 # Citations
 

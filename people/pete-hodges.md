@@ -8,94 +8,30 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Pete Hodges
 
-**Pete Hodges** was a Florida-based `paradoxbuilders` list member active from
-late 2001 into 2002. At 6'3" and 210 lb, he approached the design from the
-perspective of a large sailor, and
-became a prolific asker of detailed construction and design questions as well
-as a source of his own materials and hull-protection ideas. He decided to
-build a 10%-enlarged Paradox — his "Paradox 1.1" — and by May 2002 was
-gathering materials to begin.
+**Pete Hodges** was a Florida-based `paradoxbuilders` list member active from late 2001 into 2002. At 6'3" and 210 lb, he approached the design from the perspective of a large sailor, and became a prolific asker of detailed construction and design questions as well as a source of his own materials and hull-protection ideas. He decided to build a 10%-enlarged Paradox — his "Paradox 1.1" — and by May 2002 was gathering materials to begin.
 
 ## The "Paradox 1.1" enlargement
 
-Hodges' central project was scaling the boat up to fit a big man. He first
-explored piecemeal headroom fixes — measuring the stock cabin's rear headroom
-at ~36 in against a 39 in target and weighing options such as lowering the sole
-with steel-strap replacement ballast, raising the cabin roof, and a whole-boat
-enlargement — before settling instead on a uniform 10% "1.1" stretch. He fixed
-on 10% as the practical ceiling: beyond it the side panels need an extra scarf
-and the bottom panel (with chines) exceeds 4 ft, forcing more scarfing and
-plywood waste. In the process he raised the technical subtleties of scaling —
-that angled parts need lofting rather than flat multiplication, and that sail
-area over-grows under a linear scale-up — questions worked through in full on
-[stretched Paradox](/design/variants/stretched-paradox.md) and
-[enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md).
-By May 2002 he was "screwing up his nerve" to start the build once his tax
-refund arrived — planning a tent shelter, bronze ring nails, epoxy, and stem
-and beam molds — though no completed build is on record.
+Hodges' central project was scaling the boat up to fit a big man. He first explored piecemeal headroom fixes — measuring the stock cabin's rear headroom at ~36 in against a 39 in target and weighing options such as lowering the sole with steel-strap replacement ballast, raising the cabin roof, and a whole-boat enlargement — before settling instead on a uniform 10% "1.1" stretch. He fixed on 10% as the practical ceiling: beyond it the side panels need an extra scarf and the bottom panel (with chines) exceeds 4 ft, forcing more scarfing and plywood waste. In the process he raised the technical subtleties of scaling — that angled parts need lofting rather than flat multiplication, and that sail area over-grows under a linear scale-up — questions worked through in full on [stretched Paradox](/design/variants/stretched-paradox.md) and [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md). By May 2002 he was "screwing up his nerve" to start the build once his tax refund arrived — planning a tent shelter, bronze ring nails, epoxy, and stem and beam molds — though no completed build is on record.
 
 ## Contributions and ideas
 
-Hodges pressed a wide range of construction and design questions on the list,
-each of which lives in full on its topic page:
+Hodges pressed a wide range of construction and design questions on the list, each of which lives in full on its topic page:
 
-- **Chine runners:** whether the runner pattern pre-builds the horizontal
-  curve, whether the runners take abuse and ground first, and whether a metal
-  edge would protect them (advised against on hydrodynamic grounds); he also
-  floated using the runners plus a heavy inside fillet as a substitute for an
-  internal chine log — see [chine runner construction](/chine-runners/construction.md).
-- **Chine-shoe materials:** cost, sourcing, and fastening of copper-nickel,
-  ferrocement, or steel chine pieces, contributing a March 2001 Cu/Ni price
-  list of his own — see [stretched Paradox](/design/variants/stretched-paradox.md)
-  and [Mat ("mat_man22")](/people/mat-man22.md).
-- **Deck and cabin beams:** whether laminated plywood strips could substitute
-  for solid timber — see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
-- **Tack-line holes:** the second boom-end hole's use, and whether the narrow
-  deep holes could be epoxy-armored against rot without being filled solid —
-  see [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
-- **Interior and stowage:** the tight forward-compartment access hole, and how
-  a 65 lb battery could reach its plans-specified location (answered: the
-  interior panels are simply removable) — see
-  [interior bins and hinged floor](/design/interior-bins-and-floor.md).
-- **Rig geometry:** a best-guess answer that the mast runs parallel to
-  bulkhead #2 — see [rig and sail](/design/rig.md).
-- **Furling:** reservations about the unusual reefing/furling system, and a
-  request to relocate an earlier topping-lift sketch — see
-  [furling system](/design/furling-system.md).
-- **Head and sanitation:** recommending a watertight-boxed head under the helm
-  seat, and noting that marine-sanitation law matters only as much as its
-  local enforcement (Florida, California, Turkey examples) — see
-  [head and sanitation arrangements](/operations/head-and-sanitation.md).
-- **Glass-bottom window:** suggesting a ~1 sq ft Lexan window doubling as
-  interior lighting in shallow water — see
-  [glass-bottom Paradox (speculative)](/design/glass-bottom-idea.md).
-- **Little Cruiser's sail:** asking whether its more attractive sail was
-  flat-cut or shaped (it is broadseamed) — see
-  [Little Cruiser](/matt-layden/little-cruiser.md).
+- **Chine runners:** whether the runner pattern pre-builds the horizontal curve, whether the runners take abuse and ground first, and whether a metal edge would protect them (advised against on hydrodynamic grounds); also floated using the runners plus a heavy inside fillet as a substitute for an internal chine log — see [chine runner construction](/chine-runners/construction.md).
+- **Chine-shoe materials:** cost, sourcing, and fastening of copper-nickel, ferrocement, or steel chine pieces, contributing a March 2001 Cu/Ni price list of his own — see [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Deck and cabin beams:** whether laminated plywood strips could substitute for solid timber — see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
+- **Tack-line holes:** the second boom-end hole's use, and whether the narrow deep holes could be epoxy-armored against rot without being filled solid — see [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
+- **Interior and stowage:** the tight forward-compartment access hole, and how a 65 lb battery could reach its plans-specified location (answered: the interior panels are simply removable) — see [interior bins and hinged floor](/design/interior-bins-and-floor.md).
+- **Rig geometry:** a best-guess answer that the mast runs parallel to bulkhead #2 — see [rig and sail](/design/rig.md).
+- **Furling:** reservations about the unusual reefing/furling system, and a request to relocate an earlier topping-lift sketch — see [furling system](/design/furling-system.md).
+- **Head and sanitation:** recommending a watertight-boxed head under the helm seat, and noting that marine-sanitation law matters only as much as its local enforcement (Florida, California, Turkey examples) — see [head and sanitation arrangements](/operations/head-and-sanitation.md).
+- **Glass-bottom window:** suggesting a ~1 sq ft Lexan window doubling as interior lighting in shallow water — see [glass-bottom Paradox (speculative)](/design/glass-bottom-idea.md).
+- **Little Cruiser's sail:** asking whether its more attractive sail was flat-cut or shaped (it is broadseamed) — see [Little Cruiser](/matt-layden/little-cruiser.md).
 
-He also brought two hands-on materials contributions. On epoxy cure, he
-reported that with RAKA in Florida winters 60°F is the key threshold — below
-it curing can take days, above it the fast hardener sets rock-hard within 24
-hours — refining Dave Bolduc's negative first impression by pointing to
-temperature as the variable ([epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md)).
-On bottom material, he proposed pressure-treated wood (about twice the weight
-of untreated) for the bottom, chine logs, and chine runners, then
-hammer-tested an epoxied-versus-screwed pressure-treated fir tee joint,
-finding the epoxy joint never broke while the screws pulled through; pressure-treated
-wood was ultimately tried and rejected for Paradox construction — poor
-glue/paint adhesion, plus the timing of an EPA arsenic-preservative ban.
+He also brought two hands-on materials contributions. On epoxy cure, he reported that with RAKA in Florida winters 60°F is the key threshold — below it curing can take days, above it the fast hardener sets rock-hard within 24 hours — refining an earlier negative first impression by pointing to temperature as the variable ([epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md)). On bottom material, he proposed pressure-treated wood (about twice the weight of untreated) for the bottom, chine logs, and chine runners, then hammer-tested an epoxied-versus-screwed pressure-treated fir tee joint, finding the epoxy joint never broke while the screws pulled through; pressure-treated wood was ultimately tried and rejected for Paradox construction — poor glue/paint adhesion, plus the timing of an EPA arsenic-preservative ban.
 
-His hull-protection ideas were speculative and untested: a ~1/4 in steel shoe
-rolled to the hull's radius for low ballast and chine-runner bracing; a split
-copper pipe capping the rudder's leading edge; and epoxy-glassed longitudinal
-steel straps for both impact protection and extra outside ballast — see
-[rudder and chine experiments — rocky-bottom protection ideas](/design/rudder.md).
-On refit questions he pointed David Beard to Dave Carnell's rot article and
-suggested soaking bare wood with anti-freeze
-([checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md)),
-and raised material questions about a proposed nylon lower rudder fitting,
-asking for a copy if it proved workable
-([lower rudder fitting — bearing material options](/construction/rudder-bearing-materials.md)).
+His hull-protection ideas were speculative and untested: a ~1/4 in steel shoe rolled to the hull's radius for low ballast and chine-runner bracing; a split copper pipe capping the rudder's leading edge; and epoxy-glassed longitudinal steel straps for both impact protection and extra outside ballast — see [rudder and chine experiments — rocky-bottom protection ideas](/design/rudder.md). On refit questions he pointed toward a rot article and suggested soaking bare wood with anti-freeze ([checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md)), and raised material questions about a proposed nylon lower rudder fitting, asking for a copy if it proved workable ([lower rudder fitting — bearing material options](/construction/rudder-bearing-materials.md)).
 
 # Citations
 

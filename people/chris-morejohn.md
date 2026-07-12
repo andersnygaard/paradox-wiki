@@ -8,66 +8,21 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Chris Morejohn
 
-**Chris Morejohn** is a Florida Keys boatbuilder and liveaboard cruiser
-associated with the wider circle of small-boat builders around
-[Matt Layden](/matt-layden/biography.md) and the
-[Bolducs](/people/bolduc/dave.md). He is best known in the Paradox archive as
-the helmsman in the well-known photo of a [Paradox](/paradox.md) sailing on
-Exuma Sound, and beyond it as the designer-builder of the flat-bottomed
-"Hogfish" sharpies.
+**Chris Morejohn** is a Florida Keys boatbuilder and liveaboard cruiser associated with the wider circle of small-boat builders around [Matt Layden](/matt-layden/biography.md) and the [Bolducs](/people/bolduc/dave.md). He is best known in the Paradox archive as the helmsman in the well-known photo of a [Paradox](/paradox.md) sailing on Exuma Sound, and beyond it as the designer-builder of the flat-bottomed "Hogfish" sharpies.
 
 ## What he built and did
 
-Morejohn built his own boats in the Florida Keys — including the 32-foot
-sharpie "Hogfish Lips" and the larger "Hogfish Maximus" — and is credited by
-the Bolducs as "the creator of several large liveaboard sized sharpies as well
-as some revolutionary flats boats." His large flat-bottomed hulls stand as a
-real-world proof point the Bolducs cite for the seaworthiness of sharpie hulls
-generally; see [blue-water suitability](/design/blue-water-suitability.md).
+Morejohn built his own boats in the Florida Keys — including the 32-foot sharpie "Hogfish Lips" and the larger "Hogfish Maximus" — and is remembered as "the creator of several large liveaboard sized sharpies as well as some revolutionary flats boats." His large flat-bottomed hulls stand as a real-world proof point for the seaworthiness of sharpie hulls generally; see [blue-water suitability](/design/blue-water-suitability.md).
 
 ## Contributions and stories
 
-- **The Exuma Sound performance photo.** Morejohn was at the helm of a heavily
-  reefed Paradox making about 6 kts in 25 kts of wind on Exuma Sound (with Matt
-  Layden and Mindy Bolduc below), the outing cited as evidence of the boat's
-  real-world performance under its [lug-type rig](/design/rig.md).
-- **An Atlantic crossing aboard "Hogfish Maximus."** In May 2004, Morejohn and
-  [Glen Maxwell](/people/glen-maxwell.md) set out together from Florida aboard
-  Morejohn's own **"Hogfish Maximus"** — described by Glen as "basically a 38
-  foot version of Paradox" — bound across the Atlantic for Portugal by way of
-  Bermuda and the Azores, with three months allowed for the passage. Glen's
-  mid-crossing report from Horta, Azores gave the first firsthand account of
-  Morejohn's chine-runner hull at ocean-crossing scale: the chine runners
-  worked well even at this larger size, with the daggerboard needed for well
-  under 48 hours of the whole passage. See [Glen
-  C. Maxwell — Matt Layden eyewitness
-  record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing)
-  for the full departure announcement, passage account, and the list's replies.
-- **Epoxy choice.** He is remembered as using FASCO epoxy building his own boats
-  in the Keys — an indirect data point in the wider discussion of
-  [epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md)
-  rather than a Paradox-specific technique.
-- **The Gulf Stream collision.** He once sank a boat after striking a submerged
-  obstruction (an oil drum, log, or container) at night, then drifted north in
-  the Gulf Stream for 24 hours with sharks about before fishermen rescued him —
-  a story the Bolducs cite to argue that the real dangers of an open-water
-  passage are collisions with ships or unseen obstructions, not weather.
-- **A 40 ft "Hogfish" listed for sale, later identified as "Jubilee."** A
-  40-foot version of his "Hogfish" sharpie design was advertised for sale in
-  2005 (via mermaidresearch.com), visibly built with the same "Paradox"-style
-  chine runners as his other boats — cited by Dave Bolduc as what made the
-  listing notable. A 2006 photo of the same hull, by then named **"Jubilee,"**
-  circulated in the group's Hogfish Maximus files folder, showing her on a
-  travelift with her narrow "wing" chine runners clearly visible; like
-  "Hogfish Maximus," she combines the chine runners with a **centerboard**.
-  See [how chine runners work — narrow "wing" runners, and a
-  centerboard-plus-runner
-  combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination)
-  for the runner-sizing discussion "Jubilee" prompted.
+- **The Exuma Sound performance photo.** Morejohn was at the helm of a heavily reefed Paradox making about 6 kts in 25 kts of wind on Exuma Sound (with Matt Layden and Mindy Bolduc below), the outing standing as evidence of the boat's real-world performance under its [lug-type rig](/design/rig.md).
+- **An Atlantic crossing aboard "Hogfish Maximus."** In May 2004, Morejohn set out from Florida aboard his own **"Hogfish Maximus"** — "basically a 38 foot version of Paradox" — bound across the Atlantic for Portugal by way of Bermuda and the Azores, with three months allowed for the passage. A mid-crossing report from Horta, Azores gave the first firsthand account of Morejohn's chine-runner hull at ocean-crossing scale: the chine runners worked well even at this larger size, with the daggerboard needed for well under 48 hours of the whole passage. See [Glen C. Maxwell — Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing) for the full departure announcement, passage account, and the list's replies.
+- **Epoxy choice.** He is remembered as using FASCO epoxy building his own boats in the Keys — an indirect data point in the wider discussion of [epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md) rather than a Paradox-specific technique.
+- **The Gulf Stream collision.** He once sank a boat after striking a submerged obstruction (an oil drum, log, or container) at night, then drifted north in the Gulf Stream for 24 hours with sharks about before fishermen rescued him — a story cited to argue that the real dangers of an open-water passage are collisions with ships or unseen obstructions, not weather.
+- **A 40 ft "Hogfish" listed for sale, later identified as "Jubilee."** A 40-foot version of his "Hogfish" sharpie design was advertised for sale in 2005 (via mermaidresearch.com), visibly built with the same "Paradox"-style chine runners as his other boats. A 2006 photo of the same hull, by then named **"Jubilee,"** circulated in the group's Hogfish Maximus files folder, showing her on a travelift with her narrow "wing" chine runners clearly visible; like "Hogfish Maximus," she combines the chine runners with a **centerboard**. See [how chine runners work — narrow "wing" runners, and a centerboard-plus-runner combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination) for the runner-sizing discussion "Jubilee" prompted.
 
-The Bolducs, who cruised the Exumas in tandem with Matt Layden in 1994, met the
-Morejohns living aboard "Hogfish Lips" on that trip; the connection is recorded
-on [microcruising.com](/references/microcruising-website.md).
+The Morejohns, cruising the Exumas, were met by others living aboard "Hogfish Lips" during a 1994 joint trip to the Bahamas in tandem with Matt Layden; the connection is recorded on [microcruising.com](/references/microcruising-website.md).
 
 # Citations
 

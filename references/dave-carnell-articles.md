@@ -8,33 +8,17 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Dave Carnell's boat-building articles
 
-An external, non-Paradox-specific boat-building website authored by **Dave
-Carnell**, useful to Paradox builders for two articles on paint and rot
-treatment. Carnell is not known to be a Paradox builder himself, and no
-further detail about him is recorded in the archive.
+An external, non-Paradox-specific boat-building website, useful to Paradox builders for two articles on paint and rot treatment. The site's author is not known to be a Paradox builder, and no further detail is recorded in the archive.
 
 ## Paint choice: water-based over oil-based
 
-The site's paint article (`http://home.att.net/~DaveCarnell/articles.html#A1`),
-relevant to
-[topside and hull painting choices](/construction/topside-painting.md),
-concludes that **water-based paint is not only acceptable, it is superior**
-for this kind of small plywood boat — "an outstanding article" on the subject.
+The site's paint article (`http://home.att.net/~DaveCarnell/articles.html#A1`), relevant to [topside and hull painting choices](/construction/topside-painting.md), concludes that **water-based paint is not only acceptable, it is superior** for this kind of small plywood boat — "an outstanding article" on the subject.
 
 ## Treating rot fungus as a precaution
 
-The site's second article, `http://home.att.net/~DaveCarnell/rot.html`,
-describes a **formula for treating rot fungus**, applicable to a discolored
-but structurally solid spot found during an
-[ice-pick rot check](/construction/rot-inspection-ice-pick.md): the treatment
-"should keep it from reappearing, if there ever was any" — a precautionary
-measure rather than a repair for actual structural rot.
+The site's second article, `http://home.att.net/~DaveCarnell/rot.html`, describes a **formula for treating rot fungus**, applicable to a discolored but structurally solid spot found during an [ice-pick rot check](/construction/rot-inspection-ice-pick.md): the treatment "should keep it from reappearing, if there ever was any" — a precautionary measure rather than a repair for actual structural rot.
 
-The same treatment was later applied while redoing
-"[Whisper](/boats/whisper.md)"'s interior, with the affected area described as
-"repaired and treated per Dave carnell" before being epoxy-sealed over — see
-[checking a used Paradox for rot — a five-months-later coda](/construction/rot-inspection-ice-pick.md)
-for the full account.
+The same treatment was later applied while redoing "[Whisper](/boats/whisper.md)"'s interior, with the affected area described as "repaired and treated per Dave carnell" before being epoxy-sealed over — see [checking a used Paradox for rot — a five-months-later coda](/construction/rot-inspection-ice-pick.md) for the full account.
 
 # Citations
 

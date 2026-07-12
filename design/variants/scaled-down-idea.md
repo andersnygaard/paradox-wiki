@@ -8,126 +8,31 @@ timestamp: 2026-07-07T00:00:00Z
 
 # A scaled-down "mini" Paradox (speculative)
 
-Where [stretched Paradox](/design/variants/stretched-paradox.md) and
-[enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md)
-scale the design up, one newcomer proposed scaling it **down** instead —
-a quick, cheap single-occupant hull to learn on while a full-size Paradox
-build was still ahead of him.
+Where [stretched Paradox](/design/variants/stretched-paradox.md) and [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md) scale the design up, a proposal ran the other way — scaling it **down** into a quick, cheap single-occupant hull to learn on while a full-size Paradox build was still ahead.
 
-Note: this proposal is unrelated to the established
-**["Mini Paradox"](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)**
-working name, which was the 2005 construction-era nickname for what is now
-known to be Matt Layden's own **Enigma** — a distinct, smaller Layden design
-actually built and sailed. This page concerns only a hobbyist's unbuilt
-scaling idea for the stock Paradox hull itself.
+Note: this proposal is unrelated to the established **["Mini Paradox"](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)** working name, which was the 2005 construction-era nickname for what is now known to be Matt Layden's own **Enigma** — a distinct, smaller Layden design actually built and sailed. This page concerns only an unbuilt scaling idea for the stock Paradox hull itself.
 
 ## The proposal: a .55-scale hull built quick and cheap
 
-Working from the stock Paradox's dimensions, the idea was to reduce every
-dimension by a factor of **.55**, giving a hull roughly **7.6 ft long, 26 in
-wide, and 19 in tall** — small enough that the sides, bottom, and top could
-each come from a single sheet of plywood, plus some bulkheads and the
-transom. The build would skip the stock design's rounded cabin top
-entirely, using 1-by stock for bulkheads instead, built stitch-and-glue for
-speed. The resulting cockpit would run about 42 in long by 22 in wide, with
-the sailor sitting inside it, facing forward and somewhat down into the
-hull; a roped tiller was proposed to avoid reaching behind to steer.
+Working from the stock Paradox's dimensions, the idea was to reduce every dimension by a factor of **.55**, giving a hull roughly **7.6 ft long, 26 in wide, and 19 in tall** — small enough that the sides, bottom, and top could each come from a single sheet of plywood, plus some bulkheads and the transom. The build would skip the stock design's rounded cabin top entirely, using 1-by stock for bulkheads instead, built stitch-and-glue for speed. The resulting cockpit would run about 42 in long by 22 in wide, with the sailor sitting inside it, facing forward and somewhat down into the hull; a roped tiller was proposed to avoid reaching behind to steer.
 
-The motivation was not a considered design exercise but pure impatience: no
-local lake offered sailboat rentals, and the proposer wanted to get on the
-water, learn to sail, and get comfortable with the Paradox-style rig at
-minimal cost and effort while his full-size Paradox plans and build area
-were still being prepared. Left open on the record: whether to use a
-weighted centerboard or simply add weight to the bottom of the hull for
-stability.
+The motivation was not a considered design exercise but pure impatience: no local lake offered sailboat rentals, and the aim was to get on the water, learn to sail, and get comfortable with the Paradox-style rig at minimal cost and effort while full-size Paradox plans and a build area were still being prepared. Left open on the record: whether to use a weighted centerboard or simply add weight to the bottom of the hull for stability.
 
 ## Reception: a comparison to the Bolger Brick, and a cheaper-and-quicker alternative
 
-The first reply on record did not judge the scale-down idea itself, instead
-recalling an earlier, related idea of the respondent's own: fitting a
-**Paradox deck, cabin, chine runners, and sail rig, scaled down, onto a
-Bolger Brick hull** — a flat-sided, easy-to-build hull form — rather than
-scaling the Paradox hull itself.
+One response set the scale-down idea aside in favor of a different, related route: fitting a **Paradox deck, cabin, chine runners, and sail rig, scaled down, onto a Bolger Brick hull** — a flat-sided, easy-to-build hull form — rather than scaling the Paradox hull itself.
 
-A second reply suggested an even quicker route to the same underlying
-goal — sailing something, soon, without a scratch design exercise — by
-building a **PDRacer** in a single weekend instead; a stock PDRacer forgoes
-chine runners to stay "class legal," but building outside class rules to
-add them was floated as "a fun experiment."
+Another suggestion offered an even quicker route to the same underlying goal — sailing something, soon, without a scratch design exercise — by building a **PDRacer** in a single weekend instead; a stock PDRacer forgoes chine runners to stay "class legal," but building outside class rules to add them was floated as "a fun experiment."
 
-A third, more considered reply judged the .55-scale idea itself an
-open question worth trying, since [Matt Layden](/matt-layden/biography.md)'s
-own **Enigma** is already a scaled-down Paradox "in many respects," making it
-plausible the concept could be scaled down further still. For simply
-getting on the water fastest and cheapest, though, the same reply
-recommended two proven, non-Paradox routes ahead of any scaled-down
-build: buying a **secondhand small fiberglass boat** outright (far less
-money than building anything in the same size range), or building one of
-**Jim Michalak's** designs — optimized for cheap, easy building, reported to
-sail well, and (in several of his designs) rigged with a **lug sail**,
-giving some exposure to a rig with Paradox-like characteristics; Michalak's
-"Piccup Squared" was named as one example.
+A more considered assessment judged the .55-scale idea itself an open question worth trying, since [Matt Layden](/matt-layden/biography.md)'s own **Enigma** is already a scaled-down Paradox "in many respects," making it plausible the concept could be scaled down further still. For simply getting on the water fastest and cheapest, though, two proven, non-Paradox routes were recommended ahead of any scaled-down build: buying a **secondhand small fiberglass boat** outright (far less money than building anything in the same size range), or building one of **Jim Michalak's** designs — optimized for cheap, easy building, reported to sail well, and (in several designs) rigged with a **lug sail**, giving some exposure to a rig with Paradox-like characteristics; the **"Piccup Squared"** was named as one example.
 
-A fourth reply, from a correspondent who had already built a small,
-similarly-conceived tiny boat of his own, offered a firsthand caution rather
-than encouragement: his own boat proved **not stable**, workable only lying
-down recumbent (with an unresolved boarding/exit problem), until he added
-**pipe-insulation sponsons encased in polythene** on both sides — which
-made it acceptably stable in calm water, but at the cost of moving further
-and further from the original small-boat concept. He pointed instead to the
-**Bolger Minuet**, a tiny yacht built with a ballast keel, as a small design
-that solves the same stability problem properly rather than by improvised
-sponsons.
+A firsthand caution came from experience building a small, similarly-conceived tiny boat: it proved **not stable**, workable only lying down recumbent (with an unresolved boarding/exit problem), until **pipe-insulation sponsons encased in polythene** were added on both sides — which made it acceptably stable in calm water, but at the cost of moving further and further from the original small-boat concept. The **Bolger Minuet**, a tiny yacht built with a ballast keel, was pointed to instead, as a small design that solves the same stability problem properly rather than by improvised sponsons.
 
 ## Resolution: the proposer built a different small boat instead
 
-Weighing the replies, the original proposer judged the mini-Paradox
-scale-down too great a risk of its own — worried specifically about the
-reduced beam that scaling down would produce, and, not being a naval
-architect, unwilling to gamble on an unproven scaled hull. He also ruled out
-the suggested PDRacer on aesthetic grounds alone ("I could not bring myself
-to 'sail' in something that looked like that").
+Weighing the replies, the mini-Paradox scale-down was judged too great a risk of its own — the concern was specifically the reduced beam that scaling down would produce, and, without naval-architecture training, an unproven scaled hull was not worth gambling on. The suggested PDRacer was ruled out on aesthetic grounds alone ("I could not bring myself to 'sail' in something that looked like that").
 
-Instead, within the same weekend, he started building a small plywood
-**pram with a V-bottom**, designed as a rowboat, from plans in John Gardner's
-book *Building Classic Small Craft* — modified with a taller first bulkhead
-to carry a mast, side benches instead of a thwart, a centerboard, and a
-rudder. He judged the result close to the fiberglass-boat/Michalak
-alternatives suggested to him, just not flat-bottomed. This closed out the
-mini-Paradox thread: no scaled-down Paradox hull was built, and the
-underlying goal (getting on the water quickly and cheaply while a full
-Paradox build lay ahead) was met by a different small-craft design instead.
-
-A separate, never-elaborated echo of the same scale surfaced a week later in
-the unrelated boom-material sub-thread of "Paradox sails": prompted by a
-lightweight carbon-tape-and-foam boom idea, "Jeff UK" mentioned working on
-drawings for the rig of a "**7' 6" version of PARADOX / ENIGMA**" discussed
-with a correspondent off the list — close to this page's 7.6 ft scaled-down
-proposal in size, but no drawings, dimensions, or further mention of this rig
-followed on record, beyond a joking reply suggesting a Venetian blind, its
-slats opened to depower the sail, as a sail material for a rig this
-small.[7][8] The joke closed out with two more one-liners: a mock-serious
-promise to consult the "Armature Yacht Research Society," and a follow-up
-asking, deadpan, whether the Venetian-blind sail would be "controlled by
-electric motors" and what that implied for battery size — the thread ended
-there, with no further mention of the 7'6" rig on record.[9][10] "Jeff UK"
-closed out the joke himself with a one-line quip blaming a keyboard glitch
-for a run of missing letter R's in his own reply, quoting the "electric
-motors" line in full but adding no further content.[11]
-
-The Venetian-blind idea also drew a more substantive, if still speculative,
-riff from a separate correspondent: rather than a 7.5 ft rig, he floated
-fitting Paradox's sailplan, chine runners, and roller-furling convenience —
-scaled up rather than down — onto **Phil Bolger's Camper design #640** (an
-18 ft, 5 ft 3 in beam, 6 in draft, twin-rowing-position open sharpie with a
-150 sq. ft. gaff rig on a tabernacled mast and a walk-through birdwatcher-
-style raised deck, completely unballasted as drawn), with a **150 sq ft**
-sail — larger than Paradox's own — as the natural size for a hull that
-big. He extended the Venetian-blind joke to its logical, tongue-in-cheek
-conclusion: fit batteries as ballast, use them to power the blind's slats
-(depowering the sail and adjusting airflow/shade in the cabin at the same
-time), and, not incidentally, run an electric cooler to keep the drinks
-cold.[12]
+Instead, within the same weekend, a small plywood **pram with a V-bottom**, designed as a rowboat, was started from plans in John Gardner's book *Building Classic Small Craft* — modified with a taller first bulkhead to carry a mast, side benches instead of a thwart, a centerboard, and a rudder. The result was judged close to the fiberglass-boat and Michalak alternatives that had been suggested, just not flat-bottomed. This closed out the mini-Paradox thread: no scaled-down Paradox hull was built, and the underlying goal (getting on the water quickly and cheaply while a full Paradox build lay ahead) was met by a different small-craft design instead.
 
 # Citations
 

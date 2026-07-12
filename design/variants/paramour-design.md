@@ -1,24 +1,16 @@
 ---
 type: Concept
 title: Paramour (Jeff's stretched-Paradox redesign)
-description: Paramour is a 16 ft stitch-and-glue microcruiser designed from scratch by Jeff (UK), sharing Paradox's rig and rudder but with a flatter hull run computed, via the PLYBOATS design program, to be lighter and slightly faster than a same-length Paradox.
+description: Paramour is a 16 ft stitch-and-glue microcruiser designed from scratch in the UK, sharing Paradox's rig and rudder but with a flatter hull run computed, via the PLYBOATS design program, to be lighter and slightly faster than a same-length Paradox.
 tags: [paradox, design, derivative, paramour, jeff-doryman, uk, stitch-and-glue]
 timestamp: 2026-07-01T00:00:00Z
 ---
 
 # Paramour
 
-**"Paramour"** is a from-scratch 16 ft microcruiser design by
-[Jeff (UK)](/people/jeff-doryman.md), first described in February 2002 as an
-answer to the question of enlarging a Paradox to fit a large sailor (see
-[enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md)).
-Drawings were already several months along by the time the design was
-disclosed.
+**"Paramour"** is a from-scratch 16 ft microcruiser design out of the UK, first described in February 2002 as an answer to the question of enlarging a Paradox to fit a large sailor (see [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md)). Drawings were already several months along by the time the design was disclosed.
 
-Unlike a simple scaled-up Paradox (the approach documented in
-[stretched Paradox](/design/variants/stretched-paradox.md)), Paramour is a **new
-hull design**: it reuses Paradox's **rig, rudder, "etc."** unchanged, but the
-**hull itself has a flatter fore-and-aft run** than stock Paradox.
+Unlike a simple scaled-up Paradox (the approach documented in [stretched Paradox](/design/variants/stretched-paradox.md)), Paramour is a **new hull design**: it reuses Paradox's **rig, rudder, "etc."** unchanged, but the **hull itself has a flatter fore-and-aft run** than stock Paradox.
 
 ## Specification
 
@@ -33,66 +25,27 @@ hull design**: it reuses Paradox's **rig, rudder, "etc."** unchanged, but the
 | Main cabin | 6'6" long × 3' wide, 3'2" under the hatch (coach roof slightly longer than Paradox's) | — | — |
 | Construction | Stitch-and-glue; sides 3/8 in, bottom 3/4 in, one layer Kevlar plus two layers woven roving | Plywood plank-on-bulkhead (see [hull scantlings](/design/hull-scantlings.md)) | — |
 
-Carrying the **same sail area** as Paradox, Paramour is judged **faster,
-just as stiff (if not stiffer), and pointing a bit higher**, mainly on
-account of the lower prismatic coefficient and the lighter, flatter-run
-hull despite the greater length.
+Carrying the **same sail area** as Paradox, Paramour is judged **faster, just as stiff (if not stiffer), and pointing a bit higher**, mainly on account of the lower prismatic coefficient and the lighter, flatter-run hull despite the greater length.
 
 ## Fitting a tall sailor
 
-The headroom the design was meant to answer can be checked with a simple
-test: **sit on the floor and have someone measure from the floor to the top
-of your head** against Paramour's 3'2" under-hatch figure.
+The headroom the design was meant to answer can be checked with a simple test: **sit on the floor and have someone measure from the floor to the top of your head** against Paramour's 3'2" under-hatch figure.
 
 ## Motivation: no UK "14 ft rule"
 
-Paramour's extra two feet over stock Paradox is credited to the **absence,
-in the UK, of an equivalent to the US "14 ft rule"** — a length threshold
-understood to have constrained Matt Layden to keep Paradox at 13'10" rather
-than the 16 ft hull he would otherwise have built. As understood by builders
-(not a verified legal citation, and US registration requirements otherwise
-vary by state): a US small craft **under 14 ft** that is **not powered by an
-engine** (oars, paddles, or a yuloh are fine) does not need to carry
-registration numbers and letters on its hull. The full definition and its
-caveats live on [enlarging Paradox for a tall/heavy
-sailor](/design/variants/enlarging-for-a-large-sailor.md#paramour-a-ground-up-redesign-for-a-bigger-sailor).
+Paramour's extra two feet over stock Paradox is credited to the **absence, in the UK, of an equivalent to the US "14 ft rule"** — a length threshold understood to have constrained Matt Layden to keep Paradox at 13'10" rather than the 16 ft hull he would otherwise have built. The rule, as commonly understood (not a verified legal citation, and US registration requirements otherwise vary by state): a US small craft **under 14 ft** that is **not powered by an engine** (oars, paddles, or a yuloh are fine) does not need to carry registration numbers and letters on its hull. The full definition and its caveats live on [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md#paramour-a-ground-up-redesign-for-a-bigger-sailor).
 
-Paramour is the fuller, named realization of an earlier, less-developed
-proposal floated during the "Paradox 1.1" bilge-keel debate for a
-from-scratch 16 ft hull at the same beam/draft/displacement as stock
-Paradox (see [stretched Paradox](/design/variants/stretched-paradox.md)) —
-already well advanced by the time it was disclosed, with drawings underway
-for a few months and displacement and prismatic coefficient already
-computed.
+Paramour is the fuller, named realization of an earlier, less-developed proposal floated during the "Paradox 1.1" bilge-keel debate for a from-scratch 16 ft hull at the same beam/draft/displacement as stock Paradox (see [stretched Paradox](/design/variants/stretched-paradox.md)) — already well advanced by the time it was disclosed, with drawings underway for a few months and displacement and prismatic coefficient already computed.
 
 ## Buyer interest and drawing progress
 
-Paramour drew early buyer interest, with requests to know when the design
-would be finished and whether a set of plans could be bought. Two drawings
-were ready to post but held up by a scanner problem (a Mustek 1200 that
-stopped working after a Windows XP upgrade, with no working drivers
-available from the manufacturer). The work-in-progress drawing at the time
-was at **3 in = 1 ft (1/4) scale**, used for lofting and layout, with a
-**TURBOCAD** sail-plan and accommodation side-view sketch planned to
-follow. Design time was split with unrelated commissioned work (drum
-fittings, then a 53 ft motor cruiser layout) — see
-[Jeff (UK)](/people/jeff-doryman.md) for more.
+Paramour drew early buyer interest, with requests to know when the design would be finished and whether a set of plans could be bought. Two drawings were ready to post but held up by a scanner problem (a Mustek 1200 that stopped working after a Windows XP upgrade, with no working drivers available from the manufacturer). The work-in-progress drawing at the time was at **3 in = 1 ft (1/4) scale**, used for lofting and layout, with a **TURBOCAD** sail-plan and accommodation side-view sketch planned to follow. Design time was split with unrelated commissioned work (drum fittings, then a 53 ft motor cruiser layout).
 
 ## Fate unknown, and a scaled-back reappearance
 
-No build report, launch, or further specification (sail plan, weight
-breakdown, ballast) for the original named "Paramour" design appears in the
-archive after February 2002. A check-in ten months later, asking after the
-"16' Paradox" plans, went unanswered.
+No build report, launch, or further specification (sail plan, weight breakdown, ballast) for the original named "Paramour" design appears in the archive after February 2002. A check-in ten months later, asking after the "16' Paradox" plans, went unanswered.
 
-A repeat check-in in September 2003 got an answer: the 16 ft drawings were
-by then finished with enough detail to build from, but the design was by
-then described more modestly, simply as an **8 in stretch of Paradox** for
-extra living space, without repeating the "Paramour" name or its earlier
-from-scratch specification (1,507 lb displacement, .566 prismatic
-coefficient, stitch-and-glue Kevlar/roving construction). No completed
-boat, launch, or the original named specification's fate is recorded
-beyond this. See [Jeff (UK)](/people/jeff-doryman.md).
+A repeat check-in in September 2003 got an answer: the 16 ft drawings were by then finished with enough detail to build from, but the design was by then described more modestly, simply as an **8 in stretch of Paradox** for extra living space, without repeating the "Paramour" name or its earlier from-scratch specification (1,507 lb displacement, .566 prismatic coefficient, stitch-and-glue Kevlar/roving construction). No completed boat, launch, or the original named specification's fate is recorded beyond this.
 
 # Citations
 

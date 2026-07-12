@@ -8,328 +8,96 @@ timestamp: 2026-07-05T00:00:00Z
 
 # Secondhand Paradox market
 
-Built Paradoxes have occasionally come up for resale on the mailing list,
-giving a handful of concrete price and condition data points against the
-cost of building new. The first recorded listing, in September 2001, was a
-complete Paradox for sale in **Steinhatchee, Florida**, owned by **Bob
-Archibald**.
+Built Paradoxes have occasionally come up for resale on the mailing list, giving a handful of concrete price and condition data points against the cost of building new. The first recorded listing, in September 2001, was a complete Paradox for sale in **Steinhatchee, Florida**.
 
 ## The Steinhatchee listing
 
 - **Asking price: $500** for the complete boat.
-- On a **galvanized trailer**, a little too tall for easy launching in
-  shallow water.
+- On a **galvanized trailer**, a little too tall for easy launching in shallow water.
 - The boat itself was judged "well worth a look" for the price.
-- The owner, Bob Archibald, was "a really nice fellow" with an interesting
-  collection of **Bolger boats** (designs by Phil Bolger).
+- The owner was "a really nice fellow" with an interesting collection of **Bolger boats** (designs by Phil Bolger).
 
-This $500 secondhand asking price contrasts with the **$35** cost of the
-building plans (see [building plans](/references/building-plans.md)) —
-reflecting the material and labor investment of an actual build (see
-[build effort](/construction/build-effort.md)).
+This $500 secondhand asking price contrasts with the **$35** cost of the building plans (see [building plans](/references/building-plans.md)) — reflecting the material and labor investment of an actual build (see [build effort](/construction/build-effort.md)).
 
 ## Condition and value
 
 A fuller condition report on the Steinhatchee boat:
 
-- Built essentially **to the plans**, but with **steel fittings used in
-  place of bronze**.
-- The sail was in **like-new condition** — good enough on its own to nearly
-  justify the purchase price.
+- Built essentially **to the plans**, but with **steel fittings used in place of bronze**.
+- The sail was in **like-new condition** — good enough on its own to nearly justify the purchase price.
 - The wood looked **dry and in good condition** inside (not probed for rot).
 - The exterior fiberglass had **cracked in a couple of places**, nothing major.
-- The bottom appeared to have only **one layer of glass cloth**, but seemed
-  serviceable.
-- Overall assessment: "not a Crown Jewel," but well worth the asking price,
-  needing some work.
+- The bottom appeared to have only **one layer of glass cloth**, but seemed serviceable.
+- Overall assessment: "not a Crown Jewel," but well worth the asking price, needing some work.
 
-For UK buyers, $500 (about £340 at the time) was a bargain by comparison — in
-Britain, £340 would only buy "something like a crappy Mirror dinghy," and
-$500 was roughly the price of just the [Paradox](/paradox.md) sail. A
-real-world **shipping cost data point**: about 20 years earlier a 14 ft scow
-was shipped from the Netherlands to Canada by container for roughly
-**C$900** (considerably higher by 2001). Shipping a boat across the Atlantic
-on this basis was expensive enough that at least one interested UK party
-opted to build a Paradox derivative from scratch instead (see
-[Jeff](/people/jeff-doryman.md)).
+For UK buyers, $500 (about £340 at the time) was a bargain by comparison — in Britain, £340 would only buy "something like a crappy Mirror dinghy," and $500 was roughly the price of just the [Paradox](/paradox.md) sail. A real-world **shipping cost data point**: about 20 years earlier a 14 ft scow was shipped from the Netherlands to Canada by container for roughly **C$900** (considerably higher by 2001). Shipping a boat across the Atlantic on this basis was expensive enough that at least one interested UK party opted to build a Paradox derivative from scratch instead.
 
 ## Resolution: David Beard buys the boat (November 2001)
 
-The listing resurfaced under the thread title "Paradox for sale" six weeks
-after the original September posting, with **$500** judged a good price even
-allowing for some rebuilding — see the cost comparison this prompted in
-[build effort and workspace](/construction/build-effort.md). [David
-Beard](/people/david-beard.md) spent **several weeks** trying to reach the
-owner (by then identified as **"bob archibald"**) with no luck, eventually
-posting his phone number to help make contact; another list member had
-independently reached the owner two to three weeks earlier asking for photos
-of the boat and trailer for trailering purposes. Beard ultimately succeeded
-in reaching the seller: by **17 November 2001** he was picking up the boat,
-planning to sail it until his own from-scratch Paradox build was finished.
-See [David Beard](/people/david-beard.md) for the fuller story.
+The listing resurfaced under the thread title "Paradox for sale" six weeks after the original September posting, with **$500** judged a good price even allowing for some rebuilding — see the cost comparison this prompted in [build effort and workspace](/construction/build-effort.md). An interested buyer spent **several weeks** trying to reach the owner with no luck, eventually posting a phone number to help make contact; another list member had independently reached the owner two to three weeks earlier asking for photos of the boat and trailer for trailering purposes. The seller was ultimately reached: by **17 November 2001** the boat was being picked up, to be sailed until the buyer's own from-scratch Paradox build was finished. See [people/david-beard.md](/people/david-beard.md) for the fuller story.
 
-By December 2001, while resuming work on his own from-scratch Paradox, Beard
-candidly described the Archibald boat as **"no Zoë, but she's strong"** and
-kept **sailing her while building** to get to know the boat's handling
-firsthand. See [David Beard](/people/david-beard.md) for the fuller "My
-Paradox" thread, including his bulkhead-sealing decision and [Dave
-Bolduc](/people/bolduc/dave.md)'s access-inspection caution.
+By December 2001, while work resumed on a from-scratch Paradox, the Archibald boat was candidly described as **"no Zoë, but she's strong"** and kept **sailing while building** to get to know the boat's handling firsthand. See [people/david-beard.md](/people/david-beard.md) for the fuller "My Paradox" thread, including the bulkhead-sealing decision and the access-inspection caution.
 
 ## Deciding whether to fix up a secondhand boat, and checking for rot
 
-By late January 2002, sailing the Archibald boat more, Beard was increasingly
-drawn to fix her up to the standard of "Zoë," raising the general question of
-whether a secondhand Paradox is well-built enough to be worth the effort
-rather than risk investing work in a boat that might fall apart. The answer
-in this case was that she was **well worth fixing up**, confirmed with a
-simple ice-pick rot-survey technique: see [checking a used Paradox for rot
-(ice-pick probe technique)](/construction/rot-inspection-ice-pick.md) for the
-full method. This is the general answer to whether a secondhand Paradox is
-worth restoring — check her with the ice-pick technique rather than judge on
-appearance alone.
+By late January 2002, with the Archibald boat sailed more, there was increasing draw to fix her up to the standard of "Zoë," raising the general question of whether a secondhand Paradox is well-built enough to be worth the effort rather than risk investing work in a boat that might fall apart. The answer in this case was that she was **well worth fixing up**, confirmed with a simple ice-pick rot-survey technique: see [checking a used Paradox for rot (ice-pick probe technique)](/construction/rot-inspection-ice-pick.md) for the full method. This is the general answer to whether a secondhand Paradox is worth restoring — check her with the ice-pick technique rather than judge on appearance alone.
 
-The same exchange touched on **"Swamp Thing,"** another of [Matt
-Layden](/matt-layden/biography.md)'s designs — recalled as the boat with oar
-holes on the sides — see [Swamp Thing](/matt-layden/swamp-thing.md).
+The same exchange touched on **"Swamp Thing,"** another of [Matt Layden](/matt-layden/biography.md)'s designs — recalled as the boat with oar holes on the sides — see [Swamp Thing](/matt-layden/swamp-thing.md).
 
 ## A second listing: "GJAC" for sale (June 2002)
 
-Distinct from Paradox itself, one of [Matt Layden](/matt-layden/biography.md)'s
-**older boats** came up for resale in June 2002: **[GJAC](/matt-layden/gjac.md)**,
-a boat previously known to the list only from a single half-submerged rudder
-photograph (see [rudder and chine
-experiments](/design/rudder.md#rudder-variety-across-layden-boats)). The
-listing gave the first identification of GJAC's **owner** and her
-**dimensions**:
+Distinct from Paradox itself, one of [Matt Layden](/matt-layden/biography.md)'s **older boats** came up for resale in June 2002: **[GJAC](/matt-layden/gjac.md)**, a boat previously known to the list only from a single half-submerged rudder photograph (see [rudder and chine experiments](/design/rudder.md#rudder-variety-across-layden-boats)). The listing gave the first identification of GJAC's **owner** and her **dimensions**:
 
-- **Owner/seller: Don Musante**, based in **Connecticut**.
-- **Dimensions: 14.5 ft x 4 ft x 9 in** — close to Paradox's own footprint
-  (Paradox is 13' 10" per [Little Cruiser](/matt-layden/little-cruiser.md)'s
-  comparison), but not identical.
-- **Design difference from Paradox**: GJAC has **no cabin top**, though she
-  still provides sleeping accommodation for one person below.
-- Included in the sale: cruising gear (**anchor, chain, lines, stove,
-  fenders**) and a **galvanized trailer with new wheels**.
+- **Owner/seller** based in **Connecticut**.
+- **Dimensions: 14.5 ft x 4 ft x 9 in** — close to Paradox's own footprint (Paradox is 13' 10" per [Little Cruiser](/matt-layden/little-cruiser.md)'s comparison), but not identical.
+- **Design difference from Paradox**: GJAC has **no cabin top**, though she still provides sleeping accommodation for one person below.
+- Included in the sale: cruising gear (**anchor, chain, lines, stove, fenders**) and a **galvanized trailer with new wheels**.
 - Contact: `DGMusante@...` or 860-448-3615; "all offers will be considered."
 - A photo was available at `http://home.triad.rr.com/lcruise/other1.htm`.
 
-A **design observation** distinct from the sale listing itself: the owner had
-added **leeboards** to GJAC because he sailed her "light," like a daysailer,
-though the better view is that leeboards should be **removed in favor of
-ballast** ("lots of it"), since GJAC's [chine
-runners](/chine-runners/how-they-work.md) should already
-provide enough lateral resistance to sail to windward well, without needing
-leeboards at all. This, together with the [chine-runner
-windward-performance](/chine-runners/windward-performance.md)
-trial on Paradox itself, reinforces chine runners (not leeboards or a
-centerboard) as the family's characteristic answer to lateral resistance
-across more than one Layden design.
+A **design observation** distinct from the sale listing itself: the owner had added **leeboards** to GJAC because he sailed her "light," like a daysailer, though the better view is that leeboards should be **removed in favor of ballast** ("lots of it"), since GJAC's [chine runners](/chine-runners/how-they-work.md) should already provide enough lateral resistance to sail to windward well, without needing leeboards at all. This, together with the [chine-runner windward-performance](/chine-runners/windward-performance.md) trial on Paradox itself, reinforces chine runners (not leeboards or a centerboard) as the family's characteristic answer to lateral resistance across more than one Layden design.
 
-No record of GJAC actually selling appears in the archive. GJAC has her own
-concept page at [GJAC](/matt-layden/gjac.md) — filed under `matt-layden/` as a
-distinct older Layden *design* (a sibling of Little Cruiser/Swamp Thing), not
-a `boats/` Paradox hull. This section remains the canonical home for the
-**market/listing** side; the boat-design side lives on the concept page.
+No record of GJAC actually selling appears in the archive. GJAC has her own concept page at [GJAC](/matt-layden/gjac.md) — filed under `matt-layden/` as a distinct older Layden *design* (a sibling of Little Cruiser/Swamp Thing), not a `boats/` Paradox hull. This section remains the canonical home for the **market/listing** side; the boat-design side lives on the concept page.
 
 ## Demand for a second, already-built Paradox (2003)
 
-Reversing the usual direction of this concept's listings (owners selling a
-built boat, above), demand has also surfaced for a **built Paradox to buy**
-outright rather than construct. One UK-connected inquiry, in 2003, came from
-someone who had just seen [Alastair](/people/alastair.md)'s
-"**[Little Jim](/boats/little-jim.md)**" in person (see [Little Jim — "Little
-Jim, 2 up"](/boats/little-jim.md) for that same meeting, on Poole Harbour,
-from Alastair's side) and intended to "start building when plans arrive"
-regardless — but wanted to **buy a second, already-built Paradox** in
-addition, having shipping contacts worldwide and no location preference. This
-correspondent, signing as "Larry," is distinct from the American **Larry
-Whited**; nothing in the archive indicates the two are the same person, and
-this newer "Larry" is kept separate per the [people
-threshold](/people/index.md) pending any resurfacing with a boat name,
-purchase, or build of his own.
+Reversing the usual direction of this concept's listings (owners selling a built boat, above), demand has also surfaced for a **built Paradox to buy** outright rather than construct. One UK-connected inquiry, in 2003, came from someone who had just seen "**[Little Jim](/boats/little-jim.md)**" in person (see [Little Jim — "Little Jim, 2 up"](/boats/little-jim.md) for that same meeting, on Poole Harbour) and intended to "start building when plans arrive" regardless — but wanted to **buy a second, already-built Paradox** in addition, having shipping contacts worldwide and no location preference. This correspondent is kept separate per the [people threshold](/people/index.md) pending any resurfacing with a boat name, purchase, or build of their own.
 
-The only replies were joking wordplay on the plural of "Paradox" — "a pair of
-paradoxes are a **paradoxen**," and paradoxically, more than two would "still
-be a paradoxen," countered by the view that three or more would be a
-"**Herdaoxen**." The request for a boat itself went unanswered.
+The only replies were joking wordplay on the plural of "Paradox" — "a pair of paradoxes are a **paradoxen**," and paradoxically, more than two would "still be a paradoxen," countered by the view that three or more would be a "**Herdaoxen**." The request for a boat itself went unanswered.
 
 ## A want-to-buy inquiry from Texas
 
-A further want-to-buy inquiry, in December 2005, came from a brand-new
-correspondent, "Ken Pagans" (Yahoo profile `lvltlbts`), asking whether a
-finished or in-progress Paradox (or similar boat) was for sale, and how to
-order study plans. [Alastair](/people/alastair.md) answered that Paradox
-owners rarely part with their boats — he had heard of only one ever being
-sold — and pointed him to [study plans](/references/study-plans.md) at
-microcruising.com and to Dave Bolduc for the full [building
-plans](/references/building-plans.md) (about $35). [Jack
-Gardiner](/people/jack-gardiner.md) asked only where he was located; Pagans
-answered Texas. No boat or build of his own is on record; kept below the
-[people threshold](/people/index.md) pending any resurfacing with a build
-or purchase.
+A further want-to-buy inquiry, in December 2005, came from a brand-new correspondent asking whether a finished or in-progress Paradox (or similar boat) was for sale, and how to order study plans. The reply was that Paradox owners rarely part with their boats — only one had ever been heard of being sold — pointing to [study plans](/references/study-plans.md) at microcruising.com and to the full [building plans](/references/building-plans.md) (about $35). Asked only where he was located, the correspondent answered Texas. No boat or build of his own is on record; kept below the [people threshold](/people/index.md) pending any resurfacing with a build or purchase.
 
 ## Build vs. buy secondhand: a UK newcomer's cost-benefit hesitation
 
-A recurring question behind every secondhand listing above is the flip side
-of it: is building a Paradox from scratch even worth it, against simply
-buying something ready-made? A UK correspondent weighing exactly that
-tradeoff supplied the archive's fullest first-person statement of the
-hesitation. He was drawn to the Paradox specifically because it can be
-sailed entirely from inside its cabin, having no wish to sit exposed to wet
-and cold in an open cockpit — but no secondhand boat answers to that
-preference, since none of the conventional boats on the used market can be
-sailed from inside; buying secondhand would mean accepting the "open air
-life" regardless of boat choice. Against that, a from-scratch Paradox build
-represents "a big commitment of time and money," with an uncertain resale
-market when the time eventually comes to sell.[30]
+A recurring question behind every secondhand listing above is the flip side of it: is building a Paradox from scratch even worth it, against simply buying something ready-made? One UK correspondent weighing exactly that tradeoff supplied the archive's fullest first-person statement of the hesitation. The draw to the Paradox was specifically that it can be sailed entirely from inside its cabin, avoiding sitting exposed to wet and cold in an open cockpit — but no secondhand boat answers to that preference, since none of the conventional boats on the used market can be sailed from inside; buying secondhand would mean accepting the "open air life" regardless of boat choice. Against that, a from-scratch Paradox build represents "a big commitment of time and money," with an uncertain resale market when the time eventually comes to sell.[30]
 
-[Alastair](/people/alastair.md) offered a concrete way to resolve the
-windward-performance doubt directly — a test sail at Keyhaven, timed around
-a DCA (Dinghy Cruising Association) meeting at nearby Hurst Point,
-Hampshire — though the correspondent had a prior commitment and could not
-make that particular date.[31][32] Asked whether 14 ft really represents "a big commitment," he
-put a number on it directly: building "Little Jim" from scratch took about
-**18 months** and roughly **£2,500** all in — dismissing the resale worry
-by simply writing off the build cost in advance, so that any eventual sale
-price is a bonus rather than a target, joking that failing a sale he "could
-just grow marrows in it."[33][34]
+A concrete way to resolve the windward-performance doubt directly was offered — a test sail at Keyhaven, timed around a DCA (Dinghy Cruising Association) meeting at nearby Hurst Point, Hampshire — though a prior commitment meant that particular date could not be made.[31][32] Asked whether 14 ft really represents "a big commitment," a number was put on it directly: building "Little Jim" from scratch took about **18 months** and roughly **£2,500** all in — dismissing the resale worry by simply writing off the build cost in advance, so that any eventual sale price is a bonus rather than a target, joking that failing a sale it "could just grow marrows in it."[33][34]
 
-The same hesitation extended to whether a Paradox's unconventional,
-flat-bottomed hull form can really perform to windward at all, particularly
-in "British conditions" — a doubt echoing the recurring newcomer/skeptic
-question addressed at length in [chine runners and windward
-performance](/chine-runners/windward-performance.md#a-recurring-skeptics-question-does-british-water-sail-differently).
-[Derek Clark](/people/derek-clark.md) also weighed in on the secondhand
-market itself: he judged a UK secondhand market for a boat like Paradox
-unlikely to exist at all, since "odd craft don't sell well" here, citing a
-builder of his acquaintance who spent about £4,000 building a Bolger Micro
-and sold it, trailer included, for just £1,000.[36]
+The same hesitation extended to whether a Paradox's unconventional, flat-bottomed hull form can really perform to windward at all, particularly in "British conditions" — a doubt echoing the recurring newcomer/skeptic question addressed at length in [chine runners and windward performance](/chine-runners/windward-performance.md#a-recurring-skeptics-question-does-british-water-sail-differently). A further view on the secondhand market itself judged a UK secondhand market for a boat like Paradox unlikely to exist at all, since "odd craft don't sell well" there, citing an acquaintance who spent about £4,000 building a Bolger Micro and sold it, trailer included, for just £1,000.[36]
 
-Alastair's own explanation for why unconventional small-boat designs
-struggle to sell new, in his view, is a marketing and racing-culture
-problem rather than a performance one: conventional cruising yachts are
-styled to resemble racing boats because that is what sells, even though
-features that suit racing (low windage, an open cockpit) work against
-cruising comfort — pointing to the Topper Cruz as an example of a cruising
-boat still shaped by racing-boat looks, and to the wave of cruisers that
-sprouted winged keels purely because an America's Cup winner had one, even
-though the feature is irrelevant to ordinary cruising conditions.[31]
+One explanation offered for why unconventional small-boat designs struggle to sell new is a marketing and racing-culture problem rather than a performance one: conventional cruising yachts are styled to resemble racing boats because that is what sells, even though features that suit racing (low windage, an open cockpit) work against cruising comfort — pointing to the Topper Cruz as an example of a cruising boat still shaped by racing-boat looks, and to the wave of cruisers that sprouted winged keels purely because an America's Cup winner had one, even though the feature is irrelevant to ordinary cruising conditions.[31]
 
-The theory Jim Hall floated crediting regional sailing conditions with
-shaping regional boat design — the American sharpie's wide planks against
-the English Channel's narrow, deep "plank on edge" tradition — is itself
-contested rather than settled. Regional style may reflect divergent
-solutions to the same underlying problem more than genuinely different
-conditions: the flat-bottomed Yorkshire coble, launched transom-first up a
-sloping beach, and the Kent/Sussex fishing boats launched bow-first up
-pebble beaches such as Hastings both answer the same basic
-beach-launching problem in different ways. Styles plausibly stayed local
-for want of any means to spread information before printing, radio, and
-television let ideas travel freely, and a converging "standard" working
-boat might well have emerged eventually had the internal combustion
-engine's arrival not cut that convergence off first. It is also doubtful
-the English Channel's short, steep seas are genuinely unique: the same
-short, steep conditions recur off the US East Coast and in Australia and
-New Zealand, whose own sailing traditions began only at colonization,
-inheriting either the settlers' home-country boats or their boatbuilding
-knowledge before diverging further under local conditions ahead of the
-engine's arrival. If the same sea conditions recur worldwide, hull form
-need not be sea-condition-specific to handle them — so a boat built for
-the US East Coast ought to do just as well elsewhere.[39]
+A theory crediting regional sailing conditions with shaping regional boat design — the American sharpie's wide planks against the English Channel's narrow, deep "plank on edge" tradition — is itself contested rather than settled. Regional style may reflect divergent solutions to the same underlying problem more than genuinely different conditions: the flat-bottomed Yorkshire coble, launched transom-first up a sloping beach, and the Kent/Sussex fishing boats launched bow-first up pebble beaches such as Hastings both answer the same basic beach-launching problem in different ways. Styles plausibly stayed local for want of any means to spread information before printing, radio, and television let ideas travel freely, and a converging "standard" working boat might well have emerged eventually had the internal combustion engine's arrival not cut that convergence off first. It is also doubtful the English Channel's short, steep seas are genuinely unique: the same short, steep conditions recur off the US East Coast and in Australia and New Zealand, whose own sailing traditions began only at colonization, inheriting either the settlers' home-country boats or their boatbuilding knowledge before diverging further under local conditions ahead of the engine's arrival. If the same sea conditions recur worldwide, hull form need not be sea-condition-specific to handle them — so a boat built for the US East Coast ought to do just as well elsewhere.[39]
 
-A separate, more quantified data point on the build-versus-buy question
-came from a builder partway through his own Paradox: having also built a
-25 ft boat, he judged there was markedly *less* work in the bigger boat
-than in the Paradox he had underway, with the Paradox's costs only
-marginally lower than the larger boat's despite the size difference. He
-had started his Paradox in August 2005 and did not expect to finish before
-summer 2007, and judged that even a professional builder working full-time
-with power tools could not complete one in under six months.[37]
+A separate, more quantified data point on the build-versus-buy question came from a builder partway through a Paradox build: having also built a 25 ft boat, there was judged to be markedly *less* work in the bigger boat than in the Paradox underway, with the Paradox's costs only marginally lower than the larger boat's despite the size difference. That Paradox build had started in August 2005 and was not expected to finish before summer 2007, with the judgment that even a professional builder working full-time with power tools could not complete one in under six months.[37]
 
-That comparative build-cost point drew a counter-perspective on economy
-over time rather than raw build cost: a 25-footer may well be cheaper to
-build than a shorter design, and a boat with a deeper keel and heavier
-ballast may be more weatherly, but a bigger, deeper-keeled boat typically
-needs a larger engine and can incur substantial moorage, launching, and
-haul-out fees, restricting it to waters a light-displacement, shallow-draft
-design can enter and leave freely at no such expense — a contrast drawn
-from Charles Stock's own experience. Even though a light-displacement,
-shallow-draft design may not point as well as a heavy-displacement,
-deep-draft design carrying more momentum, it can be driven at hull speed
-with very little power: Bolger's BirdwatcherII (25 ft) is designed to be
-driven by a Honda 2 hp four-stroke weighing only about 27 lb, more power
-than two people rowing could generate, and hull speed is hull speed
-regardless of how much sail area is carried. Light weight and a
-streamlined configuration also let such a boat be towed behind a small,
-1.5-litre car, and dispensing with a separate cockpit gives more interior
-space and shelter than a traditional boat of the same length offers.
-[Matt Layden](/matt-layden/biography.md)'s
-[Enigma](/matt-layden/enigma.md) — light enough to be carried on a car
-roof — takes the same idea further still, and the same small outboard
-was expected to drive her too, short of using her yuloh. The broader
-point drawn from this comparison: sailors can grow set in their ways about
-how a boat ought to "look" without weighing the alternatives, and present
-economic realities argue for keeping an open mind to new ideas rather than
-insisting on a hull shaped like the traditional designs of one's home
-waters.[38]
+That comparative build-cost point drew a counter-perspective on economy over time rather than raw build cost: a 25-footer may well be cheaper to build than a shorter design, and a boat with a deeper keel and heavier ballast may be more weatherly, but a bigger, deeper-keeled boat typically needs a larger engine and can incur substantial moorage, launching, and haul-out fees, restricting it to waters a light-displacement, shallow-draft design can enter and leave freely at no such expense — a contrast drawn from one sailor's own experience. Even though a light-displacement, shallow-draft design may not point as well as a heavy-displacement, deep-draft design carrying more momentum, it can be driven at hull speed with very little power: Bolger's BirdwatcherII (25 ft) is designed to be driven by a Honda 2 hp four-stroke weighing only about 27 lb, more power than two people rowing could generate, and hull speed is hull speed regardless of how much sail area is carried. Light weight and a streamlined configuration also let such a boat be towed behind a small, 1.5-litre car, and dispensing with a separate cockpit gives more interior space and shelter than a traditional boat of the same length offers. [Matt Layden](/matt-layden/biography.md)'s [Enigma](/matt-layden/enigma.md) — light enough to be carried on a car roof — takes the same idea further still, and the same small outboard was expected to drive her too, short of using her yuloh. The broader point drawn from this comparison: sailors can grow set in their ways about how a boat ought to "look" without weighing the alternatives, and present economic realities argue for keeping an open mind to new ideas rather than insisting on a hull shaped like the traditional designs of one's home waters.[38]
 
 ## An unfinished hull for sale: "Swash" (July 2004)
 
-A part-built Paradox, **"Swash,"** owned by [David C.
-Smith](/people/david-c-smith.md), was offered
-for sale in July 2004, prompted by a divorce. See
-[boats/swash.md](/boats/swash.md) for the boat's fuller build and ownership
-history. The listing gives the archive's fullest itemized account of what an
-**unfinished hull** is worth and what remains to complete one:
+A part-built Paradox, **"Swash,"** was offered for sale in July 2004, prompted by a divorce. See [boats/swash.md](/boats/swash.md) for the boat's fuller build and ownership history. The listing gives the archive's fullest itemized account of what an **unfinished hull** is worth and what remains to complete one:
 
-- **Asking price: $3,000**, against **$1,600+** in receipts (not counting
-  incidental shop supplies and some mahogany) and an estimated **$2,000**
-  total material cost to that point — meaning the bulk of the labor
-  invested was a deliberate loss to Smith, sold at cost-plus-a-little rather
-  than for profit.
-- **State of completion**: hull assembled with foil-faced foam installed;
-  enough 3 mm BS 1088 Okoume plywood on hand to skin the foam, with the
-  choice left to the buyer of painting the foam bare (as designed) or
-  skinning it as Smith had intended; vent baffle installed; yuloh complete but
-  only three coats of varnish; rudder started; no glass yet applied to the
-  hull; the chine runners existing only as unblocked bottom extensions.
-  Materials on hand to finish the boat were included in the sale, all
-  likewise unexposed to weather; solid lumber throughout was **Honduras
-  mahogany** except the longitudinal floors, in **clear vertical-grain
-  Douglas fir**. No trailer was included.
-- Yacht-quality workmanship "with minor exceptions, as designed," the hull
-  never having been exposed to weather (kept garaged throughout the build) —
-  consistent with Smith's build standard described in full on his own person
-  page.
+- **Asking price: $3,000**, against **$1,600+** in receipts (not counting incidental shop supplies and some mahogany) and an estimated **$2,000** total material cost to that point — meaning the bulk of the labor invested was a deliberate loss, sold at cost-plus-a-little rather than for profit.
+- **State of completion**: hull assembled with foil-faced foam installed; enough 3 mm BS 1088 Okoume plywood on hand to skin the foam, with the choice left to the buyer of painting the foam bare (as designed) or skinning it as intended; vent baffle installed; yuloh complete but only three coats of varnish; rudder started; no glass yet applied to the hull; the chine runners existing only as unblocked bottom extensions. Materials on hand to finish the boat were included in the sale, all likewise unexposed to weather; solid lumber throughout was **Honduras mahogany** except the longitudinal floors, in **clear vertical-grain Douglas fir**. No trailer was included.
+- Yacht-quality workmanship "with minor exceptions, as designed," the hull never having been exposed to weather (kept garaged throughout the build) — consistent with the build standard described in full on [boats/swash.md](/boats/swash.md).
 
-Interest came from a third party seeking further completion photos, an
-estimate of remaining cost and time to finish her, and confirmation of
-whether the hull was glassed and the chine runners finished, with a trailer
-and cash on offer if a deal could be reached. Swash remained unsold, with
-completion photos delayed by a real-estate/divorce-related backlog; the
-remaining-materials cost was left to the buyer's own approach, a
-quick-and-dirty finish versus Smith's own more deliberate (and costlier)
-standard. Smith credited David Beard with recommending he focus on finishing
-the boat himself as a way through the divorce, and — the longer the process
-dragged on — grew less inclined to give the boat up, resolving to finish her
-himself if he still owned her that autumn. No sale is recorded as having gone
-through. See [David C. Smith](/people/david-c-smith.md) for his fuller build and ownership history.
+Interest came from a third party seeking further completion photos, an estimate of remaining cost and time to finish her, and confirmation of whether the hull was glassed and the chine runners finished, with a trailer and cash on offer if a deal could be reached. Swash remained unsold, with completion photos delayed by a real-estate/divorce-related backlog; the remaining-materials cost was left to the buyer's own approach, a quick-and-dirty finish versus the seller's own more deliberate (and costlier) standard. Credit was given for recommending a focus on finishing the boat as a way through the divorce, and — the longer the process dragged on — the seller grew less inclined to give the boat up, resolving to finish her if she was still unsold that autumn. No sale is recorded as having gone through. See [boats/swash.md](/boats/swash.md) for the fuller build and ownership history.
 
 ## An abandoned build for sale: "RHXII" (April 2006)
 
-Amsterdam builder **Ronald de Hon**, whose in-progress hull "RHXII" had drawn
-encouraging photo-folder attention from the group since late 2003 (see [Glen
-Maxwell — chasing down quiet builders for photos and progress
-reports](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports)),
-announced in April 2006 that family trouble meant he could not finish her and
-could not take her with him — offering the unfinished boat for sale "for any
-reasonable offer."[40] Bill Serjeant offered to add de Hon's e-mail address to
-the UK builders' registry at `www.smallsailboats.co.uk/paradox/names.htm` to
-help find a buyer;[41] de Hon accepted gladly.[42] Bill also contacted de Hon
-off-list and, having seen the photos of "RHXII" in the group's own photo
-section, called the boat "great" and called it a shame de Hon could not
-finish her.[43] No sale or further progress is recorded in the archive after
-this point.
+An Amsterdam builder's in-progress hull "RHXII" had drawn encouraging photo-folder attention from the group since late 2003 (see [chasing down quiet builders for photos and progress reports](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports)). In April 2006 came an announcement that family trouble meant the hull could not be finished and could not be taken along — offering the unfinished boat for sale "for any reasonable offer."[40] An offer followed to add the builder's e-mail address to the UK builders' registry at `www.smallsailboats.co.uk/paradox/names.htm` to help find a buyer;[41] the offer was accepted gladly.[42] Off-list contact followed, and having seen the photos of "RHXII" in the group's own photo section, the boat was called "great," and it was called a shame the build could not be finished.[43] No sale or further progress is recorded in the archive after this point.
 
 # Citations
 

@@ -8,423 +8,107 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Heavy-weather tactics
 
-Deliberate storm and heavy-weather tactics for the [Paradox](/paradox.md) —
-as distinct from the incidental grounding and tacking-difficulty reports
-covered in
-[sailing characteristics and rig balance](/operations/sailing-characteristics.md)
-— cover three linked questions: how to protect the rudder while riding to a
-sea anchor, whether lying a-hull is viable under the balanced-lug rig, and
-how far the boat can safely heel in a seaway.
+Deliberate storm and heavy-weather tactics for the [Paradox](/paradox.md) — as distinct from the incidental grounding and tacking-difficulty reports covered in [sailing characteristics and rig balance](/operations/sailing-characteristics.md) — cover three linked questions: how to protect the rudder while riding to a sea anchor, whether lying a-hull is viable under the balanced-lug rig, and how far the boat can safely heel in a seaway.
 
 ## Rudder position under a sea anchor
 
-Riding to a **parachute (sea) anchor**, a Paradox drifts backward, imposing
-large forces on the **rudder fittings**. The minimum-force position is dead
-center, but holding a blade perfectly immobile with line alone is difficult,
-since some stretch is unavoidable. The better practice is to **pull the rudder
-blade fully up** out of the water, reducing the area exposed to wave action,
-rather than lash a centered blade rigidly. Tying the rudder off **to one
-side** is discouraged: it creates a turning moment that can swing the boat
-broadside to the waves, risking a roll. A sea anchor is a normal thing to
-deploy well short of severe conditions, not only a last resort.
+Riding to a **parachute (sea) anchor**, a Paradox drifts backward, imposing large forces on the **rudder fittings**. The minimum-force position is dead center, but holding a blade perfectly immobile with line alone is difficult, since some stretch is unavoidable. The better practice is to **pull the rudder blade fully up** out of the water, reducing the area exposed to wave action, rather than lash a centered blade rigidly. Tying the rudder off **to one side** is discouraged: it creates a turning moment that can swing the boat broadside to the waves, risking a roll. A sea anchor is a normal thing to deploy well short of severe conditions, not only a last resort.
 
 ## Lying a-hull vs. a sea anchor
 
-Lying a-hull — riding out weather hull-broadside to the wind and sea, without
-a sea anchor deployed — is discouraged for a Paradox. On other boats (a 27 ft
-and a 40 ft monohull, a 31 ft and a 57 ft multihull) it has proved a "VERY
-uncomfortable experience" even in non-adverse conditions: the monohulls rolled
-uncontrollably, the multihulls jerked with every wave. The general problem is
-that most boats want to lie beam-on to the seas when left to drift.
-Conventional heaving-to — backed jib, helm down — is not an option under the
-balanced-lug rig.
+Lying a-hull — riding out weather hull-broadside to the wind and sea, without a sea anchor deployed — is discouraged for a Paradox. On other boats (a 27 ft and a 40 ft monohull, a 31 ft and a 57 ft multihull) it has proved a "VERY uncomfortable experience" even in non-adverse conditions: the monohulls rolled uncontrollably, the multihulls jerked with every wave. The general problem is that most boats want to lie beam-on to the seas when left to drift. Conventional heaving-to — backed jib, helm down — is not an option under the balanced-lug rig.
 
-The practical alternative is to **carry a sea anchor**, which holds the bow
-into the wind and waves instead of letting the boat lie beam-on. A suitable
-one need not be costly — a $15 eBay chute has proved "perfect for a Paradox."
-Taken together: don't try to lie a-hull; deploy a sea anchor instead, with the
-rudder centered or pulled up — never lashed to one side — while riding to it.
+The practical alternative is to **carry a sea anchor**, which holds the bow into the wind and waves instead of letting the boat lie beam-on. A suitable one need not be costly — a $15 eBay chute has proved "perfect for a Paradox." Taken together: don't try to lie a-hull; deploy a sea anchor instead, with the rudder centered or pulled up — never lashed to one side — while riding to it.
 
-On maximum safe heel, "[Whisper](/boats/whisper.md)" has put her deck almost in
-the water while still feeling "pretty solid," in calm-to-moderate water with no
-significant wave action — a second concrete heel data point alongside the
-figures in [weight, ballast, and displacement](/design/weight-and-ballast.md)
-and [Zoë's 45° hand-heel test](/boats/zoe.md), but from actual sailing rather
-than a dockside pull-down. Neither establishes the safe heel limit **in
-waves**, which remains open.
+On maximum safe heel, "[Whisper](/boats/whisper.md)" has put her deck almost in the water while still feeling "pretty solid," in calm-to-moderate water with no significant wave action — a second concrete heel data point alongside the figures in [weight, ballast, and displacement](/design/weight-and-ballast.md) and [Zoë's 45° hand-heel test](/boats/zoe.md), but from actual sailing rather than a dockside pull-down. Neither establishes the safe heel limit **in waves**, which remains open.
 
 ## Retrieving a sea anchor: the St. Croix trial
 
-Sea anchors are not as difficult to retrieve as people assume. In one sea
-trial off **St. Croix, USVI**, a 30 ft parachute sea anchor was deployed from
-a 46 ft cruising catamaran in 18-20 kt winds and roughly 5 ft seas — with
-[Chris Morejohn](/people/chris-morejohn.md), on record for sailing a Paradox
-at 6 kt in 25 kt of wind, as 1st mate. Retrieval was expected to take the rest
-of the afternoon; instead, hauling on the trip line collapsed the chute and it
-came aboard easily after about 30 minutes riding comfortably enough to eat
-lunch.
+Sea anchors are not as difficult to retrieve as people assume. In one sea trial off **St. Croix, USVI**, a 30 ft parachute sea anchor was deployed from a 46 ft cruising catamaran in 18-20 kt winds and roughly 5 ft seas. Retrieval was expected to take the rest of the afternoon; instead, hauling on the trip line collapsed the chute and it came aboard easily after about 30 minutes riding comfortably enough to eat lunch.
 
-The same trial tested a stern drogue. After the sea anchor was retrieved the
-boat accelerated downwind to about 14 kt, at which point a stern-drogue chute
-was deployed — against the instinct to slow down first, for fear of ripping
-the rear cross-member out of the catamaran. The reasoning: if gear is going to
-fail under load, better to find out during sea trials than in a real
-emergency. The drogue produced a smooth deceleration from 14 kt to 3-4 kt as
-the nylon rode stretched to absorb the load, with no gear failure, and proved
-easier to retrieve than the sea anchor, being smaller.
+The same trial tested a stern drogue. After the sea anchor was retrieved the boat accelerated downwind to about 14 kt, at which point a stern-drogue chute was deployed — against the instinct to slow down first, for fear of ripping the rear cross-member out of the catamaran. The reasoning: if gear is going to fail under load, better to find out during sea trials than in a real emergency. The drogue produced a smooth deceleration from 14 kt to 3-4 kt as the nylon rode stretched to absorb the load, with no gear failure, and proved easier to retrieve than the sea anchor, being smaller.
 
 ## Heavy-weather seamanship from the Bolducs (microcruising.com)
 
-David and Mindy Bolduc's published seamanship notes from microcruising.com
-give a compact, practice-tested doctrine that complements the rudder/lying-
-a-hull tactics above. Their core approach is to **reduce sail promptly and
-go slower**: close the hatch and keep sailing "like a convertible" (they
-carry no foul-weather gear at all because of the enclosed pilothouse); if
-the wind is on the nose, fall off a few degrees to keep moving; running
-downwind in a blow, reef enough "to prevent surfing." A specific
-downwind-reefing caveat: shorten sail by turning back upwind first, since
-releasing the halyard while running downwind can let the sail "balloon out
-like a spinnaker" before the reef can be pulled in taut. A practical warning
-sign that it's time to reef: the boom dipping into the water. They also use
-"**bathtub sailing**" — Matt Layden's own term, sheltering in an island's
-lee during foul weather — and generally prefer to retreat into shallow,
-protected water rather than push on offshore, reasoning "how big can a wave
-get in a few feet of water?"
+Published seamanship notes from microcruising.com give a compact, practice-tested doctrine that complements the rudder/lying-a-hull tactics above. The core approach is to **reduce sail promptly and go slower**: close the hatch and keep sailing "like a convertible" (carrying no foul-weather gear at all because of the enclosed pilothouse); if the wind is on the nose, fall off a few degrees to keep moving; running downwind in a blow, reef enough "to prevent surfing." A specific downwind-reefing caveat: shorten sail by turning back upwind first, since releasing the halyard while running downwind can let the sail "balloon out like a spinnaker" before the reef can be pulled in taut. A practical warning sign that it's time to reef: the boom dipping into the water. Another tactic is "**bathtub sailing**" — Matt Layden's own term, sheltering in an island's lee during foul weather — and a general preference for retreating into shallow, protected water rather than pushing on offshore, reasoning "how big can a wave get in a few feet of water?"
 
-The Bolducs have run informal sea-anchor and drogue trials from Little
-Cruiser: a 9-ft parachute (the same size used by the Pardeys aboard
-*Serrafyn*) held drift to almost nothing but is "complete overkill" and
-bulky to stow; a smaller 3-ft army-surplus chute let the boat "drift
-considerably more." Their settled opinion is that "the ideal size would be
-a **5-6 footer**... for boats the size of Little Cruiser and Paradox." Even
-on a chute, the hull does not lie head-to-wind — it settles roughly **20°
-off** — and lowering the centerboard "improved things only a few degrees."
-A small drogue deployed off the bow was "the worst performer of the lot,"
-and they judge it would do better trailed off the stern to slow the boat
-while running downwind. On entering an inlet or cut from the ocean: doing so
-in a big sea, especially against an ebb tide, is dangerous, since the waves
-"feel the bottom" and break heavily — a condition locally called a "**rage**"
-(e.g. off Whale Cay, Abacos).
+Informal sea-anchor and drogue trials have been run from Little Cruiser: a 9-ft parachute (the same size used by the Pardeys aboard *Serrafyn*) held drift to almost nothing but is "complete overkill" and bulky to stow; a smaller 3-ft army-surplus chute let the boat "drift considerably more." The settled opinion is that "the ideal size would be a **5-6 footer**... for boats the size of Little Cruiser and Paradox." Even on a chute, the hull does not lie head-to-wind — it settles roughly **20° off** — and lowering the centerboard "improved things only a few degrees." A small drogue deployed off the bow was "the worst performer of the lot," and would do better trailed off the stern to slow the boat while running downwind. On entering an inlet or cut from the ocean: doing so in a big sea, especially against an ebb tide, is dangerous, since the waves "feel the bottom" and break heavily — a condition locally called a "**rage**" (e.g. off Whale Cay, Abacos).
 
-On knockdowns, the Bolducs' own experience is that Little Cruiser and
-Paradox-type hulls have never actually gone over in their sailing, "even in
-seas of 10-12 feet," though they acknowledge "it still could occur under the
-right conditions." Two real Matt Layden knockdowns are on record from Dave's
-own account: [Terrapin](/matt-layden/terrapin.md), Matt's 16-ft catboat,
-knocked down by a violent squall in the Gulf of Maine ("the mast prevented
-the boat from going over further"); and
-[Swamp Thing](/matt-layden/swamp-thing.md), rolled completely over in the
-Gulf Stream at night by a wave disturbed by a passing ship while Matt stood
-on deck — he grabbed the toe rail and "pulled his craft on top of him," then
-righted her himself and continued cruising. Dave is explicit that these
-findings do not amount to an offshore endorsement: "I am not endorsing
-Paradox or Little Cruiser as offshore sailing craft... they are tough coastal
-cruisers that can handle their share of bad weather," and elsewhere, "Paradox,
-Swamp Thing and Little Cruiser are coastal cruisers, and they probably should
-be snuggled up some creek when it's blowing that hard out there." Dave's own
-solo 2013 Bahamas passage in **Enigma** survived a frontal passage with
-"winds in excess of 50 knots" under sail and oar alone, without an outboard.
+On knockdowns, Little Cruiser and Paradox-type hulls have never actually gone over in practice, "even in seas of 10-12 feet," though "it still could occur under the right conditions." Two real Matt Layden knockdowns are on record: [Terrapin](/matt-layden/terrapin.md), Matt's 16-ft catboat, knocked down by a violent squall in the Gulf of Maine ("the mast prevented the boat from going over further"); and [Swamp Thing](/matt-layden/swamp-thing.md), rolled completely over in the Gulf Stream at night by a wave disturbed by a passing ship while Matt stood on deck — he grabbed the toe rail and "pulled his craft on top of him," then righted her himself and continued cruising. These findings do not amount to an offshore endorsement: "I am not endorsing Paradox or Little Cruiser as offshore sailing craft... they are tough coastal cruisers that can handle their share of bad weather," and elsewhere, "Paradox, Swamp Thing and Little Cruiser are coastal cruisers, and they probably should be snuggled up some creek when it's blowing that hard out there." A solo 2013 Bahamas passage in **Enigma** survived a frontal passage with "winds in excess of 50 knots" under sail and oar alone, without an outboard.
 
 ## A British Isles sailor's case for lying a-hull, and Paradox's flat bottom
 
-A countervailing view on record — from a UK sailor who has weathered several
-severe British Isles gales and two in the Bay of Biscay — favors **lying
-a-hull** as the default: heave to first, then, as conditions worsen, strip all
-sail and let the boat **drift beam-on, downwind**, given sea room, without a
-drogue (unlike Voss's *Tilikum* or Pardey's modern practice).
+A countervailing view on record — backed by several severe British Isles gales and two in the Bay of Biscay — favors **lying a-hull** as the default: heave to first, then, as conditions worsen, strip all sail and let the boat **drift beam-on, downwind**, given sea room, without a drogue (unlike Voss's *Tilikum* or Pardey's modern practice).
 
-Applied to Paradox — a hull **completely flat underneath** apart from the
-bow-to-transom curve — she could plausibly heave to Pardey-style: reef to
-minimum sail, sheet hard amidships, lash the tiller a few degrees to leeward,
-and drift back with her own slick to windward. The one flagged uncertainty,
-unique to her flat bottom and rudder-steered handling, is possible undue
-rudder loading as a wave throws the boat off a crest and backward. On this
-view Paradox's stability would let her lie a-hull safely in winds **up to
-force 7**, no worse than a Hunter 19, and lacking a deep keel she would
-present little resistance while doing so, her own slick smoothing the seas
-enough to keep her reasonably dry. For an actual ocean voyage it suggests a
-temporary small mizzen riding sail paired with a Voss-style drogue (not a
-parachute) to hold the bow into the seas — citing Voss's *Tilikum*, a
-narrow-beamed dugout canoe over 30 ft with a mizzen, as precedent.
+Applied to Paradox — a hull **completely flat underneath** apart from the bow-to-transom curve — she could plausibly heave to Pardey-style: reef to minimum sail, sheet hard amidships, lash the tiller a few degrees to leeward, and drift back with her own slick to windward. The one flagged uncertainty, unique to her flat bottom and rudder-steered handling, is possible undue rudder loading as a wave throws the boat off a crest and backward. On this view Paradox's stability would let her lie a-hull safely in winds **up to force 7**, no worse than a Hunter 19, and lacking a deep keel she would present little resistance while doing so, her own slick smoothing the seas enough to keep her reasonably dry. For an actual ocean voyage it suggests a temporary small mizzen riding sail paired with a Voss-style drogue (not a parachute) to hold the bow into the seas — citing Voss's *Tilikum*, a narrow-beamed dugout canoe over 30 ft with a mizzen, as precedent.
 
-This is the sharpest tension on record with the sea-anchor doctrine above:
-lying a-hull as a practice-tested default, versus the experience (above) that
-found lying a-hull uncomfortable on every boat tried and recommends a sea
-anchor instead. Neither account is a firsthand report of lying a-hull aboard a
-Paradox.
+This is the sharpest tension on record with the sea-anchor doctrine above: lying a-hull as a practice-tested default, versus the experience (above) that found lying a-hull uncomfortable on every boat tried and recommends a sea anchor instead. Neither account is a firsthand report of lying a-hull aboard a Paradox.
 
 ## A sea-anchor technique for heaving-to: lying a few degrees off the wind
 
-Heaving-to properly means **stopping the vessel's forward momentum** by any
-means, not only the backed-jib/down-helm technique most sailors associate with
-the word. The method easiest for a Paradox is **lying to a sea anchor**,
-rigged to keep the bow off dead into the wind: set the rode to **starboard**,
-then lead a second line aft from it through a snatch block, so hauling it lets
-the **bow fall off to port** until she settles a comfortable few degrees off
-the wind — riding the starboard tack so she holds **right of way** over
-vessels on the opposite tack. This refines the rudder-position guidance above
-(see [rudder position under a sea
-anchor](#rudder-position-under-a-sea-anchor)) into a complete method for
-choosing the boat's angle to wind and sea while riding out weather.
+Heaving-to properly means **stopping the vessel's forward momentum** by any means, not only the backed-jib/down-helm technique most sailors associate with the word. The method easiest for a Paradox is **lying to a sea anchor**, rigged to keep the bow off dead into the wind: set the rode to **starboard**, then lead a second line aft from it through a snatch block, so hauling it lets the **bow fall off to port** until she settles a comfortable few degrees off the wind — riding the starboard tack so she holds **right of way** over vessels on the opposite tack. This refines the rudder-position guidance above (see [rudder position under a sea anchor](#rudder-position-under-a-sea-anchor)) into a complete method for choosing the boat's angle to wind and sea while riding out weather.
 
-The best further reading on sea-anchor and heaving-to tactics is **Captain
-Voss's** two books — *The Venturesome Voyages of Captain Voss* and *40,000
-Miles in a Canoe* (substantially the same story, the latter omitting his
-*Xora* voyage) — both available through the usual secondhand channels.
+The best further reading on sea-anchor and heaving-to tactics is **Captain Voss's** two books — *The Venturesome Voyages of Captain Voss* and *40,000 Miles in a Canoe* (substantially the same story, the latter omitting his *Xora* voyage) — both available through the usual secondhand channels.
 
 ## Why a keel-less, dory-like hull resists tripping in steep waves
 
-A second storm option worth trying alongside heaving to is streaming an
-**anchor off the bow**: citing designer Phil Bolger, the rode's drag in the
-calmer water below the surface can be as effective as a chute near it, with
-the added benefit that, blown toward a lee shore, a dragging anchor helps slow
-the boat — though a solidly-hooked anchor pulling the bow down is a real risk
-to weigh. (A canoeing parallel: a rock-filled bucket dragged on a bow-to-bow
-bridle passing under the hull, so its drag does not pull the bow down, is a
-traditional way to slow a canoe caught out in a blow — the same bridle rig
-used historically for lining a canoe downstream or tracking it upstream
-through rapids.)
+A second storm option worth trying alongside heaving to is streaming an **anchor off the bow**: the rode's drag in the calmer water below the surface can be as effective as a chute near it, with the added benefit that, blown toward a lee shore, a dragging anchor helps slow the boat — though a solidly-hooked anchor pulling the bow down is a real risk to weigh. (A canoeing parallel: a rock-filled bucket dragged on a bow-to-bow bridle passing under the hull, so its drag does not pull the bow down, is a traditional way to slow a canoe caught out in a blow — the same bridle rig used historically for lining a canoe downstream or tracking it upstream through rapids.)
 
-The deeper reason a Paradox suits riding out steep waves is its **keel-less,
-sharpie/dory-type hull**. Old dory fishermen valued the lack of a keel: a
-**keeled** dory slipping sideways down the face of a steep wave would "trip"
-over its own keel — a risk a flat-bottomed, keel-less hull does not share. The
-same no-keel logic appears in the Matt Layden/Paradox chapter of Sven Yrvind's
-book (see [the "BRIS Paradox" — Sven Yrvind's book,
-translated](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter))
-and in the ocean-rowing record: **John Ridgway and Chay Blyth**, who rowed the
-Atlantic in 1966 in the dory-like *English Rose*, likewise went deliberately
-without a keel.
+The deeper reason a Paradox suits riding out steep waves is its **keel-less, sharpie/dory-type hull**. Old dory fishermen valued the lack of a keel: a **keeled** dory slipping sideways down the face of a steep wave would "trip" over its own keel — a risk a flat-bottomed, keel-less hull does not share. The same no-keel logic appears in the Matt Layden/Paradox chapter of Sven Yrvind's book (see [the "BRIS Paradox" — Sven Yrvind's book, translated](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter)) and in the ocean-rowing record: **John Ridgway and Chay Blyth**, who rowed the Atlantic in 1966 in the dory-like *English Rose*, likewise went deliberately without a keel.
 
 ## Whether a closed cabin is a safety risk, or a comfort
 
-A newcomer's most basic worry about the design — that sitting inside a
-closed cabin in a sudden gust means anticipating disaster rather than
-avoiding it — has a direct answer: the cabin is not a trap, and closing the
-hatch is more often a **comfort** decision than an emergency one.[38] Since a
-Paradox carries no keel but does carry a lot of ballast low down, she is
-built to **self-right** even from a full capsize, and in one owner's own
-experience she has done so in practice. If a hatch were ever to fail to
-seal, the hull's built-in buoyancy and air pockets would still keep her
-afloat deck-level with the water — the standard advice in any capsize,
-Paradox or otherwise, is to stay with the boat rather than swim for it,
-since a boat is far easier for rescuers to spot than a person in the
-water.[39]
+A newcomer's most basic worry about the design — that sitting inside a closed cabin in a sudden gust means anticipating disaster rather than avoiding it — has a direct answer: the cabin is not a trap, and closing the hatch is more often a **comfort** decision than an emergency one.[38] Since a Paradox carries no keel but does carry a lot of ballast low down, she is built to **self-right** even from a full capsize, and has done so in practice. If a hatch were ever to fail to seal, the hull's built-in buoyancy and air pockets would still keep her afloat deck-level with the water — the standard advice in any capsize, Paradox or otherwise, is to stay with the boat rather than swim for it, since a boat is far easier for rescuers to spot than a person in the water.[39]
 
-Firsthand experience settles the theoretical question. **Self-righting is
-rated, from a stability curve, to work even from as far over as 160
-degrees**, and requires no crew action at all — a contrast with a Bolger
-"Birdwatcher"-type hull, which is righted deliberately by the crew shifting
-their own body weight. One owner's own accidental 90-degree knockdown
-(brought on by a seamanship error, not weather) recovered on its own "before
-I had really registered what had happened" — closer, in the owner's words,
-to sailing "a yacht than a dinghy."[40] Sailing with the hatch closed is
-routine and often
-simply more comfortable, not a defensive posture reserved for rough
-weather — the same owner sails that way even on calm, sunny days, since the
-cabin gives good all-round vision and plenty of ventilation rather than
-shutting the sailor away from the boat's handling.[41] Only once, closed up
-early as conditions worsened and wearing a harness cleated to the aft deck,
-did that owner see any water actually get in: the harness webbing itself
-held the hatch open by its own thickness, admitting a trickle that wet a
-sleeve but never amounted to enough to need the bilge pump — sponged dry
-afterward by hand.[41] A closed hatch pushed under by a wave, as opposed to
-merely getting the rail wet, is "a long way" from anything experienced in
-ordinary sailing.[41]
+Firsthand experience settles the theoretical question. **Self-righting is rated, from a stability curve, to work even from as far over as 160 degrees**, and requires no crew action at all — a contrast with a Bolger "Birdwatcher"-type hull, which is righted deliberately by the crew shifting their own body weight. An accidental 90-degree knockdown (brought on by a seamanship error, not weather) recovered on its own "before I had really registered what had happened" — closer to sailing "a yacht than a dinghy."[40] Sailing with the hatch closed is routine and often simply more comfortable, not a defensive posture reserved for rough weather — done that way even on calm, sunny days, since the cabin gives good all-round vision and plenty of ventilation rather than shutting the sailor away from the boat's handling.[41] Only once, closed up early as conditions worsened and wearing a harness cleated to the aft deck, did any water actually get in: the harness webbing itself held the hatch open by its own thickness, admitting a trickle that wet a sleeve but never amounted to enough to need the bilge pump — sponged dry afterward by hand.[41] A closed hatch pushed under by a wave, as opposed to merely getting the rail wet, is "a long way" from anything experienced in ordinary sailing.[41]
 
-A further real-world precedent for staying inside a capsized hull rather
-than abandoning it: sailor **James Bullimore** famously survived several
-days adrift by staying in an air pocket inside an upturned catamaran on the
-open ocean before being rescued — the same "stay with the boat" logic
-applied to a very different vessel.[38]
+A further real-world precedent for staying inside a capsized hull rather than abandoning it: sailor **James Bullimore** famously survived several days adrift by staying in an air pocket inside an upturned catamaran on the open ocean before being rescued — the same "stay with the boat" logic applied to a very different vessel.[38]
 
-A related worry concerns a **jammed hatch after a collision** rather than a
-capsize — a crash damaging the boat and binding the hatch slides shut while
-water comes in, with no obvious way to break out through the immensely
-strong polycarbonate glazing.[43] In practice, the hatch runner is held down
-by seven bolts each side, all easily reached from inside; removing the nuts
-from just one side lets the whole hatch lift off, and a hard, adrenaline-backed
-kick would likely snap the quarter-inch wooden lip that traps the runner
-regardless. The boat is also designed to float even completely full of
-water, so a jammed hatch is not itself a sinking risk. A more serious
-practical worry than a jammed hatch is **fire**, since the cooker sits just
-behind it — reason enough to carry both a fire extinguisher and a fire
-blanket aboard.[44]
+A related worry concerns a **jammed hatch after a collision** rather than a capsize — a crash damaging the boat and binding the hatch slides shut while water comes in, with no obvious way to break out through the immensely strong polycarbonate glazing.[43] In practice, the hatch runner is held down by seven bolts each side, all easily reached from inside; removing the nuts from just one side lets the whole hatch lift off, and a hard, adrenaline-backed kick would likely snap the quarter-inch wooden lip that traps the runner regardless. The boat is also designed to float even completely full of water, so a jammed hatch is not itself a sinking risk. A more serious practical worry than a jammed hatch is **fire**, since the cooker sits just behind it — reason enough to carry both a fire extinguisher and a fire blanket aboard.[44]
 
-Left unanswered on record: whether anyone has deliberately flooded a
-"plans built" Paradox while afloat to observe firsthand how she behaves and
-how low she squats, as distinct from the float-when-full design claim
-above.[45]
+Left unanswered on record: whether anyone has deliberately flooded a "plans built" Paradox while afloat to observe firsthand how she behaves and how low she squats, as distinct from the float-when-full design claim above.[45]
 
 ## Securing the crew during a knockdown
 
-Distinct from the boat's own righting behavior (above) is the **crew's body**
-during a roll. A Paradox needs no elaborate restraint: her righting does the
-work, and the crew need only shift their weight to one side, the combined
-effect of crew weight, ballast, and wave action bringing her upright again.
-The concern is real enough — a heavy sailor (about 225 lb) thrown onto the
-upturned cabin top would shift the center of gravity sharply, and Matt
-Layden's stability figures assume a static center of gravity with the boat
-loaded to the DWL. Restraints have been floated — Velcro pants, a belt with an
-after-centerline snaphook, an automotive seatbelt, or seat belts at shoulder,
-thigh, and shin level on eye bolts in the cabin sole (after Gerry Spiess's
-*Alone Against the Atlantic*) — but none is on record as built, and the
-practical verdict is that none is needed. The counter-caution, if belts were
-fitted: many cabin injuries come from **flying objects**, not the body
-sliding, so any locker housing them must stay shut in a knockdown, and sharp
-corners are worth rounding over and padding.
+Distinct from the boat's own righting behavior (above) is the **crew's body** during a roll. A Paradox needs no elaborate restraint: her righting does the work, and the crew need only shift their weight to one side, the combined effect of crew weight, ballast, and wave action bringing her upright again. The concern is real enough — a heavy sailor (about 225 lb) thrown onto the upturned cabin top would shift the center of gravity sharply, and Matt Layden's stability figures assume a static center of gravity with the boat loaded to the DWL. Restraints have been floated — Velcro pants, a belt with an after-centerline snaphook, an automotive seatbelt, or seat belts at shoulder, thigh, and shin level on eye bolts in the cabin sole (after Gerry Spiess's *Alone Against the Atlantic*) — but none is on record as built, and the practical verdict is that none is needed. The counter-caution, if belts were fitted: many cabin injuries come from **flying objects**, not the body sliding, so any locker housing them must stay shut in a knockdown, and sharp corners are worth rounding over and padding.
 
-**A firsthand 90-degree knockdown confirms the point.** The one recorded case
-of a sailor actually aboard during a Paradox knockdown bears this out. In a
-90-degree knockdown aboard "[little Jim](/boats/little-jim.md)," the sailor did
-not move far: as she went over he braced a hand against the window frame, and
-within a few seconds — before he had fully registered what was happening — she
-was upright and sailing again, the seat cushion still under him throughout. No
-deliberate bracing beyond that reflexive handhold was needed. The knockdown
-was judged "a learning experience" — a lesson to avoid going out in such
-weather again, not a structural or crew-safety failing of the boat.
+**A firsthand 90-degree knockdown confirms the point.** The one recorded case of a sailor actually aboard during a Paradox knockdown bears this out. In a 90-degree knockdown aboard "[little Jim](/boats/little-jim.md)," the sailor did not move far: as she went over he braced a hand against the window frame, and within a few seconds — before he had fully registered what was happening — she was upright and sailing again, the seat cushion still under him throughout. No deliberate bracing beyond that reflexive handhold was needed. The knockdown was judged "a learning experience" — a lesson to avoid going out in such weather again, not a structural or crew-safety failing of the boat.
 
-Whether a Paradox would survive a full **end-over-end roll in 15-20 ft
-breaking seas** — of the kind an offshore ferry crossing can produce, as
-distinct from the 90-degree knockdown above — has no rolled-boat account on
-record. The nearest answer is a prediction rather than a precedent: that
-genuine long-distance Paradox voyages were only two or three years off, the
-design being "as capable, or more so, than many other small boats that have
-crossed oceans." See [blue-water suitability — surviving a full roll or
-pitchpole in breaking
-seas](/design/blue-water-suitability.md#surviving-a-full-roll-or-pitchpole-in-breaking-seas)
-for what such a passage would demand of the design, including a catalogue of
-conventional offshore safety features weighed (and mostly declined) against
-Paradox's own.
+Whether a Paradox would survive a full **end-over-end roll in 15-20 ft breaking seas** — of the kind an offshore ferry crossing can produce, as distinct from the 90-degree knockdown above — has no rolled-boat account on record. The nearest answer is a prediction rather than a precedent: that genuine long-distance Paradox voyages were only two or three years off, the design being "as capable, or more so, than many other small boats that have crossed oceans." See [blue-water suitability — surviving a full roll or pitchpole in breaking seas](/design/blue-water-suitability.md#surviving-a-full-roll-or-pitchpole-in-breaking-seas) for what such a passage would demand of the design, including a catalogue of conventional offshore safety features weighed (and mostly declined) against Paradox's own.
 
 ## Untested heaving-to ideas: boom position, minimal sail, and deliberate unbalancing
 
-Beyond lying to a sea anchor, three **untested** ideas for heaving-to under
-sail alone have been proposed — an unballasted, no-sea-anchor alternative to
-the starboard-tack method above (see [a sea-anchor technique for
-heaving-to](#a-sea-anchor-technique-for-heaving-to-lying-a-few-degrees-off-the-wind)),
-none yet tried by anyone on the list, all drawn from experience aboard
-"[Little Jim](/boats/little-jim.md)":
+Beyond lying to a sea anchor, three **untested** ideas for heaving-to under sail alone have been proposed — an unballasted, no-sea-anchor alternative to the starboard-tack method above (see [a sea-anchor technique for heaving-to](#a-sea-anchor-technique-for-heaving-to-lying-a-few-degrees-off-the-wind)), none yet tried, all drawn from experience aboard "[Little Jim](/boats/little-jim.md)":
 
-- Because a Paradox **weathercocks downwind once the rudder is fully
-  raised**, holding the **boom in a fixed position** may let the hull settle
-  at a chosen angle to the sea rather than only dead downwind.
-- Sheeting in just a **couple of feet of sail**, hard, with the rudder turned
-  up toward the wind — so little drive that the boat cannot force itself
-  through the wind to complete a tack, and so sits stalled head-to-wind.
-- Deliberately **unbalancing the boat** before a tack — since an unbalanced
-  Paradox is already hard to tack in light air, that same imbalance might be
-  harnessed to leave her hove-to.
+- Because a Paradox **weathercocks downwind once the rudder is fully raised**, holding the **boom in a fixed position** may let the hull settle at a chosen angle to the sea rather than only dead downwind.
+- Sheeting in just a **couple of feet of sail**, hard, with the rudder turned up toward the wind — so little drive that the boat cannot force itself through the wind to complete a tack, and so sits stalled head-to-wind.
+- Deliberately **unbalancing the boat** before a tack — since an unbalanced Paradox is already hard to tack in light air, that same imbalance might be harnessed to leave her hove-to.
 
-How to unbalance or balance a Paradox on purpose is itself an open question,
-bound up with the long-running weight-forward/weight-aft weathercocking
-problem on "[Whisper](/boats/whisper.md)" — a boat trimmed rudder-neutral and
-tending to head up into a strong gust, which is correct balance yet still
-tacks poorly in light air (see [sailing characteristics — a second round:
-weathercocking, ballast, and rudder
-stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall)).
-The *Storm Tactics Handbook: Modern Methods of Heaving-To for Survival in
-Extreme Conditions* is the standard further reading here, with the caveat that
-a coastal cruiser like Paradox would rarely meet the extreme conditions it
-addresses — though it may still "stoke the belly fire of the armchair sailor."
+How to unbalance or balance a Paradox on purpose is itself an open question, bound up with the long-running weight-forward/weight-aft weathercocking problem on "[Whisper](/boats/whisper.md)" — a boat trimmed rudder-neutral and tending to head up into a strong gust, which is correct balance yet still tacks poorly in light air (see [sailing characteristics — a second round: weathercocking, ballast, and rudder stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall)). The *Storm Tactics Handbook: Modern Methods of Heaving-To for Survival in Extreme Conditions* is the standard further reading here, with the caveat that a coastal cruiser like Paradox would rarely meet the extreme conditions it addresses — though it may still "stoke the belly fire of the armchair sailor."
 
 ## The strongest winds a Paradox is known to have sailed in
 
-The best evidence on record of the strongest conditions a Paradox has handled
-is [Matt Layden](/matt-layden/biography.md)'s own sailing: he has sailed the
-[original Paradox](/boats/original-paradox.md) in **winds over 30 kt**,
-stronger than the documented 25 kt / 6 kt Exuma Sound photo of the boat
-sailing with [Chris Morejohn](/people/chris-morejohn.md) at the helm (recalled
-by Dave Bolduc as closer to 30 kt — see [rig and sail](/design/rig.md)). The
-broader point: the boat is still sailed and has always reached her
-destinations, so she can evidently handle the weather she has met. No boat
-sails to windward "easily" in the roughest conditions — that is always hard on
-crew and boat — and the fullest record of a Paradox tested in genuinely rough
-water is "[Little Jim](/boats/little-jim.md)"'s own cruising accounts.
+The best evidence on record of the strongest conditions a Paradox has handled is [Matt Layden](/matt-layden/biography.md)'s own sailing: he has sailed the [original Paradox](/boats/original-paradox.md) in **winds over 30 kt**, stronger than the documented 25 kt / 6 kt Exuma Sound photo of the boat under sail (recalled elsewhere as closer to 30 kt — see [rig and sail](/design/rig.md)). The broader point: the boat is still sailed and has always reached her destinations, so she can evidently handle the weather she has met. No boat sails to windward "easily" in the roughest conditions — that is always hard on crew and boat — and the fullest record of a Paradox tested in genuinely rough water is "[Little Jim](/boats/little-jim.md)"'s own cruising accounts.
 
-See also [gulf stream crossing](/operations/gulf-stream-crossing.md),
-[blue-water suitability](/design/blue-water-suitability.md), and
-[ground tackle](/operations/ground-tackle.md).
+See also [gulf stream crossing](/operations/gulf-stream-crossing.md), [blue-water suitability](/design/blue-water-suitability.md), and [ground tackle](/operations/ground-tackle.md).
 
 ## Handling in a blow: pointing through it rather than reducing sail early
 
-[Alastair](/people/alastair.md)'s own firsthand upper bound, from open water,
-is a **Force 5 quartering-to-beam wind** — carrying, by his own admission,
-somewhat more sail than he strictly needed at the time. His practice in that
-wind was simply to point the bow where he wanted to go and let the hull
-punch through the waves, rather than easing off or reducing sail
-defensively; helm control felt the same whether he was sitting inside the
-cabin or out in the open. He does not "hunker down" in a blow as some
-newcomers picture it — he sits in the cabin normally, often reading a
-book — underscoring the same point made [above](#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort)
-that closing up the cabin is ordinary practice, not a defensive posture
-reserved for rough weather.[42]
+A firsthand upper bound, from open water, is a **Force 5 quartering-to-beam wind** — carrying, by the sailor's own admission, somewhat more sail than strictly needed at the time. Practice in that wind was simply to point the bow where the boat wanted to go and let the hull punch through the waves, rather than easing off or reducing sail defensively; helm control felt the same whether sitting inside the cabin or out in the open. There is no "hunkering down" in a blow as some newcomers picture it — the cabin is sat in normally, often while reading a book — underscoring the same point made [above](#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort) that closing up the cabin is ordinary practice, not a defensive posture reserved for rough weather.[42]
 
 ## A wind-against-tide encounter, and the case against foredeck storage
 
-A firsthand account from the south coast of England — where wind-against-tide
-conditions are common — illustrates both how a Paradox handles rough water
-by accident and a practical lesson that followed from it. Caught by a
-tactical error on an early coastal passage, a sailor found himself
-close-hauled in a fast tide running against the wind. The boat herself
-**handled the conditions with no fuss**; the crew fared slightly less well
-(compounded by first-day seasickness), and a large quantity of **green water
-passed right over the cabin** throughout. That single detail settled a
-practical question about deck stowage: carrying fuel, an outboard, or other
-gear loose on the **foredeck** is not viable in conditions like these, since
-it would either wash off or be left inoperable afterward. The broader
-lesson, offered to anyone planning to rely on onboard electronics for
-safety-critical functions (self-steering, navigation, a bilge pump): **test
-the installation with a fire hose before setting off**, since conditions of
-this kind are not exotic on an exposed coast — "live the dream, don't die
-for it."
+A firsthand account from the south coast of England — where wind-against-tide conditions are common — illustrates both how a Paradox handles rough water by accident and a practical lesson that followed from it. Caught by a tactical error on an early coastal passage, a sailor found himself close-hauled in a fast tide running against the wind. The boat herself **handled the conditions with no fuss**; the crew fared slightly less well (compounded by first-day seasickness), and a large quantity of **green water passed right over the cabin** throughout. That single detail settled a practical question about deck stowage: carrying fuel, an outboard, or other gear loose on the **foredeck** is not viable in conditions like these, since it would either wash off or be left inoperable afterward. The broader lesson, offered to anyone planning to rely on onboard electronics for safety-critical functions (self-steering, navigation, a bilge pump): **test the installation with a fire hose before setting off**, since conditions of this kind are not exotic on an exposed coast — "live the dream, don't die for it."
 
-A **painted sheer line made from 2 in PVC tape**, applied to the hull before
-this same trip, was washed almost entirely off the sheer and ended up
-wrapped around the mast and cabin — direct physical evidence of just how
-much green water came aboard — yet still **not a drop of water got inside**
-the boat.[35] Asked whether that dry-inside result reflected the design or
-the workmanship, the builder credited the **design**: the cabin hatch
-seal in particular is "so simple and elegant" that "the little details
-make all the difference," rating his own workmanship a distant second to
-the design itself.[36][37]
+A **painted sheer line made from 2 in PVC tape**, applied to the hull before this same trip, was washed almost entirely off the sheer and ended up wrapped around the mast and cabin — direct physical evidence of just how much green water came aboard — yet still **not a drop of water got inside** the boat.[35] Asked whether that dry-inside result reflected the design or the workmanship, the builder credited the **design**: the cabin hatch seal in particular is "so simple and elegant" that "the little details make all the difference," rating the workmanship a distant second to the design itself.[36][37]
 
 ## A newcomer's rough-weather FAQ: tacking, pitchpoling, submarining, and lying to a drogue
 
-A prospective builder's first-principles questions about rough-weather
-handling, asked before ever having sailed a Paradox, gather several answers
-already scattered across this page into one place. On **why the boat
-doesn't get blown off course while tacking**, when neither chine runner is
-briefly gripping water: the runners work whenever the hull is heeled, since
-heeling itself — not the tack through head-to-wind — is what engages
-them; see [how chine runners work](/chine-runners/how-they-work.md) for
-the underlying mechanism. On **pitchpoling and a wave breaking over the
-bow**: the worst water on record was taken running with a foul tide against
-the wind through a tide race, with solid water coming clean over the
-cabin — consistent with the [wind-against-tide
-account](#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage)
-above. On **submarining, steering, and water through the vents**: sailing
-that same tide race with the tiller and mainsheet both locked off, the boat
-steered herself with no attention needed from the crew, and while large
-quantities of water could be heard running off the deck into the vent
-trunk, none of it reached the cabin — the vent trunk's drain design (see
-[transom deck plate — the vent trunk's own
-drain](/construction/transom-deck-plate.md#the-vent-trunks-own-drain))
-doing exactly the job it is built for under a real load, not just a light
-rinse. Left unanswered on record: how the boat points and behaves lying to
-a drogue, and whether the keel-less hull's chine runners can catch on the
-water lying a-hull to steep waves, as distinct from the lying-a-hull
-question already addressed
-[above](#lying-a-hull-vs-a-sea-anchor).[46][47]
+A prospective builder's first-principles questions about rough-weather handling, asked before ever having sailed a Paradox, gather several answers already scattered across this page into one place. On **why the boat doesn't get blown off course while tacking**, when neither chine runner is briefly gripping water: the runners work whenever the hull is heeled, since heeling itself — not the tack through head-to-wind — is what engages them; see [how chine runners work](/chine-runners/how-they-work.md) for the underlying mechanism. On **pitchpoling and a wave breaking over the bow**: the worst water on record was taken running with a foul tide against the wind through a tide race, with solid water coming clean over the cabin — consistent with the [wind-against-tide account](#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage) above. On **submarining, steering, and water through the vents**: sailing that same tide race with the tiller and mainsheet both locked off, the boat steered herself with no attention needed from the crew, and while large quantities of water could be heard running off the deck into the vent trunk, none of it reached the cabin — the vent trunk's drain design (see [transom deck plate — the vent trunk's own drain](/construction/transom-deck-plate.md#the-vent-trunks-own-drain)) doing exactly the job it is built for under a real load, not just a light rinse. Left unanswered on record: how the boat points and behaves lying to a drogue, and whether the keel-less hull's chine runners can catch on the water lying a-hull to steep waves, as distinct from the lying-a-hull question already addressed [above](#lying-a-hull-vs-a-sea-anchor).[46][47]
 
 ## An open question on motorboat wakes and following seas
 
-Two handling questions in wave conditions short of a storm remain unanswered
-on record: whether a Paradox must alter course for **large motorboat wakes in
-shallow water** or can hold a steady course through them, and how she behaves
-running in a **following sea** (see [sailing characteristics — center of
-effort, rudder stall, and telltale placement as the real tacking
-variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables)).
+Two handling questions in wave conditions short of a storm remain unanswered on record: whether a Paradox must alter course for **large motorboat wakes in shallow water** or can hold a steady course through them, and how she behaves running in a **following sea** (see [sailing characteristics — center of effort, rudder stall, and telltale placement as the real tacking variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables)).
 
 # Citations
 

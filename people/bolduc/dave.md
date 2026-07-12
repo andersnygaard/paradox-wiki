@@ -8,481 +8,96 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Dave Bolduc
 
-*Part of the [Bolduc](/people/bolduc.md) record — see also his cruising partner
-[Mindy Bolduc](/people/bolduc/mindy.md) and the couple's shared
-[Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md).*
+*Part of the [Bolduc](/people/bolduc.md) record — see also his cruising partner [Mindy Bolduc](/people/bolduc/mindy.md) and the couple's shared [Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md).*
 
-**Dave Bolduc** (full name David G. Bolduc; posting as `mbolduc`, `boldav38`,
-and `dave` from a `triad.rr.com` North Carolina address) distributes the
-[Paradox building plans](/references/building-plans.md) and, with his wife
-[Mindy](/people/bolduc/mindy.md), cruises
-[Little Cruiser](/matt-layden/little-cruiser.md) — a boat "very similar to
-Paradox." A carpenter by trade, he is one of the archive's deepest firsthand
-authorities on [Matt Layden](/matt-layden/biography.md) and his boats: he has
-never built a Paradox himself, but has known Matt since 1992, owns three of his
-designs, cruised the Bahamas in his company, and has examined most of Matt's
-boats in person and discussed each at length with the designer — the full
-relationship is set out in the couple's
-[Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md). He joined the `paradoxbuilders`
-list in September 2001 and later founded the companion
-[Micro Cruising](/references/micro-cruising-group.md) Yahoo group, which
-[Don Elliott](/people/don-elliott.md) encouraged members to join. For
-Paradox-specific building details he defers to Don Elliott and
-[Glen C. Maxwell](/people/glen-maxwell.md) as "the real experts."
+**Dave Bolduc** (full name David G. Bolduc; posting as `mbolduc`, `boldav38`, and `dave` from a `triad.rr.com` North Carolina address) distributes the [Paradox building plans](/references/building-plans.md) and, with his wife [Mindy](/people/bolduc/mindy.md), cruises [Little Cruiser](/matt-layden/little-cruiser.md) — a boat "very similar to Paradox." A carpenter by trade, he is one of the archive's deepest firsthand authorities on [Matt Layden](/matt-layden/biography.md) and his boats: he has never built a Paradox himself, but has known Matt since 1992, owns three of his designs, cruised the Bahamas in his company, and has examined most of Matt's boats in person and discussed each at length with the designer — the full relationship is set out in the couple's [Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md). He joined the `paradoxbuilders` list in September 2001 and later founded the companion [Micro Cruising](/references/micro-cruising-group.md) Yahoo group, which members were encouraged to join. For Paradox-specific building details he defers to others as "the real experts."
 
 # Biography
 
-Per his own site, [microcruising.com](/references/microcruising-website.md),
-Dave is a carpenter and Mindy a pharmacist; the couple have micro-cruised for
-roughly 30 years. His first boat was a $100 secondhand 12-foot Wildflower
-Snark sailed on the Hudson River during graduate school, replaced by a $100
-Sparkman & Stephens Bluejay he christened "Wet Feet." He met Matt Layden in
-1992 — "he seemed really out there... cruising full-time in these little
-dinky home-built boats, and he was having a blast doing it" — and bought
-[Little Cruiser](/matt-layden/little-cruiser.md) that same year. He and Mindy
-went on to make roughly six two-up winter Bahamas cruises aboard her,
-averaging about 800 miles each. He later bought Matt's own Enigma and in 2013
-made an engine-free solo Bahamas crossing in her — his seventh island trip
-overall — surviving winds over 50 knots. He holds an amateur-radio license
-(callsign KE4BHJ), is a competitive marathon kayaker, and in 2014 co-wrote a
-SAIL magazine article on small-boat cruising with Mindy; as of around 2014 he
-still owned all three of his micro-cruisers — Little Cruiser, Swamp Thing,
-and Enigma. See also
-[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md),
-which draws heavily on his account of learning to scull.
+Per his own site, [microcruising.com](/references/microcruising-website.md), Dave is a carpenter and Mindy a pharmacist; the couple have micro-cruised for roughly 30 years. His first boat was a $100 secondhand 12-foot Wildflower Snark sailed on the Hudson River during graduate school, replaced by a $100 Sparkman & Stephens Bluejay he christened "Wet Feet." He met Matt Layden in 1992 — "he seemed really out there... cruising full-time in these little dinky home-built boats, and he was having a blast doing it" — and bought [Little Cruiser](/matt-layden/little-cruiser.md) that same year. He and Mindy went on to make roughly six two-up winter Bahamas cruises aboard her, averaging about 800 miles each. He later bought Matt's own Enigma and in 2013 made an engine-free solo Bahamas crossing in her — his seventh island trip overall — surviving winds over 50 knots. He holds an amateur-radio license (callsign KE4BHJ), is a competitive marathon kayaker, and in 2014 co-wrote a SAIL magazine article on small-boat cruising with Mindy; as of around 2014 he still owned all three of his micro-cruisers — Little Cruiser, Swamp Thing, and Enigma. See also [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md), which draws heavily on his account of learning to scull.
 
 # His boats and his role
 
-Dave rebuilt and improved Little Cruiser and helped restore
-[Swamp Thing](/matt-layden/swamp-thing.md), which he rates the best-sailing of
-all Matt's designs — comparing her narrow transom to an Albert Strange canoe
-yawl, saying she sails to windward "like a witch" and tacks "like a dream." He
-gave the archive its cost benchmarks for three Layden boats: he and Mindy paid
-$1,600 for Little Cruiser, Matt's own Paradox cost about $2,000 and three
-months of full-time work, and Swamp Thing had sold secondhand for $600 (bought
-on Dave's urging by his friend Dave Gatan). See
-[build effort and cost](/construction/build-effort.md) and
-[Swamp Thing](/matt-layden/swamp-thing.md). His only formal list role was a
-brief stint as co-moderator: he volunteered alongside Paul V. to answer Glen
-Maxwell's call for help closing the group against spam sign-ups (see
-[mailing list](/references/mailing-list.md)).
+Dave rebuilt and improved Little Cruiser and helped restore [Swamp Thing](/matt-layden/swamp-thing.md), which he rates the best-sailing of all Matt's designs — comparing her narrow transom to an Albert Strange canoe yawl, saying she sails to windward "like a witch" and tacks "like a dream." He gave the archive its cost benchmarks for three Layden boats: he and Mindy paid $1,600 for Little Cruiser, Matt's own Paradox cost about $2,000 and three months of full-time work, and Swamp Thing had sold secondhand for $600 (bought on Dave's urging by a friend). See [build effort and cost](/construction/build-effort.md) and [Swamp Thing](/matt-layden/swamp-thing.md). His only formal list role was a brief stint as co-moderator: he volunteered alongside another member to help close the group against spam sign-ups (see [mailing list](/references/mailing-list.md)).
 
 # Contributions to the archive
 
 ## Design and performance across Layden's boats
 
-- **Directional stability as a designed-in trade-off.** Paradox tracks stiffly
-  and can be hard to tack at slow speeds because of her wide transom and large
-  rudder — a deliberate trade-off Matt made for maximum directional stability,
-  whereas Little Cruiser and Swamp Thing tack more easily but "wander more." He
-  rates Swamp Thing, thanks to its
-  [chine runners](/chine-runners/windward-performance.md), the most
-  maneuverable of the three. This reframes the archive's "tacking" debate (see
-  [Whisper](/boats/whisper.md)) as partly a property of the hull. See
-  [sailing characteristics](/operations/sailing-characteristics.md).
-- **Windward and downwind comparison.** Over 2.5 months sailing the two boats
-  together he found no appreciable downwind speed difference, but a definite
-  Paradox windward advantage in water under 18 inches deep, where Little
-  Cruiser's centerboard could not reach effective depth. See
-  [first-boat suitability](/operations/first-boat-suitability.md).
-- **Rudder and chine experiments relayed.** Matt tried extending the chine
-  forward on Paradox, found little improvement, and dropped it; he next
-  considered a "Little Cruiser style" rudder. Dave uploaded photos of four
-  different Layden rudders, and — agreeing a smaller rudder would tack Paradox
-  quicker — offered to trace Little Cruiser's rudder for
-  [David Beard](/people/david-beard.md)'s smaller-rudder experiment. See
-  [rudder and chine experiments](/design/rudder.md#rudder-variety-across-layden-boats).
-- **Quantified chine-runner sea trial relayed.** He passed Matt Layden's
-  detailed VMG/VMGW sea-trial note for a modified port chine runner to the
-  `microcruising` list, which Glen Maxwell forwarded to `paradoxbuilders`. See
-  [chine runners and windward performance](/chine-runners/windward-performance.md).
-- **Chine-runner shape evolution and a controlled size trial.** Recounted how
-  Swamp Thing's originally small, square chine runners grew larger and more
-  triangular over years of Matt Layden's model and full-size testing into the
-  shape now used on Paradox, and how Matt later sailed months comparing one
-  Paradox chine runner enlarged against the stock one before grinding the
-  larger runner back down, having found its added drag and draft did not
-  improve performance enough to justify the change. See [how chine runners
-  work — runner width, and no published width-versus-leeway
-  trial](/chine-runners/how-they-work.md#runner-width-and-no-published-width-versus-leeway-trial).
-- **Chine runners ground first.** With the rudder, the chine runners are the
-  first parts to touch bottom in shallow water, though a fully dried-out boat
-  rests on its whole bottom. See
-  [chine runner construction](/chine-runners/construction.md).
-- **Furling and reefing.** The stock furling gear gave him little trouble (~30
-  seconds to reef Little Cruiser), but Matt reefs and raises Paradox's sail
-  noticeably faster — evidence that furling difficulty is partly operator skill.
-  See [furling system](/design/furling-system.md).
-- **Rig and sail knowledge.** On a boomed lug rig, one tack always sets better
-  than the other, since the sail lies against the mast on one side — a
-  diagnostic distinct from a sail-shape fault. He priced a new Paradox sail two
-  ways (a ~$223 Sailrite kit versus ~$250 in materials to sew the 101 sq ft
-  sail from scratch), and reported switching Little Cruiser's next sail from
-  Sailrite 3.9 oz Dacron to the same 4.5 oz cloth Matt used. Having sailed the
-  original Paradox himself, he gave the only outside verdict on Matt's new
-  February 2003 sail — it "sets very nicely." See
-  [rig and sail](/design/rig.md), his
-  [sailmaking essay](/design/rig.md),
-  and [sailmaking](/construction/sailmaking.md).
-- **A small jib, tried on one of Matt's models.** Fitting a small jib to one
-  of Matt Layden's own chine-runner models, found it pointed a few degrees
-  higher — worth trying, though not obviously worth the added fuss. Matt
-  himself once rigged a spinnaker on one of his cruisers; Dave found the
-  remains of that sail still aboard Little Cruiser when he first acquired
-  her and repurposed the lightweight nylon into a windscoop. See [rig and
-  sail — a speculative small jib](/design/rig.md#a-speculative-small-jib).
-- **Weight and ballast.** Paradox should displace around 1,400 lb cruising for
-  best performance, since a lighter boat won't dig its chine runners in enough
-  to carry sail; loaded Little Cruiser runs about 1,600 lb. On GJAC he would
-  strip the leeboards and add ballast "lots of it," trusting the chine runners
-  for lateral resistance. His standing advice to newly launched builders is to
-  ballast all the way up to the 9 in full cruising draft rather than
-  hesitate, since a Paradox "loves the weight" and keeping the chine runners
-  submerged as deep as possible is what maximizes windward performance. See
-  [weight and ballast](/design/weight-and-ballast.md) and [Jack
-  Gardiner](/people/jack-gardiner.md#launch-jill).
-- **The mast-lowering pin belongs to Little Cruiser, not Paradox.** Clarified
-  that Paradox's mast has no lowering pin at all, unlike Little Cruiser, whose
-  foredeck-stepped mast is supported by two hinged struts and folds backward
-  onto the cabin top once a pin at its foot is pulled. See [mast partners and
-  vent trunk — no mast-lowering pin on Paradox, unlike Little
-  Cruiser](/design/mast-partners.md#no-mast-lowering-pin-on-paradox-unlike-little-cruiser).
+- **Directional stability as a designed-in trade-off.** Paradox tracks stiffly and can be hard to tack at slow speeds because of her wide transom and large rudder — a deliberate trade-off Matt made for maximum directional stability, whereas Little Cruiser and Swamp Thing tack more easily but "wander more." Swamp Thing, thanks to its [chine runners](/chine-runners/windward-performance.md), is the most maneuverable of the three. This reframes the archive's "tacking" debate (see [Whisper](/boats/whisper.md)) as partly a property of the hull. See [sailing characteristics](/operations/sailing-characteristics.md).
+- **Windward and downwind comparison.** Over 2.5 months sailing the two boats together, no appreciable downwind speed difference emerged, but a definite Paradox windward advantage showed in water under 18 inches deep, where Little Cruiser's centerboard could not reach effective depth. See [first-boat suitability](/operations/first-boat-suitability.md).
+- **Rudder and chine experiments relayed.** Matt tried extending the chine forward on Paradox, found little improvement, and dropped it; he next considered a "Little Cruiser style" rudder. Photos of four different Layden rudders were uploaded, and — agreeing a smaller rudder would tack Paradox quicker — Dave offered to trace Little Cruiser's rudder for a smaller-rudder experiment. See [rudder and chine experiments](/design/rudder.md#rudder-variety-across-layden-boats).
+- **Quantified chine-runner sea trial relayed.** Matt Layden's detailed VMG/VMGW sea-trial note for a modified port chine runner was passed to the `microcruising` list and forwarded on to `paradoxbuilders`. See [chine runners and windward performance](/chine-runners/windward-performance.md).
+- **Chine-runner shape evolution and a controlled size trial.** Swamp Thing's originally small, square chine runners grew larger and more triangular over years of Matt Layden's model and full-size testing into the shape now used on Paradox, and Matt later sailed months comparing one Paradox chine runner enlarged against the stock one before grinding the larger runner back down, having found its added drag and draft did not improve performance enough to justify the change. See [how chine runners work — runner width, and no published width-versus-leeway trial](/chine-runners/how-they-work.md#runner-width-and-no-published-width-versus-leeway-trial).
+- **Chine runners ground first.** With the rudder, the chine runners are the first parts to touch bottom in shallow water, though a fully dried-out boat rests on its whole bottom. See [chine runner construction](/chine-runners/construction.md).
+- **Furling and reefing.** The stock furling gear gave little trouble (~30 seconds to reef Little Cruiser), but Matt reefs and raises Paradox's sail noticeably faster — evidence that furling difficulty is partly operator skill. See [furling system](/design/furling-system.md).
+- **Rig and sail knowledge.** On a boomed lug rig, one tack always sets better than the other, since the sail lies against the mast on one side — a diagnostic distinct from a sail-shape fault. A new Paradox sail was priced two ways (a ~$223 Sailrite kit versus ~$250 in materials to sew the 101 sq ft sail from scratch), and Little Cruiser's next sail switched from Sailrite 3.9 oz Dacron to the same 4.5 oz cloth Matt used. Having sailed the original Paradox himself, Dave gave the only outside verdict on Matt's new February 2003 sail — it "sets very nicely." See [rig and sail](/design/rig.md), his [sailmaking essay](/design/rig.md), and [sailmaking](/construction/sailmaking.md).
+- **A small jib, tried on one of Matt's models.** Fitting a small jib to one of Matt Layden's own chine-runner models found it pointed a few degrees higher — worth trying, though not obviously worth the added fuss. Matt himself once rigged a spinnaker on one of his cruisers; the remains of that sail turned up still aboard Little Cruiser when Dave first acquired her, and the lightweight nylon was repurposed into a windscoop. See [rig and sail — a speculative small jib](/design/rig.md#a-speculative-small-jib).
+- **Weight and ballast.** Paradox should displace around 1,400 lb cruising for best performance, since a lighter boat won't dig its chine runners in enough to carry sail; loaded Little Cruiser runs about 1,600 lb. On GJAC the leeboards should come off in favor of added ballast "lots of it," trusting the chine runners for lateral resistance. Standing advice to newly launched builders is to ballast all the way up to the 9 in full cruising draft rather than hesitate, since a Paradox "loves the weight" and keeping the chine runners submerged as deep as possible is what maximizes windward performance. See [weight and ballast](/design/weight-and-ballast.md) and [Jack Gardiner](/people/jack-gardiner.md#launch-jill).
+- **The mast-lowering pin belongs to Little Cruiser, not Paradox.** Paradox's mast has no lowering pin at all, unlike Little Cruiser, whose foredeck-stepped mast is supported by two hinged struts and folds backward onto the cabin top once a pin at its foot is pulled. See [mast partners and vent trunk — no mast-lowering pin on Paradox, unlike Little Cruiser](/design/mast-partners.md#no-mast-lowering-pin-on-paradox-unlike-little-cruiser).
 
 ## Construction and materials
 
-- **Ring nails are structural.** Matt considers the specified ring nails
-  structural — even a perfect epoxy bond can fail at the next lamination — so
-  builders should nail where the plans specify. See
-  [fastening and gluing](/construction/fastening-and-gluing.md).
-- **Lofting weights, cheap or homemade.** Flagged a secondhand set of
-  cast-lead "spline weight" lofting ducks found on eBay, and separately
-  described casting his own scrap-lead trim ballast for Swamp Thing from
-  old tire weights — the same approach usable to make lofting weights for
-  nothing. See [panel layout and nesting — lofting weights ("spline weights"
-  or "lead
-  ducks")](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks).
-- **Budget fiberglass cloth from auction lots.** Bought a 50-yard roll of
-  4 oz E-glass on eBay for $35 — cloth that would normally run up to $5 a
-  yard at full price — with only minor, occasional flaws and a slightly
-  raised thread running the roll's length; judged it fine for shaping tapes
-  and covering smaller parts like a hatch, and reckoned that with care it
-  could even cover a Paradox's topsides in the heavier 6 oz weight the same
-  seller offered. Demonstrated the cloth on his own toe-rail work the same
-  day, noting it handles complex curved shapes well.
-- **Epoxy brands.** A longtime West System buyer, Dave surveyed alternatives:
-  RAKA too flexible; FASCO (believed to be
-  [Chris Morejohn](/people/chris-morejohn.md)'s brand) used on Swamp Thing
-  repairs; Matt Layden and [Don Elliott](/people/don-elliott.md) both used
-  System Three on their Paradoxes; Little Cruiser was built with generic
-  Defender Industries epoxy with no delamination after ~10 years. See
-  [epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md).
-- **Rot repair.** For a rot repair he prescribes drying the area, soaking
-  rotted wood with unthickened epoxy, filling with wood flour or microballoons,
-  then sealing with epoxy, paint, or varnish (as he did on Swamp Thing). See
-  [rot inspection](/construction/rot-inspection-ice-pick.md).
-- **A carbon-fiber mast idea Matt dropped.** Matt spoke early on of running
-  carbon fiber tow inside the mast staves but built a plain wood mast for
-  simplicity. See
-  [mast interior sealing and fit](/construction/mast-sealing-and-fit.md).
-- **Non-skid decks.** He resurfaces Little Cruiser's non-skid by broadcasting
-  PETTIT 9900 Skidless Compound (fine silicone-oxide grit) over wet paint with
-  a salt shaker, vacuuming off the loose grit, then recoating — several
-  seasons per yearly repaint. See
-  [non-skid deck](/construction/non-skid-deck.md).
-- **Removable pipe-stowage rails.** As an alternative to
-  [Glen Maxwell](/people/glen-maxwell.md)'s permanent epoxied technique, Little
-  Cruiser's [yuloh](/design/yuloh-and-stowed-rig-retention.md)-retaining rails
-  bolt on removably. See
-  [yuloh and stowed-rig retention](/design/yuloh-and-stowed-rig-retention.md).
-- **Transom vent and tiller boot.** Little Cruiser seals its transom tiller-rope
-  opening with a vinyl "boot" that has worked ten years; a low-stretch
-  double-braided tiller line replaced the original 3-strand dacron and
-  tightened the steering. In practice little water enters the baffle. See
-  [transom deck plate and vent baffle](/construction/transom-deck-plate.md).
-- **Original-build history.** He supplied the account of Matt building the
-  first Paradox in ~4 months, hauling materials by bicycle trailer and
-  launching down a ravine, and posted construction photos. See
-  [original Paradox](/boats/original-paradox.md) and
-  [build effort](/construction/build-effort.md).
-- **Matt Layden's leach-tabling drawing.** Posted a sketch Matt sent him
-  years earlier, while Dave was sewing Little Cruiser's own sail, showing
-  Matt's leach-tabling method — clearer than his written description alone,
-  though its dimensions differ slightly from what Matt recommends for
-  Paradox. See [rig and sail — building a lugsail at home: measuring yard
-  deflection before
-  cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting).
-- **Preparing to fiberglass-sheathe Little Cruiser.** Ahead of the boat's
-  eventual 2005 refit, Dave drew on the ground-plate and glassing techniques
-  used on Zoë to set out his own plan: 6 oz glass on
-  the deck and sides, biaxial/mat glass on the bottom, several layers of
-  bias-cut 2–4 oz glass for tricky shapes like the toe rails, and a
-  1.7 oz-kevlar-plus-2 oz-glass combination he was considering (ultimately
-  expecting to reserve for just the rudder and centerboard tip, given the
-  expense of the fine-weave kevlar) for its abrasion resistance without
-  losing the ability to fair by sanding. See
-  [Glen Maxwell — construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques)
-  and
-  [Little Cruiser — construction scantlings and the 2005 refit](/matt-layden/little-cruiser.md#construction-scantlings-and-the-2005-epoxyfiberglass-sheathing-refit).
-- **Removing bonded deck hardware without damage.** To strip Little Cruiser's
-  deck hardware ahead of glassing, heated a thin metal spreader (or the
-  hardware itself, for metal parts) with a blow torch and slipped it under
-  each fitting bonded with 3M 5200 — avoiding the deck damage that can result
-  from prying off strongly bonded hardware. See
-  [hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting).
-- **Little Cruiser's new sail, still evolving.** Confirmed the sail then being
-  planned for Little Cruiser would move to 5 oz sailcloth with a shorter top
-  batten and a tighter leach tabling — greater draft was explicitly not among
-  the changes. See
-  [Little Cruiser — sail: larger and more complex than Paradox's](/matt-layden/little-cruiser.md#sail-larger-and-more-complex-than-paradoxs).
-- **The fullest published epoxy-vs-polyester case, and the plans' own glass
-  weights.** Set out why epoxy beats polyester for durability, his own
-  epoxy-handling technique (small test pieces first, exact mix ratios, bias-cut
-  cloth on tight corners, discarding any batch that gels early), and confirmed
-  the plans' laminating schedule (3 layers of 24 oz woven roving on the
-  bottom, 6–7.5 oz E-glass on the topsides) alongside his own heavier
-  Little Cruiser/Swamp Thing layups. See
-  [epoxy pre-coating technique — a builder's own polyester-to-epoxy
-  conversion](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck)
-  and
-  [hull planking — the plans' bottom and topside glass weights, explained to a
-  UK builder](/construction/hull-planking.md#the-plans-bottom-and-topside-glass-weights-explained-to-a-uk-builder).
-- **Why fiberglass at all: cost figures and a damage-history case.** Costed
-  Kevlar and epoxy precisely (Kevlar seconds at $1/sq ft, Raka 127 epoxy kits
-  at $129-$239) and explained the ~$400/boat decision to fully encapsulate
-  Swamp Thing and Little Cruiser in glass and epoxy: both had been merely
-  painted and suffered for it — Swamp Thing sank at the dock when a rock
-  pierced her bottom, Little Cruiser's plywood checked yearly and was holed on
-  a reef. See [epoxy pre-coating technique — why fiberglass the boat at all](/construction/epoxy-coating-technique.md#why-fiberglass-the-boat-at-all-cost-technique-and-a-damage-history-case-for-full-encapsulation).
-- **A cheap DIY all-round LED light.** Described a home-built all-round LED
-  masthead light for about $18 total, using $8 of LEDs from
-  `whitelightled.com` and a $10 Perko replacement fresnel globe from West
-  Marine or Boaters World, with build photos posted to microcruising.com. See
-  [running lights — off-the-shelf LED sources for a boat-tent
-  light](/operations/running-lights.md#off-the-shelf-led-sources-for-a-boat-tent-light).
-- **A newcomer's construction questions, answered in full.** Fielded a new
-  Los Angeles builder's opening round of questions: 1/4 in lexan windows are
-  plenty strong, Little Cruiser's own tiller-boot arrangement works fine
-  across seasons, fir marine plywood sealed in epoxy and glass suffices for
-  the hull, and Little Cruiser's Celotex insulation (Swamp Thing's was white
-  polystyrene) had only ever caused one problem — an ant colony. Separately
-  vouched 1/4 in lexan's real-world toughness with Little Cruiser's own
-  broadside hit from a 17 ft powerboat, and judged a plastic-welded poly
-  water tank worth trying given the low cost of the welder. See [window
-  strength: a decades-long 1/4 in lexan track record, and one
-  collision](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision),
-  [water tank construction](/construction/water-tank-lining.md), and
-  [plywood grade and foam flotation — foam
-  type](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).
-- **A $6 dollar-store solar anchor light.** Built a low-cost anchor light
-  from a solar garden light with its own small panel, two NiCad cells, and
-  an LED, mounted deliberately at deck level so the crew can spot their own
-  boat after dark more easily than a masthead-height light (which can be
-  mistaken for a star); explicit that it was never meant to satisfy the
-  legal anchor-light requirement. See [running lights — Cold Cathode
-  Fluorescent (CCFL) as an LED
-  alternative](/operations/running-lights.md#cold-cathode-fluorescent-ccfl-as-an-led-alternative).
+- **Ring nails are structural.** Matt considers the specified ring nails structural — even a perfect epoxy bond can fail at the next lamination — so builders should nail where the plans specify. See [fastening and gluing](/construction/fastening-and-gluing.md).
+- **Lofting weights, cheap or homemade.** A secondhand set of cast-lead "spline weight" lofting ducks turned up on eBay; separately, Dave described casting his own scrap-lead trim ballast for Swamp Thing from old tire weights — the same approach usable to make lofting weights for nothing. See [panel layout and nesting — lofting weights ("spline weights" or "lead ducks")](/construction/panel-layout.md#lofting-weights-spline-weights-or-lead-ducks).
+- **Budget fiberglass cloth from auction lots.** A 50-yard roll of 4 oz E-glass sold on eBay for $35 — cloth that would normally run up to $5 a yard at full price — with only minor, occasional flaws and a slightly raised thread running the roll's length; judged fine for shaping tapes and covering smaller parts like a hatch, and reckoned that with care it could even cover a Paradox's topsides in the heavier 6 oz weight the same seller offered. The cloth was demonstrated on Dave's own toe-rail work the same day, handling complex curved shapes well.
+- **Epoxy brands.** A longtime West System buyer, Dave surveyed alternatives: RAKA too flexible; FASCO (believed to be [Chris Morejohn](/people/chris-morejohn.md)'s brand) used on Swamp Thing repairs; Matt Layden and others used System Three on their Paradoxes; Little Cruiser was built with generic Defender Industries epoxy with no delamination after ~10 years. See [epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md).
+- **Rot repair.** For a rot repair the prescription is drying the area, soaking rotted wood with unthickened epoxy, filling with wood flour or microballoons, then sealing with epoxy, paint, or varnish (as done on Swamp Thing). See [rot inspection](/construction/rot-inspection-ice-pick.md).
+- **A carbon-fiber mast idea Matt dropped.** Matt spoke early on of running carbon fiber tow inside the mast staves but built a plain wood mast for simplicity. See [mast interior sealing and fit](/construction/mast-sealing-and-fit.md).
+- **Non-skid decks.** Little Cruiser's non-skid gets resurfaced by broadcasting PETTIT 9900 Skidless Compound (fine silicone-oxide grit) over wet paint with a salt shaker, vacuuming off the loose grit, then recoating — several seasons per yearly repaint. See [non-skid deck](/construction/non-skid-deck.md).
+- **Removable pipe-stowage rails.** As an alternative to a permanent epoxied technique, Little Cruiser's [yuloh](/design/yuloh-and-stowed-rig-retention.md)-retaining rails bolt on removably. See [yuloh and stowed-rig retention](/design/yuloh-and-stowed-rig-retention.md).
+- **Transom vent and tiller boot.** Little Cruiser seals its transom tiller-rope opening with a vinyl "boot" that has worked ten years; a low-stretch double-braided tiller line replaced the original 3-strand dacron and tightened the steering. In practice little water enters the baffle. See [transom deck plate and vent baffle](/construction/transom-deck-plate.md).
+- **Original-build history.** The account of Matt building the first Paradox in ~4 months, hauling materials by bicycle trailer and launching down a ravine, comes from Dave, along with posted construction photos. See [original Paradox](/boats/original-paradox.md) and [build effort](/construction/build-effort.md).
+- **Matt Layden's leach-tabling drawing.** A sketch Matt sent years earlier, while Dave was sewing Little Cruiser's own sail, shows Matt's leach-tabling method — clearer than his written description alone, though its dimensions differ slightly from what Matt recommends for Paradox. See [rig and sail — building a lugsail at home: measuring yard deflection before cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting).
+- **Preparing to fiberglass-sheathe Little Cruiser.** Ahead of the boat's eventual 2005 refit, Dave drew on ground-plate and glassing techniques used on another boat to set out his own plan: 6 oz glass on the deck and sides, biaxial/mat glass on the bottom, several layers of bias-cut 2–4 oz glass for tricky shapes like the toe rails, and a 1.7 oz-kevlar-plus-2 oz-glass combination under consideration (ultimately expected to be reserved for just the rudder and centerboard tip, given the expense of the fine-weave kevlar) for its abrasion resistance without losing the ability to fair by sanding. See [construction techniques](/people/glen-maxwell/build-and-zoe.md#construction-techniques) and [Little Cruiser — construction scantlings and the 2005 refit](/matt-layden/little-cruiser.md#construction-scantlings-and-the-2005-epoxyfiberglass-sheathing-refit).
+- **Removing bonded deck hardware without damage.** To strip Little Cruiser's deck hardware ahead of glassing, a thin metal spreader (or the hardware itself, for metal parts) was heated with a blow torch and slipped under each fitting bonded with 3M 5200 — avoiding the deck damage that can result from prying off strongly bonded hardware. See [hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting).
+- **Little Cruiser's new sail, still evolving.** The sail then being planned for Little Cruiser would move to 5 oz sailcloth with a shorter top batten and a tighter leach tabling — greater draft was explicitly not among the changes. See [Little Cruiser — sail: larger and more complex than Paradox's](/matt-layden/little-cruiser.md#sail-larger-and-more-complex-than-paradoxs).
+- **The fullest published epoxy-vs-polyester case, and the plans' own glass weights.** Set out why epoxy beats polyester for durability, an epoxy-handling technique (small test pieces first, exact mix ratios, bias-cut cloth on tight corners, discarding any batch that gels early), and confirmed the plans' laminating schedule (3 layers of 24 oz woven roving on the bottom, 6–7.5 oz E-glass on the topsides) alongside heavier Little Cruiser/Swamp Thing layups. See [epoxy pre-coating technique — a builder's own polyester-to-epoxy conversion](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck) and [hull planking — the plans' bottom and topside glass weights, explained to a UK builder](/construction/hull-planking.md#the-plans-bottom-and-topside-glass-weights-explained-to-a-uk-builder).
+- **Why fiberglass at all: cost figures and a damage-history case.** Kevlar and epoxy were costed precisely (Kevlar seconds at $1/sq ft, Raka 127 epoxy kits at $129-$239), explaining the ~$400/boat decision to fully encapsulate Swamp Thing and Little Cruiser in glass and epoxy: both had been merely painted and suffered for it — Swamp Thing sank at the dock when a rock pierced her bottom, Little Cruiser's plywood checked yearly and was holed on a reef. See [epoxy pre-coating technique — why fiberglass the boat at all](/construction/epoxy-coating-technique.md#why-fiberglass-the-boat-at-all-cost-technique-and-a-damage-history-case-for-full-encapsulation).
+- **A cheap DIY all-round LED light.** A home-built all-round LED masthead light for about $18 total, using $8 of LEDs from `whitelightled.com` and a $10 Perko replacement fresnel globe from West Marine or Boaters World, with build photos posted to microcruising.com. See [running lights — off-the-shelf LED sources for a boat-tent light](/operations/running-lights.md#off-the-shelf-led-sources-for-a-boat-tent-light).
+- **A newcomer's construction questions, answered in full.** A new Los Angeles builder's opening round of questions was fielded in full: 1/4 in lexan windows are plenty strong, Little Cruiser's own tiller-boot arrangement works fine across seasons, fir marine plywood sealed in epoxy and glass suffices for the hull, and Little Cruiser's Celotex insulation (Swamp Thing's was white polystyrene) had only ever caused one problem — an ant colony. Separately, 1/4 in lexan's real-world toughness was vouched for with Little Cruiser's own broadside hit from a 17 ft powerboat, and a plastic-welded poly water tank was judged worth trying given the low cost of the welder. See [window strength: a decades-long 1/4 in lexan track record, and one collision](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision), [water tank construction](/construction/water-tank-lining.md), and [plywood grade and foam flotation — foam type](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).
+- **A $6 dollar-store solar anchor light.** A low-cost anchor light was built from a solar garden light with its own small panel, two NiCad cells, and an LED, mounted deliberately at deck level so the crew can spot their own boat after dark more easily than a masthead-height light (which can be mistaken for a star); explicitly not meant to satisfy the legal anchor-light requirement. See [running lights — Cold Cathode Fluorescent (CCFL) as an LED alternative](/operations/running-lights.md#cold-cathode-fluorescent-ccfl-as-an-led-alternative).
 
 ## Operations and cruising practice
 
-- **Room for two, but not spacious.** From firsthand Bahamas cruising with
-  Matt — where the group cooked aboard Little Cruiser and all three ate aboard
-  Paradox — Dave judges Paradox will hold "a few close friends aboard for short
-  stints," the space "similar to that of being in a tent." His photos gave the
-  archive its first confirmation that Matt's then-girlfriend Karen sailed
-  Paradox herself. See
-  [Matt Layden biography](/matt-layden/biography.md)
-  and [crew size and fit](/operations/crew-size-and-fit.md).
-- **Cabin cushions.** He and Mindy use closed-cell foam pads or a small
-  vinyl-covered sleeping cushion — "This is what Matt has aboard Paradox" — the
-  archive's first firsthand answer. Planning to replace Little Cruiser's own
-  bottomed-out cushion foam, he drew out the full sourcing/gluing/firmness
-  picture of the Lux Foam system behind "Zoë"'s cushions. See
-  [Little Jim — cabin-cushion solutions](/boats/little-jim.md#cabin-cushion-solutions-glen-maxwells-foam-by-mail-system-june-2003).
-- **Long-passage helm-seat cushion.** For years of long winter passages aboard
-  Little Cruiser he has used a cushion of closed-cell Airex foam, denser than
-  open foam but with a similar memory-foam feel, originally sourced from
-  Defender Industries and still available from specialty foam suppliers. See
-  [crew size and fit — long-passage seat comfort: cushion
-  practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[104]
-- **Cold-weather comfort.** Most of his cold-weather time is spent at the dock,
-  where sun through the windows plus body heat suffices; underway he runs the
-  gas stove briefly on low with the hatch cracked. Foam in the windows (Matt's
-  technique, adopted by the Bolducs) keeps the boat cooler when hot, warmer
-  when cold, and cuts condensation. He confirmed Matt's Cape Cod story of
-  freezing Little Cruiser into a saltwater pond with new physical evidence:
-  bow-wave-shaped cuts found under old paint, showing Matt sailed her out
-  through the ice. See
-  [cabin heating](/operations/cabin-heating.md).
-- **Ground tackle and trim.** Matt and the Bolducs stow ground tackle below as
-  ballast; a bow-roller anchor upsets a small Layden boat's trim. He uses
-  Matt's stern-throw/walk-forward anchoring method on Little Cruiser, and
-  recommends a Danforth-style anchor for a Paradox, paired with a plow anchor
-  for trickier bottoms, each on 10-14 ft of chain and 100 ft of 3/8" dacron
-  line. See
-  [ground tackle](/operations/ground-tackle.md).
-- **The head.** Matt uses a bucket; the Bolducs wait for shore facilities, a
-  fitted marine head being impractical on a boat this size. As a small-boat
-  alternative he proposed continuous-tube, diaper-genie-style waste bagging.
-  See [head and sanitation](/operations/head-and-sanitation.md).
-- **The yuloh as "a MUST."** He calls the yuloh essential aboard their boats
-  and sculls Little Cruiser at 1.5-2 kt (up to 3.0 kt in sprints). Its plans
-  live on page 12 of the Paradox plans. After the 2003 Everglades Challenge he
-  sculled the original Paradox himself and reported its new straighter,
-  wider-bladed oar (bronze-reinforced tips on both oar and rudder) demanded so
-  much wrist action it hurt — Matt said his own wrist hurt for the first few
-  days of the race. See
-  [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)
-  and [yuloh retention plans](/design/yuloh-and-stowed-rig-retention.md).
-- **Trailering.** He recommends a heavy-duty used trailer for both flat-bottomed
-  boats; his own under-built 1,400 lb trailer needed welded reinforcement and
-  larger tires, while Matt simply bought a cheap used heavy-duty powerboat
-  trailer. A regular power-boat trailer, modified only with custom bunks
-  shaped to the hull's rocker, works fine for both his boats provided the
-  boat sits slightly ahead of the axle for correct tongue weight (100-150 lb
-  for his own tow vehicle). See
-  [trailering](/operations/trailering.md).
-- **The removable back window.** As Little Cruiser's owner, he set out the
-  design tradeoff behind her fully removable back window versus Paradox's
-  permanent one — better ventilation and easier crew movement against Matt
-  Layden's structural and water-ingress reasons for making Paradox's
-  permanent — prompting several Paradox builders to propose hinged variants
-  for their own boats. See
-  [Little Cruiser — the removable back window](/matt-layden/little-cruiser.md#the-removable-back-window-design-rationale-and-paradox-builders-adaptation-ideas).
-- **GPS.** He bought a Garmin eTrex Mariner on Glen Maxwell's recommendation and
-  shared a cheaper power adaptor, the free EasyGPS waypoint software, and a
-  MeMap firmware hack that swapped the startup screen for his contact details
-  and a "REWARD $$$" anti-theft message. See
-  [GPS and navigation](/operations/gps-navigation.md).
-- **"The big wheel."** Built to turn Little Cruiser over solo, using it with a
-  block and tackle and a jack rather than depend on a neighbor or his wife for
-  help as he used to. See
-  [build effort and workspace — Workspace](/construction/build-effort.md#workspace).
-- **Little Cruiser's mainsheet arrangement, photographed.** Posted photos of
-  how her mainsheet is rigged alongside her outboard, which works adequately
-  though the tiller handle sometimes catches the line, and separately
-  confirmed her fuel line ran directly (no pumping) to their old 4 hp
-  Evinrude, while the current 3.3 hp Mercury needs pumping roughly hourly;
-  they carry extra ballast forward to compensate for the outboard's weight.
-  See [rig and sail — a horse fitted to clear the outboard](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it).
-- **Pounding.** Across Little Cruiser, Swamp Thing, and Paradox alike, he has
-  found pounding essentially unknown at anchor and rare under sail; the one
-  exception is motoring straight into a short head sea, which can pound
-  Little Cruiser until he and his wife shift to sit on one side, heeling her
-  enough to restore a "V" to the hull's water entry. See [sailing
-  characteristics — pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+- **Room for two, but not spacious.** From firsthand Bahamas cruising with Matt — where the group cooked aboard Little Cruiser and all three ate aboard Paradox — Paradox will hold "a few close friends aboard for short stints," the space "similar to that of being in a tent." Photos gave the archive its first confirmation that Matt's then-girlfriend sailed Paradox herself. See [Matt Layden biography](/matt-layden/biography.md) and [crew size and fit](/operations/crew-size-and-fit.md).
+- **Cabin cushions.** Closed-cell foam pads or a small vinyl-covered sleeping cushion are used — "This is what Matt has aboard Paradox" — the archive's first firsthand answer. Planning to replace Little Cruiser's own bottomed-out cushion foam prompted the full sourcing/gluing/firmness picture of the Lux Foam system behind another boat's cushions. See [Little Jim — cabin-cushion solutions](/boats/little-jim.md#cabin-cushion-solutions-glen-maxwells-foam-by-mail-system-june-2003).
+- **Long-passage helm-seat cushion.** For years of long winter passages aboard Little Cruiser, a cushion of closed-cell Airex foam has served — denser than open foam but with a similar memory-foam feel, originally sourced from Defender Industries and still available from specialty foam suppliers. See [crew size and fit — long-passage seat comfort: cushion practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[104]
+- **Cold-weather comfort.** Most cold-weather time is spent at the dock, where sun through the windows plus body heat suffices; underway the gas stove runs briefly on low with the hatch cracked. Foam in the windows (Matt's technique, adopted by the Bolducs) keeps the boat cooler when hot, warmer when cold, and cuts condensation. Matt's Cape Cod story of freezing Little Cruiser into a saltwater pond was confirmed with new physical evidence: bow-wave-shaped cuts found under old paint, showing Matt sailed her out through the ice. See [cabin heating](/operations/cabin-heating.md).
+- **Ground tackle and trim.** Matt and the Bolducs stow ground tackle below as ballast; a bow-roller anchor upsets a small Layden boat's trim. Matt's stern-throw/walk-forward anchoring method is used on Little Cruiser, and a Danforth-style anchor is recommended for a Paradox, paired with a plow anchor for trickier bottoms, each on 10-14 ft of chain and 100 ft of 3/8" dacron line. See [ground tackle](/operations/ground-tackle.md).
+- **The head.** Matt uses a bucket; the Bolducs wait for shore facilities, a fitted marine head being impractical on a boat this size. A small-boat alternative proposed was continuous-tube, diaper-genie-style waste bagging. See [head and sanitation](/operations/head-and-sanitation.md).
+- **The yuloh as "a MUST."** The yuloh is essential aboard their boats, sculling Little Cruiser at 1.5-2 kt (up to 3.0 kt in sprints). Its plans live on page 12 of the Paradox plans. After the 2003 Everglades Challenge, Dave sculled the original Paradox himself and reported its new straighter, wider-bladed oar (bronze-reinforced tips on both oar and rudder) demanded so much wrist action it hurt — Matt said his own wrist hurt for the first few days of the race. See [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md) and [yuloh retention plans](/design/yuloh-and-stowed-rig-retention.md).
+- **Trailering.** A heavy-duty used trailer is recommended for both flat-bottomed boats; Dave's own under-built 1,400 lb trailer needed welded reinforcement and larger tires, while Matt simply bought a cheap used heavy-duty powerboat trailer. A regular power-boat trailer, modified only with custom bunks shaped to the hull's rocker, works fine for both boats provided the boat sits slightly ahead of the axle for correct tongue weight (100-150 lb for the tow vehicle). See [trailering](/operations/trailering.md).
+- **The removable back window.** As Little Cruiser's owner, Dave set out the design tradeoff behind her fully removable back window versus Paradox's permanent one — better ventilation and easier crew movement against Matt Layden's structural and water-ingress reasons for making Paradox's permanent — prompting several Paradox builders to propose hinged variants for their own boats. See [Little Cruiser — the removable back window](/matt-layden/little-cruiser.md#the-removable-back-window-design-rationale-and-paradox-builders-adaptation-ideas).
+- **GPS.** A Garmin eTrex Mariner was bought on a fellow member's recommendation, along with a cheaper power adaptor, the free EasyGPS waypoint software, and a MeMap firmware hack that swapped the startup screen for contact details and a "REWARD $$$" anti-theft message. See [GPS and navigation](/operations/gps-navigation.md).
+- **"The big wheel."** Built to turn Little Cruiser over solo, using it with a block and tackle and a jack rather than depend on a neighbor or a spouse for help as before. See [build effort and workspace — Workspace](/construction/build-effort.md#workspace).
+- **Little Cruiser's mainsheet arrangement, photographed.** Photos posted show how her mainsheet is rigged alongside her outboard, which works adequately though the tiller handle sometimes catches the line, and separately confirmed her fuel line ran directly (no pumping) to an old 4 hp Evinrude, while the current 3.3 hp Mercury needs pumping roughly hourly; extra ballast is carried forward to compensate for the outboard's weight. See [rig and sail — a horse fitted to clear the outboard](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it).
+- **Pounding.** Across Little Cruiser, Swamp Thing, and Paradox alike, pounding is essentially unknown at anchor and rare under sail; the one exception is motoring straight into a short head sea, which can pound Little Cruiser until the crew shifts to sit on one side, heeling her enough to restore a "V" to the hull's water entry. See [sailing characteristics — pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 
 ## Building advice and the "first boat" question
 
-- He advises against Paradox as a first boat without prior woodworking
-  experience, rating it "medium difficulty" — Matt built the original in ~3.5
-  months full-time; a part-timer should expect 3-4x that, Don Elliott about a
-  year. He reassured a discouraged first-time builder that slow, iterative,
-  mistake-and-redo work is normal. See
-  [first-boat suitability](/operations/first-boat-suitability.md).
-- He pointed builders to Don Elliott's paid 16-part "Building Paradox" article
-  series and advised keeping some access into a watertight bulkhead #1 so it
-  can be inspected if it ever floods. See
-  [hull assembly sequence](/construction/hull-assembly-sequence.md)
-  and [David Beard](/people/david-beard.md).
-- **No Little Cruiser plans, and no larger sharpie yet.** No real plans were
-  ever drawn for Little Cruiser; for more room he recommends scaling Paradox up
-  10-20% (to 4.6-5 m) or building an existing larger design such as the NIS18.
-  He has asked Matt several times to draw a larger sharpie, but Matt "hasn't
-  come up with anything." See
-  [stretched Paradox](/design/variants/stretched-paradox.md).
+- Paradox is not advised as a first boat without prior woodworking experience, rating it "medium difficulty" — Matt built the original in ~3.5 months full-time; a part-timer should expect 3-4x that, about a year for one builder. A discouraged first-time builder was reassured that slow, iterative, mistake-and-redo work is normal. See [first-boat suitability](/operations/first-boat-suitability.md).
+- Builders were pointed to a paid 16-part "Building Paradox" article series and advised to keep some access into a watertight bulkhead #1 so it can be inspected if it ever floods. See [hull assembly sequence](/construction/hull-assembly-sequence.md) and [David Beard](/people/david-beard.md).
+- **No Little Cruiser plans, and no larger sharpie yet.** No real plans were ever drawn for Little Cruiser; for more room the recommendation is scaling Paradox up 10-20% (to 4.6-5 m) or building an existing larger design such as the NIS18. Matt has been asked several times to draw a larger sharpie, but "hasn't come up with anything." See [stretched Paradox](/design/variants/stretched-paradox.md).
 
 ## Stories and community notes
 
-- **Matt Layden as "a modern-day Thoreau."** When
-  [Chris Becker](/people/chris-becker.md) named his Paradox "Walden," Dave said
-  he had always thought of Matt as a modern-day Thoreau — someone who "quit his
-  job, built a small boat, and went sailing off into the sunset to find
-  Paradise." A community characterization of the designer's ethos, not a
-  biographical fact. See [Walden](/boats/walden.md).
-- **Matt's 2003 Everglades Challenge entry.** Dave's list message is the
-  archive's contemporaneous record that Matt had entered the original
-  [Paradox](/boats/original-paradox.md) in the ~260-mile WaterTribe Everglades
-  Challenge (sailing from and back to Stuart, Florida) — a race Matt went on to
-  win first in class and overall, and after which Dave and Mindy visited him.
-  On how Matt would meet the above-high-tide launch rule, Dave guessed he would
-  float her off at high tide and haul her back with a block and tackle. Later
-  photos documented the new oar's bronze-rod detail and a string run over the
-  cleats to keep the sheet from catching, with Matt's sheeting otherwise
-  unchanged. See
-  [original Paradox — after the win](/boats/original-paradox.md).
-- **The Bolduc-Maxwell meeting.** Returning from the 2003 Bahamas cruise, Dave
-  and Mindy spent a few days with [Glen Maxwell](/people/glen-maxwell.md) and
-  his wife — the archive's only recorded in-person meeting of two of its most
-  prominent correspondents, at which Glen finally saw Little Cruiser and Dave
-  saw "[Zoë](/boats/zoe.md)." He also asked after the West Coast Trailer
-  Sailers' reported Cedar Key photos of two Paradoxes. See
-  [group cruise reports](/operations/group-cruise-reports.md).
-- **"GJAC" listed for sale.** Dave announced that Matt's older boat
-  [GJAC](/matt-layden/gjac.md) — 14.5 ft x 4 ft x 9 in, no cabin top, sleeps
-  one, owned by Don Musante of Connecticut — was for sale. See
-  [secondhand market](/operations/secondhand-market.md).
-- **A New Zealand build, "Petite Lady."** He reported, secondhand, a Paradox
-  built in New Zealand by **Hugh Miller**, a then-67-year-old builder — the
-  archive's first New Zealand build, built to the plans except for round,
-  birdmouth-method spars, and distinct from prospective builder
-  [Paul (NZ)](/people/paul-nz.md). Dave posted a first round of photos in June
-  2003 and a further set in August 2003, by which point Hugh hoped to have the
-  boat sailing by the New Zealand summer; by Christmas 2003 Dave reported the
-  boat **finished**, named **"Petite Lady,"** with completion photos posted to
-  the Files section, and by June 2004 reported Hugh Miller had "really been
-  enjoying" the finished boat, with a further round of sailing photos posted.
-  Kept as a cross-linked mention rather than its own page — see [boats
-  index](/boats/index.md) and, for mast-construction context, [mast interior
-  sealing and fit](/construction/mast-sealing-and-fit.md).
-- **Little Cruiser interior photos** he posted prompted
-  [Don Elliott](/people/don-elliott.md)'s offer to draw a full interior cutaway
-  for Dave's planned book. See
-  [Little Cruiser](/matt-layden/little-cruiser.md).
-- **Flagging two magazine articles.** Dave alerted the list to Glen Maxwell's
-  *Messing About In Boats* article on "Zoë"'s 2001 shakedown cruise, and, ten
-  days later, to Ron Hoddinott's *Small Craft Advisor* report on the Cedar Key
-  small-boat meet, which covered "Zoë" and "Whisper" and mentioned Matt Layden
-  by sight. See
-  [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles)
-  and
-  [group cruise reports — the 2003 Small Craft Advisor Cedar Key article](/operations/group-cruise-reports.md#press-coverage-the-2003-small-craft-advisor-cedar-key-article).
-- **Onboard sleeping arrangements aboard Little Cruiser.** Dave and Mindy make
-  a tight cabin work for two by sleeping head-to-foot for more elbow room when
-  wanted, and sometimes side by side (with the risk that an arm underneath
-  "falls asleep"), on a foam mattress thick enough to stay comfortable even
-  after years of reuse. See
-  [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
-- **New photo pages.** Having acquired a film scanner, posted two newly
-  digitized pages of Paradox photographs to microcruising.com
-  (`paradox3.htm`, `paradox4.htm`), with more site updates expected to
-  follow — and separately pointed out a photo of Paradox cruising through
-  the Tongue of the Ocean on the site's "poem" page
-  (`microcruising.com/poem.htm`).
-- **On a very large sailor's fit.** Told a 6'8"/315 lb prospective builder
-  that comfort is relative to what one is used to, likening the cabin to
-  being in a car or a two-man tent, and recommended seeing the boat in
-  person before deciding. See [crew size and cabin fit — a very large
-  sailor's fit: 6'8"/315 lb, and a cardboard-mockup
-  suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
-- **Not using the water tanks as designed.** Described running "Little
-  Cruiser"'s built-in tank compartments as individual-container storage for
-  water and canned goods rather than a single tank, and recommended a
-  removable, gasket-sealed top for a builder considering the same approach.
-  See [water tank construction and lining — not using the built-in tanks at
-  all](/construction/water-tank-lining.md#not-using-the-built-in-tanks-at-all-individual-containers-instead).
-- **Flagging a Chris Morejohn sharpie for sale.** Pointed out a "for sale"
-  listing for a 40 ft version of [Chris Morejohn](/people/chris-morejohn.md)'s
-  "Hogfish" sharpie design, remarking that its "Paradox"-style chine runners
-  (visible in two of the listing photos) were what made the design
-  interesting. See [Chris Morejohn](/people/chris-morejohn.md).
+- **Matt Layden as "a modern-day Thoreau."** When a Paradox was named "Walden," the characterization offered was of Matt as a modern-day Thoreau — someone who "quit his job, built a small boat, and went sailing off into the sunset to find Paradise." A community characterization of the designer's ethos, not a biographical fact. See [Walden](/boats/walden.md).
+- **Matt's 2003 Everglades Challenge entry.** A list message is the archive's contemporaneous record that Matt had entered the original [Paradox](/boats/original-paradox.md) in the ~260-mile WaterTribe Everglades Challenge (sailing from and back to Stuart, Florida) — a race Matt went on to win first in class and overall, and after which Dave and Mindy visited him. On how Matt would meet the above-high-tide launch rule, the guess was that he would float her off at high tide and haul her back with a block and tackle. Later photos documented the new oar's bronze-rod detail and a string run over the cleats to keep the sheet from catching, with Matt's sheeting otherwise unchanged. See [original Paradox — after the win](/boats/original-paradox.md).
+- **The Bolduc-Maxwell meeting.** Returning from the 2003 Bahamas cruise, Dave and Mindy spent a few days with a fellow correspondent and his wife — the archive's only recorded in-person meeting of two of its most prominent correspondents, at which Little Cruiser and "[Zoë](/boats/zoe.md)" were seen firsthand by each other's owners for the first time. There was also a follow-up asking after the West Coast Trailer Sailers' reported Cedar Key photos of two Paradoxes. See [group cruise reports](/operations/group-cruise-reports.md).
+- **"GJAC" listed for sale.** Matt's older boat [GJAC](/matt-layden/gjac.md) — 14.5 ft x 4 ft x 9 in, no cabin top, sleeps one, owned by a Connecticut owner — was announced for sale. See [secondhand market](/operations/secondhand-market.md).
+- **A New Zealand build, "Petite Lady."** A Paradox built in New Zealand by a then-67-year-old builder was reported secondhand — the archive's first New Zealand build, built to the plans except for round, birdmouth-method spars, and distinct from a separate prospective New Zealand builder. A first round of photos was posted in June 2003 and a further set in August 2003, by which point the boat was hoped to be sailing by the New Zealand summer; by Christmas 2003 the boat was reported **finished**, named **"Petite Lady,"** with completion photos posted to the Files section, and by June 2004 the builder was reported to have "really been enjoying" the finished boat, with a further round of sailing photos posted. Kept as a cross-linked mention rather than its own page — see [boats index](/boats/index.md) and, for mast-construction context, [mast interior sealing and fit](/construction/mast-sealing-and-fit.md).
+- **Little Cruiser interior photos**, once posted, prompted an offer to draw a full interior cutaway for Dave's planned book. See [Little Cruiser](/matt-layden/little-cruiser.md).
+- **Flagging two magazine articles.** The list was alerted to a *Messing About In Boats* article on "Zoë"'s 2001 shakedown cruise, and, ten days later, to a *Small Craft Advisor* report on the Cedar Key small-boat meet, which covered "Zoë" and "Whisper" and mentioned Matt Layden by sight. See [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles) and [group cruise reports — the 2003 Small Craft Advisor Cedar Key article](/operations/group-cruise-reports.md#press-coverage-the-2003-small-craft-advisor-cedar-key-article).
+- **Onboard sleeping arrangements aboard Little Cruiser.** Dave and Mindy make a tight cabin work for two by sleeping head-to-foot for more elbow room when wanted, and sometimes side by side (with the risk that an arm underneath "falls asleep"), on a foam mattress thick enough to stay comfortable even after years of reuse. See [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+- **New photo pages.** Having acquired a film scanner, two newly digitized pages of Paradox photographs were posted to microcruising.com (`paradox3.htm`, `paradox4.htm`), with more site updates expected to follow — and separately, a photo of Paradox cruising through the Tongue of the Ocean was pointed out on the site's "poem" page (`microcruising.com/poem.htm`).
+- **On a very large sailor's fit.** A 6'8"/315 lb prospective builder was told that comfort is relative to what one is used to, likening the cabin to being in a car or a two-man tent, and recommended seeing the boat in person before deciding. See [crew size and cabin fit — a very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
+- **Not using the water tanks as designed.** "Little Cruiser"'s built-in tank compartments run as individual-container storage for water and canned goods rather than a single tank, an approach recommended, along with a removable, gasket-sealed top, to a builder considering the same. See [water tank construction and lining — not using the built-in tanks at all](/construction/water-tank-lining.md#not-using-the-built-in-tanks-at-all-individual-containers-instead).
+- **Flagging a Chris Morejohn sharpie for sale.** A "for sale" listing for a 40 ft version of [Chris Morejohn](/people/chris-morejohn.md)'s "Hogfish" sharpie design was pointed out, remarking that its "Paradox"-style chine runners (visible in two of the listing photos) were what made the design interesting. See [Chris Morejohn](/people/chris-morejohn.md).
 
 ## Disambiguation
 
-Dave is distinct from his wife Mindy Bolduc (crew), who sits below in the Exuma
-Sound sailing photo (see [rig and sail](/design/rig.md)). His `boldav38` handle
-and `mbolduc` address are the same person; confirming this prevents confusing
-his messages with [Pete Hodges](/people/pete-hodges.md)'s "questions" thread
-that one of them answered.
+Dave is distinct from his wife Mindy Bolduc (crew), who sits below in the Exuma Sound sailing photo (see [rig and sail](/design/rig.md)). His `boldav38` handle and `mbolduc` address are the same person; confirming this prevents confusing his messages with a "questions" thread that one of the Bolducs answered.
 
 # Citations
 

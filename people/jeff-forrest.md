@@ -8,58 +8,21 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Jeff Forrest
 
-**Jeff Forrest** is a Southern Oregon builder who began constructing his own
-[Paradox](/paradox.md) from scratch in December 2001, using **plans from
-[Dave Bolduc](/people/bolduc/dave.md)** and the
-**["Building the Paradox" construction articles](/references/building-the-paradox-articles.md)
-by [Don Elliott](/people/don-elliott.md)**. He was an early inquirer into
-stretching the design by **10–15%** (like [Pete Hodges](/people/pete-hodges.md)),
-and became the list's main advocate for building the hull by stitch-and-glue
-rather than the standard bent-single-sheet method.
+**Jeff Forrest** is a Southern Oregon builder who began constructing his own [Paradox](/paradox.md) from scratch in December 2001, using purchased plans and the **["Building the Paradox" construction articles](/references/building-the-paradox-articles.md)**. He was an early inquirer into stretching the design by **10–15%**, and became the list's main advocate for building the hull by stitch-and-glue rather than the standard bent-single-sheet method.
 
 ## What he built
 
-Forrest began construction of his unnamed Paradox in early December 2001,
-having purchased marine plywood and gathered materials to start cutting soon.
+Forrest began construction of his unnamed Paradox in early December 2001, having purchased marine plywood and gathered materials to start cutting soon.
 
 ## Contributions
 
-- **Stretching the design.** Whether the enlargement factor applies to beam as
-  well as length, and how a stretched Paradox actually turns out in practice,
-  were open questions Forrest raised early on — see
-  [stretched Paradox](/design/variants/stretched-paradox.md). He also tried to
-  buy [Jeff (UK, "doryman_uk")](/people/jeff-doryman.md)'s from-scratch 16 ft
-  ["Paramour"](/design/variants/paramour-design.md) redesign once completed.
+- **Stretching the design.** Whether the enlargement factor applies to beam as well as length, and how a stretched Paradox actually turns out in practice, were open questions raised early on — see [stretched Paradox](/design/variants/stretched-paradox.md). Forrest also tried to buy a from-scratch 16 ft ["Paramour"](/design/variants/paramour-design.md) redesign once completed.
 
-- **The stitch-and-glue case.** Stitch-and-glue simplifies Paradox
-  construction — far less bulkhead framing, no precise beveling, looser
-  fitting tolerances, and any weight lost by skipping chine logs made up in
-  ballast — a case Forrest built by citing **Sam Devlin**'s designs as proof
-  that bending 1/2 in ply is manageable, and by calling Paradox "basically a
-  box." His purchased plans already called out the side-panel dimensions for
-  stitch-and-glue, but the equivalent **bottom-panel dimensions** remained an
-  unresolved gap for builders. He also supplied **Sam Devlin**'s published
-  fillet-sizing rule (*Devlin's Boat Building*): fillet depth should equal the
-  thickest ply joined, extending 1.5–2× that thickness from the joint
-  centerline. See [hull planking](/construction/hull-planking.md).
+- **The stitch-and-glue case.** Stitch-and-glue simplifies Paradox construction — far less bulkhead framing, no precise beveling, looser fitting tolerances, and any weight lost by skipping chine logs made up in ballast — a case built by citing published stitch-and-glue designs as proof that bending 1/2 in ply is manageable, and by calling Paradox "basically a box." Forrest's purchased plans already called out the side-panel dimensions for stitch-and-glue, but the equivalent **bottom-panel dimensions** remained an unresolved gap for builders. A published fillet-sizing rule (*Devlin's Boat Building*) was also supplied: fillet depth should equal the thickest ply joined, extending 1.5–2× that thickness from the joint centerline. See [hull planking](/construction/hull-planking.md).
 
-- **Construction questions.** Bulkhead bevels are best cut after gluing and
-  nailing, with parts left oversize until then — see
-  [hull assembly sequence](/construction/hull-assembly-sequence.md). On the
-  bottom, laminating a 1/2 in plus a 1/4 in sheet in place of the single
-  3/4 in bottom sheet is structurally fine (in fact stronger), with the bad
-  faces glued together for two good finished faces — see
-  [hull scantlings — substituting laminated ply](/design/hull-scantlings.md).
+- **Construction questions.** Bulkhead bevels are best cut after gluing and nailing, with parts left oversize until then — see [hull assembly sequence](/construction/hull-assembly-sequence.md). On the bottom, laminating a 1/2 in plus a 1/4 in sheet in place of the single 3/4 in bottom sheet is structurally fine (in fact stronger), with the bad faces glued together for two good finished faces — see [hull scantlings — substituting laminated ply](/design/hull-scantlings.md).
 
-- **A long-running check-in on "Paramour."** Nearly two years after first
-  trying to buy [Jeff (UK, "doryman_uk")](/people/jeff-doryman.md)'s stretched
-  16 ft redesign, Forrest asked again whether anyone had heard from him —
-  posting, coincidentally, under the subject "Jeff Please," Jeff (UK)'s own
-  screen name. The check-in finally drew a reply: Jeff (UK) was still on the
-  list and still meant to build a Paradox, by then describing his 16 ft design
-  simply as an 8 in stretch of Paradox for extra living space. See
-  [Jeff (UK, "doryman_uk")](/people/jeff-doryman.md) and
-  [Paramour](/design/variants/paramour-design.md).
+- **A long-running check-in on "Paramour."** Nearly two years after first trying to buy the stretched 16 ft redesign, Forrest asked again whether anyone had heard from its designer — posting, coincidentally, under the subject "Jeff Please," the designer's own screen name. The check-in finally drew a reply: the designer was still on the list and still meant to build a Paradox, by then describing the 16 ft design simply as an 8 in stretch of Paradox for extra living space. See [Jeff (UK, "doryman_uk")](/people/jeff-doryman.md) and [Paramour](/design/variants/paramour-design.md).
 
 # Citations
 

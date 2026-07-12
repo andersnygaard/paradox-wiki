@@ -8,75 +8,37 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Terrapin
 
-**Terrapin** was [Matt Layden](/matt-layden/biography.md)'s **first
-home-made microcruiser**, built around 1985 — the boat that starts the
-documented Layden design lineage running through
-[Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md),
-[Little Cruiser](/matt-layden/little-cruiser.md), and the
-[Paradox](/paradox.md) itself. She is not a Paradox hull, but she is
-essential background: Terrapin's shortcomings, discovered the hard way, are
-the direct reason later Layden boats abandoned leeboards for
-[chine runners](/chine-runners/origin-and-evolution.md) and were
-designed to be self-righting.
+**Terrapin** was [Matt Layden](/matt-layden/biography.md)'s **first home-made microcruiser**, built around 1985 — the boat that starts the documented Layden design lineage running through [Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md), [Little Cruiser](/matt-layden/little-cruiser.md), and the [Paradox](/paradox.md) itself. She is not a Paradox hull, but she is essential background: Terrapin's shortcomings, discovered the hard way, are the direct reason later Layden boats abandoned leeboards for [chine runners](/chine-runners/origin-and-evolution.md) and were designed to be self-righting.
 
 ## Design particulars
 
 - **Length: 16 ft**
 - **Beam: 6 ft** — described as "moderately beamy"
 - Cat boat rig with a **fully battened mainsail**
-- **Toed-in leeboards** for lateral resistance (no chine runners, no
-  centerboard — those came later)
+- **Toed-in leeboards** for lateral resistance (no chine runners, no centerboard — those came later)
 - A cabin, with accommodations reported as "fine"
 - Built of **marine-grade plywood**
 
-She was reportedly "quite fast" and fast to windward, and cruised
-extensively along the northeastern U.S. seaboard, where she "worked
-reasonably well."
+She was "quite fast" and fast to windward, and cruised extensively along the northeastern U.S. seaboard, where she "worked reasonably well."
 
 ## Why the leeboards and plywood were abandoned
 
-Two shortcomings emerged during Matt's travels north, both of which shaped
-every Layden boat that followed:
+Two shortcomings emerged during Matt's travels north, both of which shaped every Layden boat that followed:
 
-- **The leeboards were "cumbersome, noisy," and tended to pick up debris** —
-  fouling on lobster-pot lines and seaweed. This specific complaint is the
-  documented reason Matt replaced leeboards with
-  [chine runners](/chine-runners/origin-and-evolution.md) on
-  Swamp Thing, Terrapin's successor: chine runners "had the added benefit of
-  not picking up lobster pot lines or sea weed, which proved troublesome
-  with the leeboards on Terrapin."
-- **Marine-grade plywood was judged not cost-effective** for the times —
-  a construction-economics conclusion that shows up again in the switch to
-  exterior-grade plywood on Swamp Thing.
+- **The leeboards were "cumbersome, noisy," and tended to pick up debris** — fouling on lobster-pot lines and seaweed. This specific complaint is the documented reason Matt replaced leeboards with [chine runners](/chine-runners/origin-and-evolution.md) on Swamp Thing, Terrapin's successor: chine runners "had the added benefit of not picking up lobster pot lines or sea weed, which proved troublesome with the leeboards on Terrapin."
+- **Marine-grade plywood was judged not cost-effective** for the times — a construction-economics conclusion that shows up again in the switch to exterior-grade plywood on Swamp Thing.
 
 ## The knockdown off Maine: the origin story for self-righting
 
-The pivotal event in Terrapin's short career, and arguably in the whole
-Layden design lineage, was a **severe knockdown in a fierce storm off the
-coast of Maine**. Terrapin's flat bottom and six-foot beam meant she was not
-self-righting at that beam:
+The pivotal event in Terrapin's short career, and arguably in the whole Layden design lineage, was a **severe knockdown in a fierce storm off the coast of Maine**. Terrapin's flat bottom and six-foot beam meant she was not self-righting at that beam:
 
-> "The boat went to 90 degrees and stayed there, supported only by her
-> buoyant mast."
+> "The boat went to 90 degrees and stayed there, supported only by her buoyant mast."
 
-Only Terrapin's **large-diameter hollow mast**, buoyant enough to prevent a
-full capsize, kept her from going all the way over. When the wind abated,
-Matt righted the boat himself — but the experience, in the site's words,
-"started him thinking about a better and more seaworthy design."
+Only Terrapin's **large-diameter hollow mast**, buoyant enough to prevent a full capsize, kept her from going all the way over. When the wind abated, Matt righted the boat himself — but the experience "started him thinking about a better and more seaworthy design."
 
-That thinking produced Swamp Thing's much narrower beam (reduced "by over
-two feet" from Terrapin's six feet) and, from Swamp Thing onward, hull forms
-designed to be actively **self-righting** rather than dependent on a buoyant
-mast to avoid turning turtle — a design goal explicitly listed among the
-"interesting details" of the [Paradox](/paradox.md) itself. See
-[weight and ballast](/design/weight-and-ballast.md) for how later boats used
-water ballast low in the hull, together with narrow beam, to achieve this.
+That thinking produced Swamp Thing's much narrower beam (reduced "by over two feet" from Terrapin's six feet) and, from Swamp Thing onward, hull forms designed to be actively **self-righting** rather than dependent on a buoyant mast to avoid turning turtle — a design goal explicitly listed among the "interesting details" of the [Paradox](/paradox.md) itself. See [weight and ballast](/design/weight-and-ballast.md) for how later boats used water ballast low in the hull, together with narrow beam, to achieve this.
 
-Terrapin is therefore best understood not as a Paradox precursor in form —
-she shares little with Paradox's chine-runner, no-leeboard hull — but as the
-**design ancestor whose failures set the whole trajectory** that eventually
-produced Paradox: narrower beam, chine runners in place of leeboards, and a
-self-righting hull.
+Terrapin is therefore best understood not as a Paradox precursor in form — she shares little with Paradox's chine-runner, no-leeboard hull — but as the **design ancestor whose failures set the whole trajectory** that eventually produced Paradox: narrower beam, chine runners in place of leeboards, and a self-righting hull.
 
 # Citations
 

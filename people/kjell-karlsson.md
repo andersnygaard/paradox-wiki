@@ -8,280 +8,43 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Kjell Karlsson
 
-**Kjell Karlsson** (Sweden) is the first identified Swedish
-[Paradox](/paradox.md) builder and the only person on record building the
-design in a composite material rather than plywood. A personal acquaintance
-of Swedish micro-cruising designer **Sven Yrvind** since the mid-1970s, he came
-to Matt Layden's work through Yrvind in 1998 and nearly met Matt in Florida in
-1999.
+**Kjell Karlsson** (Sweden) is the first identified Swedish [Paradox](/paradox.md) builder and the only person on record building the design in a composite material rather than plywood. A personal acquaintance of Swedish micro-cruising designer **Sven Yrvind** since the mid-1970s, he came to Matt Layden's work through Yrvind in 1998 and nearly met Matt in Florida in 1999.
 
 ## What he built
 
-Karlsson's Paradox is laid up in Yrvind's **"BRIS" foam-sandwich composite**
-method — a Divinycell/laminate hull in place of the stock plywood, a project
-roughly a decade in progress by the time he introduced it to the
-[Paradox](/paradox.md) building community in June 2003. The build history, the
-material and design changes from the stock plans, and the laminate schedule
-are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
+Karlsson's Paradox is laid up in Yrvind's **"BRIS" foam-sandwich composite** method — a Divinycell/laminate hull in place of the stock plywood, a project roughly a decade in progress by the time he introduced it to the [Paradox](/paradox.md) building community in June 2003. The build history, the material and design changes from the stock plans, and the laminate schedule are documented in full at [the "BRIS Paradox"](/boats/bris-paradox.md).
 
 ## Contributions
 
-- **The composite case for Paradox.** Karlsson articulated Yrvind's "globally
-  stiff and locally flexible" design goal and the reasoning for foam-sandwich
-  over plywood, with detailed lamination figures — the archive's fullest
-  account of building a Paradox in composite — and supplied a DIAB Sandwich
-  Handbook reference along the way. See [the "BRIS
-  Paradox"](/boats/bris-paradox.md).
-- **Why a sandwich panel must stay flexible, not rigid.** Laminating his
-  boat's curved aft baffle in 5 mm Divinycell showed the mechanism directly:
-  flaccid after glassing one side, but so suddenly stiff after the second
-  side that bending it to shape needed a forceful strap — and the finished
-  panel then abruptly collapsed once released, "like an explosion in my
-  shop." The episode is the archive's clearest illustration of why Yrvind
-  specifies a flexible rather than rigid sandwich. See [the "BRIS Paradox" —
-  why Yrvind specified a flexible, not rigid,
-  sandwich](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
-- **On why builders are drawn to Paradox at all.** Reflected that the
-  design's appeal lies in a "deeper"/"wider" interest in materials and design
-  philosophy rather than simply wanting to sail, framing Matt Layden and Sven
-  Yrvind alike as free-thinking "amateurs" who publish open, non-proprietary
-  solutions; also floated dropping the rudder's lead ballast for a
-  bungee-cord downhaul. See
-  [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)
-  and
-  [rudder ballast without a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting).
-- **Quantifying a boom modification for Matt Layden's taller sailplan.**
-  Worked out whether enlarging the boom's aft circumference would let it
-  swallow the extra sail area left unfurled by Matt Layden's taller,
-  higher-peaked new sailplan, plotting the new sail measurements onto the
-  plans' sail plan to calculate the new halyard attachment point and the
-  extra boom circumference needed fore and aft. In practice the incomplete
-  furl is not a serious problem, since the sail is already mostly rolled up
-  by the time any cloth is left over, owing to the peaked gaff. See [rig and
-  sail — quantifying the new sailplan's effect on boom furling
-  geometry](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
-- **T-12 thinner's chemical identity.** Traced T-12 thinner, sold by
-  Fiberglass Coatings, to a composition of alcohols and ketones, in the
-  course of looking for a Swedish equivalent under another name. See
-  [epoxy pre-coating technique — mixing container shape and stir
-  time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
-- **A working lower-gudgeon method.** A thick fiberglass-strip lamination
-  built up in a simple mold, with a Delrin bushing for wear. See [Glen
-  Maxwell — the build manual proposal, a concrete
-  push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
-- **Translating Sven Yrvind's book.** Met the community's standing wish for
-  an English translation of Yrvind's new Swedish-language book by translating
-  its Matt Layden/Paradox chapter himself and posting it as "chapter9.doc,"
-  with the author's permission — and, after a further conversation with
-  Yrvind, uploaded a corrected "Chapter9rev" translation superseding it. Gave
-  the translation project's eventual close: Yrvind does not approve an
-  e-book, but wants an English-speaking publisher, for whom the translated
-  Paradox chapter could serve as a sample, with a professional translator
-  (not Karlsson) expected to handle the rest of the book. See
-  [the "BRIS Paradox" — Sven Yrvind's book, translated: the Matt
-  Layden/Paradox chapter](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter),
-  [reception of the translated book chapter](/boats/bris-paradox.md#reception-of-the-translated-book-chapter),
-  [a revised translation, and an open question about Sven Yrvind's own design
-  choices](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices),
-  and [a proposed group project to translate Sven Yrvind's full book into
-  English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
-- **Why Yrvind never applied the chine-runner concept to his own "Bris."**
-  Yrvind's original "Bris" project predated his knowledge of Paradox and was
-  built to an exacting custom standard over several years; his current design
-  goal — a car-toppable boat easy to scull and run downwind — he judged
-  better served by his own established approach than by chine runners, while
-  conceding that boat design also comes down to "feeling." See [the "BRIS
-  Paradox" — a revised translation, and an open question about Sven Yrvind's
-  own design
-  choices](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices).
-- **On dory hulls and stability in steep waves.** The same no-keel, dory-like
-  stability explanation that appears in the heavy-weather literature also
-  appears in the Matt Layden/Paradox chapter of Sven Yrvind's book. See
-  [heavy-weather tactics — why a keel-less, dory-like hull resists tripping
-  in steep
-  waves](/operations/heavy-weather-tactics.md#why-a-keel-less-dory-like-hull-resists-tripping-in-steep-waves).
-- **A bottom-sheet ballast idea, and a weekend-versus-long-tour ballast
-  question.** Proposed gluing a metal sheet to the bottom's *outside* as
-  ballast — bronze, bondable and useful as a lightning-rod ground plate, over
-  harder-to-glue stainless steel — and raised how much of the plans' 70-180
-  kg ballast figure is really needed for one-person weekend sailing versus a
-  fully stored long tour. See [weight, ballast, and displacement — a
-  laminated sheet-lead bottom as an alternative to loose
-  pigs](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative).
-- **A chine-runner attachment method, with a lightning-grounding rationale.**
-  Switched a planned stainless-steel bottom sheet (also serving as ballast)
-  to bronze instead, so the sheet could double as a lightning-protection
-  ground plate while forming the chine runners' base, protruding side-wise —
-  an attachment strong enough for hard grounding. See [chine runner
-  construction technique — bronze versus steel, if a builder insists on a
-  shoe](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
-- **A transom sheet-entry question, resolved.** Before drilling any holes of
-  his own, asked whether the mainsheet's transom eye-bolt had moved toward
-  the centerline in later plans and whether the boom still carried a block:
-  the original prototype used a single-part sheet, while the plans show an
-  improved two-part purchase with the fixed end at a port-side transom eye.
-  See [rig and sail — sheet entry through the transom: prototype versus
-  plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans).
-- **Widening the berth by omitting the lower shelves.** Used the BRIS
-  sandwich construction's own buoyancy to drop both the sheet-foam
-  insulation and the lower bin shelves, achieving a berth width equal to
-  the bulkheads' outer dimension, with the aft shelf made removable for
-  single-versus-pair-sailing. See [the "BRIS Paradox" — widening the berth
-  by omitting the lower
-  shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves).
-- **Tacking and the sail's center of effort.** Ahead of ordering his sail,
-  raised again whether slow tacking traces to an undersized forward ("jib")
-  portion of the sail and whether moving the halyard attachment aft would
-  help — the resolution turning on center of effort, rudder stall, and
-  telltale placement as the real tacking variables, alongside a
-  heavy-displacement/full-keel perspective on the same question. See
-  [sailing characteristics — center of effort, rudder stall, and telltale
-  placement as the real tacking
-  variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
-- **Sailmaking, and the yuloh's real reason for curving.** Does not make his
-  own sails, following the example of his sailmaking "guru," Sven Yrvind; and
-  relayed Yrvind's explanation of why the yuloh's blade is curved at all — to
-  shift its center of rotation to the far side of its own longitudinal axis.
-  See [rig and sail — sail pricing](/design/rig.md#sail-pricing) and [yuloh
-  and stowed-rig retention — building the yuloh
-  itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
-- **The chine-runner curve question, worked and eventually resolved.**
-  Whether the chine runners' upward-curving outer edge has a genuine
-  hydrodynamic function, versus being a cosmetic or fabrication artifact,
-  became a live puzzle once Karlsson tried to reproduce the curve in sheet
-  metal for his own 2 mm, 70 kg bronze bottom plate (glued on with an elastic
-  epoxy filler and no mechanical fasteners, bronze chosen over stainless
-  steel for its lightning-grounding ability). He worked through three failed
-  approaches in sequence — hand-forming the curve around a pattern (put in
-  doubt by a work-hardening risk), grinding and bonding on a separately
-  curved strip, and laminating up offcut strips (ruled out since the
-  divinycell core cannot take welding heat) — and tested scrap bronze to
-  confirm the metal itself was not brittle, the real obstacle being that 2 mm
-  gauge is simply thick to bend by hand. He also raised whether the plans'
-  drawn "downward convexity" curve might actually make sideways-tripping
-  easier than the opposite ("upward") curve would, a laminar/turbulent-flow
-  question that was never conclusively answered. The question was ultimately
-  closed the practical way: he cut the bronze sheet straight, omitting the
-  drawn curvature entirely, with no apparent ill effect. See [chine runners —
-  how they
-  work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature)
-  and [chine runner construction — bronze versus
-  steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
-- **A rudder-fitting rework and a fiberglass tiller.** Reworked his rudder
-  fittings after installing the main bronze rod askew, and built his own
-  tiller from fiberglass and epoxy (having first tried carbon fiber) rather
-  than wood. See [the "BRIS Paradox" — a rudder-fitting rework, and a
-  fiberglass
-  tiller](/boats/bris-paradox.md#a-rudder-fitting-rework-and-a-fiberglass-tiller).
-- **Bonding metal with elastic epoxy rather than fastening it.** Epoxy
-  essentially will not adhere to stainless steel, but a builder of the
-  related "Sofia" design gets a lasting bond onto stainless anyway by
-  grinding heavily and applying an elastic filler within seconds — a bond
-  that outlasted the polyester laminate beneath it when tested years later.
-  Bronze poses no comparable gluing problem, but Karlsson followed the same
-  elastic-bond practice regardless. See [chine runner construction technique
-  — bronze versus
-  steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
-- **A polyester-lamination cautionary tale.** 240 g/m² polyester cloth proved
-  workable on smooth surfaces but "tricky round angles" on a sharpie hull —
-  a first attempt at laminating the outside became "just a mess" after two
-  layers, salvaged only with a professional painter's help. A thinner cloth
-  is recommended for a first attempt, and an extra-thin fiberglass layer over
-  sanded polyester (which goes "fluffy, like velvet") saves on filler. See
-  [epoxy pre-coating technique — polyester resin versus
-  epoxy](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy).
-- **Further BRIS build milestones.** Later stages included recutting the aft
-  baffle after it was mounted too steep; fitting a stainless-steel stem tube
-  in place of the plans' fastening loop (on Sven Yrvind's own suggestion,
-  since a loop would not grip well in the Divinycell core); building the
-  roof with its support pools laid first for strength, fitted over an
-  already-painted interior, with the divinycell core ground away and filled
-  along each free deck edge to give the window openings solid material to
-  screw into; and test-fitting polycarbonate window glazing, which behaved as
-  "funny stuff" under fitting. Weighed complete except mast, boom, yard, and
-  battery, the hull (including its 70 kg bronze bottom plate) came to 326 kg
-  — an estimated 100 kg or so heavier than an equivalent plywood hull. A
-  fellow Swedish sailor, Lasse, crossed the Atlantic in a separate
-  BRIS-hulled boat. See [the "BRIS Paradox" — a stainless-steel stem tube in
-  place of a fastening
-  loop](/boats/bris-paradox.md#a-stainless-steel-stem-tube-in-place-of-a-fastening-loop),
-  [a further round of roof and window
-  progress](/boats/bris-paradox.md#a-further-round-of-roof-and-window-progress),
-  [window test-fitting in
-  polycarbonate](/boats/bris-paradox.md#window-test-fitting-in-polycarbonate),
-  [a further "ParaPlastic" photo
-  update](/boats/bris-paradox.md#a-further-paraplastic-photo-update), and
-  [weight, ballast, and displacement — "BRIS Paradox,"
-  as-weighed](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates).
-  Two questions from this stage went unanswered in the archive: how other
-  builders route a solar panel's cable into the cabin, and whether Matt
-  Layden's masthead drawing really does route the halyard's deck hole aft of
-  the mast, twisting the halyard a quarter-turn. See [running lights —
-  solar-panel cable entrance through the deck or
-  window](/operations/running-lights.md#solar-panel-cable-entrance-through-the-deck-or-window)
-  and [rig and sail — why the masthead halyard hole sits aft of the mast,
-  twisting the halyard a
-  quarter-turn](/design/rig.md#why-the-masthead-halyard-hole-sits-aft-of-the-mast-twisting-the-halyard-a-quarter-turn).
-- **A Swedish LED-lamp lead.** Pointed to a Swedish supplier,
-  `mitron.se/SURE-E/a-lite.html`, offering a lamp closer to a genuinely
-  boat-designed LED unit than the off-the-shelf bicycle lamps otherwise under
-  discussion. See [running lights — off-the-shelf LED sources for a
-  boat-tent
-  light](/operations/running-lights.md#off-the-shelf-led-sources-for-a-boat-tent-light).
-- **A "senior testimony" on age and boat size.** At 56, with his Paradox
-  expected ready to sail that summer, offered his own build as reassurance
-  that starting a Paradox build later in life is not unreasonable. See
-  [first-boat suitability — age, and the case for going smaller rather than
-  larger](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger).
-- **Layup materials and chine-runner attachment, restated.** Confirmed the
-  BRIS method's fibreglass/epoxy-inside, polyester/epoxy-outside,
-  divinycell-core layup and the bronze-sheet-plus-fibreglass-putty chine
-  runners for a newcomer considering the same construction. See [the "BRIS
-  Paradox" — layup materials and chine-runner attachment for a foam-core
-  hull,
-  revisited](/boats/bris-paradox.md#layup-materials-and-chine-runner-attachment-for-a-foam-core-hull-revisited).
-- **A budget-build comparison.** Noted, on seeing a fellow builder's
-  cost-minimizing project, that it would be worth comparing the two boats
-  later for functional differences, since his own considerably costlier
-  composite build was pursuing "the opposite" approach. See
-  [building plans — source and
-  cost](/references/building-plans.md#why-paradox-resists-easy-enlargement).
-- **First launch, and a rudder buoyancy problem.** Launched the BRIS Paradox
-  twice without yet sailing her, discovering on the second launch that the
-  rudder floated rather than sinking as designed — solved for the moment
-  with a leftover bronze cladding rather than the lead insert he had hoped
-  for. See [the "BRIS Paradox" — first launch, and a rudder that would not
-  stay down](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
-- **First sail, and a topping-lift fix for heavy hoisting.** Sailed for the
-  first time in 21 years, single-handed on a nearby lake, loaded with the
-  bronze bottom sheet, a battery, and loose scrap lead as ballast — stiff
-  and stable even riding above her designed waterline. Traced a "much too
-  heavy" hoisting/reefing feel to having omitted a topping lift at the
-  mast-building stage, fixed with two fixed lift lines set to keep the
-  boom/yard just clear of full hoist height. See [the "BRIS Paradox" —
-  first sail, and a topping-lift solution to heavy
-  hoisting/reefing](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
-- **Sailing grounds, and a Baltic-states dream.** Sails out of the
-  Stockholm archipelago, where the BRIS Paradox's shallow draft opens up
-  grounds his previous, deeper-draft boat could not reach; named a
-  long-held ambition to sail to the Baltic states, particularly Estonia.
-  See [the "BRIS Paradox" — sailing grounds: the Stockholm archipelago, and
-  a Baltic-states
-  dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
-- **A finished bronze rudder, a boom-taper reefing question, and a rough
-  weekend sail.** Finished his rudder with 4 kg of bronze edge cladding;
-  raised the reefing-triangle/boom-taper question that drew Jack Gardiner's
-  and Alastair's answers on
-  [rig and sail](/design/rig.md#rolling-boom-and-sail-foot); and had a rough
-  short sail in unexpectedly gusty wind that drifted the boat into reeds and
-  buckled a trailer fender while hauling out. See [the "BRIS Paradox" — the
-  finished rudder, and a gusty-weekend sail that ended
-  badly](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).
-- **A composite-build progress inquiry, left unanswered.** A newcomer
-  interested in building in foam rather than plywood asked how much sailing
-  Karlsson had done since completing the BRIS Paradox, and for the
-  scantlings behind his foam construction — foam thickness and number of
-  glass layers — with no reply on record.[60]
+- **The composite case for Paradox.** The "globally stiff and locally flexible" design goal and the reasoning for foam-sandwich over plywood, with detailed lamination figures — the archive's fullest account of building a Paradox in composite — plus a DIAB Sandwich Handbook reference along the way. See [the "BRIS Paradox"](/boats/bris-paradox.md).
+- **Why a sandwich panel must stay flexible, not rigid.** Laminating the curved aft baffle in 5 mm Divinycell showed the mechanism directly: flaccid after glassing one side, but so suddenly stiff after the second side that bending it to shape needed a forceful strap — and the finished panel then abruptly collapsed once released, "like an explosion in my shop." The episode is the archive's clearest illustration of why a flexible rather than rigid sandwich is specified. See [the "BRIS Paradox" — why Yrvind specified a flexible, not rigid, sandwich](/boats/bris-paradox.md#why-yrvind-specified-a-flexible-not-rigid-sandwich).
+- **On why builders are drawn to Paradox at all.** The design's appeal lies in a "deeper"/"wider" interest in materials and design philosophy rather than simply wanting to sail, framing Matt Layden and Sven Yrvind alike as free-thinking "amateurs" who publish open, non-proprietary solutions; also floated was dropping the rudder's lead ballast for a bungee-cord downhaul. See [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth) and [rudder ballast without a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting).
+- **Quantifying a boom modification for Matt Layden's taller sailplan.** Whether enlarging the boom's aft circumference would let it swallow the extra sail area left unfurled by Matt Layden's taller, higher-peaked new sailplan, plotting the new sail measurements onto the plans' sail plan to calculate the new halyard attachment point and the extra boom circumference needed fore and aft. In practice the incomplete furl is not a serious problem, since the sail is already mostly rolled up by the time any cloth is left over, owing to the peaked gaff. See [rig and sail — quantifying the new sailplan's effect on boom furling geometry](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
+- **T-12 thinner's chemical identity.** T-12 thinner, sold by Fiberglass Coatings, traced to a composition of alcohols and ketones, in the course of looking for a Swedish equivalent under another name. See [epoxy pre-coating technique — mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
+- **A working lower-gudgeon method.** A thick fiberglass-strip lamination built up in a simple mold, with a Delrin bushing for wear. See [Glen Maxwell — the build manual proposal, a concrete push](/people/glen-maxwell/list-founder-and-moderator.md#the-build-manual-proposal-a-concrete-push).
+- **Translating Sven Yrvind's book.** The community's standing wish for an English translation of Yrvind's new Swedish-language book was met by translating its Matt Layden/Paradox chapter and posting it as "chapter9.doc," with the author's permission — and, after a further conversation with Yrvind, a corrected "Chapter9rev" translation was uploaded superseding it. The translation project's eventual close: Yrvind does not approve an e-book, but wants an English-speaking publisher, for whom the translated Paradox chapter could serve as a sample, with a professional translator expected to handle the rest of the book. See [the "BRIS Paradox" — Sven Yrvind's book, translated: the Matt Layden/Paradox chapter](/boats/bris-paradox.md#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter), [reception of the translated book chapter](/boats/bris-paradox.md#reception-of-the-translated-book-chapter), [a revised translation, and an open question about Sven Yrvind's own design choices](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices), and [a proposed group project to translate Sven Yrvind's full book into English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
+- **Why Yrvind never applied the chine-runner concept to his own "Bris."** Yrvind's original "Bris" project predated his knowledge of Paradox and was built to an exacting custom standard over several years; his current design goal — a car-toppable boat easy to scull and run downwind — is better served by his own established approach than by chine runners, while boat design also comes down to "feeling." See [the "BRIS Paradox" — a revised translation, and an open question about Sven Yrvind's own design choices](/boats/bris-paradox.md#a-revised-translation-and-an-open-question-about-sven-yrvinds-own-design-choices).
+- **On dory hulls and stability in steep waves.** The same no-keel, dory-like stability explanation that appears in the heavy-weather literature also appears in the Matt Layden/Paradox chapter of Sven Yrvind's book. See [heavy-weather tactics — why a keel-less, dory-like hull resists tripping in steep waves](/operations/heavy-weather-tactics.md#why-a-keel-less-dory-like-hull-resists-tripping-in-steep-waves).
+- **A bottom-sheet ballast idea, and a weekend-versus-long-tour ballast question.** Gluing a metal sheet to the bottom's *outside* as ballast — bronze, bondable and useful as a lightning-rod ground plate, over harder-to-glue stainless steel — was proposed, alongside the question of how much of the plans' 70-180 kg ballast figure is really needed for one-person weekend sailing versus a fully stored long tour. See [weight, ballast, and displacement — a laminated sheet-lead bottom as an alternative to loose pigs](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative).
+- **A chine-runner attachment method, with a lightning-grounding rationale.** A planned stainless-steel bottom sheet (also serving as ballast) was switched to bronze instead, so the sheet could double as a lightning-protection ground plate while forming the chine runners' base, protruding side-wise — an attachment strong enough for hard grounding. See [chine runner construction technique — bronze versus steel, if a builder insists on a shoe](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+- **A transom sheet-entry question, resolved.** Before drilling any holes, the question arose whether the mainsheet's transom eye-bolt had moved toward the centerline in later plans and whether the boom still carried a block: the original prototype used a single-part sheet, while the plans show an improved two-part purchase with the fixed end at a port-side transom eye. See [rig and sail — sheet entry through the transom: prototype versus plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans).
+- **Widening the berth by omitting the lower shelves.** The BRIS sandwich construction's own buoyancy was used to drop both the sheet-foam insulation and the lower bin shelves, achieving a berth width equal to the bulkheads' outer dimension, with the aft shelf made removable for single-versus-pair-sailing. See [the "BRIS Paradox" — widening the berth by omitting the lower shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves).
+- **Tacking and the sail's center of effort.** Ahead of ordering a sail, the question arose again whether slow tacking traces to an undersized forward ("jib") portion of the sail and whether moving the halyard attachment aft would help — the resolution turning on center of effort, rudder stall, and telltale placement as the real tacking variables, alongside a heavy-displacement/full-keel perspective on the same question. See [sailing characteristics — center of effort, rudder stall, and telltale placement as the real tacking variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
+- **Sailmaking, and the yuloh's real reason for curving.** Sails are not homemade, following the example of sailmaking "guru" Sven Yrvind; Yrvind's explanation of why the yuloh's blade is curved at all — to shift its center of rotation to the far side of its own longitudinal axis. See [rig and sail — sail pricing](/design/rig.md#sail-pricing) and [yuloh and stowed-rig retention — building the yuloh itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
+- **The chine-runner curve question, worked and eventually resolved.** Whether the chine runners' upward-curving outer edge has a genuine hydrodynamic function, versus being a cosmetic or fabrication artifact, became a live puzzle when reproducing the curve in sheet metal for a 2 mm, 70 kg bronze bottom plate (glued on with an elastic epoxy filler and no mechanical fasteners, bronze chosen over stainless steel for its lightning-grounding ability). Three failed approaches were worked through in sequence — hand-forming the curve around a pattern (put in doubt by a work-hardening risk), grinding and bonding on a separately curved strip, and laminating up offcut strips (ruled out since the divinycell core cannot take welding heat) — and scrap bronze was tested to confirm the metal itself was not brittle, the real obstacle being that 2 mm gauge is simply thick to bend by hand. Also raised was whether the plans' drawn "downward convexity" curve might actually make sideways-tripping easier than the opposite ("upward") curve would, a laminar/turbulent-flow question that was never conclusively answered. The question was ultimately closed the practical way: the bronze sheet was cut straight, omitting the drawn curvature entirely, with no apparent ill effect. See [chine runners — how they work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature) and [chine runner construction — bronze versus steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+- **A rudder-fitting rework and a fiberglass tiller.** Rudder fittings were reworked after installing the main bronze rod askew, and a tiller was built from fiberglass and epoxy (having first tried carbon fiber) rather than wood. See [the "BRIS Paradox" — a rudder-fitting rework, and a fiberglass tiller](/boats/bris-paradox.md#a-rudder-fitting-rework-and-a-fiberglass-tiller).
+- **Bonding metal with elastic epoxy rather than fastening it.** Epoxy essentially will not adhere to stainless steel, but a builder of the related "Sofia" design gets a lasting bond onto stainless anyway by grinding heavily and applying an elastic filler within seconds — a bond that outlasted the polyester laminate beneath it when tested years later. Bronze poses no comparable gluing problem, but the same elastic-bond practice was followed regardless. See [chine runner construction technique — bronze versus steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+- **A polyester-lamination cautionary tale.** 240 g/m² polyester cloth proved workable on smooth surfaces but "tricky round angles" on a sharpie hull — a first attempt at laminating the outside became "just a mess" after two layers, salvaged only with a professional painter's help. A thinner cloth is recommended for a first attempt, and an extra-thin fiberglass layer over sanded polyester (which goes "fluffy, like velvet") saves on filler. See [epoxy pre-coating technique — polyester resin versus epoxy](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy).
+- **Further BRIS build milestones.** Later stages included recutting the aft baffle after it was mounted too steep; fitting a stainless-steel stem tube in place of the plans' fastening loop (on Sven Yrvind's own suggestion, since a loop would not grip well in the Divinycell core); building the roof with its support pools laid first for strength, fitted over an already-painted interior, with the divinycell core ground away and filled along each free deck edge to give the window openings solid material to screw into; and test-fitting polycarbonate window glazing, which behaved as "funny stuff" under fitting. Weighed complete except mast, boom, yard, and battery, the hull (including its 70 kg bronze bottom plate) came to 326 kg — an estimated 100 kg or so heavier than an equivalent plywood hull. A fellow Swedish sailor crossed the Atlantic in a separate BRIS-hulled boat. See [the "BRIS Paradox" — a stainless-steel stem tube in place of a fastening loop](/boats/bris-paradox.md#a-stainless-steel-stem-tube-in-place-of-a-fastening-loop), [a further round of roof and window progress](/boats/bris-paradox.md#a-further-round-of-roof-and-window-progress), [window test-fitting in polycarbonate](/boats/bris-paradox.md#window-test-fitting-in-polycarbonate), [a further "ParaPlastic" photo update](/boats/bris-paradox.md#a-further-paraplastic-photo-update), and [weight, ballast, and displacement — "BRIS Paradox," as-weighed](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates). Two questions from this stage went unanswered in the archive: how other builders route a solar panel's cable into the cabin, and whether Matt Layden's masthead drawing really does route the halyard's deck hole aft of the mast, twisting the halyard a quarter-turn. See [running lights — solar-panel cable entrance through the deck or window](/operations/running-lights.md#solar-panel-cable-entrance-through-the-deck-or-window) and [rig and sail — why the masthead halyard hole sits aft of the mast, twisting the halyard a quarter-turn](/design/rig.md#why-the-masthead-halyard-hole-sits-aft-of-the-mast-twisting-the-halyard-a-quarter-turn).
+- **A Swedish LED-lamp lead.** A Swedish supplier, `mitron.se/SURE-E/a-lite.html`, offered a lamp closer to a genuinely boat-designed LED unit than the off-the-shelf bicycle lamps otherwise under discussion. See [running lights — off-the-shelf LED sources for a boat-tent light](/operations/running-lights.md#off-the-shelf-led-sources-for-a-boat-tent-light).
+- **A "senior testimony" on age and boat size.** At 56, with the Paradox expected ready to sail that summer, this build stood as reassurance that starting a Paradox build later in life is not unreasonable. See [first-boat suitability — age, and the case for going smaller rather than larger](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger).
+- **Layup materials and chine-runner attachment, restated.** The BRIS method's fibreglass/epoxy-inside, polyester/epoxy-outside, divinycell-core layup and the bronze-sheet-plus-fibreglass-putty chine runners were confirmed for a newcomer considering the same construction. See [the "BRIS Paradox" — layup materials and chine-runner attachment for a foam-core hull, revisited](/boats/bris-paradox.md#layup-materials-and-chine-runner-attachment-for-a-foam-core-hull-revisited).
+- **A budget-build comparison.** On seeing a fellow builder's cost-minimizing project, it would be worth comparing the two boats later for functional differences, since this considerably costlier composite build was pursuing "the opposite" approach. See [building plans — source and cost](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+- **First launch, and a rudder buoyancy problem.** The BRIS Paradox was launched twice without yet sailing her, discovering on the second launch that the rudder floated rather than sinking as designed — solved for the moment with a leftover bronze cladding rather than the lead insert hoped for. See [the "BRIS Paradox" — first launch, and a rudder that would not stay down](/boats/bris-paradox.md#first-launch-and-a-rudder-that-would-not-stay-down).
+- **First sail, and a topping-lift fix for heavy hoisting.** Sailed for the first time in 21 years, single-handed on a nearby lake, loaded with the bronze bottom sheet, a battery, and loose scrap lead as ballast — stiff and stable even riding above her designed waterline. A "much too heavy" hoisting/reefing feel traced to having omitted a topping lift at the mast-building stage, fixed with two fixed lift lines set to keep the boom/yard just clear of full hoist height. See [the "BRIS Paradox" — first sail, and a topping-lift solution to heavy hoisting/reefing](/boats/bris-paradox.md#first-sail-and-a-topping-lift-solution-to-heavy-hoistingreefing).
+- **Sailing grounds, and a Baltic-states dream.** Sailing out of the Stockholm archipelago, the BRIS Paradox's shallow draft opens up grounds a previous, deeper-draft boat could not reach; a long-held ambition is to sail to the Baltic states, particularly Estonia. See [the "BRIS Paradox" — sailing grounds: the Stockholm archipelago, and a Baltic-states dream](/boats/bris-paradox.md#sailing-grounds-the-stockholm-archipelago-and-a-baltic-states-dream).
+- **A finished bronze rudder, a boom-taper reefing question, and a rough weekend sail.** The rudder was finished with 4 kg of bronze edge cladding; the reefing-triangle/boom-taper question was raised on [rig and sail](/design/rig.md#rolling-boom-and-sail-foot); and a rough short sail in unexpectedly gusty wind drifted the boat into reeds and buckled a trailer fender while hauling out. See [the "BRIS Paradox" — the finished rudder, and a gusty-weekend sail that ended badly](/boats/bris-paradox.md#the-finished-rudder-and-a-gusty-weekend-sail-that-ended-badly).
+- **A composite-build progress inquiry, left unanswered.** A newcomer interested in building in foam rather than plywood asked how much sailing had been done since completing the BRIS Paradox, and for the scantlings behind the foam construction — foam thickness and number of glass layers — with no reply on record.[60]
 
 # Citations
 

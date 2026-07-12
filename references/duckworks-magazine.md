@@ -8,14 +8,9 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Duckworks Magazine
 
-**Duckworks Magazine** is an online magazine for small-boat and amateur
-boatbuilders, associated with [Chuck Leinweber](/people/chuck-leinweber.md).
+**Duckworks Magazine** is an online magazine for small-boat and amateur boatbuilders.
 
-It intersects the Paradox community as an outlet for builders' tips: Chuck
-sought and received permission to reprint
-[Glen C. Maxwell](/people/glen-maxwell.md)'s
-[bottom-painting-over-epoxy technique](/construction/bottom-painting.md) in
-Duckworks in 2001.
+It intersects the Paradox community as an outlet for builders' tips: permission was sought and granted to reprint a [bottom-painting-over-epoxy technique](/construction/bottom-painting.md) in Duckworks in 2001.
 
 # Citations
 

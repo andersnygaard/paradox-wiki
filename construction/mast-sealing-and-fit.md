@@ -8,110 +8,42 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Mast interior sealing and anchor-light fit
 
-Practical build lessons from finishing the [Paradox](/paradox.md)'s hollow
-wooden mast.
+Practical build lessons from finishing the [Paradox](/paradox.md)'s hollow wooden mast.
 
 ## Sealing the inside of the mast
 
-Before closing up a hollow wooden mast, the inside should be coated with a
-**couple of coats of epoxy**, in case any moisture ever gets in. This matches
-the general all-epoxy-encapsulation approach used elsewhere on the boat (see
-[fastening and gluing](/construction/fastening-and-gluing.md) and
-[hull planking](/construction/hull-planking.md)).
+Before closing up a hollow wooden mast, the inside should be coated with a **couple of coats of epoxy**, in case any moisture ever gets in. This matches the general all-epoxy-encapsulation approach used elsewhere on the boat (see [fastening and gluing](/construction/fastening-and-gluing.md) and [hull planking](/construction/hull-planking.md)).
 
 ## Anchor-light height not accounted for in the plans
 
-A fit problem can surface only after the mast is completely finished: once
-built to the plans' dimensions and fitted with a masthead **anchor light**,
-the mast may prove too long by the anchor light's added height to stow inside
-the boat (through the partners/vent trunk — see
-[mast partners](/design/mast-partners.md)) with the inspection port closed for
-trailering. On "[Zoë](/people/glen-maxwell.md)" the finished mast came out
-about **1½ inches too long**, despite measurements checking out "bang on"
-against the plans — the **anchor light's height was not accounted for in the
-drawings**. Too late to shorten the finished mast, the workaround was to leave
-the **inspection plate off** and wrap **foam around the light**, meaning the
-inspection port could not be fully closed for trailering as hoped. The
-takeaway for other builders: check that the mast, with masthead fittings
-installed, will actually fit and allow the inspection port to close, before
-assuming the plans' dimensions are final.
+A fit problem can surface only after the mast is completely finished: once built to the plans' dimensions and fitted with a masthead **anchor light**, the mast may prove too long by the anchor light's added height to stow inside the boat (through the partners/vent trunk — see [mast partners](/design/mast-partners.md)) with the inspection port closed for trailering. On one boat the finished mast came out about **1½ inches too long**, despite measurements checking out "bang on" against the plans — the **anchor light's height was not accounted for in the drawings**. Too late to shorten the finished mast, the workaround was to leave the **inspection plate off** and wrap **foam around the light**, meaning the inspection port could not be fully closed for trailering as hoped. The takeaway for other builders: check that the mast, with masthead fittings installed, will actually fit and allow the inspection port to close, before assuming the plans' dimensions are final.
 
 ## The fix, and practical spar-stowage advice
 
-The clearance problem is fixable after the fact: **cut away some of the
-reinforcement structure on the inside of the inspection port**, which frees
-enough room to stow the mast (anchor light and all) inside the boat.
+The clearance problem is fixable after the fact: **cut away some of the reinforcement structure on the inside of the inspection port**, which frees enough room to stow the mast (anchor light and all) inside the boat.
 
-On the broader question of **whether it is worth stowing spars inside the
-boat at all**:
+On the broader question of **whether it is worth stowing spars inside the boat at all**:
 
-- In day-to-day use, it's **easier to simply carry the spars in the truck**,
-  taking them out and installing them at each launch, rather than stowing
-  them inside the hull.
-- If **storing the boat** or **trailing a great distance**, stow the spars
-  inside instead, so everything travels with the boat.
-- A practical trade-off either way: stowing the spars inside means
-  **climbing in and out of the boat a couple of times** at each
-  launch/retrieval to load and unload them — a few steps can be saved by
-  leaving them out of the hull for routine use.
-- Leave the **inspection port cover off** entirely (rather than reinstalling
-  it once the spars are out) for the sake of ventilation, with one exception:
-  refit the cover when expecting a **following sea slamming into the
-  stern** — for example on a **Gulf Stream crossing**. In rain, with the main
-  hatch closed, a sailor will be "really thankful" the inspection port is
-  open for airflow.
+- In day-to-day use, it's **easier to simply carry the spars in the truck**, taking them out and installing them at each launch, rather than stowing them inside the hull.
+- If **storing the boat** or **trailing a great distance**, stow the spars inside instead, so everything travels with the boat.
+- A practical trade-off either way: stowing the spars inside means **climbing in and out of the boat a couple of times** at each launch/retrieval to load and unload them — a few steps can be saved by leaving them out of the hull for routine use.
+- Leave the **inspection port cover off** entirely (rather than reinstalling it once the spars are out) for the sake of ventilation, with one exception: refit the cover when expecting a **following sea slamming into the stern** — for example on a **Gulf Stream crossing**. In rain, with the main hatch closed, a sailor will be "really thankful" the inspection port is open for airflow.
 
-This is a second, independent Gulf Stream reference point (alongside the
-[Gulf Stream/Catalina comparison](/operations/southern-california-and-catalina-crossing.md))
-for the Gulf Stream crossing's role as a standard blue-water benchmark for the
-Paradox — see [blue-water suitability](/design/blue-water-suitability.md).
+This is a second, independent Gulf Stream reference point (alongside the [Gulf Stream/Catalina comparison](/operations/southern-california-and-catalina-crossing.md)) for the Gulf Stream crossing's role as a standard blue-water benchmark for the Paradox — see [blue-water suitability](/design/blue-water-suitability.md).
 
 ## Protecting the mast where it passes through the deck partners
 
-Where the mast passes through the hole in the deck **partners**, a snug,
-well-coated fit is normally adequate on its own — the epoxy/glass coating on
-both the mast and the hole, kept tight, is enough to prevent wear. On
-"[Whisper](/boats/whisper.md)" a **tight fit** shows **no problems** with the
-mast wearing around the opening, with even the (latex) paint showing no sign
-of wear.
+Where the mast passes through the hole in the deck **partners**, a snug, well-coated fit is normally adequate on its own — the epoxy/glass coating on both the mast and the hole, kept tight, is enough to prevent wear. On "[Whisper](/boats/whisper.md)" a **tight fit** shows **no problems** with the mast wearing around the opening, with even the (latex) paint showing no sign of wear.
 
-A **leather collar** is a viable optional refinement or fallback where the fit
-is imperfect: on "[Zoë](/people/glen-maxwell.md)" a piece of leather was
-epoxied around the mast where it passes through the partners specifically
-**"to keep the mast quite"** (quiet — i.e. to stop it rattling or working
-against the hole), and it **"has worked well."** The recommended approach is
-to **aim for a tight fit first**, keeping leather in reserve as a fix if the
-fit turns out imperfect. See [Little Jim](/boats/little-jim.md) for this
-stage of the build, and
-[panel layout and nesting](/construction/panel-layout.md) for a related
-layout question from the same build stage.
+A **leather collar** is a viable optional refinement or fallback where the fit is imperfect: on one boat a piece of leather was epoxied around the mast where it passes through the partners specifically **"to keep the mast quite"** (quiet — i.e. to stop it rattling or working against the hole), and it **"has worked well."** The recommended approach is to **aim for a tight fit first**, keeping leather in reserve as a fix if the fit turns out imperfect. See [Little Jim](/boats/little-jim.md) for this stage of the build, and [panel layout and nesting](/construction/panel-layout.md) for a related layout question from the same build stage.
 
 ## Mast-heel play and its cost to windward performance
 
-A separate mast-fit issue: roughly **3/16 in of side-to-side play at the
-mast's heel** (where it steps) — a small figure that, by simple leverage,
-works out to about **4 in of movement at the masthead**. On
-"[Zoë](/people/glen-maxwell/build-and-zoe.md)" this play was suspected of
-**hindering windward performance** during the same cruise's
-chine-runner-vindicating short-tacking session (see
-[chine runners and windward performance — a builder's field confirmation](/chine-runners/windward-performance.md))
-and, separately, of causing the **anchor light's hot filament to break** from
-masthead whipping on one tack. **Shimming** the mast heel is the fix — a
-mast-fit lesson tied to a specific, measured performance and equipment cost
-(lost pointing ability, a broken anchor-light filament) rather than mere
-stowage inconvenience.
+A separate mast-fit issue: roughly **3/16 in of side-to-side play at the mast's heel** (where it steps) — a small figure that, by simple leverage, works out to about **4 in of movement at the masthead**. On one boat this play was suspected of **hindering windward performance** during the same cruise's chine-runner-vindicating short-tacking session (see [chine runners and windward performance — a builder's field confirmation](/chine-runners/windward-performance.md)) and, separately, of causing the **anchor light's hot filament to break** from masthead whipping on one tack. **Shimming** the mast heel is the fix — a mast-fit lesson tied to a specific, measured performance and equipment cost (lost pointing ability, a broken anchor-light filament) rather than mere stowage inconvenience.
 
 ## Carbon fiber in the mast — an idea considered but dropped
 
-When [Matt Layden](/matt-layden/biography.md) was first building the original
-Paradox, he considered using **carbon fiber** in the wooden mast's
-construction — initially hoping to run **carbon tow inside the staves** of
-the hollow, stave-built mast. In the end he built a **plain wood mast**
-instead, for simplicity. Whether carbon reinforcement could have saved weight
-aloft while also producing a stronger mast remains an open question: no build
-or test of the idea is recorded in the archive, so it stands as an abandoned,
-undeveloped idea from the design's early history, not a documented Paradox
-construction technique.
+When [Matt Layden](/matt-layden/biography.md) was first building the original Paradox, he considered using **carbon fiber** in the wooden mast's construction — initially hoping to run **carbon tow inside the staves** of the hollow, stave-built mast. In the end he built a **plain wood mast** instead, for simplicity. Whether carbon reinforcement could have saved weight aloft while also producing a stronger mast remains an open question: no build or test of the idea is recorded in the archive, so it stands as an abandoned, undeveloped idea from the design's early history, not a documented Paradox construction technique.
 
 # Citations
 

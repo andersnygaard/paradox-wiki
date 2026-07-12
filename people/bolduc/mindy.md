@@ -8,62 +8,23 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Mindy Bolduc
 
-*Part of the [Bolduc](/people/bolduc.md) record — see also her cruising partner
-[Dave Bolduc](/people/bolduc/dave.md) and the couple's shared
-[Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md).*
+*Part of the [Bolduc](/people/bolduc.md) record — see also her cruising partner [Dave Bolduc](/people/bolduc/dave.md) and the couple's shared [Matt Layden firsthand record](/people/bolduc/matt-layden-authority.md).*
 
-**Mindy Bolduc** is a pharmacist and the cruising partner of
-[Dave Bolduc](/people/bolduc/dave.md), distributor of the
-[Paradox building plans](/references/building-plans.md). With Dave (a
-carpenter), she crewed roughly six two-up winter cruises to the Bahamas aboard
-[Little Cruiser](/matt-layden/little-cruiser.md) — averaging about 800 miles
-sailed over 2.5-month cruises — making her a firsthand voice in the
-[microcruising.com](/references/microcruising-website.md) record of Layden-boat
-cruising. Small in stature, she is a co-skipper rather than passenger, and one
-of the two-person team behind the family's most-documented Paradox-adjacent
-cruising.
+**Mindy Bolduc** is a pharmacist and the cruising partner of [Dave Bolduc](/people/bolduc/dave.md), distributor of the [Paradox building plans](/references/building-plans.md). With Dave (a carpenter), she crewed roughly six two-up winter cruises to the Bahamas aboard [Little Cruiser](/matt-layden/little-cruiser.md) — averaging about 800 miles sailed over 2.5-month cruises — a firsthand voice in the [microcruising.com](/references/microcruising-website.md) record of Layden-boat cruising. Small in stature, she is a co-skipper rather than passenger, and one of the two-person team behind the family's most-documented Paradox-adjacent cruising.
 
 # Cruising authority and stories
 
-- **Co-skipper on the Bahamas crossings.** The Florida-to-Bahamas cruises are
-  documented as a shared undertaking; the couple had made seven Gulf Stream
-  crossings by the time of an early-2000s account. The full cruise narrative
-  lives on the boat page — see [Little Cruiser](/matt-layden/little-cruiser.md).
-- **Helmed a severe overnight gale.** On the 75-nautical-mile Chub Cay-to-Bimini
-  passage (1993), a cold front built the wind from 15-20 kt to at least 40 kt
-  overnight; Little Cruiser held hull speed (5 kt) downwind under a deep reef,
-  surfing regularly in breaking seas. When Dave became too seasick to steer,
-  Mindy took the helm and saw the boat through the remainder of the 17-hour
-  passage — see [heavy-weather tactics](/operations/heavy-weather-tactics.md).
-- **Baked bread with Matt Layden in the Bahamas.** During the 1994 joint cruise
-  with [Matt Layden](/matt-layden/biography.md) sailing the original Paradox
-  alongside Little Cruiser, Mindy and Matt baked two loaves on Paradox's tiny
-  kerosene stove at a Warderick Wells potluck (Exuma Land & Sea Park).
-- **Trim-and-ballast practice.** The Bolducs kept heavy gear amidships, shifting
-  it forward when beating and aft when running downwind in heavy air — a joint,
-  point-of-sail-dependent practice aboard Little Cruiser, not Dave's alone; see
-  [sailing characteristics and rig balance](/operations/sailing-characteristics.md).
-- **Wrote the 2006 Outer Banks trip report.** With no vacation time for the
-  Bahamas that year, the couple cruised North Carolina's Outer Banks (Core,
-  Pamlico, Croatan, Roanoke, and Albemarle Sounds and the Neuse River) in Little
-  Cruiser; the resulting "Cruising The OBX" report is signed "MINDY," confirming
-  she authored it.
+- **Co-skipper on the Bahamas crossings.** The Florida-to-Bahamas cruises are documented as a shared undertaking; the couple had made seven Gulf Stream crossings by the time of an early-2000s account. The full cruise narrative lives on the boat page — see [Little Cruiser](/matt-layden/little-cruiser.md).
+- **Helmed a severe overnight gale.** On the 75-nautical-mile Chub Cay-to-Bimini passage (1993), a cold front built the wind from 15-20 kt to at least 40 kt overnight; Little Cruiser held hull speed (5 kt) downwind under a deep reef, surfing regularly in breaking seas. When Dave became too seasick to steer, Mindy took the helm and saw the boat through the remainder of the 17-hour passage — see [heavy-weather tactics](/operations/heavy-weather-tactics.md).
+- **Baked bread with Matt Layden in the Bahamas.** During the 1994 joint cruise with [Matt Layden](/matt-layden/biography.md) sailing the original Paradox alongside Little Cruiser, Mindy and Matt baked two loaves on Paradox's tiny kerosene stove at a Warderick Wells potluck (Exuma Land & Sea Park).
+- **Trim-and-ballast practice.** Heavy gear was kept amidships, shifted forward when beating and aft when running downwind in heavy air — a joint, point-of-sail-dependent practice aboard Little Cruiser, not Dave's alone; see [sailing characteristics and rig balance](/operations/sailing-characteristics.md).
+- **Wrote the 2006 Outer Banks trip report.** With no vacation time for the Bahamas that year, the couple cruised North Carolina's Outer Banks (Core, Pamlico, Croatan, Roanoke, and Albemarle Sounds and the Neuse River) in Little Cruiser; the resulting "Cruising The OBX" report is signed "MINDY," confirming she authored it.
 
-Her small stature (on the order of 5'3"-5'6") is a recurring detail in accounts
-of how tightly two adults fit into a cabin sized for a single-hander — see
-[crew size and cabin fit](/operations/crew-size-and-fit.md).
+Her small stature (on the order of 5'3"-5'6") is a recurring detail in accounts of how tightly two adults fit into a cabin sized for a single-hander — see [crew size and cabin fit](/operations/crew-size-and-fit.md).
 
 # Biography
 
-A pharmacist by profession, Mindy had known Dave for 14 years as of a 2001
-*Cruising World* profile. She did not join every trip: a planned 2009 return to
-Cedar Key was called off after she injured her foot, and Dave attended the 2019
-gathering alone while she stayed home for work. Her father, Alan Hart, who died
-in October 2009 at 70, had supported the couple's winter Bahamas cruises by
-"taking care of things back home." Dave's seventh Bahamas trip — a six-week,
-engine-free, single-handed 2013 voyage aboard the smaller sharpie "Enigma" —
-was made without her; the prior six had been sailed together aboard Little
-Cruiser.
+A pharmacist by profession, Mindy had known Dave for 14 years as of a 2001 *Cruising World* profile. She did not join every trip: a planned 2009 return to Cedar Key was called off after she injured her foot, and Dave attended the 2019 gathering alone while she stayed home for work. Her father, Alan Hart, who died in October 2009 at 70, had supported the couple's winter Bahamas cruises by "taking care of things back home." Dave's seventh Bahamas trip — a six-week, engine-free, single-handed 2013 voyage aboard the smaller sharpie "Enigma" — was made without her; the prior six had been sailed together aboard Little Cruiser.
 
 # Citations
 

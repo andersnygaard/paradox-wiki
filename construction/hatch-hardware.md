@@ -8,69 +8,29 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Hatch hardware and security
 
-The Paradox's enclosed cabin is normally secured from inside while
-underway, but builders wanting to lock the boat up when ashore need a hasp
-fitted to the main hatch — and a wrongly oriented hasp creates a real
-hazard.
+The Paradox's enclosed cabin is normally secured from inside while underway, but builders wanting to lock the boat up when ashore need a hasp fitted to the main hatch — and a wrongly oriented hasp creates a real hazard.
 
 ## Orient the hinge on the aft window, not the hatch itself
 
-A hasp's hinged half must always be mounted on the **aft window**, never on
-the **hatch** itself. If the parts are reversed and everything lines up
-correctly, a sailor closing the hatch from inside can accidentally **lock
-himself in** — a real hazard in hot weather, where the closed cabin heats
-quickly until someone comes along to let him out. This is not a theoretical
-risk: it has genuinely happened.
+A hasp's hinged half must always be mounted on the **aft window**, never on the **hatch** itself. If the parts are reversed and everything lines up correctly, a sailor closing the hatch from inside can accidentally **lock himself in** — a real hazard in hot weather, where the closed cabin heats quickly until someone comes along to let him out. This is not a theoretical risk: it has genuinely happened.
 
 ## A padlock-through-the-hatch-rail alternative
 
-A simpler alternative sidesteps the hinge-orientation hazard entirely:
-drill a hole through the **hatch rail**, parallel to the deck and just in
-front of the closed hatch, and secure the boat by popping a **padlock**
-through the hole. With no hinged part at all, there is no orientation to get
-wrong, and the sailor cannot be locked in by accident while asleep.
+A simpler alternative sidesteps the hinge-orientation hazard entirely: drill a hole through the **hatch rail**, parallel to the deck and just in front of the closed hatch, and secure the boat by popping a **padlock** through the hole. With no hinged part at all, there is no orientation to get wrong, and the sailor cannot be locked in by accident while asleep.
 
 ## Wood-on-wood friction, and a wax fix
 
-A separate, more common complaint than the locking hazard above is simple
-**sliding friction**: a hatch built wood-on-wood and painted can be stiffer
-to slide open and closed than a builder would like. The standard fix is to
-take the hatch off its rails and wax them well with **carnauba wax** — the
-same product that works well on saw tables, and generally useful anywhere
-two surfaces need to slide easily without resorting to oil.
+A separate, more common complaint than the locking hazard above is simple **sliding friction**: a hatch built wood-on-wood and painted can be stiffer to slide open and closed than a builder would like. The standard fix is to take the hatch off its rails and wax them well with **carnauba wax** — the same product that works well on saw tables, and generally useful anywhere two surfaces need to slide easily without resorting to oil.
 
-Waxing helps but is not always a complete cure. Even with waxed runners, a
-hatch can still open in jerks rather than gliding freely — getting the hatch
-to move smoothly can be one of the most difficult parts of the whole build —
-pointing to rebuilding the runners in **aluminium extrusion** as the real
-long-term fix rather than wood-on-wood.
+Waxing helps but is not always a complete cure. Even with waxed runners, a hatch can still open in jerks rather than gliding freely — getting the hatch to move smoothly can be one of the most difficult parts of the whole build — pointing to rebuilding the runners in **aluminium extrusion** as the real long-term fix rather than wood-on-wood.
 
 ## Refitting a too-sloppy or wracking hatch
 
-A wood-on-wood sliding hatch that runs too loosely, or wracks in its rails,
-calls for a different fitting technique: it should have a little play built
-in from the start, but not so much that it wracks. Stick adhesive-backed
-sandpaper to the fixed surface (the plywood rail) and slide the hatch back
-and forth across it until the fit loosens up the right amount, repeating on
-whichever additional faces need it for smooth movement in every plane; leave
-enough extra clearance to allow for the thickness paint will later add. Hard
-**paraffin canning wax** works well for drawer runners, hatch slides, and
-sliding locker doors generally.
+A wood-on-wood sliding hatch that runs too loosely, or wracks in its rails, calls for a different fitting technique: it should have a little play built in from the start, but not so much that it wracks. Stick adhesive-backed sandpaper to the fixed surface (the plywood rail) and slide the hatch back and forth across it until the fit loosens up the right amount, repeating on whichever additional faces need it for smooth movement in every plane; leave enough extra clearance to allow for the thickness paint will later add. Hard **paraffin canning wax** works well for drawer runners, hatch slides, and sliding locker doors generally.
 
 ## A formica wear-surface fix for a foam-lined hatch
 
-The plans call for the hatch's foam lining to run directly against the
-upstand rimming the hatch aperture (sheet 5) — a detail that seals the hatch
-well but wears the foam itself over time. Tried remedies, in rough order of
-durability: PTFE tape (rucked up quickly), brown parcel tape (lasted about
-half a season), and finally strips of **formica edging**, of the kind sold
-for finishing kitchen worktops, stuck to the foam with double-sided tape.
-The formica cured the sticking problem entirely and let the lid slide much
-more smoothly, at some cost to the watertightness of the foam seal; thin
-enough brass strip was considered as a further alternative but could not be
-sourced. A nylon curtain rail, of the type once sold under the "Swish"
-brand, was separately suggested as another low-friction running surface
-worth trying.
+The plans call for the hatch's foam lining to run directly against the upstand rimming the hatch aperture (sheet 5) — a detail that seals the hatch well but wears the foam itself over time. Tried remedies, in rough order of durability: PTFE tape (rucked up quickly), brown parcel tape (lasted about half a season), and finally strips of **formica edging**, of the kind sold for finishing kitchen worktops, stuck to the foam with double-sided tape. The formica cured the sticking problem entirely and let the lid slide much more smoothly, at some cost to the watertightness of the foam seal; thin enough brass strip was considered as a further alternative but could not be sourced. A nylon curtain rail, of the type once sold under the "Swish" brand, was separately suggested as another low-friction running surface worth trying.
 
 # Citations
 

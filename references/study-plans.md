@@ -8,63 +8,27 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Study Plans
 
-An introductory set of **Study Plans** for the Paradox was shared early in the
-community's history via the [mailing list](/references/mailing-list.md) files
-area, including a "Description of Study Plans" document guiding readers
-through the study-plan files.
+An introductory set of **Study Plans** for the Paradox was shared early in the community's history via the [mailing list](/references/mailing-list.md) files area, including a "Description of Study Plans" document guiding readers through the study-plan files.
 
-Study plans are a preliminary/overview package (distinct from the full building
-plans), typically used to evaluate a design before committing to a build. For
-the full [building plans](/references/building-plans.md) — where to buy them and
-their price — see that concept.
+Study plans are a preliminary/overview package (distinct from the full building plans), typically used to evaluate a design before committing to a build. For the full [building plans](/references/building-plans.md) — where to buy them and their price — see that concept.
 
 ## The "Bris 5.4 Study Plans" folder
 
-Separately from Paradox's own study plans, the group's Files area also holds
-a **"Bris 5.4 Study Plans"** folder — material related to Sven Yrvind's Bris
-5.4 design (see
-[blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md)),
-including an uploaded photo of a small rowing boat.
+Separately from Paradox's own study plans, the group's Files area also holds a **"Bris 5.4 Study Plans"** folder — material related to Sven Yrvind's Bris 5.4 design (see [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md)), including an uploaded photo of a small rowing boat.
 
 ### Mast and daggerboard placement questioned on the Bris 5.4
 
-The Bris 5.4's layout, as shown in those study plans, is unusual: the
-**mast sits much further aft than usual**, with **no visible backstay** to
-keep the headstay taut, while the **daggerboard** is placed close to the
-mast rather than well forward. Combined with the **rudder also acting as a
-lateral plane**, the design puts lateral resistance at both bow and stern —
-an arrangement that "seems weird" on its face but is consistent with
-Yrvind's track record of unconventional solutions that work. The exposed
-daggerboard is also vulnerable to underwater strikes.
+The Bris 5.4's layout, as shown in those study plans, is unusual: the **mast sits much further aft than usual**, with **no visible backstay** to keep the headstay taut, while the **daggerboard** is placed close to the mast rather than well forward. Combined with the **rudder also acting as a lateral plane**, the design puts lateral resistance at both bow and stern — an arrangement that "seems weird" on its face but is consistent with Yrvind's track record of unconventional solutions that work. The exposed daggerboard is also vulnerable to underwater strikes.
 
-A Phil Bolger precedent exists for balancing a boat's ends this way: some
-Bolger designs place the mast near the aft end of the hull, with a jib-like
-sail running forward of it. The method is nonetheless questionable in
-general — the daggerboard and rudder would be expected to come clear of the
-water at high heel angles, particularly on a double-ended hull — though
-this may matter less on as small, low-powered, and narrow a boat as the
-Bris 5.4. By comparison, Paradox's own large rudder already contributes
-meaningfully to her lateral plane.
+A Phil Bolger precedent exists for balancing a boat's ends this way: some Bolger designs place the mast near the aft end of the hull, with a jib-like sail running forward of it. The method is nonetheless questionable in general — the daggerboard and rudder would be expected to come clear of the water at high heel angles, particularly on a double-ended hull — though this may matter less on as small, low-powered, and narrow a boat as the Bris 5.4. By comparison, Paradox's own large rudder already contributes meaningfully to her lateral plane.
 
 ### A note on names: "BRIS" the composite method vs. "Bris 5.4" the hull design
 
-The BRIS name covers two related but distinct things in this archive: the
-**foam-sandwich composite building method** Sven Yrvind developed (see
-[Kjell Karlsson's "BRIS Paradox"](/boats/bris-paradox.md), which uses the
-method to build an actual Paradox), and **"Bris 5.4,"** a specific Yrvind
-hull design in its own right, unrelated to Paradox's own hull form, whose
-study plans and mast/daggerboard layout are the subject of this section.
+The BRIS name covers two related but distinct things in this archive: the **foam-sandwich composite building method** Sven Yrvind developed (see the ["BRIS Paradox"](/boats/bris-paradox.md), an actual Paradox built using the method), and **"Bris 5.4,"** a specific Yrvind hull design in its own right, unrelated to Paradox's own hull form, whose study plans and mast/daggerboard layout are the subject of this section.
 
 ## Study plans and sketches on microcruising.com
 
-[Dave Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) also hosts a set of
-Paradox study-plan images and a page of [Don Elliott](/people/don-elliott.md)'s
-Paradox construction sketches. Both are explicitly **for inspiration only**: the
-study-plan page states they "are presented here soley for inspiration… not
-intended to be used to build another Paradox," directing anyone who wants to
-build to email for "a proper set of plans" (i.e. the real
-[building plans](/references/building-plans.md), sold by Dave Bolduc).
+[microcruising.com](/references/microcruising-website.md) hosts a set of Paradox study-plan images and a page of Paradox construction sketches. Both are explicitly **for inspiration only**: the study-plan page states they "are presented here soley for inspiration… not intended to be used to build another Paradox," directing anyone who wants to build to email for "a proper set of plans" (i.e. the real [building plans](/references/building-plans.md)).
 
 # Citations
 

@@ -8,10 +8,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Paradox building plans
 
-The full **building plans** for the [Paradox](/paradox.md) (distinct from the
-introductory [Study Plans](/references/study-plans.md)) have, since at least
-July 2001, been distributed by **Dave Bolduc** — the only person authorized
-to sell Paradox plans.
+The full **building plans** for the [Paradox](/paradox.md) (distinct from the introductory [Study Plans](/references/study-plans.md)) have, since at least July 2001, been distributed by a single authorized seller, the only person authorized to sell Paradox plans.
 
 ## Source and cost
 
@@ -23,719 +20,136 @@ to sell Paradox plans.
 | Web | `http://home.triad.rr.com/lcruise/paradox1.htm`, later `http://www.microcruising.com/` |
 | Price | **$35 US**, including a build CD showing how to build the boat |
 
-The plans are the authoritative document builders are urged to follow (see
-[fastening and gluing](/construction/fastening-and-gluing.md) and
-[hull scantlings](/design/hull-scantlings.md), which quote the plan sheets).
-For the plywood quantities the plans call for, see the
-[plywood bill of materials](/design/hull-scantlings.md).
+The plans are the authoritative document builders are urged to follow (see [fastening and gluing](/construction/fastening-and-gluing.md) and [hull scantlings](/design/hull-scantlings.md), which quote the plan sheets). For the plywood quantities the plans call for, see the [plywood bill of materials](/design/hull-scantlings.md).
 
-This was, by a wide margin, the most frequently recurring question in the
-archive: newcomers asked where to buy plans at least nineteen times between
-July 2001 and June 2003, and the answer was consistently **Dave Bolduc**, at a
-consistently-remembered but occasionally-hedged **$35 US**. Contact details
-stayed essentially unchanged across the whole period — Dave Bolduc's e-mail
-(`mbolduc@triad.rr.com`) and website — while the referenced URL shifted over
-time from `home.triad.rr.com/lcruise` to `microcruising.com`, and the
-[Micro Cruising group](/references/micro-cruising-group.md), which Dave
-moderates, was repeatedly offered as a source of further photos and files on
-small cruisers generally.
+This was, by a wide margin, the most frequently recurring question in the archive: newcomers asked where to buy plans at least nineteen times between July 2001 and June 2003, and the answer was consistently the same authorized seller, at a consistently-remembered but occasionally-hedged **$35 US**. Contact details stayed essentially unchanged across the whole period — an e-mail address (`mbolduc@triad.rr.com`) and website — while the referenced URL shifted over time from `home.triad.rr.com/lcruise` to `microcruising.com`, and the [Micro Cruising group](/references/micro-cruising-group.md) was repeatedly offered as a source of further photos and files on small cruisers generally.
 
 A few of these recurrences carry additional detail worth keeping on record.
 
-**Plans and trailering.** Loaded-weight figures for towing a Paradox on its
-trailer are given at
-[trailering — tow weight and vehicle capacity](/operations/trailering.md).
+**Plans and trailering.** Loaded-weight figures for towing a Paradox on its trailer are given at [trailering — tow weight and vehicle capacity](/operations/trailering.md).
 
-**The Bolducs' seasonal cruising affects turnaround.** Because Dave and Mindy
-Bolduc go cruising for a few months most years, a prospective buyer needs to
-act fast or wait for their return; a would-be builder who wrote to Dave Bolduc
-during one such absence got no response and concluded he was "out of the
-office."
+**Seasonal cruising affects turnaround.** Because the plans distributor goes cruising for a few months most years, a prospective buyer needs to act fast or wait for a return; a would-be builder who wrote in during one such absence got no response and concluded the office was simply closed for the season.
 
-**Tools and skill required.** The tools needed to build a Paradox are modest —
-mainly a battery drill/screwdriver, a jigsaw, and a hammer — and
-[Don Elliott](/people/don-elliott.md)'s "how to build" articles are "almost an
-essential" companion to the plans (see
-[is Paradox a suitable first boat?](/operations/first-boat-suitability.md)).
-The plans' built-in trial-fit-before-gluing sequence makes mistakes
-non-fatal, so the boat is difficult to mess up even for a self-described
-"bodger" rather than a trained woodworker: one such single-handed builder
-solved the problems of moving full plywood sheets and turning the hull over in
-a tight garage with roller skates (see his own
-"[Little Jim](/boats/little-jim.md)" construction-photo gallery). Steaming and
-bending is used only to bend solid-wood strips that are then laminated onto
-the bulkheads — thinner strips, or laminated plywood strips, need no steaming
-at all. A motor is optional and would simply hang on the transom, needing only
-2 hp; the boat can equally be sailed its first season without one, relying on
-a yuloh. The sides and bottom "go on very easily," though the bottom must be
-worked quickly once the glue is spread, nailing from the bow aft. A build
-begun in August 2001 was, seventeen months later, on track to launch at Easter
-2003.
+**Tools and skill required.** The tools needed to build a Paradox are modest — mainly a battery drill/screwdriver, a jigsaw, and a hammer — and a "how to build" article series is "almost an essential" companion to the plans (see [is Paradox a suitable first boat?](/operations/first-boat-suitability.md)). The plans' built-in trial-fit-before-gluing sequence makes mistakes non-fatal, so the boat is difficult to mess up even for a self-described "bodger" rather than a trained woodworker: one such single-handed builder solved the problems of moving full plywood sheets and turning the hull over in a tight garage with roller skates (see his own "[Little Jim](/boats/little-jim.md)" construction-photo gallery). Steaming and bending is used only to bend solid-wood strips that are then laminated onto the bulkheads — thinner strips, or laminated plywood strips, need no steaming at all. A motor is optional and would simply hang on the transom, needing only 2 hp; the boat can equally be sailed its first season without one, relying on a yuloh. The sides and bottom "go on very easily," though the bottom must be worked quickly once the glue is spread, nailing from the bow aft. A build begun in August 2001 was, seventeen months later, on track to launch at Easter 2003.
 
-The Paradox's flat bottom draws repeated praise as "a great feature," including
-in comparison against an 18 ft 1979 Cape Dory Typhoon — see
-[stretched Paradox](/design/variants/stretched-paradox.md) for the related
-scaling discussion.
+The Paradox's flat bottom draws repeated praise as "a great feature," including in comparison against an 18 ft 1979 Cape Dory Typhoon — see [stretched Paradox](/design/variants/stretched-paradox.md) for the related scaling discussion.
 
-**European builds.** Asked whether any Paradoxes had been built in Europe or
-sailed the North Sea, Dave Bolduc pointed to a list of Paradox boats built or
-under construction (`www.smallsailboats.co.uk/paradox/names.htm`), noting some
-of the boats on it are in Europe — the same UK-hosted names list used
-elsewhere as the standing directory of known Paradox builds.
+**European builds.** Asked whether any Paradoxes had been built in Europe or sailed the North Sea, the answer pointed to a list of Paradox boats built or under construction (`www.smallsailboats.co.uk/paradox/names.htm`), noting some of the boats on it are in Europe — the same UK-hosted names list used elsewhere as the standing directory of known Paradox builds.
 
-**A secondhand plan set changing hands.** New plans are not the only route
-in: a would-be builder who instead decided to buy a used boat put his own
-plan set up for resale on the list, packaged with Don Elliott's build
-manual/book — $52 for both, plan set with its bonus CD included — a
-reminder that a secondhand Paradox purchase (see
-[secondhand market](/operations/secondhand-market.md)) can sometimes be
-paired with a plan set freed up the same way.[140]
+**A secondhand plan set changing hands.** New plans are not the only route in: a would-be builder who instead decided to buy a used boat put his own plan set up for resale on the list, packaged with a build manual/book — $52 for both, plan set with its bonus CD included — a reminder that a secondhand Paradox purchase (see [secondhand market](/operations/secondhand-market.md)) can sometimes be paired with a plan set freed up the same way.[140]
 
 ## Why Paradox resists easy enlargement
 
-[Don Elliott](/people/don-elliott.md) — the designer's longtime correspondent
-(see [Don Elliott](/people/don-elliott.md)) — gave the fullest
-designer-fidelity argument on record against simply scaling the Paradox
-design up, complementing the scaling rules of thumb given elsewhere (see
-[stretched Paradox](/design/variants/stretched-paradox.md)):
+The fullest designer-fidelity argument on record against simply scaling the Paradox design up, complementing the scaling rules of thumb given elsewhere (see [stretched Paradox](/design/variants/stretched-paradox.md)), runs as follows:
 
-- Paradox's **width is fixed by the standard 4 ft plywood sheet**; widening it
-  would require sourcing 5 ft sheets.
-- Simply **lengthening** the hull while keeping the beam fixed "wouldn't
-  work," since it changes the **displacement distribution** (depth, bottom
-  curve) — a different argument from the scantling-scaling rule
-  [Glen Maxwell](/people/glen-maxwell.md) had relayed from Matt Layden
-  elsewhere in this file.
-- Scaling any boat properly requires a **complete redesign** — a full new set
-  of calculations, not just multiplied scantlings — because "Paradox is
-  designed as a unit and behaves the way it does because of its proportions."
-- A revised design's **interior structure and scantlings** must be
-  recalculated for the larger loads a bigger boat and rig would place on it.
-- Properly, a new design should be **tested by models first, then full
-  size**, and modified as needed before plans are released to other
-  builders — "What do you have when you are done?"
-- His conclusion: a builder **can** do a larger boat, but "it will not be a
-  Paradox," and would require knowing "a great deal about boats of this type
-  and what Matt Layden knows, doubtful at best."
+- Paradox's **width is fixed by the standard 4 ft plywood sheet**; widening it would require sourcing 5 ft sheets.
+- Simply **lengthening** the hull while keeping the beam fixed "wouldn't work," since it changes the **displacement distribution** (depth, bottom curve) — a different argument from the scantling-scaling rule relayed from Matt Layden elsewhere in this file.
+- Scaling any boat properly requires a **complete redesign** — a full new set of calculations, not just multiplied scantlings — because "Paradox is designed as a unit and behaves the way it does because of its proportions."
+- A revised design's **interior structure and scantlings** must be recalculated for the larger loads a bigger boat and rig would place on it.
+- Properly, a new design should be **tested by models first, then full size**, and modified as needed before plans are released to other builders — "What do you have when you are done?"
+- The conclusion: a builder **can** do a larger boat, but "it will not be a Paradox," and would require knowing "a great deal about boats of this type and what Matt Layden knows, doubtful at best."
 
-The counter-view on record is that someday a larger sharpie might be designed
-with "all the safety and seaworthiness we have come to admire in Paradox" —
-but for now, Paradox is judged "hard to beat as a microcruiser."
+The counter-view on record is that someday a larger sharpie might be designed with "all the safety and seaworthiness we have come to admire in Paradox" — but for now, Paradox is judged "hard to beat as a microcruiser."
 
-**Reaching the Bolducs when e-mail fails.** When direct e-mail to Dave Bolduc
-goes unanswered — whether from spam filtering or a simple lull — two further
-routes are on record: posting to the **Micro Cruising Yahoo Group**, since
-Dave and Mindy are more likely to see a message on their own group; and
-**William Serjeant**'s [paradox-uk.co.uk](/references/paradox-uk-website.md)
-site, which republishes Dave's contact address on its info page. Dave Bolduc's
-e-mail is always given as `mbolduc@triad.rr.com`, with the space after
-"mbolduc" a deliberate anti-spam-bot insertion to be removed before sending.
+**Reaching the distributor when e-mail fails.** When direct e-mail to the plans distributor goes unanswered — whether from spam filtering or a simple lull — two further routes are on record: posting to the **Micro Cruising Yahoo Group**, since the distributor is more likely to see a message on their own group; and the [paradox-uk.co.uk](/references/paradox-uk-website.md) site, which republishes the contact address on its info page. The e-mail is always given as `mbolduc@triad.rr.com`, with the space after "mbolduc" a deliberate anti-spam-bot insertion to be removed before sending.
 
-Also on record from Don Elliott: his own **16-article, ~50-page "Building the
-Paradox" booklet** (distinct from the plans themselves, and available
-regardless of the plans' availability) at **$8.00 plus $2.00 US shipping** (or
-**$4.00 overseas**, payable by check or cash wrapped in heavy paper for
-overseas buyers), mailed from **711 Wisconsin Ave, Box 202, Tomah, Wisconsin,
-54660** — see
-[Building the Paradox articles](/references/building-the-paradox-articles.md)
-for the full description. Of the boat itself, Don's verdict: "Great boat,
-none anywhere like it."
+Also on record: a **16-article, ~50-page "Building the Paradox" booklet** (distinct from the plans themselves, and available regardless of the plans' availability) at **$8.00 plus $2.00 US shipping** (or **$4.00 overseas**, payable by check or cash wrapped in heavy paper for overseas buyers), mailed from **711 Wisconsin Ave, Box 202, Tomah, Wisconsin, 54660** — see [Building the Paradox articles](/references/building-the-paradox-articles.md) for the full description. Of the boat itself: "Great boat, none anywhere like it."
 
 ## A community-written beginner's guide
 
-Alongside Don Elliott's paid booklet, a free, community-written alternative
-exists: **[Derek Clark](/people/derek-clark.md)**'s own short "Beginners
-guide to building a Paradox," posted to the `paradoxboatbuilders2` group's
-files section as his own build neared completion. Deliberately kept to about
-four pages by avoiding repetition, it distills what Derek judged necessary
-reading, tools, and lessons learned building "[Enuf](/boats/enuf.md)" from
-scratch, offered copyright-free and open to other builders' amendments and
-additions.[144] The guide drew immediate praise for its grounded,
-practical-experience angle — "words of wisdom garnered from actually going
-through the build, warts and all" — as a genuine gap-filler, since nothing
-quite like it (a beginner's own build account, rather than plans or a
-formal manual) had been offered to the group before, with a hope that Derek
-would eventually add his own account of launching the boat.[145] A second
-correspondent likewise praised its grounding in common sense and practical
-experience over blindly following the plans or "correct" boatbuilding
-technique.[146] Incorporating suggestions from other builders, Derek posted
-a revision 2 of the guide to the same files section within the day.[147]
+Alongside the paid booklet, a free, community-written alternative exists: a short "Beginners guide to building a Paradox," posted to the `paradoxboatbuilders2` group's files section as its author's own build neared completion. Deliberately kept to about four pages by avoiding repetition, it distills what its author judged necessary reading, tools, and lessons learned building "[Enuf](/boats/enuf.md)" from scratch, offered copyright-free and open to other builders' amendments and additions.[144] The guide drew immediate praise for its grounded, practical-experience angle — "words of wisdom garnered from actually going through the build, warts and all" — as a genuine gap-filler, since nothing quite like it (a beginner's own build account, rather than plans or a formal manual) had been offered to the group before, with a hope that its author would eventually add an account of launching the boat.[145] It was likewise praised for its grounding in common sense and practical experience over blindly following the plans or "correct" boatbuilding technique.[146] Incorporating suggestions from other builders, a revision 2 of the guide was posted to the same files section within the day.[147]
 
-A typical newcomer's sequence is to order Don's booklet first and the plans
-themselves a few weeks later — illustrated by one builder whose only prior
-boatbuilding experience was a Bolger Brick, in which he had taught himself to
-sail after rigging it to mimic the Paradox's own controls as practice.[48]
-That builder, **Dave Blow**, went on to report steady early progress: within
-a couple of weeks of receiving the booklet he had the bulkheads installed,
-working in a 7½ ft × 22 ft shed tight enough that he had to slide one side of
-the hull against a wall to leave working room on the other, and would need to
-cut a hole in the shed's end wall to get the finished boat out past its 24
-in-wide door.[52] He set up a project website with early construction
-photos, including his Bolger Brick as a warm-up build.[53] A second builder
-working in parallel, **Derek Clark**, reached the same bulkheads-glued-up
-stage the same day, and separately raised — unanswered on record — whether
-running an outboard alongside the standard mainsheet arrangement lets the
-sheet be led in over the top of the rear deck to keep sheet and motor from
-tangling, a hardware question of the same general kind covered at
-[mainsheet fouling on the rudder and rear deck with an outboard
-fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[54][55]
+A typical newcomer's sequence is to order the booklet first and the plans themselves a few weeks later — illustrated by one builder whose only prior boatbuilding experience was a Bolger Brick, in which self-taught sailing came after rigging it to mimic the Paradox's own controls as practice.[48] That builder went on to report steady early progress: within a couple of weeks of receiving the booklet the bulkheads were installed, working in a 7½ ft × 22 ft shed tight enough that one side of the hull had to be slid against a wall to leave working room on the other, and a hole would need to be cut in the shed's end wall to get the finished boat out past its 24 in-wide door.[52] A project website went up with early construction photos, including the builder's Bolger Brick as a warm-up build.[53] A second builder working in parallel reached the same bulkheads-glued-up stage the same day, and separately raised — unanswered on record — whether running an outboard alongside the standard mainsheet arrangement lets the sheet be led in over the top of the rear deck to keep sheet and motor from tangling, a hardware question of the same general kind covered at [mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[54][55]
 
-Dave Blow's project photos also drew a bottom-thickness and resin debate
-worth recording as general materials guidance. 3/8 in plywood is adequate for
-the sides — citing Glen-L's use of the same scantling on their 21 ft "Fancy
-Free" sharpie — but stock Paradox construction calls for 1/2 in ply on the
-bottom without added glass, or a somewhat heavier 9 oz. cloth layup if a
-builder wants extra insurance; epoxy is recommended over polyester for the
-job.[56] Strip planking the bottom (two layers of 3/8 in ply topped with
-strips, rather than straight 1/2 in ply) is one alternative, with the sides
-glassed over plain 3/8 in ply and no strip planking.[57] A real constraint for
-some builders is a prior allergic reaction to epoxy (facial swelling and a
-rash lasting about two weeks, in one case, from a previous ultralight-airplane
-build); once an epoxy sensitivity has developed, a repeat reaction could be
-serious, so the safer course is waterproof glue and ring nails with the
-fiberglassing hired out, or polyester resin as a fallback (which carries some
-toxicity risk of its own).[57][58] The value of strip planking a sharpie
-bottom at all is disputed: an alternative is a tongue-and-groove hardwood
-floor laid athwartship with a thin plywood layer laminated to its exterior and
-glassed over, giving an interior hardwood sole, some insulation, and a nailing
-surface all in one.[58]
+Those project photos also drew a bottom-thickness and resin debate worth recording as general materials guidance. 3/8 in plywood is adequate for the sides — citing Glen-L's use of the same scantling on their 21 ft "Fancy Free" sharpie — but stock Paradox construction calls for 1/2 in ply on the bottom without added glass, or a somewhat heavier 9 oz. cloth layup if a builder wants extra insurance; epoxy is recommended over polyester for the job.[56] Strip planking the bottom (two layers of 3/8 in ply topped with strips, rather than straight 1/2 in ply) is one alternative, with the sides glassed over plain 3/8 in ply and no strip planking.[57] A real constraint for some builders is a prior allergic reaction to epoxy (facial swelling and a rash lasting about two weeks, in one case, from a previous ultralight-airplane build); once an epoxy sensitivity has developed, a repeat reaction could be serious, so the safer course is waterproof glue and ring nails with the fiberglassing hired out, or polyester resin as a fallback (which carries some toxicity risk of its own).[57][58] The value of strip planking a sharpie bottom at all is disputed: an alternative is a tongue-and-groove hardwood floor laid athwartship with a thin plywood layer laminated to its exterior and glassed over, giving an interior hardwood sole, some insulation, and a nailing surface all in one.[58]
 
-Cost is often the deciding factor: plywood prices can feel unreasonably high
-against a ready supply of free 2x4/2x6 stock rippable into strips on a table
-saw. A bottom built up from one layer of 3/8 in ply with strips added over it
-to reach 3/4 in total thickness, fastened with gold deck screws, ring nails,
-and Titebond II glue, is one documented approach; polyester resin on a
-previous Bolger Brick build showed no allergic reaction and held up well.[59]
-Whether stripping actually saves money once the added fasteners, glue, saw
-wear, and fairing labor are counted is doubtful, though it remains workable;
-heavier glass cloth or mat, plus three longitudinal strips, add stiffness and
-impact protection if a builder strip-plants regardless.[60] A further
-comparison point is designer George Buehler's practice of skinning 2x lumber
-with 3/8 in plywood, workable on the bottom of a 20 ft-or-larger sharpie,
-though the added glue cost can rival using plywood throughout; for a
-trailer-sailed boat, skipping fiberglass altogether in favor of three coats of
-paint in alternating colors (to reveal depth of wear as it develops),
-repainted every year or two, is a documented low-cost approach.[61]
+Cost is often the deciding factor: plywood prices can feel unreasonably high against a ready supply of free 2x4/2x6 stock rippable into strips on a table saw. A bottom built up from one layer of 3/8 in ply with strips added over it to reach 3/4 in total thickness, fastened with gold deck screws, ring nails, and Titebond II glue, is one documented approach; polyester resin on a previous Bolger Brick build showed no allergic reaction and held up well.[59] Whether stripping actually saves money once the added fasteners, glue, saw wear, and fairing labor are counted is doubtful, though it remains workable; heavier glass cloth or mat, plus three longitudinal strips, add stiffness and impact protection if a builder strip-plants regardless.[60] A further comparison point is designer George Buehler's practice of skinning 2x lumber with 3/8 in plywood, workable on the bottom of a 20 ft-or-larger sharpie, though the added glue cost can rival using plywood throughout; for a trailer-sailed boat, skipping fiberglass altogether in favor of three coats of paint in alternating colors (to reveal depth of wear as it develops), repainted every year or two, is a documented low-cost approach.[61]
 
-Dave Blow's own build settled on the painted, unglassed-bottom approach rather
-than more expensive plywood, being intended for **trailer-sailing rather than
-living aboard**, and used the alternating-coat-color technique for gauging
-wear.[62] He continued posting project photos to his own site
-(`smallshelters.50megs.com`).[63][64] By comparison,
-[Kjell Karlsson](/people/kjell-karlsson.md), building his own considerably
-more expensive [BRIS Paradox](/boats/bris-paradox.md), remarked on the value of
-comparing a cheap build against an expensive one for any functional
-differences the diverging construction budgets might produce.[65]
+That build settled on the painted, unglassed-bottom approach rather than more expensive plywood, being intended for **trailer-sailing rather than living aboard**, and used the alternating-coat-color technique for gauging wear.[62] Project photos continued to be posted to a personal site (`smallshelters.50megs.com`).[63][64] By comparison, the builder of a considerably more expensive [BRIS Paradox](/boats/bris-paradox.md) remarked on the value of comparing a cheap build against an expensive one for any functional differences the diverging construction budgets might produce.[65]
 
-The strip-planking question was ultimately settled by planking the bottom's
-**inside** rather than its outside face, reasoning the plain 3/8 in ply skin
-holds up better exposed to the water, provided bilge water is kept out of the
-cockpit; limiting the extra layer to the middle of the boat, roughly between
-bulkheads 2 and 4, is sufficient, with the anchor stowed forward on deck
-rather than in a forward locker.[66][67] On fastening: plain ring nails for the
-decking, valued for their holding power, and coated ("Gold") deck screws for
-the bottom hold up well — deck screws pulled from a fence after six years
-showed only slight discoloration, no rot or rust — with the whole hull
-encapsulated in epoxy regardless, for a boat intended for lakes, rivers, and
-streams rather than the ocean.[68][70] Since the usual practice is to screw
-plywood to solid wood rather than the reverse, adequate screw "purchase"
-directly into plywood is achieved by running deck screws, once the hull is
-turned over, **through the plywood into solid-wood strips on the inside** of
-the hull — elsewhere screwed or nailed ply-to-wood as normal, with plenty of
-glue throughout — and by running planking strips athwartship (port to
-starboard) rather than stem-to-stern so they need not bend.[71][72]
+The strip-planking question was ultimately settled by planking the bottom's **inside** rather than its outside face, reasoning the plain 3/8 in ply skin holds up better exposed to the water, provided bilge water is kept out of the cockpit; limiting the extra layer to the middle of the boat, roughly between bulkheads 2 and 4, is sufficient, with the anchor stowed forward on deck rather than in a forward locker.[66][67] On fastening: plain ring nails for the decking, valued for their holding power, and coated ("Gold") deck screws for the bottom hold up well — deck screws pulled from a fence after six years showed only slight discoloration, no rot or rust — with the whole hull encapsulated in epoxy regardless, for a boat intended for lakes, rivers, and streams rather than the ocean.[68][70] Since the usual practice is to screw plywood to solid wood rather than the reverse, adequate screw "purchase" directly into plywood is achieved by running deck screws, once the hull is turned over, **through the plywood into solid-wood strips on the inside** of the hull — elsewhere screwed or nailed ply-to-wood as normal, with plenty of glue throughout — and by running planking strips athwartship (port to starboard) rather than stem-to-stern so they need not bend.[71][72]
 
-**Cost data point.** One from-scratch, budget-conscious build reached
-**$113** in materials at the strip-planked-deck stage (butted strips rather
-than bead-and-cove, for lack of tooling), with a deck light enough to lift at
-the bow with one hand, and a planned starting ballast of about **200 lb**
-(adjustable from there), judged sufficient for a river/lake/stream-only boat
-unlikely to see saltwater.[75][76]
+**Cost data point.** One from-scratch, budget-conscious build reached **$113** in materials at the strip-planked-deck stage (butted strips rather than bead-and-cove, for lack of tooling), with a deck light enough to lift at the bow with one hand, and a planned starting ballast of about **200 lb** (adjustable from there), judged sufficient for a river/lake/stream-only boat unlikely to see saltwater.[75][76]
 
-**No larger Paradox plans exist** for a stock Paradox bigger than 14 ft (see
-[stretched Paradox](/design/variants/stretched-paradox.md#no-official-larger-plans-exist)
-for the fuller scaling picture), though one Australian builder modified the
-stock interior himself, removing the forward lockers to widen the cabin for
-two-person sleeping. Build-time, cost, and "who buys the beer" questions are
-answered at [build effort and workspace —
-cost](/construction/build-effort.md#cost) and [Paradox as a first boat —
-storage, beachability, and who buys the
-beer](/operations/first-boat-suitability.md#storage-beachability-and-who-buys-the-beer).[49][50]
+**No larger Paradox plans exist** for a stock Paradox bigger than 14 ft (see [stretched Paradox](/design/variants/stretched-paradox.md#no-official-larger-plans-exist) for the fuller scaling picture), though one Australian builder modified the stock interior, removing the forward lockers to widen the cabin for two-person sleeping. Build-time, cost, and "who buys the beer" questions are answered at [build effort and workspace — cost](/construction/build-effort.md#cost) and [Paradox as a first boat — storage, beachability, and who buys the beer](/operations/first-boat-suitability.md#storage-beachability-and-who-buys-the-beer).[49][50]
 
-**A plans-for-plans swap.** Dave Bolduc, who distributes the plans for Matt
-Layden, has also been open to a straight Paradox-for-Bolger-"Micro" plans
-swap with a builder who already owns a Bolger Micro set, calling it "a sweet
-deal too."[77][78]
+**A plans-for-plans swap.** The plans distributor, who distributes the plans for Matt Layden, has also been open to a straight Paradox-for-Bolger-"Micro" plans swap with a builder who already owns a Bolger Micro set, calling it "a sweet deal too."[77][78]
 
-Builds proceed at very different paces even in parallel: one builder's hull
-reached **4.21 m** with the transom and beginnings of the stem fitted,
-improving woodworking skill through practice making it feasible to lengthen
-the stem further rather than shorten the boat — a build eventually named
-**"Enuf"** (an alternative to an initially chosen "So-So," reconsidered as
-"too much like SOS").[79] Another builder working the same period, sidelined
-by flu, still made steady incremental progress — fitting and sealing a window,
-then a sliding-hatch guide — between bouts of available time.[80]
+Builds proceed at very different paces even in parallel: one builder's hull reached **4.21 m** with the transom and beginnings of the stem fitted, improving woodworking skill through practice making it feasible to lengthen the stem further rather than shorten the boat — a build eventually named **"Enuf"** (an alternative to an initially chosen "So-So," reconsidered as "too much like SOS").[79] Another builder working the same period, sidelined by flu, still made steady incremental progress — fitting and sealing a window, then a sliding-hatch guide — between bouts of available time.[80]
 
-The plans FAQ has also been answered, in its simplest form, by pointing
-directly to the Bolducs' own website or e-mail address,[81][82] and by a
-second concrete source for the same information — UK builder William
-Serjeant's own Paradox site (see
-[paradox-uk.co.uk site pairing](/references/paradox-uk-website.md)),
-`www.smallsailboats.co.uk/paradox/info.htm`.[83]
+The plans FAQ has also been answered, in its simplest form, by pointing directly to the distributor's own website or e-mail address,[81][82] and by a second concrete source for the same information — a UK-based Paradox site (see [paradox-uk.co.uk site pairing](/references/paradox-uk-website.md)), `www.smallsailboats.co.uk/paradox/info.htm`.[83]
 
-A newcomer's introduction and struggle to obtain plans illustrates the FAQ's
-usual failure mode: having found the design online and wanting to start
-building right away, he could not reach either advertised contact address,
-both bouncing, and worried the plans might no longer be available at
-all.[120][121] The answer, as ever, was Dave Bolduc — with a caveat that he
-"may be off sailing at this time" — and, separately, a Matt Layden address
-now circulating in the same reply.[122] Making Matt's own e-mail address
-public prompted an explicit appeal to respect his privacy: Matt does not
-want to personally field every question that comes up, especially ones
-already answered in the group's archive, which is precisely why plans
-requests are routed to someone other than Matt himself; he does still read
-the list and occasionally posts himself — as when he published his new sail
-plan article — and members were asked to leave it to him to come forward
-when he judges it appropriate, rather than seek him out directly.[123] The
-same reply pointed the newcomer to [Don Elliott](/people/don-elliott.md)'s
-paid construction booklet as a further resource, while noting Don's history
-of dominating the list with unsolicited advice had led to his ban and his
-founding of a rival group — see [Don Elliott — a rival group, and a dispute
-over who founded and moderates the
-list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-for the full account, not restated here.[123]
+A newcomer's introduction and struggle to obtain plans illustrates the FAQ's usual failure mode: having found the design online and wanting to start building right away, neither advertised contact address could be reached, both bouncing, raising worry the plans might no longer be available at all.[120][121] The answer, as ever, was the plans distributor — with a caveat about possibly "being off sailing at this time" — and, separately, a Matt Layden address now circulating in the same reply.[122] Making Matt's own e-mail address public prompted an explicit appeal to respect his privacy: Matt does not want to personally field every question that comes up, especially ones already answered in the group's archive, which is precisely why plans requests are routed to someone other than Matt himself; he does still read the list and occasionally posts himself — as when he published his new sail plan article — and members were asked to leave it to him to come forward when he judges it appropriate, rather than seek him out directly.[123] The same reply pointed to the paid construction booklet as a further resource, while noting its author's history of dominating the list with unsolicited advice had led to a ban and the founding of a rival group — see [Don Elliott — a rival group, and a dispute over who founded and moderates the list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) for the full account, not restated here.[123]
 
-The same newcomer's difficulty getting through to the Bolducs continued: a
-follow-up e-mail to Dave and Mindy bounced as an invalid address, leaving him
-uncertain whether the plans could still be had at all.[124] Another
-correspondent proposed an interim workaround — a builder already holding a
-set of plans photocopying them and forwarding the copy, the cost of copying
-and postage to be reimbursed to the Bolducs alongside the usual fee — pointing
-again to the Micro Cruising Yahoo group and `microcruising.com`, and noting
-Dave's own last post there was already a couple of weeks old.[125] The
-newcomer accepted readily, offering to pay outright for a full set of plans
-and a construction manual from anyone able to supply them.[126] Told, in
-reply, that impatience this early might mean Paradox is not the right choice
-of boat for a sailor after a "relaxed sail," and pointed once more to
-`microcruising.com` as the actual source, the newcomer apologized for his
-tone, noting the e-mail address listed on that site itself was not
-working.[127][128] [Jack Gardiner](/people/jack-gardiner.md) offered simple
-encouragement: the boat is worth the effort of getting past the plans
-FAQ.[129]
+The same newcomer's difficulty getting through to the distributor continued: a follow-up e-mail bounced as an invalid address, leaving uncertainty over whether the plans could still be had at all.[124] An interim workaround was proposed — a builder already holding a set of plans photocopying them and forwarding the copy, the cost of copying and postage to be reimbursed alongside the usual fee — pointing again to the Micro Cruising Yahoo group and `microcruising.com`, and noting the distributor's own last post there was already a couple of weeks old.[125] The newcomer accepted readily, offering to pay outright for a full set of plans and a construction manual from anyone able to supply them.[126] Told, in reply, that impatience this early might mean Paradox is not the right choice of boat for a sailor after a "relaxed sail," and pointed once more to `microcruising.com` as the actual source, the newcomer apologized for his tone, noting the e-mail address listed on that site itself was not working.[127][128] Simple encouragement followed: the boat is worth the effort of getting past the plans FAQ.[129]
 
-A further reply reframed the newcomer's urgency directly: boatbuilding in
-wood is "a labor of love" that finishes when it finishes and not sooner, and
-the more useful question at that early stage is not plans but **materials** —
-specifically, what plywood the build calls for and where suitable stock (not
-ordinary hardware-store CDX) can be sourced locally, since marine or premium
-MDO/HDO plywood, lumber, epoxy, fasteners, and sail cloth often have to be
-shipped in; "buying plans is easy, sourcing materials can be a challenge."[130]
-The newcomer, based in New Jersey, acknowledged he had no idea yet where to
-find suitable wood, but took the reframing in stride as something concrete he
-could start working on regardless of how the plans question resolved.[131]
+A further reply reframed the newcomer's urgency directly: boatbuilding in wood is "a labor of love" that finishes when it finishes and not sooner, and the more useful question at that early stage is not plans but **materials** — specifically, what plywood the build calls for and where suitable stock (not ordinary hardware-store CDX) can be sourced locally, since marine or premium MDO/HDO plywood, lumber, epoxy, fasteners, and sail cloth often have to be shipped in; "buying plans is easy, sourcing materials can be a challenge."[130] The newcomer, based in New Jersey, acknowledged having no idea yet where to find suitable wood, but took the reframing in stride as something concrete to start working on regardless of how the plans question resolved.[131]
 
-Concrete plywood sourcing followed: **M.L. Condon** (White Plains, NY, near
-the Hudson) carries, by a wide margin, the best plywood available in North
-America, if the budget allows; **Harbor Sales** (Maryland) was named as a
-comparable high-quality alternative; and, depending on which part of New
-Jersey a builder is in, either **M.L. Condon** or **South Jersey Lumberman**
-can supply suitable stock, with Douglas fir serving for most of the
-structural lumber. Compiling a bill of materials while waiting on the plans
-themselves is a sensible use of the interim, and **FGCI** was named as the
-best-priced epoxy source found, at $35 a gallon — roughly half the price
-reported for a UK builder's own epoxy sourcing at the time, where **MAS** was
-the cheapest found "over this side of the pond."[132][133][134]
+Concrete plywood sourcing followed: **M.L. Condon** (White Plains, NY, near the Hudson) carries, by a wide margin, the best plywood available in North America, if the budget allows; **Harbor Sales** (Maryland) was named as a comparable high-quality alternative; and, depending on which part of New Jersey a builder is in, either **M.L. Condon** or **South Jersey Lumberman** can supply suitable stock, with Douglas fir serving for most of the structural lumber. Compiling a bill of materials while waiting on the plans themselves is a sensible use of the interim, and **FGCI** was named as the best-priced epoxy source found, at $35 a gallon — roughly half the price reported for a UK builder's own epoxy sourcing at the time, where **MAS** was the cheapest found "over this side of the pond."[132][133][134]
 
-An alternative route into the design while a plans order is still pending is
-[Don Elliott](/people/don-elliott.md)'s own build manual (also obtainable
-directly from a rival Yahoo group Don had founded, once a prospective
-buyer joins and asks him for it) — sold on CD for about $20, delivered by
-e-mail as a PDF for near-instant access, and containing a complete
-materials/tools list, step-by-step illustrated instructions down to hull
-puttying and glassing, a reduced-scale set of plans, and full plans for a
-mini folding dinghy usable as a practice project — with a one-off
-good-natured aside noting the newcomer's own admitted New Jersey impatience
-along the way.[135][136][139]
+An alternative route into the design while a plans order is still pending is a build manual (also obtainable directly from a rival Yahoo group its author had founded, once a prospective buyer joins and asks for it) — sold on CD for about $20, delivered by e-mail as a PDF for near-instant access, and containing a complete materials/tools list, step-by-step illustrated instructions down to hull puttying and glassing, a reduced-scale set of plans, and full plans for a mini folding dinghy usable as a practice project — with a one-off good-natured aside noting the newcomer's own admitted New Jersey impatience along the way.[135][136][139]
 
-Wayne's fuller supplier list — M.L. Condon (248 Ferris Ave, White Plains, NY
-10603, tel 914-946-4111), South Jersey Lumberman's and Harbor Sales'
-websites, FGCI for epoxy, and Hamilton Marine (Searsport, ME, a toll-free
-call away) for hardware and fittings not made of wood — gave the newcomer
-what he needed to move forward. The plans-request thread finally resolved
-when the newcomer confirmed Dave Bolduc had, after all, replied to one of his
-e-mails with pricing, and he set about mailing payment.[137][138]
+A fuller supplier list — M.L. Condon (248 Ferris Ave, White Plains, NY 10603, tel 914-946-4111), South Jersey Lumberman's and Harbor Sales' websites, FGCI for epoxy, and Hamilton Marine (Searsport, ME, a toll-free call away) for hardware and fittings not made of wood — gave the newcomer what was needed to move forward. The plans-request thread finally resolved when the newcomer confirmed the distributor had, after all, replied to one of the e-mails with pricing, and payment was mailed off.[137][138]
 
 ## Reading the plans: a first-time builder's backlog of questions
 
-A prospective builder working systematically through the plans page by page,
-building a parts list as he went, compiled a representative backlog of the
-small interpretation questions that recur once a newcomer actually has the
-plans in hand (as distinct from the "where do I buy them" FAQ above):
+A prospective builder working systematically through the plans page by page, building a parts list along the way, compiled a representative backlog of the small interpretation questions that recur once a newcomer actually has the plans in hand (as distinct from the "where do I buy them" FAQ above):
 
-- **"P&S,"** used throughout the plans, stands simply for **port and
-  starboard**.
-- The plans' called-for glass quantities — **38 in woven roving** (three
-  layers on the bottom) and **50 in 6 oz cloth** (one layer elsewhere) — are
-  workable to estimate from the boat's dimensions, though builders vary in
-  which fabric they actually use; see [woven roving versus biaxial
-  cloth](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for)
-  for the fuller fabric-choice discussion this same builder's follow-up
-  questions fed into. One builder who used **12 oz biax with no mat backing**
-  (mat backing does not bond into an epoxy matrix) reported it goes on in a
-  single layer rather than roving's three, uses less epoxy overall, and is no
-  harder to fill and fair than roving in his own experience — on a 19 ft
-  powerboat built the same way, beached and worked from regularly over
-  several years of diving, the biax layup showed no wear-through anywhere;
-  since the Paradox's bottom is flat, he judged biax workable for almost any
-  builder regardless of experience level, whatever fabric the boat's intended
-  use (lake, coastal, or ocean) might otherwise argue for.
-- The **mast, boom, and yard lengths** are not missing from the plans, as a
-  first read might suggest — they are given on **page 12** together with the
-  rest of the spar/rig drawing, consistent with the box-mast specification
-  documented at [rig and sail](/design/rig.md). One builder's own mast,
-  cut from clear 1×4 in doug fir porch flooring in 16 ft lengths, needed to be
-  a little shorter than that to stow inside the boat through the stern
-  opening (lightning rod removed first). Drawing #12's spar dimensions are
-  given **full size** for the fore-and-aft and sideways dimensions but
-  **scaled** for the length dimension — a mixed-scale convention that lets a
-  designer show fine cross-section detail and the whole spar's length on one
-  page, and also makes fairing a long curve easier by compressing its length;
-  a builder unfamiliar with spar drawings should study the page carefully with
-  that convention in mind. One builder noted **what he believed to be a
-  drafting error** on the same sheet: extra dimension-arrow marks running to
-  the right of the vertical dimensions (500 mm, 900 mm, 900 mm, etc.) that,
-  if painted out, leave the dimensioning correct and make it easier to
-  distinguish the drawing's two views (a side-section view at left and a
-  half-end-section view at right). A cautious approach to cutting the spar
-  blanks is to trim them only to the lengths already given in the plans and
-  leave final trimming until after the sail itself is made and can be
-  measured against the boom — a sequence one builder followed for his own
-  mast and spars while a new sail was still being sewn. A hand-colored
-  redrawing of the mast plan, produced by [Don
-  Elliott](/people/don-elliott.md) to make the sheet easier to follow (shared
-  only with his permission, since he holds its copyright), and a separate
-  full written description of how to read the same drawing, is also on
-  record. The spar dimensions are unchanged between the original and the
-  newer, taller sail plan; a boom built to the stock dimensions can have
-  roughly 8 in trimmed off once the new sail is bent on and the boom
-  measured against it, but that trim should wait until the sail is actually
-  in hand rather than being cut in advance. Sailed side by side on the same
-  boat ("Zoë"), the original, flatter-cut sail proved good enough that it
-  might still be in use today were it not for the newer sail's extra draft.
-- The **stateroom sole hatch**, like the cabin sole hatches, uses a
-  **continuous (piano) hinge** in the stock design — a builder will be
-  standing on it, so a full-length hinge is warranted, and a piano hinge is
-  also easier to line up than a pair of ordinary hinges. At least two
-  builders departed from this in practice: one used the same piano hinge
-  design as built but would use something less mud-and-grit-prone next time,
-  suggesting a webbing hinge instead; another skipped the stateroom
-  divider/hatch arrangement entirely, instead hinging a single floor down its
-  centerline (port side fixed, starboard side lifting) with copper tacks and
-  webbing for the hinge itself, and used the resulting full-width space under
-  and across the floor for storage rather than a separate stateroom bin.
-  Whatever layout a builder chooses for the forward stateroom, every
-  component needs to fit back out through the opening, since it is installed
-  before the deck goes on; one builder built his to the stock plan but found
-  removing all of the woodwork there again a two-minute job, making it easy
-  to try different layouts to see what suits before committing, and kept the
-  stock central partition in his own boat while reducing its height.
-- **Shelves are mounted to the bin sides** with a plain epoxy butt joint and
-  epoxy fillets, or alternatively built as separate pieces resting on their
-  own lip rather than fastened directly to the bin sides — either approach is
-  workable, since screws or nails driven into the shelf's end grain would not
-  hold well regardless; one builder specifically reported four years'
-  trouble-free service from the epoxy-fillet method, applied to the aft side
-  of the bin face.
-- Several plywood parts called out in the plans' interior fit-out — the
-  stateroom bin side and divider (9 mm), the breast hook and deck scabs
-  (12 mm), the vent trunk baffle (12 mm) and sides/front (18 mm), and the aft
-  bin dividers — are genuinely **not shown on the plans' "10 sheets" cutting
-  diagram** and must be sourced as additional material; much of this interior
-  detail is intentionally left to the builder's own discretion rather than
-  fully dimensioned. In practice one builder found the 9 mm stateroom bin
-  side and divider on the sheet already labeled "Fore. Bin Sides," used
-  left-over scrap for the 12 mm breast hook, deck scabs, and vent trunk
-  baffle, and got the 18 mm vent trunk sides/front from left-over material
-  after reordering the cutting layout — flipping one rudder piece and moving
-  it, and reorganizing the transom sheet's layout since it was too narrow to
-  cut as originally drawn. Aft bin dividers, cut from 6 mm ply in that
-  builder's case, likewise came from a spare 6 mm sheet bought so the cabin
-  roof could be cut without a joint; beyond that one spare sheet, no
-  additional plywood was needed to complete the boat, and a builder is
-  encouraged to try various interior arrangements rather than commit to a
-  single layout on the first attempt.
-- The **metal angle** shown on one of the plan sheets, and exactly how it is
-  attached, drew only a brief answer on record: one builder reported simply
-  bending up a roughly inch-long piece of stainless for the purpose. A
-  fuller reading of the same detail describes it as bent from a 2 mm by 25 mm
-  strap (roughly 3/32 in by 1 in folded down its length), fitted to the
-  underside of the water tank top to capture the bottom of a bin face that,
-  unlike the aft bin faces, does not extend all the way to the floor — since
-  the ballast in that area sits on the floor and needs to stay as far
-  outboard as possible. One builder who decided against internal water tanks
-  altogether skipped the fitting entirely, instead running his floor to
-  within about 1/4 in of the hull sides (leaving a small ventilation gap)
-  and resting his bin sides directly on the floor, so nothing could drop
-  into the bilge from the side bins. The fold itself runs **across** the
-  strap's width, not along its length, forming a small bracket that stops
-  the middle of the bin face from flapping loose and holds it down to the
-  floor panel — the bracket is screwed to the floor panel, and the bin face
-  simply drops into it during fit-out. The engineering logic this fitting
-  serves puzzled at least one builder new to the plans: the aft bins'
-  continuous hinges support the sole's edge through the bin sides, which are
-  themselves fixed to bulkhead cleats, but forward (where the tanks sit)
-  there is no such hinge, leaving roughly 4 in of unsupported sole edge at
-  that bulkhead once the angle-and-bin arrangement takes the bin face's
-  load instead of the floor's — a detail that reads as unusual on paper but
-  has not been reported as a practical problem by builders who have used it.
-- On glass yardage for the bottom and topsides, one builder's own estimate
-  from memory was **roughly 18 yards of 38 in woven roving and 18 yards of
-  cloth**, having used 60 in-wide 7.9 oz cloth on his own boat because it was
-  cheaper to source at the time than the plans' called-for 50 in width.
-- On **spar length trimming**, the plans' stock boom and mast lengths hold
-  for both sail plans, so a builder need not commit to a shorter spar in
-  advance: a drawing of the newer sail circulated among builders suggested
-  the boom could come down by roughly 8.5 in and the mast by 4–4.5 in under
-  the taller sail plan, closely matching Glen Maxwell's own from-memory
-  estimate of about 8 in off the boom — but as with any such trim, cutting
-  should wait until the sail itself is in hand and can be measured directly
-  against the spar, and a builder should expect to build to the stock
-  dimensions first regardless. Builders who read Drawing #12's mixed-scale
-  convention and its noted stray dimension-arrows for the first time have
-  reported it takes more than one pass to fully parse, since the two
-  differently scaled dimension sets and the sheet's two overlaid views (a
-  side-section at left, a half-end-section at right) are not obvious until
-  the drafting-error correction above is applied by eye.
-- Where a builder's own reordered plywood cutting layout — moving parts
-  between sheets to make the metric stock go further than the plans'
-  4 ft × 8 ft-equivalent layout assumes — is shared with other builders,
-  it has proven directly useful for planning cuts of the costlier, thicker
-  sheets (18 mm) in particular, though reproducing exactly how a given
-  layout fits every part onto one sheet can take some study from a
-  drawing alone. Worked through in full for the 18 mm sheet specifically:
-  the vent trunk sides come off the 9 mm sheet alongside the foredeck, one
-  from each of the two wedge-shaped scrap offcuts; for the 18 mm sheet, the
-  bottom rudder piece is flipped about a horizontal axis and moved as far
-  left as possible so it fits inside bulkhead 3, leaving room in the scrap
-  above for the breast hook and, in the lower-right wedge, for the vent
-  trunk front. Flipping the rudder piece this way also solves a second
-  problem: the rudder's "nose" otherwise falls off the edge of the sheet as
-  drawn, whereas the new layout leaves an easy gap to fill with a small
-  infill piece once the two rudder halves are joined. For anyone without
-  access to a CAD system to test a layout before cutting, taping together
-  newspaper templates of each part and physically shuffling them on a
-  full-size sheet mock-up was suggested as a simple way to find a working
-  arrangement before committing plywood.
-- The **bulkhead 1 and bulkhead 2 support levels for the stateroom sole**
-  appear mismatched on the plans — the sole sits on bulkhead 1's lower floor
-  frame and on a cleat on bulkhead 2, but those two supports are not level,
-  a roughly 20 mm difference that, read literally, would leave the sole out
-  of level and could bind the sole hatch against the bulkhead as it opens.
-  The explanation is the hull's own **rocker**: bulkhead 1 sits considerably
-  higher than bulkhead 2 once the hull's rocker is properly accounted for,
-  and a floor built with that in mind comes out level despite the plans'
-  two support points not lining up on paper — the difference in floor level
-  between the two bulkheads can be checked directly against the waterline
-  reference. The plans also omit the bulkhead 1 cleats meant to secure the
-  bin sides, and are inconsistent about whether a port-side bin exists at
-  all (shown on one sheet, absent from another) — both left to the
-  builder's own judgment in practice, one builder having skipped the
-  plans' bin-side arrangement entirely. On bulkhead 1, one builder placed
-  the bin-side cleats **120 mm to port and 220 mm to starboard** of the
-  centerline; there is no port bin forward of bulkhead 2 in his own layout,
-  only a nearly central divider some 120 mm to port of the centerline, with
-  the cleat shown 390 mm to port on bulkhead 2 (sheet 7) belonging to the
-  bin aft of that bulkhead. A separate reading of the same bulkhead 2 sheet
-  found the "12×19 Cleats P&S" label's arrows both pointing at the
-  starboard-side cleats (fore and aft), which — read together with a port
-  side bin actually being called for — suggests the arrow at the fore
-  starboard cleat is simply misplaced on the drawing.
-- The **outboard bulkhead cleats** (against the hull panels) are dimensioned
-  25 mm × 35 mm with a bevel shown along one side (7 mm at bulkhead 2, for
-  example); in practice, exact cleat dimensions are **not critical** — a
-  builder can use whatever scrap stock is to hand and split it to
-  approximate size, since a Paradox's structure tolerates this kind of
-  minor variance well. One builder used whatever offcuts were on hand,
-  splitting a 50 mm × 25 mm piece into a pair of cleats where two were
-  needed, or a 25 mm × 40 mm piece where that fit better, without any
-  problem sourced to the exact sizing. As a general philosophy for the
-  plans' small ambiguities: "let the force guide you," and failing that,
-  epoxy, silicone, gaffer tape, brass screws, ring nails, or the example of
-  other builders can resolve most of them — the boat's own structure is
-  considered over-designed enough that a few cut corners in the bin-side
-  cleats are unlikely to matter, since the bin sides are only
-  semi-structural (supporting the sole in places) rather than fully
-  load-bearing. The tank-vent and mast-ground fitting shown protruding from
-  bulkhead 2 on other sheets is likewise something at least one builder
-  omitted outright (having decided against internal water tanks and a
-  wooden mast's need for such grounding, given lightning-strike likelihood
-  in his own location); in the stock plans this fitting sits on the port
-  side of the vent/lightning-rod run at the point where the stateroom sole
-  hatch begins, so building it as illustrated would foul the hatch's
-  operation unless the vent and ground-plate run is moved aside to clear it.
+- **"P&S,"** used throughout the plans, stands simply for **port and starboard**.
+- The plans' called-for glass quantities — **38 in woven roving** (three layers on the bottom) and **50 in 6 oz cloth** (one layer elsewhere) — are workable to estimate from the boat's dimensions, though builders vary in which fabric they actually use; see [woven roving versus biaxial cloth](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for) for the fuller fabric-choice discussion this same backlog's follow-up questions fed into. One builder who used **12 oz biax with no mat backing** (mat backing does not bond into an epoxy matrix) reported it goes on in a single layer rather than roving's three, uses less epoxy overall, and is no harder to fill and fair than roving — on a 19 ft powerboat built the same way, beached and worked from regularly over several years of diving, the biax layup showed no wear-through anywhere; since the Paradox's bottom is flat, biax was judged workable for almost any builder regardless of experience level, whatever fabric the boat's intended use (lake, coastal, or ocean) might otherwise argue for.
+- The **mast, boom, and yard lengths** are not missing from the plans, as a first read might suggest — they are given on **page 12** together with the rest of the spar/rig drawing, consistent with the box-mast specification documented at [rig and sail](/design/rig.md). One builder's own mast, cut from clear 1×4 in doug fir porch flooring in 16 ft lengths, needed to be a little shorter than that to stow inside the boat through the stern opening (lightning rod removed first). Drawing #12's spar dimensions are given **full size** for the fore-and-aft and sideways dimensions but **scaled** for the length dimension — a mixed-scale convention that lets a designer show fine cross-section detail and the whole spar's length on one page, and also makes fairing a long curve easier by compressing its length; a builder unfamiliar with spar drawings should study the page carefully with that convention in mind. **What was believed to be a drafting error** was noted on the same sheet: extra dimension-arrow marks running to the right of the vertical dimensions (500 mm, 900 mm, 900 mm, etc.) that, if painted out, leave the dimensioning correct and make it easier to distinguish the drawing's two views (a side-section view at left and a half-end-section view at right). A cautious approach to cutting the spar blanks is to trim them only to the lengths already given in the plans and leave final trimming until after the sail itself is made and can be measured against the boom — a sequence one builder followed for his own mast and spars while a new sail was still being sewn. A hand-colored redrawing of the mast plan, produced to make the sheet easier to follow (shared only with permission, since its maker holds its copyright), and a separate full written description of how to read the same drawing, is also on record. The spar dimensions are unchanged between the original and the newer, taller sail plan; a boom built to the stock dimensions can have roughly 8 in trimmed off once the new sail is bent on and the boom measured against it, but that trim should wait until the sail is actually in hand rather than being cut in advance. Sailed side by side on the same boat ("Zoë"), the original, flatter-cut sail proved good enough that it might still be in use today were it not for the newer sail's extra draft.
+- The **stateroom sole hatch**, like the cabin sole hatches, uses a **continuous (piano) hinge** in the stock design — a builder will be standing on it, so a full-length hinge is warranted, and a piano hinge is also easier to line up than a pair of ordinary hinges. At least two builders departed from this in practice: one used the same piano hinge design as built but would use something less mud-and-grit-prone next time, suggesting a webbing hinge instead; another skipped the stateroom divider/hatch arrangement entirely, instead hinging a single floor down its centerline (port side fixed, starboard side lifting) with copper tacks and webbing for the hinge itself, and used the resulting full-width space under and across the floor for storage rather than a separate stateroom bin. Whatever layout a builder chooses for the forward stateroom, every component needs to fit back out through the opening, since it is installed before the deck goes on; one builder built to the stock plan but found removing all of the woodwork there again a two-minute job, making it easy to try different layouts to see what suits before committing, and kept the stock central partition in that boat while reducing its height.
+- **Shelves are mounted to the bin sides** with a plain epoxy butt joint and epoxy fillets, or alternatively built as separate pieces resting on their own lip rather than fastened directly to the bin sides — either approach is workable, since screws or nails driven into the shelf's end grain would not hold well regardless; one builder specifically reported four years' trouble-free service from the epoxy-fillet method, applied to the aft side of the bin face.
+- Several plywood parts called out in the plans' interior fit-out — the stateroom bin side and divider (9 mm), the breast hook and deck scabs (12 mm), the vent trunk baffle (12 mm) and sides/front (18 mm), and the aft bin dividers — are genuinely **not shown on the plans' "10 sheets" cutting diagram** and must be sourced as additional material; much of this interior detail is intentionally left to the builder's own discretion rather than fully dimensioned. In practice one builder found the 9 mm stateroom bin side and divider on the sheet already labeled "Fore. Bin Sides," used left-over scrap for the 12 mm breast hook, deck scabs, and vent trunk baffle, and got the 18 mm vent trunk sides/front from left-over material after reordering the cutting layout — flipping one rudder piece and moving it, and reorganizing the transom sheet's layout since it was too narrow to cut as originally drawn. Aft bin dividers, cut from 6 mm ply in that builder's case, likewise came from a spare 6 mm sheet bought so the cabin roof could be cut without a joint; beyond that one spare sheet, no additional plywood was needed to complete the boat, and a builder is encouraged to try various interior arrangements rather than commit to a single layout on the first attempt.
+- The **metal angle** shown on one of the plan sheets, and exactly how it is attached, drew only a brief answer on record: one builder reported simply bending up a roughly inch-long piece of stainless for the purpose. A fuller reading of the same detail describes it as bent from a 2 mm by 25 mm strap (roughly 3/32 in by 1 in folded down its length), fitted to the underside of the water tank top to capture the bottom of a bin face that, unlike the aft bin faces, does not extend all the way to the floor — since the ballast in that area sits on the floor and needs to stay as far outboard as possible. One builder who decided against internal water tanks altogether skipped the fitting entirely, instead running the floor to within about 1/4 in of the hull sides (leaving a small ventilation gap) and resting bin sides directly on the floor, so nothing could drop into the bilge from the side bins. The fold itself runs **across** the strap's width, not along its length, forming a small bracket that stops the middle of the bin face from flapping loose and holds it down to the floor panel — the bracket is screwed to the floor panel, and the bin face simply drops into it during fit-out. The engineering logic this fitting serves puzzled at least one builder new to the plans: the aft bins' continuous hinges support the sole's edge through the bin sides, which are themselves fixed to bulkhead cleats, but forward (where the tanks sit) there is no such hinge, leaving roughly 4 in of unsupported sole edge at that bulkhead once the angle-and-bin arrangement takes the bin face's load instead of the floor's — a detail that reads as unusual on paper but has not been reported as a practical problem by builders who have used it.
+- On glass yardage for the bottom and topsides, one builder's own estimate from memory was **roughly 18 yards of 38 in woven roving and 18 yards of cloth**, having used 60 in-wide 7.9 oz cloth because it was cheaper to source at the time than the plans' called-for 50 in width.
+- On **spar length trimming**, the plans' stock boom and mast lengths hold for both sail plans, so a builder need not commit to a shorter spar in advance: a drawing of the newer sail circulated among builders suggested the boom could come down by roughly 8.5 in and the mast by 4–4.5 in under the taller sail plan, closely matching a separate from-memory estimate of about 8 in off the boom — but as with any such trim, cutting should wait until the sail itself is in hand and can be measured directly against the spar, and a builder should expect to build to the stock dimensions first regardless. Builders who read Drawing #12's mixed-scale convention and its noted stray dimension-arrows for the first time have reported it takes more than one pass to fully parse, since the two differently scaled dimension sets and the sheet's two overlaid views (a side-section at left, a half-end-section at right) are not obvious until the drafting-error correction above is applied by eye.
+- Where a builder's own reordered plywood cutting layout — moving parts between sheets to make the metric stock go further than the plans' 4 ft × 8 ft-equivalent layout assumes — is shared with other builders, it has proven directly useful for planning cuts of the costlier, thicker sheets (18 mm) in particular, though reproducing exactly how a given layout fits every part onto one sheet can take some study from a drawing alone. Worked through in full for the 18 mm sheet specifically: the vent trunk sides come off the 9 mm sheet alongside the foredeck, one from each of the two wedge-shaped scrap offcuts; for the 18 mm sheet, the bottom rudder piece is flipped about a horizontal axis and moved as far left as possible so it fits inside bulkhead 3, leaving room in the scrap above for the breast hook and, in the lower-right wedge, for the vent trunk front. Flipping the rudder piece this way also solves a second problem: the rudder's "nose" otherwise falls off the edge of the sheet as drawn, whereas the new layout leaves an easy gap to fill with a small infill piece once the two rudder halves are joined. For anyone without access to a CAD system to test a layout before cutting, taping together newspaper templates of each part and physically shuffling them on a full-size sheet mock-up was suggested as a simple way to find a working arrangement before committing plywood.
+- The **bulkhead 1 and bulkhead 2 support levels for the stateroom sole** appear mismatched on the plans — the sole sits on bulkhead 1's lower floor frame and on a cleat on bulkhead 2, but those two supports are not level, a roughly 20 mm difference that, read literally, would leave the sole out of level and could bind the sole hatch against the bulkhead as it opens. The explanation is the hull's own **rocker**: bulkhead 1 sits considerably higher than bulkhead 2 once the hull's rocker is properly accounted for, and a floor built with that in mind comes out level despite the plans' two support points not lining up on paper — the difference in floor level between the two bulkheads can be checked directly against the waterline reference. The plans also omit the bulkhead 1 cleats meant to secure the bin sides, and are inconsistent about whether a port-side bin exists at all (shown on one sheet, absent from another) — both left to the builder's own judgment in practice, one builder having skipped the plans' bin-side arrangement entirely. On bulkhead 1, one builder placed the bin-side cleats **120 mm to port and 220 mm to starboard** of the centerline; there is no port bin forward of bulkhead 2 in that layout, only a nearly central divider some 120 mm to port of the centerline, with the cleat shown 390 mm to port on bulkhead 2 (sheet 7) belonging to the bin aft of that bulkhead. A separate reading of the same bulkhead 2 sheet found the "12×19 Cleats P&S" label's arrows both pointing at the starboard-side cleats (fore and aft), which — read together with a port side bin actually being called for — suggests the arrow at the fore starboard cleat is simply misplaced on the drawing.
+- The **outboard bulkhead cleats** (against the hull panels) are dimensioned 25 mm × 35 mm with a bevel shown along one side (7 mm at bulkhead 2, for example); in practice, exact cleat dimensions are **not critical** — a builder can use whatever scrap stock is to hand and split it to approximate size, since a Paradox's structure tolerates this kind of minor variance well. One builder used whatever offcuts were on hand, splitting a 50 mm × 25 mm piece into a pair of cleats where two were needed, or a 25 mm × 40 mm piece where that fit better, without any problem sourced to the exact sizing. As a general philosophy for the plans' small ambiguities: "let the force guide you," and failing that, epoxy, silicone, gaffer tape, brass screws, ring nails, or the example of other builders can resolve most of them — the boat's own structure is considered over-designed enough that a few cut corners in the bin-side cleats are unlikely to matter, since the bin sides are only semi-structural (supporting the sole in places) rather than fully load-bearing. The tank-vent and mast-ground fitting shown protruding from bulkhead 2 on other sheets is likewise something at least one builder omitted outright (having decided against internal water tanks and a wooden mast's need for such grounding, given lightning-strike likelihood in that location); in the stock plans this fitting sits on the port side of the vent/lightning-rod run at the point where the stateroom sole hatch begins, so building it as illustrated would foul the hatch's operation unless the vent and ground-plate run is moved aside to clear it.
 
 ## The 12 oz biaxial-versus-woven-roving question, continued: a professional's fuller explanation
 
-Beyond the biax-versus-woven-roving substitution question already answered
-at [hull planking](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for),
-professional lamination experience gives the fullest technical explanation on
-record of why to choose one fabric over the other at all:
+Beyond the biax-versus-woven-roving substitution question already answered at [hull planking](/construction/hull-planking.md#woven-roving-versus-biaxial-cloth-what-the-laminating-schedule-is-for), professional lamination experience gives the fullest technical explanation on record of why to choose one fabric over the other at all:
 
-- **Woven roving (WR)** is a simple plain "one-by-one" over-and-under weave —
-  easier to handle and laminate than biaxial fabric, especially for a
-  first-time epoxy user, but not as strong.
-- **Biaxial ("biax") cloth** lays all its lengthwise and widthwise rovings
-  flat over each other with no over-and-under bending of the fibers, giving
-  greater strength; most biax has no chopped-strand-mat (CSM) backing.
-- Multiple layers of WR ideally want a CSM layer between them for
-  interlaminar adhesion (biax needs no such intermediate layer); wetting out
-  the CSM layer first lets the WR layer roll in with little or no extra
-  resin.
-- In professional experience, WR uses **less resin** and traps **less air**
-  than biax and works faster, but shows a more pronounced weave impression
-  requiring more filling before painting — unless **peel ply** is used over
-  the wet laminate, which leaves a much flatter surface once removed and
-  minimizes paint prep. WR is also considerably cheaper.
-- Biax's strength/adhesion edge over WR is unlikely to matter much once
-  **epoxy** (rather than polyester) is the resin in use.
-- **Chopped strand mat (CSM)** specifically should only be used with
-  polyester or vinylester resin, never epoxy: polyester is water-permeable
-  over time on plywood, letting water under the sheathing and causing
-  delamination, while vinylester is watertight like epoxy but bonds less
-  well than epoxy to wood, making it unsuitable for gluing structural joints
-  even though it can serve for sheathing.
-- A cloth described as "**6 oz matte**" in the plans almost certainly means
-  **6 oz cloth**, not mat/matte — cloth (a light plain-weave woven roving)
-  and chopped strand mat are "very different animals."
+- **Woven roving (WR)** is a simple plain "one-by-one" over-and-under weave — easier to handle and laminate than biaxial fabric, especially for a first-time epoxy user, but not as strong.
+- **Biaxial ("biax") cloth** lays all its lengthwise and widthwise rovings flat over each other with no over-and-under bending of the fibers, giving greater strength; most biax has no chopped-strand-mat (CSM) backing.
+- Multiple layers of WR ideally want a CSM layer between them for interlaminar adhesion (biax needs no such intermediate layer); wetting out the CSM layer first lets the WR layer roll in with little or no extra resin.
+- In professional experience, WR uses **less resin** and traps **less air** than biax and works faster, but shows a more pronounced weave impression requiring more filling before painting — unless **peel ply** is used over the wet laminate, which leaves a much flatter surface once removed and minimizes paint prep. WR is also considerably cheaper.
+- Biax's strength/adhesion edge over WR is unlikely to matter much once **epoxy** (rather than polyester) is the resin in use.
+- **Chopped strand mat (CSM)** specifically should only be used with polyester or vinylester resin, never epoxy: polyester is water-permeable over time on plywood, letting water under the sheathing and causing delamination, while vinylester is watertight like epoxy but bonds less well than epoxy to wood, making it unsuitable for gluing structural joints even though it can serve for sheathing.
+- A cloth described as "**6 oz matte**" in the plans almost certainly means **6 oz cloth**, not mat/matte — cloth (a light plain-weave woven roving) and chopped strand mat are "very different animals."
 
-Following the designer's own specification of woven roving for this reason,
-the recommendation is to stick with WR despite its lower raw strength, since
-epoxy's superior adhesion (versus polyester) makes WR's main weakness far
-less significant in practice.
+Following the designer's own specification of woven roving for this reason, the recommendation is to stick with WR despite its lower raw strength, since epoxy's superior adhesion (versus polyester) makes WR's main weakness far less significant in practice.
 
 ## What microcruising.com confirms about plans availability
 
-The `microcruising.com` site (now catalogued at
-[microcruising.com](/references/microcruising-website.md)) confirms and
-extends the plans picture:
+The `microcruising.com` site (now catalogued at [microcruising.com](/references/microcruising-website.md)) confirms and extends the plans picture:
 
-- **Paradox** is the one design with a proper, purchasable plan set: the
-  site's study-plan/sketch pages are "for inspiration" only and direct buyers
-  to email for "a proper set of plans" — i.e.
-  [Dave Bolduc](/people/bolduc/dave.md) as the authorized seller, exactly as
-  the mailing-list history records.
-- **[Little Cruiser](/matt-layden/little-cruiser.md) has no formal plans** —
-  Matt "never got around to putting together a set of plans," though he let
-  the Bolducs reprint some drawings for illustration only, consistent with
-  the mailing list's repeated unanswered "where do I get LC plans?" questions.
-- **[Enigma](/matt-layden/enigma.md):** at the 2007 Cedar Key gathering Dave
-  asked Matt in person whether he would release the 12' Enigma and Enigma 460
-  plans, and Matt's answer was "yes" — but "it may be a while," as he was busy
-  with other projects.
-- A **builder cost data point** from the site's blog: a builder named
-  Alexander (New Jersey) reported his completed Paradox "Odyssey" cost him
-  **around $2,500 to build** — a rare figure for a finished amateur build,
-  complementing the ~$2,000/3-month figure for Matt's own original.
+- **Paradox** is the one design with a proper, purchasable plan set: the site's study-plan/sketch pages are "for inspiration" only and direct buyers to email for "a proper set of plans" — i.e. [the authorized distributor](/people/bolduc/dave.md), exactly as the mailing-list history records.
+- **[Little Cruiser](/matt-layden/little-cruiser.md) has no formal plans** — Matt "never got around to putting together a set of plans," though he gave permission to reprint some drawings for illustration only, consistent with the mailing list's repeated unanswered "where do I get LC plans?" questions.
+- **[Enigma](/matt-layden/enigma.md):** at the 2007 Cedar Key gathering Matt was asked in person whether he would release the 12' Enigma and Enigma 460 plans, and Matt's answer was "yes" — but "it may be a while," as he was busy with other projects.
+- A **builder cost data point** from the site's blog: a builder in New Jersey reported his completed Paradox "Odyssey" cost him **around $2,500 to build** — a rare figure for a finished amateur build, complementing the ~$2,000/3-month figure for Matt's own original.
 
 ## A January 2006 recurrence, twentieth time on record
 
-The pattern held into 2006: a newcomer who had seen the Paradox before but
-could no longer find it asked once more where to get the plans, and was
-again pointed straight to Dave Bolduc. The same newcomer went on to become
-the below-threshold correspondent tracked at
-[operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly)
-and [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it);
-no confirmation that he actually placed an order, started a build, or named
-a boat has yet surfaced.
+The pattern held into 2006: a newcomer who had seen the Paradox before but could no longer find it asked once more where to get the plans, and was again pointed straight to the plans distributor. The same newcomer went on to become the below-threshold correspondent tracked at [operations/first-boat-suitability.md](/operations/first-boat-suitability.md#the-two-person-question-answered-directly) and [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it); no confirmation that an order was placed, a build started, or a boat named has yet surfaced.
 
 ## An April 2006 recurrence: unanswered e-mail to Dave Bolduc
 
-The same "plans FAQ" recurred again a few days later: a newcomer, unable to
-reach Dave Bolduc by e-mail, asked the group directly for help getting a set
-of plans.[148] The reply counseled patience rather than an alternative
-contact — Dave was likely off sailing in the Bahamas at the time, with
-sailing itself the higher priority — reinforcing the same "may be off
-sailing at this time" caveat recorded earlier in this FAQ's history.[149]
-The confusion behind this particular recurrence turned out to be simpler
-than it first looked: the newcomer's subject line had garbled Dave Bolduc's
-own e-mail address into "MBULDOC," prompting a separate correspondent to
-clarify, over two short follow-up messages, that the intended contact was
-simply Dave (David) Bolduc under his own name.[150][151]
+The same "plans FAQ" recurred again a few days later: a newcomer, unable to reach the distributor by e-mail, asked the group directly for help getting a set of plans.[148] The reply counseled patience rather than an alternative contact — the distributor was likely off sailing in the Bahamas at the time, with sailing itself the higher priority — reinforcing the same "may be off sailing at this time" caveat recorded earlier in this FAQ's history.[149] The confusion behind this particular recurrence turned out to be simpler than it first looked: the newcomer's subject line had garbled the distributor's own e-mail address into "MBULDOC," prompting clarification, over two short follow-up messages, that the intended contact was simply Dave (David) Bolduc under his own name.[150][151]
 
 ## A July 2006 recurrence, and a blunt assessment of the paid manual's quality
 
-The plans FAQ recurred again in mid-July 2006 in its most familiar form: a
-newcomer who had already e-mailed the Bolducs without a reply asked the group
-where else the plans could be bought, and separately whether
-[Don Elliott](/people/don-elliott.md)'s paid construction manual was worth its
-price.[152] The patience answer was the same as ever — the Bolducs were most
-likely away cruising and would reply once they returned.[153][155] On the
-manual's quality, though, the replies split more sharply than in any earlier
-recurrence: one builder rated only **about 30% of the manual as actually
-readable** and recommended buying Jim Michalak's book from Duckworks
-instead;[154] another judged it worth the money for a first-time builder,
-containing "some useful pointers (and quite a lot of less useful stuff)."[155]
-A third pointed past the manual entirely, to
-[Derek Clark](/people/derek-clark.md)'s own first-person account of building
-"[Enuf](/boats/enuf.md)," published as a "very serious technical article" on
-Duckworks Magazine's website, plus the group's own links page as further
-reading.[156]
+The plans FAQ recurred again in mid-July 2006 in its most familiar form: a newcomer who had already e-mailed without a reply asked the group where else the plans could be bought, and separately whether the paid construction manual was worth its price.[152] The patience answer was the same as ever — the distributor was most likely away cruising and would reply once returned.[153][155] On the manual's quality, though, the replies split more sharply than in any earlier recurrence: one builder rated only **about 30% of the manual as actually readable** and recommended buying Jim Michalak's book from Duckworks instead;[154] another judged it worth the money for a first-time builder, containing "some useful pointers (and quite a lot of less useful stuff)."[155] A third pointed past the manual entirely, to a first-person account of building "[Enuf](/boats/enuf.md)," published as a "very serious technical article" on Duckworks Magazine's website, plus the group's own links page as further reading.[156]
 
-Within days of ordering his own plans, the newest member to ask this
-question was already answering it for the next one: when a first-time
-newcomer from North Idaho said he wished he could simply pay by card on a
-website rather than deal with the mail,[157] the same member who had just
-placed his own order explained the actual mechanic — the Bolducs accept
-PayPal, addressed to their own e-mail rather than a dedicated storefront, and
-the $40 nominal fee already covers the cost of mailing the plans out; a
-builder need only e-mail the Bolducs to say a PayPal payment is coming, then
-send it to that address.[158]
+Within days of ordering, the newest member to ask this question was already answering it for the next one: when a first-time newcomer from North Idaho said he wished he could simply pay by card on a website rather than deal with the mail,[157] the member who had just placed an order explained the actual mechanic — the distributor accepts PayPal, addressed to a personal e-mail rather than a dedicated storefront, and the $40 nominal fee already covers the cost of mailing the plans out; a builder need only e-mail to say a PayPal payment is coming, then send it to that address.[158]
 
-The same week brought a variant of the FAQ from an overseas buyer: a
-prospective builder in Panama City, unable to reach Dave Bolduc by e-mail,
-asked how to pay and ship plans internationally without a straightforward
-mail route — proposing a money order sent by international courier with a
-prepaid return envelope included, and using a Miami freight-forwarder address
-to avoid mailing to Panama directly. What packaging a set of plans actually
-needs (a tube versus a standard envelope or bag) was left an open question in
-the archive.[159] The plans were confirmed to come in a standard 11x14 in
-envelope; summer was noted, again, as a slow season for the Bolducs to reply
-to plans requests, a recurring pattern by this point in the archive.[160] One
-established correspondent, prompted by the exchange, wondered aloud whether
-the plans should be offered as a **download** instead of mailed
-originals, without pursuing the idea further.[161]
+The same week brought a variant of the FAQ from an overseas buyer: a prospective builder in Panama City, unable to reach the distributor by e-mail, asked how to pay and ship plans internationally without a straightforward mail route — proposing a money order sent by international courier with a prepaid return envelope included, and using a Miami freight-forwarder address to avoid mailing to Panama directly. What packaging a set of plans actually needs (a tube versus a standard envelope or bag) was left an open question in the archive.[159] The plans were confirmed to come in a standard 11x14 in envelope; summer was noted, again, as a slow season for the distributor to reply to plans requests, a recurring pattern by this point in the archive.[160] One suggestion, prompted by the exchange, wondered aloud whether the plans should be offered as a **download** instead of mailed originals, without pursuing the idea further.[161]
 
-Told to expect a wait until the Bolducs' next reply, the Panama City buyer
-said he would hold off ordering until winter, observing in the meantime that
-the Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) designs
-carry a lot of Phil Bolger's sharpie philosophy, and that studying
-[stitch-and-glue technique via Sam Devlin's
-book](/construction/hull-planking.md#stitch-and-glue-as-an-alternative-construction-method)
-might let a builder eventually adapt the design correctly.[162] See
-[plywood grade and foam flotation debate — a July 2006 recurrence, and a
-recommendation for MDO
-plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood)
-for the plywood-grading and scarfing detail from the same correspondent, and
-[the mailing list's Robbsboat comparison](/references/mailing-list.md#list-culture)
-for a separate, contemporaneous alternative-design pointer answering the same
-"what else could I build" impulse.
+Told to expect a wait until the next reply, the Panama City buyer said he would hold off ordering until winter, observing in the meantime that the Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) designs carry a lot of Phil Bolger's sharpie philosophy, and that studying [stitch-and-glue technique via Sam Devlin's book](/construction/hull-planking.md#stitch-and-glue-as-an-alternative-construction-method) might let a builder eventually adapt the design correctly.[162] See [plywood grade and foam flotation debate — a July 2006 recurrence, and a recommendation for MDO plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood) for the plywood-grading and scarfing detail from the same correspondent, and [the mailing list's Robbsboat comparison](/references/mailing-list.md#list-culture) for a separate, contemporaneous alternative-design pointer answering the same "what else could I build" impulse.
 
-[Paul V.](/people/paul-v.md) offered a design-lineage correction: he judges it
-is **Ted Monroe's sharpie work**, more than Bolger's, that actually inspired
-Paradox.[163] The Panama City buyer, still weighing what a "sharpie" bottom
-shape actually achieves, theorized (from general reading, not certain of the
-claim) that the underlying idea — a design credited to Phil Bolger, though
-possibly worked out earlier by others — is to curve the bottom to match the
-curve of the sides, so that heeling presents a clean V to the water, lifting
-the bow and reducing drag; he judged this might apply to sharpie hulls
-generally, and separately wondered how much reserve stability the ballasted
-Paradox and Little Cruiser actually carry beyond their evident sturdiness.
-Weighing "no ideal sea boat, only a set of compromises," and noting most
-sailors shown Little Cruiser locally judged her "crazy" and too small, his own
-goal was simply cruising Panama Bay and the Pearl Islands.[164] He closed the
-thread by floating Jim Michalak's design (see [the mailing list's Robbsboat
-comparison](/references/mailing-list.md#list-culture)) as a starting point
-that "could be modified as needed."[165]
+A design-lineage correction is also on record: it is **Ted Monroe's sharpie work**, more than Bolger's, that actually inspired Paradox.[163] The Panama City buyer, still weighing what a "sharpie" bottom shape actually achieves, theorized (from general reading, not certain of the claim) that the underlying idea — a design credited to Phil Bolger, though possibly worked out earlier by others — is to curve the bottom to match the curve of the sides, so that heeling presents a clean V to the water, lifting the bow and reducing drag; this was judged to possibly apply to sharpie hulls generally, with a separate open question of how much reserve stability the ballasted Paradox and Little Cruiser actually carry beyond their evident sturdiness. Weighing "no ideal sea boat, only a set of compromises," and noting most sailors shown Little Cruiser locally judged her "crazy" and too small, the goal was simply cruising Panama Bay and the Pearl Islands.[164] The thread closed by floating Jim Michalak's design (see [the mailing list's Robbsboat comparison](/references/mailing-list.md#list-culture)) as a starting point that "could be modified as needed."[165]
 
 # Citations
 

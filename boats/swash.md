@@ -8,117 +8,39 @@ timestamp: 2026-07-05T00:00:00Z
 
 # Swash
 
-**"Swash"** is [David C. Smith](/people/david-c-smith.md)'s Paradox, built strictly **as drawn** —
-the practical expression of Smith's own designer-fidelity credo (see
-[people/david-c-smith.md](/people/david-c-smith.md#a-designer-fidelity-credo)) — from **Joubert
-Okoume BS-1088 plywood**, **Honduras Mahogany** solid lumber through most of
-the hull, and **West System epoxy**.
+**"Swash"** is [David C. Smith](/people/david-c-smith.md)'s Paradox, built strictly **as drawn** — the practical expression of Smith's own designer-fidelity credo (see [people/david-c-smith.md](/people/david-c-smith.md#a-designer-fidelity-credo)) — from **Joubert Okoume BS-1088 plywood**, **Honduras Mahogany** solid lumber through most of the hull, and **West System epoxy**.
 
 ## Name and early build
 
-Smith introduced the boat to the list in November 2003 under the heading
-"Introducing Swash," uploading photos and naming her **"Swash"** — a name
-chosen for three reasons at once: the sound of water, a bit of swagger, and
-the USGS acronym for "Survey Wide Area SHorelines." He built a rolling
-cradle from 4x4 timbers and 5 in swivel casters after seeing a fellow
-builder's aside about using his son's giant skateboard for the same purpose.
-At that point the bottom was on and the hull right-side-up in the garage for
-the winter, with the interior being prepped for foam board and a second vent
-trunk forward of bulkhead #1 still at the contemplation stage — a deck hole
-(perhaps a Beckson access plate), water baffle(s), and a drain with a
-possible flapper valve to keep noise down while the bow plunges, sturdy
-enough for regular filling without much added weight.
+Smith introduced the boat to the list in November 2003 under the heading "Introducing Swash," uploading photos and naming her **"Swash"** — a name chosen for three reasons at once: the sound of water, a bit of swagger, and the USGS acronym for "Survey Wide Area SHorelines." He built a rolling cradle from 4x4 timbers and 5 in swivel casters after an aside about using a son's giant skateboard for the same purpose. At that point the bottom was on and the hull right-side-up in the garage for the winter, with the interior being prepped for foam board and a second vent trunk forward of bulkhead #1 still at the contemplation stage — a deck hole (perhaps a Beckson access plate), water baffle(s), and a drain with a possible flapper valve to keep noise down while the bow plunges, sturdy enough for regular filling without much added weight.
 
-[Glen Maxwell](/people/glen-maxwell.md) and [Alastair](/people/alastair.md)
-both praised the workmanship and the quality of Smith's lumber; Smith in turn
-floated a "round robin" boat-swap race day as a better test of comparative
-Paradox performance than owners racing only their own boats, and described
-his own clamp-buying spree after moving off a boat that couldn't support more
-than half a dozen small clamps — bar clamps at $1 each, and sale-priced
-C-clamps and pipe-clamp fittings from Harbor Freight and Homier.
+The workmanship and the quality of Smith's lumber both drew praise. Smith in turn floated a "round robin" boat-swap race day as a better test of comparative Paradox performance than owners racing only their own boats, and described his own clamp-buying spree after moving off a boat that couldn't support more than half a dozen small clamps — bar clamps at $1 each, and sale-priced C-clamps and pipe-clamp fittings from Harbor Freight and Homier.
 
-Asked directly, in April 2004, to show the boat before she was finished, Smith
-declined — "like an author who keeps the manuscript under wraps" — promising
-more photos as he progressed and word if Swash ever appeared at a Northwest
-boat show or festival.
+Asked directly, in April 2004, to show the boat before she was finished, Smith declined — "like an author who keeps the manuscript under wraps" — promising more photos as he progressed and word if Swash ever appeared at a Northwest boat show or festival.
 
 ## Owning "Swash"
 
-Smith sails and moors **downriver from Deer Island, Oregon**, on the **Columbia
-River**, drawn to the Paradox as well suited to **year-round Northwest
-sailing**: winter conditions keep all but the hardiest recreational boaters
-off the water, leaving the **lower Columbia below Rainier, Oregon** — shoal-draft
-cruising grounds otherwise seen mostly by kayakers — open through the season a
-heavier boat would sit out. A trailer trip from there across the Lewis and
-Clark bridge to Interstate 5 reaches the lower Puget Sound at Olympia,
-Washington, and the protected inland waters of Washington and British
-Columbia beyond it; the open Oregon/Washington coast itself rates only
-"mediocre" cruising, though short, weather-watched coastal passages can still
-connect to further upriver cruising grounds.
+Smith sails and moors **downriver from Deer Island, Oregon**, on the **Columbia River**, drawn to the Paradox as well suited to **year-round Northwest sailing**: winter conditions keep all but the hardiest recreational boaters off the water, leaving the **lower Columbia below Rainier, Oregon** — shoal-draft cruising grounds otherwise seen mostly by kayakers — open through the season a heavier boat would sit out. A trailer trip from there across the Lewis and Clark bridge to Interstate 5 reaches the lower Puget Sound at Olympia, Washington, and the protected inland waters of Washington and British Columbia beyond it; the open Oregon/Washington coast itself rates only "mediocre" cruising, though short, weather-watched coastal passages can still connect to further upriver cruising grounds.
 
-Smith judged a multihull — a Farrier trimaran, a Woods Wizard, or a Sango
-catamaran — would suit a Sea of Cortez trailer trip better than a Paradox,
-consistent with a general philosophy of **owning several boats each suited to
-a specific requirement** rather than one boat for every requirement. Swash
-was built **to be kept for life**; by spring 2004 her interior was being
-fitted out.
+Smith judged a multihull — a Farrier trimaran, a Woods Wizard, or a Sango catamaran — would suit a Sea of Cortez trailer trip better than a Paradox, consistent with a general philosophy of **owning several boats each suited to a specific requirement** rather than one boat for every requirement. Swash was built **to be kept for life**; by spring 2004 her interior was being fitted out.
 
 ## An unfinished hull for sale (July 2004), and a choice to keep her
 
-In July 2004, Smith offered the still part-built "Swash" for sale, prompted by a
-divorce — the listing gives the archive's fullest itemized account of what an
-unfinished hull is worth and what remains to complete one:
+In July 2004, Smith offered the still part-built "Swash" for sale, prompted by a divorce — the listing gives the archive's fullest itemized account of what an unfinished hull is worth and what remains to complete one:
 
-- **Asking price: $3,000**, against **$1,600+** in receipts (not counting
-  incidental shop supplies and some mahogany) and an estimated **$2,000**
-  total material cost to that point — meaning the bulk of the labor invested
-  was a deliberate loss to Smith, sold at cost-plus-a-little rather than for
-  profit.
-- **State of completion**: hull assembled with foil-faced foam installed;
-  enough 3 mm BS 1088 Okoume plywood on hand to skin the foam, with the choice
-  left to the buyer of painting the foam bare (as designed) or skinning it as
-  Smith had intended; vent baffle installed; yuloh complete but only three coats
-  of varnish; rudder started; no glass yet applied to the hull; the chine
-  runners existing only as unblocked bottom extensions. Materials on hand to
-  finish the boat were included in the sale, all likewise unexposed to
-  weather; solid lumber throughout was Honduras mahogany except the
-  longitudinal floors, in clear vertical-grain Douglas fir. No trailer was
-  included.
-- Yacht-quality workmanship "with minor exceptions, as designed," the hull
-  never having been exposed to weather (kept garaged throughout the build).
+- **Asking price: $3,000**, against **$1,600+** in receipts (not counting incidental shop supplies and some mahogany) and an estimated **$2,000** total material cost to that point — meaning the bulk of the labor invested was a deliberate loss to Smith, sold at cost-plus-a-little rather than for profit.
+- **State of completion**: hull assembled with foil-faced foam installed; enough 3 mm BS 1088 Okoume plywood on hand to skin the foam, with the choice left to the buyer of painting the foam bare (as designed) or skinning it as Smith had intended; vent baffle installed; yuloh complete but only three coats of varnish; rudder started; no glass yet applied to the hull; the chine runners existing only as unblocked bottom extensions. Materials on hand to finish the boat were included in the sale, all likewise unexposed to weather; solid lumber throughout was Honduras mahogany except the longitudinal floors, in clear vertical-grain Douglas fir. No trailer was included.
+- Yacht-quality workmanship "with minor exceptions, as designed," the hull never having been exposed to weather (kept garaged throughout the build).
 
-Interest came from a third party seeking further completion photos, an
-estimate of remaining cost and time to finish her, and confirmation of
-whether the hull was glassed and the chine runners finished, with a trailer
-and cash on offer if a deal could be reached. Swash remained unsold, with
-completion photos delayed by a real-estate/divorce-related backlog; the
-remaining-materials cost was left to the buyer's own approach, a
-quick-and-dirty finish versus Smith's own more deliberate (and costlier)
-standard. Smith credited David Beard with recommending he focus on finishing the
-boat himself as a way through the divorce, and — the longer the process
-dragged on — grew less inclined to give the boat up, resolving to finish her
-himself if he still owned her that autumn. No sale is recorded as having gone
-through; Smith kept and continued building "Swash." See [operations/secondhand-market.md](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004)
-for the original for-sale thread.
+Interest came from a third party seeking further completion photos, an estimate of remaining cost and time to finish her, and confirmation of whether the hull was glassed and the chine runners finished, with a trailer and cash on offer if a deal could be reached. Swash remained unsold, with completion photos delayed by a real-estate/divorce-related backlog; the remaining-materials cost was left to the buyer's own approach, a quick-and-dirty finish versus Smith's own more deliberate (and costlier) standard. Encouraged to focus on finishing the boat himself as a way through the divorce, Smith — the longer the process dragged on — grew less inclined to give the boat up, resolving to finish her himself if he still owned her that autumn. No sale is recorded as having gone through; Smith kept and continued building "Swash." See [operations/secondhand-market.md](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004) for the original for-sale thread.
 
 ## Later life — "Swashfrog" (2021)
 
-Smith kept "Swash" and was still carrying her build forward years later. A March
-2021 photograph shows the faired hull, set stern-first on a wheeled timber
-cradle, loaded into a U-Haul for a move — the boat having "just made it to the
-top of the priority list," with "big plans for this little lady." By then her
-name had grown to **"Swashfrog"**, the "sv" vessel prefix reworked into a
-survey-mission backronym — **"svSwashfrog"**, i.e. *"Survey Wide Area SHoreline,
-with occasional hops"* — the "-frog" a nod to hopping that carried the original
-USGS wordplay behind "Swash" (see [Name and early build](#name-and-early-build))
-forward some seventeen years. The move drew a wry note that a boat "shrinks upon
-launching," and "the same can be said when tossing a boat into a UHaul." [12]
+Smith kept "Swash" and was still carrying her build forward years later. A March 2021 photograph shows the faired hull, set stern-first on a wheeled timber cradle, loaded into a U-Haul for a move — the boat having "just made it to the top of the priority list," with "big plans for this little lady." By then her name had grown to **"Swashfrog"**, the "sv" vessel prefix reworked into a survey-mission backronym — **"svSwashfrog"**, i.e. *"Survey Wide Area SHoreline, with occasional hops"* — the "-frog" a nod to hopping that carried the original USGS wordplay behind "Swash" (see [Name and early build](#name-and-early-build)) forward some seventeen years. The move drew a wry note that a boat "shrinks upon launching," and "the same can be said when tossing a boat into a UHaul." [12]
 
 ## See also
 
-For Smith's fuller biography, his designer-fidelity credo, and his extensive
-construction, rig, and seamanship contributions to the list, see
-[people/david-c-smith.md](/people/david-c-smith.md).
+For Smith's fuller biography, his designer-fidelity credo, and his extensive construction, rig, and seamanship contributions to the list, see [people/david-c-smith.md](/people/david-c-smith.md).
 
 # Citations
 

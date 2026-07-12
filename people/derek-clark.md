@@ -8,433 +8,69 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Derek Clark
 
-**Derek Clark** is a UK Paradox builder whose
-boat, **["Enuf"](/boats/enuf.md)**, was renamed from an earlier working name,
-**"So-So,"** on his wife's suggestion. A self-described diabetic, he weighed
-that condition directly against relying on sculling alone for auxiliary
-power, choosing to keep an outboard as well as build a yuloh. He built and
-launched "Enuf" over roughly 2004-2005, closing out the group's photo-folder
-mishap and his own build with an unprompted thank-you to the list as a whole
-just before launch.
+**Derek Clark** is a UK Paradox builder whose boat, **["Enuf"](/boats/enuf.md)**, was renamed from an earlier working name, **"So-So,"** on his wife's suggestion. A self-described diabetic, he weighed that condition directly against relying on sculling alone for auxiliary power, choosing to keep an outboard as well as build a yuloh. He built and launched "Enuf" over roughly 2004-2005, closing out the group's photo-folder mishap and his own build with an unprompted thank-you to the list as a whole just before launch.
 
-Full build narrative — ballast layout, hull turning and a void repair, the
-tack-strut/boom-axle pivot joint, and the "three-tone green with a yellow
-bottom" paint scheme — lives on [boats/enuf.md](/boats/enuf.md).
+Full build narrative — ballast layout, hull turning and a void repair, the tack-strut/boom-axle pivot joint, and the "three-tone green with a yellow bottom" paint scheme — lives on [boats/enuf.md](/boats/enuf.md).
 
 ## Community role
 
-Derek was an active, good-humored participant in the list's running banter as
-well as its technical threads. During the mid-2005 revisiting of [Don
-Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)'s
-2003 ban, Derek took a measured line — agreeing Don had useful Paradox-specific
-knowledge to share while not passing judgment on the ban itself — and joined
-the resulting run of ban-story banter, joking that being banned by Don without
-ever having posted "a social cachet that must be difficult to achieve" that he
-might go for himself once "Enuf" was finished, and later proposing (half in
-jest) a dedicated group for everyone Don had banned. When a fellow member's
-folder mix-up (see [boats/enuf.md](/boats/enuf.md#the-enuf-photo-folder-mystery-and-a-thank-you-to-the-list))
-threatened to derail his own build photos, Derek took it in stride, suspecting
-at one point that Don Elliott himself might be behind the mix-up, but affirming
-Don remained a fellow builder and sailor with useful contributions to make.
+Derek was an active, good-humored participant in the list's running banter as well as its technical threads. During the mid-2005 revisiting of [Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)'s 2003 ban, Derek took a measured line — agreeing Don had useful Paradox-specific knowledge to share while not passing judgment on the ban itself — and joined the resulting run of ban-story banter, joking that being banned by Don without ever having posted "a social cachet that must be difficult to achieve" that he might go for himself once "Enuf" was finished, and later proposing (half in jest) a dedicated group for everyone Don had banned. When a folder mix-up (see [boats/enuf.md](/boats/enuf.md#the-enuf-photo-folder-mystery-and-a-thank-you-to-the-list)) threatened to derail his own build photos, Derek took it in stride, suspecting at one point that Don Elliott himself might be behind the mix-up, but affirming Don remained a fellow builder and sailor with useful contributions to make.
 
 ## Other contributions
 
-Derek asked whether a secondhand aluminum Skipper 12 dinghy mast might suit a
-Paradox, and separately asked whether Matt Layden's own mast design had been
-arrived at by engineering calculation or simply from what materials he had on
-hand — left unanswered in the archive. Answering a tiller-shape question in
-August 2006, he described bending a one-inch galvanized pipe to shape by
-working it through a hole drilled in a 4x2 block until it curved enough, then
-cutting it to length and giving it a final touch-up bend in a vice so it
-would clear the under-deck foam at the extremes of its swing — a fast,
-jig-free alternative to laminating a wooden tiller — and, asked to confirm,
-said he used the bent pipe itself directly as the finished tiller, quicker
-and handier than either laminating plywood strips or bending ash. See
-[design/rudder.md — tiller
-construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[78][79] Answering Bill Serjeant's masthead-wiring
-question in October 2005, he pointed to Alastair's own recessed below-deck
-plug as a model, and mentioned building his own masthead light inside a
-translucent plastic ball (of the kind sold containing washing-machine powder)
-to be rigged only when needed, rather than wiring a fixed light permanently —
-see [running lights — clearing a snug deck hole as the mast is stepped and
-unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped). He also searched at length (with
-[William Longyard](/people/william-longyard.md) and others) for a published
-photograph of the original prototype's single-line mainsheet setup, eventually
-finding candidate photo links and asking the group to scan a magazine image to
-the file section for members without access to the source. See [rig and sail
-— mast material choices](/design/rig.md#mast-material-choices) and
-[boats/original-paradox.md](/boats/original-paradox.md). He also floated a
-Dursley-Pedersen-style athwartships hammock seat as a helm-comfort idea; see
-[crew size and fit — long-passage seat comfort: cushion
-practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).
-Answering a newcomer's epoxy-quantity question, gave the gallon-to-litre and
-litre-to-kilogram conversions used to translate the plans' materials
-estimate into metric units. See [epoxy brands and chemistry — converting a
-US epoxy quantity to litres or
-kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).
-A follow-up question on his own total epoxy cost caught him self-deprecating
-rather than precise: having stripped and completely redone his hull bottom
-once already (roughly £160 in wasted materials), he gave up tracking the
-total and guessed around £2,000 overall, preferring not to know the real
-figure himself, let alone tell his wife. See [epoxy brands and chemistry —
-how much epoxy a build actually
-uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).
-On the recurring drinking-water-and-epoxy question, his own epoxy supplier's
-blunt warning ("at worst you'll go blind") led him to use his tank
-compartments as lift-up-lid food storage instead, carrying actual drinking
-water in roll-up carriers under the seat — see [water tank construction and
-lining — epoxy: mixed
-opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
-Asked, half in jest, what "S&G" (stitch-and-glue) construction actually
-stood for during Jack Gardiner's bilge-finishing answer — see [checking a
-used Paradox for rot — finishing the bilges: leave inspectable, or paint
-over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
-He also flagged Jim Michalak's "Robbsboat" and its Cormorant relative as a
-possible Paradox alternative worth watching, prompting a detailed comparison
-against Bolger's AS29; see [the mailing list — list
-culture](/references/mailing-list.md#list-culture). Follow-up: challenged
-whether Michalak's own designs are actually proven for long-distance,
-single-handed coastal cruising the way Paradox is, conceding "somewhat"
-that a skilled sailor can do anything in anything, but holding it is surely
-better to start with a boat suited to the purpose — see [the mailing list —
-list culture](/references/mailing-list.md#list-culture). On a builder's
-proposed folding tabernacle mast for an enlarged Paradox, offered his own
-mast (lighter than the builder's, liftable single-handed from the foredeck)
-as a data point against needing one, but judged a folding mast could still
-suit river/canal use with low bridges, given only a forestay to help haul it
-upright. See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
-way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[80]
-Corrected his own earlier report of the Mk2 sail's forward creep while
-furling from 2.5 in to the true **7.5 in** — a typo, not a re-measurement —
-while restating the Mk1/Mk2 tack-angle explanation, and reported building a
-new boom from leftover mahogany; see [the furling system — worked boom
-dimensions for the Mk1 taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[81]
-Questioned whether birdsmouth hollow-mast construction is really as simple as
-suggested, reasoning that trying it would mean cutting up his existing mast
-regardless, with no guarantee of a better result; see [stretched Paradox — a
-builder's 18-19 ft "maxi paradox," under
-way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[82]
-Asked afterward whether a bigger boom taper was now needed given the
-corrected 7.5 in figure, was unconvinced it would help — the Mk2 sail's
-greater tack angle already pushes the tack-securing point back along the
-boom regardless of taper — and left the real-world test of his rebuilt
-mahogany boom, due the following Tuesday, to settle it. See [the furling
-system — worked boom dimensions for the Mk1
-taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[83]
+Derek asked whether a secondhand aluminum Skipper 12 dinghy mast might suit a Paradox, and separately asked whether Matt Layden's own mast design had been arrived at by engineering calculation or simply from what materials he had on hand — left unanswered in the archive. Answering a tiller-shape question in August 2006, he described bending a one-inch galvanized pipe to shape by working it through a hole drilled in a 4x2 block until it curved enough, then cutting it to length and giving it a final touch-up bend in a vice so it would clear the under-deck foam at the extremes of its swing — a fast, jig-free alternative to laminating a wooden tiller — and, asked to confirm, said he used the bent pipe itself directly as the finished tiller, quicker and handier than either laminating plywood strips or bending ash. See [design/rudder.md — tiller construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[78][79] Answering an October 2005 masthead-wiring question, he pointed to a recessed below-deck plug as a model, and mentioned building his own masthead light inside a translucent plastic ball (of the kind sold containing washing-machine powder) to be rigged only when needed, rather than wiring a fixed light permanently — see [running lights — clearing a snug deck hole as the mast is stepped and unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped). He also searched at length for a published photograph of the original prototype's single-line mainsheet setup, eventually finding candidate photo links and asking the group to scan a magazine image to the file section for members without access to the source. See [rig and sail — mast material choices](/design/rig.md#mast-material-choices) and [boats/original-paradox.md](/boats/original-paradox.md). He also floated a Dursley-Pedersen-style athwartships hammock seat as a helm-comfort idea; see [crew size and fit — long-passage seat comfort: cushion practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice). Answering a newcomer's epoxy-quantity question, gave the gallon-to-litre and litre-to-kilogram conversions used to translate the plans' materials estimate into metric units. See [epoxy brands and chemistry — converting a US epoxy quantity to litres or kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms). A follow-up question on his own total epoxy cost caught him self-deprecating rather than precise: having stripped and completely redone his hull bottom once already (roughly £160 in wasted materials), he gave up tracking the total and guessed around £2,000 overall, preferring not to know the real figure himself, let alone tell his wife. See [epoxy brands and chemistry — how much epoxy a build actually uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses). On the recurring drinking-water-and-epoxy question, an epoxy supplier's blunt warning ("at worst you'll go blind") led him to use his tank compartments as lift-up-lid food storage instead, carrying actual drinking water in roll-up carriers under the seat — see [water tank construction and lining — epoxy: mixed opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions). Asked, half in jest, what "S&G" (stitch-and-glue) construction actually stood for during a bilge-finishing answer — see [checking a used Paradox for rot — finishing the bilges: leave inspectable, or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).
+
+He also flagged Jim Michalak's "Robbsboat" and its Cormorant relative as a possible Paradox alternative worth watching, prompting a detailed comparison against Bolger's AS29; see [the mailing list — list culture](/references/mailing-list.md#list-culture). Follow-up: challenged whether Michalak's own designs are actually proven for long-distance, single-handed coastal cruising the way Paradox is, conceding "somewhat" that a skilled sailor can do anything in anything, but holding it is surely better to start with a boat suited to the purpose — see [the mailing list — list culture](/references/mailing-list.md#list-culture). On a builder's proposed folding tabernacle mast for an enlarged Paradox, offered his own mast (lighter than the builder's, liftable single-handed from the foredeck) as a data point against needing one, but judged a folding mast could still suit river/canal use with low bridges, given only a forestay to help haul it upright. See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[80] Corrected his own earlier report of the Mk2 sail's forward creep while furling from 2.5 in to the true **7.5 in** — a typo, not a re-measurement — while restating the Mk1/Mk2 tack-angle explanation, and reported building a new boom from leftover mahogany; see [the furling system — worked boom dimensions for the Mk1 taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[81] Questioned whether birdsmouth hollow-mast construction is really as simple as suggested, reasoning that trying it would mean cutting up his existing mast regardless, with no guarantee of a better result; see [stretched Paradox — a builder's 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[82] Asked afterward whether a bigger boom taper was now needed given the corrected 7.5 in figure, was unconvinced it would help — the Mk2 sail's greater tack angle already pushes the tack-securing point back along the boom regardless of taper — and left the real-world test of his rebuilt mahogany boom, due the following Tuesday, to settle it. See [the furling system — worked boom dimensions for the Mk1 taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[83]
 
 ## Resuming the build after a break
 
-In mid-December 2005, Derek reported restarting work on "Enuf" after a pause,
-with a new boom taking shape; a propane fan heater brought his unheated
-garage from 9°C to 20°C in short order, and he built a dedicated
-Lexan-and-cork-gasket transom port for spar stowage. Through January 2006
-he finished the boom and mast, weighed a strop-and-sheave halyard against
-cutting a mast slot, and settled a recurring bamboo-vs-wood yard question by
-building the yard from wood after all, cutting around a knotted section of
-the boom blank; he also settled on a wedge-and-rowlock socket at the transom
-(Alastair's suggestion) for sculling, and confirmed with David Beard that his
-own 2 hp Honda outboard, like Beard's on "Whisper," is the preferred
-short-shaft version. Full build narrative at
-[boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater)
-and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
-Answering a newcomer's build-time and dimension questions, Derek gave his own
-build timeline (started September 2004, non-continuous, only the cabin left
-after about 16 months) and his sleeping area's exact measurements (74.5 in by
-36 in) — see [first-boat suitability — build-time figures and difficulty
-rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).
-Closing out his rowlock/wedge exchange, thanked Alastair for settling on the
-right word ("rowlock") for the fitting, prompting Jack Gardiner's aside that
-the American term for the same thing is "oarlock" — which Derek took in good
-humor, agreeing he would call it that too if ever blown to the American side
-of the Atlantic. A working answer to his original yuloh-in-a-rowlock question
-came from David Platten, describing a leathered loom and forward-facing
-leather button on his own non-Paradox lugger's yuloh; Derek thanked him
-directly, calling the technique "very helpful." Planning ahead for
-"Enuf"'s cabin, floated building a **slot-top** design (as Jim Michalak and
-Phil Bolger often use) from 12 mm ply with routed, Lexan-glazed window
-openings and a lift-out rear window for outboard access, and looked at
-plasticised lorry-curtain fabric — already proven skinning a kayak — as a way
-to seal such a slot against the risk of a knocked-down boat not floating with
-it open. Weighing Bill Serjeant's and Alastair's cautionary replies, Derek
-concluded it is difficult to improve on the original design, cited a
-non-Paradox boat built of exterior plywood and polyester resin that lasted
-some 15 years as a durability data point, and settled on Alastair's
-bolt-rather-than-glue suggestion for the cabin roof so any experiment could
-be reversed. See [boats/enuf.md — the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom)
-and [boats/enuf.md — a slot-top cabin idea for open-water
-use](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use).
+In mid-December 2005, Derek reported restarting work on "Enuf" after a pause, with a new boom taking shape; a propane fan heater brought his unheated garage from 9°C to 20°C in short order, and he built a dedicated Lexan-and-cork-gasket transom port for spar stowage. Through January 2006 he finished the boom and mast, weighed a strop-and-sheave halyard against cutting a mast slot, and settled a recurring bamboo-vs-wood yard question by building the yard from wood after all, cutting around a knotted section of the boom blank; he also settled on a wedge-and-rowlock socket at the transom for sculling, and confirmed that his own 2 hp Honda outboard, like the one on "Whisper," is the preferred short-shaft version. Full build narrative at [boats/enuf.md](/boats/enuf.md#resuming-work-a-new-boom-and-a-propane-heater) and [the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).
 
-Days later, unable to add a photo to his "Enuf" album, Derek ran into the same
-group-permissions problem on Don Elliott's own group; Bill Serjeant answered
-that upload privileges are a moderator-controlled Yahoo Groups setting, not a
-fault on the member's end. See [the mailing list — photo-album upload
-privileges are a moderator-controlled
-setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting).
-David Beard and Glen Maxwell separately pointed him to `paradoxbuilders2`,
-revealing the original group had by then filled to its own member capacity;
-after finally getting one photo through, Derek's upload trouble persisted
-over several more attempts, prompting a Kurt Vonnegut one-liner from Nels. In
-the same window he cut window openings into "Enuf"'s cabin sides and
-laminated centre-beam hand grabs from salvaged oak. Full account at
-[boats/enuf.md — the original group reaches capacity, and a return to
-routine build
-progress](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress)
-and [boats/enuf.md — cutting window openings into the cabin
-sides](/boats/enuf.md#cutting-window-openings-into-the-cabin-sides). Still
-blocked a week later, Derek worked around the privileges error entirely by
-opening a new "Enuf" album on Bill Serjeant's `smallsailboats` group
-instead — see [boats/enuf.md — a workaround: an Enuf album on a different
-group entirely](/boats/enuf.md#a-workaround-an-enuf-album-on-a-different-group-entirely).
+Answering a newcomer's build-time and dimension questions, Derek gave his own build timeline (started September 2004, non-continuous, only the cabin left after about 16 months) and his sleeping area's exact measurements (74.5 in by 36 in) — see [first-boat suitability — build-time figures and difficulty rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating). Closing out his rowlock/wedge exchange, thanked a correspondent for settling on the right word ("rowlock") for the fitting, prompting the aside that the American term for the same thing is "oarlock" — which Derek took in good humor, agreeing he would call it that too if ever blown to the American side of the Atlantic. A working answer to his original yuloh-in-a-rowlock question described a leathered loom and forward-facing leather button on a non-Paradox lugger's yuloh; Derek called the technique "very helpful." Planning ahead for "Enuf"'s cabin, floated building a **slot-top** design (as Jim Michalak and Phil Bolger often use) from 12 mm ply with routed, Lexan-glazed window openings and a lift-out rear window for outboard access, and looked at plasticised lorry-curtain fabric — already proven skinning a kayak — as a way to seal such a slot against the risk of a knocked-down boat not floating with it open. Weighing cautionary replies, Derek concluded it is difficult to improve on the original design, cited a non-Paradox boat built of exterior plywood and polyester resin that lasted some 15 years as a durability data point, and settled on a bolt-rather-than-glue suggestion for the cabin roof so any experiment could be reversed. See [boats/enuf.md — the yard, revisited](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) and [boats/enuf.md — a slot-top cabin idea for open-water use](/boats/enuf.md#a-slot-top-cabin-idea-for-open-water-use).
 
-Separately, Derek suggested adding builders' e-mail addresses to Bill
-Serjeant's Paradox owners/builders database, with Bill's blessing to poll
-the list's opinion on the idea — see [references/paradox-uk-website.md — a
-2006 database
-renewal](/references/paradox-uk-website.md#a-2006-database-renewal-and-a-new-los-angeles-builder).
-Turning leftover Lexan window offcuts to a second use, he asked what
-adhesive would join polycarbonate scraps into small electrical-output
-boxes, and separately flagged shopfitters' skips as a source of free scrap
-copper wire and fittings. See [boats/enuf.md — polycarbonate scraps for
-electrical enclosures, and a scavenged copper-wire
-source](/boats/enuf.md#polycarbonate-scraps-for-electrical-enclosures-and-a-scavenged-copper-wire-source).
-Separately asked what compasses other builders had fitted and where,
-noting Alastair's Silva 70n on "Little Jim" — see [GPS and navigation
-instruments — compass choice and
-mounting](/operations/gps-navigation.md#compass-choice-and-mounting).
+Days later, unable to add a photo to his "Enuf" album, Derek ran into the same group-permissions problem on a separate group; the explanation given was that upload privileges are a moderator-controlled Yahoo Groups setting, not a fault on the member's end. See [the mailing list — photo-album upload privileges are a moderator-controlled setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting). He was separately pointed to `paradoxbuilders2`, revealing the original group had by then filled to its own member capacity; after finally getting one photo through, Derek's upload trouble persisted over several more attempts, prompting a Kurt Vonnegut one-liner in reply. In the same window he cut window openings into "Enuf"'s cabin sides and laminated centre-beam hand grabs from salvaged oak. Full account at [boats/enuf.md — the original group reaches capacity, and a return to routine build progress](/boats/enuf.md#the-original-group-reaches-capacity-and-a-return-to-routine-build-progress) and [boats/enuf.md — cutting window openings into the cabin sides](/boats/enuf.md#cutting-window-openings-into-the-cabin-sides). Still blocked a week later, Derek worked around the privileges error entirely by opening a new "Enuf" album on a `smallsailboats` group instead — see [boats/enuf.md — a workaround: an Enuf album on a different group entirely](/boats/enuf.md#a-workaround-an-enuf-album-on-a-different-group-entirely).
 
-In the recurring "max pilot weight, height" thread, Derek identified himself
-as the likely source of a stability caution given to a 6'4"/280 lb
-prospective builder, clarified the real issue was cabin room rather than
-hull stability, and recalled his brother — built to the same dimensions —
-likening bare-hulled "Enuf" to one of his own shoes. He also gave the
-practical fix for fitting longer sailors (dropping the floor between
-bulkheads 1 and 2) and named his own hypothetical next boat, a reduced
-Madrigal with a full-length aft cabin and lug rig. See [crew size and fit —
-pilot weight, height, and stability at stock
-length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).
-As the thread wound down into banter, Derek traded good-humored jokes with
-Nels over a spoof weight-loss program. He also repeated his standing compass
-question a week later, in near-identical terms; the question was finally
-answered by [Jack Gardiner](/people/jack-gardiner.md) — a GPS's bearing comes
-from satellites rather than magnetic north, so nearby iron does not affect
-it, unlike his own wristwatch compass, which showed real deviation in
-testing — settling on the GPS's compass for ordinary use and a small
-handheld for sighting and backup. Derek also confirmed he uses an older
-Garmin 76, preferring "a box of GPSs" over celestial navigation, which he
-judged "smacks of sorcery." See [GPS and navigation instruments — compass
-choice and mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[44][45][46][47]
+Separately, Derek suggested adding builders' e-mail addresses to a Paradox owners/builders database, with the maintainer's blessing to poll the list's opinion on the idea — see [references/paradox-uk-website.md — a 2006 database renewal](/references/paradox-uk-website.md#a-2006-database-renewal-and-a-new-los-angeles-builder). Turning leftover Lexan window offcuts to a second use, he asked what adhesive would join polycarbonate scraps into small electrical-output boxes, and separately flagged shopfitters' skips as a source of free scrap copper wire and fittings. See [boats/enuf.md — polycarbonate scraps for electrical enclosures, and a scavenged copper-wire source](/boats/enuf.md#polycarbonate-scraps-for-electrical-enclosures-and-a-scavenged-copper-wire-source). Separately asked what compasses other builders had fitted and where, noting a Silva 70n fitted on "Little Jim" — see [GPS and navigation instruments — compass choice and mounting](/operations/gps-navigation.md#compass-choice-and-mounting).
 
-Trying to wrap his new Mark II sail on the boom, Derek found the luff
-climbing up over the furling drum rather than sitting close to it, and asked
-whether the tack should sit in line with the mast and whether tapering his
-still-untapered boom would leave a bigger leftover flap of sail once rolled
-— answered in full by [Alastair](/people/alastair.md). See [rig and sail —
-wrapping a Mark II sail on the boom: tack position, balance, and
-taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).[48]
+In the recurring "max pilot weight, height" thread, Derek identified himself as the likely source of a stability caution given to a 6'4"/280 lb prospective builder, clarified the real issue was cabin room rather than hull stability, and recalled his brother — built to the same dimensions — likening bare-hulled "Enuf" to one of his own shoes. He also gave the practical fix for fitting longer sailors (dropping the floor between bulkheads 1 and 2) and named his own hypothetical next boat, a reduced Madrigal with a full-length aft cabin and lug rig. See [crew size and fit — pilot weight, height, and stability at stock length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length). As the thread wound down into banter, Derek traded good-humored jokes over a spoof weight-loss program. He also repeated his standing compass question a week later, in near-identical terms; the eventual answer was that a GPS's bearing comes from satellites rather than magnetic north, so nearby iron does not affect it, unlike his own wristwatch compass, which showed real deviation in testing — settling on the GPS's compass for ordinary use and a small handheld for sighting and backup. Derek also confirmed he uses an older Garmin 76, preferring "a box of GPSs" over celestial navigation, which he judged "smacks of sorcery." See [GPS and navigation instruments — compass choice and mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[44][45][46][47]
 
-Derek is based in Wolverhampton, "not far from" Alastair and "Little Jim" in
-Yeovil, and expected to launch "Enuf" at Wareham, Dorset shortly. See
-[boats/enuf.md — home base and an expected launch
-site](/boats/enuf.md#home-base-and-an-expected-launch-site).[49]
+Trying to wrap his new Mark II sail on the boom, Derek found the luff climbing up over the furling drum rather than sitting close to it, and asked whether the tack should sit in line with the mast and whether tapering his still-untapered boom would leave a bigger leftover flap of sail once rolled — answered in full. See [rig and sail — wrapping a Mark II sail on the boom: tack position, balance, and taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).[48]
 
-Closing out the "max weight and height" thread's forward-compartment tangent,
-Derek clarified that a diagram a newcomer asked about was a specific
-person's own copyrighted picture, not open for general discussion, and
-restated his own view on flooding: he would not worry which way a swamped
-boat trimmed so long as it floated, since staying in the boat beats getting
-out of it. He then answered a fresh plywood-durability question with his own
-practice of using exterior-grade ply (cheaper, and covered in epoxy and
-fibreglass regardless), noting neither "Enuf"'s stablemate "Swamp Thing" nor
-"Little Cruiser" was originally glassed. See [plywood grade and foam
-flotation debate — long-term plywood durability, resale value, and why to
-expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[50][51]
+Derek is based in Wolverhampton, "not far from" "Little Jim" in Yeovil, and expected to launch "Enuf" at Wareham, Dorset shortly. See [boats/enuf.md — home base and an expected launch site](/boats/enuf.md#home-base-and-an-expected-launch-site).[49]
 
-Suggesting Bill Serjeant might have a view given his own 50/50 canoe build,
-Derek gave a candid accounting of his own epoxy costs — buying in small
-quantities at around £50/gallon rather than the £34/gallon he could have
-had in bulk, and eventually giving up tracking the running total once it
-became clear it was substantial (his best guess: around £2,500 all in). He
-sketched a budget-conscious next build (salvaged exterior ply and pine,
-epoxy reserved for edges/end-grain/bilges, household paint elsewhere),
-reasoning that wood isn't the right material if building for posterity.
-Separately, closing out the epoxy-pricing sub-thread, he recommended UK
-Epoxies (`epoxy-resins.co.uk`) as a supplier and Jim Michalak's new book for
-its epoxy-chemistry commentary. See [plywood grade and foam flotation
-debate — long-term plywood durability, resale value, and why to expect
-neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[52][53]
+Closing out the "max weight and height" thread's forward-compartment tangent, Derek clarified that a diagram a newcomer asked about was a specific person's own copyrighted picture, not open for general discussion, and restated his own view on flooding: he would not worry which way a swamped boat trimmed so long as it floated, since staying in the boat beats getting out of it. He then answered a fresh plywood-durability question with his own practice of using exterior-grade ply (cheaper, and covered in epoxy and fibreglass regardless), noting neither "Enuf"'s stablemate "Swamp Thing" nor "Little Cruiser" was originally glassed. See [plywood grade and foam flotation debate — long-term plywood durability, resale value, and why to expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[50][51]
 
-His own boom axle failed a second time in March 2006, leaving the boom with
-a curve in two planes that he decided to live with rather than fix, and he
-separately warned Bill Serjeant that crystals forming in an epoxy dispensing
-pump had once cost him significant time and money redoing a hull bottom,
-favoring Jim Michalak's cup-and-marked-stick mixing method as more reliable.
-See [rig and sail — which side of the boom and yard faces up, and curing
-persistent yard
-sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag)
-and [plywood grade and foam flotation debate — long-term plywood durability,
-resale value, and why to expect
-neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[54][55]
+Prompted by another builder's own 50/50 canoe build, Derek gave a candid accounting of his own epoxy costs — buying in small quantities at around £50/gallon rather than the £34/gallon he could have had in bulk, and eventually giving up tracking the running total once it became clear it was substantial (his best guess: around £2,500 all in). He sketched a budget-conscious next build (salvaged exterior ply and pine, epoxy reserved for edges/end-grain/bilges, household paint elsewhere), reasoning that wood isn't the right material if building for posterity. Separately, closing out the epoxy-pricing sub-thread, he recommended UK Epoxies (`epoxy-resins.co.uk`) as a supplier and Jim Michalak's new book for its epoxy-chemistry commentary. See [plywood grade and foam flotation debate — long-term plywood durability, resale value, and why to expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[52][53]
 
-With his own build largely behind him, Derek wrote and posted a free,
-copyright-free "Beginners guide to building a Paradox" to the group's files
-section, condensing his own build's practical lessons into about four pages
-and inviting other builders to amend it; well received for its
-practical-experience angle, he followed up with a revision incorporating
-readers' suggestions within the day. See [building plans — a
-community-written beginner's
-guide](/references/building-plans.md#a-community-written-beginners-guide).[56][57]
+His own boom axle failed a second time in March 2006, leaving the boom with a curve in two planes that he decided to live with rather than fix, and he separately warned that crystals forming in an epoxy dispensing pump had once cost him significant time and money redoing a hull bottom, favoring Jim Michalak's cup-and-marked-stick mixing method as more reliable. See [rig and sail — which side of the boom and yard faces up, and curing persistent yard sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag) and [plywood grade and foam flotation debate — long-term plywood durability, resale value, and why to expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither).[54][55]
 
-A carpal tunnel operation in April 2006 halted his build entirely for five
-weeks, still hurting when he next reported in; asked whether "Enuf" photos
-had ever been posted, he pointed to both his original and mirrored photo
-folders, which in turn prompted a good-humored sub-thread on sleeping
-aboard while trailering between cruising grounds. See
-[boats/enuf.md — a carpal-tunnel operation halts progress, and a five-week
-pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[58]
-Also gave his own list of vehicle overnight-parking spots (lorry laybys,
-small industrial estates, remote beauty-spot car parks) drawn from
-sleeping in VW campers and a Land Rover, and re-confirmed that his
-`smallsailboats`-hosted photo album is Bill Serjeant's site, not Don
-Elliott's similarly-named "Smallboats" group.[59][60][61]
-Doubted that British sailing conditions differ enough from American,
-Australian, or New Zealand conditions to change windward performance, and
-judged a UK secondhand market for an odd craft like Paradox unlikely,
-citing an acquaintance who spent about £4,000 building a Bolger Micro and
-sold it for £1,000. See [secondhand Paradox market — build vs. buy
-secondhand: a UK newcomer's cost-benefit
-hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[62]
+With his own build largely behind him, Derek wrote and posted a free, copyright-free "Beginners guide to building a Paradox" to the group's files section, condensing his own build's practical lessons into about four pages and inviting other builders to amend it; well received for its practical-experience angle, he followed up with a revision incorporating readers' suggestions within the day. See [building plans — a community-written beginner's guide](/references/building-plans.md#a-community-written-beginners-guide).[56][57]
 
-Tried out a proposed hard-top hatch design as a full-size cardboard mock-up
-before committing plywood, then redesigned it around a lower, second seat
-position (his wife's suggestion) after Glen Maxwell judged the original too
-tall to clear the boom; also gave a build-progress update on his recovering
-carpal-tunnel hand. See [boats/enuf.md — a cardboard hatch mock-up, and a
-lower alternate seat
-position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[63]
+A carpal tunnel operation in April 2006 halted his build entirely for five weeks, still hurting when he next reported in; asked whether "Enuf" photos had ever been posted, he pointed to both his original and mirrored photo folders, which in turn prompted a good-humored sub-thread on sleeping aboard while trailering between cruising grounds. See [boats/enuf.md — a carpal-tunnel operation halts progress, and a five-week pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[58]
 
-Finished rubbing down the hull and applied the first coat of pigmented
-epoxy resin, with rain repeatedly delaying the work. See [boats/enuf.md —
-rubbing down, and the first coat of pigmented
-resin](/boats/enuf.md#rubbing-down-and-the-first-coat-of-pigmented-resin).[64]
+Also gave his own list of vehicle overnight-parking spots (lorry laybys, small industrial estates, remote beauty-spot car parks) drawn from sleeping in VW campers and a Land Rover, and re-confirmed that his `smallsailboats`-hosted photo album belonged to a different site than the similarly-named "Smallboats" group.[59][60][61] Doubted that British sailing conditions differ enough from American, Australian, or New Zealand conditions to change windward performance, and judged a UK secondhand market for an odd craft like Paradox unlikely, citing an acquaintance who spent about £4,000 building a Bolger Micro and sold it for £1,000. See [secondhand Paradox market — build vs. buy secondhand: a UK newcomer's cost-benefit hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[62]
 
-Weighing in on a 12-volt wiring-gauge debate, Derek judged sizing the
-conductor to actual current draw the cost-effective approach, but held
-that using the largest cross-section of copper that will physically fit
-remains the real ideal, aiming for no losses in the conductor at all — he
-has used salvaged multi-strand 240-volt lighting cable and machine-tool
-cable himself, picked up free from a skip behind a shop. See [radio and
-electronics — 12-volt wiring
-gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).[65]
-Posting a fresh round of "Enuf" photos, Derek candidly owned up to the
-boat's visibly wavy, truncated chine runners — the result of a sanding-disc
-mishap rather than a deliberate change — and confirmed the plastic box
-visible through the transom in his build photos is a Porta Potti. See
-[boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta
-Potti in the
-transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[66][67]
+Tried out a proposed hard-top hatch design as a full-size cardboard mock-up before committing plywood, then redesigned it around a lower, second seat position (his wife's suggestion) after the original was judged too tall to clear the boom; also gave a build-progress update on his recovering carpal-tunnel hand. See [boats/enuf.md — a cardboard hatch mock-up, and a lower alternate seat position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[63]
 
-Welcomed a new Ithaca, New York builder to the list, judging himself about
-two weeks from finishing and launching "Enuf" and noting Bill Serjeant's own
-"amazing progress." See
-[people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md).[68]
+Finished rubbing down the hull and applied the first coat of pigmented epoxy resin, with rain repeatedly delaying the work. See [boats/enuf.md — rubbing down, and the first coat of pigmented resin](/boats/enuf.md#rubbing-down-and-the-first-coat-of-pigmented-resin).[64]
 
-Bluntly rated the paid construction manual as only about 30% readable,
-recommending Jim Michalak's book from Duckworks instead. See [building
-plans — a July 2006 recurrence, and a blunt assessment of the paid manual's
-quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[69]
-Answering a bulkhead-3 modification proposal for sleeping two, suggested
-doubling or trebling the bulkhead's plywood thickness rather than adding
-steel reinforcement, and recalled one of the Antipodean-built Paradoxes as
-already a two-hander worth consulting directly. See [crew size and fit —
-modifying bulkhead 3 to gain room for sleeping
-two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[70]
+Weighing in on a 12-volt wiring-gauge debate, Derek judged sizing the conductor to actual current draw the cost-effective approach, but held that using the largest cross-section of copper that will physically fit remains the real ideal, aiming for no losses in the conductor at all — he has used salvaged multi-strand 240-volt lighting cable and machine-tool cable himself, picked up free from a skip behind a shop. See [radio and electronics — 12-volt wiring gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).[65] Posting a fresh round of "Enuf" photos, Derek candidly owned up to the boat's visibly wavy, truncated chine runners — the result of a sanding-disc mishap rather than a deliberate change — and confirmed the plastic box visible through the transom in his build photos is a Porta Potti. See [boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta Potti in the transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[66][67]
 
-"Enuf" was finally launched in early August 2006, sailed for the first time
-over three days in Poole Harbour alongside Alastair and "Little Jim" — an
-eventful maiden outing (a mudbank and three moored boats struck, an outboard
-that fouled the mainsheet and made the steering wander) that left Derek
-already planning a relocated motor, a new boom, and a different mainsheet
-lead. Full account at
-[boats/enuf.md](/boats/enuf.md#launched-three-days-in-poole-harbour-and-lessons-from-the-outboard).[77]
+Welcomed a new Ithaca, New York builder to the list, judging himself about two weeks from finishing and launching "Enuf" and noting another builder's own "amazing progress." See [people/matt-noonan-ithaca.md](/people/matt-noonan-ithaca.md).[68]
 
-Following up on that outboard trouble, Derek described his own working
-setup: a transom-mounted **2.3 hp Honda** petrol motor, chosen over an
-electric motor (having seen Alastair's own side-mounted electric motor work
-well) specifically to avoid depending on recharging, with the throttle
-extended by a PVC pipe and the kill switch worked by a cord, both reached
-through a removable rear window. It returns about 7 miles per litre at 4 mph,
-carrying one litre in the motor's own tank plus a four-litre reserve in
-bottles behind bulkhead four — a stowage compromise he judged too close to
-his cooking area for comfort — and he was considering an external tank fed
-by bulb and pipe, the approach he believed the Bolducs used, with the
-throttle eventually brought inside by a Bowden cable. See [auxiliary outboard
-power — a transom-mounted petrol outboard, fuel stowage, and
-trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[84]
+Bluntly rated the paid construction manual as only about 30% readable, recommending Jim Michalak's book from Duckworks instead. See [building plans — a July 2006 recurrence, and a blunt assessment of the paid manual's quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[69] Answering a bulkhead-3 modification proposal for sleeping two, suggested doubling or trebling the bulkhead's plywood thickness rather than adding steel reinforcement, and recalled one of the Antipodean-built Paradoxes as already a two-hander worth consulting directly. See [crew size and fit — modifying bulkhead 3 to gain room for sleeping two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[70]
 
-On a tiller-rope-lock question, described his own two-piece plywood-and-wingnut
-clamp, but said he was never confident enough in it to rely on for long,
-preferring to hold the tiller rope in one hand and the mainsheet in the
-other since he never felt he had good control of the rudder at any rope
-tension tried; while motoring he instead steered with the tiller braced in
-the small of his back, shifting along the seat. He was weighing a wheel,
-mounted to port, driving the tiller through a shorter rope and pulleys or a
-Bowden cable, as a possible fix. See [self-steering — locking the tiller
-rope, and why most builders don't
-bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[85]
-In the same Honda 2 hp reliability thread, Derek asked whether it would be
-worth carrying a spare throttle cable — answered that the cable sees so
-little stress in normal use it should last a very long time — and then
-himself supplied the likely failure mode by analogy with motorcycle throttle
-cables of similar construction, which do occasionally break or shed a
-nipple; a broken cable could be worked around afloat with string tied to the
-throttle control's exposed piano wire, though replacing the cable outright
-would be easier. See [auxiliary outboard power — a Honda 2 hp's spare-parts
-and reliability
-record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[86][87]
+"Enuf" was finally launched in early August 2006, sailed for the first time over three days in Poole Harbour alongside "Little Jim" — an eventful maiden outing (a mudbank and three moored boats struck, an outboard that fouled the mainsheet and made the steering wander) that left Derek already planning a relocated motor, a new boom, and a different mainsheet lead. Full account at [boats/enuf.md](/boats/enuf.md#launched-three-days-in-poole-harbour-and-lessons-from-the-outboard).[77]
+
+Following up on that outboard trouble, Derek described his own working setup: a transom-mounted **2.3 hp Honda** petrol motor, chosen over an electric motor (having seen a side-mounted electric motor work well elsewhere) specifically to avoid depending on recharging, with the throttle extended by a PVC pipe and the kill switch worked by a cord, both reached through a removable rear window. It returns about 7 miles per litre at 4 mph, carrying one litre in the motor's own tank plus a four-litre reserve in bottles behind bulkhead four — a stowage compromise he judged too close to his cooking area for comfort — and he was considering an external tank fed by bulb and pipe, an approach he believed other builders used, with the throttle eventually brought inside by a Bowden cable. See [auxiliary outboard power — a transom-mounted petrol outboard, fuel stowage, and trim](/operations/auxiliary-outboard-power.md#a-transom-mounted-petrol-outboard-fuel-stowage-and-trim).[84]
+
+On a tiller-rope-lock question, described his own two-piece plywood-and-wingnut clamp, but said he was never confident enough in it to rely on for long, preferring to hold the tiller rope in one hand and the mainsheet in the other since he never felt he had good control of the rudder at any rope tension tried; while motoring he instead steered with the tiller braced in the small of his back, shifting along the seat. He was weighing a wheel, mounted to port, driving the tiller through a shorter rope and pulleys or a Bowden cable, as a possible fix. See [self-steering — locking the tiller rope, and why most builders don't bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[85] In the same Honda 2 hp reliability thread, Derek asked whether it would be worth carrying a spare throttle cable — answered that the cable sees so little stress in normal use it should last a very long time — and then himself supplied the likely failure mode by analogy with motorcycle throttle cables of similar construction, which do occasionally break or shed a nipple; a broken cable could be worked around afloat with string tied to the throttle control's exposed piano wire, though replacing the cable outright would be easier. See [auxiliary outboard power — a Honda 2 hp's spare-parts and reliability record](/operations/auxiliary-outboard-power.md#a-honda-2-hps-spare-parts-and-reliability-record).[86][87]
 
 ## Selling "Enuf"
 
-A diabetic, Derek found the exertion of sailing brought on hypoglycemic
-episodes at a level he judged too risky to continue, and put "Enuf" up for
-sale in September 2006 rather than keep sailing through it. The sale terms,
-the community's reaction, and the "Viking burial" fallback he offered if no
-buyer came forward are recorded in full at
-[boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[88] In the thread that
-followed, he gave a fuller account of the diabetes itself and reported his
-wife had bought him a small motor cruiser to restore in Enuf's place, and
-closed by reflecting that the build and time spent on Poole Harbour had been
-worthwhile regardless. Full account, and the "PARANIGMA" motor-cruiser
-project it drew out of Jeff UK in reply, at
-[boats/enuf.md](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[89]
+A diabetic, Derek found the exertion of sailing brought on hypoglycemic episodes at a level he judged too risky to continue, and put "Enuf" up for sale in September 2006 rather than keep sailing through it. The sale terms, the community's reaction, and the "Viking burial" fallback he offered if no buyer came forward are recorded in full at [boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[88] In the thread that followed, he gave a fuller account of the diabetes itself and reported his wife had bought him a small motor cruiser to restore in Enuf's place, and closed by reflecting that the build and time spent on Poole Harbour had been worthwhile regardless. Full account, and the "PARANIGMA" motor-cruiser project it drew out in reply, at [boats/enuf.md](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[89]
 
-"Enuf" sold within days, setting off by road toward a new owner in Norway;
-in the same reply, Derek floated a fresh, purpose-built Honda-outboard
-"power microcruiser" design idea of his own, pitching it to designers Jim
-Michalak, Paul Fisher, and John Welsford — full detail at
-[boats/enuf.md](/boats/enuf.md#the-sale-completes-and-a-honda-outboard-power-microcruiser-idea).[90][91]
-He then announced his departure from the group after roughly 30 months,
-timed to the boat's departure and prompted in part by a scheduled operation
-he hoped might cure his diabetes outright. The announcement drew immediate,
-unanimous pushback rather than farewells — from Jeff UK, from a first-time
-correspondent posting as "SH," and from [Jack Gardiner](/people/jack-gardiner.md)
-in particular, who argued the design itself, and the security of always
-having a sail to fall back on, was reason enough not to give it up; Derek's
-own reply agreed his new boat was a microcruiser by his own definition too,
-but drew the line at the group's actual scope ("this is the Paradoxbuilders
-group"), rather than conceding the leaving question itself.
-[David Beard](/people/david-beard.md) and [Alastair](/people/alastair.md)
-added their own pleas to stay, and Wenceslao Rafol, Jr. offered that a
-health-first decision needed no defense. Derek's replies thanked David Beard
-by name, made peace with Jack Gardiner over an unintentional oversight in
-his thank-you list, and — jokingly comparing himself to Frank Sinatra's many
-"retirements" — allowed he might reconsider. Jeff UK kept pressing the same
-point (a boat is not disqualified by being a motor cruiser, and the group's
-753-strong membership was never mostly Paradox owners anyway); Jack Gardiner
-closed the thread with his own account of driving a truck over his stranded
-Paradox's rudder and rebuilding it regardless, arguing ownership was beside
-the point since the group is called Paradox *builders*. Derek confirmed to
-"SH" that he was not, in fact, leaving. Full account at
-[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[92][93][94][95][96][97][98][99][100][101][102][103][104]
+"Enuf" sold within days, setting off by road toward a new owner in Norway; in the same reply, Derek floated a fresh, purpose-built Honda-outboard "power microcruiser" design idea of his own, pitching it to designers Jim Michalak, Paul Fisher, and John Welsford — full detail at [boats/enuf.md](/boats/enuf.md#the-sale-completes-and-a-honda-outboard-power-microcruiser-idea).[90][91] He then announced his departure from the group after roughly 30 months, timed to the boat's departure and prompted in part by a scheduled operation he hoped might cure his diabetes outright. The announcement drew immediate, unanimous pushback rather than farewells, including from a first-time correspondent posting as "SH," and from one correspondent in particular who argued the design itself, and the security of always having a sail to fall back on, was reason enough not to give it up; Derek's own reply agreed his new boat was a microcruiser by his own definition too, but drew the line at the group's actual scope ("this is the Paradoxbuilders group"), rather than conceding the leaving question itself. Others added their own pleas to stay, and one correspondent offered that a health-first decision needed no defense. Derek's replies thanked those well-wishers by name, made peace over an unintentional oversight in his thank-you list, and — jokingly comparing himself to Frank Sinatra's many "retirements" — allowed he might reconsider. The same point kept being pressed (a boat is not disqualified by being a motor cruiser, and the group's 753-strong membership was never mostly Paradox owners anyway); the thread closed with an account of driving a truck over a stranded Paradox's rudder and rebuilding it regardless, arguing ownership was beside the point since the group is called Paradox *builders*. Derek confirmed to "SH" that he was not, in fact, leaving. Full account at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[92][93][94][95][96][97][98][99][100][101][102][103][104]
 
 # Citations
 

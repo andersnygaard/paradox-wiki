@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Hull speed — the displacement-speed formula and real-world GPS figures
-description: The Paradox's theoretical hull speed under the classic 1.3-times-square-root-of-waterline formula, set against Glen Maxwell's own GPS speed readings and the Bolducs' logged cruising figures.
+description: The Paradox's theoretical hull speed under the classic 1.3-times-square-root-of-waterline formula, set against logged GPS speed readings and real-world cruising figures.
 tags: [paradox, operations, speed, hull-speed, performance, gps]
 timestamp: 2026-07-02T00:00:00Z
 ---
@@ -10,84 +10,33 @@ timestamp: 2026-07-02T00:00:00Z
 
 ## The classic displacement-hull formula
 
-The [Paradox](/paradox.md)'s theoretical hull speed is given by the standard
-displacement-hull formula, per [Glen C. Maxwell](/people/glen-maxwell.md):
+The [Paradox](/paradox.md)'s theoretical hull speed is given by the standard displacement-hull formula:
 
 > hull speed (kt) = **1.3 × √(waterline length in feet)**
 
-Applied to a Paradox's roughly **13 ft 5 in waterline** (√13.663 ≈ 3.663),
-this works out to **1.3 × 3.663 ≈ 4.76 kt (about 5.4 mph)** — the
-conventionally "expected" maximum displacement speed for a hull of that
-waterline length.
+Applied to a Paradox's roughly **13 ft 5 in waterline** (√13.663 ≈ 3.663), this works out to **1.3 × 3.663 ≈ 4.76 kt (about 5.4 mph)** — the conventionally "expected" maximum displacement speed for a hull of that waterline length.
 
-The formula's real-world relevance is limited, however: **it is not
-unusual for sharpies to sail much faster** than this theoretical figure — a
-hull-form observation consistent with the Paradox's flat-bottomed,
-chine-runner design (see
-[chine runners and windward performance](/chine-runners/windward-performance.md)).
+The formula's real-world relevance is limited, however: **it is not unusual for sharpies to sail much faster** than this theoretical figure — a hull-form observation consistent with the Paradox's flat-bottomed, chine-runner design (see [chine runners and windward performance](/chine-runners/windward-performance.md)).
 
 ## A real GPS speed data point, from a Clearwater, FL trip
 
-[Glen Maxwell](/people/glen-maxwell.md)'s own logged performance data from a
-passage toward **Clearwater, FL**, sailing **about 6 miles offshore** on a
-**broad reach**, in **12-15 kt winds** and **2-3 ft seas**, under full sail,
-gives a concrete real-world figure:
+Logged performance data from a passage toward **Clearwater, FL**, sailing **about 6 miles offshore** on a **broad reach**, in **12-15 kt winds** and **2-3 ft seas**, under full sail, gives a concrete real-world figure:
 
-- **GPS readings of 5.9-6.1 kt** sustained for about **two hours**, until the
-  wind dropped.
-- A **maximum recorded speed of 6.3 kt** for that leg — roughly **30% above**
-  the theoretical 4.76 kt hull speed given by the formula above.
-- Hardening up **close-hauled** into the same seas ("smashing into the seas"),
-  the best speed he could manage dropped to **4.7 kt** — almost exactly
-  matching the theoretical hull-speed figure, illustrating how much of the
-  "excess" broad-reach speed comes from sailing angle and sea state rather
-  than the hull alone.
+- **GPS readings of 5.9-6.1 kt** sustained for about **two hours**, until the wind dropped.
+- A **maximum recorded speed of 6.3 kt** for that leg — roughly **30% above** the theoretical 4.76 kt hull speed given by the formula above.
+- Hardening up **close-hauled** into the same seas ("smashing into the seas"), the best speed attainable dropped to **4.7 kt** — almost exactly matching the theoretical hull-speed figure, illustrating how much of the "excess" broad-reach speed comes from sailing angle and sea state rather than the hull alone.
 
-This is "not too shabby for a 13'5" water line length" — a rare,
-concretely logged example (GPS-timestamped, not just estimated) of the
-Paradox exceeding its nominal displacement hull speed under favorable
-conditions, complementing the boat's other recorded performance data (see
-[chine runners and windward performance](/chine-runners/windward-performance.md)
-and [pointing and tacking-angle expectations](/operations/pointing-and-tacking-angles.md)).
+This is "not too shabby for a 13'5" water line length" — a rare, concretely logged example (GPS-timestamped, not just estimated) of the Paradox exceeding its nominal displacement hull speed under favorable conditions, complementing the boat's other recorded performance data (see [chine runners and windward performance](/chine-runners/windward-performance.md) and [pointing and tacking-angle expectations](/operations/pointing-and-tacking-angles.md)).
 
 ## A motoring speed data point: "Whisper"
 
-A separate, concrete **motoring** speed data point comes from
-[David Beard](/people/david-beard.md)'s weekend aboard
-"[Whisper](/boats/whisper.md)" with no wind to sail. Running a **4 hp
-four-stroke outboard** — which he judged "too much for a Paradox" — he
-logged (by GPS): a little over **2 kt at just above idle**, and about **5
-kt at just under 1/4 throttle**, which he called "a good cruising speed,
-very comfortable." **6 kt** was attainable but meant the hull was "pushing
-a lot of water." This is the only recorded GPS-logged motoring (as opposed
-to sailing) speed curve for a Paradox, and a useful complement to the
-sailing-speed figures below — notably, 5 kt under power here matches almost
-exactly the Bolducs' own "~5 kt under power" figure for the Layden-design
-family (below), despite the two data points coming from independent boats
-and owners.
+A separate, concrete **motoring** speed data point comes from a weekend aboard "[Whisper](/boats/whisper.md)" with no wind to sail. Running a **4 hp four-stroke outboard** — "too much for a Paradox" — the GPS-logged curve was a little over **2 kt at just above idle**, and about **5 kt at just under 1/4 throttle**, "a good cruising speed, very comfortable." **6 kt** was attainable but meant the hull was "pushing a lot of water." This is the only recorded GPS-logged motoring (as opposed to sailing) speed curve for a Paradox, and a useful complement to the sailing-speed figures below — notably, 5 kt under power here matches almost exactly the "~5 kt under power" figure for the Layden-design family (below), despite the two data points coming from independent boats and owners.
 
 ## Real-world speed figures from the Bolducs (microcruising.com)
 
-David and Mindy Bolduc's own site gives repeated, concrete GPS/log speed
-figures for [Little Cruiser](/matt-layden/little-cruiser.md) that corroborate
-and extend Glen Maxwell's 4.76-kt theoretical figure and Clearwater GPS
-readings above. Their practical hull speed is consistently cited as about
-**5 knots** — for example, running downwind during the 40-knot Chub
-Cay-to-Bimini gale, "the boat did hull speed down wind (5 knots), and this
-was with our last reef tied in!" *Cruising World*'s independent account of
-the Bolducs likewise gives an average sailing speed of **5 knots**, "waiting
-for a weather window."
+Repeated, concrete GPS/log speed figures for [Little Cruiser](/matt-layden/little-cruiser.md) corroborate and extend the 4.76-kt theoretical figure and Clearwater GPS readings above. Its practical hull speed is consistently cited as about **5 knots** — for example, running downwind during the 40-knot Chub Cay-to-Bimini gale, "the boat did hull speed down wind (5 knots), and this was with our last reef tied in!" An independent *Cruising World* account likewise gives an average sailing speed of **5 knots**, "waiting for a weather window."
 
-Elsewhere they break the figure down further: **up to 4.8 knots** upwind "in
-the right conditions," with a typical passage average of about **4.5 knots
-under sail** and **5 knots under power**. In big following seas she can
-briefly exceed hull speed, surfing to **8-9 knots** in short bursts (see
-[sailing characteristics](/operations/sailing-characteristics.md)). A
-concrete windward data point: a 26-mile beat from Morgan's Bluff, Andros to
-West Bay, New Providence, in a steady 22-27 knots of wind and 8-ft seas in
-the Tongue of the Ocean, saw Little Cruiser "average over 4 knots" while
-pinching to windward the entire way. See also
-[sailing characteristics](/operations/sailing-characteristics.md).
+The figure breaks down further: **up to 4.8 knots** upwind "in the right conditions," with a typical passage average of about **4.5 knots under sail** and **5 knots under power**. In big following seas she can briefly exceed hull speed, surfing to **8-9 knots** in short bursts (see [sailing characteristics](/operations/sailing-characteristics.md)). A concrete windward data point: a 26-mile beat from Morgan's Bluff, Andros to West Bay, New Providence, in a steady 22-27 knots of wind and 8-ft seas in the Tongue of the Ocean, saw Little Cruiser "average over 4 knots" while pinching to windward the entire way. See also [sailing characteristics](/operations/sailing-characteristics.md).
 
 # Citations
 

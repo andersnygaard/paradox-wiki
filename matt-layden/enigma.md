@@ -1,117 +1,48 @@
 ---
 type: Reference
 title: Enigma
-description: Matt Layden's sixth micro-cruiser, an 11'10" cartoppable stitch-and-glue plywood sharpie that pairs Little Cruiser's hull shape with Paradox's furling rig and chine runners, later sold to Dave and Mindy Bolduc.
+description: Matt Layden's sixth micro-cruiser, an 11'10" cartoppable stitch-and-glue plywood sharpie that pairs Little Cruiser's hull shape with Paradox's furling rig and chine runners, later sold on to new owners.
 tags: [paradox, reference, enigma, matt-layden, chine-runners, watertribe, dave-bolduc]
 timestamp: 2026-07-02T00:00:00Z
 ---
 
 # Enigma
 
-**Enigma** — formally "**Enigma 360**" — is [Matt Layden](/matt-layden/biography.md)'s
-**sixth micro-cruiser**, built in 2005 after roughly a decade in which Matt
-"got married, found employment, and worked on a few smaller boats." She
-followed [Terrapin](/matt-layden/terrapin.md),
-[Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md),
-[Little Cruiser](/matt-layden/little-cruiser.md), and the
-[Paradox](/paradox.md) in the Layden build order, and is
-distinct from — but a direct design descendant of — the original Paradox
-hull that is this bundle's main subject.
+**Enigma** — formally "**Enigma 360**" — is [Matt Layden](/matt-layden/biography.md)'s **sixth micro-cruiser**, built in 2005 after roughly a decade in which Matt "got married, found employment, and worked on a few smaller boats." She followed [Terrapin](/matt-layden/terrapin.md), [Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md), [Little Cruiser](/matt-layden/little-cruiser.md), and the [Paradox](/paradox.md) in the Layden build order, and is distinct from — but a direct design descendant of — the original Paradox hull that is this bundle's main subject.
 
 ## A lighter, hybrid design
 
-Enigma marks a deliberate shift toward lighter construction than Matt's
-earlier boats. She is a **12-footer intended for coastal sailing**, built as
-a **stitch-and-glue plywood sharpie** with a distinctive **"V" bottom at the
-bow** — a departure from the flat-bottomed sharpie hulls of Terrapin through
-Paradox. She was built light enough that she "could even be hefted with aid
-onto the top of a car for transport to far away cruising grounds," using a
-**unique built-in axle system** and cart wheels for overland portaging.
+Enigma marks a deliberate shift toward lighter construction than Matt's earlier boats. She is a **12-footer intended for coastal sailing**, built as a **stitch-and-glue plywood sharpie** with a distinctive **"V" bottom at the bow** — a departure from the flat-bottomed sharpie hulls of Terrapin through Paradox. She was built light enough that she "could even be hefted with aid onto the top of a car for transport to far away cruising grounds," using a **unique built-in axle system** and cart wheels for overland portaging.
 
-Her design deliberately combines features proven on two different earlier
-boats:
+Her design deliberately combines features proven on two different earlier boats:
 
-- **Hull shape and proportion**: "remarkably similar" to
-  [Little Cruiser](/matt-layden/little-cruiser.md)'s.
-- **Rig**: uses [Paradox](/paradox.md)'s efficient
-  [roller furling](/design/furling-system.md) and distinctive low-aspect-ratio
-  lug sail, rather than Little Cruiser's more complex battened, slab-reefed
-  sail.
-- **Chine runners**: similar to Paradox's
-  [chine runners](/chine-runners/how-they-work.md), but
-  "made shorter and wider."
-- **Dodger**: a fold-down soft cabin/dodger described as "an improved
-  version of the one now on Swamp Thing" — implying Swamp Thing was
-  subsequently fitted with a similar dodger, presumably during her later
-  restoration under Dave Bolduc.
+- **Hull shape and proportion**: "remarkably similar" to [Little Cruiser](/matt-layden/little-cruiser.md)'s.
+
+- **Rig**: uses [Paradox](/paradox.md)'s efficient [roller furling](/design/furling-system.md) and distinctive low-aspect-ratio lug sail, rather than Little Cruiser's more complex battened, slab-reefed sail.
+
+- **Chine runners**: similar to Paradox's [chine runners](/chine-runners/how-they-work.md), but "made shorter and wider."
+
+- **Dodger**: a fold-down soft cabin/dodger described as "an improved version of the one now on Swamp Thing" — implying Swamp Thing was subsequently fitted with a similar dodger, presumably during her later restoration.
 
 ## The "Mini Paradox" working name and the 2005 construction-era discussion
 
-While Enigma was under construction in the first half of 2005, builders on the
-[paradoxbuilders list](/references/mailing-list.md) discussed the new boat under
-the informal name **"Mini Paradox,"** working from the construction photographs
-on [Andrew Layden's website](/references/andrew-layden-website.md) (Matt's
-brother's site). That name appears **nowhere** in the Bolducs'
-[microcruising.com](/references/microcruising-website.md) record — the
-authoritative source on Matt's designs — which documents the **same 2005 boat**
-(same year, same **"V" bottom at the bow**, the same brother's-site construction
-photographs, and the same **"shorter and wider" chine runners**) only as
-**Enigma**. On the weight of that convergent evidence, "Mini Paradox" and Enigma
-are **the same boat**: it was the list's working name during the build, before
-the Enigma name was settled. No single source states the equation outright, but
-nothing in the record describes two different 2005 boats, and every distinctive
-detail lines up.[5][6][13][14]
+While Enigma was under construction in the first half of 2005, the new boat was discussed under the informal name **"Mini Paradox,"** working from the construction photographs on [Matt's brother's website](/references/andrew-layden-website.md). That name appears **nowhere** in the [microcruising.com](/references/microcruising-website.md) record — the authoritative source on Matt's designs — which documents the **same 2005 boat** (same year, same **"V" bottom at the bow**, the same brother's-site construction photographs, and the same **"shorter and wider" chine runners**) only as **Enigma**. On the weight of that convergent evidence, "Mini Paradox" and Enigma are **the same boat**: it was the working name during the build, before the Enigma name was settled. No single source states the equation outright, but nothing in the record describes two different 2005 boats, and every distinctive detail lines up.[5][6][13][14]
 
-That 2005 discussion — largely prompted by how hard the runners were to make out
-in the photographs — is the fullest contemporary account of the boat and the
-[chine-runner](/chine-runners/how-they-work.md) thinking behind her, most of it
-from [Glen C. Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md), who
-sailed her:
+That 2005 discussion — largely prompted by how hard the runners were to make out in the photographs — is the fullest contemporary account of the boat and the [chine-runner](/chine-runners/how-they-work.md) thinking behind her:
 
-- **Chine runners, present but easy to miss.** They are there, just hard to see
-  in the photos; Glen, who saw the boat in person, confirmed it against a
-  suggestion the hull might not float deep enough for them to work.[13][14]
-- **Runner placement.** They **start farther aft and end a little farther
-  forward** than a stock Paradox's, and are shorter — a real placement
-  difference, which Glen attributed to **end-plate effect** rather than the
-  curvature of the chine.[15][16][22] Curvature is a weak candidate mechanism in any
-  case: a boat's continual pitching constantly changes the curvature's
-  orientation relative to its motion. There is "some" curvature in the runners
-  but not much, leaving open whether it is functionally essential, an incidental
-  result of following the chine to match the hull bottom, or a secondary
-  hull-stiffening feature — the same open question recorded for stock Paradox
-  runners (see [how chine runners work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature)).[17][20][21]
-- **A higher-aspect-ratio sail experiment.** Her sail is **shorter but wider**
-  than the stock Paradox rig, used by Matt to explore the effect of aspect
-  ratio; no sail dimensions are on record.[14]
-- **Handling and accommodation.** Sailed two-up with Matt and his wife
-  **Karen**, she **"sails like a witch"** and is **very roomy for her size**
-  below (no interior photographs are on record).[14][25] Her speed was credited
-  mainly to being sailed by someone who knows
-  how to sail a small sharpie well and to her light weight — a photo-based
-  estimate of **~130 lb** for the bare hull (consistent with her 180 lb empty
-  weight above), giving an all-up displacement with crew under a third of stock
-  Paradox's, and a sail-area-to-displacement ratio thought better than
-  Paradox's — rather than to the slight **V tortured into the bottom at the
-  bow**.[21][23][24]
-- **A chine runner as keel extension.** The runners sit along the chine much as
-  a **low-aspect-ratio keel** is fitted to a centerline — ending abruptly aft
-  and fairing into the chine forward — and their area **should be counted as a
-  keel extension** when figuring a boat's center of lateral plane: adding the
-  runners' profile to the chine curve and computing lateral resistance from the
-  combined profile "would be real close."[24][26]
-- **Extending the idea to a catamaran.** Chine runners belong only on the
-  **outboard** side of each hull, not both sides of both: a sailing cat rarely
-  sits level, so an inner-hull runner would ride in surface turbulence and the
-  other hull's bow wake. Better to size the outboard runners larger, placing
-  them by the boat's average heel angle — akin to the molded keel-form
-  appendages on some beach-cat hulls, which give leeway resistance without a
-  moving board's vulnerability.[17][18][19]
-- **The modeling software.** The 3D renderings Matt posted of her were produced
-  in **Rhino 3D**, a NURBS CAD package that handles chine and smooth hulls and
-  accepts **RhinoMarine** (Proteus Engineering, makers of the NURBS marine
-  package **FastShip**) for hydrodynamic analysis — though the machine that made
-  the published screen grabs was not running RhinoMarine.[27][28]
+- **Chine runners, present but easy to miss.** They are there, just hard to see in the photos; confirmed in person against a suggestion the hull might not float deep enough for them to work.[13][14]
+
+- **Runner placement.** They **start farther aft and end a little farther forward** than a stock Paradox's, and are shorter — a real placement difference attributed to **end-plate effect** rather than the curvature of the chine.[15][16][22] Curvature is a weak candidate mechanism in any case: a boat's continual pitching constantly changes the curvature's orientation relative to its motion. There is "some" curvature in the runners but not much, leaving open whether it is functionally essential, an incidental result of following the chine to match the hull bottom, or a secondary hull-stiffening feature — the same open question recorded for stock Paradox runners (see [how chine runners work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature)).[17][20][21]
+
+- **A higher-aspect-ratio sail experiment.** Her sail is **shorter but wider** than the stock Paradox rig, used by Matt to explore the effect of aspect ratio; no sail dimensions are on record.[14]
+
+- **Handling and accommodation.** Sailed two-up with Matt and his wife, she **"sails like a witch"** and is **very roomy for her size** below (no interior photographs are on record).[14][25] Her speed was credited mainly to being sailed by someone who knows how to sail a small sharpie well and to her light weight — a photo-based estimate of **~130 lb** for the bare hull (consistent with her 180 lb empty weight above), giving an all-up displacement with crew under a third of stock Paradox's, and a sail-area-to-displacement ratio thought better than Paradox's — rather than to the slight **V tortured into the bottom at the bow**.[21][23][24]
+
+- **A chine runner as keel extension.** The runners sit along the chine much as a **low-aspect-ratio keel** is fitted to a centerline — ending abruptly aft and fairing into the chine forward — and their area **should be counted as a keel extension** when figuring a boat's center of lateral plane: adding the runners' profile to the chine curve and computing lateral resistance from the combined profile "would be real close."[24][26]
+
+- **Extending the idea to a catamaran.** Chine runners belong only on the **outboard** side of each hull, not both sides of both: a sailing cat rarely sits level, so an inner-hull runner would ride in surface turbulence and the other hull's bow wake. Better to size the outboard runners larger, placing them by the boat's average heel angle — akin to the molded keel-form appendages on some beach-cat hulls, which give leeway resistance without a moving board's vulnerability.[17][18][19]
+
+- **The modeling software.** The 3D renderings Matt posted of her were produced in **Rhino 3D**, a NURBS CAD package that handles chine and smooth hulls and accepts **RhinoMarine** (Proteus Engineering, makers of the NURBS marine package **FastShip**) for hydrodynamic analysis — though the machine that made the published screen grabs was not running RhinoMarine.[27][28]
 
 ## Design particulars
 
@@ -124,125 +55,45 @@ sailed her:
 | Sail area | 5.5 sqm | 57 sq ft |
 | Displacement | 267 kg | 588 lbs |
 
-The 588 lb displacement figure is her **loaded/design displacement**, not a
-contradiction of the "180 pounds" figure quoted elsewhere on the source
-site — that lighter number is explicitly her **empty weight, without
-ballast**: "Tipping the scales at only 180 pounds empty and without
-ballast, she is ideally suited for solo coastal cruising as well as
-portaging over land." The gap between the two figures is made up by
-[water ballast](/design/weight-and-ballast.md), crew, and gear.
+The 588 lb displacement figure is her **loaded/design displacement**, not a contradiction of the "180 pounds" figure quoted elsewhere — that lighter number is explicitly her **empty weight, without ballast**: "Tipping the scales at only 180 pounds empty and without ballast, she is ideally suited for solo coastal cruising as well as portaging over land." The gap between the two figures is made up by [water ballast](/design/weight-and-ballast.md), crew, and gear.
 
-Interesting details listed by the source, matching the same five-point
-pattern used for Paradox: **chine runners**; **fold-down soft cabin**;
-**self righting**; **positive buoyancy**; **all lines lead into cabin**.
+Interesting details listed, matching the same five-point pattern used for Paradox: **chine runners**; **fold-down soft cabin**; **self righting**; **positive buoyancy**; **all lines lead into cabin**.
 
 ## Racing history and change of ownership
 
-Matt sailed Enigma on her **maiden voyage in March 2006**, entering her in
-the **Watertribe Ultimate Challenge** — a grueling 1,200-mile race around
-Florida that, that year, included a **40-mile portage** — putting Enigma's
-built-in axle-and-cart-wheel portaging system to a real test. She finished
-**first in her class and third overall**.
+Matt sailed Enigma on her **maiden voyage in March 2006**, entering her in the **Watertribe Ultimate Challenge** — a grueling 1,200-mile race around Florida that, that year, included a **40-mile portage** — putting Enigma's built-in axle-and-cart-wheel portaging system to a real test. She finished **first in her class and third overall**.
 
-Doug Cameron's 2009 profile describes Enigma as **"the next iteration of the
-Paradox line, but shorter and lighter and capable of being transported on a car
-top,"** notes she **led most of the WaterTribe Ultimate Florida Challenge**, and
-credits Matt with **breaking his own 2003 solo Everglades Challenge record in
-Enigma in 2006** — the same 2006 Florida circuit documented above, the Ultimate
-Florida Challenge's opening leg following the Everglades Challenge course.[12]
+Enigma was **the next iteration of the Paradox line — shorter and lighter, and capable of being carried on a car top**. She **led most of the WaterTribe Ultimate Florida Challenge**, and in 2006 Matt **broke his own 2003 solo Everglades Challenge record** in her — the same 2006 Florida circuit documented above, the Ultimate Florida Challenge's opening leg following the Everglades Challenge course.[12]
 
-**In 2008, Enigma was sold to [Dave and Mindy Bolduc](/people/bolduc/dave.md)**,
-who went on to complete **three more Watertribe races** in her.
+**In 2008, Enigma was sold on to new owners**, who went on to complete **three more Watertribe races** in her.
 
-A **new prototype Enigma with a hard cabin** — rather than the fold-down soft
-cabin of the original — was being finished as of the source site's 24 August
-2012 blog post.
+A **new prototype Enigma with a hard cabin** — rather than the fold-down soft cabin of the original — was being finished as of a 24 August 2012 blog post.
 
-A **video of the 2006 race**, filmed and later hosted online by Steve Isaac
-(who went on to write and photograph the 2007 *Small Craft Advisor*
-interview below), was cited on the mailing list as visible proof that the
-chine runners were working: watching Enigma's progress to windward in the
-footage convinced at least one builder the runners "really work," prompting
-interest in buying a set for himself.[30] See
-[chine runners and windward performance](/chine-runners/windward-performance.md)
-for the stock Paradox's own owner-reported pointing-angle data.
+A **video of the 2006 race** offered visible proof that the chine runners were working: Enigma's progress to windward in the footage showed the runners "really work," prompting interest in buying a set.[30] See [chine runners and windward performance](/chine-runners/windward-performance.md) for the stock Paradox's own owner-reported pointing-angle data.
 
-A separate correspondent pointed the list to further footage of the same
-Ultimate Florida Challenge, hosted on the race organizer Watertribe's own
-"ChallengeViewer" page, showing Enigma sailing directly toward the camera
-against a current with no keel and a square sail — visible proof, again, of
-her ability to head upwind. Matt raced under the call-sign **"Wizard"** for
-the event; a race commentator's caption on the footage, remarking on how
-easily Matt struck, set, and reefed his sail on arriving at and departing
-Fort Clinch, coined the phrase **"the Wizard Shuffle"** for the effortless,
-practiced routine by which Matt got underway.[34]
+Further footage of the same Ultimate Florida Challenge, hosted on the race organizer Watertribe's own "ChallengeViewer" page, shows Enigma sailing directly toward the camera against a current with no keel and a square sail — visible proof, again, of her ability to head upwind. Matt raced under the call-sign **"Wizard"** for the event; a caption on the footage, remarking on how easily Matt struck, set, and reefed his sail on arriving at and departing Fort Clinch, coined the phrase **"the Wizard Shuffle"** for the effortless, practiced routine by which Matt got underway.[34]
 
-Revisiting the same ChallengeViewer footage in 2006, a builder estimated
-Enigma's actual angle to the wind directly from the video, using the line of
-an incoming swell as a visual reference: roughly **45 degrees off the
-wind**, which he judged very acceptable for a cruising boat, on par with
-production cruisers still being built today.[35] A second viewer, cross-checking
-against fixed shoreline landmarks visible in the same footage, added that
-Enigma appeared to **tack effortlessly** while Matt continued filming
-throughout the maneuver.[36] A third correspondent, watching the same
-footage afresh, praised the boat's versatility directly — few boats sail
-coastal water and also travel 60 miles up a river — and separately confirmed
-from the video that the chine runners were clearly working.[37]
+Revisiting the same ChallengeViewer footage in 2006, Enigma's actual angle to the wind was estimated directly from the video, using the line of an incoming swell as a visual reference: roughly **45 degrees off the wind**, judged very acceptable for a cruising boat, on par with production cruisers still being built today.[35] Cross-checking against fixed shoreline landmarks visible in the same footage, Enigma appeared to **tack effortlessly** while Matt continued filming throughout the maneuver.[36] The boat's versatility was praised directly — few boats sail coastal water and also travel 60 miles up a river — and the chine runners were separately confirmed from the video to be clearly working.[37]
 
 ## Construction detail: no separate cabin sole
 
-Working from the same race footage, one correspondent noted Enigma's mast
-step appeared to be a short (about 3 in) plastic tube faired and glassed
-directly to the bottom panel, with **no separate cabin/cockpit sole** fitted
-over it — the crew instead sits directly on the bottom panel, a difference
-from Paradox's raised floor.[31] The likely reason, confirmed by a
-correspondent building his own Paradox, is straightforward: keeping crew
-weight as low as possible matters more in a small boat of this kind, and
-omitting a raised sole saves a few pounds toward Enigma's light-displacement
-design goal (see [design particulars](#design-particulars) above).[32]
+Working from the same race footage, Enigma's mast step appeared to be a short (about 3 in) plastic tube faired and glassed directly to the bottom panel, with **no separate cabin/cockpit sole** fitted over it — the crew instead sits directly on the bottom panel, a difference from Paradox's raised floor.[31] The likely reason is straightforward: keeping crew weight as low as possible matters more in a small boat of this kind, and omitting a raised sole saves a few pounds toward Enigma's light-displacement design goal (see [design particulars](#design-particulars) above).[32]
 
 ## The external construction-photo link
 
-The Enigma page links out to an external construction-photo page at
-`physics.bgsu.edu/~layden/...`. This is a construction-photo page only; it is
-not evidence of any university or physics-department affiliation for Matt
-Layden, which has not been independently confirmed. The `~layden` page is in
-fact hosted on the personal BGSU homepage of Matt's brother, astronomer
-**Andrew Layden** — the physics-department affiliation is his, not Matt's (see
-[Andrew Layden's BGSU website](/references/andrew-layden-website.md)); the page
-it links, `matts_boat2005.htm`, is Andy's own Feb–Apr 2005 build log of the
-boat he later names "Enigma." Both this `matts_boat2005.htm` page and
-microcruising.com's own Enigma coverage remained the two links the community
-pointed newcomers to when asked about Matt's newer, lighter 12-footer.[29]
+The Enigma page links out to an external construction-photo page at `physics.bgsu.edu/~layden/...`. This is a construction-photo page only; it is not evidence of any university or physics-department affiliation for Matt Layden, which has not been independently confirmed. The `~layden` page is in fact hosted on the personal BGSU homepage of Matt's brother, an astronomer — the physics-department affiliation is his, not Matt's (see [the brother's BGSU website](/references/andrew-layden-website.md)); the page it links, `matts_boat2005.htm`, is the brother's own Feb–Apr 2005 build log of the boat later named "Enigma." Both this `matts_boat2005.htm` page and microcruising.com's own Enigma coverage remained the two links newcomers were pointed to when asking about Matt's newer, lighter 12-footer.[29]
 
 ## The Enigma family: the 360 and the plywood-cabin 460
 
-[Dave Raftery](/references/daves-wiki.md)'s aiki.pbworks.com wiki — a
-prospective Enigma builder's working notebook — gives the fullest technical
-account of the Enigma family, and distinguishes the original **Enigma 360**
-(2005) from a later, larger **Enigma 460** (2007).
+The [aiki.pbworks.com wiki](/references/daves-wiki.md) — a prospective Enigma builder's working notebook — gives the fullest technical account of the Enigma family, and distinguishes the original **Enigma 360** (2005) from a later, larger **Enigma 460** (2007).
 
 ### Enigma 360 — fuller particulars and construction
 
-The wiki's 360 figures broadly match the [microcruising.com](/references/microcruising-website.md)
-ones above, with minor source-to-source variation (it gives length **12' 3"**
-where the Bolducs give 11' 10"/3.6 m — 360 cm is ~11' 10", so the shorter figure
-is likely nearer right; sail area **56 sq ft**, vs. 57–58 elsewhere; empty
-weight 180 lb; payload 420 lb; draft 6"; ideal speed **3–4 kt**). It adds a
-construction schedule: **¼" and ⅜" (hull bottom) plywood** with fiberglass —
-the bottom ⅜" ply under **two layers of 9 oz tight-weave glass** plus chine
-tapes (6"/4"/2.5"), the sides in **two layers of 3.25 oz glass** lapped onto the
-deck; no keel; self-righting; ballast by **tubular sand bags secured to the
-floor**.
+The wiki's 360 figures broadly match the [microcruising.com](/references/microcruising-website.md) ones above, with minor source-to-source variation (it gives length **12' 3"** where microcruising.com gives 11' 10"/3.6 m — 360 cm is ~11' 10", so the shorter figure is likely nearer right; sail area **56 sq ft**, vs. 57–58 elsewhere; empty weight 180 lb; payload 420 lb; draft 6"; ideal speed **3–4 kt**). It adds a construction schedule: **¼" and ⅜" (hull bottom) plywood** with fiberglass — the bottom ⅜" ply under **two layers of 9 oz tight-weave glass** plus chine tapes (6"/4"/2.5"), the sides in **two layers of 3.25 oz glass** lapped onto the deck; no keel; self-righting; ballast by **tubular sand bags secured to the floor**.
 
 ### Enigma 460 — a longer, plywood-cabin variant (2007)
 
-In **2007** Matt designed the **4.6-metre Enigma 460**, roughly **3 ft longer**
-than the 360 and — unlike the 360's fold-down canvas dodger — fitted with a
-**plywood hardtop cabin like Paradox's**. Matt drew it for, and the prototype
-was built by, **George Van Sickle**, who was conducting sea trials by **summer
-2010** and documenting the build on his own blog; Matt planned to offer the
-plans for sale once the prototype was proven. Design particulars (per the wiki):
+In **2007** Matt designed the **4.6-metre Enigma 460**, roughly **3 ft longer** than the 360 and — unlike the 360's fold-down canvas dodger — fitted with a **plywood hardtop cabin like Paradox's**. Matt drew it for a builder who built the prototype, was conducting sea trials by **summer 2010**, and documented the build on his own blog; Matt planned to offer the plans for sale once the prototype was proven. Design particulars (per the wiki):
 
 | Particular | Value |
 |---|---|
@@ -251,23 +102,14 @@ plans for sale once the prototype was proven. Design particulars (per the wiki):
 | Draft | 186 mm / 7⅜" |
 | Displacement (DWL) | 458 L / 1,010 lb |
 | Empty weight, rigged (est.) | ~120 kg / 260 lb |
-| Ballast | min. ~110 lb (Raftery estimates ~300 lb needed) |
+| Ballast | min. ~110 lb (est. ~300 lb needed) |
 | Sail area | 8.86 m² / ~95 sq ft |
 
-The **crew compartment** (between the fore and aft bulkheads) is **7' 7"** long,
-with sitting headroom for a six-footer — George Van Sickle: "there is going to
-[be] more interior space than I thought. I can sit upright athwartship with
-several inches of clearance overhead (I am 6 ft.)." Like the smaller Enigma the
-460 has **three watertight compartments** (main cabin plus forward and aft
-storage) with watertight bulkhead openings. The prototype's construction
-schedule: bottom **two sheets of 9 mm (⅜") Okoume**, sides two sheets of 6 mm
-(¼") each, three scarfs; bottom exterior in **two layers of 10 oz glass** (one
-layer inside), bulkheads glassed 4 oz both sides; ballast **220 lb from six
-steel plates plus 160 lb from two 80-lb sandbags**.
+The **crew compartment** (between the fore and aft bulkheads) is **7' 7"** long, with sitting headroom for a six-footer — "there is going to [be] more interior space than I thought. I can sit upright athwartship with several inches of clearance overhead (I am 6 ft.)." Like the smaller Enigma the 460 has **three watertight compartments** (main cabin plus forward and aft storage) with watertight bulkhead openings. The prototype's construction schedule: bottom **two sheets of 9 mm (⅜") Okoume**, sides two sheets of 6 mm (¼") each, three scarfs; bottom exterior in **two layers of 10 oz glass** (one layer inside), bulkheads glassed 4 oz both sides; ballast **220 lb from six steel plates plus 160 lb from two 80-lb sandbags**.
 
 ### Paradox vs. Enigma 360 vs. Enigma 460
 
-The wiki's own side-by-side comparison (figures rounded/estimated by Raftery):
+The wiki's own side-by-side comparison (figures rounded/estimated):
 
 | Dimension | Enigma 360 | Enigma 460 | [Paradox](/paradox.md) |
 |---|---|---|---|
@@ -279,47 +121,19 @@ The wiki's own side-by-side comparison (figures rounded/estimated by Raftery):
 | Ballast | ~100 lb | ~300 lb | ~400 lb |
 | Sail area | 56 sq ft | ~95–100 sq ft | 100 sq ft |
 
-The key design contrast the wiki draws: unlike heavy-displacement Paradox,
-Enigma is a **light-displacement** boat that "relies on her crew's weight as
-ballast to maintain stability and because of her light displacement she could
-even plane."
+The key design contrast the wiki draws: unlike heavy-displacement Paradox, Enigma is a **light-displacement** boat that "relies on her crew's weight as ballast to maintain stability and because of her light displacement she could even plane."
 
 ### Chine-runner evolution and reception
 
-On Enigma the [chine runners](/chine-runners/origin-and-evolution.md)
-took a "new shorter and deeper shape especially created for this lightweight
-boat" and "have evolved into **higher-aspect foils**," with Layden reporting
-that they seem to be **an improvement over Paradox's runners**. **Sven Yrvind**
-is quoted: "I am now convinced that the chinerunner concept, created by Matt in
-**1982**, is the greatest innovation for small cruising boats in the last
-century" — dating the concept's *creation* to 1982, three years before the 1985
-[Swamp Thing](/matt-layden/swamp-thing.md) that microcruising.com calls Matt's
-first chine-runner boat. The two figures are not necessarily in conflict
-(conception vs. first built boat), but remain unreconciled.
+On Enigma the [chine runners](/chine-runners/origin-and-evolution.md) took a "new shorter and deeper shape especially created for this lightweight boat" and "have evolved into **higher-aspect foils**," and Matt reported that they seem to be **an improvement over Paradox's runners**. One assessment on record: "I am now convinced that the chinerunner concept, created by Matt in **1982**, is the greatest innovation for small cruising boats in the last century" — dating the concept's *creation* to 1982, three years before the 1985 [Swamp Thing](/matt-layden/swamp-thing.md) that microcruising.com calls Matt's first chine-runner boat. The two figures are not necessarily in conflict (conception vs. first built boat), but remain unreconciled.
 
 ### Plans
 
-Even before Matt's own April 2006 announcement (below), builders following
-the 2006 race were already hoping Enigma plans would eventually be sold,
-and were prepared to buy a set; one builder pointed to designers' general
-exposure to **product-liability litigation** if someone were harmed using
-a boat built to their plans as the likely reason for any hesitation, while
-still hoping Matt would decide to sell plans given the evident demand.[33]
+Even before Matt's own April 2006 announcement (below), builders following the 2006 race were already hoping Enigma plans would eventually be sold, and were prepared to buy a set; designers' general exposure to **product-liability litigation** if someone were harmed using a boat built to their plans was pointed to as the likely reason for any hesitation, alongside continued hope that Matt would decide to sell plans given the evident demand.[33]
 
-**Matt Layden** noted in April 2006 that he was "working on an article for Small
-Craft Advisor with a fairly detailed description of Enigma and her origins" and
-would "have construction plans out later this year with some minor mods based on
-experience in the prototype." [Don Elliott](/people/don-elliott.md) relayed a
-letter from Matt to the same effect — "Builder's plans will be available for
-Enigma soon… I plan to make some minor changes in the model and draw up building
-plans later this year" (cf. Matt's later "yes, but it may be a while" answer in
-[building plans](/references/building-plans.md)).
+**Matt Layden** noted in April 2006 that he was "working on an article for Small Craft Advisor with a fairly detailed description of Enigma and her origins" and would "have construction plans out later this year with some minor mods based on experience in the prototype." A letter from Matt to the same effect was relayed to the list — "Builder's plans will be available for Enigma soon… I plan to make some minor changes in the model and draw up building plans later this year" (cf. Matt's later "yes, but it may be a while" answer in [building plans](/references/building-plans.md)).
 
-That article duly appeared as **"Enigma — The Matt Layden Interview"** in the
-**May 2007 *Small Craft Advisor*** (interview and photo by Steve Isaac). Only a
-partial scan survives, but in it Matt gives his **fullest first-person account of
-the chine-runner / lifting-body system** that Enigma and Paradox share (see [how
-chine runners work](/chine-runners/how-they-work.md)).[11]
+That article duly appeared as **"Enigma — The Matt Layden Interview"** in the **May 2007 *Small Craft Advisor***. Only a partial scan survives, but in it Matt gives his **fullest first-person account of the chine-runner / lifting-body system** that Enigma and Paradox share (see [how chine runners work](/chine-runners/how-they-work.md)).[11]
 
 # Citations
 

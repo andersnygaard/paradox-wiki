@@ -8,269 +8,87 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Yuloh and stowed-rig retaining loops
 
-The [Paradox](/paradox.md) carries two **brass tube retaining loops** on
-deck, one to each side of the coach roof, that hold gear in place when the
-boat is under way or the rig is down:
+The [Paradox](/paradox.md) carries two **brass tube retaining loops** on deck, one to each side of the coach roof, that hold gear in place when the boat is under way or the rig is down:
 
-- **Starboard loop** — retains the **yuloh** (a Chinese-style sculling oar,
-  used for auxiliary propulsion in calm conditions or close quarters).
-- **Port loop** — retains the **lowered mast/rig and sail** when unstepped
-  and stowed on deck.
+- **Starboard loop** — retains the **yuloh** (a Chinese-style sculling oar, used for auxiliary propulsion in calm conditions or close quarters).
+- **Port loop** — retains the **lowered mast/rig and sail** when unstepped and stowed on deck.
 
 ## How each loop holds its load along its length
 
-A **forward loop**, attached to the **intermediate deck beam**, holds the
-forward end of the yuloh, while the yuloh itself is held from sliding **aft**
-by fit and friction rather than a second loop: it sits very snugly against
-the coach roof on the starboard side, and can be slid aft until it **jams
-outside the cleat**, which prevents it moving either forward or aft.
+A **forward loop**, attached to the **intermediate deck beam**, holds the forward end of the yuloh, while the yuloh itself is held from sliding **aft** by fit and friction rather than a second loop: it sits very snugly against the coach roof on the starboard side, and can be slid aft until it **jams outside the cleat**, which prevents it moving either forward or aft.
 
-On the port side, the lowered rig's **forward end** is retained by the
-**tack fitting that supports the forward furling drum** — the same fitting
-used when the sail is set (see [furling system](/design/furling-system.md)
-and [rig and sail](/design/rig.md)) does double duty as a stowage retainer
-when the rig is down. The design carries a sculling oar as standard/
-expected equipment, distinct from the [auxiliary outboard
-power](/operations/auxiliary-outboard-power.md) option some builders fit
-instead or in addition.
+On the port side, the lowered rig's **forward end** is retained by the **tack fitting that supports the forward furling drum** — the same fitting used when the sail is set (see [furling system](/design/furling-system.md) and [rig and sail](/design/rig.md)) does double duty as a stowage retainer when the rig is down. The design carries a sculling oar as standard/expected equipment, distinct from the [auxiliary outboard power](/operations/auxiliary-outboard-power.md) option some builders fit instead or in addition.
 
 ## Installing the pipe stowage rails
 
-The port-and-starboard pipe stowage rails — the physical brass tubes the
-retaining-loop system above relies on — can be installed permanently with
-epoxy or fitted as a removable, bolt-on assembly.
+The port-and-starboard pipe stowage rails — the physical brass tubes the retaining-loop system above relies on — can be installed permanently with epoxy or fitted as a removable, bolt-on assembly.
 
-The **epoxy-and-filler technique** below is the most detailed deck-hardware
-installation write-up on record, comparable in thoroughness to [transom deck
-plate](/construction/transom-deck-plate.md)'s tank-port fixes:
+The **epoxy-and-filler technique** below is the most detailed deck-hardware installation write-up on record, comparable in thoroughness to [transom deck plate](/construction/transom-deck-plate.md)'s tank-port fixes:
 
-- Drill the hole **about 5/8 in** (3/4 in would be stronger, but 5/8 in has
-  proved fine in practice), almost to the bottom of the backing block —
-  careful not to drill through it (tape over the hole first if it does
-  happen, to stop epoxy leaking out).
+- Drill the hole **about 5/8 in** (3/4 in would be stronger, but 5/8 in has proved fine in practice), almost to the bottom of the backing block — careful not to drill through it (tape over the hole first if it does happen, to stop epoxy leaking out).
 - Mark on the stowage rails where they will meet the deck once installed.
-- **Scuff** that area of the rail well with **60-grit sandpaper**, and use a
-  **rat-tail file** to scuff the inside of the pipe — optionally also
-  drilling a couple of small holes below the line — all to give the glue
-  something to grip.
-- **Clear-coat** the holes with straight epoxy a couple of times so the wood
-  soaks it up, then mix **404 high-density filler** (or cabosil, thickened
-  to a "thick but pourable" consistency) and fill the holes to about 1/8 in
-  from the top.
-- Insert the rails, tapping them in gently so epoxy flows up and levels out;
-  top up or clean off overflow as needed.
-- **Tape the area off before starting**, drilling through the tape — easier
-  to clean up afterward than taping around the hole once drilled.
-- Rails epoxied in this way can still be removed later by **heating them
-  with a torch** until the epoxy softens enough to pull them out — the same
-  general method for removing any hardware bonded in place.
+- **Scuff** that area of the rail well with **60-grit sandpaper**, and use a **rat-tail file** to scuff the inside of the pipe — optionally also drilling a couple of small holes below the line — all to give the glue something to grip.
+- **Clear-coat** the holes with straight epoxy a couple of times so the wood soaks it up, then mix **404 high-density filler** (or cabosil, thickened to a "thick but pourable" consistency) and fill the holes to about 1/8 in from the top.
+- Insert the rails, tapping them in gently so epoxy flows up and levels out; top up or clean off overflow as needed.
+- **Tape the area off before starting**, drilling through the tape — easier to clean up afterward than taping around the hole once drilled.
+- Rails epoxied in this way can still be removed later by **heating them with a torch** until the epoxy softens enough to pull them out — the same general method for removing any hardware bonded in place.
 
-**A removable, bolt-on alternative**, used on
-[Little Cruiser](/matt-layden/little-cruiser.md): rather than gluing the
-rails in, they are bolted on, trading some strength for the ability to
-remove them later — the epoxy method is the strongest, but the bolt-on
-version is preferable where permanence isn't wanted. On Little Cruiser the
-rails had been off for years and were only put back on to carry a yuloh on
-a subsequent trip.
+**A removable, bolt-on alternative**, used on [Little Cruiser](/matt-layden/little-cruiser.md): rather than gluing the rails in, they are bolted on, trading some strength for the ability to remove them later — the epoxy method is the strongest, but the bolt-on version is preferable where permanence isn't wanted. On Little Cruiser the rails had been off for years and were only put back on to carry a yuloh on a subsequent trip.
 
-**A speculative U-bolt method**: fill the pipes with something inert
-(polystyrene beads were one idea), pour in resin, and set a length of
-**8 mm or 10 mm studding** in the ends before it cures, producing in effect a
-large U-bolt — two holes drilled in the deck, with washers, would let the
-studding pass through and be secured with a nut on each side. This should
-work, but is more work than simply gluing the rails in — "any number of
-ways to skin a cat."
+**A speculative U-bolt method**: fill the pipes with something inert (polystyrene beads were one idea), pour in resin, and set a length of **8 mm or 10 mm studding** in the ends before it cures, producing in effect a large U-bolt — two holes drilled in the deck, with washers, would let the studding pass through and be secured with a nut on each side. This should work, but is more work than simply gluing the rails in — "any number of ways to skin a cat."
 
-Between the three methods — epoxy-and-filler, bolt-on (the Little Cruiser
-precedent), and the speculative U-bolt idea — builders have a genuine choice
-between a stronger permanent installation and removable/adjustable
-alternatives.
+Between the three methods — epoxy-and-filler, bolt-on (the Little Cruiser precedent), and the speculative U-bolt idea — builders have a genuine choice between a stronger permanent installation and removable/adjustable alternatives.
 
 ## Deck-loop material choices, and a fastening variant
 
-Builders have used both the plans' **brass tube** and plain **copper water
-pipe** for the two retaining loops, fastened down the same basic way: a
-block glued under the deck, a hole drilled partway (or bored 9/16 in and
-epoxy-filled through in a second variant), the tube scuffed with coarse
-sandpaper (36- or 60-grit) and drilled with a couple of holes below deck
-level to key the epoxy, then glued in. Builders reporting five years and
-three sailing seasons on loops built this way record no problems.
+Builders have used both the plans' **brass tube** and plain **copper water pipe** for the two retaining loops, fastened down the same basic way: a block glued under the deck, a hole drilled partway (or bored 9/16 in and epoxy-filled through in a second variant), the tube scuffed with coarse sandpaper (36- or 60-grit) and drilled with a couple of holes below deck level to key the epoxy, then glued in. Builders reporting five years and three sailing seasons on loops built this way record no problems.
 
-Being tube, the loops are among the weakest fittings on the boat's
-exterior — a real concern if someone comes alongside and grabs one to hold
-the boat, since it can simply bend. A practical shape guards against this
-on the starboard (yuloh) loop in particular: keep it as low as possible, no
-more than a semicircle rising directly out of the deck, since any taller
-vertical section before the curve makes it easier for anchor lines and
-other deck lines to wrap around it and harder to slip back off again.
+Being tube, the loops are among the weakest fittings on the boat's exterior — a real concern if someone comes alongside and grabs one to hold the boat, since it can simply bend. A practical shape guards against this on the starboard (yuloh) loop in particular: keep it as low as possible, no more than a semicircle rising directly out of the deck, since any taller vertical section before the curve makes it easier for anchor lines and other deck lines to wrap around it and harder to slip back off again.
 
 ## Storing the mast, boom, and sail when not sailing
 
-The lowered rig can either stay lashed on deck in the port retaining loop
-(see above) or be broken down further for storage ashore. One builder
-removes the furling axle by backing its retaining screw out a couple of
-turns — doubtful the screw is even strictly necessary — then stores mast,
-boom, and sail in a garage at home rather than leaving them aboard, since
-loading the boat for a trip would be difficult with the spars still inside
-the hull; the security of having nothing loose to worry about matters more
-on a long tow to distant sailing grounds. A sailcover to guard against
-sun damage in on-deck storage has not been needed in that builder's own
-sailing area, though the general risk of UV degradation to unprotected
-sailcloth is well established elsewhere in the archive (see [topside and
-hull painting choices](/construction/topside-painting.md) for the
-equivalent UV-protection question as it applies to painted epoxy).
+The lowered rig can either stay lashed on deck in the port retaining loop (see above) or be broken down further for storage ashore. To break it down, the furling axle is removed by backing its retaining screw out a couple of turns — the screw is doubtfully even strictly necessary — then the mast, boom, and sail are stored in a garage at home rather than left aboard, since loading the boat for a trip would be difficult with the spars still inside the hull; the security of having nothing loose to worry about matters more on a long tow to distant sailing grounds. A sailcover to guard against sun damage in on-deck storage has not proved necessary in some sailing areas, though the general risk of UV degradation to unprotected sailcloth is well established elsewhere in the archive (see [topside and hull painting choices](/construction/topside-painting.md) for the equivalent UV-protection question as it applies to painted epoxy).
 
-For a sailor whose usual launch site is a half-mile trailer haul from home,
-even lashing the rig to the sail bundle on deck for a short trip was judged
-likely to be good enough, rather than breaking the spars down for garage
-storage every time.[39]
+Where the usual launch site is a half-mile trailer haul from home, even lashing the rig to the sail bundle on deck for a short trip is likely good enough, rather than breaking the spars down for garage storage every time.[39]
 
 ## Where the yuloh is documented in the plans
 
-**Page 12 of the Paradox plans has the yuloh diagram** — the yuloh is not
-an add-on but part of the design as sold, "an excellent way to propel a
-micro-cruiser when there is no wind." For more detail than the plans page
-alone gives, two external how-to sites cover construction and use
-(`members.tripod.com/simplicityboats/yulohpage.html`) and sculling technique
-(`geocities.com/Yosemite/Geyser/6383/yuloh2.htm`), complementing rather than
-duplicating the fuller sculling **technique** material at [sculling and
-yuloh technique](/operations/sculling-and-yuloh-technique.md).
+**Page 12 of the Paradox plans has the yuloh diagram** — the yuloh is not an add-on but part of the design as sold, "an excellent way to propel a micro-cruiser when there is no wind." For more detail than the plans page alone gives, two external how-to sites cover construction and use (`members.tripod.com/simplicityboats/yulohpage.html`) and sculling technique (`geocities.com/Yosemite/Geyser/6383/yuloh2.htm`), complementing rather than duplicating the fuller sculling **technique** material at [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md).
 
 ## The yuloh as standard auxiliary — and sculling technique (microcruising.com)
 
-The **yuloh** (a curved Chinese-style sculling oar) is the standard
-engine-free auxiliary carried aboard Matt Layden's boats, retained on deck
-in the starboard brass tube loop described above. David & Mindy Bolduc
-adopted it themselves only after a hard lesson: when their outboard failed
-during a calm far from shore, they discovered they could not move their
-**1,600-lb** [Little Cruiser](/matt-layden/little-cruiser.md) with just a
-dinghy paddle and had to take a tow — "Once there my wife Mindy and I soon
-discovered that we couldn't move our 1600 pound boat easily or very far
-with just our dinghy paddle." That experience convinced them to carry a
-yuloh and learn to use it properly. The full sculling **technique** — stroke
-mechanics, training regimen, and speed/distance data from three Watertribe
-Challenges — is covered in depth at [sculling and yuloh
-technique](/operations/sculling-and-yuloh-technique.md); that concept should
-be treated as the canonical home for the how-to material and is
-cross-linked here rather than duplicated.
+The **yuloh** (a curved Chinese-style sculling oar) is the standard engine-free auxiliary carried aboard Matt Layden's boats, retained on deck in the starboard brass tube loop described above. The yuloh's value is learned the hard way when an outboard fails during a calm far from shore: a **1,600-lb** [Little Cruiser](/matt-layden/little-cruiser.md) cannot be moved easily or very far with just a dinghy paddle, forcing a tow — "we couldn't move our 1600 pound boat easily or very far with just our dinghy paddle." That kind of experience is what convinces owners to carry a yuloh and learn to use it properly. The full sculling **technique** — stroke mechanics, training regimen, and speed/distance data from three Watertribe Challenges — is covered in depth at [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md); that concept should be treated as the canonical home for the how-to material and is cross-linked here rather than duplicated.
 
-One notable exception in the Layden lineage: [Elusion](/matt-layden/elusion.md)'s
-auxiliary is "not the usual sculling oar but instead a stand up paddle."
+One notable exception in the Layden lineage: [Elusion](/matt-layden/elusion.md)'s auxiliary is "not the usual sculling oar but instead a stand up paddle."
 
 ## Building the yuloh itself: blade curvature, and the pivot bolt/socket
 
-Beyond page 12's diagram, the plans leave some of the yuloh's own
-construction to the builder's judgment — starting with the **30 mm
-longitudinal concavity** the plans specify along the blade's length. Read
-literally this figure is ambiguous (an offset from a straight line spanning
-the whole yuloh, or only across the blade portion), and the archive records
-no single authoritative resolution of the wording; builders have instead
-settled it by choosing a construction method that produces a workable curve
-without needing to hit an exact number. The clearer reading, reached on a
-second pass at the same question, is **deflection from the yuloh's own
-centerline**, not a fixed radius to be matched with a template: because the
-yuloh is laminated around a fairly arbitrary center and then shaped
-asymmetrically afterward, with the wood springing back somewhat as it's
-worked, the finished blade ends up looking quite different from the blank
-it started as — builders eyeballing noticeably more than 30 mm of
-deflection have had no problems.
+Beyond page 12's diagram, the plans leave some of the yuloh's own construction to the builder's judgment — starting with the **30 mm longitudinal concavity** the plans specify along the blade's length. Read literally this figure is ambiguous (an offset from a straight line spanning the whole yuloh, or only across the blade portion), and the archive records no single authoritative resolution of the wording; builders have instead settled it by choosing a construction method that produces a workable curve without needing to hit an exact number. The clearer reading, reached on a second pass at the same question, is **deflection from the yuloh's own centerline**, not a fixed radius to be matched with a template: because the yuloh is laminated around a fairly arbitrary center and then shaped asymmetrically afterward, with the wood springing back somewhat as it's worked, the finished blade ends up looking quite different from the blank it started as — builders eyeballing noticeably more than 30 mm of deflection have had no problems.
 
-Why curve the blade at all, rather than build it straight (as **Matt
-Layden**'s own newer yuloh is — see below): a sailmaking authority consulted
-on the question explained the curvature's purpose is to move the blade's
-**center of rotation** to the other side of its own longitudinal axis — a
-rationale for the shape, distinct from the various lamination methods
-builders have used to produce it.
+Why curve the blade at all, rather than build it straight (as **Matt Layden**'s own newer yuloh is — see below): the curvature's purpose is to move the blade's **center of rotation** to the other side of its own longitudinal axis — a rationale for the shape, distinct from the various lamination methods builders have used to produce it.
 
-Two lamination approaches are on record, both producing a workable curve:
-laminating **two planks bent together over a 30 mm-high block**, which
-simply "works"; and building to the plans' dimensions as drawn, which has
-likewise given no problems with the finished oar. A simple, repeatable
-lamination method for hitting a workable curve without a jig: lay the two
-planks on a flat floor over a **30 mm block of wood** at the point of
-maximum curvature, then load the free ends with weights until they touch
-the ground, holding the shape until the glue cures — one builder used this
-method starting from **two Douglas fir 2x4s**, thinned on a radial arm saw,
-handle end narrowed with a saber saw, then shaped the finished blade with a
-portable grinder and sanding disc.
+Two lamination approaches are on record, both producing a workable curve: laminating **two planks bent together over a 30 mm-high block**, which simply "works"; and building to the plans' dimensions as drawn, which has likewise given no problems with the finished oar. A simple, repeatable lamination method for hitting a workable curve without a jig: lay the two planks on a flat floor over a **30 mm block of wood** at the point of maximum curvature, then load the free ends with weights until they touch the ground, holding the shape until the glue cures — one build used this method starting from **two Douglas fir 2x4s**, thinned on a radial arm saw, handle end narrowed with a saber saw, then shaped the finished blade with a portable grinder and sanding disc.
 
-The **pivot bolt** — the fitting mounted atop the stern that the yuloh
-pivots against — has been built at least two ways:
+The **pivot bolt** — the fitting mounted atop the stern that the yuloh pivots against — has been built at least two ways:
 
-- **Ball-and-socket:** a pivot bolt made from **10 mm stainless steel
-  studding**, with the ball from a spherical bearing epoxied onto the end.
-  The socket is a block of **tufnol**, recessed into the yuloh and drilled
-  out to the ball's diameter, one diameter deep. Both parts "seem to work."
-- **Brazed bronze bolt:** filler material **brazed onto the top of a
-  bronze bolt** to build up a ball shape, the bolt itself hardware-bonded
-  into the transom. Built to the plans' design, fitted with the **gas-line
-  cap** specified there, this gave no problems once built — the only
-  difficulty was the builder's own learning curve using it, documented
-  separately in the sea-trials account at [sculling and yuloh
-  technique](/operations/sculling-and-yuloh-technique.md).
+- **Ball-and-socket:** a pivot bolt made from **10 mm stainless steel studding**, with the ball from a spherical bearing epoxied onto the end. The socket is a block of **tufnol**, recessed into the yuloh and drilled out to the ball's diameter, one diameter deep. Both parts "seem to work."
+- **Brazed bronze bolt:** filler material **brazed onto the top of a bronze bolt** to build up a ball shape, the bolt itself hardware-bonded into the transom. Built to the plans' design, fitted with the **gas-line cap** specified there, this gave no problems once built — the only difficulty was the builder's own learning curve using it, documented separately in the sea-trials account at [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md).
 
-For the **socket end embedded in the yuloh itself**, a builder can also
-grind an **acorn nut** to a smooth concave surface as a simpler alternative
-to a machined tufnol block, though the archive does not record a first-hand
-report of that specific approach in use.
+For the **socket end embedded in the yuloh itself**, a builder can also grind an **acorn nut** to a smooth concave surface as a simpler alternative to a machined tufnol block, though the archive does not record a first-hand report of that specific approach in use.
 
-**Keeping the yuloh from jumping off the ball** — a real nuisance while
-learning the technique — has its own fix: a loop of **bungee cord** holding
-the yuloh down against the ball, confirmed to work well, with the tradeoff
-it shares with any positive fixing — it takes a moment to set up and
-remove, against the near-instant readiness of simply lifting the yuloh onto
-the ball to start sculling. **Matt Layden**'s own arrangement leaves the
-yuloh completely unfixed, tradeable in seconds for starting the outboard
-instead.
+**Keeping the yuloh from jumping off the ball** — a real nuisance while learning the technique — has its own fix: a loop of **bungee cord** holding the yuloh down against the ball, confirmed to work well, with the tradeoff it shares with any positive fixing — it takes a moment to set up and remove, against the near-instant readiness of simply lifting the yuloh onto the ball to start sculling. **Matt Layden**'s own arrangement leaves the yuloh completely unfixed, tradeable in seconds for starting the outboard instead.
 
-Builders have not settled the underlying question of which pivot design is
-best; both the stainless-stud/tufnol-socket and brazed-bronze-ball
-approaches are reported as trouble-free once built, leaving the choice one
-of available materials and metalworking skill rather than a known
-performance difference.
+Builders have not settled the underlying question of which pivot design is best; both the stainless-stud/tufnol-socket and brazed-bronze-ball approaches are reported as trouble-free once built, leaving the choice one of available materials and metalworking skill rather than a known performance difference.
 
-**A standard-rowlock alternative to the plans' pivot bolt** has also been
-demonstrated, on a non-Paradox 14 ft lugger's own yuloh: the loom leathered
-where it fits the rowlock, with a leather "button" (three 3 mm layers)
-screwed to the underside to stop the loom sliding through. Contrary to the
-expectation that the button should sit against the rowlock's aft face to
-resist the loom riding up under load, it works best positioned against the
-**forward** face instead — the loom's own down-and-aft working angle is
-already enough to prevent riding up, making the button largely unnecessary in
-practice. This trades the plans' dedicated pivot fitting for hardware many
-small-boat builders already have on hand, at the cost of the wear and
-mainsheet-tangling risk any rowlock-mounted yuloh carries (see [sculling and
-yuloh technique — the rowlock/oar-socket question, and Alastair's
-caution](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom)
-for the fuller discussion of that trade-off).
+**A standard-rowlock alternative to the plans' pivot bolt** has also been demonstrated, on a non-Paradox 14 ft lugger's own yuloh: the loom leathered where it fits the rowlock, with a leather "button" (three 3 mm layers) screwed to the underside to stop the loom sliding through. Contrary to the expectation that the button should sit against the rowlock's aft face to resist the loom riding up under load, it works best positioned against the **forward** face instead — the loom's own down-and-aft working angle is already enough to prevent riding up, making the button largely unnecessary in practice. This trades the plans' dedicated pivot fitting for hardware many small-boat builders already have on hand, at the cost of the wear and mainsheet-tangling risk any rowlock-mounted yuloh carries (see [sculling and yuloh technique — the rowlock/oar-socket question and caution](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom) for the fuller discussion of that trade-off).
 
-**Matt Layden** has since built himself a **new yuloh** for his own
-Paradox, substantially different from the original: it is in fact
-**straight**, and works well but is noticeably harder on the arm and wrist
-than a curved blade — a tradeoff that also comes up in the fuller
-build-effort comparison of the two oars at [sculling and yuloh
-technique](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off).
+**Matt Layden** has since built himself a **new yuloh** for his own Paradox, substantially different from the original: it is in fact **straight**, and works well but is noticeably harder on the arm and wrist than a curved blade — a tradeoff that also comes up in the fuller build-effort comparison of the two oars at [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off).
 
 ## Wood for the yuloh
 
-Yuloh blades on record have been built from **Douglas Fir** — the same
-species used for everything on a wooden hull that isn't marine plywood — and
-from **clear fir**, with a good piece of **pine** judged to work just as
-well: the yuloh comes out quite strong once its laminations are glued up,
-regardless of which softwood is chosen. A single piece of **5/4 Douglas
-Fir** also works, chosen for grain running straight enough along its length
-to fit both laminated pieces with little runout even when it runs slightly
-diagonal across the board's width; most species or grades likely work fine,
-and the yuloh overall is "a fun little project."
+Yuloh blades on record have been built from **Douglas Fir** — the same species used for everything on a wooden hull that isn't marine plywood — and from **clear fir**, with a good piece of **pine** judged to work just as well: the yuloh comes out quite strong once its laminations are glued up, regardless of which softwood is chosen. A single piece of **5/4 Douglas Fir** also works, chosen for grain running straight enough along its length to fit both laminated pieces with little runout even when it runs slightly diagonal across the board's width; most species or grades likely work fine, and the yuloh overall is "a fun little project."
 
-Having used **both** Little Cruiser's original curved sculling oar and
-Matt Layden's new, straighter one aboard Matt's own Paradox, the settled
-comparison favors the original: the extra curve makes the blade scull more
-automatically, while the newer, straighter oar is more powerful — its blade
-pitch easier to control — at the cost of noticeably more wrist effort. See
-[sculling and yuloh
-technique](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off)
-for the fuller side-by-side comparison of the two oars.
+Comparing **both** Little Cruiser's original curved sculling oar and Matt Layden's new, straighter one aboard Matt's own Paradox, the settled comparison favors the original: the extra curve makes the blade scull more automatically, while the newer, straighter oar is more powerful — its blade pitch easier to control — at the cost of noticeably more wrist effort. See [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md#matt-laydens-own-yuloh-speed-and-the-straight-vs-curved-blade-trade-off) for the fuller side-by-side comparison of the two oars.
 
 # Citations
 

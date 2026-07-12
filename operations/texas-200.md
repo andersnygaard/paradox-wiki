@@ -8,13 +8,9 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Texas 200
 
-The **Texas 200** is a long-distance small-boat coastal raid along the Texas
-coast, used by owners as evidence of a boat's real-world cruising ability.
+The **Texas 200** is a long-distance small-boat coastal raid along the Texas coast, used by owners as evidence of a boat's real-world cruising ability.
 
-At least one [Paradox](/paradox.md) — the boat now owned by
-[Chris Curtis](/people/chris-curtis.md), built by Lezlie Hensen — has
-**completed the Texas 200**, supporting the Paradox's reputation as "a great
-boat in almost every way."
+At least one [Paradox](/paradox.md) has **completed the Texas 200**, supporting the Paradox's reputation as "a great boat in almost every way."
 
 Paradoxes are also shown at the **Port Townsend Wooden Boat Show**.
 

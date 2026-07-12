@@ -8,985 +8,192 @@ timestamp: 2026-07-05T00:00:00Z
 
 # Jack Gardiner
 
-**Jack Gardiner** (`alex29@...`, Yahoo profile `tidybowlmann`) is a Rhode
-Island carpenter and tradesman — a self-described "mr fix it type" who had
-already designed and built his own diving boat in six weeks before buying a
-set of [Paradox](/paradox.md) plans in December 2003. He wanted the boat for
-coastal cruising rather than ocean crossing, with no interest in a large or
-production boat, joining at a point when six Paradoxes had been launched
-"that we know of."
+**Jack Gardiner** (`alex29@...`, Yahoo profile `tidybowlmann`) is a Rhode Island carpenter and tradesman — a self-described "mr fix it type" who had already designed and built his own diving boat in six weeks before buying a set of [Paradox](/paradox.md) plans in December 2003. He wanted the boat for coastal cruising rather than ocean crossing, with no interest in a large or production boat, joining at a point when six Paradoxes had been launched "that we know of."
 
 ## Contributions
 
-Jack's distinctive contribution was opening and driving the archive's
-fullest debate on **building the whole Paradox hull in steel** rather than
-plywood — first floating a narrower steel-hull-*bottom* idea for combined
-ballast and impact protection (see
-[weight, ballast, and displacement — a steel hull bottom as combined ballast
-and impact protection](/design/weight-and-ballast.md#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)),
-then returning days later to press the case for an all-steel build. Across
-that exchange he proposed **adjustable, bolt-on or sliding chine runners**
-built from lead-filled steel tube or angle iron; reasoned that since ballast
-is unneeded at the boat's ends, a steel floor need only run under the cabin,
-and floated using that same steel floor to support the mast step, open up
-the mast bulkhead for more room, or enlarge the cockpit and cabin top. He
-brought practical fabrication credibility to the idea — he owned a Lincoln
-110 wire-feed welder and had prior ornamental-ironwork experience — and,
-after William Longyard supplied gauge and framing figures, offered his own
-research finding that steel runs roughly **30-40% stronger than wood for its
-weight**, plus a practical case for fast priming/painting and spray-foam
-condensation control. He also flagged **remote repair** as steel's real
-weak point (proposing epoxy as a stopgap and spare bolts/washers for a
-mechanical patch) and asked, without an answer recorded in the archive,
-whether biaxial fiberglass cloth bonds to a steel-skinned hull as well as it
-does to plywood. See
-[aluminum and steel Paradox (speculative) — whole-hull steel construction](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance)
-for the full technical exchange with William Longyard and David LeBlanc.
+Jack's distinctive contribution was opening and driving the archive's fullest debate on **building the whole Paradox hull in steel** rather than plywood — first floating a narrower steel-hull-*bottom* idea for combined ballast and impact protection (see [weight, ballast, and displacement — a steel hull bottom as combined ballast and impact protection](/design/weight-and-ballast.md#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)), then returning days later to press the case for an all-steel build. Across that exchange he proposed **adjustable, bolt-on or sliding chine runners** built from lead-filled steel tube or angle iron; reasoned that since ballast is unneeded at the boat's ends, a steel floor need only run under the cabin, and floated using that same steel floor to support the mast step, open up the mast bulkhead for more room, or enlarge the cockpit and cabin top. He brought practical fabrication credibility to the idea — he owned a Lincoln 110 wire-feed welder and had prior ornamental-ironwork experience — and, once gauge and framing figures were supplied, offered his own research finding that steel runs roughly **30-40% stronger than wood for its weight**, plus a practical case for fast priming/painting and spray-foam condensation control. He also flagged **remote repair** as steel's real weak point (proposing epoxy as a stopgap and spare bolts/washers for a mechanical patch) and asked, without an answer recorded in the archive, whether biaxial fiberglass cloth bonds to a steel-skinned hull as well as it does to plywood. See [aluminum and steel Paradox (speculative) — whole-hull steel construction](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance) for the full technical exchange.
 
-Continuing the same exchange, Jack agreed 3/8 in plate was far too heavy and
-endorsed a corrected 1/8-in-equals-1.5-in-mahogany figure, framing his
-own priority as matching wood's *loaded* weight and center of gravity rather
-than the bare hull weight; he had fabrication-shop access through a welder
-he serviced, though the shop lacked a plasma cutter, leaving curved cuts to
-an air chisel. He proposed roughly 3/16 in for the bottom plate as a
-target-weight compromise, a fully weldable and gasketed water-tank system
-more cleanable than the plans' production covers, and noted hollow frame
-tubing adds buoyancy if the boat floods. Explaining his own welding-stress
-technique, he described tacking small sections and building up incrementally
-rather than heating a large area at once, since thin steel dissipates heat
-fast enough to avoid the stress thick-plate welding develops, and judged
-grinding hull welds smooth largely unnecessary on a boat this size. See
-[aluminum and steel Paradox (speculative) — gauge, weight, and the case for
-steel over wood generally](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally)
-and
-[aluminum and steel Paradox (speculative) — composite wood/steel hulls, and
-steel's fabrication
-practicalities](/design/aluminum-construction-idea.md#composite-woodsteel-hulls-and-steels-fabrication-practicalities).
+Continuing the same exchange, Jack agreed 3/8 in plate was far too heavy and endorsed a corrected 1/8-in-equals-1.5-in-mahogany figure, framing his own priority as matching wood's *loaded* weight and center of gravity rather than the bare hull weight; he had fabrication-shop access through a welder he serviced, though the shop lacked a plasma cutter, leaving curved cuts to an air chisel. He proposed roughly 3/16 in for the bottom plate as a target-weight compromise, a fully weldable and gasketed water-tank system more cleanable than the plans' production covers, and noted hollow frame tubing adds buoyancy if the boat floods. Explaining his own welding-stress technique, he described tacking small sections and building up incrementally rather than heating a large area at once, since thin steel dissipates heat fast enough to avoid the stress thick-plate welding develops, and judged grinding hull welds smooth largely unnecessary on a boat this size. See [aluminum and steel Paradox (speculative) — gauge, weight, and the case for steel over wood generally](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally) and [aluminum and steel Paradox (speculative) — composite wood/steel hulls, and steel's fabrication practicalities](/design/aluminum-construction-idea.md#composite-woodsteel-hulls-and-steels-fabrication-practicalities).
 
-Pressed further on fabrication practicalities, Jack suggested **round
-thin-wall tubing** as an alternative to square tubing for bending the
-compound-curved chine logs and sheer clamps into a smooth arc, and separately
-floated building a metal-hulled Paradox's **cabin top and deck as a
-stitch-and-glue composite unit** — a plywood/foam-board/epoxy sandwich
-comparable to Sven Yrvind's cold-molded method, with rubber window molding
-of the kind he had already used on his own stitch-and-glue power boat. See
-[aluminum and steel Paradox (speculative) — fabricating steel chine logs and
-sheer clamps](/design/aluminum-construction-idea.md#fabricating-steel-chine-logs-and-sheer-clamps-two-curves-at-once)
-and
-[aluminum and steel Paradox (speculative) — a stitch-and-glue composite
-cabin top](/design/aluminum-construction-idea.md#a-stitch-and-glue-composite-cabin-top-as-a-steel-hull-companion-idea).
+Pressed further on fabrication practicalities, Jack suggested **round thin-wall tubing** as an alternative to square tubing for bending the compound-curved chine logs and sheer clamps into a smooth arc, and separately floated building a metal-hulled Paradox's **cabin top and deck as a stitch-and-glue composite unit** — a plywood/foam-board/epoxy sandwich comparable to a cold-molded method used elsewhere, with rubber window molding of the kind he had already used on his own stitch-and-glue power boat. See [aluminum and steel Paradox (speculative) — fabricating steel chine logs and sheer clamps](/design/aluminum-construction-idea.md#fabricating-steel-chine-logs-and-sheer-clamps-two-curves-at-once) and [aluminum and steel Paradox (speculative) — a stitch-and-glue composite cabin top](/design/aluminum-construction-idea.md#a-stitch-and-glue-composite-cabin-top-as-a-steel-hull-companion-idea).
 
-Continuing into the following day, Jack added a priming/painting caution for
-steel construction: square stock left resting flat against a plate leaves an
-unprimed, unpainted steel-to-steel joint, which he judged better avoided by
-using preprimed weldable steel or round tubing (fully coatable by paint)
-instead — then flagged that the aside belonged in the group's separate steel
-thread rather than the buoyancy thread he had posted it to. See [aluminum and
-steel Paradox (speculative) — a real-world precedent: small steel dinghies on
-European
-canals](/design/aluminum-construction-idea.md#a-real-world-precedent-small-steel-dinghies-on-european-canals).
+Continuing into the following day, Jack added a priming/painting caution for steel construction: square stock left resting flat against a plate leaves an unprimed, unpainted steel-to-steel joint, which he judged better avoided by using preprimed weldable steel or round tubing (fully coatable by paint) instead — then flagged that the aside belonged in the group's separate steel thread rather than the buoyancy thread he had posted it to. See [aluminum and steel Paradox (speculative) — a real-world precedent: small steel dinghies on European canals](/design/aluminum-construction-idea.md#a-real-world-precedent-small-steel-dinghies-on-european-canals).
 
-No steel-hulled Paradox build, by Jack or anyone else, is recorded anywhere
-in the archive; the idea remains speculative.
+No steel-hulled Paradox build, by Jack or anyone else, is recorded anywhere in the archive; the idea remains speculative.
 
-Jack's steel case drew a sharp design-philosophy pushback questioning his
-seamanship along with his construction choices. Jack answered the personal
-jab in kind at first, then held to a stated intent to "stay away from the
-personal insults," countering with substance: he was actively planning to
-build one Paradox in wood and one (or two) in steel, denied that steel
-interest implied a lack of woodworking skill, and defended his fabrication
-answers point by point. He framed the whole exchange as exactly what a
-*Paradox builders* forum should host — a range of construction approaches
-discussed "in a civil laid back fashion... some do not." A separate,
-exasperated post that Paradox "offers no challenges to anyone who can
-assemble a decent set of bookshelves" and "is complete" landed a few
-minutes later; Jack misread it as one more voice telling him to abandon
-steel and leave, answered with genuine hurt, then immediately stood down —
-"Il go away." No further "Steel?" posts follow. See [aluminum and steel
-Paradox (speculative) — the design-philosophy objection escalates into a
-personal
-dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute).
+Jack's steel case drew a sharp design-philosophy pushback questioning his seamanship along with his construction choices. Jack answered the personal jab in kind at first, then held to a stated intent to "stay away from the personal insults," countering with substance: he was actively planning to build one Paradox in wood and one (or two) in steel, denied that steel interest implied a lack of woodworking skill, and defended his fabrication answers point by point. He framed the whole exchange as exactly what a *Paradox builders* forum should host — a range of construction approaches discussed "in a civil laid back fashion... some do not." A separate, exasperated post that Paradox "offers no challenges to anyone who can assemble a decent set of bookshelves" and "is complete" landed a few minutes later; Jack misread it as one more voice telling him to abandon steel and leave, answered with genuine hurt, then immediately stood down — "Il go away." No further "Steel?" posts follow. See [aluminum and steel Paradox (speculative) — the design-philosophy objection escalates into a personal dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute).
 
-Reflecting on the exchange, Jack framed his own draw to unconventional
-construction as of a piece with the design's own origin story: Matt Layden
-broke the conventional rules to create Paradox in the first place,
-unencumbered by them in his creativity and thinking — the same iconoclastic
-spirit he saw in Sven Yrvind and Phil Bolger, and one he counted himself as
-sharing. See
-[aluminum and steel Paradox (speculative) — field welding, and confirmation from real small steel boats](/design/aluminum-construction-idea.md#field-welding-and-confirmation-from-real-small-steel-boats).
+Reflecting on the exchange, Jack framed his own draw to unconventional construction as of a piece with the design's own origin story: Matt Layden broke the conventional rules to create Paradox in the first place, unencumbered by them in his creativity and thinking — the same iconoclastic spirit he saw elsewhere among unconventional small-boat designers, and one he counted himself as sharing. See [aluminum and steel Paradox (speculative) — field welding, and confirmation from real small steel boats](/design/aluminum-construction-idea.md#field-welding-and-confirmation-from-real-small-steel-boats).
 
-Once the "Steel?" saga wound down, Jack turned to ordinary construction
-questions as a plans-in-hand builder in his own right. He asked what makes
-the chine runners difficult to build, since the plans show them as simple —
-answered with a templates/epoxy-fill/hand-plane method that matched his own
-expectation ("Thats my impression of them also"); see
-[chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
-He separately asked whether anyone had a
-plywood nesting plan for a stretched-length Paradox, left unanswered; see
-[panel layout and nesting — a stretched-Paradox nesting plan](/construction/panel-layout.md#no-nesting-plan-exists-for-a-stretched-hull).
-Asked whether he had Gregg Carlson's "Hull" nesting
-program, Jack did not yet have a copy but confirmed he would get one; see
-[panel layout and nesting — software for nesting and converting the
-offsets](/construction/panel-layout.md#software-for-nesting-and-converting-the-offsets-hull-vrml-and-cad).
-Studying the plans further, he questioned why the cabin construction shows
-bent-over nails rather than "proper" fasteners, suspecting a temporary
-clamping step — a question that drew out the archive's fullest explanation
-of clenched-nail technique and its rationale; Jack's own follow-up reasoned
-through the glue-failure and paint-versus-epoxy risk the nails guard
-against. See
-[fastening and gluing — why the plans show clenched (not simply bent) nails, and how to clench one](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
+Once the "Steel?" saga wound down, Jack turned to ordinary construction questions as a plans-in-hand builder in his own right. He asked what makes the chine runners difficult to build, since the plans show them as simple — answered with a templates/epoxy-fill/hand-plane method that matched his own expectation ("Thats my impression of them also"); see [chine runner construction — templates, epoxy fill, and a hand plane](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane). He separately asked whether anyone had a plywood nesting plan for a stretched-length Paradox, left unanswered; see [panel layout and nesting — a stretched-Paradox nesting plan](/construction/panel-layout.md#no-nesting-plan-exists-for-a-stretched-hull). Asked whether he had a "Hull" nesting program, Jack did not yet have a copy but confirmed he would get one; see [panel layout and nesting — software for nesting and converting the offsets](/construction/panel-layout.md#software-for-nesting-and-converting-the-offsets-hull-vrml-and-cad). Studying the plans further, he questioned why the cabin construction shows bent-over nails rather than "proper" fasteners, suspecting a temporary clamping step — a question that drew out the archive's fullest explanation of clenched-nail technique and its rationale; Jack's own follow-up reasoned through the glue-failure and paint-versus-epoxy risk the nails guard against. See [fastening and gluing — why the plans show clenched (not simply bent) nails, and how to clench one](/construction/fastening-and-gluing.md#why-the-plans-show-clenched-not-simply-bent-nails-and-how-to-clench-one).
 
-With the "Steel?" personal dispute winding down, Jack made one further curt
-reply ("I dont need insults, im working on a 25 cc outboard for just that")
-before the thread moved on. When William Longyard reframed material choice
-as a non-issue and proposed a stitch-and-glue Paradox as steel's practical
-alternative, Jack welcomed the idea enthusiastically — judging S&G viable
-and in some ways more modern than older ply-on-frame technology, and noting
-monocoque construction had also been floated. See [aluminum and steel
-Paradox (speculative) — a stitch-and-glue Paradox as steel's practical
-alternative](/design/aluminum-construction-idea.md#a-stitch-and-glue-paradox-as-steels-practical-alternative).
+With the "Steel?" personal dispute winding down, Jack made one further curt reply ("I dont need insults, im working on a 25 cc outboard for just that") before the thread moved on. When material choice was reframed as a non-issue and a stitch-and-glue Paradox proposed as steel's practical alternative, Jack welcomed the idea enthusiastically — judging S&G viable and in some ways more modern than older ply-on-frame technology, and noting monocoque construction had also been floated. See [aluminum and steel Paradox (speculative) — a stitch-and-glue Paradox as steel's practical alternative](/design/aluminum-construction-idea.md#a-stitch-and-glue-paradox-as-steels-practical-alternative).
 
-On New Year's Eve 2003, Jack pointed the list to the Gibbs Aquada amphibious
-prototype as a real-world steel hull with chine-runner-like features; corrected
-on terminology (spray rails, not chine runners),
-Jack countered that heeled over under sail the two would function
-identically, and reported his own project as far as hull and power only,
-with the mast still unfitted. See [aluminum and steel Paradox (speculative)
-— a later tangent: the Gibbs Aquada, and "spray rails" vs. chine
-runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
+On New Year's Eve 2003, Jack pointed the list to the Gibbs Aquada amphibious prototype as a real-world steel hull with chine-runner-like features; corrected on terminology (spray rails, not chine runners), Jack countered that heeled over under sail the two would function identically, and reported his own project as far as hull and power only, with the mast still unfitted. See [aluminum and steel Paradox (speculative) — a later tangent: the Gibbs Aquada, and "spray rails" vs. chine runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
 
-Days later, Jack settled his own plan for the whole steel question: build a
-stock, plans-as-drawn Paradox in wood first and sail it, continuing toward
-steel only if he liked the boat enough to justify it — reasoning that the
-stock hull suits steel less well than a stretched hull would, and that a
-wooden barn workshop and winter weather ruled out steel fabrication for the
-time being despite having welder friends and shop access. See [aluminum and
-steel Paradox (speculative) — Jack Gardiner's own resolution: a stock wood
-Paradox first, steel
-later](/design/aluminum-construction-idea.md#jack-gardiners-own-resolution-a-stock-wood-paradox-first-steel-later).
+Days later, Jack settled his own plan for the whole steel question: build a stock, plans-as-drawn Paradox in wood first and sail it, continuing toward steel only if he liked the boat enough to justify it — reasoning that the stock hull suits steel less well than a stretched hull would, and that a wooden barn workshop and winter weather ruled out steel fabrication for the time being despite having welder friends and shop access. See [aluminum and steel Paradox (speculative) — Jack Gardiner's own resolution: a stock wood Paradox first, steel later](/design/aluminum-construction-idea.md#jack-gardiners-own-resolution-a-stock-wood-paradox-first-steel-later).
 
-He also picked up a copy of William Longyard's book *A Speck on the Sea*
-that same week, reporting it "looks like a good read so far," and separately
-asked whether Longyard's next book was finished and heading to the
-presses — answered the same evening: it was not yet finished, but *A Speck
-on the Sea* itself was selling well enough that a further announcement might
-follow within a few months. See
-[William H. Longyard — author of *A Speck on the Sea*](/people/william-longyard.md#author-of-a-speck-on-the-sea).
+He also picked up a copy of *A Speck on the Sea* that same week, reporting it "looks like a good read so far," and separately asked whether its author's next book was finished and heading to the presses — answered the same evening: it was not yet finished, but *A Speck on the Sea* itself was selling well enough that a further announcement might follow within a few months. See [William H. Longyard — author of *A Speck on the Sea*](/people/william-longyard.md#author-of-a-speck-on-the-sea).
 
-On New Year's Day 2004, Jack opened a "Mast" thread asking what everyone was
-using, not seeing one specifically mentioned in the archive — a search-tool
-complaint (the list search always jumped to the latest-posts page) that
-other members helped him work around. Once pointed to page 12 of the plans
-and Alastair's earlier "Rosetta Stone" explanation of the mast drawings, Jack
-asked a forward-looking follow-up about dimensions, wood type, and taper
-shape, tied to a possible future scaled-up hull — then realized his own
-confusion a few messages later: he had mistaken the plans' yuloh drawing for
-the mast drawing. Once the thread turned to birdsmouth-spar building
-technique, Jack thanked the list for the information, calling the art of
-making a taper jig itself "fun and challenging" with the proper tools, and
-agreeing irrigation pipe was a workable cheap alternative. See [rig and
-sail — mast material choices](/design/rig.md#mast-material-choices).
+On New Year's Day 2004, Jack opened a "Mast" thread asking what everyone was using, not seeing one specifically mentioned in the archive — a search-tool complaint (the list search always jumped to the latest-posts page) that other members helped him work around. Once pointed to page 12 of the plans and an earlier "Rosetta Stone" explanation of the mast drawings, Jack asked a forward-looking follow-up about dimensions, wood type, and taper shape, tied to a possible future scaled-up hull — then realized his own confusion a few messages later: he had mistaken the plans' yuloh drawing for the mast drawing. Once the thread turned to birdsmouth-spar building technique, Jack thanked the list for the information, calling the art of making a taper jig itself "fun and challenging" with the proper tools, and agreeing irrigation pipe was a workable cheap alternative. See [rig and sail — mast material choices](/design/rig.md#mast-material-choices).
 
-Carrying the stitch-and-glue idea into cabin design, Jack proposed
-stretching the default cabin top forward while keeping the aft end
-unchanged for water entry, and asked how to size and place windows for a
-more open-water-capable boat; on window durability, Jack agreed smaller
-windows were the more practical choice, being easier and cheaper to repair
-and simpler to stow spares of. Pointed to Matt Layden's unfinished "Big
-Cruiser" stretched/enlarged Paradox cartoons, Jack judged the concept "would
-make more sense in steel" than in plywood, tying the enlargement idea back
-to his own steel interest.
-See [aluminum and steel Paradox (speculative) — stretching the cabin top
-and sizing windows for open-water
-use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
+Carrying the stitch-and-glue idea into cabin design, Jack proposed stretching the default cabin top forward while keeping the aft end unchanged for water entry, and asked how to size and place windows for a more open-water-capable boat; on window durability, Jack agreed smaller windows were the more practical choice, being easier and cheaper to repair and simpler to stow spares of. Pointed to Matt Layden's unfinished "Big Cruiser" stretched/enlarged Paradox cartoons, Jack judged the concept "would make more sense in steel" than in plywood, tying the enlargement idea back to his own steel interest. See [aluminum and steel Paradox (speculative) — stretching the cabin top and sizing windows for open-water use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
 
-Jack also joined the archive's basic buoyancy thread, explaining the
-positive/negative/neutral distinction to a newcomer and clarifying that
-buoyancy foam does not raise a Paradox's working waterline (it only affects
-her trim if flooded), unlike ballast — steel or lead — which does lower her
-in ordinary sailing trim. Separately, weighing whether a steel hull would let
-some lead ballast be removed, he reasoned that if any lead is still needed
-for short trips, part of it could be built into the hull structure itself
-without disturbing trim or center of gravity — a question
-[Alastair](/people/alastair.md) answered with his own real-world ballast
-data. See [plywood grade and foam flotation debate — buoyancy fundamentals:
-positive, negative, and
-neutral](/construction/plywood-grades-and-foam-flotation.md#buoyancy-fundamentals-positive-negative-and-neutral)
-and [aluminum and steel Paradox (speculative) — whether a steel hull frees up
-any of the lead ballast at
-all](/design/aluminum-construction-idea.md#whether-a-steel-hull-frees-up-any-of-the-lead-ballast-at-all).
+Jack also joined the archive's basic buoyancy thread, explaining the positive/negative/neutral distinction to a newcomer and clarifying that buoyancy foam does not raise a Paradox's working waterline (it only affects her trim if flooded), unlike ballast — steel or lead — which does lower her in ordinary sailing trim. Separately, weighing whether a steel hull would let some lead ballast be removed, he reasoned that if any lead is still needed for short trips, part of it could be built into the hull structure itself without disturbing trim or center of gravity — a question answered with real-world ballast data. See [plywood grade and foam flotation debate — buoyancy fundamentals: positive, negative, and neutral](/construction/plywood-grades-and-foam-flotation.md#buoyancy-fundamentals-positive-negative-and-neutral) and [aluminum and steel Paradox (speculative) — whether a steel hull frees up any of the lead ballast at all](/design/aluminum-construction-idea.md#whether-a-steel-hull-frees-up-any-of-the-lead-ballast-at-all).
 
-In the "Steel?" thread's final exchanges, Jack objected to a line-by-line,
-cut-and-paste reply style as a waste of "time and bandwidth,"
-then turned back to substance with a solid-round-stock chine-runner edge
-(roughly 3/8 in) over 3/4 in square-tube frames as a starting point for
-weight calculations; countered with a bent-flange
-framing method built on a brake, Jack confirmed shop access to try it. See
-[aluminum and steel Paradox (speculative) — a cut-and-paste reply draws a
-rebuke, and a solid-round-stock
-alternative](/design/aluminum-construction-idea.md#solid-round-stock-as-an-alternative-to-pipe)
-and [aluminum and steel Paradox (speculative) — a welded angle-flange framing
-method, with no water
-traps](/design/aluminum-construction-idea.md#a-welded-angle-flange-framing-method-with-no-water-traps).
-The archive's fullest
-rebuttal of the whole steel-Paradox idea then closed out the thread, followed
-by a real, plywood build plan from the same correspondent. Jack answered the
-rebuttal point by point — rejecting
-the trolling suggestion, standing by his no-flatbar approach, and arguing
-dented steel and dented plywood fare the same under an equal impact — before
-announcing he was taking the whole subject **private** rather than continue
-it publicly, thanking the group for the exchange despite finding it
-had "opened my eyes" to frictions he had not anticipated. A conciliatory
-closing note welcomed Jack to build in whatever material he chose and stay in
-touch — which Jack read as backhanded, pointing out that same correspondent's
-own epoxy-topic replies inside the steel thread, before confirming he would
-carry on his research privately. No further "Steel?" posts, and no steel
-Paradox by Jack or anyone else, followed. See
-[aluminum and steel Paradox (speculative) — Smith's rebuttal: why a steel
-Paradox would be "a horrible
-mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
-- **A one-word callback to his own "Steel?" thread.** When David Beard
-  wondered what it would take to design a 25 ft Paradox, Jack answered in
-  jest with the single word "Steel!!!" — a nod to his own earlier steel-hull
-  inquiry. See [Glen C. Maxwell — Matt Layden eyewitness
-  record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing).
-- **Water tanks used purely as ballast, not for drinking.** Having raised
-  the same question himself months earlier, Jack judged potable-safe epoxy
-  too expensive and its long-term safety unclear, so he treats his own
-  water tanks as ballast only — replenished with sea water and flushed on
-  land if used for rinsing or washing — while keeping actual drinking water
-  in collapsible containers and coolers, plus a manual filtration unit as a
-  backup on extended trips. See [water tank construction and lining — epoxy:
-  mixed opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
+In the "Steel?" thread's final exchanges, Jack objected to a line-by-line, cut-and-paste reply style as a waste of "time and bandwidth," then turned back to substance with a solid-round-stock chine-runner edge (roughly 3/8 in) over 3/4 in square-tube frames as a starting point for weight calculations; countered with a bent-flange framing method built on a brake, Jack confirmed shop access to try it. See [aluminum and steel Paradox (speculative) — a cut-and-paste reply draws a rebuke, and a solid-round-stock alternative](/design/aluminum-construction-idea.md#solid-round-stock-as-an-alternative-to-pipe) and [aluminum and steel Paradox (speculative) — a welded angle-flange framing method, with no water traps](/design/aluminum-construction-idea.md#a-welded-angle-flange-framing-method-with-no-water-traps). The archive's fullest rebuttal of the whole steel-Paradox idea then closed out the thread, followed by a real, plywood build plan from the same correspondent. Jack answered the rebuttal point by point — rejecting the trolling suggestion, standing by his no-flatbar approach, and arguing dented steel and dented plywood fare the same under an equal impact — before announcing he was taking the whole subject **private** rather than continue it publicly, thanking the group for the exchange despite finding it had "opened my eyes" to frictions he had not anticipated. A conciliatory closing note welcomed Jack to build in whatever material he chose and stay in touch — which Jack read as backhanded, pointing out that same correspondent's own epoxy-topic replies inside the steel thread, before confirming he would carry on his research privately. No further "Steel?" posts, and no steel Paradox by Jack or anyone else, followed. See [aluminum and steel Paradox (speculative) — Smith's rebuttal: why a steel Paradox would be "a horrible mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+
+- **A one-word callback to his own "Steel?" thread.** When someone else wondered what it would take to design a 25 ft Paradox, Jack answered in jest with the single word "Steel!!!" — a nod to his own earlier steel-hull inquiry. See [Glen C. Maxwell — Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md#a-report-from-horta-and-chine-runners-proven-on-an-ocean-crossing).
+- **Water tanks used purely as ballast, not for drinking.** Having raised the same question himself months earlier, Jack judged potable-safe epoxy too expensive and its long-term safety unclear, so he treats his own water tanks as ballast only — replenished with sea water and flushed on land if used for rinsing or washing — while keeping actual drinking water in collapsible containers and coolers, plus a manual filtration unit as a backup on extended trips. See [water tank construction and lining — epoxy: mixed opinions](/construction/water-tank-lining.md#epoxy-mixed-opinions).
 
 ## Construction begins
 
-Days into the new year, with the "Steel?" and "Mast" debates behind him,
-Jack reported his first actual building progress: having picked up 80% of
-the plywood he needed, he had started construction on his stock wood
-Paradox — the resolution to the steel-vs-wood question he had settled on
-above. [William Longyard](/people/william-longyard.md) congratulated him.
+Days into the new year, with the "Steel?" and "Mast" debates behind him, Jack reported his first actual building progress: having picked up 80% of the plywood he needed, he had started construction on his stock wood Paradox — the resolution to the steel-vs-wood question he had settled on above, drawing congratulations from the list.
 
-Laying out the transom for that same build, Jack could find the plans'
-dimension for the lowest point of the transom's curved radius but not the
-corresponding figure for the top of the radius; [Alastair](/people/alastair.md)'s
-pencilled-in 57 mm figure (cross-checked against a separate digital model)
-resolved it, which Jack accepted rather than work out from
-first principles. See [panel layout and nesting — the missing
-transom-radius dimension, resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
+Laying out the transom for that same build, Jack could find the plans' dimension for the lowest point of the transom's curved radius but not the corresponding figure for the top of the radius; a pencilled-in 57 mm figure (cross-checked against a separate digital model) resolved it, which Jack accepted rather than work out from first principles. See [panel layout and nesting — the missing transom-radius dimension, resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
 
-A little over a week later, Jack reached the "keel laying" milestone —
-going **fully three-dimensional with the hull**, stitch-and-glue, using no
-nails or screws. Asked whether he had
-omitted the chine logs and sheer clamps or found them necessary to include,
-Jack confirmed he was installing both, laminated from plywood and
-epoxy rather than filleted-and-taped (which he judged too expensive for
-the material involved), using **50 in-wide, 12 oz biaxial cloth** for the
-bottom.
+A little over a week later, Jack reached the "keel laying" milestone — going **fully three-dimensional with the hull**, stitch-and-glue, using no nails or screws. Asked whether he had omitted the chine logs and sheer clamps or found them necessary to include, Jack confirmed he was installing both, laminated from plywood and epoxy rather than filleted-and-taped (which he judged too expensive for the material involved), using **50 in-wide, 12 oz biaxial cloth** for the bottom.
 
-Days later, Jack posted his first construction photographs — crude
-phone-camera shots of his S&G hull showing deck framing under way — reporting
-progress in detail: sheer clamps installed and chine logs going in despite a
-cold winter slowing epoxy work, no floor started yet, and easy access working
-from inside the two open hull halves without built-in notes to follow. His
-stitch-and-glue method joined panels without traditional wire stitches —
-instead clamping or pinning the joint
-with sheetrock screws — using West System epoxy and silica (equivalent to
-Cabosil) with added wood flour to slow epoxy runs, 4 oz, 2 in-wide tape for
-the inside joints, and 12 oz biaxial cloth on the bow glue-ups to tab them
-in, with the vent trunk and bin sides next on his list.
+Days later, Jack posted his first construction photographs — crude phone-camera shots of his S&G hull showing deck framing under way — reporting progress in detail: sheer clamps installed and chine logs going in despite a cold winter slowing epoxy work, no floor started yet, and easy access working from inside the two open hull halves without built-in notes to follow. His stitch-and-glue method joined panels without traditional wire stitches — instead clamping or pinning the joint with sheetrock screws — using West System epoxy and silica (equivalent to Cabosil) with added wood flour to slow epoxy runs, 4 oz, 2 in-wide tape for the inside joints, and 12 oz biaxial cloth on the bow glue-ups to tab them in, with the vent trunk and bin sides next on his list.
 
-Reaching that stage, Jack asked for help with the vent trunk's vague plan
-dimensions and with lining the water tanks and bin sides (see [mast partners and vent
-trunk](/design/mast-partners.md#vent-trunk-top-dimensions-and-why-exact-measurements-dont-matter-much),
-[water tank construction](/construction/water-tank-lining.md), and
-[interior bins and floor](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull)).
-He confirmed he would use West System epoxy for the tanks, planning to rinse
-salt water off diving gear with the tank water day to day and to let a few
-tankfuls flush any epoxy odor out before relying on it as drinking water on
-longer cruises.
+Reaching that stage, Jack asked for help with the vent trunk's vague plan dimensions and with lining the water tanks and bin sides (see [mast partners and vent trunk](/design/mast-partners.md#vent-trunk-top-dimensions-and-why-exact-measurements-dont-matter-much), [water tank construction](/construction/water-tank-lining.md), and [interior bins and floor](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull)). He confirmed he would use West System epoxy for the tanks, planning to rinse salt water off diving gear with the tank water day to day and to let a few tankfuls flush any epoxy odor out before relying on it as drinking water on longer cruises.
 
-With the bottom about to go on, Jack thought aloud about several possible
-departures from the stock cabin layout: extending the cabin forward over the
-forward stateroom, stepping up the aft cockpit/hatch area for extra headroom
-and a bigger seat, or fitting a raised plexiglass dome over the forward
-stateroom — a detail he initially misattributed to the wrong fellow
-builder's boat, and corrected the next day; the dome idea in question was
-never actually intended for a Paradox and had not been raised on the group
-for that reason. Jack explained he was weighing
-several options at once — including molding his own P-51-style sliding
-cockpit canopy — and had conflated two different posts. See [aluminum and
-steel Paradox (speculative) — a raised cabin, canopy, and cockpit-height
-ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas)
-for the aircraft-canopy tangent that followed.
+With the bottom about to go on, Jack thought aloud about several possible departures from the stock cabin layout: extending the cabin forward over the forward stateroom, stepping up the aft cockpit/hatch area for extra headroom and a bigger seat, or fitting a raised plexiglass dome over the forward stateroom — a detail he initially misattributed to the wrong fellow builder's boat, and corrected the next day; the dome idea in question was never actually intended for a Paradox and had not been raised on the group for that reason. Jack explained he was weighing several options at once — including molding his own P-51-style sliding cockpit canopy — and had conflated two different posts. See [aluminum and steel Paradox (speculative) — a raised cabin, canopy, and cockpit-height ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas) for the aircraft-canopy tangent that followed.
 
-[Alastair](/people/alastair.md) weighed in with a design-tradeoff case for
-**lowering the floor rather than raising the roof or cabin top**: a higher
-head position pushes the boom up too, which in turn calls for either a
-smaller sail or a taller mast — and a taller mast will not stow inside the
-boat for trailering and raises the sail's center of pressure. Jack judged
-lowering the floor would eat into water-tank capacity, restated a firm
-preference for keeping the mast stepped low enough to stow "over" rather
-than inside the boat, and concluded a stretched-length Paradox was probably
-the better answer to wanting more room than any of these single-cabin
-tweaks — while still turning the idea over rather than committing to one.
-Reflecting the next day, Jack accepted the pushback on his own earlier
-canopy/dome digression with good humor, describing himself as simply "a big
-kid" who gets excited over boats and ideas without meaning any harm — closing
-out the cabin-height tangent.
+A design-tradeoff case was raised for **lowering the floor rather than raising the roof or cabin top**: a higher head position pushes the boom up too, which in turn calls for either a smaller sail or a taller mast — and a taller mast will not stow inside the boat for trailering and raises the sail's center of pressure. Jack judged lowering the floor would eat into water-tank capacity, restated a firm preference for keeping the mast stepped low enough to stow "over" rather than inside the boat, and concluded a stretched-length Paradox was probably the better answer to wanting more room than any of these single-cabin tweaks — while still turning the idea over rather than committing to one. Reflecting the next day, Jack accepted the pushback on his own earlier canopy/dome digression with good humor, describing himself as simply "a big kid" who gets excited over boats and ideas without meaning any harm — closing out the cabin-height tangent.
 
-Alastair separately answered Jack's storage question about the forward
-stateroom directly: how much room it takes up in practice depends on trip
-length — a couple of months away from civilization makes storage tight,
-while trips of a couple of weeks leave far more room than needed. Alastair
-himself uses only two of the side bins so far, with the forward stateroom
-holding just bedding; he does not go all the way into it underway except in
-very calm conditions, though the boat will sail herself unattended for
-minutes at a time if needed, and the tiller-rope arrangement keeps steering
-control available even from the cabin's forward end. See
-[interior bin panels and hinged floor — forward compartment
-access](/design/interior-bins-and-floor.md#forward-compartment-access) for
-the stock layout this answers, including his view that the plans' central
-divider in that compartment "is crying out for modification" — he had
-already cut a section out of his own for easier battery removal and was
-considering adding tool clips, and judged the divider could be removed almost
-entirely to open up the space, trading off needing to tie everything down
-more securely in exchange.
+Jack's storage question about the forward stateroom was answered directly: how much room it takes up in practice depends on trip length — a couple of months away from civilization makes storage tight, while trips of a couple of weeks leave far more room than needed, with only two of the side bins in use so far and the forward stateroom holding just bedding; going all the way into it underway is avoided except in very calm conditions, though the boat will sail herself unattended for minutes at a time if needed, and the tiller-rope arrangement keeps steering control available even from the cabin's forward end. See [interior bin panels and hinged floor — forward compartment access](/design/interior-bins-and-floor.md#forward-compartment-access) for the stock layout this answers, including the view that the plans' central divider in that compartment "is crying out for modification" — already cut out in part for easier battery removal, with tool clips under consideration, and judged removable almost entirely to open up the space, trading off needing to tie everything down more securely in exchange.
 
-After weighing the options, Jack settled on adding a **secure, weathertight
-hatch over the forward stateroom** — not primarily to gain interior access,
-but to let him **reach into the forward compartment from outside the hull**
-and stow items not needed often, complementing rather than replacing
-Alastair's bulkhead-access answer above.
+After weighing the options, Jack settled on adding a **secure, weathertight hatch over the forward stateroom** — not primarily to gain interior access, but to let him **reach into the forward compartment from outside the hull** and stow items not needed often, complementing rather than replacing the bulkhead-access answer above.
 
-Jack also opened a new **"chinerunners"** thread, prompted by his own
-rocky-water diving experience off Rhode Island: he asked whether it would be
-better to fully glass and seal the hull bottom first, then apply the chine
-runners afterward as a kind of sacrificial rub rail, so a damaged runner
-would not open a leak path into the sealed bottom beneath it — see [chine
-runner construction — build order: runners integral with the bottom, not a
-sacrificial
-add-on](/chine-runners/construction.md#build-order-runners-integral-with-the-bottom-not-a-sacrificial-add-on)
-for Alastair's answer (build them integral and robust, per the standard
-methods) and Jack's own follow-up explaining the diving-context motivation
-and his practice of inspecting and repairing dings as they appear.
+Jack also opened a new **"chinerunners"** thread, prompted by his own rocky-water diving experience off Rhode Island: he asked whether it would be better to fully glass and seal the hull bottom first, then apply the chine runners afterward as a kind of sacrificial rub rail, so a damaged runner would not open a leak path into the sealed bottom beneath it — see [chine runner construction — build order: runners integral with the bottom, not a sacrificial add-on](/chine-runners/construction.md#build-order-runners-integral-with-the-bottom-not-a-sacrificial-add-on) for the answer given (build them integral and robust, per the standard methods) and Jack's own follow-up explaining the diving-context motivation and his practice of inspecting and repairing dings as they appear.
 
-Fitting his vent trunk, Jack found the plans vague on its dimensions and
-asked for more detail, also asking what to line the water tanks with and
-whether the bin sides run to the hull bottom — answered in full by Alastair.
-See [mast partners and vent trunk — vent trunk top dimensions, and why exact
-measurements don't matter
-much](/design/mast-partners.md#vent-trunk-top-dimensions-and-why-exact-measurements-dont-matter-much),
-[water tank construction and lining](/construction/water-tank-lining.md),
-and [interior bin panels and hinged floor — forward and aft bin sides: how
-far they extend to the
-hull](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull).
+Fitting his vent trunk, Jack found the plans vague on its dimensions and asked for more detail, also asking what to line the water tanks with and whether the bin sides run to the hull bottom — answered in full. See [mast partners and vent trunk — vent trunk top dimensions, and why exact measurements don't matter much](/design/mast-partners.md#vent-trunk-top-dimensions-and-why-exact-measurements-dont-matter-much), [water tank construction and lining](/construction/water-tank-lining.md), and [interior bin panels and hinged floor — forward and aft bin sides: how far they extend to the hull](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull).
 
-Answering a newcomer's plans-request post, Jack gave Dave Bolduc's e-mail
-address directly, and days later fielded the newcomer's own follow-up on
-chine-and-sheer-log bevel order, telling him to cut the bevel angles before
-installing rather than after — harder to cut once in place — noting he had
-installed his own logs only once the hull sides were already joined. See
-[building plans](/references/building-plans.md#why-paradox-resists-easy-enlargement)
-and [hull assembly sequence — bevel order for the chine log and sheer clamp](/construction/hull-assembly-sequence.md#bevel-order-for-the-chine-log-and-sheer-clamp-cut-before-or-after-installing).
-Around the same time, he reported his own build progressing well — sail
-sewing under way with 5.5 oz dacron, the interior epoxy-coated throughout,
-and the chine logs going in.
+Answering a newcomer's plans-request post, Jack gave a plans source's e-mail address directly, and days later fielded the newcomer's own follow-up on chine-and-sheer-log bevel order, telling him to cut the bevel angles before installing rather than after — harder to cut once in place — noting he had installed his own logs only once the hull sides were already joined. See [building plans](/references/building-plans.md#why-paradox-resists-easy-enlargement) and [hull assembly sequence — bevel order for the chine log and sheer clamp](/construction/hull-assembly-sequence.md#bevel-order-for-the-chine-log-and-sheer-clamp-cut-before-or-after-installing). Around the same time, he reported his own build progressing well — sail sewing under way with 5.5 oz dacron, the interior epoxy-coated throughout, and the chine logs going in.
 
-By mid-February 2004, Jack had rolled his hull twice over — once to apply the
-bottom, once to bring it back over — and expected one further roll for
-finishing, hopefully the last. Weighing in on cabin window construction
-during the same "offshore experienced" thread documented at [blue-water
-suitability](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined),
-he described moving away from traditional steamed-and-bent construction
-toward laminated, epoxy-impregnated plywood as faster and cheaper, and
-leaned toward traditional framed, locking rubber-channel windows over
-thicker lexan with more holes and screws — reasoning that channel-mounted
-windows are far easier to replace, and that the same rubber gasket doubles
-as a seal for storm covers. He judged the stock window and cabin plan
-would suit ordinary conditions-permitting coastal sailing, but that a
-genuine ocean crossing would call for a sturdier window system than the
-stock plan offers.
+By mid-February 2004, Jack had rolled his hull twice over — once to apply the bottom, once to bring it back over — and expected one further roll for finishing, hopefully the last. Weighing in on cabin window construction during the same "offshore experienced" thread documented at [blue-water suitability](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined), he described moving away from traditional steamed-and-bent construction toward laminated, epoxy-impregnated plywood as faster and cheaper, and leaned toward traditional framed, locking rubber-channel windows over thicker lexan with more holes and screws — reasoning that channel-mounted windows are far easier to replace, and that the same rubber gasket doubles as a seal for storm covers. He judged the stock window and cabin plan would suit ordinary conditions-permitting coastal sailing, but that a genuine ocean crossing would call for a sturdier window system than the stock plan offers.
 
-Turning to his own sail, Jack began sewing it on a Sailrite LS-1 machine in
-4.5 oz Dacron (no zigzag), building Matt Layden's new, taller sail plan, and
-asked Glen Maxwell for the yard and boom sleeve dimensions and whether they
-taper — see [rig and sail — building a lugsail at home: measuring yard
-deflection before cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting)
-for Glen's full answer, which Jack confirmed cleared up the mystery once he
-had his own copy of *The Sailmaker's Apprentice* in hand.
+Turning to his own sail, Jack began sewing it on a Sailrite LS-1 machine in 4.5 oz Dacron (no zigzag), building Matt Layden's new, taller sail plan, and asked for the yard and boom sleeve dimensions and whether they taper — see [rig and sail — building a lugsail at home: measuring yard deflection before cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting) for the full answer given, which Jack confirmed cleared up the mystery once he had his own copy of *The Sailmaker's Apprentice* in hand.
 
-Answering David Beard's saltwater-trolling question, Jack gave a
-Northeast-Atlantic-seaboard technique — see [fishing while
-cruising](/operations/provisioning-and-water.md#fishing-while-cruising) for
-his lure recommendation and safety notes, and Smith's separate meathook-rig
-account from Pacific waters.
+Answering a saltwater-trolling question, Jack gave a Northeast-Atlantic-seaboard technique — see [fishing while cruising](/operations/provisioning-and-water.md#fishing-while-cruising) for his lure recommendation and safety notes, and a separate meathook-rig account from Pacific waters.
 
-Wishing [Glen Maxwell](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus)
-well ahead of his Atlantic crossing, Jack reported his own build within
-about three weeks of launching.
+Wishing well ahead of an Atlantic crossing (see [an Atlantic crossing](/people/glen-maxwell/matt-layden-eyewitness.md#an-atlantic-crossing-aboard-hogfish-maximus)), Jack reported his own build within about three weeks of launching.
 
-Answering a newcomer's generic build-time/cost/sailmaker questions, Jack
-judged a Paradox "not really a first timer's first project" unless the
-builder already has woodworking/building experience, though workable for an
-experienced amateur; estimated a finished boat's value anywhere from
-**$2,000 to $8,000**, depending on plywood grade, finish, workmanship, and
-hardware quality — "an item is worth what someone will pay for it." He
-reported his own build, begun around New Year's, progressing part-time and
-expected to be on the water soon. See [build effort and workspace —
-cost](/construction/build-effort.md#cost).
+Answering a newcomer's generic build-time/cost/sailmaker questions, Jack judged a Paradox "not really a first timer's first project" unless the builder already has woodworking/building experience, though workable for an experienced amateur; estimated a finished boat's value anywhere from **$2,000 to $8,000**, depending on plywood grade, finish, workmanship, and hardware quality — "an item is worth what someone will pay for it." He reported his own build, begun around New Year's, progressing part-time and expected to be on the water soon. See [build effort and workspace — cost](/construction/build-effort.md#cost).
 
 ## A late-build status report, and stowing dive gear aboard
 
-By mid-August 2004, Jack reported his build in its finishing stages: the
-cabin on and the hatch under way, the mast half complete, the lower rudder
-leaded and finished, and the upper rudder still being built. A recreational
-diver, he collects lost lead sinkers and weight belts while diving locally —
-untangling fishing line along the way, which he treats as both a way to keep
-dive sites cleaner and something productive to do underwater — and uses that
-recovered lead as his boat's ballast, judging sand a workable but bulkier
-alternative. Weighing in once more on the archive's long-running steel-hull
-debate (see [aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md)), he restated his
-resolution to finish his stock plywood boat first so he can judge a steel
-Paradox against it directly, holding to his view that a stock 14 ft hull
-suits steel less well than a stretched, larger one would, though he judged
-steel fabrication itself would go faster than wood.
+By mid-August 2004, Jack reported his build in its finishing stages: the cabin on and the hatch under way, the mast half complete, the lower rudder leaded and finished, and the upper rudder still being built. A recreational diver, he collects lost lead sinkers and weight belts while diving locally — untangling fishing line along the way, which he treats as both a way to keep dive sites cleaner and something productive to do underwater — and uses that recovered lead as his boat's ballast, judging sand a workable but bulkier alternative. Weighing in once more on the archive's long-running steel-hull debate (see [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md)), he restated his resolution to finish his stock plywood boat first so he can judge a steel Paradox against it directly, holding to his view that a stock 14 ft hull suits steel less well than a stretched, larger one would, though he judged steel fabrication itself would go faster than wood.
 
-Answering [David Beard](/people/david-beard.md)'s question about stowing
-dive gear aboard a cramped Paradox on longer trips (more than the occasional
-day's diving with four tanks), Jack judged a stretched, roughly **19 ft**
-Paradox would suit tank storage well, floated building a floor-level tank
-bin once his bin sides went in, and discussed the tradeoffs of towing a 9 ft
-Achilles inflatable as a dive tender — useful inshore, but one he would not
-want under tow in rough conditions, given his own discomfort "sitting on top
-of 3000 psi missles" once it gets rough. He also noted that Paradox's water
-tanks double usefully as fresh water for rinsing dive gear, more important in
-fresh water than salt.
+Answering a question about stowing dive gear aboard a cramped Paradox on longer trips (more than the occasional day's diving with four tanks), Jack judged a stretched, roughly **19 ft** Paradox would suit tank storage well, floated building a floor-level tank bin once his bin sides went in, and discussed the tradeoffs of towing a 9 ft Achilles inflatable as a dive tender — useful inshore, but one he would not want under tow in rough conditions, given his own discomfort "sitting on top of 3000 psi missles" once it gets rough. He also noted that Paradox's water tanks double usefully as fresh water for rinsing dive gear, more important in fresh water than salt.
 
-With his mast, boom, and yard finished, Jack asked what size luff tape his
-build needed and where to find it — a question left unanswered on record.
-See [sailmaking — corner patches, cut tabling, and the luff
-tape](/construction/sailmaking.md#corner-patches-cut-tabling-and-the-luff-tape)
-for the full luff-tape construction recipe already on file from Matt
-Layden's own sailmaking write-up.
+With his mast, boom, and yard finished, Jack asked what size luff tape his build needed and where to find it — a question left unanswered on record. See [sailmaking — corner patches, cut tabling, and the luff tape](/construction/sailmaking.md#corner-patches-cut-tabling-and-the-luff-tape) for the full luff-tape construction recipe already on file from Matt Layden's own sailmaking write-up.
 
 ## Build complete, sail hoisted
 
-In early September 2004, Jack reported his Paradox essentially finished —
-the sail hoisted and photographed at sunset, with only the window
-installation and final ballasting left before launching — expecting to be
-sailing "VERY soon." He passed the news along to [William
-Serjeant](/references/paradox-uk-website.md), who was maintaining a running
-count of completed Paradoxes worldwide on his `smallsailboats.co.uk` site
-(see [paradox-uk-website.md — a UK and worldwide build
-count](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count));
-Serjeant thanked him and said he would follow up by e-mail for the boat's
-details. [Glen Maxwell](/people/glen-maxwell.md) added his own
-congratulations and said he was looking forward to seeing photos.
+In early September 2004, Jack reported his Paradox essentially finished — the sail hoisted and photographed at sunset, with only the window installation and final ballasting left before launching — expecting to be sailing "VERY soon." He passed the news along to a UK Paradox-site maintainer (see [references/paradox-uk-website.md](/references/paradox-uk-website.md)), who was keeping a running count of completed Paradoxes worldwide on `smallsailboats.co.uk` (see [paradox-uk-website.md — a UK and worldwide build count](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)); the news was met with thanks and a promise to follow up by e-mail for the boat's details, and drew further congratulations from the list, with interest expressed in seeing photos.
 
 ## The "chinerunners" hydrodynamic-curve thread
 
-Jack took the lead in answering a new correspondent's question about whether
-the chine runners' upward-curving outer edge served a real hydrodynamic
-function, suggesting fabrication approaches for a metal (rather than
-plywood) bottom and recalling a remark attributed to Matt Layden that the
-runner's outward dimension matters more than its exact shape; he also
-clarified for a third builder that the question concerned the runner's
-curve/radius as shown in the chine-runner profile drawing, not the hull
-bottom generally. The full exchange, including David Beard's and Paul's own
-answers, is narrated at [chine runners — how they
-work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
+Jack took the lead in answering a new correspondent's question about whether the chine runners' upward-curving outer edge served a real hydrodynamic function, suggesting fabrication approaches for a metal (rather than plywood) bottom and recalling a remark attributed to Matt Layden that the runner's outward dimension matters more than its exact shape; he also clarified for a third builder that the question concerned the runner's curve/radius as shown in the chine-runner profile drawing, not the hull bottom generally. The full exchange, including other builders' own answers, is narrated at [chine runners — how they work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
 
-When the thread turned to whether a **steel-hulled** Paradox could have its
-chine runners fabricated in steel at all, Jack — drawing on his professional
-fabrication background — argued the job posed no real difficulty at any hull
-size, judging it trivial next to far more demanding commercial shipyard work
-he had seen firsthand, and credited modern, affordable tools with putting
-steel fabrication within a backyard builder's reach; welding a length of
-pipe along the runner's edge was suggested to form its curved radius, which
-Jack answered with a plasma-cutting alternative. Jack also countered a
-corrosion/pinhole concern directly, arguing epoxy
-coating over a weld — a known backyard steel-hull practice — fills any
-pinholes before priming and painting, with ordinary maintenance preventing
-the feared corrosion, and separately warned that beating or hammering
-bronze work-hardens it into a brittle state. See [chine runner construction —
-fabricating chine runners in steel, if the whole hull is
-steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel)
-for the full exchange.
+When the thread turned to whether a **steel-hulled** Paradox could have its chine runners fabricated in steel at all, Jack — drawing on his professional fabrication background — argued the job posed no real difficulty at any hull size, judging it trivial next to far more demanding commercial shipyard work he had seen firsthand, and credited modern, affordable tools with putting steel fabrication within a backyard builder's reach; welding a length of pipe along the runner's edge was suggested to form its curved radius, which Jack answered with a plasma-cutting alternative. Jack also countered a corrosion/pinhole concern directly, arguing epoxy coating over a weld — a known backyard steel-hull practice — fills any pinholes before priming and painting, with ordinary maintenance preventing the feared corrosion, and separately warned that beating or hammering bronze work-hardens it into a brittle state. See [chine runner construction — fabricating chine runners in steel, if the whole hull is steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel) for the full exchange.
 
-When the "Steel Paradox?" question recurred again in August 2006, Jack
-summed up his standing view rather than repeating the whole debate: the
-topic had been "well beaten" already, the **stock 13'10" length is
-questionable** for a steel build, but a **larger, stretched hull would work
-out better** — consistent with his own earlier resolution to build a stock
-wood Paradox first and pursue steel only on a bigger hull, if at all. See
-[aluminum and steel Paradox (speculative) — a second 2006 recurrence,
-briefly
-answered](/design/aluminum-construction-idea.md#a-second-2006-recurrence-briefly-answered).[212]
+When the "Steel Paradox?" question recurred again in August 2006, Jack summed up his standing view rather than repeating the whole debate: the topic had been "well beaten" already, the **stock 13'10" length is questionable** for a steel build, but a **larger, stretched hull would work out better** — consistent with his own earlier resolution to build a stock wood Paradox first and pursue steel only on a bigger hull, if at all. See [aluminum and steel Paradox (speculative) — a second 2006 recurrence, briefly answered](/design/aluminum-construction-idea.md#a-second-2006-recurrence-briefly-answered).[212]
 
 ## Launch: "Jill"
 
-Jack launched his stitch-and-glue Paradox on 11 September 2004 at Gaspee
-Point, Narragansett Bay, Rhode Island, naming her **"Jill"** in his wife's
-honor — a deliberately chosen 9/11 anniversary date at the historic site
-where the Providence sloop *Hannah* lured and grounded HMS *Gaspee* in 1772.
-[Dave Bolduc](/people/bolduc/dave.md) welcomed him to Paradox sailing and
-advised ballasting her up to her full cruising displacement (a 9 in design
-draft), since the boat "loves the weight." The boat became known on the list
-as **"Jill Baby,"** was sailed hard in a small-craft advisory the following
-week (a wedged rudder blade famously freed a stuck trailer tire), and
-featured in the archive's fullest firsthand account of a Paradox under sail
-— two days in a steady 20-35 mph wind, loaded with two adults and tool
-ballast. Full launch narrative, construction detail, and the "paradox mpeg
-movie" video saga: [boats/jill.md](/boats/jill.md).
+Jack launched his stitch-and-glue Paradox on 11 September 2004 at Gaspee Point, Narragansett Bay, Rhode Island, naming her **"Jill"** in his wife's honor — a deliberately chosen 9/11 anniversary date at the historic site where the Providence sloop *Hannah* lured and grounded HMS *Gaspee* in 1772. He was welcomed to Paradox sailing with advice to ballast her up to her full cruising displacement (a 9 in design draft), since the boat "loves the weight." The boat became known on the list as **"Jill Baby,"** was sailed hard in a small-craft advisory the following week (a wedged rudder blade famously freed a stuck trailer tire), and featured in the archive's fullest firsthand account of a Paradox under sail — two days in a steady 20-35 mph wind, loaded with two adults and tool ballast. Full launch narrative, construction detail, and the "paradox mpeg movie" video saga: [boats/jill.md](/boats/jill.md).
 
-A few weeks after launch Jack weighed in on a fellow builder's epoxy-versus-polyester
-question with his own build's completed materials tally: **3 gallons of West
-System epoxy**, 12 oz biaxial cloth on the hull in place of the specified
-woven roving, two extra layers of 2 oz glass on the upper hull to stop
-checking, and no nails or screws anywhere but the fittings — see [epoxy
-pre-coating technique — a builder's own polyester-to-epoxy
-conversion](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck)
-for the full advice, including his warning that a strip-planked deck needs
-epoxy's flex tolerance rather than polyester's brittleness.[118]
+A few weeks after launch Jack weighed in on a fellow builder's epoxy-versus-polyester question with his own build's completed materials tally: **3 gallons of West System epoxy**, 12 oz biaxial cloth on the hull in place of the specified woven roving, two extra layers of 2 oz glass on the upper hull to stop checking, and no nails or screws anywhere but the fittings — see [epoxy pre-coating technique — a builder's own polyester-to-epoxy conversion](/construction/epoxy-coating-technique.md#a-builders-own-polyester-to-epoxy-conversion-and-the-case-against-poly-on-a-strip-planked-deck) for the full advice, including his warning that a strip-planked deck needs epoxy's flex tolerance rather than polyester's brittleness.[118]
 
-Responding to a renewed call to enlarge Paradox by 20% (in the "Amelie"
-thread; see [blue-water suitability — a 2004 revisiting: Paradox against Sven
-Yrvind's "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia)),
-Jack floated the idea of an "ultimate cruiser" of his own, undecided yet
-between **16 ft and 19 ft**, and still considering **steel** as the
-construction material — a brief coda consistent with his standing steel
-interest above, and with no build yet begun. See [enlarging Paradox — a steel
-enlargement idea, and the case against
-it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it).
+Responding to a renewed call to enlarge Paradox by 20% (in the "Amelie" thread; see [blue-water suitability — a 2004 revisiting: Paradox against a comparable design](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia)), Jack floated the idea of an "ultimate cruiser" of his own, undecided yet between **16 ft and 19 ft**, and still considering **steel** as the construction material — a brief coda consistent with his standing steel interest above, and with no build yet begun. See [enlarging Paradox — a steel enlargement idea, and the case against it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it).
 
-Asked about the plans' 38 mm chine-log
-thickness, Jack described his own completed, sailing Paradox as evidence:
-stitch-and-glue, fir chine logs, filleted throughout, no nails or screws
-outside hardware mounts, and no flex felt in the water — his boat being the
-one referred to on the list as "Jill
-Baby." See [chine log vs. taped-seam construction — chine-log thickness: why
-38 mm rather than 19
-mm](/construction/chine-log-vs-taped-seam.md#chine-log-thickness-why-38-mm-rather-than-19-mm)
-for the full thread.
+Asked about the plans' 38 mm chine-log thickness, Jack described his own completed, sailing Paradox as evidence: stitch-and-glue, fir chine logs, filleted throughout, no nails or screws outside hardware mounts, and no flex felt in the water — his boat being the one referred to on the list as "Jill Baby." See [chine log vs. taped-seam construction — chine-log thickness: why 38 mm rather than 19 mm](/construction/chine-log-vs-taped-seam.md#chine-log-thickness-why-38-mm-rather-than-19-mm) for the full thread.
 
-The following spring, joining a "Mainsheet and outboard" thread about a
-raised hoop cage proposed to keep the mainsheet clear of a fitted outboard,
-Jack raised a stern-reentry safety concern: hopping back aboard over a
-raised cage would raise a sailor's center of gravity at just the wrong
-moment. The underlying stability question was settled in
-Paradox's favor — see [weight, ballast, and displacement — self-righting
-range, and bailing without opening the
-hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch)
-— though Jack remained skeptical: "While underway??"
+The following spring, joining a "Mainsheet and outboard" thread about a raised hoop cage proposed to keep the mainsheet clear of a fitted outboard, Jack raised a stern-reentry safety concern: hopping back aboard over a raised cage would raise a sailor's center of gravity at just the wrong moment. The underlying stability question was settled in Paradox's favor — see [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch) — though Jack remained skeptical: "While underway??"
 
-Pressed further on the point, Jack clarified he was not doubting Paradox's
-stability, which he knew firsthand from having built and sailed his own —
-his concern was narrower: an unplanned reboarding in rough conditions (his
-own coinage, "Sudden High Intensity Training"), where the boat, the sea, and
-the swimmer are all moving independently regardless of the hull's stability.
-He drew on his own experience free-diving and SCUBA diving from the boat,
-where conditions at the reentry point often change by the time a diver
-returns, and judged the stern — around shin-to-knee height as he climbed
-back aboard, and also where he staged his own gear before diving — a
-genuinely hazardous spot to be caught out at the wrong moment, purely as a
-matter of personal seamanship rather than any fault in the boat.[128]
+Pressed further on the point, Jack clarified he was not doubting Paradox's stability, which he knew firsthand from having built and sailed his own — his concern was narrower: an unplanned reboarding in rough conditions (his own coinage, "Sudden High Intensity Training"), where the boat, the sea, and the swimmer are all moving independently regardless of the hull's stability. He drew on his own experience free-diving and SCUBA diving from the boat, where conditions at the reentry point often change by the time a diver returns, and judged the stern — around shin-to-knee height as he climbed back aboard, and also where he staged his own gear before diving — a genuinely hazardous spot to be caught out at the wrong moment, purely as a matter of personal seamanship rather than any fault in the boat.[128]
 
-Welcoming a new Los Angeles builder, Jack summarized his own build's
-finished construction details: fully skinned in two layers of 2 oz fabric
-over exterior-grade plywood to stop checking, "blue" (extruded) foam
-insulation rather than one that collects water, a sewn rubber-roofing boot
-over the tiller slot (which he judged, per the design, does not admit much
-water anyway), and rubber-clad commercial windows rather than the stock
-lexan, sized to a minimum bend radius by raising the cabin height slightly
-along with an already-taller mast. He also judged plastic water tanks a
-promising idea, and, asked separately whether he preferred building in cold
-or hot weather, said he would rather build in 100°F heat than cold, since
-only his epoxy work (not his own energy) suffers in the heat. See [window
-strength: a decades-long 1/4 in lexan track record, and one
-collision](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision)
-and [plywood grade and foam flotation — foam
-type](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).[129][130]
+Welcoming a new Los Angeles builder, Jack summarized his own build's finished construction details: fully skinned in two layers of 2 oz fabric over exterior-grade plywood to stop checking, "blue" (extruded) foam insulation rather than one that collects water, a sewn rubber-roofing boot over the tiller slot (which he judged, per the design, does not admit much water anyway), and rubber-clad commercial windows rather than the stock lexan, sized to a minimum bend radius by raising the cabin height slightly along with an already-taller mast. He also judged plastic water tanks a promising idea, and, asked separately whether he preferred building in cold or hot weather, said he would rather build in 100°F heat than cold, since only his epoxy work (not his own energy) suffers in the heat. See [window strength: a decades-long 1/4 in lexan track record, and one collision](/design/blue-water-suitability.md#window-strength-a-decades-long-14-in-lexan-track-record-and-one-collision) and [plywood grade and foam flotation — foam type](/construction/plywood-grades-and-foam-flotation.md#foil-faced-foam-and-radiogps-shielding).[129][130]
 
-Answering that same new builder's later, more detailed backlog of
-plans-reading questions, Jack confirmed "P&S" means port and starboard,
-gave his own mast/boom/yard timber (1x4 in clear doug fir porch flooring,
-16-footers), specified a piano hinge for the stateroom sole hatch "your
-going to be standing on that door," and confirmed several interior plywood
-parts are genuinely missing from the plans' 10-sheet cutting layout, left to
-each builder's own discretion. In a follow-up he added why he had chosen
-**12 oz biax with no mat backing** over woven roving — mat will not bond
-into an epoxy matrix, biax is reputed many times stronger than roving for
-its weight, uses less epoxy, and was no harder to fill than roving in his
-own experience on a 19 ft powerboat built the same way and dived off
-regularly for years with no wear-through — and clarified his own mast's
-16 ft was only a rough starting length, trimmed shorter to stow through the
-stern opening. See [building plans — reading the plans: a first-time
-builder's backlog of
-questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).[131][132]
+Answering that same new builder's later, more detailed backlog of plans-reading questions, Jack confirmed "P&S" means port and starboard, gave his own mast/boom/yard timber (1x4 in clear doug fir porch flooring, 16-footers), specified a piano hinge for the stateroom sole hatch "your going to be standing on that door," and confirmed several interior plywood parts are genuinely missing from the plans' 10-sheet cutting layout, left to each builder's own discretion. In a follow-up he added why he had chosen **12 oz biax with no mat backing** over woven roving — mat will not bond into an epoxy matrix, biax is reputed many times stronger than roving for its weight, uses less epoxy, and was no harder to fill than roving in his own experience on a 19 ft powerboat built the same way and dived off regularly for years with no wear-through — and clarified his own mast's 16 ft was only a rough starting length, trimmed shorter to stow through the stern opening. See [building plans — reading the plans: a first-time builder's backlog of questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).[131][132]
 
-Jack also raised a suspected cause of the creasing some builders reported in
-Matt Layden's newer, taller Mk2 sail plan: possibly missing luff tape,
-without which the luff would shrink in light air and stretch again as the
-sail filled.[133][134] Glen Maxwell's own sail (Dabbler Sails) settled the
-tape-size question at 1 in or 2 in folded in half over the luff, which Jack
-thanked him for, adding that he would expect the enclosed tape to carry a
-bit of stretch of its own.[135][136] See [sailmaking — a suspected cause of
-creasing in the newer sail plan, and the case for a professional
-loft](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft).
+Jack also raised a suspected cause of the creasing some builders reported in Matt Layden's newer, taller Mk2 sail plan: possibly missing luff tape, without which the luff would shrink in light air and stretch again as the sail filled.[133][134] A sail made by a professional loft settled the tape-size question at 1 in or 2 in folded in half over the luff, which Jack was thankful for, adding that he would expect the enclosed tape to carry a bit of stretch of its own.[135][136] See [sailmaking — a suspected cause of creasing in the newer sail plan, and the case for a professional loft](/construction/sailmaking.md#a-suspected-cause-of-creasing-in-the-newer-sail-plan-and-the-case-for-a-professional-loft).
 
-On his own Mark II sail's halyard fixing point, Jack settled on the center of
-the yard's tapers, roughly 700 mm in from the end, tying it off rather than
-hard-fixing it, though he was never certain of the exact position. See [rig
-and sail — halyard fixing point on the spar: an open
-question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[137]
+On his own Mark II sail's halyard fixing point, Jack settled on the center of the yard's tapers, roughly 700 mm in from the end, tying it off rather than hard-fixing it, though he was never certain of the exact position. See [rig and sail — halyard fixing point on the spar: an open question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).[137]
 
-Later that month, Jack offered to share a roughly 30-megabyte MPEG video of
-his own Paradox under sail with any interested list member over AIM, given
-his cable connection, while hoping to shoot further footage.[138] The offer
-drew several takers and exposed the real bottleneck of moving a 30 MB file in
-2005. An interested viewer previously known to the list from an unrelated
-hatch-skylight question about Zoë's condensation asked to receive the file
-directly given his own cable modem;[139] another offered to host it on his
-own website if Jack e-mailed it to his Gmail account;[140] and a longtime
-Oslo-based correspondent asked for a copy too.[144] Jack confirmed the file
-exceeded his e-mail provider's 10 MB outgoing limit, ruling out sending it
-directly.[142] Paul, a frequent commenter on Jack's build, proposed a
-BitTorrent transfer instead using the BitComet client, and, after his first
-tracker suggestion proved unworkable, posted a working replacement tracker
-and instructions;[141][145]
-Jack said he would look into it once free.[143] Paul then test-uploaded a
-torrent file to the group's file-sharing folder for others to try,[146] but
-Jack's own attempt to download BitComet failed twice with a refused
-connection, and he asked Paul to e-mail the file instead;[147] Paul obliged,
-uploading both the video file and its torrent to the group's file-sharing
-folder,[148] then loaded a newer, larger revision of his own copy (1912 kb
-against the original 1649 kb) without yet testing it.[149] A second file
-area, "Paradoxbuilders2," proved invisible to Jack's own Yahoo account;[150]
-Paul pointed him to a BitComet download link instead and confirmed he had
-also placed the working torrents in the group's regular file-sharing
-folder.[151] That evening Paul confirmed he had finally watched Jack's
-movie — "Out in a hurricane again! Looking good."[152]
+Later that month, Jack offered to share a roughly 30-megabyte MPEG video of his own Paradox under sail with any interested list member over AIM, given his cable connection, while hoping to shoot further footage.[138] The offer drew several takers and exposed the real bottleneck of moving a 30 MB file in 2005. An interested viewer previously known to the list from an unrelated hatch-skylight condensation question asked to receive the file directly given his own cable modem;[139] another offered to host it on a website if Jack e-mailed it over;[140] and a longtime Oslo-based correspondent asked for a copy too.[144] Jack confirmed the file exceeded his e-mail provider's 10 MB outgoing limit, ruling out sending it directly.[142] A frequent commenter on Jack's build proposed a BitTorrent transfer instead using the BitComet client, and, after a first tracker suggestion proved unworkable, posted a working replacement tracker and instructions;[141][145] Jack said he would look into it once free.[143] A test torrent file was then uploaded to the group's file-sharing folder for others to try,[146] but Jack's own attempt to download BitComet failed twice with a refused connection, and he asked for the file to be e-mailed instead;[147] the video file itself was duly uploaded to the group's file-sharing folder alongside its torrent,[148] then a newer, larger revision (1912 kb against the original 1649 kb) was loaded up without yet being tested.[149] A second file area, "Paradoxbuilders2," proved invisible to Jack's own Yahoo account;[150] a BitComet download link was offered instead, with confirmation that the working torrents had also been placed in the group's regular file-sharing folder.[151] That evening came confirmation of finally having watched Jack's movie — "Out in a hurricane again! Looking good."[152]
 
-Jack's own reply gave the fullest firsthand account of Jill under sail on
-record: two days out in a steady 20-35 mph wind, loaded with two adults and
-tool ballast — full narrative at
-[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind).
-He created a dedicated BitComet-torrent file folder for the footage and hoped
-to shoot further video from a powerboat the following weekend.[153][154] A
-newcomer to the thread, working through BitComet for the first time,
-downloaded the file but was unsure how to play it; Jack talked him through
-the client's default download path and confirmed the file would open in
-Windows Media Player or Winamp.[155][156] Asked what Mac users could view it
-on, Paul reported having watched it in QuickTime on a Windows 98 machine, and
-expected QuickTime or Microsoft's Mac version of Media Player to work
-equally well on a Mac.[157][158] The newcomer working through BitComet
-confirmed he had gotten the file playing after all, crediting Jack's
-download-path advice and joking he had "learned a little about computers"
-in the process.[159] An aside from another list member, who guessed the
-correspondent might be a fellow Canadian prairie dweller, drew out that he
-had moved to central Alberta from southern Manitoba in September 2004.[160][161]
+Jack's own reply gave the fullest firsthand account of Jill under sail on record: two days out in a steady 20-35 mph wind, loaded with two adults and tool ballast — full narrative at [boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind). He created a dedicated BitComet-torrent file folder for the footage and hoped to shoot further video from a powerboat the following weekend.[153][154] A newcomer to the thread, working through BitComet for the first time, downloaded the file but was unsure how to play it; Jack talked him through the client's default download path and confirmed the file would open in Windows Media Player or Winamp.[155][156] Asked what Mac users could view it on, one reply reported having watched it in QuickTime on a Windows 98 machine, and expected QuickTime or Microsoft's Mac version of Media Player to work equally well on a Mac.[157][158] The newcomer working through BitComet confirmed he had gotten the file playing after all, crediting Jack's download-path advice and joking he had "learned a little about computers" in the process.[159] An aside guessing the correspondent might be a fellow Canadian prairie dweller drew out that he had moved to central Alberta from southern Manitoba in September 2004.[160][161]
 
-Asked for close-ups of the boat itself rather than just the water footage,
-Jack gave the fullest documented account of Jill's finished interior joinery,
-his own hands-on filming, and a further round of technical particulars from
-the beaching footage (outboard power, ballast, GPS speed figures) — see
-[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind)
-for the full account.[162][163][164]
+Asked for close-ups of the boat itself rather than just the water footage, Jack gave the fullest documented account of Jill's finished interior joinery, his own hands-on filming, and a further round of technical particulars from the beaching footage (outboard power, ballast, GPS speed figures) — see [boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind) for the full account.[162][163][164]
 
 ## Torrent support for the "beaching" video, and a Canadian toast interlude
 
-The new beaching-video torrent file, automatically announced to the group
-by the file-sharing system once uploaded,[165] produced its own short
-round of file-sharing troubleshooting, structurally identical to the
-original mpeg thread: a
-correspondent already known to the list for his Everglades Challenge
-relaying could not get RealPlayer to open the downloaded torrent and asked
-how to connect torrent software to a media player, or whether Windows
-Media Player or Winamp would serve better, also asking after a
-still-awaited copy on Paul's own website.[166] Jack answered with the
-clearest documented explanation of how BitComet actually works on the
-list: the small `.torrent` file only tells the client where the real file
-is hosted; the client then downloads the full file (with more simultaneous
-downloaders also helping "serve" more copies) to a local downloads folder,
-where it can be played directly — the failure he was seeing was simply
-RealPlayer trying and failing to find a codec for the un-decoded torrent
-file itself, not the video.[167] Paul filled in the remaining mechanics:
-BitComet places a finished download at a fixed default path
-(`C:\Program Files\BitComet\Downloads\`), playable afterward in Windows
-Media Player, Winamp, or even RealPlayer; he had also mirrored a copy of
-the file under "Paul's Stuff" in the group's secondary file area for
-members who could not find the original, and suggested first downloading
-Jack's existing clips as a working example before uploading new ones of
-one's own. He noted his personal website, hosted on a free 50-megabyte
-Geocities account, was already at capacity and could take no more video
-files.[168]
+The new beaching-video torrent file, automatically announced to the group by the file-sharing system once uploaded,[165] produced its own short round of file-sharing troubleshooting, structurally identical to the original mpeg thread: a correspondent already known to the list for Everglades Challenge relaying could not get RealPlayer to open the downloaded torrent and asked how to connect torrent software to a media player, or whether Windows Media Player or Winamp would serve better, also asking after a still-awaited copy hosted elsewhere on the web.[166] Jack answered with the clearest documented explanation of how BitComet actually works on the list: the small `.torrent` file only tells the client where the real file is hosted; the client then downloads the full file (with more simultaneous downloaders also helping "serve" more copies) to a local downloads folder, where it can be played directly — the failure being reported was simply RealPlayer trying and failing to find a codec for the un-decoded torrent file itself, not the video.[167] The remaining mechanics were filled in separately: BitComet places a finished download at a fixed default path (`C:\Program Files\BitComet\Downloads\`), playable afterward in Windows Media Player, Winamp, or even RealPlayer; a copy of the file had also been mirrored in the group's secondary file area for members who could not find the original, with a suggestion to first download Jack's existing clips as a working example before uploading new ones of one's own, and a note that a personal website hosted on a free 50-megabyte Geocities account was already at capacity and could take no more video files.[168]
 
-The simplicity-versus-BitTorrent debate ran on: a returning correspondent
-argued for simply hosting the file on a website and posting the URL,
-rather than asking non-technical viewers to learn a peer-to-peer
-client.[169] Paul countered at length — most e-mail programs and Yahoo
-Groups' own file area cap out around 30 MB, and a Geocities-style site
-would hit its transfer limit on the very first download, whereas a
-torrent spreads the load across every downloader and scales efficiently
-even to gigabytes of data without requiring the uploader to be online or
-to send the file individually to each requester.[170] Unconvinced, the
-same correspondent kept pressing for a plain download link,[171]
-prompting Paul to ask directly whether anyone had a site to
-suggest.[172] One member volunteered his own web space, offered for a
-couple of months' use;[173] Jack gave the fullest defense of the
-BitTorrent approach on record — no free host would serve several
-gigabytes of video to the world without charging or harvesting an e-mail
-address to sell, whereas a torrent, once seeded, keeps being served by
-its own downloaders ("peer servers") without further effort from the
-uploader, an approach he expected members would find worth the five
-minutes needed to install the client.[174] A Mac-owning correspondent
-separately asked whether BitComet would even install on a Mac.[175] The
-website-hosting correspondent ended the exchange by offering his own
-web-development client's server space, already unmetered for bandwidth,
-until asked to remove the file.[176] The Mac question was answered a few
-hours later: BitComet itself is not needed on a Mac, since a barebones
-BitTorrent client for OS X is available directly from bittorrent.com, and
-any standard BitTorrent client — found readily via a general search — will
-open the same torrent file.[177]
+The simplicity-versus-BitTorrent debate ran on: a returning correspondent argued for simply hosting the file on a website and posting the URL, rather than asking non-technical viewers to learn a peer-to-peer client.[169] A lengthy counterargument followed — most e-mail programs and Yahoo Groups' own file area cap out around 30 MB, and a Geocities-style site would hit its transfer limit on the very first download, whereas a torrent spreads the load across every downloader and scales efficiently even to gigabytes of data without requiring the uploader to be online or to send the file individually to each requester.[170] Unconvinced, the same correspondent kept pressing for a plain download link,[171] prompting a direct question of whether anyone had a site to suggest.[172] One member volunteered web space, offered for a couple of months' use;[173] Jack gave the fullest defense of the BitTorrent approach on record — no free host would serve several gigabytes of video to the world without charging or harvesting an e-mail address to sell, whereas a torrent, once seeded, keeps being served by its own downloaders ("peer servers") without further effort from the uploader, an approach he expected members would find worth the five minutes needed to install the client.[174] A Mac-owning correspondent separately asked whether BitComet would even install on a Mac.[175] The website-hosting correspondent ended the exchange by offering a web-development client's server space, already unmetered for bandwidth, until asked to remove the file.[176] The Mac question was answered a few hours later: BitComet itself is not needed on a Mac, since a barebones BitTorrent client for OS X is available directly from bittorrent.com, and any standard BitTorrent client — found readily via a general search — will open the same torrent file.[177]
 
-A further mpeg, hosted on Jack's own website rather than distributed by
-torrent, captured Jill motoring out of Narragansett Bay toward open water and
-taking a passing powerboat's wake from the side without incident — see
-[boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind)
-for the full account.[178]
+A further mpeg, hosted on Jack's own website rather than distributed by torrent, captured Jill motoring out of Narragansett Bay toward open water and taking a passing powerboat's wake from the side without incident — see [boats/jill.md](/boats/jill.md#the-paradox-mpeg-movie-thread-two-days-in-20-35-mph-wind) for the full account.[178]
 
-Answering a UK builder's "Tack Strut and Boom Axle" question, Jack drew on
-his own completed forked-pipe pivot joint to warn that galvanised steel
-pipe rusts at its cut ends, and walked through an epoxy-coating alternative
-(sanding the pipe, then painting over the cured epoxy for UV protection)
-step by step as the correspondent tried it. See [rig and sail — the tack
-strut and boom axle's pivot joint: why a "V," and
-alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).
+Answering a UK builder's "Tack Strut and Boom Axle" question, Jack drew on his own completed forked-pipe pivot joint to warn that galvanised steel pipe rusts at its cut ends, and walked through an epoxy-coating alternative (sanding the pipe, then painting over the cured epoxy for UV protection) step by step as the correspondent tried it. See [rig and sail — the tack strut and boom axle's pivot joint: why a "V," and alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).
 
-Jack offered a newcomer struggling with the plans-request FAQ simple
-encouragement: getting past that hurdle, the boat itself is worth the
-effort. See [building plans — source and
-cost](/references/building-plans.md#source-and-cost).[179]
+Jack offered a newcomer struggling with the plans-request FAQ simple encouragement: getting past that hurdle, the boat itself is worth the effort. See [building plans — source and cost](/references/building-plans.md#source-and-cost).[179]
 
-Jack also weighed in on ballast and capsize safety, telling a builder that
-properly secured ballast makes turning turtle and staying that way
-effectively nil — a claim Chris Ostlind pushed back on as an overstatement.
-See [weight, ballast, and displacement — self-righting range, and bailing
-without opening the
-hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).[180]
+Jack also weighed in on ballast and capsize safety, telling a builder that properly secured ballast makes turning turtle and staying that way effectively nil — a claim pushed back on as an overstatement. See [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).[180]
 
-Answering Chris Ostlind's rebuttal in turn, Jack judged the real-world risk
-small — a Paradox would spill wind and settle rather than staying pinned the
-way a multihull's mast jabs into the bottom when turtled — and recalled
-Matt Layden's own account of being dislodged from his boat while helping her
-right herself after a knockdown. He stressed the foam flotation as designed
-is the real safeguard, and mentioned carrying a 72-hour overboard bag with a
-flare gun of his own. See [weight, ballast, and displacement — self-righting
-range, and bailing without opening the
-hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).[181]
+Answering that rebuttal in turn, Jack judged the real-world risk small — a Paradox would spill wind and settle rather than staying pinned the way a multihull's mast jabs into the bottom when turtled — and recalled Matt Layden's own account of being dislodged from his boat while helping her right herself after a knockdown. He stressed the foam flotation as designed is the real safeguard, and mentioned carrying a 72-hour overboard bag with a flare gun of his own. See [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).[181]
 
-On a builder's biaxial-sheathing question, Jack advised **injecting epoxy**
-into small voids found at the chine-runner/side angle rather than cutting
-them out, since cutting sacrifices the fiberglass cloth's own integrity at
-that spot. See [hull assembly sequence — turning the hull
-over](/construction/hull-assembly-sequence.md#turning-the-hull-over).[182]
+On a builder's biaxial-sheathing question, Jack advised **injecting epoxy** into small voids found at the chine-runner/side angle rather than cutting them out, since cutting sacrifices the fiberglass cloth's own integrity at that spot. See [hull assembly sequence — turning the hull over](/construction/hull-assembly-sequence.md#turning-the-hull-over).[182]
 
-Rounding out the tack-strut/boom-axle exchange, Jack described his own
-pivot-joint fabrication in full — the furling-rope sheave's seizing plate,
-the freely spinning sleeve built up on the axle, the stops (with a planned
-upgrade to adjustable, drilled-and-tapped versions), a plan to replace the
-worn retaining bolt with a locking nut and a larger size, and his
-notch-cutting method with a fiber-disk cutoff wheel. See [rig and sail — the
-tack strut and boom axle's pivot joint: why a "V," and
-alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).[183]
+Rounding out the tack-strut/boom-axle exchange, Jack described his own pivot-joint fabrication in full — the furling-rope sheave's seizing plate, the freely spinning sleeve built up on the axle, the stops (with a planned upgrade to adjustable, drilled-and-tapped versions), a plan to replace the worn retaining bolt with a locking nut and a larger size, and his notch-cutting method with a fiber-disk cutoff wheel. See [rig and sail — the tack strut and boom axle's pivot joint: why a "V," and alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).[183]
 
-Warning Derek Clark about the yard rubbing against the mast, Jack drew on
-his own experience of a varnished mast finish burning an 8 in hole through
-his sail's sleeve, describing his fix (a sewn-on leather chafe patch and a
-planned petroleum-jelly-and-linseed-oil mast finish) and flagging that a
-segmented bamboo yard could chafe or ride noisily over its own segment
-joints. See [rig and sail — mast chafe from the yard, and finishes that
-prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it).[185]
+Warning about the yard rubbing against the mast, Jack drew on his own experience of a varnished mast finish burning an 8 in hole through his sail's sleeve, describing his fix (a sewn-on leather chafe patch and a planned petroleum-jelly-and-linseed-oil mast finish) and flagging that a segmented bamboo yard could chafe or ride noisily over its own segment joints. See [rig and sail — mast chafe from the yard, and finishes that prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it).[185]
 
-Answering Derek's follow-up "Bending Brass" question about a fractured
-tack-strop fork, Jack explained the brass was work-hardening from being
-worked, growing brittle until it snapped, and pointed him toward annealing
-information or simply brazing the joint instead. See
-[boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).[187]
+Answering a follow-up "Bending Brass" question about a fractured tack-strop fork, Jack explained the brass was work-hardening from being worked, growing brittle until it snapped, and pointed toward annealing information or simply brazing the joint instead. See [boats/enuf.md](/boats/enuf.md#the-tack-strut-and-boom-axles-pivot-joint).[187]
 
-Advising Derek on finishing the mast, boom, and yard, Jack recommended his own
-practice — epoxy to seal the wood, then varnish over the cured epoxy for UV
-protection — plus a leather chafe patch and a black rubber roofing membrane
-wrapped around the mast base, and warned Derek to distinguish an encased knot
-from an acceptable small spike knot. See [boats/enuf.md — finishing the
-spars: epoxy, varnish, and knots in the
-boom](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[188][189]
+Advising on finishing the mast, boom, and yard, Jack recommended his own practice — epoxy to seal the wood, then varnish over the cured epoxy for UV protection — plus a leather chafe patch and a black rubber roofing membrane wrapped around the mast base, and flagged the need to distinguish an encased knot from an acceptable small spike knot. See [boats/enuf.md — finishing the spars: epoxy, varnish, and knots in the boom](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[188][189]
 
-When Derek's replacement boom timber turned up its own knot, Jack joined Jeff
-(UK) in urging a whole new boom over a spliced repair, telling his own
-"first sail" cheering-section story as the stakes of a boom failing at the
-worst moment. See [boats/enuf.md — the boom knots
-thread](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[191]
+When a replacement boom timber turned up its own knot, Jack joined another correspondent in urging a whole new boom over a spliced repair, telling his own "first sail" cheering-section story as the stakes of a boom failing at the worst moment. See [boats/enuf.md — the boom knots thread](/boats/enuf.md#finishing-the-spars-epoxy-varnish-and-knots-in-the-boom).[191]
 
-Answering a newcomer's pounding question, Jack reported no pounding
-experienced himself, though the boat tosses spray, and guessed Matt Layden's
-V-bottomed Enigma bow might be aimed at reducing that spray and gaining a
-little speed. See [sailing characteristics — pounding: rare at anchor,
-occasional
-underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[192]
+Answering a newcomer's pounding question, Jack reported no pounding experienced himself, though the boat tosses spray, and guessed Matt Layden's V-bottomed Enigma bow might be aimed at reducing that spray and gaining a little speed. See [sailing characteristics — pounding: rare at anchor, occasional underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).[192]
 
-Answering a prospective builder's sleeping-area question, Jack reported
-gaining a full 36 in (91.5 cm) on his own boat by extending the space as far
-as the sail rig would allow, while cautioning that any bulkhead moved this
-way must still be trimmed to fit correctly. See [crew size and fit — Glen
-Maxwell's measured cabin
-dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[193]
+Answering a prospective builder's sleeping-area question, Jack reported gaining a full 36 in (91.5 cm) on his own boat by extending the space as far as the sail rig would allow, while cautioning that any bulkhead moved this way must still be trimmed to fit correctly. See [crew size and fit — measured cabin dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[193]
 
-Weighing in on Bill Serjeant's "quintessential seat" proposal, Jack raised
-a practical objection to a swinging hammock-type seat: it works against
-getting the boat's center of gravity down quickly when a powerboat wake or
-a large wave hits. His own practice rotates between various cushions to
-suit whatever seating arrangement the moment calls for, plus a raised work
-radio used with a cushion on top for a better view while motoring. See
-[crew size and fit — long-passage seat comfort: cushion
-practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[194]
+Weighing in on a "quintessential seat" proposal, Jack raised a practical objection to a swinging hammock-type seat: it works against getting the boat's center of gravity down quickly when a powerboat wake or a large wave hits. His own practice rotates between various cushions to suit whatever seating arrangement the moment calls for, plus a raised work radio used with a cushion on top for a better view while motoring. See [crew size and fit — long-passage seat comfort: cushion practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[194]
 
-An early sandbar grounding, his reef-early doctrine, why he mounted a 6 hp
-outboard, and his luff-rope fix for the sail's reefing crease are narrated
-in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).[195]
+An early sandbar grounding, his reef-early doctrine, why he mounted a 6 hp outboard, and his luff-rope fix for the sail's reefing crease are narrated in full on ["Jill"](/boats/jill.md#a-sandbar-grounding-reefing-early-doctrine-and-a-luff-rope-for-the-sail-crease).[195]
 
-Answering David Beard's bilge-finishing question, Jack gave the fullest
-statement on record of the trade-off between painting a bilge for looks and
-leaving it inspectable for rot, and explained why he tabbed his own hull
-stitch-and-glue style rather than nailing chine logs — nails work loose
-with flexing and can inject water into the plywood's end grain. See
-[checking a used Paradox for rot — finishing the bilges: leave inspectable,
-or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[197]
+Answering a bilge-finishing question, Jack gave the fullest statement on record of the trade-off between painting a bilge for looks and leaving it inspectable for rot, and explained why he tabbed his own hull stitch-and-glue style rather than nailing chine logs — nails work loose with flexing and can inject water into the plywood's end grain. See [checking a used Paradox for rot — finishing the bilges: leave inspectable, or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[197]
 
-Answering a New Zealand builder's rudder pivot-bolt question over a year
-later, Jack retold his beach/trailer incident (see ["Jill"](/boats/jill.md#a-small-craft-advisory-and-a-rudder-blade-that-saved-the-trailer))
-and added two new data points: heavy subsequent motoring/motor-sailing has
-caused no wear to the pivot fixing's silicon bronze hardware, and the real
-risk to a rudder blade is dragging its leading edge over rocks rather than
-sand. See [design/rudder.md — the pivot-bolt fixing, and its record under
-grounding loads](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).[198]
+Answering a New Zealand builder's rudder pivot-bolt question over a year later, Jack retold his beach/trailer incident (see ["Jill"](/boats/jill.md#a-small-craft-advisory-and-a-rudder-blade-that-saved-the-trailer)) and added two new data points: heavy subsequent motoring/motor-sailing has caused no wear to the pivot fixing's silicon bronze hardware, and the real risk to a rudder blade is dragging its leading edge over rocks rather than sand. See [design/rudder.md — the pivot-bolt fixing, and its record under grounding loads](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads).[198]
 
-On Bill Serjeant's follow-up question about bushing the pivot bolt against
-water ingress, Jack offered his own simpler alternative — setting the
-washers flush with the surrounding surfaces, bedded in epoxy, rather than
-bushing the bolt holes themselves. See [design/rudder.md — bushing the
-pivot bolt against water
-ingress](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).[199]
+On a follow-up question about bushing the pivot bolt against water ingress, Jack offered his own simpler alternative — setting the washers flush with the surrounding surfaces, bedded in epoxy, rather than bushing the bolt holes themselves. See [design/rudder.md — bushing the pivot bolt against water ingress](/design/rudder.md#bushing-the-pivot-bolt-against-water-ingress).[199]
 
-When a brand-new correspondent, "Ken Pagans," asked whether a used Paradox
-or study plans might be available, Jack asked only where he was located
-(Texas, as it turned out) without further comment; see [secondhand Paradox
-market — a want-to-buy inquiry from
-Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
+When a brand-new correspondent asked whether a used Paradox or study plans might be available, Jack asked only where he was located (Texas, as it turned out) without further comment; see [secondhand Paradox market — a want-to-buy inquiry from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[200]
 
-Updating his own steel-enlargement plans, Jack settled on the smaller of the
-two hull lengths he had earlier been weighing: a **16 ft version, in corten
-steel specifically**, which he judged renders most other steel-construction
-objections moot. Answering the same newcomer's two-person question, he
-confirmed sailing his own stock boat 2-up is "cramped, but doable," and
-recommended building to "the pinacle of matts building sailing" — the
-design as Matt Layden himself judged safest and best suited — over
-second-guessing it before ever sailing one. See [stretched Paradox — a steel
-enlargement idea, and the case against
-it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it)
-and [first-boat suitability — the two-person question, answered
-directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[201]
-Closing out Derek Clark's rowlock/wedge exchange, Jack supplied the
-terminology note that Americans call the same fitting an "oarlock." See
-[boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[202]
-Derek's own closing reply — that he would adopt "oarlock" too if he were ever
-"blown round that side of the pond" — followed the next day.[204]
+Updating his own steel-enlargement plans, Jack settled on the smaller of the two hull lengths he had earlier been weighing: a **16 ft version, in corten steel specifically**, which he judged renders most other steel-construction objections moot. Answering the same newcomer's two-person question, he confirmed sailing his own stock boat 2-up is "cramped, but doable," and recommended building to "the pinacle of matts building sailing" — the design as Matt Layden himself judged safest and best suited — over second-guessing it before ever sailing one. See [stretched Paradox — a steel enlargement idea, and the case against it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it) and [first-boat suitability — the two-person question, answered directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[201] Closing out a rowlock/wedge exchange, Jack supplied the terminology note that Americans call the same fitting an "oarlock." See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[202] A closing reply — that "oarlock" would be adopted too if ever "blown round that side of the pond" — followed the next day.[204]
 
-Jack's outboard, generator, and family circumstances are covered in full on
-[boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions):
-a 6 hp Johnson outboard and a gifted 1,000-watt two-stroke generator for
-charging batteries, his home sailing grounds in Rhode Island waters near
-Newport, and a health scare — a tonsil infection that closed his windpipe
-almost to the point of needing an emergency airway, resolved without lasting
-complication.[203]
+Jack's outboard, generator, and family circumstances are covered in full on [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions): a 6 hp Johnson outboard and a gifted 1,000-watt two-stroke generator for charging batteries, his home sailing grounds in Rhode Island waters near Newport, and a health scare — a tonsil infection that closed his windpipe almost to the point of needing an emergency airway, resolved without lasting complication.[203]
 
-Answering Derek Clark's compass question, Jack pointed out that a GPS's
-bearing comes from satellites rather than magnetic north, so nearby iron
-does not affect it. See [GPS and navigation instruments — compass choice and
-mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[206]
+Answering a compass question, Jack pointed out that a GPS's bearing comes from satellites rather than magnetic north, so nearby iron does not affect it. See [GPS and navigation instruments — compass choice and mounting](/operations/gps-navigation.md#compass-choice-and-mounting).[206]
 
-Weighing in on the "max weight and height" thread, Jack — at 5 ft 7 in —
-described being able to climb bodily into his own boat's forward
-compartment, which he left open with no bulkhead-#1 panel, and still fitting
-comfortably two-up with a crewmate nearly 6 ft tall; he pointed a larger
-sailor toward the enlarged/stretched Paradox files instead of assuming the
-stock cabin is a hard limit. See [interior bin panels and hinged floor —
-reaching the extreme forward compartment, just behind the
-stem](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem).[207]
+Weighing in on the "max weight and height" thread, Jack — at 5 ft 7 in — described being able to climb bodily into his own boat's forward compartment, which he left open with no bulkhead-#1 panel, and still fitting comfortably two-up with a crewmate nearly 6 ft tall; he pointed a larger sailor toward the enlarged/stretched Paradox files instead of assuming the stock cabin is a hard limit. See [interior bin panels and hinged floor — reaching the extreme forward compartment, just behind the stem](/design/interior-bins-and-floor.md#reaching-the-extreme-forward-compartment-just-behind-the-stem).[207]
 
-Answering a bulkhead-3 steel-reinforcement proposal, Jack endorsed steel as
-a viable material provided it is properly prepared (sandblasted or
-hand-ground, then epoxy-coated), trading strength for cross-sectional area
-against the plans' plywood web. See [crew size and cabin fit — modifying
-bulkhead 3 to gain room for sleeping
-two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[208]
+Answering a bulkhead-3 steel-reinforcement proposal, Jack endorsed steel as a viable material provided it is properly prepared (sandblasted or hand-ground, then epoxy-coated), trading strength for cross-sectional area against the plans' plywood web. See [crew size and cabin fit — modifying bulkhead 3 to gain room for sleeping two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[208]
 
-Answering a newcomer's plywood-grade question the next day, Jack gave the
-fullest first-hand plywood report of his own build on record — exterior fir
-skinned in doubled 2 oz glass, a 3/4 in exterior fir floor, single-layer 12
-oz biaxial cloth on the bottom, stitch-and-glue/tabbed/filleted
-construction, no bottom damage after repeated beaching on moderate rubble —
-plus a plain-language guide to reading a plywood grading stamp. See
-[plywood grade and foam flotation debate — a July 2006 recurrence, and a
-recommendation for MDO
-plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[209]
+Answering a newcomer's plywood-grade question the next day, Jack gave the fullest first-hand plywood report of his own build on record — exterior fir skinned in doubled 2 oz glass, a 3/4 in exterior fir floor, single-layer 12 oz biaxial cloth on the bottom, stitch-and-glue/tabbed/filleted construction, no bottom damage after repeated beaching on moderate rubble — plus a plain-language guide to reading a plywood grading stamp. See [plywood grade and foam flotation debate — a July 2006 recurrence, and a recommendation for MDO plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[209]
 
-When the same newcomer returned with plans in hand, a barn-platform build
-plan, and questions about enlarging Paradox for a couple and using his own
-larch (tamarack) trees for masts and booms, Jack proposed building an
-enlarged boat's sides from two bonded plywood layers with opposing seams
-rather than one thick sheet, scaling the same doubling up to the larger
-bulkheads and rig; on the larch question, proposed testing measured pieces
-against a known mast wood such as clear Douglas fir or Sitka spruce with a
-fishing scale rigged as a "poor man's tensometer," recording breaking load,
-bend, and twist; and recalled flipping his own stock boat's hull
-single-handed, built up on two leveled bunks marked to the hull's
-resting shape. See [double-layer plywood for an enlarged Paradox and
-testing an unconventional mast
-wood](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood)
-and [wood species for a scratch-built wooden
-mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).[210]
+When the same newcomer returned with plans in hand, a barn-platform build plan, and questions about enlarging Paradox for a couple and using larch (tamarack) trees for masts and booms, Jack proposed building an enlarged boat's sides from two bonded plywood layers with opposing seams rather than one thick sheet, scaling the same doubling up to the larger bulkheads and rig; on the larch question, proposed testing measured pieces against a known mast wood such as clear Douglas fir or Sitka spruce with a fishing scale rigged as a "poor man's tensometer," recording breaking load, bend, and twist; and recalled flipping his own stock boat's hull single-handed, built up on two leveled bunks marked to the hull's resting shape. See [double-layer plywood for an enlarged Paradox and testing an unconventional mast wood](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood) and [wood species for a scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).[210]
 
-Answering a question on why the Paradox sail is sleeved rather than lashed
-to the yard and boom, Jack judged it Matt Layden's preference for
-simplicity, and gave his own bottom-layup detail (a single layer of 12 oz
-biax, about a gallon of epoxy) before reporting Jill's first sail of the
-2006 season. Full account at
-[boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[211]
+Answering a question on why the Paradox sail is sleeved rather than lashed to the yard and boom, Jack judged it Matt Layden's preference for simplicity, and gave his own bottom-layup detail (a single layer of 12 oz biax, about a gallon of epoxy) before reporting Jill's first sail of the 2006 season. Full account at [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[211]
 
 ## Urging Derek Clark not to leave the list
 
-When Derek Clark announced he was leaving the group after selling "Enuf,"
-Jack — although not among the builders Derek had thanked by name — added his
-own case for staying. He valued his own Paradox over his 19 ft, 75 hp
-motorboat specifically because a dead outboard still leaves the sail to get
-him home, and judged Paradox worth taking into rough offshore weather over a
-powerboat for the same reason, with the added option of simply beaching her
-and seeking help if needed. He judged Paradox's design the product of a
-great deal of deep thought, whose survivability-in-a-small-space genius only
-becomes more apparent with familiarity, and urged Derek not to sell himself
-short or burn bridges regardless of which way his decision went. Derek
-apologized for the oversight in his thank-you list, having assumed Jack
-would not want the publicity. Jack closed the exchange by drawing on his own
-experience of losing a boat to misfortune and building past it: blown onto a
-beach and trying to haul his own Paradox free with his truck, he backed the
-drive wheels straight over the rudder and crushed it — "I built it and I can
-replace it, Il make it even better!!" No longer owning a Paradox, in his
-view, is beside the point, since the group is called Paradox **builders**,
-and that description still fits Derek regardless. Full account at
-[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[213][214][215]
+When a fellow builder announced he was leaving the group after selling his own Paradox ("Enuf"), Jack — although not among the builders thanked by name in the departure post — added his own case for staying. He valued his own Paradox over his 19 ft, 75 hp motorboat specifically because a dead outboard still leaves the sail to get him home, and judged Paradox worth taking into rough offshore weather over a powerboat for the same reason, with the added option of simply beaching her and seeking help if needed. He judged Paradox's design the product of a great deal of deep thought, whose survivability-in-a-small-space genius only becomes more apparent with familiarity, and urged against selling himself short or burning bridges regardless of which way the decision went. An apology followed for the oversight in the thank-you list, made on the assumption that the publicity would not be wanted. Jack closed the exchange by drawing on his own experience of losing a boat to misfortune and building past it: blown onto a beach and trying to haul his own Paradox free with his truck, he backed the drive wheels straight over the rudder and crushed it — "I built it and I can replace it, Il make it even better!!" No longer owning a Paradox, in his view, is beside the point, since the group is called Paradox **builders**, and that description still applies regardless. Full account at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[213][214][215]
 
 # Citations
 

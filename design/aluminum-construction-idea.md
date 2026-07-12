@@ -28,759 +28,195 @@ No follow-up with actual figures, and no report of an aluminum Paradox ever bein
 
 ## Whole-hull steel construction: gauge, framing, and damage tolerance
 
-A steel-hull *bottom*, proposed as combined ballast and impact protection (see
-[weight, ballast, and displacement — a steel hull bottom as combined ballast and impact protection](/design/weight-and-ballast.md#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)),
-widened over time into a fuller debate about building a **whole hull in
-steel**, drawing a detailed technical case for the idea, a weight-based
-objection, and further figures from a builder pursuing it in earnest.
+A steel-hull *bottom*, proposed as combined ballast and impact protection (see [weight, ballast, and displacement — a steel hull bottom as combined ballast and impact protection](/design/weight-and-ballast.md#a-steel-hull-bottom-as-combined-ballast-and-impact-protection-speculative)), widened over time into a fuller debate about building a **whole hull in steel**, drawing a detailed technical case for the idea, a weight-based objection, and further figures from a build pursued in earnest.
 
-Paradox's simple box-like hull shape lends itself readily to steel
-construction: steel boats smaller than 14 ft are a known type, cruising
-Amsterdam's canals. The recommendation that follows from that precedent:
+Paradox's simple box-like hull shape lends itself readily to steel construction: steel boats smaller than 14 ft are a known type, cruising Amsterdam's canals. The recommendation that follows from that precedent:
 
-- **12-gauge (~0.10 in) plate**, not the thicker 3/16 in first proposed —
-  thick steel adds weight without a matching gain in stiffness once
-  longitudinal stringers and a few extra frames are added, which are
-  necessary for any steel version.
-- **Steel tubing (1 in x 1 in) bulkheads**, which would let a builder open up
-  the mast bulkhead for more interior room, with the same tube stock
-  recommended for stringers.
+- **12-gauge (~0.10 in) plate**, not the thicker 3/16 in first proposed — thick steel adds weight without a matching gain in stiffness once longitudinal stringers and a few extra frames are added, which are necessary for any steel version.
+- **Steel tubing (1 in x 1 in) bulkheads**, which would let a builder open up the mast bulkhead for more interior room, with the same tube stock recommended for stringers.
 - **3/4 in square tube gunnels**, with a wood deck attached over them.
-- A small **110-volt welder** is sufficient to fabricate the hull, which
-  "could literally be fabbed up in a few days"; modern paints adhere to steel
-  well, even on boats.
-- **Radar reflectivity** would not meaningfully improve, since a Paradox
-  already sits so low in the water that hull material makes little
-  difference.
-- The core trade-off: **simpler, faster construction** against a hull **less
-  prone to damage or being holed** by beaching or a surprise impact — Exocet
-  missiles and icebergs aside.
-- On alloy vs. steel weight economics generally, a Phil Bolger aside ranks
-  steel, then aluminum, as the most cost-effective monohull construction
-  materials — see ["BRIS Paradox" — reference
-  material](/boats/bris-paradox.md#reference-material-and-a-related-yrvind-mailing-list).
+- A small **110-volt welder** is sufficient to fabricate the hull, which "could literally be fabbed up in a few days"; modern paints adhere to steel well, even on boats.
+- **Radar reflectivity** would not meaningfully improve, since a Paradox already sits so low in the water that hull material makes little difference.
+- The core trade-off: **simpler, faster construction** against a hull **less prone to damage or being holed** by beaching or a surprise impact — Exocet missiles and icebergs aside.
+- On alloy vs. steel weight economics generally, a Phil Bolger aside ranks steel, then aluminum, as the most cost-effective monohull construction materials — see ["BRIS Paradox" — reference material](/boats/bris-paradox.md#reference-material-and-a-related-yrvind-mailing-list).
 
-The countervailing weight objection: steel in any reasonable thickness would
-make the boat far too heavy and eat into carrying capacity. If the underlying
-worry is rock strikes or abrasion, a layer or two of **Kevlar** — "and a
-depth sounder" — is a lighter-weight answer to the same concern.
+The countervailing weight objection: steel in any reasonable thickness would make the boat far too heavy and eat into carrying capacity. If the underlying worry is rock strikes or abrasion, a layer or two of **Kevlar** — "and a depth sounder" — is a lighter-weight answer to the same concern.
 
-The case for steel over wood on strength grounds: **steel offers more
-strength per pound than wood** and would gain usable storage space, running
-an estimated **30-40% stronger than wood for its weight**, with a practical
-finishing advantage — steel primes and paints quickly, with spray-on foam
-handling condensation, buoyancy, and insulation together. The standing weak
-point of an all-steel build is **remote repair**: carrying spare bolts and
-washers allows a fast mechanical patch, with epoxy as a stopgap until a
-welder can be reached. Whether biaxial fiberglass cloth bonds as well over a
-steel-skinned hull as it does over plywood remains an open question.
+The case for steel over wood on strength grounds: **steel offers more strength per pound than wood** and would gain usable storage space, running an estimated **30-40% stronger than wood for its weight**, with a practical finishing advantage — steel primes and paints quickly, with spray-on foam handling condensation, buoyancy, and insulation together. The standing weak point of an all-steel build is **remote repair**: carrying spare bolts and washers allows a fast mechanical patch, with epoxy as a stopgap until a welder can be reached. Whether biaxial fiberglass cloth bonds as well over a steel-skinned hull as it does over plywood remains an open question.
 
-No steel Paradox build, partial or complete, exists on record; like the
-aluminum idea above, it remains a one-off, unbuilt proposal — though
-**steel's density (≈490 lb/cu ft) sits between sand and lead** (see the
-ballast-material table on [weight, ballast, and
-displacement](/design/weight-and-ballast.md#ballast-materials-and-the-light-displacement-enigma-daves-wiki)),
-making the underlying premise at least dimensionally plausible. Asked again
-months later, by a new Australian builder: still, no one had built one
-"yet."[116]
+No steel Paradox build, partial or complete, exists on record; like the aluminum idea above, it remains a one-off, unbuilt proposal — though **steel's density (≈490 lb/cu ft) sits between sand and lead** (see the ballast-material table on [weight, ballast, and displacement](/design/weight-and-ballast.md#ballast-materials-and-the-light-displacement-enigma-daves-wiki)), making the underlying premise at least dimensionally plausible. Asked again months later by a new Australian builder: still, no one had built one "yet."[116]
 
 ## Gauge, weight, and the case for steel over wood generally
 
-3/8 in steel plate would be far too heavy; **1/8 in is roughly equal in
-strength to 1.5 in mahogany**. The priority for any steel Paradox is matching
-wood's loaded weight and center of gravity rather than the unloaded hull
-weight alone; the box-like hull shape suits the material well and yields more
-usable storage capacity than plywood, though curved cuts without a plasma
-cutter fall to an air chisel or similar tool.
+3/8 in steel plate would be far too heavy; **1/8 in is roughly equal in strength to 1.5 in mahogany**. The priority for any steel Paradox is matching wood's loaded weight and center of gravity rather than the unloaded hull weight alone; the box-like hull shape suits the material well and yields more usable storage capacity than plywood, though curved cuts without a plasma cutter fall to an air chisel or similar tool.
 
-The underlying figures: **12-gauge (0.1046 in) steel weighs about 4.375
-lb/sq ft**, against roughly 1 lb/sq ft for 1/4 in plywood — but a steel hull
-needs much less material to match plywood's strength, so bulkheads and
-framing end up more open, and the bare steel "skin" needs neither an epoxy
-coating nor a fiberglass covering. The historical parallel is early-20th-
-century aircraft construction, where steel fuselages displaced wood between
-1903 and roughly 1933 on the strength of superior weight-adjusted strength,
-more predictable material behavior, and faster, easier building — the same
-trade-offs apply to a small steel boat.
+The underlying figures: **12-gauge (0.1046 in) steel weighs about 4.375 lb/sq ft**, against roughly 1 lb/sq ft for 1/4 in plywood — but a steel hull needs much less material to match plywood's strength, so bulkheads and framing end up more open, and the bare steel "skin" needs neither an epoxy coating nor a fiberglass covering. The historical parallel is early-20th-century aircraft construction, where steel fuselages displaced wood between 1903 and roughly 1933 on the strength of superior weight-adjusted strength, more predictable material behavior, and faster, easier building — the same trade-offs apply to a small steel boat.
 
-On oil-canning (denting) on a thin bottom: a heavier bottom plate, around
-**1/8 in (.125 in)**, is the answer, though the actual ballast math (whether
-much water ballast would still be needed on a steel-bottomed boat, versus
-wanted anyway for drinking water) requires running the numbers rather than
-assuming. Roughly **3/16 in** has also been proposed for the bottom plate as
-a target-weight compromise, alongside steel's other advantages for a
-Paradox: a fully weldable, gasketed water-tank system far more cleanable
-than the plans' production tank covers, and hollow frame tubing that adds
-buoyancy if the boat floods.
+On oil-canning (denting) on a thin bottom: a heavier bottom plate, around **1/8 in (.125 in)**, is the answer, though the actual ballast math (whether much water ballast would still be needed on a steel-bottomed boat, versus wanted anyway for drinking water) requires running the numbers rather than assuming. Roughly **3/16 in** has also been proposed for the bottom plate as a target-weight compromise, alongside steel's other advantages for a Paradox: a fully weldable, gasketed water-tank system far more cleanable than the plans' production tank covers, and hollow frame tubing that adds buoyancy if the boat floods.
 
-**"Oil canning"** — the term for a thin metal panel's tendency to dent or
-pucker under load — traces to early-20th-century England, where petrol was
-sold in folded thin-metal "tins" whose sides would pucker whether or not fuel
-was inside.
+**"Oil canning"** — the term for a thin metal panel's tendency to dent or pucker under load — traces to early-20th-century England, where petrol was sold in folded thin-metal "tins" whose sides would pucker whether or not fuel was inside.
 
 ## A steel bottom plate as a substitute for fiberglass, epoxy, and water ballast
 
-A separate, narrower variant of the steel idea proposed skipping the plans'
-fiberglass-and-epoxy bottom layup entirely: a single **welded steel bottom
-plate**, with the [chine runners](/chine-runners/how-they-work.md) welded
-directly onto it rather than fastened as separate wood/metal strips. The
-reasoning was that a steel-plate bottom would be tougher than a glassed
-plywood one while also freeing up the water ballast tank's volume for
-storage, since the steel plate's own weight could substitute for some or all
-of the removed ballast. No answer or build using this specific bottom-only
-approach — as distinct from the whole-hull steel proposals above — is
-recorded on the list.[118]
+A separate, narrower variant of the steel idea proposed skipping the plans' fiberglass-and-epoxy bottom layup entirely: a single **welded steel bottom plate**, with the [chine runners](/chine-runners/how-they-work.md) welded directly onto it rather than fastened as separate wood/metal strips. The reasoning was that a steel-plate bottom would be tougher than a glassed plywood one while also freeing up the water ballast tank's volume for storage, since the steel plate's own weight could substitute for some or all of the removed ballast. No answer or build using this specific bottom-only approach — as distinct from the whole-hull steel proposals above — is recorded on the list.[118]
 
 ## Composite wood/steel hulls, and steel's fabrication practicalities
 
-A **composite wood-and-steel hull** is a further variant worth noting — for
-example, a steel centerboard and trunk attached to an otherwise wood hull, if
-the hull were designed around it from the start. Two open questions attach
-to it: whether a welded steel hull needs stress-relief preheating to avoid
-cooling stress, and whether zinc anodes would be needed to prevent
-electrolytic corrosion. Composite iron/wood hulls were commonplace by the
-mid-18th century, and modern warships still pair steel hulls with aluminum
-superstructures — mixed-material hulls are a long-proven approach, not a
-novelty.
+A **composite wood-and-steel hull** is a further variant worth noting — for example, a steel centerboard and trunk attached to an otherwise wood hull, if the hull were designed around it from the start. Two open questions attach to it: whether a welded steel hull needs stress-relief preheating to avoid cooling stress, and whether zinc anodes would be needed to prevent electrolytic corrosion. Composite iron/wood hulls were commonplace by the mid-18th century, and modern warships still pair steel hulls with aluminum superstructures — mixed-material hulls are a long-proven approach, not a novelty.
 
-The welding-stress question has a practical answer from fabrication
-experience: never heat a large area at once — tack a section, move to
-another area, tack it, and build up the structure incrementally. Thin steel
-sheet dissipates heat quickly enough that it does not develop the stress
-thick plate welding can, and it is good practice not to grind welds smooth
-on the hull, since a Paradox-sized boat's sides or bottom could each be
-fabricated as a single unwelded panel, making weld-grinding largely
-unnecessary there.
+The welding-stress question has a practical answer from fabrication experience: never heat a large area at once — tack a section, move to another area, tack it, and build up the structure incrementally. Thin steel sheet dissipates heat quickly enough that it does not develop the stress thick plate welding can, and it is good practice not to grind welds smooth on the hull, since a Paradox-sized boat's sides or bottom could each be fabricated as a single unwelded panel, making weld-grinding largely unnecessary there.
 
-George Buehler's *Buehler's Backyard Boatbuilding* offers a related
-precedent: a boat built in steel to the waterline and in timber above it.
-Incorporating a layer of steel, or even stainless steel, within an otherwise
-ordinary plywood/epoxy layup as impact protection is a further variant on
-the same idea.
+George Buehler's *Buehler's Backyard Boatbuilding* offers a related precedent: a boat built in steel to the waterline and in timber above it. Incorporating a layer of steel, or even stainless steel, within an otherwise ordinary plywood/epoxy layup as impact protection is a further variant on the same idea.
 
-On collision protection specifically, the better approach is probably
-**flexible composite construction**, of the kind Sven Yrvind builds into his
-boats (see below) — but Yrvind's boats take a long time to build, where a
-steel hull could be fabricated in **a couple of days** (hull only, not
-fittings).
+On collision protection specifically, the better approach is probably **flexible composite construction**, of the kind Sven Yrvind builds into his boats (see below) — but Yrvind's boats take a long time to build, where a steel hull could be fabricated in **a couple of days** (hull only, not fittings).
 
 ## Ballast placement: independent of hull material
 
-Whether a steel bottom could substitute for some of Paradox's lead ballast
-turns on how the ballast range is used: Paradox's **70-180 kg** ballast range
-(per sheet 5 of the plans) is not there to cover build-weight variance; it
-exists because ballast must be tuned to whatever stores are aboard for a
-given trip. A steel-bottomed Paradox therefore still needs the same roughly
-**110 kg (240 lb)** of ballast a plywood boat does — swapping the ballast
-material into the hull structure does not remove the need to adjust it trip
-to trip, short of grinding away the bottom to compensate for a heavily
-stored boat.
+Whether a steel bottom could substitute for some of Paradox's lead ballast turns on how the ballast range is used: Paradox's **70-180 kg** ballast range (per sheet 5 of the plans) is not there to cover build-weight variance; it exists because ballast must be tuned to whatever stores are aboard for a given trip. A steel-bottomed Paradox therefore still needs the same roughly **110 kg (240 lb)** of ballast a plywood boat does — swapping the ballast material into the hull structure does not remove the need to adjust it trip to trip, short of grinding away the bottom to compensate for a heavily stored boat.
 
 ## Field welding, and confirmation from real small steel boats
 
-For field repairs away from shore power, a small **oxy/acetylene kit** — no
-larger than a camping propane bottle — would heat 12-gauge (0.10 in) steel
-hot enough to gas-weld. On how small steel construction has actually been
-tried: steel-built boats as small as **9 ft**, multi-chined and not merely
-boxy prams, have cruised Amsterdam's canals — at 14 ft, Paradox is
-"unquestionably suitable for steel construction," reinforcing the
-12-gauge-plus-stringers recommendation over a thicker gauge.
+For field repairs away from shore power, a small **oxy/acetylene kit** — no larger than a camping propane bottle — would heat 12-gauge (0.10 in) steel hot enough to gas-weld. On how small steel construction has actually been tried: steel-built boats as small as **9 ft**, multi-chined and not merely boxy prams, have cruised Amsterdam's canals — at 14 ft, Paradox is "unquestionably suitable for steel construction," reinforcing the 12-gauge-plus-stringers recommendation over a thicker gauge.
 
 Two further practical points on tooling and finishing:
 
-- **Plasma cutters** have become cheap enough that cutting a full set of
-  steel hull plates is "as simple as using a magic marker" — a builder could
-  cut every plate in under an hour once laid out, or pay a muffler shop
-  (most now own a plasma cutter) roughly **$100** for time and consumables to
-  do it for them; sheet steel itself is available locally.
-- **Finishing steel does not require epoxy topcoats.** Most steel-boat
-  fabricators instead use ordinary **red oxide primer** under a reasonable
-  quality paint.
+- **Plasma cutters** have become cheap enough that cutting a full set of steel hull plates is "as simple as using a magic marker" — a builder could cut every plate in under an hour once laid out, or pay a muffler shop (most now own a plasma cutter) roughly **$100** for time and consumables to do it for them; sheet steel itself is available locally.
+- **Finishing steel does not require epoxy topcoats.** Most steel-boat fabricators instead use ordinary **red oxide primer** under a reasonable quality paint.
 
-A related correction on the reference precedent: the Phil Bolger steel
-solo-circumnavigator design actually calls for **1/8 in** plate, not 3/16
-in, which Bolger claims comes out equal in weight to **1.5 in mahogany** —
-leaving open, unanswered on record, weight estimates using 0.10 in plate
-with steel tubing for the chines and deck beams/clamps, and whether such a
-thin plate would be prone to oil-canning on the bottom or would need to run
-heavier there instead.
+A related correction on the reference precedent: the Phil Bolger steel solo-circumnavigator design actually calls for **1/8 in** plate, not 3/16 in, which Bolger claims comes out equal in weight to **1.5 in mahogany** — leaving open, unanswered on record, weight estimates using 0.10 in plate with steel tubing for the chines and deck beams/clamps, and whether such a thin plate would be prone to oil-canning on the bottom or would need to run heavier there instead.
 
-The draw to unconventional construction fits the design's own origin story:
-Matt Layden broke the conventional rules to create Paradox in the first
-place, unencumbered by them in his creativity and thinking — the same
-iconoclastic spirit recognized in Sven Yrvind and Phil Bolger.
+The draw to unconventional construction fits the design's own origin story: Matt Layden broke the conventional rules to create Paradox in the first place, unencumbered by them in his creativity and thinking — the same iconoclastic spirit recognized in Sven Yrvind and Phil Bolger.
 
 ## Whether a steel hull frees up any of the lead ballast at all
 
-The same ballast question resurfaces from a different angle: does building
-the hull bottom itself from steel mean *less* lead ballast is needed
-overall, since the steel structure is itself dense? The reasoning: if any
-lead is still carried for short trips, then at least some of that ballast
-could be incorporated into the hull structure itself, as long as the boat's
-trim and center of gravity stay where the design intends.
+The same ballast question resurfaces from a different angle: does building the hull bottom itself from steel mean *less* lead ballast is needed overall, since the steel structure is itself dense? The reasoning: if any lead is still carried for short trips, then at least some of that ballast could be incorporated into the hull structure itself, as long as the boat's trim and center of gravity stay where the design intends.
 
-Real-world ballast data, from having built and sailed
-"[Little Jim](/boats/little-jim.md)," answers the question directly: her
-builder weighed the hull before launching and added lead to reach the design
-displacement of **640 kg**, and found that **shifting that lead around had a
-significant effect on handling** — moving it allowed proper tacking and
-straight tracking to be dialed in. For short trips the ballast could probably
-stay unchanged regardless of hull material, but the design rule of thumb is
-that **for every pound of stores added, a pound of lead should come out** —
-a rule that matters more for anyone planning long (e.g. three-month Bahamas)
-trips than for most builders' shorter outings. Little Jim's own ballast was
-in practice never adjusted this way, with no ill effects over a longest trip
-of six days (not fully provisioned for that long).
+Real-world ballast data from "[Little Jim](/boats/little-jim.md)" answers the question directly: the hull was weighed before launching and lead added to reach the design displacement of **640 kg**, and **shifting that lead around had a significant effect on handling** — moving it allowed proper tacking and straight tracking to be dialed in. For short trips the ballast could probably stay unchanged regardless of hull material, but the design rule of thumb is that **for every pound of stores added, a pound of lead should come out** — a rule that matters more for anyone planning long (e.g. three-month Bahamas) trips than for most builders' shorter outings. Little Jim's own ballast was in practice never adjusted this way, with no ill effects over a longest trip of six days (not fully provisioned for that long).
 
 ## Fabricating steel chine logs and sheer clamps: two curves at once
 
-A separate practical question tested whether steel could actually reproduce
-Paradox's compound-curved structural members, not just her flat panels. The
-mild-steel recommendation (plain 1020/1018 stock — the "regular, run of the
-mill" sheet and tubing a local plant turns out, not an aircraft-grade
-chrome/moly alloy) has to answer for the **chine logs**, and to a lesser
-degree the **sheer clamps**, which curve in **two planes at once** —
-sweeping outward then inward and upward again from stern to bow. In wood,
-the logs and clamps are beveled after fitting, to match the bottom panel and
-the deck's camber; whether **1 in square steel tubing** could be bent into
-fair, consistent curves on both sides while still carrying all the welded
-bulkhead framing, whether the beveling step disappears entirely in steel,
-and whether the cambered deck beams themselves would end up wood or metal
-were all open questions.
+A separate practical question tested whether steel could actually reproduce Paradox's compound-curved structural members, not just her flat panels. The mild-steel recommendation (plain 1020/1018 stock — the "regular, run of the mill" sheet and tubing a local plant turns out, not an aircraft-grade chrome/moly alloy) has to answer for the **chine logs**, and to a lesser degree the **sheer clamps**, which curve in **two planes at once** — sweeping outward then inward and upward again from stern to bow. In wood, the logs and clamps are beveled after fitting, to match the bottom panel and the deck's camber; whether **1 in square steel tubing** could be bent into fair, consistent curves on both sides while still carrying all the welded bulkhead framing, whether the beveling step disappears entirely in steel, and whether the cambered deck beams themselves would end up wood or metal were all open questions.
 
-The "built in a couple of hours" claim above referred only to the **basic
-hull**, not the whole project; the compound curves are practical in steel:
-**thin-walled tubing bends easily with a torch** — tack a short length, move
-along, heat and bend the next section, tack again, and repeat down the
-length of the log or clamp. **Round thin-wall tubing**, not just square,
-could be substituted for the chine logs and sheer clamps specifically to
-get a smoother, more consistent sweeping arc where the double curvature is
-tightest; **angle iron** would work just as well and would be easy to
-conform to the same curves.
+The "built in a couple of hours" claim above referred only to the **basic hull**, not the whole project; the compound curves are practical in steel: **thin-walled tubing bends easily with a torch** — tack a short length, move along, heat and bend the next section, tack again, and repeat down the length of the log or clamp. **Round thin-wall tubing**, not just square, could be substituted for the chine logs and sheer clamps specifically to get a smoother, more consistent sweeping arc where the double curvature is tightest; **angle iron** would work just as well and would be easy to conform to the same curves.
 
 ## A stitch-and-glue composite cabin top as a steel-hull companion idea
 
-A complementary idea for a **metal-hulled Paradox's cabin top and deck**:
-build them as a **stitch-and-glue composite one-piece unit**, bedded onto
-the frame and bulkheads on epoxy with tabs, for a stronger and more buoyant
-top than a built-up panel. The layup: thin plywood — door-skin gauge —
-sandwiched over foam board with epoxy, comparable to **cold-molded
-construction "ala Sven"** (see
-[the "BRIS Paradox"](/boats/bris-paradox.md) for Sven Yrvind's own
-foam-sandwich composite method), with rubber window molding of a kind
-already proven on a stitch-and-glue power boat. No follow-up or build using
-the idea exists on record.
+A complementary idea for a **metal-hulled Paradox's cabin top and deck**: build them as a **stitch-and-glue composite one-piece unit**, bedded onto the frame and bulkheads on epoxy with tabs, for a stronger and more buoyant top than a built-up panel. The layup: thin plywood — door-skin gauge — sandwiched over foam board with epoxy, comparable to **cold-molded construction "ala Sven"** (see [the "BRIS Paradox"](/boats/bris-paradox.md) for Sven Yrvind's own foam-sandwich composite method), with rubber window molding of a kind already proven on a stitch-and-glue power boat. No follow-up or build using the idea exists on record.
 
 ## A real-world precedent: small steel dinghies on European canals
 
-A **9 ft steel dinghy** — a Dutch design used as a tender for motor barges —
-is a common sight on the Rhine and Danube and throughout Holland, where
-small steel boatbuilding is itself a common trade; its fair curves imply
-jig-built construction over thin metal. By contrast, most fishing skiffs of
-that size elsewhere are riveted **aluminum**, built the same way, and — by
-report — not particularly strong, prone to springing leaks on striking a
-rock.
+A **9 ft steel dinghy** — a Dutch design used as a tender for motor barges — is a common sight on the Rhine and Danube and throughout Holland, where small steel boatbuilding is itself a common trade; its fair curves imply jig-built construction over thin metal. By contrast, most fishing skiffs of that size elsewhere are riveted **aluminum**, built the same way, and not particularly strong, prone to springing leaks on striking a rock.
 
 ## Why Paradox itself may not need steel: plywood/glass toughness and rock protection
 
-The steel-dinghy precedent draws a construction parallel to **whitewater
-canoes** rather than riveted aluminum skiffs: Sven Yrvind's Bris design is
-essentially a large whitewater canoe with a daggerboard, rudder, and sail,
-built the way nearly all whitewater canoes are — a **foam core under an
-extremely tough, flexible coating** (Royalex
-being the most popular commercial version).
+The steel-dinghy precedent draws a construction parallel to **whitewater canoes** rather than riveted aluminum skiffs: Sven Yrvind's Bris design is essentially a large whitewater canoe with a daggerboard, rudder, and sail, built the way nearly all whitewater canoes are — a **foam core under an extremely tough, flexible coating** (Royalex being the most popular commercial version).
 
-Applying that comparison to Paradox specifically: a well-built
-plywood Paradox is likely **stronger than most fiberglass boats her size**:
-good-quality plywood, properly encapsulated in glass and epoxy, is
-exceptionally tough and abrasion-resistant, and the shape of her bottom means
-most impacts land as glancing blows rather than direct hits. Paradox is
-unlikely to be holed by anything she might strike at hull speed, with her
-[chine runners](/chine-runners/how-they-work.md) offering
-further protection. For builders expecting heavy gravel or rock contact, the
-menu of bottom-toughening options ranges from thicker plywood to an extra
-layer of polyester cloth, to a **sacrificial keel strip** (hardwood, or an
-iron shoe) or, more elaborately, a bottom layer of polyester cloth with
-**carbon powder** added — a treatment used on whitewater cedar-strip canoes
-that, on a boat built this way by a professional Northern Saskatchewan guide
-who ran rock-filled rivers all summer, would not even scratch on sharp
-rocks. All these options trade off against the added weight and hassle they
-bring when moving the boat on land.
+Applying that comparison to Paradox specifically: a well-built plywood Paradox is likely **stronger than most fiberglass boats her size**: good-quality plywood, properly encapsulated in glass and epoxy, is exceptionally tough and abrasion-resistant, and the shape of her bottom means most impacts land as glancing blows rather than direct hits. Paradox is unlikely to be holed by anything she might strike at hull speed, with her [chine runners](/chine-runners/how-they-work.md) offering further protection. For builders expecting heavy gravel or rock contact, the menu of bottom-toughening options ranges from thicker plywood to an extra layer of polyester cloth, to a **sacrificial keel strip** (hardwood, or an iron shoe) or, more elaborately, a bottom layer of polyester cloth with **carbon powder** added — a treatment used on whitewater cedar-strip canoes that, on a boat built this way by a professional Northern Saskatchewan guide who ran rock-filled rivers all summer, would not even scratch on sharp rocks. All these options trade off against the added weight and hassle they bring when moving the boat on land.
 
 ## A builder's case against steel, on design-philosophy grounds
 
-The strongest case on record **against** building or commissioning a steel
-Paradox argues from the design's founding premise rather than from
-engineering specifics: Paradox's whole point is that she can be built by
-**anyone with low woodworking skills**, and steel — while stronger — adds
-design and fabrication problems that work against that premise. The
-[chine runners'](/chine-runners/construction.md) shape is
-hard to reproduce faithfully in steel or wood alike; how a round-tubed steel
-chine edge with welded sheet steel could be faired without filler, and
-whether a wooden deck could be reliably fitted to a steel hull even by
-professional builders, are both doubtful. Since [Matt
-Layden](/matt-layden/biography.md) has already sailed Paradox thousands of
-miles and the boat is "good for lots more," a plywood hull with an extra
-layer of cloth on the bottom is all the added toughness most builders need.
+The strongest case on record **against** building or commissioning a steel Paradox argues from the design's founding premise rather than from engineering specifics: Paradox's whole point is that she can be built by **anyone with low woodworking skills**, and steel — while stronger — adds design and fabrication problems that work against that premise. The [chine runners'](/chine-runners/construction.md) shape is hard to reproduce faithfully in steel or wood alike; how a round-tubed steel chine edge with welded sheet steel could be faired without filler, and whether a wooden deck could be reliably fitted to a steel hull even by professional builders, are both doubtful. Since [Matt Layden](/matt-layden/biography.md) has already sailed Paradox thousands of miles and the boat is "good for lots more," a plywood hull with an extra layer of cloth on the bottom is all the added toughness most builders need.
 
-The countervailing view: steel poses challenges but "no more so than in
-wood," and the choice between them is a matter of personal preference rather
-than one material being objectively right — a fear of experimenting with
-design changes would have left boatbuilders "still using coracles."
-Builders considering steel are pointed toward **www.fairmetalboats.com**,
-specifically its material on finishing, coating, and fairing. Between them,
-these two positions frame the steel debate's two poles: fidelity to
-Paradox's low-skill-buildability premise versus steel as simply another
-valid material choice for an experienced or willing builder — a division
-the archive does not resolve either way.
+The countervailing view: steel poses challenges but "no more so than in wood," and the choice between them is a matter of personal preference rather than one material being objectively right — a fear of experimenting with design changes would have left boatbuilders "still using coracles." Builders considering steel are pointed toward **www.fairmetalboats.com**, specifically its material on finishing, coating, and fairing. Between them, these two positions frame the steel debate's two poles: fidelity to Paradox's low-skill-buildability premise versus steel as simply another valid material choice for an experienced or willing builder — a division the archive does not resolve either way.
 
 ## The design-philosophy objection escalates into a personal dispute
 
-The design-philosophy objection (above) did not end the thread — it
-reignited it, sharpening into a direct challenge to a steel-minded builder's
-competence: someone who cannot read a chart or spot a hazard a hundred yards
-off has no business building a boat at all, coastal cruiser or not, and
-should "take up golf or buy a white stick." That builder read it as a jab at
-his own seamanship and hit back in kind — posting a link to a UK charity for
-the blind (`whitestick.co.uk`) with the line "Thats not nice Jeff" — while
-still declining to withdraw his own technical points about the chine
-runners, round-tubed edges, and wooden decks on steel hulls.
+The design-philosophy objection (above) did not end the thread — it reignited it, sharpening into a direct challenge to a steel-minded builder's competence: someone who cannot read a chart or spot a hazard a hundred yards off has no business building a boat at all, coastal cruiser or not, and should "take up golf or buy a white stick." That was read as a jab at seamanship and answered in kind — a link to a UK charity for the blind (`whitestick.co.uk`) with the line "Thats not nice" — while still declining to withdraw the technical points about the chine runners, round-tubed edges, and wooden decks on steel hulls.
 
-The "white stick" jab escalated into a broader jibe: people with 20/20
-vision who need a boat "built like a brick out house" to
-go bashing into things, rather than simply sailing a true course, did not
-need steel so much as better seamanship. The actual technical questions
-were nonetheless answered in more detail than the opening post had given:
-distinguishing sailing in fog from navigating anywhere near it; disagreeing
-that a Bruce Roberts steel design validates a steel Paradox, since Roberts
-draws large-displacement boats with steel decks, a different proposition
-from Paradox's scale; and — pointedly — observing that if steel really were
-the better material, Matt Layden would have built his own Paradox in it
-rather than plywood.
+The "white stick" jab escalated into a broader jibe: people with 20/20 vision who need a boat "built like a brick out house" to go bashing into things, rather than simply sailing a true course, did not need steel so much as better seamanship. The actual technical questions were nonetheless answered in more detail than the opening post had given: distinguishing sailing in fog from navigating anywhere near it; disagreeing that a Bruce Roberts steel design validates a steel Paradox, since Roberts draws large-displacement boats with steel decks, a different proposition from Paradox's scale; and — pointedly — that if steel really were the better material, Matt Layden would have built his own Paradox in it rather than plywood.
 
-The substantive reply to the challenge: an active plan to build one Paradox
-in wood and a second in steel (undecided which to build first), rejecting
-the idea that steel interest implied a lack of woodworking skill, and
-defending the fabrication specifics already given — filling chine-runner
-joints with brazing rod rather than welding rod, using wire-fed rather than
-stick-rod filler as the cheaper and more professional choice — while
-reasoning that Layden's choice of plywood likely reflected cost and
-familiarity rather than any verdict against steel. The whole debate is
-exactly what a *Paradox builders* forum is for — a range of construction
-approaches discussed "in a civil laid back fashion," though "some find it
-interesting... some do not."
+The substantive reply to the challenge: an active plan to build one Paradox in wood and a second in steel (undecided which to build first), rejecting the idea that steel interest implied a lack of woodworking skill, and defending the fabrication specifics already given — filling chine-runner joints with brazing rod rather than welding rod, using wire-fed rather than stick-rod filler as the cheaper and more professional choice — while reasoning that Matt Layden's choice of plywood likely reflected cost and familiarity rather than any verdict against steel. The whole debate is exactly what a *Paradox builders* forum is for — a range of construction approaches discussed "in a civil laid back fashion," though "some find it interesting... some do not."
 
-Attempts at dry humor ("arguing blondes versus brunettes") didn't defuse the
-exchange. A separate, calmer objection to the whole debate's premise:
-Paradox is designed in wood/epoxy, not steel, and if a steel Paradox were
-wanted, the honest thing would be to build one and report back rather than
-keep arguing about it in the abstract — the design is a "silk purse" in
-boating terms, "why does everyone seem to want to turn it into a sow's
-ear?" This, too, seconded the view that steel poses no more challenge than
-wood. The steel question was not raised again in this thread; it ended
-unresolved, with the design-philosophy objection and the personal-choice
-rebuttal both still standing.
+Attempts at dry humor ("arguing blondes versus brunettes") didn't defuse the exchange. A separate, calmer objection to the whole debate's premise: Paradox is designed in wood/epoxy, not steel, and if a steel Paradox were wanted, the honest thing would be to build one and report back rather than keep arguing about it in the abstract — the design is a "silk purse" in boating terms, "why does everyone seem to want to turn it into a sow's ear?" This, too, seconded the view that steel poses no more challenge than wood. The steel question was not raised again in this thread; it ended unresolved, with the design-philosophy objection and the personal-choice rebuttal both still standing.
 
 ## Why practical steel boatbuilding starts around 25 feet, not 14
 
-Commercial steel-boat plan sellers offer a real-world data point against a
-steel Paradox: **www.fairmetalboats.com** sells no steel design smaller than
-**25 feet with over 5 tons displacement**, while its smallest plywood plans
-run to 10 feet — and the site treats sandblasting and welding quality as
-demanding specialist expertise beyond an average DIY welder's, a standard
-attributable partly to the seller's own warranty and liability concerns
-rather than pure engineering necessity. The 25-foot threshold matches **Phil
-Bolger**'s published view that 25 feet is the practical minimum for a
-serious offshore steel design: below that size, scantlings must run lighter,
-and the risk of welding distortion and unfair hull shapes rises sharply
-unless the builder has access to expensive jigs and welding machinery. A
-small steel sailboat also has to devote disproportionate storage space to
-flotation, on top of the ballast needed for performance, self-righting, and
-self-rescue — space a boat Paradox's size can less afford to give up. Taken
-together, steel construction scales favorably to boats considerably larger
-than Paradox, even though it may be objectively stronger than plywood at any
-size; a very small steel sailboat instead risks becoming "basically a
-floating buoy."
+Commercial steel-boat plan sellers offer a real-world data point against a steel Paradox: **www.fairmetalboats.com** sells no steel design smaller than **25 feet with over 5 tons displacement**, while its smallest plywood plans run to 10 feet — and the site treats sandblasting and welding quality as demanding specialist expertise beyond an average DIY welder's, a standard attributable partly to the seller's own warranty and liability concerns rather than pure engineering necessity. The 25-foot threshold matches **Phil Bolger**'s published view that 25 feet is the practical minimum for a serious offshore steel design: below that size, scantlings must run lighter, and the risk of welding distortion and unfair hull shapes rises sharply unless the builder has access to expensive jigs and welding machinery. A small steel sailboat also has to devote disproportionate storage space to flotation, on top of the ballast needed for performance, self-righting, and self-rescue — space a boat Paradox's size can less afford to give up. Taken together, steel construction scales favorably to boats considerably larger than Paradox, even though it may be objectively stronger than plywood at any size; a very small steel sailboat instead risks becoming "basically a floating buoy."
 
-A related correction to an over-general claim that designers like Phil
-Bolger are indifferent to which material a builder substitutes: by direct
-account, Bolger gets noticeably upset when builders change a design's
-scantlings, and withdraws his usual free follow-up plan support from anyone
-straying from the drawn plans — unless the change is a clear improvement, in
-which case he "showers" the builder with praise; he does not mind small
-increases in weight or flotation. Bolger's own steel design, the
-solo-circumnavigator **COL H.G. HASLER**, is a case in point: Bolger and his
-engineer wife regard it as a breakthrough design for single-handed
-circumnavigation, Bolger was weighing redrawing it for plywood construction
-(shelved for lack of time), and he expressed real disappointment that no one
-had yet built it in steel
-given the extensive design work he put into it.
+A related correction to an over-general claim that designers like Phil Bolger are indifferent to which material a builder substitutes: Bolger gets noticeably upset when builders change a design's scantlings, and withdraws his usual free follow-up plan support from anyone straying from the drawn plans — unless the change is a clear improvement, in which case he "showers" the builder with praise; he does not mind small increases in weight or flotation. Bolger's own steel design, the solo-circumnavigator **COL H.G. HASLER**, is a case in point: Bolger and his engineer wife regard it as a breakthrough design for single-handed circumnavigation, Bolger was weighing redrawing it for plywood construction (shelved for lack of time), and he expressed real disappointment that no one had yet built it in steel given the extensive design work he put into it.
 
 ## A stitch-and-glue Paradox as steel's practical alternative
 
-With the steel debate settled without resolution, **William Longyard**
-reframed the whole discussion around a simpler premise: material choice
-should not be controversial at all, since **plans-built (plywood), stitch-
-and-glue, or steel would all work fine because the underlying Paradox design
-is sound** — a view he extended to ferro-cement or even animal hides,
-noting that established designers **Phil Bolger, Paul Fisher, and Jay
-Benford** have all offered plans letting builders pick their own building
-material to suit their needs or preferences. He then proposed **stitch-and-
-glue** specifically as a concrete alternative to a steel Paradox.
+With the steel debate settled without resolution, the whole discussion was reframed around a simpler premise: material choice should not be controversial at all, since **plans-built (plywood), stitch-and-glue, or steel would all work fine because the underlying Paradox design is sound** — a view extended to ferro-cement or even animal hides, noting that established designers **Phil Bolger, Paul Fisher, and Jay Benford** have all offered plans letting builders pick their own building material to suit their needs or preferences. **Stitch-and-glue** was then proposed specifically as a concrete alternative to a steel Paradox.
 
-S&G is a viable Paradox construction method and, in some respects, more
-modern than traditional plywood-on-frame building; **monocoque** construction
-has also been discussed as a possibility. A further combination floated on
-top of it: a stitch-and-glue Paradox fitted with **bilge keels**, a
-**Chinese lug rig/yawl/soft-wing sail**, and a **carbon-fiber tabernacled
-mast** — each idea had been discussed individually before, "but why not
-combine them into one!" Bilge keels drew skepticism, but a **carbon-fiber
-crow's nest** was judged to have possibilities.
+S&G is a viable Paradox construction method and, in some respects, more modern than traditional plywood-on-frame building; **monocoque** construction has also been discussed as a possibility. A further combination floated on top of it: a stitch-and-glue Paradox fitted with **bilge keels**, a **Chinese lug rig/yawl/soft-wing sail**, and a **carbon-fiber tabernacled mast** — each idea had been discussed individually before, "but why not combine them into one!" Bilge keels drew skepticism, but a **carbon-fiber crow's nest** was judged to have possibilities.
 
 ## Stretching the cabin top and sizing windows for open-water use
 
-Carrying the stitch-and-glue idea into concrete cabin design: stretching the
-plans' default cabin top forward while leaving the after end unchanged (it
-doubles as an entry point from the water) raises the question of how to size
-and place windows for a more "open water capable" boat — including whether
-there is a good reason *not* to add windows forward of the existing ones, up
-to about the mast, given wind load and added buoyancy as possible
-objections.
+Carrying the stitch-and-glue idea into concrete cabin design: stretching the plans' default cabin top forward while leaving the after end unchanged (it doubles as an entry point from the water) raises the question of how to size and place windows for a more "open water capable" boat — including whether there is a good reason *not* to add windows forward of the existing ones, up to about the mast, given wind load and added buoyancy as possible objections.
 
-Practical experience refitting a Siren 17 answers the sizing question:
-thicker window material is not the best fix, since **windows do get stove
-in** regardless of thickness (Kenichi Horie's own stove-in-window story is a
-case in point). The better approach is **several smaller windows rather than
-a few large ones** — three per side rather than one long run — so a single
-strike does not take out the whole window area at once ("not have all my
-eggs in one basket"). Where a design does keep long windows, aluminum angle
-support brackets fitted to the inside, above and below the window, with a
-strip of rubber between the plexiglass and the angle to absorb shock
-loading, add real protection. Smaller windows are the more practical choice
-regardless of material, since they are also easier and cheaper to repair or
-replace, and a spare pane or two is simpler to carry and stow.
+Practical experience refitting a Siren 17 answers the sizing question: thicker window material is not the best fix, since **windows do get stove in** regardless of thickness (Kenichi Horie's own stove-in-window story is a case in point). The better approach is **several smaller windows rather than a few large ones** — three per side rather than one long run — so a single strike does not take out the whole window area at once ("not have all my eggs in one basket"). Where a design does keep long windows, aluminum angle support brackets fitted to the inside, above and below the window, with a strip of rubber between the plexiglass and the angle to absorb shock loading, add real protection. Smaller windows are the more practical choice regardless of material, since they are also easier and cheaper to repair or replace, and a spare pane or two is simpler to carry and stow.
 
-A materials note from Phil Bolger: some modern window plastics are
-**literally stronger than steel**, so a stove-in window may say more about
-how it was fastened to the cabin than about the plastic's own strength. The
-traditional rationale for small blue-water windows versus a coaster's larger
-portholes: portholes are a structurally weak point in the hull, and offshore
-boats accept smaller ones as the price of being farther from rescue, while
-coastal boats can risk bigger ones. A storm-repair technique for a stove-in
-porthole: keep a stock of wood/plywood blanks cut to fit the porthole "on
-the diagonal" (across the round opening), held against the *outside* of the
-cabin by a long screw from the blank's center through the porthole,
-tightened from inside with a wooden cross-brace and a big wing nut — with a
-strip of old bicycle inner tube on the blank's inner face to seal it against
-the porthole's flange. **Oval portholes** suit this repair method especially
-well for a single-hander, and it is a reasonably fast underway repair.
+A materials note: some modern window plastics are **literally stronger than steel**, so a stove-in window may say more about how it was fastened to the cabin than about the plastic's own strength. The traditional rationale for small blue-water windows versus a coaster's larger portholes: portholes are a structurally weak point in the hull, and offshore boats accept smaller ones as the price of being farther from rescue, while coastal boats can risk bigger ones. A storm-repair technique for a stove-in porthole: keep a stock of wood/plywood blanks cut to fit the porthole "on the diagonal" (across the round opening), held against the *outside* of the cabin by a long screw from the blank's center through the porthole, tightened from inside with a wooden cross-brace and a big wing nut — with a strip of old bicycle inner tube on the blank's inner face to seal it against the porthole's flange. **Oval portholes** suit this repair method especially well for a single-hander, and it is a reasonably fast underway repair.
 
-Bolger's own porthole designs extend the idea further: in some of his
-designs the plastic pane is cut larger than the opening and bolted to the
-*outside* over a gasket; a belt-and-suspenders version adds a second, inner
-layer of clear or plywood panels held by wing nuts on the same bolts'
-extended ends, which also improves insulation and cuts condensation and
-noise. Bolger's **"Wiley window"** design opens for ventilation while still
-keeping out spray, and his separate **"Birdwatcher top"** — a cabin-top
-shape that catches the sail's downdraft and funnels it into the cabin for
-ventilation — is best illustrated by the **JOCHEMS schooner**.
+Phil Bolger's own porthole designs extend the idea further: in some of his designs the plastic pane is cut larger than the opening and bolted to the *outside* over a gasket; a belt-and-suspenders version adds a second, inner layer of clear or plywood panels held by wing nuts on the same bolts' extended ends, which also improves insulation and cuts condensation and noise. Bolger's **"Wiley window"** design opens for ventilation while still keeping out spray, and his separate **"Birdwatcher top"** — a cabin-top shape that catches the sail's downdraft and funnels it into the cabin for ventilation — is best illustrated by the **JOCHEMS schooner**.
 
 ## A raised cabin, canopy, and cockpit-height ideas
 
-Separate from the steel/stitch-and-glue material debate, several ways to
-gain more headroom and interior volume on a stock-wood build have been
-proposed: extending the cabin top forward over the forward stateroom,
-stepping up the aft cockpit/hatch area to raise the helmsman's seat and give
-a bit more room, or fitting a **raised plexiglass dome** over the forward
-stateroom — alongside a **P-51-style sliding cockpit canopy** as a further
-option.
+Separate from the steel/stitch-and-glue material debate, several ways to gain more headroom and interior volume on a stock-wood build have been proposed: extending the cabin top forward over the forward stateroom, stepping up the aft cockpit/hatch area to raise the helmsman's seat and give a bit more room, or fitting a **raised plexiglass dome** over the forward stateroom — alongside a **P-51-style sliding cockpit canopy** as a further option.
 
-A raised, glazed cockpit canopy is not a novel idea in fast hard-chine hull
-design — the **F-16 fighter's safety canopy** has been adapted for use on
-unlimited hydroplane racing boats for close to twenty years, relevant to
-Paradox as "close cousins" on the strength of the shared chine-runner
-hydrodynamic-fence principle (see [chine runners — how they
-work](/chine-runners/how-they-work.md)); racer Ron Jones's adoption of the
-F-16 canopy is the precedent for the idea.
+A raised, glazed cockpit canopy is not a novel idea in fast hard-chine hull design — the **F-16 fighter's safety canopy** has been adapted for use on unlimited hydroplane racing boats for close to twenty years, relevant to Paradox as "close cousins" on the strength of the shared chine-runner hydrodynamic-fence principle (see [chine runners — how they work](/chine-runners/how-they-work.md)); racer Ron Jones's adoption of the F-16 canopy is the precedent for the idea.
 
-The clearest design-tradeoff case against simply raising the roof or cabin
-top for more headroom: the preferred route to more interior height is
-**lowering the floor** rather than raising the structure above it, since a
-higher head position forces the boom to be set higher too, which in turn
-calls for either a smaller sail or a taller mast — and a taller mast will
-not stow inside the boat for trailering, while also raising the sail's
-center of pressure. None of this may matter in practice; reaching the stage
-where "the bottom goes on" is when a build
-first starts to feel like a real boat. A countervailing note: lowering the
-floor cuts into water-tank capacity, and keeping the mast low enough to stow
-"over" the boat rather than inside it is a firm preference for some
-builders — making a **stretched-length Paradox** (see [stretched
-Paradox](/design/variants/stretched-paradox.md)) probably the better answer
-to wanting more room than any single-cabin modification. No raised-cabin,
-dome, or canopy modification is recorded as having actually been built.
+The clearest design-tradeoff case against simply raising the roof or cabin top for more headroom: the preferred route to more interior height is **lowering the floor** rather than raising the structure above it, since a higher head position forces the boom to be set higher too, which in turn calls for either a smaller sail or a taller mast — and a taller mast will not stow inside the boat for trailering, while also raising the sail's center of pressure. None of this may matter in practice; reaching the stage where "the bottom goes on" is when a build first starts to feel like a real boat. A countervailing note: lowering the floor cuts into water-tank capacity, and keeping the mast low enough to stow "over" the boat rather than inside it is a firm preference for some builders — making a **stretched-length Paradox** (see [stretched Paradox](/design/variants/stretched-paradox.md)) probably the better answer to wanting more room than any single-cabin modification. No raised-cabin, dome, or canopy modification is recorded as having actually been built.
 
 ## A welded-aluminum hull with an inflatable collar
 
-Independent of the stitch-and-glue/steel discussion, a different hybrid
-construction idea has been floated: a **welded aluminum hull**, **wood-and-
-epoxy topsides**, and a **large inflatable hypalon ring running the full
-gunwale**, in the manner of a rigid inflatable boat (RIB) — real-world
-examples exist at `working-boats.co.uk` and among other alternate-material
-small-boat designs, but no Paradox or near-sister has been built to this
-combination. Whether such a departure belongs on a *Paradox builders* forum
-at all was itself debated inconclusively; the idea remains undeveloped and
-unbuilt.
+Independent of the stitch-and-glue/steel discussion, a different hybrid construction idea has been floated: a **welded aluminum hull**, **wood-and-epoxy topsides**, and a **large inflatable hypalon ring running the full gunwale**, in the manner of a rigid inflatable boat (RIB) — real-world examples exist at `working-boats.co.uk` and among other alternate-material small-boat designs, but no Paradox or near-sister has been built to this combination. Whether such a departure belongs on a *Paradox builders* forum at all was itself debated inconclusively; the idea remains undeveloped and unbuilt.
 
-The "Big Cruiser" question — [Matt Layden](/matt-layden/biography.md)'s
-never-finalized stretched/enlarged Paradox concept, first raised in
-February 2003 (see [Matt Layden (biography) — asides and
-footnotes](/matt-layden/biography.md#asides-and-footnotes) and
-[stretched Paradox](/design/variants/stretched-paradox.md)) — resurfaced
-independently around the same time: Matt's own unfinished cartoons for
-stretched/enlarged Paradox versions are held in the `microcruising` Yahoo
-group's files section under a folder named **"Big Cruiser"**
-(`files/Big%20Cruiser/`), which may require group membership to view. The
-stretched/enlarged concept sketched there "would make more sense in steel"
-than in plywood, tying the enlargement question directly back to the
-steel-construction debate above.
+The "Big Cruiser" question — [Matt Layden](/matt-layden/biography.md)'s never-finalized stretched/enlarged Paradox concept, first raised in February 2003 (see [Matt Layden (biography) — asides and footnotes](/matt-layden/biography.md#asides-and-footnotes) and [stretched Paradox](/design/variants/stretched-paradox.md)) — resurfaced independently around the same time: Matt's own unfinished cartoons for stretched/enlarged Paradox versions are held in the `microcruising` Yahoo group's files section under a folder named **"Big Cruiser"** (`files/Big%20Cruiser/`), which may require group membership to view. The stretched/enlarged concept sketched there "would make more sense in steel" than in plywood, tying the enlargement question directly back to the steel-construction debate above.
 
 ## Solid round stock as an alternative to pipe
 
-A fresh fabrication idea, offered as a concrete starting point for
-calculating a steel Paradox's weight: **solid round stock** (about 3/8 in)
-for the chine-runner edge, welded to **3/4 in square-tube frames** under a
-**12-gauge skin**.
+A fresh fabrication idea, offered as a concrete starting point for calculating a steel Paradox's weight: **solid round stock** (about 3/8 in) for the chine-runner edge, welded to **3/4 in square-tube frames** under a **12-gauge skin**.
 
 ## A welded angle-flange framing method, with no water traps
 
-An alternative to the round-stock idea dispenses with tubing altogether: bend the
-frames from **0.10 in plate on a brake** into 2 in x 1 in "L" shapes — the
-long leg forming the web, the short leg the flange — weld the L-shaped
-frames together into a complete frame, then weld the hull skin to the
-outer edge of each flange. The advantage over tube framing is structural
-tidiness rather than strength: an L-flange frame has **no enclosed cavity to
-trap water**, unlike a tube frame's hollow interior. Shop access to a brake
-makes the method practical to try.
+An alternative to the round-stock idea dispenses with tubing altogether: bend the frames from **0.10 in plate on a brake** into 2 in x 1 in "L" shapes — the long leg forming the web, the short leg the flange — weld the L-shaped frames together into a complete frame, then weld the hull skin to the outer edge of each flange. The advantage over tube framing is structural tidiness rather than strength: an L-flange frame has **no enclosed cavity to trap water**, unlike a tube frame's hollow interior. Shop access to a brake makes the method practical to try.
 
 ## Smith's rebuttal: why a steel Paradox would be "a horrible mistake"
 
-[David C. Smith](/people/david-c-smith.md) — the Pacific Northwest professional boatbuilder who had
-shaped the group's designer-fidelity credo months earlier (see [David C. Smith —
-contributions and stories](/people/david-c-smith.md#contributions-and-stories)) — gave
-the fullest single rebuttal in the whole steel debate, arguing point by
-point that building the Paradox lines in steel would be **"a horrible
-mistake":**
+The fullest single rebuttal in the whole steel debate, from a Pacific Northwest professional boatbuilder who had shaped the group's designer-fidelity credo months earlier, argued point by point that building the Paradox lines in steel would be **"a horrible mistake":**
 
-- The design was drawn and calculated specifically for a
-  **plywood/epoxy/glass composite**; while Matt Layden allows building to the
-  Paradox lines in any material a builder wants, he also warns that a
-  different material's center-of-gravity and weight figures must be
-  recalculated from scratch — a step inexperienced builders could easily
-  skip, "arriving at a vessel which tarnishes the design."
-- Sheet steel for the sides would need roughly **five flatbar longitudinals
-  per side** for adequate stiffness — a great deal of welding, and the
-  resulting distortion would demand extensive fairing; those longitudinals
-  would also eat heavily into interior stowage volume, with the same problem
-  repeating on a steel bottom.
-- Every longitudinal would need blasting and finishing and would inevitably
-  **trap water**. A sprayed polyurethane foam ceiling could seal them, at
-  the cost of added weight and installation labor — but once the thin
-  sheetmetal (Paradox's scale implies roughly **auto-body gauge**) takes a
-  dent, as it will, repair means ripping out the ceiling and foam,
-  reblasting and repriming the area, then reinsulating and reinstalling the
-  ceiling before the boat can go back in the water. Foam **board** insulation
-  avoids that teardown but traps condensation against the steel instead, and
-  lacks sprayed foam's structural contribution.
-- **Steel is only as good as its finish.** A grounding on sand, rocks, or an
-  engine block exposes bare steel to corrosion in a way Paradox's specified
-  18 mm plywood bottom, sheathed in three layers of 24 oz roving, simply
-  does not — the plywood/glass layup is "darn near bulletproof" and
-  trivially easy to cosmetically repair by comparison.
-- Metal suits **heavy-displacement monohulls around 30 ft and up**, and
-  cedar or foam-cored epoxy/fabric suits multihulls — but for Paradox and
-  similar small designs, the drawn materials remain the right call. Anyone
-  speculating on an alternate material and geometry before even receiving
-  their plans should consult a yacht designer with steel experience, or look
-  for a design actually intended for small steel construction.
-- The closing counsel, quoting the "silk purse into a sow's ear" line raised
-  elsewhere in the debate: wait for the plans, study them, and read the
-  archives before deciding — "should you decide to proceed with your ill
-  advised route of steel construction, DO THE CALCULATIONS. I won't say that
-  it can't be done, I just question the motivation. Steel construction would
-  not produce a better boat."
+- The design was drawn and calculated specifically for a **plywood/epoxy/glass composite**; while Matt Layden allows building to the Paradox lines in any material a builder wants, he also warns that a different material's center-of-gravity and weight figures must be recalculated from scratch — a step inexperienced builders could easily skip, "arriving at a vessel which tarnishes the design."
+- Sheet steel for the sides would need roughly **five flatbar longitudinals per side** for adequate stiffness — a great deal of welding, and the resulting distortion would demand extensive fairing; those longitudinals would also eat heavily into interior stowage volume, with the same problem repeating on a steel bottom.
+- Every longitudinal would need blasting and finishing and would inevitably **trap water**. A sprayed polyurethane foam ceiling could seal them, at the cost of added weight and installation labor — but once the thin sheetmetal (Paradox's scale implies roughly **auto-body gauge**) takes a dent, as it will, repair means ripping out the ceiling and foam, reblasting and repriming the area, then reinsulating and reinstalling the ceiling before the boat can go back in the water. Foam **board** insulation avoids that teardown but traps condensation against the steel instead, and lacks sprayed foam's structural contribution.
+- **Steel is only as good as its finish.** A grounding on sand, rocks, or an engine block exposes bare steel to corrosion in a way Paradox's specified 18 mm plywood bottom, sheathed in three layers of 24 oz roving, simply does not — the plywood/glass layup is "darn near bulletproof" and trivially easy to cosmetically repair by comparison.
+- Metal suits **heavy-displacement monohulls around 30 ft and up**, and cedar or foam-cored epoxy/fabric suits multihulls — but for Paradox and similar small designs, the drawn materials remain the right call. Anyone speculating on an alternate material and geometry before even receiving their plans should consult a yacht designer with steel experience, or look for a design actually intended for small steel construction.
+- The closing counsel, quoting the "silk purse into a sow's ear" line raised elsewhere in the debate: wait for the plans, study them, and read the archives before deciding — "should you decide to proceed with your ill advised route of steel construction, DO THE CALCULATIONS. I won't say that it can't be done, I just question the motivation. Steel construction would not produce a better boat."
 
-This rebuttal was welcomed as hitting "the nail right on the head," framing
-the underlying choice as a Sharpie-hull tradeoff: a lighter build carrying
-more ballast versus a heavier build carrying less, with a higher center of
-gravity either way. It was also the occasion for laying out **an actual
-build plan**, at last moving the thread from the abstract to the concrete:
-**3/8 in sides**, a **two-layer 1/2 in + 3/8 in bottom**, **solid-shaped,
-screwed-in-place runners**, and main frames built as part of an egg-box
-structure sharing the water tank's longerons — all panels already developed
-out (slightly modified from the plans' originals) and ready for marking on
-the plywood. Epoxy three years old by then is the direct occasion for the
-epoxy-shelf-life reassurance and crystallized-epoxy revival technique
-recorded elsewhere — see [epoxy brands, chemistry, and cure behavior —
-reviving old, crystallized epoxy: a heat trick and a microwave
-mishap](/construction/epoxy-brands-and-chemistry.md#reviving-old-crystallized-epoxy-a-heat-trick-and-a-microwave-mishap).
-A correction to Smith's auto-body comparison followed: most auto-body panels
-run **20-22 gauge** steel, while the **12-gauge (~0.10 in)** proposed for a
-Paradox hull is roughly **three times thicker** — reinforcing, from the
-steel side of the debate, that a properly gauged steel hull is not as
-flimsy or as denting-prone as the auto-body comparison implied.
+This rebuttal was welcomed as hitting "the nail right on the head," framing the underlying choice as a Sharpie-hull tradeoff: a lighter build carrying more ballast versus a heavier build carrying less, with a higher center of gravity either way. It was also the occasion for laying out **an actual build plan**, at last moving the thread from the abstract to the concrete: **3/8 in sides**, a **two-layer 1/2 in + 3/8 in bottom**, **solid-shaped, screwed-in-place runners**, and main frames built as part of an egg-box structure sharing the water tank's longerons — all panels already developed out (slightly modified from the plans' originals) and ready for marking on the plywood. Epoxy three years old by then is the direct occasion for the epoxy-shelf-life reassurance and crystallized-epoxy revival technique recorded elsewhere — see [epoxy brands, chemistry, and cure behavior — reviving old, crystallized epoxy: a heat trick and a microwave mishap](/construction/epoxy-brands-and-chemistry.md#reviving-old-crystallized-epoxy-a-heat-trick-and-a-microwave-mishap). A correction to the auto-body comparison followed: most auto-body panels run **20-22 gauge** steel, while the **12-gauge (~0.10 in)** proposed for a Paradox hull is roughly **three times thicker** — reinforcing, from the steel side of the debate, that a properly gauged steel hull is not as flimsy or as denting-prone as the auto-body comparison implied.
 
-The rebuttal did not go unanswered. Point by point: the trolling suggestion
-was rejected outright, with an offer to prove seriousness; the approach used
-no flatbar longitudinals at all; plywood and dented steel would not differ
-in real-world damage, since both take the same hit from the same force; and
-steel, too, is only as good as its finish, with a white anti-fouling stick
-already sufficient to stop the kind of minor hull damage in question. The
-whole subject was then taken **private** rather than continued publicly —
-the exchange had, by its own account, taught a great deal about the
-boatbuilding community's parameters and personalities, even where the
-friction had not been anticipated.
+The rebuttal did not go unanswered. Point by point: the trolling suggestion was rejected outright, with an offer to prove seriousness; the approach used no flatbar longitudinals at all; plywood and dented steel would not differ in real-world damage, since both take the same hit from the same force; and steel, too, is only as good as its finish, with a white anti-fouling stick already sufficient to stop the kind of minor hull damage in question. The whole subject was then taken **private** rather than continued publicly — the exchange had, by its own account, taught a great deal about the boatbuilding community's parameters and personalities, even where the friction had not been anticipated.
 
-[Glen C. Maxwell](/people/glen-maxwell.md), as list founder, closed the
-"Steel?" thread with a final word of encouragement rather than
-adjudication: the criticism was isolated rather than representative of the
-wider group, and no one intended the pushback as a personal attack — its
-real purpose was **preserving the design** — with the group's position on
-material choice made explicit: whether a Paradox is built in **steel,
-aluminum, foam sandwich, or any other material**, the list wanted to see the
-builder's progress and encouraged continued reporting in. No further
-"Steel?" posts, and no steel-hulled Paradox build by anyone, exist on
-record; the one confirmed real construction outcome from the whole debate
-is a plywood build.
+The list founder closed the "Steel?" thread with a final word of encouragement rather than adjudication: the criticism was isolated rather than representative of the wider group, and no one intended the pushback as a personal attack — its real purpose was **preserving the design** — with the group's position on material choice made explicit: whether a Paradox is built in **steel, aluminum, foam sandwich, or any other material**, the list wanted to see the builder's progress and encouraged continued reporting in. No further "Steel?" posts, and no steel-hulled Paradox build by anyone, exist on record; the one confirmed real construction outcome from the whole debate is a plywood build.
 
 ## Jeff UK's own plywood build: a year lost to weather and scaffolding
 
-By October 2004, a plywood Paradox build had made almost no physical
-progress despite having every material — epoxy and fastenings included — on
-hand from the year's start. A neighbor's roofing
-scaffolding, erected in the passage beside his house for what was meant to
-be five or six weeks starting in April, instead stood for months, with a
-post planted directly outside his basement door blocking him from getting
-his plywood sheets in or out; it finally came down in mid-September after
-several further delays. The next available dry spell let him mark and cut
-two sheets and all eight frames before rain returned and, working under only
-a lean-to, stopped him again; by the time the weather cleared, it had turned
-too cold to use epoxy, pushing the build over to the following year. This is
-the clearest first-person account on record of how ordinary weather and
-neighboring construction work, rather than any design or material problem,
-can stall a Paradox build for a full season.
+By October 2004, a plywood Paradox build had made almost no physical progress despite having every material — epoxy and fastenings included — on hand from the year's start. A neighbor's roofing scaffolding, erected in the passage beside the house for what was meant to be five or six weeks starting in April, instead stood for months, with a post planted directly outside the basement door blocking the plywood sheets from getting in or out; it finally came down in mid-September after several further delays. The next available dry spell allowed marking and cutting two sheets and all eight frames before rain returned and, working under only a lean-to, stopped the work again; by the time the weather cleared, it had turned too cold to use epoxy, pushing the build over to the following year. This is the clearest first-person account on record of how ordinary weather and neighboring construction work, rather than any design or material problem, can stall a Paradox build for a full season.
 
 ## An unrelated foam-hull pitch, unadopted
 
-A separate, unrelated construction method was pitched from outside the
-Paradox community: Chilean boatbuilder **Antonio Bordeu** introduced a
-proprietary **frameless urethane-foam composite** technique (built up in
-inexpensive, easily worked urethane foam for an ultralight hull, without
-conventional internal framing), pointing to his own
-`magallanesboatbuilding.com` site. **Rigid urethane foam** is a common
-construction and insulation-industry material, sold in any store carrying
-fiberglass supplies, and comes as **two liquid components (isocyanate and
-polyol)** that expand through a chemical reaction into rigid foam in under
-15 minutes once combined. The practical sourcing advice: **buy ready-made
-foam plates from a refrigeration-supply company** rather than mix and pour
-the foam from scratch, saving considerable labor for only a modest cost
-premium — though the foam can also be made from scratch, without
-sophisticated equipment, if a refrigeration supplier cannot be found. No
-further follow-up, and no report of a Paradox or near-sister ever being
-built by this method, exists on record — it remains, like the aluminum idea
-above, a one-off outside pitch rather than a documented alternative
-construction path.
+A separate, unrelated construction method was pitched from outside the Paradox community: a proprietary **frameless urethane-foam composite** technique (built up in inexpensive, easily worked urethane foam for an ultralight hull, without conventional internal framing), promoted via a Chilean boatbuilder's `magallanesboatbuilding.com` site. **Rigid urethane foam** is a common construction and insulation-industry material, sold in any store carrying fiberglass supplies, and comes as **two liquid components (isocyanate and polyol)** that expand through a chemical reaction into rigid foam in under 15 minutes once combined. The practical sourcing advice: **buy ready-made foam plates from a refrigeration-supply company** rather than mix and pour the foam from scratch, saving considerable labor for only a modest cost premium — though the foam can also be made from scratch, without sophisticated equipment, if a refrigeration supplier cannot be found. No further follow-up, and no report of a Paradox or near-sister ever being built by this method, exists on record — it remains, like the aluminum idea above, a one-off outside pitch rather than a documented alternative construction path.
 
 ## Epilogue: why materials questions draw pushback, and a belated apology
 
-Once the "Steel?" thread itself had wound down, the debate's underlying
-tension resurfaced from an unrelated angle: why do questions about building
-in something other than plywood so reliably draw pushback, while other
-departures from the plans — stretching the hull, or building in
-stitch-and-glue — pass without complaint? One reading: **Matt Layden himself
-built from whatever was available** to someone with bicycle transport and a
-limited income, arriving at a boat shaped by his own building and cruising
-experience, and that boat can reasonably be altered to suit other builders'
-circumstances in turn — the Southern Hemisphere builds already show minor
-deviations from the stock plans. The "Steel?" thread still offered useful,
-practical advice on steel's pitfalls even so. The debate itself drew a dry
-aside that no one had "ever suspected anyone would be accused of heresy on a
-group dedicated to building an enclosed dinghy."
+Once the "Steel?" thread itself had wound down, the debate's underlying tension resurfaced from an unrelated angle: why do questions about building in something other than plywood so reliably draw pushback, while other departures from the plans — stretching the hull, or building in stitch-and-glue — pass without complaint? One reading: **Matt Layden himself built from whatever was available** to someone with bicycle transport and a limited income, arriving at a boat shaped by his own building and cruising experience, and that boat can reasonably be altered to suit other builders' circumstances in turn — the Southern Hemisphere builds already show minor deviations from the stock plans. The "Steel?" thread still offered useful, practical advice on steel's pitfalls even so. The debate itself drew a dry aside that no one had "ever suspected anyone would be accused of heresy on a group dedicated to building an enclosed dinghy."
 
-The fullest statement on record of design-fidelity philosophy applied
-generally, rather than to steel specifically, holds that the Paradox design
-**"is what it is"** — comparable to reprinting someone else's book under a
-new title without attribution — while granting that many design *details*
-have already been changed by many builders, and that no two Paradoxes, nor
-even any single example and the original prototype, will ever be exactly
-alike. [Matt Layden](/matt-layden/biography.md) framed his own design as **a
-guide rather than a manual**, on the condition that a builder changing
-material or method work out the resulting weights and centers themselves —
-"far more generous" than most designers would be toward departures from
-their work. Surveying the group's build variety at that point — foam-core
-composite (see [the "BRIS Paradox"](/boats/bris-paradox.md)), stitch-and-glue
-plywood, aluminum and steel both under discussion, and named boats
-[Zoë](/boats/zoe.md), [Little Jim](/boats/little-jim.md),
-[Whisper](/boats/whisper.md), RHXII, and Petite Lady each departing from the
-plans to some degree — **the original Paradox alone is "the real
-Paradox,"** with every other example either aspiring toward it or departing
-from it to be judged on its own terms; how large a departure in material,
-geometry, or feature must become before a boat stops being fairly called a
-Paradox at all remains an open question. Builders remain free to build as
-they choose — "ultimately, it's your boat." The materials debate ran, across
-the "Steel?", "Alternative building materials", and related threads, for the
-better part of a week.
+The fullest statement on record of design-fidelity philosophy applied generally, rather than to steel specifically, holds that the Paradox design **"is what it is"** — comparable to reprinting someone else's book under a new title without attribution — while granting that many design *details* have already been changed by many builders, and that no two Paradoxes, nor even any single example and the original prototype, will ever be exactly alike. [Matt Layden](/matt-layden/biography.md) framed his own design as **a guide rather than a manual**, on the condition that a builder changing material or method work out the resulting weights and centers themselves — "far more generous" than most designers would be toward departures from their work. Surveying the group's build variety at that point — foam-core composite (see [the "BRIS Paradox"](/boats/bris-paradox.md)), stitch-and-glue plywood, aluminum and steel both under discussion, and named boats [Zoë](/boats/zoe.md), [Little Jim](/boats/little-jim.md), [Whisper](/boats/whisper.md), RHXII, and Petite Lady each departing from the plans to some degree — **the original Paradox alone is "the real Paradox,"** with every other example either aspiring toward it or departing from it to be judged on its own terms; how large a departure in material, geometry, or feature must become before a boat stops being fairly called a Paradox at all remains an open question. Builders remain free to build as they choose — "ultimately, it's your boat." The materials debate ran, across the "Steel?", "Alternative building materials", and related threads, for the better part of a week.
 
 ## Jack Gardiner's own resolution: a stock wood Paradox first, steel later
 
-One builder's resolution to the whole debate: build a stock, plans-as-drawn
-Paradox in wood first and sail it, then continue toward a steel build only
-if the boat justified it. The stock hull's size does not lend itself as well
-to steel construction as a stretched hull would (a stretched hull gives more
-of a weight "buffer zone"), and construction itself was not the obstacle —
-professional welders were available to help — but a wooden barn workshop and
-winter weather ruled out steel fabrication for the time being, on top of the
-added material, trailer, and rigging requirements already flagged above. The
-outcome: build a Paradox either way, doing the best possible "not to
-bastardize the designer's example" regardless of material.
+One builder's resolution to the whole debate: build a stock, plans-as-drawn Paradox in wood first and sail it, then continue toward a steel build only if the boat justified it. The stock hull's size does not lend itself as well to steel construction as a stretched hull would (a stretched hull gives more of a weight "buffer zone"), and construction itself was not the obstacle — professional welders were available to help — but a wooden barn workshop and winter weather ruled out steel fabrication for the time being, on top of the added material, trailer, and rigging requirements already flagged above. The outcome: build a Paradox either way, doing the best possible "not to bastardize the designer's example" regardless of material.
 
 ## A later tangent: the Gibbs Aquada, and "spray rails" vs. chine runners
 
-Days after the steel debate closed, the **Gibbs Aquada** — a real-world
-amphibious car/boat prototype — drew a brief coda to the whole discussion:
-it appeared to use chine runners despite being built in steel with no mast,
-though the manufacturer's own site described only a "composite"
-construction. The correct terminology: the Aquada's hull features are
-**spray rails, not chine runners** — a different device serving a different
-purpose. The vehicle was priced at roughly £150,000 (about $260,000), enough
-to build a 40-45 ft steel Paradox with a helipad, or so the joke went. The
-counterpoint: heeled over under sail, spray rails would function exactly
-like chine runners in practice. No further technical point was reached; the
-thread closed out in pure banter with no further construction content.
+Days after the steel debate closed, the **Gibbs Aquada** — a real-world amphibious car/boat prototype — drew a brief coda to the whole discussion: it appeared to use chine runners despite being built in steel with no mast, though the manufacturer's own site described only a "composite" construction. The correct terminology: the Aquada's hull features are **spray rails, not chine runners** — a different device serving a different purpose. The vehicle was priced at roughly £150,000 (about $260,000), enough to build a 40-45 ft steel Paradox with a helipad, or so the joke went. The counterpoint: heeled over under sail, spray rails would function exactly like chine runners in practice. No further technical point was reached; the thread closed out in pure banter with no further construction content.
 
-Asked directly, later, whether the earlier steel debate had ever resulted
-in an actual steel-hulled Paradox being built: no completed steel Paradox
-is recorded; the resolution above — build in wood first, defer steel
-indefinitely — is the closest the archive comes to a follow-through, and no
-steel build was ever reported afterward.[115] The bare question — "would it
-be an option to build Paradox in steel?" — recurred once more in 2006 with no
-elaboration and drew no reply on record, the whole prior debate above being
-the closest the archive comes to an answer.[119]
+Asked directly, later, whether the earlier steel debate had ever resulted in an actual steel-hulled Paradox being built: no completed steel Paradox is recorded; the resolution above — build in wood first, defer steel indefinitely — is the closest the archive comes to a follow-through, and no steel build was ever reported afterward.[115] The bare question — "would it be an option to build Paradox in steel?" — recurred once more in 2006 with no elaboration and drew no reply on record, the whole prior debate above being the closest the archive comes to an answer.[119]
 
 ## A second 2006 recurrence, briefly answered
 
-The same bare question recurred again within days, and this time drew two
-short answers rather than none. A sizing reference was offered: Thomas E.
-Colvin's *Steel Boatbuilding* gives a clear-cut method for working out
-scantlings, and — as a starting figure — **1/8 in steel plate weighs about
-5.1 lb per square foot**.[120] Separately, the whole prior debate (above) was
-summed up rather than repeated: the topic had been "well beaten" already,
-the **stock 13'10" length is questionable** for a steel build, but a
-**larger, stretched hull would work out better** — matching the same
-correspondent's own earlier-recorded preference for pursuing steel only on
-an enlarged hull, not the stock size (see [Jack Gardiner's own
-resolution](#jack-gardiners-own-resolution-a-stock-wood-paradox-first-steel-later)
-above).[121] The recurrence closed out in a one-line joke rather than further
-debate, "right on cue."[122]
+The same bare question recurred again within days, and this time drew two short answers rather than none. A sizing reference was offered: Thomas E. Colvin's *Steel Boatbuilding* gives a clear-cut method for working out scantlings, and — as a starting figure — **1/8 in steel plate weighs about 5.1 lb per square foot**.[120] Separately, the whole prior debate (above) was summed up rather than repeated: the topic had been "well beaten" already, the **stock 13'10" length is questionable** for a steel build, but a **larger, stretched hull would work out better** — matching the same earlier-recorded preference for pursuing steel only on an enlarged hull, not the stock size (see [Jack Gardiner's own resolution](#jack-gardiners-own-resolution-a-stock-wood-paradox-first-steel-later) above).[121] The recurrence closed out in a one-line joke rather than further debate, "right on cue."[122]
 
 # Citations
 

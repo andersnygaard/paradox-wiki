@@ -8,229 +8,53 @@ timestamp: 2026-07-04T00:00:00Z
 
 # David LeBlanc
 
-**David LeBlanc**, of Seattle, WA, was one of the archive's most prolific
-non-building contributors across 2002-2003. He never built, bought, or
-sailed a [Paradox](/paradox.md) himself: he ordered plans for a different
-small boat — a gaff-rigged **Golant Gaffer** by Roger Dongray — and later
-judged Paradox "just too small," preferring [Matt
-Layden](/matt-layden/biography.md)'s larger sibling design, [Little
-Cruiser](/design/variants/stretched-paradox.md). His role in the community
-was that of an engaged outside observer: a cross-poster of external
-microcruising material and a well-read contributor on materials, refitting,
-antifouling, and small-boat literature.
+**David LeBlanc**, of Seattle, WA, was one of the archive's most prolific non-building contributors across 2002-2003. He never built, bought, or sailed a [Paradox](/paradox.md) himself: he ordered plans for a different small boat — a gaff-rigged **Golant Gaffer** by Roger Dongray — and later judged Paradox "just too small," preferring [Matt Layden](/matt-layden/biography.md)'s larger sibling design, [Little Cruiser](/design/variants/stretched-paradox.md). His role in the community was that of an engaged outside observer: a cross-poster of external microcruising material and a well-read contributor on materials, refitting, antifouling, and small-boat literature.
 
-**Note — do not confuse with [David Beard](/people/david-beard.md).** The two
-are easily conflated: LeBlanc's own e-mail address contains the word
-"whisper" — which is also the *name* Beard gave his secondhand Paradox —
-while Beard's own handles look like they could be LeBlanc's initials. Ground
-truth runs on the source messages' header metadata; every citation on this
-page is confirmed as genuinely LeBlanc. Material under Beard's handles
-belongs to Beard — see his page.
+**Note — do not confuse with [David Beard](/people/david-beard.md).** The two are easily conflated: LeBlanc's own e-mail address contains the word "whisper" — which is also the *name* given to a secondhand Paradox — while the other builder's own handles look like they could be LeBlanc's initials. Ground truth runs on the source messages' header metadata; every citation on this page is confirmed as genuinely LeBlanc. Material under the other handles belongs on that builder's own page.
 
 ## What he built and pursued
 
-LeBlanc built no Paradox. In February 2002 he introduced himself to the list
-and announced he had ordered plans for a **Golant Gaffer**, a small
-gaff-rigged boat by Roger Dongray (designer of the Cornish Crabber range),
-after weighing several designs he liked or could afford; off-topic discussion
-of a non-Paradox build was welcomed. By April 2003 he had concluded Paradox
-was too small for him and turned his interest toward Little Cruiser or an
-enlarged Paradox in the 15'11" range (partly to stay under 16 ft and avoid
-Washington's registration fee on engineless boats). See
-[stretched Paradox](/design/variants/stretched-paradox.md)
-for the full "Lil Cruiser Plans" thread, in which David Bolduc explained no
-Little Cruiser plans exist and recommended a 10-20% Paradox stretch instead,
-and [Jeff (UK)](/people/jeff-doryman.md) supplied concrete scaled-up
-dimensions. No record of him pursuing either boat survives.
+LeBlanc built no Paradox. In February 2002 he introduced himself to the list and announced he had ordered plans for a **Golant Gaffer**, a small gaff-rigged boat by Roger Dongray (designer of the Cornish Crabber range), after weighing several designs he liked or could afford; off-topic discussion of a non-Paradox build was welcomed. By April 2003 he had concluded Paradox was too small for him and turned his interest toward Little Cruiser or an enlarged Paradox in the 15'11" range (partly to stay under 16 ft and avoid Washington's registration fee on engineless boats). See [stretched Paradox](/design/variants/stretched-paradox.md) for the full "Lil Cruiser Plans" thread, which established that no Little Cruiser plans exist and recommended a 10-20% Paradox stretch instead, with concrete scaled-up dimensions supplied in reply. No record of him pursuing either boat survives.
 
 ## Materials and construction knowledge
 
-- **A "workshop or a boat?" tool-list pushback.** A full Build Manual tool
-  inventory drew the objection that it was "wildly excessive," with a tiered
-  minimum/nice-to-have/luxury structure proposed instead of one comprehensive
-  list, citing a fiddlier boat design whose prototype was built with only an
-  electric drill and planer as power tools — a concern about deterring
-  first-time builders. New Zealand boat designer and author **John
-  Welsford** independently reinforced the minimalist case: his own 21 ft
-  boat was built with a single power tool, and a full stationary-tool shop
-  mainly benefits builders working on a production basis. See [build effort
-  and workspace — a "workshop or a boat?" pushback, and the case for a
-  tiered
-  list](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
-- **Checking-resistant plywood.** He gave the archive's most specific plywood
-  answer: **Meranti to the BS1088 standard** (highest quality, lighter and
-  cheaper than Okoume, slightly more rot-resistant per a "wood expert
-  friend"), with **Brunzeel** (Dutch) as the top choice for US east-coast
-  builders; he rated BS6065 usable but lower, and warned against uncertified
-  "marine" plywood. See
-  [plywood grades and foam flotation](/construction/plywood-grades-and-foam-flotation.md).
-- **Water tank lining.** He argued against epoxy-lined built-in tanks for
-  amateur builders (cleaning difficulty, off-gassing, osmosis, single point of
-  failure for drinking water), preferring portable jugs and jerry cans. See
-  [water tank construction and lining](/construction/water-tank-lining.md).
-- **Bottom paint.** He gave the archive's fullest antifouling breakdown —
-  selection driven by water temperature, hull material, water type, and
-  haul-out frequency — recommending a **copolymer ablative** for a
-  wood-hulled trailer sailor, warning against DIY cuprous-oxide-in-epoxy, and
-  advising tropical-strength paint from the start since it merely lasts longer
-  in cooler water. He later made the case against skipping antifouling paint
-  altogether from his own experience: a SeaPearl 21 left in warm Tampa, FL
-  salt water for just four days fouled heavily enough that clearing it took a
-  great deal of work. See
-  [bottom painting](/construction/bottom-painting.md).
-- **Kevlar skepticism.** He argued against Kevlar for a Paradox bottom on both
-  workability (hard to wet out, hard to cut, unsandable) and cost grounds
-  (roughly 4x fiberglass by the yard). See
-  [materials sourcing](/references/materials-sourcing-links.md).
-- **Cheap-epoxy advocacy.** He repeatedly pushed "off-brand" epoxies —
-  **Raka**, Fiberglass Epoxy Products — over West System on cost, citing a
-  Raka 3-gallon kit at ~$118, roughly a third of West's price. See
-  [rudder bearing materials](/construction/rudder-bearing-materials.md).
-- **Pressure-treated wood.** He flagged that its preservative contains
-  arsenic and that an EPA ban was imminent — reinforcing the separate finding
-  that glue and paint don't bond to it well.
-- **Rudder bearing material.** He recalled a Pardey book describing a
-  **Delrin** gudgeon bearing/liner. See
-  [rudder bearing materials](/construction/rudder-bearing-materials.md).
-- **HF radio antennas.** He noted that David Bolduc had, by mid-2003, moved
-  from an Outbacker antenna to a Buddipole aboard Little Cruiser. See
-  [radio and electronics](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
-- **Steel-hull skepticism.** Against a whole-hull steel-construction proposal,
-  argued steel in any reasonable thickness would make the boat far too heavy
-  and eat into carrying capacity, suggesting a layer or two of Kevlar instead
-  as a lighter-weight answer to rock-strike or abrasion concerns. See
-  [aluminum and steel Paradox (speculative) — whole-hull steel
-  construction](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance).
-  When the steel debate closed, he endorsed a design-philosophy objection to
-  steel raised by another builder and pointed builders considering a steel
-  boat to `www.fairmetalboats.com`, especially its material on finishing,
-  coating, and fairing. See [aluminum and steel
-  Paradox (speculative) — a builder's case against steel, on
-  design-philosophy
-  grounds](/design/aluminum-construction-idea.md#a-builders-case-against-steel-on-design-philosophy-grounds).
-- **Coastal-vs-blue-water framework.** Laid out the standard checklist
-  distinguishing a conventional blue-water cruiser from a coastal cruiser,
-  and argued unconventional microcruisers like Paradox and Sven Yrvind's
-  "Bris" boats forgo nearly all of it, illustrated with Ottavio Testa's
-  *500 Days* circumnavigation in a sub-12 ft boat. See
-  [blue-water suitability — what conventional blue-water features Paradox
-  and "Bris" both forgo](/design/blue-water-suitability.md#what-conventional-blue-water-features-paradox-and-bris-both-forgo).
-  In the same exchange, he judged the differences between Layden's and
-  Yrvind's boats a matter of materials rather than design philosophy, and
-  disputed the double-ender's buoyancy rationale on hydrostatic grounds — a
-  transom (box) encloses more volume than a canoe stern (triangle), and,
-  per John Welsford, a double-ender has less carrying capacity than an
-  equivalent transom-sterned boat. See [blue-water suitability — Sven
-  Yrvind's specific design choices, weighed against Matt
-  Layden's](/design/blue-water-suitability.md#sven-yrvinds-specific-design-choices-weighed-against-matt-laydens).
-- **Window and porthole design.** Relayed Phil Bolger's view that some modern
-  window plastics are literally stronger than steel, so a stove-in window
-  often reflects poor fastening rather than weak plastic, and gave the
-  traditional rationale for blue-water boats' smaller windows versus a
-  coaster's larger portholes. Described a storm-repair technique — a
-  wood/plywood blank cut to fit the porthole "on the diagonal," bolted from
-  outside and cinched from inside with a wooden cross-brace and wing nut,
-  sealed with a strip of old bicycle inner tube — judging oval portholes
-  especially suited to it for a single-hander. See [aluminum and steel
-  Paradox (speculative) — stretching the cabin top and sizing windows for
-  open-water
-  use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
+- **A "workshop or a boat?" tool-list pushback.** A full Build Manual tool inventory drew the objection that it was "wildly excessive," with a tiered minimum/nice-to-have/luxury structure proposed instead of one comprehensive list, citing a fiddlier boat design whose prototype was built with only an electric drill and planer as power tools — a concern about deterring first-time builders. The minimalist case was independently reinforced: a 21 ft boat built with a single power tool, and the observation that a full stationary-tool shop mainly benefits builders working on a production basis. See [build effort and workspace — a "workshop or a boat?" pushback, and the case for a tiered list](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+- **Checking-resistant plywood.** The archive's most specific plywood answer: **Meranti to the BS1088 standard** (highest quality, lighter and cheaper than Okoume, slightly more rot-resistant per a "wood expert friend"), with **Brunzeel** (Dutch) as the top choice for US east-coast builders; BS6065 rated usable but lower, with a warning against uncertified "marine" plywood. See [plywood grades and foam flotation](/construction/plywood-grades-and-foam-flotation.md).
+- **Water tank lining.** The case against epoxy-lined built-in tanks for amateur builders (cleaning difficulty, off-gassing, osmosis, single point of failure for drinking water), preferring portable jugs and jerry cans. See [water tank construction and lining](/construction/water-tank-lining.md).
+- **Bottom paint.** The archive's fullest antifouling breakdown — selection driven by water temperature, hull material, water type, and haul-out frequency — recommending a **copolymer ablative** for a wood-hulled trailer sailor, warning against DIY cuprous-oxide-in-epoxy, and advising tropical-strength paint from the start since it merely lasts longer in cooler water. The case against skipping antifouling paint altogether followed from direct experience: a SeaPearl 21 left in warm Tampa, FL salt water for just four days fouled heavily enough that clearing it took a great deal of work. See [bottom painting](/construction/bottom-painting.md).
+- **Kevlar skepticism.** The case against Kevlar for a Paradox bottom on both workability (hard to wet out, hard to cut, unsandable) and cost grounds (roughly 4x fiberglass by the yard). See [materials sourcing](/references/materials-sourcing-links.md).
+- **Cheap-epoxy advocacy.** Repeated advocacy for "off-brand" epoxies — **Raka**, Fiberglass Epoxy Products — over West System on cost, citing a Raka 3-gallon kit at ~$118, roughly a third of West's price. See [rudder bearing materials](/construction/rudder-bearing-materials.md).
+- **Pressure-treated wood.** A flag that its preservative contains arsenic and that an EPA ban was imminent — reinforcing the separate finding that glue and paint don't bond to it well.
+- **Rudder bearing material.** A Pardey book describing a **Delrin** gudgeon bearing/liner. See [rudder bearing materials](/construction/rudder-bearing-materials.md).
+- **HF radio antennas.** A note that Little Cruiser had, by mid-2003, moved from an Outbacker antenna to a Buddipole. See [radio and electronics](/operations/radio-and-electronics.md#a-permanent-hf-antenna-using-the-masts-lightning-protection-wire).
+- **Steel-hull skepticism.** Against a whole-hull steel-construction proposal, the case that steel in any reasonable thickness would make the boat far too heavy and eat into carrying capacity, suggesting a layer or two of Kevlar instead as a lighter-weight answer to rock-strike or abrasion concerns. See [aluminum and steel Paradox (speculative) — whole-hull steel construction](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance). When the steel debate closed, a design-philosophy objection to steel was endorsed, with builders considering a steel boat pointed to `www.fairmetalboats.com`, especially its material on finishing, coating, and fairing. See [aluminum and steel Paradox (speculative) — a builder's case against steel, on design-philosophy grounds](/design/aluminum-construction-idea.md#a-builders-case-against-steel-on-design-philosophy-grounds).
+- **Coastal-vs-blue-water framework.** The standard checklist distinguishing a conventional blue-water cruiser from a coastal cruiser, with the case that unconventional microcruisers like Paradox and Sven Yrvind's "Bris" boats forgo nearly all of it, illustrated with Ottavio Testa's *500 Days* circumnavigation in a sub-12 ft boat. See [blue-water suitability — what conventional blue-water features Paradox and "Bris" both forgo](/design/blue-water-suitability.md#what-conventional-blue-water-features-paradox-and-bris-both-forgo). In the same exchange, the differences between Layden's and Yrvind's boats were judged a matter of materials rather than design philosophy, and the double-ender's buoyancy rationale was disputed on hydrostatic grounds — a transom (box) encloses more volume than a canoe stern (triangle), and a double-ender has less carrying capacity than an equivalent transom-sterned boat. See [blue-water suitability — Sven Yrvind's specific design choices, weighed against Matt Layden's](/design/blue-water-suitability.md#sven-yrvinds-specific-design-choices-weighed-against-matt-laydens).
+- **Window and porthole design.** The view that some modern window plastics are literally stronger than steel, so a stove-in window often reflects poor fastening rather than weak plastic, plus the traditional rationale for blue-water boats' smaller windows versus a coaster's larger portholes. A storm-repair technique — a wood/plywood blank cut to fit the porthole "on the diagonal," bolted from outside and cinched from inside with a wooden cross-brace and wing nut, sealed with a strip of old bicycle inner tube — with oval portholes judged especially suited to it for a single-hander. See [aluminum and steel Paradox (speculative) — stretching the cabin top and sizing windows for open-water use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
 
 ## Refit advice
 
-Answering [David Beard](/people/david-beard.md)'s report of damp plywood
-found while refitting his secondhand Paradox, LeBlanc advised that drying wet
-ply can take weeks (a heat lamp for about a week as a shortcut) and described
-two informal void-detection methods: **tapping** for a hollow/liquid-filled
-sound, and inspecting the hull under **morning dew** for a
-temperature-difference patch. He raised moisture-barrier and penetrating-epoxy
-coatings, pointing to **West Marine and the West System Epoxy website** for
-detail, and separately directed builders to a West System Epoxyworks article,
-"Building a Wood/Epoxy Sharpie." See
-[rot inspection](/construction/rot-inspection-ice-pick.md)
-and [West System resources](/references/west-system-resources.md).
+In response to a report of damp plywood found while refitting a secondhand Paradox, LeBlanc advised that drying wet ply can take weeks (a heat lamp for about a week as a shortcut) and described two informal void-detection methods: **tapping** for a hollow/liquid-filled sound, and inspecting the hull under **morning dew** for a temperature-difference patch. He raised moisture-barrier and penetrating-epoxy coatings, pointing to **West Marine and the West System Epoxy website** for detail, and separately directed builders to a West System Epoxyworks article, "Building a Wood/Epoxy Sharpie." See [rot inspection](/construction/rot-inspection-ice-pick.md) and [West System resources](/references/materials-sourcing-links.md#west-system-epoxy-resources-moisture-barriers-and-a-sharpie-building-article).
 
 ## Sailing-theory debates
 
-LeBlanc, though not a Paradox owner, engaged in two notable points of
-sailing theory:
+LeBlanc, though not a Paradox owner, engaged in two notable points of sailing theory:
 
-- **Helm balance.** A boat's helm should be **neutral toward weather** to
-  avoid a knockdown risk, against a competing defense of lee helm — a
-  position he conceded once the fuller case for it was laid out. See
-  [sailing characteristics](/operations/sailing-characteristics.md).
-- **Weight vs. displacement.** He estimated a loaded Paradox at roughly
-  **1,000-1,400 lb** and made the case that a boat's **weight** differs from
-  her **displacement** ("a boat can displace more then it weighs"), using a
-  lead-vs-foam buoyancy example. See
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **Helm balance.** A boat's helm should be **neutral toward weather** to avoid a knockdown risk, against a competing defense of lee helm — a position conceded once the fuller case for it was laid out. See [sailing characteristics](/operations/sailing-characteristics.md).
+- **Weight vs. displacement.** A loaded Paradox estimated at roughly **1,000-1,400 lb**, with the case that a boat's **weight** differs from her **displacement** ("a boat can displace more then it weighs"), using a lead-vs-foam buoyancy example. See [weight, ballast, and displacement](/design/weight-and-ballast.md).
 
 ## Cross-posts and list culture
 
-- **Head and sanitation.** He linked "The Official Potty Line" (confirming
-  "bucket and chuck it" is federally legal) and forwarded a
-  waste-bagging thread. See
-  [head and sanitation](/operations/head-and-sanitation.md).
-- **Small-boat book hunting.** He reported the SHRIMPY books out of print and
-  had long hunted the "Lugworm" series; via **AbeBooks** he found *Shrimpy*
-  too pricey ($40-$100+) but ordered the first "Lugworm" book for **$6**. See
-  [undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md).
-- **"Keeping the dream alive."** A rare piece of build-motivation writing: he
-  urged winter-stalled builders to keep a build log, develop transferable
-  skills (navigation, weather, safety courses, ham radio, one-burner cooking),
-  reward themselves with occasional gear, and research destinations — all
-  under one discipline: **work on the boat at least every week**. See
-  [build effort and workspace](/construction/build-effort.md).
-- **Anti-spam.** When a repeat tripod-link post drew complaints, a repeat
-  post was flatly labeled "spam and not a legit post," reading list mail via
-  Yahoo's web interface was rejected as a fix, and the concrete alternative
-  offered was forwarding spam with full headers to the sender's **`abuse@`**
-  desk. See
-  [Glen Maxwell — a "spammed" pictures thread](/people/glen-maxwell/list-founder-and-moderator.md)
-  and [the mailing list](/references/mailing-list.md).
-- **Moderator offer.** After co-moderators were already found, he offered to
-  help too ("Here's to keeping the pointy side up!") and was added when the
-  list's founder took a planned joint winter sailing trip. See
-  [the mailing list — a third, belated volunteer](/references/mailing-list.md).
-- **Lighter asides.** He argued for **kerosene over LED** navigation lights
-  (see [running lights](/operations/running-lights.md)); made an
-  epoxy-elasticity point in the [BRIS Paradox](/boats/bris-paradox.md)
-  laminate-schedule discussion; and coined that a pair of Paradoxes would be a
-  "paradoxen" (see [secondhand market](/operations/secondhand-market.md))
-  and that a Lovebird named "Rover" might satisfy the "know them well"
-  two-up-cruising standard (see [crew size and fit](/operations/crew-size-and-fit.md)).
-- **A second Sven Yrvind acolyte.** In William Longyard's "Another book"
-  thread, suggested a Swedish microcruiser builder known as "Sebastian" — an
-  acolyte of Sven Yrvind — deserved fuller coverage or even his own book in
-  any reprint of *A Speck on the Sea*, pointing to two of Sebastian's own web
-  pages of pictures and project updates. See
-  [William H. Longyard — author of *A Speck on the
-  Sea*](/people/william-longyard.md#author-of-a-speck-on-the-sea).
+- **Head and sanitation.** A link to "The Official Potty Line" (confirming "bucket and chuck it" is federally legal) and a forwarded waste-bagging thread. See [head and sanitation](/operations/head-and-sanitation.md).
+- **Small-boat book hunting.** A report that the SHRIMPY books were out of print, after a long hunt for the "Lugworm" series; via **AbeBooks**, *Shrimpy* turned out too pricey ($40-$100+) but the first "Lugworm" book was ordered for **$6**. See [undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md).
+- **"Keeping the dream alive."** A rare piece of build-motivation writing urging winter-stalled builders to keep a build log, develop transferable skills (navigation, weather, safety courses, ham radio, one-burner cooking), reward themselves with occasional gear, and research destinations — all under one discipline: **work on the boat at least every week**. See [build effort and workspace](/construction/build-effort.md).
+- **Anti-spam.** When a repeat tripod-link post drew complaints, it was flatly labeled "spam and not a legit post," reading list mail via Yahoo's web interface was rejected as a fix, and the concrete alternative offered was forwarding spam with full headers to the sender's **`abuse@`** desk. See [a "spammed" pictures thread](/people/glen-maxwell/list-founder-and-moderator.md) and [the mailing list](/references/mailing-list.md).
+- **Moderator offer.** After co-moderators were already found, a further offer to help too ("Here's to keeping the pointy side up!") was added as a moderator during a planned joint winter sailing trip. See [the mailing list — a third, belated volunteer](/references/mailing-list.md).
+- **Lighter asides.** A case for **kerosene over LED** navigation lights (see [running lights](/operations/running-lights.md)); an epoxy-elasticity point in the [BRIS Paradox](/boats/bris-paradox.md) laminate-schedule discussion; and the coinage that a pair of Paradoxes would be a "paradoxen" (see [secondhand market](/operations/secondhand-market.md)) plus the notion that a Lovebird named "Rover" might satisfy the "know them well" two-up-cruising standard (see [crew size and fit](/operations/crew-size-and-fit.md)).
+- **A second Sven Yrvind acolyte.** In the "Another book" thread, a Swedish microcruiser builder known as "Sebastian" — an acolyte of Sven Yrvind — was proposed as deserving fuller coverage or even his own book in any reprint of *A Speck on the Sea*, pointing to two of Sebastian's own web pages of pictures and project updates. See [author of *A Speck on the Sea*](/people/william-longyard.md#author-of-a-speck-on-the-sea).
 
 ## Box-girder and birdsmouth mast-building technique
 
-Answering a newcomer's mast question at the very end of 2003, LeBlanc gave
-the archive's fullest general wooden-mast-building explanation, drawn from
-**Lin and Larry Pardey's "Seraffyn" books**: how to build up a box-girder
-mast's interior at points where hardware (winches, fittings) will attach,
-use 12:1-or-longer scarphs when scarphing timbers to length, and taper and
-round the mast's corners (the leading edge always rounded, the aft edges
-optionally left square). He also passed along a simple, effective
-**radar-reflector trick** — crumpled aluminum foil run the length of the
-mast's hollow interior — and named **Bud McIntosh**'s book as a further
-source. For an advanced builder, he described the **birdsmouth**
-method — a round, hollow mast built up from many long, narrow staves each cut
-with a matching rabbet so they interlock — as "the pinnacle of the mast
-maker's art," not for the faint of heart. See
-[rig and sail — box-girder mast construction technique, and the birdsmouth
-alternative](/design/rig.md#box-girder-mast-construction-technique-and-the-birdsmouth-alternative).
-A few days later, in the follow-on "Wooden spars" thread, he explained the
-term itself: the name comes from the open "V" cut along one edge of each
-stave, resembling a bird's open mouth, dovetailing into the complementary
-shape cut on the neighboring stave — pointing to the same two published
-illustrated guides cited above.
-See [rig and sail — wood species for a scratch-built wooden
-mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
+Answering a newcomer's mast question at the very end of 2003, LeBlanc gave the archive's fullest general wooden-mast-building explanation, drawn from **Lin and Larry Pardey's "Seraffyn" books**: how to build up a box-girder mast's interior at points where hardware (winches, fittings) will attach, use 12:1-or-longer scarphs when scarphing timbers to length, and taper and round the mast's corners (the leading edge always rounded, the aft edges optionally left square). A simple, effective **radar-reflector trick** — crumpled aluminum foil run the length of the mast's hollow interior — was passed along too, with **Bud McIntosh**'s book named as a further source. For an advanced builder, the **birdsmouth** method — a round, hollow mast built up from many long, narrow staves each cut with a matching rabbet so they interlock — was described as "the pinnacle of the mast maker's art," not for the faint of heart. See [rig and sail — box-girder mast construction technique, and the birdsmouth alternative](/design/rig.md#box-girder-mast-construction-technique-and-the-birdsmouth-alternative). A few days later, in the follow-on "Wooden spars" thread, the term itself was explained: the name comes from the open "V" cut along one edge of each stave, resembling a bird's open mouth, dovetailing into the complementary shape cut on the neighboring stave — pointing to the same two published illustrated guides cited above. See [rig and sail — wood species for a scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast).
 
 # Citations
 

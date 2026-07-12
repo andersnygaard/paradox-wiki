@@ -1,64 +1,30 @@
 ---
 type: Person
 title: Chris Becker
-description: Australian (Brisbane, Queensland) Paradox builder constructing his boat "Walden" from scratch, and an early canvasser of the community's who-has-a-Paradox roster.
+description: Australian (Brisbane, Queensland) Paradox builder who built his boat "Walden" from scratch, and an early canvasser of the community's who-has-a-Paradox roster.
 tags: [paradox, people, builder, community, brisbane, walden]
 timestamp: 2026-07-02T00:00:00Z
 ---
 
 # Chris Becker
 
-**Chris Becker** is a [Paradox](/paradox.md) builder in **Brisbane,
-Queensland**, on Australia's east coast. He is building his boat
-**"Walden"** from scratch, using **Pacific Maple marine ply**, and is a
-6 ft, 210 lb builder for whom cabin fit was an early concern. A
-military/reserve commitment ("on exercise") repeatedly competed with his
-build time.
+**Chris Becker** was a [Paradox](/paradox.md) builder in **Brisbane, Queensland**, on Australia's east coast, who built his boat **"Walden"** from scratch, using **Pacific Maple marine ply**, and was a 6 ft, 210 lb builder for whom cabin fit was an early concern. A military/reserve commitment ("on exercise") repeatedly competed with his build time; the boat's fate beyond the build stages recorded here is unrecorded.
 
-Note: distinct from [Chris Curtis](/people/chris-curtis.md), a later owner.
+Note: distinct from [Chris Curtis](/boats/curtis-paradox.md), a later owner.
 
 ## Build of "Walden"
 
-Becker's from-scratch build — begun in 2001, stalled and restarted more than
-once through a work slump, a health absence, and a house move — is narrated in
-full on [Walden](/boats/walden.md). By New Year 2002 he had all panels cut but
-the boat still consisted only of bulkheads and scarfed panels, a stage it had
-not advanced past when he resumed "for the second time" in August 2002 after
-rebuilding his workshop underneath his new house. He characteristically
-prototyped before committing plywood, making a **1:10 scale model** of every
-component (cleats, chine logs) and later a **cardboard cabin mockup** to test
-the interior at home.
+Becker's from-scratch build — begun in 2001, stalled and restarted more than once through a work slump, a health absence, and a house move — is narrated in full on [Walden](/boats/walden.md). By New Year 2002 all panels were cut but the boat still consisted only of bulkheads and scarfed panels, a stage it had not advanced past when work resumed "for the second time" in August 2002 after rebuilding a workshop underneath a new house. Plywood was prototyped before commitment, with a **1:10 scale model** of every component (cleats, chine logs) and later a **cardboard cabin mockup** to test the interior at home.
 
 ## Contributions & stories
 
-- **The community's first informal Paradox census.** Becker's "How many
-  Paradoxes are there out there?" question produced the most complete
-  late-2001 snapshot of who had a boat under sail versus under construction
-  (four under sail: the designer's, Don Elliott's, David Beard's, and Glen
-  Maxwell's "Zoë"). That roster is now tracked more fully under
-  [boats](/boats/index.md).
-- **A plywood cost data point:** **$AUS790 for ten sheets** of void-free
-  Pacific Maple marine ply — see [build effort and workspace](/construction/build-effort.md).
-- **Scaling a stretched Paradox:** confirmed that at **110%** scale the side
-  panels still fit two 8 ft sheets but the bottom panel will not fit a standard
-  sheet — see [stretched Paradox](/design/variants/stretched-paradox.md).
-- **Panel-layout snag:** hit the same **bulkhead #2** interference
-  [Alastair](/people/alastair.md) and [Don Elliott](/people/don-elliott.md) had
-  documented, resolving it by shifting BH2 40 mm and relocating the transom to
-  another sheet — see [panel layout and nesting](/construction/panel-layout.md).
-- **Fit-out ideas** floated for the group: an icebox and a detachable transom
-  sink; interior deck plates; and **flyscreens** on the vents and main hatch —
-  the archive's first mention of insect screening as a Paradox fit-out detail.
+- **An early informal Paradox census.** The question "How many Paradoxes are there out there?" produced the most complete late-2001 snapshot of who had a boat under sail versus under construction (four under sail, including "Zoë"). That roster is now tracked more fully under [boats](/boats/index.md).
+- **A plywood cost data point:** **$AUS790 for ten sheets** of void-free Pacific Maple marine ply — see [build effort and workspace](/construction/build-effort.md).
+- **Scaling a stretched Paradox:** confirmed that at **110%** scale the side panels still fit two 8 ft sheets but the bottom panel will not fit a standard sheet — see [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Panel-layout snag:** hit the same **bulkhead #2** interference documented elsewhere, resolved by shifting BH2 40 mm and relocating the transom to another sheet — see [panel layout and nesting](/construction/panel-layout.md).
+- **Fit-out ideas** floated for the group: an icebox and a detachable transom sink; interior deck plates; and **flyscreens** on the vents and main hatch — the archive's first mention of insect screening as a Paradox fit-out detail.
 
-His early question about getting the 18 mm bottom and 12 mm sides onto the hull
-also seeded the discussion documented under Paradox
-[hull scantlings](/design/hull-scantlings.md),
-[hull planking](/construction/hull-planking.md),
-[fastening](/construction/fastening-and-gluing.md), and
-[epoxy pre-coating technique](/construction/epoxy-coating-technique.md); and his
-ballast/battery-placement question fed
-[weight, ballast, and displacement](/design/weight-and-ballast.md) and
-[interior bins and hinged floor](/design/interior-bins-and-floor.md).
+An early question about getting the 18 mm bottom and 12 mm sides onto the hull also seeded the discussion documented under Paradox [hull scantlings](/design/hull-scantlings.md), [hull planking](/construction/hull-planking.md), [fastening](/construction/fastening-and-gluing.md), and [epoxy pre-coating technique](/construction/epoxy-coating-technique.md); and a ballast/battery-placement question fed [weight, ballast, and displacement](/design/weight-and-ballast.md) and [interior bins and hinged floor](/design/interior-bins-and-floor.md).
 
 # Citations
 

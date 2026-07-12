@@ -8,1261 +8,143 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Alastair
 
-**Alastair** ("Al", Yeovil, England) built the Paradox **"Little Jim"** almost
-entirely single-handed, launching her at Poole Harbour in April 2003. A
-professional CAD engineer with an engineer's turn of mind, he left one of the
-fullest and most detailed records in the archive — spanning construction
-technique, rigging, trailering, sailing performance, and design philosophy —
-and the fullest firsthand cruising accounts of any Paradox owner. Paradox was
-his first "real" boat, after only an 8 ft pram dinghy and a school canoe years
-earlier. Seventeen years on, in May 2020, he presented "Little Jim" to the
-Amateur Yacht Research Society — a mature retrospective that corroborates and
-extends his earlier accounts, and the only source to give his surname (Law);
-see [Little Jim — a 2020 retrospective](/boats/little-jim.md#a-2020-retrospective-the-ayrs-talk).
+**Alastair** ("Al", Yeovil, England) built the Paradox **"Little Jim"** almost entirely single-handed, launching her at Poole Harbour in April 2003. A professional CAD engineer with an engineer's turn of mind, he left one of the fullest and most detailed records in the archive — spanning construction technique, rigging, trailering, sailing performance, and design philosophy — and the fullest firsthand cruising accounts of any Paradox owner. Paradox was his first "real" boat, after only an 8 ft pram dinghy and a school canoe years earlier. Seventeen years on, in May 2020, he presented "Little Jim" to the Amateur Yacht Research Society — a mature retrospective that corroborates and extends his earlier accounts, and the only source to give his surname (Law); see [Little Jim — a 2020 retrospective](/boats/little-jim.md#a-2020-retrospective-the-ayrs-talk).
 
 ## Little Jim
 
-Building began in August 2001 and reached a full launch over Easter 2003, done
-single-handed apart from moving full plywood sheets and turning the hull over.
-A defining constraint was the workspace: a **garage only about 2 ft longer
-than the finished boat**, with only 2 ft clearance on either side — an early
-data point on the modest workshop a Paradox build can require, and the reason
-turning the hull took two people and improvised roller skates. The build
-produced the archive's fullest single build-cost accounting (**£2,751.16**
-for the boat, **£1,502.12** for a custom trailer), later restated as a full
-line-item breakdown (timber, plywood, epoxy, insulation foam, Lexan, and the
-sail) answering newcomers' recurring "how can it cost that much" questions,
-and again as an itemized bill of plywood sheets by thickness, glass cloth
-yardage, and epoxy gallons for a builder without a set of plans yet — see
-[build effort and workspace — cost](/construction/build-effort.md#cost). The
-full build, launch, and cruising narrative lives on
-[Little Jim](/boats/little-jim.md); the entries below summarize the durable
-contributions and cross-link to where each is told in full.
+Building began in August 2001 and reached a full launch over Easter 2003, done single-handed apart from moving full plywood sheets and turning the hull over. A defining constraint was the workspace: a **garage only about 2 ft longer than the finished boat**, with only 2 ft clearance on either side — an early data point on the modest workshop a Paradox build can require, and the reason turning the hull took two people and improvised roller skates. The build produced the archive's fullest single build-cost accounting (**£2,751.16** for the boat, **£1,502.12** for a custom trailer), later restated as a full line-item breakdown (timber, plywood, epoxy, insulation foam, Lexan, and the sail) answering newcomers' recurring "how can it cost that much" questions, and again as an itemized bill of plywood sheets by thickness, glass cloth yardage, and epoxy gallons for a builder without a set of plans yet — see [build effort and workspace — cost](/construction/build-effort.md#cost). The full build, launch, and cruising narrative lives on [Little Jim](/boats/little-jim.md); the entries below summarize the durable contributions and cross-link to where each is told in full.
 
 ## Construction contributions
 
-- **Reading the plans: a Drawing #12 correction, and a first-time builder's
-  backlog of questions, answered.** The spar drawing, Drawing #12, carries
-  stray dimension-arrow marks that, once painted out, leave the sheet's
-  dimensioning correct and its two views easier to tell apart. A first-time
-  builder's full backlog of plans-reading questions resolves as follows: buy
-  glass on 50 in-wide rolls to lay single join-free sheets on the bottom,
-  sides, and deck; the stateroom hatch can use the same piano hinge as the
-  cabin hatches, though a webbing hinge would suit mud and grit better;
-  shelves mount to the bin sides with a plain epoxy butt joint and fillets;
-  the page-5 metal angle is just a bent inch-long piece of stainless; and
-  most of the plywood parts missing from the plans' 10-sheet cutting diagram
-  can be found on already labeled sheets or from left-over scrap, needing at
-  most one extra spare sheet.[243][244] Anything built into the forward
-  stateroom must fit back out through its opening, since it goes in before
-  the deck does; built to the stock plan, the woodwork there still comes out
-  again in a two-minute job, making it easy to try different layouts (the
-  stock central partition can be kept while reducing its height).[245] The
-  page-5 metal-angle fitting is often misread: the fold runs across the
-  strap's width, not down its length, forming a small bracket that holds the
-  bin face's middle down to the floor panel.[246] For a builder needing to
-  fit the vent trunk sides/front, breast hook, and both rudder pieces out of
-  a single 18 mm sheet, a specific space-saving layout works — flipping the
-  bottom rudder piece about a horizontal axis and sliding it inside bulkhead
-  3's outline, which incidentally also solves the rudder "nose" otherwise
-  falling off the sheet's edge; cutting newspaper templates lets a layout be
-  tested by hand without CAD software.[247] See
-  [building plans — reading the plans: a
-  first-time builder's backlog of
-  questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).
-- **A floor-lowering case against raising the cabin for headroom.** Lowering
-  the floor suits more headroom better than raising the structure above it,
-  since a higher head position forces the boom up too, in turn calling for a
-  smaller sail or a taller mast — and a taller mast won't stow inside the
-  boat for trailering, while also raising the sail's center of pressure. See
-  [aluminum and steel Paradox (speculative) — a
-  raised cabin, canopy, and cockpit-height
-  ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas).
-- **Bulkhead curvature traced from finished beams, and free-electron ballast.**
-  A bulkhead's exact top curvature matters little either way, since most
-  beams and bulkheads get fine-tuned again once the deck itself is fitted;
-  see [deck and cabin beam
-  lamination — drawing bulkhead curvature from the finished beams, rather
-  than the
-  plans](/construction/deck-and-cabin-beams.md#drawing-bulkhead-curvature-from-the-finished-beams-rather-than-the-plans).
-  On pairing gel-cell battery ballast with an electric outboard: going
-  electric lets batteries substitute for lead, but an autohelm is
-  unnecessary — Paradox was designed to sail without constant attention to
-  the helm, and a course check only about every five minutes suffices as
-  part of an ordinary look-out routine; see [auxiliary outboard power — an
-  electric outboard, and gel-cell batteries doing double duty as
-  ballast](/operations/auxiliary-outboard-power.md#an-electric-outboard-and-gel-cell-batteries-doing-double-duty-as-ballast).
-- **Chine-log construction, defended and cautioned.** The plans' chine-log
-  method is preferable to a proposed taped-seam substitution: taped seam is
-  workable but less rugged given Paradox's heavy displacement — see
-  [chine log vs. taped-seam construction](/construction/chine-log-vs-taped-seam.md).
-  A solid bent chine log is "by far the most difficult part of the
-  assembly"; **laminating the chine log** is strongly preferable to bending
-  it solid, and the notch should be cut horizontal-only until the sides are
-  fitted, to keep the corner that locates the side panel; see
-  [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md).
-- **Chine runner shaping, and a warning on foil-faced foam.** One workable
-  method shapes a chine runner with a single batten filled to shape with
-  scrap wood and epoxy, an alternative to pre-cut solid blocks; 25 lb lead
-  ballast bricks are impractical to unbolt and shift at sea given the
-  disassembly and re-securing a knockdown would demand, so shifting a crew
-  member further forward is the simpler trim fix; foil-faced foam insulation
-  blocks radio signals such as GPS inside the cabin; see
-  [chine runner construction](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
-  A full-length pre-shaped strake is almost impossible to bend and hold
-  while the epoxy cures; the practical alternative is cutting it into
-  shorter pieces glued in as a three-dimensional jigsaw, then grinding the
-  result fair to templates with an angle grinder. See [chine runner
-  construction — templates, epoxy fill, and a hand plane: a fourth working
-  method](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane).
-  Runners shaped freehand by "just waving an angle grinder at them till they
-  looked about right" can still come out fine even against a rebuild
-  elsewhere that corrected width, location, and shape to within 1-2 mm — see
-  [Whisper — chine runners rebuilt after the
-  shakedown
-  cruise](/boats/whisper.md#chine-runners-rebuilt-after-the-shakedown-cruise).
-  The same block-and-fill method transfers to sheet metal: bottom ply fitted
-  proud of the sides, trimmed to profile, chine-runner wedge filled with
-  wood blocks and epoxy, then shaped with a sanding disc on an angle
-  grinder — the same approach should work in metal, at the cost of losing a
-  little material at the radius. The curve's real purpose is likely
-  protecting the edge of the bottom's fiberglass laminate rather than
-  anything hydrodynamic. See [chine runners — how they
-  work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
-- **Notching and gluing the stem members.** The geometry of how the chine
-  logs and sheer strake are inlet into the stem, and the glue-timing problem
-  of bending sheer strakes and chine logs into position (dry-fit first, then
-  glue), are worked out in
-  [stem notching](/construction/stem-notching.md) and
-  [fastening and gluing](/construction/fastening-and-gluing.md).
-- **Why the chine log's drawn bevel isn't uniform.** The chine log's sheet-5
-  shape shows the bevel drawn correctly at the log's ends but not at the
-  middle, since the logs and bulkheads are meant to be faired together once
-  installed rather than pre-cut to a perfect bevel and simply assembled. An
-  extra triangular section at the chine log's bottom follows from the
-  bottom-panel measurement not being vertical, so some angle is unavoidable
-  there — but given the assembly sequence, "it really doesn't matter much" —
-  see [hull assembly sequence — fit at trial
-  assembly rather than pre-cutting a perfect
-  bevel](/construction/hull-assembly-sequence.md#fit-at-trial-assembly-rather-than-pre-cutting-a-perfect-bevel).
-- **A second bevel-order answer, and a metric-measuring endorsement.** One
-  working method for chine-log/sheer-clamp bevel order: cut to the sheet-5
-  profiles, spring the sides into position once the bulkheads are up, then
-  trim bottom and deck to fit. Bulkhead bevels taken from sheet 2 still need
-  real adjustment at trial assembly, so oversize cleats cut to the true angle
-  only at that stage work better; working entirely in millimetres with a
-  metric tape beats converting back and forth. See
-  [hull assembly sequence — bevel order for the chine log and sheer clamp](/construction/hull-assembly-sequence.md#bevel-order-for-the-chine-log-and-sheer-clamp-cut-before-or-after-installing).
-- **Deck and cabin beams.** The deck is a **parabola, not a radius**; all the
-  beams can be produced from the sheet-7 and sheet-10 curves by a
-  mold-and-laminate method, and **bulkhead #3 needs no side cleats** — see
-  [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md) and
-  [hull assembly sequence](/construction/hull-assembly-sequence.md). A beam
-  #1/centerline shortfall later isolated by other builders can go unnoticed
-  amid the many other small gaps a workboat-finish build needs filling; see
-  [deck and cabin beam lamination — shimming deck beam #1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
-  A couple of millimetres' beam-lamination inaccuracy either way will, almost
-  certainly, make no difference to the finished boat; see
-  [deck and cabin beam lamination — the Build Manual's "Deck Beam Template"
-  and "Laminating Jigs"
-  installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
-- **A yuloh built from Douglas Fir** — the species used throughout "Little
-  Jim" for anything not marine plywood; see
-  [yuloh and stowed-rig retention — wood for the
-  yuloh](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh).
-- **Transom crown, and a looser view on bevel-fitting.** A transom can carry
-  a slight, asymmetric crown, sized off the plan sheet showing it curved;
-  exact bevels are not worth fussing over ahead of time — shaping them
-  freehand with an angle grinder at trial assembly works better — "it's too
-  much fun to sail to spend forever building it" — see
-  [hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly).
-  For bulkhead-member angles, the lift-the-angle-from-the-drawing method can
-  leave some angles wrong, needing padding and re-cutting; planing bevels
-  after assembly may be easier — though neither method needs great
-  precision, since epoxy fixes the mistakes; see
-  [hull assembly sequence — finding bulkhead-member angles from the
-  drawings](/construction/hull-assembly-sequence.md#finding-bulkhead-member-angles-from-the-drawings).
-- **The strength case for coastal cruising, and the rudder pintle as evidence.**
-  A boat built for serious coastal cruising arguably needs to be stronger
-  than an offshore boat, since it must survive direct contact with reefs and
-  beaches that a true offshore design is meant to avoid — Paradox's
-  unusually robust 15 mm rudder pintle is a concrete example; see
-  [blue-water suitability](/design/blue-water-suitability.md#structural-strength-as-the-real-limit-not-distance-from-shore).
-- **Bulkhead bevels, restated and revised.** A bulkhead's plywood and cleat
-  share the same curve and bevel; an alternative sequence — cut plywood to
-  size, let cleats overlap the edge, and cut bevels only once trial assembly
-  reveals the true angle — also works; see
-  [hull assembly sequence](/construction/hull-assembly-sequence.md#clarifying-the-bevel-and-cleat-relationship-and-a-rebuild-it-differently-alternative).
-- **A lightened alternative to structural tank tops.** The plans' structural
-  hinged tank tops are not strictly necessary; when converting from water to
-  lead ballast, cutting the tops back 3 in from the dividers and fitting
-  removable hatches instead trades a small stiffness loss for good access;
-  see
-  [water tank construction and lining — structural hinged tank tops](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
-- **A plans-layout tight-fit, confirmed.** The two side decks and two cabin
-  end panels cannot all come from a single 4 ft-wide ply sheet as drawn — a
-  re-measured build confirmed the tight fit (foredeck max width 3 ft 11 in,
-  exceeding 4 ft with the crown) — see
-  [panel layout and nesting](/construction/panel-layout.md).
-- **Materials and finish notes.** The plans' millimetre values are metric
-  conversions of Matt Layden's inch sizes (see
-  [panel layout](/construction/panel-layout.md)). Hulls need not be glassed
-  above the waterline where marine ply, a good finish, and alongside work are
-  rare, and UK epoxy suppliers have been unwilling to certify their products
-  for water tanks (plasticiser leaching), favoring the tanks as ballast-only
-  (see [water tank lining](/construction/water-tank-lining.md)). Tufnol is a
-  candidate rudder-bearing material, and skinned foam panels work for
-  polystyrene flotation — see
-  [rudder-bearing materials](/construction/rudder-bearing-materials.md) and
-  [removable foam flotation panels](/construction/removable-foam-panels.md).
-  "Little Jim"'s own lower rudder fitting was built from a block of Tufnol —
-  see
-  [casting a glass lower rudder gudgeon — technique](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique).
-- **A split-copper-pipe rudder-edge repair, and a furling-spindle pipe
-  stress-tested by a gybe.** Worn glass on the rudder's leading edge after a
-  full season can be reinforced by band-sawing a length of 15 mm copper water
-  pipe in two lengthwise, annealing one half to make it easy to form round
-  the rudder's front and bottom, then epoxy-riveting it on through
-  countersunk holes and fairing it smooth — a repair that held up well. The
-  same 15 mm split copper pipe serves elsewhere too, between the furling
-  spindle and the deck, sitting mostly in tension so a flimsy split end
-  matters little; it gave no trouble in "Little Jim." An unplanned trial
-  followed: sailing home the next day (a Force 5 following wind at 4-5 kn,
-  then a broad reach at 3-4 kn with the sail 50% reefed), an unexpected
-  gybe — no drama in a Paradox, with no boom/head interface to worry
-  about — twisted the split end of that furling-spindle pipe badly,
-  discovered only once the boat was back on the trailer. Hammering the bends
-  out and soldering on doublers cut from leftover rudder repair tubing left
-  the fitting stiffer, with its durability still to be proven. See
-  [rudder-bearing materials](/construction/rudder-bearing-materials.md) and
-  [furling system](/design/furling-system.md).
-- **The case for epoxy over paint on a water-damaged hull.** Epoxy needs no
-  surface preparation or interim sanding, must withstand heavy gear set down
-  on it, and — left unpainted — lets a builder keep watching for renewed
-  rot, unlike a painted surface; an epoxy-coated interior can still look
-  pristine despite the anchor being dropped on it repeatedly. See
-  [epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
-- **A padlock-through-the-hatch-rail fix against being locked in.** Rather
-  than build a swiveling hasp against the risk of being locked in, drilling
-  a hole through the hatch rail parallel to the deck, just in front of the
-  closed hatch, lets a padlock pop through it to lock the boat from
-  outside — see
-  [hatch hardware and security](/construction/hatch-hardware.md#a-padlock-through-the-hatch-rail-alternative).
-- **A formica wear-surface fix for a sticking hatch, and why a jammed hatch
-  is not the real emergency.** Re-surfacing the hatch's foam-lined running
-  edge with kitchen-worktop formica strip cured years of sticking at some
-  cost to the foam seal's watertightness, after PTFE tape and parcel tape
-  both proved short-lived. On the further worry of being trapped by a
-  collision-jammed hatch: the runner's seven bolts each side are removable
-  from inside, the boat floats even full of water regardless, and the real
-  fire risk from the nearby cooker matters more than a stuck hatch — see
-  [hatch hardware and security — a formica wear-surface fix for a foam-lined
-  hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch)
-  and [heavy-weather tactics — whether a closed cabin is a safety risk, or a
-  comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[299]
-- **Skepticism toward a taller hard-top hatch redesign.** Reviewing a fellow
-  builder's cardboard hatch mock-up, judged it would likely foul the furled
-  sail dropping into its stowed position, while conceding the only way to
-  settle it was to build it and find out — see [boats/enuf.md — a cardboard
-  hatch mock-up, and a lower alternate seat
-  position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[300]
-- **A caution on comprehensive tool lists.** Seeing a complete tool inventory
-  before starting a build risks putting a builder off, since a finished
-  Paradox can be built with only about a tenth of the tools such a list
-  names — a caution that a thorough planning checklist can overstate what a
-  Paradox actually requires in practice. See [build effort
-  and workspace — the Build Manual's "Preparations"
-  installment](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
-- **A cabin-only anchoring routine.** A frequent-anchoring technique — anchor
-  stowed in the floor locker with a permanent bow line and aft snap hook,
-  dropped and dug in under sail, then made fast and furled without ever
-  leaving the cabin's protection — motivates a wish for a proper afterdeck
-  anchor well. See [ground tackle and anchoring — a
-  cabin-only anchoring routine, done entirely under
-  sail](/operations/ground-tackle.md#a-cabin-only-anchoring-routine-done-entirely-under-sail).
-- **A yacht, not a dinghy, to sail.** Sailing a Paradox feels much more like
-  sailing a yacht than a dinghy — true even for a sailor with scant
-  experience before launching; see
-  [Paradox as a first boat — sailing a Paradox feels more like sailing a
-  yacht than a
-  dinghy](/operations/first-boat-suitability.md#sailing-a-paradox-feels-more-like-sailing-a-yacht-than-a-dinghy).
-- **A laminated-strip alternative to bending sheet metal for the chine-runner
-  curve.** Where a bronze sheet resists bending to the chine runner's
-  radius, building up the required thickness from offcut strips laminated in
-  layers (glued, riveted, brazed, or welded) lets enough material accumulate
-  to grind the final curve — a metal-specific variant of the plywood
-  block-and-fill method. See [chine runner
-  construction — fabricating chine runners in steel, if the whole hull is
-  steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel).
-- **An epoxy-fume mask recommendation.** A cartridge filter mask with an
-  ABEK-rated cartridge (bought from Buck & Hickman) stops the epoxy smell
-  entirely and should be kept sealed in a plastic bag between uses to avoid
-  premature filter exhaustion.[224] Bevels are best left with excess
-  material until trial assembly reveals the true angle needed. See [bottom
-  painting over epoxy —
-  respirator advice](/construction/bottom-painting.md#stripping-old-bottom-paint-sanding-and-respirator-advice).
-- **UK epoxy supplier confirmation, and a two-season condition report.** Both
-  `epoxy-resins.co.uk` and SP Systems (Isle of Wight) are trouble-free UK
-  epoxy sources. After a second full season of deliberately unfussy use,
-  "Little Jim" needed attention at only two small bottom spots worn by
-  repeated groundings, having followed the plans' "glass all over" scheme
-  rather than any partial-coverage shortcut.[225] See
-  [epoxy pre-coating technique — cloth-weight, canal-abrasion, and
-  cloth-only-versus-glassed-topsides questions from a UK
-  builder](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder).
-- **Rear-locker divider geometry, and a stove-support fix.** A rear locker's
-  curved floor can leave nominally-upright dividers meeting it at an acute
-  angle, letting a bucket of heavy chain punch out its own bottom; fitting
-  the dividers square to the floor instead avoids this, and a wedge-shaped
-  block squares up the locker's stove-support axle bolt.[227][228] See
-  [interior bin panels and hinged floor — rear-locker divider geometry, and
-  where to stow heavy ground
-  tackle](/design/interior-bins-and-floor.md#rear-locker-divider-geometry-and-where-to-stow-heavy-ground-tackle).
-- **Hull-colour banter.** A UV-protective colour additive is not always
-  necessary at UK ultraviolet levels — a plain-epoxy dinghy kit has shown no
-  deterioration after two years — so matching whatever paint colour is
-  already on hand beats spending sailing time deliberating; PVC floor tape
-  makes a poor trim-line material.[229][230][231][232] See
-  [topside and hull painting choices — choosing a hull colour, and why the
-  epoxy's UV protection matters more than the
-  shade](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).
-- **Commiseration and a pilot-hole fix.** A bottom-panel measuring error
-  leaving a 6 in gap calls for "a large drink and a good night's sleep" more
-  than anything else; a bent-bronze-ring-nail problem is solved by drilling
-  larger pilot holes.[233][234] See [scarf joints — a
-  dovetail-shaped lap joint after a bottom-panel measuring
-  error](/construction/scarf-joints.md#a-dovetail-shaped-lap-joint-after-a-bottom-panel-measuring-error)
-  and [fastening and gluing — pilot-hole
-  sizing](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
+- **Reading the plans: a Drawing #12 correction, and a first-time builder's backlog of questions, answered.** The spar drawing, Drawing #12, carries stray dimension-arrow marks that, once painted out, leave the sheet's dimensioning correct and its two views easier to tell apart. A first-time builder's full backlog of plans-reading questions resolves as follows: buy glass on 50 in-wide rolls to lay single join-free sheets on the bottom, sides, and deck; the stateroom hatch can use the same piano hinge as the cabin hatches, though a webbing hinge would suit mud and grit better; shelves mount to the bin sides with a plain epoxy butt joint and fillets; the page-5 metal angle is just a bent inch-long piece of stainless; and most of the plywood parts missing from the plans' 10-sheet cutting diagram can be found on already labeled sheets or from left-over scrap, needing at most one extra spare sheet.[243][244] Anything built into the forward stateroom must fit back out through its opening, since it goes in before the deck does; built to the stock plan, the woodwork there still comes out again in a two-minute job, making it easy to try different layouts (the stock central partition can be kept while reducing its height).[245] The page-5 metal-angle fitting is often misread: the fold runs across the strap's width, not down its length, forming a small bracket that holds the bin face's middle down to the floor panel.[246] For a builder needing to fit the vent trunk sides/front, breast hook, and both rudder pieces out of a single 18 mm sheet, a specific space-saving layout works — flipping the bottom rudder piece about a horizontal axis and sliding it inside bulkhead 3's outline, which incidentally also solves the rudder "nose" otherwise falling off the sheet's edge; cutting newspaper templates lets a layout be tested by hand without CAD software.[247] See [building plans — reading the plans: a first-time builder's backlog of questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).
+- **A floor-lowering case against raising the cabin for headroom.** Lowering the floor suits more headroom better than raising the structure above it, since a higher head position forces the boom up too, in turn calling for a smaller sail or a taller mast — and a taller mast won't stow inside the boat for trailering, while also raising the sail's center of pressure. See [aluminum and steel Paradox (speculative) — a raised cabin, canopy, and cockpit-height ideas](/design/aluminum-construction-idea.md#a-raised-cabin-canopy-and-cockpit-height-ideas).
+- **Bulkhead curvature traced from finished beams, and free-electron ballast.** A bulkhead's exact top curvature matters little either way, since most beams and bulkheads get fine-tuned again once the deck itself is fitted; see [deck and cabin beam lamination — drawing bulkhead curvature from the finished beams, rather than the plans](/construction/deck-and-cabin-beams.md#drawing-bulkhead-curvature-from-the-finished-beams-rather-than-the-plans). On pairing gel-cell battery ballast with an electric outboard: going electric lets batteries substitute for lead, but an autohelm is unnecessary — Paradox was designed to sail without constant attention to the helm, and a course check only about every five minutes suffices as part of an ordinary look-out routine; see [auxiliary outboard power — an electric outboard, and gel-cell batteries doing double duty as ballast](/operations/auxiliary-outboard-power.md#an-electric-outboard-and-gel-cell-batteries-doing-double-duty-as-ballast).
+- **Chine-log construction, defended and cautioned.** The plans' chine-log method is preferable to a proposed taped-seam substitution: taped seam is workable but less rugged given Paradox's heavy displacement — see [chine log vs. taped-seam construction](/construction/chine-log-vs-taped-seam.md). A solid bent chine log is "by far the most difficult part of the assembly"; **laminating the chine log** is strongly preferable to bending it solid, and the notch should be cut horizontal-only until the sides are fitted, to keep the corner that locates the side panel; see [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md).
+- **Chine runner shaping, and a warning on foil-faced foam.** One workable method shapes a chine runner with a single batten filled to shape with scrap wood and epoxy, an alternative to pre-cut solid blocks; 25 lb lead ballast bricks are impractical to unbolt and shift at sea given the disassembly and re-securing a knockdown would demand, so shifting a crew member further forward is the simpler trim fix; foil-faced foam insulation blocks radio signals such as GPS inside the cabin; see [chine runner construction](/chine-runners/construction.md#casting-lead-ballast-into-the-runners). A full-length pre-shaped strake is almost impossible to bend and hold while the epoxy cures; the practical alternative is cutting it into shorter pieces glued in as a three-dimensional jigsaw, then grinding the result fair to templates with an angle grinder. See [chine runner construction — templates, epoxy fill, and a hand plane: a fourth working method](/chine-runners/construction.md#method-4-templates-epoxy-fill-and-a-hand-plane). Runners shaped freehand by "just waving an angle grinder at them till they looked about right" can still come out fine even against a rebuild elsewhere that corrected width, location, and shape to within 1-2 mm — see [Whisper — chine runners rebuilt after the shakedown cruise](/boats/whisper.md#chine-runners-rebuilt-after-the-shakedown-cruise). The same block-and-fill method transfers to sheet metal: bottom ply fitted proud of the sides, trimmed to profile, chine-runner wedge filled with wood blocks and epoxy, then shaped with a sanding disc on an angle grinder — the same approach should work in metal, at the cost of losing a little material at the radius. The curve's real purpose is likely protecting the edge of the bottom's fiberglass laminate rather than anything hydrodynamic. See [chine runners — how they work](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
+- **Notching and gluing the stem members.** The geometry of how the chine logs and sheer strake are inlet into the stem, and the glue-timing problem of bending sheer strakes and chine logs into position (dry-fit first, then glue), are worked out in [stem notching](/construction/stem-notching.md) and [fastening and gluing](/construction/fastening-and-gluing.md).
+- **Why the chine log's drawn bevel isn't uniform.** The chine log's sheet-5 shape shows the bevel drawn correctly at the log's ends but not at the middle, since the logs and bulkheads are meant to be faired together once installed rather than pre-cut to a perfect bevel and simply assembled. An extra triangular section at the chine log's bottom follows from the bottom-panel measurement not being vertical, so some angle is unavoidable there — but given the assembly sequence, "it really doesn't matter much" — see [hull assembly sequence — fit at trial assembly rather than pre-cutting a perfect bevel](/construction/hull-assembly-sequence.md#fit-at-trial-assembly-rather-than-pre-cutting-a-perfect-bevel).
+- **A second bevel-order answer, and a metric-measuring endorsement.** One working method for chine-log/sheer-clamp bevel order: cut to the sheet-5 profiles, spring the sides into position once the bulkheads are up, then trim bottom and deck to fit. Bulkhead bevels taken from sheet 2 still need real adjustment at trial assembly, so oversize cleats cut to the true angle only at that stage work better; working entirely in millimetres with a metric tape beats converting back and forth. See [hull assembly sequence — bevel order for the chine log and sheer clamp](/construction/hull-assembly-sequence.md#bevel-order-for-the-chine-log-and-sheer-clamp-cut-before-or-after-installing).
+- **Deck and cabin beams.** The deck is a **parabola, not a radius**; all the beams can be produced from the sheet-7 and sheet-10 curves by a mold-and-laminate method, and **bulkhead #3 needs no side cleats** — see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md) and [hull assembly sequence](/construction/hull-assembly-sequence.md). A beam #1/centerline shortfall later isolated by other builders can go unnoticed amid the many other small gaps a workboat-finish build needs filling; see [deck and cabin beam lamination — shimming deck beam #1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline). A couple of millimetres' beam-lamination inaccuracy either way will, almost certainly, make no difference to the finished boat; see [deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and "Laminating Jigs" installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
+- **A yuloh built from Douglas Fir** — the species used throughout "Little Jim" for anything not marine plywood; see [yuloh and stowed-rig retention — wood for the yuloh](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh).
+- **Transom crown, and a looser view on bevel-fitting.** A transom can carry a slight, asymmetric crown, sized off the plan sheet showing it curved; exact bevels are not worth fussing over ahead of time — shaping them freehand with an angle grinder at trial assembly works better — "it's too much fun to sail to spend forever building it" — see [hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly). For bulkhead-member angles, the lift-the-angle-from-the-drawing method can leave some angles wrong, needing padding and re-cutting; planing bevels after assembly may be easier — though neither method needs great precision, since epoxy fixes the mistakes; see [hull assembly sequence — finding bulkhead-member angles from the drawings](/construction/hull-assembly-sequence.md#finding-bulkhead-member-angles-from-the-drawings).
+- **The strength case for coastal cruising, and the rudder pintle as evidence.** A boat built for serious coastal cruising arguably needs to be stronger than an offshore boat, since it must survive direct contact with reefs and beaches that a true offshore design is meant to avoid — Paradox's unusually robust 15 mm rudder pintle is a concrete example; see [blue-water suitability](/design/blue-water-suitability.md#structural-strength-as-the-real-limit-not-distance-from-shore).
+- **Bulkhead bevels, restated and revised.** A bulkhead's plywood and cleat share the same curve and bevel; an alternative sequence — cut plywood to size, let cleats overlap the edge, and cut bevels only once trial assembly reveals the true angle — also works; see [hull assembly sequence](/construction/hull-assembly-sequence.md#clarifying-the-bevel-and-cleat-relationship-and-a-rebuild-it-differently-alternative).
+- **A lightened alternative to structural tank tops.** The plans' structural hinged tank tops are not strictly necessary; when converting from water to lead ballast, cutting the tops back 3 in from the dividers and fitting removable hatches instead trades a small stiffness loss for good access; see [water tank construction and lining — structural hinged tank tops](/construction/water-tank-lining.md#structural-hinged-tank-tops-and-a-lightened-alternative).
+- **A plans-layout tight-fit, confirmed.** The two side decks and two cabin end panels cannot all come from a single 4 ft-wide ply sheet as drawn — a re-measured build confirmed the tight fit (foredeck max width 3 ft 11 in, exceeding 4 ft with the crown) — see [panel layout and nesting](/construction/panel-layout.md).
+- **Materials and finish notes.** The plans' millimetre values are metric conversions of Matt Layden's inch sizes (see [panel layout](/construction/panel-layout.md)). Hulls need not be glassed above the waterline where marine ply, a good finish, and alongside work are rare, and UK epoxy suppliers have been unwilling to certify their products for water tanks (plasticiser leaching), favoring the tanks as ballast-only (see [water tank lining](/construction/water-tank-lining.md)). Tufnol is a candidate rudder-bearing material, and skinned foam panels work for polystyrene flotation — see [rudder-bearing materials](/construction/rudder-bearing-materials.md) and [removable foam flotation panels](/construction/removable-foam-panels.md). "Little Jim"'s own lower rudder fitting was built from a block of Tufnol — see [casting a glass lower rudder gudgeon — technique](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique).
+- **A split-copper-pipe rudder-edge repair, and a furling-spindle pipe stress-tested by a gybe.** Worn glass on the rudder's leading edge after a full season can be reinforced by band-sawing a length of 15 mm copper water pipe in two lengthwise, annealing one half to make it easy to form round the rudder's front and bottom, then epoxy-riveting it on through countersunk holes and fairing it smooth — a repair that held up well. The same 15 mm split copper pipe serves elsewhere too, between the furling spindle and the deck, sitting mostly in tension so a flimsy split end matters little; it gave no trouble in "Little Jim." An unplanned trial followed: sailing home the next day (a Force 5 following wind at 4-5 kn, then a broad reach at 3-4 kn with the sail 50% reefed), an unexpected gybe — no drama in a Paradox, with no boom/head interface to worry about — twisted the split end of that furling-spindle pipe badly, discovered only once the boat was back on the trailer. Hammering the bends out and soldering on doublers cut from leftover rudder repair tubing left the fitting stiffer, with its durability still to be proven. See [rudder-bearing materials](/construction/rudder-bearing-materials.md) and [furling system](/design/furling-system.md).
+- **The case for epoxy over paint on a water-damaged hull.** Epoxy needs no surface preparation or interim sanding, must withstand heavy gear set down on it, and — left unpainted — lets a builder keep watching for renewed rot, unlike a painted surface; an epoxy-coated interior can still look pristine despite the anchor being dropped on it repeatedly. See [epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
+- **A padlock-through-the-hatch-rail fix against being locked in.** Rather than build a swiveling hasp against the risk of being locked in, drilling a hole through the hatch rail parallel to the deck, just in front of the closed hatch, lets a padlock pop through it to lock the boat from outside — see [hatch hardware and security](/construction/hatch-hardware.md#a-padlock-through-the-hatch-rail-alternative).
+- **A formica wear-surface fix for a sticking hatch, and why a jammed hatch is not the real emergency.** Re-surfacing the hatch's foam-lined running edge with kitchen-worktop formica strip cured years of sticking at some cost to the foam seal's watertightness, after PTFE tape and parcel tape both proved short-lived. On the further worry of being trapped by a collision-jammed hatch: the runner's seven bolts each side are removable from inside, the boat floats even full of water regardless, and the real fire risk from the nearby cooker matters more than a stuck hatch — see [hatch hardware and security — a formica wear-surface fix for a foam-lined hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch) and [heavy-weather tactics — whether a closed cabin is a safety risk, or a comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[299]
+- **Skepticism toward a taller hard-top hatch redesign.** Reviewing a fellow builder's cardboard hatch mock-up, judged it would likely foul the furled sail dropping into its stowed position, while conceding the only way to settle it was to build it and find out — see [boats/enuf.md — a cardboard hatch mock-up, and a lower alternate seat position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[300]
+- **A caution on comprehensive tool lists.** Seeing a complete tool inventory before starting a build risks putting a builder off, since a finished Paradox can be built with only about a tenth of the tools such a list names — a caution that a thorough planning checklist can overstate what a Paradox actually requires in practice. See [build effort and workspace — the Build Manual's "Preparations" installment](/construction/build-effort.md#the-build-manuals-preparations-installment-build-site-and-a-full-tool-inventory).
+- **A cabin-only anchoring routine.** A frequent-anchoring technique — anchor stowed in the floor locker with a permanent bow line and aft snap hook, dropped and dug in under sail, then made fast and furled without ever leaving the cabin's protection — motivates a wish for a proper afterdeck anchor well. See [ground tackle and anchoring — a cabin-only anchoring routine, done entirely under sail](/operations/ground-tackle.md#a-cabin-only-anchoring-routine-done-entirely-under-sail).
+- **A yacht, not a dinghy, to sail.** Sailing a Paradox feels much more like sailing a yacht than a dinghy — true even for a sailor with scant experience before launching; see [Paradox as a first boat — sailing a Paradox feels more like sailing a yacht than a dinghy](/operations/first-boat-suitability.md#sailing-a-paradox-feels-more-like-sailing-a-yacht-than-a-dinghy).
+- **A laminated-strip alternative to bending sheet metal for the chine-runner curve.** Where a bronze sheet resists bending to the chine runner's radius, building up the required thickness from offcut strips laminated in layers (glued, riveted, brazed, or welded) lets enough material accumulate to grind the final curve — a metal-specific variant of the plywood block-and-fill method. See [chine runner construction — fabricating chine runners in steel, if the whole hull is steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel).
+- **An epoxy-fume mask recommendation.** A cartridge filter mask with an ABEK-rated cartridge (bought from Buck & Hickman) stops the epoxy smell entirely and should be kept sealed in a plastic bag between uses to avoid premature filter exhaustion.[224] Bevels are best left with excess material until trial assembly reveals the true angle needed. See [bottom painting over epoxy — respirator advice](/construction/bottom-painting.md#stripping-old-bottom-paint-sanding-and-respirator-advice).
+- **UK epoxy supplier confirmation, and a two-season condition report.** Both `epoxy-resins.co.uk` and SP Systems (Isle of Wight) are trouble-free UK epoxy sources. After a second full season of deliberately unfussy use, "Little Jim" needed attention at only two small bottom spots worn by repeated groundings, having followed the plans' "glass all over" scheme rather than any partial-coverage shortcut.[225] See [epoxy pre-coating technique — cloth-weight, canal-abrasion, and cloth-only-versus-glassed-topsides questions from a UK builder](/construction/epoxy-coating-technique.md#cloth-weight-canal-abrasion-and-cloth-only-versus-glassed-topsides-questions-from-a-uk-builder).
+- **Rear-locker divider geometry, and a stove-support fix.** A rear locker's curved floor can leave nominally-upright dividers meeting it at an acute angle, letting a bucket of heavy chain punch out its own bottom; fitting the dividers square to the floor instead avoids this, and a wedge-shaped block squares up the locker's stove-support axle bolt.[227][228] See [interior bin panels and hinged floor — rear-locker divider geometry, and where to stow heavy ground tackle](/design/interior-bins-and-floor.md#rear-locker-divider-geometry-and-where-to-stow-heavy-ground-tackle).
+- **Hull-colour banter.** A UV-protective colour additive is not always necessary at UK ultraviolet levels — a plain-epoxy dinghy kit has shown no deterioration after two years — so matching whatever paint colour is already on hand beats spending sailing time deliberating; PVC floor tape makes a poor trim-line material.[229][230][231][232] See [topside and hull painting choices — choosing a hull colour, and why the epoxy's UV protection matters more than the shade](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).
+- **Commiseration and a pilot-hole fix.** A bottom-panel measuring error leaving a 6 in gap calls for "a large drink and a good night's sleep" more than anything else; a bent-bronze-ring-nail problem is solved by drilling larger pilot holes.[233][234] See [scarf joints — a dovetail-shaped lap joint after a bottom-panel measuring error](/construction/scarf-joints.md#a-dovetail-shaped-lap-joint-after-a-bottom-panel-measuring-error) and [fastening and gluing — pilot-hole sizing](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
 
-- **The removable back window's swing direction.** A Paradox back window
-  hinged at the top, swinging inward, could strike a sailor on the back of
-  the head in an unexpected powerboat wash — a bottom-hinged,
-  outward-swinging arrangement is safer. See [Little Cruiser
-  — the removable back window](/matt-layden/little-cruiser.md#the-removable-back-window-design-rationale-and-paradox-builders-adaptation-ideas).
-- **A lead-melting safety warning.** Melting down old lead pipe can be
-  dangerous if the pipe holds trapped moisture: the moisture can flash to
-  steam and fire a slug of molten lead out like a gun — a 6 in length of
-  pipe once threw lead about 10 ft this way. Always point the pipe away from
-  anyone nearby. See
-  [Swamp Thing — rudder rebuild technique](/matt-layden/swamp-thing.md#rudder-rebuild-technique-beveled-lead-versus-screwed-lead-and-a-lead-melting-caution).
-- **A constant-ballast bladder-tank idea.** Fitting flexible water bladders
-  inside otherwise-watertight built-in tanks would let sea water in around
-  the bladder as fresh water is drawn down from inside it, keeping total
-  ballast weight constant through a cruise. See [water tank
-  construction and lining — not using the built-in tanks at all](/construction/water-tank-lining.md#not-using-the-built-in-tanks-at-all-individual-containers-instead).
-- **Bulkhead-1 access and anchor wells, declined.** Through-bolted deck
-  fittings need bulkhead-1 access from below; a sealed "watertight"
-  compartment tends to fill with water it then cannot drain, an argument
-  against a flush anchor well on the same weight-forward and exposed-bow
-  grounds that favor a stern-worked anchoring routine. See [interior
-  bins and floor — design intent](/design/interior-bins-and-floor.md#design-intent-watertight-bulkhead-opening-is-optional)
-  and [ground tackle and anchoring](/operations/ground-tackle.md#a-flush-anchor-well-considered-and-declined-glen-maxwell).
-  Two people can sit on the Paradox seat with the hatch open, though "a bit
-  of a squeeze" underway. See [crew size and cabin
-  fit](/operations/crew-size-and-fit.md#sitting-two-side-by-side-on-the-seat-hatch-open).
-- **Reassurance on manhandling, and a cheap non-skid find.** Even a
-  tired-out moving crew can safely leave the hull propped on rocks partway
-  through a move, thanks to the 18 mm bottom's toughness; cheap rubberized
-  stair-tread strip from Ikea works well as deck non-skid, a bargain at
-  £1.50 a roll. See [build effort and workspace —
-  kit-cut panels versus building from
-  scratch](/construction/build-effort.md#workspace) and [non-skid deck
-  finish — truck-bed and industrial
-  coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
-- **Ballast-tank fill/suction plumbing, in practice.** Filling or draining a
-  side takes 5-10 minutes from a tap, longer by bilge pump, using deck
-  fittings sourced at a boat jumble; forcing water in too fast once blew off
-  one of his own inspection hatches, and sailing without the water ballast
-  in light conditions has a noticeable effect on initial stability even with
-  the full lead load aboard. See [transom deck plate — the fill/suction
-  copper pipe: sizing, timing, and the fittings that connect to
-  it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[301]
-- **Answering a newcomer's rough-weather FAQ.** Heeling itself is what
-  engages a chine runner, addressing a prospective builder's tacking
-  question; the worst water he has met came aboard as solid green water
-  over the cabin running a tide race with the tide against the wind, sailed
-  with tiller and mainsheet both locked off and no water reaching the cabin
-  despite audible flow through the vent trunk. See [heavy-weather tactics —
-  a newcomer's rough-weather FAQ: tacking, pitchpoling, submarining, and
-  lying to a
-  drogue](/operations/heavy-weather-tactics.md#a-newcomers-rough-weather-faq-tacking-pitchpoling-submarining-and-lying-to-a-drogue).[302]
-- **Marine ply over exterior grade, and a minimal building floor.** Chose
-  marine plywood over the plans' suggested exterior grade for his own boat to
-  avoid extra maintenance down the line; a Paradox needs no more than a
-  workbench and a couple of 4x4s on the ground to build on, with a flat patch
-  of ground useful only for scarfing the side and bottom sheets, since the
-  construction sequence is organized to be difficult to get wrong. See
-  [plywood grade and foam flotation debate — a July 2006 recurrence, and a
-  recommendation for MDO
-  plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[312]
-- **Free scrap lead, and what actually counts as "ballast."** Rather than
-  buying lead, got 17 lead bricks (25 lb each) for the price of two pints of
-  beer — tyre-fitters' shops routinely have buckets of old wheel-balance
-  weights they pay to have taken away; now uses only 4 of the bricks, having
-  progressively swapped lead out as he added other "useful" equipment aboard.
-  Separately cautioned that a simple lead-weight figure is a slippery number
-  to compare between boats, since it depends on whether water ballast and
-  always-carried heavy gear (anchor, etc.) are counted as "ballast" or as
-  stores/equipment — by different countings, his own boat could answer
-  anywhere from 100 to 350 lb. See [weight, ballast, and displacement —
-  ballast](/design/weight-and-ballast.md#ballast).[313][314]
-- **A removable ballast fastening for access after the floors are fitted.**
-  Drilled and tapped directly into the top of his own lead pigs and bolted
-  on a plate anchored at its other end into the top of the chine log — not
-  a rigid clamp, but the pigs show no sign of shifting and the fitting is
-  expected to hold even inverted. Recommends leaving the ballast unfastened
-  at first regardless of method, since he and Derek Clark both moved pigs
-  around during early sails to get their boats properly balanced. See
-  [weight, ballast, and displacement — reaching the ballast fastenings
-  after the floors are
-  in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[334]
-- **Underballasting is forgiving, not dangerous.** When asked about the
-  minimum ballast needed to keep a "Power Paradox" (motor-only) stable,
-  answered from direct experience that a boat does not suddenly become
-  unstable from too little ballast — "Enuf" sailed significantly
-  underballasted at her first launch with only increased tenderness to show
-  for it, and on two occasions of his own has forgotten to fill the water
-  ballast entirely, noticing only while moving on deck, not while sailing.
-  See [auxiliary outboard power — ballasting for power-only use](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[318]
-- **A wire-template tiller technique.** Alongside the nail-jig lamination
-  method above, offered a template-free way to find a tiller's needed
-  curve — bend a length of stiff wire (a coat-hanger will do) against the
-  rudder stock, checking clearance as the rudder swings from side to side.
-  See [design/rudder.md — tiller
-  construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[319]
-- **A friction tiller-rope lock, and when a lock is actually needed.** Built a
-  simple two-disc clamp — one disc fixed under the side deck, the other on a
-  bolt passed through it — that grips the tiller rope by tightening the bolt
-  disc down. Judged a lock rarely necessary in ordinary sailing, since
-  friction alone usually holds the tiller, but found the tiller line does
-  need to be held or locked when sailing in shallow water with the rudder
-  partly raised, when tiller loads can become surprisingly large. See
-  [self-steering — locking the tiller rope, and why most builders don't
-  bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[326][327]
-- **Fixing water-ballast tank tops leak-free, and a chine-log ballast-access
-  method.** Coats the underside of the tank top with thickened glue, then
-  reaches in through the access hatches to work the squeezed-out excess into
-  a fillet by hand — a technique that has kept the tank tops themselves
-  leak-free, unlike the inspection hatches. Separately, secures his own lead
-  ballast by drilling and tapping into the top of each pig and bolting on a
-  plate anchored into the chine log; not particularly rigid, but shows no
-  sign of the pigs shifting, and recommends leaving ballast unfastened
-  until after the first few sails so it can be shifted to trim the boat.
-  When a fellow builder's flap-covered ballast bolts proved hard to reach,
-  suggested cutting small access holes above the bolt heads as an
-  alternative to a removable plank. See [water tank construction and
-  lining — fixing the tank tops in
-  place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place)
-  and [weight, ballast, and displacement — reaching the ballast fastenings
-  after the floors are
-  in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[335][336]
-- **Why Matt Layden's own foot-drag furling method needs no extra
-  hardware.** Asked whether a winch-style dead drum, to add drag on the
-  slack line while hoisting or furling, would be worth building in
-  alongside the vent-trunk cleats, judged it unnecessary: Matt Layden keeps
-  tension on both lines with his foot because he does not fit a topping
-  lift, and any such device would still need a foot (not just a cam cleat)
-  to hold the *other* line's two-handed load. Of his own two departures
-  from the stock plans that he judges genuinely successful — beyond fitting
-  a topping lift — one is a window let into the hatch, and the other is
-  splitting the underfloor locker lids so they can be opened with the seat
-  still down; every other change he tried stemmed from not yet
-  understanding how the stock system worked. See
-  [design/rig.md — why Matt Layden's foot-drag furling method needs no
-  extra
-  hardware](/design/rig.md#why-matt-laydens-foot-drag-furling-method-needs-no-extra-hardware).[337]
-- **Does not drink his own ballast water.** Found "interesting slime" in the
-  tank after his first season filling from a tap; now fills instead from
-  whatever water he is floating in, using an electric bilge pump, keeping
-  the option to clean the tank out and refill with drinking water for a
-  genuinely long trip. See [water tank construction and lining — fixing the
-  tank tops in
-  place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place).[338]
+- **The removable back window's swing direction.** A Paradox back window hinged at the top, swinging inward, could strike a sailor on the back of the head in an unexpected powerboat wash — a bottom-hinged, outward-swinging arrangement is safer. See [Little Cruiser — the removable back window](/matt-layden/little-cruiser.md#the-removable-back-window-design-rationale-and-paradox-builders-adaptation-ideas).
+- **A lead-melting safety warning.** Melting down old lead pipe can be dangerous if the pipe holds trapped moisture: the moisture can flash to steam and fire a slug of molten lead out like a gun — a 6 in length of pipe once threw lead about 10 ft this way. Always point the pipe away from anyone nearby. See [Swamp Thing — rudder rebuild technique](/matt-layden/swamp-thing.md#rudder-rebuild-technique-beveled-lead-versus-screwed-lead-and-a-lead-melting-caution).
+- **A constant-ballast bladder-tank idea.** Fitting flexible water bladders inside otherwise-watertight built-in tanks would let sea water in around the bladder as fresh water is drawn down from inside it, keeping total ballast weight constant through a cruise. See [water tank construction and lining — not using the built-in tanks at all](/construction/water-tank-lining.md#not-using-the-built-in-tanks-at-all-individual-containers-instead).
+- **Bulkhead-1 access and anchor wells, declined.** Through-bolted deck fittings need bulkhead-1 access from below; a sealed "watertight" compartment tends to fill with water it then cannot drain, an argument against a flush anchor well on the same weight-forward and exposed-bow grounds that favor a stern-worked anchoring routine. See [interior bins and floor — design intent](/design/interior-bins-and-floor.md#design-intent-watertight-bulkhead-opening-is-optional) and [ground tackle and anchoring](/operations/ground-tackle.md#a-flush-anchor-well-considered-and-declined-glen-maxwell). Two people can sit on the Paradox seat with the hatch open, though "a bit of a squeeze" underway. See [crew size and cabin fit](/operations/crew-size-and-fit.md#sitting-two-side-by-side-on-the-seat-hatch-open).
+- **Reassurance on manhandling, and a cheap non-skid find.** Even a tired-out moving crew can safely leave the hull propped on rocks partway through a move, thanks to the 18 mm bottom's toughness; cheap rubberized stair-tread strip from Ikea works well as deck non-skid, a bargain at £1.50 a roll. See [build effort and workspace — kit-cut panels versus building from scratch](/construction/build-effort.md#workspace) and [non-skid deck finish — truck-bed and industrial coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
+- **Ballast-tank fill/suction plumbing, in practice.** Filling or draining a side takes 5-10 minutes from a tap, longer by bilge pump, using deck fittings sourced at a boat jumble; forcing water in too fast once blew off one of his own inspection hatches, and sailing without the water ballast in light conditions has a noticeable effect on initial stability even with the full lead load aboard. See [transom deck plate — the fill/suction copper pipe: sizing, timing, and the fittings that connect to it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[301]
+- **Answering a newcomer's rough-weather FAQ.** Heeling itself is what engages a chine runner, addressing a prospective builder's tacking question; the worst water he has met came aboard as solid green water over the cabin running a tide race with the tide against the wind, sailed with tiller and mainsheet both locked off and no water reaching the cabin despite audible flow through the vent trunk. See [heavy-weather tactics — a newcomer's rough-weather FAQ: tacking, pitchpoling, submarining, and lying to a drogue](/operations/heavy-weather-tactics.md#a-newcomers-rough-weather-faq-tacking-pitchpoling-submarining-and-lying-to-a-drogue).[302]
+- **Marine ply over exterior grade, and a minimal building floor.** Chose marine plywood over the plans' suggested exterior grade for his own boat to avoid extra maintenance down the line; a Paradox needs no more than a workbench and a couple of 4x4s on the ground to build on, with a flat patch of ground useful only for scarfing the side and bottom sheets, since the construction sequence is organized to be difficult to get wrong. See [plywood grade and foam flotation debate — a July 2006 recurrence, and a recommendation for MDO plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[312]
+- **Free scrap lead, and what actually counts as "ballast."** Rather than buying lead, got 17 lead bricks (25 lb each) for the price of two pints of beer — tyre-fitters' shops routinely have buckets of old wheel-balance weights they pay to have taken away; now uses only 4 of the bricks, having progressively swapped lead out as he added other "useful" equipment aboard. Separately cautioned that a simple lead-weight figure is a slippery number to compare between boats, since it depends on whether water ballast and always-carried heavy gear (anchor, etc.) are counted as "ballast" or as stores/equipment — by different countings, his own boat could answer anywhere from 100 to 350 lb. See [weight, ballast, and displacement — ballast](/design/weight-and-ballast.md#ballast).[313][314]
+- **A removable ballast fastening for access after the floors are fitted.** Drilled and tapped directly into the top of his own lead pigs and bolted on a plate anchored at its other end into the top of the chine log — not a rigid clamp, but the pigs show no sign of shifting and the fitting is expected to hold even inverted. Recommends leaving the ballast unfastened at first regardless of method, since pigs commonly get moved around during early sails to get a boat properly balanced. See [weight, ballast, and displacement — reaching the ballast fastenings after the floors are in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[334]
+- **Underballasting is forgiving, not dangerous.** When asked about the minimum ballast needed to keep a "Power Paradox" (motor-only) stable, answered from direct experience that a boat does not suddenly become unstable from too little ballast — "Enuf" sailed significantly underballasted at her first launch with only increased tenderness to show for it, and on two occasions of his own has forgotten to fill the water ballast entirely, noticing only while moving on deck, not while sailing. See [auxiliary outboard power — ballasting for power-only use](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[318]
+- **A wire-template tiller technique.** Alongside the nail-jig lamination method above, offered a template-free way to find a tiller's needed curve — bend a length of stiff wire (a coat-hanger will do) against the rudder stock, checking clearance as the rudder swings from side to side. See [design/rudder.md — tiller construction](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[319]
+- **A friction tiller-rope lock, and when a lock is actually needed.** Built a simple two-disc clamp — one disc fixed under the side deck, the other on a bolt passed through it — that grips the tiller rope by tightening the bolt disc down. Judged a lock rarely necessary in ordinary sailing, since friction alone usually holds the tiller, but found the tiller line does need to be held or locked when sailing in shallow water with the rudder partly raised, when tiller loads can become surprisingly large. See [self-steering — locking the tiller rope, and why most builders don't bother](/operations/self-steering.md#locking-the-tiller-rope-and-why-most-builders-dont-bother).[326][327]
+- **Fixing water-ballast tank tops leak-free, and a chine-log ballast-access method.** Coats the underside of the tank top with thickened glue, then reaches in through the access hatches to work the squeezed-out excess into a fillet by hand — a technique that has kept the tank tops themselves leak-free, unlike the inspection hatches. Separately, secures his own lead ballast by drilling and tapping into the top of each pig and bolting on a plate anchored into the chine log; not particularly rigid, but shows no sign of the pigs shifting, and recommends leaving ballast unfastened until after the first few sails so it can be shifted to trim the boat. When a fellow builder's flap-covered ballast bolts proved hard to reach, suggested cutting small access holes above the bolt heads as an alternative to a removable plank. See [water tank construction and lining — fixing the tank tops in place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [weight, ballast, and displacement — reaching the ballast fastenings after the floors are in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in).[335][336]
+- **Why Matt Layden's own foot-drag furling method needs no extra hardware.** Asked whether a winch-style dead drum, to add drag on the slack line while hoisting or furling, would be worth building in alongside the vent-trunk cleats, judged it unnecessary: Matt Layden keeps tension on both lines with his foot because he does not fit a topping lift, and any such device would still need a foot (not just a cam cleat) to hold the *other* line's two-handed load. Of his own two departures from the stock plans that he judges genuinely successful — beyond fitting a topping lift — one is a window let into the hatch, and the other is splitting the underfloor locker lids so they can be opened with the seat still down; every other change he tried stemmed from not yet understanding how the stock system worked. See [design/rig.md — why Matt Layden's foot-drag furling method needs no extra hardware](/design/rig.md#why-matt-laydens-foot-drag-furling-method-needs-no-extra-hardware).[337]
+- **Does not drink his own ballast water.** Found "interesting slime" in the tank after his first season filling from a tap; now fills instead from whatever water he is floating in, using an electric bilge pump, keeping the option to clean the tank out and refill with drinking water for a genuinely long trip. See [water tank construction and lining — fixing the tank tops in place](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place).[338]
 
 ## Rig, electrics, and furling
 
-- **A side-mounted electric outboard on "Little Jim."** Fitted an electric
-  motor to the hull's side, rather than the transom, specifically to avoid
-  keeping petrol inside the cabin, using brass hinges with a removable pin
-  braced by a forward strut after an earlier, less sturdy bracket distorted
-  at full throttle; the motor cannot stay mounted while sailing and needs
-  only slight angling to hold a straight course under power. See [auxiliary
-  outboard power — further field experience with a side-mounted
-  outboard](/operations/auxiliary-outboard-power.md#further-field-experience-with-a-side-mounted-outboard).[324]
-- **Publishing the outboard-bracket photos, and reacting to Stephen Yahn's
-  side mount.** Called Stephen Yahn's own side-mounted bracket for
-  "Ironsides" an elegant solution, while cautioning it might ship water while
-  being fitted afloat; separately published his own removable, side-mounted
-  outboard-bracket photos on his website (with a change-of-address notice
-  after the previous site was overwhelmed by spam), noting the mount keeps
-  the motor clear of the sheet for motor-sailing so long as the heel angle
-  stays short of submerging the outboard's head. See [auxiliary outboard
-  power — a worked side-mount installation, and the risk of shipping water
-  while fitting it
-  afloat](/operations/auxiliary-outboard-power.md#a-worked-side-mount-installation-and-the-risk-of-shipping-water-while-fitting-it-afloat)
-  and [an outboard bracket published for
-  reference](/operations/auxiliary-outboard-power.md#an-outboard-bracket-published-for-reference).[328][329]
-- **How the mast steps and unsteps.** The mast foot simply sits on a
-  hull-bottom block, held upright by the deck partners, so lowering it is
-  only a matter of lifting it about 600 mm clear before laying it down on
-  the rolled sail and boom — distinct from Little Cruiser's pinned,
-  hinged-strut folding mast. See [mast partners and vent trunk — no
-  mast-lowering pin on Paradox, unlike Little
-  Cruiser](/design/mast-partners.md#no-mast-lowering-pin-on-paradox-unlike-little-cruiser).
-- **A single salvaged NiCad battery covers a full season's power needs.**
-  A 12V wet NiCad battery from 1977, replaced under routine coal-industry
-  maintenance, charged once each spring runs a GPS, echo sounder, running
-  lights, and water-ballast/bilge pump all season with no further
-  attention — a real-world power-budget counterpoint to how much generating
-  capacity a Paradox might actually need (raised against a scale mockup of a
-  wind generator and radar). See [radio and
-  electronics — a wind generator and radar: a scale-mockup exercise, and how
-  little power a Paradox actually
-  needs](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs).
-- **A compact LED masthead light.** A single masthead unit under **2 in
-  diameter and 1.5 in tall** can combine a tricolour and an all-around white
-  light, built with LEDs (roughly a tenth the draw of a filament bulb) and
-  fed by just **two wires** wired in opposite polarity to switch functions; a
-  steaming light is unnecessary without an engine. Wiring left loose and
-  extractable inside the mast can be replaced without cutting the mast open.
-  See [running lights](/operations/running-lights.md). A two-part LED
-  write-up covers the underlying current/voltage theory and the
-  series-wiring technique for maximizing light output per watt, followed by
-  a full construction method (LED counts per sector, five-circuit
-  reverse-polarity wiring, silicone-potted circuit boards) for a sector'd
-  tricolour/anchor light — see [running lights — LED electrical theory, and
-  how to wire several in
-  series](/operations/running-lights.md#led-electrical-theory-and-how-to-wire-several-in-series)
-  and [building a sector'd LED masthead light](/operations/running-lights.md#building-a-sectord-led-masthead-light-led-counts-wiring-and-potting).
-  Answering a fellow UK builder's below-deck wiring question in October
-  2005, described his own bottom-of-mast arrangement in full: a
-  water-resistant plug/socket mounted low on the mast's aft face, reached
-  from inside the boat by "a bit of a contortionist trick," with spare wire
-  left coiled inside the mast so the connection (or the whole run, if
-  damaged) can be remade without stripping it out. See [running lights —
-  clearing a snug deck hole as the mast is stepped and
-  unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
-- **Furling and the topping lift.** Stock furling gear is impractical without
-  a topping lift; a **continuous halyard/furling-line** arrangement (a
-  single line, so hauling the halyard pays out the furling line in step)
-  trades away the ability to drop all sail instantly for a cleaner cabin —
-  see [furling system](/design/furling-system.md). Sailing without a topping
-  lift is possible but much simpler with one; see [furling system — a UK
-  builder's topping-lift
-  question](/design/furling-system.md#a-uk-builders-topping-lift-question).
-  Asked again over a year later, restated the same conclusion from direct
-  experience — without one, the boom drops onto the cabin roof and bangs
-  about as the halyard is slackened — and noted his own fairly heavy (about
-  6 oz) sail cloth likely worsens the problem. See [furling system — a
-  second, later topping-lift question, and two more
-  confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
-- **The reefing triangle and boom taper.** Confirmed the foam-in-the-boom-end
-  fix a second time, and offered a simpler workaround: stuffing the extra
-  sail material behind the storage hoop once furled. See [rig and sail — the
-  reefing triangle, and why reshaping the boom taper is the wrong
-  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).
-  Later explained the underlying mechanics from three seasons' use: where the
-  sail sits on the boom while furling is set by the boom's taper and the
-  sail's tack angle, not by any fence around the drum (a fence would only
-  jam), the taller Mk2 sail wanting to move forward toward the drum as it
-  rolls up; he corrected his own phrasing to "taper of *boom*" and noted he
-  had retrofit his own under-tapered boom with a rigid-foam wedge at the clew
-  end.[321] See [furling system — the Mk1/Mk2 tack-angle difference, and why
-  the sail can't be fenced onto the
-  drum](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum).
-  Gave his own Mk1 boom's worked taper dimensions (50 x 38 mm at the clew,
-  35 x 38 mm at the tack, about 30 mm difference in circumference), estimated
-  the Mk2 sail's forward creep at about 2.5 in (citing Derek Clark's figure),
-  and reported furling is as easy as it looks in the WaterTribe video, apart
-  from rope blisters until the hands harden. See [furling system — worked
-  boom dimensions for the Mk1
-  taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[322][323]
-- **Masthead sheave choice.** A Tufnol sheave on a stainless pin at the
-  masthead beats a plain grooved "dumb sheave": since hauling up the sail is
-  the single most physically demanding task aboard, a proper bearing there
-  is worthwhile. See [rig and sail — a dumb
-  sheave versus a bearing sheave at the
-  masthead](/design/rig.md#a-dumb-sheave-versus-a-bearing-sheave-at-the-masthead).
-- **Halyard fixing point on the yard.** Ties the halyard round the top spar
-  through a hoop screwed to its underside near the sail's own gap in the
-  cloth, movable if needed and left loose until the sail can be hoisted and
-  checked. See [rig and sail — halyard fixing point on the spar: an open
-  question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).
-- **Why the yard is tapered.** As a professional engineer, explained that a
-  spar needs to be stiffest where it is restrained — for the yard, where it
-  bears against the mast — with the taper concentrating stiffness there
-  while shedding weight elsewhere; still recommended trying a
-  constant-diameter bamboo pole as a cheap, easily-replaced experiment. See
-  [rig and sail — why yard and boom shape matter for
-  pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing).
-- **The yard as a double cantilever, and a mast-chafe fix.** Restated the
-  taper's engineering logic in stronger terms — the yard is a double
-  cantilever, so the bending moment (and the stiffness needed to resist it)
-  falls away with distance from the mast — and separately fixed his own
-  mast-chafe problem by lengthening his sail's sleeve gap so the spar, not
-  the cloth, rubs the mast, combined with a leather sleeve on the mast
-  itself; also floated a mast-mounted yard traveller, borrowed from a
-  Welsford Houdini dinghy, to keep the yard close to the mast at all points
-  of reefing. See [rig and sail — mast chafe from the yard, and finishes
-  that prevent
-  it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it)
-  and [rig and sail — a proposed mast-mounted traveller to keep the yard
-  close when
-  reefed](/design/rig.md#a-proposed-mast-mounted-traveller-to-keep-the-yard-close-when-reefed).
-- **Yuloh pivot construction.** A yuloh can be laminated from two planks bent
-  over a 30 mm-high block (free ends elevated over the block and loaded with
-  weights until they touch the ground), with the pivot bolt built from 10 mm
-  stainless studding with a spherical-bearing ball epoxied on the end,
-  seated in a recessed tufnol-block socket drilled to the ball's diameter. A
-  loop of bungee cord — a system credited to [David
-  Bolduc](/people/bolduc/dave.md) — fixes the yuloh's tendency to jump off
-  the ball, trading a few seconds' setup time for a more secure fit than
-  Matt Layden's own unfixed arrangement. See [yuloh
-  and stowed-rig retention — building the yuloh
-  itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
-- **A mainsheet-load testing method, and a question about Matt's single-line
-  rig.** Absent any calculated figure for the loads a mainsheet arch or
-  fitting must withstand, an empirical test works instead — hook a spring
-  balance onto the sheet while sailing and pull it out to the angle the rail
-  would hold it — noting the load likely varies considerably by point of
-  sail. Matt Layden's own single-line mainsheet was his everyday rig rather
-  than a race modification; a photograph in the Sailing Magazine coverage of
-  the design shows his actual sheeting method, raising an unresolved
-  question of why the plans instead draw a two-part sheet. See [rig and
-  sail — mainsheet fouling on the rudder and rear deck with an outboard
-  fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
-- **Mainsheet-and-outboard fouling, and stability at the stern.** Paradox's
-  longer boom (versus Little Cruiser's shorter one) forces the mainsheet to
-  a further-aft angle, ruling out a deck-mounted sheet since it would foul
-  the boom-rolling swivel and the motor housing alike; a metal hoop cage
-  around a mounted outboard is not worth building, an electric outboard
-  stowed inside being the better alternative. Stability itself is not a
-  practical problem for a Paradox: three adults have stood on the aft deck
-  at once, underway, without incident, though the boat was not tied on and
-  the sail not fully hoisted at the time. See [rig and sail — a horse fitted
-  to clear the
-  outboard, and the mainsheet-angle physics behind
-  it](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it)
-  and [weight, ballast, and displacement — self-righting range, and bailing
-  without opening the
-  hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
-- **The transom-radius dimension.** The plans' missing transom-radius figure
-  is **57 mm**, worked back from the deck-beam info on plan sheet 10 and
-  confirmed problem-free at deck-fitting — independently cross-checked
-  against a digital model of the plans; see [panel layout and nesting — the
-  missing
-  transom-radius dimension,
-  resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
-- **Sail and rig data.** The archive's only recorded **UK sail price** is
-  **£300, tan, 6 oz** — its heaviest recorded cloth weight; the sail bears
-  against the mast on the starboard tack, and the mast is offset to port —
-  see [rig and sail](/design/rig.md). The original Paradox carried a
-  single-part sheet, changed on the plans to a two-part purchase for the
-  mechanical advantage of hauling it in, with the fixed end at a port-side
-  transom eye offset to match the off-center mast; see [rig and sail — sheet
-  entry through
-  the transom: prototype versus
-  plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans).
-  The mast's rearward rake and the center-of-gravity mark ("C/A") are given
-  on plan page 1 — see
-  [rig and sail](/design/rig.md)
-  and
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
-- **Ballast figures, and a caution against bonding lead in permanently.** The
-  plans' ballast range exists to let lead be removed as stores are added,
-  not as a build-weight margin; ballast trim can take several outings after
-  launch to get right — a caution against any scheme (sheet lead laminated
-  into the bottom, or bonded on as an outer skin) that can't be adjusted
-  afterward. A representative real figure: 120 kg of lead (96 kg forward of
-  bulkhead #3, 24 kg behind bulkhead #4) bringing the boat to 640 kg
-  overall, rechecked each spring as gear accumulates. See [weight, ballast,
-  and displacement — a laminated
-  sheet-lead bottom as an alternative to loose
-  pigs](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative).
-- **Reading the mast's plan views, a second time.** The plans' three
-  confusing mast profile views and the stave-assembly sequence resolve with
-  a mold-and-laminate reading, plus a practical tip of building the mast
-  step and vent trunk onto bulkhead 2 before hull assembly — see
-  [rig and sail](/design/rig.md#reading-the-masts-plan-views). A simple
-  field fix — a bit of foam taped to the boom's outboard end to take up a
-  taller sail's extra unfurled cloth — is worth trying with any taller sail;
-  see [rig and sail — quantifying the new sailplan's effect on boom furling
-  geometry](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
-- **Two further deviations from stock.** Considered mounting the anchor on
-  the rear deck rather than the bow, and omitted the mast's lightning
-  protection.
-- **Fitting a depth sounder on the transom.** A depth sounder's transducer
-  cannot transmit through the wood and epoxy if mounted inside the hull;
-  through-hulling also leaves a through-hull transducer vulnerable when
-  drying out or trailering unless flush-mounted, so a transom mount, tested
-  first on a temporary bracket, is the more practical choice. See
-  [GPS and navigation instruments — fitting a depth sounder or
-  fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
-- **The case for a sounder in soft-mud, mixed-tide sailing grounds.** In
-  narrow channels flanked by shelving mud banks, the choice without a
-  sounder is short tacking or risking a grounding that isn't obvious until
-  speed is already lost. A petrol outboard is too dangerous on such waters,
-  since anything left on deck on a lengthy passage risks being washed off.
-  See [GPS
-  and navigation instruments — fitting a depth sounder or
-  fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
-- **Repeatedly stuck in irons in the Salcombe estuary, and a small-jib idea.**
-  Sailing "Little Jim" one weekend in the Salcombe estuary produced repeated
-  head-to-wind irons that could only be recovered with the yuloh — cured on
-  one occasion instead by gybing round — suggesting a small jib would help
-  push the bow through in that situation. See [rig and sail — a speculative
-  small
-  jib](/design/rig.md#a-speculative-small-jib) and [sailing characteristics —
-  a firsthand tacking/grounding
-  lesson](/operations/sailing-characteristics.md#a-firsthand-tackinggrounding-lesson).
-- **A tack-strut compression failure, corrected.** Two seasons of a
-  lightweight copper-pipe tack tie-down strut crumpling revealed that the
-  strut carries real compression load whenever the sail is reefed, not just
-  tension while furled — the boom's weight plus the reefing line's added
-  tension proved too much for the original part, fixed with a stronger
-  water-pipe-and-stainless-vee-end strut. A second builder independently hit
-  the same failure and settled it for good with a bronze (brass) Schedule 40
-  pipe strut. See [rig and sail — the tack strut
-  also carries compression, not just
-  tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension).
-- **Wrapping a Mark II sail on the boom.** Answered a fellow builder's
-  sail-wrap question with his own topping-lift fix for the luff climbing over
-  the drum, confirmed the tack need not align exactly with the mast since the
-  sail's position along the boom sets the rig's balance, and advised tapering
-  the boom thinnest at the tack end — his own under-tapered boom needed
-  packing with rigid foam instead. See [rig and sail — wrapping a Mark II
-  sail on the boom: tack position, balance, and
-  taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).
-- **Boom orientation and yard sag.** On "Little Jim" the boom has no fixed
-  top or bottom, since tightening the reefing line after hoisting simply
-  settles it with whichever side ends up uppermost; on a fellow builder's
-  persisting yard-sag question, recommended working on the yard's own
-  curvature rather than having the sail recut, since a yard can be swapped
-  back to standard if an experiment fails. See [rig and sail — which side of
-  the boom and yard faces up, and curing persistent yard
-  sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag).
-- **His own masthead topping-lift arrangement, in detail.** Answering Bill
-  Serjeant's third topping-lift question, described his own eye (not a
-  block) screwed to the aft side of the mast, carrying a two-part span to
-  port of the mast but starboard of the sail — never fouled in use, the
-  only care needed being to keep the yard on the correct side of the ropes
-  when hauling, and the aft span doubles as a place to tie off the halyard
-  and topping lift so they don't slap the mast at night. See [furling
-  system — a third topping-lift question: reading the deck-tube layout at
-  the
-  mast](/design/furling-system.md#a-third-topping-lift-question-reading-the-deck-tube-layout-at-the-mast).[303]
-- **Tack-pipe deck wear, resolved.** Answering a newcomer's worry that the
-  tack strop's brass tube might chew a divot into the deck, explained that a
-  flared pipe end does far less damage than a cut end, that a small
-  glass/epoxy pad round the deck fitting helps further, but the paint there
-  will scratch regardless — a bonded bronze or stainless disc solves it
-  outright for a builder who wants the problem gone entirely. See [rig and
-  sail — tack-pipe deck wear](/design/rig.md#tack-pipe-deck-wear).[304]
-- **Why the mainsheet at the helmsman's back is not awkward.** Explained
-  that the sheet is pulled in by thrusting forward with the arm while
-  bracing the back against bulkhead 4, with the slack falling into a bin
-  behind the bulkhead where it cannot tangle round the feet — unlike a
-  dinghy, the sheet is set once and left alone rather than played
-  continuously. See [rig and sail — why the mainsheet presented at the
-  helmsman's back is not awkward in
-  practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice).[305]
-- **Deck loops in copper pipe, and ashore spar storage.** His own deck
-  retaining loops are copper water pipe rather than brass tube, glued into
-  a block under the deck; being tube they are the boat's weakest exterior
-  fitting, guarded against by keeping the starboard loop as low a
-  semicircle as possible so lines can't wrap round it. He stores the mast,
-  boom, and sail in his home garage between outings rather than leaving
-  them aboard, removing the furling axle first, since loading the boat for
-  a trip would be difficult with the spars still inside. See [yuloh and
-  stowed-rig retention — deck-loop material choices, and a fastening
-  variant](/design/yuloh-and-stowed-rig-retention.md#deck-loop-material-choices-and-a-fastening-variant)
-  and [yuloh and stowed-rig retention — storing the mast, boom, and sail
-  when not
-  sailing](/design/yuloh-and-stowed-rig-retention.md#storing-the-mast-boom-and-sail-when-not-sailing).[307][308]
-- **Laminating a tiller around a nail jig.** Banged a row of nails into a
-  board tracing the desired curve, then laminated the tiller's wood strips
-  directly around them — a simpler alternative needing no separate forming
-  jig. See [design/rudder.md — tiller construction: laminated wood versus
-  bent metal
-  tube](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[317]
-- **Confirming the pintles mount on the centerline.** Answered a question on
-  whether the rudderstock, gudgeons, and pintles should hang on the
-  transom's centerline: his own are, which puts the rudder blade itself
-  very slightly to starboard and the tiller very slightly to port — a
-  minor, purely cosmetic asymmetry. See [design/rudder.md — rudder pivot
-  point on the transom
-  centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).[320]
+- **A side-mounted electric outboard on "Little Jim."** Fitted an electric motor to the hull's side, rather than the transom, specifically to avoid keeping petrol inside the cabin, using brass hinges with a removable pin braced by a forward strut after an earlier, less sturdy bracket distorted at full throttle; the motor cannot stay mounted while sailing and needs only slight angling to hold a straight course under power. See [auxiliary outboard power — further field experience with a side-mounted outboard](/operations/auxiliary-outboard-power.md#further-field-experience-with-a-side-mounted-outboard).[324]
+- **Publishing the outboard-bracket photos, and reacting to a fellow builder's side mount.** A side-mounted bracket built for another Paradox, "Ironsides," was called an elegant solution, while cautioning it might ship water while being fitted afloat; separately published his own removable, side-mounted outboard-bracket photos on his website (with a change-of-address notice after the previous site was overwhelmed by spam), noting the mount keeps the motor clear of the sheet for motor-sailing so long as the heel angle stays short of submerging the outboard's head. See [auxiliary outboard power — a worked side-mount installation, and the risk of shipping water while fitting it afloat](/operations/auxiliary-outboard-power.md#a-worked-side-mount-installation-and-the-risk-of-shipping-water-while-fitting-it-afloat) and [an outboard bracket published for reference](/operations/auxiliary-outboard-power.md#an-outboard-bracket-published-for-reference).[328][329]
+- **How the mast steps and unsteps.** The mast foot simply sits on a hull-bottom block, held upright by the deck partners, so lowering it is only a matter of lifting it about 600 mm clear before laying it down on the rolled sail and boom — distinct from Little Cruiser's pinned, hinged-strut folding mast. See [mast partners and vent trunk — no mast-lowering pin on Paradox, unlike Little Cruiser](/design/mast-partners.md#no-mast-lowering-pin-on-paradox-unlike-little-cruiser).
+- **A single salvaged NiCad battery covers a full season's power needs.** A 12V wet NiCad battery from 1977, replaced under routine coal-industry maintenance, charged once each spring runs a GPS, echo sounder, running lights, and water-ballast/bilge pump all season with no further attention — a real-world power-budget counterpoint to how much generating capacity a Paradox might actually need (raised against a scale mockup of a wind generator and radar). See [radio and electronics — a wind generator and radar: a scale-mockup exercise, and how little power a Paradox actually needs](/operations/radio-and-electronics.md#a-wind-generator-and-radar-a-scale-mockup-exercise-and-how-little-power-a-paradox-actually-needs).
+- **A compact LED masthead light.** A single masthead unit under **2 in diameter and 1.5 in tall** can combine a tricolour and an all-around white light, built with LEDs (roughly a tenth the draw of a filament bulb) and fed by just **two wires** wired in opposite polarity to switch functions; a steaming light is unnecessary without an engine. Wiring left loose and extractable inside the mast can be replaced without cutting the mast open. See [running lights](/operations/running-lights.md). A two-part LED write-up covers the underlying current/voltage theory and the series-wiring technique for maximizing light output per watt, followed by a full construction method (LED counts per sector, five-circuit reverse-polarity wiring, silicone-potted circuit boards) for a sector'd tricolour/anchor light — see [running lights — LED electrical theory, and how to wire several in series](/operations/running-lights.md#led-electrical-theory-and-how-to-wire-several-in-series) and [building a sector'd LED masthead light](/operations/running-lights.md#building-a-sectord-led-masthead-light-led-counts-wiring-and-potting). Answering a fellow UK builder's below-deck wiring question in October 2005, described his own bottom-of-mast arrangement in full: a water-resistant plug/socket mounted low on the mast's aft face, reached from inside the boat by "a bit of a contortionist trick," with spare wire left coiled inside the mast so the connection (or the whole run, if damaged) can be remade without stripping it out. See [running lights — clearing a snug deck hole as the mast is stepped and unstepped](/operations/running-lights.md#clearing-a-snug-deck-hole-as-the-mast-is-stepped-and-unstepped).
+- **Furling and the topping lift.** Stock furling gear is impractical without a topping lift; a **continuous halyard/furling-line** arrangement (a single line, so hauling the halyard pays out the furling line in step) trades away the ability to drop all sail instantly for a cleaner cabin — see [furling system](/design/furling-system.md). Sailing without a topping lift is possible but much simpler with one; see [furling system — a UK builder's topping-lift question](/design/furling-system.md#a-uk-builders-topping-lift-question). Asked again over a year later, restated the same conclusion from direct experience — without one, the boom drops onto the cabin roof and bangs about as the halyard is slackened — and noted his own fairly heavy (about 6 oz) sail cloth likely worsens the problem. See [furling system — a second, later topping-lift question, and two more confirmations](/design/furling-system.md#a-second-later-topping-lift-question-and-two-more-confirmations).
+- **The reefing triangle and boom taper.** Confirmed the foam-in-the-boom-end fix a second time, and offered a simpler workaround: stuffing the extra sail material behind the storage hoop once furled. See [rig and sail — the reefing triangle, and why reshaping the boom taper is the wrong fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix). Later explained the underlying mechanics from three seasons' use: where the sail sits on the boom while furling is set by the boom's taper and the sail's tack angle, not by any fence around the drum (a fence would only jam), the taller Mk2 sail wanting to move forward toward the drum as it rolls up; he corrected his own phrasing to "taper of *boom*" and noted he had retrofit his own under-tapered boom with a rigid-foam wedge at the clew end.[321] See [furling system — the Mk1/Mk2 tack-angle difference, and why the sail can't be fenced onto the drum](/design/furling-system.md#the-mk1mk2-tack-angle-difference-and-why-the-sail-cant-be-fenced-onto-the-drum). Gave his own Mk1 boom's worked taper dimensions (50 x 38 mm at the clew, 35 x 38 mm at the tack, about 30 mm difference in circumference), estimated the Mk2 sail's forward creep at about 2.5 in (citing a fellow builder's figure), and reported furling is as easy as it looks in the WaterTribe video, apart from rope blisters until the hands harden. See [furling system — worked boom dimensions for the Mk1 taper](/design/furling-system.md#worked-boom-dimensions-for-the-mk1-taper).[322][323]
+- **Masthead sheave choice.** A Tufnol sheave on a stainless pin at the masthead beats a plain grooved "dumb sheave": since hauling up the sail is the single most physically demanding task aboard, a proper bearing there is worthwhile. See [rig and sail — a dumb sheave versus a bearing sheave at the masthead](/design/rig.md#a-dumb-sheave-versus-a-bearing-sheave-at-the-masthead).
+- **Halyard fixing point on the yard.** Ties the halyard round the top spar through a hoop screwed to its underside near the sail's own gap in the cloth, movable if needed and left loose until the sail can be hoisted and checked. See [rig and sail — halyard fixing point on the spar: an open question](/design/rig.md#halyard-fixing-point-on-the-spar-an-open-question).
+- **Why the yard is tapered.** As a professional engineer, explained that a spar needs to be stiffest where it is restrained — for the yard, where it bears against the mast — with the taper concentrating stiffness there while shedding weight elsewhere; still recommended trying a constant-diameter bamboo pole as a cheap, easily-replaced experiment. See [rig and sail — why yard and boom shape matter for pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing).
+- **The yard as a double cantilever, and a mast-chafe fix.** Restated the taper's engineering logic in stronger terms — the yard is a double cantilever, so the bending moment (and the stiffness needed to resist it) falls away with distance from the mast — and separately fixed his own mast-chafe problem by lengthening his sail's sleeve gap so the spar, not the cloth, rubs the mast, combined with a leather sleeve on the mast itself; also floated a mast-mounted yard traveller, borrowed from a Welsford Houdini dinghy, to keep the yard close to the mast at all points of reefing. See [rig and sail — mast chafe from the yard, and finishes that prevent it](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it) and [rig and sail — a proposed mast-mounted traveller to keep the yard close when reefed](/design/rig.md#a-proposed-mast-mounted-traveller-to-keep-the-yard-close-when-reefed).
+- **Yuloh pivot construction.** A yuloh can be laminated from two planks bent over a 30 mm-high block (free ends elevated over the block and loaded with weights until they touch the ground), with the pivot bolt built from 10 mm stainless studding with a spherical-bearing ball epoxied on the end, seated in a recessed tufnol-block socket drilled to the ball's diameter. A loop of bungee cord — a system credited to [David Bolduc](/people/bolduc/dave.md) — fixes the yuloh's tendency to jump off the ball, trading a few seconds' setup time for a more secure fit than Matt Layden's own unfixed arrangement. See [yuloh and stowed-rig retention — building the yuloh itself](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket).
+- **A mainsheet-load testing method, and a question about Matt's single-line rig.** Absent any calculated figure for the loads a mainsheet arch or fitting must withstand, an empirical test works instead — hook a spring balance onto the sheet while sailing and pull it out to the angle the rail would hold it — noting the load likely varies considerably by point of sail. Matt Layden's own single-line mainsheet was his everyday rig rather than a race modification; a photograph in the Sailing Magazine coverage of the design shows his actual sheeting method, raising an unresolved question of why the plans instead draw a two-part sheet. See [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).
+- **Mainsheet-and-outboard fouling, and stability at the stern.** Paradox's longer boom (versus Little Cruiser's shorter one) forces the mainsheet to a further-aft angle, ruling out a deck-mounted sheet since it would foul the boom-rolling swivel and the motor housing alike; a metal hoop cage around a mounted outboard is not worth building, an electric outboard stowed inside being the better alternative. Stability itself is not a practical problem for a Paradox: three adults have stood on the aft deck at once, underway, without incident, though the boat was not tied on and the sail not fully hoisted at the time. See [rig and sail — a horse fitted to clear the outboard, and the mainsheet-angle physics behind it](/design/rig.md#a-horse-fitted-to-clear-the-outboard-and-the-mainsheet-angle-physics-behind-it) and [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
+- **The transom-radius dimension.** The plans' missing transom-radius figure is **57 mm**, worked back from the deck-beam info on plan sheet 10 and confirmed problem-free at deck-fitting — independently cross-checked against a digital model of the plans; see [panel layout and nesting — the missing transom-radius dimension, resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
+- **Sail and rig data.** The archive's only recorded **UK sail price** is **£300, tan, 6 oz** — its heaviest recorded cloth weight; the sail bears against the mast on the starboard tack, and the mast is offset to port — see [rig and sail](/design/rig.md). The original Paradox carried a single-part sheet, changed on the plans to a two-part purchase for the mechanical advantage of hauling it in, with the fixed end at a port-side transom eye offset to match the off-center mast; see [rig and sail — sheet entry through the transom: prototype versus plans](/design/rig.md#sheet-entry-through-the-transom-prototype-versus-plans). The mast's rearward rake and the center-of-gravity mark ("C/A") are given on plan page 1 — see [rig and sail](/design/rig.md) and [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **Ballast figures, and a caution against bonding lead in permanently.** The plans' ballast range exists to let lead be removed as stores are added, not as a build-weight margin; ballast trim can take several outings after launch to get right — a caution against any scheme (sheet lead laminated into the bottom, or bonded on as an outer skin) that can't be adjusted afterward. A representative real figure: 120 kg of lead (96 kg forward of bulkhead #3, 24 kg behind bulkhead #4) bringing the boat to 640 kg overall, rechecked each spring as gear accumulates. See [weight, ballast, and displacement — a laminated sheet-lead bottom as an alternative to loose pigs](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative).
+- **Reading the mast's plan views, a second time.** The plans' three confusing mast profile views and the stave-assembly sequence resolve with a mold-and-laminate reading, plus a practical tip of building the mast step and vent trunk onto bulkhead 2 before hull assembly — see [rig and sail](/design/rig.md#reading-the-masts-plan-views). A simple field fix — a bit of foam taped to the boom's outboard end to take up a taller sail's extra unfurled cloth — is worth trying with any taller sail; see [rig and sail — quantifying the new sailplan's effect on boom furling geometry](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
+- **Two further deviations from stock.** Considered mounting the anchor on the rear deck rather than the bow, and omitted the mast's lightning protection.
+- **Fitting a depth sounder on the transom.** A depth sounder's transducer cannot transmit through the wood and epoxy if mounted inside the hull; through-hulling also leaves a through-hull transducer vulnerable when drying out or trailering unless flush-mounted, so a transom mount, tested first on a temporary bracket, is the more practical choice. See [GPS and navigation instruments — fitting a depth sounder or fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
+- **The case for a sounder in soft-mud, mixed-tide sailing grounds.** In narrow channels flanked by shelving mud banks, the choice without a sounder is short tacking or risking a grounding that isn't obvious until speed is already lost. A petrol outboard is too dangerous on such waters, since anything left on deck on a lengthy passage risks being washed off. See [GPS and navigation instruments — fitting a depth sounder or fishfinder](/operations/gps-navigation.md#fitting-a-depth-sounder-or-fishfinder-without-through-hulling-the-bottom).
+- **Repeatedly stuck in irons in the Salcombe estuary, and a small-jib idea.** Sailing "Little Jim" one weekend in the Salcombe estuary produced repeated head-to-wind irons that could only be recovered with the yuloh — cured on one occasion instead by gybing round — suggesting a small jib would help push the bow through in that situation. See [rig and sail — a speculative small jib](/design/rig.md#a-speculative-small-jib) and [sailing characteristics — a firsthand tacking/grounding lesson](/operations/sailing-characteristics.md#a-firsthand-tackinggrounding-lesson).
+- **A tack-strut compression failure, corrected.** Two seasons of a lightweight copper-pipe tack tie-down strut crumpling revealed that the strut carries real compression load whenever the sail is reefed, not just tension while furled — the boom's weight plus the reefing line's added tension proved too much for the original part, fixed with a stronger water-pipe-and-stainless-vee-end strut. A second builder independently hit the same failure and settled it for good with a bronze (brass) Schedule 40 pipe strut. See [rig and sail — the tack strut also carries compression, not just tension](/design/rig.md#the-tack-strut-also-carries-compression-not-just-tension).
+- **Wrapping a Mark II sail on the boom.** Answered a fellow builder's sail-wrap question with his own topping-lift fix for the luff climbing over the drum, confirmed the tack need not align exactly with the mast since the sail's position along the boom sets the rig's balance, and advised tapering the boom thinnest at the tack end — his own under-tapered boom needed packing with rigid foam instead. See [rig and sail — wrapping a Mark II sail on the boom: tack position, balance, and taper](/design/rig.md#wrapping-a-mark-ii-sail-on-the-boom-tack-position-balance-and-taper).
+- **Boom orientation and yard sag.** On "Little Jim" the boom has no fixed top or bottom, since tightening the reefing line after hoisting simply settles it with whichever side ends up uppermost; on a fellow builder's persisting yard-sag question, recommended working on the yard's own curvature rather than having the sail recut, since a yard can be swapped back to standard if an experiment fails. See [rig and sail — which side of the boom and yard faces up, and curing persistent yard sag](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag).
+- **His own masthead topping-lift arrangement, in detail.** Answering a fellow builder's third topping-lift question, described his own eye (not a block) screwed to the aft side of the mast, carrying a two-part span to port of the mast but starboard of the sail — never fouled in use, the only care needed being to keep the yard on the correct side of the ropes when hauling, and the aft span doubles as a place to tie off the halyard and topping lift so they don't slap the mast at night. See [furling system — a third topping-lift question: reading the deck-tube layout at the mast](/design/furling-system.md#a-third-topping-lift-question-reading-the-deck-tube-layout-at-the-mast).[303]
+- **Tack-pipe deck wear, resolved.** Answering a newcomer's worry that the tack strop's brass tube might chew a divot into the deck, explained that a flared pipe end does far less damage than a cut end, that a small glass/epoxy pad round the deck fitting helps further, but the paint there will scratch regardless — a bonded bronze or stainless disc solves it outright for a builder who wants the problem gone entirely. See [rig and sail — tack-pipe deck wear](/design/rig.md#tack-pipe-deck-wear).[304]
+- **Why the mainsheet at the helmsman's back is not awkward.** Explained that the sheet is pulled in by thrusting forward with the arm while bracing the back against bulkhead 4, with the slack falling into a bin behind the bulkhead where it cannot tangle round the feet — unlike a dinghy, the sheet is set once and left alone rather than played continuously. See [rig and sail — why the mainsheet presented at the helmsman's back is not awkward in practice](/design/rig.md#why-the-mainsheet-presented-at-the-helmsmans-back-is-not-awkward-in-practice).[305]
+- **Deck loops in copper pipe, and ashore spar storage.** His own deck retaining loops are copper water pipe rather than brass tube, glued into a block under the deck; being tube they are the boat's weakest exterior fitting, guarded against by keeping the starboard loop as low a semicircle as possible so lines can't wrap round it. He stores the mast, boom, and sail in his home garage between outings rather than leaving them aboard, removing the furling axle first, since loading the boat for a trip would be difficult with the spars still inside. See [yuloh and stowed-rig retention — deck-loop material choices, and a fastening variant](/design/yuloh-and-stowed-rig-retention.md#deck-loop-material-choices-and-a-fastening-variant) and [yuloh and stowed-rig retention — storing the mast, boom, and sail when not sailing](/design/yuloh-and-stowed-rig-retention.md#storing-the-mast-boom-and-sail-when-not-sailing).[307][308]
+- **Laminating a tiller around a nail jig.** Banged a row of nails into a board tracing the desired curve, then laminated the tiller's wood strips directly around them — a simpler alternative needing no separate forming jig. See [design/rudder.md — tiller construction: laminated wood versus bent metal tube](/design/rudder.md#tiller-construction-laminated-wood-versus-bent-metal-tube).[317]
+- **Confirming the pintles mount on the centerline.** Answered a question on whether the rudderstock, gudgeons, and pintles should hang on the transom's centerline: his own are, which puts the rudder blade itself very slightly to starboard and the tiller very slightly to port — a minor, purely cosmetic asymmetry. See [design/rudder.md — rudder pivot point on the transom centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).[320]
 
 ## Trailering
 
-"Little Jim"'s trailer was designed and built to demanding
-requirements — launch/recover off a slip without wetting the hubs, and off a
-flat beach at low tide — generating several never-built concepts (an
-aircraft-style retracting undercarriage, a suspension-free launching
-undercarriage, and a tow-ball drop-the-back-end scheme) and the observation
-that UK trailers favor rubber-in-compression suspension. See
-[trailering](/operations/trailering.md).
+"Little Jim"'s trailer was designed and built to demanding requirements — launch/recover off a slip without wetting the hubs, and off a flat beach at low tide — generating several never-built concepts (an aircraft-style retracting undercarriage, a suspension-free launching undercarriage, and a tow-ball drop-the-back-end scheme) and the observation that UK trailers favor rubber-in-compression suspension. See [trailering](/operations/trailering.md).
 
-- **Rudder-stock height and the mainsheet.** A rudder stock built to full
-  height as drawn can let the mainsheet catch in the notch between rudder
-  and transom against the top pintle; adjusting the pintle helps, and a
-  flush-with-the-pintle rudder is the better long-term fix. See
-  [rudder and chine experiments — rudder-stock height and mainsheet fouling](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).
-- **On not deviating from the plans, and a rudder-downhaul caution.** A
-  Paradox built simply to sail distances while staying warm and dry needs
-  little deviation from the plans — the one change worth making is a
-  removable roof (concertina, rollover, or soft-top) letting a forward
-  second seat put two people's heads outside at once, easing the two-up
-  problem of one crew always having to stay below. A bungee-cord rudder
-  downhaul needs a built-in forward stop, since the stock rudder has
-  nothing else to prevent it swinging forward to the transom. See
-  [rudder and chine experiments — rudder ballast without a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting).
-- **Confirmed the rudder's on-center pivot point.** Build experience
-  confirms the plans-based reading that the rudder's pivot
-  point falls on the ship's centerline at the transom. See [rudder and chine
-  experiments — rudder pivot point on the transom
-  centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
-- **UK unbraked-trailer weight limit.** The governing UK legal limit is 750
-  kg gross, or half the tow vehicle's kerb weight, whichever is less; even
-  so, a loaded trailer without brakes is still hard for one or two people to
-  manhandle.
-  See [trailering — UK trailer weight limits, and whether brakes are
-  necessary](/operations/trailering.md#uk-trailer-weight-limits-and-whether-brakes-are-necessary).
-- **The raised rudder blade scraping the upper pintle bracket.** His own
-  boat's paint has scraped off where the bolt heads rub, though the epoxy
-  underneath stays sound — countersinking the bolts deeper would avoid even
-  that; doesn't consider it a real problem. See [rudder and chine
-  experiments — the raised blade scraping against the upper pintle
-  bracket](/design/rudder.md#the-raised-blade-scraping-against-the-upper-pintle-bracket).
+- **Rudder-stock height and the mainsheet.** A rudder stock built to full height as drawn can let the mainsheet catch in the notch between rudder and transom against the top pintle; adjusting the pintle helps, and a flush-with-the-pintle rudder is the better long-term fix. See [rudder and chine experiments — rudder-stock height and mainsheet fouling](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).
+- **On not deviating from the plans, and a rudder-downhaul caution.** A Paradox built simply to sail distances while staying warm and dry needs little deviation from the plans — the one change worth making is a removable roof (concertina, rollover, or soft-top) letting a forward second seat put two people's heads outside at once, easing the two-up problem of one crew always having to stay below. A bungee-cord rudder downhaul needs a built-in forward stop, since the stock rudder has nothing else to prevent it swinging forward to the transom. See [rudder and chine experiments — rudder ballast without a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting).
+- **Confirmed the rudder's on-center pivot point.** Build experience confirms the plans-based reading that the rudder's pivot point falls on the ship's centerline at the transom. See [rudder and chine experiments — rudder pivot point on the transom centerline](/design/rudder.md#rudder-pivot-point-on-the-transom-centerline).
+- **UK unbraked-trailer weight limit.** The governing UK legal limit is 750 kg gross, or half the tow vehicle's kerb weight, whichever is less; even so, a loaded trailer without brakes is still hard for one or two people to manhandle. See [trailering — UK trailer weight limits, and whether brakes are necessary](/operations/trailering.md#uk-trailer-weight-limits-and-whether-brakes-are-necessary).
+- **The raised rudder blade scraping the upper pintle bracket.** His own boat's paint has scraped off where the bolt heads rub, though the epoxy underneath stays sound — countersinking the bolts deeper would avoid even that; doesn't consider it a real problem. See [rudder and chine experiments — the raised blade scraping against the upper pintle bracket](/design/rudder.md#the-raised-blade-scraping-against-the-upper-pintle-bracket).
 
 ## Sailing performance and weight
 
-- **First weigh-in of a glassed hull.** "Little Jim" weighed **just under
-  600 lb** with the hull finished and glassed (against a **1,400 lb** design
-  displacement) — the archive's only weigh-in at that build stage — and
-  launched only ~20 kg light of design weight, her launch-day tenderness
-  owing to a force-6 wind rather than to ballast. See
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
-- **Design displacement.** Design displacement in full sailing trim is
-  **1,410 lb (640 kg)**; trailering weight follows by subtracting the crew
-  and **70 litres (70 kg)** of water ballast. See
-  [weight, ballast, and displacement — independent weight and displacement
-  estimates](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates).
-- **The 165° self-righting figure.** A graph supplied with the plans (or
-  with Don Elliott's articles) shows a correctly ballasted Paradox
-  self-rights from **165 degrees** of heel — independently corroborated by
-  the same figure from a later microcruising.com interview; see
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
-- **Best on the port tack.** "Little Jim"'s best cruising performance came on
-  the **port tack** (sail against the mast), the opposite of the "one tack
-  is always better" pattern other builders reported — see
-  [Little Jim](/boats/little-jim.md). Her fullest passage accounts include a
-  30-degree-heel overnight anchorage, an 8-mile speed trial averaging 3.7 kn,
-  and a genuine tidal-race transit past St Albans Head on the
-  Poole-to-Portland cruise (see [Little Jim](/boats/little-jim.md)); Matt
-  Layden uses closed-cell foam or a vinyl-covered cushion aboard the
-  original Paradox, per [David Bolduc](/people/bolduc/dave.md).
-- **A camping-derived sleep system.** A method adapted from camping and
-  diving uses a thin (0.5 in) camping mat with two shaped foam blocks fixed
-  to it at the shoulder/head and hip pressure points — far less bulky than a
-  full mattress and, in practice, very comfortable. See
-  [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
-- **A Minisail speed comparison.** Sailing fully water-ballasted at close
-  to the 1,400 lb design displacement, "Little Jim" kept pace with a
-  two-up Minisail dinghy in light winds (under Force 2) — see
-  [Little Jim](/boats/little-jim.md#a-lake-outing-and-a-minisail-speed-comparison-september-2003)
-  and
-  [weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded).
-- **A firsthand stability account.** "Little Jim" pops back up quickly from a
-  90° knockdown (against a stability curve suggesting self-righting from
-  160°); leaning out from the rail only heels her about 30°; and in normal
-  sailing the only significant water shipped was 2-3 litres taken on during
-  a 90° knockdown with the hatch cracked open — otherwise most water aboard
-  comes from wet feet, since the boat can be bailed from inside without
-  opening the hatch. See
-  [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
-- **A first Solent crossing, and an 80-90 degree knockdown survived.** In
-  September 2003, "Little Jim" sailed from Poole to Cowes and back — the
-  first Paradox crossing of the Solent on record — riding out a rogue-wave
-  knockdown near Hurst Narrows that put water over the hatch before the
-  boat came up sailing as if nothing had happened. See
-  [Little Jim — a first crossing of the Solent](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003).
-- **What it feels like to be aboard during a knockdown.** The archive's only
-  firsthand account of a sailor's own experience through a 90-degree
-  knockdown: a hand braced against the window frame as the boat went over,
-  and within seconds — before fully registering what had happened — back
-  upright and sailing, seat cushion still in place, with no deliberate
-  restraint needed. The episode was simply "a learning experience" — to
-  avoid sailing in that kind of weather again, rather than any fault of the
-  boat. See [heavy-weather
-  tactics — a firsthand 90-degree knockdown, confirming the
-  point](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
-- **An autumn refit.** Fixed two lessons from that crossing — beach-tracked
-  sand and bin dampness, and chafe at the furling-line and tack-line deck
-  fairleads. See
-  [Little Jim — an autumn refit](/boats/little-jim.md#an-autumn-refit-sand-and-damp-stowage-and-chafe-fixes).
-- **Sailing hatch-shut is a comfort choice, not a defensive one.** Answering a
-  newcomer's worry that a closed cabin in a gust means anticipating disaster,
-  clarified that closing the hatch is more often simply more comfortable —
-  he sails that way even on calm, sunny days — and that self-righting (rated
-  from as far over as 160°) needs no crew action at all, unlike a Bolger
-  "Birdwatcher"-type hull righted by shifting body weight. See [heavy-weather
-  tactics — whether a closed cabin is a safety risk, or a
-  comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[287][288]
-- **A weathercocking/ballast-trim diagnosis.** Excess weight forward hangs a
-  Paradox nose-to-wind on a tack, while excess weight aft prevents her from
-  coming up into the wind at all — a trim balance that can need rebalancing
-  after gear accumulates over a winter layup. See [sailing
-  characteristics and rig balance — a second round: weathercocking, ballast,
-  and rudder
-  stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
-- **Heavy displacement, not a flawed rig, as the tacking baseline.** Paradox's
-  sluggish coming-about, set against a centerboard dinghy, reflects a
-  heavy-displacement hull with the equivalent of a full-length keel —
-  tacking about as the numbers for that hull type would predict, not a
-  flawed lug rig. See
-  [sailing characteristics — center of effort, rudder stall, and telltale
-  placement as the real tacking
-  variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
-- **A cautionary lead-removal experiment.** Adding a season's worth of gear
-  (including a second anchor) without feeling any heavier, then leaving the
-  water ballast tanks empty on one outing produced no apparent handling
-  penalty. Removing 100 lb of lead entirely for the next trip (50 lb from
-  the stern locker, freed up by the new anchor stowage there, and 50 lb from
-  by bulkhead #3) to compensate was disastrous: with the center of gravity
-  moved forward, "Little Jim" developed considerable weather helm and lost
-  her tracking ability entirely — a real-world demonstration of the same
-  forward-weight/weathercocking mechanism [diagnosed
-  above](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall)
-  in the abstract. Restoring the lead to the aft locker fixed it, with more
-  lead planned for removal from bulkhead #3 instead. See [weight, ballast,
-  and displacement](/design/weight-and-ballast.md#real-world-under-ballasted-handling).
-- **A mast-lean-out heel test, and the standing 20-degree figure.** A newly
-  launched Paradox feeling tender is a common early impression that eases
-  with time; the question can be settled empirically on a calm day by
-  holding the mast and leaning body weight out over the side — photographed
-  under "Stability & Balance" on Alastair's build website — confirming a
-  heel of about **20 degrees** sailing well close-hauled, the same figure
-  reported repeatedly from actual passages. See [weight, ballast,
-  and displacement — real-world under-ballasted
-  handling](/design/weight-and-ballast.md#real-world-under-ballasted-handling).
-- **A forward-weight-shift fix for a stubborn tack, and a quantified 19-tack
-  GPS trial.** During a hard Poole Harbour beat in a full Force 5, ducking
-  into the cabin just before putting the helm over reliably completed tacks
-  that would otherwise stall head to wind — though sculling up a narrow
-  river in the same wind with sail dropped could still leave the boat
-  briefly unable to make any headway at all. A GPS track analyzed afterward
-  produced the fullest quantified tacking-angle trial on record: over 19
-  tacks (reefed ~50%), an average tacking angle of 130 degrees, ranging from
-  98 to 150 degrees depending on chop, with heel steady at 20 degrees
-  throughout. See [pointing and tacking-angle
-  expectations](/operations/pointing-and-tacking-angles.md).
-- **An occasional tacking quirk, mostly resolved by trim.** "Little Jim"
-  occasionally stuck head-to-wind or failed to come about on launching;
-  experimenting with fore-and-aft trim mostly sorted it, though the effect
-  may partly be down to developing technique rather than the trim itself.
-  Every other point of sail handles the same regardless of trim; gybing
-  stays consistently benign. See [rudder and chine experiments — sudden,
-  total loss of rudder effect mid-tack, and tacking
-  technique](/design/rudder.md#sudden-total-loss-of-rudder-effect-mid-tack-and-tacking-technique).[339][340][341]
+- **First weigh-in of a glassed hull.** "Little Jim" weighed **just under 600 lb** with the hull finished and glassed (against a **1,400 lb** design displacement) — the archive's only weigh-in at that build stage — and launched only ~20 kg light of design weight, her launch-day tenderness owing to a force-6 wind rather than to ballast. See [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **Design displacement.** Design displacement in full sailing trim is **1,410 lb (640 kg)**; trailering weight follows by subtracting the crew and **70 litres (70 kg)** of water ballast. See [weight, ballast, and displacement — independent weight and displacement estimates](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates).
+- **The 165° self-righting figure.** A graph supplied with the plans (or with the construction articles) shows a correctly ballasted Paradox self-rights from **165 degrees** of heel — independently corroborated by the same figure from a later microcruising.com interview; see [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **Best on the port tack.** "Little Jim"'s best cruising performance came on the **port tack** (sail against the mast), the opposite of the "one tack is always better" pattern other builders reported — see [Little Jim](/boats/little-jim.md). Her fullest passage accounts include a 30-degree-heel overnight anchorage, an 8-mile speed trial averaging 3.7 kn, and a genuine tidal-race transit past St Albans Head on the Poole-to-Portland cruise (see [Little Jim](/boats/little-jim.md)); Matt Layden uses closed-cell foam or a vinyl-covered cushion aboard the original Paradox.
+- **A camping-derived sleep system.** A method adapted from camping and diving uses a thin (0.5 in) camping mat with two shaped foam blocks fixed to it at the shoulder/head and hip pressure points — far less bulky than a full mattress and, in practice, very comfortable. See [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+- **A Minisail speed comparison.** Sailing fully water-ballasted at close to the 1,400 lb design displacement, "Little Jim" kept pace with a two-up Minisail dinghy in light winds (under Force 2) — see [Little Jim](/boats/little-jim.md#a-lake-outing-and-a-minisail-speed-comparison-september-2003) and [weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded).
+- **A firsthand stability account.** "Little Jim" pops back up quickly from a 90° knockdown (against a stability curve suggesting self-righting from 160°); leaning out from the rail only heels her about 30°; and in normal sailing the only significant water shipped was 2-3 litres taken on during a 90° knockdown with the hatch cracked open — otherwise most water aboard comes from wet feet, since the boat can be bailed from inside without opening the hatch. See [weight, ballast, and displacement — self-righting range, and bailing without opening the hatch](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch).
+- **A first Solent crossing, and an 80-90 degree knockdown survived.** In September 2003, "Little Jim" sailed from Poole to Cowes and back — the first Paradox crossing of the Solent on record — riding out a rogue-wave knockdown near Hurst Narrows that put water over the hatch before the boat came up sailing as if nothing had happened. See [Little Jim — a first crossing of the Solent](/boats/little-jim.md#a-first-crossing-of-the-solent-poole-to-cowes-september-2003).
+- **What it feels like to be aboard during a knockdown.** The archive's only firsthand account of a sailor's own experience through a 90-degree knockdown: a hand braced against the window frame as the boat went over, and within seconds — before fully registering what had happened — back upright and sailing, seat cushion still in place, with no deliberate restraint needed. The episode was simply "a learning experience" — to avoid sailing in that kind of weather again, rather than any fault of the boat. See [heavy-weather tactics — a firsthand 90-degree knockdown, confirming the point](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
+- **An autumn refit.** Fixed two lessons from that crossing — beach-tracked sand and bin dampness, and chafe at the furling-line and tack-line deck fairleads. See [Little Jim — an autumn refit](/boats/little-jim.md#an-autumn-refit-sand-and-damp-stowage-and-chafe-fixes).
+- **Sailing hatch-shut is a comfort choice, not a defensive one.** Answering a newcomer's worry that a closed cabin in a gust means anticipating disaster, clarified that closing the hatch is more often simply more comfortable — he sails that way even on calm, sunny days — and that self-righting (rated from as far over as 160°) needs no crew action at all, unlike a Bolger "Birdwatcher"-type hull righted by shifting body weight. See [heavy-weather tactics — whether a closed cabin is a safety risk, or a comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort).[287][288]
+- **A weathercocking/ballast-trim diagnosis.** Excess weight forward hangs a Paradox nose-to-wind on a tack, while excess weight aft prevents her from coming up into the wind at all — a trim balance that can need rebalancing after gear accumulates over a winter layup. See [sailing characteristics and rig balance — a second round: weathercocking, ballast, and rudder stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
+- **Heavy displacement, not a flawed rig, as the tacking baseline.** Paradox's sluggish coming-about, set against a centerboard dinghy, reflects a heavy-displacement hull with the equivalent of a full-length keel — tacking about as the numbers for that hull type would predict, not a flawed lug rig. See [sailing characteristics — center of effort, rudder stall, and telltale placement as the real tacking variables](/operations/sailing-characteristics.md#center-of-effort-rudder-stall-and-telltale-placement-as-the-real-tacking-variables).
+- **A cautionary lead-removal experiment.** Adding a season's worth of gear (including a second anchor) without feeling any heavier, then leaving the water ballast tanks empty on one outing produced no apparent handling penalty. Removing 100 lb of lead entirely for the next trip (50 lb from the stern locker, freed up by the new anchor stowage there, and 50 lb from by bulkhead #3) to compensate was disastrous: with the center of gravity moved forward, "Little Jim" developed considerable weather helm and lost her tracking ability entirely — a real-world demonstration of the same forward-weight/weathercocking mechanism [diagnosed above](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall) in the abstract. Restoring the lead to the aft locker fixed it, with more lead planned for removal from bulkhead #3 instead. See [weight, ballast, and displacement](/design/weight-and-ballast.md#real-world-under-ballasted-handling).
+- **A mast-lean-out heel test, and the standing 20-degree figure.** A newly launched Paradox feeling tender is a common early impression that eases with time; the question can be settled empirically on a calm day by holding the mast and leaning body weight out over the side — photographed under "Stability & Balance" on Alastair's build website — confirming a heel of about **20 degrees** sailing well close-hauled, the same figure reported repeatedly from actual passages. See [weight, ballast, and displacement — real-world under-ballasted handling](/design/weight-and-ballast.md#real-world-under-ballasted-handling).
+- **A forward-weight-shift fix for a stubborn tack, and a quantified 19-tack GPS trial.** During a hard Poole Harbour beat in a full Force 5, ducking into the cabin just before putting the helm over reliably completed tacks that would otherwise stall head to wind — though sculling up a narrow river in the same wind with sail dropped could still leave the boat briefly unable to make any headway at all. A GPS track analyzed afterward produced the fullest quantified tacking-angle trial on record: over 19 tacks (reefed ~50%), an average tacking angle of 130 degrees, ranging from 98 to 150 degrees depending on chop, with heel steady at 20 degrees throughout. See [pointing and tacking-angle expectations](/operations/pointing-and-tacking-angles.md).
+- **An occasional tacking quirk, mostly resolved by trim.** "Little Jim" occasionally stuck head-to-wind or failed to come about on launching; experimenting with fore-and-aft trim mostly sorted it, though the effect may partly be down to developing technique rather than the trim itself. Every other point of sail handles the same regardless of trim; gybing stays consistently benign. See [rudder and chine experiments — sudden, total loss of rudder effect mid-tack, and tacking technique](/design/rudder.md#sudden-total-loss-of-rudder-effect-mid-tack-and-tacking-technique).[339][340][341]
 
 ## Design philosophy and community role
 
-Alastair was a consistent voice for **designer fidelity** against speculative
-material/layout changes — objecting on those grounds to both an aluminum
-Paradox and a lengthened "motorsailer" Paradox, on the reasoning that
-substituting materials or purpose "throws away the designer's skill" and that
-a boat for different waters should be designed from scratch (see
-[aluminum Paradox](/design/aluminum-construction-idea.md) and
-[Motorsailer Paradox](/design/variants/motorsailer-idea.md)). The same
-argument recurred more bluntly in the "Steel?" thread's design-philosophy
-dispute, which turned personal: a Paradox built in wood/epoxy is what the
-design *is*; the whole steel idea seemed like "hot air," and anyone serious
-about it should build one and report back rather than keep arguing — Paradox
-is "a silk purse in boating terms," and there is no reason to turn it into "a
-sow's ear." See
-[aluminum and steel Paradox (speculative) — the design-philosophy objection
-escalates into a personal
-dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute).
-Chine runners work rather than a keel by design, with heeling countered by
-hull shape and ballast — explained to newcomers with a disc-vs-cup
-(anemometer) analogy; see
-[chine runners and windward performance](/chine-runners/how-they-work.md).
-Recurring newcomer questions on first-boat suitability, tools, scaling,
-sculling speed, and sanitation ("Bucket & chuck it!") point to
-[Don Elliott](/people/don-elliott.md)'s construction articles and
-[Dave Bolduc](/people/bolduc/dave.md)'s plans; [Matt Layden](/matt-layden/biography.md)
-recalled averaging **2 knots** sculling the calm section of the 2003
-Everglades Challenge (see
-[sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)). A
-maintained website hosted both a construction-photo gallery and a
-**20-picture CATIA CAD model** of the Paradox, built during CAD training and
-added to the group's links area, signed off "Hoping for calm nights." A
-Paradox's bilge pump sees little real use: even knocked flat with the hatch
-cracked open, too little water comes aboard for a portable pump to get a
-purchase on — a sponge suffices; see
-[weight, ballast, and displacement](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump).
-On fit and comfort for very tall sailors, height alone is not decisive — how
-it is distributed between torso and legs matters more, since a long-torso/
-short-legs build can find the hatch-shut cabin cramped at a height that poses
-no problem on a long-legged/short-torso build of the same overall height. A
-claustrophobia worry answers to a convertible-car analogy: hatch open, it
-feels like being in the open with only the head exposed; hatch shut, like a
-car with the top up, a small space most people do not find confining —
-though seeing a boat in person before deciding is always the better test.
-See [crew size and
-cabin fit — a very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup
-suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion).
-A Build Manual's stress on precision in beam lamination can needlessly worry
-novice builders — a deliberately workboat-finish approach still produces
-exactly the sailing boat wanted; deck beams laminated from **7 mm strips,
-steamed before bending**, need only 3 clamps per beam; see
-[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
-The first Australian Paradox launch was greeted with "soon it
-will be truly said that the sun never sets on the Paradox"; see
-[Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero).
-For tiller-slot watertightness, a simpler fix than either a sealed boot or a
-redesign is a second rubber baffle disc fixed to the tiller itself, ahead of
-the transom, to deflect water without blocking airflow. See [transom deck
-plate — a simpler alternative for the tiller opening: a second rubber
-baffle
-disc](/construction/transom-deck-plate.md#a-simpler-alternative-for-the-tiller-opening-a-second-rubber-baffle-disc).
-Paradox's 70-180 kg ballast range exists to tune trim to whatever stores are
-loaded for a given trip, not to cover build-weight variance — so a
-steel-hulled Paradox would still need the same roughly 110 kg (240 lb) of
-ballast a plywood one does. See
-[aluminum and steel Paradox (speculative) — ballast placement: independent
-of hull
-material](/design/aluminum-construction-idea.md#ballast-placement-independent-of-hull-material).
-A real-world ballast data point: "Little Jim" was weighed before launch and
-lead added to reach the design displacement of 640 kg, with shifting the
-lead around found to significantly affect handling; the design rule of a
-pound of lead out for every pound of stores added matters most for long
-trips, though it went untested over a longest trip of six days. See
-[aluminum and steel Paradox (speculative) — whether a steel hull frees
-up any of the lead ballast at
-all](/design/aluminum-construction-idea.md#whether-a-steel-hull-frees-up-any-of-the-lead-ballast-at-all).
+Alastair was a consistent voice for **designer fidelity** against speculative material/layout changes — objecting on those grounds to both an aluminum Paradox and a lengthened "motorsailer" Paradox, on the reasoning that substituting materials or purpose "throws away the designer's skill" and that a boat for different waters should be designed from scratch (see [aluminum Paradox](/design/aluminum-construction-idea.md) and [Motorsailer Paradox](/design/variants/motorsailer-idea.md)). The same argument recurred more bluntly in the "Steel?" thread's design-philosophy dispute, which turned personal: a Paradox built in wood/epoxy is what the design *is*; the whole steel idea seemed like "hot air," and anyone serious about it should build one and report back rather than keep arguing — Paradox is "a silk purse in boating terms," and there is no reason to turn it into "a sow's ear." See [aluminum and steel Paradox (speculative) — the design-philosophy objection escalates into a personal dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute). Chine runners work rather than a keel by design, with heeling countered by hull shape and ballast — explained to newcomers with a disc-vs-cup (anemometer) analogy; see [chine runners and windward performance](/chine-runners/how-they-work.md). Recurring newcomer questions on first-boat suitability, tools, scaling, sculling speed, and sanitation ("Bucket & chuck it!") point to the construction articles and the plans; Matt Layden recalled averaging **2 knots** sculling the calm section of the 2003 Everglades Challenge (see [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md)). A maintained website hosted both a construction-photo gallery and a **20-picture CATIA CAD model** of the Paradox, built during CAD training and added to the group's links area, signed off "Hoping for calm nights." A Paradox's bilge pump sees little real use: even knocked flat with the hatch cracked open, too little water comes aboard for a portable pump to get a purchase on — a sponge suffices; see [weight, ballast, and displacement](/design/weight-and-ballast.md#real-world-need-for-the-bilge-pump). On fit and comfort for very tall sailors, height alone is not decisive — how it is distributed between torso and legs matters more, since a long-torso/short-legs build can find the hatch-shut cabin cramped at a height that poses no problem on a long-legged/short-torso build of the same overall height. A claustrophobia worry answers to a convertible-car analogy: hatch open, it feels like being in the open with only the head exposed; hatch shut, like a car with the top up, a small space most people do not find confining — though seeing a boat in person before deciding is always the better test. See [crew size and cabin fit — a very large sailor's fit: 6'8"/315 lb, and a cardboard-mockup suggestion](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion). A Build Manual's stress on precision in beam lamination can needlessly worry novice builders — a deliberately workboat-finish approach still produces exactly the sailing boat wanted; deck beams laminated from **7 mm strips, steamed before bending**, need only 3 clamps per beam; see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment). The first Australian Paradox launch was greeted with "soon it will be truly said that the sun never sets on the Paradox"; see [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero). For tiller-slot watertightness, a simpler fix than either a sealed boot or a redesign is a second rubber baffle disc fixed to the tiller itself, ahead of the transom, to deflect water without blocking airflow. See [transom deck plate — a simpler alternative for the tiller opening: a second rubber baffle disc](/construction/transom-deck-plate.md#a-simpler-alternative-for-the-tiller-opening-a-second-rubber-baffle-disc). Paradox's 70-180 kg ballast range exists to tune trim to whatever stores are loaded for a given trip, not to cover build-weight variance — so a steel-hulled Paradox would still need the same roughly 110 kg (240 lb) of ballast a plywood one does. See [aluminum and steel Paradox (speculative) — ballast placement: independent of hull material](/design/aluminum-construction-idea.md#ballast-placement-independent-of-hull-material). A real-world ballast data point: "Little Jim" was weighed before launch and lead added to reach the design displacement of 640 kg, with shifting the lead around found to significantly affect handling; the design rule of a pound of lead out for every pound of stores added matters most for long trips, though it went untested over a longest trip of six days. See [aluminum and steel Paradox (speculative) — whether a steel hull frees up any of the lead ballast at all](/design/aluminum-construction-idea.md#whether-a-steel-hull-frees-up-any-of-the-lead-ballast-at-all).
 
-How much room the forward stateroom takes up depends on trip length — tight
-on a two-month trip away from civilization, but far more than needed for a
-couple of weeks away. "Little Jim"'s stateroom holds only bedding so far
-(using just two of the side bins), is not entered underway except in calm
-conditions, and costs no steering control even from the cabin's forward end
-thanks to the tiller rope running fully around the inside of the boat. The
-stock central divider in that compartment is "crying out for
-modification" — a section cut out already for easier battery removal, tool
-clips considered, and near-total removal possible to open up the space, at
-the cost of needing to tie everything down more securely. See [interior bin
-panels and hinged
-floor](/design/interior-bins-and-floor.md#forward-compartment-access) and
-[Jack Gardiner](/people/jack-gardiner.md). Chine runners built as drawn need
-no sacrificial-rub-rail modification: they give no worries about damage,
-"built like a tank," and anything capable of real damage to the chines would
-already be causing much bigger problems than a bit of wet ply — Matt
-Layden's evident intent was building them strong rather than easily
-repairable. See [chine runner construction — build
-order](/chine-runners/construction.md#build-order-runners-integral-with-the-bottom-not-a-sacrificial-add-on).
-For sliding-ballast-track and windsurfer-rig proposals, building to the
-plans and sailing the boat first is the sounder approach, since without a
-standard rig or ballast arrangement to compare against there is no way to
-know whether a speculative change is really an improvement — internal
-woodwork besides the bulkheads and tank top comes out in about 10 minutes,
-so a track system could always be retrofitted later. See [weight, ballast,
-and displacement — sliding ballast on X-Y
-tracks](/design/weight-and-ballast.md#sliding-ballast-on-x-y-tracks-speculative).
+How much room the forward stateroom takes up depends on trip length — tight on a two-month trip away from civilization, but far more than needed for a couple of weeks away. "Little Jim"'s stateroom holds only bedding so far (using just two of the side bins), is not entered underway except in calm conditions, and costs no steering control even from the cabin's forward end thanks to the tiller rope running fully around the inside of the boat. The stock central divider in that compartment is "crying out for modification" — a section cut out already for easier battery removal, tool clips considered, and near-total removal possible to open up the space, at the cost of needing to tie everything down more securely. See [interior bin panels and hinged floor](/design/interior-bins-and-floor.md#forward-compartment-access). Chine runners built as drawn need no sacrificial-rub-rail modification: they give no worries about damage, "built like a tank," and anything capable of real damage to the chines would already be causing much bigger problems than a bit of wet ply — Matt Layden's evident intent was building them strong rather than easily repairable. See [chine runner construction — build order](/chine-runners/construction.md#build-order-runners-integral-with-the-bottom-not-a-sacrificial-add-on). For sliding-ballast-track and windsurfer-rig proposals, building to the plans and sailing the boat first is the sounder approach, since without a standard rig or ballast arrangement to compare against there is no way to know whether a speculative change is really an improvement — internal woodwork besides the bulkheads and tank top comes out in about 10 minutes, so a track system could always be retrofitted later. See [weight, ballast, and displacement — sliding ballast on X-Y tracks](/design/weight-and-ballast.md#sliding-ballast-on-x-y-tracks-speculative).
 
-A firsthand counterweight to the bow-led-anchor flooding scenario: on one
-"less sensible" passage, green water repeatedly washed over the whole
-boat — enough to have swamped an open dinghy — yet only a small quantity of
-water reached the vent trunk, whose own drain cleared it faster than it came
-in, with no flooding reaching the stateroom. Three methods exist for
-anchoring off the bow without leaving the cabin; one in regular practical
-use doubles as a safety-harness jackline and a ready stern/bow line when
-coming alongside. See [transom deck plate —
-bow-led vs. stern-led ground tackle: the rudder-stress and flooding-path
-case, restated](/construction/transom-deck-plate.md#bow-led-vs-stern-led-ground-tackle-the-rudder-stress-and-flooding-path-case-restated).
+A firsthand counterweight to the bow-led-anchor flooding scenario: on one "less sensible" passage, green water repeatedly washed over the whole boat — enough to have swamped an open dinghy — yet only a small quantity of water reached the vent trunk, whose own drain cleared it faster than it came in, with no flooding reaching the stateroom. Three methods exist for anchoring off the bow without leaving the cabin; one in regular practical use doubles as a safety-harness jackline and a ready stern/bow line when coming alongside. See [transom deck plate — bow-led vs. stern-led ground tackle: the rudder-stress and flooding-path case, restated](/construction/transom-deck-plate.md#bow-led-vs-stern-led-ground-tackle-the-rudder-stress-and-flooding-path-case-restated).
 
-On heaving-to: three untested ideas follow from ordinary sailing
-experience — holding the boom in a fixed position (since the boat
-weathercocks downwind with the rudder fully raised) to make the hull lie at
-a chosen angle to the sea; sheeting a couple of feet of sail in tight with
-the rudder turned up toward the wind, on the reasoning that too little sail
-would be up to drive through the wind; and deliberately unbalancing the boat
-before a tack, since an unbalanced Paradox already gives trouble tacking.
-See [heavy
-weather tactics — untested heaving-to
-ideas](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing).
+On heaving-to: three untested ideas follow from ordinary sailing experience — holding the boom in a fixed position (since the boat weathercocks downwind with the rudder fully raised) to make the hull lie at a chosen angle to the sea; sheeting a couple of feet of sail in tight with the rudder turned up toward the wind, on the reasoning that too little sail would be up to drive through the wind; and deliberately unbalancing the boat before a tack, since an unbalanced Paradox already gives trouble tacking. See [heavy weather tactics — untested heaving-to ideas](/operations/heavy-weather-tactics.md#untested-heaving-to-ideas-boom-position-minimal-sail-and-deliberate-unbalancing).
 
-In February 2005, a move to broadband led to closing the old Claranet
-account and moving the long-running "Little Jim" construction-photo site to
-a new host, `www.as4jg.freeuk.com`. See [Little Jim — the construction-photo
-site moves to
-Freeuk](/boats/little-jim.md#the-construction-photo-site-moves-to-freeuk-february-2005).
+In February 2005, a move to broadband led to closing the old Claranet account and moving the long-running "Little Jim" construction-photo site to a new host, `www.as4jg.freeuk.com`. See [Little Jim — the construction-photo site moves to Freeuk](/boats/little-jim.md#the-construction-photo-site-moves-to-freeuk-february-2005).
 
-A wind-against-tide tactical error on an early coastal trip put "Little Jim"
-close-hauled in a fast tide running against the wind, sending green water
-over the cabin throughout — handled by the boat with no fuss, and settling a
-practical case against loose foredeck storage of fuel or an outboard in such
-conditions. A PVC-tape sheer line washed almost entirely off during that same
-trip yet not a drop of water got inside the boat, which Alastair credited to
-the **design** (the cabin hatch seal above all) rather than his own
-workmanship.[249][250][251] See [heavy weather tactics — a wind-against-tide
-encounter, and the case against foredeck
-storage](/operations/heavy-weather-tactics.md#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage).
+A wind-against-tide tactical error on an early coastal trip put "Little Jim" close-hauled in a fast tide running against the wind, sending green water over the cabin throughout — handled by the boat with no fuss, and settling a practical case against loose foredeck storage of fuel or an outboard in such conditions. A PVC-tape sheer line washed almost entirely off during that same trip yet not a drop of water got inside the boat, which Alastair credited to the **design** (the cabin hatch seal above all) rather than his own workmanship.[249][250][251] See [heavy weather tactics — a wind-against-tide encounter, and the case against foredeck storage](/operations/heavy-weather-tactics.md#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage).
 
-A firsthand yuloh verdict closes out the "Mainsheet and outboard" canal
-thread: excellent as a power source once the wind drops, but hard going in
-any direction but downwind against a real breeze, since the yuloh's thrust
-acts too far aft to easily stop the bow blowing off. See [rig and sail —
-mainsheet fouling on the rudder and rear deck with an outboard
-fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[259]
-Separately, a newcomer's plans-request impatience drew a characteristically
-blunt reply — that impatience this early might mean Paradox, "more of a
-relaxed sail," is not the right boat — before again pointing him to
-`microcruising.com` for the plans themselves. See [building plans — source
-and cost](/references/building-plans.md#source-and-cost).[260]
+A firsthand yuloh verdict closes out the "Mainsheet and outboard" canal thread: excellent as a power source once the wind drops, but hard going in any direction but downwind against a real breeze, since the yuloh's thrust acts too far aft to easily stop the bow blowing off. See [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[259] Separately, a newcomer's plans-request impatience drew a characteristically blunt reply — that impatience this early might mean Paradox, "more of a relaxed sail," is not the right boat — before again pointing him to `microcruising.com` for the plans themselves. See [building plans — source and cost](/references/building-plans.md#source-and-cost).[260]
 
-Answering a prospective builder's cabin-dimension question, Alastair reported
-930 mm (about 36.5 in) of clearance under "Little Jim"'s closed hatch, built
-as close to the plans as possible, and noted the roof could go up or the
-floor down if more clearance were ever wanted. See [crew size and fit —
-Glen Maxwell's measured cabin
-dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[265]
-Answering a later, separate max-pilot-weight/height question, Alastair judged
-weight irrelevant at stock length (removable lead ballast can be reduced to
-compensate) and gave "Little Jim"'s own sitting headroom (860 mm/~34 in) and
-stock sleeping length (1.8 m/~5 ft 11 in, extendable a further 0.8 m/~31 in
-with a minor mod). See [crew size and fit — pilot weight, height, and
-stability at stock
-length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).[283]
-On long-passage seat comfort, he rotates between a hard foam cushion, a soft
-foam cushion, and a small inner tube every couple of hours, finding the
-rotation itself — not any single cushion — is what actually reduces the
-pain; he also described the wheelchair-cushion's gel-bead construction, tried
-and failed to obtain a helicopter pilot's dinghy-box seat, and has been
-looking for a folding beach seat for sitting on the aft deck. See [crew size
-and fit — long-passage seat comfort: cushion
-practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[266][267]
-Built his own Paradox on a deliberate "better too much than too little"
-epoxy principle, using 2 lots of 25 kg with about 5 kg left over. See [epoxy
-brands and chemistry — how much epoxy a build actually
-uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).[270]
-On drinking water in an epoxy-lined tank, his own supplier advised against
-it, a decision confirmed by sludge found in the tank at the end of the
-first season; uses the built-in tank as ballast only, filling with sea
-water from remote launch sites, and carries drinking water separately. See
-[water tank construction and lining](/construction/water-tank-lining.md).[271]
-Answering a want-to-buy inquiry, Alastair noted he had heard of only one
-Paradox ever being resold — "they seem to be keepers" — and pointed the
-newcomer to microcruising.com for study plans and to Dave Bolduc for the
-full building plans. See [secondhand Paradox market — a want-to-buy inquiry
-from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[272]
-On the transom ventilation port, described his own practice (cover stays on
-except to load/unload spars, sufficient ventilation through the tiller slot
-alone, a knotted-string tether against losing the cover) and floated a
-bottom-hinged, line-operated cover design for anyone wanting to open the
-port at sea; on hearing Matt Layden's own port opens from the inside,
-wondered whether Matt actually sails with the cover off. See [transom deck
-plate — a 2006 revisiting](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).[273][274][275]
-Answering a yuloh-mounting question, cautioned that an ordinary rowlock
-risks tangling with the mainsheet and wears the oar enough to need good
-leathers, though a rowlock socket keeps the designed pin as a fallback
-option, and added that a transom wedge's top face should ideally sit
-parallel to the oar, though the exact angle probably doesn't matter much.
-See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[276][277]
-Answering a newcomer's build-time and dimension questions, gave his own
-build time for "Little Jim" as about 18 months and the flat sleeping area
-as 1.9 m by 0.9 m, with roughly another 0.5 m of legroom available from a
-small modification to the forward access; pointed to his own
-construction-photo website. See [first-boat suitability — build-time
-figures and difficulty
-rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).[278]
-The same newcomer's follow-up two-person-capacity question drew a direct
-answer: not really a boat for two under way, since only one person fits on
-the helm seat; sleeping two is a "cosy affair, but not impossible," with
-extra width gained by modifying the storage arrangements, as Kjell Karlsson
-has done on his composite-built boat. Also confirmed no plans exist for
-Little Cruiser (though Dave Bolduc, who owns her and sells the Paradox
-plans, hopes to create some) and gave a stock Paradox's material needs as
-about 10 sheets of plywood and 40-50 litres of epoxy. See [first-boat
-suitability — the two-person question, answered
-directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[279][280]
-Disputed a stability caution passed to a large prospective builder by
-pointing to his own website's "Stability" page and photo of himself trying
-to capsize "Little Jim" by hand; cited Matt Layden's own two-up sailing and
-Hugo Vihlen's 105-day, 5 ft 4 in *Father's Day* crossing as evidence little
-boats can do more than people expect; closed the thread by encouraging a
-correspondent's independent "Big Paradox" (20% larger) proposal. See [crew
-size and fit — pilot weight, height, and stability at stock
-length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length)
-and [stretched Paradox](/design/variants/stretched-paradox.md).[284][285]
-Answering a spar-and-sail road-stowage question, described loading the mast,
-boom, yard, and sail through the transom hatch as a tight but workable fit,
-laying the mast atop the already-stowed boom with a single lashing (the same
-rig used passing under low bridges under sail), and valued the hatch both
-for road security and for easier build access to the rear deck fittings. See
-[transom deck plate — stowing the mast, boom, yard, and sail through the
-transom hatch for road
-travel](/construction/transom-deck-plate.md#stowing-the-mast-boom-yard-and-sail-through-the-transom-hatch-for-road-travel).[289]
-Separately answered a road-trailering question about sleeping aboard between
-cruising grounds: has done so in his own motor cruiser and would consider it
-in a Paradox, but cautioned against remote laybys (having been woken there by
-police, though never moved on) in favor of an ordinary residential street,
-which draws no attention. See [boats/enuf.md — a carpal-tunnel operation
-halts progress, and a five-week
-pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[290]
-Closed out the same thread with a joking offer of a cold-water bucket wash
-for anyone dossing outside his house, and a light closer that a Paradox's
-closed cabin at least keeps its sailor dry and warm.[291][292]
-Following up on that same exchange, offered a hesitant newcomer a firsthand
-test sail at a DCA meeting near Hurst Point, gave the "Little Jim" build's
-own cost and time figures (about 18 months, roughly £2,500), and put the
-poor market for unconventional small-boat designs down to a
-racing-influenced marketing effect rather than any real performance
-shortfall. See [secondhand Paradox market — build vs. buy secondhand: a UK
-newcomer's cost-benefit
-hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[293][294][295]
-Answering a new member's plans-sourcing question, gave the standard
-patience answer (the Bolducs were probably out sailing) and judged Don
-Elliott's manual, assuming that was meant, useful for a first-timer despite
-"quite a lot of less useful stuff" in it. See [building plans — a July 2006
-recurrence, and a blunt assessment of the paid manual's
-quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[309]
-Agreed with a proposal to narrow and reinforce bulkhead 3 for two-person
-sleeping, adding only that the bulkhead should be temporarily braced across
-its top until the hanging knees go in. See [crew size and fit — modifying
-bulkhead 3 to gain room for sleeping
-two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[310]
-Continuing the ballast-poll banter over his own surplus lead bricks, offered
-them on provided he wasn't made to drink the beer in exchange (disliking the
-taste), and noted it would likely be cheaper to source lead locally than to
-travel any distance to collect his. See [weight, ballast, and displacement —
-Ballast](/design/weight-and-ballast.md#ballast).[315]
-Asked in 2006 by a prospective visitor whether anyone lived near Florida to
-show him a Paradox in person, replied only to wonder aloud whether Matt
-Layden himself lived in Florida, before Glen Maxwell and David Beard answered
-with their own locations and open invitations.[325]
-When Derek Clark put "Enuf" up for sale in September 2006, called the asking
-price a bargain and asked, half in jest, whether he had pushed Derek too hard
-sailing together at Poole. See
-[boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[330]
-Commenting on Bill Serjeant's rudder photos, reported that he and Derek Clark
-had both found the mainsheet dropping into the rudder-stock/transom gap and
-riding up over the pintle/gudgeon on a broad reach or run, fixed with a small
-wooden fairlead insert. See [design/rudder.md — rudder-stock height and
-mainsheet fouling at the transom
-notch](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).[331]
-When Derek Clark announced his departure from the group, argued he had a
-duty to keep lurking and offering build advice rather than leave outright,
-estimating he held some 11% of the world's complete Paradox build
-knowledge. See
-[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[332]
-Answering a new correspondent's own full-skeg, barn-door-rudder redesign
-sketch, asked bluntly whether an engine was planned, since without one the
-boat would likely need help getting through a tack. See [design/rudder.md —
-a proposed full skeg and barn-door rudder, and why it shifts the whole
-design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[333]
+Answering a prospective builder's cabin-dimension question, Alastair reported 930 mm (about 36.5 in) of clearance under "Little Jim"'s closed hatch, built as close to the plans as possible, and noted the roof could go up or the floor down if more clearance were ever wanted. See [crew size and fit — measured cabin dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).[265] Answering a later, separate max-pilot-weight/height question, Alastair judged weight irrelevant at stock length (removable lead ballast can be reduced to compensate) and gave "Little Jim"'s own sitting headroom (860 mm/~34 in) and stock sleeping length (1.8 m/~5 ft 11 in, extendable a further 0.8 m/~31 in with a minor mod). See [crew size and fit — pilot weight, height, and stability at stock length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).[283] On long-passage seat comfort, he rotates between a hard foam cushion, a soft foam cushion, and a small inner tube every couple of hours, finding the rotation itself — not any single cushion — is what actually reduces the pain; he also described the wheelchair-cushion's gel-bead construction, tried and failed to obtain a helicopter pilot's dinghy-box seat, and has been looking for a folding beach seat for sitting on the aft deck. See [crew size and fit — long-passage seat comfort: cushion practice](/operations/crew-size-and-fit.md#long-passage-seat-comfort-cushion-practice).[266][267] Built his own Paradox on a deliberate "better too much than too little" epoxy principle, using 2 lots of 25 kg with about 5 kg left over. See [epoxy brands and chemistry — how much epoxy a build actually uses](/construction/epoxy-brands-and-chemistry.md#how-much-epoxy-a-build-actually-uses).[270] On drinking water in an epoxy-lined tank, his own supplier advised against it, a decision confirmed by sludge found in the tank at the end of the first season; uses the built-in tank as ballast only, filling with sea water from remote launch sites, and carries drinking water separately. See [water tank construction and lining](/construction/water-tank-lining.md).[271] Answering a want-to-buy inquiry, Alastair noted he had heard of only one Paradox ever being resold — "they seem to be keepers" — and pointed the newcomer to microcruising.com for study plans and to the plans' seller for the full building plans. See [secondhand Paradox market — a want-to-buy inquiry from Texas](/operations/secondhand-market.md#a-want-to-buy-inquiry-from-texas).[272] On the transom ventilation port, described his own practice (cover stays on except to load/unload spars, sufficient ventilation through the tiller slot alone, a knotted-string tether against losing the cover) and floated a bottom-hinged, line-operated cover design for anyone wanting to open the port at sea; on hearing Matt Layden's own port opens from the inside, wondered whether Matt actually sails with the cover off. See [transom deck plate — a 2006 revisiting](/construction/transom-deck-plate.md#a-2006-revisiting-an-inward-opening-cover-a-handle-and-lanyard-or-twin-back-to-back-ports).[273][274][275] Answering a yuloh-mounting question, cautioned that an ordinary rowlock risks tangling with the mainsheet and wears the oar enough to need good leathers, though a rowlock socket keeps the designed pin as a fallback option, and added that a transom wedge's top face should ideally sit parallel to the oar, though the exact angle probably doesn't matter much. See [boats/enuf.md](/boats/enuf.md#the-yard-revisited-a-strop-and-sheave-halyard-and-finishing-the-boom).[276][277] Answering a newcomer's build-time and dimension questions, gave his own build time for "Little Jim" as about 18 months and the flat sleeping area as 1.9 m by 0.9 m, with roughly another 0.5 m of legroom available from a small modification to the forward access; pointed to his own construction-photo website. See [first-boat suitability — build-time figures and difficulty rating](/operations/first-boat-suitability.md#build-time-figures-and-difficulty-rating).[278] The same newcomer's follow-up two-person-capacity question drew a direct answer: not really a boat for two under way, since only one person fits on the helm seat; sleeping two is a "cosy affair, but not impossible," with extra width gained by modifying the storage arrangements, as done on at least one other composite-built boat. Also confirmed no plans exist for Little Cruiser (though the plans' seller, who owns her, hopes to create some) and gave a stock Paradox's material needs as about 10 sheets of plywood and 40-50 litres of epoxy. See [first-boat suitability — the two-person question, answered directly](/operations/first-boat-suitability.md#the-two-person-question-answered-directly).[279][280] Disputed a stability caution passed to a large prospective builder by pointing to his own website's "Stability" page and photo of himself trying to capsize "Little Jim" by hand; cited Matt Layden's own two-up sailing and Hugo Vihlen's 105-day, 5 ft 4 in *Father's Day* crossing as evidence little boats can do more than people expect; closed the thread by encouraging a correspondent's independent "Big Paradox" (20% larger) proposal. See [crew size and fit — pilot weight, height, and stability at stock length](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length) and [stretched Paradox](/design/variants/stretched-paradox.md).[284][285] Answering a spar-and-sail road-stowage question, described loading the mast, boom, yard, and sail through the transom hatch as a tight but workable fit, laying the mast atop the already-stowed boom with a single lashing (the same rig used passing under low bridges under sail), and valued the hatch both for road security and for easier build access to the rear deck fittings. See [transom deck plate — stowing the mast, boom, yard, and sail through the transom hatch for road travel](/construction/transom-deck-plate.md#stowing-the-mast-boom-yard-and-sail-through-the-transom-hatch-for-road-travel).[289] Separately answered a road-trailering question about sleeping aboard between cruising grounds: has done so in his own motor cruiser and would consider it in a Paradox, but cautioned against remote laybys (having been woken there by police, though never moved on) in favor of an ordinary residential street, which draws no attention. See [boats/enuf.md — a carpal-tunnel operation halts progress, and a five-week pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[290] Closed out the same thread with a joking offer of a cold-water bucket wash for anyone dossing outside his house, and a light closer that a Paradox's closed cabin at least keeps its sailor dry and warm.[291][292] Following up on that same exchange, offered a hesitant newcomer a firsthand test sail at a DCA meeting near Hurst Point, gave the "Little Jim" build's own cost and time figures (about 18 months, roughly £2,500), and put the poor market for unconventional small-boat designs down to a racing-influenced marketing effect rather than any real performance shortfall. See [secondhand Paradox market — build vs. buy secondhand: a UK newcomer's cost-benefit hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation).[293][294][295] Answering a new member's plans-sourcing question, gave the standard patience answer (the plans' sellers were probably out sailing) and judged the construction manual, assuming that was meant, useful for a first-timer despite "quite a lot of less useful stuff" in it. See [building plans — a July 2006 recurrence, and a blunt assessment of the paid manual's quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[309] Agreed with a proposal to narrow and reinforce bulkhead 3 for two-person sleeping, adding only that the bulkhead should be temporarily braced across its top until the hanging knees go in. See [crew size and fit — modifying bulkhead 3 to gain room for sleeping two](/operations/crew-size-and-fit.md#modifying-bulkhead-3-to-gain-room-for-sleeping-two).[310] Continuing the ballast-poll banter over his own surplus lead bricks, offered them on provided he wasn't made to drink the beer in exchange (disliking the taste), and noted it would likely be cheaper to source lead locally than to travel any distance to collect his. See [weight, ballast, and displacement — Ballast](/design/weight-and-ballast.md#ballast).[315] Asked in 2006 by a prospective visitor whether anyone lived near Florida to show him a Paradox in person, replied only to wonder aloud whether Matt Layden himself lived in Florida, before two other builders answered with their own locations and open invitations.[325] When a fellow builder's boat "Enuf" went up for sale in September 2006, called the asking price a bargain and asked, half in jest, whether he had pushed its owner too hard sailing together at Poole. See [boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale).[330] Commenting on a fellow builder's rudder photos, reported that both of them had found the mainsheet dropping into the rudder-stock/transom gap and riding up over the pintle/gudgeon on a broad reach or run, fixed with a small wooden fairlead insert. See [design/rudder.md — rudder-stock height and mainsheet fouling at the transom notch](/design/rudder.md#rudder-stock-height-and-mainsheet-fouling-at-the-transom-notch).[331] When "Enuf"'s builder announced his departure from the group, argued he had a duty to keep lurking and offering build advice rather than leave outright, estimating he held some 11% of the world's complete Paradox build knowledge. See [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[332] Answering a new correspondent's own full-skeg, barn-door-rudder redesign sketch, asked bluntly whether an engine was planned, since without one the boat would likely need help getting through a tack. See [design/rudder.md — a proposed full skeg and barn-door rudder, and why it shifts the whole design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[333]
 
 # Citations
 
@@ -1599,14 +481,14 @@ design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-s
 [328] Archive message page_3918 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3950, 2006-09-03) — "Re: Side Motor Mount Photos, under IRONSIDES": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#a-worked-side-mount-installation-and-the-risk-of-shipping-water-while-fitting-it-afloat); calls Stephen Yahn's side mount an elegant solution, hoping it doesn't take on too much water while being fitted afloat. Signed "Hoping for calm nights, Al, Yeovil, England."
 [329] Archive message page_3920 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3952, 2006-09-04) — "Paradox outboard bracket": full text and citation at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#an-outboard-bracket-published-for-reference); cross-posted to `paradoxbuilders` and `smallsailboats`, has posted pictures of his own removable side-mounted outboard bracket on his website, noting the mount avoids sheet fouling for motor-sailing so long as heel does not submerge the outboard's head, and flagging a new web address after the old one was overwhelmed by spam. Signed "Hoping for calm nights, Al, Yeovil, England."
 [330] Archive message page_3936 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3968, 2006-09-07) — "Re: Paradox for Sale UK": full text and citation at [boats/enuf.md](/boats/enuf.md#enuf-offered-for-sale); calls the asking price a bargain and asks whether he pushed Derek too hard sailing together.
-[331] Archive message page_3949 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3982, 2006-09-12) — "Re: Faith's rudder": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); praises Bill's rudder photos; describes the mainsheet/pintle fouling problem and his wooden-insert fairlead fix. Signed "Al, Yeovil, England."
+[331] Archive message page_3949 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3982, 2006-09-12) — "Re: Faith's rudder": full text and citation at [boats/faith.md](/boats/faith.md#faiths-rudder-a-sheet-fairlead-fix-and-boom-tang-strength); praises Bill's rudder photos; describes the mainsheet/pintle fouling problem and his wooden-insert fairlead fix. Signed "Al, Yeovil, England."
 [332] Archive message page_3964 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3998, 2006-09-17) — "Re: Goodbye": full text and citation at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts); "No need to leave Derek, in fact you have a duty to stay. You contain 11% of the complete build information in the known world." Signed "Al, Yeovil, England."
 [333] Archive message page_3965 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3999, 2006-09-17) — "Re: MoDz'": full text and citation at [design/rudder.md](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design); "Are you intending to fit an engine? I expect you will need it if you want to get through a tack." Signed "Al, Yeovil, England."
-[334] Archive message page_3980 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4014, 2006-09-24) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); drilled and tapped into the top of his own lead pigs and bolted on a plate anchored into the chine log; not particularly rigid, but shows no sign of movement; recommends leaving ballast unfastened at first, since he and Derek Clark both moved pigs around on early sails to balance the boat. Signed "Al, Yeovil, England."
-[335] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); coats the tank top's underside with masses of thickened glue, reaching in through the access hatches to spread the squeezed-out excess into a fillet by hand, wearing disposable gloves; no leaks at the tank tops this way, unlike the inspection hatches. Signed "Al, Yeovil, England."
-[336] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); suggests 1 in access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
+[334] Archive message page_3980 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4014, 2006-09-24) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); drilled and tapped into the top of his own lead pigs and bolted on a plate anchored into the chine log; not particularly rigid, but shows no sign of movement; recommends leaving ballast unfastened at first, since he and Derek Clark both moved pigs around on early sails to balance the boat. Signed "Al, Yeovil, England."
+[335] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); coats the tank top's underside with masses of thickened glue, reaching in through the access hatches to spread the squeezed-out excess into a fillet by hand, wearing disposable gloves; no leaks at the tank tops this way, unlike the inspection hatches. Signed "Al, Yeovil, England."
+[336] Archive message page_3984 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4018, 2006-09-26) — "Re: Ballast access": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); suggests 1 in access holes above the bolt heads as an alternative to a removable plank. Signed "Al, Yeovil, England."
 [337] Archive message page_3987 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4021, 2006-10-03) — "Re: Haliyard and Reef lines": full text and citation at [design/rig.md](/design/rig.md#why-matt-laydens-foot-drag-furling-method-needs-no-extra-hardware) and [people/stephen-yahn.md](/people/stephen-yahn.md); explains Matt Layden keeps tension on both halyard and furling lines with his foot because he uses no topping lift, and any dead-drum device would still need a foot, not just hands, to hold the other line's load; built to the stock plans rather than his own early "improvements," most of which he later found stemmed from not understanding the system; the only two changes he judges genuinely successful are the hatch window and splitting the underfloor locker lids so they open with the seat down; remains unsure whether he will keep his water ballast at all. Signed "Al, Yeovil, England."
 [338] Archive message page_3989 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4023, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [construction/water-tank-lining.md](/construction/water-tank-lining.md#fixing-the-tank-tops-in-place) and [people/stephen-yahn.md](/people/stephen-yahn.md); does not drink the ballast water either, having found "interesting slime" in the tank after his first season filling from a tap; now fills from whatever water he is floating in via an electric bilge pump, keeping the option to clean and refill with drinking water for a genuinely long trip. Signed "Al, Yeovil, England."
-[339] Archive message page_3994 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4029, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-trim-question-and-little-jims-tacking-quirk); asks Alastair how much fore-and-aft trim actually matters, having assumed Paradox was heavy enough that the ballast sitting slightly one way or the other would make no real difference. Signed "Bill."
+[339] Archive message page_3994 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4029, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [boats/faith.md](/boats/faith.md#a-trim-question-and-little-jims-tacking-quirk); asks Alastair how much fore-and-aft trim actually matters, having assumed Paradox was heavy enough that the ballast sitting slightly one way or the other would make no real difference. Signed "Bill."
 [340] Archive message page_3996 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4030, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [design/rudder.md](/design/rudder.md#sudden-total-loss-of-rudder-effect-mid-tack-and-tacking-technique); on launching "Little Jim" he occasionally had trouble tacking, not coming up to the wind or getting stuck head to wind; playing with the trim mostly sorted it, though it may just have been his own developing technique and not the boat; sails happily on any point regardless of trim, tested with a passenger's weight moved about; only tacking seems trim-sensitive; gybes benignly, always giving another way round. Signed "Al, Yeovil, England."
-[341] Archive message page_3997 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4031, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-trim-question-and-little-jims-tacking-quirk); looks forward to discovering whether "Faith" shows the same tacking characteristic once she is on the water. Signed "Bill."
+[341] Archive message page_3997 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4031, 2006-10-05) — "Re: Haliyard and Reef lines": full text and citation at [boats/faith.md](/boats/faith.md#a-trim-question-and-little-jims-tacking-quirk); looks forward to discovering whether "Faith" shows the same tacking characteristic once she is on the water. Signed "Bill."

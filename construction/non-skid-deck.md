@@ -1,17 +1,14 @@
 ---
 type: Concept
 title: Non-skid deck finish
-description: Glen Maxwell's walnut-shell-in-epoxy non-skid deck technique for the Paradox — attractive, foot-friendly, and grippier when wet.
+description: A walnut-shell-in-epoxy non-skid deck technique for the Paradox — attractive, foot-friendly, and grippier when wet.
 tags: [paradox, construction, deck, non-skid, finish, epoxy]
 timestamp: 2026-07-01T00:00:00Z
 ---
 
 # Non-skid deck finish
 
-To give the [Paradox](/paradox.md) deck a non-slip surface,
-[Glen C. Maxwell](/people/glen-maxwell.md) used **crushed walnut shells set in
-epoxy**. Laying out the non-skid pattern first requires all deck hardware
-positions to be firmed up.
+One way to give the [Paradox](/paradox.md) deck a non-slip surface is **crushed walnut shells set in epoxy**. Laying out the non-skid pattern first requires all deck hardware positions to be firmed up.
 
 ## Method
 
@@ -22,58 +19,23 @@ positions to be firmed up.
 ## Result
 
 - An **attractive finish** that is **kind on feet and knees** when dry.
-- When **wet**, the exposed wood swells up above the paint, giving a **very firm,
-  grippy surface**.
+- When **wet**, the exposed wood swells up above the paint, giving a **very firm, grippy surface**.
 
-This is one of several finishing techniques Glen brought from his professional
-background at Gold Coast Yachts; compare his
-[bottom-painting method](/construction/bottom-painting.md).
+This is one of several finishing techniques carried over from professional yacht-building at Gold Coast Yachts; compare the [bottom-painting method](/construction/bottom-painting.md).
 
 ## Spantex/Flex-o-Tex rubber-based non-skid
 
-Plain **sand-in-paint** non-skid is easy to apply but poor to live with — it
-needs frequent overcoating to look its best, and removing it later is an
-"incredible frustration," on the verdict of a professional experienced in
-installing non-skid on both pleasure and commercial boats. Glen Maxwell's
-walnut-shell-in-epoxy method above is rated likely to give a comfortable
-surface once the shell tops are ground off. The stronger recommendation,
-from the same professional experience, is a product used with no
-maintenance for **eight years, ice to desert**: originally sold as
-**"Flex-o-Tex"** or **"Dex-o-Tex,"** now sold as **"Spantex."** It is a
-**latex rubber base** with chunks of **Hypalon rubber** providing the grip.
-Application: strip any paint/varnish and scratch the surface hard with
-24-grit sandpaper; squeegee on the "base coat" (which carries the Hypalon
-chunks), applying it in several successive coats; once fully dry, roll on
-the "finish coat" for color. To refresh the color later, clean with TSP and
-a scrub brush, then recoat with finish coat alone. It has been applied
-successfully over fiberglass, bare plywood, planked decks, and concrete.
+Plain **sand-in-paint** non-skid is easy to apply but poor to live with — it needs frequent overcoating to look its best, and removing it later is an "incredible frustration." The walnut-shell-in-epoxy method above is likely to give a comfortable surface once the shell tops are ground off. A stronger recommendation, drawn from installing non-skid on many pleasure and commercial boats, is a product used with no maintenance for **eight years, ice to desert**: originally sold as **"Flex-o-Tex"** or **"Dex-o-Tex,"** now sold as **"Spantex."** It is a **latex rubber base** with chunks of **Hypalon rubber** providing the grip. Application: strip any paint/varnish and scratch the surface hard with 24-grit sandpaper; squeegee on the "base coat" (which carries the Hypalon chunks), applying it in several successive coats; once fully dry, roll on the "finish coat" for color. To refresh the color later, clean with TSP and a scrub brush, then recoat with finish coat alone. It has been applied successfully over fiberglass, bare plywood, planked decks, and concrete.
 
 ## Truck-bed and industrial coatings
 
-Roll-on truck-bed liner (Rhino-lining and similar products) has been raised
-as a possible deck non-skid, though no one on record has actually applied it
-to a Paradox.[6] Spray-applied industrial coatings of the same family are
-used commercially on workboat decks — available in a range of colors,
-though not cheap — and have also been seen sprayed onto a wooden hull (an
-old Chris Craft) rather than only decks.[8]
+Roll-on truck-bed liner (Rhino-lining and similar products) has been raised as a possible deck non-skid, though none has actually been applied to a Paradox.[6] Spray-applied industrial coatings of the same family are used commercially on workboat decks — available in a range of colors, though not cheap — and have also been sprayed onto a wooden hull (an old Chris Craft) rather than only decks.[8]
 
-A far cheaper alternative: rubberized non-skid strip made for household
-stair treads (sold in the childcare section of furniture stores) works well
-applied to a Paradox's decks, comes on a roll, and costs only a few dollars
-for enough to cover a deck twice over.[7]
+A far cheaper alternative: rubberized non-skid strip made for household stair treads (sold in the childcare section of furniture stores) works well applied to a Paradox's decks, comes on a roll, and costs only a few dollars for enough to cover a deck twice over.[7]
 
 ## Non-skid via broadcast grit
 
-[Dave Bolduc](/people/bolduc/dave.md) makes **Little Cruiser**'s non-skid
-deck by broadcasting **PETTIT 9900 Skidless Compound** (a fine
-silica/silicone-oxide grit) over wet paint, using a **large salt shaker** to
-spread it evenly, preferring it to a cheaper, coarser silicone-oxide grit
-sold at Home Depot. Once dry, loose grit is vacuumed off with a wet/dry vac
-and the deck recoated. This finish gets **several seasons of use** with a
-yearly repaint; plain fine sand is a cheaper alternative some builders use,
-but is much harder to remove later, whereas the silicone-oxide grit sands off
-more easily (though it wears sandpaper down quickly). On **Enigma**, the
-Bolducs instead used **broadcast pumice** on the deck.
+**Little Cruiser**'s non-skid deck is made by broadcasting **PETTIT 9900 Skidless Compound** (a fine silica/silicone-oxide grit) over wet paint, using a **large salt shaker** to spread it evenly, preferred over a cheaper, coarser silicone-oxide grit sold at Home Depot. Once dry, loose grit is vacuumed off with a wet/dry vac and the deck recoated. This finish gets **several seasons of use** with a yearly repaint; plain fine sand is a cheaper alternative, but is much harder to remove later, whereas the silicone-oxide grit sands off more easily (though it wears sandpaper down quickly). On **Enigma**, the deck instead used **broadcast pumice**.
 
 # Citations
 

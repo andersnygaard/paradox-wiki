@@ -12,7 +12,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 ## Contributions
 
-Leinweber republished [Glen C. Maxwell](/people/glen-maxwell.md)'s [bottom-painting technique](/construction/bottom-painting.md) in Duckworks with Glen's permission, helping carry the method to a wider small-boat audience. From his own experience he reported a paint failure on "Tennessee": the topside paint came off in sheets within a week of application, after only a day or two in salt water.
+Leinweber republished a [bottom-painting technique](/construction/bottom-painting.md) in Duckworks with permission, helping carry the method to a wider small-boat audience. A paint failure occurred on "Tennessee": the topside paint came off in sheets within a week of application, after only a day or two in salt water.
 
 # Citations
 

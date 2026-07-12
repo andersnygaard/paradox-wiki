@@ -8,519 +8,170 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Ground tackle and anchoring
 
-Anchoring the [Paradox](/paradox.md) is constrained by its size and its enclosed
-layout: there is limited room for ground tackle, and the plans' arrangement
-stows the anchor **below** rather than on the bow.
+Anchoring the [Paradox](/paradox.md) is constrained by its size and its enclosed layout: there is limited room for ground tackle, and the plans' arrangement stows the anchor **below** rather than on the bow.
 
 ## Why stow below: anchors are ballast
 
-The anchor should be stowed below because it is effectively part of the
-boat's **ballast**. Putting that weight up on the bow instead upsets the trim
-of a small Layden boat — on [Little Cruiser](/matt-layden/little-cruiser.md)
-an 11 lb Bruce carried on the bow roller **altered the trim sufficiently**
-that only a **light lunch hook** is now kept up there.
+The anchor should be stowed below because it is effectively part of the boat's **ballast**. Putting that weight up on the bow instead upsets the trim of a small Layden boat — on [Little Cruiser](/matt-layden/little-cruiser.md) an 11 lb Bruce carried on the bow roller **altered the trim sufficiently** that only a **light lunch hook** is now kept up there.
 
 ## A flush anchor well considered and declined (Glen Maxwell)
 
-A flush, self-draining anchor well let into the deck above the forward
-compartment (of the kind John Welsford uses on his own boat designs) has been
-considered and declined: going forward to the foredeck to work it "isn't a
-lot of fun." The working alternative is to stow anchors in **canvas ice bags
-in the bins aft of the seat**, easy to deploy and retrieve from the hatch —
-the rode is secured to the aft cleat, and once the anchor is set the only
-trip forward is to drop the line into the bow fairlead. To get under way,
-hoist sail, flip the line back out of the fairlead, pull it in alongside,
-then sheet in and go. This is the same canvas-ice-bag stowage and
-cockpit-worked retrieval method recorded in fuller detail below (see "Glen
-Maxwell's stern-set anchoring routine"). See also [interior bins and floor —
-bulkhead #1](/design/interior-bins-and-floor.md#design-intent-watertight-bulkhead-opening-is-optional)
-for the companion question of sealing bulkhead 1 watertight versus foaming
-the forward compartment solid.
+A flush, self-draining anchor well let into the deck above the forward compartment (of the kind used on some other small-boat designs) has been considered and declined: going forward to the foredeck to work it "isn't a lot of fun." The working alternative is to stow anchors in **canvas ice bags in the bins aft of the seat**, easy to deploy and retrieve from the hatch — the rode is secured to the aft cleat, and once the anchor is set the only trip forward is to drop the line into the bow fairlead. To get under way, hoist sail, flip the line back out of the fairlead, pull it in alongside, then sheet in and go. This is the same canvas-ice-bag stowage and cockpit-worked retrieval method recorded in fuller detail below (see the stern-set anchoring routine). See also [interior bins and floor — bulkhead #1](/design/interior-bins-and-floor.md#design-intent-watertight-bulkhead-opening-is-optional) for the companion question of sealing bulkhead 1 watertight versus foaming the forward compartment solid.
 
 ## Stowage: below-deck (as designed) vs. bow
 
-As designed, the anchor stows **below**. A smelly anchor stowed below decks is
-an unappealing prospect, but building as designed and testing it in practice
-is the sounder approach: **Matt Layden** lived aboard his own Paradox for a
-long time and, had it been a real problem, would likely have "catted it out
-on the bow." A practical alternative is to keep a **small anchor on a bow
-roller** for quick stops while stowing the main anchor below.
+As designed, the anchor stows **below**. A smelly anchor stowed below decks is an unappealing prospect, but building as designed and testing it in practice is the sounder approach: **Matt Layden** lived aboard his own Paradox for a long time and, had it been a real problem, would likely have "catted it out on the bow." A practical alternative is to keep a **small anchor on a bow roller** for quick stops while stowing the main anchor below.
 
 ## Matt Layden's stern-bucket method
 
-Rather than a bow roller, **Matt Layden**'s own practice is a **stern-first,
-walk-forward** routine:
+Rather than a bow roller, **Matt Layden**'s own practice is a **stern-first, walk-forward** routine:
 
 1. Carry an **11 lb Bruce in a bucket in the stern**.
 2. To anchor, grab the anchor from the bucket and **drop it off the stern**.
-3. Walk **calmly forward to the bow** paying out the rode, and **cleat it off**
-   at the bow.
-4. To leave, bring the line **back to the stern**, haul the anchor up, put it
-   back in the bucket, and sail off.
+3. Walk **calmly forward to the bow** paying out the rode, and **cleat it off** at the bow.
+4. To leave, bring the line **back to the stern**, haul the anchor up, put it back in the bucket, and sail off.
 
-For heavy weather he carries a **large Fisherman-style storm anchor under the
-floorboards**.
+For heavy weather he carries a **large Fisherman-style storm anchor under the floorboards**.
 
-**David and Mindy Bolduc** have used the identical method on
-[Little Cruiser](/matt-layden/little-cruiser.md) and it works fine. When they
-first got Little Cruiser, their Bruce anchor actually hung off the stern
-(rather than being stowed in a bucket), ready to deploy directly from there
-when needed — suggesting the stern-deployment idea may have started as
-simply as an anchor left hanging off the transom before the bucket-stowage
-refinement described above.
+The identical method has been used on [Little Cruiser](/matt-layden/little-cruiser.md) and it works fine. When Little Cruiser was first acquired, its Bruce anchor actually hung off the stern (rather than being stowed in a bucket), ready to deploy directly from there when needed — suggesting the stern-deployment idea may have started as simply as an anchor left hanging off the transom before the bucket-stowage refinement described above.
 
 ## How many anchors to carry
 
-A Paradox should carry **at least two anchors and generally three** (a
-well-regarded primary size being an **11 lb Delta Quickset**). The reasoning:
-an anchor can always be lost — let get away accidentally, or deliberately
-slipped to cast off and avoid being dragged down on by a larger vessel — so a
-spare is cheap insurance. Where losing a set anchor is a real possibility,
-tying a **float to the line** lets it be located and retrieved later rather
-than abandoned.
+A Paradox should carry **at least two anchors and generally three** (a well-regarded primary size being an **11 lb Delta Quickset**). The reasoning: an anchor can always be lost — let get away accidentally, or deliberately slipped to cast off and avoid being dragged down on by a larger vessel — so a spare is cheap insurance. Where losing a set anchor is a real possibility, tying a **float to the line** lets it be located and retrieved later rather than abandoned.
 
 ## Anchors builders favor
 
-Drawn partly from the practice on
-[Little Cruiser](/matt-layden/little-cruiser.md), a very similar boat:
+Drawn partly from the practice on [Little Cruiser](/matt-layden/little-cruiser.md), a very similar boat:
 
 | Boat | Main anchor | Storm anchor | Lunch hook / bow |
 |------|-------------|--------------|-------------------|
 | Matt's Paradox | 11 lb Bruce (in a stern bucket) | large Fisherman (under floorboards) | — |
-| Little Cruiser (Bolducs) | 9 lb Danforth (below floorboards) | 25 lb 3-piece Luke (below floorboards) | light lunch hook on bow |
+| Little Cruiser (later report) | 9 lb Danforth (below floorboards) | 25 lb 3-piece Luke (below floorboards) | light lunch hook on bow |
 | Little Cruiser (earlier list report) | Danforth | — | 4 lb Fortress on bow roller |
 
-Both of Little Cruiser's working anchors are now **stored below the
-floorboards**; only a light lunch hook remains on the bow after the trim
-problem with the 11 lb Bruce (above). Some builders would prefer a
-**fisherman** as the main anchor. The main-plus-bow-roller split suits sailing
-in short hops with many stops, though a fisherman may be preferred over a
-Danforth in that role; a Bruce anchor is well regarded generally, but there is
-no way to stow one aboard a Paradox other than in a stern bucket, not on the
-bow. Anchor and line contribute about **40 lb** to the boat's loaded weight
-(see [weight and ballast](/design/weight-and-ballast.md)); a cruiser carrying
-two roughly doubles that.
+Both of Little Cruiser's working anchors are now **stored below the floorboards**; only a light lunch hook remains on the bow after the trim problem with the 11 lb Bruce (above). Some builders would prefer a **fisherman** as the main anchor. The main-plus-bow-roller split suits sailing in short hops with many stops, though a fisherman may be preferred over a Danforth in that role; a Bruce anchor is well regarded generally, but there is no way to stow one aboard a Paradox other than in a stern bucket, not on the bow. Anchor and line contribute about **40 lb** to the boat's loaded weight (see [weight and ballast](/design/weight-and-ballast.md)); a cruiser carrying two roughly doubles that.
 
-Matt Layden's own 11 lb Bruce and ~15 lb fisherman, and Little Cruiser's 9 lb
-Danforth, 4 lb Fortress, and 25 lb Luke storm anchor, are the benchmark
-figures against which a general cruising-boat guidance pair of 15 lb
-Danforth-type and 14 lb fisherman (drawn from Matt Layden's *Beachcruising and
-Coastal Cruising*) looks heavy. **David Bolduc**'s recommendation for
-outfitting a Paradox from scratch: a **Danforth-style anchor plus some form of
-plow anchor** for trickier bottoms, each on **10-14 ft of 3/16"-1/4" galvanized
-chain** and **100 ft of 3/8" nylon line** (see rode material, below). The
-smaller, lighter anchors the Bolducs settled on work well in sand or mud, with
-the heavier 25 lb Luke reserved for thick eel grass or hard bottoms where the
-lighter anchors will not hold — a practical illustration that a Paradox's
-working ground tackle can run considerably lighter than a 14-15 lb pair chosen
-from general cruising-boat guidance.
+Matt Layden's own 11 lb Bruce and ~15 lb fisherman, and Little Cruiser's 9 lb Danforth, 4 lb Fortress, and 25 lb Luke storm anchor, are the benchmark figures against which a general cruising-boat guidance pair of 15 lb Danforth-type and 14 lb fisherman (drawn from Matt Layden's *Beachcruising and Coastal Cruising*) looks heavy. One recommendation for outfitting a Paradox from scratch: a **Danforth-style anchor plus some form of plow anchor** for trickier bottoms, each on **10-14 ft of 3/16"-1/4" galvanized chain** and **100 ft of 3/8" nylon line** (see rode material, below). The smaller, lighter anchors settled on for Little Cruiser work well in sand or mud, with the heavier 25 lb Luke reserved for thick eel grass or hard bottoms where the lighter anchors will not hold — a practical illustration that a Paradox's working ground tackle can run considerably lighter than a 14-15 lb pair chosen from general cruising-boat guidance.
 
 ## Rode material: nylon, not dacron, for stretch
 
-An anchor rode needs the **stretch and shock-absorbing qualities** that
-**3-strand nylon** line provides; dacron, a low-stretch line, does not serve
-the same purpose and should not be used for rode despite otherwise similar
-handling.
+An anchor rode needs the **stretch and shock-absorbing qualities** that **3-strand nylon** line provides; dacron, a low-stretch line, does not serve the same purpose and should not be used for rode despite otherwise similar handling.
 
-Separately, the Australian-made **SARCA** combination anchor (available in
-galvanized and stainless models from `anchorright.com.au`), designed to
-perform well across a range of bottom types, has been raised as an option
-worth investigating, with no field report on record.
+Separately, the Australian-made **SARCA** combination anchor (available in galvanized and stainless models from `anchorright.com.au`), designed to perform well across a range of bottom types, has been raised as an option worth investigating, with no field report on record.
 
 ## Deploying and recovering the anchor from the cabin
 
-The enclosed layout makes it **very hard to get forward to the bow** with an
-anchor and rode even in flat calm water, and "down right dangerous" in any real
-weather — motivating a way to deploy and recover the anchor **from the safety
-of the cabin**, without going forward at all.
+The enclosed layout makes it **very hard to get forward to the bow** with an anchor and rode even in flat calm water, and "down right dangerous" in any real weather — motivating a way to deploy and recover the anchor **from the safety of the cabin**, without going forward at all.
 
-One solution is a **cockpit-worked inhaul-line technique** that avoids a
-forward trip in either direction:
+One solution is a **cockpit-worked inhaul-line technique** that avoids a forward trip in either direction:
 
-1. Estimate the maximum depth you expect to anchor in (**X**), multiply by
-   **seven** for scope, and flake out that length of anchor rode, made fast at
-   the **bow cleat**.
-2. Attach a second, separate **inhaul line** to the anchor rode via a smooth
-   ring or carabiner; the inhaul line must be long enough to reach from the bow
-   back to the cockpit.
-3. Lead the **flaked-out rode** back to the **stern cleat** and make it fast
-   there too, then stow everything neatly.
-4. On reaching the anchorage, either (a) round up, deploy the anchor from the
-   cockpit, then back down under backed sail to set it, or (b) deploy the
-   anchor while its rode is still made fast to the **stern cleat** with way
-   still on the boat; once the anchor sets, release the rode from the stern
-   cleat and the boat will lie head-to-wind — this "generally" gives a very
-   well-set anchor and a good night's sleep.
-5. In both cases the ring/carabiner on the inhaul line rides forward along the
-   anchor rode to the bow as the rode pays out.
-6. To leave, **haul in the inhaul line from the cockpit** until the anchor rode
-   itself can be reached by hand, then weigh anchor and stow — again without
-   going forward.
+1. Estimate the maximum depth you expect to anchor in (**X**), multiply by **seven** for scope, and flake out that length of anchor rode, made fast at the **bow cleat**.
+2. Attach a second, separate **inhaul line** to the anchor rode via a smooth ring or carabiner; the inhaul line must be long enough to reach from the bow back to the cockpit.
+3. Lead the **flaked-out rode** back to the **stern cleat** and make it fast there too, then stow everything neatly.
+4. On reaching the anchorage, either (a) round up, deploy the anchor from the cockpit, then back down under backed sail to set it, or (b) deploy the anchor while its rode is still made fast to the **stern cleat** with way still on the boat; once the anchor sets, release the rode from the stern cleat and the boat will lie head-to-wind — this "generally" gives a very well-set anchor and a good night's sleep.
+5. In both cases the ring/carabiner on the inhaul line rides forward along the anchor rode to the bow as the rode pays out.
+6. To leave, **haul in the inhaul line from the cockpit** until the anchor rode itself can be reached by hand, then weigh anchor and stow — again without going forward.
 
-Worked example: anchoring in up to **5 ft** of water, made fast **35 ft** of
-rode (5 ft × 7) before leading it aft.
+Worked example: anchoring in up to **5 ft** of water, made fast **35 ft** of rode (5 ft × 7) before leading it aft.
 
-This technique complements the plans' below-deck anchor stowage (above) by
-addressing the practical problem of working ground tackle **entirely from the
-cockpit/cabin**, consistent with the Paradox's enclosed, sailed-from-inside
-design (see the [trunk](/paradox.md)).
+This technique complements the plans' below-deck anchor stowage (above) by addressing the practical problem of working ground tackle **entirely from the cockpit/cabin**, consistent with the Paradox's enclosed, sailed-from-inside design (see the [trunk](/paradox.md)).
 
 ## A permanent bow line doing double duty as a jackline
 
-An alternative system used on a previous motor boat: a **permanent bow line**,
-long enough to reach the steering position, ending in a sturdy **snap hook**.
-Kept clipped to a hard point near the steerer, this line can double as a
-**running jackline for a safety harness** while under way. To anchor: drop
-the anchor from the steering position and pay out the correct scope; once it
-is dug in, clip the anchor rode to the snap hook with a clove hitch; pay out
-further line until the permanent bow line takes the strain; then cleat the
-anchor rode off at the stern "just to make sure." One concern with this
-method is that weighing anchor would likely leave the boat **stern-on to the
-wind**, which might make raising sail awkward — solved by raising sail
-**before** gathering in the anchor: let the sail luff freely until the anchor
-is up and the boat is ready to get under way, then sheet in, with a little
-advance planning to make sure the boat gets away on the intended tack.
+An alternative system used on a previous motor boat: a **permanent bow line**, long enough to reach the steering position, ending in a sturdy **snap hook**. Kept clipped to a hard point near the steerer, this line can double as a **running jackline for a safety harness** while under way. To anchor: drop the anchor from the steering position and pay out the correct scope; once it is dug in, clip the anchor rode to the snap hook with a clove hitch; pay out further line until the permanent bow line takes the strain; then cleat the anchor rode off at the stern "just to make sure." One concern with this method is that weighing anchor would likely leave the boat **stern-on to the wind**, which might make raising sail awkward — solved by raising sail **before** gathering in the anchor: let the sail luff freely until the anchor is up and the boat is ready to get under way, then sheet in, with a little advance planning to make sure the boat gets away on the intended tack.
 
 ## The Bolducs' ground tackle and anchoring technique (microcruising.com)
 
-David and Mindy Bolduc's own account of ground tackle on
-[Little Cruiser](/matt-layden/little-cruiser.md), published on their
-microcruising.com site, both confirms and fills out the picture above in
-finer detail. They carry **three anchors**: a **9-lb Danforth** primary,
-stowed **below the floorboards** with about **15 ft of ¼" chain**; a **4-lb
-Fortress** kept ready on the **bow roller** for quick use, on 10 ft of 3/16"
-chain; and a **25-lb take-apart Paul Luke storm anchor**, also stowed below,
-that **doubles as ballast** most of the time. They had earlier tried an
-**11-lb Bruce** on the bow, but "the extra weight up forward caused Little
-Cruiser to plow through rough seas instead of riding easily over them," so it
-was moved below — the same trim problem already recorded above. Rode:
-**three nylon lines, 75-150 ft each, 3/8"-7/16" thick**, nylon chosen for its
-shock-absorbing stretch; their advice is blunt — "don't be tempted to get ones
-that are too small... bigger is better."
+A firsthand account of ground tackle on [Little Cruiser](/matt-layden/little-cruiser.md), published on the microcruising.com site, both confirms and fills out the picture above in finer detail. Little Cruiser carries **three anchors**: a **9-lb Danforth** primary, stowed **below the floorboards** with about **15 ft of ¼" chain**; a **4-lb Fortress** kept ready on the **bow roller** for quick use, on 10 ft of 3/16" chain; and a **25-lb take-apart Paul Luke storm anchor**, also stowed below, that **doubles as ballast** most of the time. An **11-lb Bruce** was earlier tried on the bow, but "the extra weight up forward caused Little Cruiser to plow through rough seas instead of riding easily over them," so it was moved below — the same trim problem already recorded above. Rode: **three nylon lines, 75-150 ft each, 3/8"-7/16" thick**, nylon chosen for its shock-absorbing stretch; the advice is blunt — "don't be tempted to get ones that are too small... bigger is better."
 
-Their routine technique is to ride to **two anchors set in a "V"** according
-to the wind, or a **Bahamian Moor** (one anchor upstream, one down) when
-anchoring in creeks; they set by drifting or backing down and hand-pulling the
-rode taut, then snorkel down to visually confirm the anchor has dug in. A
-storm anecdote illustrates the storm anchor's value: dragging a Danforth in a
-40-knot blow at Nassau, they "tossed the BIG BOY [the 25-lb Luke] in, and it
-dove right through the rags, boxes, conch shells... held us securely for two
-more days." They also treat anchoring near a larger vessel as a deliberate
-safety tactic, since it will likely run aground before it reaches a smaller
-boat anchored nearby — borne out when a dragging 45-ft sloop at Morgan's Bluff
-grounded 50 ft short of them.
+The routine technique is to ride to **two anchors set in a "V"** according to the wind, or a **Bahamian Moor** (one anchor upstream, one down) when anchoring in creeks; set by drifting or backing down and hand-pulling the rode taut, then snorkel down to visually confirm the anchor has dug in. A storm anecdote illustrates the storm anchor's value: dragging a Danforth in a 40-knot blow at Nassau, "we tossed the BIG BOY [the 25-lb Luke] in, and it dove right through the rags, boxes, conch shells... held us securely for two more days." Anchoring near a larger vessel is also a deliberate safety tactic, since it will likely run aground before it reaches a smaller boat anchored nearby — borne out when a dragging 45-ft sloop at Morgan's Bluff grounded 50 ft short.
 
-By his 2013 solo Bahamas trip in **Enigma**, Dave had switched to a single
-**8-lb Mantus** anchor as his sole ground tackle — "it set so easily in every
-type of bottom I encountered and it never dragged once." See also
-[provisioning and water](/operations/provisioning-and-water.md) and
-[Little Cruiser](/matt-layden/little-cruiser.md).
+By a 2013 solo Bahamas trip in **Enigma**, a single **8-lb Mantus** anchor had become the sole ground tackle — "it set so easily in every type of bottom I encountered and it never dragged once." See also [provisioning and water](/operations/provisioning-and-water.md) and [Little Cruiser](/matt-layden/little-cruiser.md).
 
 ## Stowing rode without a cockpit
 
-On a Paradox with **no conventional cockpit**, keeping anchor rode out of the
-accommodations while also staying off the foredeck is an open design problem.
-One builder's reasoning through it: always keep the **primary rode led from
-the bow**, judging a stern-only anchor a safety and comfort risk despite the
-after deck's easy reach from the companionway. A pair of **stern anchor
-rollers** is heavier than plain aluminum cleats and largely not worth it. An
-aluminum **Fortress-style anchor** stowed flat on deck in chocks, or a
-**folding squid anchor** in a protruding tube, are options, as is a **reel
-loaded with 1 in nylon webbing** mounted within one of the Paradox's own
-**metal rig/yuloh-stowage hoops** on the side decks — weighing a horizontal
-after-deck mount (about 1.5 in thick) against a self-draining recessed well
-below decks. A **portable** reel tends to cause more problems than it solves;
-a **mounted** reel remains the more promising option, though no rode-stowage
-design has been settled on for cockpit-less boats — it stands as planning-stage
-thinking rather than a finished solution, distinct from the already-built
-stern-bucket and cockpit-worked-inhaul techniques above.
+On a Paradox with **no conventional cockpit**, keeping anchor rode out of the accommodations while also staying off the foredeck is an open design problem. One line of reasoning through it: always keep the **primary rode led from the bow**, judging a stern-only anchor a safety and comfort risk despite the after deck's easy reach from the companionway. A pair of **stern anchor rollers** is heavier than plain aluminum cleats and largely not worth it. An aluminum **Fortress-style anchor** stowed flat on deck in chocks, or a **folding squid anchor** in a protruding tube, are options, as is a **reel loaded with 1 in nylon webbing** mounted within one of the Paradox's own **metal rig/yuloh-stowage hoops** on the side decks — weighing a horizontal after-deck mount (about 1.5 in thick) against a self-draining recessed well below decks. A **portable** reel tends to cause more problems than it solves; a **mounted** reel remains the more promising option, though no rode-stowage design has been settled on for cockpit-less boats — it stands as planning-stage thinking rather than a finished solution, distinct from the already-built stern-bucket and cockpit-worked-inhaul techniques above.
 
-The established **stern-set, walk-forward routine** and a preference for
-**braided nylon rode** (both already recorded above) come with a cautionary
-anecdote about the risk of leaving a flaked rode-and-anchor bag loose on the
-after deck: a whole bag was once lost overboard — rode still cleated to the
-stern — while sculling hard under sail to clear a fishing pier with the
-current setting the boat onto it, to the "hoots and cat calls" of fishermen
-watching from the pier. A **bungee cord stretched across the afterdeck**
-prevents a repeat by holding the bag in place.
+The established **stern-set, walk-forward routine** and a preference for **braided nylon rode** (both already recorded above) come with a cautionary anecdote about the risk of leaving a flaked rode-and-anchor bag loose on the after deck: a whole bag was once lost overboard — rode still cleated to the stern — while sculling hard under sail to clear a fishing pier with the current setting the boat onto it, to the "hoots and cat calls" of fishermen watching from the pier. A **bungee cord stretched across the afterdeck** prevents a repeat by holding the bag in place.
 
 ## A flush anchor well: weight distribution, and drainage
 
-A more concrete built-in alternative to loose on-deck stowage is a **flush
-anchor well** for a Danforth-type anchor, let into the afterdeck, shallow
-enough not to interfere with the tiller and draining overboard through the
-vent baffle (kept as low as possible for dryness in a roll). A parallel
-scheme suits a folding grapnel ("squid anchor"): a **4 in PVC pipe** mounted
-off-center at an angle, its bottom resting in the vent baffle for drainage,
-small enough to avoid the tiller — paired with a flush, rectangular rode bin
-just forward of and under the tube, draining into the tube's side and reached
-through a shared hatch, keeping the primary anchor and rode out of the
-accommodations without giving up visibility. Either scheme is judged an easy
-retrofit for an existing boat as well as a new build.
+A more concrete built-in alternative to loose on-deck stowage is a **flush anchor well** for a Danforth-type anchor, let into the afterdeck, shallow enough not to interfere with the tiller and draining overboard through the vent baffle (kept as low as possible for dryness in a roll). A parallel scheme suits a folding grapnel ("squid anchor"): a **4 in PVC pipe** mounted off-center at an angle, its bottom resting in the vent baffle for drainage, small enough to avoid the tiller — paired with a flush, rectangular rode bin just forward of and under the tube, draining into the tube's side and reached through a shared hatch, keeping the primary anchor and rode out of the accommodations without giving up visibility. Either scheme is judged an easy retrofit for an existing boat as well as a new build.
 
-The opposite approach is a conventional **bow anchor well**, with chain
-stowed low under the foredeck to help rather than hurt stability — reasoning
-from experience with other small boats that too little weight forward makes
-a boat "fidgety" in chop, contrary to the design intent (above) of keeping
-ground tackle's weight aft and low as ballast.
+The opposite approach is a conventional **bow anchor well**, with chain stowed low under the foredeck to help rather than hurt stability — reasoning from experience with other small boats that too little weight forward makes a boat "fidgety" in chop, contrary to the design intent (above) of keeping ground tackle's weight aft and low as ballast.
 
-The case for **aft, inboard stowage** instead is partly personal: a large
-crew member (6'1", 225 lb) going forward on a small boat to handle ground
-tackle can upset her balance badly enough to spin the bow off target. One
-plan leads the primary rode from an aft cleat or roller up to a bow chock or
-roller (mirroring a stern-anchor-roller arrangement in reverse), staying off
-the foredeck as much as possible, with secondary anchors and rode stowed
-below. A bow-well scheme raises the same drainage question either way — a
-straight-down bottom drain at the forward vent trunk, or combining the rode
-locker with an additional vent trunk — to ventilate and drain the locker
-without letting in too much water on a roll.
+The case for **aft, inboard stowage** instead is partly personal: a large crew member (6'1", 225 lb) going forward on a small boat to handle ground tackle can upset her balance badly enough to spin the bow off target. One plan leads the primary rode from an aft cleat or roller up to a bow chock or roller (mirroring a stern-anchor-roller arrangement in reverse), staying off the foredeck as much as possible, with secondary anchors and rode stowed below. A bow-well scheme raises the same drainage question either way — a straight-down bottom drain at the forward vent trunk, or combining the rode locker with an additional vent trunk — to ventilate and drain the locker without letting in too much water on a roll.
 
-One answer combining both concerns: a **split forward window**, hinged
-outward on one side, lets a builder reach onto the foredeck to handle the
-rode or deploy a sea anchor without actually going out on deck — the same
-idea that makes handling a metal anchor easier generally. For drainage, the
-anchor well's drain can run through the **mast trunk**, with an in-line
-strainer reachable for clearing.
+One answer combining both concerns: a **split forward window**, hinged outward on one side, lets a builder reach onto the foredeck to handle the rode or deploy a sea anchor without actually going out on deck — the same idea that makes handling a metal anchor easier generally. For drainage, the anchor well's drain can run through the **mast trunk**, with an in-line strainer reachable for clearing.
 
-Other options considered: a **Lewmar ventilation hatch** between bulkheads 1
-and 2, or a Lewmar portlight let into the plexiglass forward window (on a
-level pad, in and out), either serving the same access role as a split
-window. A **gray-waterpipe raceway** running under the deck from the bow to
-the companionway is workable as an alternative rode-lead, but adds weight and
-complexity, with some risk of weakening the deck or encroaching on the
-accommodations. Standing or crouching in the companionway hatch keeps a
-constant trim and lets as much as possible be handled from there, with the
-**yuloh** — more often on deck than the sail rig — the main obstruction to a
-fair rode lead from the bow chock to the after cleat; even solved, the anchor
-still has to be retrieved from on deck when actually weighing.
+Other options considered: a **Lewmar ventilation hatch** between bulkheads 1 and 2, or a Lewmar portlight let into the plexiglass forward window (on a level pad, in and out), either serving the same access role as a split window. A **gray-waterpipe raceway** running under the deck from the bow to the companionway is workable as an alternative rode-lead, but adds weight and complexity, with some risk of weakening the deck or encroaching on the accommodations. Standing or crouching in the companionway hatch keeps a constant trim and lets as much as possible be handled from there, with the **yuloh** — more often on deck than the sail rig — the main obstruction to a fair rode lead from the bow chock to the after cleat; even solved, the anchor still has to be retrieved from on deck when actually weighing.
 
 ## A cabin-only anchoring routine, done entirely under sail
 
-Staying off the foredeck (above) makes sense generally: a still-furling sail
-gives an anchor no "drive" to dig in, while an anchor deployed with sail
-still up risks a "spectator-amusing" disaster on deck. One working routine
-developed for frequent anchoring keeps the crew inside the cabin's protection
-throughout: the anchor stows in the floor locker with a line permanently
-attached at the bow and a snap hook at its aft end; drop the anchor from the
-cockpit and dig it in under sail, then fasten the anchor line to the snap
-hook with a clove hitch and pay it out until the boat swings from the bow;
-only then furl the sail and make the anchor line fast to the stern cleat as
-well — the whole sequence completed without leaving the cabin. Its one
-drawback is having to bring the wet, often dirty anchor inside afterward,
-which motivates wanting a proper anchor well built into the afterdeck.
+Staying off the foredeck (above) makes sense generally: a still-furling sail gives an anchor no "drive" to dig in, while an anchor deployed with sail still up risks a "spectator-amusing" disaster on deck. One working routine developed for frequent anchoring keeps the crew inside the cabin's protection throughout: the anchor stows in the floor locker with a line permanently attached at the bow and a snap hook at its aft end; drop the anchor from the cockpit and dig it in under sail, then fasten the anchor line to the snap hook with a clove hitch and pay it out until the boat swings from the bow; only then furl the sail and make the anchor line fast to the stern cleat as well — the whole sequence completed without leaving the cabin. Its one drawback is having to bring the wet, often dirty anchor inside afterward, which motivates wanting a proper anchor well built into the afterdeck.
 
 ## Glen Maxwell's stern-set anchoring routine, and sailing the anchor out
 
-**Glen Maxwell**'s first-person account of anchoring his own Paradox,
-[Zoe](/people/glen-maxwell/build-and-zoe.md), in practice is the fullest on
-record. Building Zoe, he chose not to install a below-deck anchor well at
-all, on the theory that the stowed-below arrangement (see "why stow below,"
-above) assumed a bottom that never smelled — untrue in his own cruising
-grounds. Instead he stows a **Delta Quick Set with 75 ft of 3/8 in braided
-line** inside a **canvas ice bag**, one bag in the plans' designated anchor
-locker and a second, identical spare in the aft starboard locker under the
-galley gear. In practice the anticipated smell never materialized, and the
-anchor proved easy to grab and deploy.
+The fullest first-person account on record of anchoring a Paradox, [Zoe](/people/glen-maxwell/build-and-zoe.md), in practice describes declining to install a below-deck anchor well at all, on the theory that the stowed-below arrangement (see "why stow below," above) assumed a bottom that never smelled — untrue in some cruising grounds. Instead a **Delta Quick Set with 75 ft of 3/8 in braided line** stows inside a **canvas ice bag**, one bag in the plans' designated anchor locker and a second, identical spare in the aft starboard locker under the galley gear. In practice the anticipated smell never materialized, and the anchor proved easy to grab and deploy.
 
-A forward anchor well is not recommended, on handling grounds: hoisting sail
-and tidying lines is easiest done at anchor, head to wind, before weighing —
-but the foredeck is the worst place to be once the sail is up, since a
-sailor's own weight moving aft tends to throw the sail from side to side and
-can jibe it exactly as they pass the mast, "so no matter what you do, you
-wind up being under a full sail on the lee side deck." A forward-cleated
-anchor forces retrieving and carrying it aft before raising sail, or raising
-sail underway instead.
+A forward anchor well is not recommended, on handling grounds: hoisting sail and tidying lines is easiest done at anchor, head to wind, before weighing — but the foredeck is the worst place to be once the sail is up, since a sailor's own weight moving aft tends to throw the sail from side to side and can jibe it exactly as they pass the mast, "so no matter what you do, you wind up being under a full sail on the lee side deck." A forward-cleated anchor forces retrieving and carrying it aft before raising sail, or raising sail underway instead.
 
-The method Glen uses, learned from **Matt Layden**, sets and weighs the
-anchor entirely without going forward with the sail up:
+The method learned from **Matt Layden** sets and weighs the anchor entirely without going forward with the sail up:
 
-1. Set the anchor from the **stern**, then, leaving the rode cleated aft,
-   carry the line forward and lead it through the bow chock so the boat lies
-   head to wind.
-2. To get under way, raise sail and put the helm amidships, with the
-   mainsheet let out so the boat does not yet sail.
-3. Haul the rode in from the **cockpit hatch**, cleated aft the whole time,
-   stowing it in the bag as it comes in. The boat naturally tacks back and
-   forth at anchor as this happens.
-4. When the rode is nearly in, wait for the tack you want to leave on, then
-   flip the rode out of the chock and retrieve it from that side — leaning
-   over to do so heels the boat, giving time to clean the anchor as it comes
-   aboard.
-5. The boat drifts along, beam to the wind, sail nearly full on the
-   preferred tack, throughout retrieval; haul in the sheet and get under way.
+1. Set the anchor from the **stern**, then, leaving the rode cleated aft, carry the line forward and lead it through the bow chock so the boat lies head to wind.
+2. To get under way, raise sail and put the helm amidships, with the mainsheet let out so the boat does not yet sail.
+3. Haul the rode in from the **cockpit hatch**, cleated aft the whole time, stowing it in the bag as it comes in. The boat naturally tacks back and forth at anchor as this happens.
+4. When the rode is nearly in, wait for the tack you want to leave on, then flip the rode out of the chock and retrieve it from that side — leaning over to do so heels the boat, giving time to clean the anchor as it comes aboard.
+5. The boat drifts along, beam to the wind, sail nearly full on the preferred tack, throughout retrieval; haul in the sheet and get under way.
 
-This technique would also suit a stern locker of the kind discussed above,
-given the deck space available aft and to either side. A lighter-weather
-illustration of the same stern-first method going wrong supplied its own
-lesson: leaving an anchorage at **Cedar Key** with a current setting the boat
-onto the piers, Glen dropped the loaded anchor bag on the afterdeck to scull
-clear, fell off under sail, and watched the bag and anchor go overboard —
-still cleated to an after cleat — just as he reached for it; had the anchor
-set, the boat would have been swept into the piers. He instead let Zoe sail
-herself while he reeled the anchor back in by hand, clearing the pier "in
-front of all the fishermen" without further incident, and has since wished
-for tall fiddle rails around the afterdeck to prevent a repeat.
+This technique would also suit a stern locker of the kind discussed above, given the deck space available aft and to either side. A lighter-weather illustration of the same stern-first method going wrong supplied its own lesson: leaving an anchorage at **Cedar Key** with a current setting the boat onto the piers, the loaded anchor bag was dropped on the afterdeck to scull clear, then fell off under sail as the bag and anchor went overboard — still cleated to an after cleat — just as it was reached for; had the anchor set, the boat would have been swept into the piers. Zoe was instead left to sail herself while the anchor was reeled back in by hand, clearing the pier "in front of all the fishermen" without further incident, prompting a wish for tall fiddle rails around the afterdeck to prevent a repeat.
 
 ## A cockpit-worked lanyard-and-roller retrieval system
 
-A more elaborate mechanical answer to the same "never go forward" goal
-adapts a rig previously used for a parachute sea anchor on an earlier boat.
-On that boat, **stern anchor rollers mounted on the bow** served as captive,
-gentle chocks, with a **snatchblock on a line led back to the quarter** (both
-sides) used to adjust the parachute rode's lead angle from the cockpit.
+A more elaborate mechanical answer to the same "never go forward" goal adapts a rig previously used for a parachute sea anchor on an earlier boat. On that boat, **stern anchor rollers mounted on the bow** served as captive, gentle chocks, with a **snatchblock on a line led back to the quarter** (both sides) used to adjust the parachute rode's lead angle from the cockpit.
 
-Applied to a Paradox — where the cleats sit aft, near the cabin, rather than
-amidships — the same stern-style rollers would go on the **bow**, with the
-anchor and rode stowed in a small **afterdeck locker** and the rode led
-forward through the roller and back to the stowed anchor. A **lanyard
-spliced to a block riding on the rode**, between the roller and the anchor's
-swivel or shackle, lets the whole sequence be worked from the companionway:
+Applied to a Paradox — where the cleats sit aft, near the cabin, rather than amidships — the same stern-style rollers would go on the **bow**, with the anchor and rode stowed in a small **afterdeck locker** and the rode led forward through the roller and back to the stowed anchor. A **lanyard spliced to a block riding on the rode**, between the roller and the anchor's swivel or shackle, lets the whole sequence be worked from the companionway:
 
-- **Anchoring:** lower the hook from the companionway with the lanyard slack,
-  so the rode runs out through the bow roller; once set with the desired
-  scope, cleat the rode aft (in the rode locker itself, if convenient), and
-  secure the slack retrieval lanyard aft as well.
-- **Weighing:** haul the rode in from the companionway, running it back
-  through the bow roller; watch for a marker showing 3-4 m of rode still
-  down as the hook breaks free, then haul the lanyard to bring the rode
-  within reach, retrieve the anchor into its locker with its chain, and stow
-  the lanyard and any loose rode — all without leaving the companionway. In
-  shallow, calm conditions the lanyard could instead be hauled immediately
-  for a quicker recovery.
+- **Anchoring:** lower the hook from the companionway with the lanyard slack, so the rode runs out through the bow roller; once set with the desired scope, cleat the rode aft (in the rode locker itself, if convenient), and secure the slack retrieval lanyard aft as well.
+- **Weighing:** haul the rode in from the companionway, running it back through the bow roller; watch for a marker showing 3-4 m of rode still down as the hook breaks free, then haul the lanyard to bring the rode within reach, retrieve the anchor into its locker with its chain, and stow the lanyard and any loose rode — all without leaving the companionway. In shallow, calm conditions the lanyard could instead be hauled immediately for a quicker recovery.
 
-A simpler **gray-plastic-waterpipe raceway** under the deckbeams, from a
-forward sheave box at a hawse hole to an aft sheave box in the rode locker,
-was offered as an alternative — gently curved rather than straight, draining
-into the scupper plumbing near the waterline, for a less cluttered deck.
+A simpler **gray-plastic-waterpipe raceway** under the deckbeams, from a forward sheave box at a hawse hole to an aft sheave box in the rode locker, was offered as an alternative — gently curved rather than straight, draining into the scupper plumbing near the waterline, for a less cluttered deck.
 
-The afterdeck locker fits better to **port** than starboard: the sail rig is
-normally deployed (and so out of the way) when the rode is being worked on
-deck, whereas the **yuloh** sits on deck far more of the time and would
-obstruct a starboard-side locker more often. The locker drains into the vent
-trunk through a pipe or hose kept as low as possible against water intrusion
-in a roll.
+The afterdeck locker fits better to **port** than starboard: the sail rig is normally deployed (and so out of the way) when the rode is being worked on deck, whereas the **yuloh** sits on deck far more of the time and would obstruct a starboard-side locker more often. The locker drains into the vent trunk through a pipe or hose kept as low as possible against water intrusion in a roll.
 
-The same rig doubles for a **sea anchor**: swap the working anchor for the
-parachute on the same rode (with the chain left off), and use the retrieval
-lanyard to adjust the rode's lead for minimum leeway and fore-reach, again
-entirely from the companionway; paying out the rode a foot every hour or so
-during use shifts the chafe point along its length rather than concentrating
-it. Weighed against the simpler stern-bucket method above, the added
-complexity, weight, and expense of a locker-and-lanyard system buys real
-benefits — ground tackle worked entirely from the companionway, available for
-immediate deployment, kept separate from the accommodations, and
-self-draining — though there is "a lot to be said for the simplicity" of the
-plain stern-bucket approach.
+The same rig doubles for a **sea anchor**: swap the working anchor for the parachute on the same rode (with the chain left off), and use the retrieval lanyard to adjust the rode's lead for minimum leeway and fore-reach, again entirely from the companionway; paying out the rode a foot every hour or so during use shifts the chafe point along its length rather than concentrating it. Weighed against the simpler stern-bucket method above, the added complexity, weight, and expense of a locker-and-lanyard system buys real benefits — ground tackle worked entirely from the companionway, available for immediate deployment, kept separate from the accommodations, and self-draining — though there is "a lot to be said for the simplicity" of the plain stern-bucket approach.
 
 ## "Jeff UK"'s bridle scheme, and a flat-afterdeck counterproposal
 
-One proposed scheme used an entry pipe at bulkhead 1 for the anchor rope to
-exit through a bow ring, made fast to a short length of chain and the anchor;
-a 2 in bridle, with its own rope, ran from the bow ring aft to the afterdeck.
-To get under way from anchor, hauling the bridle rope brings the anchor rope
-to hand for a normal retrieval, stowing the anchor on the afterdeck before
-going below to flake the remaining rope into a bucket. Anchoring from the
-**stern** is simpler still, and an anchor that **detaches from its rope** for
-under-floor stowage would let the same single rope also serve a sea anchor.
+One proposed scheme used an entry pipe at bulkhead 1 for the anchor rope to exit through a bow ring, made fast to a short length of chain and the anchor; a 2 in bridle, with its own rope, ran from the bow ring aft to the afterdeck. To get under way from anchor, hauling the bridle rope brings the anchor rope to hand for a normal retrieval, stowing the anchor on the afterdeck before going below to flake the remaining rope into a bucket. Anchoring from the **stern** is simpler still, and an anchor that **detaches from its rope** for under-floor stowage would let the same single rope also serve a sea anchor.
 
-A further, unresolved question is whether the Paradox afterdeck could simply
-be **flat** — reasoning it would double as a good work surface and
-short-term anchor stowage.
+A further, unresolved question is whether the Paradox afterdeck could simply be **flat** — reasoning it would double as a good work surface and short-term anchor stowage.
 
 ## Port-side clutter, the fairlead, and a first sea-anchor report
 
-**Glen Maxwell**'s own retrieval routine favors the **starboard side** for
-docking and retrieving the hook, whichever way the sail is set. Raised, the
-boom sits too low to duck under comfortably; lowered, the furled sail covers
-the whole port-side deck including the stern cleat — too heavy a mass to just
-shift aside, and in any case captive at the tack fitting. The **yuloh**, by
-contrast, is light and easy to toss over onto the port side, resting on the
-sail between it and the cabin without ever getting in the way while anchoring
-or getting under way. Relocating at anchor after already stowing the sail
-risks the anchor rode fouling under it, which argues for leaving on the
-starboard tack whenever possible.
+One retrieval routine favors the **starboard side** for docking and retrieving the hook, whichever way the sail is set. Raised, the boom sits too low to duck under comfortably; lowered, the furled sail covers the whole port-side deck including the stern cleat — too heavy a mass to just shift aside, and in any case captive at the tack fitting. The **yuloh**, by contrast, is light and easy to toss over onto the port side, resting on the sail between it and the cabin without ever getting in the way while anchoring or getting under way. Relocating at anchor after already stowing the sail risks the anchor rode fouling under it, which argues for leaving on the starboard tack whenever possible.
 
-On the afterdeck itself, a fully flat design (per the question above) is not
-necessary: rather than reshaping the deck, **fiddle rails** can box in a spot
-for dropping the anchor and rode while underway, pending cleanup, or more
-simply a **bungee cord** stretched between the after cleats (the same fix
-already adopted after the Cedar Key mishap, above) — the after deck being
-valuable as-is, especially as a seat for guests aboard.
+On the afterdeck itself, a fully flat design (per the question above) is not necessary: rather than reshaping the deck, **fiddle rails** can box in a spot for dropping the anchor and rode while underway, pending cleanup, or more simply a **bungee cord** stretched between the after cleats (the same fix already adopted after the Cedar Key mishap, above) — the after deck being valuable as-is, especially as a seat for guests aboard.
 
-On ground tackle itself: a **bow roller** would be a useful addition, and the
-stern rollers proposed for mounting on the bow (above) would probably work
-well too. A centerline **anchor rode fairlead** works well in practice, and
-photographs of Paradox show a fairlead fitted despite none appearing on the
-plans. Simply hanging the rode on a cleat is worth avoiding, since the rode
-chafes against the deck edge and lets the boat sail around too much at
-anchor; a centerline fairlead noticeably dampens this.
+On ground tackle itself: a **bow roller** would be a useful addition, and the stern rollers proposed for mounting on the bow (above) would probably work well too. A centerline **anchor rode fairlead** works well in practice, and photographs of Paradox show a fairlead fitted despite none appearing on the plans. Simply hanging the rode on a cleat is worth avoiding, since the rode chafes against the deck edge and lets the boat sail around too much at anchor; a centerline fairlead noticeably dampens this.
 
-The first field report on record of a **sea anchor** on a Paradox: a
-six-foot-diameter chute, new but of an outdated design, bought for about
-**$15** from an eBay source originally posted to the `microcruising` group by
-**David Bolduc**. The deployment plan: a line with a thimble made fast to the
-bow eye before setting out on any trip where it might be needed, led up
-through the fairlead and aft to the stern cleat for the passage, resting on
-deck under the yuloh; the after end, also thimbled, takes the **100 ft
-sea-anchor rode** with a swivel. A **float** attached to the opening at the
-top of the chute controls deployment depth, with a **polypropylene retrieval
-line** (chosen because it floats) running from the float back to the stern
-cleat — so the whole system can be set and recovered from the hatch without
-going forward. Contrary to intuition, a sea anchor should be easy to
-retrieve: pulling the line collapses the chute, after which hauling it in
-feels "like pulling in a wad of clothing." Whether a monohull like Paradox
-needs a second line to control the sea anchor's deployment angle, the way
-some sailors use one, remains unsettled — multihull experience shows a boat
-riding head-to-wind on a sea anchor without one, but it is unclear whether
-the same holds for a monohull.
+The first field report on record of a **sea anchor** on a Paradox: a six-foot-diameter chute, new but of an outdated design, bought for about **$15** from an eBay source originally posted to the `microcruising` group. The deployment plan: a line with a thimble made fast to the bow eye before setting out on any trip where it might be needed, led up through the fairlead and aft to the stern cleat for the passage, resting on deck under the yuloh; the after end, also thimbled, takes the **100 ft sea-anchor rode** with a swivel. A **float** attached to the opening at the top of the chute controls deployment depth, with a **polypropylene retrieval line** (chosen because it floats) running from the float back to the stern cleat — so the whole system can be set and recovered from the hatch without going forward. Contrary to intuition, a sea anchor should be easy to retrieve: pulling the line collapses the chute, after which hauling it in feels "like pulling in a wad of clothing." Whether a monohull like Paradox needs a second line to control the sea anchor's deployment angle, the way some sailors use one, remains unsettled — multihull experience shows a boat riding head-to-wind on a sea anchor without one, but it is unclear whether the same holds for a monohull.
 
 ## Glen Maxwell's bow-fairlead construction
 
-**Glen Maxwell**'s own **bow anchor-rode fairlead** is built around PVC
-"horns." **40-grit sandpaper** alone, scuffing the PVC surface, is enough to
-bond the horns securely — no drilling needed — with no flexing detected in
-use.
+One **bow anchor-rode fairlead** is built around PVC "horns." **40-grit sandpaper** alone, scuffing the PVC surface, is enough to bond the horns securely — no drilling needed — with no flexing detected in use.
 
 ## Surplus military chutes as sea anchors, and lead angle under different hulls
 
-Small surplus parachutes (like the six-footer above) sometimes sold as sea
-anchors are closer to a **drogue chute** used to help drag the main chute out
-of a cargo aircraft than a purpose-built sea anchor, and can be troublesome
-unless re-rigged with care. Re-splicing a chute's shrouds too short leaves it
-repeatedly collapsing and refilling; re-spliced with the shrouds kept as long
-as possible and fitted with a swivel, a chute instead "worked like a dream,
-never once collapsing." A similarly re-rigged chute can be kept packed in a
-bag with its shrouds coiled in a slip-hitch ("Swedish mountaineer's hitch")
-for quick deployment, backed by a larger dedicated storm chute (a 12 ft
-ParaTech has served this role) as the main.
+Small surplus parachutes (like the six-footer above) sometimes sold as sea anchors are closer to a **drogue chute** used to help drag the main chute out of a cargo aircraft than a purpose-built sea anchor, and can be troublesome unless re-rigged with care. Re-splicing a chute's shrouds too short leaves it repeatedly collapsing and refilling; re-spliced with the shrouds kept as long as possible and fitted with a swivel, a chute instead "worked like a dream, never once collapsing." A similarly re-rigged chute can be kept packed in a bag with its shrouds coiled in a slip-hitch ("Swedish mountaineer's hitch") for quick deployment, backed by a larger dedicated storm chute (a 12 ft ParaTech has served this role) as the main.
 
-On lead angle, multihull and monohull practice differs: a multihull leads
-the parachute rode off the bow on the centerline, though some sailors prefer
-a slightly off-center lead to soften the pitching as the boat comes over
-each crest. A monohull is usually **heaved to** before deploying the chute,
-letting the hull's own turbulence create a protective slick to windward that
-calms the sea — the same effect as trailing an oil bag to windward. If the
-boat won't heave to well, or conditions are severe enough, the chute can
-instead be deployed with the boat held at the same angle to the wind
-throughout, using a snatch block to drag the lead aft — otherwise the boat
-would lie head to wind, a position that (unlike a hove-to monohull) lacks the
-protective slick thrown up by a stalled keel or drifting hull; all sail can
-then be dropped once conditions warrant it. A float on a chute's apex is
-worth avoiding, since it risks fouling the chute; some sailors instead float
-a rode that includes a length of chain, but **any chain in a parachute
-rode** is dangerous — a large fishing boat riding to a parachute on a
-chain/cable rode was once seen pulled under and imploded when a swell tried
-to lift the hull against a rode that hung nearly straight down.
+On lead angle, multihull and monohull practice differs: a multihull leads the parachute rode off the bow on the centerline, though some sailors prefer a slightly off-center lead to soften the pitching as the boat comes over each crest. A monohull is usually **heaved to** before deploying the chute, letting the hull's own turbulence create a protective slick to windward that calms the sea — the same effect as trailing an oil bag to windward. If the boat won't heave to well, or conditions are severe enough, the chute can instead be deployed with the boat held at the same angle to the wind throughout, using a snatch block to drag the lead aft — otherwise the boat would lie head to wind, a position that (unlike a hove-to monohull) lacks the protective slick thrown up by a stalled keel or drifting hull; all sail can then be dropped once conditions warrant it. A float on a chute's apex is worth avoiding, since it risks fouling the chute; some sailors instead float a rode that includes a length of chain, but **any chain in a parachute rode** is dangerous — a large fishing boat riding to a parachute on a chain/cable rode was once seen pulled under and imploded when a swell tried to lift the hull against a rode that hung nearly straight down.
 
-It is unlikely a Paradox could easily heave-to under her lugsail, though a
-small trysail sheeted flat might serve the purpose; deploying the sea anchor
-early, rather than attempting to heave to, is the more reliable plan.
+It is unlikely a Paradox could easily heave-to under her lugsail, though a small trysail sheeted flat might serve the purpose; deploying the sea anchor early, rather than attempting to heave to, is the more reliable plan.
 
 ## Stowing wet warps
 
-A related, narrower stowage question remains open: where to store **wet
-warps** (anchor or dock lines) aboard a Paradox, given the boat's small
-enclosed interior and lack of a conventional cockpit.
+A related, narrower stowage question remains open: where to store **wet warps** (anchor or dock lines) aboard a Paradox, given the boat's small enclosed interior and lack of a conventional cockpit.
 
 # Citations
 

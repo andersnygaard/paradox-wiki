@@ -8,232 +8,61 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Don Elliott
 
-**Don Elliott** (also spelled "Elliot"), of Tomah, Wisconsin, was one of the
-earliest Paradox builders and — as of mid-2001 — one of only two people known
-to have a sailing Paradox, the other being
-[Matt Layden](/matt-layden/biography.md)'s own boat. He built his own heavily
-built Paradox, authored the paid **"Building the Paradox"** construction
-articles, and served as a primary technical resource on the list, insisting on
-strict fidelity to Matt Layden's plans. He resigned from `paradoxbuilders` in
-October 2001 over the foam-flotation dispute. He had died by March 2014.
+**Don Elliott** (also spelled "Elliot"), of Tomah, Wisconsin, was one of the earliest Paradox builders and — as of mid-2001 — one of only two people known to have a sailing Paradox, the other being [Matt Layden](/matt-layden/biography.md)'s own boat. He built his own heavily built Paradox, authored the paid **"Building the Paradox"** construction articles, and served as a primary technical resource on the list, insisting on strict fidelity to Matt Layden's plans. He resigned from `paradoxbuilders` in October 2001 over the foam-flotation dispute. He had died by March 2014.
 
 ## What he built and authored
 
-Don's **"Building the Paradox"** series originally ran as a five-part feature
-in *Messing About In Boats* (vol. 14, issues 9-13) and includes a jig for
-building the coach roof; Glen Maxwell called it "invaluable." It was long sold
-only direct from Don — 16 articles, about 50 pages, **$8.00 plus $2.00 US /
-$4.00 overseas shipping**, mailed same-day on payment to his Tomah address
-(711 Wisconsin Ave, box 202, Tomah WI 54660). See
-[Building the Paradox articles](/references/building-the-paradox-articles.md).
+Don's **"Building the Paradox"** series originally ran as a five-part feature in *Messing About In Boats* (vol. 14, issues 9-13) and includes a jig for building the coach roof, called "invaluable." It was long sold only direct from Don — 16 articles, about 50 pages, **$8.00 plus $2.00 US / $4.00 overseas shipping**, mailed same-day on payment to his Tomah address (711 Wisconsin Ave, box 202, Tomah WI 54660). See [Building the Paradox articles](/references/building-the-paradox-articles.md).
 
 ## Contributions and technical positions
 
-- **Plans fidelity.** Don was a firm advocate of building to Matt Layden's
-  plans to the letter, citing Sheet 1's specification of bronze ring nails as a
-  permanent backup to the glue joint and urging that any deviation be cleared
-  with Matt first. See
-  [fastening and gluing](/construction/fastening-and-gluing.md).
-- **Weight and ballast.** He supplied the definitive loaded-weight breakdown
-  (≈1,365 lb; ≈930 lb in the bottom 10 in; 400 lb lead), the waterplane
-  sensitivity (~1 inch per 200 lb), and his lead-installation technique, later
-  expanded into a dedicated illustrated article on the ballast "pig" layout,
-  sizing, and floor-barrier detail. See
-  [weight and ballast](/design/weight-and-ballast.md#the-ballast-pig-layout-in-full-don-elliott).
-- **Panel layout.** He coached builders through the tight bulkhead-#2 /
-  transom / side-panel nesting. See
-  [panel layout](/construction/panel-layout.md).
-- **Hull assembly sequence.** He detailed pulling a hull together after the
-  bulkheads are up — stem first, tank top/floor as one early-positioned piece,
-  a hot wet blanket to soften side panels, dry-fitting to bevel joints. See
-  [hull assembly sequence](/construction/hull-assembly-sequence.md).
-- **Build schedule.** He estimated a Paradox should take about six months to
-  build.
-- **Tacking technique.** He gave the archive's most detailed tacking-technique
-  checklist — close-hauled tacking only, timing to wave crests, gentle rudder
-  easing (no more than 30 degrees either side), downhaul and perpendicularity
-  checks, and a paddle in very light wind — holding that there was nothing
-  wrong with Paradox's lateral plane or rudder size. See
-  [rudder and chine experiments](/design/rudder.md).
-- **Against enlarging Paradox.** He gave the archive's fullest
-  designer-fidelity argument against scaling the boat up: her width is fixed by
-  the standard 4 ft plywood sheet; lengthening alone alters the displacement
-  distribution; a true enlargement demands a complete redesign with fresh
-  calculations, model testing, and revised scantlings — "One can certainly do a
-  larger boat but it will not be a Paradox." See
-  [stretched Paradox](/design/variants/stretched-paradox.md).
-- **Little Cruiser cutaway offer.** He offered to produce a free complete
-  cutaway drawing of [Little Cruiser](/matt-layden/little-cruiser.md)'s
-  interior for Dave Bolduc's planned book, given enough photos, sketches, and
-  dimensions, noting his understanding that no plans or drawings were ever made
-  for Little Cruiser.
-- **Exterior-vs-marine plywood advice.** Answering a new builder's plywood
-  question, he confirmed a good-quality Douglas fir exterior ply (not white
-  pine) will serve structurally, holding the same glue as marine grade, but
-  recommended marine grade for the side hull panels and cautioned against any
-  deck plywood with thin outer veneers. See
-  [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor).
-- **Epoxy mixing.** Sharply disputed a round-vs-square mixing-container
-  argument, holding that the great majority of bad epoxy mixes trace to
-  measurement, temperature, and attention lapses rather than container shape,
-  and recommends a square plastic tub. See
-  [mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
-- **Water tank storage alternative.** For a builder settling on fresh water
-  rather than self-flooding ballast, suggested building the tanks as drawn
-  but with open, oval-shaped hatch lids in place of the sealed covers, so
-  the space can double as dry stowage. See
-  [provisioning — water](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
+- **Plans fidelity.** Don was a firm advocate of building to Matt Layden's plans to the letter, citing Sheet 1's specification of bronze ring nails as a permanent backup to the glue joint and urging that any deviation be cleared with Matt first. See [fastening and gluing](/construction/fastening-and-gluing.md).
+- **Weight and ballast.** He supplied the definitive loaded-weight breakdown (≈1,365 lb; ≈930 lb in the bottom 10 in; 400 lb lead), the waterplane sensitivity (~1 inch per 200 lb), and his lead-installation technique, later expanded into a dedicated illustrated article on the ballast "pig" layout, sizing, and floor-barrier detail. See [weight and ballast](/design/weight-and-ballast.md#the-ballast-pig-layout-in-full-don-elliott).
+- **Panel layout.** He coached builders through the tight bulkhead-#2 / transom / side-panel nesting. See [panel layout](/construction/panel-layout.md).
+- **Hull assembly sequence.** He detailed pulling a hull together after the bulkheads are up — stem first, tank top/floor as one early-positioned piece, a hot wet blanket to soften side panels, dry-fitting to bevel joints. See [hull assembly sequence](/construction/hull-assembly-sequence.md).
+- **Build schedule.** He estimated a Paradox should take about six months to build.
+- **Tacking technique.** He gave the archive's most detailed tacking-technique checklist — close-hauled tacking only, timing to wave crests, gentle rudder easing (no more than 30 degrees either side), downhaul and perpendicularity checks, and a paddle in very light wind — holding that there was nothing wrong with Paradox's lateral plane or rudder size. See [rudder and chine experiments](/design/rudder.md).
+- **Against enlarging Paradox.** He gave the archive's fullest designer-fidelity argument against scaling the boat up: her width is fixed by the standard 4 ft plywood sheet; lengthening alone alters the displacement distribution; a true enlargement demands a complete redesign with fresh calculations, model testing, and revised scantlings — "One can certainly do a larger boat but it will not be a Paradox." See [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Little Cruiser cutaway offer.** He offered to produce a free complete cutaway drawing of [Little Cruiser](/matt-layden/little-cruiser.md)'s interior for a planned book, given enough photos, sketches, and dimensions, noting his understanding that no plans or drawings were ever made for Little Cruiser.
+- **Exterior-vs-marine plywood advice.** Answering a new builder's plywood question, he confirmed a good-quality Douglas fir exterior ply (not white pine) will serve structurally, holding the same glue as marine grade, but recommended marine grade for the side hull panels and cautioned against any deck plywood with thin outer veneers. See [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor).
+- **Epoxy mixing.** Sharply disputed a round-vs-square mixing-container argument, holding that the great majority of bad epoxy mixes trace to measurement, temperature, and attention lapses rather than container shape, and recommends a square plastic tub. See [mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
+- **Water tank storage alternative.** For a builder settling on fresh water rather than self-flooding ballast, suggested building the tanks as drawn but with open, oval-shaped hatch lids in place of the sealed covers, so the space can double as dry stowage. See [provisioning — water](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
 
 ## Foam flotation and resignation
 
-Don held that it is safe to bond foam flotation over epoxy-coated interior fir
-plywood, citing reassurances from System Three and West System, and planned a
-follow-up installation article. [Glen Maxwell](/people/glen-maxwell.md) offered
-a partial rebuttal tying the safety claim to plywood grade and asked Don to
-state his qualifications ([Charles Wilson](/people/charles-wilson.md) had
-defended Don's credentials). Don's response was to resign from
-`paradoxbuilders` — "I will not belong to any group that promotes unsafe
-practices" — redirecting Paradox questions to the
-[Smallboats Yahoo group](/references/smallboats-group.md). See
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md).
+Don held that it is safe to bond foam flotation over epoxy-coated interior fir plywood, citing reassurances from System Three and West System, and planned a follow-up installation article. A partial rebuttal followed, tying the safety claim to plywood grade and asking Don to state his qualifications (his credentials were also defended by another member). Don's response was to resign from `paradoxbuilders` — "I will not belong to any group that promotes unsafe practices" — redirecting Paradox questions to the [Smallboats Yahoo group](/references/mailing-list.md#sibling-and-successor-groups). See [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md).
 
-He resurfaced on the list in January 2003, after his long absence, to redirect
-a plans inquiry to [Dave Bolduc](/people/bolduc/dave.md) as the plans' only
-authorized seller and to restate his own booklet offer on the same terms,
-closing "Great boat, none anywhere like it."
+He resurfaced on the list in January 2003, after his long absence, to redirect a plans inquiry to the plans' only authorized seller and to restate his own booklet offer on the same terms, closing "Great boat, none anywhere like it."
 
-His boat remained formally unnamed on the list even after two years of
-references to "Elliott's Paradox," until UK builder Bill Serjeant's own
-website photos, hosted at a URL ending `edge.htm`, led Glen Maxwell to infer
-the probable name **"The Edge"** — see
-[Don Elliott's Paradox](/boats/elliott-paradox.md#record)
-for the full record.
+His boat remained formally unnamed on the list even after two years of references to "Elliott's Paradox," until a UK builder's own website photos, hosted at a URL ending `edge.htm`, led to the inferred probable name **"The Edge"** — see [Don Elliott's Paradox](/boats/elliott-paradox.md#record) for the full record.
 
-In August 2003 he sent recent booklet buyers a notice that a print run had
-some copies missing Chapter 12 or 13, offering to send the missing pages
-directly; see
-[Building the Paradox articles — a printing defect](/references/building-the-paradox-articles.md#a-printing-defect-in-the-booklet-form-missing-chapter-12-or-13).
+In August 2003 he sent recent booklet buyers a notice that a print run had some copies missing Chapter 12 or 13, offering to send the missing pages directly; see [Building the Paradox articles — a printing defect](/references/building-the-paradox-articles.md#a-printing-defect-in-the-booklet-form-missing-chapter-12-or-13).
 
 ## A rival group, and a dispute over who founded and moderates the list
 
-In November 2003, after weeks of friction with several members over tone —
-capped by an outside lurker's public plea for him to "count to ten" rather
-than answer disagreement with rudeness — Don announced a second Yahoo group,
-**"Paradoxboatbuilders,"** which he described as open to everyone except
-three named members ([Nels](/people/nels.md), David C. Smith, and a third correspondent),
-whom he characterized as playing "childish games" and contributing nothing of
-value to serious builders. He styled himself "Moderator of
-Paradoxboatbuilders."
+In November 2003, after weeks of friction with several members over tone — capped by an outside lurker's public plea for him to "count to ten" rather than answer disagreement with rudeness — Don announced a second Yahoo group, **"Paradoxboatbuilders,"** which he described as open to everyone except three named members ([Nels](/people/nels.md), David C. Smith, and a third correspondent), whom he characterized as playing "childish games" and contributing nothing of value to serious builders. He styled himself "Moderator of Paradoxboatbuilders."
 
-He justified the new group by claiming primary credit for Paradox's public
-existence at all — citing his own 1996 *Messing About In Boats* article as
-the design's first publicity, alongside Dave Bolduc's articles, and asserting
-he had built **the first Paradox after Matt Layden's own**. [David C. Smith](/people/david-c-smith.md)
-disputed the claim of authority directly, correcting the record that
-[Glen C. Maxwell](/people/glen-maxwell.md) — not Don — is
-`paradoxbuilders`' actual founder and moderator (see
-[list founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md)),
-and declined to join the rival group. Smith followed with a pointed personal
-rebuttal — noting he had posted photos of his own boat while Don had posted
-none, accusing Don of having "flamed" his own customers and the list's
-moderator, and recommending Don keep style guides handy for his new group.
-Don's replies did not engage the substance: he called Smith's post itself proof
-of the pettiness he had described, dismissed him as "a sniper," and closed
-with a one-line "I only react in kind." Don also announced future Paradox
-building articles — starting with a "Ballast Installation part 2" piece on
-ballast-pig installation technique and tools — would appear only on the new
-group, reserving `paradoxbuilders` itself for occasional notices.
+He justified the new group by claiming primary credit for Paradox's public existence at all — citing his own 1996 *Messing About In Boats* article as the design's first publicity, alongside other published articles, and asserting he had built **the first Paradox after Matt Layden's own**. The claim of authority was disputed directly, correcting the record that `paradoxbuilders`' actual founder and moderator was someone else entirely (see [list founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md)), with a declination to join the rival group. A pointed personal rebuttal followed — noting that photos of an own boat had been posted while Don had posted none, accusing Don of having "flamed" his own customers and the list's moderator, and recommending Don keep style guides handy for his new group. Don's replies did not engage the substance: he called the rebuttal itself proof of the pettiness he had described, dismissed its author as "a sniper," and closed with a one-line "I only react in kind." Don also announced future Paradox building articles — starting with a "Ballast Installation part 2" piece on ballast-pig installation technique and tools — would appear only on the new group, reserving `paradoxbuilders` itself for occasional notices.
 
-The dispute ended in the archive's most severe governance action: citing an
-inbox of member complaints, [Glen
-Maxwell](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed)
-**banned Don from `paradoxbuilders` outright** — the only ban recorded
-anywhere in the archive — judging his conduct, not his views, as having
-crossed from disagreement into ongoing disrespect and disruption. The episode
-is the archive's clearest instance of open conflict over list governance; no
-evidence in the archive indicates the rival group displaced `paradoxbuilders`
-as the community's primary forum, and Don continued posting under his own
-name afterward (see below), suggesting the ban was not strictly enforced or
-was later lifted.
+The dispute ended in the archive's most severe governance action: citing an inbox of member complaints, Don was **banned from `paradoxbuilders` outright** (see [list founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed)) — the only ban recorded anywhere in the archive — judging his conduct, not his views, as having crossed from disagreement into ongoing disrespect and disruption. The episode is the archive's clearest instance of open conflict over list governance; no evidence in the archive indicates the rival group displaced `paradoxbuilders` as the community's primary forum, and Don continued posting under his own name afterward (see below), suggesting the ban was not strictly enforced or was later lifted.
 
-Nearly every member who responded to the ban announcement backed it,
-including one who framed the episode in terms of due process:
-[Nels](/people/nels.md), while agreeing the ban was warranted, disclosed that
-he had himself once been banned from **Don's own rival group** — despite
-never having posted there — after Don took offense at a private reply to an
-unrelated post; Nels argued a member should be forewarned and given a fair
-hearing before an outright ban, a standard he did not see applied in his own
-case. See [Glen Maxwell — list founder and
-moderator](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed)
-for the full reception, including David Hahn's and Bert Vercauteren's public
-thanks.
+Nearly every member who responded to the ban announcement backed it, including one who framed the episode in terms of due process: while agreeing the ban was warranted, one respondent disclosed having himself once been banned from **Don's own rival group** — despite never having posted there — after Don took offense at a private reply to an unrelated post; the argument was that a member should be forewarned and given a fair hearing before an outright ban, a standard not seen applied in that case. See [Glen Maxwell — list founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed) for the full reception, including two members' public thanks.
 
-The one dissent came from [William Longyard](/people/william-longyard.md),
-who praised Don's talent and generosity — Don had let him reproduce one of
-his sketches, illustrating the Stephen Ladd story, in *A Speck on the Sea* —
-and urged Glen to reconsider, proposing a general truce and an even-handed
-"no personal name-calling" rule going forward rather than singling Don out.
-"Jeff UK" seconded Longyard's plea in a single line, the only other member to
-back it. Nels answered with the ban's fullest defense on the record: he had watched
-Don, over more than two years and across several groups, follow the same
-pattern of appearing friendly at first before attacking a group's moderator
-as incompetent and inviting members to defect to a group of his own — as
-Don had just done again — and quoted in full a message in which Don
-described disagreement itself as "time-wasters... playing mind games" that
-had to be met immediately or "taken for a truth" if left unanswered. Nels
-put the underlying question plainly: being knowledgeable and artistic does
-not entitle a member to verbally abuse those who disagree with him.
-Longyard, in reply, held to a civility standard for everyone including
-Don, but deferred the final call to the list's actual moderator — "It's his
-'house,' he's the host, and I'm his guest."
+The one dissent praised Don's talent and generosity — Don had let a sketch be reproduced, illustrating the Stephen Ladd story, in *A Speck on the Sea* — and urged reconsideration, proposing a general truce and an even-handed "no personal name-calling" rule going forward rather than singling Don out. A single line seconded that plea, the only other member to back it. The fullest defense of the ban on record followed: Don had been watched, over more than two years and across several groups, following the same pattern of appearing friendly at first before attacking a group's moderator as incompetent and inviting members to defect to a group of his own — as Don had just done again — with a message quoted in full in which Don described disagreement itself as "time-wasters... playing mind games" that had to be met immediately or "taken for a truth" if left unanswered. The underlying question was put plainly: being knowledgeable and artistic does not entitle a member to verbally abuse those who disagree with him. The reply held to a civility standard for everyone including Don, but deferred the final call to the list's actual moderator — "It's his 'house,' he's the host, and I'm his guest."
 
-The period's flaming had a further, quieter cost: a newcomer who had joined
-specifically to discuss chine runners on planing daysailers, uninterested in
-cruising, publicly unsubscribed rather than continue reading "the flaming
-and long diatribes," leaving two parting suggestions — trim quoted text
-from replies rather than padding a two-line response with pages of included
-prior messages, and keep sharp disagreement to private email rather than the
-group.
+The period's flaming had a further, quieter cost: a newcomer who had joined specifically to discuss chine runners on planing daysailers, uninterested in cruising, publicly unsubscribed rather than continue reading "the flaming and long diatribes," leaving two parting suggestions — trim quoted text from replies rather than padding a two-line response with pages of included prior messages, and keep sharp disagreement to private email rather than the group.
 
-Answering Longyard's deference to him as "his 'house,'" Glen preferred to
-call it "our house," having no wish to be the dominant voice or to be cast
-as a disciplinarian; separately, in a fuller explanation of the ban's timing
-to Longyard, Glen described weighing Don's own record for any positive
-contribution before deciding the negative "far outweighed" it, and pointed
-to Don's plagiarism accusation against Alastair — made without carefully
-reading the thread in question — as characteristic of the pattern that led
-to the ban. After the ban, Don continued cross-posting his building articles
-and new group to the Bolducs' own `microcruising` list, prompting a wry
-observation from Nels that he was "probably flogging his new site and his
-building articles no doubt."
+Answering the deference to "his 'house,'" the preference was to call it "our house," with no wish to be the dominant voice or to be cast as a disciplinarian; separately, in a fuller explanation of the ban's timing, Don's own record was described as weighed for any positive contribution before deciding the negative "far outweighed" it, pointing to Don's plagiarism accusation against a fellow member — made without carefully reading the thread in question — as characteristic of the pattern that led to the ban. After the ban, Don continued cross-posting his building articles and new group to a sibling `microcruising` list, prompting a wry observation that he was "probably flogging his new site and his building articles no doubt."
 
-The ban resurfaced nearly two years later, in mid-2005, when a member
-questioned whether it sat well with free-speech values; the ensuing exchange
-(including a further firsthand account of Don's conduct at a boat show and
-on his own later "SmallBoats" group) is covered at [Glen C. Maxwell — list
-founder and moderator — the Don Elliott ban, revisited nearly two years
-on](/people/glen-maxwell/list-founder-and-moderator.md#the-don-elliott-ban-revisited-nearly-two-years-on).
+The ban resurfaced nearly two years later, in mid-2005, when a member questioned whether it sat well with free-speech values; the ensuing exchange (including a further firsthand account of Don's conduct at a boat show and on his own later "SmallBoats" group) is covered at [Glen C. Maxwell — list founder and moderator — the Don Elliott ban, revisited nearly two years on](/people/glen-maxwell/list-founder-and-moderator.md#the-don-elliott-ban-revisited-nearly-two-years-on).
 
 ## Sail cost, and a later question about the outcome of his own build
 
-Don's own construction articles put his sail cost at **$217** for a Sailrite
-kit and **$330** for the sail completed, and recorded him saying that, in
-hindsight, he would rather have had it professionally sewn. Whether Don's own
-Paradox project was ultimately a success was later asked but never answered on
-the list — though the archive's own record already settles it: Don's boat,
-**"The Edge,"** was completed and launched years earlier (see [Don Elliott's
-Paradox](/boats/elliott-paradox.md)).
+Don's own construction articles put his sail cost at **$217** for a Sailrite kit and **$330** for the sail completed, and recorded him saying that, in hindsight, he would rather have had it professionally sewn. Whether Don's own Paradox project was ultimately a success was later asked but never answered on the list — though the archive's own record already settles it: Don's boat, **"The Edge,"** was completed and launched years earlier (see [Don Elliott's Paradox](/boats/elliott-paradox.md)).
 
 ## After his death
 
-Dave Bolduc's site, [microcruising.com](/references/microcruising-website.md),
-refers to "the late Don Elliott," placing his death before a 3/20/14 blog entry
-that directs buyers to his "Paradox Builders Booklet." The site credits his
-16-part *Messing About in Boats* construction article and reproduces its
-sketches "with Don's permission," and a later update (5-11-18) points readers
-to Don's own how-to-build-books site, **smallboatmanuals.weebly.com**, as the
-current source for the building manual. See
-[Building the Paradox articles](/references/building-the-paradox-articles.md).
+[microcruising.com](/references/microcruising-website.md) refers to "the late Don Elliott," placing his death before a 3/20/14 blog entry that directs buyers to his "Paradox Builders Booklet." The site credits his 16-part *Messing About in Boats* construction article and reproduces its sketches "with Don's permission," and a later update (5-11-18) points readers to Don's own how-to-build-books site, **smallboatmanuals.weebly.com**, as the current source for the building manual. See [Building the Paradox articles](/references/building-the-paradox-articles.md).
 
 # Citations
 

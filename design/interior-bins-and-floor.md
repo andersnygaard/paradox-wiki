@@ -8,309 +8,102 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Interior bin panels and hinged floor
 
-Between **bulkhead #1 and bulkhead #2** the [Paradox](/paradox.md) has
-longitudinal **bin panels** — one to port and one to starboard — that form
-stowage bins.
+Between **bulkhead #1 and bulkhead #2** the [Paradox](/paradox.md) has longitudinal **bin panels** — one to port and one to starboard — that form stowage bins.
 
 ## Bin panels
 
-- There is a **bin panel on the starboard side** and one on the port side,
-  between bulkheads #1 and #2.
-- Both panels are held by **vertical cleats on both the #1 and #2 bulkheads —
-  four cleats in total**.
+- There is a **bin panel on the starboard side** and one on the port side, between bulkheads #1 and #2.
+- Both panels are held by **vertical cleats on both the #1 and #2 bulkheads — four cleats in total**.
 - Neither of these panels has a top shelf; they are **simply open** bins.
 
 ### Cleat locations (from the plans)
 
-- The **starboard cleat** is shown on bulkhead #2 in **dotted lines, 370 mm off
-  the centerline**.
-- The **bulkhead-#1 cleat** is *not* drawn on the bulkhead detail, but appears on
-  drawings **#3 and #4**; its dimension there is **220 mm** (off centerline),
-  with the bevel taken directly from the drawing.
-- The bulkhead-#1 starboard cleat can be fitted during the build by **scaling
-  the drawing**, though fitting it at final assembly is arguably the better
-  approach.
+- The **starboard cleat** is shown on bulkhead #2 in **dotted lines, 370 mm off the centerline**.
+- The **bulkhead-#1 cleat** is *not* drawn on the bulkhead detail, but appears on drawings **#3 and #4**; its dimension there is **220 mm** (off centerline), with the bevel taken directly from the drawing.
+- The bulkhead-#1 starboard cleat can be fitted during the build by **scaling the drawing**, though fitting it at final assembly is arguably the better approach.
 
 ## Battery stowage
 
-A **battery goes behind the port bin panel**. Because of this the panel runs
-longitudinally and boxes off that space.
+A **battery goes behind the port bin panel**. Because of this the panel runs longitudinally and boxes off that space.
 
 ## Hinged floor
 
-The **floor is hinged on the port panel's side**. A **toggle** (shown on drawing
-#4, on the starboard side) lets the floor **rise up toward the port panel** —
-giving access to what is stowed below (e.g. under-floor ground tackle; see
-[ground tackle](/operations/ground-tackle.md)).
+The **floor is hinged on the port panel's side**. A **toggle** (shown on drawing #4, on the starboard side) lets the floor **rise up toward the port panel** — giving access to what is stowed below (e.g. under-floor ground tackle; see [ground tackle](/operations/ground-tackle.md)).
 
 ## Build caution
 
-When working on these bin panels **after the sides and bottom are on**, take
-care: careless drilling can **put a hole through the hull side or the bottom**.
+When working on these bin panels **after the sides and bottom are on**, take care: careless drilling can **put a hole through the hull side or the bottom**.
 
 ## Reading the plans by scale
 
-The bulkhead drawings are drawn at **1:5 scale** and drawings #3–#4 at **1:10
-scale**, so builders can recover missing dimensions with a metric ruler:
+The bulkhead drawings are drawn at **1:5 scale** and drawings #3–#4 at **1:10 scale**, so builders can recover missing dimensions with a metric ruler:
 
-- On the **1:5 bulkhead drawings**: a measured **2 cm = 100 mm**, **5 cm =
-  250 mm**, etc.
-- On **drawings #3/#4 (1:10)**: a metric ruler reads the dimension directly at
-  one-tenth.
+- On the **1:5 bulkhead drawings**: a measured **2 cm = 100 mm**, **5 cm = 250 mm**, etc.
+- On **drawings #3/#4 (1:10)**: a metric ruler reads the dimension directly at one-tenth.
 
-See also [panel layout and nesting](/construction/panel-layout.md) for cutting
-the bulkheads and side panels from the plywood sheets. The next compartment
-aft (between bulkheads #2 and #3) is where the lead ballast and/or a smaller
-battery per side may be stowed; see
-[weight, ballast, and displacement](/design/weight-and-ballast.md).
+See also [panel layout and nesting](/construction/panel-layout.md) for cutting the bulkheads and side panels from the plywood sheets. The next compartment aft (between bulkheads #2 and #3) is where the lead ballast and/or a smaller battery per side may be stowed; see [weight, ballast, and displacement](/design/weight-and-ballast.md).
 
 ## Forward compartment access
 
-Bulkhead #2's access hole into the forward compartment (drawing #7) — the
-space forward of bulkhead #1, ahead of the bin-panel area described above — is
-a **tight fit**, but it is passable: one owner-builder can reach all the way
-forward to bulkhead #1 to stow or retrieve things when needed, working in
-what he calls the "forward stateroom" lying on his back or stomach with a
-cushion over the threshold, though in practice he tries not to need to.
+Bulkhead #2's access hole into the forward compartment (drawing #7) — the space forward of bulkhead #1, ahead of the bin-panel area described above — is a **tight fit**, but it is passable: it is possible to reach all the way forward to bulkhead #1 to stow or retrieve things when needed, working in the "forward stateroom" lying on one's back or stomach with a cushion over the threshold, though in practice one tries not to need to.
 
-How tight the compartment feels depends heavily on trip length — cramped on
-a two-month trip away from civilization, far more than enough for a couple
-of weeks. Used only for bedding stowage in just two of the side bins, it
-leaves the plans' central divider there arguably "crying out for
-modification": a section can be cut out for easier battery access, and the
-divider could be removed almost entirely to open up the space, at the cost
-of needing everything tied down more securely. An alternative to interior
-modification is a secure, weathertight **hatch reachable from outside the
-hull** over the compartment — not for interior access, but to stow items not
-often needed without going in through the cabin at all; see
-[Jack Gardiner](/people/jack-gardiner.md#construction-begins) for that build's
-approach.
+How tight the compartment feels depends heavily on trip length — cramped on a two-month trip away from civilization, far more than enough for a couple of weeks. Used only for bedding stowage in just two of the side bins, it leaves the plans' central divider there arguably "crying out for modification": a section can be cut out for easier battery access, and the divider could be removed almost entirely to open up the space, at the cost of needing everything tied down more securely. An alternative to interior modification is a secure, weathertight **hatch reachable from outside the hull** over the compartment — not for interior access, but to stow items not often needed without going in through the cabin at all; see [construction begins](/people/jack-gardiner.md#construction-begins) for that build's approach.
 
 ### Reaching the extreme forward compartment, just behind the stem
 
-Ahead of the bulkhead-#2 opening lies a second, still-more-forward space —
-the small compartment just behind the stem — which a first-time prospective
-owner, in his mid-sixties and "not as supple as the young 'uns," worried
-might be impractical to reach into at all.[27] The practical technique is to
-**lie prone and reach in**, borrowed from touring kayaking: a length of rope
-tied to gear stowed in the extremities, left within reach of the cockpit,
-avoids having to reach all the way in on future trips. Any small boat's
-cabin has spots that are awkward to reach; the Paradox's is otherwise an
-uncluttered, flat-floored open rectangle.[28]
+Ahead of the bulkhead-#2 opening lies a second, still-more-forward space — the small compartment just behind the stem — whose reachability was doubted, on the basis of pictures and diagrams alone, by someone in their mid-sixties and "not as supple as the young 'uns."[27] The practical technique is to **lie prone and reach in**, borrowed from touring kayaking: a length of rope tied to gear stowed in the extremities, left within reach of the cockpit, avoids having to reach all the way in on future trips. Any small boat's cabin has spots that are awkward to reach; the Paradox's is otherwise an uncluttered, flat-floored open rectangle.[28]
 
-Some owner-diagrams show this space depicted like "a little shopping
-basket" of stowed items, which is closer to artistic licence than practical
-guidance — actually getting items in and out of the extreme bow compartment
-is awkward; such published diagrams are themselves copyrighted material, not
-open for general discussion. Using the space instead as fixed **emergency
-flotation** was raised and rejected as an alternative to stowage: if that
-flotation were ever actually needed, the boat would trim bow-up and
-stern-down, leaving a survivor sitting on the stem awaiting rescue — better
-than sinking, but not a practical primary strategy. Whichever way a flooded
-Paradox ends up trimmed, the safer course in any case is to **stay with the
-boat** rather than leave it: a hull floating even at deck level still offers
-more than the water alongside it.[31][32][33]
+Some owner-diagrams show this space depicted like "a little shopping basket" of stowed items, which is closer to artistic licence than practical guidance — actually getting items in and out of the extreme bow compartment is awkward; such published diagrams are themselves copyrighted material, not open for general discussion. Using the space instead as fixed **emergency flotation** was raised and rejected as an alternative to stowage: if that flotation were ever actually needed, the boat would trim bow-up and stern-down, leaving a survivor sitting on the stem awaiting rescue — better than sinking, but not a practical primary strategy. Whichever way a flooded Paradox ends up trimmed, the safer course in any case is to **stay with the boat** rather than leave it: a hull floating even at deck level still offers more than the water alongside it.[31][32][33]
 
-A separate firsthand data point on reaching this space at all: one
-owner-builder, at 5 ft 7 in, can actually climb into the (empty) forward
-compartment bodily, and routinely reaches in just his upper body to retrieve
-buoyant, seldom-used gear stowed there. He regularly sails two-up with a
-crewmate nearly 6 ft tall, and the boat still "fits."[34]
+A separate firsthand data point on reaching this space at all: at 5 ft 7 in, one can actually climb into the (empty) forward compartment bodily, and routinely reach in just the upper body to retrieve buoyant, seldom-used gear stowed there. The boat still "fits" when sailed two-up with a crewmate nearly 6 ft tall.[34]
 
-A **fitted deck hatch** over this extreme forward space, giving direct
-outside access without reaching in through the cabin, was suggested but not
-known to have been built by anyone on record.[27][29] A more radical
-alternative was also floated: doing away with interior partitions
-altogether in favor of one open-plan cabin, of the kind built into a much
-larger (23-24 ft) gaff cutter, to ease access to the forepeak and avoid
-small, closed-in compartments — this would require redesigning the
-port-side vent/control-line box and reinforcing the hull where bulkhead #2
-now sits, judged "all do-able" but never taken up.[29]
+A **fitted deck hatch** over this extreme forward space, giving direct outside access without reaching in through the cabin, was suggested but not known to have been built by anyone on record.[27][29] A more radical alternative was also floated: doing away with interior partitions altogether in favor of one open-plan cabin, of the kind built into a much larger (23-24 ft) gaff cutter, to ease access to the forepeak and avoid small, closed-in compartments — this would require redesigning the port-side vent/control-line box and reinforcing the hull where bulkhead #2 now sits, judged "all do-able" but never taken up.[29]
 
-The **actual purpose of bulkhead #2's opening**, per the plans, is to let
-the mast and spars stow inside when not rigged — not for general storage,
-since the rest of the boat already offers plenty of accessible stowage.
-Leaving bulkhead #2 solid, unopened, is an explicit option for a builder who
-does not want to carry spars internally.[30] At least one Southern
-Hemisphere build is on record as having opened bulkhead #2 out to the port
-side instead of following the plans as drawn, though the builder is not
-identified with confidence.[30] One owner's wife, seeing the opened
-bulkhead-#2 hole, likened it to "a sidecar on a motorbike" — a comparison
-that prompted the further half-joking thought that the opening might make a
-handy way to wheel the whole boat around ashore.[30]
+The **actual purpose of bulkhead #2's opening**, per the plans, is to let the mast and spars stow inside when not rigged — not for general storage, since the rest of the boat already offers plenty of accessible stowage. Leaving bulkhead #2 solid, unopened, is an explicit option for a builder who does not want to carry spars internally.[30] At least one Southern Hemisphere build is on record as having opened bulkhead #2 out to the port side instead of following the plans as drawn.[30] The opened bulkhead-#2 hole has been likened to "a sidecar on a motorbike" — a comparison that prompted the further half-joking thought that the opening might make a handy way to wheel the whole boat around ashore.[30]
 
 ### Design intent: watertight bulkhead, opening is optional
 
-Bulkhead #2 **is designed to be a watertight bulkhead**, and the **access
-opening is optional** — a builder can omit it entirely. The opening **adds
-significant strength** to that area of the boat, so it should not be
-enlarged much beyond the plans if fitted at all.
+Bulkhead #2 **is designed to be a watertight bulkhead**, and the **access opening is optional** — a builder can omit it entirely. The opening **adds significant strength** to that area of the boat, so it should not be enlarged much beyond the plans if fitted at all.
 
-A design rationale for skipping the opening altogether: a **sealed
-watertight bulkhead near the bow acts as a crumple zone**, absorbing damage
-in the event of a ramming collision. The resulting sealed compartment can be
-filled with **foam** — the same foam-filling idea used elsewhere as an
-alternative to a larger access hole, here serving collision safety rather
-than stowage access (see
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md)
-and [removable foam flotation panels](/construction/removable-foam-panels.md)).
+A design rationale for skipping the opening altogether: a **sealed watertight bulkhead near the bow acts as a crumple zone**, absorbing damage in the event of a ramming collision. The resulting sealed compartment can be filled with **foam** — the same foam-filling idea used elsewhere as an alternative to a larger access hole, here serving collision safety rather than stowage access (see [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md) and [removable foam flotation panels](/construction/removable-foam-panels.md)).
 
-Taken together, the opening exists purely for stowage convenience, at a real
-(if modest) cost to structural strength, and a builder prioritizing
-strength/collision safety over stowage access can simply omit it and foam the
-compartment solid.
+Taken together, the opening exists purely for stowage convenience, at a real (if modest) cost to structural strength, and a builder prioritizing strength/collision safety over stowage access can simply omit it and foam the compartment solid.
 
-Foam flotation fitted under the gunwales carries a practical corollary in a
-genuine swamping: a crew that finds the boat riding low needs to **remove
-ballast and bail**, since the foam alone is not meant to carry a fully
-ballasted boat high. The space aft of the rearmost bulkhead is buoyant in the
-same way — both from any foam flotation fitted there and from air trapped in
-the sealed compartment itself.[34]
+Foam flotation fitted under the gunwales carries a practical corollary in a genuine swamping: a crew that finds the boat riding low needs to **remove ballast and bail**, since the foam alone is not meant to carry a fully ballasted boat high. The space aft of the rearmost bulkhead is buoyant in the same way — both from any foam flotation fitted there and from air trapped in the sealed compartment itself.[34]
 
-The same question applies to **bulkhead #1**: the plans mark it as
-watertight, yet also show optional openings into it, raising the same choice
-of sealing the whole space forward of it solid or using the opening. In
-practice, an opening left in place may simply go unused for years — one
-owner-builder's "Zoë" has the bulkhead-#1 opening but has never needed
-anything stored through it, and he cannot imagine puncturing a hole anywhere
-in that area regardless. Where the opening is genuinely unneeded, the choice
-between sealing it solid and leaving it comes down to builder preference
-rather than a fitting-out necessity — see
-[ground tackle and anchoring](/operations/ground-tackle.md#a-flush-anchor-well-considered-and-declined-glen-maxwell)
-for the related anchor-well question.
+The same question applies to **bulkhead #1**: the plans mark it as watertight, yet also show optional openings into it, raising the same choice of sealing the whole space forward of it solid or using the opening. In practice, an opening left in place may simply go unused for years — one boat has the bulkhead-#1 opening but has never needed anything stored through it, unable to imagine puncturing a hole anywhere in that area regardless. Where the opening is genuinely unneeded, the choice between sealing it solid and leaving it comes down to builder preference rather than a fitting-out necessity — see [ground tackle and anchoring](/operations/ground-tackle.md#a-flush-anchor-well-considered-and-declined-glen-maxwell) for the related anchor-well question.
 
-One owner-builder's own bulkhead-#1 opening, cut to let the boat's spars
-stow inside, illustrates the trade-off concretely: the rest of the forward
-compartment was filled with **expanded polystyrene foam** below the deck
-plus empty 2-liter soda bottles and an ice-cream tub for buoyancy,
-silicone-glued together so they cannot float free even through a large
-hole. A structural objection applies to relying on this kind of forward
-opening at all, though: **deck fittings through-bolted from below** need
-access to the underside of the foredeck for their backing plates and nuts,
-which an unopened bulkhead #1 would rule out entirely. A "watertight"
-compartment sealed without an opening also tends in practice to **fill with
-water it then cannot drain** — if sealed buoyancy is the goal, a hatch that
-can be opened for spar storage and inspection, then closed underway, is
-preferable to a compartment that is watertight only until it first takes on
-water. The same logic tells against a flush forward anchor well: it puts
-undesirable **weight up forward** (the space is better used to stow
-bedding), and working an anchor from the exposed **bow** is unwelcome in
-anything but a flat calm — anchoring from the hatch instead avoids both
-problems.[24][25][26]
+One bulkhead-#1 opening, cut to let the boat's spars stow inside, illustrates the trade-off concretely: the rest of the forward compartment was filled with **expanded polystyrene foam** below the deck plus empty 2-liter soda bottles and an ice-cream tub for buoyancy, silicone-glued together so they cannot float free even through a large hole. A structural objection applies to relying on this kind of forward opening at all, though: **deck fittings through-bolted from below** need access to the underside of the foredeck for their backing plates and nuts, which an unopened bulkhead #1 would rule out entirely. A "watertight" compartment sealed without an opening also tends in practice to **fill with water it then cannot drain** — if sealed buoyancy is the goal, a hatch that can be opened for spar storage and inspection, then closed underway, is preferable to a compartment that is watertight only until it first takes on water. The same logic tells against a flush forward anchor well: it puts undesirable **weight up forward** (the space is better used to stow bedding), and working an anchor from the exposed **bow** is unwelcome in anything but a flat calm — anchoring from the hatch instead avoids both problems.[24][25][26]
 
-This access-tightness is a useful counterpoint to the otherwise favorable,
-lived-in accounts of the Paradox's small cabin (see
-[crew size and cabin fit](/operations/crew-size-and-fit.md)): stowage *forward*
-of bulkhead #1 is workable but genuinely cramped, even for an experienced
-owner-builder. See also
-[head and sanitation arrangements](/operations/head-and-sanitation.md) for
-where a portable head is stowed instead. A larger-than-average sailor
-weighing the stock interior against these figures is pointed toward the
-[stretched/enlarged Paradox](/design/variants/stretched-paradox.md) variants
-rather than assuming the standard 14 ft cabin is a hard limit.[34]
+This access-tightness is a useful counterpoint to the otherwise favorable, lived-in accounts of the Paradox's small cabin (see [crew size and cabin fit](/operations/crew-size-and-fit.md)): stowage *forward* of bulkhead #1 is workable but genuinely cramped, even for an experienced owner-builder. See also [head and sanitation arrangements](/operations/head-and-sanitation.md) for where a portable head is stowed instead. A larger-than-average sailor weighing the stock interior against these figures is pointed toward the [stretched/enlarged Paradox](/design/variants/stretched-paradox.md) variants rather than assuming the standard 14 ft cabin is a hard limit.[34]
 
 ## Forward and aft bin sides: how far they extend to the hull
 
-The bin sides do not run uniformly down to the hull bottom: **forward** and
-**aft** bins differ (see also [sheet 5 of the
-plans](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative)
-for the same sheet's ballast-quantity note). The **forward bins** stop at
-the tank top, leaving access to the space outboard of the tank sides
-underneath; the **aft bins** can run all the way to the bottom, or not, as
-the builder prefers.
+The bin sides do not run uniformly down to the hull bottom: **forward** and **aft** bins differ (see also [sheet 5 of the plans](/design/weight-and-ballast.md#a-laminated-sheet-lead-bottom-as-an-alternative-to-loose-pigs-speculative) for the same sheet's ballast-quantity note). The **forward bins** stop at the tank top, leaving access to the space outboard of the tank sides underneath; the **aft bins** can run all the way to the bottom, or not, as the builder prefers.
 
-A practical tip for the aft bins: leave them **short** except for a single
-leg at the forward end. The panel then sits neatly on that leg and on
-bulkhead 4's lower cleat while it is being screwed into place — easing what
-would otherwise be an awkward, unsupported install. Fitting an **additional
-shelf near the bottom** of the aft bins, beyond what the plans show, keeps
-gear off the bottom board, where anything left sitting directly tends to
-stay damp.
+A practical tip for the aft bins: leave them **short** except for a single leg at the forward end. The panel then sits neatly on that leg and on bulkhead 4's lower cleat while it is being screwed into place — easing what would otherwise be an awkward, unsupported install. Fitting an **additional shelf near the bottom** of the aft bins, beyond what the plans show, keeps gear off the bottom board, where anything left sitting directly tends to stay damp.
 
-A related fault to watch for: the **forward bin sides can pull away from the
-middle of the water tank tops**, since the tank top alone is not always
-enough to hold the panel flat along its full length. The fix is
-angle-aluminum pieces fastened to capture and support the middle of the
-joint. See
-[water tank construction — a tank-lid tightening tool, and where water
-problems actually come from](/construction/water-tank-lining.md#a-tank-lid-tightening-tool-and-where-water-problems-actually-come-from)
-for the related tank-top leak fix.
+A related fault to watch for: the **forward bin sides can pull away from the middle of the water tank tops**, since the tank top alone is not always enough to hold the panel flat along its full length. The fix is angle-aluminum pieces fastened to capture and support the middle of the joint. See [water tank construction — a tank-lid tightening tool, and where water problems actually come from](/construction/water-tank-lining.md#a-tank-lid-tightening-tool-and-where-water-problems-actually-come-from) for the related tank-top leak fix.
 
 ## Battery placement and installation: a fully removable-panel interior
 
-The **forward stateroom** (the space forward of the bin panels, near bulkhead
-#2) shows, on the plans, a **longitudinal member about a foot high**, with the
-opening between the top of that member and the deck also about a foot —
-narrow enough to raise the question of how a **65 lb battery** is meant to
-pass through it into the location the plans specify.
+The **forward stateroom** (the space forward of the bin panels, near bulkhead #2) shows, on the plans, a **longitudinal member about a foot high**, with the opening between the top of that member and the deck also about a foot — narrow enough to raise the question of how a **65 lb battery** is meant to pass through it into the location the plans specify.
 
-The practical solution is already built into the design: **all the interior
-panels are removable**. To install or remove the battery, a builder simply
-pulls the relevant panels out of the way, does the work, and reinstalls them —
-no cutting or dedicated access hole is needed. The same compartment can hold
-a **tool box** alongside the battery with room to spare for other gear — the
-space is not battery-only, but "just another compartment" in a generally
-general-purpose, fully removable-panel interior rather than a set of
-purpose-built battery/gear boxes with fixed access.
+The practical solution is already built into the design: **all the interior panels are removable**. To install or remove the battery, a builder simply pulls the relevant panels out of the way, does the work, and reinstalls them — no cutting or dedicated access hole is needed. The same compartment can hold a **tool box** alongside the battery with room to spare for other gear — the space is not battery-only, but "just another compartment" in a generally general-purpose, fully removable-panel interior rather than a set of purpose-built battery/gear boxes with fixed access.
 
-This thoroughness reflects real long-term cruising use of the design:
-[Matt Layden reportedly lived aboard his own Paradox for two to three years
-cruising from Nova Scotia to the lower Bahamas](/matt-layden/biography.md)
-(secondhand but widely credited among builders), which likely explains why
-every compartment in the boat has a planned use — as one owner-builder put
-it, having only ever loaded his own for a month at a time for ballasting
-purposes, "you won't appreciate all the design work that went into her until
-you have cruised for a while."
+This thoroughness reflects real long-term cruising use of the design: [Matt Layden reportedly lived aboard his own Paradox for two to three years cruising from Nova Scotia to the lower Bahamas](/matt-layden/biography.md) (secondhand but widely credited among builders), which likely explains why every compartment in the boat has a planned use — "you won't appreciate all the design work that went into her until you have cruised for a while."
 
-See [Matt Layden (biography)](/matt-layden/biography.md)
-for the cruising claim in full, and
-[weight, ballast, and displacement](/design/weight-and-ballast.md) for the
-plans' battery-weight figure (45 lb) — close to, but somewhat lighter than,
-the 65 lb estimate above.
+See [Matt Layden (biography)](/matt-layden/biography.md) for the cruising claim in full, and [weight, ballast, and displacement](/design/weight-and-ballast.md) for the plans' battery-weight figure (45 lb) — close to, but somewhat lighter than, the 65 lb estimate above.
 
 ## Rear-locker divider geometry, and where to stow heavy ground tackle
 
-The floor of the **rear (aft) locker space** curves up toward the transom,
-so a divider fitted plumb/upright — the conventional assumption, matching the
-fore-and-aft and athwartship dividers used elsewhere to organize buckets,
-boxes, fenders, and similar gear — ends up meeting that curved floor at less
-than 90 degrees. A box or bucket resting against such a divider is not
-properly supported: aboard "[Little Jim](/boats/little-jim.md)," a
-plastic bucket holding heavy chain eventually punched out through its own
-bottom (probably from road jolting in transit rather than from use at sea).
-The fix is to fit rear-locker dividers **square to the (curved) floor**
-rather than vertical: boxes then stack squarely against the divider instead
-of at an acute angle, and the divider itself becomes easier to reach over,
-since it leans toward the person reaching in rather than away.[17][18]
+The floor of the **rear (aft) locker space** curves up toward the transom, so a divider fitted plumb/upright — the conventional assumption, matching the fore-and-aft and athwartship dividers used elsewhere to organize buckets, boxes, fenders, and similar gear — ends up meeting that curved floor at less than 90 degrees. A box or bucket resting against such a divider is not properly supported: aboard "[Little Jim](/boats/little-jim.md)," a plastic bucket holding heavy chain eventually punched out through its own bottom (probably from road jolting in transit rather than from use at sea). The fix is to fit rear-locker dividers **square to the (curved) floor** rather than vertical: boxes then stack squarely against the divider instead of at an acute angle, and the divider itself becomes easier to reach over, since it leans toward the person reaching in rather than away.[17][18]
 
-The chain in question was a second, get-it-out-when-really-needed anchor,
-stowed in the rear locker and held down only by bungee cord — itself a likely
-contributor to the bucket damage. A **stove support** built into the same
-locker, resting on a pivoting axle bolt, has to stay level regardless of the
-divider's new angle; the practical fix is a wedge-shaped supporting block cut
-to keep the axle bolt horizontal even against a squared-off, non-vertical
-divider face.[19][20] An alternative raised in the same exchange — stowing
-heavy chain under the floor amidships instead of in a stern locker — trades
-the locker-geometry problem for a different one (harder access, weight
-concentrated low and central rather than where it is easiest to reach); see
-also [ground tackle](/operations/ground-tackle.md) for the fuller debate over
-where an anchor and its rode are best stowed aboard a Paradox.[21]
+The chain in question was a second, get-it-out-when-really-needed anchor, stowed in the rear locker and held down only by bungee cord — itself a likely contributor to the bucket damage. A **stove support** built into the same locker, resting on a pivoting axle bolt, has to stay level regardless of the divider's new angle; the practical fix is a wedge-shaped supporting block cut to keep the axle bolt horizontal even against a squared-off, non-vertical divider face.[19][20] An alternative raised in the same exchange — stowing heavy chain under the floor amidships instead of in a stern locker — trades the locker-geometry problem for a different one (harder access, weight concentrated low and central rather than where it is easiest to reach); see also [ground tackle](/operations/ground-tackle.md) for the fuller debate over where an anchor and its rode are best stowed aboard a Paradox.[21]
 
 ## A removable-floorboard technique for full storage and ballast access
 
-An alternative to the plans' hinged aft floorboards dispenses with hinges
-altogether: the floorboards are supported instead on removable under-flaps
-taken from the sides of the storage bins, so that either side of the floor
-can simply be lifted clear and slid forward, opening the whole of the
-storage compartments beneath rather than only the area under one hinged
-lid. The same builder fitted side flaps, built as separate removable
-"planks," either side of the water tanks, giving good ongoing access to the
-forward ballast — the same removable-plank approach recommended for the
-ballast-tank top generally; see [weight, ballast, and displacement —
-reaching the ballast fastenings after the floors are
-in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in)
-and [people/bill-serjeant.md](/people/bill-serjeant.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access)
-for the fuller build context.[35]
+An alternative to the plans' hinged aft floorboards dispenses with hinges altogether: the floorboards are supported instead on removable under-flaps taken from the sides of the storage bins, so that either side of the floor can simply be lifted clear and slid forward, opening the whole of the storage compartments beneath rather than only the area under one hinged lid. The same build fitted side flaps, built as separate removable "planks," either side of the water tanks, giving good ongoing access to the forward ballast — the same removable-plank approach recommended for the ballast-tank top generally; see [weight, ballast, and displacement — reaching the ballast fastenings after the floors are in](/design/weight-and-ballast.md#reaching-the-ballast-fastenings-after-the-floors-are-in) and [boats/faith.md](/boats/faith.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access) for the fuller build context.[35]
 
 # Citations
 
@@ -348,4 +141,4 @@ for the fuller build context.[35]
 [32] Archive message page_3420 (flexwing462 / "Jim Hall", `paradoxbuilders`, msgnum 3451, 2006-03-16) — "Re: re paradox max weight and height" (flotation portion): judges using the extreme forward compartment as fixed emergency flotation impractical in the way that matters most — if it were ever needed in earnest, the boat would float bow-up and stern-down, leaving a survivor to sit on the stem awaiting rescue, "still that's better than sinking ain't it." Signed "Jim Hall."
 [33] Archive message page_3422 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3453, 2006-03-16) — "Re: re paradox max weight and height": clarifies the forward-compartment diagram Jim Hall referred to is a specific person's own published (and copyrighted) picture, not open for general discussion; on flotation trim, says he would not worry which way a flooded boat floated so long as it floated at all — his own intention, which he hopes never to test, is to stay in the boat, since a hull floating even at deck level is still better than being in the water.
 [34] Archive message page_3430 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 3461, 2006-03-18) — "Re: re paradox max weight and height": notes that fitting foam flotation under the gunwales means a swamped crew needs to remove ballast and bail, since the foam is not meant to carry a fully ballasted boat afloat on its own; left his own forward compartment open (no bulkhead-#1 panel) and, at 5 ft 7 in, can climb into it bodily when it is empty, or reach in just his upper body to retrieve buoyant, seldom-used gear when it is not; regularly sails two-up with a crewmate nearly 6 ft tall and reports the boat still "fits"; notes the space behind the rearmost bulkhead is separately buoyant, both from any foam fitted there and from trapped air in the sealed compartment; recommends the enlarged/stretched Paradox files (in the group's file section) to any "super sizers." Signed "Jack."
-[35] Archive message page_3990 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4024, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access); has kept his aft floorboards per plan but without hinges, supported instead by removable under-flaps from the storage-bin sides, so either side of the floor can be lifted and slid forward for full storage access; has also fitted side flaps/planks either side of the water tanks for forward ballast access; plans to post photos to his website. Signed "Bill."
+[35] Archive message page_3990 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4024, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [boats/faith.md](/boats/faith.md#a-removable-floorboard-technique-for-full-storage-and-ballast-access); has kept his aft floorboards per plan but without hinges, supported instead by removable under-flaps from the storage-bin sides, so either side of the floor can be lifted and slid forward for full storage access; has also fitted side flaps/planks either side of the water tanks for forward ballast access; plans to post photos to his website. Signed "Bill."

@@ -8,218 +8,63 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Plywood grade and foam flotation debate
 
-Whether **foam flotation** can safely be bonded over epoxy-coated interior
-plywood in a [Paradox](/paradox.md) — and what plywood grade that depends
-on — was a substantive technical debate among builders, with the answer
-sharpening over time from "Marine-grade fir is a safe baseline" to "no fir
-plywood is fully immune to checking; gaboon, mahogany, or Meranti/Okoume are
-the genuinely check-resistant choices."
+Whether **foam flotation** can safely be bonded over epoxy-coated interior plywood in a [Paradox](/paradox.md) — and what plywood grade that depends on — was a substantive technical debate, with the answer sharpening over time from "Marine-grade fir is a safe baseline" to "no fir plywood is fully immune to checking; gaboon, mahogany, or Meranti/Okoume are the genuinely check-resistant choices."
 
 ## Foam flotation over epoxy-coated fir plywood
 
-It is **safe to install foam insulation over epoxy-coated interior fir
-plywood**, and flotation should not be left out of a Paradox. Two major
-marine epoxy makers confirmed this:
+It is **safe to install foam insulation over epoxy-coated interior fir plywood**, and flotation should not be left out of a Paradox. Two major marine epoxy makers confirmed this:
 
-- **System Three**: as long as the fir plywood is not wet before coating, it
-  will not check or rot, and the epoxy coating should in fact protect the
-  surface further.
-- **West System** (per spokesman Jim Watson): no problem bonding insulation
-  to epoxy-coated fir plywood — the company builds iceboxes on boats this
-  way routinely.
+- **System Three**: as long as the fir plywood is not wet before coating, it will not check or rot, and the epoxy coating should in fact protect the surface further.
+- **West System**: no problem bonding insulation to epoxy-coated fir plywood — the company builds iceboxes on boats this way routinely.
 
 ## A real-world data point: glued foam gone wrong on a neglected boat
 
-[David Beard](/people/david-beard.md)'s secondhand "[Whisper](/boats/whisper.md)"
-gave the archive a real-world test of glued-in foam quality, rather than a
-new builder's plan. The boat's original builder had glued foam directly to
-the hull and then neglected the finished boat, which stood with rainwater in
-her before David bought and refitted her. Tearing out all the foam for
-inspection, he found the outcome tracked the quality of the original glue
-bond exactly: **where the glue had made good foam-to-wood contact, the wood
-underneath was fine**; **where the bond was poor, real problems turned up,
-worst of all at the corners**. His practical takeaway for future builders
-gluing in flotation: pay close attention to the gluing process itself, since
-a poor bond is where trouble concentrates. For his own choice going forward,
-he preferred a **screwed-in installation** over gluing, based on this
-firsthand experience — the same real-world case that prompted
-[Glen C. Maxwell](/people/glen-maxwell.md) to restate why he left foam out of
-"[Zoë](/boats/zoe.md)" altogether; see [Glen C. Maxwell — build and
-"Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
+A secondhand "[Whisper](/boats/whisper.md)" gave a real-world test of glued-in foam quality, rather than a new builder's plan. The boat's original builder had glued foam directly to the hull and then neglected the finished boat, which stood with rainwater in her before she was bought and refitted. Tearing out all the foam for inspection revealed the outcome tracked the quality of the original glue bond exactly: **where the glue had made good foam-to-wood contact, the wood underneath was fine**; **where the bond was poor, real problems turned up, worst of all at the corners**. The practical takeaway for future builders gluing in flotation: pay close attention to the gluing process itself, since a poor bond is where trouble concentrates. Going forward, a **screwed-in installation** is preferable to gluing, based on this firsthand experience — the same real-world case that prompted a restatement of why foam was left out of "[Zoë](/boats/zoe.md)" altogether; see [build and "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
 
 ## Spray-in foam versus sheet foam for insulation
 
-Commercially applied **two-part polyurethane spray-in foam** — as opposed to
-the softer one-part foam sold in cans, or two-part foam poured from cans (used
-successfully for icebox construction, though the pour "a little like the old
-monster movies") — is a fairly standardized technique for insulating metal
-boats and could in principle be used aboard a Paradox. In [David C. Smith](/people/david-c-smith.md)'s
-judgment, a good result depends more on the **skill of the applicator** than
-on the material, packaging, or equipment. A properly sprayed job stops
-expanding at the level that still allows for the finished ceiling, since
-trimming back an over-applied foam surface damages its protective hard skin
-and lets water in more easily. Because a sprayed foam surface is not
-attractive, a ceiling of slats or sheet material — with its own furring
-strips — would still need to be installed over it regardless, though spraying
-does avoid the time-consuming work of cutting and gluing sheet foam by hand.
-Smith used sheet foam on his own boat despite the appeal of the sprayed
-alternative. A source for high-volume urethane spray-in foam in
-refrigerant-type containers with a flexible spray hose and nozzle, an
-alternative to the unpredictable, tricky-to-use canned "Great Stuff" and to
-expensive, poorly-rising canned two-part foam, is `TekSupply.com`.
+Commercially applied **two-part polyurethane spray-in foam** — as opposed to the softer one-part foam sold in cans, or two-part foam poured from cans (used successfully for icebox construction, though the pour "a little like the old monster movies") — is a fairly standardized technique for insulating metal boats and could in principle be used aboard a Paradox. A good result depends more on the **skill of the applicator** than on the material, packaging, or equipment. A properly sprayed job stops expanding at the level that still allows for the finished ceiling, since trimming back an over-applied foam surface damages its protective hard skin and lets water in more easily. Because a sprayed foam surface is not attractive, a ceiling of slats or sheet material — with its own furring strips — would still need to be installed over it regardless, though spraying does avoid the time-consuming work of cutting and gluing sheet foam by hand. Sheet foam serves on a Paradox despite the appeal of the sprayed alternative. A source for high-volume urethane spray-in foam in refrigerant-type containers with a flexible spray hose and nozzle, an alternative to the unpredictable, tricky-to-use canned "Great Stuff" and to expensive, poorly-rising canned two-part foam, is `TekSupply.com`.
 
-A separate concern raised about **fixed insulation generally**: whether it
-may contribute to, and hide, rot — a concern weighed against insulation's
-contribution to a Paradox's positive buoyancy. [David C. Smith](/people/david-c-smith.md) answered
-directly, laying out the two competing schools of thought:
+A separate concern raised about **fixed insulation generally**: whether it may contribute to, and hide, rot — a concern weighed against insulation's contribution to a Paradox's positive buoyancy. The two competing schools of thought:
 
-- **Glued installation** (his own choice): specified foam board glued with
-  **epoxy** — not contact cement, which Smith neither trusts nor enjoys working
-  with — to well-sealed, epoxy-coated surfaces, departing from the plans by
-  adding a **3 mm Okoume veneer** over the foam rather than leaving it
-  exposed to damage. With glued foam there is **no gap** between foam and
-  hull/deck, so condensation cannot form in the first place. Both
-  "[Little Cruiser](/matt-layden/little-cruiser.md)" and Paradox have proven
-  this painted, contact-cemented-foam-on-fir-plywood approach over time.
-- **Removable installation**, as [Glen Maxwell](/people/glen-maxwell.md)
-  first proposed: fastening through a veneer of 3 mm ply and the foam to
-  blocks fixed to the hull, so the whole panel can be lifted for inspection.
-  This has real merit even for a builder who ultimately decides to glue
-  everything down, because it lets **condensation, rot, mold, and mildew be
-  monitored directly** rather than trusted to proper sealing. The specified
-  **foil-faced foam**'s foil layer is a weak point under removable
-  installation, since its performance in wet, salty conditions is untested;
-  Smith suggested **closed-cell foam rubber** might suit the removable option
-  better, and noted that aluminium tape is a plausible repair for damaged
-  foil facing. With few deck fittings on the Paradox design — and a
-  preference for **bonded** hardware over **thru-bolted** — deck leaks
-  reaching the insulation are not a major worry either way.
+- **Glued installation**: specified foam board glued with **epoxy** — not contact cement, which is neither trusted nor pleasant to work with — to well-sealed, epoxy-coated surfaces, departing from the plans by adding a **3 mm Okoume veneer** over the foam rather than leaving it exposed to damage. With glued foam there is **no gap** between foam and hull/deck, so condensation cannot form in the first place. Both "[Little Cruiser](/matt-layden/little-cruiser.md)" and Paradox have proven this painted, contact-cemented-foam-on-fir-plywood approach over time.
+- **Removable installation**: fastening through a veneer of 3 mm ply and the foam to blocks fixed to the hull, so the whole panel can be lifted for inspection. This has real merit even for a builder who ultimately decides to glue everything down, because it lets **condensation, rot, mold, and mildew be monitored directly** rather than trusted to proper sealing. The specified **foil-faced foam**'s foil layer is a weak point under removable installation, since its performance in wet, salty conditions is untested; **closed-cell foam rubber** might suit the removable option better, and aluminium tape is a plausible repair for damaged foil facing. With few deck fittings on the Paradox design — and a preference for **bonded** hardware over **thru-bolted** — deck leaks reaching the insulation are not a major worry either way.
 
-Smith judged the choice a matter of individual preference with genuine
-trade-offs on both sides, comparable to the painted-versus-varnished-spars
-debate — not one with a single correct answer.
+The choice is a matter of individual preference with genuine trade-offs on both sides, comparable to the painted-versus-varnished-spars debate — not one with a single correct answer.
 
-**Foam type: white EPS versus extruded polystyrene.** Most builders'
-interior-insulation photos show plain white **expanded polystyrene (EPS)**,
-the same low-cost bead foam widely used for flotation. A prospective builder
-flagged that EPS absorbs water — degrading its insulation value more than
-its flotation value — and reasoned that **extruded polystyrene (XEPS/XPS,
-the blue or pink board foam)** should insulate better whether or not it is
-sealed against the wood with epoxy, as the plans call for.[47]
+**Foam type: white EPS versus extruded polystyrene.** Most builders' interior-insulation photos show plain white **expanded polystyrene (EPS)**, the same low-cost bead foam widely used for flotation. EPS absorbs water — degrading its insulation value more than its flotation value — so **extruded polystyrene (XEPS/XPS, the blue or pink board foam)** should insulate better whether or not it is sealed against the wood with epoxy, as the plans call for.[47]
 
-[Dave Bolduc](/people/bolduc/dave.md) clarified that much of what looked
-like white EPS in build photos was likely **Celotex** instead — a
-yellow, foil-backed rigid foam Little Cruiser was insulated with, and which
-Brent Geery, a builder himself, identified as **polyisocyanurate-based**:
-the best rigid-foam insulation available short of spray-applied
-polyisocyanurate foam, running roughly 20% better than XPS/XEPS for the
-same thickness but at close to double XPS's cost. Swamp Thing, by contrast,
-was insulated with plain white polystyrene; Dave judged the pink foam sold
-at Home Depot would likely outperform both materials used on the Bolducs'
-own two boats.[48][49] The one real problem the Bolducs had with their
-Celotex was biological rather than structural: a colony of ants once moved
-into it and took some time to evict.[50]
+Much of what looked like white EPS in build photos was likely **Celotex** instead — a yellow, foil-backed rigid foam Little Cruiser was insulated with, and which is **polyisocyanurate-based**: the best rigid-foam insulation available short of spray-applied polyisocyanurate foam, running roughly 20% better than XPS/XEPS for the same thickness but at close to double XPS's cost. Swamp Thing, by contrast, was insulated with plain white polystyrene; the pink foam sold at Home Depot would likely outperform both materials used on those two boats.[48][49] The one real problem with that Celotex was biological rather than structural: a colony of ants once moved into it and took some time to evict.[50]
 
 ## Foil-faced foam and radio/GPS shielding
 
-The specified **foil-faced foam** carries a hidden electronic cost, first
-flagged in the "Chine logs" thread (see [chine runner
-construction](/chine-runners/construction.md)): its aluminum foil layer
-**blocks radio signals**, so a GPS or similar unit **will not work well inside
-a cabin lined with it** ([Alastair](/people/alastair.md)).
-[David C. Smith](/people/david-c-smith.md), who planned foil-faced Johns Manville foam on the hull
-sides and under the deck, treated the **cabintop** as the one location most
-likely to shield a receiver, and planned to **mock up a cabintop with the same
-foam and test a GPS underneath it** before committing. He noted some Garmin
-units are designed to work inside a car — a similarly metal-shielded
-environment — suggesting reception might still be workable, with an **external
-antenna mounted in the vent trunk** as a fallback. Lacking a practical way to
-fit radar to a boat this size, he planned to rely on a small **Danish radar
-reflector** like the one carried aboard "[Zoë](/boats/zoe.md)," and reasoned
-the foil facing might actually **aid passive radar reflection**. The foil was
-also expected to **reduce electrolytic action** between the boat's bronze
-fasteners and the aluminum once the foam is encapsulated between hull and
-under-deck veneer, and to need **less adhesive** to bond well than an unfaced
-foam such as polyurethane (which bonds poorly without a facer) — at a higher
-material cost offset by better insulating efficiency.
+The specified **foil-faced foam** carries a hidden electronic cost, first flagged in the "Chine logs" thread (see [chine runner construction](/chine-runners/construction.md)): its aluminum foil layer **blocks radio signals**, so a GPS or similar unit **will not work well inside a cabin lined with it**. Where foil-faced Johns Manville foam is planned on the hull sides and under the deck, the **cabintop** is the one location most likely to shield a receiver, so the sensible precaution is to **mock up a cabintop with the same foam and test a GPS underneath it** before committing. Some Garmin units are designed to work inside a car — a similarly metal-shielded environment — suggesting reception might still be workable, with an **external antenna mounted in the vent trunk** as a fallback. Lacking a practical way to fit radar to a boat this size, a small **Danish radar reflector** like the one carried aboard "[Zoë](/boats/zoe.md)" serves instead, and the foil facing might actually **aid passive radar reflection**. The foil is also expected to **reduce electrolytic action** between the boat's bronze fasteners and the aluminum once the foam is encapsulated between hull and under-deck veneer, and to need **less adhesive** to bond well than an unfaced foam such as polyurethane (which bonds poorly without a facer) — at a higher material cost offset by better insulating efficiency.
 
-For a dinghy rather than a Paradox, a simpler foam solution suffices:
-**expanded polystyrene sheet**, sourced from an ordinary builders' merchant,
-held in place with **hardboard panels** — distinct from the sheet or
-spray-in polyurethane foam builders use for a Paradox's own flotation and
-insulation.
+For a dinghy rather than a Paradox, a simpler foam solution suffices: **expanded polystyrene sheet**, sourced from an ordinary builders' merchant, held in place with **hardboard panels** — distinct from the sheet or spray-in polyurethane foam builders use for a Paradox's own flotation and insulation.
 
-**Closed-cell foam of the camping-mat type**, used successfully in motor
-caravan conversions, is only available in **6 mm (1/4 in)** thickness — too
-thin to know how much buoyancy it would contribute; a **1/2 in** version
-exists but is not cheap, and insulating an entire Paradox with it "would
-cost a mint" though it "would really be warm." Whether **silicone
-sealant** — layable in a thick bead to leave a deliberate air gap, cuttable
-and replaceable, reportedly originally developed as a space-program
-adhesive — could work as a foam adhesive in place of contact cement or
-epoxy (provided it does not react with either surface) is untested.
+**Closed-cell foam of the camping-mat type**, used successfully in motor caravan conversions, is only available in **6 mm (1/4 in)** thickness — too thin to know how much buoyancy it would contribute; a **1/2 in** version exists but is not cheap, and insulating an entire Paradox with it "would cost a mint" though it "would really be warm." Whether **silicone sealant** — layable in a thick bead to leave a deliberate air gap, cuttable and replaceable, reportedly originally developed as a space-program adhesive — could work as a foam adhesive in place of contact cement or epoxy (provided it does not react with either surface) is untested.
 
 ## Why plywood grade matters: checking risk
 
-[Glen C. Maxwell](/people/glen-maxwell.md) located a caveat in West System's
-own boat construction manual (page 39): West does **not recommend Douglas
-fir plywood below "Marine" grade**. The manual explains why:
+A caveat sits in West System's own boat construction manual (page 39): West does **not recommend Douglas fir plywood below "Marine" grade**. The manual explains why:
 
-> "Logs have to be soaked before they are cut into veneers... The panels
-> graded 'Marine' are generally free of these defects, but anything less may
-> not be. We have seen a great deal of construction grade plywood with face
-> veneer cracks extending the entire depth of the veneer. This condition can
-> cause severe checking to occur in a finished surface... we cannot recommend
-> the use in a boat of Douglas fir panels of any grade less than 'Marine.'"
+> "Logs have to be soaked before they are cut into veneers... The panels graded 'Marine' are generally free of these defects, but anything less may not be. We have seen a great deal of construction grade plywood with face veneer cracks extending the entire depth of the veneer. This condition can cause severe checking to occur in a finished surface... we cannot recommend the use in a boat of Douglas fir panels of any grade less than 'Marine.'"
 
-Lower ("construction") grades have face veneers prone to **checking (grain
-splitting)** — a real risk for amateur builders who often choose lesser
-grades for economy. Glen used **"ext A/B"** plywood (a lower, construction
-grade) for his own Paradox ("Zoë"; see [Zoë](/boats/zoe.md)) and found the
-resulting extra finishing labor to achieve his desired finish unacceptably
-high, though it does give an acceptable **workboat finish** with
-considerably less labor than achieving a fine finish. Foam flotation over
-**properly epoxy-coated, dry** fir plywood is safe and encouraged; the
-concern is specifically about checking risk tied to grade, not about
-flotation itself.
+Lower ("construction") grades have face veneers prone to **checking (grain splitting)** — a real risk for amateur builders who often choose lesser grades for economy. **"ext A/B"** plywood (a lower, construction grade) used on "Zoë" (see [Zoë](/boats/zoe.md)) made the extra finishing labor to achieve a fine finish unacceptably high, though it does give an acceptable **workboat finish** with considerably less labor than achieving a fine finish. Foam flotation over **properly epoxy-coated, dry** fir plywood is safe and encouraged; the concern is specifically about checking risk tied to grade, not about flotation itself.
 
 ## Takeaways for builders
 
-- **Marine-grade plywood** is the safer choice under any bonded interior
-  treatment (foam flotation, epoxy coatings) because its veneers are
-  manufactured to avoid cracking/checking.
-- **Construction-grade plywood** (e.g. "ext A/B") is usable and gives an
-  acceptable **workboat finish** with less labor, but is more prone to face
-  veneer checking and can cost more in finishing labor to bring to a fine
-  finish — a trade-off Glen made on "Zoë" (see [Zoë](/boats/zoe.md)) and
-  would reconsider.
-- Foam flotation over **properly epoxy-coated, dry** fir plywood is reported
-  safe by both major marine epoxy makers and should not be omitted from a
-  Paradox.
+- **Marine-grade plywood** is the safer choice under any bonded interior treatment (foam flotation, epoxy coatings) because its veneers are manufactured to avoid cracking/checking.
+- **Construction-grade plywood** (e.g. "ext A/B") is usable and gives an acceptable **workboat finish** with less labor, but is more prone to face veneer checking and can cost more in finishing labor to bring to a fine finish — a trade-off made on "Zoë" (see [Zoë](/boats/zoe.md)) and later reconsidered.
+- Foam flotation over **properly epoxy-coated, dry** fir plywood is reported safe by both major marine epoxy makers and should not be omitted from a Paradox.
 
-See also [hull scantlings](/design/hull-scantlings.md) for the plywood
-thicknesses used across the Paradox, and
-[non-skid deck](/construction/non-skid-deck.md) and
-[bottom painting](/construction/bottom-painting.md) for Glen's other
-epoxy-finishing techniques. Glen later worked out a practical fix for the
-inspection concern this raises — see
-[removable foam flotation panels](/construction/removable-foam-panels.md).
+See also [hull scantlings](/design/hull-scantlings.md) for the plywood thicknesses used across the Paradox, and [non-skid deck](/construction/non-skid-deck.md) and [bottom painting](/construction/bottom-painting.md) for other epoxy-finishing techniques. A practical fix for the inspection concern this raises was later worked out — see [removable foam flotation panels](/construction/removable-foam-panels.md).
 
 ## Identifying plywood species: "Paraply" and possible Kauri
 
-A related plywood-identification theme: **"Paraply"** is a plywood species
-from **South America**. Although Paraply is "great for interior furniture,"
-it should **not be used in boats**, because it will not withstand a **boil
-test**.
+A related plywood-identification theme: **"Paraply"** is a plywood species from **South America**. Although Paraply is "great for interior furniture," it should **not be used in boats**, because it will not withstand a **boil test**.
 
-A plywood board sold as "marine ply" may in fact only be **stamped AC
-exterior** grade rather than true marine grade — one builder's stock, sold
-as marine ply, was 9 mm 5-ply with two hardwood veneer layers stamped **AC
-exterior**, whose outer layers resembled **Kauri**. Since New Zealand Kauri
-(*Agathis australis*) is now illegal to harvest, it was speculated the
-material might be **Fijian Kauri**, possibly related to Paraply — a species
-link that was never confirmed. **Practical takeaway:** builders should check
-the actual grade stamp rather than relying on a seller's "marine" label.
+A plywood board sold as "marine ply" may in fact only be **stamped AC exterior** grade rather than true marine grade — one builder's stock, sold as marine ply, was 9 mm 5-ply with two hardwood veneer layers stamped **AC exterior**, whose outer layers resembled **Kauri**. Since New Zealand Kauri (*Agathis australis*) is now illegal to harvest, it was speculated the material might be **Fijian Kauri**, possibly related to Paraply — a species link that was never confirmed. **Practical takeaway:** builders should check the actual grade stamp rather than relying on a seller's "marine" label.
 
 # Citations (ply identification)
 
@@ -230,17 +75,9 @@ the actual grade stamp rather than relying on a seller's "marine" label.
 
 ## Don Elliott's departure from the paradoxbuilders list
 
-Glen's rebuttal closed by asking Don Elliott to share his credentials — a
-challenge **[Charles Wilson](/people/charles-wilson.md)**, a UK-based list
-member, urged the group not to press: he had raised the same question on
-another list once and it "caused more trouble than it was worth," and in
-his view "Don knows everything about boating, design and building."
+The rebuttal closed by asking for the credentials behind the safety claim — a challenge the group was urged not to press: the same question had once been raised on another list and it "caused more trouble than it was worth."
 
-Don Elliott **resigned from the `paradoxbuilders` list outright**: "I will
-not belong to any group that promotes unsafe practices, there I am removing
-myself as of today." He redirected anyone with Paradox questions to a
-different Yahoo group, **[Smallboats](/references/smallboats-group.md)**.
-Whether the departure was permanent is not recorded.
+That challenge prompted an **outright resignation from the `paradoxbuilders` list**: "I will not belong to any group that promotes unsafe practices, there I am removing myself as of today." Anyone with Paradox questions was redirected to a different Yahoo group, **[Smallboats](/references/mailing-list.md#sibling-and-successor-groups)**. Whether the departure was permanent is not recorded.
 
 # Citations
 
@@ -251,57 +88,22 @@ Whether the departure was permanent is not recorded.
 
 ## No plywood is fully immune to checking
 
-Gluing foam directly to epoxy-coated fir plywood risks rot from checking,
-and a layer of fiberglass cloth over the ply is supposed to prevent it —
-but fir plywood **can still check even under glass and epoxy**, raising the
-question of whether **any plywood type resists checking** with or without a
-fiberglass coating. A data point grounding the concern: a **Bolger
-"Junebug"** planked in **1/4 in "Superply"** and finished with only Interlux
-Brightsides enamel (no fiberglass or epoxy), stored in a garage, was
-checking badly after about 18 months.
+Gluing foam directly to epoxy-coated fir plywood risks rot from checking, and a layer of fiberglass cloth over the ply is supposed to prevent it — but fir plywood **can still check even under glass and epoxy**, raising the question of whether **any plywood type resists checking** with or without a fiberglass coating. A data point grounding the concern: a **Bolger "Junebug"** planked in **1/4 in "Superply"** and finished with only Interlux Brightsides enamel (no fiberglass or epoxy), stored in a garage, was checking badly after about 18 months.
 
 ## Glen Maxwell's answer: no ply is immune, but grade matters
 
-Glen's position, more settled and specific than the October 2001 exchange:
+A more settled and specific position than the October 2001 exchange:
 
-- He is **not overly concerned about checking on "Zoë"'s interior**, because
-  he keeps her stored **inside and well ventilated** — checking risk is not
-  purely a materials question but depends on storage/exposure conditions too.
-- He **personally would not use AC exterior fir plywood again**, both for
-  the checking problem and because of the time required to bring such a
-  hull to a finish he is happy with on a boat meant to **last and be
-  invested in**. He went further than his October 2001 position: he
-  **probably would not even use "Marine"-grade fir plywood again**, because
-  of the checking problem — a harder line than the earlier debate, which
-  had treated Marine-grade fir as the safe baseline.
-- Genuinely **check-resistant marine plywoods**: **gaboon and mahogany**,
-  which do not check whether coated or not, sourced from **Harbor Sales
-  (800-345-1712)**.
-- For **interior bulkheads and shelving** (non-structural, non-hull-skin
-  uses), **MDO or HDO plywood, coated both sides**, is recommended, for
-  which ordinary **fir is fine**.
-- A practical cost framing: by the time a project is finished, even very
-  good plywood is a **small percentage of the overall cost** — a builder
-  can save more by buying good ply and **skipping the epoxy/glassing on the
-  inside** than by economizing on the wood itself. With reasonable care,
-  the **outside** glassing can even be skipped too if good plywood is used,
-  though the hull will not tolerate rough handling as well without it.
-- For a **deliberately disposable "proof of concept" boat** (built just to
-  see if a proven design suits the builder), **exterior AC ply**, pretreated
-  using **[Dave Carnell's](/references/dave-carnell-articles.md)** method
-  and finished with ordinary **house paint** per Dave Carnell's own
-  recommendations, could last **10 years or more** even built to that low a
-  standard.
+- **Checking on "Zoë"'s interior is not a major concern**, because she is stored **inside and well ventilated** — checking risk is not purely a materials question but depends on storage/exposure conditions too.
+- **AC exterior fir plywood is not worth using again**, both for the checking problem and because of the time required to bring such a hull to a finish worth having on a boat meant to **last and be invested in**. Going further than the October 2001 position: even **"Marine"-grade fir plywood is probably not worth using again**, because of the checking problem — a harder line than the earlier debate, which had treated Marine-grade fir as the safe baseline.
+- Genuinely **check-resistant marine plywoods**: **gaboon and mahogany**, which do not check whether coated or not, sourced from **Harbor Sales (800-345-1712)**.
+- For **interior bulkheads and shelving** (non-structural, non-hull-skin uses), **MDO or HDO plywood, coated both sides**, is recommended, for which ordinary **fir is fine**.
+- A practical cost framing: by the time a project is finished, even very good plywood is a **small percentage of the overall cost** — a builder can save more by buying good ply and **skipping the epoxy/glassing on the inside** than by economizing on the wood itself. With reasonable care, the **outside** glassing can even be skipped too if good plywood is used, though the hull will not tolerate rough handling as well without it.
+- For a **deliberately disposable "proof of concept" boat** (built just to see if a proven design suits the builder), **exterior AC ply**, pretreated using the [Dave Carnell](/references/dave-carnell-articles.md) method and finished with ordinary **house paint** per those recommendations, could last **10 years or more** even built to that low a standard.
 
-A cautionary real-world data point reinforces the sharpened guidance: a
-**Searunner 31** trimaran built of fir plywood by an experienced repeat
-builder (fiberglassed outside, epoxy-coated only inside) already showed
-**fiberglass splitting at the cockpit-coaming edges and the beginnings of
-interior checking after only about 4 years**.
+A cautionary real-world data point reinforces the sharpened guidance: a **Searunner 31** trimaran built of fir plywood by an experienced repeat builder (fiberglassed outside, epoxy-coated only inside) already showed **fiberglass splitting at the cockpit-coaming edges and the beginnings of interior checking after only about 4 years**.
 
-**Practical takeaway:** even Marine-grade fir plywood can check — gaboon and
-mahogany are the genuinely check-resistant choices, with AC fir plywood
-reserved for a disposable/proof-of-concept build.
+**Practical takeaway:** even Marine-grade fir plywood can check — gaboon and mahogany are the genuinely check-resistant choices, with AC fir plywood reserved for a disposable/proof-of-concept build.
 
 # Citations (renewed checking question)
 
@@ -312,75 +114,26 @@ reserved for a disposable/proof-of-concept build.
 
 ## Meranti and BS1088: a more specific species recommendation
 
-[David Beard](/people/david-beard.md), planning a **from-scratch** Paradox,
-returned to the same underlying checking problem. Buying the secondhand
-"[Whisper](/boats/whisper.md)" had led him to **stop construction** on the
-boat he was building himself, wanting first to get to know the boat and see
-what changes he wanted to make. He settled on two changes: omit the **water
-tanks**, and use a plywood other than **fir** for the sides and bottom,
-since checking on the interior of his existing fir-ply work was marring his
-paint job.
+Planning a **from-scratch** Paradox returns to the same underlying checking problem. Buying the secondhand "[Whisper](/boats/whisper.md)" led to **stopping construction** on the boat then being built from scratch, in order first to get to know the boat and see what changes were wanted. Two changes settled out: omit the **water tanks**, and use a plywood other than **fir** for the sides and bottom, since checking on the interior of existing fir-ply work was marring the paint job.
 
-[David LeBlanc](/people/david-leblanc.md) gave the most specific
-plywood-species recommendation on record, independent of and more detailed than Glen
-Maxwell's gaboon/mahogany answer above:
+The most specific plywood-species recommendation on record, independent of and more detailed than the gaboon/mahogany answer above:
 
-- **Meranti plywood to the BS1088 standard** is a good choice — the highest
-  quality, lighter than Okoume, and somewhat less expensive too.
-- Meranti is a bit **more rot-resistant** than **Okoume**, per a "wood
-  expert" source, though both are tropical hardwoods with "the rot
-  resistance of wet toilet paper" — meaning both **must be well
-  encapsulated with epoxy**, with that encapsulation **maintained
-  religiously**, in which case either will outlast fir "given the same
-  level of care."
-- Plywood to the lower **BS6065** standard isn't quite as good, but is still
-  usable; **uncertified "marine" plywood** should be avoided outright, since
-  its quality "can be worse than construction plys" — echoing the same
-  marine-label caution raised by the "Paraply"/AC-exterior mislabeling
-  incident above.
-- For builders on the US **east coast** wanting the best BS1088 option,
-  **Brunzeel** — a Dutch-made brand — is "the very be$t."
+- **Meranti plywood to the BS1088 standard** is a good choice — the highest quality, lighter than Okoume, and somewhat less expensive too.
+- Meranti is a bit **more rot-resistant** than **Okoume**, per a "wood expert" source, though both are tropical hardwoods with "the rot resistance of wet toilet paper" — meaning both **must be well encapsulated with epoxy**, with that encapsulation **maintained religiously**, in which case either will outlast fir "given the same level of care."
+- Plywood to the lower **BS6065** standard isn't quite as good, but is still usable; **uncertified "marine" plywood** should be avoided outright, since its quality "can be worse than construction plys" — echoing the same marine-label caution raised by the "Paraply"/AC-exterior mislabeling incident above.
+- For builders on the US **east coast** wanting the best BS1088 option, **Brunzeel** — a Dutch-made brand — is "the very be$t."
 
-A competing, cheaper fix was also offered for the checking problem: a
-**thin (6 oz or so) fiberglass cloth laid in epoxy** should be enough to
-stop **fir** plywood from checking, without needing to switch species at
-all. This directly contradicts the plywood-grade/species framing above
-(which held that even glassed Marine-grade fir can still check) and is not
-reconciled with it in the record — a competing, unresolved data point on
-how much a glass/epoxy layer alone can be trusted to stop fir from checking.
+A competing, cheaper fix was also offered for the checking problem: a **thin (6 oz or so) fiberglass cloth laid in epoxy** should be enough to stop **fir** plywood from checking, without needing to switch species at all. This directly contradicts the plywood-grade/species framing above (which held that even glassed Marine-grade fir can still check) and is not reconciled with it in the record — a competing, unresolved data point on how much a glass/epoxy layer alone can be trusted to stop fir from checking.
 
 ## David Beard's ballast rationale
 
-David Beard explained his reason for eliminating the water tanks: he
-prefers to store drinking water in **small containers** instead, since this
-frees up the tank spaces as useful **storage areas**; he already has
-permanent [ballast](/design/weight-and-ballast.md) sited there, so he has no
-need to use tank water as ballast the way the stock design intends. On the
-checking problem itself, he had already **glassed the outside** of his hull
-to stop checking there, but judged the interior impractical to glass the
-same way — "way too many small pieces" — and concluded it would be
-**cheaper to change plywood species** than to glass every interior nook.
-This leaves the thread's two competing fixes (species change vs.
-glass/epoxy layer) unreconciled: David's own reasoning is a practical
-labor/cost judgment specific to his boat's interior geometry, not a
-rejection of the glass-cloth fix on technical grounds.
+The reason for eliminating the water tanks: storing drinking water in **small containers** instead frees up the tank spaces as useful **storage areas**; with permanent [ballast](/design/weight-and-ballast.md) already sited there, there is no need to use tank water as ballast the way the stock design intends. On the checking problem itself, the outside of the hull had already been **glassed** to stop checking there, but the interior was judged impractical to glass the same way — "way too many small pieces" — so it would be **cheaper to change plywood species** than to glass every interior nook. This leaves the thread's two competing fixes (species change vs. glass/epoxy layer) unreconciled: that reasoning is a practical labor/cost judgment specific to one boat's interior geometry, not a rejection of the glass-cloth fix on technical grounds.
 
 ## Supplier links, and a ballast-philosophy note
 
-[Glen C. Maxwell](/people/glen-maxwell.md) posted two plywood supplier
-links: `boulterplywood.com` and `hardwoodint.com` — the second a repeat of a
-lumber/plywood source passed on once before (see
-[hull scantlings — lumber and plywood sourcing](/design/hull-scantlings.md#lumber-and-plywood-sourcing)).
+Two plywood supplier links are on record: `boulterplywood.com` and `hardwoodint.com` — the second a repeat of a lumber/plywood source passed on once before (see [hull scantlings — lumber and plywood sourcing](/design/hull-scantlings.md#lumber-and-plywood-sourcing)).
 
-On the underlying **tanks-vs-containers** question, the choice hinges on how
-a boat is actually used. A **local day sailor or short-term cruiser** does
-better with more **permanent ballast** (keeping the interior uncluttered and
-avoiding tank maintenance), adding water in small containers only as
-needed — David Beard's own approach. A cruiser making **three-month trips**,
-the way [Dave Bolduc](/people/bolduc/dave.md) uses his boat, would instead
-want to conserve every possible container for **food and water** rather
-than tie the space up as fixed ballast. Both approaches are sound depending
-on the sailor's use case.
+On the underlying **tanks-vs-containers** question, the choice hinges on how a boat is actually used. A **local day sailor or short-term cruiser** does better with more **permanent ballast** (keeping the interior uncluttered and avoiding tank maintenance), adding water in small containers only as needed. A cruiser making **three-month trips** would instead want to conserve every possible container for **food and water** rather than tie the space up as fixed ballast. Both approaches are sound depending on the sailor's use case.
 
 # Citations (a third builder revives the question)
 
@@ -393,46 +146,13 @@ on the sailor's use case.
 
 ## The "HUGE controversy," revisited a year and a half later
 
-The foam-vs-no-foam debate is, on later reflection (see
-[operations/cabin-heating.md](/operations/cabin-heating.md) for the message
-it arose in), a "HUGE controversy" only in the sense of a builder's-
-discretion **detail** that does not touch the boat's geometry or
-specifications either way — consistent with the practical takeaway above
-(Marine-grade or better ply plus proper epoxy encapsulation makes bonded
-foam flotation safe). [David C. Smith](/people/david-c-smith.md) added a firsthand professional
-data point: he had personally witnessed **rot from lack of ventilation**
-and **Douglas Fir marine plywood checking even under glass**, and, half in
-jest, floated **CO2-inflated air bladders** as a flotation alternative that
-"may in fact prove... superior... if the boat ever commences to sink." His
-own stated preference is glued-in foam (doubling as insulation) protected
-by a thin sheet material, built only from **Okoume** ply.
+The foam-vs-no-foam debate is, on later reflection (see [operations/cabin-heating.md](/operations/cabin-heating.md) for the message it arose in), a "HUGE controversy" only in the sense of a builder's-discretion **detail** that does not touch the boat's geometry or specifications either way — consistent with the practical takeaway above (Marine-grade or better ply plus proper epoxy encapsulation makes bonded foam flotation safe). A firsthand professional data point reinforces it: **rot from lack of ventilation** and **Douglas Fir marine plywood checking even under glass** have both been witnessed directly, and, half in jest, **CO2-inflated air bladders** were floated as a flotation alternative that "may in fact prove... superior... if the boat ever commences to sink." The stated preference is glued-in foam (doubling as insulation) protected by a thin sheet material, built only from **Okoume** ply.
 
 ## Smith's own plywood choice, mid-build
 
-Six weeks later, [David C. Smith](/people/david-c-smith.md) reported he had settled on **Joubert
-Okoume BS-1088** plywood for his own in-progress Paradox "sistership." He
-agreed with [Matt Layden](/matt-layden/biography.md)'s own specification
-that **Douglas Fir marine plywood** is structurally sound — "Doug Fir is
-good stuff" — but judged the difficulty of **prepping and finishing** fir
-ply, even when epoxied, a strong practical case for a mahogany-family
-plywood instead; he called Okoume marine ply **"a pure joy to work."** He
-would not have ruled out the cheaper **BS-6566** grade of Okoume either —
-also superior to fir, typically with fewer veneers than BS-1088 — but his
-own supplier stocked only the BS-1088 grade. For solid lumber he used
-**Honduras Mahogany** through most of the boat, not for appearance (most of
-the hull would be painted rather than finished bright) but because it was
-the easiest wood to work and finish. He used **West System epoxy**,
-trusting it completely, though "warming up to" MAS epoxy. He linked a
-condensed text of the **BS-1088 standard** (`worldpanel.com/bs1088.htm`) and
-named two of his own Pacific Northwest suppliers of exotic lumber and
-marine plywood: **Emerson/Crosscut** (an hour's drive away) and **Edensaw**.
+Six weeks later, one in-progress Paradox "sistership" was settled on **Joubert Okoume BS-1088** plywood. This agreed with [Matt Layden](/matt-layden/biography.md)'s own specification that **Douglas Fir marine plywood** is structurally sound — "Doug Fir is good stuff" — but the difficulty of **prepping and finishing** fir ply, even when epoxied, was judged a strong practical case for a mahogany-family plywood instead; Okoume marine ply is **"a pure joy to work."** The cheaper **BS-6566** grade of Okoume would not have been ruled out either — also superior to fir, typically with fewer veneers than BS-1088 — but that supplier stocked only the BS-1088 grade. For solid lumber, **Honduras Mahogany** ran through most of the boat, not for appearance (most of the hull would be painted rather than finished bright) but because it was the easiest wood to work and finish. **West System epoxy**, trusted completely, was used, though "warming up to" MAS epoxy. A condensed text of the **BS-1088 standard** (`worldpanel.com/bs1088.htm`) was linked, along with two Pacific Northwest suppliers of exotic lumber and marine plywood: **Emerson/Crosscut** (an hour's drive away) and **Edensaw**.
 
-This is the first concrete, named plywood **purchase** on record (species,
-grade, and brand) reported by a builder actively buying materials for a
-Paradox still to be built, rather than a general recommendation — a
-real-world data point consistent with, though more enthusiastic about
-Okoume specifically than, David LeBlanc's Meranti/BS1088/Brunzeel
-recommendation above.
+This is the first concrete, named plywood **purchase** on record (species, grade, and brand) reported by a builder actively buying materials for a Paradox still to be built, rather than a general recommendation — a real-world data point consistent with, though more enthusiastic about Okoume specifically than, the Meranti/BS1088/Brunzeel recommendation above.
 
 # Citations (Smith's own plywood choice)
 
@@ -440,434 +160,83 @@ recommendation above.
 
 ## A new builder's exterior-vs-marine choice, and why marine usually wins on labor
 
-A new prospective builder's exterior-vs-marine-plywood question — the
-list's most frequently recurring plywood question — drew the fullest,
-most practically framed answer yet, distinguishing structural adequacy from
-finishing labor.
+A new prospective builder's exterior-vs-marine-plywood question — the list's most frequently recurring plywood question — drew the fullest, most practically framed answer yet, distinguishing structural adequacy from finishing labor.
 
-[Don Elliott](/people/don-elliott.md) confirmed that **exterior-grade
-plywood will serve**, provided the species is chosen carefully: use a
-**good-quality Douglas fir exterior ply** (Boise Cascade brand judged
-reliable) rather than **white pine ply**, since the fir grade uses the same
-glue as marine grade and should not cause problems. He drew a distinction by
-hull location — the **bottom** does not need to be marine grade even for a
-boat headed for rough or long-distance use, but **marine grade is worth the
-extra cost for the side hull panels**, which are more visible and easier to
-work with when finished nicely; the **deck** should avoid any plywood with
-thin outer veneer layers regardless of grade. He noted that
-[Matt Layden](/matt-layden/biography.md)'s own plans state exterior ply will
-serve and give a detailed explanation of suitable material — guidance Don
-considered proven true in practice — while still recommending marine grade
-for a builder planning serious rough-water or long-distance cruising.
+**Exterior-grade plywood will serve**, provided the species is chosen carefully: use a **good-quality Douglas fir exterior ply** (Boise Cascade brand judged reliable) rather than **white pine ply**, since the fir grade uses the same glue as marine grade and should not cause problems. A distinction runs by hull location — the **bottom** does not need to be marine grade even for a boat headed for rough or long-distance use, but **marine grade is worth the extra cost for the side hull panels**, which are more visible and easier to work with when finished nicely; the **deck** should avoid any plywood with thin outer veneer layers regardless of grade. [Matt Layden](/matt-layden/biography.md)'s own plans state exterior ply will serve and give a detailed explanation of suitable material — guidance proven true in practice — while marine grade is still recommended for a builder planning serious rough-water or long-distance cruising.
 
-[Glen C. Maxwell](/people/glen-maxwell.md) reinforced the point from his own
-experience building "[Zoë](/boats/zoe.md)" in **exterior AC fir**, originally
-intending only a **quick, thrown-together workboat finish**. As the project
-progressed he became increasingly enamored with the Paradox design, and,
-enjoying the build, wanted a nicer finish than he had originally planned —
-at which point the tradeoff became clear: the **extra labor required to
-bring exterior ply to a genuinely nice finish makes marine plywood a
-"steal"** by comparison, even though exterior ply's structural adequacy was
-never in question. This restates, from the builder's-cost side rather than
-the checking-risk side, the same conclusion Glen reached above about his own
-boat (see "Why plywood grade matters" and "Glen Maxwell's answer," this
-page) — exterior ply is usable, but the finishing-labor premium it demands
-often outweighs marine plywood's modest price premium.
+The point is reinforced from the experience of building "[Zoë](/boats/zoe.md)" in **exterior AC fir**, originally intending only a **quick, thrown-together workboat finish**. As the project progressed and the Paradox design proved increasingly appealing, the build itself became enjoyable enough to warrant a nicer finish than originally planned — at which point the tradeoff became clear: the **extra labor required to bring exterior ply to a genuinely nice finish makes marine plywood a "steal"** by comparison, even though exterior ply's structural adequacy was never in question. This restates, from the builder's-cost side rather than the checking-risk side, the same conclusion reached above about that boat (see "Why plywood grade matters" and "Glen Maxwell's answer," this page) — exterior ply is usable, but the finishing-labor premium it demands often outweighs marine plywood's modest price premium.
 
-Weighing both views, the practical case for **marine plywood** throughout
-is straightforward: having gone to the trouble of building the boat, a
-builder does not want to end up merely "98 percent" satisfied with the
-result for the sake of a comparatively small savings.
+Weighing both views, the practical case for **marine plywood** throughout is straightforward: having gone to the trouble of building the boat, a builder does not want to end up merely "98 percent" satisfied with the result for the sake of a comparatively small savings.
 
 ## Sourcing fir marine plywood, and the true weight/cost tradeoff against Okoume
 
-[Dave Bolduc](/people/bolduc/dave.md) gave a newcomer the same
-verdict directly: fir marine grade for the hull is enough, sealed with epoxy
-inside and fiberglassed outside — "Matt did this on all of his boats prior
-to Paradox," painting rather than finishing bright to save money. Weighing
-that advice against Okoume, a prospective builder worked through the real
-tradeoff between the two: top-grade Okoume marine plywood runs nearly **half
-the weight** of cheaper marine-grade lauan, which matters for both stores
-capacity and how much epoxy/glass can be added without a weight penalty, but
-good ACX exterior fir still costs only about a third of top marine ply,
-finishes less well, and does not last as long — reasoning that the extra
-upfront cost of the better material should pay for itself later in cheaper,
-easier repairs. He planned five coats of interior epoxy below the
-waterline (three elsewhere), leaving unexposed surfaces uncovered by paint
-for easier rot inspection later.[51][52]
+The same verdict, given directly: fir marine grade for the hull is enough, sealed with epoxy inside and fiberglassed outside — "Matt did this on all of his boats prior to Paradox," painting rather than finishing bright to save money. Weighing that advice against Okoume brings out the real tradeoff between the two: top-grade Okoume marine plywood runs nearly **half the weight** of cheaper marine-grade lauan, which matters for both stores capacity and how much epoxy/glass can be added without a weight penalty, but good ACX exterior fir still costs only about a third of top marine ply, finishes less well, and does not last as long — so the extra upfront cost of the better material should pay for itself later in cheaper, easier repairs. Five coats of interior epoxy below the waterline (three elsewhere), leaving unexposed surfaces uncovered by paint for easier rot inspection later, round out that plan.[51][52]
 
-A specific **A/B fir plywood** source — distinguishing marine-grade A/B,
-free of edge voids, from ordinary exterior-grade A/B — remains unsourced on
-record.[53] The general sourcing challenge this illustrates — that suitable
-marine or premium-grade plywood, unlike the plans themselves, often has to be
-shipped in rather than bought off the shelf locally — is restated in
-[building plans — source and
-cost](/references/building-plans.md#source-and-cost).
+A specific **A/B fir plywood** source — distinguishing marine-grade A/B, free of edge voids, from ordinary exterior-grade A/B — remains unsourced on record.[53] The general sourcing challenge this illustrates — that suitable marine or premium-grade plywood, unlike the plans themselves, often has to be shipped in rather than bought off the shelf locally — is restated in [building plans — source and cost](/references/building-plans.md#source-and-cost).
 
 ## A 2006 recurrence: budget exterior ply, and why "green" plywood should be avoided
 
-A prospective builder still waiting on his plans raised the exterior-vs-marine
-question afresh, framed specifically around **cost**: whether cheaper
-non-marine plywood would need more epoxy to compensate, how it would hold up
-compared with marine grade, whether a hardware store's **green-tinted**
-exterior plywood was the right material, and where to find inexpensive epoxy.
+A prospective builder still waiting on plans raised the exterior-vs-marine question afresh, framed specifically around **cost**: whether cheaper non-marine plywood would need more epoxy to compensate, how it would hold up compared with marine grade, whether a hardware store's **green-tinted** exterior plywood was the right material, and where to find inexpensive epoxy.
 
-[Jack Gardiner](/people/jack-gardiner.md) gave the fullest answer, restating
-and sharpening the file's existing exterior-vs-marine guidance for a builder
-working to a tight budget:
+The fullest answer restated and sharpened the file's existing exterior-vs-marine guidance for a builder working to a tight budget:
 
-- Buy **the best grade affordable**, then **sheathe it in a light 2-4 oz
-  fabric** — good abrasion protection and easy to repair.
-- Pair good plywood with **good epoxy**; using cheap epoxy on expensive marine
-  ply wastes the ply's advantage.
-- **Green-tinted plywood is pressure-treated** and should not be used — its
-  moisture content is unsuitable for laminating or filleting, and the
-  treatment chemicals are an added concern.
-- **Exterior-grade plywood uses the same glue as marine grade**; the real
-  difference is veneer quality and how much void is tolerated in the grading.
-  A Paradox is a small boat, not a structure demanding marine grade by
-  necessity.
-- Non-marine fir plywood should still be **sheathed to avoid checking**
-  (consistent with the checking-risk guidance elsewhere on this page).
-- **Epoxy quantity is not a major cost factor** on a boat this size — buy the
-  best material affordable and get on with the build.
-- His own **exterior A/C-grade plywood**, after two full sailing seasons, had
-  given him no problems and looked set to last a long time.
+- Buy **the best grade affordable**, then **sheathe it in a light 2-4 oz fabric** — good abrasion protection and easy to repair.
+- Pair good plywood with **good epoxy**; using cheap epoxy on expensive marine ply wastes the ply's advantage.
+- **Green-tinted plywood is pressure-treated** and should not be used — its moisture content is unsuitable for laminating or filleting, and the treatment chemicals are an added concern.
+- **Exterior-grade plywood uses the same glue as marine grade**; the real difference is veneer quality and how much void is tolerated in the grading. A Paradox is a small boat, not a structure demanding marine grade by necessity.
+- Non-marine fir plywood should still be **sheathed to avoid checking** (consistent with the checking-risk guidance elsewhere on this page).
+- **Epoxy quantity is not a major cost factor** on a boat this size — buy the best material affordable and get on with the build.
+- One builder's own **exterior A/C-grade plywood**, after two full sailing seasons, gave no problems and looked set to last a long time.
 
-A second correspondent, new to the list, pointed to **RAKA's online epoxy
-guide** (`raka.com/UserManual.html`) as a starting resource for a builder
-unfamiliar with epoxy, noting RAKA's own prices are reasonable; System Three
-once printed a similar manual, availability unknown. He independently
-confirmed the **green/pressure-treated caution**: epoxy does not bond as well
-to pressure-treated wood as to untreated wood, and pressure treatment's
-rot-resistance is redundant once a hull is epoxy-coated anyway.
+**RAKA's online epoxy guide** (`raka.com/UserManual.html`) is a starting resource for a builder unfamiliar with epoxy, and RAKA's own prices are reasonable; System Three once printed a similar manual, availability unknown. The **green/pressure-treated caution** was independently confirmed: epoxy does not bond as well to pressure-treated wood as to untreated wood, and pressure treatment's rot-resistance is redundant once a hull is epoxy-coated anyway.
 
-[David Beard](/people/david-beard.md) added a concrete data point from his
-own build: he used **AC exterior plywood** for his own Paradox, **the same
-grade [Matt Layden](/matt-layden/biography.md) and [Glen
-Maxwell](/people/glen-maxwell.md) used** — confirming exterior ply's
-structural adequacy is proven, not merely theoretical, at the level of the
-design's own creator. Exterior ply takes **somewhat more epoxy** to bring to
-a good finish than marine grade would. He uses **System Three** epoxy, out of
-personal familiarity rather than a claimed performance edge, and recommended
-[Don Elliott](/people/don-elliott.md)'s building manual as a worthwhile
-purchase for a new builder.
+A concrete data point from a completed build: **AC exterior plywood** on a finished Paradox is **the same grade [Matt Layden](/matt-layden/biography.md) used** — confirming exterior ply's structural adequacy is proven, not merely theoretical, at the level of the design's own creator. Exterior ply takes **somewhat more epoxy** to bring to a good finish than marine grade would. **System Three** epoxy served, out of personal familiarity rather than a claimed performance edge, and a builder's manual is a worthwhile purchase for a new builder.
 
-Satisfied that other builders' good results with exterior ply made his
-decision easier, the newcomer separately asked whether "[Little
-Cruiser](/matt-layden/little-cruiser.md)" had been built with fiberglass
-sheathing, having noticed none when its paint was stripped — a question the
-archive answers directly, though not within this thread: Little Cruiser was
-**not originally sheathed in epoxy/fiberglass**, which is exactly why her
-plywood developed surface checks over the years, addressed only in her 2005
-refit (full detail at [Little Cruiser — construction scantlings and the 2005
-epoxy/fiberglass sheathing
-refit](/matt-layden/little-cruiser.md#construction-scantlings-and-the-2005-epoxyfiberglass-sheathing-refit)).
+Reassured that other builders' good results with exterior ply made the decision easier, the newcomer separately asked whether "[Little Cruiser](/matt-layden/little-cruiser.md)" had been built with fiberglass sheathing, having noticed none when its paint was stripped — a question the archive answers directly, though not within this thread: Little Cruiser was **not originally sheathed in epoxy/fiberglass**, which is exactly why her plywood developed surface checks over the years, addressed only in her 2005 refit (full detail at [Little Cruiser — construction scantlings and the 2005 epoxy/fiberglass sheathing refit](/matt-layden/little-cruiser.md#construction-scantlings-and-the-2005-epoxyfiberglass-sheathing-refit)).
 
-A non-Paradox data point corroborates the exterior-ply/epoxy combination's
-long-term durability: [Derek Clark](/people/derek-clark.md) cited a 22 ft
-boat, **"Madrigal,"** built of exterior plywood and polyester resin in
-Greece, then sailed back to England via the French canal system — a build
-that **lasted about 15 years**, finally rotting through only after being
-left outdoors in a field where rainwater got into her. [Bill
-Serjeant](/people/bill-serjeant.md) supplied Madrigal's own website
-(`home.freeuk.net/colinpowell/`) for builders wanting more detail.
+A non-Paradox data point corroborates the exterior-ply/epoxy combination's long-term durability: a 22 ft boat, **"Madrigal,"** built of exterior plywood and polyester resin in Greece, then sailed back to England via the French canal system — a build that **lasted about 15 years**, finally rotting through only after being left outdoors in a field where rainwater got into her. Madrigal's own website (`home.freeuk.net/colinpowell/`) offers more detail for interested builders.
 
 ## A July 2006 recurrence, and a recommendation for MDO plywood
 
-The cheap-vs-marine plywood question recurred again in mid-July 2006 from a
-newcomer near Lake Pend Oreille, North Idaho, planning to keep his own boat
-on a trailer over gravel rather than a concrete floor.[75] The study plans
-themselves already cover plywood choice in detail, and a stock Paradox's
-assembly sequence is deliberately **self-jigging**, making a poured concrete
-floor unnecessary to build on.[76] Reassured, the newcomer confirmed he
-could build with **exterior-grade ("ex") plywood**, judging it would make
-starting the project easier to justify given his limited time and money,
-and reported he had already e-mailed the Bolducs to confirm availability,
-price, and payment method.[78]
+The cheap-vs-marine plywood question recurred again in mid-July 2006 from a newcomer near Lake Pend Oreille, North Idaho, planning to keep the boat on a trailer over gravel rather than a concrete floor.[75] The study plans themselves already cover plywood choice in detail, and a stock Paradox's assembly sequence is deliberately **self-jigging**, making a poured concrete floor unnecessary to build on.[76] Reassured, the newcomer confirmed a build with **exterior-grade ("ex") plywood** would make starting the project easier to justify given limited time and money, and had already e-mailed the plans supplier to confirm availability, price, and payment method.[78]
 
-One reply went further than restating exterior-vs-marine and named a
-specific product: **MDO (medium-density overlay) plywood**, an exterior-grade
-sheet material made for highway signs and concrete forms, was recommended
-over ordinary exterior fir plywood for its very smooth surface (saving
-sanding time and resisting the checking regular fir plywood is prone to) and
-its better paint-holding, meaning less maintenance for a boat kept in the
-water for any length of time; MDO was judged worth its extra cost for those
-reasons, and is manufactured in Washington State, making it readily
-available in the Pacific Northwest.[77] A **gravel floor can still be made
-level** for building purposes by driving short posts into the ground and
-fastening 2x4s to them checked level in both directions, giving a stable
-reference base without pouring concrete.[77]
+One reply went further than restating exterior-vs-marine and named a specific product: **MDO (medium-density overlay) plywood**, an exterior-grade sheet material made for highway signs and concrete forms, recommended over ordinary exterior fir plywood for its very smooth surface (saving sanding time and resisting the checking regular fir plywood is prone to) and its better paint-holding, meaning less maintenance for a boat kept in the water for any length of time; MDO is worth its extra cost for those reasons, and is manufactured in Washington State, making it readily available in the Pacific Northwest.[77] A **gravel floor can still be made level** for building purposes by driving short posts into the ground and fastening 2x4s to them checked level in both directions, giving a stable reference base without pouring concrete.[77]
 
-Two more replies reinforced the same "spend the savings on plywood, not the
-floor" advice. Since the difference in price between good and poor-quality
-plywood is small next to a build's total cost — even taking the marine-grade
-route — builders are better off putting money there than into "toys" that go
-mostly unused, rather than cutting the material cost that counts most.[79]
-On the floor question specifically, [Alastair](/people/alastair.md) confirmed
-only a workbench and a couple of 4x4s on the ground are needed, with a flat
-patch of ground useful for scarfing the side and bottom sheets, and judged
-the build process itself organized well enough that getting it wrong would be
-difficult.[80] A simpler wooden-floor alternative was also suggested: ordinary
-house-flooring sheet material over some basic framing, laid straight down on
-the barn's existing gravel, sized only a little larger than the boat
-itself.[81] MDO plywood's advantage was reinforced with a specific product
-reference — the Canadian Plywood Association's own overlaid-plywood
-guidance — with an added technique note: a Paradox could in principle be
-built with **no fibreglass cloth at all**, using epoxy only to seal the
-joints, and still last a long time, though adding some glass up to the
-waterline is worthwhile for abrasion resistance; short of that, a good
-antifouling coat (in salt water) or an epoxy/graphite-powder mix serves
-the same protective role, provided the boat isn't regularly grounding on
-rocks. Ordinary exterior-grade **house, porch, and floor enamels**, brushed
-or foam-rollered directly over MDO, give a nice semi-gloss finish and hold up
-to weather and scuffing surprisingly well.[82] Closing the thread on a lighter
-note, one builder observed that "toys" are simply more interesting to talk
-about than plywood.[83]
+Two more replies reinforced the same "spend the savings on plywood, not the floor" advice. Since the difference in price between good and poor-quality plywood is small next to a build's total cost — even taking the marine-grade route — builders are better off putting money there than into "toys" that go mostly unused, rather than cutting the material cost that counts most.[79] On the floor question specifically, only a workbench and a couple of 4x4s on the ground are needed, with a flat patch of ground useful for scarfing the side and bottom sheets, and the build process itself is organized well enough that getting it wrong would be difficult.[80] A simpler wooden-floor alternative was also suggested: ordinary house-flooring sheet material over some basic framing, laid straight down on the barn's existing gravel, sized only a little larger than the boat itself.[81] MDO plywood's advantage was reinforced with a specific product reference — the Canadian Plywood Association's own overlaid-plywood guidance — with an added technique note: a Paradox could in principle be built with **no fibreglass cloth at all**, using epoxy only to seal the joints, and still last a long time, though adding some glass up to the waterline is worthwhile for abrasion resistance; short of that, a good antifouling coat (in salt water) or an epoxy/graphite-powder mix serves the same protective role, provided the boat isn't regularly grounding on rocks. Ordinary exterior-grade **house, porch, and floor enamels**, brushed or foam-rollered directly over MDO, give a nice semi-gloss finish and hold up to weather and scuffing surprisingly well.[82] Closing the thread on a lighter note, one builder observed that "toys" are simply more interesting to talk about than plywood.[83]
 
-[Jack Gardiner](/people/jack-gardiner.md) gave the newcomer a fuller
-first-hand data point from his own finished boat: **exterior-grade fir
-plywood**, skinned in 2 oz cloth (doubled in many places), a 3/4 in exterior
-fir floor, and a single layer of 12 oz biaxial cloth on the bottom, built by
-the stitch-and-glue/tabbed-and-filleted route. Used in mixed bay, ocean, and
-river conditions with a 6 hp outboard for power-sailing, and beached
-repeatedly on moderate rubble, that plywood grade showed no bottom damage —
-his practical rule of thumb is to buy the best plywood a build's budget
-allows, applying quality and common sense rather than a fixed standard,
-framing the boat itself in mahogany and oak. He also spelled out how to read
-a **plywood grading stamp** before shopping: a code such as A/A, A/B, A/C,
-B/C, or C/DX gives the **face grade first, backside grade second** — A/A is
-A-grade on both faces, A/B is an A face over a B-grade back, and so on down
-to the roughest, cheapest grades.[84]
+A fuller first-hand data point comes from one finished boat: **exterior-grade fir plywood**, skinned in 2 oz cloth (doubled in many places), a 3/4 in exterior fir floor, and a single layer of 12 oz biaxial cloth on the bottom, built by the stitch-and-glue/tabbed-and-filleted route. Used in mixed bay, ocean, and river conditions with a 6 hp outboard for power-sailing, and beached repeatedly on moderate rubble, that plywood grade showed no bottom damage — the practical rule of thumb is to buy the best plywood a build's budget allows, applying quality and common sense rather than a fixed standard, framing the boat itself in mahogany and oak. How to read a **plywood grading stamp** before shopping: a code such as A/A, A/B, A/C, B/C, or C/DX gives the **face grade first, backside grade second** — A/A is A-grade on both faces, A/B is an A face over a B-grade back, and so on down to the roughest, cheapest grades.[84]
 
-Restating the cost-tradeoff from the other side, Jeff UK pointed out that
-cheap plywood's real cost shows up later, not at purchase: a soft, water-
-absorbing inner core forces repairs at the worst possible time — when a
-builder wants to be out sailing, not fixing a hull — reinforcing that money
-is better spent on the plywood than saved for extras.[85] The exchange closed
-as good-natured banter rather than a genuine disagreement, both sides
-conceding the same point in different directions: cheap-material savings
-tend to be spent on "toys" anyway (a joking nod to his own GPS purchases),
-while marine-grade ply is simply an insurance premium against a repair bill
-arriving at the worst possible time.[88][89]
+Restating the cost-tradeoff from the other side: cheap plywood's real cost shows up later, not at purchase — a soft, water-absorbing inner core forces repairs at the worst possible time, when a builder wants to be out sailing, not fixing a hull — reinforcing that money is better spent on the plywood than saved for extras.[85] The exchange closed as good-natured banter rather than a genuine disagreement, both sides conceding the same point in different directions: cheap-material savings tend to be spent on "toys" anyway (a joking nod to GPS purchases), while marine-grade ply is simply an insurance premium against a repair bill arriving at the worst possible time.[88][89]
 
-The same newcomer, from Panama City, returned to note the Paradox and
-[Little Cruiser](/matt-layden/little-cruiser.md) designs' debt to
-**Phil Bolger's sharpie philosophy**, and floated researching
-[stitch-and-glue technique via Sam Devlin's
-book](/construction/hull-planking.md#stitch-and-glue-as-an-alternative-construction-method)
-as a path toward a modified design of his own someday.[86] Practically,
-he reported that **British Standard 1088** is the plywood grading standard
-Devlin's own book favors, but that only 3/8 in marine plywood built to the
-American "AA" standard was locally available to him in Panama; he also
-pointed to online scarfing guides, one styled "the mother of all maritime
-links," as a resource for joining shorter sheets end-to-end.[87]
+A newcomer from Panama City noted the Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) designs' debt to **Phil Bolger's sharpie philosophy**, and floated researching [stitch-and-glue technique via Sam Devlin's book](/construction/hull-planking.md#stitch-and-glue-as-an-alternative-construction-method) as a path toward a modified design of his own someday.[86] Practically, **British Standard 1088** is the plywood grading standard Devlin's own book favors, but only 3/8 in marine plywood built to the American "AA" standard was locally available in Panama; online scarfing guides, one styled "the mother of all maritime links," offer a resource for joining shorter sheets end-to-end.[87]
 
 ## A double-layer plywood technique for an enlarged Paradox, and testing an unconventional mast wood
 
-The original Lake Pend Oreille newcomer who opened this plywood-grade
-question, having by then ordered his plans and begun clearing barn space for
-a building platform (using the barn's own roof trusses, reinforced with
-added posts, to hoist and flip the hull once built), returned with two
-further questions: how a Paradox handles a **crew of two** — himself, at
-5'11" and just under 200 lb, plus his wife, just under 5 ft tall — both
-underway and sleeping aboard, addressed in full at [enlarging Paradox for a
-tall/heavy sailor, and fitting a
-couple](/design/variants/enlarging-for-a-large-sailor.md#fitting-a-couple-aboard-a-stock-or-slightly-enlarged-paradox);
-and whether **larch (tamarack)**, of which he had a large stand on his own
-property, would serve for masts and booms.[90]
+The original Lake Pend Oreille newcomer who opened this plywood-grade question, having by then ordered plans and begun clearing barn space for a building platform (using the barn's own roof trusses, reinforced with added posts, to hoist and flip the hull once built), returned with two further questions: how a Paradox handles a **crew of two** — a 5'11", just-under-200-lb sailor plus a partner just under 5 ft tall — both underway and sleeping aboard, addressed in full at [enlarging Paradox for a tall/heavy sailor, and fitting a couple](/design/variants/enlarging-for-a-large-sailor.md#fitting-a-couple-aboard-a-stock-or-slightly-enlarged-paradox); and whether **larch (tamarack)**, from a large stand on the property, would serve for masts and booms.[90]
 
-On an **enlarged Paradox's plywood**, one builder's suggestion was to build
-the sides as **two bonded layers with opposing seams** — for example, two
-1/4 in sheets making up 1/2 in total, or two 3/8 in sheets making 3/4 in —
-rather than a single thicker sheet. Beyond adding strength, opposing-seam
-lamination is easier to fair and bend than staggering scarf joints, and
-gives a builder confidence in the panel's core even where a single thick
-sheet's core quality might be in doubt; the same doubled-sheet approach
-scales up to the larger bulkheads an enlarged design needs, with the sail
-plan, mast, and rig (down to details like needle bearings for the reefing
-drum) scaling up alongside the hull.[91]
+On an **enlarged Paradox's plywood**, one suggestion is to build the sides as **two bonded layers with opposing seams** — for example, two 1/4 in sheets making up 1/2 in total, or two 3/8 in sheets making 3/4 in — rather than a single thicker sheet. Beyond adding strength, opposing-seam lamination is easier to fair and bend than staggering scarf joints, and gives a builder confidence in the panel's core even where a single thick sheet's core quality might be in doubt; the same doubled-sheet approach scales up to the larger bulkheads an enlarged design needs, with the sail plan, mast, and rig (down to details like needle bearings for the reefing drum) scaling up alongside the hull.[91]
 
-On **larch as a mast wood**, the proposed test is empirical rather than
-theoretical: take measured pieces from the stand (in this case, mixed with
-some 50-250-year-old red and white oak also on the property) and test them
-against a known mast wood such as clear Douglas fir or Sitka spruce (see
-[wood species for a scratch-built wooden
-mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast)) — using
-a fishing scale on a jury-rigged "poor man's tensometer" to measure how many
-pounds of force it takes to break a test piece, how far it bends under a
-given load, its behavior under a twist test, and how well it takes epoxy —
-rather than assuming a species is suitable or unsuitable without trying
-it.[91]
+On **larch as a mast wood**, the proposed test is empirical rather than theoretical: take measured pieces from the stand (in this case, mixed with some 50-250-year-old red and white oak also on the property) and test them against a known mast wood such as clear Douglas fir or Sitka spruce (see [wood species for a scratch-built wooden mast](/design/rig.md#wood-species-for-a-scratch-built-wooden-mast)) — using a fishing scale on a jury-rigged "poor man's tensometer" to measure how many pounds of force it takes to break a test piece, how far it bends under a given load, its behavior under a twist test, and how well it takes epoxy — rather than assuming a species is suitable or unsuitable without trying it.[91]
 
-The same reply added first-hand build technique from a finished, stock-size
-boat: the hull could be **flipped single-handed**, unassisted, right up
-until the cabin top went on; the hull was built resting on two large bunks
-set parallel and level, marked in advance on the hull sides to show where it
-should sit, with some repositioning needed once the [chine
-logs](/construction/chine-log-vs-taped-seam.md) went in.[91]
+The same reply added first-hand build technique from a finished, stock-size boat: the hull could be **flipped single-handed**, unassisted, right up until the cabin top went on; the hull was built resting on two large bunks set parallel and level, marked in advance on the hull sides to show where it should sit, with some repositioning needed once the [chine logs](/construction/chine-log-vs-taped-seam.md) went in.[91]
 
-**Whether a butt joint could replace scarfing on a laminated, two-layer
-panel** was the natural follow-up question — one builder's own scarfed
-bottom had proved troublesome enough to bend that he cut it in two and
-joined it with a large butt joint instead, so he asked whether laminated
-sides could simply use offset butt joints in place of scarfs
-throughout.[92] The answer, from a builder partway through his own
-stock-size hull (bottom panel just wired on and its scarf joint cut and
-glued in place — the bottom scarf came out cleaner than the side scarfs,
-which had been done on a flat surface): once a panel is laminated from two full
-layers, a plain butt joint between sheets needs no scarf or taping at all,
-beyond sealing the sheet edges, because the **lamination itself already
-supplies the strength** — a single layer's approximate 384 sq in scarf-joint
-gluing area (or a mere 36 sq in for an unscarfed butt) is dwarfed by the
-laminated panel's own full-sheet bonding area of well over 4,600 sq
-in.[93] A second builder independently reached the same figures and
-conclusion, and added two further ideas for an enlarged, laminated build:
-pre-bending a laminated bottom panel by weighting each end and raising the
-middle before the layers are glued together, and, as a further step beyond
-doubled plywood, building a **foam-cored panel** from scratch using a home
-vacuum-bagging setup.[94]
+**Whether a butt joint could replace scarfing on a laminated, two-layer panel** was the natural follow-up question — one builder's own scarfed bottom had proved troublesome enough to bend that it was cut in two and joined with a large butt joint instead, prompting the question whether laminated sides could simply use offset butt joints in place of scarfs throughout.[92] The answer, from a builder partway through a stock-size hull (bottom panel just wired on and its scarf joint cut and glued in place — the bottom scarf came out cleaner than the side scarfs, which had been done on a flat surface): once a panel is laminated from two full layers, a plain butt joint between sheets needs no scarf or taping at all, beyond sealing the sheet edges, because the **lamination itself already supplies the strength** — a single layer's approximate 384 sq in scarf-joint gluing area (or a mere 36 sq in for an unscarfed butt) is dwarfed by the laminated panel's own full-sheet bonding area of well over 4,600 sq in.[93] A second builder independently reached the same figures and conclusion, and added two further ideas for an enlarged, laminated build: pre-bending a laminated bottom panel by weighting each end and raising the middle before the layers are glued together, and, as a further step beyond doubled plywood, building a **foam-cored panel** from scratch using a home vacuum-bagging setup.[94]
 
 ## Long-term plywood durability, resale value, and why to expect neither
 
-A prospective builder, weighing whether ordinary exterior plywood is durable
-enough against paying for marine grade, and whether a finished plywood boat
-holds any resale value, drew answers grounded in the design's own oldest,
-best-documented hulls.
+A prospective builder, weighing whether ordinary exterior plywood is durable enough against paying for marine grade, and whether a finished plywood boat holds any resale value, drew answers grounded in the design's own oldest, best-documented hulls.
 
-On **durability**: [Derek Clark](/people/derek-clark.md) noted that neither
-"[Swamp Thing](/matt-layden/swamp-thing.md)" nor "[Little
-Cruiser](/matt-layden/little-cruiser.md)" was originally glassed (and
-possibly not epoxied either), yet both survived for decades — Little
-Cruiser's own eventual rot problem stemmed specifically from having been
-built without a fiberglass/epoxy sheathing, not from the plywood grade
-itself (see the 2005 refit, above). Exterior plywood is roughly **half the
-cost of marine grade**, and since the hull is going to be covered in epoxy
-and fiberglass regardless, the underlying wood grade matters less than the
-quality of that coating.
+On **durability**: neither "[Swamp Thing](/matt-layden/swamp-thing.md)" nor "[Little Cruiser](/matt-layden/little-cruiser.md)" was originally glassed (and possibly not epoxied either), yet both survived for decades — Little Cruiser's own eventual rot problem stemmed specifically from having been built without a fiberglass/epoxy sheathing, not from the plywood grade itself (see the 2005 refit, above). Exterior plywood is roughly **half the cost of marine grade**, and since the hull is going to be covered in epoxy and fiberglass regardless, the underlying wood grade matters less than the quality of that coating.
 
-On **resale**: a scratch-built plywood boat is unlikely to recover its own
-material cost when sold — this is close to a settled point among builders,
-not a live dispute. Building one is best justified by wanting to build and
-by being confident the design is the right one, not by any expectation of
-recouping the investment. Epoxy resin bonds plywood far better than the
-older polyester resin used on Little Cruiser and Swamp Thing when they were
-built, before epoxy was in widespread use; **moisture entering through the
-end grain**, where it becomes trapped between waterproof glue lines and
-cannot escape, is plywood's real long-term enemy, and the end grain needs
-particular, ongoing maintenance attention. (An opposing school of thought
-argues for *not* fully encapsulating wood at all, instead letting it
-breathe — recorded here as a live disagreement, not a resolved one.) Little
-Cruiser and Swamp Thing, by 2006 roughly **twenty years old**, are the
-Paradox's own proof that plywood construction stands up over decades of real
-use; Swamp Thing in particular has had multiple owners and has lived
-outdoors in the tropics for its entire life. Secondhand plywood boats
-generally sell slowly and for little (echoing the old saying that a boat's
-two best days of ownership are the day it's bought and the day it's sold),
-though some can be restored cheaply if a buyer doesn't count the labor. A
-finished Paradox would have a **very small secondhand market**, but next to
-**no competition** within it either.
+On **resale**: a scratch-built plywood boat is unlikely to recover its own material cost when sold — this is close to a settled point among builders, not a live dispute. Building one is best justified by wanting to build and by being confident the design is the right one, not by any expectation of recouping the investment. Epoxy resin bonds plywood far better than the older polyester resin used on Little Cruiser and Swamp Thing when they were built, before epoxy was in widespread use; **moisture entering through the end grain**, where it becomes trapped between waterproof glue lines and cannot escape, is plywood's real long-term enemy, and the end grain needs particular, ongoing maintenance attention. (An opposing school of thought argues for *not* fully encapsulating wood at all, instead letting it breathe — recorded here as a live disagreement, not a resolved one.) Little Cruiser and Swamp Thing, by 2006 roughly **twenty years old**, are the Paradox's own proof that plywood construction stands up over decades of real use; Swamp Thing in particular has had multiple owners and has lived outdoors in the tropics for its entire life. Secondhand plywood boats generally sell slowly and for little (echoing the old saying that a boat's two best days of ownership are the day it's bought and the day it's sold), though some can be restored cheaply if a buyer doesn't count the labor. A finished Paradox would have a **very small secondhand market**, but next to **no competition** within it either.
 
-The same durability question drew a specific hull specification from [Bill
-Serjeant](/people/bill-serjeant.md): a Paradox should be **heavily sheathed
-in fiberglass regardless of the plywood grade beneath it** — the plans (sheet
-#5) call for 4 mm of fiberglass, with the sides and deck each getting one
-layer of sheathing. Three coats of epoxy will stop water or moisture
-penetrating altogether, provided the epoxy itself is then protected with
-several coats of a paint chosen to bond with it (checked against the epoxy
-manufacturer's own recommendation). Applied to his own boats, all built in
-marine plywood, this combination gives a **20-year-plus life expectancy**,
-so long as the underlying construction engineering is sound; his own "50/50"
-canoe carried three coats of epoxy below the waterline and over most of the
-interior, finished with five coats of International marine paint, and should
-last for many years if kept covered when not in use.[64]
+The same durability question drew a specific hull specification: a Paradox should be **heavily sheathed in fiberglass regardless of the plywood grade beneath it** — the plans (sheet #5) call for 4 mm of fiberglass, with the sides and deck each getting one layer of sheathing. Three coats of epoxy will stop water or moisture penetrating altogether, provided the epoxy itself is then protected with several coats of a paint chosen to bond with it (checked against the epoxy manufacturer's own recommendation). Applied to boats built in marine plywood, this combination gives a **20-year-plus life expectancy**, so long as the underlying construction engineering is sound; one "50/50" canoe carried three coats of epoxy below the waterline and over most of the interior, finished with five coats of International marine paint, and should last for many years if kept covered when not in use.[64]
 
-A **budget-build philosophy**, weighing the true all-in cost of a scratch
-build against building for permanence, emerged from the same thread. Having
-started out buying epoxy in small quantities at around £50 a gallon, one
-builder later worked out he could have bought 8-gallon packs from his
-regular supplier at £34 a gallon instead, and eventually stopped tracking
-his running epoxy total once it became clear the true figure was
-uncomfortably large — his best guess landed around £2,500 once incidental
-purchases (trailer, radio, GPS, fishfinder, outboard, and miscellaneous
-spares-box impulse buys) were folded in. His planned next build, expected
-once he is retired, would use exterior plywood and pine salvaged cheaply
-from building sites and skips, with epoxy reserved for ply edges, end grain,
-and bilges, and household paint used everywhere else — reasoning that a boat
-built for the remainder of one's own use need not be built as if for
-posterity, since wood is a poor material choice if permanence is the actual
-goal.[65] A second builder, nearing completion of his own (non-Paradox)
-plywood dinghy build, reported the same experience: epoxy was his largest
-single expense, having glassed the bottom and filleted every joint
-generously; beyond epoxy itself, a scratch build's real costs also include
-suitable building space (rented or purpose-built shelter), heating (epoxy
-application wants temperatures above about 12°C), and tools not already on
-hand. He judged the marine-versus-exterior-plywood and marine-versus-house
-paint debates unresolvable from general principles — "everyone seems to
-have a point of view and a string of 'facts' to back them up" — with care
-and maintenance, and understanding the materials used, mattering more than
-which grade is chosen; he cited a 30-plus-foot fiberglass yacht of a popular
-French make on which the waterline had become visible through the topsides
-from sun exposure, and his own acquaintances' accounts of poor workmanship
-standards inside the fiberglass-boatbuilding industry, as evidence that a
-fiberglass hull is no guarantee of longevity either. Two published authors
-were cited on opposite sides of the plywood question — one dismissing
-"marine ply" as an oxymoron, the other calling plywood the best boatbuilding
-material available — both experienced commercial builders and writers in
-their own right, illustrating that the debate has never had a settled
-answer; in the end, a builder simply has to make a material choice and
-proceed.[66] A third correspondent, weighing the same trade-off from the
-buyer's side, agreed amateur-built resale value is poor across kit cars,
-light aircraft, and boats alike, contrasted with the public's greater
-(if not necessarily better-founded) confidence in mass-produced fiberglass
-construction, and floated the counter-question whether a well-maintained
-traditional wooden boat holds its value better than that reputation
-suggests; shared the same doubt about moisture becoming trapped once wood is
-fully encapsulated, and suggested that spending more on higher-grade plywood
-while skipping the expensive epoxy/fiberglass sheathing entirely might
-produce a more durable boat at lower overall cost, reasoning that the
-epoxy/glass treatment is mainly there to compensate for shortcomings in
-lesser plywood.[67]
+A **budget-build philosophy**, weighing the true all-in cost of a scratch build against building for permanence, emerged from the same thread. Having started out buying epoxy in small quantities at around £50 a gallon, one builder later worked out that 8-gallon packs from a regular supplier ran £34 a gallon instead, and eventually stopped tracking the running epoxy total once it became clear the true figure was uncomfortably large — a best guess landing around £2,500 once incidental purchases (trailer, radio, GPS, fishfinder, outboard, and miscellaneous spares-box impulse buys) were folded in. A planned next build, expected on retirement, would use exterior plywood and pine salvaged cheaply from building sites and skips, with epoxy reserved for ply edges, end grain, and bilges, and household paint used everywhere else — reasoning that a boat built for the remainder of one's own use need not be built as if for posterity, since wood is a poor material choice if permanence is the actual goal.[65] A second builder, nearing completion of a (non-Paradox) plywood dinghy build, reported the same experience: epoxy was the largest single expense, having glassed the bottom and filleted every joint generously; beyond epoxy itself, a scratch build's real costs also include suitable building space (rented or purpose-built shelter), heating (epoxy application wants temperatures above about 12°C), and tools not already on hand. The marine-versus-exterior-plywood and marine-versus-house paint debates are unresolvable from general principles — "everyone seems to have a point of view and a string of 'facts' to back them up" — with care and maintenance, and understanding the materials used, mattering more than which grade is chosen; a 30-plus-foot fiberglass yacht of a popular French make on which the waterline had become visible through the topsides from sun exposure, together with acquaintances' accounts of poor workmanship standards inside the fiberglass-boatbuilding industry, stand as evidence that a fiberglass hull is no guarantee of longevity either. Two published authors were cited on opposite sides of the plywood question — one dismissing "marine ply" as an oxymoron, the other calling plywood the best boatbuilding material available — both experienced commercial builders and writers in their own right, illustrating that the debate has never had a settled answer; in the end, a builder simply has to make a material choice and proceed.[66] A third correspondent, weighing the same trade-off from the buyer's side, agreed amateur-built resale value is poor across kit cars, light aircraft, and boats alike, contrasted with the public's greater (if not necessarily better-founded) confidence in mass-produced fiberglass construction, and floated the counter-question whether a well-maintained traditional wooden boat holds its value better than that reputation suggests; shared the same doubt about moisture becoming trapped once wood is fully encapsulated, and suggested that spending more on higher-grade plywood while skipping the expensive epoxy/fiberglass sheathing entirely might produce a more durable boat at lower overall cost, reasoning that the epoxy/glass treatment is mainly there to compensate for shortcomings in lesser plywood.[67]
 
-**Sourcing and pricing epoxy in the UK** was a recurring, unresolved
-frustration in the same thread. One UK builder, quoted as much as £113 a
-gallon locally, found that MAS epoxy had disappeared from the UK market
-(with his own supplier receipt lost) and that SP Systems, formerly a
-walk-in, pay-cash-and-discount supplier only a few miles from him, could
-only be ordered from the mainland after new management ("the suits") took
-over, ending the in-person discount; local shops stocked only small repair
-kits.[68] One correspondent speculated, unconfirmed, that epoxy resin is
-petroleum-derived, which would explain contemporary price rises tracking
-the oil market.[69] Another builder recommended a specific alternative
-supplier, UK Epoxies (`epoxy-resins.co.uk`), for good service and a price
-between MAS/West Systems and SP, and pointed to a recent Jim Michalak book
-containing epoxy-chemistry commentary from a chemical engineer as further
-reading.[70]
+**Sourcing and pricing epoxy in the UK** was a recurring, unresolved frustration in the same thread. One UK builder, quoted as much as £113 a gallon locally, found that MAS epoxy had disappeared from the UK market (with the supplier receipt lost) and that SP Systems, formerly a walk-in, pay-cash-and-discount supplier only a few miles away, could only be ordered from the mainland after new management ("the suits") took over, ending the in-person discount; local shops stocked only small repair kits.[68] One correspondent speculated, unconfirmed, that epoxy resin is petroleum-derived, which would explain contemporary price rises tracking the oil market.[69] Another builder recommended a specific alternative supplier, UK Epoxies (`epoxy-resins.co.uk`), for good service and a price between MAS/West Systems and SP, and pointed to a recent Jim Michalak book containing epoxy-chemistry commentary from a chemical engineer as further reading.[70]
 
-**Metering small epoxy batches accurately** drew three competing methods
-from builders comparing notes on the same UK Epoxies supplier. [Bill
-Serjeant](/people/bill-serjeant.md) uses that supplier's own 2:1
-epoxy-to-hardener mix, mixed with dispensing pumps he judges excellent for
-guessing minute quantities accurately (and saving money as a result); his
-own Paradox was already the third boat built using the same pair of
-pumps.[71] [Derek Clark](/people/derek-clark.md) countered with a caution
-from his own experience: crystals forming in a hardener pump cost him
-significant time and money redoing a hull bottom, after which he judged Jim
-Michalak's simpler method — 2:1 ratio measured in an unwaxed paper cup
-against a stick marked at the half-inch and three-quarter-inch levels — more
-reliable than pumps; he had since stopped trusting his own pumps even after
-washing them out in warm soapy water and finding them still working, though
-a fellow UK Epoxies customer had used the identical pumps for years without
-issue.[72] A third builder, working through his own (non-Paradox) plywood
-dinghy build, uses plastic syringes bought cheaply from a local farm
-supplies shop instead — available in a range of sizes, costing only pence
-each, and reusable many times over; he sources his own epoxy from CFS in
-Cornwall, judged good value and reliably effective, cheaper than buying
-through chandlers or boatyards, with a helpful mail-order service.[73] Bill
-Serjeant's own reply settled the pumps-versus-crystals question in the
-pumps' favor: periodically clearing the dispensing nozzles with a bit of
-wire keeps them free of clogging, and he has never actually needed to clean
-the pumps themselves.[74]
+**Metering small epoxy batches accurately** drew three competing methods from builders comparing notes on the same UK Epoxies supplier. One method uses that supplier's own 2:1 epoxy-to-hardener mix, dispensed with pumps judged excellent for guessing minute quantities accurately (and saving money as a result), one such Paradox already being the third boat built using the same pair of pumps.[71] A countering caution from experience: crystals forming in a hardener pump cost significant time and money redoing a hull bottom, after which Jim Michalak's simpler method — 2:1 ratio measured in an unwaxed paper cup against a stick marked at the half-inch and three-quarter-inch levels — was judged more reliable than pumps; those pumps were no longer trusted even after washing out in warm soapy water and finding them still working, though a fellow UK Epoxies customer had used the identical pumps for years without issue.[72] A third method, from a (non-Paradox) plywood dinghy build, uses plastic syringes bought cheaply from a local farm supplies shop instead — available in a range of sizes, costing only pence each, and reusable many times over; that epoxy comes from CFS in Cornwall, judged good value and reliably effective, cheaper than buying through chandlers or boatyards, with a helpful mail-order service.[73] A reply settled the pumps-versus-crystals question in the pumps' favor: periodically clearing the dispensing nozzles with a bit of wire keeps them free of clogging, with no need ever to clean the pumps themselves.[74]
 
 # Citations (a 2006 recurrence: budget exterior ply)
 
@@ -934,97 +303,35 @@ the pumps themselves.[74]
 
 ## Buoyancy fundamentals: positive, negative, and neutral
 
-A newcomer's basic buoyancy questions — what "buoyancy" means for a Paradox,
-whether a fully flooded boat should float with her deck at the waterline, and
-how to work out how much foam a given material needs — drew the
-clearest statement on record of the underlying physics.
+A newcomer's basic buoyancy questions — what "buoyancy" means for a Paradox, whether a fully flooded boat should float with her deck at the waterline, and how to work out how much foam a given material needs — drew the clearest statement on record of the underlying physics.
 
-**Positive, negative, and neutral buoyancy.** A **positively buoyant** object
-floats on top of the water; a **negatively buoyant** one sinks; **neutral**
-buoyancy is the in-between case — floating with the deck at the surface but
-not sinking further. USCG-approved two-part
-pour-in or sprayed foam has a specific buoyancy rating per unit volume, and
-different foam materials carry different ratings.
+**Positive, negative, and neutral buoyancy.** A **positively buoyant** object floats on top of the water; a **negatively buoyant** one sinks; **neutral** buoyancy is the in-between case — floating with the deck at the surface but not sinking further. USCG-approved two-part pour-in or sprayed foam has a specific buoyancy rating per unit volume, and different foam materials carry different ratings.
 
-**A rule-of-thumb foam figure.** [William Longyard](/people/william-longyard.md)
-gave a practical number: about **55 lb of buoyancy per cubic foot of foam**
-used. A builder can add enough foam, or empty air bladders, bottles, or
-containers, to make a flooded boat float at whatever level is chosen — foam
-placed lower in the hull leaves the deck riding higher above the water, at
-the cost of usable floor space, so the choice is a trade-off rather than a
-single correct answer.
+**A rule-of-thumb foam figure.** A practical number: about **55 lb of buoyancy per cubic foot of foam** used. A builder can add enough foam, or empty air bladders, bottles, or containers, to make a flooded boat float at whatever level is chosen — foam placed lower in the hull leaves the deck riding higher above the water, at the cost of usable floor space, so the choice is a trade-off rather than a single correct answer.
 
-**Foam changes flooded trim, not the working waterline.** Adding buoyancy
-foam does not raise a Paradox's normal waterline, since it adds very little
-total weight to the boat — its effect only shows up in the **flooded**
-state. Ballast, by contrast — whether lead or a steel hull structure —
-**does** lower the vessel at the waterline in ordinary sailing trim,
-whatever material provides it. The two effects (flooded buoyancy and
-sailing-trim ballast) are governed by different parts of the same
-buoyancy/ballast balance and should not be confused.
+**Foam changes flooded trim, not the working waterline.** Adding buoyancy foam does not raise a Paradox's normal waterline, since it adds very little total weight to the boat — its effect only shows up in the **flooded** state. Ballast, by contrast — whether lead or a steel hull structure — **does** lower the vessel at the waterline in ordinary sailing trim, whatever material provides it. The two effects (flooded buoyancy and sailing-trim ballast) are governed by different parts of the same buoyancy/ballast balance and should not be confused.
 
 ## Ballast and buoyancy placement, and why the Paradox's rocker matters
 
-[Nels](/people/nels.md) laid out the fullest statement in the archive of the
-underlying **placement doctrine** connecting a hull's shape, its ballast, and
-its flotation:
+The fullest statement in the archive of the underlying **placement doctrine** connecting a hull's shape, its ballast, and its flotation:
 
-- A **wooden** hull floats naturally even when swamped or holed; how high she
-  rides depends on the balance between ballast/stores (denser than water) and
-  positive flotation (lighter than water — the lighter the material, the
-  better).
-- **Ballast belongs as low as possible; flotation belongs as high as
-  possible** — this combination is what lets a knocked-down boat come back
-  upright.
-- Because the [Paradox](/paradox.md) hull is **curved like a banana** along
-  the bottom, the lowest point is **amidships** — the best place for
-  ballast — while the **ends** are the hull's high points, and so the best
-  place for flotation.
-- How much flotation a boat needs depends on how much ballast she carries;
-  how much ballast she needs is in turn related to the size and weight of
-  her rig.
-- A **steel** hull, unlike a wooden one, sinks on its own when flooded or
-  holed, so it needs **additional flotation beyond a wood boat's** to make up
-  for the weight of the steel itself, on top of the weight of ballast and any
-  stores denser than water — sharpening the open question, for any
-  steel-hulled proposal (see [aluminum and steel Paradox
-  (speculative)](/design/aluminum-construction-idea.md)), of how much extra
-  flotation is needed and how much interior room that leaves on an
-  already-small boat.
+- A **wooden** hull floats naturally even when swamped or holed; how high she rides depends on the balance between ballast/stores (denser than water) and positive flotation (lighter than water — the lighter the material, the better).
+- **Ballast belongs as low as possible; flotation belongs as high as possible** — this combination is what lets a knocked-down boat come back upright.
+- Because the [Paradox](/paradox.md) hull is **curved like a banana** along the bottom, the lowest point is **amidships** — the best place for ballast — while the **ends** are the hull's high points, and so the best place for flotation.
+- How much flotation a boat needs depends on how much ballast she carries; how much ballast she needs is in turn related to the size and weight of her rig.
+- A **steel** hull, unlike a wooden one, sinks on its own when flooded or holed, so it needs **additional flotation beyond a wood boat's** to make up for the weight of the steel itself, on top of the weight of ballast and any stores denser than water — sharpening the open question, for any steel-hulled proposal (see [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md)), of how much extra flotation is needed and how much interior room that leaves on an already-small boat.
 
-Nels noted, as an aside, that airplane construction being mostly metal has no
-real bearing on the question, since amateur-built aircraft are essentially
-never made of steel — a comparison sometimes raised loosely in these
-discussions but not actually analogous to a home-built boat. His own
-preference remains **wood** over any other building material, for its ease
-and pleasantness to work, its warmth and quiet, its repairability, and its
-character.
+As an aside, airplane construction being mostly metal has no real bearing on the question, since amateur-built aircraft are essentially never made of steel — a comparison sometimes raised loosely in these discussions but not actually analogous to a home-built boat. The stated preference remains **wood** over any other building material, for its ease and pleasantness to work, its warmth and quiet, its repairability, and its character.
 
 ## Wood decks over a steel hull, and material-contact cautions
 
-Answering the same newcomer's follow-up about whether a Paradox could
-practically be built with a steel bottom, sides, and stern under a wooden
-deck, [William Longyard](/people/william-longyard.md) gave a rough sizing
-method and a construction caution:
+On whether a Paradox could practically be built with a steel bottom, sides, and stern under a wooden deck, a rough sizing method and a construction caution follow:
 
-- **Estimating steel panel weight:** figure the square footage of the hull's
-  panels and multiply by **4.3 lb per square foot** for a rough weight
-  estimate, remembering to add interior fittings on top of the bare panel
-  figure. **3/4 in square steel tubing** weighs roughly **0.4 lb per linear
-  foot**, depending on wall thickness — usable for framing weight estimates
-  alongside the panel figure.
-- **A wood deck over a steel hull is practical**, using square tubing for a
-  gunwale with plywood glued and screwed on top of it.
-- **Wood and steel must not be left in direct contact** — a bad combination
-  for both materials over time. The steel needs to be **fully covered** with
-  glue or bedding compound at the joint, or wrapped with heavy tape, to keep
-  the two materials separated.
+- **Estimating steel panel weight:** figure the square footage of the hull's panels and multiply by **4.3 lb per square foot** for a rough weight estimate, remembering to add interior fittings on top of the bare panel figure. **3/4 in square steel tubing** weighs roughly **0.4 lb per linear foot**, depending on wall thickness — usable for framing weight estimates alongside the panel figure.
+- **A wood deck over a steel hull is practical**, using square tubing for a gunwale with plywood glued and screwed on top of it.
+- **Wood and steel must not be left in direct contact** — a bad combination for both materials over time. The steel needs to be **fully covered** with glue or bedding compound at the joint, or wrapped with heavy tape, to keep the two materials separated.
 
-This is a narrower, practical construction detail distinct from the
-whole-hull steel gauge/framing debate covered on [aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance);
-see that page for Longyard's fuller steel recommendations (12-gauge plate,
-tube-frame bulkheads, and finishing without epoxy).
+This is a narrower, practical construction detail distinct from the whole-hull steel gauge/framing debate covered on [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md#whole-hull-steel-construction-gauge-framing-and-damage-tolerance); see that page for the fuller steel recommendations (12-gauge plate, tube-frame bulkheads, and finishing without epoxy).
 
 # Citations (buoyancy fundamentals and placement)
 

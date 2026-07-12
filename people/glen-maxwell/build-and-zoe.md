@@ -8,637 +8,118 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Glen C. Maxwell — build and "Zoë"
 
-*Part of the [Glen C. Maxwell](/people/glen-maxwell.md) record — see also the
-hub page and the sibling sub-pages,
-[List founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md)
-and
-[Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).*
+*Part of the [Glen C. Maxwell](/people/glen-maxwell.md) record — see also the hub page and the sibling sub-pages, [List founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md) and [Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).*
 
-Glen C. Maxwell is a professional boatbuilder (trained at Gold Coast Yachts,
-where he built ~53 ft wood-and-epoxy catamarans) living about 30 miles west of
-Jacksonville, Florida, and the builder and owner of the Paradox "**Zoë**." With
-some 36 years of sailing and over 30,000 miles of blue-water experience — mostly
-in boats under 50 ft — and nine boats owned at last count, he served the
-`paradoxbuilders` list as its founder and its most prolific technical authority:
-a fellow builder who had actually launched and cruised the design, and one of
-the archive's firsthand Matt Layden eyewitnesses. Across the period 2001–2003 he
-answered, in depth, most of the recurring construction, painting, rig, and
-seamanship questions newcomers brought to the list.
+Glen C. Maxwell is a professional boatbuilder (trained at Gold Coast Yachts, where he built ~53 ft wood-and-epoxy catamarans) living about 30 miles west of Jacksonville, Florida, and the builder and owner of the Paradox "**Zoë**." With some 36 years of sailing and over 30,000 miles of blue-water experience — mostly in boats under 50 ft — and nine boats owned at last count, he served the `paradoxbuilders` list as its founder and its most prolific technical authority: a fellow builder who had actually launched and cruised the design, and one of the archive's firsthand Matt Layden eyewitnesses. Across the period 2001–2003 he answered, in depth, most of the recurring construction, painting, rig, and seamanship questions newcomers brought to the list.
 
 ## Building "Zoë"
 
-Glen built "Zoë" intermittently ("as the spirit moves me") over about two years,
-estimating the labor first at roughly 500 hours and later, more realistically, at
-over a thousand — an intense final three-month push equivalent to about six months
-full-time, with the vent trunk singled out as the most labor-intensive single
-component. He found the design "both challenging and rewarding," used a lower
-"ext A/B" plywood grade (which gave an acceptable workboat finish for far less
-than Marine grade, at the cost of more finishing labor), and seeded the group by
-uploading construction and stove photos to the files area. He launched her on
-Friday the 13th of November 2001. Full launch, sailing, and trip narratives —
-including her Cedar Key-to-Clearwater sea trials and a Cumberland Sound weekend
-cruise — live on [Zoë](/boats/zoe.md); this page records the construction and
-seamanship knowledge Glen contributed to the list, cross-linked to the topic
-pages where each lives in full. The exterior-vs-marine tradeoff, in his settled
-view, isn't structural risk but the extra labor needed to bring the cheaper
-grade to a nice finish, which "makes marine ply a steal" by comparison. See
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor).
-As late as August 2004 "Zoë" had still never actually been weighed, despite
-his repeatedly voiced intention to do so since 2002; see [weight, ballast, and
-displacement — independent weight and displacement
-estimates](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates).
+Glen built "Zoë" intermittently ("as the spirit moves me") over about two years, estimating the labor first at roughly 500 hours and later, more realistically, at over a thousand — an intense final three-month push equivalent to about six months full-time, with the vent trunk singled out as the most labor-intensive single component. He found the design "both challenging and rewarding," used a lower "ext A/B" plywood grade (which gave an acceptable workboat finish for far less than Marine grade, at the cost of more finishing labor), and seeded the group by uploading construction and stove photos to the files area. He launched her on Friday the 13th of November 2001. Full launch, sailing, and trip narratives — including her Cedar Key-to-Clearwater sea trials and a Cumberland Sound weekend cruise — live on [Zoë](/boats/zoe.md); this page records the construction and seamanship knowledge Glen contributed to the list, cross-linked to the topic pages where each lives in full. The exterior-vs-marine tradeoff, in his settled view, isn't structural risk but the extra labor needed to bring the cheaper grade to a nice finish, which "makes marine ply a steal" by comparison. See [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor). As late as August 2004 "Zoë" had still never actually been weighed, despite his repeatedly voiced intention to do so since 2002; see [weight, ballast, and displacement — independent weight and displacement estimates](/design/weight-and-ballast.md#independent-weight-and-displacement-estimates).
 
 ## Construction techniques
 
-Glen documented his own methods across the group's technique pages, often in
-friendly counterpoint to [Don Elliott](/people/don-elliott.md)'s
-"Building the Paradox" articles (whose coach-roof jig he singled out as
-making that task easy):
+Glen documented his own methods across the group's technique pages, often in friendly counterpoint to the "Building the Paradox" articles (whose coach-roof jig he singled out as making that task easy):
 
-- [Hull planking](/construction/hull-planking.md) — screwing the bottom on from
-  the stern with sheetrock screws — and a defense of
-  [removable screws over left-in nails](/construction/fastening-and-gluing.md),
-  for which he wrote a supporting paper.
-- [Gluing the sheer clamps and chine logs](/construction/fastening-and-gluing.md) —
-  dry-fit each piece with sheet-rock screws until the fit is right, then remove,
-  glue, and refit; slow hardener works fine in summer since each glued area is
-  under 2 sq ft.
-- [Chine runner construction](/chine-runners/construction.md) —
-  built from ~10 in pre-cut solid fir 2x4 blocks band-sawn and glued along the
-  overhang, then heavily glassed, rather than Don Elliott's hull-curve-pattern
-  method. He rated the band saw the single most valuable boatbuilding power tool
-  he owns, the table saw second. Later proposed reusing a shaped runner section
-  as a mold for
-  [casting lead ballast further out on the lever arm](/chine-runners/construction.md#casting-lead-ballast-into-the-runners),
-  and confirmed his own 30-40 lb ballast ingots stay secured rather than shifted
-  underway, since Paradox's inside steering lets crew weight do that job instead.
-- [Hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting) —
-  rates epoxy-set fasteners superior to thru-bolting deck hardware, having seen
-  pad-eyes and U-bolts lift boats on hardware bonding alone; gives a builder's
-  pull-test procedure to verify the technique's holding power firsthand.
-- [Deck and cabin beam lamination](/construction/deck-and-cabin-beams.md) —
-  1/4 in timber laminated to thickness on separate molds for deck and cabin top
-  (different crowns), cut to length only after lamination. Recalled no
-  beam-height problems of his own on Zoë, and described mounting a beam to
-  the sheer clamp via a matched angled trough (always start a shade too
-  high, then trim down), securing a slightly low beam with a screw nail
-  until peanut-butter-consistency epoxy cured — see
-  [shimming deck beam #1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
-- [Panel layout](/construction/panel-layout.md) — buying an extra 1/2 in sheet
-  rather than making a two-piece bulkhead at station #2, and nesting paper
-  patterns so the ply edge no longer governs the base line. A later
-  [side-deck/cabin-end-panel dispute with Alastair](/construction/panel-layout.md)
-  ended with Glen re-measuring against sheet #3 (foredeck max width 3 ft 11 in,
-  over 4 ft once the deck crown is added) and confirming a genuine tight-fit
-  issue in the plans, which he had himself fixed by scabbing in ply each side.
-- [Scarf joints](/construction/scarf-joints.md) — a butt block works but a true
-  scarf gives a fairer curve; modern epoxy is stronger than the wood, so a scarf
-  no longer has to be geometrically perfect, and the
-  [forward panel should overlay the aft](/construction/scarf-joints.md)
-  for fair water flow.
-- [Reading the spar drawing](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions) —
-  Drawing #12's spar-length dimensioning gives fore-aft and sideways
-  dimensions full size while the length dimension is scaled, letting the
-  whole spar and its cross-section detail fit on one page and easing the
-  fairing of its long curve. The spar sizes themselves are unchanged between
-  the original and newer sail plans — a boom can have roughly 8 in trimmed
-  off once the new sail is bent on and measured against it, but not before.
-  Glen sailed with both sail plans on Zoë, finding the original cut flat
-  enough that he might still be using it were it not for the newer sail's
-  extra draft. See [building plans — reading the plans: a first-time
-  builder's backlog of
-  questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).
-- [Notching the stem](/construction/stem-notching.md) for the sheer clamps and
-  chine logs per drawing #4, glued with thickened epoxy — "putty (epoxy) and
-  paint will make her what she ain't."
-- [Hull assembly sequence](/construction/hull-assembly-sequence.md) — floor
-  members need beveling like the bulkheads, or should be cut a little short;
-  bulkhead-member cutting angles can be lifted straight off the drawing with
-  a bevel square, since angles hold at any scale — see
-  [finding bulkhead-member angles from the drawings](/construction/hull-assembly-sequence.md#finding-bulkhead-member-angles-from-the-drawings).
-- [Drilled-hole rot protection](/construction/boom-end-tack-line-holes.md) —
-  coat every drilled hole with 2–3 coats of epoxy (end grain soaked with straight
-  epoxy, then a Cabosil-thickened armor coat); for holes too narrow to coat, use
-  a pipe cleaner dipped in epoxy and redrill after cure.
-- [Installing the pipe stowage rails](/design/yuloh-and-stowed-rig-retention.md)
-  that retain the [yuloh and stowed rig](/design/yuloh-and-stowed-rig-retention.md) —
-  a 5/8 in hole clear-coated then filled with high-density epoxy, the rails
-  tapped in; removable later by heating with a torch until the epoxy softens.
-- [Building the yuloh's own pivot bolt](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket) —
-  brazed filler material onto a bronze bolt to build up a ball shape,
-  hardware-bonded into the transom, with the plans' gas-line cap fitted over
-  it; built the yuloh itself to the plans' dimensions with no problems,
-  finding only his own learning curve using it a real difficulty.
-- [A lead-shot-in-epoxy alternative to a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting) —
-  built a Little Cruiser rudder by mixing lead shot into epoxy and pouring it
-  into the same screw-fitted blade cutout a hot-lead casting would use, no
-  melting required and easier to fair than poured lead; also reported the
-  stock ballasted rudder already comes up very easily on its own.
-- **The lightning-protection ground plate: material, fit, and sealant.** On
-  "Zoë," the ground plate is cut from one side of a piece of **6 in copper
-  flashing**, generally easy to source at a local roofer's supply, laid flush
-  with the bottom and faired in afterward. The vacuum bag used to lay it down
-  is sealed with **mastic** (sold at Lowe's or Home Depot in the window
-  section) — the same material West Marine sells as vacuum-bag sealer at a
-  fraction of the price, in 25 ft rolls about 1/8 in thick and 1/2 in wide,
-  light gray. [Chris Morejohn](/people/chris-morejohn.md) recommended the same
-  mastic to Glen back in 1992 as an all-purpose caulk (ports, thru-hulls, and
-  more), and Glen has never had a leak from it since; for a single screw it
-  can simply be pinched off and packed around the fastener, unlike a tube of
-  3M 5200 that hardens once opened. He avoids 5200 generally, expecting to be
-  the one who eventually has to remove the part again for repair. See also
-  [lightning protection](/design/lightning-protection.md#a-grounding-plate-seen-under-the-glass)
-  for the de-ionization system this plate serves. He drilled and countersunk
-  holes along the ground strip's edge before bonding it so the cured epoxy
-  inside each hole would act like a rivet, resisting peeling forces — see
-  [chine runner construction — fabricating chine runners in
-  steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel)
-  for the full technique, offered there alongside his related aluminum/bronze
-  epoxy-bonding tip. Left exposed at the hull's surface rather than buried
-  under glass, the copper plate does double duty as an **antifoulant** — a
-  copper-clad bottom needs no separate anti-fouling paint or its yearly
-  maintenance. See [lightning protection — where the copper flashing sits in
-  the layup, and copper's bonus as an
-  antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant).[249]
-- **Chine reinforcement, and the fairing technique behind it.** Beyond the
-  woven roving on the bottom and 6 oz glass on the sides, "Zoë"'s chines are
-  reinforced with **7 oz "E" glass** throughout (cheaper than 6 oz at the
-  time), overlapping the roving **four times** at the chine runners
-  themselves. The fairing technique: work lots of **microballoons** into the
-  epoxy, pour it on, then smooth it with a **12 in drywall knife** held
-  nearly flat against the surface — a technique that takes a little practice
-  but becomes quick once the bottom is done. Rolling the whole hull so each
-  side, top, and bottom in turn faces upward lets gravity help the epoxy flow
-  and level itself, and applying each new coat within **24 hours** of the
-  last avoids having to sand between coats — saving, by Glen's account, an
-  enormous amount of time over the whole fairing phase.
-- **12-volt wiring gauge.** For his own interior wiring, Glen uses 22-gauge
-  color-coded speaker wire — easy to route and nearly invisible once
-  painted over — and questions whether a heavier gauge is really necessary
-  for the low current draws a Paradox's lighting circuits actually carry;
-  his own rule of thumb is to size the wire to the load. He prefers the
-  smallest wire that will do the job on aesthetic grounds (exposed wiring
-  is unsightly), ran conduit on his own Paradox, and on his brothers' and
-  his own Peep Hen boats — where conduit wasn't practical — taped wiring up
-  under the ceiling with a clear duct tape that all but disappears once
-  painted over. See [radio and electronics — 12-volt wiring
-  gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
+- [Hull planking](/construction/hull-planking.md) — screwing the bottom on from the stern with sheetrock screws — and a defense of [removable screws over left-in nails](/construction/fastening-and-gluing.md), for which he wrote a supporting paper.
+- [Gluing the sheer clamps and chine logs](/construction/fastening-and-gluing.md) — dry-fit each piece with sheet-rock screws until the fit is right, then remove, glue, and refit; slow hardener works fine in summer since each glued area is under 2 sq ft.
+- [Chine runner construction](/chine-runners/construction.md) — built from ~10 in pre-cut solid fir 2x4 blocks band-sawn and glued along the overhang, then heavily glassed, rather than a hull-curve-pattern method used elsewhere. The band saw is rated the single most valuable boatbuilding power tool, the table saw second. Later proposed reusing a shaped runner section as a mold for [casting lead ballast further out on the lever arm](/chine-runners/construction.md#casting-lead-ballast-into-the-runners), and confirmed his own 30-40 lb ballast ingots stay secured rather than shifted underway, since Paradox's inside steering lets crew weight do that job instead.
+- [Hardware bonding](/construction/fastening-and-gluing.md#hardware-bonding-epoxy-set-fasteners-in-place-of-thru-bolting) — rates epoxy-set fasteners superior to thru-bolting deck hardware, having seen pad-eyes and U-bolts lift boats on hardware bonding alone; gives a builder's pull-test procedure to verify the technique's holding power firsthand.
+- [Deck and cabin beam lamination](/construction/deck-and-cabin-beams.md) — 1/4 in timber laminated to thickness on separate molds for deck and cabin top (different crowns), cut to length only after lamination. Recalled no beam-height problems of his own on Zoë, and described mounting a beam to the sheer clamp via a matched angled trough (always start a shade too high, then trim down), securing a slightly low beam with a screw nail until peanut-butter-consistency epoxy cured — see [shimming deck beam #1](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline).
+- [Panel layout](/construction/panel-layout.md) — buying an extra 1/2 in sheet rather than making a two-piece bulkhead at station #2, and nesting paper patterns so the ply edge no longer governs the base line. A later [side-deck/cabin-end-panel dispute](/construction/panel-layout.md) ended with Glen re-measuring against sheet #3 (foredeck max width 3 ft 11 in, over 4 ft once the deck crown is added) and confirming a genuine tight-fit issue in the plans, which he had himself fixed by scabbing in ply each side.
+- [Scarf joints](/construction/scarf-joints.md) — a butt block works but a true scarf gives a fairer curve; modern epoxy is stronger than the wood, so a scarf no longer has to be geometrically perfect, and the [forward panel should overlay the aft](/construction/scarf-joints.md) for fair water flow.
+- [Reading the spar drawing](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions) — Drawing #12's spar-length dimensioning gives fore-aft and sideways dimensions full size while the length dimension is scaled, letting the whole spar and its cross-section detail fit on one page and easing the fairing of its long curve. The spar sizes themselves are unchanged between the original and newer sail plans — a boom can have roughly 8 in trimmed off once the new sail is bent on and measured against it, but not before. Glen sailed with both sail plans on Zoë, finding the original cut flat enough that he might still be using it were it not for the newer sail's extra draft. See [building plans — reading the plans: a first-time builder's backlog of questions](/references/building-plans.md#reading-the-plans-a-first-time-builders-backlog-of-questions).
+- [Notching the stem](/construction/stem-notching.md) for the sheer clamps and chine logs per drawing #4, glued with thickened epoxy — "putty (epoxy) and paint will make her what she ain't."
+- [Hull assembly sequence](/construction/hull-assembly-sequence.md) — floor members need beveling like the bulkheads, or should be cut a little short; bulkhead-member cutting angles can be lifted straight off the drawing with a bevel square, since angles hold at any scale — see [finding bulkhead-member angles from the drawings](/construction/hull-assembly-sequence.md#finding-bulkhead-member-angles-from-the-drawings).
+- [Drilled-hole rot protection](/construction/boom-end-tack-line-holes.md) — coat every drilled hole with 2–3 coats of epoxy (end grain soaked with straight epoxy, then a Cabosil-thickened armor coat); for holes too narrow to coat, use a pipe cleaner dipped in epoxy and redrill after cure.
+- [Installing the pipe stowage rails](/design/yuloh-and-stowed-rig-retention.md) that retain the [yuloh and stowed rig](/design/yuloh-and-stowed-rig-retention.md) — a 5/8 in hole clear-coated then filled with high-density epoxy, the rails tapped in; removable later by heating with a torch until the epoxy softens.
+- [Building the yuloh's own pivot bolt](/design/yuloh-and-stowed-rig-retention.md#building-the-yuloh-itself-blade-curvature-and-the-pivot-boltsocket) — brazed filler material onto a bronze bolt to build up a ball shape, hardware-bonded into the transom, with the plans' gas-line cap fitted over it; built the yuloh itself to the plans' dimensions with no problems, finding only his own learning curve using it a real difficulty.
+- [A lead-shot-in-epoxy alternative to a lead casting](/design/rudder.md#rudder-ballast-without-a-lead-casting) — built a Little Cruiser rudder by mixing lead shot into epoxy and pouring it into the same screw-fitted blade cutout a hot-lead casting would use, no melting required and easier to fair than poured lead; also reported the stock ballasted rudder already comes up very easily on its own.
+- **The lightning-protection ground plate: material, fit, and sealant.** On "Zoë," the ground plate is cut from one side of a piece of **6 in copper flashing**, generally easy to source at a local roofer's supply, laid flush with the bottom and faired in afterward. The vacuum bag used to lay it down is sealed with **mastic** (sold at Lowe's or Home Depot in the window section) — the same material West Marine sells as vacuum-bag sealer at a fraction of the price, in 25 ft rolls about 1/8 in thick and 1/2 in wide, light gray. The same mastic was recommended to Glen back in 1992 as an all-purpose caulk (ports, thru-hulls, and more), and he has never had a leak from it since; for a single screw it can simply be pinched off and packed around the fastener, unlike a tube of 3M 5200 that hardens once opened. He avoids 5200 generally, expecting to be the one who eventually has to remove the part again for repair. See also [lightning protection](/design/lightning-protection.md#a-grounding-plate-seen-under-the-glass) for the de-ionization system this plate serves. He drilled and countersunk holes along the ground strip's edge before bonding it so the cured epoxy inside each hole would act like a rivet, resisting peeling forces — see [chine runner construction — fabricating chine runners in steel](/chine-runners/construction.md#fabricating-chine-runners-in-steel-if-the-whole-hull-is-steel) for the full technique, offered there alongside his related aluminum/bronze epoxy-bonding tip. Left exposed at the hull's surface rather than buried under glass, the copper plate does double duty as an **antifoulant** — a copper-clad bottom needs no separate anti-fouling paint or its yearly maintenance. See [lightning protection — where the copper flashing sits in the layup, and copper's bonus as an antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant).[249]
+- **Chine reinforcement, and the fairing technique behind it.** Beyond the woven roving on the bottom and 6 oz glass on the sides, "Zoë"'s chines are reinforced with **7 oz "E" glass** throughout (cheaper than 6 oz at the time), overlapping the roving **four times** at the chine runners themselves. The fairing technique: work lots of **microballoons** into the epoxy, pour it on, then smooth it with a **12 in drywall knife** held nearly flat against the surface — a technique that takes a little practice but becomes quick once the bottom is done. Rolling the whole hull so each side, top, and bottom in turn faces upward lets gravity help the epoxy flow and level itself, and applying each new coat within **24 hours** of the last avoids having to sand between coats — saving an enormous amount of time over the whole fairing phase.
+- **12-volt wiring gauge.** For his own interior wiring, Glen uses 22-gauge color-coded speaker wire — easy to route and nearly invisible once painted over — and questions whether a heavier gauge is really necessary for the low current draws a Paradox's lighting circuits actually carry; his own rule of thumb is to size the wire to the load. He prefers the smallest wire that will do the job on aesthetic grounds (exposed wiring is unsightly), ran conduit on his own Paradox, and on his brothers' and his own Peep Hen boats — where conduit wasn't practical — taped wiring up under the ceiling with a clear duct tape that all but disappears once painted over. See [radio and electronics — 12-volt wiring gauge](/operations/radio-and-electronics.md#12-volt-wiring-gauge-choosing-conductor-size-for-a-low-draw-boat).
 
 ## Painting, epoxy, and materials
 
-- [Topside and hull painting](/construction/topside-painting.md) — his
-  roll-and-tip method (three very thin coats, foam roller cut in half, 3 in foam
-  brush tipped wet-to-dry) gave a finish onlookers took for spray paint, using
-  only one quart of Awlgrip on all of "Zoë"; he also endorsed West Marine "Sea
-  Gloss" as a cheap alternative and exterior house paint from his own trimaran
-  experience, and advised against latex for resale reasons. A
-  [water-based-paint article](/references/dave-carnell-articles.md) he
-  endorsed as "outstanding" fed the same discussion. The full recipe, restated
-  years later: a 1 qt Awlgrip kit yields about 53 oz of paint, enough for
-  three coats with some left over, brushing always into the last section
-  done, with about four spare foam brushes on hand; Awlgrip is the cheapest
-  paint in practice since its gloss lasts about ten years without fading.
-  HVLP spray outfits are a favorite, but not for Awlgrip or any other two-part
-  polyurethane, since atomized it is highly poisonous and calls for a
-  full-face mask fed with an oxygen-rich air supply. See [topside and hull
-  painting — Glen Maxwell's full Awlgrip roll-and-tip recipe, and why not to
-  spray
-  it](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it).
-- [Bottom painting over epoxy](/construction/bottom-painting.md) — bonding
-  antifouling to a tacking-off epoxy sealer coat (learned at Gold Coast Yachts);
-  for a refit,
-  [stripping just the paint, not the glass](/construction/bottom-painting.md),
-  and a masking-tape leveling method for
-  [finding the transom waterline](/construction/bottom-painting.md).
-  Removing old bottom paint means sanding it off, using a good 3M valved
-  particulate respirator. West Marine's **CPS** antifouling gave good results
-  on "Zoë" generally, though even a hard antifouling won't stay on the spots
-  that rub the sea floor. See [choosing a bottom paint — a
-  hard antifouling paint for a trailered
-  boat](/construction/bottom-painting.md#a-hard-antifouling-paint-for-a-trailered-boat).
-- [Non-skid deck](/construction/non-skid-deck.md) — walnut shells set in epoxy,
-  painted then ground down; foot-friendly and grippier when wet.
-- [Epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md) —
-  as Glen understood it, only two companies (DuPont, Ciba-Geigy) actually
-  manufacture epoxy, every brand reselling one base chemistry, and WEST's higher
-  price reflects a patent on its own thinner hardener.
-- [Mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time) —
-  drawing on his time at Gold Coast Yachts, argued round mixing containers
-  give better molecular linkage than square ones, though square pours more
-  easily — a claim Don Elliott disputed sharply.
-- [Water tank construction and lining](/construction/water-tank-lining.md) — he
-  had used a 5-part epoxy from Fiberglass Coatings (St. Petersburg, FL) for ~9
-  years with no problems at about half West System's price. On the tank
-  fill/suction plumbing itself, recommends CPVC over PVC pipe for a smaller
-  outside diameter at the same bore, drains his own tanks dry by hose and
-  bilge pump siphon when back on the trailer, and notes Matt Layden draws
-  water from his own boat's tanks with a fuel bulb rather than a pump — a
-  deliberately inconvenient method Matt says encourages fresh-water
-  conservation. See [transom deck plate — the fill/suction copper pipe:
-  sizing, timing, and the fittings that connect to
-  it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[243]
-- Sources he passed to the list: good-grade
-  [lumber and plywood](/design/hull-scantlings.md#lumber-and-plywood-sourcing)
-  (hardwoodint.com), and later
-  [bronze/pipe suppliers](/construction/rudder-bearing-materials.md)
-  (Quality Pipe Products of Taylor, MI; Atlas Metal Sales of Denver, CO), with an
-  offer to resell his own
-  [leftover stock at cost](/construction/rudder-bearing-materials.md)
-  that three builders took up.
+- [Topside and hull painting](/construction/topside-painting.md) — his roll-and-tip method (three very thin coats, foam roller cut in half, 3 in foam brush tipped wet-to-dry) gave a finish onlookers took for spray paint, using only one quart of Awlgrip on all of "Zoë"; he also endorsed West Marine "Sea Gloss" as a cheap alternative and exterior house paint from his own trimaran experience, and advised against latex for resale reasons. A [water-based-paint article](/references/dave-carnell-articles.md) endorsed as "outstanding" fed the same discussion. The full recipe, restated years later: a 1 qt Awlgrip kit yields about 53 oz of paint, enough for three coats with some left over, brushing always into the last section done, with about four spare foam brushes on hand; Awlgrip is the cheapest paint in practice since its gloss lasts about ten years without fading. HVLP spray outfits are a favorite, but not for Awlgrip or any other two-part polyurethane, since atomized it is highly poisonous and calls for a full-face mask fed with an oxygen-rich air supply. See [topside and hull painting — Glen Maxwell's full Awlgrip roll-and-tip recipe, and why not to spray it](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it).
+- [Bottom painting over epoxy](/construction/bottom-painting.md) — bonding antifouling to a tacking-off epoxy sealer coat (learned at Gold Coast Yachts); for a refit, [stripping just the paint, not the glass](/construction/bottom-painting.md), and a masking-tape leveling method for [finding the transom waterline](/construction/bottom-painting.md). Removing old bottom paint means sanding it off, using a good 3M valved particulate respirator. West Marine's **CPS** antifouling gave good results on "Zoë" generally, though even a hard antifouling won't stay on the spots that rub the sea floor. See [choosing a bottom paint — a hard antifouling paint for a trailered boat](/construction/bottom-painting.md#a-hard-antifouling-paint-for-a-trailered-boat).
+- [Non-skid deck](/construction/non-skid-deck.md) — walnut shells set in epoxy, painted then ground down; foot-friendly and grippier when wet.
+- [Epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md) — only two companies (DuPont, Ciba-Geigy) actually manufacture epoxy, every brand reselling one base chemistry, and WEST's higher price reflects a patent on its own thinner hardener.
+- [Mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time) — drawing on his time at Gold Coast Yachts, argued round mixing containers give better molecular linkage than square ones, though square pours more easily — a claim disputed sharply elsewhere on the list.
+- [Water tank construction and lining](/construction/water-tank-lining.md) — he had used a 5-part epoxy from Fiberglass Coatings (St. Petersburg, FL) for ~9 years with no problems at about half West System's price. On the tank fill/suction plumbing itself, recommends CPVC over PVC pipe for a smaller outside diameter at the same bore, drains his own tanks dry by hose and bilge pump siphon when back on the trailer, and notes Matt Layden draws water from his own boat's tanks with a fuel bulb rather than a pump — a deliberately inconvenient method Matt says encourages fresh-water conservation. See [transom deck plate — the fill/suction copper pipe: sizing, timing, and the fittings that connect to it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it).[243]
+- Sources he passed to the list: good-grade [lumber and plywood](/design/hull-scantlings.md#lumber-and-plywood-sourcing) (hardwoodint.com), and later [bronze/pipe suppliers](/construction/rudder-bearing-materials.md) (Quality Pipe Products of Taylor, MI; Atlas Metal Sales of Denver, CO), with an offer to resell his own [leftover stock at cost](/construction/rudder-bearing-materials.md) that three builders took up.
 
 ## Rot, refit, and repair
 
-- [Checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md) —
-  his ice-pick probe technique (sound wood resists; rot lets the pick sink "like
-  a dry sponge"), backed by his in-person judgment that
-  [David Beard](/people/david-beard.md)'s secondhand Paradox from Bob Archibald was
-  well worth fixing up. For actual rot he recommended
-  [Gitrot for small areas, Cabosil-thickened epoxy for large, and a boric-acid
-  Borate pretreatment](/construction/rot-inspection-ice-pick.md)
-  citing [Dave Carnell](/references/dave-carnell-articles.md) — a pound of roach
-  killer from Food Lion for a dollar, "enough to treat a ship." For
-  [damp-but-sound ply](/construction/rot-inspection-ice-pick.md),
-  dry it with a heat gun or an ordinary light bulb.
-- [Undersize side panels](/construction/undersize-side-panel-ply.md) — a
-  secondhand boat with ~6 mm sides instead of the specified 12 mm is not a
-  structural write-off: the main consequence is a lighter boat needing more
-  (low, well-placed) ballast, and it "should still serve you well for many,
-  many years."
-- [Lower rudder fitting bearing materials](/construction/rudder-bearing-materials.md) —
-  UHMW over nylon (which elongates under stress); Delrin better than nylon but
-  still short of UHMW; Tufnol available in the US but very expensive.
-- [Casting a glass lower rudder gudgeon](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique) —
-  the 6-layer, 24 oz roving lay-up is correct and intentionally heavy; cutting
-  the cloth on the bias helps it lie down in the mold; his own method, worked
-  out from memory, built a mold of the gudgeon's inside shape, laid up the
-  glass, filled the cured casting with a high-density mixture, then bored the
-  bolt hole on a drill press.
-- [Transom deck plate](/construction/transom-deck-plate.md) — water-tank deck
-  plates must be watertight or ballast/drinking water joins the crew; he enlarged
-  his own tank ports from 4 in to 6 in and sealed a leak by tapping a 5/8 in dowel
-  rod into the finger hole, later refined into a
-  [multi-dowel handle tool](/construction/transom-deck-plate.md).
+- [Checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md) — his ice-pick probe technique (sound wood resists; rot lets the pick sink "like a dry sponge"), backed by his in-person judgment that a secondhand Paradox acquired from a previous owner was well worth fixing up. For actual rot he recommended [Gitrot for small areas, Cabosil-thickened epoxy for large, and a boric-acid Borate pretreatment](/construction/rot-inspection-ice-pick.md), citing [Dave Carnell](/references/dave-carnell-articles.md) — a pound of roach killer from Food Lion for a dollar, "enough to treat a ship." For [damp-but-sound ply](/construction/rot-inspection-ice-pick.md), dry it with a heat gun or an ordinary light bulb.
+- [Undersize side panels](/construction/undersize-side-panel-ply.md) — a secondhand boat with ~6 mm sides instead of the specified 12 mm is not a structural write-off: the main consequence is a lighter boat needing more (low, well-placed) ballast, and it "should still serve you well for many, many years."
+- [Lower rudder fitting bearing materials](/construction/rudder-bearing-materials.md) — UHMW over nylon (which elongates under stress); Delrin better than nylon but still short of UHMW; Tufnol available in the US but very expensive.
+- [Casting a glass lower rudder gudgeon](/construction/rudder-bearing-materials.md#casting-a-glass-lower-rudder-gudgeon-technique) — the 6-layer, 24 oz roving lay-up is correct and intentionally heavy; cutting the cloth on the bias helps it lie down in the mold; his own method, worked out from memory, built a mold of the gudgeon's inside shape, laid up the glass, filled the cured casting with a high-density mixture, then bored the bolt hole on a drill press.
+- [Transom deck plate](/construction/transom-deck-plate.md) — water-tank deck plates must be watertight or ballast/drinking water joins the crew; he enlarged his own tank ports from 4 in to 6 in and sealed a leak by tapping a 5/8 in dowel rod into the finger hole, later refined into a [multi-dowel handle tool](/construction/transom-deck-plate.md).
 
 ## A proposed birdsmouth tutorial, and a verdict on published guides
 
-Glen judges a birdsmouth spar genuinely easy to build once tried — a short,
-five-foot practice sample shows "the mast literally builds itself when cut,"
-with the real craft lying in **making the taper jig**. He floated writing an
-illustrated tutorial using a small teaching piece (a walking stick) to cover
-the jig-making in particular. Two existing published birdsmouth walkthroughs
-were judged both **too thin on detail and worked examples** for someone new
-to tapering — the gap the proposed tutorial was meant to fill. On a revived
-birdmouth/carbon-sleeve composite mast idea, the resulting spar was estimated
-to come out at roughly **half the weight and triple the strength** of the
-plans' stock mast, worth trying the braided-sleeve technique to confirm. See [rig and
-sail — a proposed birdsmouth-building tutorial, and existing published
-guides](/design/rig.md#a-proposed-birdsmouth-building-tutorial-and-existing-published-guides)
-and [rig and sail — a birdmouth-and-carbon composite mast,
-revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
+Glen judges a birdsmouth spar genuinely easy to build once tried — a short, five-foot practice sample shows "the mast literally builds itself when cut," with the real craft lying in **making the taper jig**. He floated writing an illustrated tutorial using a small teaching piece (a walking stick) to cover the jig-making in particular. Two existing published birdsmouth walkthroughs were judged both **too thin on detail and worked examples** for someone new to tapering — the gap the proposed tutorial was meant to fill. On a revived birdmouth/carbon-sleeve composite mast idea, the resulting spar was estimated to come out at roughly **half the weight and triple the strength** of the plans' stock mast, worth trying the braided-sleeve technique to confirm. See [rig and sail — a proposed birdsmouth-building tutorial, and existing published guides](/design/rig.md#a-proposed-birdsmouth-building-tutorial-and-existing-published-guides) and [rig and sail — a birdmouth-and-carbon composite mast, revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
 
 ## Rig, furling, and sail
 
-- [Furling system](/design/furling-system.md) — Glen gave the archive's fullest
-  account of the stock rolling-boom furling gear's practical problem (it "needs
-  three hands") and his cure, a topping-lift fix later
-  [routed internally alongside the halyard and furling line](/design/furling-system.md)
-  and confirmed working. He supplied the
-  [full hardware parts list](/design/furling-system.md)
-  (a stainless tang boom-end strap — three tries before he got its stiffness
-  right — Harken #021 blocks, and the complete routing), and field-tested and
-  reported the failure of [Bert Vercauteren](/people/bert-vercauteren.md)'s
-  tack-strop idea. "Zoë" carries the Mk2 sail; his earlier Mk1 sail was passed
-  on to another UK builder. His own fix for the Mk2 sail's forward gather while
-  furling — tack attached close to the drum, clew end of the boom kept
-  slightly raised, and a topping lift in use throughout — plus his
-  first-hand relay of [Matt Layden's own foot-pressure furling
-  technique](/design/furling-system.md#matt-laydens-own-technique-foot-pressure-no-topping-lift),
-  are detailed on [furling system](/design/furling-system.md).
-- [Rig and sail](/design/rig.md) — "Zoë"'s sail was built by Sails Ect. of
-  St. Augustine, FL in 4.5 oz British tanbark Dacron;
-  [the definitive price, after two corrections from memory, was $420 from his
-  receipt](/design/rig.md),
-  and he advised requiring a sailmaker build exactly to plan. In 2006, replying
-  to a fresh Dabbler Sails price quote circulated on the list, Glen reconfirmed
-  he remained very pleased with his own Dabbler-built Mark II sail and highly
-  recommended the loft; his superseded Mark I sail — visible in older photos
-  with an ensign flying from the leech — had by then passed to another
-  builder, "Bill Sargent." See [rig and sail — sail
-  pricing](/design/rig.md#sail-pricing).[252] He also explained
-  the [mast rake as a built curve](/design/rig.md)
-  in the side plates, and how the plans'
-  [compressed-scale mast drawings](/design/rig.md)
-  can mislead a model builder, and why the
-  [boom is drawn curved on one side](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag) —
-  furling it for reefing removes the sail's draft so it sets correctly at
-  any reef point.
-- [Mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md) —
-  epoxy the mast interior against moisture, and beware the anchor light's
-  uncounted height, which left "Zoë"'s mast 1.5 in too long to close the
-  inspection port; he later
-  [fixed it by cutting away port reinforcement](/construction/mast-sealing-and-fit.md)
-  and generally carries the spars in his truck. A
-  [leather collar](/construction/mast-sealing-and-fit.md)
-  epoxied where the mast passes through the partners quiets it.
-- [Self-steering](/operations/self-steering.md) — in light air "Zoë" will sail
-  herself with a little tiller-rope friction; all sail controls, including
-  reefing, are worked from the helm station.
-- [Chine runners and windward performance](/chine-runners/windward-performance.md#pointing-angles-owners-report) —
-  with the new sail, Glen reported upwind performance "very good," Paradox
-  tacking through 90 degrees (though losing speed compared with a wider
-  100-degree tack), and the chine runners themselves unbeatable for the
-  convenience they offer relative to the job they do.
+- [Furling system](/design/furling-system.md) — Glen gave the archive's fullest account of the stock rolling-boom furling gear's practical problem (it "needs three hands") and his cure, a topping-lift fix later [routed internally alongside the halyard and furling line](/design/furling-system.md) and confirmed working. He supplied the [full hardware parts list](/design/furling-system.md) (a stainless tang boom-end strap — three tries before he got its stiffness right — Harken #021 blocks, and the complete routing), and field-tested and reported the failure of a tack-strop idea proposed elsewhere on the list. "Zoë" carries the Mk2 sail; his earlier Mk1 sail was passed on to another UK builder. His own fix for the Mk2 sail's forward gather while furling — tack attached close to the drum, clew end of the boom kept slightly raised, and a topping lift in use throughout — plus his first-hand relay of [Matt Layden's own foot-pressure furling technique](/design/furling-system.md#matt-laydens-own-technique-foot-pressure-no-topping-lift), are detailed on [furling system](/design/furling-system.md).
+- [Rig and sail](/design/rig.md) — "Zoë"'s sail was built by Sails Ect. of St. Augustine, FL in 4.5 oz British tanbark Dacron; [the definitive price, after two corrections from memory, was $420 from his receipt](/design/rig.md), and he advised requiring a sailmaker build exactly to plan. In 2006, replying to a fresh Dabbler Sails price quote circulated on the list, Glen reconfirmed he remained very pleased with his own Dabbler-built Mark II sail and highly recommended the loft; his superseded Mark I sail — visible in older photos with an ensign flying from the leech — had by then passed to another builder. See [rig and sail — sail pricing](/design/rig.md#sail-pricing).[252] He also explained the [mast rake as a built curve](/design/rig.md) in the side plates, and how the plans' [compressed-scale mast drawings](/design/rig.md) can mislead a model builder, and why the [boom is drawn curved on one side](/design/rig.md#which-side-of-the-boom-and-yard-faces-up-and-curing-persistent-yard-sag) — furling it for reefing removes the sail's draft so it sets correctly at any reef point.
+- [Mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md) — epoxy the mast interior against moisture, and beware the anchor light's uncounted height, which left "Zoë"'s mast 1.5 in too long to close the inspection port; he later [fixed it by cutting away port reinforcement](/construction/mast-sealing-and-fit.md) and generally carries the spars in his truck. A [leather collar](/construction/mast-sealing-and-fit.md) epoxied where the mast passes through the partners quiets it.
+- [Self-steering](/operations/self-steering.md) — in light air "Zoë" will sail herself with a little tiller-rope friction; all sail controls, including reefing, are worked from the helm station.
+- [Chine runners and windward performance](/chine-runners/windward-performance.md#pointing-angles-owners-report) — with the new sail, Glen reported upwind performance "very good," Paradox tacking through 90 degrees (though losing speed compared with a wider 100-degree tack), and the chine runners themselves unbeatable for the convenience they offer relative to the job they do.
 
 ## Sailing, seamanship, and cruising knowledge
 
-As one of the few list members who had actually sailed the design, Glen was the
-archive's practical seamanship authority:
+As one of the few list members who had actually sailed the design, Glen was the archive's practical seamanship authority:
 
-- [Heavy-weather tactics](/operations/heavy-weather-tactics.md) — under a sea
-  anchor, pull the rudder blade fully up (never lash it to one side, which risks
-  broaching); and, drawing on four miserable lie-a-hull experiences on other
-  boats, [carry a sea anchor rather than heave-to](/operations/heavy-weather-tactics.md)
-  (his own a $15 eBay buy, "perfect for a Paradox"), illustrated by a St. Croix
-  delivery with Chris Morejohn where a 30 ft sea anchor collapsed and came
-  aboard in 30 minutes. Inspired by reading Gerry Spiess's *Alone Against the
-  Atlantic*, also floated (but never reported building) a further precaution —
-  seat belts at shoulder, thigh, and shin level, made fast to eye bolts on the
-  cabin sole and stowed in a locker when not in use; see [heavy-weather tactics
-  — a seatbelt idea, floated but not
-  built](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
-- [Ground tackle and anchoring](/operations/ground-tackle.md) — his
-  cockpit-worked inhaul-line technique that avoids going forward, the sequence of
-  raising sail before weighing anchor, and his
-  [stern-set/walk-forward routine with braided nylon rode](/operations/ground-tackle.md)
-  (with the cautionary tale of losing a whole rode-and-anchor bag overboard to
-  the jeers of pier fishermen, now prevented by an afterdeck bungee). Gave his
-  fullest anchoring account when the topic resurfaced in the "anchor locker"
-  thread: chose canvas ice bags over a below-deck well for Zoë (a Delta Quick
-  Set and 75 ft of 3/8 in braided line, one bag per locker), argued against a
-  forward anchor well as courting an accidental jibe with sail up, and
-  described his stern-set, cockpit-worked method — including the same
-  Cedar Key bag-overboard incident told in full — see
-  [ground tackle and anchoring — Glen Maxwell's stern-set anchoring routine,
-  and sailing the anchor
-  out](/operations/ground-tackle.md#glen-maxwells-stern-set-anchoring-routine-and-sailing-the-anchor-out).
-  Followed up with why the **port side deck** stays cluttered under sail
-  (raised boom too low, or the furled sail covering the deck) while the
-  yuloh tosses easily aside to port, his own rode fairlead, and the
-  archive's first field report on a **sea anchor** — a $15 six-foot chute,
-  rigged for cockpit-worked deployment and retrieval but not yet tested in
-  real conditions; see [ground tackle and anchoring — Glen Maxwell's
-  follow-up: port-side clutter, the fairlead, and a first sea-anchor
-  report](/operations/ground-tackle.md#port-side-clutter-the-fairlead-and-a-first-sea-anchor-report).
-  Weighed against rigging notes on surplus military chutes and monohull vs.
-  multihull lead angle, the settled view was that a Paradox cannot easily
-  heave to under her lugsail, so deploying the sea anchor early is the
-  better practice; see [ground tackle and anchoring — surplus military
-  chutes as sea anchors,
-  and lead angle under different
-  hulls](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls).
-- [Hull speed](/operations/hull-speed.md) — the 1.3 × √(waterline) formula
-  (≈4.76 kt for "Zoë"), backed by logged GPS data of 5.9–6.1 kt sustained
-  broad-reaching off Clearwater and 6.3 kt maximum.
-- [Pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway) —
-  never experienced at anchor, and only on rare occasions while sailing.
-- [Pointing and tacking angles](/operations/pointing-and-tacking-angles.md) — the
-  archive's only concrete figures: ~110° tacking sailed to foot, ~90° pointing
-  high but with disappointing performance, plus a practical bow-down trim check.
-- [Chine runners and windward performance](/chine-runners/windward-performance.md) —
-  Glen forwarded [Matt Layden](/matt-layden/biography.md)'s quantified
-  chine-runner sea trial (relayed via [Dave Bolduc](/people/bolduc/dave.md)) and
-  later, after nearly five hours short-tacking Cumberland Sound at 3.6 kt average,
-  [confirmed the runners' performance as a builder in the field](/chine-runners/windward-performance.md)
-  and explained their theory (leeway prevention at shallow draft, Matt's RC-model
-  development, draft from 9 in upright to ~23 in at 30° heel).
-- [Sailing characteristics and rig balance](/operations/sailing-characteristics.md) —
-  a textbook [lee-helm CE/CLR diagnosis](/operations/sailing-characteristics.md)
-  for "Whisper" (four fixes: rake the mast aft, move the halyard forward on the
-  yard, move weight aft, or combine), and a
-  [low-tech knife-edge/weighted-string method](/operations/sailing-characteristics.md)
-  for finding CE and CLR by hand, with a warning that lee helm is dangerous for a
-  single-hander.
-- [Running lights](/operations/running-lights.md) — a COLREGs-based explanation
-  of why Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) carry a
-  masthead all-around white light rather than sidelights, and, raised again a
-  year and a half later against Alastair's tricolour LED build, the same point
-  from a different angle: showing only the anchor light risks being misread by
-  an overtaking vessel as a stern light, ceding a sailing vessel's right of way.
-- [Head and sanitation](/operations/head-and-sanitation.md) — his lived view that
-  a Paradox sailor is "a camper," carrying at most a small portable "Passport
-  Potty"; and comfort tips including an inflated
-  [inner-tube seat cushion](/operations/crew-size-and-fit.md) (from Charles
-  Stock's *Sailing Just for Fun*) and
-  [Lux Foam cabin cushions](/boats/little-jim.md)
-  cut to cover the whole cabin sole.
-- [GPS and navigation](/operations/gps-navigation.md) — a strong recommendation
-  of Garmin from eight years with his own GPS 45 and a Mariner variant with US
-  aids pre-programmed.
-- **Bailing.** Bails with an ordinary bilge pump, a **Whale Guzzler** manual
-  pump modeled directly on the installation he studied aboard Matt Layden's
-  own boat — the same type of pump Matt uses, discharging out the tiller
-  opening in the stern — and clarified that the self-draining vent trunk
-  itself is not a "bailer," since it drains continuously rather than on
-  demand; see
-  [weight, ballast, and displacement — how the no-open-hatch bailing actually
-  works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
-- **Sailing light, tanks empty.** On several outings he sailed "Zoë" with her
-  water-ballast tanks empty; she grew "a little more tender" but stability was
-  not much affected, and he handled 16 kt of wind with about a foot of sail
-  rolled in without trouble — see
-  [weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded).
-- [Trailering](/operations/trailering.md) — a recurring theme: overbuild the
-  trailer. A [loaded Paradox nears 900–1,000 lb](/operations/trailering.md),
-  far beyond a sub-$500 "T-2000"; his own custom 2,500 lb trailer cost only $525.
-  He gave [detailed axle/spring/spindle specifications](/operations/trailering.md)
-  for a ~14 in loaded height (no brakes, but bearing buddies), and a
-  [~410 kg towed weight suited to a VW Golf TDI](/operations/trailering.md).
-- **Confirmed Matt Layden's single-line mainsheet as his everyday rig, not a
-  race-only modification** (no confirming photograph survives in the
-  archive). CAD drawing files for the boat live in the group's uploaded CAD
-  Drawing folder; Kjell Karlsson's translated Yrvind chapter is rated the best
-  chine-runner explanation and history available. See
-  [rig and sail — mainsheet fouling on the rudder and rear deck with an
-  outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted),
-  [panel layout and nesting](/construction/panel-layout.md#software-for-nesting-and-converting-the-offsets-hull-vrml-and-cad),
-  and [the "BRIS Paradox" — a "ParaPlastic" photo update, dry weight, and the
-  carbon mast](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast).
-- **Backed the Build Manual's comprehensive tool list as a starting point,
-  not a requirement.** Concedes he "cannot imagine working without" his own
-  table saw but agrees Paradox could be built with only a hatchet and hand
-  saw; a full list gives a builder a point of departure, not a shopping
-  requirement — add a tool only once a real need for it appears. See
-  [build effort and workspace — a working builder's practical middle
-  ground](/construction/build-effort.md#tools).
-- **Pre-Paradox racing background — "how strong is too strong."** Illustrated
-  the design-strength question with a story from crewing Roger Hatfield's
-  Gold Coast Yachts 34 ft trimaran "Hatter" in the Around St. Croix Race: a
-  20-kt gust launched the boat to ~23 kt indicated and nearly overpowered the
-  spinnaker, and to windward she later went fully airborne off a wave before
-  landing hard and shaking it off — Hatfield's own verdict, "I built her too
-  heavy," offered as a case for overbuilding paying off exactly when a hull
-  is pushed hardest. See
-  [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
+- [Heavy-weather tactics](/operations/heavy-weather-tactics.md) — under a sea anchor, pull the rudder blade fully up (never lash it to one side, which risks broaching); and, drawing on four miserable lie-a-hull experiences on other boats, [carry a sea anchor rather than heave-to](/operations/heavy-weather-tactics.md) (his own a $15 eBay buy, "perfect for a Paradox"), illustrated by a St. Croix delivery where a 30 ft sea anchor collapsed and came aboard in 30 minutes. Inspired by reading Gerry Spiess's *Alone Against the Atlantic*, also floated (but never reported building) a further precaution — seat belts at shoulder, thigh, and shin level, made fast to eye bolts on the cabin sole and stowed in a locker when not in use; see [heavy-weather tactics — a seatbelt idea, floated but not built](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown).
+- [Ground tackle and anchoring](/operations/ground-tackle.md) — his cockpit-worked inhaul-line technique that avoids going forward, the sequence of raising sail before weighing anchor, and his [stern-set/walk-forward routine with braided nylon rode](/operations/ground-tackle.md) (with the cautionary tale of losing a whole rode-and-anchor bag overboard to the jeers of pier fishermen, now prevented by an afterdeck bungee). Gave his fullest anchoring account when the topic resurfaced in the "anchor locker" thread: chose canvas ice bags over a below-deck well for Zoë (a Delta Quick Set and 75 ft of 3/8 in braided line, one bag per locker), argued against a forward anchor well as courting an accidental jibe with sail up, and described his stern-set, cockpit-worked method — including the same Cedar Key bag-overboard incident told in full — see [ground tackle and anchoring — Glen Maxwell's stern-set anchoring routine, and sailing the anchor out](/operations/ground-tackle.md#glen-maxwells-stern-set-anchoring-routine-and-sailing-the-anchor-out). Followed up with why the **port side deck** stays cluttered under sail (raised boom too low, or the furled sail covering the deck) while the yuloh tosses easily aside to port, his own rode fairlead, and the archive's first field report on a **sea anchor** — a $15 six-foot chute, rigged for cockpit-worked deployment and retrieval but not yet tested in real conditions; see [ground tackle and anchoring — Glen Maxwell's follow-up: port-side clutter, the fairlead, and a first sea-anchor report](/operations/ground-tackle.md#port-side-clutter-the-fairlead-and-a-first-sea-anchor-report). Weighed against rigging notes on surplus military chutes and monohull vs. multihull lead angle, the settled view was that a Paradox cannot easily heave to under her lugsail, so deploying the sea anchor early is the better practice; see [ground tackle and anchoring — surplus military chutes as sea anchors, and lead angle under different hulls](/operations/ground-tackle.md#surplus-military-chutes-as-sea-anchors-and-lead-angle-under-different-hulls).
+- [Hull speed](/operations/hull-speed.md) — the 1.3 × √(waterline) formula (≈4.76 kt for "Zoë"), backed by logged GPS data of 5.9–6.1 kt sustained broad-reaching off Clearwater and 6.3 kt maximum.
+- [Pounding](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway) — never experienced at anchor, and only on rare occasions while sailing.
+- [Pointing and tacking angles](/operations/pointing-and-tacking-angles.md) — the archive's only concrete figures: ~110° tacking sailed to foot, ~90° pointing high but with disappointing performance, plus a practical bow-down trim check.
+- [Chine runners and windward performance](/chine-runners/windward-performance.md) — Glen forwarded [Matt Layden](/matt-layden/biography.md)'s quantified chine-runner sea trial (relayed via a fellow builder) and later, after nearly five hours short-tacking Cumberland Sound at 3.6 kt average, [confirmed the runners' performance as a builder in the field](/chine-runners/windward-performance.md) and explained their theory (leeway prevention at shallow draft, Matt's RC-model development, draft from 9 in upright to ~23 in at 30° heel).
+- [Sailing characteristics and rig balance](/operations/sailing-characteristics.md) — a textbook [lee-helm CE/CLR diagnosis](/operations/sailing-characteristics.md) for "Whisper" (four fixes: rake the mast aft, move the halyard forward on the yard, move weight aft, or combine), and a [low-tech knife-edge/weighted-string method](/operations/sailing-characteristics.md) for finding CE and CLR by hand, with a warning that lee helm is dangerous for a single-hander.
+- [Running lights](/operations/running-lights.md) — a COLREGs-based explanation of why Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) carry a masthead all-around white light rather than sidelights, and, raised again a year and a half later against a tricolour LED build under way elsewhere on the list, the same point from a different angle: showing only the anchor light risks being misread by an overtaking vessel as a stern light, ceding a sailing vessel's right of way.
+- [Head and sanitation](/operations/head-and-sanitation.md) — his lived view that a Paradox sailor is "a camper," carrying at most a small portable "Passport Potty"; and comfort tips including an inflated [inner-tube seat cushion](/operations/crew-size-and-fit.md) (from Charles Stock's *Sailing Just for Fun*) and [Lux Foam cabin cushions](/boats/little-jim.md) cut to cover the whole cabin sole.
+- [GPS and navigation](/operations/gps-navigation.md) — a strong recommendation of Garmin from eight years with his own GPS 45 and a Mariner variant with US aids pre-programmed.
+- **Bailing.** Bails with an ordinary bilge pump, a **Whale Guzzler** manual pump modeled directly on the installation studied aboard Matt Layden's own boat — the same type of pump Matt uses, discharging out the tiller opening in the stern — and clarified that the self-draining vent trunk itself is not a "bailer," since it drains continuously rather than on demand; see [weight, ballast, and displacement — how the no-open-hatch bailing actually works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
+- **Sailing light, tanks empty.** On several outings he sailed "Zoë" with her water-ballast tanks empty; she grew "a little more tender" but stability was not much affected, and he handled 16 kt of wind with about a foot of sail rolled in without trouble — see [weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded).
+- [Trailering](/operations/trailering.md) — a recurring theme: overbuild the trailer. A [loaded Paradox nears 900–1,000 lb](/operations/trailering.md), far beyond a sub-$500 "T-2000"; his own custom 2,500 lb trailer cost only $525. He gave [detailed axle/spring/spindle specifications](/operations/trailering.md) for a ~14 in loaded height (no brakes, but bearing buddies), and a [~410 kg towed weight suited to a VW Golf TDI](/operations/trailering.md).
+- **Confirmed Matt Layden's single-line mainsheet as his everyday rig, not a race-only modification** (no confirming photograph survives in the archive). CAD drawing files for the boat live in the group's uploaded CAD Drawing folder; a translated Yrvind chapter is rated the best chine-runner explanation and history available. See [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted), [panel layout and nesting](/construction/panel-layout.md#software-for-nesting-and-converting-the-offsets-hull-vrml-and-cad), and [the "BRIS Paradox" — a "ParaPlastic" photo update, dry weight, and the carbon mast](/boats/bris-paradox.md#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast).
+- **Backed the Build Manual's comprehensive tool list as a starting point, not a requirement.** Concedes he "cannot imagine working without" his own table saw but agrees Paradox could be built with only a hatchet and hand saw; a full list gives a builder a point of departure, not a shopping requirement — add a tool only once a real need for it appears. See [build effort and workspace — a working builder's practical middle ground](/construction/build-effort.md#tools).
+- **Pre-Paradox racing background — "how strong is too strong."** Illustrated the design-strength question with a story from crewing a Gold Coast Yachts 34 ft trimaran, "Hatter," in the Around St. Croix Race: a 20-kt gust launched the boat to ~23 kt indicated and nearly overpowered the spinnaker, and to windward she later went fully airborne off a wave before landing hard and shaking it off — the builder's own verdict, "I built her too heavy," offered as a case for overbuilding paying off exactly when a hull is pushed hardest. See [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth).
 
 ## Design questions and the Paradox census
 
-- [Stretched Paradox](/design/variants/stretched-paradox.md) —
-  [Matt Layden](/matt-layden/biography.md)'s rule of thumb (scale scantlings by
-  the enlargement factor, good to ~25%), worked out in full arithmetic for a
-  uniform 1.1× scale, including the square-root method for scaling sail
-  area and the point that angles do not change under uniform scaling. Dave
-  Gerr's *The Elements of Boat Strength* is the recommended reference for
-  larger stretches; a related [Paradox 1.1 bottom-layout](/design/variants/stretched-paradox.md)
-  question is answered with a butt-block approach.
-- [Weight, ballast, and displacement](/design/weight-and-ballast.md) — a worked
-  [lever-arm ballast-rebalancing method](/design/weight-and-ballast.md),
-  the [CG at the "C/A" mark](/design/weight-and-ballast.md)
-  on plan page one, and a [~650–750 lb empty / ~900 lb loaded estimate for
-  "Zoë"](/design/weight-and-ballast.md)
-  against a 1,400 lb design displacement. "Zoë" looking low in the water
-  corroborates the
-  [tender-when-unballasted diagnosis](/design/weight-and-ballast.md).
-- [Blue-water suitability](/design/blue-water-suitability.md) — Paradox is a
-  blue-water vessel capable of long solo passages, on the strength of Glen's
-  own sailing background; he feels safer in "Zoë" "because I'm sitting in her
-  and not on her" — an endorsement that
-  [directly convinced newcomer Luke S to buy plans](/design/blue-water-suitability.md).
-- Judged a fellow builder's proposed taller hard-top hatch redesign too tall
-  to clear the boom — see [boats/enuf.md — a cardboard hatch mock-up, and a
-  lower alternate seat
-  position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[242]
-  Matt Layden has himself sailed thousands of miles in her.
-- [Aluminum Paradox (speculative)](/design/aluminum-construction-idea.md) — a
-  detailed conditional answer (5000-series alloys below the waterline, 6061 above,
-  ~3/16 in plate, within 10% of the wood-hull weight, manage condensation).
-- [Interior bins and floor](/design/interior-bins-and-floor.md) — the forward
-  [bulkhead #2 is watertight by design with an optional opening](/design/interior-bins-and-floor.md),
-  and the [battery installs behind removable panels](/design/interior-bins-and-floor.md).
-- [Build effort](/construction/build-effort.md) — the ~1,000-hour / two-year
-  figure for "Zoë," which he restated to several newcomers.
-- [Glass-bottom Paradox](/design/glass-bottom-idea.md) and
-  [removable foam flotation panels](/construction/removable-foam-panels.md) — the
-  latter his door-skin-panel solution to the
-  [plywood-grade/foam-flotation debate](/construction/plywood-grades-and-foam-flotation.md)
-  with Don Elliott, letting the hull still be inspected behind the foam.
-- [Lightning protection](/design/lightning-protection.md) — corrected a
-  newcomer's premise that Matt Layden's masthead system attracts a strike,
-  explaining the de-ionization principle behind it, and recounted his own
-  catamaran's years-long strike-free record until an accidental epoxy
-  coating insulated its grounded skegs.
+- [Stretched Paradox](/design/variants/stretched-paradox.md) — [Matt Layden](/matt-layden/biography.md)'s rule of thumb (scale scantlings by the enlargement factor, good to ~25%), worked out in full arithmetic for a uniform 1.1× scale, including the square-root method for scaling sail area and the point that angles do not change under uniform scaling. Dave Gerr's *The Elements of Boat Strength* is the recommended reference for larger stretches; a related [Paradox 1.1 bottom-layout](/design/variants/stretched-paradox.md) question is answered with a butt-block approach.
+- [Weight, ballast, and displacement](/design/weight-and-ballast.md) — a worked [lever-arm ballast-rebalancing method](/design/weight-and-ballast.md), the [CG at the "C/A" mark](/design/weight-and-ballast.md) on plan page one, and a [~650–750 lb empty / ~900 lb loaded estimate for "Zoë"](/design/weight-and-ballast.md) against a 1,400 lb design displacement. "Zoë" looking low in the water corroborates the [tender-when-unballasted diagnosis](/design/weight-and-ballast.md).
+- [Blue-water suitability](/design/blue-water-suitability.md) — Paradox is a blue-water vessel capable of long solo passages, on the strength of Glen's own sailing background; he feels safer in "Zoë" "because I'm sitting in her and not on her" — an endorsement that [directly convinced a newcomer to buy plans](/design/blue-water-suitability.md).
+- Judged a fellow builder's proposed taller hard-top hatch redesign too tall to clear the boom — see [boats/enuf.md — a cardboard hatch mock-up, and a lower alternate seat position](/boats/enuf.md#a-cardboard-hatch-mock-up-and-a-lower-alternate-seat-position).[242] Matt Layden has himself sailed thousands of miles in her.
+- [Aluminum Paradox (speculative)](/design/aluminum-construction-idea.md) — a detailed conditional answer (5000-series alloys below the waterline, 6061 above, ~3/16 in plate, within 10% of the wood-hull weight, manage condensation).
+- [Interior bins and floor](/design/interior-bins-and-floor.md) — the forward [bulkhead #2 is watertight by design with an optional opening](/design/interior-bins-and-floor.md), and the [battery installs behind removable panels](/design/interior-bins-and-floor.md).
+- [Build effort](/construction/build-effort.md) — the ~1,000-hour / two-year figure for "Zoë," which he restated to several newcomers.
+- [Glass-bottom Paradox](/design/glass-bottom-idea.md) and [removable foam flotation panels](/construction/removable-foam-panels.md) — the latter his door-skin-panel solution to the [plywood-grade/foam-flotation debate](/construction/plywood-grades-and-foam-flotation.md), letting the hull still be inspected behind the foam.
+- [Lightning protection](/design/lightning-protection.md) — corrected a newcomer's premise that Matt Layden's masthead system attracts a strike, explaining the de-ionization principle behind it, and recounted his own catamaran's years-long strike-free record until an accidental epoxy coating insulated its grounded skegs.
 
-Across December 2001–June 2002 Glen repeatedly answered the "how many Paradoxes
-are there?" question, consistently reporting **four under sail** — Matt Layden's,
-[Don Elliott's](/boats/elliott-paradox.md), [David Beard's](/boats/whisper.md),
-and his own [Zoë](/boats/zoe.md) — with a geographic breakdown (two in Florida,
-one in Tennessee, Don Elliott believed to be in Wisconsin) and none for sale; see
-[Chris Becker](/people/chris-becker.md) and
-[the census restatements](/operations/southern-california-and-catalina-crossing.md).
+Across December 2001–June 2002 Glen repeatedly answered the "how many Paradoxes are there?" question, consistently reporting **four under sail** — Matt Layden's, [another builder's](/boats/elliott-paradox.md), [a third builder's](/boats/whisper.md), and his own [Zoë](/boats/zoe.md) — with a geographic breakdown (two in Florida, one in Tennessee, one believed to be in Wisconsin) and none for sale; see [the census restatements](/operations/southern-california-and-catalina-crossing.md).
 
-**Cabin interior dimensions.** "Zoë"'s cabin measures **67 cm (26.8 in)**
-from the top of the bench seat to the underside of the closed hatch, and
-**91 cm (36.4 in)** from the cabin sole to the same point — see
-[crew size and cabin fit — Glen Maxwell's measured cabin
-dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
-The stock cabin's clear sleeping-space dimensions are 930 mm by 1900 mm;
-Glen's own practice for two aboard is pitching a shore tent as a base camp
-with his wife rather than trying to cohabit the cabin continuously; see
-[crew size and cabin fit — sleeping two aboard a Paradox-family
-cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
-His own yuloh is built from **clear fir**, though a good piece of plain pine
-would work equally well; see [yuloh and stowed-rig retention — wood for the
-yuloh](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh). See
-also [deck and cabin beam lamination — the Build Manual's "Deck Beam
-Template" and "Laminating Jigs"
-installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
+**Cabin interior dimensions.** "Zoë"'s cabin measures **67 cm (26.8 in)** from the top of the bench seat to the underside of the closed hatch, and **91 cm (36.4 in)** from the cabin sole to the same point — see [crew size and cabin fit — Glen Maxwell's measured cabin dimensions](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions). The stock cabin's clear sleeping-space dimensions are 930 mm by 1900 mm; Glen's own practice for two aboard is pitching a shore tent as a base camp with his wife rather than trying to cohabit the cabin continuously; see [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin). His own yuloh is built from **clear fir**, though a good piece of plain pine would work equally well; see [yuloh and stowed-rig retention — wood for the yuloh](/design/yuloh-and-stowed-rig-retention.md#wood-for-the-yuloh). See also [deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and "Laminating Jigs" installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment).
 
-Ground-plate installation details, vent-trunk construction, and water-tank
-lining for "Zoë" are documented in the group's files section, alongside
-photographs of the new, taller sail plan — the earlier photos in the group's
-photo section show the original sail plan with Glen's ensign flying from the
-leech, while the newer photos show the Dabbler-cut Mark II sail (see [the
-Dabbler re-cut: Mark II sail, a decisive
-improvement](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)),
-alongside a superimposed drawing comparing the old and new sail plans and a
-copy of Matt Layden's own notes on the new sail's design. The fullest single
-explanation in the archive of how to measure and cut a home-built lugsail
-correctly is Glen's; see [rig and sail — building a lugsail at home:
-measuring yard deflection before
-cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting).
+Ground-plate installation details, vent-trunk construction, and water-tank lining for "Zoë" are documented in the group's files section, alongside photographs of the new, taller sail plan — the earlier photos in the group's photo section show the original sail plan with Glen's ensign flying from the leech, while the newer photos show the Dabbler-cut Mark II sail (see [the Dabbler re-cut: Mark II sail, a decisive improvement](/design/rig.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)), alongside a superimposed drawing comparing the old and new sail plans and a copy of Matt Layden's own notes on the new sail's design. The fullest single explanation in the archive of how to measure and cut a home-built lugsail correctly is Glen's; see [rig and sail — building a lugsail at home: measuring yard deflection before cutting](/design/rig.md#building-a-lugsail-at-home-measuring-yard-deflection-before-cutting).
 
 ## The choice to leave "Zoë" without foam flotation
 
-"Zoë" carries no foam flotation at all — a deliberate choice, restated and
-explained in full more than three years after launch. Across 45 years of
-sailing — including an Atlantic crossing with
-[Chris Morejohn](/people/chris-morejohn.md) aboard Morejohn's own
-"[Hogfish Maximus](/people/chris-morejohn.md#contributions-and-stories)" —
-Glen never owned an unsinkable boat, and weighs flotation against a
-competing priority: being able to inspect behind it for dry rot or
-accumulated moisture. The plans' specified foam, concentrated in the deck
-head above the tiller-port opening, is suspected of doing more duty as
-**insulation** than as reserve buoyancy, and costs precious interior volume
-in so small a boat. The door-skin **[removable foam
-panel](/construction/removable-foam-panels.md)** technique — mounting foam
-on a paintable, unscrewable panel rather than gluing it to the hull —
-resolves the inspection problem in principle, but on "Zoë" herself the foam
-is left out altogether, with interior fittings mounted directly to blocks
-glued to the hull sides and deck head instead. [Don Elliott](/people/don-elliott.md)
-considers the choice unsafe; the settled verdict, after three years' sailing
-without it, is that the trade-off is worth making on this boat. See
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md)
-for the fuller foam-vs-no-foam debate and David Beard's contrasting
-experience with glued-in foam on "[Whisper](/boats/whisper.md)."
+"Zoë" carries no foam flotation at all — a deliberate choice, restated and explained in full more than three years after launch. Across 45 years of sailing — including an Atlantic crossing aboard "[Hogfish Maximus](/people/chris-morejohn.md#contributions-and-stories)" — Glen never owned an unsinkable boat, and weighs flotation against a competing priority: being able to inspect behind it for dry rot or accumulated moisture. The plans' specified foam, concentrated in the deck head above the tiller-port opening, is suspected of doing more duty as **insulation** than as reserve buoyancy, and costs precious interior volume in so small a boat. The door-skin **[removable foam panel](/construction/removable-foam-panels.md)** technique — mounting foam on a paintable, unscrewable panel rather than gluing it to the hull — resolves the inspection problem in principle, but on "Zoë" herself the foam is left out altogether, with interior fittings mounted directly to blocks glued to the hull sides and deck head instead. The choice was considered unsafe elsewhere on the list; the settled verdict, after three years' sailing without it, is that the trade-off is worth making on this boat. See [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md) for the fuller foam-vs-no-foam debate and a contrasting experience with glued-in foam on "[Whisper](/boats/whisper.md)."
 
 ## A 2006 personal website, and Zoe bunk cushions
 
-In July 2006 Glen put up his own personal website, posting photographs of
-"Zoë" there for the first time outside the group's own photo sections and
-promising construction shots and image captions to follow.[244] The site
-drew praise from Bill Serjeant — who found several photos new to him even
-after years of following Glen's build, and singled out Zoë's bunk-cushion
-setup as looking "very comfortable" — and from a new correspondent, Dale
-Bowers, who admired the write-up of Glen's own shakedown cruise.[245][246]
-Bill, in turn, offered to link the new site from his own
-`paradox-uk.co.uk`.[245] Glen thanked both in reply and said he would add a
-reciprocal link once his own site's link page was ready.[247] A third
-correspondent added the same praise several weeks later on rediscovering the
-thread.[248]
+In July 2006 Glen put up his own personal website, posting photographs of "Zoë" there for the first time outside the group's own photo sections and promising construction shots and image captions to follow.[244] The site drew praise — several photos were new even to a longtime follower of the build, who singled out Zoë's bunk-cushion setup as looking "very comfortable" — and a new correspondent admired the write-up of the shakedown cruise.[245][246] An offer followed to link the new site from a UK Paradox site.[245] Glen thanked both in reply and said he would add a reciprocal link once his own site's link page was ready.[247] A third correspondent added the same praise several weeks later on rediscovering the thread.[248]
 
 ## Community role and firsthand Matt Layden knowledge
 
-Beyond technique, Glen anchored the young community: proposing the archive's
-first [group cruises](/operations/group-cruise-reports.md) (an Apalachicola Bay
-meetup, a solo scouting trip, and a long-planned Whisper-and-Zoë sailing
-comparison with [David Beard](/people/david-beard.md)); welcoming newcomers
-including [Kjell Karlsson](/people/kjell-karlsson.md)'s
-[BRIS-method variant](/boats/bris-paradox.md),
-[Andrew Graham](/people/andrew-graham.md)'s
-[Aussie Paradox](/boats/aussie-paradox.md), and
-[Ken Riggins](/construction/build-effort.md#discovering-the-design-through-the-bolducs-site);
-and walking David Beard through refitting and photographing "Whisper" (see
-[Whisper](/boats/whisper.md); the verdict on the finished refit: "can't believe
-it's the same boat"). Encouraging trip reports drew builders like
-[Paul V.](/people/paul-v.md)
-back to their workshops. A secondhand but consequential claim holds that
-[Matt Layden lived aboard his own Paradox for two to three years, cruising
-Nova Scotia to the lower Bahamas](/matt-layden/biography.md) — offered as the
-reason every compartment aboard has a planned purpose. Firsthand encounters
-with Matt are recorded in full on the
-[Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).
-Glen's home base is Live Oak, Florida, near the I-10/I-75 junction — a more
-precise fix than his earlier "30 miles west of Jacksonville" self-description
-— given in 2006 to a prospective visitor asking whether anyone near Florida
-could show him a Paradox in person, with an open invitation to come see
-"Zoë."[251] That prospective visitor, a Jacksonville-based below-threshold
-correspondent, took up the invitation, judging Live Oak's proximity to
-Jacksonville the most convenient of the offers he received, and arranged to
-follow up off-list to set a time.[253]
-"Zoë" and her 2001 shakedown cruise reached print twice in 2003 — a
-*Messing About In Boats* feature by Glen himself, and a *Small Craft
-Advisor* Cedar Key report by another author — see
-[Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles)
-for both.
+Beyond technique, Glen anchored the young community: proposing the archive's first [group cruises](/operations/group-cruise-reports.md) (an Apalachicola Bay meetup, a solo scouting trip, and a long-planned Whisper-and-Zoë sailing comparison); welcoming newcomers including a [BRIS-method variant](/boats/bris-paradox.md), an [Aussie Paradox](/boats/aussie-paradox.md), and a builder who [discovered the design through the Bolducs' site](/construction/build-effort.md#discovering-the-design-through-the-bolducs-site); and walking a fellow builder through refitting and photographing "Whisper" (see [Whisper](/boats/whisper.md); the verdict on the finished refit: "can't believe it's the same boat"). Encouraging trip reports drew builders back to their workshops. A secondhand but consequential claim holds that [Matt Layden lived aboard his own Paradox for two to three years, cruising Nova Scotia to the lower Bahamas](/matt-layden/biography.md) — offered as the reason every compartment aboard has a planned purpose. Firsthand encounters with Matt are recorded in full on the [Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md). Glen's home base is Live Oak, Florida, near the I-10/I-75 junction — a more precise fix than his earlier "30 miles west of Jacksonville" self-description — given in 2006 to a prospective visitor asking whether anyone near Florida could show him a Paradox in person, with an open invitation to come see "Zoë."[251] That prospective visitor took up the invitation, judging Live Oak's proximity to Jacksonville the most convenient of the offers received, and arranged to follow up off-list to set a time.[253]
+
+"Zoë" and her 2001 shakedown cruise reached print twice in 2003 — a *Messing About In Boats* feature written firsthand, and a *Small Craft Advisor* Cedar Key report by another author — see [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles) for both.
 
 # Citations
 

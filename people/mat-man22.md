@@ -8,100 +8,27 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Mat ("mat_man22")
 
-**Mat** was a `paradoxbuilders` list member (e-mail handle `mat_man22`,
-signing simply "Mat") whose contributions centered on materials science and
-scaling questions for the [Paradox](/chine-runners/how-they-work.md)
-and its enlarged variants. He is **not** designer
-[Matt Layden](/matt-layden/biography.md): nothing in the archive ties the
-`mat_man22` account to the designer, and the two are treated as distinct
-unless proven otherwise. (Compare the separate, similarly-unconfirmed
-"Mattsplatt" case noted in the [biography](/matt-layden/biography.md).)
+**Mat** was a `paradoxbuilders` list member (e-mail handle `mat_man22`, signing simply "Mat") whose contributions centered on materials science and scaling questions for the [Paradox](/chine-runners/how-they-work.md) and its enlarged variants. He is **not** designer [Matt Layden](/matt-layden/biography.md): nothing in the archive ties the `mat_man22` account to the designer, and the two are treated as distinct unless proven otherwise. (Compare the separate, similarly-unconfirmed "Mattsplatt" case noted in the [biography](/matt-layden/biography.md).)
 
 ## Contributions
 
-**Metal-clad chine-runner shoe research.** Mat's most substantial contribution
-was a materials study of armoring or ballasting the
-[chine runners](/chine-runners/construction.md) with metal
-instead of plain plywood — evaluating lead, ferrocement, steel, and
-copper-nickel plate, with comparative cost, strength, and fastening figures.
-He proposed 90/10 copper-nickel (per Nigel Warren's *Metal Corrosion in Boats*)
-as the "ideal" shoe material for combining antifouling with strength, but
-noted its cost ($12.50/lb vs. $0.35/lb Cor-Ten steel) and lower yield strength
-(16 ksi annealed vs. 25 ksi mild steel). None of these metal-shoe ideas was
-ever built or tested. The full study lives on the
-[stretched Paradox](/design/variants/stretched-paradox.md) page, prompted by
-but distinct from [Pete Hodges](/people/pete-hodges.md)'s steel-shoe idea for
-an enlarged hull.
+**Metal-clad chine-runner shoe research.** Mat's most substantial contribution was a materials study of armoring or ballasting the [chine runners](/chine-runners/construction.md) with metal instead of plain plywood — evaluating lead, ferrocement, steel, and copper-nickel plate, with comparative cost, strength, and fastening figures. He proposed 90/10 copper-nickel (per Nigel Warren's *Metal Corrosion in Boats*) as the "ideal" shoe material for combining antifouling with strength, but noted its cost ($12.50/lb vs. $0.35/lb Cor-Ten steel) and lower yield strength (16 ksi annealed vs. 25 ksi mild steel). None of these metal-shoe ideas was ever built or tested. The full study lives on the [stretched Paradox](/design/variants/stretched-paradox.md) page, prompted by but distinct from a steel-shoe idea for an enlarged hull.
 
-**Chine-runner geometry.** He explained that Paradox's chine runners are
-curved to follow the hull because of their length, and reasoned a straighter
-runner or better heel angle would allow a smaller, lower-drag runner — calling
-Paradox "by far the strongest 14 ft sharpie" he had seen. See
-[chine runners and windward performance](/chine-runners/windward-performance.md).
+**Chine-runner geometry.** He explained that Paradox's chine runners are curved to follow the hull because of their length, and reasoned a straighter runner or better heel angle would allow a smaller, lower-drag runner — calling Paradox "by far the strongest 14 ft sharpie" he had seen. See [chine runners and windward performance](/chine-runners/windward-performance.md).
 
-**Scaling guidance.** For enlarging Paradox, he gave the practical rule that a
-hull scales ±10% in length without complication, and beyond that cited Lars
-Larsson's *Principles of Yacht Design* (length ×1.5, beam/freeboard ×1.33) —
-warning against excess beam for a chine-runner design, since the runners depend
-on the boat reaching the correct heel angle and stability rises with the cube
-of the beam. His general seaworthiness view favored external over internal
-ballast, and a dory over a ballasted sharpie, citing Jay Benford's 26 ft
-bilge-keeled dory and Benford's 14 ft "HAPPY" cruiser. See
-[stretched Paradox](/design/variants/stretched-paradox.md).
+**Scaling guidance.** For enlarging Paradox, he gave the practical rule that a hull scales ±10% in length without complication, and beyond that cited Lars Larsson's *Principles of Yacht Design* (length ×1.5, beam/freeboard ×1.33) — warning against excess beam for a chine-runner design, since the runners depend on the boat reaching the correct heel angle and stability rises with the cube of the beam. His general seaworthiness view favored external over internal ballast, and a dory over a ballasted sharpie, citing Jay Benford's 26 ft bilge-keeled dory and Benford's 14 ft "HAPPY" cruiser. See [stretched Paradox](/design/variants/stretched-paradox.md).
 
-**Bottom/side thickness and resin choice for a new builder.** When
-[Dave Blow](/references/building-plans.md) posted early project photos, Mat
-judged 3/8 in plywood acceptable for the sides (citing Glen-L's use of the
-same scantling on their 21 ft "Fancy Free" sharpie) but held that stock
-Paradox construction calls for 1/2 in ply without glass on the bottom, or a
-heavier 9 oz. cloth layup for extra insurance, recommending epoxy over
-polyester; later, weighing Dave's strip-planking plan, offered George
-Buehler's plywood-skinned-2x-lumber method as a comparison and, for a
-trailer-sailed boat specifically, recommended skipping fiberglass altogether
-in favor of repainting every year or two. See
-[building plans — a bottom-thickness and resin debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+**Bottom/side thickness and resin choice for a new builder.** When early project photos were posted, Mat judged 3/8 in plywood acceptable for the sides (citing Glen-L's use of the same scantling on their 21 ft "Fancy Free" sharpie) but held that stock Paradox construction calls for 1/2 in ply without glass on the bottom, or a heavier 9 oz. cloth layup for extra insurance, recommending epoxy over polyester; later, weighing a strip-planking plan, offered George Buehler's plywood-skinned-2x-lumber method as a comparison and, for a trailer-sailed boat specifically, recommended skipping fiberglass altogether in favor of repainting every year or two. See [building plans — a bottom-thickness and resin debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
 
-**A dory-hulled catamaran using chine runners.** Reported that designer Jeff
-Gilbert was trying chine runners on a dory-sided hull of his "Gumboots"
-catamaran (drawn under the working name "Gumboot+Mono"), and separately noted
-several of Gilbert's designs had been built and that Gilbert ran his own
-Yahoo group, later posting direct links to Duckworks Magazine's coverage of
-the design and Gilbert's regular column. See [how chine runners work — a
-dory-hulled catamaran design using chine
-runners](/chine-runners/how-they-work.md#a-dory-hulled-catamaran-design-using-chine-runners).
+**A dory-hulled catamaran using chine runners.** Reported that a designer was trying chine runners on a dory-sided hull of a "Gumboots" catamaran (drawn under the working name "Gumboot+Mono"), and separately noted several of that designer's other designs had been built and that the designer ran a Yahoo group, later posting direct links to Duckworks Magazine's coverage of the design and the designer's regular column. See [how chine runners work — a dory-hulled catamaran design using chine runners](/chine-runners/how-they-work.md#a-dory-hulled-catamaran-design-using-chine-runners).
 
-**Pounding, and why Paradox avoids it.** Explained that Paradox's heavier
-displacement and slightly lesser rocker than Matt Layden's newer 12 ft design
-keep its forefoot submerged more of the time, reducing pounding; cited Phil
-Bolger's 15 ft "Micro" — with a great deal of rocker and a known pounding
-problem — as the cautionary case that led Bolger to retrofit a V bottom bow
-onto Micro and similar designs in recent years. Separately speculated the
-newer 12 ft design's V bow would also help with tracking if it were ever
-towed as a ship's lifeboat above hull speed. See [sailing characteristics —
-pounding: rare at anchor, occasional
-underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
+**Pounding, and why Paradox avoids it.** Explained that Paradox's heavier displacement and slightly lesser rocker than Matt Layden's newer 12 ft design keep its forefoot submerged more of the time, reducing pounding; cited Phil Bolger's 15 ft "Micro" — with a great deal of rocker and a known pounding problem — as the cautionary case that led Bolger to retrofit a V bottom bow onto Micro and similar designs in recent years. Separately speculated the newer 12 ft design's V bow would also help with tracking if it were ever towed as a ship's lifeboat above hull speed. See [sailing characteristics — pounding: rare at anchor, occasional underway](/operations/sailing-characteristics.md#pounding-rare-at-anchor-occasional-underway).
 
-**Non-skid deck coatings.** Answering a deck-coating question, noted that
-workboat operators use spray-applied industrial non-skid coatings (available
-in various colors, though not cheap) and had seen the same type of coating
-sprayed onto an old wooden Chris Craft's hull; pointed to `rec.boats.building`
-for further reading. See [non-skid deck finish — truck-bed and industrial
-coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
+**Non-skid deck coatings.** Answering a deck-coating question, noted that workboat operators use spray-applied industrial non-skid coatings (available in various colors, though not cheap) and had seen the same type of coating sprayed onto an old wooden Chris Craft's hull; pointed to `rec.boats.building` for further reading. See [non-skid deck finish — truck-bed and industrial coatings](/construction/non-skid-deck.md#truck-bed-and-industrial-coatings).
 
-**Hull comparison for a newcomer's chine-runner-on-another-hull question.**
-When a newcomer asked about substituting chine-runner "wings" for a
-leeboard on Jim Michalak's "Jewelbox Jr," Mat noted the two hulls differ
-significantly — Paradox carries a lot less rocker in the bow — and doubted
-the technique would transfer. See [how chine runners work — adapting chine
-runners to a different hull, in place of a
-leeboard](/chine-runners/how-they-work.md#adapting-chine-runners-to-a-different-hull-in-place-of-a-leeboard).
+**Hull comparison for a newcomer's chine-runner-on-another-hull question.** When a newcomer asked about substituting chine-runner "wings" for a leeboard on Jim Michalak's "Jewelbox Jr," Mat noted the two hulls differ significantly — Paradox carries a lot less rocker in the bow — and doubted the technique would transfer. See [how chine runners work — adapting chine runners to a different hull, in place of a leeboard](/chine-runners/how-they-work.md#adapting-chine-runners-to-a-different-hull-in-place-of-a-leeboard).
 
-**Resource pointers.** Mat pointed fellow builders to several references: the
-AbeBooks bookfinder service for tracking down Shane Acton's *Shrimpy* (see
-[undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md));
-and a cedar-strip-building website, `rec.boats.building`, and The WoodenBoat
-Forum for [David LeBlanc](/people/david-leblanc.md) (see
-[general boatbuilding resource links](/references/general-boatbuilding-links.md)).
+**Resource pointers.** Mat pointed fellow builders to several references: the AbeBooks bookfinder service for tracking down Shane Acton's *Shrimpy* (see [undersize side panels — book-finding aside](/construction/undersize-side-panel-ply.md)); and a cedar-strip-building website, `rec.boats.building`, and The WoodenBoat Forum (see [general boatbuilding resource links](/references/materials-sourcing-links.md#general-boatbuilding-resource-links-cedar-strip-site-newsgroup-forum)).
 
 # Citations
 

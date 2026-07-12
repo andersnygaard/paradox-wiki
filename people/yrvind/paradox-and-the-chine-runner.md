@@ -8,88 +8,29 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Sven Yrvind — Paradox and the chine runner
 
-[Sven Yrvind](/people/yrvind.md)'s connection to the [Paradox](/paradox.md) is
-not that of a list member but of **Matt Layden's personal friend, sometime
-crew, and most authoritative outside champion of the chine runner**. This page
-records that relationship and his testimony; the substance of his chine-runner
-arguments lives in the [chine runners](/chine-runners/index.md) branch and is
-cross-linked rather than repeated here.
+[Sven Yrvind](/people/yrvind.md)'s connection to the [Paradox](/paradox.md) is not that of a list member but of **Matt Layden's personal friend, sometime crew, and most authoritative outside champion of the chine runner**. This page records that relationship and his testimony; the substance of his chine-runner arguments lives in the [chine runners](/chine-runners/index.md) branch and is cross-linked rather than repeated here.
 
 ## From skeptic to firsthand tester (1997)
 
-Yrvind came to Paradox **doubting it could work**. The contact came in **1997**,
-the year he returned from studying Japanese boatbuilders: he was **mailed
-drawings of Paradox** by [Dave Bolduc](/people/bolduc/dave.md) and another
-correspondent, and was struck that at first glance "she cannot go to windward as
-it seems that she has no means of preventing leeway" — until a closer look
-revealed the chine runners, "small two-inch wide horizontal winglets sticking out
-from the chines for about a third of the boat's length. But was that enough?" He
-phoned Bolduc, who had sailed a Bahamas winter with Matt and confirmed the
-runners worked; Bolduc gave him Matt's number; Matt told him he could out-point
-Bolduc's larger centerboard boat and invited him over. Matt, it turned out,
-**already knew Yrvind's work** — he had subscribed to *Cruising World* since he
-was **thirteen**, the magazine Yrvind was then writing for, and had followed him
-for years.
+Yrvind came to Paradox **doubting it could work**. The contact came in **1997**, the year he returned from studying Japanese boatbuilders: he was **mailed drawings of Paradox** by a correspondent who had sailed a Bahamas winter with Matt, and was struck that at first glance "she cannot go to windward as it seems that she has no means of preventing leeway" — until a closer look revealed the chine runners, "small two-inch wide horizontal winglets sticking out from the chines for about a third of the boat's length. But was that enough?" A phone call confirmed the runners worked and produced Matt's number; Matt said he could out-point the correspondent's larger centerboard boat and invited Yrvind over. Matt, it turned out, **already knew Yrvind's work** — he had subscribed to *Cruising World* since he was **thirteen**, the magazine Yrvind was then writing for, and had followed him for years.
 
-In **October 1997, Yrvind sailed Paradox for a month.** He flew to **Jensen
-Beach, just outside Stuart, Florida**, and stayed at Matt's home with Matt's wife
-and child. Deliberately testing the feature, he told Matt they should sail *to
-windward*, and found Paradox "sailed as close to the wind as my boats,
-**probably much better**." He returned to sail with Matt again in **2003, 2006,
-and 2007**, roughly a month each time, and the two have continued to **exchange
-ideas weekly by phone** — Yrvind saying Matt "is always one step ahead of me."
-(For this account among the other windward evidence, see [windward
-performance](/chine-runners/windward-performance.md#sven-yrvinds-month-sailing-paradox-1997).)
+In **October 1997, Yrvind sailed Paradox for a month.** He flew to **Jensen Beach, just outside Stuart, Florida**, and stayed at Matt's home with Matt's wife and child. Deliberately testing the feature, he told Matt they should sail *to windward*, and found Paradox "sailed as close to the wind as my boats, **probably much better**." He returned to sail with Matt again in **2003, 2006, and 2007**, roughly a month each time, and the two have continued to **exchange ideas weekly by phone** — Matt "is always one step ahead of me." (For this account among the other windward evidence, see [windward performance](/chine-runners/windward-performance.md#sven-yrvinds-month-sailing-paradox-1997).)
 
 ## His theory of the runner: deflector, not hydrofoil
 
-Out of that long study Yrvind developed the archive's most distinctive mechanism
-account: chine runners work as **deflectors, not hydrofoils** — concave surfaces
-that redirect water to leeward so that, by Newton's third law, the boat is pushed
-to windward, with the **Bernoulli effect playing no significant role** (unlike an
-ordinary keel). He holds the boat's leeway resistance comes from **three sources
-together — the chine runners, the lifting-body-shaped hull, and the large
-rudder** — and that the concept is widely misunderstood precisely because it is
-subtle and has been little researched. The full argument, his seven reasons for
-adopting the feature, and how it sits against the other explanations on record
-are in [how chine runners work](/chine-runners/how-they-work.md).
+Out of that long study Yrvind developed the archive's most distinctive mechanism account: chine runners work as **deflectors, not hydrofoils** — concave surfaces that redirect water to leeward so that, by Newton's third law, the boat is pushed to windward, with the **Bernoulli effect playing no significant role** (unlike an ordinary keel). He holds the boat's leeway resistance comes from **three sources together — the chine runners, the lifting-body-shaped hull, and the large rudder** — and that the concept is widely misunderstood precisely because it is subtle and has been little researched. The full argument, his seven reasons for adopting the feature, and how it sits against the other explanations on record are in [how chine runners work](/chine-runners/how-they-work.md).
 
 ## "The greatest innovation of the century"
 
-Yrvind's endorsement is the chine runner's most-quoted: after a decade studying
-Paradox, he became "convinced that the chinerunner concept, **created by Matt in
-1982, is the greatest innovation for small cruising boats in the last century**"
-— restated elsewhere as "the most important innovation for small boats during the
-20th century." He credits the feature's obscurity to Matt's refusal to
-self-promote and to the subtlety of the principles involved. This testimony also
-supplies the bundle's clearest **dating** of the concept (conception 1982, first
-boat 1985) and dimensions for Matt's chine-runner family — see [origin and
-evolution](/chine-runners/origin-and-evolution.md).
+Yrvind's endorsement is the chine runner's most-quoted: after a decade studying Paradox, he became "convinced that the chinerunner concept, **created by Matt in 1982, is the greatest innovation for small cruising boats in the last century**" — restated elsewhere as "the most important innovation for small boats during the 20th century." The feature's obscurity is credited to Matt's refusal to self-promote and to the subtlety of the principles involved. This testimony also supplies the bundle's clearest **dating** of the concept (conception 1982, first boat 1985) and dimensions for Matt's chine-runner family — see [origin and evolution](/chine-runners/origin-and-evolution.md).
 
-The two men's mutual regard reached print in Matt's own **2007 *Small Craft
-Advisor* interview**, whose opening question relayed Yrvind's judgment that
-Matt's development of chine runners "might be one of the more spectacular marine
-design innovations in recent history," adding that Matt is "too modest and
-disinclined to publicity for most people to learn about them." Matt's reply was
-characteristically self-effacing — "Sven is kind, but I'm not sure chine runners
-will go far" — a public echo of the very reticence Yrvind blames for the
-feature's obscurity.[4]
+The mutual regard reached print in Matt's own **2007 *Small Craft Advisor* interview**, whose opening question relayed the judgment that Matt's development of chine runners "might be one of the more spectacular marine design innovations in recent history," adding that Matt is "too modest and disinclined to publicity for most people to learn about them." Matt's reply was characteristically self-effacing — "Sven is kind, but I'm not sure chine runners will go far" — a public echo of the very reticence blamed for the feature's obscurity.[4]
 
 ## Adoption — and one point of divergence
 
-Yrvind did not merely praise the runner; he **built it into his own boats**. His
-YRVIND.COM (2008) was "inspired by Matt's chinerunner series," and his YRVIND ½
-carries a **ballasted, near-vertical** variant of the feature (see
-[construction](/chine-runners/construction.md#sven-yrvinds-composite-method-yrvind-½)).
+Yrvind did not merely praise the runner; he **built it into his own boats**. His YRVIND.COM (2008) was "inspired by Matt's chinerunner series," and his YRVIND ½ carries a **ballasted, near-vertical** variant of the feature (see [construction](/chine-runners/construction.md#sven-yrvinds-composite-method-yrvind-½)).
 
-But he also marks the **one place he parts company with Matt**: for his own long
-ocean passages he now prefers a **variable lateral area** — a centerboard or
-leeboard — because it gives an extra means of control sailing downwind, at the
-cost of added complication. His considered boundary is exact and generous to the
-design: **"Coastal sailing like Matt does, chinerunners is fine."** The feature
-is optimal for precisely the shallow-water coastal cruising the Paradox exists to
-do — the same conclusion the list reached from the opposite direction in [blue-
-water suitability](/design/blue-water-suitability.md).
+But he also marks the **one place he parts company with Matt**: for his own long ocean passages he now prefers a **variable lateral area** — a centerboard or leeboard — because it gives an extra means of control sailing downwind, at the cost of added complication. His considered boundary is exact and generous to the design: **"Coastal sailing like Matt does, chinerunners is fine."** The feature is optimal for precisely the shallow-water coastal cruising the Paradox exists to do — the same conclusion the list reached from the opposite direction in [blue-water suitability](/design/blue-water-suitability.md).
 
 # Citations
 

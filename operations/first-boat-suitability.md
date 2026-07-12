@@ -8,343 +8,100 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Paradox as a first boat
 
-Whether a [Paradox](/paradox.md) is a reasonable first boat/build for someone
-with no prior boatbuilding experience has no single answer: outcomes vary
-enormously, and the record ranges from cautious to encouraging. This
-complements the existing
-[newcomer FAQ](/operations/newcomer-faq-comfort-and-safety.md), which covers
-cabin comfort/safety questions rather than buildability.
+Whether a [Paradox](/paradox.md) is a reasonable first boat/build for someone with no prior boatbuilding experience has no single answer: outcomes vary enormously, and the record ranges from cautious to encouraging.
 
 ## Hone skills on a simpler boat first
 
-The cautious position: don't start on a Paradox without "a fair amount of
-woodworking" experience already in hand; a newcomer is better off honing
-skills on a sailing dinghy or row boat first. The reasoning is that although
-the Paradox **hull** is "not necessarily complex," the **complete boat is
-very detailed**, and finishing it demands a substantial amount of the
-builder's time.
+The cautious position: don't start on a Paradox without "a fair amount of woodworking" experience already in hand; a newcomer is better off honing skills on a sailing dinghy or row boat first. The reasoning is that although the Paradox **hull** is "not necessarily complex," the **complete boat is very detailed**, and finishing it demands a substantial amount of the builder's time.
 
-A related comparative sailing data point bears on the
-[chine-runner](/chine-runners/windward-performance.md) debate over
-the [stretched Paradox](/design/variants/stretched-paradox.md): over **two and
-a half months** sailing Paradox and
-[Little Cruiser](/matt-layden/little-cruiser.md) together, [the Bolducs](/people/bolduc/dave.md)
-and Matt Layden **never noticed an appreciable downwind speed difference**
-between the two boats. But in **shallow water (under 18 in)**, Paradox had a
-**definite windward advantage**, because Little Cruiser's centerboard could
-not be lowered deep enough there to be effective — indirect evidence for the
-practical value of Paradox's centerboard-free chine-runner arrangement in
-the very shallow water the design targets.
+A related comparative sailing data point bears on the [chine-runner](/chine-runners/windward-performance.md) debate over the [stretched Paradox](/design/variants/stretched-paradox.md): over **two and a half months** sailing Paradox and [Little Cruiser](/matt-layden/little-cruiser.md) together, observers **never noticed an appreciable downwind speed difference** between the two boats. But in **shallow water (under 18 in)**, Paradox had a **definite windward advantage**, because Little Cruiser's centerboard could not be lowered deep enough there to be effective — indirect evidence for the practical value of Paradox's centerboard-free chine-runner arrangement in the very shallow water the design targets.
 
 ## A first boat can work out fine
 
-A Paradox can genuinely work as a **first boat** with no prior building
-experience — "sure you can" build one from scratch — provided a newcomer
-leans on
-[Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md)
-and the builder community, who are glad to answer questions. One builder for
-whom Paradox was literally his first boat is a case in point (see
-[secondhand Paradox market](/operations/secondhand-market.md) for how he
-first came to the design).
+A Paradox can genuinely work as a **first boat** with no prior building experience — "sure you can" build one from scratch — provided a newcomer leans on [Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md) and the builder community, who are glad to answer questions. One builder for whom Paradox was literally his first boat is a case in point (see [secondhand Paradox market](/operations/secondhand-market.md) for how he first came to the design).
 
-Studying an already-finished example is itself a powerful resource for a
-first-time builder: finding a Paradox already built and available to examine
-firsthand — alongside plans, articles, and the builder community — can answer
-many construction questions that plans alone leave open. Even so, the build
-can remain genuinely complex and difficult "at times" for a newcomer, even
-after building for a while — which is normal rather than a sign of doing it
-wrong. A builder is often more capable than they think, and a slow, iterative
-building style is a normal way to work through a project like this.
+Studying an already-finished example is itself a powerful resource for a first-time builder: finding a Paradox already built and available to examine firsthand — alongside plans, articles, and the builder community — can answer many construction questions that plans alone leave open. Even so, the build can remain genuinely complex and difficult "at times" for a newcomer, even after building for a while — which is normal rather than a sign of doing it wrong. A builder is often more capable than they think, and a slow, iterative building style is a normal way to work through a project like this.
 
 ## Break the project into manageable steps
 
-The recurring practical thread across every position, however cautious or
-encouraging, is that the real skill is not raw boatbuilding experience but
-**breaking the complicated overall project down into a series of smaller,
-manageable jobs**. Confidence and judgment for a project of this size are
-best built up on simpler boats first — a builder can expect to make
-mistakes on a first (and likely second and third) small boat before feeling
-ready to tackle a Paradox — but this does not preclude tackling Paradox
-directly if the project is broken down and taken step by step.
+The recurring practical thread across every position, however cautious or encouraging, is that the real skill is not raw boatbuilding experience but **breaking the complicated overall project down into a series of smaller, manageable jobs**. Confidence and judgment for a project of this size are best built up on simpler boats first — a builder can expect to make mistakes on a first (and likely second and third) small boat before feeling ready to tackle a Paradox — but this does not preclude tackling Paradox directly if the project is broken down and taken step by step.
 
 ## Advice for a newcomer at the very start: build logs, small tasks, and a dinghy first
 
-[David C. Smith](/people/david-c-smith.md), a professional boatbuilder, offers the fullest
-encouragement on record for a first-time builder starting entirely from
-scratch with no prior sailing or boatbuilding experience:
+The fullest encouragement on record for a first-time builder starting entirely from scratch with no prior sailing or boatbuilding experience comes from a professional boatbuilder:
 
-- **Feeling overwhelmed is a normal, even healthy sign** that a newcomer
-  respects what the project demands, not a reason to hesitate.
-- **Study the plans continually** through the build and let the design guide
-  each decision, rather than relying on memory or guesswork.
-- **Break construction into as many small tasks as possible.** This avoids
-  stress and lets a builder celebrate each small completion on the way to a
-  launch party, rather than being overwhelmed by the project as a whole.
-- **Keep a build log**, useful for recalling long-forgotten reasoning months
-  later (his own example: "oh yeah, I added 9mm to that edge to allow me to
-  use a caprail…") and for buoying spirits with photographic proof of
-  progress when a build feels stalled.
-- **Search the list archives before posting a question**, since as many
-  differing opinions exist as there are ways to do something, and it falls to
-  the builder to sort useful answers from noise.
-- **Learn to sail on a simple dinghy before or during the build**, rather
-  than treating the Paradox itself as a first sailing lesson. A secondhand
-  dinghy can be resold once no longer needed, funding small extras like solar
-  panels, cushions, or a galley stove. Recommended entry-level plywood dinghy
-  designs, in order of preference: Phil Bolger's **"Elegant Punt"** (a
-  practical rather than elegant quick-and-dirty build), the **"Cape Cod
-  Frosty"** (suited to a small sailor), and above all the **"El Toro"** —
-  widely respected, easy to build, and "worthy of lasting ownership" (plans
-  and information via the El Toro International Yacht Racing Association,
-  `eltoroyra.org`). Sailing basics can be learned in an afternoon on a boat
-  like this, with a lifetime left to refine them, and a dinghy lets a builder
-  sail on a nice day instead of still sanding on one.
+- **Feeling overwhelmed is a normal, even healthy sign** that a newcomer respects what the project demands, not a reason to hesitate.
+- **Study the plans continually** through the build and let the design guide each decision, rather than relying on memory or guesswork.
+- **Break construction into as many small tasks as possible.** This avoids stress and lets a builder celebrate each small completion on the way to a launch party, rather than being overwhelmed by the project as a whole.
+- **Keep a build log**, useful for recalling long-forgotten reasoning months later (a typical example: "oh yeah, I added 9mm to that edge to allow me to use a caprail…") and for buoying spirits with photographic proof of progress when a build feels stalled.
+- **Search the list archives before posting a question**, since as many differing opinions exist as there are ways to do something, and it falls to the builder to sort useful answers from noise.
+- **Learn to sail on a simple dinghy before or during the build**, rather than treating the Paradox itself as a first sailing lesson. A secondhand dinghy can be resold once no longer needed, funding small extras like solar panels, cushions, or a galley stove. Recommended entry-level plywood dinghy designs, in order of preference: Phil Bolger's **"Elegant Punt"** (a practical rather than elegant quick-and-dirty build), the **"Cape Cod Frosty"** (suited to a small sailor), and above all the **"El Toro"** — widely respected, easy to build, and "worthy of lasting ownership" (plans and information via the El Toro International Yacht Racing Association, `eltoroyra.org`). Sailing basics can be learned in an afternoon on a boat like this, with a lifetime left to refine them, and a dinghy lets a builder sail on a nice day instead of still sanding on one.
 
-A carpenter and cabinetmaker with six years of woodworking experience but no
-prior sailing or boating background beyond a small fishing boat, receiving
-his Paradox plans, illustrates the newcomer profile this whole page
-addresses in the flesh — and confirms the "El Toro" recommendation above is
-indeed a pram-style dinghy, matching the boat used by the sailing school he
-signed up with.
+A carpenter and cabinetmaker with six years of woodworking experience but no prior sailing or boating background beyond a small fishing boat, receiving his Paradox plans, illustrates the newcomer profile this whole page addresses in the flesh — and confirms the "El Toro" recommendation above is indeed a pram-style dinghy, matching the boat used by the sailing school he signed up with.
 
 ## Sailing a Paradox feels more like sailing a yacht than a dinghy
 
-A firsthand caution complements the dinghy-first advice above: sailing a
-Paradox is **much more like sailing a yacht than a dinghy**. The owner of
-"[Little Jim](/boats/little-jim.md)" had little sailing experience when he
-first got his own Paradox on the water, yet found her "amazingly easy to
-sail" — "I may not get the best out of it, but what I get is jolly good!" He
-still endorsed the underlying principle, though: **"if you can sail a
-dinghy you can sail anything."** This stands as a firsthand data
-point that a complete sailing novice can succeed directly on a Paradox,
-alongside (not against) the general recommendation to learn on a simple
-dinghy first.
+A firsthand caution complements the dinghy-first advice above: sailing a Paradox is **much more like sailing a yacht than a dinghy**. One owner of "[Little Jim](/boats/little-jim.md)" had little sailing experience when first getting a Paradox on the water, yet found her "amazingly easy to sail" — "I may not get the best out of it, but what I get is jolly good!" The underlying principle still held, though: **"if you can sail a dinghy you can sail anything."** This stands as a firsthand data point that a complete sailing novice can succeed directly on a Paradox, alongside (not against) the general recommendation to learn on a simple dinghy first.
 
 ## The build sequence itself lets a novice check work before committing
 
-Distinct from general "start simple" advice, Paradox's own design has a
-structural feature that particularly suits a careful novice: the **build
-sequence lets the builder check work before committing to it**. The side
-panels are the clearest example — they are **temporarily assembled to the
-bulkheads while all bevels are checked, then disassembled for final bonded
-assembly**; the bottom and then the deck get the same treatment. If
-something does not fit, the builder finds out **in time to correct it**,
-unlike a planked boat, where parts must typically be fixed in place before
-you can tell whether they fit. This directly complements the
-dry-fit-and-bevel methodology already documented in
-[hull assembly sequence](/construction/hull-assembly-sequence.md).
+Distinct from general "start simple" advice, Paradox's own design has a structural feature that particularly suits a careful novice: the **build sequence lets the builder check work before committing to it**. The side panels are the clearest example — they are **temporarily assembled to the bulkheads while all bevels are checked, then disassembled for final bonded assembly**; the bottom and then the deck get the same treatment. If something does not fit, the builder finds out **in time to correct it**, unlike a planked boat, where parts must typically be fixed in place before you can tell whether they fit. This directly complements the dry-fit-and-bevel methodology already documented in [hull assembly sequence](/construction/hull-assembly-sequence.md).
 
 ## Build-time figures and difficulty rating
 
-Comparative build-time figures partially reconcile the existing discrepancy
-in [build effort and workspace](/construction/build-effort.md):
+Comparative build-time figures partially reconcile the existing discrepancy in [build effort and workspace](/construction/build-effort.md):
 
-- **Matt Layden** himself took around **3½ months of very full-time work** to
-  complete his original Paradox — "a fast and experienced builder."
-- A typical part-time builder should expect **at least three to four times
-  longer** than Matt's figure.
-- **Don Elliott** took about **a year of part-time labor** to finish his own
-  Paradox (see [Don Elliott's Paradox](/boats/elliott-paradox.md)).
-- [Glen C. Maxwell](/people/glen-maxwell.md)'s "Zoë" took roughly **500 hours
-  over about two years** (see [Zoë](/boats/zoe.md) and
-  [build effort and workspace](/construction/build-effort.md)).
-- [Alastair](/people/alastair.md)'s own estimate for his single-handed
-  "[Little Jim](/boats/little-jim.md)" build is about **18 months**,
-  consistent with the roughly 20 months the archive records between his
-  starting in August 2001 and launching at Easter 2003.
-- [Derek Clark](/people/derek-clark.md)'s "[Enuf](/boats/enuf.md)" is a
-  slower-paced, non-continuous build: starting in September 2004 and, some
-  16 months on, with only the cabin left to finish, on a build log
-  interrupted more than once by breaks of several months.
+- **Matt Layden** himself took around **3½ months of very full-time work** to complete his original Paradox — "a fast and experienced builder."
+- A typical part-time builder should expect **at least three to four times longer** than Matt's figure.
+- The [Elliott Paradox](/boats/elliott-paradox.md) took about **a year of part-time labor** to finish.
+- "[Zoë](/boats/zoe.md)" took roughly **500 hours over about two years** (see also [build effort and workspace](/construction/build-effort.md)).
+- The single-handed "[Little Jim](/boats/little-jim.md)" build is estimated at about **18 months**, consistent with the roughly 20 months the archive records between starting in August 2001 and launching at Easter 2003.
+- "[Enuf](/boats/enuf.md)" is a slower-paced, non-continuous build: starting in September 2004 and, some 16 months on, with only the cabin left to finish, on a build log interrupted more than once by breaks of several months.
 
-A materials data point rounding out these build-time figures: a stock
-Paradox needs about **10 sheets of plywood** (ranging from 6 mm up to 18 mm)
-and **40-50 litres of epoxy**, plus a substantial amount of timber besides.
+A materials data point rounding out these build-time figures: a stock Paradox needs about **10 sheets of plywood** (ranging from 6 mm up to 18 mm) and **40-50 litres of epoxy**, plus a substantial amount of timber besides.
 
-The overall recommendation is to build something **simple first** to gain
-confidence, basic skills, and the right tools before tackling a larger
-project — but on balance Paradox rates as a **"medium difficulty"** project,
-with [Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md)
-praised both for their tool-making tips and their guidance on which tools a
-builder will need. The goal in setting these expectations is not to
-discourage a prospective builder, only to make sure they know what they are
-getting into.
+The overall recommendation is to build something **simple first** to gain confidence, basic skills, and the right tools before tackling a larger project — but on balance Paradox rates as a **"medium difficulty"** project, with [Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md) praised both for their tool-making tips and their guidance on which tools a builder will need. The goal in setting these expectations is not to discourage a prospective builder, only to make sure they know what they are getting into.
 
 ## Open newcomer questions: cabin comfort, capacity, and perceived safety
 
-A distinct, earlier cluster of first-impression questions about the boat —
-asked by someone who knew the [Paradox](/paradox.md) only from reading the
-`paradoxbuilders` discussion archive, not from having sailed or built one —
-remains unanswered in the archive. These read as the kind of due-diligence
-an outside observer does before considering the boat, distinct from the
-builder community's usual construction/technique questions. They are
-preserved here as an open newcomer-FAQ snapshot:
+A distinct, earlier cluster of first-impression questions about the boat — asked from knowing the [Paradox](/paradox.md) only through the `paradoxbuilders` discussion archive, not from having sailed or built one — remains unanswered in the archive. These read as the kind of due-diligence an outside observer does before considering the boat, distinct from the builder community's usual construction/technique questions. They are preserved here as an open newcomer-FAQ snapshot:
 
-1. **Interior size and comfort.** How big or small is the cabin really, once
-   sitting inside with the hatch shut — being "stuck inside a small room all
-   day with the roof shut" demands real comfort, not just survivable space.
-   This bears on the [interior bins and hinged floor](/design/interior-bins-and-floor.md)
-   layout and the enclosed, sailed-from-inside design described in the
-   [trunk](/paradox.md).
-2. **Two-person capacity.** The cabin "seems cramped for one person" from
-   descriptions alone — can it accommodate two, whether cruising or just day
-   sailing? (Compare [Little Cruiser](/matt-layden/little-cruiser.md), a
-   similar Layden design the Bolducs cruise two-up, and the
-   existing note that two aboard push such a boat somewhat over its nominal
-   single-hander [design displacement](/design/weight-and-ballast.md).)
-3. **Forward crawl-space safety.** How much room is there moving forward to
-   the front stowage, and is it safe to crawl through the small hatches to
-   reach it, given you would have to reverse out backwards — potentially
-   difficult "in a hurry."
-4. **General seaworthiness.** Is the boat seaworthy and safe overall — a
-   direct, general version of the question the archive otherwise answers
-   piecemeal (see the [trunk](/paradox.md)'s "Capability at a glance" section
-   on the Texas 200 completion and the Exuma Sound 25-kt sail).
-5. **On-deck / reefing access.** What happens if you need to go on deck or
-   reef the sail — relevant to the established claim that **all sail
-   handling including reefing is worked from the helm station with no need
-   to go forward** (see [rig and sail](/design/rig.md)); this reassurance had
-   evidently not reached every newcomer.
-6. **On-deck safety given the beam.** Is it safe to simply sit on deck with
-   friends and a fishing rod, given the boat is **only 4 ft wide**? This is
-   the only place in the archive so far where the Paradox's beam is stated
-   as a round number (4 ft) in the context of on-deck social/recreational use
-   rather than construction or ballast.
+1. **Interior size and comfort.** How big or small is the cabin really, once sitting inside with the hatch shut — being "stuck inside a small room all day with the roof shut" demands real comfort, not just survivable space. This bears on the [interior bins and hinged floor](/design/interior-bins-and-floor.md) layout and the enclosed, sailed-from-inside design described in the [trunk](/paradox.md).
+2. **Two-person capacity.** The cabin "seems cramped for one person" from descriptions alone — can it accommodate two, whether cruising or just day sailing? (Compare [Little Cruiser](/matt-layden/little-cruiser.md), a similar Layden design cruised two-up, and the existing note that two aboard push such a boat somewhat over its nominal single-hander [design displacement](/design/weight-and-ballast.md).)
+3. **Forward crawl-space safety.** How much room is there moving forward to the front stowage, and is it safe to crawl through the small hatches to reach it, given you would have to reverse out backwards — potentially difficult "in a hurry."
+4. **General seaworthiness.** Is the boat seaworthy and safe overall — a direct, general version of the question the archive otherwise answers piecemeal (see the [trunk](/paradox.md)'s "Capability at a glance" section on the Texas 200 completion and the Exuma Sound 25-kt sail).
+5. **On-deck / reefing access.** What happens if you need to go on deck or reef the sail — relevant to the established claim that **all sail handling including reefing is worked from the helm station with no need to go forward** (see [rig and sail](/design/rig.md)); this reassurance had evidently not reached every newcomer.
+6. **On-deck safety given the beam.** Is it safe to simply sit on deck with friends and a fishing rod, given the boat is **only 4 ft wide**? This is the only place in the archive so far where the Paradox's beam is stated as a round number (4 ft) in the context of on-deck social/recreational use rather than construction or ballast.
 
-See also [crew size and cabin fit ("wearing the boat")](/operations/crew-size-and-fit.md)
-for a related but distinct thread: rather than a general newcomer's question
-about comfort, that concept tracks specific builders' cardboard-mockup tests
-against their own height and weight, including one builder's conclusion that
-the stock cabin was too small for him.
+See also [crew size and cabin fit ("wearing the boat")](/operations/crew-size-and-fit.md) for a related but distinct thread: rather than a general newcomer's question about comfort, that concept tracks specific builders' cardboard-mockup tests against their own height and weight, including one builder's conclusion that the stock cabin was too small for him.
 
 ## The two-person question, answered directly
 
-A later newcomer asked the two-person capacity question above in concrete
-terms, after looking over [Alastair](/people/alastair.md)'s own building-photo
-website: the cabin looks fine for one person, but he doubted two could fit in
-so small a space. Alastair's direct answer: Paradox is **not really a boat
-for two** in the sense of sailing together — under way there is room for only
-one person on the helm seat, so a passenger must stay below, workable but
-less pleasant than being out in the open on a good day. **Sleeping two** would
-be "a cosy affair, but not impossible"; extra width can be gained by
-modifying the storage arrangements, as [Kjell Karlsson](/people/kjell-karlsson.md)
-did on his own composite-built Paradox by dropping the lower bin shelves — see
-[the "BRIS Paradox" — widening the berth by omitting the lower
-shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves)
-for the technique in full, illustrated by photographs of two people lying
-down inside. [Jack Gardiner](/people/jack-gardiner.md), building toward a
-larger steel variant of his own (see [stretched Paradox — a steel enlargement
-idea, and the case against
-it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it)),
-corroborated the stock boat's two-up experience directly: he and a companion
-sail her "cramped, but doable," and recommended a newcomer simply build to
-"the pinacle of matts building sailing" — the stock design as Matt Layden
-himself judged safest and best suited — rather than second-guess it before
-ever having sailed one.
+A later newcomer asked the two-person capacity question above in concrete terms, after looking over a builder's own building-photo website: the cabin looks fine for one person, but doubted two could fit in so small a space. The direct answer: Paradox is **not really a boat for two** in the sense of sailing together — under way there is room for only one person on the helm seat, so a passenger must stay below, workable but less pleasant than being out in the open on a good day. **Sleeping two** would be "a cosy affair, but not impossible"; extra width can be gained by modifying the storage arrangements, as was done on one composite-built Paradox by dropping the lower bin shelves — see [the "BRIS Paradox" — widening the berth by omitting the lower shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves) for the technique in full, illustrated by photographs of two people lying down inside. Another builder, working toward a larger steel variant (see [stretched Paradox — a steel enlargement idea, and the case against it](/design/variants/stretched-paradox.md#a-steel-enlargement-idea-and-the-case-against-it)), corroborated the stock boat's two-up experience directly: sailing her with a companion is "cramped, but doable," and a newcomer is best advised to simply build to "the pinacle of matts building sailing" — the stock design as Matt Layden himself judged safest and best suited — rather than second-guess it before ever having sailed one.
 
 ## Storage, beachability, and who buys the beer
 
-A later newcomer's introduction raised much the same cluster of
-due-diligence questions as the unanswered snapshot above, but this time drew
-direct answers. Wanting a trailerable boat for Western US mountain-lake and
-coastal camp-cruising, capable of an eventual Bahamas crossing, and citing
-the Paradox's good looks and beachability as draws over a Sea Pearl 21 Tri
-(too costly) or a Montgomery 15 (too many open questions), the newcomer
-asked whether a bigger-than-14ft plan set exists, how much interior storage
-a couple could expect, and — half in jest — who buys the beer during
-construction.
+A later newcomer's introduction raised much the same cluster of due-diligence questions as the unanswered snapshot above, but this time drew direct answers. Wanting a trailerable boat for Western US mountain-lake and coastal camp-cruising, capable of an eventual Bahamas crossing, and citing the Paradox's good looks and beachability as draws over a Sea Pearl 21 Tri (too costly) or a Montgomery 15 (too many open questions), the questions were whether a bigger-than-14ft plan set exists, how much interior storage a couple could expect, and — half in jest — who buys the beer during construction.
 
-No larger plan set exists (see [stretched
-Paradox](/design/variants/stretched-paradox.md#no-official-larger-plans-exist),
-which also records two builders' DIY-scaling answers to this same question —
-a straightforward 15% metric scale-up, and Matt Layden's own "all clear" for
-a 20% enlargement on the same scantlings), though one Australian builder had
-modified his own interior, removing the forward lockers to widen the cabin
-for two-person sleeping. On storage,
-Paradox was judged to hold **far more space than anything of similar
-size** — on a week's outing more lockers go unused than get filled. On
-**beachability**: landing on a beach itself is easy, but if the tide is
-falling the boat is going nowhere until it returns — pushing a beached
-Paradox by hand, even with three people helping, proved not to be
-possible in practice, despite it being *possible* in principle with the
-right equipment. And by house custom, whoever arrives back at the dock
-last buys the drinks.
+No larger plan set exists (see [stretched Paradox](/design/variants/stretched-paradox.md#no-official-larger-plans-exist), which also records two builders' DIY-scaling answers to this same question — a straightforward 15% metric scale-up, and Matt Layden's own "all clear" for a 20% enlargement on the same scantlings), though one Australian builder had modified his own interior, removing the forward lockers to widen the cabin for two-person sleeping. On storage, Paradox is judged to hold **far more space than anything of similar size** — on a week's outing more lockers go unused than get filled. On **beachability**: landing on a beach itself is easy, but if the tide is falling the boat is going nowhere until it returns — pushing a beached Paradox by hand, even with three people helping, proved not to be possible in practice, despite it being *possible* in principle with the right equipment. And by house custom, whoever arrives back at the dock last buys the drinks.
 
 ## Age, and the case for going smaller rather than larger
 
-A 63-year-old newcomer's question — substantial prior boatbuilding
-experience but none in handling or sailing a craft like this, wondering
-whether an outboard had ever been tried as auxiliary power — drew the
-fullest answer on record about suitability for older sailors.
+A 63-year-old newcomer's question — substantial prior boatbuilding experience but none in handling or sailing a craft like this, wondering whether an outboard had ever been tried as auxiliary power — drew the fullest answer on record about suitability for older sailors.
 
-Sixty-three is arguably **the perfect age** for a Paradox, precisely because
-she is an easily handled microcruiser: an easy motion at sea, a small sail,
-light anchors, sailing worked from the security of the cabin, an easily
-stepped mast alone, and a shallow **9-inch** draft. The general principle:
-as a sailor ages he should move **down** in boat size, not up — bigger boats
-promise more comfort but demand more energy to handle and maintain, carry
-more complex systems to fail, and cost more to run. [The
-Bolducs](/people/bolduc/dave.md), for that reason, sail a 15 ft boat
-("[Little Cruiser](/matt-layden/little-cruiser.md)") together and added an
-even smaller one ("[Swamp Thing](/matt-layden/swamp-thing.md)") for when
-either wants to sail alone. A friend of theirs day-sailed a 13 ft
-microcruiser (the same boat later passed to the Bolducs) into his 60s, then
-at 70 became a full-time liveaboard on a compact 23 ft double-ended Rob Roy
-Canoe Yawl called "Panacea" — happy with the new boat, but admitting he
-missed the simplicity of his old microcruiser.
+Sixty-three is arguably **the perfect age** for a Paradox, precisely because she is an easily handled microcruiser: an easy motion at sea, a small sail, light anchors, sailing worked from the security of the cabin, an easily stepped mast alone, and a shallow **9-inch** draft. The general principle: as a sailor ages he should move **down** in boat size, not up — bigger boats promise more comfort but demand more energy to handle and maintain, carry more complex systems to fail, and cost more to run. For that reason some sail a 15 ft boat ("[Little Cruiser](/matt-layden/little-cruiser.md)") together and add an even smaller one ("[Swamp Thing](/matt-layden/swamp-thing.md)") for when either wants to sail alone. One such sailor day-sailed a 13 ft microcruiser into his 60s, then at 70 became a full-time liveaboard on a compact 23 ft double-ended Rob Roy Canoe Yawl called "Panacea" — happy with the new boat, but admitting he missed the simplicity of his old microcruiser.
 
-Corroborating testimony reinforces the point from several directions. A
-60-year-old builder already underway on his own build in Tasmania (ply,
-epoxy, and a 1:5 model already built) adds that the enclosed,
-sailed-from-inside cabin gives real sun protection from high UV — a genuine
-benefit for older sailors rather than just a comfort feature. Paradox is
-also a **low human-energy boat to own**: the trailer stays attached to the
-car, so launching and retrieving needs no manhandling, and even sailing
-itself is undemanding, the most strenuous moment being hauling on the
-halyard.
+Corroborating testimony reinforces the point from several directions. A 60-year-old builder already underway on a build in Tasmania (ply, epoxy, and a 1:5 model already built) adds that the enclosed, sailed-from-inside cabin gives real sun protection from high UV — a genuine benefit for older sailors rather than just a comfort feature. Paradox is also a **low human-energy boat to own**: the trailer stays attached to the car, so launching and retrieving needs no manhandling, and even sailing itself is undemanding, the most strenuous moment being hauling on the halyard.
 
-A UK-based builder, then over 70 and about to start his own build, makes the
-trailer-sailor case for age directly: **super fitness or agility isn't
-needed**, and Paradox is not only a fine fair-weather coastal cruiser for
-one person but also a genuinely good trailer sailer — valuable in the UK for
-its many launching sites within a short drive of most sailors. From
-southeast England, he counted a wide range of cruising grounds reachable
-**entirely by road and ferry** without ever needing to keep the boat afloat
-full-time: Inverness (600 miles) and Ullapool in northern Scotland, Falmouth
-and Milford Haven in the southwest, an English-Channel or Isles-of-Scilly
-crossing from Falmouth, the Norfolk Broads, Ireland's southwest coast
-(Baltimore, Dingle, the River Shannon), the French Morbihan and northern Bay
-of Biscay islands, and the inland Dutch lakes (the Ijsselmeer and the
-southern Delta region near Middelburg) — alongside non-tidal UK lakes,
-lochs, rivers, and canals for those preferring calmer water. See [a UK
-kit-built option: Jordan
-Boats](/references/paradox-uk-website.md#a-uk-kit-built-option-jordan-boats)
-for the kit-built alternative he points prospective UK builders toward.
+A UK-based builder, then over 70 and about to start a build, makes the trailer-sailor case for age directly: **super fitness or agility isn't needed**, and Paradox is not only a fine fair-weather coastal cruiser for one person but also a genuinely good trailer sailer — valuable in the UK for its many launching sites within a short drive of most sailors. From southeast England, a wide range of cruising grounds is reachable **entirely by road and ferry** without ever needing to keep the boat afloat full-time: Inverness (600 miles) and Ullapool in northern Scotland, Falmouth and Milford Haven in the southwest, an English-Channel or Isles-of-Scilly crossing from Falmouth, the Norfolk Broads, Ireland's southwest coast (Baltimore, Dingle, the River Shannon), the French Morbihan and northern Bay of Biscay islands, and the inland Dutch lakes (the Ijsselmeer and the southern Delta region near Middelburg) — alongside non-tidal UK lakes, lochs, rivers, and canals for those preferring calmer water. See [a UK kit-built option: Jordan Boats](/references/paradox-uk-website.md#a-uk-kit-built-option-jordan-boats) for the kit-built alternative prospective UK builders are pointed toward.
 
-Two further testimonies round out the case for older sailors: a 56-year-old
-builder expecting to sail his own Paradox that summer with his wife (by then
-60) aboard — see [the "BRIS Paradox"](/boats/bris-paradox.md) for the full
-build, with its "Paraplastic" photo album showing accommodations comfortable
-for two — and an admiring reply praising the boat's appearance and its
-bronze bottom sheet.
+Two further testimonies round out the case for older sailors: a 56-year-old builder expecting to sail his own Paradox that summer with his wife (by then 60) aboard — see [the "BRIS Paradox"](/boats/bris-paradox.md) for the full build, with its "Paraplastic" photo album showing accommodations comfortable for two — and an admiring reply praising the boat's appearance and its bronze bottom sheet.
 
 ## The self-sufficiency ethos (microcruising.com)
 
-David and Mindy Bolduc's own writing about why a small, simple boat like
-[Little Cruiser](/matt-layden/little-cruiser.md) or Paradox suits a cruiser
-in the first place gives a philosophical counterpart to the buildability
-debate above. Their core case is self-sufficiency: "Little boats generally
-have little problems… most repairs can be done oneself in remote locations."
-In practice they carry epoxy and materials sufficient to fix the boat
-wherever they happen to be, rather than relying on outside support.
+Published writing on why a small, simple boat like [Little Cruiser](/matt-layden/little-cruiser.md) or Paradox suits a cruiser in the first place gives a philosophical counterpart to the buildability debate above. The core case is self-sufficiency: "Little boats generally have little problems… most repairs can be done oneself in remote locations." In practice a cruiser carries epoxy and materials sufficient to fix the boat wherever they happen to be, rather than relying on outside support.
 
-They pair that self-sufficiency ethos with a matching seamanship
-philosophy — prudence over boldness: "We respect the ocean and the weather,
-and we try not to tempt fate… prudence is the better part of good
-seamanship." They turn back rather than push on when conditions look wrong,
-including, by their own account, "several times in the first ten miles" of
-a crossing already underway (see
-[gulf stream crossing](/operations/gulf-stream-crossing.md)).
+That self-sufficiency ethos pairs with a matching seamanship philosophy — prudence over boldness: "We respect the ocean and the weather, and we try not to tempt fate… prudence is the better part of good seamanship." Turning back rather than pushing on when conditions look wrong is the rule, including "several times in the first ten miles" of a crossing already underway (see [gulf stream crossing](/operations/gulf-stream-crossing.md)).
 
 # Citations
 

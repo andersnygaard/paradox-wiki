@@ -8,163 +8,57 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Epoxy brands, chemistry, and cure behavior
 
-Builders on **which epoxy brands** have actually proved out on Paradox and
-other [Matt Layden](/matt-layden/biography.md)-design boats, their handling
-and cure properties, and the underlying epoxy chemistry — as distinct from
-the separate **cost** comparisons of West System versus Raka (see
-[lower rudder fitting — bottom roving and cheap epoxy sourcing](/construction/rudder-bearing-materials.md)
-and
-[epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md)).
+Which **epoxy brands** have actually proved out on Paradox and other [Matt Layden](/matt-layden/biography.md)-design boats, their handling and cure properties, and the underlying epoxy chemistry — as distinct from the separate **cost** comparisons of West System versus Raka (see [lower rudder fitting — bottom roving and cheap epoxy sourcing](/construction/rudder-bearing-materials.md) and [epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md)).
 
 ## Brands used in practice
 
-**West System**, bought by the gallon, is a common choice but is comparatively
-expensive. Cheaper alternatives in use include:
+**West System**, bought by the gallon, is a common choice but is comparatively expensive. Cheaper alternatives in use include:
 
-- **RAKA**: reports of a sample being "a little too flexible and hard to
-  sand" — gumming up sandpaper — trace to a small test batch or cool cure
-  conditions rather than the epoxy itself (see temperature sensitivity
-  below).
-- **FASCO**: used exclusively (for gluing and filling, mixed with
-  glass/microballoons) to repair [Swamp Thing](/matt-layden/swamp-thing.md) in
-  Key Largo for worm damage and dock-impact damage to her chine runners. It
-  was slow to cure — overnight, using the "tropical" (slow) formula — but
-  sanded a lot easier than West once cured. [Chris
-  Morejohn](/people/chris-morejohn.md) is reported to have used FASCO
-  building his own boats in the Florida Keys. Source cited:
-  `tikiwatersports.com`.
-- **System Three**: Matt Layden and [Don Elliott](/people/don-elliott.md)
-  both used System Three building their own Paradoxes, buying in quantity
-  together for a price break.
-- **"Defender Industries" generic epoxy**: [Little
-  Cruiser](/matt-layden/little-cruiser.md) — [Dave and Mindy
-  Bolduc](/people/bolduc/dave.md)'s boat — was built with this generic
-  epoxy, with **no delaminations** in the boat or spars after almost **ten
-  years** of hard use. Matt Layden is believed to have used this same
-  generic epoxy on all his earlier boats too.
+- **RAKA**: a sample reported as "a little too flexible and hard to sand" — gumming up sandpaper — traces to a small test batch or cool cure conditions rather than the epoxy itself (see temperature sensitivity below).
+- **FASCO**: used exclusively (for gluing and filling, mixed with glass/microballoons) to repair [Swamp Thing](/matt-layden/swamp-thing.md) in Key Largo for worm damage and dock-impact damage to her chine runners. It was slow to cure — overnight, using the "tropical" (slow) formula — but sanded a lot easier than West once cured. FASCO has also been used building boats in the Florida Keys. Source cited: `tikiwatersports.com`.
+- **System Three**: Matt Layden and other builders used System Three building their own Paradoxes, buying in quantity together for a price break.
+- **"Defender Industries" generic epoxy**: [Little Cruiser](/matt-layden/little-cruiser.md) was built with this generic epoxy, with **no delaminations** in the boat or spars after almost **ten years** of hard use. Matt Layden is believed to have used this same generic epoxy on all his earlier boats too.
 
-Many different epoxy brands appear usable for general boatbuilding: some are
-thicker and better for gluing, others thinner and better for laminating.
-Builders are best served by testing a small amount of whatever brand
-interests them; no genuine side-by-side comparison of major brands and
-generics is known to exist, likely because advertising spend favors the
-established brands over such a comparison. Testing across System Three,
-RAKA (127 resin), and West System yields a concrete recommendation: before
-committing to a bulk order from any retailer, buy a small amount first and
-actually work with it — laminate some fiberglass, glue some wood, mix up a
-batch of fairing compound — checking gel time, stiffness, and how easily it
-sands once cured, since so much of a build is spent handling the stuff that
-comfort with the product matters as much as its specifications. [Dave
-Bolduc](/people/bolduc/dave.md) settled on West System for his own use after
-running exactly this kind of test, and buys his cloth, fillers, and most
-other supplies from raka.com and johnrsweet.com.
+Many different epoxy brands appear usable for general boatbuilding: some are thicker and better for gluing, others thinner and better for laminating. Builders are best served by testing a small amount of whatever brand interests them; no genuine side-by-side comparison of major brands and generics is known to exist, likely because advertising spend favors the established brands over such a comparison. Testing across System Three, RAKA (127 resin), and West System yields a concrete recommendation: before committing to a bulk order from any retailer, buy a small amount first and actually work with it — laminate some fiberglass, glue some wood, mix up a batch of fairing compound — checking gel time, stiffness, and how easily it sands once cured, since so much of a build is spent handling the stuff that comfort with the product matters as much as its specifications. West System proved the choice after running exactly this kind of test, with cloth, fillers, and most other supplies bought from raka.com and johnrsweet.com.
 
 ## System Three's flexibility and a regional-supplier preference
 
-Choosing a brand is also "a matter of regional pride and respect," favoring
-local suppliers where practical. West System has "always performed
-perfectly," though at a price premium; System Three's regular epoxy, used
-only occasionally (mainly its "Quick Cure" for interior trim), performed
-well, with the cured resin seeming **a bit more flexible** than West's —
-likely a hardener/resin-ratio difference rather than a defect. System
-Three's broad product range and reasonable prices make it a reasonable
-choice for the remainder of a build.
+Choosing a brand is also "a matter of regional pride and respect," favoring local suppliers where practical. West System has "always performed perfectly," though at a price premium; System Three's regular epoxy, used only occasionally (mainly its "Quick Cure" for interior trim), performed well, with the cured resin seeming **a bit more flexible** than West's — likely a hardener/resin-ratio difference rather than a defect. System Three's broad product range and reasonable prices make it a reasonable choice for the remainder of a build.
 
 ## The chemistry behind the brands
 
-Only **two companies actually manufacture epoxy** — **DuPont** and
-**Ciba-Geigy** — and every branded product on the market resells one or the
-other's base resin/hardener under many different formulations. **WEST**
-holds a **patent on the hardener** it developed, which explains why West
-System costs more than generic or off-brand competitors selling
-similarly-sourced base chemistry.
+Only **two companies actually manufacture epoxy** — **DuPont** and **Ciba-Geigy** — and every branded product on the market resells one or the other's base resin/hardener under many different formulations. **WEST** holds a **patent on the hardener** it developed, which explains why West System costs more than generic or off-brand competitors selling similarly-sourced base chemistry.
 
 ## RAKA's temperature-dependent cure behavior
 
-RAKA's cure speed is unusually sensitive to ambient temperature, which bears
-on the "too flexible" sanding complaint above:
+RAKA's cure speed is unusually sensitive to ambient temperature, which bears on the "too flexible" sanding complaint above:
 
-- Using RAKA all winter in Florida establishes **60°F as the important
-  threshold**: below 60°F the epoxy can take days to harden at all (the slow
-  hardener takes a couple of days to harden regardless of temperature),
-  while above 60°F the fast hardener sets "like a rock" within 24 hours.
-- RAKA's **100% fast hardener** also works down to about **50°F and even a
-  bit below** — with heavy amine blush and up to two days to set up well in
-  cold night conditions. Waiting about a **week** before sanding, even in
-  warm weather, gives better results and reduces (but does not eliminate)
-  the sandpaper-clogging problem. Boatbuilder/writer **Robb White**
-  published an article (in the April issue of *WoodenBoat* magazine, cited
-  informally) on **scraping cured epoxy as an alternative to sanding**,
-  using a tool similar to a cabinet scraper.
+- Using RAKA all winter in Florida establishes **60°F as the important threshold**: below 60°F the epoxy can take days to harden at all (the slow hardener takes a couple of days to harden regardless of temperature), while above 60°F the fast hardener sets "like a rock" within 24 hours.
+- RAKA's **100% fast hardener** also works down to about **50°F and even a bit below** — with heavy amine blush and up to two days to set up well in cold night conditions. Waiting about a **week** before sanding, even in warm weather, gives better results and reduces (but does not eliminate) the sandpaper-clogging problem. An April issue of *WoodenBoat* magazine (cited informally) carried an article on **scraping cured epoxy as an alternative to sanding**, using a tool similar to a cabinet scraper.
 
-This temperature-sensitivity finding refines, rather than contradicts, the
-initial impression that RAKA is hard to sand: a sample cured under cool
-conditions, or sanded too soon, would show exactly that symptom.
+This temperature-sensitivity finding refines, rather than contradicts, the initial impression that RAKA is hard to sand: a sample cured under cool conditions, or sanded too soon, would show exactly that symptom.
 
 ## West System hardener discoloration with age
 
-**West System fast hardener** can turn a **reddish color** after about a
-year on the shelf while still hardening normally. This is normal — epoxy
-simply **darkens with age**, and its shelf life is **"almost indefinite."**
+**West System fast hardener** can turn a **reddish color** after about a year on the shelf while still hardening normally. This is normal — epoxy simply **darkens with age**, and its shelf life is **"almost indefinite."**
 
 ## Pricing and supplier watch: sales and a lower-cost source
 
-Pricing tips passed along among builders: West Marine and **Jamestown
-Distributors** have both run 20%-off sales on West System resin, worth
-watching for ahead of a spring build season. Separately, **uscomposites.com**
-is a satisfactory lower-cost source: competitive pricing (around $27/gallon
-for a 5-gallon kit), cloth priced comparably to other suppliers such as
-NOAH, a slow-hardener formula that suits general boatbuilding work with a
-comfortably long working time before a mixed cup kicks off, quick order
-turnaround, and fiberglass tape that works fine — though for drapability
-around corners,
-**[Dynel](/construction/epoxy-coating-technique.md#why-fiberglass-the-boat-at-all-cost-technique-and-a-damage-history-case-for-full-encapsulation)**
-fabric (sourced from Jamestown) outperforms both: ordinary fiberglass cloth
-will not crease sharply and pulls away from any corner that is not well
-rounded, while Dynel drapes around corners far more satisfactorily.
+Pricing tips passed along among builders: West Marine and **Jamestown Distributors** have both run 20%-off sales on West System resin, worth watching for ahead of a spring build season. Separately, **uscomposites.com** is a satisfactory lower-cost source: competitive pricing (around $27/gallon for a 5-gallon kit), cloth priced comparably to other suppliers such as NOAH, a slow-hardener formula that suits general boatbuilding work with a comfortably long working time before a mixed cup kicks off, quick order turnaround, and fiberglass tape that works fine — though for drapability around corners, **[Dynel](/construction/epoxy-coating-technique.md#why-fiberglass-the-boat-at-all-cost-technique-and-a-damage-history-case-for-full-encapsulation)** fabric (sourced from Jamestown) outperforms both: ordinary fiberglass cloth will not crease sharply and pulls away from any corner that is not well rounded, while Dynel drapes around corners far more satisfactorily.
 
 ## Converting a US epoxy quantity to litres or kilograms
 
-Epoxy is commonly quoted in **US gallons** in build-materials lists (see the
-plans' own **5-7 gallon** estimate), which needs converting for builders
-working in metric units. One US gallon is **3.785 litres** — not the
-**4.5 litres** of a UK/Imperial gallon, a distinction worth checking
-explicitly for any builder (such as in Canada) who might see either gallon
-size in local use. A litre of epoxy weighs **slightly more than a litre of
-water** (1 kg), so a plans-quoted 5-7 US gallons works out to roughly
-**19-26 litres**, or a little over that in kilograms.
+Epoxy is commonly quoted in **US gallons** in build-materials lists (see the plans' own **5-7 gallon** estimate), which needs converting for builders working in metric units. One US gallon is **3.785 litres** — not the **4.5 litres** of a UK/Imperial gallon, a distinction worth checking explicitly for any builder (such as in Canada) who might see either gallon size in local use. A litre of epoxy weighs **slightly more than a litre of water** (1 kg), so a plans-quoted 5-7 US gallons works out to roughly **19-26 litres**, or a little over that in kilograms.
 
 ## How much epoxy a build actually uses
 
-Beyond the plans' own **5-7 US gallon** estimate (see the litre/kilogram
-conversion above), real-world reports vary with technique and rework. One UK
-builder, working on a deliberate "better to use too much than too little"
-principle, bought **two lots of 25 kg** (about 5 kg of which was left over
-at the end), favoring epoxy's gap-filling properties over the material
-savings a more polished woodworking technique might have allowed. At the
-other extreme, a builder who had to strip and completely redo his hull
-bottom put the wasted rework alone at roughly **£160**, and gave up trying
-to track his total epoxy spend across the whole build, guessing it at
-somewhere around **£2,000** overall.
+Beyond the plans' own **5-7 US gallon** estimate (see the litre/kilogram conversion above), real-world reports vary with technique and rework. One Paradox build, working on a deliberate "better to use too much than too little" principle, used **two lots of 25 kg** (about 5 kg of which was left over at the end), favoring epoxy's gap-filling properties over the material savings a more polished woodworking technique might have allowed. At the other extreme, a build that had to strip and completely redo the hull bottom put the wasted rework alone at roughly **£160**, with the total epoxy spend across the whole build untracked but guessed at somewhere around **£2,000** overall.
 
 ## Reviving old, crystallized epoxy: a heat trick and a microwave mishap
 
-Old epoxy remains usable well past three years, even stored at a constant
-low temperature — epoxy "much older" than that has worked fine, with the
-**hardener**, not the resin, the part most affected: some WEST System
-hardener thickened over time to "a strong resemblance to molasses," workable
-but not ideal.
+Old epoxy remains usable well past three years, even stored at a constant low temperature — epoxy "much older" than that has worked fine, with the **hardener**, not the resin, the part most affected: some WEST System hardener thickened over time to "a strong resemblance to molasses," workable but not ideal.
 
-Epoxy resin can also **crystallize** near the bottom of an old can. The fix
-is to **boil water and stand the can in the pot**, off the stove, and stir —
-West System's own testing on ten-year-old epoxy found **no loss of cured
-strength**, only a thickened, harder-to-mix hardener, matching the molasses
-comparison above. Heating the hardener itself to see whether that would thin
-it remains untried. The technique carries a real hazard: mixing a small
-amount of epoxy for a small joint on a very cold day and giving it 15
-seconds in a microwave to warm it caused the mixture to **exotherm so fast
-it nearly overflowed the microwave** before it could be pulled out — a
-warning against microwaving epoxy even briefly.
+Epoxy resin can also **crystallize** near the bottom of an old can. The fix is to **boil water and stand the can in the pot**, off the stove, and stir — West System's own testing on ten-year-old epoxy found **no loss of cured strength**, only a thickened, harder-to-mix hardener, matching the molasses comparison above. Heating the hardener itself to see whether that would thin it remains untried. The technique carries a real hazard: mixing a small amount of epoxy for a small joint on a very cold day and giving it 15 seconds in a microwave to warm it caused the mixture to **exotherm so fast it nearly overflowed the microwave** before it could be pulled out — a warning against microwaving epoxy even briefly.
 
 # Citations
 

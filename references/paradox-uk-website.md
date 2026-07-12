@@ -8,281 +8,71 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Small Sailboats / Paradox-UK websites
 
-**[Bill Serjeant](/people/bill-serjeant.md)** (Yahoo profile `barnacleid`,
-later `barnacletoo`, then `williamserjeant`) built a UK-focused Paradox web
-presence in two stages: after receiving his plans from [Dave
-Bolduc](/people/bolduc/dave.md), he added a Paradox section to his existing
-**Small Sailboats** site (`www.smallsailboats.co.uk`), angled toward
-builders and sailors in the UK, then split that material out into its own
-dedicated site, **`www.paradox-uk.co.uk`**, kept under the Small Sailboats
-umbrella. The pairing gave the design's growing UK builder community
-(Serjeant himself, [Jeff (UK)](/people/jeff-doryman.md), and
-[Alastair](/people/alastair.md)) a home-country counterpart to the Bolducs'
-[microcruising.com](/references/microcruising-website.md). Serjeant ran
-this UK web presence for nearly two years before starting his own Paradox
-build in August 2005 — see [people/bill-serjeant.md](/people/bill-serjeant.md)
-for his biography and the build itself.
+A UK-focused Paradox web presence was built in two stages: after plans arrived, a Paradox section was added to an existing **Small Sailboats** site (`www.smallsailboats.co.uk`), angled toward builders and sailors in the UK, then that material was split out into its own dedicated site, **`www.paradox-uk.co.uk`**, kept under the Small Sailboats umbrella. The pairing gave the design's growing UK builder community a home-country counterpart to the Bolducs' [microcruising.com](/references/microcruising-website.md). This UK web presence ran for nearly two years before its builder started his own Paradox build in August 2005 — see [people/bill-serjeant.md](/people/bill-serjeant.md) for the biography and the build itself.
 
-Building from the plans surfaced two rudder questions that reached the wider
-design record: the rudder blade's pivot-bolt fixing (see [design/rudder.md —
-the pivot-bolt
-fixing](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads))
-and a twin-rudder arrangement proposed to free up the transom centerline for
-an outboard, judged not worth the added complexity (see [rudder and chine
-experiments — a twin-rudder
-proposal](/design/rudder.md#a-twin-rudder-proposal-for-a-centerline-outboard-judged-not-worth-the-complexity)).
-The same exchange produced a fuller self-steering record: an
-auto-pilot-versus-wind-vane comparison; a self-steering history spanning a
-rudder-mounted tab on a Folksong, a Hasler SP 90, and an
-Autohelm/Wasp-wind-generator combination; the specific problem Paradox's
-**folding** rudder poses for mounting a trim-tab wind vane, resolved with a
-Bowden-cable arrangement; a VectaVane Ltd. director's skepticism that any
-wind vane would be worthwhile on a boat this size, weighed against the case
-that a suitable vane could still benefit a Paradox coastal cruiser; and a
-method for heaving to without deploying a sea anchor. See [self-steering —
-auto-pilot versus wind-vane self-steering: a practical
-comparison](/operations/self-steering.md#auto-pilot-versus-wind-vane-self-steering-a-practical-comparison),
-[self-steering — a trim-tab wind vane and Paradox's folding
-rudder](/operations/self-steering.md#a-trim-tab-wind-vane-and-paradoxs-folding-rudder),
-[self-steering — a VectaVane director's skeptical outside
-view](/operations/self-steering.md#a-vectavane-directors-skeptical-outside-view),
-[self-steering — a forward-of-mast wind vane, and a case for self-steering's
-real value](/operations/self-steering.md#a-forward-of-mast-wind-vane-and-a-case-for-self-steerings-real-value),
-and [self-steering — heaving-to without deploying a sea
-anchor](/operations/self-steering.md#heaving-to-without-deploying-a-sea-anchor).
+Building from the plans surfaced two rudder questions that reached the wider design record: the rudder blade's pivot-bolt fixing (see [design/rudder.md — the pivot-bolt fixing](/design/rudder.md#the-pivot-bolt-fixing-and-its-record-under-grounding-loads)) and a twin-rudder arrangement proposed to free up the transom centerline for an outboard, judged not worth the added complexity (see [rudder and chine experiments — a twin-rudder proposal](/design/rudder.md#a-twin-rudder-proposal-for-a-centerline-outboard-judged-not-worth-the-complexity)). The same exchange produced a fuller self-steering record: an auto-pilot-versus-wind-vane comparison; a self-steering history spanning a rudder-mounted tab on a Folksong, a Hasler SP 90, and an Autohelm/Wasp-wind-generator combination; the specific problem Paradox's **folding** rudder poses for mounting a trim-tab wind vane, resolved with a Bowden-cable arrangement; a VectaVane Ltd. director's skepticism that any wind vane would be worthwhile on a boat this size, weighed against the case that a suitable vane could still benefit a Paradox coastal cruiser; and a method for heaving to without deploying a sea anchor. See [self-steering — auto-pilot versus wind-vane self-steering: a practical comparison](/operations/self-steering.md#auto-pilot-versus-wind-vane-self-steering-a-practical-comparison), [self-steering — a trim-tab wind vane and Paradox's folding rudder](/operations/self-steering.md#a-trim-tab-wind-vane-and-paradoxs-folding-rudder), [self-steering — a VectaVane director's skeptical outside view](/operations/self-steering.md#a-vectavane-directors-skeptical-outside-view), [self-steering — a forward-of-mast wind vane, and a case for self-steering's real value](/operations/self-steering.md#a-forward-of-mast-wind-vane-and-a-case-for-self-steerings-real-value), and [self-steering — heaving-to without deploying a sea anchor](/operations/self-steering.md#heaving-to-without-deploying-a-sea-anchor).
 
-The clearest one-line classification on record of Paradox against a genuine
-ocean racer — measured against the Dix-designed Mini Transat 650 — is Bill
-Serjeant's verdict that the two are "as different as chalk and cheese." See
-[design/blue-water-suitability.md — a racer/cruiser comparison, and Bill
-Serjeant's verdict](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).
+The clearest one-line classification on record of Paradox against a genuine ocean racer — measured against the Dix-designed Mini Transat 650 — is the verdict that the two are "as different as chalk and cheese." See [design/blue-water-suitability.md — a racer/cruiser comparison](/design/blue-water-suitability.md#a-racercruiser-comparison-and-bill-serjeants-verdict).
 
-Serjeant also **compiled and posted the group's original "Tools" list**,
-working from what Don Elliott had used to build his own Paradox. The list is
-his own compilation rather than an endorsement or list from Don himself, and
-is distinct from a separate, possibly copyrighted **Building Materials
-list** that came bundled with a bought plans package. See [build effort and
-workspace — tools](/construction/build-effort.md#tools) for the underlying
-list and discussion. A proposed FAQ folder for the group was never built out
-with two items Serjeant suggested for it — anchoring and anchor stowage
-(open question: do most builders carry two anchors, a bower and a kedge?),
-and whether the "Building Paradox" booklet's materials list could simply be
-reused for the group's build manual without a copyright problem. See [Glen
-Maxwell — list founder and moderator — the FAQ
-folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
+The group's original "Tools" list was **compiled and posted** from what one builder had used to build his own Paradox. The list is a compilation rather than an endorsement or list from that builder himself, and is distinct from a separate, possibly copyrighted **Building Materials list** that came bundled with a bought plans package. See [build effort and workspace — tools](/construction/build-effort.md#tools) for the underlying list and discussion. A proposed FAQ folder for the group was never built out, with two suggested items — anchoring and anchor stowage (open question: do most builders carry two anchors, a bower and a kedge?), and whether the "Building Paradox" booklet's materials list could simply be reused for the group's build manual without a copyright problem. See [list founder and moderator — the FAQ folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
 
 ## A third UK small-boat resource: the irbs.com Small Sailboats Usergroup
 
-Beyond the Small Sailboats / Paradox-UK pairing, Paradox builders also have
-access to a **third-party** UK small-boat venue: the bulletin boards at
-`www.irbs.com` ("I'd rather be sailing"), and in particular its **Small
-Sailboats Usergroup**, set up alongside `www.smallsailboats.co.uk`. The
-Usergroup's scope is any sailing boat 26 ft LOA and under, monohull or
-multihull, covering building, cruising, handling technique, rig types,
-auxiliary engines, cruising grounds, rallies, and messabouts.
+Beyond the Small Sailboats / Paradox-UK pairing, Paradox builders also have access to a **third-party** UK small-boat venue: the bulletin boards at `www.irbs.com` ("I'd rather be sailing"), and in particular its **Small Sailboats Usergroup**, set up alongside `www.smallsailboats.co.uk`. The Usergroup's scope is any sailing boat 26 ft LOA and under, monohull or multihull, covering building, cruising, handling technique, rig types, auxiliary engines, cruising grounds, rallies, and messabouts.
 
 ## A companion Yahoo Group: "smallsailboats"
 
-A dedicated **Yahoo Group** of the same name, `smallsailboats`, open to
-`paradoxbuilders` members, serves as a same-umbrella companion to the
-irbs.com bulletin board above, covering any small sailing craft, traditional
-or modern, "from messing about, to top class racing."
+A dedicated **Yahoo Group** of the same name, `smallsailboats`, open to `paradoxbuilders` members, serves as a same-umbrella companion to the irbs.com bulletin board above, covering any small sailing craft, traditional or modern, "from messing about, to top class racing."
 
-The site's info page also serves as a **plans-contact relay**: it republishes
-Dave Bolduc's contact address at
-`www.btinternet.com/~w.serjeant/paradox/info.htm`, a third route to the
-plans distributor alongside e-mailing Dave and Mindy directly or posting to
-the `microcruising` Yahoo Group. See [building plans — two more 2004
-recurrences, and how to reach the Bolducs when e-mail
-fails](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+The site's info page also serves as a **plans-contact relay**: it republishes Dave Bolduc's contact address at `www.btinternet.com/~w.serjeant/paradox/info.htm`, a third route to the plans distributor alongside e-mailing Dave and Mindy directly or posting to the `microcruising` Yahoo Group. See [building plans — two more 2004 recurrences, and how to reach the Bolducs when e-mail fails](/references/building-plans.md#why-paradox-resists-easy-enlargement).
 
-[Glen Maxwell](/people/glen-maxwell.md)'s *Messing About In Boats*
-sea-trials article was reproduced on paradox-uk.co.uk with Glen's permission
-(copyright remaining his) as "Zoë's Sea Trials" — see [Zoë — press
-coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles) for the
-article itself, and [furling system — a UK builder's topping-lift
-question](/design/furling-system.md#a-uk-builders-topping-lift-question) for
-a rigging question the reproduction prompted.
+A *Messing About In Boats* sea-trials article was reproduced on paradox-uk.co.uk with permission (copyright remaining with the original author) as "Zoë's Sea Trials" — see [Zoë — press coverage](/boats/zoe.md#press-coverage-two-2003-magazine-articles) for the article itself, and [furling system — a UK builder's topping-lift question](/design/furling-system.md#a-uk-builders-topping-lift-question) for a rigging question the reproduction prompted.
 
 ## A temporary domain outage on smallsailboats.co.uk
 
-In late May 2004, a web-hosting problem took the `www.smallsailboats.co.uk`
-domain temporarily out of service, with the older
-`www.btinternet.com/~w.serjeant` address serving as a stand-in. The domain
-came back online about a week later, at which point the older BT Internet
-address was retired rather than kept running alongside it — leaving the
-`.co.uk` domain as the site's sole address going forward, aside from a few
-links still needing attention.
+In late May 2004, a web-hosting problem took the `www.smallsailboats.co.uk` domain temporarily out of service, with the older `www.btinternet.com/~w.serjeant` address serving as a stand-in. The domain came back online about a week later, at which point the older BT Internet address was retired rather than kept running alongside it — leaving the `.co.uk` domain as the site's sole address going forward, aside from a few links still needing attention.
 
 ## A second outage, June 2006, and an apparent domain-registrar issue
 
-The site went down again in June 2006, this time presenting visitors with a
-registrar's holding page (`www.123-reg.co.uk`) rather than its own content —
-a symptom of a lapsed or transferring domain registration rather than a
-hosting fault. A below-threshold UK-based list member flagged the problem,
-suspecting his own computer at first, and separately noted the site's menu
-had briefly rendered as corrupted characters the day before, wondering if it
-reflected new ownership; a second, established below-threshold correspondent
-confirmed the same failure independently, ruling out a fault on the first
-member's own computer. Serjeant thanked them for the report and worked to
-bring the site back online, warning it might take hours or days; he
-confirmed shortly after that he was actively trying to get the registration
-itself sorted out, without giving a specific cause.[62][63][64][65][66]
+The site went down again in June 2006, this time presenting visitors with a registrar's holding page (`www.123-reg.co.uk`) rather than its own content — a symptom of a lapsed or transferring domain registration rather than a hosting fault. A below-threshold UK-based list member flagged the problem, suspecting his own computer at first, and separately noted the site's menu had briefly rendered as corrupted characters the day before, wondering if it reflected new ownership; a second, established below-threshold correspondent confirmed the same failure independently, ruling out a fault on the first member's own computer. The report was acknowledged with thanks, and work went into bringing the site back online, with a warning it might take hours or days; shortly after came confirmation that the registration itself was actively being sorted out, without a specific cause given.[62][63][64][65][66]
 
-Serjeant restored `www.smallsailboats.co.uk` within a day, first re-uploading
-the site and then confirming it fully "up and running," asking visitors to
-report any errors.[67][69] The correspondent who first flagged the outage
-thanked him, glad it had not been a fault on his own end, and volunteered
-that the site's real-world sailing links (UK Dinghy Cruising among them) and
-Serjeant's own sailing life made it one of his favorite places to browse.[68]
+`www.smallsailboats.co.uk` was restored within a day, first re-uploading the site and then confirming it fully "up and running," with a request for visitors to report any errors.[67][69] The correspondent who first flagged the outage sent thanks, glad it had not been a fault on his own end, and volunteered that the site's real-world sailing links (UK Dinghy Cruising among them) and its owner's own sailing life made it one of his favorite places to browse.[68]
 
-The site is also a source for UK sailmaker recommendations: established UK
-sailmakers Banks Sails, Crusader Sails, Jeckells Sails, Kemp Sails, and
-Lucas Sails are on record there, with Lucas recommended from firsthand
-experience having a junk sail made there — weighed as an alternative to a
-costly local quote against the US price already on record. See [rig and
-sail — sail pricing](/design/rig.md#sail-pricing).
+The site is also a source for UK sailmaker recommendations: established UK sailmakers Banks Sails, Crusader Sails, Jeckells Sails, Kemp Sails, and Lucas Sails are on record there, with Lucas recommended from firsthand experience having a junk sail made there — weighed as an alternative to a costly local quote against the US price already on record. See [rig and sail — sail pricing](/design/rig.md#sail-pricing).
 
-"Zoë's Sea Trials" settled at its current address under the recovered
-`smallsailboats.co.uk` domain — `www.smallsailboats.co.uk/paradox/trials.htm`
-— superseding the older BT Internet URL recorded above. See [group cruise
-reports — where to find a written cruise report, absent a fresh
-one](/operations/group-cruise-reports.md#where-to-find-a-written-cruise-report-absent-a-fresh-one).
+"Zoë's Sea Trials" settled at its current address under the recovered `smallsailboats.co.uk` domain — `www.smallsailboats.co.uk/paradox/trials.htm` — superseding the older BT Internet URL recorded above. See [group cruise reports — where to find a written cruise report, absent a fresh one](/operations/group-cruise-reports.md#where-to-find-a-written-cruise-report-absent-a-fresh-one).
 
 ## A UK and worldwide build count
 
-No running total of completed Paradoxes worldwide, or of boats under
-construction specifically in England, exists on record. The closest thing to
-a census the community has assembled is Bill Serjeant's own
-`www.smallsailboats.co.uk` site, holding "a fairly complete list" of
-completed boats. Builders specifically underway in the UK are harder to
-track: at one point only a single prospective builder in Cornwall was known
-to have expressed serious interest, with no confirmed progress on record.
+No running total of completed Paradoxes worldwide, or of boats under construction specifically in England, exists on record. The closest thing to a census the community has assembled is the `www.smallsailboats.co.uk` site, holding "a fairly complete list" of completed boats. Builders specifically underway in the UK are harder to track: at one point only a single prospective builder in Cornwall was known to have expressed serious interest, with no confirmed progress on record.
 
-There is no reliable way to know the true build count, but at least
-**three** further completed boats could be added to those already listed on
-`www.smallsailboats.co.uk/paradox/parindex.htm`, the registry depending on
-builders reporting their own boats in to keep it current.[31] Within days,
-[Jack Gardiner](/people/jack-gardiner.md) reported his own Paradox
-essentially complete and sail hoisted, one of the additional boats implied
-by that estimate.[32]
+There is no reliable way to know the true build count, but at least **three** further completed boats could be added to those already listed on `www.smallsailboats.co.uk/paradox/parindex.htm`, the registry depending on builders reporting their own boats in to keep it current.[31] Within days, one Paradox was reported essentially complete and sail hoisted, one of the additional boats implied by that estimate.[32]
 
-Two months later, the same registry stood at "at least 14 boats" either on
-the water or under construction, still dependent on builders volunteering
-amendments to keep `www.smallsailboats.co.uk/paradox/names.htm` current.[33]
-One registry entry recorded around this time: a still-unnamed boat, being
-built per plan, progressing slowly behind other priorities — the registry
-table itself, linked from `paradoxbuilders`, going unnoticed by at least one
-builder on a previous visit to the site.[34] The list's accuracy depends
-entirely on builders reporting in.[35]
+Two months later, the same registry stood at "at least 14 boats" either on the water or under construction, still dependent on builders volunteering amendments to keep `www.smallsailboats.co.uk/paradox/names.htm` current.[33] One registry entry recorded around this time: a still-unnamed boat, being built per plan, progressing slowly behind other priorities — the registry table itself, linked from `paradoxbuilders`, going unnoticed by at least one builder on a previous visit to the site.[34] The list's accuracy depends entirely on builders reporting in.[35]
 
-Serjeant's own boat history illustrates the churn behind these counts: an
-autumn-2005 plan to build a new Paradox was confirmed as "as well as" rather
-than instead of his existing boat, "Bumper," since he seldom keeps a boat
-more than two seasons — and building a Paradox meant casting a fresh batch of
-lead ballast, having none left over from his last boat.[36][37]
+The site owner's own boat history illustrates the churn behind these counts: an autumn-2005 plan to build a new Paradox was confirmed as "as well as" rather than instead of an existing boat, "Bumper," since a boat was seldom kept more than two seasons — and building a Paradox meant casting a fresh batch of lead ballast, with none left over from the previous boat.[36][37]
 
-In August 2005, Serjeant posted the registry site's first update since
-starting his own build — photos of his deck beams, cabin beams, and hatch
-beams — again asking the list to help keep `names.htm` current with any
-builder not yet listed.[43]
+In August 2005, the registry site's first update since starting that build was posted — photos of deck beams, cabin beams, and hatch beams — again asking the list to help keep `names.htm` current with any builder not yet listed.[43]
 
 ## A 2006 database renewal, and a new Los Angeles builder
 
-In February 2006, Serjeant renewed the registry appeal once more — asking
-builders to check their own entry at `www.smallsailboats.co.uk/paradox/names.htm`
-for accuracy, submit details if not yet listed, and, this time, specifically
-requesting photos of finished boats **on the water or on their trailer**
-rather than further building-stage pictures.[44]
+In February 2006, the registry appeal was renewed once more — asking builders to check their own entry at `www.smallsailboats.co.uk/paradox/names.htm` for accuracy, submit details if not yet listed, and, this time, specifically requesting photos of finished boats **on the water or on their trailer** rather than further building-stage pictures.[44]
 
-The appeal drew the archive's introduction of **Mark Waters**
-(`mwatersworld`), a Los Angeles, California builder whose Paradox was by
-then 90% complete, built strictly to plans, with no name chosen yet and
-completion expected by summer 2006. Waters had also built a Selway-Fisher
-50/50 sailing canoe, sharing that design lineage's "taste" with Serjeant's
-own site.[45] Chris Ostlind (`wedgesail`), who grew up in Redondo Beach,
-asked Waters to clarify whether his "L.A." meant the city proper or the
-wider county area, hoping to see the boat in person on a future visit and
-inviting Waters to write off-list.[46] Serjeant thanked Waters, added him
-to the registry, and noted his own build would likely miss finishing that
-year since he would be away during July and August — the best months for
-outdoor building in the UK — and had no indoor space to build in
-regardless.[47]
+The appeal drew the archive's introduction of a Los Angeles, California builder whose Paradox was by then 90% complete, built strictly to plans, with no name chosen yet and completion expected by summer 2006. A Selway-Fisher 50/50 sailing canoe had also been built, sharing that design lineage's "taste" with the registry site.[45] A query came in asking whether "L.A." meant the city proper or the wider county area, hoping to see the boat in person on a future visit.[46] Thanks followed, the boat was added to the registry, and a note that the registry-keeper's own build would likely miss finishing that year since he would be away during July and August — the best months for outdoor building in the UK — and had no indoor space to build in regardless.[47]
 
-Derek Clark separately proposed adding builders' e-mail addresses to the
-registry itself, having secured Serjeant's blessing to poll the list's
-opinion on the idea first.[48][49] Waters had no objection to his own
-address being listed,[50] and David Beard agreed likewise.[51] See
-[people/mark-waters.md](/people/mark-waters.md) for Waters' own build.
+A separate proposal to add builders' e-mail addresses to the registry itself followed, with the registry-keeper's blessing secured to poll the list's opinion on the idea first.[48][49] No objection was raised to including that Los Angeles builder's own address,[50] and agreement came from another builder likewise.[51] See [people/mark-waters.md](/people/mark-waters.md) for that build.
 
-Serjeant added a dedicated e-mail-address column to the registry itself,
-listing the first four volunteers by name (David Beard, Mark Waters, Derek
-Clark, and himself) and inviting further builders to opt in.[52] The
-proposal drew in a genuinely new prospective builder: a Phoenix, Arizona
-sailor who had already ordered the plans and book, hoping to use the
-registry's e-mail addresses to find other owners in his area to learn more
-about the design firsthand.[53] Serjeant told him the same standing rule
-applied to any newcomer — his details would be added once he actually
-started building, not merely on ordering the plans.[54] Serjeant then
-posted the registry's direct link
-(`www.smallsailboats.co.uk/paradox/names.htm`) to the whole list, repeating
-the open invitation to be added and separately flagging that the e-mail
-address on file for Mark Waters appeared to be incorrect.[55] Alastair
-belatedly asked to be added to the e-mail column as well, having missed
-Serjeant's earlier request.[56]
+A dedicated e-mail-address column was added to the registry itself, listing the first four volunteers (David Beard, Mark Waters, Derek Clark, and the registry-keeper) and inviting further builders to opt in.[52] The proposal drew in a genuinely new prospective builder: a Phoenix, Arizona sailor who had already ordered the plans and book, hoping to use the registry's e-mail addresses to find other owners in his area to learn more about the design firsthand.[53] The same standing rule was said to apply to any newcomer — details would be added once building actually started, not merely on ordering the plans.[54] The registry's direct link (`www.smallsailboats.co.uk/paradox/names.htm`) was then posted to the whole list, repeating the open invitation to be added and separately flagging that the e-mail address on file for the Los Angeles builder appeared to be incorrect.[55] A belated request followed to add another e-mail to the column as well, having missed the earlier request.[56]
 
-The same "Database" thread also turned up a **modified Paradox** absent from
-the registry: a boat nicknamed **"mini me"**, built by a UK-associated
-correspondent first named as "Dave Mason" but corrected in the same thread to
-**Wayne Mason**, with photos posted to the `microcruising` Yahoo Group's photo
-section rather than to `paradoxbuilders` itself.[57][58] Checking further,
-Serjeant judged "mini me"'s hull, though similar to a Paradox's, to be Wayne
-Mason's own design rather than a variant close enough to classify as one,
-given the number of differences between the two boats — so the registry was
-not updated to include her.[59] Nels asked whether "mini me" had chine
-runners, and whether any photos existed of her under sail even though she
-was not a true Paradox.[60] Serjeant pointed to the photos in the
-`microcruising` Yahoo Group's own "Mini Me" album, judging the boat a
-sturdy little craft, but likely **more vulnerable than a Paradox** because of
-her cockpit arrangement and higher-aspect rig; he also noted what looked
-like a daggerboard case on the cabin's port side in one photo, raising the
-possibility that "mini me," unlike a stock Paradox, used a daggerboard
-rather than chine runners for lateral resistance.[61]
+The same "Database" thread also turned up a **modified Paradox** absent from the registry: a boat nicknamed **"mini me,"** built by a UK-associated correspondent first named as "Dave Mason" but corrected in the same thread to **Wayne Mason**, with photos posted to the `microcruising` Yahoo Group's photo section rather than to `paradoxbuilders` itself.[57][58] Checking further, "mini me"'s hull, though similar to a Paradox's, was judged to be its builder's own design rather than a variant close enough to classify as one, given the number of differences between the two boats — so the registry was not updated to include her.[59] A question followed on whether "mini me" had chine runners, and whether any photos existed of her under sail even though she was not a true Paradox.[60] The photos in the `microcruising` Yahoo Group's own "Mini Me" album were pointed to, with a judgment that the boat was a sturdy little craft, but likely **more vulnerable than a Paradox** because of her cockpit arrangement and higher-aspect rig; a note also flagged what looked like a daggerboard case on the cabin's port side in one photo, raising the possibility that "mini me," unlike a stock Paradox, used a daggerboard rather than chine runners for lateral resistance.[61]
 
 ## A UK kit-built option: Jordan Boats
 
-Beyond plans and self-build, a **kit** option for a UK builder emerged in
-January 2005: **Alec Jordan** of **Jordan Boats** (`www.jordanboats.co.uk`)
-agreed to supply the first "kit" Paradox, working directly with
-[Matt Layden](/matt-layden/biography.md) on the project. Jordan Boats was
-understood to be open to manufacturing Paradox kits under license for
-builders in the USA or elsewhere — or kits of any other plywood boat design,
-including one's own. The Jordan Boats option is also relevant to a newcomer
-weighing whether he was too old to take up a Paradox, alongside a list of UK
-and nearby European cruising grounds reachable by road and ferry; see [first
-boat
-suitability](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger)
-for the full account.
+Beyond plans and self-build, a **kit** option for a UK builder emerged in January 2005: **Jordan Boats** (`www.jordanboats.co.uk`) agreed to supply the first "kit" Paradox, working directly with [Matt Layden](/matt-layden/biography.md) on the project. Jordan Boats was understood to be open to manufacturing Paradox kits under license for builders in the USA or elsewhere — or kits of any other plywood boat design, including one's own. The Jordan Boats option is also relevant to a newcomer weighing whether he was too old to take up a Paradox, alongside a list of UK and nearby European cruising grounds reachable by road and ferry; see [first boat suitability](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger) for the full account.
 
-By mid-2005, the first Jordan Boats kit Paradox was reported on track to
-ship soon, despite acknowledged "mixed feelings" among some list members
-about a kit-built option. Serjeant's own decision to pursue the kit traced
-directly back to trying out [Little Jim](/boats/little-jim.md) — Alastair's
-Paradox — firsthand at Plymouth, an experience he credited with deepening
-his wish to own one himself.[40]
+By mid-2005, the first Jordan Boats kit Paradox was reported on track to ship soon, despite acknowledged "mixed feelings" among some list members about a kit-built option. The decision to pursue the kit traced directly back to trying out [Little Jim](/boats/little-jim.md) firsthand at Plymouth, an experience credited with deepening the wish to own one.[40]
 
-The kit venture ultimately fell through. Despite Jordan's effort to work out
-a way to make every kit part fit together, the design and cutting process
-for the panels and components needed more research than could be completed
-in any realistic timeframe, and Serjeant learned he would not receive a kit
-after all. Jordan had not abandoned the idea of eventually offering a
-foolproof, production-quality kit, and supplied Serjeant with the plywood
-that would have gone into it; Serjeant chose to start building from
-[Matt Layden](/matt-layden/biography.md)'s original plans instead rather
-than wait on the kit effort, while thanking Jordan and Layden for their
-collaboration on the attempt. The episode is recorded as the archive's
-clearest account of why a Paradox kit proved harder to bring to market than
-a one-off self-build from plans.[41]
+The kit venture ultimately fell through. Despite an effort to work out a way to make every kit part fit together, the design and cutting process for the panels and components needed more research than could be completed in any realistic timeframe, and word came that no kit would be delivered after all. The idea of eventually offering a foolproof, production-quality kit had not been abandoned, and the plywood that would have gone into the kit was supplied instead; building began from [Matt Layden](/matt-layden/biography.md)'s original plans rather than waiting on the kit effort, with thanks extended for the collaboration on the attempt. The episode is recorded as the archive's clearest account of why a Paradox kit proved harder to bring to market than a one-off self-build from plans.[41]
 
 # Citations
 

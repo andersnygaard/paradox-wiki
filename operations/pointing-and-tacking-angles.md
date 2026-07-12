@@ -8,80 +8,31 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Pointing and tacking-angle expectations
 
-How well a [Paradox](/paradox.md) points to windward depends heavily on trim;
-disappointing pointing is often down to ballast placement rather than the
-hull or rig. [Glen C. Maxwell](/people/glen-maxwell.md) recorded the boat's
-concrete tacking-angle figures, drawn from his own sailing experience, along
-with a simple practical check for ballast trim.
+How well a [Paradox](/paradox.md) points to windward depends heavily on trim; disappointing pointing is often down to ballast placement rather than the hull or rig. The boat has concrete tacking-angle figures, drawn from sailing experience, along with a simple practical check for ballast trim.
 
 ## Two tacking-angle regimes
 
-Sailed to **foot well** (prioritizing speed over pointing), the boat will
-**tack through about 110 degrees**. Sailed hard on the wind to **point as
-high as possible**, she will **tack through about 90 degrees**, but "plod
-along with disappointing performance."
+Sailed to **foot well** (prioritizing speed over pointing), the boat will **tack through about 110 degrees**. Sailed hard on the wind to **point as high as possible**, she will **tack through about 90 degrees**, but "plod along with disappointing performance."
 
-The trade-off comes down to a rule of thumb: a sailor doesn't need more than
-about a **10% increase in boat speed for every 10 degrees fallen off** the
-wind to make footing off worthwhile — i.e. a small speed gain from sailing a
-little freer usually beats squeezing for the highest possible pointing angle.
-These figures put concrete numbers to the general
-[chine-runner windward-performance](/chine-runners/windward-performance.md)
-finding that Paradox sails to windward "passably well" without a
-centerboard, and are the first specific tacking angles (as opposed to
-VMG/speed figures) recorded in the archive.
+The trade-off comes down to a rule of thumb: a sailor doesn't need more than about a **10% increase in boat speed for every 10 degrees fallen off** the wind to make footing off worthwhile — i.e. a small speed gain from sailing a little freer usually beats squeezing for the highest possible pointing angle. These figures put concrete numbers to the general [chine-runner windward-performance](/chine-runners/windward-performance.md) finding that Paradox sails to windward "passably well" without a centerboard, and are the first specific tacking angles (as opposed to VMG/speed figures) recorded in the archive.
 
 ## Checking ballast trim afloat
 
-A simple, practical trim check can confirm whether poor pointing is a trim
-problem:
+A simple, practical trim check can confirm whether poor pointing is a trim problem:
 
 - With **no one aboard**, the boat should sit **bow-down**.
-- To check trim with a **crew aboard**, have someone ashore observe how the
-  boat is floating while the sailor stands at the helm station; if she trims
-  **bow-up**, move weight **forward**.
-- Alternatively, use a **level placed on the floor boards**, since the floor
-  boards are level with the design waterline — a way to check trim without
-  needing an observer ashore.
+- To check trim with a **crew aboard**, have someone ashore observe how the boat is floating while the sailor stands at the helm station; if she trims **bow-up**, move weight **forward**.
+- Alternatively, use a **level placed on the floor boards**, since the floor boards are level with the design waterline — a way to check trim without needing an observer ashore.
 
-This afloat check is a distinct, complementary answer to the separate
-[ballast-rebalancing question](/design/weight-and-ballast.md)
-of **how much** ballast to move to compensate for a heavier outboard; that
-question addresses adjusting for an added weight, while this check tests
-whether the current trim is already off.
+This afloat check is a distinct, complementary answer to the separate [ballast-rebalancing question](/design/weight-and-ballast.md) of **how much** ballast to move to compensate for a heavier outboard; that question addresses adjusting for an added weight, while this check tests whether the current trim is already off.
 
 ## A forward-weight-shift technique for completing a stubborn tack
 
-A recurring tacking failure — stalling head to wind and falling back onto the
-same tack — is most troublesome in restricted waters where every foot of
-progress counts, and is made worse by reduced (reefed) sail area. The
-reliable fix, tested repeatedly by [Alastair](/people/alastair.md) during a
-hard 2.5-mile beat up a quarter-mile-wide channel in a full Force 5 (with
-Force 9 forecast) aboard ["Little Jim"](/boats/little-jim.md), never failed:
-just before putting the helm over, duck down into the cabin to shift crew
-weight forward, which brings the boat through head-to-wind "with great
-alacrity"; once she has fallen off onto the new tack, regain the helm seat.
-The same trip also demonstrated the technique's limit: in a narrow, winding
-stretch of river too tight to tack up, with sail dropped for sculling, the
-boat proved briefly unable to make any headway into the same strong wind,
-even to hold a heading into it, until a lighter patch allowed her to
-continue.
+A recurring tacking failure — stalling head to wind and falling back onto the same tack — is most troublesome in restricted waters where every foot of progress counts, and is made worse by reduced (reefed) sail area. The reliable fix, tested repeatedly during a hard 2.5-mile beat up a quarter-mile-wide channel in a full Force 5 (with Force 9 forecast) aboard ["Little Jim"](/boats/little-jim.md), never failed: just before putting the helm over, duck down into the cabin to shift crew weight forward, which brings the boat through head-to-wind "with great alacrity"; once she has fallen off onto the new tack, regain the helm seat. The same trip also demonstrated the technique's limit: in a narrow, winding stretch of river too tight to tack up, with sail dropped for sculling, the boat proved briefly unable to make any headway into the same strong wind, even to hold a heading into it, until a lighter patch allowed her to continue.
 
 ## A quantified tacking-angle trial by GPS
 
-GPS-track analysis of that same windward beat produced the most detailed
-tacking-angle dataset on record for a Paradox: over **19 tacks**, sailed with
-the sail reefed to about 50%, the average change of heading through the tack
-was **130 degrees**, ranging from a **worst of 150 degrees** (near the
-choppier mouth of the channel, in roughly 2 ft of wind chop) to a **best of
-98 degrees** (at the more sheltered head of the channel, in flatter water).
-Heel stayed steady at the usual **20 degrees** throughout. An earlier attempt
-with a couple more feet of sail up had left the boat overpowered; the front
-of the sail beginning to back or flutter serves as a practical guide to the
-closest safe angle to the wind, with a full sail seeming to point higher than
-a reefed one, though without hard figures to confirm it. These figures
-represent at least what a relative novice can expect to get from the boat,
-with room for a more practiced sailor to do better still.
+GPS-track analysis of that same windward beat produced the most detailed tacking-angle dataset on record for a Paradox: over **19 tacks**, sailed with the sail reefed to about 50%, the average change of heading through the tack was **130 degrees**, ranging from a **worst of 150 degrees** (near the choppier mouth of the channel, in roughly 2 ft of wind chop) to a **best of 98 degrees** (at the more sheltered head of the channel, in flatter water). Heel stayed steady at the usual **20 degrees** throughout. An earlier attempt with a couple more feet of sail up had left the boat overpowered; the front of the sail beginning to back or flutter serves as a practical guide to the closest safe angle to the wind, with a full sail seeming to point higher than a reefed one, though without hard figures to confirm it. These figures represent at least what a relative novice can expect to get from the boat, with room for a more practiced sailor to do better still.
 
 # Citations
 

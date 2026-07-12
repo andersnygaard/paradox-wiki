@@ -8,61 +8,24 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Sven Yrvind
 
-**Sven Yrvind** (also recorded in the archive as **Sven Lundin**) is a Swedish
-designer and ocean voyager celebrated for building and sailing **extraordinarily
-small blue-water boats** — the "Bris" series and their successors — and for a
-minimalist, safety-first design philosophy worked out over a lifetime of
-single-handed ocean passages. He publishes his work at
-[yrvind.com](/references/yrvind-website.md).
+**Sven Yrvind** (also recorded in the archive as **Sven Lundin**) is a Swedish designer and ocean voyager celebrated for building and sailing **extraordinarily small blue-water boats** — the "Bris" series and their successors — and for a minimalist, safety-first design philosophy worked out over a lifetime of single-handed ocean passages. His work is published at [yrvind.com](/references/yrvind-website.md).
 
-Unlike the [Bolducs](/people/bolduc.md) or [Glen
-Maxwell](/people/glen-maxwell.md), Yrvind is **not a participant in the
-`paradoxbuilders` archive** — there is no record of him posting to the list.
-He earns a place among the bundle's people the way [William
-Longyard](/people/william-longyard.md) and [David LeBlanc](/people/david-leblanc.md)
-do, but from the *outside*: he is one of the **most frequently invoked external
-figures** in the whole archive, cited in three distinct roles that recur across
-many threads —
+Yrvind is **not a participant in the `paradoxbuilders` archive** — there is no record of him posting to the list. He earns a place among the bundle's people from the *outside*: he is one of the **most frequently invoked external figures** in the whole archive, cited in three distinct roles that recur across many threads —
 
-1. **The design foil.** Members repeatedly weigh Paradox's offshore capability,
-   hull form, materials, and rig against Yrvind's structurally very different
-   boats — the archive's first and fullest comparison of Paradox to another
-   named microcruiser designer's body of work. See [blue-water suitability and
-   comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
-2. **The chine runner's champion.** As [Matt Layden](/matt-layden/biography.md)'s
-   personal friend and weekly correspondent — a man who **sailed Paradox himself
-   for a month in 1997** and adopted the feature on his own boats — Yrvind is the
-   most authoritative *outside* voice on the chine runner, and the source of its
-   best-known epigram: "the greatest innovation for small cruising boats in the
-   last century." See [Paradox and the chine
-   runner](/people/yrvind/paradox-and-the-chine-runner.md).
-3. **The primary source.** His own website and books are cited directly for the
-   chine runner's mechanism, dating, and evolution, and for Matt Layden's boats'
-   dimensions and history.
+1. **The design foil.** Paradox's offshore capability, hull form, materials, and rig are repeatedly weighed against Yrvind's structurally very different boats — the archive's first and fullest comparison of Paradox to another named microcruiser designer's body of work. See [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
+2. **The chine runner's champion.** As [Matt Layden](/matt-layden/biography.md)'s personal friend and weekly correspondent — a man who **sailed Paradox himself for a month in 1997** and adopted the feature on his own boats — Yrvind is the most authoritative *outside* voice on the chine runner, and the source of its best-known epigram: "the greatest innovation for small cruising boats in the last century." See [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md).
+3. **The primary source.** His own website and books are cited directly for the chine runner's mechanism, dating, and evolution, and for Matt Layden's boats' dimensions and history.
 
 ## Record and sub-pages
 
-* [Voyages and boats](/people/yrvind/voyages-and-boats.md) — who he is: his
-  ocean-voyaging career (Cape Horn, Tristan da Cunha, the Falklands), his own
-  boats (Bris, Aluminum-Bris, YRVIND.COM, YRVIND ½), and the flex-composite,
-  multi-sail, maximum-safety design philosophy that members contrast with
-  Matt Layden's simpler plywood approach.
-* [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md)
-  — his firsthand relationship with Matt Layden, the month he spent sailing
-  Paradox in 1997, his "deflector, not hydrofoil" theory of how the runners
-  work, and his adoption of (and eventual partial divergence from) the concept.
+* [Voyages and boats](/people/yrvind/voyages-and-boats.md) — his ocean-voyaging career (Cape Horn, Tristan da Cunha, the Falklands), his own boats (Bris, Aluminum-Bris, YRVIND.COM, YRVIND ½), and the flex-composite, multi-sail, maximum-safety design philosophy contrasted with Matt Layden's simpler plywood approach.
+* [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md) — his firsthand relationship with Matt Layden, the month he spent sailing Paradox in 1997, his "deflector, not hydrofoil" theory of how the runners work, and his adoption of (and eventual partial divergence from) the concept.
 
 ## Related
 
-- The [chine runners](/chine-runners/index.md) branch, where Yrvind's firsthand
-  testimony and primary-source writings are woven through the mechanism, origin,
-  and performance concepts.
-- The ["BRIS Paradox"](/boats/bris-paradox.md) — [Kjell
-  Karlsson](/people/kjell-karlsson.md)'s Paradox built in Yrvind's foam-sandwich
-  composite method, the archive's only one built that way.
-- [William Longyard](/people/william-longyard.md), the list's readiest source on
-  Yrvind's boats, who owned Yrvind's Swedish-language books and had spoken with
-  him personally.
+- The [chine runners](/chine-runners/index.md) branch, where Yrvind's firsthand testimony and primary-source writings are woven through the mechanism, origin, and performance concepts.
+- The ["BRIS Paradox"](/boats/bris-paradox.md) — a Paradox built in Yrvind's foam-sandwich composite method, the archive's only one built that way.
+- Yrvind's Swedish-language books and his boats were also known firsthand elsewhere in the archive; see [William Longyard](/people/william-longyard.md).
 
 # Citations
 

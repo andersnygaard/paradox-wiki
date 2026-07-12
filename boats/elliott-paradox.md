@@ -8,31 +8,14 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Don Elliott's Paradox
 
-The [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md),
-known as **"The Edge"** — a name never confirmed by Don himself but inferred
-from launch photographs on a fellow UK builder's website (URL ending
-`edge.htm`), a fitting name, in a fellow builder's view, for how a Paradox can
-feel beating to windward in a rough sea or surfing downwind on large breakers.
-The boat remains filed under its builder/owner rather than this inferred name.
+The [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md), known as **"The Edge"** — a name never confirmed by Don Elliott himself but inferred from launch photographs on a UK builder's website (URL ending `edge.htm`), a fitting name for how a Paradox can feel beating to windward in a rough sea or surfing downwind on large breakers. The boat remains filed under its builder/owner rather than this inferred name.
 
 # Record
 
-- By **July 2001**, Don Elliott's was one of only two Paradoxes known to be
-  sailing, the other being Matt Layden's own prototype (see
-  [original Paradox](original-paradox.md)).
-- The boat is **heavily built**, to Matt's plans. Don became a primary
-  technical resource on the list, authoring the
-  ["Building the Paradox" articles](/references/building-the-paradox-articles.md)
-  (including a coach-roof jig) and advocating building strictly to plan (see
-  [fastening and gluing](/construction/fastening-and-gluing.md)).
-- Its **lead ballast** is installed in hardwood blocks (not oak) epoxy-bonded
-  to the hull and tapped for threaded fastenings after bonding; forward
-  trim lead counterbalances the battery, strapped down with nylon straps;
-  all lead is sealed in plastic with rubber padding. See
-  [weight and ballast](/design/weight-and-ballast.md) for the full technique.
-- Don Elliott is believed, though not confirmed, to live in Wisconsin — the
-  only location given anywhere in the archive for him. See
-  [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md).
+- By **July 2001**, Don Elliott's was one of only two Paradoxes known to be sailing, the other being Matt Layden's own prototype (see [original Paradox](original-paradox.md)).
+- The boat is **heavily built**, to Matt's plans. Don Elliott became a primary technical resource on the list, authoring the ["Building the Paradox" articles](/references/building-the-paradox-articles.md) (including a coach-roof jig) and advocating building strictly to plan (see [fastening and gluing](/construction/fastening-and-gluing.md)).
+- Its **lead ballast** is installed in hardwood blocks (not oak) epoxy-bonded to the hull and tapped for threaded fastenings after bonding; forward trim lead counterbalances the battery, strapped down with nylon straps; all lead is sealed in plastic with rubber padding. See [weight and ballast](/design/weight-and-ballast.md) for the full technique.
+- Don Elliott is believed, though not confirmed, to live in Wisconsin — the only location given anywhere in the archive for him. See [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md).
 
 # Citations
 

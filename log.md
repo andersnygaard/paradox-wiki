@@ -1,5 +1,163 @@
 # Bundle Update Log
 
+## 2026-07-07 (4000-review, FP3-FP5 — coherence blurbs, mechanical fixes, Layden bio enrichment)
+
+Executed three small fix passes of the ~4000-post holistic review. All
+headings and `# Citations` blocks were frozen throughout (no anchors moved).
+
+- **FP3 (coherence blurbs).** Trimmed three over-grown index blurbs to
+  one-sentence routing descriptions, per `B1-coherence.md` actions 16-18:
+  `boats/index.md`'s "Other known builds" blockquote (Hugh Miller / "Petite
+  Lady") collapsed from a four-sentence chronological narrative to one
+  routing sentence pointing at `people/bolduc/dave.md` for the full timeline;
+  `people/index.md`'s Glen C. Maxwell and Bolduc bullets each collapsed from
+  a 3-clause description plus a parenthetical sub-page enumeration down to
+  one routing sentence apiece, pointing at `glen-maxwell.md` and `bolduc.md`
+  respectively.
+- **FP4 (mechanical).** Fixed the broken link target in `boats/ladikan.md`
+  (`/bris-paradox.md` → `/boats/bris-paradox.md`). Repointed the dangling
+  in-body citation marker `[48]` in `operations/radio-and-electronics.md` to
+  `[19]` — the file's own Citations block only runs to `[27]`, and of the two
+  candidates flagged in `B5-mechanical.md` ([19]/[21]), `[19]` (Brent Geery)
+  is the one that states verbatim "the units are sold as marinized but is
+  unsure how successfully," an exact match for the sentence; `[21]` covers an
+  unrelated AIR 403-vs-Air-X blade-design comparison. Rephrased
+  `people/chris-becker.md`'s stale present-tense intro ("is a Paradox
+  builder... is building his boat 'Walden'...") to past tense ("was a
+  Paradox builder... who built... 'Walden'..."), including the frontmatter
+  `description`, without asserting any launch/completion beyond what
+  `boats/walden.md`'s build record supports (stops August 2002 at
+  bulkheads/scarfed panels, boat's later fate unrecorded).
+- **FP5 (Matt Layden bio enrichment).** Added two deferred facts to
+  `matt-layden/biography.md` per `B6-layden-and-loops.md` Section 1, without
+  rebuilding the file: (a) in "Racing beyond Paradox," Matt's ~25,000-mile
+  lifetime sail/row/scull/paddle figure (including one winter aboard a boat
+  in ice and snow) and his liability-driven reluctance to self-publish
+  plans, stated explicitly as a single, uncorroborated secondhand list
+  characterization (Nels, never corroborated through page 4000), with a new
+  citation `[57]` appended to the end of the Citations block (mirroring
+  `references/mailing-list.md#list-culture`'s own citation for the same
+  message); (b) tightened the 2004 Everglades Challenge sentence to name the
+  boat "Rob Royoid" and its Everglades-portage purpose explicitly, and to
+  state plainly that the Lake Michigan inflatable-kayak record belongs to
+  the **Michigan Challenge** (Aug 2003), not a Florida race — cross-linked
+  to `references/mailing-list.md#list-culture` for the fuller
+  race-attribution correction. No chine-runner detail duplicated; all
+  existing citations preserved untouched.
+- Link checker (`anchorcheck.js` + `anchorcheck2.js`) clean after all three
+  passes: 0 broken.
+
+## 2026-07-07 (4000-review, FP2 — build `boats/faith.md`)
+
+Executed FP2 of the ~4000-post holistic review: a structural page split, not
+new archive content. Per the verification gate `V2-verify-faith.md`, moved
+Bill Serjeant's boat-build narrative off his overgrown person page
+(`people/bill-serjeant.md`, 24 `##` headings / 118 citations) onto a new
+boat node, following the `boats/enuf.md` precedent for a pre-launch build.
+
+- **Created `boats/faith.md`** (`type: Boat`, tags
+  `[paradox, boat, faith, bill-serjeant, uk, build]`) and moved 16 boat-build
+  headings there verbatim — heading text preserved byte-for-byte so every
+  anchor still resolves at its new location — covering the kit-Paradox
+  false start, the scratch build from Matt Layden's plans, boom/yard
+  curvature, the hull-assembly milestone, the dry assembly (named "Faith"),
+  frames/floors/vent-trunk, ballast-tank plumbing and the off-centre tank
+  divider, the Australia-trip pause, the chine-runner/Mark-Waters-Paradox
+  photos, Faith's rudder fairlead/tang fixes, the kit-method postscript, a
+  second topping-lift question, the lower-pintle technique, ballast-access
+  and tank-top questions, the removable-floorboard technique, the trim
+  question, and the final build-progress photos. Gave faith.md its own
+  sequential Citations block ([1]-[81], renumbered from the source's
+  scattered originals) with every in-body `[N]` marker updated to match.
+- **Trimmed `people/bill-serjeant.md`** to its 8 remaining person/registry
+  headings (web presence & registry, design-discussion contributions, the
+  June 2006 site outage — kept here as registry/website-operations content
+  despite sitting chronologically among build sections, the "quintessential
+  seat" proposal, the Wharram Hina knockdown caution, the "Jubilee"
+  chine-runner question, the visit to Alastair's, and the three-handles
+  identity note). Citations renumbered locally to [1]-[37]. Left a one-line
+  pointer to the new boat page in the intro paragraph rather than
+  re-narrating the build.
+- **Repointed 9 externally-linked anchors** (10 named inbound sites, plus 2
+  more the verification gate surfaced beyond the original 8-file list) from
+  `people/bill-serjeant.md#...` to `boats/faith.md#...` across
+  `boats/enuf.md`, `people/mark-waters.md`, `people/matt-noonan-ithaca.md`,
+  `people/andrew-graham.md`, `design/rudder.md` (2 anchors), `people/alastair.md`
+  (3 anchors / 6 citation lines), `people/david-beard.md`,
+  `design/interior-bins-and-floor.md`, `design/weight-and-ballast.md` (3
+  citation lines), `construction/water-tank-lining.md`, and
+  `people/stephen-yahn.md`. Re-grepped the whole bundle afterward: zero
+  residual links to any moved anchor on `bill-serjeant.md`.
+- Added a **Faith (Bill Serjeant)** routing entry to `boats/index.md`,
+  noting the UK / strictly-to-plans / still-under-construction status
+  (Enuf's own pre-launch stage as the precedent).
+- Link checker (`anchorcheck.js` + `anchorcheck2.js`) clean after the split.
+
+## 2026-07-07 (4000-review, FP1 — prune)
+
+Executed FP1 of the ~4000-post holistic review (cursor unchanged at batch
+400/page_4000; this is a structural maintenance pass, not new archive
+content). Per the verification gate `V1-verify-deletes.md`, deleted six
+long-standing stub/redirect pages after repointing every inbound link (fresh
+tree-wide greps re-confirmed each file's inbound count before deletion, and
+confirmed zero residual references afterward):
+
+- **`people/chris-curtis.md`** (redirect stub) → deleted. Repointed 5 inbound
+  links (`boats/index.md`, `people/chris-becker.md`,
+  `operations/texas-200.md`, `people/index.md`, and the stub's own reciprocal
+  mention on `boats/curtis-paradox.md`) to point directly at
+  `boats/curtis-paradox.md`, now the sole canonical page for Chris Curtis
+  himself. Added a disambiguation sentence to `boats/curtis-paradox.md`
+  distinguishing this established Sandpoint, Idaho owner from two other
+  below-threshold correspondents who also used "Chris Curtis"/"Curtis":
+  2006 newcomer `joe_mapango`/`ccurtis` (no boat on record) and Phoenix,
+  AZ's `azskybum`.
+- **`operations/newcomer-faq-comfort-and-safety.md`** (stub, folded into
+  `first-boat-suitability.md`) → deleted. Repointed 4 inbound links
+  (`crew-size-and-fit.md` ×2, and a circular self-link on
+  `first-boat-suitability.md` itself, which is now removed as obsolete) to
+  `first-boat-suitability.md#open-newcomer-questions-cabin-comfort-capacity-and-perceived-safety`.
+- **`references/smallboats-group.md`** (stub, folded into `mailing-list.md`)
+  → deleted. Repointed 2 inbound links (`people/don-elliott.md`,
+  `construction/plywood-grades-and-foam-flotation.md`) to
+  `mailing-list.md#sibling-and-successor-groups`.
+- **`references/general-boatbuilding-links.md`** and
+  **`references/west-system-resources.md`** (both stubs, folded into
+  `materials-sourcing-links.md`) → deleted together. Repointed 4 inbound
+  links total (`construction/chine-log-vs-taped-seam.md`,
+  `people/mat-man22.md`, `people/david-leblanc.md`,
+  `construction/rot-inspection-ice-pick.md`) to
+  `materials-sourcing-links.md`'s two specific section anchors. Also fixed a
+  pre-existing bug: `references/index.md`'s combined nav entry for
+  `materials-sourcing-links.md` was missing both anchor fragments entirely;
+  it now links each folded-in topic to its correct heading.
+- **`references/wind-vane-self-steering-book.md`** (full page, not yet a
+  stub) → deleted. First folded its one fact not already duplicated at the
+  target — the book's December 2001 out-of-print status, still purchasable
+  via armchairsailor.com for $36.95 — into
+  `operations/self-steering.md`'s existing wind-vane-book paragraph as a new
+  citation [33], then removed the now-redundant "see [book page]" sentence
+  there, then updated `references/index.md`'s entry to point at
+  `self-steering.md#a-purpose-built-option-wind-vane-self-steering` instead
+  of the deleted page.
+
+All six files' entries were also removed from their section `index.md`.
+`log.md`'s own historical references to these six filenames (documenting
+past batch actions) are left as-is, consistent with this archive's
+historical-tense convention — only live cross-links were repointed.
+
+**Trim:** `design/variants/scaled-down-idea.md` — cut the "Venetian-blind
+sail" joke tail (the 7'6" PARADOX/ENIGMA aside, the Armature Yacht Research
+Society one-liner, the electric-motor/battery joke, the "playing with my
+r's" punchline, and the closing Bolger Camper-640 riff), none of which any
+inbound anchor depended on. Kept the scaled-hull proposal, the Bolger
+Brick/PDRacer alternatives, the sponsons cautionary tale, the abandonment
+reasoning, and the Enigma/"Mini Paradox" disambiguation intact; headings and
+the Citations block untouched.
+
+No new archive content this pass; link checker run clean afterward (see
+`.okf-progress/review-4000/` for the full audit trail).
+
 ## 2026-07-07 (batch 400: page_3991-page_4000)
 
 This batch covers ten messages spanning **4-6 October 2006**, continuing

@@ -8,75 +8,22 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Ron Eike
 
-**Ron Eike** (`reike2@...`, Yahoo profile `sailman58`) was a recurring
-`paradoxbuilders` list member across 2001–2003, active from the November 2001
-KakWorm virus scare through the March 2003 Everglades Challenge. Like
-[David LeBlanc](/people/david-leblanc.md), he is not recorded as having built,
-bought, or sailed a [Paradox](/paradox.md) himself; a sailing-canoe sailor by
-background, he earns his place on sustained, substantive recurrence — most
-notably as the thread's go-to voice on small-craft sailmakers.
+**Ron Eike** (`reike2@...`, Yahoo profile `sailman58`) was a recurring `paradoxbuilders` list member across 2001–2003, active from the November 2001 KakWorm virus scare through the March 2003 Everglades Challenge. Like [David LeBlanc](/people/david-leblanc.md), he is not recorded as having built, bought, or sailed a [Paradox](/paradox.md) himself; a sailing-canoe sailor by background, he earns his place on sustained, substantive recurrence — most notably as the thread's go-to voice on small-craft sailmakers.
 
 ## Contributions
 
-- **Small-craft sailmaker referrals.** When [David Beard](/people/david-beard.md)
-  sought a lug-sail-experienced sailmaker for
-  "[Whisper](/boats/whisper.md)", Ron supplied the thread's only concrete
-  names — **Dabbler** (Virginia), **Douglas Fowler** (upstate New York), and
-  **Todd Bradshaw**, author of *Canoe Rig* — and vouched for two from firsthand
-  canoe-sailing experience: he had used Dabbler's sails and rated Fowler the
-  favorite among traditional sailing-canoe enthusiasts, believing Fowler had
-  built at least one set of Caledonia Yawl sails. See
-  [rig and sail — the sailmaker thread answered](/design/rig.md).
-  His follow-up question about a "tanbark" sail's maker drew out the
-  sailmaker's name, **Sails Ect.** of St. Augustine, FL; see
-  [rig and sail — a last follow-up names the sailmaker](/design/rig.md).
-- **Wanting to see a Paradox in person.** In [Chris Becker](/people/chris-becker.md)'s
-  December 2001 census he asked where existing boats were located and whether he
-  could board one, reasoning that boarding an actual boat was the only sure way
-  to judge whether the design suited him.
-- **KakWorm virus scare.** He was among the members who confirmed still
-  receiving infected mail from [David Beard](/people/david-beard.md), then
-  confirmed David's later messages arrived clean; see
-  [David Beard — bought the secondhand Paradox](/people/david-beard.md).
-- **List policy.** In the "Stopping spammers" thread he favored keeping the
-  group **open** over closing it to fight spam, so each member could choose
-  their own solution — his own being the **digest** format or simply ignoring
-  spam and reading the sender's address as a clue; see
-  [Paradox builders mailing list — the thread's tail](/references/mailing-list.md).
-- **A composite-gaff account.** In the New Year's "Mast" thread, recalled
-  seeing a gaff built over a tapered PVC-pipe mandrel, glassed and sanded,
-  then wrapped in two layers of tubular carbon fiber wet out together and
-  consolidated with plastic tape; judged the PVC core contributed negligible
-  strength itself but a spruce core, as David C. Smith proposed for a Paradox mast, would
-  add plenty. See [rig and sail — a birdmouth-and-carbon composite mast,
-  revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
+- **Small-craft sailmaker referrals.** A search for a lug-sail-experienced sailmaker for "[Whisper](/boats/whisper.md)" turned up the thread's only concrete names — **Dabbler** (Virginia), **Douglas Fowler** (upstate New York), and **Todd Bradshaw**, author of *Canoe Rig* — with two vouched for from firsthand canoe-sailing experience: Dabbler's sails had been used personally, and Fowler was rated the favorite among traditional sailing-canoe enthusiasts, believed to have built at least one set of Caledonia Yawl sails. See [rig and sail — the sailmaker thread answered](/design/rig.md). A follow-up question about a "tanbark" sail's maker drew out the sailmaker's name, **Sails Ect.** of St. Augustine, FL; see [rig and sail — a last follow-up names the sailmaker](/design/rig.md).
+- **Wanting to see a Paradox in person.** In a December 2001 census he asked where existing boats were located and whether he could board one, reasoning that boarding an actual boat was the only sure way to judge whether the design suited him.
+- **KakWorm virus scare.** He was among the members who confirmed still receiving infected mail, then confirmed the later messages arrived clean; see [David Beard — bought the secondhand Paradox](/people/david-beard.md).
+- **List policy.** In the "Stopping spammers" thread he favored keeping the group **open** over closing it to fight spam, so each member could choose their own solution — his own being the **digest** format or simply ignoring spam and reading the sender's address as a clue; see [Paradox builders mailing list — the thread's tail](/references/mailing-list.md).
+- **A composite-gaff account.** In the New Year's "Mast" thread, recalled seeing a gaff built over a tapered PVC-pipe mandrel, glassed and sanded, then wrapped in two layers of tubular carbon fiber wet out together and consolidated with plastic tape; judged the PVC core contributed negligible strength itself but a spruce core, as proposed for a Paradox mast, would add plenty. See [rig and sail — a birdmouth-and-carbon composite mast, revisited](/design/rig.md#a-birdmouth-and-carbon-composite-mast-revisited).
 
-- **Asking about Matt Layden's small racing canoe.** In March 2005 he asked
-  Dave Bolduc, as "the official source for Paradox," whether plans existed
-  for the canoe Matt had been racing in the last two Watertribe Challenges;
-  see [Matt Layden — the 14 ft Rob Roy-based canoe, and the 2005 Everglades
-  Challenge](/matt-layden/biography.md#the-14-ft-rob-roy-based-canoe-and-the-2005-everglades-challenge).
-- **Defending WaterTribe-capable designs.** When Jim Michalak dismissed his
-  own designs as "lake boats, not sea boats," Ron pointed to a Michalak
-  "Frolic2" that had entered and finished the WaterTribe Everglades Challenge
-  in good shape — see [the mailing list's list
-  culture](/references/mailing-list.md#list-culture).
+- **Asking about Matt Layden's small racing canoe.** In March 2005 he asked, addressing "the official source for Paradox," whether plans existed for the canoe Matt had been racing in the last two Watertribe Challenges; see [Matt Layden — the 14 ft Rob Roy-based canoe, and the 2005 Everglades Challenge](/matt-layden/biography.md#the-14-ft-rob-roy-based-canoe-and-the-2005-everglades-challenge).
+- **Defending WaterTribe-capable designs.** After a designer's own designs were dismissed as "lake boats, not sea boats," Ron pointed to a "Frolic2" that had entered and finished the WaterTribe Everglades Challenge in good shape — see [the mailing list's list culture](/references/mailing-list.md#list-culture).
 
 ## Everglades Challenge commentary
 
-Ron followed Matt Layden's 2003 WaterTribe Everglades Challenge run closely and
-was a persistent commentator on it. He raised the **above-high-tide-line launch
-rule** as a practical problem for a boat as heavy as a loaded Paradox (see
-[weight, ballast, and displacement](/design/weight-and-ballast.md));
-watching the race unfold, he was surprised the lighter **Seapearl** "has not
-been more competitive" against Matt's heavier boat (see
-[boats/original-paradox.md](/boats/original-paradox.md));
-and in the aftermath he guessed the organizers might impose a **15 ft minimum
-entry length**, wondered whether Matt had caught favorable wind shifts,
-suggested a two-station-rowing crew could keep a Sea Pearl competitive around
-the clock, and relayed a WaterTribe-forum sighting of a 21 ft Sea Pearl passing
-**Cape Sable** at sunset (see
-[boats/original-paradox.md](/boats/original-paradox.md)).
+Ron followed Matt Layden's 2003 WaterTribe Everglades Challenge run closely and was a persistent commentator on it. He raised the **above-high-tide-line launch rule** as a practical problem for a boat as heavy as a loaded Paradox (see [weight, ballast, and displacement](/design/weight-and-ballast.md)); watching the race unfold, surprise was expressed that the lighter **Seapearl** "has not been more competitive" against Matt's heavier boat (see [boats/original-paradox.md](/boats/original-paradox.md)); and in the aftermath came a guess that the organizers might impose a **15 ft minimum entry length**, a question of whether Matt had caught favorable wind shifts, a suggestion that a two-station-rowing crew could keep a Sea Pearl competitive around the clock, and a relayed WaterTribe-forum sighting of a 21 ft Sea Pearl passing **Cape Sable** at sunset (see [boats/original-paradox.md](/boats/original-paradox.md)).
 
 # Citations
 

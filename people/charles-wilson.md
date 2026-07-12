@@ -8,29 +8,14 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Charles Wilson
 
-**Charles Wilson** was a UK-based Paradox plans customer and early
-`paradoxbuilders` list member, active from October 2001, who bought a set of
-Paradox plans but ultimately built a different boat.
+**Charles Wilson** was a UK-based Paradox plans customer and early `paradoxbuilders` list member, active from October 2001, who bought a set of Paradox plans but ultimately built a different boat.
 
 ## Contributions
 
-- **Defended Don Elliott's credentials.** During the
-  [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md),
-  Wilson argued against pressing [Don Elliott](/people/don-elliott.md) on his
-  qualifications: "Don knows everything about boating, design and building,"
-  and a similar challenge on another list had "caused more trouble than it was
-  worth." Don resigned from the list soon after.
-- **Bought a set of plans from** [Dave Bolduc](/people/bolduc/dave.md), praising
-  the service as excellent. See [building plans](/references/building-plans.md).
-- **Raised the "stretch Paradox" question** — whether the boat could be
-  stretched to 16 feet — answered by Matt Layden's rule of thumb for scaling
-  scantlings by the enlargement factor. See
-  [stretched Paradox](/design/variants/stretched-paradox.md).
-- **Passed his spare plans CD** (which included the building sequence) on to a
-  newcomer seeking a documented Paradox build sequence, having gone on to build
-  a different boat himself. See
-  [Paul V. (cruisenewsnet / sohaven2002)](/people/paul-v.md)
-  and [hull assembly sequence](/construction/hull-assembly-sequence.md).
+- **Defended a fellow list member's credentials.** During the [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md), argued against pressing the member on his qualifications: "knows everything about boating, design and building," and a similar challenge on another list had "caused more trouble than it was worth." That member resigned from the list soon after.
+- **Bought a set of plans**, praising the service as excellent. See [building plans](/references/building-plans.md).
+- **Raised the "stretch Paradox" question** — whether the boat could be stretched to 16 feet — answered by Matt Layden's rule of thumb for scaling scantlings by the enlargement factor. See [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Passed his spare plans CD** (which included the building sequence) on to a newcomer seeking a documented Paradox build sequence, having gone on to build a different boat himself. See [hull assembly sequence](/construction/hull-assembly-sequence.md).
 
 # Citations
 

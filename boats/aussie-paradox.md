@@ -8,405 +8,97 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Aussie Paradox
 
-**"Aussie Paradox"** is the informal name for [Andrew Graham](/people/andrew-graham.md)'s
-[Paradox](/paradox.md) build, launched as **"Zero"** — the second identified
-Australian Paradox build, after [Chris Becker](/people/chris-becker.md)'s
-"Walden," also based in Brisbane but a separate, independent build with no
-connection recorded between the two builders.
+**"Aussie Paradox"** is the informal name for [Andrew Graham](/people/andrew-graham.md)'s [Paradox](/paradox.md) build, launched as **"Zero"** — the second identified Australian Paradox build, after "Walden," also based in Brisbane but a separate, independent build with no connection recorded between the two builders.
 
 ## Frames cut, shed built, plans deviations flagged
 
-Building a Paradox is a real construction-logistics undertaking before any
-boatbuilding itself begins: Andrew held the plans for **about a year**
-before starting, first needing a **covered patio** to work under and then,
-after a stretch of wet weather, a proper **shed**. Construction began with
-**frames set up on little feet** in the new shed, cut but not yet assembled
-into a hull. See [Andrew Graham](/people/andrew-graham.md) for the full list
-of construction choices and deviations from the plans: a single-sheet
-frame/transom cutting layout suited to **Australian 2400x1200mm plywood**, a
-widened transom gaining 25mm of bunk length, omitted mid bins for extra
-footroom, no frame-attachment cleats, and an as-yet-undecided water-tank
-installation.
+Building a Paradox is a real construction-logistics undertaking before any boatbuilding itself begins: Andrew held the plans for **about a year** before starting, first needing a **covered patio** to work under and then, after a stretch of wet weather, a proper **shed**. Construction began with **frames set up on little feet** in the new shed, cut but not yet assembled into a hull. See [Andrew Graham](/people/andrew-graham.md) for the full list of construction choices and deviations from the plans: a single-sheet frame/transom cutting layout suited to **Australian 2400x1200mm plywood**, a widened transom gaining 25mm of bunk length, omitted mid bins for extra footroom, no frame-attachment cleats, and an as-yet-undecided water-tank installation.
 
 The estimated **finished cost was around $5,000 AUD**.
 
 ## Reception on the list
 
-Keeping the aft bins removable once the deck goes on makes post-trip
-cleanout easier, and built-in water tanks are, on one established view, the
-one change worth making on a repeat build, given local sailing needs — see
-[Andrew Graham](/people/andrew-graham.md) for the fuller exchange.
+Keeping the aft bins removable once the deck goes on makes post-trip cleanout easier, and built-in water tanks are the one change worth making on a repeat build, given local sailing needs — see [Andrew Graham](/people/andrew-graham.md) for the fuller exchange.
 
 ## Test-fitting the sides: the dry run
 
-Under a follow-up subject, **"Aussie Paradox dry run,"** Andrew posted
-photos of a **test fit of the sides** against the frames — the boat's
-first real hull-assembly progress. He described his method in some
-detail: ply spring clips screwed to the bottom and deck of each frame
-gave an initial hold on the sides, with the frame first hung from the
-sides by the (strong) deck clip, then the sides pulled in at the chine
-to be retained by the springier bottom clip; two roofing screws through
-ply pads per side pulled the sides flush with the frame. The various
-screw holes were to be drilled out and filled with epoxied, splined
-wood dowels later. None of the frames needed further beveling; at the
-stem, the sides were held in with ropes around two pieces of wood
-fixed at the sheer and chine (projecting above and below to catch the
-rope), plus a further ply pad screwed to the sides at deck level to
-give a clamp something to grip while he finished beveling the stem.
+Under a follow-up subject, **"Aussie Paradox dry run,"** Andrew posted photos of a **test fit of the sides** against the frames — the boat's first real hull-assembly progress. He described his method in some detail: ply spring clips screwed to the bottom and deck of each frame gave an initial hold on the sides, with the frame first hung from the sides by the (strong) deck clip, then the sides pulled in at the chine to be retained by the springier bottom clip; two roofing screws through ply pads per side pulled the sides flush with the frame. The various screw holes were to be drilled out and filled with epoxied, splined wood dowels later. None of the frames needed further beveling; at the stem, the sides were held in with ropes around two pieces of wood fixed at the sheer and chine (projecting above and below to catch the rope), plus a further ply pad screwed to the sides at deck level to give a clamp something to grip while he finished beveling the stem.
 
-He also refined the construction deviations first flagged at
-introduction (see above): he had since added **40 x 25mm sawn ply deck
-beams** to the forward face of frame 2 and the aft face of frame 4
-(cut from the same 25mm sheet as the frames themselves), adding a
-little strength and creating a 50mm-wide top surface at each frame for
-scarf-joining the 9mm deck ply in place; and he eliminated all
-**laminated** deck beams in favor of **three 42 x 19mm longitudinal
-deck beams** running between frames 1 and 2 and between frame 4 and
-the transom. His transom baffle, similarly, was laminated from two 4mm
-ply layers rather than a single 6mm piece, which he had found too
-stiff for the curve he had drawn. He judged by eye that any slight
-extra weight from these changes was untroubling — "everything looks
-right."
+He also refined the construction deviations first flagged at introduction (see above): he had since added **40 x 25mm sawn ply deck beams** to the forward face of frame 2 and the aft face of frame 4 (cut from the same 25mm sheet as the frames themselves), adding a little strength and creating a 50mm-wide top surface at each frame for scarf-joining the 9mm deck ply in place; and he eliminated all **laminated** deck beams in favor of **three 42 x 19mm longitudinal deck beams** running between frames 1 and 2 and between frame 4 and the transom. His transom baffle, similarly, was laminated from two 4mm ply layers rather than a single 6mm piece, which he had found too stiff for the curve he had drawn. He judged by eye that any slight extra weight from these changes was untroubling — "everything looks right."
 
-Following the removable-bins advice above, the **aft bins did remove
-easily**, and the plan settled on **not installing the water tanks** in the
-initial build (only their partitions) — reasoning that the aft half of the
-tank spaces would make the best place for ballast anyway, a different
-resolution of the same water-tank question than on
-[Little Jim](/boats/little-jim.md). Around the same time,
-[Kjell Karlsson](/boats/bris-paradox.md) introduced his own composite-built
-"BRIS Paradox."
+Following the removable-bins advice above, the **aft bins did remove easily**, and the plan settled on **not installing the water tanks** in the initial build (only their partitions) — reasoning that the aft half of the tank spaces would make the best place for ballast anyway, a different resolution of the same water-tank question than on [Little Jim](/boats/little-jim.md). Around the same time, the composite-built ["BRIS Paradox"](/boats/bris-paradox.md) was introduced.
 
 ## Shimming deck beam #1, and chine runners fitted before the bottom
 
-In a later "Shim deckbeam #1?" thread, Andrew reported hitting the same
-**beam #1/centerline shortfall** that [David C. Smith](/people/david-c-smith.md) had just found on
-his own build and traced to Hugh's New Zealand Paradox: he shimmed about
-**5mm at the centerline** and shaved a few millimetres off **frame 3** to
-get a straight carlin running from frame 2 to frame 4. He avoided the
-equivalent problem on his intermediate deck beams altogether by making them
-run **longitudinally** rather than athwartships. At the same point in the
-build he reported **sides, bottom, deck framing/vent trunk, rudder blade
-and stock, and internal panels** all complete, with a fuller progress
-report and photos to follow. He also noted he had **laminated his chine
-runners to the sides before attaching the bottom** — a sequencing choice
-distinct from the more usual order, with no outcome report recorded. See
-[deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline)
-for the full cross-builder thread.
+In a later "Shim deckbeam #1?" thread, Andrew reported hitting the same **beam #1/centerline shortfall** just found on another build and traced to a New Zealand Paradox: he shimmed about **5mm at the centerline** and shaved a few millimetres off **frame 3** to get a straight carlin running from frame 2 to frame 4. He avoided the equivalent problem on his intermediate deck beams altogether by making them run **longitudinally** rather than athwartships. At the same point in the build he reported **sides, bottom, deck framing/vent trunk, rudder blade and stock, and internal panels** all complete, with a fuller progress report and photos to follow. He also noted he had **laminated his chine runners to the sides before attaching the bottom** — a sequencing choice distinct from the more usual order, with no outcome report recorded. See [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md#shimming-deck-beam-1-and-its-neighbor-to-fair-the-centerline) for the full cross-builder thread.
 
 ## A fuller progress report: sides, bottom, deck framing, and interior detail
 
-Under the subject **"Aussie Paradox update,"** posted alongside new photos
-of a **two-up sleeping test fit**, Andrew delivered the promised fuller
-construction report, covering the hull essentially complete through
-interior fit-out.
+Under the subject **"Aussie Paradox update,"** posted alongside new photos of a **two-up sleeping test fit**, Andrew delivered the promised fuller construction report, covering the hull essentially complete through interior fit-out.
 
-**Frames, chine logs, and sheer clamps.** Chine logs and sheer clamps were
-cut from **19mm Meranti** — two laminations for the chine, a single
-lamination for the sheer — all to a constant **17-degree bevel and 40mm
-face**. Lacking a table saw, Andrew cut the bevels with a **184mm handheld
-circular saw** run against a homemade 1800mm stationary fence, since he
-judged the standard saw fence unable to cut accurately enough. The pieces
-were difficult for one person to bend and twist into place and get to
-exact length, requiring a couple of short knocked-in pieces at the transom
-to make up length; the stock size he used is, in his view, the largest
-practical for dry Meranti.
+**Frames, chine logs, and sheer clamps.** Chine logs and sheer clamps were cut from **19mm Meranti** — two laminations for the chine, a single lamination for the sheer — all to a constant **17-degree bevel and 40mm face**. Lacking a table saw, Andrew cut the bevels with a **184mm handheld circular saw** run against a homemade 1800mm stationary fence, since he judged the standard saw fence unable to cut accurately enough. The pieces were difficult for one person to bend and twist into place and get to exact length, requiring a couple of short knocked-in pieces at the transom to make up length; the stock size he used is, in his view, the largest practical for dry Meranti.
 
-**Sides.** After the chine logs and sheer clamp were glued in, the sides
-still flexed slightly, so Andrew laminated an extra **4mm of ply** onto
-the sides — 4mm chosen as the thickest his hand stapler would drive
-through. Hundreds of staples held the outer ply while the resin set,
-removed a few hours later; the scarf joins are fully covered with no
-fastenings showing through. His base panel was **12mm 5-ply CC Hoop
-Exterior**, the added layer **4mm AC Kauri Exterior**, both to Australian
-Standard 2271.
+**Sides.** After the chine logs and sheer clamp were glued in, the sides still flexed slightly, so Andrew laminated an extra **4mm of ply** onto the sides — 4mm chosen as the thickest his hand stapler would drive through. Hundreds of staples held the outer ply while the resin set, removed a few hours later; the scarf joins are fully covered with no fastenings showing through. His base panel was **12mm 5-ply CC Hoop Exterior**, the added layer **4mm AC Kauri Exterior**, both to Australian Standard 2271.
 
-**Chine runners.** Laminated in place from **three plies of 19mm** stock,
-using a constant bevel along the full length and planing the ends fair
-into the sides; Andrew judged them fair and close to the plans'
-projection from the chine, and confident they will act as effective end
-plates channeling water along the heeled sides.
+**Chine runners.** Laminated in place from **three plies of 19mm** stock, using a constant bevel along the full length and planing the ends fair into the sides; Andrew judged them fair and close to the plans' projection from the chine, and confident they will act as effective end plates channeling water along the heeled sides.
 
-**Bottom.** Not confident bending 18mm ply in one piece, Andrew gave the
-bottom the same doubled-up treatment as the sides: a 12mm (7-ply) AC
-exterior Kauri base — stiffer than the Hoop used on the sides — plus a
-4mm outer layer, for 16mm total, which felt stiff enough before glassing.
-Glassing used a single layer of **biaxial cloth with CSM stitched to one
-side**, 1270mm wide, about 880 gsm total — cloth he rated "brilliant
-stuff" despite disclaiming glass-fiber expertise — producing a **2–2.5mm**
-resultant layup. Aluminium powder was added to the final epoxy coats.
-Glassing the bottom alone consumed about **6kg of epoxy**, with a similar
-amount used gluing the 4mm outer ply to the sides and bottom. He was still
-working out how and where to fit a ground plate without drilling the
-bottom, and was able to turn the finished hull alone, letting it drop
-safely onto a thick mattress.
+**Bottom.** Not confident bending 18mm ply in one piece, Andrew gave the bottom the same doubled-up treatment as the sides: a 12mm (7-ply) AC exterior Kauri base — stiffer than the Hoop used on the sides — plus a 4mm outer layer, for 16mm total, which felt stiff enough before glassing. Glassing used a single layer of **biaxial cloth with CSM stitched to one side**, 1270mm wide, about 880 gsm total — cloth he rated "brilliant stuff" despite disclaiming glass-fiber expertise — producing a **2–2.5mm** resultant layup. Aluminium powder was added to the final epoxy coats. Glassing the bottom alone consumed about **6kg of epoxy**, with a similar amount used gluing the 4mm outer ply to the sides and bottom. He was still working out how and where to fit a ground plate without drilling the bottom, and was able to turn the finished hull alone, letting it drop safely onto a thick mattress.
 
-**Vent trunk.** Sides and aft face built from 12mm ply, doubled at the top
-of the aft face; double-ply webs either side of the aft face stiffly
-support the carlins and cabin front. The starboard side was made in two
-parts — the top permanently glued, the lower section (below the baffle)
-removable for access.
+**Vent trunk.** Sides and aft face built from 12mm ply, doubled at the top of the aft face; double-ply webs either side of the aft face stiffly support the carlins and cabin front. The starboard side was made in two parts — the top permanently glued, the lower section (below the baffle) removable for access.
 
-**Interior panels.** Forward bin sides are located by cheap nylon door
-clips, immobile once the sole is locked down. Amidships, Andrew splayed
-his tank framing slightly toward frame 3 for better support of three
-floor panels running perpendicular to the framing, and omitted the mid
-bins for more sleeping area and crew space under sail; a short fixed front
-panel hinges a mid panel that pivots up to just below the cleat pad, held
-open by a swing tab and locked down by two turn buttons on the fixed back
-panel — screwed down firmly enough to also hold ballast in place. Aft,
-floor bins follow the plans, slotting into the framing and retained by
-nylon door clips (with one retaining-screw hole drilled per frame as a
-backup, likely unneeded); seat supports are padded out 4mm to protect the
-side-bin paint. His seat itself — a 400mm-wide concave section laminated
-from three plies of 6mm ply — is very stiff and, in his judgment, far more
-comfortable than the plans' 10 in plank. It stows in a 25mm gap between
-his open frame 4 and a removable table mounted under the rudder (screwed
-to three floor stringers); with the seat stowed, the berth measures
-1925mm plus toe room on both sides of the vent trunk — toe room he found,
-from his two-up test, greatly improves comfort. The low table allows
-cooking at anchor on a cheap low-profile butane cooker, with fiddles that
-let 30-litre airtight drums be lashed down for lightweight stowage and
-backup buoyancy; standard plastic hand basins fit snugly underneath, with
-usable space behind, and the table doubles for food preparation (and,
-Andrew notes, wine glasses, once the drums are moved forward).
+**Interior panels.** Forward bin sides are located by cheap nylon door clips, immobile once the sole is locked down. Amidships, Andrew splayed his tank framing slightly toward frame 3 for better support of three floor panels running perpendicular to the framing, and omitted the mid bins for more sleeping area and crew space under sail; a short fixed front panel hinges a mid panel that pivots up to just below the cleat pad, held open by a swing tab and locked down by two turn buttons on the fixed back panel — screwed down firmly enough to also hold ballast in place. Aft, floor bins follow the plans, slotting into the framing and retained by nylon door clips (with one retaining-screw hole drilled per frame as a backup, likely unneeded); seat supports are padded out 4mm to protect the side-bin paint. His seat itself — a 400mm-wide concave section laminated from three plies of 6mm ply — is very stiff and, in his judgment, far more comfortable than the plans' 10 in plank. It stows in a 25mm gap between his open frame 4 and a removable table mounted under the rudder (screwed to three floor stringers); with the seat stowed, the berth measures 1925mm plus toe room on both sides of the vent trunk — toe room he found, from his two-up test, greatly improves comfort. The low table allows cooking at anchor on a cheap low-profile butane cooker, with fiddles that let 30-litre airtight drums be lashed down for lightweight stowage and backup buoyancy; standard plastic hand basins fit snugly underneath, with usable space behind, and the table doubles for food preparation (and wine glasses, once the drums are moved forward).
 
-**Interior finish and insulation.** Andrew avoided sanding much epoxy off
-the interior, leaving a few drips on the bottom, and planned a quality
-builder's oil-based undercoat and gloss topcoat over all surfaces
-including below the waterline, reasoning painted epoxy would deteriorate
-more slowly even where it gets little UV exposure. Unwilling to use
-crumbly polyurethane foam or polystyrene for insulation/buoyancy, he
-instead chose **Abelflex** (by Davco) — a flexible, compressible,
-closed-cell polyethylene foam normally used as an expansion joint and
-moisture barrier in brick walls, sold in 10mm-thick rolls with a smooth
-skin, reportedly durable and sealant-compatible. He used two 25-metre
-rolls (250mm and 300mm wide) for minimal wastage — enough to insulate the
-boat well, though a little short on buoyancy.
+**Interior finish and insulation.** Andrew avoided sanding much epoxy off the interior, leaving a few drips on the bottom, and planned a quality builder's oil-based undercoat and gloss topcoat over all surfaces including below the waterline, reasoning painted epoxy would deteriorate more slowly even where it gets little UV exposure. Unwilling to use crumbly polyurethane foam or polystyrene for insulation/buoyancy, he instead chose **Abelflex** (by Davco) — a flexible, compressible, closed-cell polyethylene foam normally used as an expansion joint and moisture barrier in brick walls, sold in 10mm-thick rolls with a smooth skin, reportedly durable and sealant-compatible. He used two 25-metre rolls (250mm and 300mm wide) for minimal wastage — enough to insulate the boat well, though a little short on buoyancy.
 
-**Rudder.** For the blade, Andrew laminated a 250 x 100 x 10mm rectangle
-of used lead roof flashing into the bottom rather than casting lead
-ballast, fairing the blade by eye after starting from a measured profile;
-the transition between the symmetric section below the stock and the
-asymmetric faired section came out neat, and the finished blade is 900mm
-overall. On the stock, a measuring error of his own put the bottom pintle
-20mm too far aft; he compensated by extending the lower gudgeon and
-padding the top transom gudgeon to match, and expects he may need to
-revisit the pivot point if the rudder proves overbalanced.
+**Rudder.** For the blade, Andrew laminated a 250 x 100 x 10mm rectangle of used lead roof flashing into the bottom rather than casting lead ballast, fairing the blade by eye after starting from a measured profile; the transition between the symmetric section below the stock and the asymmetric faired section came out neat, and the finished blade is 900mm overall. On the stock, a measuring error of his own put the bottom pintle 20mm too far aft; he compensated by extending the lower gudgeon and padding the top transom gudgeon to match, and expects he may need to revisit the pivot point if the rudder proves overbalanced.
 
-The accompanying two-up sleeping-test photos prompted comparison notes on
-how other builders handle sleeping two aboard a tight cabin — see
-[crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+The accompanying two-up sleeping-test photos prompted comparison notes on how other builders handle sleeping two aboard a tight cabin — see [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
 
 ## Further photos: sheathed hull, cabin framing, and a foredeck anchor stow
 
-A further round of photos, taken between the fuller progress report and the
-next update, showed the hull and deck now **sheathed**, the **cabin
-framing underway**, and Andrew's arrangement for stowing an anchor on the
-foredeck. Another deliberate plans deviation appeared here: a **flat cabin
-front and back**, chosen because extending the front at the same angle as
-the vent trunk web looked logical and left plenty of bonding surface at
-frame 4's forward face — a look judged "still... attractive" even though
-it departs from the plans' curved cabin. Whether to build a "tropical"
-cabin top of his own design, or revert to the plans' version, was still
-undecided at this point.
+A further round of photos, taken between the fuller progress report and the next update, showed the hull and deck now **sheathed**, the **cabin framing underway**, and Andrew's arrangement for stowing an anchor on the foredeck. Another deliberate plans deviation appeared here: a **flat cabin front and back**, chosen because extending the front at the same angle as the vent trunk web looked logical and left plenty of bonding surface at frame 4's forward face — a look judged "still... attractive" even though it departs from the plans' curved cabin. Whether to build a "tropical" cabin top of his own design, or revert to the plans' version, was still undecided at this point.
 
 ## Deck sheathing, a sand-anchor well, and a hawse pipe
 
-In the same "Robust construction" thread that ran across the wider list in
-September 2003 (see
-[hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)),
-Andrew gave a further build update alongside his builder's-choice
-philosophy: his **deck was on**, and he was sheathing the sides and deck in
-**dynel and epoxy**. He added a shallow, **self-draining well** midway
-between frames 1 and 2 so a sand anchor could be lashed flush to the deck,
-its pivot sitting in the well. Forward of frame 1, he built a **hawse
-pipe** into the forepeak from standard 65mm PVC plumbing flanges and a 45°
-elbow, with the cap's aft-facing opening accepting the anchor's shank
-through a sealing gasket — keeping the shackle, chain, and rope all inside
-the boat, low and out of the way, while preserving the Paradox's clear
-internal access from stem to stern.
+In the same "Robust construction" thread that ran across the wider list in September 2003 (see [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)), Andrew gave a further build update alongside his builder's-choice philosophy: his **deck was on**, and he was sheathing the sides and deck in **dynel and epoxy**. He added a shallow, **self-draining well** midway between frames 1 and 2 so a sand anchor could be lashed flush to the deck, its pivot sitting in the well. Forward of frame 1, he built a **hawse pipe** into the forepeak from standard 65mm PVC plumbing flanges and a 45° elbow, with the cap's aft-facing opening accepting the anchor's shank through a sealing gasket — keeping the shackle, chain, and rope all inside the boat, low and out of the way, while preserving the Paradox's clear internal access from stem to stern.
 
 ## Launch, and a name: "Zero"
 
-Andrew launched his Paradox on **29 November 2003**, naming her **"Zero"**
-and initially holding the honor of the **first Australian-built Paradox to
-sail** (a claim later corrected — see below). Zero was sailed and slept
-aboard within days of launching.
+Andrew launched his Paradox on **29 November 2003**, naming her **"Zero"** and initially holding the honor of the **first Australian-built Paradox to sail** (a claim later corrected — see below). Zero was sailed and slept aboard within days of launching.
 
-**Rig and steering, as finished.** Andrew sewed his own sail from **6.3 oz
-cloth**, using Matt Layden's Mk 2 dimensions and following most of his
-construction recommendations; he trusted the plans' instructions completely,
-contact-cementing all seams before sewing. Sailmaking took many hours but
-freed him from waiting on glue cure between sessions; one bobbin lasted only
-about 4 m of zigzag stitching, so he recommended buying spares, and sewing
-from a seated position at a machine set up with **at least 8 ft of level
-table on each side**. His **reefing-drum yard fitting** — a laminated,
-glassed ply elbow attached to the tack strop, with a 1/2 in brass rod glued
-into the forward boom end and pivoting in a 50mm brass bearing, the reefing
-drum's fairlead a length of copper pipe through the elbow — worked
-acceptably, though he planned a more compact glass elbow eventually. Instead
-of a yuloh, he substituted a straight **3.1 m sweep** with a nylon rowlock,
-both fitted with lanyards, the sweep wrapped in biaxial glass at the centre
-section. His rudder blade was **40mm shorter than designed**.
+**Rig and steering, as finished.** Andrew sewed his own sail from **6.3 oz cloth**, using Matt Layden's Mk 2 dimensions and following most of his construction recommendations; he trusted the plans' instructions completely, contact-cementing all seams before sewing. Sailmaking took many hours but freed him from waiting on glue cure between sessions; one bobbin lasted only about 4 m of zigzag stitching, so he recommended buying spares, and sewing from a seated position at a machine set up with **at least 8 ft of level table on each side**. His **reefing-drum yard fitting** — a laminated, glassed ply elbow attached to the tack strop, with a 1/2 in brass rod glued into the forward boom end and pivoting in a 50mm brass bearing, the reefing drum's fairlead a length of copper pipe through the elbow — worked acceptably, though he planned a more compact glass elbow eventually. Instead of a yuloh, he substituted a straight **3.1 m sweep** with a nylon rowlock, both fitted with lanyards, the sweep wrapped in biaxial glass at the centre section. His rudder blade was **40mm shorter than designed**.
 
-**Lightning protection and finish details.** An aluminium lightning-rod strip
-ran down the mast's forward face and across the deck to a 100mm-wide, 0.5mm
-aluminium sheet wrapped over the starboard gunwale down to the waterline,
-widening there into a ground plate; he used an aluminium-compatible
-antifouling on the bottom and planned to monitor the plate's corrosion rate
-over time. No fixed electrics were fitted at launch.
+**Lightning protection and finish details.** An aluminium lightning-rod strip ran down the mast's forward face and across the deck to a 100mm-wide, 0.5mm aluminium sheet wrapped over the starboard gunwale down to the waterline, widening there into a ground plate; he used an aluminium-compatible antifouling on the bottom and planned to monitor the plate's corrosion rate over time. No fixed electrics were fitted at launch.
 
-**Ballast and trial loading.** Zero carried **145 kg of lead** immediately
-forward of bulkhead 3, in the hull's deepest point; for the sailing trial
-Andrew added a further 20 kg of stores below the cabin sole and a 3 kg sand
-anchor on deck with 5 m of 6mm chain in a bucket forward of bulkhead 1. The
-boat trimmed well both single- and double-handed.
+**Ballast and trial loading.** Zero carried **145 kg of lead** immediately forward of bulkhead 3, in the hull's deepest point; for the sailing trial Andrew added a further 20 kg of stores below the cabin sole and a 3 kg sand anchor on deck with 5 m of 6mm chain in a bucket forward of bulkhead 1. The boat trimmed well both single- and double-handed.
 
-**First sail — sculling and windward work.** Having never sculled a boat
-before, Andrew took a while to learn that the paddle must be angled to dig
-into the water to stay seated in the rowlock; once he had the knack, he was
-struck by how effectively sculling moved the boat, judging the Paradox's
-open hatch opening ideal ergonomics for bracing during the stroke. He
-sculled alone from the Bribie Island ramp into Pumicestone Passage, raising
-sail by resting the boom on the cabin top (a towel over the aft hatch
-protecting the sail from abrasion as it unrolled) — the whole raising or
-furling operation done from inside the cabin in under a minute. He judged
-keeping the boom off the cabin top difficult for a beginner singlehanded,
-given the strength both raising and reefing demand, but decided against
-fitting a topping lift regardless, since he expected to sail two-up most of
-the time. Sailing to windward only that first day — his rudder 40mm short of
-designed size — Zero held position against a foul tide and made progress
-once it turned, tacking reliably from the outset; the boat felt tender under
-sail without ever burying the rail, and tracked straight even at
-uncomfortable heel angles. Running aground on a sandbank, Andrew simply
-stepped out and pushed the boat clear — a sharp contrast, he noted, to his
-previous trailer-sailer's swing keel, and ample compensation, in his
-judgment, for less than brilliant stability or tacking angle.
+**First sail — sculling and windward work.** Having never sculled a boat before, Andrew took a while to learn that the paddle must be angled to dig into the water to stay seated in the rowlock; once he had the knack, he was struck by how effectively sculling moved the boat, judging the Paradox's open hatch opening ideal ergonomics for bracing during the stroke. He sculled alone from the Bribie Island ramp into Pumicestone Passage, raising sail by resting the boom on the cabin top (a towel over the aft hatch protecting the sail from abrasion as it unrolled) — the whole raising or furling operation done from inside the cabin in under a minute. He judged keeping the boom off the cabin top difficult for a beginner singlehanded, given the strength both raising and reefing demand, but decided against fitting a topping lift regardless, since he expected to sail two-up most of the time. Sailing to windward only that first day — his rudder 40mm short of designed size — Zero held position against a foul tide and made progress once it turned, tacking reliably from the outset; the boat felt tender under sail without ever burying the rail, and tracked straight even at uncomfortable heel angles. Running aground on a sandbank, Andrew simply stepped out and pushed the boat clear — a sharp contrast, he noted, to his previous trailer-sailer's swing keel, and ample compensation, in his judgment, for less than brilliant stability or tacking angle.
 
-**A first night aboard, and a two-up sail.** Andrew's partner joined him that
-evening at a drying harbour sheltered by a sand peninsula, where the two
-slept on a 50mm foam mattress (not especially compact rolled up, but
-comfortable enough) with the halyard tied off away from the mast for "the
-quietest night sleep I have ever had in a boat" — Zero has no mid bins. The
-next day, her first-ever sail, his partner wore a buoyancy vest for
-reassurance; the pair sculled into deep water to raise sail, the crew easing
-the reefing line to keep the boom aloft. They sailed downwind (too easy),
-then upwind and reaching, tacking reliably two-up throughout; a wind
-increase heeled the boat enough to alarm his partner, reassured in turn by
-how easily a reef brought her back to comfortable heel. Andrew judged the
-sail shape good, noting a little luff flutter upwind he suspected was simply
-a tensioning issue, and closed the report entirely satisfied with Zero's
-first trial — his partner keen for a two-week cruising holiday once the boat
-drew a crowd of interested, complimentary beachgoers. He judged increasing
-ballast and stores below the sole to 200 kg or more would likely address the
-stability question, and intended to keep the anchor stowed on deck for its
-convenience there.
+**A first night aboard, and a two-up sail.** Andrew's partner joined him that evening at a drying harbour sheltered by a sand peninsula, where the two slept on a 50mm foam mattress (not especially compact rolled up, but comfortable enough) with the halyard tied off away from the mast for "the quietest night sleep I have ever had in a boat" — Zero has no mid bins. The next day, her first-ever sail, his partner wore a buoyancy vest for reassurance; the pair sculled into deep water to raise sail, the crew easing the reefing line to keep the boom aloft. They sailed downwind (too easy), then upwind and reaching, tacking reliably two-up throughout; a wind increase heeled the boat enough to alarm his partner, reassured in turn by how easily a reef brought her back to comfortable heel. Andrew judged the sail shape good, noting a little luff flutter upwind he suspected was simply a tensioning issue, and closed the report entirely satisfied with Zero's first trial — his partner keen for a two-week cruising holiday once the boat drew a crowd of interested, complimentary beachgoers. He judged increasing ballast and stores below the sole to 200 kg or more would likely address the stability question, and intended to keep the anchor stowed on deck for its convenience there.
 
-**Cost.** Zero cost about **$5,500 AUD** sail-away, including basic gear to
-navigate, sail, anchor, and live aboard, and all tools consumed in the
-job — Andrew judged $500 AUD or more saveable, or an unlimited amount
-spendable, with a new trailer alone costing nearly $1,500 AUD; his towbar
-had to be custom-made, since manufacturers did not stock one for his tow
-vehicle, a light, front-drive 1300cc Daihatsu Sirion that needed a running
-start (and, in hindsight, a pre-swept ramp) to retrieve the loaded trailer
-off a sandy launch.
+**Cost.** Zero cost about **$5,500 AUD** sail-away, including basic gear to navigate, sail, anchor, and live aboard, and all tools consumed in the job — Andrew judged $500 AUD or more saveable, or an unlimited amount spendable, with a new trailer alone costing nearly $1,500 AUD; his towbar had to be custom-made, since manufacturers did not stock one for his tow vehicle, a light, front-drive 1300cc Daihatsu Sirion that needed a running start (and, in hindsight, a pre-swept ramp) to retrieve the loaded trailer off a sandy launch.
 
-Zero's tenderness when lightly loaded matched what other builders had
-reported before their own boats were fully stored for a voyage, judged
-likely to stiffen up once fully loaded. Zero's launch photos also prompted
-renewed work on "[Whisper](/boats/whisper.md)."
+Zero's tenderness when lightly loaded matched what other builders had reported before their own boats were fully stored for a voyage, judged likely to stiffen up once fully loaded. Zero's launch photos also prompted renewed work on "[Whisper](/boats/whisper.md)."
 
 ## A closer look: paint, plexiglass tint, and the galley
 
-Zero's paint scheme and her plexiglass window tint — a detail other
-builders drew on directly for their own tint choices — are worth noting for
-builders weighing finish options. Andrew placed Zero firmly in Australia's
-**Moreton Bay**, sailing out of **Brisbane,
-Queensland**: a roughly 200 km stretch of coast between the Gold Coast and
-Caloundra, sheltered from the Pacific by four large sand islands, with an
-open centre section and narrow mangrove-lined channels at the north and
-south ends, bottoms almost exclusively sand and mud with plenty of drying
-banks to overnight on — the same sheltered water used for a shakedown
-routine until confident in the rig. Seeing "[Little Jim](/boats/little-jim.md)"'s
-launch photos earlier that year had turned "pure envy" into the commitment
-to start building. Andrew's partner, "Senorita," grew up on a farm in
-**Fiji** and volunteered to catch, clean, and cook the fish for their
-planned cruising.
+Zero's paint scheme and her plexiglass window tint — a detail other builders drew on directly for their own tint choices — are worth noting for builders weighing finish options. Andrew placed Zero firmly in Australia's **Moreton Bay**, sailing out of **Brisbane, Queensland**: a roughly 200 km stretch of coast between the Gold Coast and Caloundra, sheltered from the Pacific by four large sand islands, with an open centre section and narrow mangrove-lined channels at the north and south ends, bottoms almost exclusively sand and mud with plenty of drying banks to overnight on — the same sheltered water used for a shakedown routine until confident in the rig. Seeing "[Little Jim](/boats/little-jim.md)"'s launch photos earlier that year had turned "pure envy" into the commitment to start building. Andrew's partner grew up on a farm in **Fiji** and volunteered to catch, clean, and cook the fish for their planned cruising.
 
 ## Zero proves herself: an 18-mile open-water passage across Moreton Bay
 
-Andrew's first real open-water passage in Zero, sailed with "Senorita"
-aboard, ran from the **Wellington Point boat ramp** around the northern end
-of **Peel Island** to the **One Mile anchorage** at Dunwich on Stradbroke
-Island, and back — a round trip of about **18 nautical miles**, completed
-with only a single tack as the wind shifted from northwest on the outward
-leg to northeast for the return. Andrew had increased his ballast and
-stores by **25 kg to about 190 kg** for this sail, and reported that
-stability and pointing ability were now to his satisfaction. Local
-professional crabbers warned "it's pretty rough out there" on the way out,
-but the boat only encountered about **1-metre waves**, consistent with the
-prevailing 10-15 knot winds.
+Andrew's first real open-water passage in Zero, sailed with his partner aboard, ran from the **Wellington Point boat ramp** around the northern end of **Peel Island** to the **One Mile anchorage** at Dunwich on Stradbroke Island, and back — a round trip of about **18 nautical miles**, completed with only a single tack as the wind shifted from northwest on the outward leg to northeast for the return. Andrew had increased his ballast and stores by **25 kg to about 190 kg** for this sail, and reported that stability and pointing ability were now to his satisfaction. Local professional crabbers warned "it's pretty rough out there" on the way out, but the boat only encountered about **1-metre waves**, consistent with the prevailing 10-15 knot winds.
 
-Zero's **shallow draught** let Andrew save time by sailing straight over
-sandbanks rather than beating around channel markers — an advantage he
-judged would offset any weakness in pointing ability in many real cruising
-situations. Two gear notes came out of the trip: noise from the mainsheet
-block at the end of the boom, which he planned to lubricate and, failing
-that, replace; and the boom knocking against the mast on a run when the
-wind dropped but wave action continued. The wind died entirely on the
-approach to the boat ramp, requiring about 500 metres of **sculling** to get
-in. "Senorita," new to sailing, spent most of the passage lying on the
-cabin sole with anxiety-driven motion sickness, but was not put off,
-watching Andrew enjoy himself; Andrew judged himself likely to become a
-better sailor for having no motor aboard to fall back on, and was glad to
-be spared outboard "will she start" anxiety. Sailing photos aside, he
-judged Zero, seen in real life, "the prettiest most beautifully
-proportioned boat in the water — much better than photos can show."
+Zero's **shallow draught** let Andrew save time by sailing straight over sandbanks rather than beating around channel markers — an advantage he judged would offset any weakness in pointing ability in many real cruising situations. Two gear notes came out of the trip: noise from the mainsheet block at the end of the boom, which he planned to lubricate and, failing that, replace; and the boom knocking against the mast on a run when the wind dropped but wave action continued. The wind died entirely on the approach to the boat ramp, requiring about 500 metres of **sculling** to get in. His partner, new to sailing, spent most of the passage lying on the cabin sole with anxiety-driven motion sickness, but was not put off, watching Andrew enjoy himself; Andrew judged himself likely to become a better sailor for having no motor aboard to fall back on, and was glad to be spared outboard "will she start" anxiety. Sailing photos aside, he judged Zero, seen in real life, "the prettiest most beautifully proportioned boat in the water — much better than photos can show."
 
-The ballast increase stands as the key lesson from the trip — "getting the
-ballast right seems to be quite important" — echoing the same conclusion
-reached independently by other builders who found that sailing without a
-motor made them better sailors, even though a motor would occasionally have
-been useful. Zero's deck photos, showing her **chine runners** to good
-effect, were posted to a companion Paradox website
-(`btinternet.com/~w.serjeant/paradox/zero.htm`).
+The ballast increase stands as the key lesson from the trip — "getting the ballast right seems to be quite important" — echoing the same conclusion reached independently by other builders who found that sailing without a motor made them better sailors, even though a motor would occasionally have been useful. Zero's deck photos, showing her **chine runners** to good effect, were posted to a companion Paradox website (`btinternet.com/~w.serjeant/paradox/zero.htm`).
 
 ## A correction: an earlier, secondhand Australian Paradox
 
-"Zero" was not, in fact, the first Paradox to sail in Australia (correcting
-the claim in [Launch, and a name: "Zero"](#launch-and-a-name-zero)). A
-Paradox had earlier appeared for sale in the *Brisbane Courier Mail* for
-**$3,000 AUD**, and a phone call to its builder — a retired man named
-**Chris** — established that this second boat was **built in 2000**,
-several years before "Zero," making it the true first Australian-built
-Paradox. Chris had sailed her only once, owing to ill health. As described
-secondhand, the boat departed from the plans in several ways: **no
-insulation**, **no lead ballast** (said to have been sailed instead with
-sandbags), **Dynel sheathing**, an outboard well fitted for a 2.2 hp
-Mercury (motor not included), and a sail cut from a heavy-duty tarp
-material normally warrantied for ten years, plus a non-standard,
-flat-fronted-and-flat-aft cabin. A trailer was believed to be included,
-condition unknown, and the asking price was judged "very low" for a
-secondhand Paradox against a fresh build. See also
-[secondhand Paradox market](/operations/secondhand-market.md) for the
-other recorded resale data points.
+"Zero" was not, in fact, the first Paradox to sail in Australia (correcting the claim in [Launch, and a name: "Zero"](#launch-and-a-name-zero)). A Paradox had earlier appeared for sale in the *Brisbane Courier Mail* for **$3,000 AUD**, and a phone call to its builder — a retired man — established that this second boat was **built in 2000**, several years before "Zero," making it the true first Australian-built Paradox. He had sailed her only once, owing to ill health. As described secondhand, the boat departed from the plans in several ways: **no insulation**, **no lead ballast** (said to have been sailed instead with sandbags), **Dynel sheathing**, an outboard well fitted for a 2.2 hp Mercury (motor not included), and a sail cut from a heavy-duty tarp material normally warrantied for ten years, plus a non-standard, flat-fronted-and-flat-aft cabin. A trailer was believed to be included, condition unknown, and the asking price was judged "very low" for a secondhand Paradox against a fresh build. See also [secondhand Paradox market](/operations/secondhand-market.md) for the other recorded resale data points.
 
 ## A three-day singlehanded cruise
 
-About a month later, Andrew reported his longest passage yet: a **three-day
-singlehanded cruise**, crossing the open section of **Moreton Bay** to
-**Moreton Island** with no trouble in **15-knot winds and 1-metre waves**,
-covering roughly **80 kilometres** in all (measured off a chart book's
-kilometre grid). He again used Zero's **shallow draught** to shortcut across
-large sandbanks, saving hours of sailing time — the same tactic that paid
-off on the shorter Wellington Point-to-Dunwich passage above. A planned
-longer New Year's cruise had to be shelved for persistently poor weather
-(severe enough that three dive-boat operators had their boats overturned on
-local coastal bars within a single week); the humid conditions, Andrew
-judged, would in any case have made two-up cruising uncomfortable. He closed
-the report still very happy with Zero and confident in her ability to
-handle the conditions she was designed for.
+About a month later, Andrew reported his longest passage yet: a **three-day singlehanded cruise**, crossing the open section of **Moreton Bay** to **Moreton Island** with no trouble in **15-knot winds and 1-metre waves**, covering roughly **80 kilometres** in all (measured off a chart book's kilometre grid). He again used Zero's **shallow draught** to shortcut across large sandbanks, saving hours of sailing time — the same tactic that paid off on the shorter Wellington Point-to-Dunwich passage above. A planned longer New Year's cruise had to be shelved for persistently poor weather (severe enough that three dive-boat operators had their boats overturned on local coastal bars within a single week); the humid conditions, Andrew judged, would in any case have made two-up cruising uncomfortable. He closed the report still very happy with Zero and confident in her ability to handle the conditions she was designed for.
 
 # Citations
 

@@ -8,80 +8,29 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Mast partners and vent trunk
 
-Where the [Paradox](/paradox.md) mast passes through the deck, the structure is
-locally reinforced. This beefed-up area is called the **partners**: it
-distributes the loads that the sail induces around the mast into the deck and
-hull.
+Where the [Paradox](/paradox.md) mast passes through the deck, the structure is locally reinforced. This beefed-up area is called the **partners**: it distributes the loads that the sail induces around the mast into the deck and hull.
 
-On the Paradox this reinforcement is built together with the **vent trunk**
-(the boxed structure carrying the mast down and the ventilation through the
-deck). The topping timber a builder sees on the vent trunk in construction
-photos is the partners; the **deck ply lays over that timber**, and the mast
-(and vent) holes are then cut to match.
+On the Paradox this reinforcement is built together with the **vent trunk** (the boxed structure carrying the mast down and the ventilation through the deck). The topping timber a builder sees on the vent trunk in construction photos is the partners; the **deck ply lays over that timber**, and the mast (and vent) holes are then cut to match.
 
 ## Build sequence: decking before or after the vent trunk
 
-- **Plans method:** [Matt Layden](/matt-layden/biography.md)'s plans call for
-  waiting until **after the deck is on** before cutting the mast/vent holes.
-- **Glen Maxwell's approach:** [Glen C. Maxwell](/people/glen-maxwell.md)
-  completed the vent trunk **before decking**, reasoning that there is little
-  room to work with the deck off and even less with it on. To do this before
-  decking, he built a **mock-up of the lower part of the mast** so he could
-  verify that the control lines would clear the mast and **exit into the
-  cabin at the correct angle** — confirming that the Paradox is sailed with
-  its running rigging led into the enclosed cabin.
-- **A second builder's confirmation:** [Alastair](/people/alastair.md)
-  independently followed the same before-decking sequence, building the mast
-  step and vent trunk (with one side left removable) onto **bulkhead 2**
-  before assembling the hull, so the bulkhead could be set up horizontally on
-  trestles to fit the mast to its step and partners — useful for working
-  indoors without a 20 ft-high roof. The deck's mast hole is then simply cut
-  to match once the deck goes on. See [rig and sail — reading the mast's
-  plan views](/design/rig.md#reading-the-masts-plan-views) for more.
+- **Plans method:** [Matt Layden](/matt-layden/biography.md)'s plans call for waiting until **after the deck is on** before cutting the mast/vent holes.
+- **Before-decking approach:** the vent trunk can instead be completed **before decking**, reasoning that there is little room to work with the deck off and even less with it on. To do this before decking, a **mock-up of the lower part of the mast** verifies that the control lines will clear the mast and **exit into the cabin at the correct angle** — confirming that the Paradox is sailed with its running rigging led into the enclosed cabin.
+- **A second before-decking confirmation:** the same before-decking sequence can be followed by building the mast step and vent trunk (with one side left removable) onto **bulkhead 2** before assembling the hull, so the bulkhead can be set up horizontally on trestles to fit the mast to its step and partners — useful for working indoors without a 20 ft-high roof. The deck's mast hole is then simply cut to match once the deck goes on. See [rig and sail — reading the mast's plan views](/design/rig.md#reading-the-masts-plan-views) for more.
 
-A sketch of the vent detail from [Don Elliott](/people/don-elliott.md)'s
-[building articles](/references/building-the-paradox-articles.md) shows the
-detail: `http://www.tomah.com/delliott/paradox3a.jpg`.
+A sketch of the vent detail in the [building articles](/references/building-the-paradox-articles.md) shows the detail: `http://www.tomah.com/delliott/paradox3a.jpg`.
 
 ## Vent trunk top dimensions, and why exact measurements don't matter much
 
-The plans leave several vent-trunk dimensions vague enough that a builder
-working strictly to spec can be left unsure of the design intent. [Alastair](/people/alastair.md)
-gave the fullest published answer: the vent trunk's top measures **420 mm by
-250 mm wide**, with a tolerance of about **±10 mm** since the dimension "isn't
-critical." On his own build he had pencilled in **72 mm** for the width of
-the tapered block at the trunk's narrow end (from the transverse section on
-plan sheet 9), but in practice simply built the block up from offcuts and
-ground it to final shape freehand with an angle grinder and sanding disc —
-consistent with his broader view (see [hull assembly
-sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly))
-that many Paradox joinery dimensions are better fitted by eye at assembly
-than pre-cut to a theoretically perfect figure. His own vent trunk's side and
-rear panels came entirely out of scrap plywood offcuts, needing no
-additional material.
+The plans leave several vent-trunk dimensions vague enough that a builder working strictly to spec can be left unsure of the design intent. The vent trunk's top measures **420 mm by 250 mm wide**, with a tolerance of about **±10 mm** since the dimension "isn't critical." A build may pencil in **72 mm** for the width of the tapered block at the trunk's narrow end (from the transverse section on plan sheet 9), but in practice the block can simply be built up from offcuts and ground to final shape freehand with an angle grinder and sanding disc — consistent with the broader view (see [hull assembly sequence](/construction/hull-assembly-sequence.md#transom-and-bulkhead-4-crown-and-fitting-bevels-at-trial-assembly)) that many Paradox joinery dimensions are better fitted by eye at assembly than pre-cut to a theoretically perfect figure. The vent trunk's side and rear panels can come entirely out of scrap plywood offcuts, needing no additional material.
 
-The vent trunk and mast are best fitted **before assembling the bulkheads to
-the hull sides**, since there is no longer enough clearance to maneuver the
-mast once the hull is assembled and the builder must work with everything
-horizontal instead — consistent with the before-decking build sequence
-described above, and easing the mast-step/partners fitting work described
-there as well.
+The vent trunk and mast are best fitted **before assembling the bulkheads to the hull sides**, since there is no longer enough clearance to maneuver the mast once the hull is assembled and the builder must work with everything horizontal instead — consistent with the before-decking build sequence described above, and easing the mast-step/partners fitting work described there as well.
 
 ## No mast-lowering pin on Paradox, unlike Little Cruiser
 
-Some of [Don Elliott](/people/don-elliott.md)'s building articles describe a
-pin that can be pulled to lower the mast, which construction photos of most
-built boats do not appear to show. **The Paradox mast in fact carries no such
-pin.** Its foot simply sits on a block fastened to the bottom of the hull,
-held upright by the partners described above; to lower it, the mast is
-lifted roughly 600 mm straight up and off, then laid down on top of the
-rolled-up sail and boom.
+Some of the [building articles](/references/building-the-paradox-articles.md) describe a pin that can be pulled to lower the mast, which construction photos of most built boats do not appear to show. **The Paradox mast in fact carries no such pin.** Its foot simply sits on a block fastened to the bottom of the hull, held upright by the partners described above; to lower it, the mast is lifted roughly 600 mm straight up and off, then laid down on top of the rolled-up sail and boom.
 
-[Little Cruiser](/matt-layden/little-cruiser.md), by contrast, does use a
-mast pin: her mast is supported on the foredeck by two hinged struts, and
-pulling a pin at the mast's foot lets it fold backward until it rests on the
-cabin top — a genuine quick-lowering rig suited to ducking under bridges,
-distinct from Paradox's lift-off arrangement.
+[Little Cruiser](/matt-layden/little-cruiser.md), by contrast, does use a mast pin: her mast is supported on the foredeck by two hinged struts, and pulling a pin at the mast's foot lets it fold backward until it rests on the cabin top — a genuine quick-lowering rig suited to ducking under bridges, distinct from Paradox's lift-off arrangement.
 
 # Citations
 

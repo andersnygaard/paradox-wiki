@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Boom-end tack line holes and drilled-hole rot protection
-description: Explains the two-hole tack-line arrangement in the Paradox boom-end pulley, the "bottom bevel left standing" bulkhead-drawing convention, and Glen Maxwell's and Don Peters's techniques for coating narrow drilled holes with epoxy to prevent rot without closing them up.
+description: Explains the two-hole tack-line arrangement in the Paradox boom-end pulley, the "bottom bevel left standing" bulkhead-drawing convention, and two techniques for coating narrow drilled holes with epoxy to prevent rot without closing them up.
 tags: [paradox, construction, rig, boom, epoxy, drilling, rot-prevention, pete-hodges, glen-maxwell]
 timestamp: 2026-07-01T00:00:00Z
 ---
@@ -10,81 +10,30 @@ timestamp: 2026-07-01T00:00:00Z
 
 ## Two holes for the tack line, in the boom-end pulley
 
-The pulley fitted at the end of the boom has **two holes** for the tack line.
-The two holes let the **tack line pass through and then back** to the **tack
-grommet**, so the line can be used to **tighten and make the tack fast** — i.e.
-the pair of holes forms a simple 2:1 purchase/anchor point for tensioning the
-tack, rather than being redundant. This is a small hardware detail distinct
-from the [tack strop / downhaul](/design/furling-system.md) mechanism already
-documented for reefing.
+The pulley fitted at the end of the boom has **two holes** for the tack line. The two holes let the **tack line pass through and then back** to the **tack grommet**, so the line can be used to **tighten and make the tack fast** — i.e. the pair of holes forms a simple 2:1 purchase/anchor point for tensioning the tack, rather than being redundant. This is a small hardware detail distinct from the [tack strop / downhaul](/design/furling-system.md) mechanism already documented for reefing.
 
 ## "Bottom Bevel Left Standing" — the bulkhead bevel convention
 
-The drawing note **"Bottom Bevel Left Standing"** on the bulkhead drawings is
-boatbuilder shorthand confirming that **both the bulkhead and the floor
-timber it mates to are beveled**. The practical technique is documented in
-[hull assembly sequence](/construction/hull-assembly-sequence.md):
-leave the bulkhead and floor timber **"proud"** (oversize) after gluing them
-together, then cut the bevel into both parts **at once** in a single pass,
-rather than beveling each piece individually beforehand. This is the same
-bevel-after-gluing method [Glen Maxwell](/people/glen-maxwell.md) and David
-Beard described in December 2001, reconfirmed here for the boom-end drawings.
+The drawing note **"Bottom Bevel Left Standing"** on the bulkhead drawings is boatbuilder shorthand confirming that **both the bulkhead and the floor timber it mates to are beveled**. The practical technique is documented in [hull assembly sequence](/construction/hull-assembly-sequence.md): leave the bulkhead and floor timber **"proud"** (oversize) after gluing them together, then cut the bevel into both parts **at once** in a single pass, rather than beveling each piece individually beforehand. This is the same bevel-after-gluing method already documented, reconfirmed here for the boom-end drawings.
 
-Reading the bulkhead drawings themselves, the printed dimensions are taken
-**at the station line**, not at the finished, beveled edge. On bulkhead 1
-(shown on drawing sheet 7, with the transom on sheet 8), the **668 mm figure
-is the plywood's total height at the station line**; since the rest of the
-panel lies forward of that line, the panel is beveled inward from it. A
-dotted line drawn below bulkhead 1 marks the **floor**, which lies aft of the
-station line and so bevels outward ("an outy bevel") rather than inward. A
-further wrinkle is that the bulkhead **sides are crowned**: an "extra outer
-line" to the right of the drawing's centerline shows the sides curving
-slightly outward in addition to being beveled, and to the right of the
-bulkheads the drawing also shows the floor, sides, and deck plywood in
-planking position. Read together, the bevel and the crown apply at once, not
-as alternatives.[9]–[12]
+Reading the bulkhead drawings themselves, the printed dimensions are taken **at the station line**, not at the finished, beveled edge. On bulkhead 1 (shown on drawing sheet 7, with the transom on sheet 8), the **668 mm figure is the plywood's total height at the station line**; since the rest of the panel lies forward of that line, the panel is beveled inward from it. A dotted line drawn below bulkhead 1 marks the **floor**, which lies aft of the station line and so bevels outward ("an outy bevel") rather than inward. A further wrinkle is that the bulkhead **sides are crowned**: an "extra outer line" to the right of the drawing's centerline shows the sides curving slightly outward in addition to being beveled, and to the right of the bulkheads the drawing also shows the floor, sides, and deck plywood in planking position. Read together, the bevel and the crown apply at once, not as alternatives.[9]–[12]
 
 ## Drilling through wood or through glass, and rot prevention
 
-The tack-line holes are drilled through the **wood of the boom**, not through
-the fiberglass-and-epoxy wrap around the pulley fitting. [Glen
-Maxwell](/people/glen-maxwell.md)'s general practice for **every hole he
-drills** in the boat is to coat it with **at least two, usually three, coats
-of epoxy**. For a hole in **plywood** specifically, his method is:
+The tack-line holes are drilled through the **wood of the boom**, not through the fiberglass-and-epoxy wrap around the pulley fitting. General practice for **every hole drilled** in the boat is to coat it with **at least two, usually three, coats of epoxy**. For a hole in **plywood** specifically, the method is:
 
-1. Coat the hole first with **straight (unthickened) epoxy**, and let the end
-   grain **soak up all it can absorb**.
-2. Then mix a batch of epoxy **thickened with Cabosil (silica thickener)** and
-   coat the edge of the hole with that.
-3. This thickened second coat acts as an **armor coating**, sealing and
-   reinforcing the end grain against moisture ingress and rot — the same
-   Cabosil thickener already documented for squeeze-out control in
-   [fastening and gluing](/construction/fastening-and-gluing.md).
+1. Coat the hole first with **straight (unthickened) epoxy**, and let the end grain **soak up all it can absorb**.
+2. Then mix a batch of epoxy **thickened with Cabosil (silica thickener)** and coat the edge of the hole with that.
+3. This thickened second coat acts as an **armor coating**, sealing and reinforcing the end grain against moisture ingress and rot — the same Cabosil thickener already documented for squeeze-out control in [fastening and gluing](/construction/fastening-and-gluing.md).
 
 ## Coating a narrow, deep hole without filling it
 
-The tack-line holes are only about **1/4 in in diameter and a few inches
-deep** — narrow and deep enough that coating them with epoxy risks either
-**filling the hole solid** or shrinking its usable diameter too much to pass a
-line through. Two techniques address this:
+The tack-line holes are only about **1/4 in in diameter and a few inches deep** — narrow and deep enough that coating them with epoxy risks either **filling the hole solid** or shrinking its usable diameter too much to pass a line through. Two techniques address this:
 
-- **Glen Maxwell**'s technique: dip a **pipe cleaner in epoxy** and use it to
-  coat the inside of the hole, then **redrill** to the finished size once the
-  epoxy has cured. The pipe cleaner's bristles reach and wet the full length
-  of a narrow, deep hole without pooling or filling it, and redrilling after
-  cure restores the exact original diameter.
-- **Don Peters**'s alternative, more robust method: **drill the hole
-  oversize**, fill it completely with **epoxy thickened with milled fibers**
-  (or another favorite thickener — the same category of thickened epoxy
-  already used for the armor-coating technique above), let it cure solid,
-  then **redrill** at the size actually needed. Because the hole is filled and
-  redrilled rather than merely coated, every exposed surface ends up sealed in
-  cured epoxy rather than bare end grain, at the cost of an extra
-  oversize-and-refill step.
+- One technique: dip a **pipe cleaner in epoxy** and use it to coat the inside of the hole, then **redrill** to the finished size once the epoxy has cured. The pipe cleaner's bristles reach and wet the full length of a narrow, deep hole without pooling or filling it, and redrilling after cure restores the exact original diameter.
+- An alternative, more robust method: **drill the hole oversize**, fill it completely with **epoxy thickened with milled fibers** (or another favorite thickener — the same category of thickened epoxy already used for the armor-coating technique above), let it cure solid, then **redrill** at the size actually needed. Because the hole is filled and redrilled rather than merely coated, every exposed surface ends up sealed in cured epoxy rather than bare end grain, at the cost of an extra oversize-and-refill step.
 
-Both methods share the same underlying idea — coat/fill first, then restore
-the working diameter by redrilling after cure — as opposed to trying to brush
-or soak epoxy into a hole already cut to final size.
+Both methods share the same underlying idea — coat/fill first, then restore the working diameter by redrilling after cure — as opposed to trying to brush or soak epoxy into a hole already cut to final size.
 
 # Citations
 

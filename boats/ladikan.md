@@ -1,75 +1,30 @@
 ---
 type: Concept
 title: Ladikan (Bengt Genell)
-description: Bengt Genell's plywood-built Paradox, launched on Lake Mälaren in central Sweden in July 2006 after a two-year build, with a modified two-part cabin for easier boarding, no water tanks, and a scratch-built wood reefing/furling gaff copied from Andrew Graham's "Zero."
+description: Bengt Genell's plywood-built Paradox, launched on Lake Mälaren in central Sweden in July 2006 after a two-year build, with a modified two-part cabin for easier boarding, no water tanks, and a scratch-built wood reefing/furling gaff copied from the Australian-built Paradox "Zero."
 tags: [paradox, boats, sweden, bengt-genell, ladikan, launch]
 timestamp: 2026-07-07T00:00:00Z
 ---
 
 # Ladikan (Bengt Genell)
 
-**Ladikan** is [Bengt Genell](/people/bengt-genell.md)'s Paradox, built in
-**central Sweden**, roughly two hours by car from the nearest coast, and
-launched on **Lake Mälaren** in **July 2006** after two years of building.
-Unlike the [BRIS Paradox](/bris-paradox.md), Sweden's first documented build
-(Kjell Karlsson's composite-material variant), Ladikan is a conventional
-**plywood** hull, built on a tight budget — a further, independent Swedish
-example of the design.
+**Ladikan** is [Bengt Genell](/people/bengt-genell.md)'s Paradox, built in **central Sweden**, roughly two hours by car from the nearest coast, and launched on **Lake Mälaren** in **July 2006** after two years of building. Unlike the [BRIS Paradox](/boats/bris-paradox.md), Sweden's first documented build (a composite-material variant), Ladikan is a conventional **plywood** hull, built on a tight budget — a further, independent Swedish example of the design.
 
 ## Name and build choices
 
-**"Ladikan"** is an old Swedish word for "the little box" (spelled with an
-umlaut over the first "a," properly **"Lädikan"**). Bengt built to a tight
-budget throughout: exterior- rather than marine-grade plywood, ring nails
-substituted with ordinary screws where he could not source the specified
-fastenings, and both the built-in water tanks and the lightning protection
-omitted outright. He described his own approach as favoring "simple, not to
-say rude, solutions," with finish a low priority.
+**"Ladikan"** is an old Swedish word for "the little box" (spelled with an umlaut over the first "a," properly **"Lädikan"**). Bengt built to a tight budget throughout: exterior- rather than marine-grade plywood, ring nails substituted with ordinary screws where the specified fastenings could not be sourced, and both the built-in water tanks and the lightning protection omitted outright. He favored "simple, not to say rude, solutions," with finish a low priority.
 
-The cabin was modified into **two parts**, with the aft section made
-movable — a deliberate concession to being "no longer young and agile,"
-easing his own boarding and exit. He copied his scratch-built wood
-reefing/furling gaff design directly from [Andrew Graham](/people/andrew-graham.md)'s
-Australian-built Paradox "[Zero](/boats/aussie-paradox.md)" — see [Zero's own
-reefing-drum yard
-fitting](/boats/aussie-paradox.md#a-fuller-progress-report-sides-bottom-deck-framing-and-interior-detail)
-for the design he drew on.
+The cabin was modified into **two parts**, with the aft section made movable — a deliberate concession to being "no longer young and agile," easing his own boarding and exit. He copied his scratch-built wood reefing/furling gaff design directly from the Australian-built Paradox "[Zero](/boats/aussie-paradox.md)" — see [Zero's own reefing-drum yard fitting](/boats/aussie-paradox.md#a-fuller-progress-report-sides-bottom-deck-framing-and-interior-detail) for the design he drew on.
 
 ## Launch and first trials
 
-Ladikan first touched the water in **mid-July 2006**. Weighed on her trailer
-without ballast, the boat and trailer together came to **420 kg**, or
-roughly **300 kg** for the boat alone; Bengt made up his lead ballast pigs
-with sandbags to bring her down to her designed waterline. A stable
-high-pressure weather pattern left Lake Mälaren nearly windless through the
-following weeks, so her sailing qualities remained untested on the record,
-though she "behaved very reassuring in the water" under trailer-launch and
-towing conditions. Bengt credited the list's messages and photographs,
-across the two-year build, as a running source of inspiration.
+Ladikan first touched the water in **mid-July 2006**. Weighed on her trailer without ballast, the boat and trailer together came to **420 kg**, or roughly **300 kg** for the boat alone; Bengt made up his lead ballast pigs with sandbags to bring her down to her designed waterline. A stable high-pressure weather pattern left Lake Mälaren nearly windless through the following weeks, so her sailing qualities remained untested on the record, though she "behaved very reassuring in the water" under trailer-launch and towing conditions. He credited the two-year run of messages and photographs as a running source of inspiration.
 
-Several replies welcomed the launch: one correcting the spelling to the
-proper Swedish "Lädikan"; congratulations from [Glen
-Maxwell](/people/glen-maxwell.md) and [Derek Clark](/people/derek-clark.md)
-(the latter asking for more photos of the two-part cabin); [Stephen
-Yahn](/people/stephen-yahn.md), who had likewise skipped fitting a water
-tank, asking how much ballast Bengt used; and a **new correspondent**, Glenn
-Lundström — a 67-year-old retired Swede from Vara, a lifelong sailor without
-prior carpentry experience — who introduced himself to the list on the
-strength of Bengt's post, describing himself as similarly drawn to Paradox's
-simplicity and planning his own build at a "mature age" on Lake Vänern.
+Several replies welcomed the launch: one correcting the spelling to the proper Swedish "Lädikan"; congratulations, with a request for more photos of the two-part cabin; a note from a builder who had likewise skipped fitting a water tank, asking how much ballast was used; and the introduction of a **new correspondent** — a 67-year-old retired Swede from Vara, a lifelong sailor without prior carpentry experience — who joined the list on the strength of the launch post, describing himself as similarly drawn to Paradox's simplicity and planning his own build at a "mature age" on Lake Vänern.
 
 ## Genell's earlier build questions
 
-Bengt's own build long predates this launch. He first raised a **sheet-layout**
-question in March 2004, unable to identify the C-formed pieces drawn on the
-9 mm bulkhead-1 sheet — answered by [Alastair](/people/alastair.md), who had
-hit the same shortfall of plywood himself; and in August-September 2004
-asked whether cheaper polyester resin could substitute for epoxy on a tight
-budget, drawing answers from several builders about polyester's weaker bond,
-Dynamite Payson's decades-old polyester-built stitch-and-glue boats, and
-[Little Cruiser](/matt-layden/little-cruiser.md)'s proof that paint alone
-(no fiberglass at all) can survive at sea — full detail at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy).
-He settled on fiberglassing all outer surfaces regardless.
+Bengt's own build long predates this launch. He first raised a **sheet-layout** question in March 2004, unable to identify the C-formed pieces drawn on the 9 mm bulkhead-1 sheet — the same shortfall of plywood others had hit; and in August-September 2004 asked whether cheaper polyester resin could substitute for epoxy on a tight budget, drawing answers about polyester's weaker bond, decades-old polyester-built stitch-and-glue boats, and [Little Cruiser](/matt-layden/little-cruiser.md)'s proof that paint alone (no fiberglass at all) can survive at sea — full detail at [construction/epoxy-coating-technique.md](/construction/epoxy-coating-technique.md#polyester-resin-versus-epoxy). He settled on fiberglassing all outer surfaces regardless.
 
 # Citations
 

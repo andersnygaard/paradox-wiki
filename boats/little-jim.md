@@ -8,715 +8,161 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Little Jim
 
-**"little Jim"** is the name [Alastair](/people/alastair.md) (Yeovil,
-England) gave his own [Paradox](/paradox.md), which he had been building
-and reporting on in detail since **July 2001** (see
-[Alastair](/people/alastair.md) for the full build-progress narrative:
-garage logistics, panel layout, hull assembly, spars, rigging, and trailer
-planning). The name surfaced once the boat was far enough along to be
-shown off with a photo gallery, over a year into construction.
+**"little Jim"** is the name [Alastair](/people/alastair.md) (Yeovil, England) gave his own [Paradox](/paradox.md), which he had been building and reporting on in detail since **July 2001** (see [Alastair](/people/alastair.md) for the full build-progress narrative: garage logistics, panel layout, hull assembly, spars, rigging, and trailer planning). The name surfaced once the boat was far enough along to be shown off with a photo gallery, over a year into construction.
 
 ## A year into the build: topping lift and furling (autumn 2002)
 
-In September 2002, over a year into the build, Alastair posted a set of
-**construction photographs** to his own website,
-`www.asjg.clara.co.uk/little_jim/little_jim.htm` — a fuller, purpose-built
-gallery distinct from the CATIA CAD-model renderings he had posted earlier
-that year (see
-[notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)),
-and it was added to the group's links area as a reference build log.
+In September 2002, over a year into the build, Alastair posted a set of **construction photographs** to his own website, `www.asjg.clara.co.uk/little_jim/little_jim.htm` — a fuller, purpose-built gallery distinct from the CATIA CAD-model renderings he had posted earlier that year (see [notching the stem for chine logs and sheer clamps](/construction/stem-notching.md)), and it was added to the group's links area as a reference build log.
 
-Fitting a **topping lift** before the deck goes on is the recommended
-sequence, since reefing without one had already proved difficult on other
-boats (see [furling system](/design/furling-system.md) for the full
-topping-lift history). Alastair also floated an untested **theory** for
-how [Matt Layden](/matt-layden/biography.md) furls without a topping lift:
-if the radius where the furling line comes off the drum is significantly
-larger than the radius of the sail rolled up on the boom, the boom will
-naturally want to roll upward and support itself during reefing (see
-[furling system — field test](/design/furling-system.md)).
+Fitting a **topping lift** before the deck goes on is the recommended sequence, since reefing without one had already proved difficult on other boats (see [furling system](/design/furling-system.md) for the full topping-lift history). Alastair also floated an untested **theory** for how [Matt Layden](/matt-layden/biography.md) furls without a topping lift: if the radius where the furling line comes off the drum is significantly larger than the radius of the sail rolled up on the boom, the boom will naturally want to roll upward and support itself during reefing (see [furling system — field test](/design/furling-system.md)).
 
-About a week later, Alastair collected his sail and gave the boat its
-first hands-on rigging trial, hoisting it with a temporary furling
-arrangement of his own. It worked but was impractical — lowering the sail
-had to be done in 3 in steps and gave him blisters — confirming, on
-"little Jim" herself, the same three-hands/no-topping-lift difficulty
-already documented from other builders' sea trials. Alastair then fitted a
-topping lift of similar but simpler geometry: a single line over a
-masthead block, splitting to each end of the boom, using **1/8 in** line
-for the lifting portion and **1/4 in** soft yacht braid for the hauling
-portion and the rest of his running rigging, for easier handling. See
-[furling system](/design/furling-system.md)
-for the fuller cross-reference to the wider topping-lift
-history.
+About a week later, Alastair collected his sail and gave the boat its first hands-on rigging trial, hoisting it with a temporary furling arrangement of his own. It worked but was impractical — lowering the sail had to be done in 3 in steps and gave him blisters — confirming, on "little Jim" herself, the same three-hands/no-topping-lift difficulty already documented from other builders' sea trials. Alastair then fitted a topping lift of similar but simpler geometry: a single line over a masthead block, splitting to each end of the boom, using **1/8 in** line for the lifting portion and **1/4 in** soft yacht braid for the hauling portion and the rest of his running rigging, for easier handling. See [furling system](/design/furling-system.md) for the fuller cross-reference to the wider topping-lift history.
 
 ## Decking over, and a side-deck plans error resolved (November 2002)
 
-By mid-November 2002 the **fore and aft decks** were fitted, with the
-**side decks** due on next. Fitting the mast partners raised a protection
-question, resolved by a no-trouble report from another builder's boat and
-a leather-collar fix (see
-[mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md)).
+By mid-November 2002 the **fore and aft decks** were fitted, with the **side decks** due on next. Fitting the mast partners raised a protection question, resolved by a no-trouble report from another builder's boat and a leather-collar fix (see [mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md)).
 
-Alastair also flagged a genuine **plans error**: the two side decks and
-two cabin end panels did not appear to fit a single 4 ft-wide sheet of
-ply, since the deck width itself exceeds 4 ft. Closer measurement narrowed
-the mismatch to **2 of the 6 end pieces**; re-measuring against sheet #3
-of the plans confirmed the foredeck's maximum width comes to 3 ft 11 in,
-and once the deck crown is added a builder following the plans exactly
-will probably go over 4 ft. This confirmed the tight fit as a genuine
-plans issue rather than a misreading, and left a proven fix — a small
-scabbed-on addition at each side, reaching the gunwale edge — for Alastair
-and any later builder reaching the same stage. See
-[panel layout and nesting — resolved](/construction/panel-layout.md)
-for the fuller technical write-up.
+Alastair also flagged a genuine **plans error**: the two side decks and two cabin end panels did not appear to fit a single 4 ft-wide sheet of ply, since the deck width itself exceeds 4 ft. Closer measurement narrowed the mismatch to **2 of the 6 end pieces**; re-measuring against sheet #3 of the plans confirmed the foredeck's maximum width comes to 3 ft 11 in, and once the deck crown is added a builder following the plans exactly will probably go over 4 ft. This confirmed the tight fit as a genuine plans issue rather than a misreading, and left a proven fix — a small scabbed-on addition at each side, reaching the gunwale edge — for Alastair and any later builder reaching the same stage. See [panel layout and nesting — resolved](/construction/panel-layout.md) for the fuller technical write-up.
 
 ## Weigh-in, and a full build-cost accounting (January–March 2003)
 
-In January 2003, with her **hull finished and glassed** and cabin work
-just starting, "little Jim" weighed **just under 600 lb** against a
-**1,400 lb** designed displacement — meaning roughly half her finished
-weight was still to come as stores, ballast, and crew. See
-[weight, ballast, and displacement — a fourth weight thread](/design/weight-and-ballast.md)
-for the fuller thread this figure touched off between David LeBlanc and
-Larry ("LJGeib").
+In January 2003, with her **hull finished and glassed** and cabin work just starting, "little Jim" weighed **just under 600 lb** against a **1,400 lb** designed displacement — meaning roughly half her finished weight was still to come as stores, ballast, and crew. See [weight, ballast, and displacement — a fourth weight thread](/design/weight-and-ballast.md) for the fuller thread this figure touched off.
 
-Two months later, in March 2003, Alastair reached a major landmark: all
-the actual **making** of "little Jim" was complete, with only paint and
-fitting-out left to do. He gave the fullest single **cost and
-schedule accounting** on record for a Paradox build: plans ordered April 2001, tools
-and materials bought two months later, steady but unhurried work
-throughout; **boat cost £2,751.16** (including most of the power tools
-used); a **custom-built trailer, £1,502.12**, designed to his own
-requirements — simple single-handed launch/recovery without wetting the
-trailer, launching on a flat beach at low tide, and severe width limits
-for home storage; a **total build cost of roughly £4,253**, the fullest
-combined cost figure the archive records for a single Paradox project
-from plans purchase to launch. See
-[build effort and workspace](/construction/build-effort.md) for other
-builders' cost/time data points. Alastair hoped for a launch over Easter
-2003.
+Two months later, in March 2003, Alastair reached a major landmark: all the actual **making** of "little Jim" was complete, with only paint and fitting-out left to do. He gave the fullest single **cost and schedule accounting** on record for a Paradox build: plans ordered April 2001, tools and materials bought two months later, steady but unhurried work throughout; **boat cost £2,751.16** (including most of the power tools used); a **custom-built trailer, £1,502.12**, designed to his own requirements — simple single-handed launch/recovery without wetting the trailer, launching on a flat beach at low tide, and severe width limits for home storage; a **total build cost of roughly £4,253**, the fullest combined cost figure the archive records for a single Paradox project from plans purchase to launch. See [build effort and workspace](/construction/build-effort.md) for other builders' cost/time data points. Alastair hoped for a launch over Easter 2003.
 
 ## Launch: "It floats! It's watertight! It keeps bumping into things!!" (19 April 2003)
 
-Alastair launched "little Jim" from the slip at **Ridge Wharf boatyard**,
-on the river Frome off **Poole Harbour**, on 19 April 2003. His **custom
-trailer** proved a success at both launch and haul-out, needing only "a
-few mods" to be "well nigh perfect." The weather did not cooperate — a
-hot, light-wind day beforehand gave way to a cold force-6 blow for the
-launch itself.
+Alastair launched "little Jim" from the slip at **Ridge Wharf boatyard**, on the river Frome off **Poole Harbour**, on 19 April 2003. His **custom trailer** proved a success at both launch and haul-out, needing only "a few mods" to be "well nigh perfect." The weather did not cooperate — a hot, light-wind day beforehand gave way to a cold force-6 blow for the launch itself.
 
-Testing her **stability** on deck, hanging onto the mast and leaning out,
-Alastair could not tell whether he'd reached 10 degrees of list or
-something closer to 45 degrees — the same ambiguous on-deck lean-out test
-other builders had also run without a clear result (compare
-[Whisper](/boats/whisper.md)'s own inconclusive dockside lean, where the
-mast could plausibly be dipped in the water) — and decided to wait for
-calmer weather to test further. He also tried the **yuloh** for the first
-time: with the wind about 45 degrees off the bow, the bow kept blowing off
-toward the next berth (no damage, the berths being empty), and he judged
-coordinating sculling and steering simultaneously difficult with a
-pontoon rapidly approaching — he planned a leg-operated tiller extension
-to free both hands for the yuloh. He wondered whether his boat's center of
-gravity, known to be 1.8 m forward of the transom, sat too far aft.
+Testing her **stability** on deck, hanging onto the mast and leaning out, Alastair could not tell whether he'd reached 10 degrees of list or something closer to 45 degrees — the same ambiguous on-deck lean-out test other builders had also run without a clear result (compare [Whisper](/boats/whisper.md)'s own inconclusive dockside lean, where the mast could plausibly be dipped in the water) — and decided to wait for calmer weather to test further. He also tried the **yuloh** for the first time: with the wind about 45 degrees off the bow, the bow kept blowing off toward the next berth (no damage, the berths being empty), and he judged coordinating sculling and steering simultaneously difficult with a pontoon rapidly approaching — he planned a leg-operated tiller extension to free both hands for the yuloh. He wondered whether his boat's center of gravity, known to be 1.8 m forward of the transom, sat too far aft.
 
-The stability question fit **the common Paradox pattern of an
-unballasted launch**: "not enough ballast to sink the paradox to its
-lines… bobbing on top with no chine leverage for directional stability
-and no immersion to cause stability" — consistent with the design's known
-sensitivity to ballast and stores for proper trim (see
-[weight, ballast, and displacement — an unloaded launch and a stability
-diagnosis](/design/weight-and-ballast.md)). "[Zoë](/boats/zoe.md)," sailed
-light with no water aboard, likewise "did just fine" though she looked "a
-little low in the water" (see
-[Zoë — sailing light, and a tiller stop](/boats/zoe.md)).
+The stability question fit **the common Paradox pattern of an unballasted launch**: "not enough ballast to sink the paradox to its lines… bobbing on top with no chine leverage for directional stability and no immersion to cause stability" — consistent with the design's known sensitivity to ballast and stores for proper trim (see [weight, ballast, and displacement — an unloaded launch and a stability diagnosis](/design/weight-and-ballast.md)). "[Zoë](/boats/zoe.md)," sailed light with no water aboard, likewise "did just fine" though she looked "a little low in the water" (see [Zoë — sailing light, and a tiller stop](/boats/zoe.md)).
 
-The day after launch, Alastair worked out from bathroom-scale readings and
-calculation that "little Jim" had been only about **20 kg (44 lb) lighter
-than her design weight** at launch — a much smaller shortfall than the
-general "not enough ballast" diagnosis suggested — and now suspected the
-stability trouble owed as much to **conditions as to trim**: "I think the
-main problem was just too much wind. I am not sure I could have rowed my
-dinghy very easily in those conditions." This is the most
-precise known-shortfall ballast figure on record for an unloaded Paradox. He
-planned to carry the 20 kg as movable ballast on his next trip, and
-described his trailer as **"a simple design of parallel rollers."**
+The day after launch, Alastair worked out from bathroom-scale readings and calculation that "little Jim" had been only about **20 kg (44 lb) lighter than her design weight** at launch — a much smaller shortfall than the general "not enough ballast" diagnosis suggested — and now suspected the stability trouble owed as much to **conditions as to trim**: "I think the main problem was just too much wind. I am not sure I could have rowed my dinghy very easily in those conditions." This is the most precise known-shortfall ballast figure on record for an unloaded Paradox. He planned to carry the 20 kg as movable ballast on his next trip, and described his trailer as **"a simple design of parallel rollers."**
 
 ## First sail: "Whooee!! what a boat!" (23 April 2003)
 
-Four days after launch, Alastair took "little Jim" out under sail for the
-first time, giving the fullest single day-sail account from any
-UK builder to date. He sculled out of the marina in light wind, got the
-hang of the yuloh heading down the river to open water, and found the
-trick was not to try to go too fast, sailing with the rudder half-up —
-with the rudder fully raised he had no steering control at all and kept
-rounding up into the wind, but with it half up (horizontal) he had full
-control. He noticed a crease across the sail's top corner and correctly
-diagnosed it as sitting too far aft on the yard — the same kind of
-yard/sail-fit issue **Matt Layden** had diagnosed on another builder's
-sail weeks earlier (see
-[rig and sail](/design/rig.md)).
+Four days after launch, Alastair took "little Jim" out under sail for the first time, giving the fullest single day-sail account from any UK builder to date. He sculled out of the marina in light wind, got the hang of the yuloh heading down the river to open water, and found the trick was not to try to go too fast, sailing with the rudder half-up — with the rudder fully raised he had no steering control at all and kept rounding up into the wind, but with it half up (horizontal) he had full control. He noticed a crease across the sail's top corner and correctly diagnosed it as sitting too far aft on the yard — the same kind of yard/sail-fit issue **Matt Layden** had diagnosed on another builder's sail weeks earlier (see [rig and sail](/design/rig.md)).
 
-He sailed to the ferry terminal, across to Pottery Pier on Brownsea
-Island, up the Upper Wych Channel, and ghosted on a falling tide into the
-marshes of Middlebere Lake, anchoring for the night. A frost formed on
-deck and sails by morning despite only a thin sleeping bag — "after all I
-had the insulation of a Paradox around me" — and a misty, nearly calm
-morning still yielded 2 kn on the GPS. Later, with wind returned from the
-NE at F3-4, he clocked **over 5 kn on the GPS** (unconfirmed until
-measured with a log line) circumnavigating the harbour, before reefing for
-the final stretch home up the winding River Frome.
+He sailed to the ferry terminal, across to Pottery Pier on Brownsea Island, up the Upper Wych Channel, and ghosted on a falling tide into the marshes of Middlebere Lake, anchoring for the night. A frost formed on deck and sails by morning despite only a thin sleeping bag — "after all I had the insulation of a Paradox around me" — and a misty, nearly calm morning still yielded 2 kn on the GPS. Later, with wind returned from the NE at F3-4, he clocked **over 5 kn on the GPS** (unconfirmed until measured with a log line) circumnavigating the harbour, before reefing for the final stretch home up the winding River Frome.
 
-**Verdict:** "I am delighted!" The boat held a course for up to 2 miles
-with the tiller locked, showed no visible leeway, heeled about 20 degrees
-at maximum (more usually 10), and was forgiving of a badly-set sail. He
-got hung up tacking twice and planned to move ballast further aft.
-Internally he found "ample room" for his own frame, though access forward
-of bulkhead 1 was tight once his bed-roll was laid out.
+**Verdict:** "I am delighted!" The boat held a course for up to 2 miles with the tiller locked, showed no visible leeway, heeled about 20 degrees at maximum (more usually 10), and was forgiving of a badly-set sail. He got hung up tacking twice and planned to move ballast further aft. Internally he found "ample room" for his own frame, though access forward of bulkhead 1 was tight once his bed-roll was laid out.
 
-On tell-tale use: ease the sheet until the luff just flutters or the
-belly just luffs, then sheet in only enough to firm the sail —
-over-sheeting, a common fault, was the likely cause of his tacking
-trouble. This is the fullest account yet of a Paradox actually being
-sailed, as opposed to launched or sculled, by a builder other than Matt
-Layden, and confirmed "little Jim" handled well under sail from her very
-first outing.
+On tell-tale use: ease the sheet until the luff just flutters or the belly just luffs, then sheet in only enough to firm the sail — over-sheeting, a common fault, was the likely cause of his tacking trouble. This is the fullest account yet of a Paradox actually being sailed, as opposed to launched or sculled, by a builder other than Matt Layden, and confirmed "little Jim" handled well under sail from her very first outing.
 
 ## Third outing: a two-day cruise to Brownsea and Bournemouth (May 2003)
 
-Two weeks later, Alastair gave the fullest single cruising
-account yet for "little Jim." Over two days on Poole Harbour he: launched
-at Ridge Wharf, sculling out and hoisting sail in open water at 4.7 mph /
-4.1 kn by GPS; reached Brownsea Island in under an hour, rounded the south
-side through "Blood Alley," and anchored in the shallows while scouting
-conditions beyond the harbour entrance; sailed close-hauled to **Green
-Island** in a freshening wind at a steady **30 degrees of heel** — "did
-not feel dangerous," though he reefed out of caution, noting to himself
-"must do that capsize test!"; anchored off Green Island overnight and
-nearly ran aground the next morning after misjudging **Poole's unusual
-double-high-water tide pattern**, using the yuloh to push clear as the
-flat bottom simply slid over the mud; and ran a deliberate **speed
-trial** to Bournemouth Pier and back — a precise 4-mile GPS leg each way,
-close-hauled in about F3, averaging **3.7 kn** over the full 8 miles. A
-detour into Studland Bay for an ice cream (none found) cost him a foul
-wind and adverse tide home, arriving "only five and a half hours late."
-He closed with a now-familiar observation — passersby everywhere stopping
-to ask about the boat and its designer — and reflected the trip had been
-genuinely educational as well as satisfying and "great fun."
+Two weeks later, Alastair gave the fullest single cruising account yet for "little Jim." Over two days on Poole Harbour he: launched at Ridge Wharf, sculling out and hoisting sail in open water at 4.7 mph / 4.1 kn by GPS; reached Brownsea Island in under an hour, rounded the south side through "Blood Alley," and anchored in the shallows while scouting conditions beyond the harbour entrance; sailed close-hauled to **Green Island** in a freshening wind at a steady **30 degrees of heel** — "did not feel dangerous," though he reefed out of caution, noting to himself "must do that capsize test!"; anchored off Green Island overnight and nearly ran aground the next morning after misjudging **Poole's unusual double-high-water tide pattern**, using the yuloh to push clear as the flat bottom simply slid over the mud; and ran a deliberate **speed trial** to Bournemouth Pier and back — a precise 4-mile GPS leg each way, close-hauled in about F3, averaging **3.7 kn** over the full 8 miles. A detour into Studland Bay for an ice cream (none found) cost him a foul wind and adverse tide home, arriving "only five and a half hours late." He closed with a now-familiar observation — passersby everywhere stopping to ask about the boat and its designer — and reflected the trip had been genuinely educational as well as satisfying and "great fun."
 
 ## The landmark voyage: a 27-mile passage to Portland and back (May 2003)
 
-Ten days later, Alastair announced "little Jim"'s first long-distance
-cruise: a 4-day, **27-mile-each-way** trip from Poole Harbour to Portland
-Harbour and back, choosing Portland partly because it has no significant
-tidal entrance window — a useful safety margin given he still had little
-sense of what average speed to expect in open water. Forecast wind looked
-to be on the nose with rain expected, but he was not deterred. Ahead of
-departure, **Bill Serjeant** (`smallsailboats.co.uk`) supplied a weather
-and tidal-race briefing, cautioning Alastair to stay at least 2 miles
-south of the Portland Race or, alternatively, to cut inside close to the
-Bill of Portland with the tidal slot timed right; Alastair delayed his
-own departure a day to wait for a better wind angle.
+Ten days later, Alastair announced "little Jim"'s first long-distance cruise: a 4-day, **27-mile-each-way** trip from Poole Harbour to Portland Harbour and back, choosing Portland partly because it has no significant tidal entrance window — a useful safety margin given he still had little sense of what average speed to expect in open water. Forecast wind looked to be on the nose with rain expected, but he was not deterred. Ahead of departure, a weather and tidal-race briefing counselled staying at least 2 miles south of the Portland Race or, alternatively, cutting inside close to the Bill of Portland with the tidal slot timed right; Alastair delayed his own departure a day to wait for a better wind angle.
 
-Alastair returned four days later and posted the full write-up — the
-fullest single cruising narrative on record to date — opening: **"This is
-the story of the landmark voyage of Little Jim. It is a story of high
-emotion, of elation and despair."** Per the Shell Pilot to the English
-Channel, the passage was 27 nautical miles each way; the wind held a
-steady F3-4 S to SW for the whole trip.
+Alastair returned four days later and posted the full write-up — the fullest single cruising narrative on record to date — opening: **"This is the story of the landmark voyage of Little Jim. It is a story of high emotion, of elation and despair."** Per the Shell Pilot to the English Channel, the passage was 27 nautical miles each way; the wind held a steady F3-4 S to SW for the whole trip.
 
-- **Day 1:** Launched into the river, ran aground briefly on the bank
-  before reaching open water. A rain shower let him test "the main bad
-  weather feature of the Paradox design" — going below and shutting the
-  hatch — which steamed up the windows in the hot, humid cabin, "a bit of
-  a worry" in a busy harbour; he avoided other traffic by ducking into
-  **shallows where other boats couldn't go**, using the design's shoal
-  draft as a practical collision-avoidance tool. He anchored for the
-  night near Brownsea Island.
-- **Day 2 (the passage):** Underway before dawn, past the chain ferry,
-  running a broad reach past Handfast Point and the Peveril Ledges before
-  turning close-hauled off Durlston Head and Anvil Point — where he was
-  seasick, an outcome he was careful to note was "not a reflection on the
-  Paradox," merely "an arrangement I have with Neptune." Passing **St
-  Albans Head's tidal race** about 2 miles off, near neaps but with wind
-  against tide, green water broke steadily over "little Jim" — enough to
-  wash loose the boot-topping tape on both bows — but she "never really
-  felt in any danger and were still sailing well," and not a drop of
-  water came through the hatch; the only water below came in through the
-  deck vent and drained straight back out, or was tracked in on his own
-  shoes. The tide turned against him within 2 miles of Portland,
-  costing three hours, before he anchored for the night in the SW corner
-  of Portland Harbour.
-- **Ashore at Portland**, Alastair made contact with a friend of
-  [Jeff UK](/people/jeff-doryman.md) who had an interest in a Paradox, and
-  the two talked for half an hour — the only recorded
-  in-person meeting prompted by Jeff UK's prior posts.
-- **Day 3 (the return):** Left Portland with the wind freshening from the
-  SW and the tide against, staying close inshore to avoid a strong
-  offshore current. The tide turned favourable again by St Albans Head,
-  giving an easy, dry passage back. Off Chapmans Pool, a **Drascombe
-  Lugger** that had motored out ahead hoisted sail — and "little Jim"
-  **overtook her**, "the first time we have overtaken anything!" — before
-  timing the chain ferry exactly right and anchoring for the night back
-  in Poole Harbour.
-- **Day 4:** Sculled up the river against the tide, hauled out at the
-  boatyard, and was home in time for lunch.
-- **Verdict:** **"We did it! The feeling of satisfaction is incredible. I
-  now know that we can go anywhere we like around the British coast."**
-  The seas off St Albans Head were rougher than he'd have liked,
-  especially while queasy, but "as Little Jim looks after itself most of
-  the time it got us through safely." He closed, as always, **"What a
-  great boat, thanks Matt."**
+- **Day 1:** Launched into the river, ran aground briefly on the bank before reaching open water. A rain shower let him test "the main bad weather feature of the Paradox design" — going below and shutting the hatch — which steamed up the windows in the hot, humid cabin, "a bit of a worry" in a busy harbour; he avoided other traffic by ducking into **shallows where other boats couldn't go**, using the design's shoal draft as a practical collision-avoidance tool. He anchored for the night near Brownsea Island.
+- **Day 2 (the passage):** Underway before dawn, past the chain ferry, running a broad reach past Handfast Point and the Peveril Ledges before turning close-hauled off Durlston Head and Anvil Point — where he was seasick, an outcome he was careful to note was "not a reflection on the Paradox," merely "an arrangement I have with Neptune." Passing **St Albans Head's tidal race** about 2 miles off, near neaps but with wind against tide, green water broke steadily over "little Jim" — enough to wash loose the boot-topping tape on both bows — but she "never really felt in any danger and were still sailing well," and not a drop of water came through the hatch; the only water below came in through the deck vent and drained straight back out, or was tracked in on his own shoes. The tide turned against him within 2 miles of Portland, costing three hours, before he anchored for the night in the SW corner of Portland Harbour.
+- **Ashore at Portland**, Alastair made contact with a local who had an interest in a Paradox, and the two talked for half an hour — the only recorded in-person meeting prompted by the [UK Paradox interest](/people/jeff-doryman.md) then circulating on the list.
+- **Day 3 (the return):** Left Portland with the wind freshening from the SW and the tide against, staying close inshore to avoid a strong offshore current. The tide turned favourable again by St Albans Head, giving an easy, dry passage back. Off Chapmans Pool, a **Drascombe Lugger** that had motored out ahead hoisted sail — and "little Jim" **overtook her**, "the first time we have overtaken anything!" — before timing the chain ferry exactly right and anchoring for the night back in Poole Harbour.
+- **Day 4:** Sculled up the river against the tide, hauled out at the boatyard, and was home in time for lunch.
+- **Verdict:** **"We did it! The feeling of satisfaction is incredible. I now know that we can go anywhere we like around the British coast."** The seas off St Albans Head were rougher than he'd have liked, especially while queasy, but "as Little Jim looks after itself most of the time it got us through safely." He closed, as always, **"What a great boat, thanks Matt."**
 
-The write-up drew the list's longest single reply thread to date, on
-**window fogging** (an anti-fog optical cleaner used aboard
-"[Whisper](/boats/whisper.md)"; a chamois technique aboard
-"[Zoë](/boats/zoe.md)"), **stability confidence**, and **cabin cushions**.
-On stability, Alastair reported that even close-hauled through the
-St Albans Head race at roughly 20 degrees of heel, with gusts pushing her
-briefly further, "it never felt twitchy… It all felt quite solid," and
-that even with green water washing over the boat, she "kept on powering
-through the waves" — the clearest single statement on record of
-confidence in "little Jim"'s seaworthiness under real offshore conditions,
-six weeks after her uncertain-stability launch (see
-[above](#launch-it-floats-its-watertight-it-keeps-bumping-into-things-19-april-2003)).
+The write-up drew the list's longest single reply thread to date, on **window fogging** (an anti-fog optical cleaner used aboard "[Whisper](/boats/whisper.md)"; a chamois technique aboard "[Zoë](/boats/zoe.md)"), **stability confidence**, and **cabin cushions**. On stability, Alastair reported that even close-hauled through the St Albans Head race at roughly 20 degrees of heel, with gusts pushing her briefly further, "it never felt twitchy… It all felt quite solid," and that even with green water washing over the boat, she "kept on powering through the waves" — the clearest single statement on record of confidence in "little Jim"'s seaworthiness under real offshore conditions, six weeks after her uncertain-stability launch (see [above](#launch-it-floats-its-watertight-it-keeps-bumping-into-things-19-april-2003)).
 
-On the **helming position** — whether sitting facing forward with a lean
-to port or starboard grows uncomfortable, and whether the helmsman braces
-against cockpit sides — Alastair answered that there is no cockpit on a
-Paradox: he usually sits in the top corner of the cabin, feet braced
-against the lockers opposite, with the boat's own ballast giving "scope
-for moving about without upsetting the boat." After 15 hours, though, he
-was "beginning to think of wedge shaped seats and bean bags and small
-inner tubes," having even tried kneeling on a garden kneeling pad "to get
-the blood circulating again" — which raised the question of what
-**Matt Layden** himself uses on longer voyages. **David and Mindy Bolduc**
-answered authoritatively: they always use closed-cell foam pads/cushions,
-or alternatively a small vinyl-covered sleeping cushion — **"This is what
-Matt has aboard Paradox."** Alastair, already using closed-cell cushions
-himself ("surprisingly comfortable for a few hours" but not for 15),
-planned to look into an inner-tube alternative, which could double as "a
-fender and a life ring."
+On the **helming position** — whether sitting facing forward with a lean to port or starboard grows uncomfortable, and whether the helmsman braces against cockpit sides — Alastair answered that there is no cockpit on a Paradox: he usually sits in the top corner of the cabin, feet braced against the lockers opposite, with the boat's own ballast giving "scope for moving about without upsetting the boat." After 15 hours, though, he was "beginning to think of wedge shaped seats and bean bags and small inner tubes," having even tried kneeling on a garden kneeling pad "to get the blood circulating again" — which raised the question of what **Matt Layden** himself uses on longer voyages. The authoritative answer: always closed-cell foam pads/cushions, or alternatively a small vinyl-covered sleeping cushion — **"This is what Matt has aboard Paradox."** Alastair, already using closed-cell cushions himself ("surprisingly comfortable for a few hours" but not for 15), planned to look into an inner-tube alternative, which could double as "a fender and a life ring."
 
-This full Portland write-up, and the reply thread it drew, gives the
-archive its most detailed single offshore passage account for any
-Paradox besides Matt Layden's own — covering a genuine tidal race
-transit, seasickness, window fogging, a chance shore contact, and Matt
-Layden's own cushion practice as a direct answer to a question about
-long-passage comfort.
+This full Portland write-up, and the reply thread it drew, gives the archive its most detailed single offshore passage account for any Paradox besides Matt Layden's own — covering a genuine tidal race transit, seasickness, window fogging, a chance shore contact, and Matt Layden's own cushion practice as a direct answer to a question about long-passage comfort.
 
 ## Cabin-cushion solutions: Glen Maxwell's foam-by-mail system (June 2003)
 
-Following directly from the Portland write-up's cushion question, a
-practical foam solution emerged. **1 5/8 in closed-cell Ensolite** ($128
-from Defender) proved too hard to sleep on. **Lux Foam** camping-pad stock
-from `foambymail.com`, by contrast, worked well: two 1 in × 39 in × 75 in
-pieces at $14 each with free shipping, cut to custom patterns and made
-into **2 in cushions**, slept on for two nights at the **Cedar Key
-Messabout** without any hard spots — "the most comfortable thin mattress I
-have ever slept on." Custom-cut cushions covering the entire cabin
-sole — one piece over the water tanks, two more over the aft storage
-compartments, liftable individually for access — allow a nap at will while
-sailing offshore. Covers were made from pack cloth, following the sewing
-instructions on [Dave and Mindy's own website](/references/microcruising-website.md).
+Following directly from the Portland write-up's cushion question, a practical foam solution emerged. **1 5/8 in closed-cell Ensolite** ($128 from Defender) proved too hard to sleep on. **Lux Foam** camping-pad stock from `foambymail.com`, by contrast, worked well: two 1 in × 39 in × 75 in pieces at $14 each with free shipping, cut to custom patterns and made into **2 in cushions**, slept on for two nights at the **Cedar Key Messabout** without any hard spots — "the most comfortable thin mattress I have ever slept on." Custom-cut cushions covering the entire cabin sole — one piece over the water tanks, two more over the aft storage compartments, liftable individually for access — allow a nap at will while sailing offshore. Covers were made from pack cloth, following the sewing instructions on the [microcruising website](/references/microcruising-website.md).
 
-An alternative is **Therm-a-Rest** self-inflating pads — light,
-insulating, low-bulk when rolled, the Classic about 2.25 in thick, though
-pricier than foam-by-mail — though they run too narrow individually and
-too wide to lay two abreast to cover a whole sole. An inner tube covered
-in Sunbrella, secured to a single centerline point on the helm-seat/sole
-so it can flip side to side by tack, was also floated as an option, since
-foam cushions otherwise tend to stick to bare skin on standing up. This
-exchange gave the archive its fullest technical record on cabin bedding,
-and happened to include the `paradoxbuilders` list's 1,000th posted
-message.
+An alternative is **Therm-a-Rest** self-inflating pads — light, insulating, low-bulk when rolled, the Classic about 2.25 in thick, though pricier than foam-by-mail — though they run too narrow individually and too wide to lay two abreast to cover a whole sole. An inner tube covered in Sunbrella, secured to a single centerline point on the helm-seat/sole so it can flip side to side by tack, was also floated as an option, since foam cushions otherwise tend to stick to bare skin on standing up. This exchange gave the archive its fullest technical record on cabin bedding, and happened to include the `paradoxbuilders` list's 1,000th posted message.
 
-Alastair later added his own camping-derived alternative: a thin sleep mat
-with two shaped foam blocks at the shoulder and hip pressure points — see
-[crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
+Alastair later added his own camping-derived alternative: a thin sleep mat with two shaped foam blocks at the shoulder and hip pressure points — see [crew size and cabin fit — sleeping two aboard a Paradox-family cabin](/operations/crew-size-and-fit.md#sleeping-two-aboard-a-paradox-family-cabin).
 
-Over a year later, **David and Mindy Bolduc** revisited the same
-foam-by-mail system to replace Little Cruiser's own bottomed-out cushion
-foam. The source and technique were confirmed: **Lux Foam** from
-`foambymail.com` (`BasicTwinFirm`), inexpensive with free shipping; when
-the original cushions were built, only 1 in camping-pad stock was
-available, so two layers were laminated to reach the preferred 2 in
-thickness, though the same foam was later found sold directly in 2 in
-stock, needing no lamination at all — and it proved durable, with no hard
-spots found over time. Compared with the Bolducs' old soft open-cell
-cushion foam, Lux Foam is soft yet firm enough that 2 in sleeps
-comfortably without bottoming out overnight, though not firm enough to sit
-on directly (weight concentrates too much in one spot); Foambymail will
-typically send a sample piece on request, and its firmness falls squarely
-between Lux Foam and open-cell foam for comparison.
+Over a year later, the same foam-by-mail system was revisited to replace Little Cruiser's own bottomed-out cushion foam. The source and technique were confirmed: **Lux Foam** from `foambymail.com` (`BasicTwinFirm`), inexpensive with free shipping; when the original cushions were built, only 1 in camping-pad stock was available, so two layers were laminated to reach the preferred 2 in thickness, though the same foam was later found sold directly in 2 in stock, needing no lamination at all — and it proved durable, with no hard spots found over time. Compared with the old soft open-cell cushion foam, Lux Foam is soft yet firm enough that 2 in sleeps comfortably without bottoming out overnight, though not firm enough to sit on directly (weight concentrates too much in one spot); Foambymail will typically send a sample piece on request, and its firmness falls squarely between Lux Foam and open-cell foam for comparison.
 
 ## Interior photos, a water-tank leak fix, and the transom port cleared (June 2003)
 
-Alastair posted interior photographs of "little Jim" to his long-tracked
-website, which turned up a minor **water-tank leak** — the same problem
-seen on other builds (see
-[transom deck plate — a dowel-rod fix for tank-port
-leaks](/construction/transom-deck-plate.md)). The fix: a handle about 8 in
-long, with short pieces of 1/2 in dowel rod glued in at the appropriate
-spacing, snugs the tank's deck plate down tight enough to stop the leak
-while still opening it easily — a "brute force approach" preferable to
-relying on Vaseline alone, which helps the seal but still lets the area
-get damp under the mat.
+Alastair posted interior photographs of "little Jim" to his long-tracked website, which turned up a minor **water-tank leak** — the same problem seen on other builds (see [transom deck plate — a dowel-rod fix for tank-port leaks](/construction/transom-deck-plate.md)). The fix: a handle about 8 in long, with short pieces of 1/2 in dowel rod glued in at the appropriate spacing, snugs the tank's deck plate down tight enough to stop the leak while still opening it easily — a "brute force approach" preferable to relying on Vaseline alone, which helps the seal but still lets the area get damp under the mat.
 
-The **transom port** itself is not a leak risk: it sits **outside the
-baffle** (see
-[transom deck plate and vent baffle](/construction/transom-deck-plate.md)),
-so any water getting in there simply drains overboard rather than
-reaching the cabin; the only real trouble on record is losing its cover
-if it isn't refitted before towing.
+The **transom port** itself is not a leak risk: it sits **outside the baffle** (see [transom deck plate and vent baffle](/construction/transom-deck-plate.md)), so any water getting in there simply drains overboard rather than reaching the cabin; the only real trouble on record is losing its cover if it isn't refitted before towing.
 
-On **inspection-plate leaks and build time**: better-quality covers (not
-tape) are the real fix, and build-hours experience puts an 18-month build
-at roughly a year for a repeat, or as little as a couple of months for an
-experienced, full-time professional builder. See
-[transom deck plate — leaking inspection plates](/construction/transom-deck-plate.md)
-and
-[build effort and workspace](/construction/build-effort.md#time) for the
-fuller answers.
+On **inspection-plate leaks and build time**: better-quality covers (not tape) are the real fix, and build-hours experience puts an 18-month build at roughly a year for a repeat, or as little as a couple of months for an experienced, full-time professional builder. See [transom deck plate — leaking inspection plates](/construction/transom-deck-plate.md) and [build effort and workspace](/construction/build-effort.md#time) for the fuller answers.
 
 ## A control problem: losing the rudder's effect mid-tack (16 June 2003)
 
-Sailing close-hauled in a disturbed F3-4 sea with 2-3 kn of tide pushing
-with him, Alastair tried to tack away from some moored yachts. The boat
-came head to wind and stuck there — normal enough — but bearing off back
-onto the starboard tack, the rudder had **no effect at all**, "as if the
-blade was raised." Drifting down onto the moorings, he lowered the sail
-and sculled clear; once re-hoisted, everything was back to normal. He
-also noted two other established quirks: "little Jim" cannot be sailed at
-all with the rudder fully raised (she simply rounds up into the wind when
-the sheet is pulled in, fine again once the blade drops to horizontal),
-and tacking to starboard had always come more easily than tacking to
-port. See
-[rudder and chine experiments](/design/rudder.md)
-for the detailed technique on tacking, sail cut, and sailing with the
-rudder up that this episode drew out.
+Sailing close-hauled in a disturbed F3-4 sea with 2-3 kn of tide pushing with him, Alastair tried to tack away from some moored yachts. The boat came head to wind and stuck there — normal enough — but bearing off back onto the starboard tack, the rudder had **no effect at all**, "as if the blade was raised." Drifting down onto the moorings, he lowered the sail and sculled clear; once re-hoisted, everything was back to normal. He also noted two other established quirks: "little Jim" cannot be sailed at all with the rudder fully raised (she simply rounds up into the wind when the sheet is pulled in, fine again once the blade drops to horizontal), and tacking to starboard had always come more easily than tacking to port. See [rudder and chine experiments](/design/rudder.md) for the detailed technique on tacking, sail cut, and sailing with the rudder up that this episode drew out.
 
 ## Sailing two-up, and a new UK recruit (14 June 2003)
 
-The same weekend, Alastair took "little Jim" out on Poole Harbour with
-his son for a father-son day sail, sailing **two-up** and reporting she
-"handled fine," though the single seat is not comfortable for two sitting
-side by side — one has to sit inside the cabin instead. See
-[crew size and cabin fit](/operations/crew-size-and-fit.md)
-for this data point alongside the other two-up findings.
+The same weekend, Alastair took "little Jim" out on Poole Harbour with his son for a father-son day sail, sailing **two-up** and reporting she "handled fine," though the single seat is not comfortable for two sitting side by side — one has to sit inside the cabin instead. See [crew size and cabin fit](/operations/crew-size-and-fit.md) for this data point alongside the other two-up findings.
 
-While out, they met a new UK-based recruit to the list, "Larry" (distinct
-from the American Larry Whited), who liked what he saw of "little Jim"
-enough to state an intention to build a Paradox of his own "(or even 2!)"
-— a plan that within days turned into an actual post asking to buy a
-second, ready-built Paradox (see
-[secondhand Paradox market — "Paradox for sale??"](/operations/secondhand-market.md)).
-Watching from the water, Larry suggested that a sailor cruising two-up
-regularly could gain a second usable outside seat by extending the
-opening hatch forward, concertina-style. Alastair still did not think two
-could sleep comfortably aboard "unless they were very friendly," though he
-allowed a seriously cruising couple could work watches, with only one
-needing to lie down at a time.
+While out, they met a new UK-based recruit to the list, who liked what he saw of "little Jim" enough to state an intention to build a Paradox of his own "(or even 2!)" — a plan that within days turned into an actual post asking to buy a second, ready-built Paradox (see [secondhand Paradox market — "Paradox for sale??"](/operations/secondhand-market.md)). Watching from the water, the recruit suggested that a sailor cruising two-up regularly could gain a second usable outside seat by extending the opening hatch forward, concertina-style. Alastair still did not think two could sleep comfortably aboard "unless they were very friendly," though he allowed a seriously cruising couple could work watches, with only one needing to lie down at a time.
 
-This sail also drew the first substantive design-verdict
-question on record from a newcomer, asking whether Alastair was satisfied with the
-design, whether the rig worked well, whether the lack of a keel hurt
-performance, and how the boat would handle heavy winds. Alastair,
-answering as a self-described **non-sailor** who had originally planned
-to spend all of 2003 just learning to sail on the sheltered waters of
-Poole Harbour before finding himself confident enough for the 27-mile
-Portland cruise (above), gave his verdict in one line: **"In general the
-answer to all the questions is 'Yes, it works.'"**
+This sail also drew the first substantive design-verdict question on record from a newcomer, asking whether Alastair was satisfied with the design, whether the rig worked well, whether the lack of a keel hurt performance, and how the boat would handle heavy winds. Alastair, answering as a self-described **non-sailor** who had originally planned to spend all of 2003 just learning to sail on the sheltered waters of Poole Harbour before finding himself confident enough for the 27-mile Portland cruise (above), gave his verdict in one line: **"In general the answer to all the questions is 'Yes, it works.'"**
 
 ## A lake outing, and a Minisail speed comparison (September 2003)
 
-Alastair took "little Jim" to a lake to show her off to his brother,
-posting photographs illustrating the boat's sensitivity (or lack of it)
-to weight distribution at
-[www.asjg.clara.co.uk/little_jim/little_jim.htm](http://www.asjg.clara.co.uk/little_jim/little_jim.htm),
-under a "stability & balance" section. In light winds (under Force 2) he
-was surprised to find he could keep pace with a two-up Minisail dinghy.
-For the fuller answer he gave on how "little Jim" behaves loaded versus
-light, and his verdict that a Paradox at design weight has to be sailed
-"as a yacht, not a dinghy," see
-[weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded).
-The same message set out his next plan: launching at Poole and sailing to
-the far end of the Solent and back, roughly an 80-mile round trip,
-weather permitting.
+Alastair took "little Jim" to a lake to show her off to his brother, posting photographs illustrating the boat's sensitivity (or lack of it) to weight distribution at [www.asjg.clara.co.uk/little_jim/little_jim.htm](http://www.asjg.clara.co.uk/little_jim/little_jim.htm), under a "stability & balance" section. In light winds (under Force 2) he was surprised to find he could keep pace with a two-up Minisail dinghy. For the fuller answer he gave on how "little Jim" behaves loaded versus light, and his verdict that a Paradox at design weight has to be sailed "as a yacht, not a dinghy," see [weight, ballast, and displacement — how a Paradox feels underloaded](/design/weight-and-ballast.md#how-a-paradox-feels-underloaded). The same message set out his next plan: launching at Poole and sailing to the far end of the Solent and back, roughly an 80-mile round trip, weather permitting.
 
 ## A first crossing of the Solent: Poole to Cowes (September 2003)
 
-Alastair's Solent plan became a genuine passage a week later: **"the
-fastest ever crossing from Poole to Cowes in a Paradox"** — and, since no
-Paradox had made the crossing before, also the only one, completed over
-22–26 September 2003. The goal was to sail the roughly 15 nautical miles
-of open water from Poole Harbour to the Solent, visit harbours and
-anchorages on the Isle of Wight side, and make a leisurely return —
-including a stop at Ryde to let Jeff (UK) see "little Jim" in person
-before starting his own stretched build (see
-[Jeff (UK)](/people/jeff-doryman.md)).
+Alastair's Solent plan became a genuine passage a week later: **"the fastest ever crossing from Poole to Cowes in a Paradox"** — and, since no Paradox had made the crossing before, also the only one, completed over 22–26 September 2003. The goal was to sail the roughly 15 nautical miles of open water from Poole Harbour to the Solent, visit harbours and anchorages on the Isle of Wight side, and make a leisurely return — including a stop at Ryde to let a fellow UK builder see "little Jim" in person before starting his own [stretched build](/people/jeff-doryman.md).
 
-- **Launch and an early lesson in condensation.** Alastair launched into
-  Poole Harbour on Sunday and anchored overnight near the entrance, shut
-  up tight against the onset of autumn weather — and discovered, dripping
-  on his head as he fell asleep, that a hatch window invites condensation
-  in cold weather. The fix was to leave the hatch cracked and wear a wool
-  hat; no rain fell during the whole trip regardless.
-- **The crossing, and a knockdown from a rogue wave.** The morning
-  forecast called for SW F4–5 locally F6, veering NW–N F6 locally F7 —
-  more wind than Alastair would have chosen, but with any northerly
-  component meaning the open-water leg would be in the lee of the land, he
-  went for it, reefed from the start. Once clear of the harbour the seas
-  built to a genuine 5–6 ft, ridden easily at first, though Alastair
-  himself was seasick by 09:10 — "the price that Neptune extracts from me
-  for passage over his domain." Heel under the building wind ran to a
-  normal 20 degrees with gusts to 40, and the rail went under on at least
-  two occasions (an estimated 50 degrees). Approaching Hurst Narrows, one
-  wave grew into **a vertical wall of water about 6 ft high**, picked the
-  boat up, and knocked her down until water rose past the hatch window —
-  the harness-strap gap that keeps the hatch from closing fully let a
-  surprising amount of water below — before "little Jim" came up **from an
-  estimated 80–90 degrees of knockdown** and sailed on as if nothing had
-  happened. Recalling the moment years later in an unrelated hatch-design
-  discussion, Alastair added that the water coming through the harness-strap
-  gap was enough to soak his sleeve as he braced a hand under the flow, but
-  not enough reached the bilge to be worth pumping — a sponge sufficed — and
-  the whole ingress lasted only the few seconds of the knockdown itself,
-  leaving him satisfied that even a fully open hatch would have shipped only
-  a "nuisance," not a "danger," amount of water in a knockdown that brief
-  (see [Enuf — hatch mod
-  discussion](/boats/enuf.md#a-fabric-roll-top-and-the-wider-hard-top-vs-soft-top-question)
-  for the fuller exchange this recollection came from).[108] Alastair judged
-  in hindsight that he had erred in setting out
-  at all that morning, and that no conventional boat of similar size would
-  have completed the crossing — but that having done it, and provided he
-  was not so foolish again, "LJ will take me wherever I want to go." The
-  only casualties below were a further-dented kettle and the contents of
-  an unsecured shelf, which emptied through the side-bin access holes into
-  the bilge along with 2–3 litres of water through the hatch — a
-  practical lesson to stow loose gear in waterproof bags. **Total run,
-  Poole anchorage to Cowes pontoon: 28.4 NM in 7:20, averaging 3.9 kn** —
-  arriving just ahead of a squall that swung the wind 90 degrees and had
-  larger yachts on the outside berths rearing at their lines.
-- **Chafe found at anchor.** A lay day in Cowes turned up chafe on both
-  the tack tie-down and, more worryingly, the furling line where it passed
-  through the deck — the first time Alastair had needed to reef from
-  genuine necessity rather than as a precaution, confirming the line sees
-  much higher load reefed than not, and that a better fairlead is needed
-  there. Jeff (UK) came over from Ryde to look the boat over and take
-  photographs while Alastair replaced the worn line.
-- **A gentle return via Newtown Creek and Keyhaven.** Light easterly wind
-  and a tide the wrong way for Ryde sent Alastair west instead, sculling
-  clear of Cowes harbour before an easy sail with wind and tide together
-  along the island shore to Newtown Creek — drawing curiosity from two
-  passing dinghies and a note of praise left by a fellow Dinghy Cruising
-  Association member who'd missed him ashore. From Newtown he yulohed out
-  against a headwind to Keyhaven at the Solent's western end, riding the
-  last of the tide past the paddle steamer Waverley under sail before the
-  wind died and he finished by motor-sculling; low water at the Keyhaven
-  approach (Hawkers Lake) left every moored yacht aground but just enough
-  depth to scull "little Jim" in.
-- **The return crossing, and a seismic survey vessel.** Rather than wait
-  for an evening tide change at the pub, Alastair sculled down-channel in
-  fading light to a mooring near Hurst Castle, ready for the morning
-  ebb. The tide stalled him dead level with the castle's round tower for
-  the better part of an hour before releasing him to a fast, following
-  passage back across in flat-calm conditions and full sun. Nearing Poole,
-  an unfamiliar slapping under the hull turned out to be the flat bottom's
-  first real encounter with confused seas; mid-slap, a survey vessel
-  towing two 1.5-mile cables hailed him to alter course around them — as
-  the ship passed the slapping briefly became a hammering "as if someone
-  were hitting us with rubber sledge hammers," fading once two large
-  torpedo-shaped tow-fish had gone by.
-- **Verdict.** After a calm final day pottering in the harbour (including
-  disturbing a herd of deer ashore at Gold Point) and a rising-tide push up
-  the river Frome to the boatyard, Alastair closed the report **"Hoping
-  for calm nights"** — the trip having been his first without a tight
-  schedule, more relaxed than his prior passages but no more careful in
-  its weather judgment, and a further, concrete demonstration that
-  "little Jim" could be trusted to bring him home even from a genuine
-  knockdown.
+- **Launch and an early lesson in condensation.** Alastair launched into Poole Harbour on Sunday and anchored overnight near the entrance, shut up tight against the onset of autumn weather — and discovered, dripping on his head as he fell asleep, that a hatch window invites condensation in cold weather. The fix was to leave the hatch cracked and wear a wool hat; no rain fell during the whole trip regardless.
+- **The crossing, and a knockdown from a rogue wave.** The morning forecast called for SW F4–5 locally F6, veering NW–N F6 locally F7 — more wind than Alastair would have chosen, but with any northerly component meaning the open-water leg would be in the lee of the land, he went for it, reefed from the start. Once clear of the harbour the seas built to a genuine 5–6 ft, ridden easily at first, though Alastair himself was seasick by 09:10 — "the price that Neptune extracts from me for passage over his domain." Heel under the building wind ran to a normal 20 degrees with gusts to 40, and the rail went under on at least two occasions (an estimated 50 degrees). Approaching Hurst Narrows, one wave grew into **a vertical wall of water about 6 ft high**, picked the boat up, and knocked her down until water rose past the hatch window — the harness-strap gap that keeps the hatch from closing fully let a surprising amount of water below — before "little Jim" came up **from an estimated 80–90 degrees of knockdown** and sailed on as if nothing had happened. Recalling the moment years later in an unrelated hatch-design discussion, Alastair added that the water coming through the harness-strap gap was enough to soak his sleeve as he braced a hand under the flow, but not enough reached the bilge to be worth pumping — a sponge sufficed — and the whole ingress lasted only the few seconds of the knockdown itself, leaving him satisfied that even a fully open hatch would have shipped only a "nuisance," not a "danger," amount of water in a knockdown that brief (see [Enuf — hatch mod discussion](/boats/enuf.md#a-fabric-roll-top-and-the-wider-hard-top-vs-soft-top-question) for the fuller exchange this recollection came from).[108] Alastair judged in hindsight that he had erred in setting out at all that morning, and that no conventional boat of similar size would have completed the crossing — but that having done it, and provided he was not so foolish again, "LJ will take me wherever I want to go." The only casualties below were a further-dented kettle and the contents of an unsecured shelf, which emptied through the side-bin access holes into the bilge along with 2–3 litres of water through the hatch — a practical lesson to stow loose gear in waterproof bags. **Total run, Poole anchorage to Cowes pontoon: 28.4 NM in 7:20, averaging 3.9 kn** — arriving just ahead of a squall that swung the wind 90 degrees and had larger yachts on the outside berths rearing at their lines.
+- **Chafe found at anchor.** A lay day in Cowes turned up chafe on both the tack tie-down and, more worryingly, the furling line where it passed through the deck — the first time Alastair had needed to reef from genuine necessity rather than as a precaution, confirming the line sees much higher load reefed than not, and that a better fairlead is needed there. A UK builder came over from Ryde to look the boat over and take photographs while Alastair replaced the worn line.
+- **A gentle return via Newtown Creek and Keyhaven.** Light easterly wind and a tide the wrong way for Ryde sent Alastair west instead, sculling clear of Cowes harbour before an easy sail with wind and tide together along the island shore to Newtown Creek — drawing curiosity from two passing dinghies and a note of praise left by a fellow Dinghy Cruising Association member who'd missed him ashore. From Newtown he yulohed out against a headwind to Keyhaven at the Solent's western end, riding the last of the tide past the paddle steamer Waverley under sail before the wind died and he finished by motor-sculling; low water at the Keyhaven approach (Hawkers Lake) left every moored yacht aground but just enough depth to scull "little Jim" in.
+- **The return crossing, and a seismic survey vessel.** Rather than wait for an evening tide change at the pub, Alastair sculled down-channel in fading light to a mooring near Hurst Castle, ready for the morning ebb. The tide stalled him dead level with the castle's round tower for the better part of an hour before releasing him to a fast, following passage back across in flat-calm conditions and full sun. Nearing Poole, an unfamiliar slapping under the hull turned out to be the flat bottom's first real encounter with confused seas; mid-slap, a survey vessel towing two 1.5-mile cables hailed him to alter course around them — as the ship passed the slapping briefly became a hammering "as if someone were hitting us with rubber sledge hammers," fading once two large torpedo-shaped tow-fish had gone by.
+- **Verdict.** After a calm final day pottering in the harbour (including disturbing a herd of deer ashore at Gold Point) and a rising-tide push up the river Frome to the boatyard, Alastair closed the report **"Hoping for calm nights"** — the trip having been his first without a tight schedule, more relaxed than his prior passages but no more careful in its weather judgment, and a further, concrete demonstration that "little Jim" could be trusted to bring him home even from a genuine knockdown.
 
-The account raised a further question about the [Paradox righting-moment
-graph](/design/weight-and-ballast.md) — how much a heavier sailor's own
-weight, rolling around the interior during a knockdown, would add to or
-subtract from the boat's tested numbers, with the expectation of ending
-up "sprawled on the leeward bins" and the reasoning that this is likely
-just when water ballast earns its keep.
+The account raised a further question about the [Paradox righting-moment graph](/design/weight-and-ballast.md) — how much a heavier sailor's own weight, rolling around the interior during a knockdown, would add to or subtract from the boat's tested numbers, with the expectation of ending up "sprawled on the leeward bins" and the reasoning that this is likely just when water ballast earns its keep.
 
 ## An autumn refit: sand and damp stowage, and chafe fixes
 
-Once the Solent crossing was behind him, Alastair spent a couple of weeks on
-housekeeping fixes drawn directly from that trip's lessons. Frequent beach
-landings tracked sand and water aboard through his feet on reboarding, so he
-stripped the interior, vacuumed out the accumulated sand, and refitted
-everything with shock cord or velcro assigned to a fixed "home" for each
-item. The aft side storage bins, open at the bottom, had been letting
-anything cardboard or cloth sit damp; he added a shelf a couple of inches up
-from each bin's bottom — nearly identical to the shelf already at the top of
-the bin on the plans — keeping stowed items dry short of the worst flooding,
-while the space below the shelf stayed reachable through the floor hatches.
-Inspecting the rig after the first extended sail with the sail reefed down
-halfway, he found severe chafe where the furling line passed through the
-deck, traced to insufficient radius on the end of the copper pipe fairlead
-there; he fitted a small brass insert to fix it, noting it would have been
-easier to get the radius right the first time. A smaller chafe point on the
-tack line, where it also passes through the deck, he fixed by sleeving the
-line in plastic tubing.
+Once the Solent crossing was behind him, Alastair spent a couple of weeks on housekeeping fixes drawn directly from that trip's lessons. Frequent beach landings tracked sand and water aboard through his feet on reboarding, so he stripped the interior, vacuumed out the accumulated sand, and refitted everything with shock cord or velcro assigned to a fixed "home" for each item. The aft side storage bins, open at the bottom, had been letting anything cardboard or cloth sit damp; he added a shelf a couple of inches up from each bin's bottom — nearly identical to the shelf already at the top of the bin on the plans — keeping stowed items dry short of the worst flooding, while the space below the shelf stayed reachable through the floor hatches. Inspecting the rig after the first extended sail with the sail reefed down halfway, he found severe chafe where the furling line passed through the deck, traced to insufficient radius on the end of the copper pipe fairlead there; he fitted a small brass insert to fix it, noting it would have been easier to get the radius right the first time. A smaller chafe point on the tack line, where it also passes through the deck, he fixed by sleeving the line in plastic tubing.
 
-This experience bears on a further rig question: whether, sailed reefed
-for real, a **parrel** is needed to contain the yard once the sail is
-reefed down, since photographs of a reefed Paradox show the yard standing
-well out from the mast — a parrel would come at the cost of being able to
-stow the furled sail directly on the side deck, the same tradeoff a
-topping lift already involves. On Alastair's own extended reefed sail,
-which had been on a single, starboard tack throughout, the yard riding
-well clear of the mast on that tack seemed, if anything, desirable, since
-it de-powers the sail more quickly in gusts, and any felt shortage of
-power is easily cured by hauling up more sail — the reefing system's
-infinite variation, as against fixed reef points, being a real advantage
-here. A topping lift adds only about 5 seconds to furling time.
+This experience bears on a further rig question: whether, sailed reefed for real, a **parrel** is needed to contain the yard once the sail is reefed down, since photographs of a reefed Paradox show the yard standing well out from the mast — a parrel would come at the cost of being able to stow the furled sail directly on the side deck, the same tradeoff a topping lift already involves. On Alastair's own extended reefed sail, which had been on a single, starboard tack throughout, the yard riding well clear of the mast on that tack seemed, if anything, desirable, since it de-powers the sail more quickly in gusts, and any felt shortage of power is easily cured by hauling up more sail — the reefing system's infinite variation, as against fixed reef points, being a real advantage here. A topping lift adds only about 5 seconds to furling time.
 
-On the **endless halyard/reefing-line arrangement**: it works well and
-stayed free of serious line-twisting problems. When the chafe described
-above turned up, the furling end was disconnected and a new furling line
-fitted while keeping the rest as the halyard — meaning loose rope
-underfoot on the cabin floor for a week until the new brass fairlead
-allowed the full endless line to be reinstated. The line does show some
-tendency to kink, cleared out of the run whenever the rig comes down, but
-the kinking itself has never caused a problem. On balance there are two
-real risks worth flagging with this system: the sail cannot be dropped
-instantly by releasing the halyard, since only about six feet of slack is
-available, and any chafe damage to the line means replacing the whole
-endless run rather than a single piece — but the advantages outweigh both
-drawbacks.
+On the **endless halyard/reefing-line arrangement**: it works well and stayed free of serious line-twisting problems. When the chafe described above turned up, the furling end was disconnected and a new furling line fitted while keeping the rest as the halyard — meaning loose rope underfoot on the cabin floor for a week until the new brass fairlead allowed the full endless line to be reinstated. The line does show some tendency to kink, cleared out of the run whenever the rig comes down, but the kinking itself has never caused a problem. On balance there are two real risks worth flagging with this system: the sail cannot be dropped instantly by releasing the halyard, since only about six feet of slack is available, and any chafe damage to the line means replacing the whole endless run rather than a single piece — but the advantages outweigh both drawbacks.
 
 ## Bill Serjeant's visit (February 2004)
 
-Bill Serjeant, who had asked to see "little Jim" in person back in 2002
-(see above), finally made the visit, and posted a further set of
-photographs from it to his own website. Alastair's response — that all the
-sitting about required no effort compared with a "proper" dinghy that
-demands constant attention to sail — captured his settled preference for
-Paradox-style, low-workload sailing over the more physically active dinghy
-sailing he had also done.
+A fellow list member who had asked to see "little Jim" in person back in 2002 (see above) finally made the visit, and posted a further set of photographs from it to his own website. Alastair's response — that all the sitting about required no effort compared with a "proper" dinghy that demands constant attention to sail — captured his settled preference for Paradox-style, low-workload sailing over the more physically active dinghy sailing he had also done.
 
 ## A second visit (December 2005)
 
-Bill Serjeant, by then building his own Paradox, called on Alastair again in
-December 2005 while passing through Yeovil. Alastair showed him "little Jim"
-and the two spent close to three hours talking — mostly about the boat, over
-coffee served in a Dinghy Cruising Association mug — an encounter Bill
-credited with renewing his own enthusiasm for finishing his build.[103][104]
+The same list member, by then building his own Paradox, called on Alastair again in December 2005 while passing through Yeovil. Alastair showed him "little Jim" and the two spent close to three hours talking — mostly about the boat, over coffee served in a Dinghy Cruising Association mug — an encounter the visitor credited with renewing his own enthusiasm for finishing his build.[103][104]
 
 ## An outside sighting (October 2004)
 
-Beyond the builders' own circle, "little Jim" was seen and admired in
-person: a UK builder still cutting his own hull panels reported watching Al
-Law sailing her that autumn and finding the sight "inspiring" — a rare
-independent, in-period eyewitness sighting of the boat under sail, distinct
-from Alastair's own first-person accounts and the later 2020 retrospective
-below.[95]
+Beyond the builders' own circle, "little Jim" was seen and admired in person: a UK builder still cutting his own hull panels reported watching Al Law sailing her that autumn and finding the sight "inspiring" — a rare independent, in-period eyewitness sighting of the boat under sail, distinct from Alastair's own first-person accounts and the later 2020 retrospective below.[95]
 
 ## A non-owner's test sail (March 2006)
 
-A visiting sailor (6 ft, 260 lb, not himself a Paradox owner) took an
-hour-long test sail aboard "little Jim" courtesy of Alastair and came away
-struck by how stable and secure boarding and sailing her felt for a boat
-her size — "like stepping onto a pontoon." Full account, including his
-comfort and floor-width findings, at
-[crew size and fit](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).
+A visiting sailor (6 ft, 260 lb, not himself a Paradox owner) took an hour-long test sail aboard "little Jim" courtesy of Alastair and came away struck by how stable and secure boarding and sailing her felt for a boat her size — "like stepping onto a pontoon." Full account, including his comfort and floor-width findings, at [crew size and fit](/operations/crew-size-and-fit.md#pilot-weight-height-and-stability-at-stock-length).
 
 ## A visitor's firsthand impression, sheltering from the rain (March 2006)
 
-Another visiting non-owner called on Alastair the same month and sat out a
-rain shower with him in "little Jim"'s cabin, giving the archive a rare
-outside first-impression account of the boat in person rather than only
-from photographs. What struck him most was how **solid the construction
-felt** — sturdy enough, he joked, to make a fair icebreaker if only she
-were heavier. The cabin was as small as he had expected from photos, and
-reaching the forward compartment was difficult even for someone
-short — but the interior felt light and airy enough that neither of them
-felt claustrophobic. His one suggested improvement: rig the hatch to
-elevate slightly at anchor, giving good sitting headroom while it stays
-closed against rain, without needing to slide it fully open. He closed by
-crediting Alastair's boat, and the leap of faith it took to build the
-first Paradox in the UK from pictures and internet articles alone, with a
-result that had "all turned out brilliantly."[105][106] Alastair welcomed
-the visit in reply, telling his guest to "expect to see a lot more of you"
-if he decided to build one himself.[107]
+Another visiting non-owner called on Alastair the same month and sat out a rain shower with him in "little Jim"'s cabin, giving the archive a rare outside first-impression account of the boat in person rather than only from photographs. What struck him most was how **solid the construction felt** — sturdy enough, he joked, to make a fair icebreaker if only she were heavier. The cabin was as small as he had expected from photos, and reaching the forward compartment was difficult even for someone short — but the interior felt light and airy enough that neither of them felt claustrophobic. His one suggested improvement: rig the hatch to elevate slightly at anchor, giving good sitting headroom while it stays closed against rain, without needing to slide it fully open. He closed by crediting Alastair's boat, and the leap of faith it took to build the first Paradox in the UK from pictures and internet articles alone, with a result that had "all turned out brilliantly."[105][106] Alastair welcomed the visit in reply, telling his guest to "expect to see a lot more of you" if he decided to build one himself.[107]
 
 ## The construction-photo site moves to Freeuk (February 2005)
 
-Going over to broadband service led Alastair to close his Claranet e-mail
-account, and with it the `asjg.clara.co.uk` address that had hosted "little
-Jim"'s construction photographs and cruise write-ups since 2002 (see
-[above](#a-year-into-the-build-topping-lift-and-furling-autumn-2002)). The
-site moved to a new host, `www.as4jg.freeuk.com`, hosting the same
-construction, launch, and cruise photo galleries referenced throughout this
-page. One early wrinkle in reaching it — some readers got only the new
-host's front page — traced to the link going out with backslashes rather
-than forward slashes, an artifact of the e-mail client used, which would
-not resolve as typed in a standards-compliant browser (some browsers
-silently correct the mistake).
+Going over to broadband service led Alastair to close his Claranet e-mail account, and with it the `asjg.clara.co.uk` address that had hosted "little Jim"'s construction photographs and cruise write-ups since 2002 (see [above](#a-year-into-the-build-topping-lift-and-furling-autumn-2002)). The site moved to a new host, `www.as4jg.freeuk.com`, hosting the same construction, launch, and cruise photo galleries referenced throughout this page. One early wrinkle in reaching it — some readers got only the new host's front page — traced to the link going out with backslashes rather than forward slashes, an artifact of the e-mail client used, which would not resolve as typed in a standards-compliant browser (some browsers silently correct the mistake).
 
 ## A 2020 retrospective: the AYRS talk
 
-Some seventeen years after her launch, Alastair presented "little Jim" to
-the **Amateur Yacht Research Society** at an online meeting in May 2020 (see
-[AYRS meeting talk](/references/ayrs-meeting-video.md)), giving a mature
-firsthand summary of the design and his long experience of sailing it. He
-called it **"an old man's boat"**: the sailing is so relaxed that the most
-strenuous act of a whole cruise is winding the trailer winch to haul out —
-he expected to fit an electric motor to the winch once even that became too
-much. The everyday sailing needs so little attention that he "get[s] through
-a lot of paperbacks," tweaking the course only every few minutes, the boat
-otherwise running "like it's on rails." He reaffirmed the settled picture
-from his cruising years: she sails best heeled about **20 degrees** (the
-weather chine just clearing the water); her flat 18 mm bottom sheathed in
-epoxy glass means "I don't bother to clear the stones off the beach before I
-land"; and she asks to be sailed like a small yacht rather than a dinghy. He
-also reported the boat's **ballast had evolved**: launched with roughly
-**70 kg of water plus 180 kg of lead**, by 2020 the lead was down to about
-**50–70 kg**, progressively swapped for weight that earns its keep — batteries,
-anchors, chain, tinned food, even a bicycle — all doubling as ballast (see
-[weight, ballast, and displacement — the designer's layered ballast](/design/weight-and-ballast.md#the-designers-layered-ballast-water-tanks-stores-and-lead-together)).
+Some seventeen years after her launch, Alastair presented "little Jim" to the **Amateur Yacht Research Society** at an online meeting in May 2020 (see [AYRS meeting talk](/references/ayrs-meeting-video.md)), giving a mature firsthand summary of the design and his long experience of sailing it. He called it **"an old man's boat"**: the sailing is so relaxed that the most strenuous act of a whole cruise is winding the trailer winch to haul out — he expected to fit an electric motor to the winch once even that became too much. The everyday sailing needs so little attention that he "get[s] through a lot of paperbacks," tweaking the course only every few minutes, the boat otherwise running "like it's on rails." He reaffirmed the settled picture from his cruising years: she sails best heeled about **20 degrees** (the weather chine just clearing the water); her flat 18 mm bottom sheathed in epoxy glass means "I don't bother to clear the stones off the beach before I land"; and she asks to be sailed like a small yacht rather than a dinghy. He also reported the boat's **ballast had evolved**: launched with roughly **70 kg of water plus 180 kg of lead**, by 2020 the lead was down to about **50–70 kg**, progressively swapped for weight that earns its keep — batteries, anchors, chain, tinned food, even a bicycle — all doubling as ballast (see [weight, ballast, and displacement — the designer's layered ballast](/design/weight-and-ballast.md#the-designers-layered-ballast-water-tanks-stores-and-lead-together)).
 
-**A masthead righting-moment test.** Years earlier, at a boat show, Alastair
-had friends haul the masthead down while he sat aboard in full sailing trim,
-reading the load on a **25 lb spring balance**. The balance ran off its scale
-— the pull was "well over 25 pounds" — implying a righting moment of **well
-over 350 ft-lb**, "more than required to undo the wheel nuts on my car," and
-the release showed how strongly the hull damps its own roll. It is the
-archive's only quantified field measurement of a Paradox's righting moment
-(see [weight, ballast, and displacement — self-righting range](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch)).
+**A masthead righting-moment test.** Years earlier, at a boat show, Alastair had friends haul the masthead down while he sat aboard in full sailing trim, reading the load on a **25 lb spring balance**. The balance ran off its scale — the pull was "well over 25 pounds" — implying a righting moment of **well over 350 ft-lb**, "more than required to undo the wheel nuts on my car," and the release showed how strongly the hull damps its own roll. It is the archive's only quantified field measurement of a Paradox's righting moment (see [weight, ballast, and displacement — self-righting range](/design/weight-and-ballast.md#self-righting-range-and-bailing-without-opening-the-hatch)).
 
-**Two self-recovered knockdowns.** Alastair recounted having twice been laid
-flat with the sail in the water, both times recovering unaided. The first was
-on only his second trip outside a sheltered harbour, in a force 5: the
-topping lift had fouled the sail so he could not spill it, a wave pushed her
-over, and she had righted and was sailing again before he had registered
-going down. The second time he had let himself get **broadside onto broken
-surf** and was knocked to **90 degrees**, coming upright the moment the surf
-had passed. He had also watched a big man deliberately pull a Paradox down by
-the masthead and fail to capsize her — "very, very stable."
+**Two self-recovered knockdowns.** Alastair recounted having twice been laid flat with the sail in the water, both times recovering unaided. The first was on only his second trip outside a sheltered harbour, in a force 5: the topping lift had fouled the sail so he could not spill it, a wave pushed her over, and she had righted and was sailing again before he had registered going down. The second time he had let himself get **broadside onto broken surf** and was knocked to **90 degrees**, coming upright the moment the surf had passed. He had also watched a big man deliberately pull a Paradox down by the masthead and fail to capsize her — "very, very stable."
 
-**Why the pitching goes unfelt.** A film taken of "little Jim" beating to
-windward in a force 5 astonished Alastair when he saw it: the boat was
-pitching quite violently, yet he had felt none of it aboard, because the helm
-seat sits close to the boat's **centre of pitch rotation**. The same effect
-explained a two-up passage across the Helford to Falmouth, where whoever sat
-further forward in the cabin kept getting seasick, so he and his companion
-repeatedly swapped places (see
-[sailing characteristics — why the seat's position damps the felt motion](/operations/sailing-characteristics.md#why-the-seats-position-damps-the-felt-motion)).
+**Why the pitching goes unfelt.** A film taken of "little Jim" beating to windward in a force 5 astonished Alastair when he saw it: the boat was pitching quite violently, yet he had felt none of it aboard, because the helm seat sits close to the boat's **centre of pitch rotation**. The same effect explained a two-up passage across the Helford to Falmouth, where whoever sat further forward in the cabin kept getting seasick, so he and his companion repeatedly swapped places (see [sailing characteristics — why the seat's position damps the felt motion](/operations/sailing-characteristics.md#why-the-seats-position-damps-the-felt-motion)).
 
-**Yuloh cruising, and the Thames.** He will push "little Jim" at a
-comfortable **2 knots all day** under the yuloh, and on the Dinghy Cruising
-Association's annual Thames raid he sculled roughly **50 of the ~55 miles** —
-arriving without the blisters that afflicted the crews of the conventional
-rowing boats, because sculling lets the body keep shifting position rather
-than repeating one fixed stroke (see
-[sculling and yuloh technique — performance](/operations/sculling-and-yuloh-technique.md#performance)).
+**Yuloh cruising, and the Thames.** He will push "little Jim" at a comfortable **2 knots all day** under the yuloh, and on the Dinghy Cruising Association's annual Thames raid he sculled roughly **50 of the ~55 miles** — arriving without the blisters that afflicted the crews of the conventional rowing boats, because sculling lets the body keep shifting position rather than repeating one fixed stroke (see [sculling and yuloh technique — performance](/operations/sculling-and-yuloh-technique.md#performance)).
 
 # Citations
 

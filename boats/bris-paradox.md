@@ -8,847 +8,194 @@ timestamp: 2026-07-07T00:00:00Z
 
 # The "BRIS Paradox" (Kjell Karlsson)
 
-**Kjell Karlsson** of Sweden built a [Paradox](/paradox.md) not from
-plywood as specified, but from **Sven Yrvind's "BRIS" foam-sandwich
-composite method** — the only recorded Paradox built in this material,
-and the first identified **Swedish** build.
+**Kjell Karlsson** of Sweden built a [Paradox](/paradox.md) not from plywood as specified, but from the **"BRIS" foam-sandwich composite method** — the only recorded Paradox built in this material, and the first identified **Swedish** build.
 
 ## Origins: a decade-plus false start before Paradox even entered the picture
 
-The project traces back to around **1992**, when, having tired of
-maintaining a large wooden yawl and later two motor boats at a
-Stockholm archipelago cottage, Kjell asked **Sven Yrvind** (whom he
-had known personally since the mid-1970s) for drawings of a small
-open sailing dinghy using Yrvind's **"BRIS"** hull concept. Yrvind's
-friend **Rolf Eliasson** — co-author, with Lars Larsson, of the
-yacht-design reference book *Yacht Design* — produced hull drawings
-for a **4.2 m x 1.4 m "BRIS-mutant."** Kjell built a workshop to
-construct it in, then relocated his family out of the suburbs to the
-Stockholm outskirts and built a **second** shop there after the
-first project stalled; a shed foundation subsequently gave way,
-delaying him a further two years while lawyers were involved. The
-BRIS-method hull itself (polyester/divinycell/glassfibre sandwich)
-was eventually completed, but Yrvind's own written building
-description ran out partway through, leaving Kjell stuck despite
-repeated calls to Yrvind for help.
+The project traces back to around **1992**, when, having tired of maintaining a large wooden yawl and later two motor boats at a Stockholm archipelago cottage, Kjell sought drawings of a small open sailing dinghy using the **"BRIS"** hull concept, from the designer he had known personally since the mid-1970s. Hull drawings for a **4.2 m x 1.4 m "BRIS-mutant"** were produced by a yacht-design author (co-author, with Lars Larsson, of the reference book *Yacht Design*). Kjell built a workshop to construct it in, then relocated his family out of the suburbs to the Stockholm outskirts and built a **second** shop there after the first project stalled; a shed foundation subsequently gave way, delaying him a further two years while lawyers were involved. The BRIS-method hull itself (polyester/divinycell/glassfibre sandwich) was eventually completed, but the written building description ran out partway through, leaving Kjell stuck despite repeated calls for help.
 
 ## Discovering Paradox through Yrvind, and a near-miss meeting with Matt Layden (1998)
 
-In **1998**, Kjell learned of [Matt Layden](/matt-layden/biography.md)
-and the Paradox through Yrvind, who had by then met Matt in person,
-sailed a Paradox himself, and written an article about it for a
-Swedish boating magazine. The following year Kjell and his family
-vacationed in Florida, with Sven Yrvind arranging an introduction so
-Kjell could meet Matt and see the boat directly — but a summer of
-40 C (104 F) heat and roughly 1,200 forest fires burning that season
-persuaded the family to head north from Orlando rather than south,
-and Kjell missed the meeting, which he says he still regrets. He
-nonetheless obtained the Paradox plans directly from Matt around this
-time.
+In **1998**, Kjell learned of [Matt Layden](/matt-layden/biography.md) and the Paradox, via the Swedish designer who had by then met Matt in person, sailed a Paradox himself, and written an article about it for a Swedish boating magazine. The following year Kjell and his family vacationed in Florida, with an introduction arranged so Kjell could meet Matt and see the boat directly — but a summer of 40 C (104 F) heat and roughly 1,200 forest fires burning that season persuaded the family to head north from Orlando rather than south, and Kjell missed the meeting, which he still regrets. He nonetheless obtained the Paradox plans directly from Matt around this time.
 
 ## Reception of the translated book chapter
 
-The translated chapter (see
-[Sven Yrvind's book, translated: the Matt Layden/Paradox
-chapter](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter)
-below) drew brief but genuine thanks from the group, who found the
-translation sound and welcomed the further material it added on Sven
-Yrvind's own cooperation with Matt Layden.
+The translated chapter (see [Sven Yrvind's book, translated: the Matt Layden/Paradox chapter](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter) below) drew brief but genuine thanks, the translation found sound and its further material on the design cooperation with Matt Layden welcomed.
 
 ## Scaling for two, and choosing to keep building in BRIS material
 
-Kjell had been thinking, in parallel with his stalled BRIS dinghy
-project, about how to convert Paradox into a **two-person boat** —
-the same recurring scaling question documented elsewhere in this
-archive (see
-[stretched Paradox](/design/variants/stretched-paradox.md)). He
-arrived at his own scaling solution and presented it to Yrvind in
-person; Yrvind's only reservation, delivered in his "usual gentle
-way" after consulting a calculator from his own "special customized
-shoulder bag," was that the result would be "a 50% heavier and quite
-another boat, of course." Kjell decided to build to Matt's plans
-rather than his own scaled design, but — consistent with his own
-long practice with the BRIS method and his own stated "laws of
-nature" (see below) — insisted on keeping the **BRIS sandwich
-material** rather than switching to plywood, a choice he says was
-"blessed by Sven and through Sven also by Matt." His design-fidelity
-approach was to hold the **bulkhead measurements exact**, since
-"almost the whole boat is constructed around them," while accepting
-that the BRIS material's greater thickness would make the finished
-hull **about 55 mm beamier**, and slightly longer and taller than the
-plans.
+Kjell had been thinking, in parallel with his stalled BRIS dinghy project, about how to convert Paradox into a **two-person boat** — the same recurring scaling question documented elsewhere in this archive (see [stretched Paradox](/design/variants/stretched-paradox.md)). He arrived at his own scaling solution and presented it in person; the only reservation raised, delivered in a "usual gentle way" after consulting a calculator from a "special customized shoulder bag," was that the result would be "a 50% heavier and quite another boat, of course." Kjell decided to build to Matt's plans rather than his own scaled design, but — consistent with his own long practice with the BRIS method and his own stated "laws of nature" (see below) — insisted on keeping the **BRIS sandwich material** rather than switching to plywood, a choice "blessed by Sven and through Sven also by Matt." His design-fidelity approach was to hold the **bulkhead measurements exact**, since "almost the whole boat is constructed around them," while accepting that the BRIS material's greater thickness would make the finished hull **about 55 mm beamier**, and slightly longer and taller than the plans.
 
 ## Kjell's "laws of nature," and the material/construction changes from stock
 
-Kjell frames his approach with five half-joking maxims drawn from
-decades on the water: big boats bring big trouble and small boats
-small trouble; wood and water don't mix; aluminum and human flesh
-don't mix; plastic is fantastic; and water should stay outside the
-boat. Consistent with these, and with the BRIS building method, the
-concrete departures from the stock plywood Paradox are:
+Kjell frames his approach with five half-joking maxims drawn from decades on the water: big boats bring big trouble and small boats small trouble; wood and water don't mix; aluminum and human flesh don't mix; plastic is fantastic; and water should stay outside the boat. Consistent with these, and with the BRIS building method, the concrete departures from the stock plywood Paradox are:
 
-- **Divinycell foam core**, laminated with **polyester resin
-  outside** and **glassfibre inside** — thicknesses of 15 mm at the
-  bulkheads, 30 mm at the sides and deck, 50 mm at the bottom, 10 mm
-  at the cabin sole, 5 mm at the forward sole, and 15+5 mm at the
-  vent trunk, with most other panels at 5 mm — using, in Kjell's
-  words, "the best epoxy there is," a Swedish brand called
-  **NM-epoxi**.
-- **No foam flotation** installed separately, since the divinycell
-  sandwich construction itself already provides buoyancy.
-- **Almost no cleats, logs, beams, or floor timbers** needed, since
-  the bin sides, cabin soles, and similar small parts are laminated
-  directly in epoxy/glassfibre rather than fastened to solid wood
-  framing.
-- **No built-in water tank**, reasoning that the low- or no-salinity
-  water of the Baltic Sea and Swedish lakes where he sails can be used
-  for everything except drinking, freeing up storage space — an
-  application of his "water should be kept outside the boat" maxim.
-- The **lower part of the bin shelves omitted**, and (structural
-  concerns aside) potentially most of bulkhead #3 as well — made
-  possible by the lack of foam flotation panels there — widening the
-  cabin sole to a claimed maximum of **1,140 mm** at bulkhead #3,
-  which, against a standard 550 mm sea-berth width, Kjell reasoned
-  might let the cabin **sleep two** ("at least if they love each
-  other"). He tested this early with a full-scale cardboard mock-up,
-  inviting his wife to "test-lie" with him, and reported she
-  approved.
-- A **stainless steel bottom sheet, 3-4 mm thick**, running the
-  length of the chine runners and forming their undersides (with the
-  rest of the runners built up in epoxy/glassfibre filler) — providing
-  ballast weight low in the hull, in place of stock lead. Kjell does
-  not sail tidal waters, so beachability is less of a concern for him
-  than for UK/US builders, but the shallow, rocky archipelago waters
-  he does sail would benefit from a Paradox that could tolerate an
-  occasional bump on the steel while sailing in as little as 20 cm of
-  water.
-- **Mast, yard, and boom in carbon fibre** rather than wood, following
-  Yrvind's own design philosophy of minimizing weight at the boat's
-  extremities ("mass inertia momentum") — the mast to be a
-  **60 mm-diameter cylindrical carbon tube**, made by Yrvind's own
-  supplier; the yard and boom probably conical, though Kjell had not
-  yet decided, noting a double-ended conical yard would be expensive
-  to produce.
-- **No lightning conductor.** Having visited Florida twice in summer,
-  Kjell understood why Matt specifies one there, but judged it less
-  of a concern "amongst the ice-bergs" of Sweden — while allowing he
-  might still install one "for the beauty of the ingenious design,"
-  simply bolting the ground cable to the stainless bottom sheet. He
-  raised, unresolved, whether stainless steel's conductivity would be
-  sufficient for the purpose, given the sheet's large area.
+- **Divinycell foam core**, laminated with **polyester resin outside** and **glassfibre inside** — thicknesses of 15 mm at the bulkheads, 30 mm at the sides and deck, 50 mm at the bottom, 10 mm at the cabin sole, 5 mm at the forward sole, and 15+5 mm at the vent trunk, with most other panels at 5 mm — using, in Kjell's words, "the best epoxy there is," a Swedish brand called **NM-epoxi**.
+- **No foam flotation** installed separately, since the divinycell sandwich construction itself already provides buoyancy.
+- **Almost no cleats, logs, beams, or floor timbers** needed, since the bin sides, cabin soles, and similar small parts are laminated directly in epoxy/glassfibre rather than fastened to solid wood framing.
+- **No built-in water tank**, reasoning that the low- or no-salinity water of the Baltic Sea and Swedish lakes where he sails can be used for everything except drinking, freeing up storage space — an application of his "water should be kept outside the boat" maxim.
+- The **lower part of the bin shelves omitted**, and (structural concerns aside) potentially most of bulkhead #3 as well — made possible by the lack of foam flotation panels there — widening the cabin sole to a claimed maximum of **1,140 mm** at bulkhead #3, which, against a standard 550 mm sea-berth width, Kjell reasoned might let the cabin **sleep two** ("at least if they love each other"). He tested this early with a full-scale cardboard mock-up, inviting his wife to "test-lie" with him, and reported she approved.
+- A **stainless steel bottom sheet, 3-4 mm thick**, running the length of the chine runners and forming their undersides (with the rest of the runners built up in epoxy/glassfibre filler) — providing ballast weight low in the hull, in place of stock lead. Kjell does not sail tidal waters, so beachability is less of a concern for him than for UK/US builders, but the shallow, rocky archipelago waters he does sail would benefit from a Paradox that could tolerate an occasional bump on the steel while sailing in as little as 20 cm of water.
+- **Mast, yard, and boom in carbon fibre** rather than wood, following the BRIS design philosophy of minimizing weight at the boat's extremities ("mass inertia momentum") — the mast to be a **60 mm-diameter cylindrical carbon tube**, made by the same Swedish supplier; the yard and boom probably conical, though Kjell had not yet decided, noting a double-ended conical yard would be expensive to produce.
+- **No lightning conductor.** Having visited Florida twice in summer, Kjell understood why Matt specifies one there, but judged it less of a concern "amongst the ice-bergs" of Sweden — while allowing he might still install one "for the beauty of the ingenious design," simply bolting the ground cable to the stainless bottom sheet. He raised, unresolved, whether stainless steel's conductivity would be sufficient for the purpose, given the sheet's large area.
 
 ## Weight uncertainty, and Yrvind's parting warning
 
-Kjell candidly did not know whether the finished BRIS-built hull
-would float on her intended waterline: his own weight calculations
-against the stock plywood design suggested the BRIS version would
-come out at about the same weight or possibly slightly lighter, but
-he called this "not an easy task" to verify. During one visit, Yrvind
-inspected Kjell's completed bulkheads — laminated with **two layers
-of glassfibre** — and pronounced them "too heavy," before writing, in
-coarse ink, on Kjell's own shop wall: **"TÄNK PÅ VIKTEN, Yrvind"**
-("Think of the weight").
+Kjell candidly did not know whether the finished BRIS-built hull would float on her intended waterline: his own weight calculations against the stock plywood design suggested the BRIS version would come out at about the same weight or possibly slightly lighter, but he called this "not an easy task" to verify. During one visit, Kjell's completed bulkheads — laminated with **two layers of glassfibre** — were inspected and pronounced "too heavy," a warning left in coarse ink on Kjell's own shop wall: **"TÄNK PÅ VIKTEN, Yrvind"** ("Think of the weight").
 
 ## Progress at introduction to the list, and a wry aside
 
-At the point Kjell introduced the project to the `paradoxbuilders`
-list, the bulkheads (with all their associated small parts) were
-complete and waiting for the sides and bottom to be laminated and
-mounted; he described the BRIS method itself as time-consuming but
-not difficult — "But expensive. But good. I hope." Reflecting on the
-roughly ten years the wider project (dinghy plus Paradox conversion)
-had by then consumed, he closed with a dry, open-ended joke that he
-would be "happy to share... how I made the rudder, in 2013" — ten
-years further on — before signing off with a description of Sweden's
-midsummer light.
+At the point Kjell introduced the project to the `paradoxbuilders` list, the bulkheads (with all their associated small parts) were complete and waiting for the sides and bottom to be laminated and mounted; he described the BRIS method itself as time-consuming but not difficult — "But expensive. But good. I hope." Reflecting on the roughly ten years the wider project (dinghy plus Paradox conversion) had by then consumed, he closed with a dry, open-ended joke that he would be "happy to share... how I made the rudder, in 2013" — ten years further on — before signing off with a description of Sweden's midsummer light.
 
 ## Laminate schedule and stiffness questions
 
-The introduction to the list raised an early buoyancy question:
-whether specific-gravity figures for Divinycell (as exist for
-plywood) could be used to calculate the buoyancy difference between
-the two materials and estimate how much extra ballast, if any, the
-finished boat would need — a little extra ballast being likely in
-any case, "but at least the weight will be where it will do the most
-good."
+The introduction to the list raised an early buoyancy question: whether specific-gravity figures for Divinycell (as exist for plywood) could be used to calculate the buoyancy difference between the two materials and estimate how much extra ballast, if any, the finished boat would need — a little extra ballast being likely in any case, "but at least the weight will be where it will do the most good."
 
-Kjell followed up with his first hard technical figures: the
-Divinycell he uses is Sven Yrvind's own specified grade, **H60** (a
-60 kg/m3-density foam), except for the **bulkheads (H100)** and
-**rudder (H200)**, which use denser grades. The lamination weight in
-full: a **630 g/m2 glassfibre cloth** and **213 g/m2 polyester** resin
-per Yrvind's own specification, with the cloth "swallowing" roughly
-its own weight again in epoxy, so that a double glassfibre layer
-works out to about **2,520 g/m2**, plus a finishing epoxy/filler
-layer and some further excess (since an amateur builder can rarely
-wet out cloth as efficiently as a manufacturer's stated ratio
-assumes) — arriving at roughly **7.5 kg/m2** for his 15 mm bulkheads,
-which he calculated as roughly equal to the weight of the **12 mm
-plywood** the plans specify (assuming a 0.62 density for the ply
-sheets in his own shop). Against that, he set the weight of timber
-framing eliminated by the BRIS method (about 0.87 kg/m for the
-45 x 45 mm stock a plywood Paradox would use) against the extra
-taping/lamination the BRIS method's bulkheads, sides, deck, and
-bottom require where they meet. His conclusion, candidly hedged:
-"it's not easy to calculate weight, but 'my' Paradox will probably be
-lighter than the original." He noted Sweden's parliament had, some
-years back, fixed the midsummer holiday to always fall on a Saturday
-for the economy's sake, rather than on the astronomical date.
+Kjell followed up with his first hard technical figures: the Divinycell he uses is the BRIS-specified grade, **H60** (a 60 kg/m3-density foam), except for the **bulkheads (H100)** and **rudder (H200)**, which use denser grades. The lamination weight in full: a **630 g/m2 glassfibre cloth** and **213 g/m2 polyester** resin per the BRIS specification, with the cloth "swallowing" roughly its own weight again in epoxy, so that a double glassfibre layer works out to about **2,520 g/m2**, plus a finishing epoxy/filler layer and some further excess (since an amateur builder can rarely wet out cloth as efficiently as a manufacturer's stated ratio assumes) — arriving at roughly **7.5 kg/m2** for his 15 mm bulkheads, which he calculated as roughly equal to the weight of the **12 mm plywood** the plans specify (assuming a 0.62 density for the ply sheets in his own shop). Against that, he set the weight of timber framing eliminated by the BRIS method (about 0.87 kg/m for the 45 x 45 mm stock a plywood Paradox would use) against the extra taping/lamination the BRIS method's bulkheads, sides, deck, and bottom require where they meet. His conclusion, candidly hedged: "it's not easy to calculate weight, but 'my' Paradox will probably be lighter than the original." He noted Sweden's parliament had, some years back, fixed the midsummer holiday to always fall on a Saturday for the economy's sake, rather than on the astronomical date.
 
 ## Laminate schedule and the hull-stiffness question
 
-The hull's **laminate schedule** drew scrutiny: whether the outer skin
-was only a single layer of Dacron cloth, and at what weight, since
-Dacron is more commonly used as peel ply (a sacrificial layer meant to
-be stripped off, not left as part of the permanent laminate) — though
-it should hold up fine as long as it is never peeled back off, and
-Dacron covering a glider's wings under epoxy has been known to hold up
-soundly for decades.
+The hull's **laminate schedule** drew scrutiny: whether the outer skin was only a single layer of Dacron cloth, and at what weight, since Dacron is more commonly used as peel ply (a sacrificial layer meant to be stripped off, not left as part of the permanent laminate) — though it should hold up fine as long as it is never peeled back off, and Dacron covering a glider's wings under epoxy has been known to hold up soundly for decades.
 
-Sven Yrvind's own choice of Divinycell and specified resin, relayed
-from direct conversation with him, was deliberate: aimed at a
-**flexible** — not stiff — hull, one built to be able to strike a
-floating log or shipping container at sea and "bounce off" rather than
-crack. Substituting **epoxy** for Yrvind's specified resin, as Kjell
-had done, was flagged as a possible risk to that flexibility goal,
-with **vinylester** suggested as a better-suited substitute if one was
-wanted at all — with Divinycell's own manufacturer (which also sells
-in the US) the best source for confirmation. A partial counterpoint:
-**epoxy** itself is available in a range of elastic moduli and need
-not be stiff or brittle, so the flexible-vs-stiff question may turn
-more on which specific epoxy formulation is chosen than on
-epoxy-versus-polyester as a category.
+The BRIS choice of Divinycell and specified resin was deliberate: aimed at a **flexible** — not stiff — hull, one built to be able to strike a floating log or shipping container at sea and "bounce off" rather than crack. Substituting **epoxy** for the specified resin, as Kjell had done, was flagged as a possible risk to that flexibility goal, with **vinylester** suggested as a better-suited substitute if one was wanted at all — with Divinycell's own manufacturer (which also sells in the US) the best source for confirmation. A partial counterpoint: **epoxy** itself is available in a range of elastic moduli and need not be stiff or brittle, so the flexible-vs-stiff question may turn more on which specific epoxy formulation is chosen than on epoxy-versus-polyester as a category.
 
-A further reaction (see [running lights](/operations/running-lights.md)
-for the same correspondent's other contributions) was that if the
-roughly 55 mm beam increase came from **1 in (25 mm) foam**, that was
-"one heck of a stiff hull construction for such a small boat" — stiff
-enough that "you could use that on a 50 foot hull." The resulting
-sandwich structure was likened to "a helmet inside out": a lightish,
-stretchy Dacron scrim on the outside, heavy glass inside, and a thick,
-crushable foam core in between — alongside an open question of
-whether Divinycell is **closed-cell** foam, since if it were not, a
-BRIS-built hull could face the same water-absorption problems as
-uncoated wood if the core were ever exposed. This sits in some tension
-with the flex-not-stiffen account of Yrvind's core goal above, though
-it was not framed as a direct rebuttal.
+A further reaction (see [running lights](/operations/running-lights.md) for related contributions) was that if the roughly 55 mm beam increase came from **1 in (25 mm) foam**, that was "one heck of a stiff hull construction for such a small boat" — stiff enough that "you could use that on a 50 foot hull." The resulting sandwich structure was likened to "a helmet inside out": a lightish, stretchy Dacron scrim on the outside, heavy glass inside, and a thick, crushable foam core in between — alongside an open question of whether Divinycell is **closed-cell** foam, since if it were not, a BRIS-built hull could face the same water-absorption problems as uncoated wood if the core were ever exposed. This sits in some tension with the flex-not-stiffen account of the BRIS core goal above, though it was not framed as a direct rebuttal.
 
 ## "Globally stiff and locally flexible": Kjell's laminate philosophy
 
-Kjell gave his own fullest answer to the laminate-schedule/stiffness
-question: the Paradox hull shape had in fact been one of his
-original reasons for excitement about applying the BRIS method at
-all: a BRIS hull is comparatively hard to build, its sides made of
-three separate parts, but Paradox's hull needs only two sides and one
-bottom, a far simpler shape to laminate — a consideration from before
-he even knew of simpler sharpie-hull alternatives.
+Kjell gave his own fullest answer to the laminate-schedule/stiffness question: the Paradox hull shape had in fact been one of his original reasons for excitement about applying the BRIS method at all: a BRIS hull is comparatively hard to build, its sides made of three separate parts, but Paradox's hull needs only two sides and one bottom, a far simpler shape to laminate — a consideration from before he even knew of simpler sharpie-hull alternatives.
 
-On the stiffness question itself, Kjell — who describes himself as
-having "no intentions to be a constructor nor designer," and treats
-Sven Yrvind as a "guru" trained in chemistry — restated Yrvind's own
-design goal: Yrvind wants a hull
-**"globally stiff and locally flexible"** — stiff enough overall to
-take any weather without deforming, but still able to **absorb the
-energy of a local blow** from a drifting log or rock. This is why
-Yrvind specifies **fiberglass on the inside** (elongating 4% to
-fracture) and **polyester on the outside** (17% elongation) — a
-deliberate pairing, with the epoxy type Yrvind uses chosen
-specifically to match the two cloths' differing tensile properties.
-Kjell gave fuller lamination-weight figures here: the fiberglass runs
-**over 600 g/m2** in **2 layers**, the polyester **213 g/m2** in
-**8-9 layers** (thicker still in the bottom), the polyester itself
-supplied by a Swedish manufacturer that also makes tarpaulins and
-industrial gates. The core, Divinycell, is **50 mm thick** for a true
-blue-water boat, though Yrvind accepts **30 mm** (still closed-cell)
-for smaller, non-blue-water boats — and Yrvind additionally
-after-cures the epoxy at **60°C or more**, for an extra ~6% strength.
-Kjell called the exchange "kind of interesting... to join two wilful
-designers like Matt and Sven like this."
+On the stiffness question itself, Kjell — who describes himself as having "no intentions to be a constructor nor designer," and treats the method's originator, trained in chemistry, as a "guru" — restated the BRIS design goal: a hull **"globally stiff and locally flexible"** — stiff enough overall to take any weather without deforming, but still able to **absorb the energy of a local blow** from a drifting log or rock. This is why the method specifies **fiberglass on the inside** (elongating 4% to fracture) and **polyester on the outside** (17% elongation) — a deliberate pairing, with the epoxy type chosen specifically to match the two cloths' differing tensile properties. Kjell gave fuller lamination-weight figures here: the fiberglass runs **over 600 g/m2** in **2 layers**, the polyester **213 g/m2** in **8-9 layers** (thicker still in the bottom), the polyester itself supplied by a Swedish manufacturer that also makes tarpaulins and industrial gates. The core, Divinycell, is **50 mm thick** for a true blue-water boat, though **30 mm** (still closed-cell) is accepted for smaller, non-blue-water boats — and the epoxy is additionally after-cured at **60°C or more**, for an extra ~6% strength. Kjell called the exchange "kind of interesting... to join two wilful designers like Matt and Sven like this."
 
-This exchange left two questions unresolved: the single-layer-Dacron
-question was never directly confirmed, since the answers given
-addressed the fiberglass/polyester/foam sandwich as a whole rather
-than a specific Dacron layer count, and the closed-cell-foam question
-likewise went unanswered. Kjell's build remained at the
-bulkheads-complete stage throughout this exchange. A closing view on
-the approach judged it "an interesting concept, but a fairly
-inefficient use of core material" unless a builder really expects
-frequent contact with rocks and logs — questioning whether common
-alternative fixes for that risk (a crushable bow, for instance)
-actually work as well as claimed, and more generally whether the core
-materials in question stay **locally flexible** in a boat as small as
-a Paradox at all — while still expecting the finished boat to be "a
-fantastic boat, with additional bouyancy, and reduced thermal
-conductivity."
+This exchange left two questions unresolved: the single-layer-Dacron question was never directly confirmed, since the answers given addressed the fiberglass/polyester/foam sandwich as a whole rather than a specific Dacron layer count, and the closed-cell-foam question likewise went unanswered. Kjell's build remained at the bulkheads-complete stage throughout this exchange. A closing view on the approach judged it "an interesting concept, but a fairly inefficient use of core material" unless a builder really expects frequent contact with rocks and logs — questioning whether common alternative fixes for that risk (a crushable bow, for instance) actually work as well as claimed, and more generally whether the core materials in question stay **locally flexible** in a boat as small as a Paradox at all — while still expecting the finished boat to be "a fantastic boat, with additional bouyancy, and reduced thermal conductivity."
 
 ## Reference material, and a related Yrvind mailing list
 
-Kjell shared a link to the **DIAB Sandwich Handbook** (a downloadable
-PDF reference on Divinycell and sandwich-composite theory),
-self-deprecatingly noting it was "intersting, that is, if you've got
-a PhD in physics (I don't)." In the same message he stepped back to
-address the tone of his own recent posts, worrying they had taken on
-"a slight Sweden-chauvinistic odour" — which he attributed to Sven
-Yrvind's own exacting, hands-on standards (Yrvind, deciding once to
-fit an inboard motor to an early Bris, reportedly took a job at the
-Norwegian manufacturer specifically to learn "every screw") — and
-guessed that any compatible Divinycell-brand material would be
-available locally to whoever wanted to try the method, wherever they
-were. After a report that the handbook link would not load, Kjell
-followed up with a working, if unwieldy, direct PDF URL.
+Kjell shared a link to the **DIAB Sandwich Handbook** (a downloadable PDF reference on Divinycell and sandwich-composite theory), self-deprecatingly noting it was "intersting, that is, if you've got a PhD in physics (I don't)." In the same message he stepped back to address the tone of his own recent posts, worrying they had taken on "a slight Sweden-chauvinistic odour" — which he attributed to the exacting, hands-on standards behind the BRIS method (its originator, deciding once to fit an inboard motor to an early Bris, reportedly took a job at the Norwegian manufacturer specifically to learn "every screw") — and guessed that any compatible Divinycell-brand material would be available locally to whoever wanted to try the method, wherever they were. After a report that the handbook link would not load, Kjell followed up with a working, if unwieldy, direct PDF URL.
 
-A second, related mailing list — the **`microcruising` Yahoo group** —
-was also identified as a resource, where a Sweden-connected member in
-Oslo who had met Sven Yrvind in person on a few occasions had posted
-photos and diagrams of Yrvind's designs to the group's files section.
-Secondhand from that contact, Yrvind had at one point experimented
-with a plywood-and-cloth-laminate "Bris"-type hull much like Kjell's
-own project, closely studying Paradox's own features in the process,
-but ultimately reverted to the divinycell sandwich for an essentially
-indestructible hull — judged, even by Yrvind himself, as "much more"
-boat than most cruising actually required, a margin attributable to
-his own history of Atlantic crossings and a resulting reputation to
-protect. (A Phil Bolger aside placed steel, then aluminum, as the most
-cost-effective monohull construction materials.) The wider group
-wanted to see Yrvind's own Swedish-language book translated into
-English, thinking two Swedish speakers comparing notes could only
-help; Kjell explained he had deliberately posted to `paradoxbuilders`
-rather than `microcruising` because he saw himself as actually
-building rather than merely "pondering" — though he allowed pondering
-was "one of my favourite hobbies" too.
+A second, related mailing list — the **`microcruising` Yahoo group** — was also identified as a resource, where a Sweden-connected member in Oslo who had met the BRIS designer in person on a few occasions had posted photos and diagrams of his designs to the group's files section. Secondhand from that contact, the designer had at one point experimented with a plywood-and-cloth-laminate "Bris"-type hull much like Kjell's own project, closely studying Paradox's own features in the process, but ultimately reverted to the divinycell sandwich for an essentially indestructible hull — judged as "much more" boat than most cruising actually required, a margin attributable to a history of Atlantic crossings and a resulting reputation to protect. (An aside placed steel, then aluminum, as the most cost-effective monohull construction materials.) The wider group wanted to see the Swedish-language book translated into English, thinking two Swedish speakers comparing notes could only help; Kjell explained he had deliberately posted to `paradoxbuilders` rather than `microcruising` because he saw himself as actually building rather than merely "pondering" — though he allowed pondering was "one of my favourite hobbies" too.
 
-The Oslo contact, **Bjorn Harbo**, himself followed up directly on
-`paradoxbuilders` shortly afterward, announcing he had just received
-Sven Yrvind's new Swedish-language book, which he described as
-beautiful and which includes a chapter covering Paradox, chine
-runners, and Yrvind's own cooperation with Matt Layden — a direct,
-book-length confirmation from inside Yrvind's own circle of the design
-cross-pollination this build represents. He repeated the wider group's
-wish that someone fluent in both languages translate the book into
-English for "the international small boat society."
+The Oslo contact followed up directly on `paradoxbuilders` shortly afterward, announcing a newly received copy of the new Swedish-language book, described as beautiful, which includes a chapter covering Paradox, chine runners, and the design cooperation with Matt Layden — a direct, book-length confirmation from inside the designer's own circle of the design cross-pollination this build represents, with a repeated wish that someone fluent in both languages translate the book into English for "the international small boat society."
 
-The stiffness/flexibility tangent wound down on a good-natured note,
-weighing multihulls and crash-survivability/positive-buoyancy designs
-against Yrvind's ballasted approach, conceding "the story about the
-motor cuts two ways" (a gentle jab at the inboard-motor anecdote
-above), and allowing Sven might have a point after all — closing that
-"a little rightful pride and ardour would never be out of place."
-Kjell's reply leaned into the joke: **"well, you know us lutherans...
-and I'm not even religious."**
+The stiffness/flexibility tangent wound down on a good-natured note, weighing multihulls and crash-survivability/positive-buoyancy designs against the ballasted BRIS approach, conceding "the story about the motor cuts two ways" (a gentle jab at the inboard-motor anecdote above), and allowing the approach might have a point after all — closing that "a little rightful pride and ardour would never be out of place." Kjell's reply leaned into the joke: **"well, you know us lutherans... and I'm not even religious."**
 
 ## Why Yrvind specified a flexible, not rigid, sandwich
 
-A separate "Glass" thread — prompted by whether a second layer of 6 oz
-cloth over Paradox's plywood sides and top was worth the added epoxy
-and labor — returned to the Yrvind comparison with a fuller technical
-explanation of why Yrvind's sandwich is built to flex rather than
-stiffen. Sven Yrvind's hulls sandwich **Divinycell foam, glass, and a
-flexible Swedish resin formulation** (available in the US via DIAB)
-specifically to let the hull **rebound rather than crack** when
-struck — the same engineering logic behind a flexing airliner wing,
-which prevents impact stress from "localizing." Yrvind has said
-directly that he also considered the flex would help a hull survive
-striking a sleeping whale. By contrast, hull rigidity is not judged a
-problem for the plywood Paradox, so there is no need to import
-Yrvind's flexible-sandwich approach for that reason alone — though if
-extra abrasion resistance is wanted, glassing the **inside** as well
-as the outside is recommended, reasoning a ply/glass sandwich works
-like an I-beam (the glass layers acting as the load-bearing flanges,
-the plywood merely spacing them as the web), with an additional layer
-on the bottom and a foot up the sides as the most useful place to add
-it.
+A separate "Glass" thread — prompted by whether a second layer of 6 oz cloth over Paradox's plywood sides and top was worth the added epoxy and labor — returned to the BRIS comparison with a fuller technical explanation of why that sandwich is built to flex rather than stiffen. The BRIS hulls sandwich **Divinycell foam, glass, and a flexible Swedish resin formulation** (available in the US via DIAB) specifically to let the hull **rebound rather than crack** when struck — the same engineering logic behind a flexing airliner wing, which prevents impact stress from "localizing." The flex was also considered to help a hull survive striking a sleeping whale. By contrast, hull rigidity is not judged a problem for the plywood Paradox, so there is no need to import the flexible-sandwich approach for that reason alone — though if extra abrasion resistance is wanted, glassing the **inside** as well as the outside is recommended, reasoning a ply/glass sandwich works like an I-beam (the glass layers acting as the load-bearing flanges, the plywood merely spacing them as the web), with an additional layer on the bottom and a foot up the sides as the most useful place to add it.
 
-Primary material from Yrvind's own writing corroborates this: his
-article "BRIS LIFE.doc" (posted to the `microcruising` group's files
-section) explains why he chose Dacron polyester fiber over glass,
-Kevlar, or carbon — a material's ability to absorb an impact is its
-elongation-before-breaking multiplied by its strength, and Dacron's
-roughly **17% elongation** dwarfs glass fiber's 4%, Kevlar's 2.5%, and
-carbon fiber's 1.5% (which also grows stiffer and more brittle under
-load) — the same reason a blow lands harder on concrete than on wood.
-NM-Epoxy formulated a resin to match Dacron's own 17% elongation.
-Yrvind's foam core is a 2-inch-thick elastic **Klegecell Ductile**, a
-closed-cell linear PVC foam.
+Primary material from the designer's own writing corroborates this: the article "BRIS LIFE.doc" (posted to the `microcruising` group's files section) explains the choice of Dacron polyester fiber over glass, Kevlar, or carbon — a material's ability to absorb an impact is its elongation-before-breaking multiplied by its strength, and Dacron's roughly **17% elongation** dwarfs glass fiber's 4%, Kevlar's 2.5%, and carbon fiber's 1.5% (which also grows stiffer and more brittle under load) — the same reason a blow lands harder on concrete than on wood. NM-Epoxy formulated a resin to match Dacron's own 17% elongation. The foam core is a 2-inch-thick elastic **Klegecell Ductile**, a closed-cell linear PVC foam.
 
-A cautionary anecdote from building the aft curved baffle of the BRIS
-Paradox out of 5 mm Divinycell illustrates the point: laminated on one
-side with fiberglass, the sheet was still "flaccid" enough to handle
-easily; once the **second** side was laminated to
-make it easier to work with, the sandwich suddenly stiffened so much that
-forming it to the baffle's curve took a forceful strap — and once it held the
-right radius, the finished sandwich sheet **suddenly collapsed** with a bang
-"like an explosion in my shop." His takeaway: **don't try to bend a completed
-sandwich panel** — it becomes very stiff once both faces are laminated. He
-could not offer a precise formula for the stiffness gain from laminating
-plywood, but noted that in a foam-cored panel, every doubling of the core
-thickness increases stiffness roughly sevenfold (varying with the core
-material's ability to withstand shear — a property he thought plywood might
-lack), while adding extra layers of fiberglass alone does little for
-stiffness by comparison.
+A cautionary anecdote from building the aft curved baffle of the BRIS Paradox out of 5 mm Divinycell illustrates the point: laminated on one side with fiberglass, the sheet was still "flaccid" enough to handle easily; once the **second** side was laminated to make it easier to work with, the sandwich suddenly stiffened so much that forming it to the baffle's curve took a forceful strap — and once it held the right radius, the finished sandwich sheet **suddenly collapsed** with a bang "like an explosion in my shop." His takeaway: **don't try to bend a completed sandwich panel** — it becomes very stiff once both faces are laminated. He could not offer a precise formula for the stiffness gain from laminating plywood, but noted that in a foam-cored panel, every doubling of the core thickness increases stiffness roughly sevenfold (varying with the core material's ability to withstand shear — a property he thought plywood might lack), while adding extra layers of fiberglass alone does little for stiffness by comparison.
 
 ## Sven Yrvind's book, translated: the Matt Layden/Paradox chapter
 
-The wider group's wish, voiced above, that someone bilingual translate
-Sven Yrvind's Swedish-language book into English was answered that same
-December. Kjell translated the
-book's Paradox chapter — which he judged gives "the story of Matt as well
-as of Paradox in a nice, conclusive and interesting way" — and posted it to
-the group's files section as "chapter9.doc," cross-posting the announcement
-to the `microcruising` group as well, with the author's personal permission
-and good wishes to both lists. He flagged himself a "highly unauthorized"
-translator and invited corrections to any factual slips or translation
-oddities. It stands as the only English-language rendering on record of
-Yrvind's own written account of his cooperation with Matt Layden and the
-Paradox design. It also prompted a still-unanswered question about a boat
-named "Lugger #2" mentioned in the translated chapter — see [Matt Layden
-(biography) — asides and
-footnotes](/matt-layden/biography.md#asides-and-footnotes).
+The wider group's wish, voiced above, that someone bilingual translate the Swedish-language book into English was answered that same December. Kjell translated the book's Paradox chapter — which he judged gives "the story of Matt as well as of Paradox in a nice, conclusive and interesting way" — and posted it to the group's files section as "chapter9.doc," cross-posting the announcement to the `microcruising` group as well, with the author's personal permission and good wishes to both lists. He flagged himself a "highly unauthorized" translator and invited corrections to any factual slips or translation oddities. It stands as the only English-language rendering on record of the written account of the design cooperation with Matt Layden and the Paradox design. It also prompted a still-unanswered question about a boat named "Lugger #2" mentioned in the translated chapter — see [Matt Layden (biography) — asides and footnotes](/matt-layden/biography.md#asides-and-footnotes).
 
-The book's title and full publication details reached the list
-independently: a copy identified as ***KONSTRUKTOREN*** (ISBN
-91-518-4154-1), "you're glad to own not just because of the information
-contained therein, but because the illustrations and layout show that
-the book was a labor of love." Its illustrations, a set of which were
-posted to the group's photo album, include a picture of Sven Yrvind's
-current project drawn by none other than **Matt Layden** himself — the
-only recorded instance of Matt contributing artwork to someone else's
-published book — with the book's other illustrations credited to
-**Martin Mörck**. The publisher (`prisma@...`, `www.prismabok.se`) had
-no order page findable online at the time; contacting the Swedish
-publisher directly by e-mail was the suggested route, most staff there
-— and Sven Yrvind himself — speaking English well.
+The book's title and full publication details reached the list independently: a copy identified as ***KONSTRUKTOREN*** (ISBN 91-518-4154-1), "you're glad to own not just because of the information contained therein, but because the illustrations and layout show that the book was a labor of love." Its illustrations, a set of which were posted to the group's photo album, include a picture of the author's current project drawn by none other than **Matt Layden** himself — the only recorded instance of Matt contributing artwork to someone else's published book — with the book's other illustrations credited to **Martin Mörck**. The publisher (`prisma@...`, `www.prismabok.se`) had no order page findable online at the time; contacting the Swedish publisher directly by e-mail was the suggested route, most staff there — and the author himself — speaking English well.
 
 ## A "ParaPlastic" photo update, dry weight, and the carbon mast
 
-Some six months after his introduction, Kjell posted new build photos to the
-group's Photos section under a "ParaPlastic" album — the clearest
-visual record of the composite hull's progress, prompting the
-questions the earlier laminate-schedule discussion
-had left unresolved: an estimate of the boat's expected **dry weight**,
-whether the house and deck use the same sandwich construction as the hull,
-and whether Kjell was fitting a **carbon-fiber mast**.
+Some six months after his introduction, Kjell posted new build photos to the group's Photos section under a "ParaPlastic" album — the clearest visual record of the composite hull's progress, prompting the questions the earlier laminate-schedule discussion had left unresolved: an estimate of the boat's expected **dry weight**, whether the house and deck use the same sandwich construction as the hull, and whether Kjell was fitting a **carbon-fiber mast**.
 
-Kjell answered directly: a precise dry-weight figure was hard to reach even
-after his own attempts at the calculation, but he expected his finished
-Paradox to come out **slightly lighter than Matt Layden's stock plywood
-design** — part of his stated reason for wanting a metal (rather than glass
-or plywood) bottom sheet as well (see the
-[stainless-steel chine-runner bottom sheet](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock) already
-planned as ballast and rock protection). The **house and deck use the same
-sandwich construction** as the hull, though he intended to build the deck
-in **15 mm Divinycell** rather than the hull's 30 mm, depending on how much
-of his 30 mm stock remained by the time he reached that stage. He confirmed
-a **carbon-fiber mast**, cylindrical, **60 mm in diameter and 2 mm thick** —
-resolving the open question the same "ParaPlastic" thread had left
-unanswered.
+Kjell answered directly: a precise dry-weight figure was hard to reach even after his own attempts at the calculation, but he expected his finished Paradox to come out **slightly lighter than Matt Layden's stock plywood design** — part of his stated reason for wanting a metal (rather than glass or plywood) bottom sheet as well (see the [stainless-steel chine-runner bottom sheet](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock) already planned as ballast and rock protection). The **house and deck use the same sandwich construction** as the hull, though he intended to build the deck in **15 mm Divinycell** rather than the hull's 30 mm, depending on how much of his 30 mm stock remained by the time he reached that stage. He confirmed a **carbon-fiber mast**, cylindrical, **60 mm in diameter and 2 mm thick** — resolving the open question the same "ParaPlastic" thread had left unanswered.
 
-Kjell's translated "chapter9" (see [Sven Yrvind's book,
-translated](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter)
-above) drew particular praise once read through in full, being judged
-**the best explanation of how the chine runners work** on record,
-alongside a welcome history of Matt Layden's own development of
-them — a working builder's endorsement of the translated chapter's value
-as a chine-runner reference in its own right, distinct from its role as a
-Yrvind/Paradox history document.
+Kjell's translated "chapter9" (see [Sven Yrvind's book, translated](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter) above) drew particular praise once read through in full, being judged **the best explanation of how the chine runners work** on record, alongside a welcome history of Matt Layden's own development of them — a working builder's endorsement of the translated chapter's value as a chine-runner reference in its own right, distinct from its role as a design-history document.
 
 ## A revised translation, and an open question about Sven Yrvind's own design choices
 
-Some months after the original "chapter9.doc" upload, Kjell
-followed a further conversation with Sven Yrvind by posting a **revised
-translation**, "Chapter9rev," correcting and clarifying passages in his
-own earlier work, and had the outdated original removed from the group's
-Files section, noting that Yrvind sent his best wishes to the group and
-remained open to
-questions about the chapter.
+Some months after the original "chapter9.doc" upload, Kjell followed a further conversation with the author by posting a **revised translation**, "Chapter9rev," correcting and clarifying passages in his own earlier work, and had the outdated original removed from the group's Files section, relaying best wishes to the group and continued openness to questions about the chapter.
 
-The revision drew a strong response: chapter 9 was
-called "one of the strongest, most convincing and cleverest
-texts ever written about Paradox," and it raised the question of
-**why Sven Yrvind chose not to use the chine
-runner and heavy-displacement Paradox concept on his own latest
-project**, despite being the design's most authoritative external
-champion (see [Yrvind and the chine
-runner](/people/yrvind/paradox-and-the-chine-runner.md)) — along with
-whether a later chapter of the book might address it, and separately
-when an English edition of the full book might become available.
+The revision drew a strong response: chapter 9 was called "one of the strongest, most convincing and cleverest texts ever written about Paradox," and it raised the question of **why the BRIS designer chose not to use the chine runner and heavy-displacement Paradox concept on his own latest project**, despite being the design's most authoritative external champion (see [Yrvind and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md)) — along with whether a later chapter of the book might address it, and separately when an English edition of the full book might become available.
 
-Kjell answered the design question directly: Yrvind's own
-latest major project, the roughly 7-meter two-person **"Bris,"** was
-begun before he had even learned of Paradox, and was built to an
-exacting, entirely custom standard — down to custom-made screws — over
-several years, "just a beauty," though Yrvind had to sell her unsailed.
-By the time of his current project he instead wanted a boat **light
-enough to car-top**, easy to handle before the wind and to scull, and
-judged his own established design better suited to that purpose than a
-chine-runner/heavy-displacement approach — conceding, when pressed
-further, that boat design ultimately also comes down to a matter of
-"feeling." On the English-edition question, Kjell reported that he had
-recommended to the book's editor, after a referee-read of the manuscript
-some two years earlier, that it likely had more potential readers outside
-Sweden than within it — but judged publishers in a small-language market
-inherently cautious, and suggested posting an excerpt to the group as one
-way to help build the case for an English edition.
+Kjell answered the design question directly: the designer's own latest major project, the roughly 7-meter two-person **"Bris,"** was begun before he had even learned of Paradox, and was built to an exacting, entirely custom standard — down to custom-made screws — over several years, "just a beauty," though it had to be sold unsailed. By the time of the current project the goal was instead a boat **light enough to car-top**, easy to handle before the wind and to scull, judged better suited to that purpose by an established design than by a chine-runner/heavy-displacement approach — conceding, when pressed further, that boat design ultimately also comes down to a matter of "feeling." On the English-edition question, Kjell reported that he had recommended to the book's editor, after a referee-read of the manuscript some two years earlier, that it likely had more potential readers outside Sweden than within it — but judged publishers in a small-language market inherently cautious, and suggested posting an excerpt to the group as one way to help build the case for an English edition.
 
 ## A proposed group project to translate Sven Yrvind's full book into English
 
-The excerpt-posting suggestion (above) grew into a fuller plan: a
-**crowd-translated, limited-edition English printing** of Sven Yrvind's
-book, produced either as a print run funded by pre-orders or as an
-e-book sold directly off Yrvind's own website via PayPal — an idea
-traced to a secondhand account of a televised documentary on Yrvind,
-describing him as "a FASCINATING character" with a huge personal
-library of sea-related books. Interest in buying a copy, should the
-project come together, was immediate. Direct conversations with Yrvind
-supplied the reality check: he had said he would be capable of
-translating the book himself but flatly lacked the time, and separately
-declined a suggestion of co-authoring an English-language photo book
-for the same reason — so the only realistic path to an English edition
-was volunteer translation by people like Kjell. A Swedish friend had
-once paraphrased Yrvind's earlier book *BRIS* into English, some six
-years prior, and it had taken "a huge amount of time" — "We all owe
-Kjell a debt of thanks... That took more work than many of us realize."
+The excerpt-posting suggestion (above) grew into a fuller plan: a **crowd-translated, limited-edition English printing** of the book, produced either as a print run funded by pre-orders or as an e-book sold directly off the author's own website via PayPal — an idea traced to a secondhand account of a televised documentary, describing the author as "a FASCINATING character" with a huge personal library of sea-related books. Interest in buying a copy, should the project come together, was immediate. Direct conversations supplied the reality check: the author was capable of translating the book himself but flatly lacked the time, and separately declined a suggestion of co-authoring an English-language photo book for the same reason — so the only realistic path to an English edition was volunteer translation by people like Kjell. A Swedish friend had once paraphrased the earlier book *BRIS* into English, some six years prior, and it had taken "a huge amount of time" — "We all owe Kjell a debt of thanks... That took more work than many of us realize."
 
-A concrete division of labor followed: **ten chapters total** (confirmed
-against a copy of ***KONSTRUKTOREN***, see [Sven Yrvind's book,
-translated](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter)
-above for its full publication details), one already translated by
-Kjell, leaving nine; a **three-step pipeline** (scan and split the book
-into chapters; assign each chapter to a volunteer for a literal
-translation; have a technically-fluent editor polish each); and final
-sign-off from Yrvind himself, estimated at six months or more. Two or
-three willing volunteer translators were lined up early, including one
-fluent enough to translate Swedish into English (having previously
-translated a book from English into Norwegian), soon joined by three
-more volunteers and an offer to photocopy a copy of the book for
-distribution. Yrvind was judged very likely to bless the project, though
-wanting final approval of the translation himself (he speaks English
-extremely well), and clearing it with his Swedish publisher, Prisma,
-was not expected to be difficult, since a route existed to interest a
-Western publisher in printing the finished English translation and
-dealing with Prisma directly. The practical mechanic proposed was to
-scan each chapter separately to PDF and circulate them one at a time by
-e-mail, so no single volunteer would be overloaded and progress per
-chapter would stay easy to track — several Swedish list members, plus
-one each from Finland and Norway, had already done translation work for
-the group before, some self-deprecating about their own English, "and
-then end up having better English than we have!"
+A concrete division of labor followed: **ten chapters total** (confirmed against a copy of ***KONSTRUKTOREN***, see [Sven Yrvind's book, translated](#sven-yrvinds-book-translated-the-matt-laydenparadox-chapter) above for its full publication details), one already translated by Kjell, leaving nine; a **three-step pipeline** (scan and split the book into chapters; assign each chapter to a volunteer for a literal translation; have a technically-fluent editor polish each); and final sign-off from the author himself, estimated at six months or more. Two or three willing volunteer translators were lined up early, including one fluent enough to translate Swedish into English (having previously translated a book from English into Norwegian), soon joined by three more volunteers and an offer to photocopy a copy of the book for distribution. The author was judged very likely to bless the project, though wanting final approval of the translation himself (he speaks English extremely well), and clearing it with the Swedish publisher, Prisma, was not expected to be difficult, since a route existed to interest a Western publisher in printing the finished English translation and dealing with Prisma directly. The practical mechanic proposed was to scan each chapter separately to PDF and circulate them one at a time by e-mail, so no single volunteer would be overloaded and progress per chapter would stay easy to track — several Swedish list members, plus one each from Finland and Norway, had already done translation work for the group before, some self-deprecating about their own English, "and then end up having better English than we have!"
 
-Sven Yrvind himself, consulted directly, declined to put the
-**complete book** online, even as a cyberspace/PayPal e-book: he was
-willing to see the already-translated **Paradox chapter alone** posted,
-but judged the book as a whole too large an investment to give away
-digitally — a stance accepted as "understandable" — noting his Swedish
-publisher likely has its own views, and that a publisher might in any
-case be interested in finding a North American co-publisher rather than
-a straight English e-book release. At the time, Yrvind was intensely at
-work on his next boat (its outside lamination nearing completion),
-bound for the Azores, where he intended to write his next book — this
-time directly in English. Separately, Yrvind passed on a piece of
-direct design feedback: he felt the translated Paradox chapter should
-have given more weight to the **large rudder's importance to lateral
-resistance** — see [rudder and chine
-experiments](/design/rudder.md#the-big-rudder-as-a-leeway-reducer) for
-the fuller record of why Paradox's rudder was built oversized and what
-role it plays alongside the chine runners. At the same point, the
-"ParaPlastic" build itself had both **sides and bottom on** and, in
-Kjell's words, "looks like a boat, all of a sudden," with outside
-lamination planned for the coming weekend "if I can force all the
-youths to help me."
+The author, consulted directly, declined to put the **complete book** online, even as a cyberspace/PayPal e-book: he was willing to see the already-translated **Paradox chapter alone** posted, but judged the book as a whole too large an investment to give away digitally — a stance accepted as "understandable" — noting the Swedish publisher likely has its own views, and that a publisher might in any case be interested in finding a North American co-publisher rather than a straight English e-book release. At the time, work was intensely underway on the next boat (its outside lamination nearing completion), bound for the Azores, where the next book was to be written — this time directly in English. Separately, a piece of direct design feedback was passed on: the translated Paradox chapter should have given more weight to the **large rudder's importance to lateral resistance** — see [rudder and chine experiments](/design/rudder.md#the-big-rudder-as-a-leeway-reducer) for the fuller record of why Paradox's rudder was built oversized and what role it plays alongside the chine runners. At the same point, the "ParaPlastic" build itself had both **sides and bottom on** and, in Kjell's words, "looks like a boat, all of a sudden," with outside lamination planned for the coming weekend "if I can force all the youths to help me."
 
-The project's actual close came a little later: Yrvind, after further
-discussion, confirmed the book was not simply being "thrown out in
-[cyber]space" carelessly, while a genuinely cooperative, crowd-translated
-effort was acknowledged as hard to manage without being "pretty loose
-and unsafe." His settled answer was no e-book, but strong interest in
-finding an English-speaking publisher, with the already-translated
-**"Chapter9"** offered as a sample chapter to show one, should anyone in
-the group have a contact. For the rest of the book, his expectation was
-that a **professional translator** — not Kjell — would do the work,
-closing out the group's crowd-translation project on that note. The
-counter-argument raised was that a professional translation would
-likely cost more than the resulting book could recoup, whereas capable
-volunteers translating the whole manuscript first, subject to Yrvind's
-own approval, would let a finished, English-language manuscript be
-presented to a publisher on much better economic terms — reasoning that
-if a properly published English edition through a volunteer-translation
-route turned out to be the only realistic path, Yrvind might yet change
-his mind, given how strongly he felt about language quality. Yrvind's
-final position stood regardless: sample chapter to a publisher,
-professional translator for the rest, no volunteer crowd-effort after
-all. A closing clarification noted the cyberspace/PayPal e-book route
-had only ever been one suggestion among several, floated because a
-Swedish publishing company contact already had a PayPal payment system
-set up, which would avoid the added cost of printing, packaging, and
-shipping that can double a book's list price — set against the view
-that the Swedish-language market was already well served by the book in
-Swedish, so a North American or British readership would be better
-served by a proper US, Canadian, or UK publisher than a
-direct-to-cyberspace release, since publishing costs exist precisely to
-fund the distribution and marketing needed to reach the widest possible
-audience — whichever route was taken, the expectation was that Yrvind
-would be paid his full royalties. The archive does not record whether
-the group translation project was ultimately carried out.
+The project's actual close came a little later: after further discussion, the author confirmed the book was not simply being "thrown out in [cyber]space" carelessly, while a genuinely cooperative, crowd-translated effort was acknowledged as hard to manage without being "pretty loose and unsafe." The settled answer was no e-book, but strong interest in finding an English-speaking publisher, with the already-translated **"Chapter9"** offered as a sample chapter to show one, should anyone in the group have a contact. For the rest of the book, the expectation was that a **professional translator** — not Kjell — would do the work, closing out the group's crowd-translation project on that note. The counter-argument raised was that a professional translation would likely cost more than the resulting book could recoup, whereas capable volunteers translating the whole manuscript first, subject to the author's own approval, would let a finished, English-language manuscript be presented to a publisher on much better economic terms — reasoning that if a properly published English edition through a volunteer-translation route turned out to be the only realistic path, the author might yet change his mind, given how strongly he felt about language quality. The final position stood regardless: sample chapter to a publisher, professional translator for the rest, no volunteer crowd-effort after all. A closing clarification noted the cyberspace/PayPal e-book route had only ever been one suggestion among several, floated because a Swedish publishing company contact already had a PayPal payment system set up, which would avoid the added cost of printing, packaging, and shipping that can double a book's list price — set against the view that the Swedish-language market was already well served by the book in Swedish, so a North American or British readership would be better served by a proper US, Canadian, or UK publisher than a direct-to-cyberspace release, since publishing costs exist precisely to fund the distribution and marketing needed to reach the widest possible audience — whichever route was taken, the expectation was that the author would be paid his full royalties. The archive does not record whether the group translation project was ultimately carried out.
 
-Separately, a **Swedish prospective builder** wrote in (in Swedish)
-after reading Yrvind's latest book, asking whether there were other
-like-minded Scandinavians on the list, which produced the only recorded
-**member-count breakdown by country**: roughly 15 members from Sweden,
-2 from Norway, 5 from Denmark, and at least one from Finland, plus one
-Paradox then under construction in Sweden — Kjell's own "ParaPlastic"
-(see [above](#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast)).
+Separately, a **Swedish prospective builder** wrote in (in Swedish) after reading the latest book, asking whether there were other like-minded Scandinavians on the list, which produced the only recorded **member-count breakdown by country**: roughly 15 members from Sweden, 2 from Norway, 5 from Denmark, and at least one from Finland, plus one Paradox then under construction in Sweden — Kjell's own "ParaPlastic" (see [above](#a-paraplastic-photo-update-dry-weight-and-the-carbon-mast)).
 
 ## Cross-links
 
-This build is the only recorded attempt at a Paradox in a
-composite/foam-sandwich material rather than plywood, and the only
-recorded direct design lineage from **Sven Yrvind** (compare the
-existing [blue-water suitability](/design/blue-water-suitability.md)
-comparison between Paradox and Yrvind's own "Bris"/Sofia designs,
-which this build now connects to a real, named construction project
-rather than only a design-philosophy discussion). It is also a data
-point in the long-running
-[stretched Paradox](/design/variants/stretched-paradox.md) two-person
-scaling discussion, arrived at independently and via a different
-route (material substitution and bulkhead-fidelity rather than a
-uniform linear scale-up).
+This build is the only recorded attempt at a Paradox in a composite/foam-sandwich material rather than plywood, and the only recorded direct design lineage from the **BRIS** method (compare the existing [blue-water suitability](/design/blue-water-suitability.md) comparison between Paradox and the "Bris"/Sofia designs, which this build now connects to a real, named construction project rather than only a design-philosophy discussion). It is also a data point in the long-running [stretched Paradox](/design/variants/stretched-paradox.md) two-person scaling discussion, arrived at independently and via a different route (material substitution and bulkhead-fidelity rather than a uniform linear scale-up).
 
 ## A further "ParaPlastic" photo update
 
-Kjell posted a further round of build photos to the group's
-"ParaPlastic" album some two months after the book-translation project's
-close, including a shot of the divinycell core alongside a Teflon rod he
-uses as a mandrel for making fiberglass/epoxy tubes and pipes. The photos
-also depict **Lasse**, known elsewhere in the archive from Chapter9 as
-the sailor who crossed the Atlantic in the BRIS-hulled **Libra** (and who
-has since also bought a **Pinta trimaran**), alongside a bemused
-inspection-report caption grading Kjell's own boat under Sven Yrvind's
-informal marking scale — a joke Kjell noted he would remove.
+Kjell posted a further round of build photos to the group's "ParaPlastic" album some two months after the book-translation project's close, including a shot of the divinycell core alongside a Teflon rod he uses as a mandrel for making fiberglass/epoxy tubes and pipes. The photos also depict **Lasse**, known elsewhere in the archive from Chapter9 as the sailor who crossed the Atlantic in the BRIS-hulled **Libra** (and who has since also bought a **Pinta trimaran**), alongside a bemused inspection-report caption grading Kjell's own boat under the designer's informal marking scale — a joke Kjell noted he would remove.
 
 ## Widening the berth by omitting the lower shelves
 
-Kjell's ongoing use of the **BRIS sandwich construction** (rather than
-plywood plus separate sheet-foam flotation) let him revisit the
-recurring enlarging-a-Paradox berth-width question from a different
-angle than a straightforward hull stretch (compare
-[stretched Paradox](/design/variants/stretched-paradox.md)). Omitting
-both the **sheet-foam insulation** the plywood design normally carries
-and the **lower bin shelves**, he achieved a berth width equal to the
-bulkheads' own outer dimension — the BRIS sandwich's built-in buoyancy
-making the separate foam flotation unnecessary in the first place (see
-[no foam flotation installed
-separately](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock)
-above), and the missing shelves freeing the width they would otherwise
-have occupied. A hasty test-sleep aboard left him still unsure whether
-sleeping directly underneath the shelf line would work in practice; his
-plan going forward was to make the **aft shelf removable** — fitted for
-single-handed sailing, left off when sailing two-up — while judging the
-foremost shelves clear enough of the berth not to trouble a sleeper's
-body. He posted four further photos of the result to the group's Files
-section, under a "ParaPlastic" subfolder.
+Kjell's ongoing use of the **BRIS sandwich construction** (rather than plywood plus separate sheet-foam flotation) let him revisit the recurring enlarging-a-Paradox berth-width question from a different angle than a straightforward hull stretch (compare [stretched Paradox](/design/variants/stretched-paradox.md)). Omitting both the **sheet-foam insulation** the plywood design normally carries and the **lower bin shelves**, he achieved a berth width equal to the bulkheads' own outer dimension — the BRIS sandwich's built-in buoyancy making the separate foam flotation unnecessary in the first place (see [no foam flotation installed separately](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock) above), and the missing shelves freeing the width they would otherwise have occupied. A hasty test-sleep aboard left him still unsure whether sleeping directly underneath the shelf line would work in practice; his plan going forward was to make the **aft shelf removable** — fitted for single-handed sailing, left off when sailing two-up — while judging the foremost shelves clear enough of the berth not to trouble a sleeper's body. He posted four further photos of the result to the group's Files section, under a "ParaPlastic" subfolder.
 
-This round of photos restates a standing Yahoo Groups constraint for
-anyone posting to the Files section: image size must be set **before**
-uploading, since Yahoo provides **no way to resize a photo after the
-fact** once it is posted (see [Glen Maxwell — diagnosing Yahoo's
-photo-resolution
-limit](/people/glen-maxwell/list-founder-and-moderator.md#diagnosing-yahoos-photo-resolution-limit)
-for the fuller diagnosis of the same limitation).
+This round of photos restates a standing Yahoo Groups constraint for anyone posting to the Files section: image size must be set **before** uploading, since Yahoo provides **no way to resize a photo after the fact** once it is posted (see [diagnosing Yahoo's photo-resolution limit](/people/glen-maxwell/list-founder-and-moderator.md#diagnosing-yahoos-photo-resolution-limit) for the fuller diagnosis of the same limitation).
 
 ## A rudder-fitting rework, and a fiberglass tiller
 
-By September 2004, Kjell reported spending considerable time correcting his
-rudder fittings after installing the main bronze rod askew, and separately
-building a **tiller out of fiberglass and epoxy** rather than wood — having
-first tried carbon fiber before settling on plain fiberglass — as a further
-instance of his stated preference for composite over timber construction
-throughout the build.
+By September 2004, Kjell reported spending considerable time correcting his rudder fittings after installing the main bronze rod askew, and separately building a **tiller out of fiberglass and epoxy** rather than wood — having first tried carbon fiber before settling on plain fiberglass — as a further instance of his stated preference for composite over timber construction throughout the build.
 
 ## A stainless-steel stem tube in place of a fastening loop
 
-A further October 2004 photo round showed two more build details specific to
-the BRIS composite method. The **aft baffle**, once mounted, proved too
-steep and had to be recut in an unusual way — Kjell hoped the change would
-not affect its function. At the **stem**, rather than the plans' fastening
-loop, Kjell fitted a **stainless-steel tube** through a drilled hole, a
-substitution driven by the practical difficulty of getting a fastening loop
-to grip securely in the Divinycell core; the idea was Sven Yrvind's own. For
-the chine-runner curve question that had run since September 2004, see [how
-chine runners work — resolution](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
+A further October 2004 photo round showed two more build details specific to the BRIS composite method. The **aft baffle**, once mounted, proved too steep and had to be recut in an unusual way — Kjell hoped the change would not affect its function. At the **stem**, rather than the plans' fastening loop, Kjell fitted a **stainless-steel tube** through a drilled hole, a substitution driven by the practical difficulty of getting a fastening loop to grip securely in the Divinycell core; the idea came from the BRIS designer. For the chine-runner curve question that had run since September 2004, see [how chine runners work — resolution](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature).
 
 ## Layup materials and chine-runner attachment for a foam-core hull, revisited
 
-Kjell's build is also cited elsewhere as a data point for foam-core
-construction generally (see [first-boat suitability — age, and the case
-for going smaller rather than
-larger](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger)),
-alongside a comparable outside precedent: a 16-foot airboat built some
-fifteen years earlier from Airex R63 foam core (bottom) and Herex C70
-foam core (topsides and structure), laid up in polyester resin, proved
-"bullet proof," surviving being driven flat out over a shingle bank with
-no damage beyond lost bottom paint — reinforcing the expectation that
-the same approach would suit a Paradox well.
+Kjell's build is also cited elsewhere as a data point for foam-core construction generally (see [first-boat suitability — age, and the case for going smaller rather than larger](/operations/first-boat-suitability.md#age-and-the-case-for-going-smaller-rather-than-larger)), alongside a comparable outside precedent: a 16-foot airboat built some fifteen years earlier from Airex R63 foam core (bottom) and Herex C70 foam core (topsides and structure), laid up in polyester resin, proved "bullet proof," surviving being driven flat out over a shingle bank with no damage beyond lost bottom paint — reinforcing the expectation that the same approach would suit a Paradox well.
 
-Kjell's settled method: **fiberglass/epoxy on the
-inside, polyester cloth/epoxy on the outside**, over a divinycell core — the
-"BRIS method" as specified by Sven Yrvind (see [Kjell's "laws of nature," and
-the material/construction changes from
-stock](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock)
-above for the full lamination schedule). For the chine runners themselves, he
-fastened a **bronze sheet to the bottom**, then built up the runner's
-shape over it in fiberglass/epoxy putty — the same bronze-sheet-as-ballast
-approach recorded in full at [a rudder-fitting rework, and a fiberglass
-tiller](#a-rudder-fitting-rework-and-a-fiberglass-tiller) and [chine runner
-construction — bronze versus
-steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
+Kjell's settled method: **fiberglass/epoxy on the inside, polyester cloth/epoxy on the outside**, over a divinycell core — the "BRIS method" (see [Kjell's "laws of nature," and the material/construction changes from stock](#kjells-laws-of-nature-and-the-materialconstruction-changes-from-stock) above for the full lamination schedule). For the chine runners themselves, he fastened a **bronze sheet to the bottom**, then built up the runner's shape over it in fiberglass/epoxy putty — the same bronze-sheet-as-ballast approach recorded in full at [a rudder-fitting rework, and a fiberglass tiller](#a-rudder-fitting-rework-and-a-fiberglass-tiller) and [chine runner construction — bronze versus steel](/chine-runners/construction.md#bronze-versus-steel-if-a-builder-insists-on-a-shoe).
 
-A further "ParaPlastic" photo round showed the
-painting and decking underway and the deck laminated — work judged slow
-going, "working like a polecat, still s-l-o-w progress, strange."[70][71]
+A further "ParaPlastic" photo round showed the painting and decking underway and the deck laminated — work judged slow going, "working like a polecat, still s-l-o-w progress, strange."[70][71]
 
 ## A further round of roof and window progress
 
-A further round of photos, posted some two and a half months later, showed
-the roof going on: Kjell built pools/supports for the roof first, ending up
-"remarkably strong," then fitted the roof itself over an already-painted
-interior. Working around the BRIS method's departures from the stock plans,
-he had to grind away the divinycell core along each free deck edge and
-replace it with epoxy and fiberglass filler, giving the window openings solid
-material to screw into. He was cutting the windows themselves as the update
-was posted.[72][73][74]
+A further round of photos, posted some two and a half months later, showed the roof going on: Kjell built pools/supports for the roof first, ending up "remarkably strong," then fitted the roof itself over an already-painted interior. Working around the BRIS method's departures from the stock plans, he had to grind away the divinycell core along each free deck edge and replace it with epoxy and fiberglass filler, giving the window openings solid material to screw into. He was cutting the windows themselves as the update was posted.[72][73][74]
 
 ## Window test-fitting in polycarbonate
 
-The day after the roof-and-window update above, Kjell posted a further,
-briefer photo round showing the **windows test-fitted** — his first look at
-how the boat's polycarbonate glazing would sit in the openings he had just
-cut and filled. He described the material's behavior under test-fitting as
-"funny stuff," without further elaboration on what specifically surprised
-him.[75]
+The day after the roof-and-window update above, Kjell posted a further, briefer photo round showing the **windows test-fitted** — his first look at how the boat's polycarbonate glazing would sit in the openings he had just cut and filled. He described the material's behavior under test-fitting as "funny stuff," without further elaboration on what specifically surprised him.[75]
 
 ## First launch, and a rudder that would not stay down
 
-Some four months later, after an absence spent traveling and then in a
-"boat builder's depression," Kjell reported the BRIS Paradox had been
-**launched twice, but not yet sailed**. The first launch was cut short only
-by a lack of trailer-ramp access; the second revealed a real problem —
-the rudder **floated like a cork**, buoyant enough that no line or bungee
-cord could be relied on to hold it down as he had assumed while building it
-years earlier. He tried to solve the buoyancy by melting lead into the
-Divinycell core, which did not work, then by drilling out divinycell and
-sealing the cavity with epoxy to accept a lead insert — workable in
-principle, but a drilled cavity could hold barely a third of the lead
-needed. He ended up cladding the rudder's lower section in the bronze
-sheet left over from the hull's chine-runner-and-ballast plate as a interim
-fix.[76]
+Some four months later, after an absence spent traveling and then in a "boat builder's depression," Kjell reported the BRIS Paradox had been **launched twice, but not yet sailed**. The first launch was cut short only by a lack of trailer-ramp access; the second revealed a real problem — the rudder **floated like a cork**, buoyant enough that no line or bungee cord could be relied on to hold it down as he had assumed while building it years earlier. He tried to solve the buoyancy by melting lead into the Divinycell core, which did not work, then by drilling out divinycell and sealing the cavity with epoxy to accept a lead insert — workable in principle, but a drilled cavity could hold barely a third of the lead needed. He ended up cladding the rudder's lower section in the bronze sheet left over from the hull's chine-runner-and-ballast plate as a interim fix.[76]
 
 ## First sail, and a topping-lift solution to heavy hoisting/reefing
 
-The BRIS Paradox's **first actual sail** came in a nearby small lake, after a
-first-launch gap of some four months, and after 21 years without Kjell
-himself having sailed anything at all — "such a long time since I sailed
-last... so I don't really know what I expected." Conditions were light, 6-7
-m/s, sailed single-handed with no photos taken.[77]
+The BRIS Paradox's **first actual sail** came in a nearby small lake, after a first-launch gap of some four months, and after 21 years without Kjell himself having sailed anything at all — "such a long time since I sailed last... so I don't really know what I expected." Conditions were light, 6-7 m/s, sailed single-handed with no photos taken.[77]
 
-Loaded for the trial with the bronze bottom sheet (70 kg), a battery (31 kg),
-77 kg of scrap lead carried loose in plastic bags, and Kjell's own 77 kg, the
-boat was noticeably stiff — heeling was "not bothersome," even floating well
-above her designed waterline. Moving the sail/yard's halyard attachment point
-by about 40 cm between the two trial rigging attempts appeared to affect
-tacking performance, along with an irritating wrinkle at the sail's aft top
-corner; both remained open questions after only two data points. The
-rudder's interim bronze cladding (see above) held up at 4.1 kg added weight,
-judged adequate, though shaping a curved bronze strip along its edge proved
-difficult, and the boat's rudder was left thicker than the plans' NACA
-foil profile as a result.[77]
+Loaded for the trial with the bronze bottom sheet (70 kg), a battery (31 kg), 77 kg of scrap lead carried loose in plastic bags, and Kjell's own 77 kg, the boat was noticeably stiff — heeling was "not bothersome," even floating well above her designed waterline. Moving the sail/yard's halyard attachment point by about 40 cm between the two trial rigging attempts appeared to affect tacking performance, along with an irritating wrinkle at the sail's aft top corner; both remained open questions after only two data points. The rudder's interim bronze cladding (see above) held up at 4.1 kg added weight, judged adequate, though shaping a curved bronze strip along its edge proved difficult, and the boat's rudder was left thicker than the plans' NACA foil profile as a result.[77]
 
-Hoisting and reefing felt "much too heavy" on repeated dry-land trials, a
-problem Kjell traced to omitting a **topping lift** at the mast-building
-stage years earlier, on the reasoning he would not need one. Consulting
-[Sven Yrvind](/people/yrvind.md) about it drew a blank — Yrvind, who sailed
-Matt Layden's own Paradox daily for two months, said he had never even
-thought of it as a problem, and relayed the same non-answer from Matt
-Layden himself; Kjell took this as revealing "the difference between a
-sailor and a not-sailor-yet." His practical fix was **two fixed topping
-lifts**, rigged with the aft line led to the masthead sheave bolt (as high
-on the mast as possible) and the forward line only about 50 cm long, fixed
-partway up the mast (temporarily with duct tape); both lengths are set so
-the boom/yard hangs slightly lower than when the sail is fully hoisted,
-keeping the lifts slack — and so out of the way — while under sail, needing
-to be unhooked only when the boom/yard comes down onto the deck. His
-complete boom/yard/sail/line package weighed 8.5 kg.[77]
+Hoisting and reefing felt "much too heavy" on repeated dry-land trials, a problem Kjell traced to omitting a **topping lift** at the mast-building stage years earlier, on the reasoning he would not need one. Consulting the BRIS designer about it drew a blank — the sailor who sailed [Matt Layden](/matt-layden/biography.md)'s own Paradox daily for two months had never even thought of it as a problem, and relayed the same non-answer from Matt Layden himself; Kjell took this as revealing "the difference between a sailor and a not-sailor-yet." His practical fix was **two fixed topping lifts**, rigged with the aft line led to the masthead sheave bolt (as high on the mast as possible) and the forward line only about 50 cm long, fixed partway up the mast (temporarily with duct tape); both lengths are set so the boom/yard hangs slightly lower than when the sail is fully hoisted, keeping the lifts slack — and so out of the way — while under sail, needing to be unhooked only when the boom/yard comes down onto the deck. His complete boom/yard/sail/line package weighed 8.5 kg.[77]
 
 ## First-sail congratulations, and a shared assumption about yuloh technique
 
-News of the first sail drew warm replies from across the group — Björn
-Harbo, Alastair, Glen Maxwell, Derek Clark (posted twice by his own
-apparent accidental repost, both copies identical), and Jack Gardiner all
-congratulated Kjell and asked for photos.[78][79][80][81][82] Alastair's
-reply also offered the general observation that the **yuloh** takes some
-getting used to but rewards persistence — a corollary to Kjell's own
-sailing-day note that "the yuloh didn't obey" him yet.[80]
+News of the first sail drew warm replies from across the group, all congratulating Kjell and asking for photos (one reply posted twice by an apparent accidental repost, both copies identical).[78][79][80][81][82] One reply also offered the general observation that the **yuloh** takes some getting used to but rewards persistence — a corollary to Kjell's own sailing-day note that "the yuloh didn't obey" him yet.[80]
 
 ## Sailing grounds: the Stockholm archipelago, and a Baltic-states dream
 
-Kjell posted photos of the finished boat, by then nicknamed
-**"Paraplastic,"** to the group's Photos section — prompting David Beard to
-ask where he planned to sail her most.[83][84][85][86]
+Kjell posted photos of the finished boat, by then nicknamed **"Paraplastic,"** to the group's Photos section — prompting a question about where he planned to sail her most.[83][84][85][86]
 
-Kjell sails out of the **Stockholm archipelago**, among "some thousands of
-islands." His previous boat drew 2 m and could not reach most of them; at
-the BRIS Paradox's shallow 23 cm draft, that changes completely, opening up
-grounds otherwise inaccessible. He also described sailing a chartless
-inland lake for the first time — free of the need to watch for charted
-rocks, since a small boat drawing so little can simply absorb the
-occasional bump — and noted the trailer built for the boat tows at up to
-80 km/h. He named a long-held, only half-serious ambition: sailing to the
-Baltic states, particularly Estonia, recalling an attempt some thirty years
-earlier to reach Leningrad (Saint Petersburg) that Soviet authorities
-refused permission for, and noting that before World War II the Estonian
-coast had been a popular beach-holiday destination for Swedes, cut off
-entirely once the Iron Curtain fell across the Baltic.[86]
+Kjell sails out of the **Stockholm archipelago**, among "some thousands of islands." His previous boat drew 2 m and could not reach most of them; at the BRIS Paradox's shallow 23 cm draft, that changes completely, opening up grounds otherwise inaccessible. He also described sailing a chartless inland lake for the first time — free of the need to watch for charted rocks, since a small boat drawing so little can simply absorb the occasional bump — and noted the trailer built for the boat tows at up to 80 km/h. He named a long-held, only half-serious ambition: sailing to the Baltic states, particularly Estonia, recalling an attempt some thirty years earlier to reach Leningrad (Saint Petersburg) that Soviet authorities refused permission for, and noting that before World War II the Estonian coast had been a popular beach-holiday destination for Swedes, cut off entirely once the Iron Curtain fell across the Baltic.[86]
 
-David Beard's reply captured the design's shallow-draft appeal in one line:
-some of his own most memorable sailing has been on small, out-of-the-way
-lakes and rivers, since Paradox "can go where no sailboat has gone before,
-like an oversized canoe with sleeping quarters" — his advice being not to
-fear exploring, to drop the mast and go, and if grounded, to simply get out
-and push.[87]
+A reply captured the design's shallow-draft appeal in one line: some of the most memorable sailing has been on small, out-of-the-way lakes and rivers, since Paradox "can go where no sailboat has gone before, like an oversized canoe with sleeping quarters" — the advice being not to fear exploring, to drop the mast and go, and if grounded, to simply get out and push.[87]
 
 ## The finished rudder, and a gusty-weekend sail that ended badly
 
-A further round of photos showed the finished **rudder** carrying **4 kg of
-bronze cladding**, judged by then to be enough weight, though covering the
-edge in bronze had taken considerable extra work.[88] The same update also
-recorded the design's reefing-triangle question directly — whether reshaping
-the boom's taper could remove the small triangle of sail left standing after
-a reef (see [rig and sail — rolling boom and sail
-foot](/design/rig.md#rolling-boom-and-sail-foot) for the answers this drew).
+A further round of photos showed the finished **rudder** carrying **4 kg of bronze cladding**, judged by then to be enough weight, though covering the edge in bronze had taken considerable extra work.[88] The same update also recorded the design's reefing-triangle question directly — whether reshaping the boom's taper could remove the small triangle of sail left standing after a reef (see [rig and sail — rolling boom and sail foot](/design/rig.md#rolling-boom-and-sail-foot) for the answers this drew).
 
-A short sail that same weekend, in far gustier wind than expected, went
-badly: with his wife aboard, the wind built until the boat drifted into
-reeds and could barely be worked back to the jetty, the rig fighting to come
-down and turning almost a full circle around the mast, scraping the
-metalwork against deck and window and scoring the hull's sides against the
-jetty itself. Getting the boat back on the trailer afterward, in a sudden
-15 m/s wind from astern and at an angle, pressed the hull against a trailer
-fender and buckled it, and took half an hour of standing barefoot in cold
-water to winch home.[88]
+A short sail that same weekend, in far gustier wind than expected, went badly: with his wife aboard, the wind built until the boat drifted into reeds and could barely be worked back to the jetty, the rig fighting to come down and turning almost a full circle around the mast, scraping the metalwork against deck and window and scoring the hull's sides against the jetty itself. Getting the boat back on the trailer afterward, in a sudden 15 m/s wind from astern and at an angle, pressed the hull against a trailer fender and buckled it, and took half an hour of standing barefoot in cold water to winch home.[88]
 
 ## A 2006 newcomer's question: what "ParaPlastic" actually is
 
-More than two years after Kjell's build became a fixture on the list, a
-newcomer unfamiliar with the nickname asked directly what "the paraplastic
-coating" was and how it differed from ordinary fiberglass and epoxy resin.
-The answer, from a long-standing UK correspondent: **"ParaPlastic" is not a
-coating at all**, but the boat's own construction method — foam sheets
-finished in glass cloth and **polyester** resin rather than plywood, with
-very little wood anywhere in the hull — matching the BRIS/Divinycell
-foam-sandwich build documented above.[89][90]
+More than two years after Kjell's build became a fixture on the list, a newcomer unfamiliar with the nickname asked directly what "the paraplastic coating" was and how it differed from ordinary fiberglass and epoxy resin. The answer: **"ParaPlastic" is not a coating at all**, but the boat's own construction method — foam sheets finished in glass cloth and **polyester** resin rather than plywood, with very little wood anywhere in the hull — matching the BRIS/Divinycell foam-sandwich build documented above.[89][90]
 
 ## See also
 
-A second Swedish builder, [Bengt Genell](/people/bengt-genell.md), launched
-his own plywood-built Paradox, "[Ladikan](/boats/ladikan.md)," in July 2006.
+A second Swedish builder launched a plywood-built Paradox, "[Ladikan](/boats/ladikan.md)," in July 2006.
 
 # Citations
 

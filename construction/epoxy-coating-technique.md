@@ -8,716 +8,166 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Epoxy pre-coating technique
 
-Pre-coating [Paradox](/paradox.md) plywood panels with epoxy before assembly
-follows a well-established technique covering when to coat, how to handle
-small cut pieces, how to tip a glossy finish, and how to prep between coats.
-The underlying question — whether resin-soaking is best done on cut pieces
-(small and large), in the virgin 8×4 ft sheet state, or only once the boat is
-near assembled — has a settled answer.
+Pre-coating [Paradox](/paradox.md) plywood panels with epoxy before assembly follows a well-established technique covering when to coat, how to handle small cut pieces, how to tip a glossy finish, and how to prep between coats. The underlying question — whether resin-soaking is best done on cut pieces (small and large), in the virgin 8×4 ft sheet state, or only once the boat is near assembled — has a settled answer.
 
 ## Coat the ply before cutting ("virgin state")
 
-Epoxy-coating full sheets **before** cutting out the individual parts is the
-recommended approach:
+Epoxy-coating full sheets **before** cutting out the individual parts is the recommended approach:
 
-- It is **more wasteful of epoxy** than coating parts after cutting, but the
-  **time savings are worth it**.
-- Use a **squeegee**, not a roller, to spread the epoxy — faster than rolling
-  and more economical, since the epoxy goes further.
-- The **first coat should be heavy** — it is the one that soaks into the wood.
-  Subsequent coats need much less epoxy.
+- It is **more wasteful of epoxy** than coating parts after cutting, but the **time savings are worth it**.
+- Use a **squeegee**, not a roller, to spread the epoxy — faster than rolling and more economical, since the epoxy goes further.
+- The **first coat should be heavy** — it is the one that soaks into the wood. Subsequent coats need much less epoxy.
 
 ## Coating small, already-cut pieces: the paint/glue board trick
 
-Coating small cut pieces is unavoidable regardless of when the rest of the ply
-is coated. The method for handling them without the piece sticking to the
-bench:
+Coating small cut pieces is unavoidable regardless of when the rest of the ply is coated. The method for handling them without the piece sticking to the bench:
 
 1. Make a **paint/glue board** from scrap plywood.
-2. Drive at least **three long sheetrock (drywall) screws** partway into the
-   board, positioned to support the underside of the part being coated.
-3. Coat one side of the part, then lay the **wet side down onto the screw
-   points** and coat the other side plus the edges.
-4. When the part is lifted off, the screw points leave marks too small to
-   notice — "you will be hard pressed to find where the panel lay."
+2. Drive at least **three long sheetrock (drywall) screws** partway into the board, positioned to support the underside of the part being coated.
+3. Coat one side of the part, then lay the **wet side down onto the screw points** and coat the other side plus the edges.
+4. When the part is lifted off, the screw points leave marks too small to notice — "you will be hard pressed to find where the panel lay."
 
 ## Tipping for a glossy finish
 
 To tip (smooth) follow-on coats to a glossy finish:
 
-- Use a **foam brush**, or make one by cutting a foam paint roller into
-  roughly **3 in lengths**, then cutting each length into **three sections**.
-- Make a handle by cutting a slot into a piece of scrap wood to hold the cut
-  roller section.
+- Use a **foam brush**, or make one by cutting a foam paint roller into roughly **3 in lengths**, then cutting each length into **three sections**.
+- Make a handle by cutting a slot into a piece of scrap wood to hold the cut roller section.
 - This lets the builder always have the right-sized brush for tipping.
 
 ## Sanding between coats and removing amine blush
 
-For a really smooth finish, **sand between coats**. Before sanding, wash the
-panel to remove the **amine blush** (an epoxy cure byproduct) that otherwise
-clogs sandpaper:
+For a really smooth finish, **sand between coats**. Before sanding, wash the panel to remove the **amine blush** (an epoxy cure byproduct) that otherwise clogs sandpaper:
 
-- Use a bucket and a **spray bottle** of soapy water (Simple Green works well)
-  — only a light spray is needed.
+- Use a bucket and a **spray bottle** of soapy water (Simple Green works well) — only a light spray is needed.
 - Scrub with a **damp Scotch-Brite pad**.
 - **Squeegee off**, rinse with a wet rag, squeegee again, and let dry.
-- An **automotive window squeegee** works well and panels dry quickly this
-  way, with very little mess.
+- An **automotive window squeegee** works well and panels dry quickly this way, with very little mess.
 
 ## Sealing, fairing, and rot repair in the Bolduc refits (microcruising.com)
 
-Across the [Little Cruiser](/matt-layden/little-cruiser.md) and
-[Swamp Thing](/matt-layden/swamp-thing.md) refits,
-[David & Mindy Bolduc](/people/bolduc/dave.md) followed a consistent
-sealing/fairing sequence: seal bare plywood in epoxy; fill nail holes and
-defects with epoxy and microballoons; fair with epoxy plus **microballoons**
-(**phenolic microballoons** specifically on Swamp Thing) or **milled glass**;
-fillet with **milled-cotton-fiber and epoxy** — on Swamp Thing's timber
-frames a test fillet made this way was **load-checked with a 35-lb weight**
-before it was trusted structurally.
+Across the [Little Cruiser](/matt-layden/little-cruiser.md) and [Swamp Thing](/matt-layden/swamp-thing.md) refits, a consistent sealing/fairing sequence was followed: seal bare plywood in epoxy; fill nail holes and defects with epoxy and microballoons; fair with epoxy plus **microballoons** (**phenolic microballoons** specifically on Swamp Thing) or **milled glass**; fillet with **milled-cotton-fiber and epoxy** — on Swamp Thing's timber frames a test fillet made this way was **load-checked with a 35-lb weight** before it was trusted structurally.
 
-Their rot-repair method on Swamp Thing: "digging out and grinding away all
-the troublesome areas," saturating the exposed wood with **unthickened epoxy
-resin**, then rebuilding the affected parts with new wood and fiberglass
-cloth — used to repair rot in the transom, rear deck, stem, and a
-delaminating cockpit coaming (the coaming's missing plywood veneer layer was
-replaced with several layers of glass cloth).
+The rot-repair method on Swamp Thing: "digging out and grinding away all the troublesome areas," saturating the exposed wood with **unthickened epoxy resin**, then rebuilding the affected parts with new wood and fiberglass cloth — used to repair rot in the transom, rear deck, stem, and a delaminating cockpit coaming (the coaming's missing plywood veneer layer was replaced with several layers of glass cloth).
 
-Fiberglass schedules recorded in these refits: **Little Cruiser**'s bottom
-was laid up in **five layers of 10 oz glass**, with **6 oz** on the deck and
-**4 oz** on the hatch; the transom got 3 layers of 3.25 oz glass and the
-sides 6 oz. **Swamp Thing**'s deck was sealed in **6 oz glass cloth and
-epoxy**, its toe-rail/deck joint in 2 layers of 4 oz glass.
+Fiberglass schedules recorded in these refits: **Little Cruiser**'s bottom was laid up in **five layers of 10 oz glass**, with **6 oz** on the deck and **4 oz** on the hatch; the transom got 3 layers of 3.25 oz glass and the sides 6 oz. **Swamp Thing**'s deck was sealed in **6 oz glass cloth and epoxy**, its toe-rail/deck joint in 2 layers of 4 oz glass.
 
-Separately, the **Enigma** collision-hole repair (after a 40-ft racing rowing
-shell holed her in Miami's Marine Stadium) used **West System epoxy plus
-cabosil** to bond a wood patch: the patch was aligned using **nails driven
-through pre-drilled alignment holes**, then held down flat and even under a
-pile of **lead weights** while curing. See
-[hull planking](/construction/hull-planking.md) for the fiberglass schedule
-this repair confirmed for the original hull construction, and
-[epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md)
-for the material specs (West System, cabosil, phenolic microballoons, milled
-cotton fiber) in more detail.
+Separately, the **Enigma** collision-hole repair (after a 40-ft racing rowing shell holed her in Miami's Marine Stadium) used **West System epoxy plus cabosil** to bond a wood patch: the patch was aligned using **nails driven through pre-drilled alignment holes**, then held down flat and even under a pile of **lead weights** while curing. See [hull planking](/construction/hull-planking.md) for the fiberglass schedule this repair confirmed for the original hull construction, and [epoxy brands and chemistry](/construction/epoxy-brands-and-chemistry.md) for the material specs (West System, cabosil, phenolic microballoons, milled cotton fiber) in more detail.
 
 ## Sealing a hull with prior water/rot damage: epoxy vs. paint
 
-Refitting a boat's interior after past water damage raises a distinct
-question from routine pre-assembly coating (above): whether to epoxy-coat
-over an area that once held moisture, and whether epoxy is even the right
-choice there. Redoing the interior of **"[Whisper](/boats/whisper.md)"** —
-which had suffered water damage at one time and had by then been drying for
-about a year — raised the concern that an epoxy coating might trap any
-residual moisture still in the wood.
+Refitting a boat's interior after past water damage raises a distinct question from routine pre-assembly coating (above): whether to epoxy-coat over an area that once held moisture, and whether epoxy is even the right choice there. Redoing the interior of **"[Whisper](/boats/whisper.md)"** — which had suffered water damage at one time and had by then been drying for about a year — raised the concern that an epoxy coating might trap any residual moisture still in the wood.
 
-The recommended sequence is to first coat the suspect areas (or the whole
-boat) with **automotive antifreeze** to kill any remaining rot spores, let
-that dry, then epoxy-coat over it — epoxy itself also has fungicidal
-properties. A **boric acid and antifreeze mixture**, applied some months
-ahead of the epoxy coat, is an effective earlier treatment. Epoxy coating is
-the right next step as long as the wood is genuinely dry: **epoxy
-saturation** has separately prolonged the life of a well-worn 14 ft Long
-Islander-class sailboat by several years — a technique associated with
-**Platt Monfort**, of Geodesic Airolite canoe fame.
+The recommended sequence is to first coat the suspect areas (or the whole boat) with **automotive antifreeze** to kill any remaining rot spores, let that dry, then epoxy-coat over it — epoxy itself also has fungicidal properties. A **boric acid and antifreeze mixture**, applied some months ahead of the epoxy coat, is an effective earlier treatment. Epoxy coating is the right next step as long as the wood is genuinely dry: **epoxy saturation** has separately prolonged the life of a well-worn 14 ft Long Islander-class sailboat by several years — a technique associated with **Platt Monfort**, of Geodesic Airolite canoe fame.
 
-Against the case for epoxy, plain good-quality **paint** is a simpler,
-safer-seeming alternative, but the practical case for epoxy wins out: epoxy
-can be squeegeed on with **no surface preparation and no sanding between
-coats**, unlike paint; the coated surface also needs to withstand heavy gear
-(anchors, lead ballast) being set down on it; and leaving epoxy **unpainted**
-lets a builder keep monitoring the wood underneath for any sign of renewed
-rot, which a painted-over surface would hide. One epoxy-coated interior
-"still looks pristine" despite having had the anchor dropped on it twice.
+Against the case for epoxy, plain good-quality **paint** is a simpler, safer-seeming alternative, but the practical case for epoxy wins out: epoxy can be squeegeed on with **no surface preparation and no sanding between coats**, unlike paint; the coated surface also needs to withstand heavy gear (anchors, lead ballast) being set down on it; and leaving epoxy **unpainted** lets a builder keep monitoring the wood underneath for any sign of renewed rot, which a painted-over surface would hide. One epoxy-coated interior "still looks pristine" despite having had the anchor dropped on it twice.
 
-**[Matt Layden](/matt-layden/biography.md)**'s own recommendation settles the
-question: epoxy-coat **both inside and out**, finished with a coat or two of
-paint on top — epoxy as the sealing/monitoring layer, paint as the final
-protective/cosmetic coat over it, not a substitute for the epoxy.
-
-**Disambiguation.** A correspondent posting only as "Larry" (`LJGeib@...`),
-cited above, is a **different person** from **Larry Whited** (`lwhited@...`),
-a separately confirmed correspondent who self-identifies by full name in his
-own messages (e.g. welcoming Matt Layden to the list and sharing a West Coast
-Trailer Sailers photo link — see [people/david-c-smith.md](/people/david-c-smith.md)). The two
-share only a first name and have been conflated in places; where the surname
-is not independently confirmed for a given message, this file cites the
-poster simply as "Larry."
+**[Matt Layden](/matt-layden/biography.md)**'s own recommendation settles the question: epoxy-coat **both inside and out**, finished with a coat or two of paint on top — epoxy as the sealing/monitoring layer, paint as the final protective/cosmetic coat over it, not a substitute for the epoxy.
 
 ## Mixing container shape and stir time
 
-Mixing-container shape has a documented effect on cure quality, drawn from
-professional boatbuilding-shop experience where poorly mixed epoxy was the
-biggest recurring problem: mixing in a **round container** gives better
-molecular linkage than a square one, because it is easier to stir a round
-container fully; conversely, a **square** container is easier to **pour**
-from. Round containers and small paper cups have small, sharp, hard-to-reach
-corners at the bottom, where soft, uncured epoxy can turn up during checks of
-used containers — traced to round tongue-depressor stir sticks that could not
-scrape those corners clean; the fix is cutting the first inch off every stir
-stick to square it off. One shop's practice was to disallow square mixing
-containers outright, though transferring already-mixed epoxy from a round
-mixing container into a square one for pouring was fine. The more common real
-cause of bad mixes, though, is judged to be **worker inattention** — getting
-distracted mid-pour and missing the hardener or the pot entirely — rather
-than container shape itself; the rule of thumb is **at least three,
-preferably four, minutes** of stirring while scraping the sides.
+Mixing-container shape has a documented effect on cure quality, drawn from professional boatbuilding-shop experience where poorly mixed epoxy was the biggest recurring problem: mixing in a **round container** gives better molecular linkage than a square one, because it is easier to stir a round container fully; conversely, a **square** container is easier to **pour** from. Round containers and small paper cups have small, sharp, hard-to-reach corners at the bottom, where soft, uncured epoxy can turn up during checks of used containers — traced to round tongue-depressor stir sticks that could not scrape those corners clean; the fix is cutting the first inch off every stir stick to square it off. One shop's practice was to disallow square mixing containers outright, though transferring already-mixed epoxy from a round mixing container into a square one for pouring was fine. The more common real cause of bad mixes, though, is judged to be **worker inattention** — getting distracted mid-pour and missing the hardener or the pot entirely — rather than container shape itself; the rule of thumb is **at least three, preferably four, minutes** of stirring while scraping the sides.
 
 ## An exothermic runaway in the mixing pot
 
-Epoxy's cure is exothermic, and the reaction's heat output scales with the
-**mass of the batch left sitting in one container**, not just with the total
-area it will eventually cover once spread out. A comparatively large 1.5
-litre batch, mixed and then applied gradually rather than spread immediately,
-can go from a normal working pot-life into a runaway cure within minutes:
-the container itself smoking, the plastic softening, and the remaining epoxy
-curing solid in the pot before it can be used. The practical lesson is to
-**keep batch sizes down and get the mix out of the container and spread
-thin promptly** — a thin, spread-out coating dissipates heat far faster than
-the same volume sitting concentrated in a pot — rather than mixing one large
-batch and working through it slowly. A batch that has already gone off in
-the pot does not spoil a coat already applied from it; only the unused
-remainder in the container is lost.[83]
+Epoxy's cure is exothermic, and the reaction's heat output scales with the **mass of the batch left sitting in one container**, not just with the total area it will eventually cover once spread out. A comparatively large 1.5 litre batch, mixed and then applied gradually rather than spread immediately, can go from a normal working pot-life into a runaway cure within minutes: the container itself smoking, the plastic softening, and the remaining epoxy curing solid in the pot before it can be used. The practical lesson is to **keep batch sizes down and get the mix out of the container and spread thin promptly** — a thin, spread-out coating dissipates heat far faster than the same volume sitting concentrated in a pot — rather than mixing one large batch and working through it slowly. A batch that has already gone off in the pot does not spoil a coat already applied from it; only the unused remainder in the container is lost.[83]
 
 ## Polyester resin versus epoxy
 
-Asked whether cheaper **polyester resin** (about a quarter of epoxy's cost)
-could substitute for epoxy anywhere in the plans' construction, such as in
-bottom layup, the answer on record is no: **polyester is not an adhesive**
-and will never bond to other surfaces as strongly as epoxy. Epoxy can be used
-for repairs where polyester cannot; polyester can be used for original
-construction, but the resulting structure will be neither as strong nor as
-long-lived as one built in epoxy.[30][31]
+On whether cheaper **polyester resin** (about a quarter of epoxy's cost) could substitute for epoxy anywhere in the plans' construction, such as in bottom layup, the answer on record is no: **polyester is not an adhesive** and will never bond to other surfaces as strongly as epoxy. Epoxy can be used for repairs where polyester cannot; polyester can be used for original construction, but the resulting structure will be neither as strong nor as long-lived as one built in epoxy.[30][31]
 
-A follow-up narrowed the question to the **bottom layup specifically**,
-where the fiberglass functions primarily as a **skid plate and secondary
-ballast** rather than a structural adhesive bond — one reason steel, bronze,
-and UHMW plastic have all been separately floated as bottom-skin
-alternatives (see [aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md)). On that reasoning, a
-hybrid layup is plausible in principle: wet out the **first and last
-laminates in epoxy** (for the real adhesive bond to the wood and to each
-other) while filling the **intervening layers in polyester**, provided both
-resins are properly dewaxed before the changeover — epoxy's amine blush
-removed with ammonia water, polyester's styrene residue removed with MEK, or
-a commercial dewaxing solution used for either. The bond between the two
-resin layers in such a scheme is **purely secondary/mechanical**, with no
-chemical adhesion between them. Elsewhere on the hull, epoxy remains the
-firm recommendation.[32]
+Narrowed to the **bottom layup specifically**, where the fiberglass functions primarily as a **skid plate and secondary ballast** rather than a structural adhesive bond — one reason steel, bronze, and UHMW plastic have all been separately floated as bottom-skin alternatives (see [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md)) — a hybrid layup is plausible in principle: wet out the **first and last laminates in epoxy** (for the real adhesive bond to the wood and to each other) while filling the **intervening layers in polyester**, provided both resins are properly dewaxed before the changeover — epoxy's amine blush removed with ammonia water, polyester's styrene residue removed with MEK, or a commercial dewaxing solution used for either. The bond between the two resin layers in such a scheme is **purely secondary/mechanical**, with no chemical adhesion between them. Elsewhere on the hull, epoxy remains the firm recommendation.[32]
 
-A cheaper, field-proven precedent exists in a different small-boat
-tradition: designer **Dynamite Payson** built boats of Paradox's own
-stitch-and-glue type using **only polyester resin**, with ring nails for
-joinery and seam-taping, glassing the bottoms (sometimes only the seam
-joints) in polyester — a technique dating back some 30 years, with many of
-his boats still in service, though Payson himself now recommends epoxy where
-it can be afforded. Epoxy can be applied over cured polyester, but polyester
-will not bond over epoxy. Cost aside, polyester is a poorer choice for a
-boat kept in the water most of the time; a fully rot-proofed bottom of glass
-and paint alone, without full epoxy encapsulation, is also a workable
-budget option depending on the plywood grade used. **Little Cruiser**
-stands as the archive's proof that a Paradox-family hull can go to sea with
-**nothing on the outside but paint** — no fiberglass sheathing of either
-resin at all.[33][34]
+A cheaper, field-proven precedent exists in a different small-boat tradition: designer **Dynamite Payson** built boats of Paradox's own stitch-and-glue type using **only polyester resin**, with ring nails for joinery and seam-taping, glassing the bottoms (sometimes only the seam joints) in polyester — a technique dating back some 30 years, with many of his boats still in service, though Payson himself now recommends epoxy where it can be afforded. Epoxy can be applied over cured polyester, but polyester will not bond over epoxy. Cost aside, polyester is a poorer choice for a boat kept in the water most of the time; a fully rot-proofed bottom of glass and paint alone, without full epoxy encapsulation, is also a workable budget option depending on the plywood grade used. **Little Cruiser** stands as the archive's proof that a Paradox-family hull can go to sea with **nothing on the outside but paint** — no fiberglass sheathing of either resin at all.[33][34]
 
-A tight-budget build in central Sweden — two hours by car from the nearest
-coast, expecting the boat to spend most of its life trailered rather than in
-the water — used exterior-grade rather than marine plywood (common practice,
-since "almost all ply nowadays" is exterior grade) and planned to fiberglass
-all outer surfaces given the wood's relatively soft surface, on the strength
-of polyester resin advertised as "extremely adhesive" and sticky enough on
-bare wood.[35] A real-world lamination difficulty from working with
-polyester surfaced on a separate composite-hull build using the **BRIS**
-method (see [the "BRIS Paradox"](/boats/bris-paradox.md)): a 240 g/m²
-polyester cloth lays up well on smooth surfaces but is "tricky round angles,"
-especially on a sharpie hull like Paradox's; even with the divinycell core's
-thickness allowing every angle to be shaped smooth beforehand, the first
-attempt at laminating the outside became "just a mess" after the first two
-layers, forcing a full tear-off and restart — resolved only by calling in a
-professional painter experienced with the related BRIS boats, who fixed the
-wrinkles and bubbles by unspecified technique ("some kind of wizardry"). The
-practical lesson for a first-time, non-expert laminator: use a **thinner
-cloth** than 240 g/m². Sanded polyester also goes "fluffy, like velvet,"
-requiring either substantial filler to get a smooth planked appearance or an
-extra layer of very thin fiberglass cloth over the sanded surface to reduce
-the filler needed.[36]
+A tight-budget build in central Sweden — two hours by car from the nearest coast, expecting the boat to spend most of its life trailered rather than in the water — used exterior-grade rather than marine plywood (common practice, since "almost all ply nowadays" is exterior grade) and planned to fiberglass all outer surfaces given the wood's relatively soft surface, on the strength of polyester resin advertised as "extremely adhesive" and sticky enough on bare wood.[35] A real-world lamination difficulty from working with polyester surfaced on a separate composite-hull build using the **BRIS** method (see [the "BRIS Paradox"](/boats/bris-paradox.md)): a 240 g/m² polyester cloth lays up well on smooth surfaces but is "tricky round angles," especially on a sharpie hull like Paradox's; even with the divinycell core's thickness allowing every angle to be shaped smooth beforehand, the first attempt at laminating the outside became "just a mess" after the first two layers, forcing a full tear-off and restart — resolved only by calling in a professional painter experienced with the related BRIS boats, who fixed the wrinkles and bubbles by unspecified technique ("some kind of wizardry"). The practical lesson for a first-time, non-expert laminator: use a **thinner cloth** than 240 g/m². Sanded polyester also goes "fluffy, like velvet," requiring either substantial filler to get a smooth planked appearance or an extra layer of very thin fiberglass cloth over the sanded surface to reduce the filler needed.[36]
 
 ## A builder's own polyester-to-epoxy conversion, and the case against poly on a strip-planked deck
 
-A separate tight-budget, materials-on-hand build reached the opposite
-conclusion after researching the question directly: **polyester
-("fiberglass") resin was not the way to go**, given the risk of a hull's
-plywood eventually delaminating "in bubbles."[37] The reasoning: too much
-labor was already invested to risk it on cheaper resin, so epoxy was the only
-choice — every wood-to-wood joint in a strip-planked bottom was already
-glued, backed up with ring nails or deck screws wherever possible, since
-polyester "doesn't take much to crack." Leaving out the plans' water tank
-(compensating with a smaller ballast substitute) was weighed against the deck
-and cabin's likely slight extra weight from an epoxy/strip-plank build, with
-**300–400 lb of lead** floated as a starting ballast estimate — half-joking
-about scavenging a discarded RV holding tank for the purpose, or, failing
-that, coating the hull in a half inch of ferrocement instead.[41]
+A separate tight-budget, materials-on-hand build reached the opposite conclusion after researching the question directly: **polyester ("fiberglass") resin was not the way to go**, given the risk of a hull's plywood eventually delaminating "in bubbles."[37] The reasoning: too much labor was already invested to risk it on cheaper resin, so epoxy was the only choice — every wood-to-wood joint in a strip-planked bottom was already glued, backed up with ring nails or deck screws wherever possible, since polyester "doesn't take much to crack." Leaving out the plans' water tank (compensating with a smaller ballast substitute) was weighed against the deck and cabin's likely slight extra weight from an epoxy/strip-plank build, with **300–400 lb of lead** floated as a starting ballast estimate — half-joking about scavenging a discarded RV holding tank for the purpose, or, failing that, coating the hull in a half inch of ferrocement instead.[41]
 
-The case for epoxy over polyester on that build: a builder finding polyester
-fit for little besides "a pair of retro disco pant suits" reported his own
-build had by then used **3 gallons of West System epoxy**, substituting
-**12 oz biaxial cloth for the specified woven roving on the hull** (a real
-epoxy saving) and adding **two layers of 2 oz glass on the upper hull**
-specifically to stop **checking**; that hull used no nails or screws at all
-except for fittings. More than 200 lb of ballast is needed to get such a
-build down to her proper sailing trim. The argument against polyester on a
-**strip-planked deck** specifically: the deck needs some flex, and a
-poly-and-paint skin will crack under that flex, letting in moisture —
-whereas epoxy tolerates the flex — and a polyester layup would also need a
-gel coat on top that epoxy does not.[38]
+The case for epoxy over polyester on that build, from a builder finding polyester fit for little besides "a pair of retro disco pant suits": that build had by then used **3 gallons of West System epoxy**, substituting **12 oz biaxial cloth for the specified woven roving on the hull** (a real epoxy saving) and adding **two layers of 2 oz glass on the upper hull** specifically to stop **checking**; that hull used no nails or screws at all except for fittings. More than 200 lb of ballast is needed to get such a build down to her proper sailing trim. The argument against polyester on a **strip-planked deck** specifically: the deck needs some flex, and a poly-and-paint skin will crack under that flex, letting in moisture — whereas epoxy tolerates the flex — and a polyester layup would also need a gel coat on top that epoxy does not.[38]
 
-**[Dave Bolduc](/people/bolduc/dave.md)**'s fullest epoxy-versus-poly case:
-epoxy is **much more waterproof** than polyester and, properly applied,
-resists delamination far longer; brand choice (West System, System Three,
-Maas, RAKA) is mostly personal preference (see [epoxy brands, chemistry, and
-cure behavior](/construction/epoxy-brands-and-chemistry.md) for a fuller
-brand comparison). Before fiberglassing, **practice on small pieces first**
-(a rudder or hatch) to get a feel for how a given epoxy gels and hardens; mix
-**exactly to the manufacturer's ratio** with the proper pumps or cups; mix
-only **small batches**, thoroughly, and never let a batch sit once mixed;
-spread epoxy before it warms up, and simply **discard a batch** that gels or
-stiffens early rather than trying to save it — "never ruin your work over a
-few ounces of epoxy." For difficult corners such as a hatch or rudder-blade
-edge, cut fabric **on the bias (45°)** rather than square (90°), and work all
-bubbles out with a squeegee or bubble roller.
+The fullest epoxy-versus-poly case: epoxy is **much more waterproof** than polyester and, properly applied, resists delamination far longer; brand choice (West System, System Three, Maas, RAKA) is mostly personal preference (see [epoxy brands, chemistry, and cure behavior](/construction/epoxy-brands-and-chemistry.md) for a fuller brand comparison). Before fiberglassing, **practice on small pieces first** (a rudder or hatch) to get a feel for how a given epoxy gels and hardens; mix **exactly to the manufacturer's ratio** with the proper pumps or cups; mix only **small batches**, thoroughly, and never let a batch sit once mixed; spread epoxy before it warms up, and simply **discard a batch** that gels or stiffens early rather than trying to save it — "never ruin your work over a few ounces of epoxy." For difficult corners such as a hatch or rudder-blade edge, cut fabric **on the bias (45°)** rather than square (90°), and work all bubbles out with a squeegee or bubble roller.
 
-Fiberglassing is not strictly mandatory, though, especially for a
-trailer-sailed boat: for years **Matt Layden simply painted his own boats**,
-which proved sufficient — [Little Cruiser](/matt-layden/little-cruiser.md)
-and [Swamp Thing](/matt-layden/swamp-thing.md) are 17 and 19 years old
-respectively and both still sail, though Swamp Thing did suffer rot from
-years spent sitting in the water in the Florida Keys, while Little Cruiser
-showed **no rot at all** when stripped down for her own refit. The rule of
-thumb: glass the boat if long-term durability matters most, or save several
-hundred dollars by painting only, bearing in mind that it is far easier to
-glass a boat at the outset than to add glass later.[39]
+Fiberglassing is not strictly mandatory, though, especially for a trailer-sailed boat: for years **Matt Layden simply painted his own boats**, which proved sufficient — [Little Cruiser](/matt-layden/little-cruiser.md) and [Swamp Thing](/matt-layden/swamp-thing.md) are 17 and 19 years old respectively and both still sail, though Swamp Thing did suffer rot from years spent sitting in the water in the Florida Keys, while Little Cruiser showed **no rot at all** when stripped down for her own refit. The rule of thumb: glass the boat if long-term durability matters most, or save several hundred dollars by painting only, bearing in mind that it is far easier to glass a boat at the outset than to add glass later.[39]
 
 ## Why fiberglass the boat at all: cost, technique, and a damage-history case for full encapsulation
 
-The fullest cost-and-durability case for covering the whole boat in glass
-rather than just paint rests on **[Dave Bolduc](/people/bolduc/dave.md)**'s
-own build and repair experience.[48][51] The **3M-77 spray adhesive** used to
-tack lightweight cloth in place while wetting out does not interfere with the
-epoxy bond; only a light mist is needed to hold the fabric, and everything
-still wets out normally.[49][52] Kevlar costs precisely: at $1/sq ft for
-1.7 oz Kevlar "seconds," each rudder, centerboard, and blade leading edge
-costs about $2 in Kevlar to cover; a full bottom needs roughly 5 yd of 5 oz
-Kevlar at $15/yd, capped with 10 oz fiberglass at $7.80/yd, or — as a
-cheaper substitute for the Kevlar layer alone — 4 oz Dynel or Xynole cloth at
-$6.75/yd, saving roughly $40 over Kevlar for the same area. On epoxy brands
-and cost, **Raka 127 resin** (fast/slow hardeners) is one of the least
-expensive quality choices — a 3-gallon kit at $129, or a 6-gallon kit at $239
-for a full woven-roving bottom — and several gallons are enough to complete
-a Paradox's bottom; a sample kit first is worth the small extra cost to
-confirm a builder likes a given product before committing. West System is a
-common everyday choice for familiarity, quick cure, and rigidity, though its
-5:1 hardener is more liver-toxic than the 2:1 hardeners used by System Three
-and Raka.[50]
+The fullest cost-and-durability case for covering the whole boat in glass rather than just paint rests on documented build and repair experience.[48][51] The **3M-77 spray adhesive** used to tack lightweight cloth in place while wetting out does not interfere with the epoxy bond; only a light mist is needed to hold the fabric, and everything still wets out normally.[49][52] Kevlar costs precisely: at $1/sq ft for 1.7 oz Kevlar "seconds," each rudder, centerboard, and blade leading edge costs about $2 in Kevlar to cover; a full bottom needs roughly 5 yd of 5 oz Kevlar at $15/yd, capped with 10 oz fiberglass at $7.80/yd, or — as a cheaper substitute for the Kevlar layer alone — 4 oz Dynel or Xynole cloth at $6.75/yd, saving roughly $40 over Kevlar for the same area. On epoxy brands and cost, **Raka 127 resin** (fast/slow hardeners) is one of the least expensive quality choices — a 3-gallon kit at $129, or a 6-gallon kit at $239 for a full woven-roving bottom — and several gallons are enough to complete a Paradox's bottom; a sample kit first is worth the small extra cost to confirm a builder likes a given product before committing. West System is a common everyday choice for familiarity, quick cure, and rigidity, though its 5:1 hardener is more liver-toxic than the 2:1 hardeners used by System Three and Raka.[50]
 
-The cost-benefit case, though, ultimately rests on **damage history**:
-roughly $400 per boat to fully glass and epoxy-encapsulate a hull is an
-expense justified by what happened to **Swamp Thing** and **Little
-Cruiser** while both were still just painted. Swamp Thing **sank at the
-dock** when her half-inch-thick bottom was pierced by a sharp rock at low
-tide; her fir plywood also checked badly, and after nineteen years her decks
-had rotted with extensive stern damage. Little Cruiser's fir plywood
-checked as well, requiring yearly crack-filling, and she was holed when she
-struck a reef. Encapsulating both boats in epoxy and glass was undertaken
-specifically to cut this recurring damage and reduce yearly maintenance
-going forward.[51]
+The cost-benefit case, though, ultimately rests on **damage history**: roughly $400 per boat to fully glass and epoxy-encapsulate a hull is an expense justified by what happened to **Swamp Thing** and **Little Cruiser** while both were still just painted. Swamp Thing **sank at the dock** when her half-inch-thick bottom was pierced by a sharp rock at low tide; her fir plywood also checked badly, and after nineteen years her decks had rotted with extensive stern damage. Little Cruiser's fir plywood checked as well, requiring yearly crack-filling, and she was holed when she struck a reef. Encapsulating both boats in epoxy and glass was undertaken specifically to cut this recurring damage and reduce yearly maintenance going forward.[51]
 
-The 3M-77 tacking method holds up even for lightweight cloth prone to
-"slipping and sliding"; the Kevlar case holds on its own terms too — if
-Kevlar can stop a bullet, it should be more than capable of stopping a coral
-reef or a submerged engine block from holing a hull.[53]
+The 3M-77 tacking method holds up even for lightweight cloth prone to "slipping and sliding"; the Kevlar case holds on its own terms too — if Kevlar can stop a bullet, it should be more than capable of stopping a coral reef or a submerged engine block from holing a hull.[53]
 
-**A hatch glassed step by step.** The full sequence for glassing a hatch —
-what cloth weight, whether the wood is sanded bare first, whether a tacky
-sealer coat is applied before laying the cloth (the technique used on
-absorbent cedar-strip canoes, where a genuine molecular bond is meant to
-form between wood cells and cloth through the epoxy), and whether 3M-77 makes
-the cloth easier to position — runs as follows.[58][59] Strip the piece
-completely to bare wood, then roll on a sealer coat of epoxy with a foam
-roller and fill any imperfections with phenolic microballoons. Once sanded
-smooth, tack on **4 oz fiberglass** with 3M-77 spray adhesive: the flat sides
-first, then **bias-cut strips** to wrap the curved "ribs," and finally the
-flat top sections, before simply rolling epoxy over the whole assembly. On a
-warm day this means rushing to get everything saturated before the batch
-kicks off — under those conditions there is no real alternative sequence
-that works better. A bubble roller and squeegee clear trapped air during
-wet-out. Once cured, sand lightly (avoiding the corners entirely, to protect
-the cloth there), apply a further filler coat of epoxy and superlight
-microballoons, and finish with a final smoothing sand, paying particular
-attention wherever separate layers overlap.[59] The same sequence applies to
-a core-void repair: rotten veneer over a void is easy to dig out, any prior
-patch over a bottom hole stays visible, and the plywood is ground level ahead
-of a final fill of epoxy, milled glass, and fiberglass; a cabin sole repaired
-this way can take an additional layer of 10 oz glass for extra bottom
-reinforcement.[63]
+**A hatch glassed step by step.** The full sequence for glassing a hatch — what cloth weight, whether the wood is sanded bare first, whether a tacky sealer coat is applied before laying the cloth (the technique used on absorbent cedar-strip canoes, where a genuine molecular bond is meant to form between wood cells and cloth through the epoxy), and whether 3M-77 makes the cloth easier to position — runs as follows.[58][59] Strip the piece completely to bare wood, then roll on a sealer coat of epoxy with a foam roller and fill any imperfections with phenolic microballoons. Once sanded smooth, tack on **4 oz fiberglass** with 3M-77 spray adhesive: the flat sides first, then **bias-cut strips** to wrap the curved "ribs," and finally the flat top sections, before simply rolling epoxy over the whole assembly. On a warm day this means rushing to get everything saturated before the batch kicks off — under those conditions there is no real alternative sequence that works better. A bubble roller and squeegee clear trapped air during wet-out. Once cured, sand lightly (avoiding the corners entirely, to protect the cloth there), apply a further filler coat of epoxy and superlight microballoons, and finish with a final smoothing sand, paying particular attention wherever separate layers overlap.[59] The same sequence applies to a core-void repair: rotten veneer over a void is easy to dig out, any prior patch over a bottom hole stays visible, and the plywood is ground level ahead of a final fill of epoxy, milled glass, and fiberglass; a cabin sole repaired this way can take an additional layer of 10 oz glass for extra bottom reinforcement.[63]
 
 ## Cloth-weight, canal-abrasion, and cloth-only-versus-glassed-topsides questions from a UK builder
 
-For extended UK canal cruising, with West System chosen for its ready UK
-availability, three further epoxy/fiberglass questions arise: what cloth
-weight and type best resists **bottom abrasion**; whether
-[Little Jim](/boats/little-jim.md)'s **chine runners** alone might protect
-the topsides from abrasion closely enough to skip glassing the sides (see
-[how chine runners work — bottom and side
-protection](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature)
-for the runners' separately-documented bottom-protection role); and whether
-an epoxy coat alone, without cloth, serves as adequate waterproofing on the
-top and sides ahead of painting.[40] The bottom-layup cloth-weight answer,
-and a further follow-up on ply-grade checking risk, are covered at
-[hull planking — the plans' bottom and topside glass
-weights](/construction/hull-planking.md#the-plans-bottom-and-topside-glass-weights-explained-to-a-uk-builder).
-On the narrower waterproofing-without-cloth question: **Little Cruiser
-proves an unglassed, painted-only hull is seaworthy**, but a Paradox-family
-builder who does glass at all is better served covering the topsides
-properly (the checking problem noted above) than relying on an unreinforced
-epoxy coat alone.
+For extended UK canal cruising, with West System chosen for its ready UK availability, three further epoxy/fiberglass questions arise: what cloth weight and type best resists **bottom abrasion**; whether [Little Jim](/boats/little-jim.md)'s **chine runners** alone might protect the topsides from abrasion closely enough to skip glassing the sides (see [how chine runners work — bottom and side protection](/chine-runners/how-they-work.md#the-chine-runner-curve-cosmetic-fabrication-choice-or-hydrodynamic-feature) for the runners' separately-documented bottom-protection role); and whether an epoxy coat alone, without cloth, serves as adequate waterproofing on the top and sides ahead of painting.[40] The bottom-layup cloth-weight answer, and a further follow-up on ply-grade checking risk, are covered at [hull planking — the plans' bottom and topside glass weights](/construction/hull-planking.md#the-plans-bottom-and-topside-glass-weights-explained-to-a-uk-builder). On the narrower waterproofing-without-cloth question: **Little Cruiser proves an unglassed, painted-only hull is seaworthy**, but a Paradox-family builder who does glass at all is better served covering the topsides properly (the checking problem noted above) than relying on an unreinforced epoxy coat alone.
 
-For cheaper UK epoxy on the same coastal/canal-cruising build, one UK marine-
-epoxy manufacturer (`epoxy-resins.co.uk`) recommends 450 g (~16 oz) biaxial
-fabric for the bottom and 200 g (~7 oz) woven fabric for the sides and deck,
-at resin prices considerably better than West System — with the obvious
-caveat that a supplier's own recommendation naturally favors what it
-sells.[60] Direct experience with both `epoxy-resins.co.uk` and **SP
-Systems** on the Isle of Wight found no problems from either supplier.[61]
-The "glass all over" choice — following the plans rather than any lighter or
-partial-coverage scheme — remains the more common practice.[62]
+For cheaper UK epoxy on the same coastal/canal-cruising build, one UK marine-epoxy manufacturer (`epoxy-resins.co.uk`) recommends 450 g (~16 oz) biaxial fabric for the bottom and 200 g (~7 oz) woven fabric for the sides and deck, at resin prices considerably better than West System — with the obvious caveat that a supplier's own recommendation naturally favors what it sells.[60] Direct experience with both `epoxy-resins.co.uk` and **SP Systems** on the Isle of Wight found no problems from either supplier.[61] The "glass all over" choice — following the plans rather than any lighter or partial-coverage scheme — remains the more common practice.[62]
 
-The fuller cloth-weight answer recommends **4 oz glass on the topsides** and
-**several layers of 10 oz glass, or woven roving, on the bottom** — nothing
-lighter than 4 oz above the waterline, since it sands through too easily.
-**Kevlar** is a poor fit for most builds: tricky to work with, fairly
-expensive, and — since it cannot be sanded directly without turning "fuzzy" —
-normally buried under a layer of ordinary fiberglass rather than left as the
-outermost layer. A nicked area of exposed Kevlar can be smoothed again by
-repeated dabs of cyanoacrylate (CA/instant) glue followed by 400-grit
-wet-dry sanding, redone several times until smooth, then capped with a
-fiberglass or filler patch.[42] A canoe-building perspective concurs: one or
-two layers of 10 oz glass on the bottom is likely enough for a boat used
-mainly on rivers, lakes, and a trailer, given the epoxy cost of fully filling
-the weave; there is little real case for Kevlar on a ballasted boat, where
-its main advantage — strength for its weight — is not a priority, and plain
-**E-glass** (and carbon-loaded epoxy) is already a very abrasion-resistant
-alternative.[43]
+The fuller cloth-weight answer recommends **4 oz glass on the topsides** and **several layers of 10 oz glass, or woven roving, on the bottom** — nothing lighter than 4 oz above the waterline, since it sands through too easily. **Kevlar** is a poor fit for most builds: tricky to work with, fairly expensive, and — since it cannot be sanded directly without turning "fuzzy" — normally buried under a layer of ordinary fiberglass rather than left as the outermost layer. A nicked area of exposed Kevlar can be smoothed again by repeated dabs of cyanoacrylate (CA/instant) glue followed by 400-grit wet-dry sanding, redone several times until smooth, then capped with a fiberglass or filler patch.[42] A canoe-building perspective concurs: one or two layers of 10 oz glass on the bottom is likely enough for a boat used mainly on rivers, lakes, and a trailer, given the epoxy cost of fully filling the weave; there is little real case for Kevlar on a ballasted boat, where its main advantage — strength for its weight — is not a priority, and plain **E-glass** (and carbon-loaded epoxy) is already a very abrasion-resistant alternative.[43]
 
-A home test backs up the Kevlar-durability claim: two layers of 6 oz
-fiberglass laminated to one end of a paint-stirring stick, and a layer of
-6 oz glass plus a layer of 5 oz Kevlar to the other, then both ends rubbed
-against a rough street curb to simulate a hull grinding over a sandy, rocky
-bottom. The plain fiberglass end abraded through in four or five swipes; the
-Kevlar side was barely touched after two dozen passes, only about half worn
-through. That durability is worthwhile for
-**[Little Cruiser](/matt-layden/little-cruiser.md)**'s already-heavy 1 in
-bottom, where the Kevlar and glass serve purely for scuff resistance rather
-than structure; a Paradox intended for any real bottom pounding warrants up
-to **3 layers of woven roving**, while a boat meant only for light lake
-sailing would likely do with one or two layers of 10 oz glass instead. The
-technique for a Kevlar/glass leading-edge layup on a rudder or centerboard:
-cut the fabric **on the bias**, mist a light coat of 3M-77 spray adhesive
-onto the board's edge, lay the Kevlar on without pulling or stretching it,
-mist again, then add glass over it, staggering the seams before wetting out
-with epoxy by brush or roller.[44]
+A home test backs up the Kevlar-durability claim: two layers of 6 oz fiberglass laminated to one end of a paint-stirring stick, and a layer of 6 oz glass plus a layer of 5 oz Kevlar to the other, then both ends rubbed against a rough street curb to simulate a hull grinding over a sandy, rocky bottom. The plain fiberglass end abraded through in four or five swipes; the Kevlar side was barely touched after two dozen passes, only about half worn through. That durability is worthwhile for **[Little Cruiser](/matt-layden/little-cruiser.md)**'s already-heavy 1 in bottom, where the Kevlar and glass serve purely for scuff resistance rather than structure; a Paradox intended for any real bottom pounding warrants up to **3 layers of woven roving**, while a boat meant only for light lake sailing would likely do with one or two layers of 10 oz glass instead. The technique for a Kevlar/glass leading-edge layup on a rudder or centerboard: cut the fabric **on the bias**, mist a light coat of 3M-77 spray adhesive onto the board's edge, lay the Kevlar on without pulling or stretching it, mist again, then add glass over it, staggering the seams before wetting out with epoxy by brush or roller.[44]
 
 ## Tape-and-resin-only as a faster route to first launch, versus full glassing up front
 
-A builder eager to get a hull in the water sooner for testing raised a
-staged-coverage shortcut: tape and glass only the chines and seams, resin
-the rest of the hull without cloth, launch for testing, then sand and add
-the full glass layup and paint afterward.[84] The staged approach is
-workable, with caveats that scale with plywood quality and the boat's
-intended use during the interim. A resin-only coat needs a minimum of three
-coats to reliably seal exterior-grade fir plywood, which adds some
-unavoidably wasted epoxy since the hull still gets sheathed properly later.
-The larger risk is **checking** — surface splits in the plywood's outer
-veneer that let moisture into the wood underneath; a good marine-rated
-plywood checks far less than construction-grade fir, making the interim
-period considerably safer on better stock. Two layers of 2 oz cloth over the
-whole hull addresses the same checking risk directly and is a modest enough
-step up in time (2-3 days) to be worth taking before launch, since a
-resin-only hull can still be faired and painted properly afterward — the
-first priority either way is protecting the bottom and chines from
-abrasion, whether or not the rest of the hull is sheathed in fabric at
-all.[85]
+A builder eager to get a hull in the water sooner for testing raised a staged-coverage shortcut: tape and glass only the chines and seams, resin the rest of the hull without cloth, launch for testing, then sand and add the full glass layup and paint afterward.[84] The staged approach is workable, with caveats that scale with plywood quality and the boat's intended use during the interim. A resin-only coat needs a minimum of three coats to reliably seal exterior-grade fir plywood, which adds some unavoidably wasted epoxy since the hull still gets sheathed properly later. The larger risk is **checking** — surface splits in the plywood's outer veneer that let moisture into the wood underneath; a good marine-rated plywood checks far less than construction-grade fir, making the interim period considerably safer on better stock. Two layers of 2 oz cloth over the whole hull addresses the same checking risk directly and is a modest enough step up in time (2-3 days) to be worth taking before launch, since a resin-only hull can still be faired and painted properly afterward — the first priority either way is protecting the bottom and chines from abrasion, whether or not the rest of the hull is sheathed in fabric at all.[85]
 
 ## Bottom protection: UHMW plastic, and aluminum or stainless-steel sheet as skin alternatives
 
-Beyond fiberglass-and-epoxy schedules, at least three non-composite
-materials have been floated on the list as a Paradox bottom's outer wearing
-surface, in place of — or over — the plywood/glass skin: **steel, bronze,
-and UHMW plastic** (see also [aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md) for the whole-hull
-metal-construction debate, a related but distinct question from a bottom
-*skin* alone).
+Beyond fiberglass-and-epoxy schedules, at least three non-composite materials have been floated as a Paradox bottom's outer wearing surface, in place of — or over — the plywood/glass skin: **steel, bronze, and UHMW plastic** (see also [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md) for the whole-hull metal-construction debate, a related but distinct question from a bottom *skin* alone).
 
-A sheet of **UHMW (ultra-high-molecular-weight) plastic or nylon**, of the
-kind used on the bottom of McKenzie River drift boats, on Navy flight-deck
-tail-hook padding, and generally as an industrial bearing/roller/anti-chafe
-material, is a candidate for bottom protection on a Paradox expected to be
-deliberately grounded regularly.[46] The same material used on airboat
-bottoms is confirmed to hold up well, but needs a great many screws through
-the bottom to install.[47]
+A sheet of **UHMW (ultra-high-molecular-weight) plastic or nylon**, of the kind used on the bottom of McKenzie River drift boats, on Navy flight-deck tail-hook padding, and generally as an industrial bearing/roller/anti-chafe material, is a candidate for bottom protection on a Paradox expected to be deliberately grounded regularly.[46] The same material used on airboat bottoms is confirmed to hold up well, but needs a great many screws through the bottom to install.[47]
 
-No specific thickness recommendation exists for regular beaching,[54] but
-**pricing came back steep** — a 24 x 48 x 1/2 in sheet cost $220 at a
-Portland, OR supplier as of October 2004,[55] with **Machinists Materials**
-of Largo, FL (an active eBay seller) another UHMW source worth checking.[56]
-Weighed against that cost, the real trade-off is against **recovering the
-bottom every season** and/or higher-cost materials like Kevlar, rather than
-against doing nothing at all.[56]
+No specific thickness recommendation exists for regular beaching,[54] but **pricing came back steep** — a 24 x 48 x 1/2 in sheet cost $220 at a Portland, OR supplier as of October 2004,[55] with **Machinists Materials** of Largo, FL (an active eBay seller) another UHMW source worth checking.[56] Weighed against that cost, the real trade-off is against **recovering the bottom every season** and/or higher-cost materials like Kevlar, rather than against doing nothing at all.[56]
 
-Skipping fiberglass-and-epoxy altogether in favor of a **welded steel bottom
-plate with the chine runners welded directly on** has also been proposed,
-reasoning this would both toughen the bottom and free up the water ballast
-tank's volume for storage — see [aluminum and steel Paradox — gauge, weight,
-and the case for steel over wood
-generally](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally)
-for the related whole-hull steel debate, which this bottom-only variant
-extends. No build using this specific approach is recorded.[57]
+Skipping fiberglass-and-epoxy altogether in favor of a **welded steel bottom plate with the chine runners welded directly on** has also been proposed, reasoning this would both toughen the bottom and free up the water ballast tank's volume for storage — see [aluminum and steel Paradox — gauge, weight, and the case for steel over wood generally](/design/aluminum-construction-idea.md#gauge-weight-and-the-case-for-steel-over-wood-generally) for the related whole-hull steel debate, which this bottom-only variant extends. No build using this specific approach is recorded.[57]
 
-Weighing a UHMW or metal-sheet bottom specifically against continued
-fiberglass-and-epoxy matters most on a **tight total build budget** (e.g. a
-UK build costed around £1,000 including the sail) where avoiding the need to
-paint a UV-exposed epoxy surface is itself an attraction: whether
-**aluminum or stainless-steel sheet** might serve as a more economical
-bottom-skin alternative to further glass and epoxy is an open question.[45]
-No metal-sheet-bottom Paradox build, and no further answer to this specific
-cost comparison, is recorded; the closest data on record remains the
-separate whole-hull steel/aluminum construction debate at
-[aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md).
+Weighing a UHMW or metal-sheet bottom specifically against continued fiberglass-and-epoxy matters most on a **tight total build budget** (e.g. a UK build costed around £1,000 including the sail) where avoiding the need to paint a UV-exposed epoxy surface is itself an attraction: whether **aluminum or stainless-steel sheet** might serve as a more economical bottom-skin alternative to further glass and epoxy is an open question.[45] No metal-sheet-bottom Paradox build, and no further answer to this specific cost comparison, is recorded; the closest data on record remains the separate whole-hull steel/aluminum construction debate at [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md).
 
-Short of a UHMW or metal skin, **graphite powder mixed into the final
-epoxy coats on the bottom** is a reported way to harden the surface within
-the glass-and-epoxy schedule itself, said to resist gouging and to let the
-hull skid over obstructions more easily than a plain epoxy finish[75] — the
-same abrasion-resistance principle as adding carbon to a canoe bottom's
-final coat (above).[58]
+Short of a UHMW or metal skin, **graphite powder mixed into the final epoxy coats on the bottom** is a reported way to harden the surface within the glass-and-epoxy schedule itself, said to resist gouging and to let the hull skid over obstructions more easily than a plain epoxy finish[75] — the same abrasion-resistance principle as adding carbon to a canoe bottom's final coat (above).[58]
 
 ## Brand-name epoxy versus cheaper equivalents, and masonry sealant
 
-Whether a name-brand system like **WEST System** performs any differently
-from a generic epoxy costing roughly half the price — for fillets and
-fiberglass-tape work alike — remains an open question with no answer on
-record, as does whether a masonry sealant has ever been tried as a boat
-coating.
+Whether a name-brand system like **WEST System** performs any differently from a generic epoxy costing roughly half the price — for fillets and fiberglass-tape work alike — remains an open question with no answer on record, as does whether a masonry sealant has ever been tried as a boat coating.
 
-The round-vs-square container argument (above) is disputed sharply by a
-countervailing view calling it "utter nonsense": the well-radiused bottom of
-a plastic tub is no harder to reach into than the tiny crevice at the bottom
-of a round paper cup — reachable just as easily either way. On this view the
-great majority of bad mixes trace to **incorrect measurement, incorrect
-temperature, or insufficient attention to mixing time** rather than to
-container shape, and two minutes of careful stirring is plenty; over-mixing,
-by contrast, both shortens working time and can introduce bubbles. Spars and
-other parts have been built successfully using square tubs throughout, and
-the "Building Paradox" booklet's own mixing instructions are the reliable
-reference regardless of container shape; the standing recommendation
-elsewhere in the archive is a **square plastic mixing container** for its
-accurate pouring corners, stable wide base, and reusability (cured epoxy
-lifts out in one piece). A further question worth asking: whether
-**1:1-ratio epoxies** are genuinely more forgiving of small measurement
-errors than higher-ratio mixes such as 5:1.
+The round-vs-square container argument (above) is disputed sharply by a countervailing view calling it "utter nonsense": the well-radiused bottom of a plastic tub is no harder to reach into than the tiny crevice at the bottom of a round paper cup — reachable just as easily either way. On this view the great majority of bad mixes trace to **incorrect measurement, incorrect temperature, or insufficient attention to mixing time** rather than to container shape, and two minutes of careful stirring is plenty; over-mixing, by contrast, both shortens working time and can introduce bubbles. Spars and other parts have been built successfully using square tubs throughout, and the "Building Paradox" booklet's own mixing instructions are the reliable reference regardless of container shape; the standing recommendation elsewhere in the archive is a **square plastic mixing container** for its accurate pouring corners, stable wide base, and reusability (cured epoxy lifts out in one piece). A further question worth asking: whether **1:1-ratio epoxies** are genuinely more forgiving of small measurement errors than higher-ratio mixes such as 5:1.
 
-The answer: **lower resin-to-hardener ratios are indeed more forgiving**,
-since there is less room for a given measurement error to throw off the
-overall proportion — but the trade-off is **strength**, and many projects
-that could have been done with a 1:1 mix are still worth doing with a
-higher-strength ratio if a builder is willing to measure carefully. A
-workable practice is to standardize on one epoxy — a 5:1 mix from Fiberglass
-Coatings in St. Petersburg, FL, bought in five-gallon and one-gallon
-quantities well below West System pricing — rather than keep multiple ratios
-on hand. Fiberglass Coatings Inc. (FGCI)'s own 5:1 mix, used continuously for
-about 12 years by one builder, is judged to perform essentially the same as
-WEST System once mixed, the only difference being a somewhat thicker
-hardener — a direct answer, on this one builder's long experience, to the
-open name-brand-versus-cheaper-equivalent question above.[74] For clean-up,
-**T-12 thinner** (also from Fiberglass Coatings, about $5 a gallon) is judged
-superior to acetone (toxic) or vinegar; kept in a shallow coffee-can bath, it
-lets brushes, putty knives, and filleting tools stay usable for up to a year
-rather than being thrown away after one job.
-Fiberglass Coatings' current stock and pricing by phone: nine 5-gallon pails
-at $37.50 and three 1-gallon containers at $7.50, plus quarts and pints.
-Shipping carries a flat $20 hazardous-materials surcharge per item on
-anything over a gallon, with no HazMat charge below that threshold — a
-further reason, beyond price, to favor smaller containers when ordering by
-mail. The company's catalog is worth requesting, being among the cheapest
-epoxy sources found.
+The answer: **lower resin-to-hardener ratios are indeed more forgiving**, since there is less room for a given measurement error to throw off the overall proportion — but the trade-off is **strength**, and many projects that could have been done with a 1:1 mix are still worth doing with a higher-strength ratio if a builder is willing to measure carefully. A workable practice is to standardize on one epoxy — a 5:1 mix from Fiberglass Coatings in St. Petersburg, FL, bought in five-gallon and one-gallon quantities well below West System pricing — rather than keep multiple ratios on hand. Fiberglass Coatings Inc. (FGCI)'s own 5:1 mix, used continuously for about 12 years, is judged to perform essentially the same as WEST System once mixed, the only difference being a somewhat thicker hardener — a direct answer, on that long experience, to the open name-brand-versus-cheaper-equivalent question above.[74] For clean-up, **T-12 thinner** (also from Fiberglass Coatings, about $5 a gallon) is judged superior to acetone (toxic) or vinegar; kept in a shallow coffee-can bath, it lets brushes, putty knives, and filleting tools stay usable for up to a year rather than being thrown away after one job. Fiberglass Coatings' current stock and pricing by phone: nine 5-gallon pails at $37.50 and three 1-gallon containers at $7.50, plus quarts and pints. Shipping carries a flat $20 hazardous-materials surcharge per item on anything over a gallon, with no HazMat charge below that threshold — a further reason, beyond price, to favor smaller containers when ordering by mail. The company's catalog is worth requesting, being among the cheapest epoxy sources found.
 
-T-12's chemical name is not always known to those who use it, but its
-composition can be tracked down: T-12 is made of **alcohols and ketones**,
-enough of a starting point to search for a local equivalent under another
-name outside the US, where ordering the thinner itself and shipping solvent
-overseas makes little sense. Fiberglass Coatings' own website (`www.fgci.com`)
-carries a Material Safety Data Sheet giving the full chemical breakdown
-needed for that search.
+T-12's chemical name is not always known to those who use it, but its composition can be tracked down: T-12 is made of **alcohols and ketones**, enough of a starting point to search for a local equivalent under another name outside the US, where ordering the thinner itself and shipping solvent overseas makes little sense. Fiberglass Coatings' own website (`www.fgci.com`) carries a Material Safety Data Sheet giving the full chemical breakdown needed for that search.
 
-Mixing with bare (gloved) fingers in empty cat-food cans, rubbing the
-slightly rounded bottoms to recover all the residual hardener, works fine for
-a 5:1 epoxy with no curing problems. Vinegar — used by many builders in the
-kitchen and reached for as a skin-wipe when epoxy dribbles land on the arms —
-should **not** be used to clean brushes, nor should any solvent be used on
-**skin at all**: solvents dilute epoxy enough to let it penetrate the skin
-and migrate into body organs, with **ketones in particular tending to settle
-in the liver**. The correct response to any epoxy on skin is simply to follow
-the specific product manufacturer's own removal instructions, not solvents
-generally; a Tyvek suit and plastic-sheeting arm coverings are the safer
-choice for mixing sessions.
+Mixing with bare (gloved) fingers in empty cat-food cans, rubbing the slightly rounded bottoms to recover all the residual hardener, works fine for a 5:1 epoxy with no curing problems. Vinegar — used by many builders in the kitchen and reached for as a skin-wipe when epoxy dribbles land on the arms — should **not** be used to clean brushes, nor should any solvent be used on **skin at all**: solvents dilute epoxy enough to let it penetrate the skin and migrate into body organs, with **ketones in particular tending to settle in the liver**. The correct response to any epoxy on skin is simply to follow the specific product manufacturer's own removal instructions, not solvents generally; a Tyvek suit and plastic-sheeting arm coverings are the safer choice for mixing sessions.
 
-On protective clothing more generally, full protective dress is not
-necessary — just reasonable care. A workable long-running setup is an old
-sweatshirt paired with a set of hospital scrubs, easy to pull on for messy
-jobs like glassing a hull even once stiff with dried glue; a *WoodenBoat*
-boat-builder's apron doubles as a practical nail apron for keeping the sticky
-residue off. Tyvek suits are "great, light and airy" for the purpose, with
-one caution: **glue on a Tyvek suit's zippers** can jam or ruin them.
+On protective clothing more generally, full protective dress is not necessary — just reasonable care. A workable long-running setup is an old sweatshirt paired with a set of hospital scrubs, easy to pull on for messy jobs like glassing a hull even once stiff with dried glue; a *WoodenBoat* boat-builder's apron doubles as a practical nail apron for keeping the sticky residue off. Tyvek suits are "great, light and airy" for the purpose, with one caution: **glue on a Tyvek suit's zippers** can jam or ruin them.
 
 ## Filling the fiberglass weave before painting: fairing compound, and the case against leaving it exposed
 
-A builder finishing a hull for hard, low-maintenance use — rather than a
-showroom "gin palace" finish — raised the question of whether **fairing
-compound** over the fiberglass weave does anything beyond cosmetics, given
-his plan to skip antifouling paint entirely (relying on freshwater river use
-to shed marine growth) and to leave the bottom unpainted altogether.[64]
+A builder finishing a hull for hard, low-maintenance use — rather than a showroom "gin palace" finish — raised the question of whether **fairing compound** over the fiberglass weave does anything beyond cosmetics, given a plan to skip antifouling paint entirely (relying on freshwater river use to shed marine growth) and to leave the bottom unpainted altogether.[64]
 
-Fairing compound's real function, beyond looks, is practical: **the fairer
-the sheathing, the easier fiberglass cloth is to lay up**, the better it
-adheres, and the less epoxy is needed to fill the weave. Darker, glossier
-paint makes any cosmetic irregularity more visible, which is a separate
-question from structural need. The recommended sequence is two **thinned**
-paint coats, sanding off the gloss between them, then fairing compound or
-filler only afterward to level any low spots — applying fairing compound
-too early risks the compound being absorbed and losing its bond. Bottom
-paint is recommended regardless of the water sailed in, since "there are
-little critters everywhere."[65]
+Fairing compound's real function, beyond looks, is practical: **the fairer the sheathing, the easier fiberglass cloth is to lay up**, the better it adheres, and the less epoxy is needed to fill the weave. Darker, glossier paint makes any cosmetic irregularity more visible, which is a separate question from structural need. The recommended sequence is two **thinned** paint coats, sanding off the gloss between them, then fairing compound or filler only afterward to level any low spots — applying fairing compound too early risks the compound being absorbed and losing its bond. Bottom paint is recommended regardless of the water sailed in, since "there are little critters everywhere."[65]
 
-Narrowing the question specifically to whether the **fiberglass weave**
-itself needs filling and smoothing, or whether leaving it visibly textured
-carries any real (non-cosmetic) disadvantage,[66] two independent answers
-converged on **yes, filling the weave matters structurally, not just
-visually**:
+Narrowing the question specifically to whether the **fiberglass weave** itself needs filling and smoothing, or whether leaving it visibly textured carries any real (non-cosmetic) disadvantage,[66] two independent answers converged on **yes, filling the weave matters structurally, not just visually**:
 
-- **Drag.** An unfilled weave on an in-the-water surface adds meaningfully
-  to hull drag — the boat will still move, but slower than a filled hull
-  would. Even where the hull is left unpainted below the waterline, the
-  weave should still be filled with clear epoxy, or with epoxy thickened
-  with **microballoons**, to reach a reasonably fair surface; a final clear
-  coat of epoxy over a microballoon fill seals the remaining tiny holes,
-  followed by a light final sanding.[67]
-- **Moisture, fouling, and paint life.** An open weave or pinholes will
-  **absorb moisture, dirt, oil, and scum**, attracting fouling and reducing
-  how long paint stays adhered; unprotected epoxy also needs paint's UV
-  protection, since epoxy itself degrades in sunlight.[68]
+- **Drag.** An unfilled weave on an in-the-water surface adds meaningfully to hull drag — the boat will still move, but slower than a filled hull would. Even where the hull is left unpainted below the waterline, the weave should still be filled with clear epoxy, or with epoxy thickened with **microballoons**, to reach a reasonably fair surface; a final clear coat of epoxy over a microballoon fill seals the remaining tiny holes, followed by a light final sanding.[67]
+- **Moisture, fouling, and paint life.** An open weave or pinholes will **absorb moisture, dirt, oil, and scum**, attracting fouling and reducing how long paint stays adhered; unprotected epoxy also needs paint's UV protection, since epoxy itself degrades in sunlight.[68]
 
-Set against the effort already invested in building a boat meant to **last**
-and be expensive to replace, the case for finishing to at least a
-work-boat-durable (not yacht) standard is that a proper finish, done once at
-the outset, costs far less in upkeep over the years than repeatedly patching
-a poorly-finished one — the same logic workboats often fail to apply,
-instead building up "ever thicker globs" of new paint over old, chipped-back
-rust rather than redoing the surface preparation correctly.[69] Water, once
-it gains any way in — even in tiny amounts — becomes very hard to keep out,
-whereas a surface that is kept dry from the start stays dry for a long
-time; after moisture, the next major failure mode is UV/sun damage. The
-glass-and-epoxy layer is fundamentally just a **matrix to keep water out of
-the wood**, substituting for what would otherwise be several coats of paint
-and sealer — if it is not finished properly at the outset, a builder would
-have been equally well off skipping it.[70][71]
+Set against the effort already invested in building a boat meant to **last** and be expensive to replace, the case for finishing to at least a work-boat-durable (not yacht) standard is that a proper finish, done once at the outset, costs far less in upkeep over the years than repeatedly patching a poorly-finished one — the same logic workboats often fail to apply, instead building up "ever thicker globs" of new paint over old, chipped-back rust rather than redoing the surface preparation correctly.[69] Water, once it gains any way in — even in tiny amounts — becomes very hard to keep out, whereas a surface that is kept dry from the start stays dry for a long time; after moisture, the next major failure mode is UV/sun damage. The glass-and-epoxy layer is fundamentally just a **matrix to keep water out of the wood**, substituting for what would otherwise be several coats of paint and sealer — if it is not finished properly at the outset, a builder would have been equally well off skipping it.[70][71]
 
-**Amine blush, and a practical finishing sequence.** Amine blush — a
-water-soluble byproduct that forms on epoxy cured in moist air — will stop
-anything from sticking if left on the surface; a builder unfamiliar with it
-firsthand (working in a dry climate) suggested it can be removed with water
-and vinegar, or a little ammonia, then rinsed clean. A workable practical
-sequence for a builder short on time: **fill the weave, apply two thinned
-coats of paint (around 10%), then go sailing**, leaving a fuller finish
-(including any bright/varnished woodwork) for a following season if
-motivation allows. Between coats, knock down the sheen with a small
-finishing sander and 80-100 grit paper; finer paper (150-200) or wet sanding
-can wait until later, "even two years hence."[72]
+**Amine blush, and a practical finishing sequence.** Amine blush — a water-soluble byproduct that forms on epoxy cured in moist air — will stop anything from sticking if left on the surface; in a dry climate where it is rarely seen firsthand, it can be removed with water and vinegar, or a little ammonia, then rinsed clean. A workable practical sequence for a builder short on time: **fill the weave, apply two thinned coats of paint (around 10%), then go sailing**, leaving a fuller finish (including any bright/varnished woodwork) for a following season if motivation allows. Between coats, knock down the sheen with a small finishing sander and 80-100 grit paper; finer paper (150-200) or wet sanding can wait until later, "even two years hence."[72]
 
-A builder working through this exact sequence on his own hull — decks,
-chine-runner trimming, glassing, and the cabin top all still outstanding,
-with the mast blanks cut but not yet glued up — reported making the same
-allowance for unhurried, "Stock"-style cruising the sequence assumes: get
-under cover when weather turns miserable, rather than press on in
-traditional foul-weather gear. Building in the UK, he expected the country's
-improving weather to give him the warm, dry days amine-blush-free finishing
-needs.[73]
+A hull worked through this exact sequence — decks, chine-runner trimming, glassing, and the cabin top all still outstanding, with the mast blanks cut but not yet glued up — makes the same allowance for unhurried, "Stock"-style cruising the sequence assumes: get under cover when weather turns miserable, rather than press on in traditional foul-weather gear. On a UK build, the country's improving weather was expected to give the warm, dry days amine-blush-free finishing needs.[73]
 
 ## Diagnosing and rescuing a coat that will not cure
 
-A hull-bottom coat that is still uncured a full 24 hours after application,
-with ambient temperatures otherwise fine, is usually a **mix-ratio, contamination, or
-bad-hardener problem**, not a hopeless one. A sun/black-plastic-sheeting
-post-cure over a full day traps solar heat and can push a slow coat the rest
-of the way (commercial boatbuilding epoxies tolerate a post-cure of up to
-200°F for about two hours); progress can be checked by pressing a fingernail
-or screwdriver tip into the surface for uniform resistance. Testing the same
-mix and ratio on a scrap piece isolates the cause. Critically, **adding more
-hardener to an already-mismixed coat does not help**: epoxy cures by
-molecular bonding between resin and hardener in a fixed ratio, unlike
-polyester's generic catalyzed reaction, so extra hardener cannot rescue a
-batch that was mixed wrong to begin with — the only remaining fix at that
-point is to scrape the coat off and start over, though a fully hardened
-(if botched) coat is still easier to sand off than one that stays
-permanently tacky. The one exception is a coat where only resin, with no
-hardener, ever reached the wood: there, adding hardener afterward can still
-seal the wood and save the fiberglass cloth already laid up.
+A hull-bottom coat that is still uncured a full 24 hours after application, with ambient temperatures otherwise fine, is usually a **mix-ratio, contamination, or bad-hardener problem**, not a hopeless one. A sun/black-plastic-sheeting post-cure over a full day traps solar heat and can push a slow coat the rest of the way (commercial boatbuilding epoxies tolerate a post-cure of up to 200°F for about two hours); progress can be checked by pressing a fingernail or screwdriver tip into the surface for uniform resistance. Testing the same mix and ratio on a scrap piece isolates the cause. Critically, **adding more hardener to an already-mismixed coat does not help**: epoxy cures by molecular bonding between resin and hardener in a fixed ratio, unlike polyester's generic catalyzed reaction, so extra hardener cannot rescue a batch that was mixed wrong to begin with — the only remaining fix at that point is to scrape the coat off and start over, though a fully hardened (if botched) coat is still easier to sand off than one that stays permanently tacky. The one exception is a coat where only resin, with no hardener, ever reached the wood: there, adding hardener afterward can still seal the wood and save the fiberglass cloth already laid up.
 
-A further rescue option, for a coat suspected of unmixed or uncatalyzed
-chemistry sitting in the finish rather than absorbed into the wood: wipe
-the surface down with rags soaked in **acetone** and set it in the sun. The
-acetone dissolves and lifts the unreacted resin/hardener into the rag
-rather than leaving it to dilute and weaken the epoxy that has already
-bonded, while the sun's heat accelerates cure of what is left behind. If a
-slow cure turns out to be a bad batch of resin or hardener rather than a
-mixing error — contaminated or mislabeled chemistry straight from an
-unopened container — no amount of troubleshooting on the builder's end
-will fix it; suppliers generally warrant only their own product (materials,
-not labor), so for a small quantity it is often more practical to switch
-suppliers than to pursue a claim. Full story at
-[boats/enuf.md — the epoxy that wouldn't
-cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76][77]
+A further rescue option, for a coat suspected of unmixed or uncatalyzed chemistry sitting in the finish rather than absorbed into the wood: wipe the surface down with rags soaked in **acetone** and set it in the sun. The acetone dissolves and lifts the unreacted resin/hardener into the rag rather than leaving it to dilute and weaken the epoxy that has already bonded, while the sun's heat accelerates cure of what is left behind. If a slow cure turns out to be a bad batch of resin or hardener rather than a mixing error — contaminated or mislabeled chemistry straight from an unopened container — no amount of troubleshooting on the builder's end will fix it; suppliers generally warrant only their own product (materials, not labor), so for a small quantity it is often more practical to switch suppliers than to pursue a claim. Full story at [boats/enuf.md — the epoxy that wouldn't cure](/boats/enuf.md#the-epoxy-that-wouldnt-cure).[76][77]
 
-**A metering-pump failure as a distinct cause, and a neat-hardener rescue.**
-A slow or failed cure is not always a human mixing-ratio mistake: a batch
-dispensed carefully through metered pumps can still fail if a pump itself
-is under-delivering, since a pump can develop a crusty internal deposit or
-simply stop moving its full stroke without any outward sign of malfunction.
-Hand-mixing a small sample of the same resin and hardener in separate
-containers, by volume rather than through the suspect pumps, isolates a
-pump fault from a genuine bad batch of chemistry — a sample that sets hard
-points to the pumps, not the resin. One correspondent distrusts metering
-pumps altogether for exactly this reason, preferring to measure every batch
-by volume into a marked container given how costly epoxy is to waste.
-Separately, wiping **neat, undiluted hardener** directly onto an
-already-uncured surface is a further reported rescue technique distinct
-from the sun/acetone remedies above — one builder's cure failure went off
-overnight after this treatment, with the patch showing no sign of later
-failure, though it is not a guaranteed fix: the same treatment, tried by a
-different builder on a different failed batch, still did not set. What did
-work in that second case was laying **fiberglass mat over the still-tacky
-coating and squeegeeing a fresh, correctly-mixed batch of resin through the
-mat** — the mat gave the new coat something to key into mechanically where
-a plain recoat had failed to bond to the tacky layer underneath. Where
-neither rescue takes, and a fresh coat still will not adhere reliably to
-the tacky layer below it, stripping back to bare cloth with a scraper is
-the fallback — the old tacky coating and its fairing powder peel away in
-long strips rather than needing to be sanded off. As a preventive measure
-against pump failure in the first place, one builder recommended
-abandoning **metering pumps entirely**: decant resin and hardener into
-separate containers and meter each by volume with a **veterinary syringe**,
-sourced from a vet or farm-supply shop, rather than trust a mechanical pump
-that can fail with no outward sign. Full story, including the pump
-teardown, at [boats/enuf.md — a second epoxy failure: a faulty dispensing
-pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][80][81][82]
+**A metering-pump failure as a distinct cause, and a neat-hardener rescue.** A slow or failed cure is not always a human mixing-ratio mistake: a batch dispensed carefully through metered pumps can still fail if a pump itself is under-delivering, since a pump can develop a crusty internal deposit or simply stop moving its full stroke without any outward sign of malfunction. Hand-mixing a small sample of the same resin and hardener in separate containers, by volume rather than through the suspect pumps, isolates a pump fault from a genuine bad batch of chemistry — a sample that sets hard points to the pumps, not the resin. Metering pumps are distrusted altogether for exactly this reason, in favor of measuring every batch by volume into a marked container given how costly epoxy is to waste. Separately, wiping **neat, undiluted hardener** directly onto an already-uncured surface is a further reported rescue technique distinct from the sun/acetone remedies above — one cure failure went off overnight after this treatment, with the patch showing no sign of later failure, though it is not a guaranteed fix: the same treatment, tried on a different failed batch, still did not set. What did work in that second case was laying **fiberglass mat over the still-tacky coating and squeegeeing a fresh, correctly-mixed batch of resin through the mat** — the mat gave the new coat something to key into mechanically where a plain recoat had failed to bond to the tacky layer underneath. Where neither rescue takes, and a fresh coat still will not adhere reliably to the tacky layer below it, stripping back to bare cloth with a scraper is the fallback — the old tacky coating and its fairing powder peel away in long strips rather than needing to be sanded off. As a preventive measure against pump failure in the first place, another approach abandons **metering pumps entirely**: decant resin and hardener into separate containers and meter each by volume with a **veterinary syringe**, sourced from a vet or farm-supply shop, rather than trust a mechanical pump that can fail with no outward sign. Full story, including the pump teardown, at [boats/enuf.md — a second epoxy failure: a faulty dispensing pump](/boats/enuf.md#a-second-epoxy-failure-a-faulty-dispensing-pump).[78][79][80][81][82]
 
 # Citations
 

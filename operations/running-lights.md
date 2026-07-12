@@ -8,388 +8,115 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Running lights
 
-The [Paradox](/paradox.md) and [Little Cruiser](/matt-layden/little-cruiser.md)
-plans call for a single **mast-head (all-around) light** rather than the
-conventional red/green port-and-starboard **running lights** most sailboats
-carry.
+The [Paradox](/paradox.md) and [Little Cruiser](/matt-layden/little-cruiser.md) plans call for a single **mast-head (all-around) light** rather than the conventional red/green port-and-starboard **running lights** most sailboats carry.
 
 ## The COLREGs case for a single masthead light
 
-**International maritime law** only requires vessels under 17 ft to be able
-to show a **white light** in time to avoid a collision — even a simple
-flashlight would technically satisfy this. Paradox instead carries a proper
-**all-around white light** (the same fixture doubling as an anchor light) to
-meet the requirement.
+**International maritime law** only requires vessels under 17 ft to be able to show a **white light** in time to avoid a collision — even a simple flashlight would technically satisfy this. Paradox instead carries a proper **all-around white light** (the same fixture doubling as an anchor light) to meet the requirement.
 
-This arrangement creates a **right-of-way advantage** that is not at first
-apparent to anyone unfamiliar with the rules: a vessel **overtaking another
-is always burdened** and must give way to the vessel being overtaken.
-Because a lone white light on the horizon reads, at a distance, like the
-**stern light of another vessel already underway**, an approaching vessel
-will tend to assume it is the overtaking party and alter course to avoid
-Paradox — working in the small boat's favor even though Paradox is not,
-strictly, "underway with a stern light" in the traditional sense.
+This arrangement creates a **right-of-way advantage** that is not at first apparent to anyone unfamiliar with the rules: a vessel **overtaking another is always burdened** and must give way to the vessel being overtaken. Because a lone white light on the horizon reads, at a distance, like the **stern light of another vessel already underway**, an approaching vessel will tend to assume it is the overtaking party and alter course to avoid Paradox — working in the small boat's favor even though Paradox is not, strictly, "underway with a stern light" in the traditional sense.
 
-A legal subtlety worth noting: **inland right-of-way rules do not by
-themselves satisfy international right-of-way rules, but international
-rules do satisfy inland rules** — i.e. complying with the (stricter)
-international standard is always sufficient.
+A legal subtlety worth noting: **inland right-of-way rules do not by themselves satisfy international right-of-way rules, but international rules do satisfy inland rules** — i.e. complying with the (stricter) international standard is always sufficient.
 
-For **river sailing** specifically, it may still be worth adding
-conventional **port and starboard sidelights** as well — not because the
-white light is legally insufficient, but because night-running high-speed
-powerboat operators on rivers cannot be relied on to correctly interpret
-right-of-way cues at all, being often "real stupid, real drunk or both." A
-bright, long-range **spotlight** carried for shining in the face of oncoming
-night traffic is a complementary practical tactic for the same reason — it
-actively forces the issue rather than relying on the other vessel correctly
-reading a masthead light.
+For **river sailing** specifically, it may still be worth adding conventional **port and starboard sidelights** as well — not because the white light is legally insufficient, but because night-running high-speed powerboat operators on rivers cannot be relied on to correctly interpret right-of-way cues at all, being often "real stupid, real drunk or both." A bright, long-range **spotlight** carried for shining in the face of oncoming night traffic is a complementary practical tactic for the same reason — it actively forces the issue rather than relying on the other vessel correctly reading a masthead light.
 
 ## A compact LED tricolour/all-round masthead unit
 
-One practical build combines both a **tricolour light** and a **white
-all-around light** in a single unit **less than 2 in in diameter and 1.5 in
-tall**:
+One practical build combines both a **tricolour light** and a **white all-around light** in a single unit **less than 2 in in diameter and 1.5 in tall**:
 
-- Built using **LEDs**, which use roughly **one-tenth the power** of an
-  equivalent filament bulb for the same light output — a meaningful saving on
-  a boat with limited battery capacity (see
-  [weight, ballast, and displacement](/design/weight-and-ballast.md)).
-- Only **two wires** run up the mast to power it: the tricolour and
-  all-around LEDs are wired in **opposite polarity**, so reversing the
-  battery connection's polarity switches which light function is lit — a
-  neat way to drive two independent light functions over a single
-  two-conductor run instead of the four-plus wires a conventional
-  separate-fixture setup would need.
+- Built using **LEDs**, which use roughly **one-tenth the power** of an equivalent filament bulb for the same light output — a meaningful saving on a boat with limited battery capacity (see [weight, ballast, and displacement](/design/weight-and-ballast.md)).
+- Only **two wires** run up the mast to power it: the tricolour and all-around LEDs are wired in **opposite polarity**, so reversing the battery connection's polarity switches which light function is lit — a neat way to drive two independent light functions over a single two-conductor run instead of the four-plus wires a conventional separate-fixture setup would need.
 - A boat with no engine has no need for a separate steaming light.
 
 ## Routing and maintaining masthead-light wiring without cutting the mast open
 
-Electrical wiring is one of the **most frequently replaced items** on any
-sailboat, due to **corrosion**. Epoxying masthead-light wiring into the
-interior of the mast would mean cutting the mast open every time it needs
-replacing — so the wiring is better left **unencapsulated**:
+Electrical wiring is one of the **most frequently replaced items** on any sailboat, due to **corrosion**. Epoxying masthead-light wiring into the interior of the mast would mean cutting the mast open every time it needs replacing — so the wiring is better left **unencapsulated**:
 
-- A **socket at the bottom of the mast** can be **extracted**, leaving a
-  **20 mm hole** to fish wire through.
-- At the top, the wire exits through a hole **just big enough for the wire
-  itself**, then is **sealed in place with silicone sealer**.
-- The wire itself is **not epoxied in**: it simply **hangs loose inside the
-  mast** (padded to stop it slapping against the inside), so it can be pulled
-  and replaced without cutting into the mast.
+- A **socket at the bottom of the mast** can be **extracted**, leaving a **20 mm hole** to fish wire through.
+- At the top, the wire exits through a hole **just big enough for the wire itself**, then is **sealed in place with silicone sealer**.
+- The wire itself is **not epoxied in**: it simply **hangs loose inside the mast** (padded to stop it slapping against the inside), so it can be pulled and replaced without cutting into the mast.
 - Ordinary **5 amp flex** cable is adequate for the run.
 
-This approach — leaving the wire loose rather than encapsulating it — is what
-lets a compact two-wire LED masthead unit be installed and later serviced
-without opening up the mast.
+This approach — leaving the wire loose rather than encapsulating it — is what lets a compact two-wire LED masthead unit be installed and later serviced without opening up the mast.
 
 ## Routing masthead-light wiring outside the mast, below the sheave
 
-A stave-built mast leaves little room past the **masthead sheave and its
-axle** for wiring routed fully inside, which raises a second routing
-question distinct from mast-base servicing above: whether to run the wire
-inside the mast all the way to the top, or exit it 100-150mm below the light
-and run the last stretch up the outside.
+A stave-built mast leaves little room past the **masthead sheave and its axle** for wiring routed fully inside, which raises a second routing question distinct from mast-base servicing above: whether to run the wire inside the mast all the way to the top, or exit it 100-150mm below the light and run the last stretch up the outside.
 
-Builders have settled on three different answers. The most common is to
-bring the wire out below the mast's solid top and run it up the outside from
-there, since the plans' dimensions leave very little clearance past the
-sheave and axle for wiring kept fully inside; a cleaner variant of the same
-idea, floated in hindsight, is to run copper strips up the outside of the
-mast near the top and bury them under a wrap of fiberglass cloth rather than
-leaving bare wire exposed on the surface. A second builder likewise routes
-the wiring **outside the mast at the top**, exiting near the topping-lift
-hardware. A third keeps the wiring recessed **flush with the mast's
-surface**, routed through a shallow groove rather than run proud on the
-outside or fished through the interior.
+Three different answers have been settled on. The most common is to bring the wire out below the mast's solid top and run it up the outside from there, since the plans' dimensions leave very little clearance past the sheave and axle for wiring kept fully inside; a cleaner variant of the same idea, floated in hindsight, is to run copper strips up the outside of the mast near the top and bury them under a wrap of fiberglass cloth rather than leaving bare wire exposed on the surface. Another approach likewise routes the wiring **outside the mast at the top**, exiting near the topping-lift hardware. A third keeps the wiring recessed **flush with the mast's surface**, routed through a shallow groove rather than run proud on the outside or fished through the interior.
 
-At the **bottom** of the mast, one builder brings the wire out under deck
-level and connects it to a plug fitted just under the forward port-side
-deck — simple to connect and disconnect each time the mast is stepped or
-unstepped for trailering, and proven reliable in service.[38]
+At the **bottom** of the mast, one method brings the wire out under deck level and connects it to a plug fitted just under the forward port-side deck — simple to connect and disconnect each time the mast is stepped or unstepped for trailering, and proven reliable in service.[38]
 
 ## Clearing a snug deck hole as the mast is stepped and unstepped
 
-Bringing the flex out below deck level, rather than above it, raises an
-obvious-sounding worry: if the mast fits snugly through its deck hole, how
-does the flex avoid being sheared or trapped as the mast is lowered into
-place?[39] The answer is the mast's own **taper**: the mast narrows
-steadily below deck level, so there is still clearance around the flex
-while the mast is partway down, well before the fit becomes snug.[40]
+Bringing the flex out below deck level, rather than above it, raises an obvious-sounding worry: if the mast fits snugly through its deck hole, how does the flex avoid being sheared or trapped as the mast is lowered into place?[39] The answer is the mast's own **taper**: the mast narrows steadily below deck level, so there is still clearance around the flex while the mast is partway down, well before the fit becomes snug.[40]
 
-Builders have converged on the same below-deck destination — a
-disconnectable plug/socket reachable from inside the boat — by two
-different routes. One method brings the wire out just below deck level to
-a **recessed plug in the end of the mast**, matching the destination
-(though not the routing) of the forward-port-deck method described
-above.[41] A second mounts the socket low on the **aft** face of the mast
-instead, reached from inside the boat by "a bit of a contortionist
-trick" rather than through any dedicated access hole; the plug/socket is
-a water-resistant type (so splashing bilge water is not a concern),
-fitted as low as clearance allows, with the socket itself fixed on from
-outside and spare wire left coiled inside the mast so the connection can
-be remade, or the run pulled through and replaced after damage, without
-having to strip the whole length out.[42][43] Both share the same
-underlying principle as the [interior wire-slap
-padding](#routing-and-maintaining-masthead-light-wiring-without-cutting-the-mast-open)
-already noted: the wire is never epoxied in, only run loose (or, on one
-build, through sections of pipe-insulation lagging glued to the mast's
-interior) so it can move slightly with the boat's motion without chafing
-or making noise, and can be drawn out and replaced without cutting into
-the mast.[42]
+The same below-deck destination — a disconnectable plug/socket reachable from inside the boat — has been reached by two different routes. One method brings the wire out just below deck level to a **recessed plug in the end of the mast**, matching the destination (though not the routing) of the forward-port-deck method described above.[41] A second mounts the socket low on the **aft** face of the mast instead, reached from inside the boat by "a bit of a contortionist trick" rather than through any dedicated access hole; the plug/socket is a water-resistant type (so splashing bilge water is not a concern), fitted as low as clearance allows, with the socket itself fixed on from outside and spare wire left coiled inside the mast so the connection can be remade, or the run pulled through and replaced after damage, without having to strip the whole length out.[42][43] Both share the same underlying principle as the [interior wire-slap padding](#routing-and-maintaining-masthead-light-wiring-without-cutting-the-mast-open) already noted: the wire is never epoxied in, only run loose (or, on one build, through sections of pipe-insulation lagging glued to the mast's interior) so it can move slightly with the boat's motion without chafing or making noise, and can be drawn out and replaced without cutting into the mast.[42]
 
-A **portable, unwired alternative** sidesteps the whole routing question:
-rather than run any permanent flex up the mast at all, an LED enclosed in
-a translucent plastic ball (of the kind sold containing washing-machine
-powder) can be strung up separately only when a masthead light is
-actually needed.[41]
+A **portable, unwired alternative** sidesteps the whole routing question: rather than run any permanent flex up the mast at all, an LED enclosed in a translucent plastic ball (of the kind sold containing washing-machine powder) can be strung up separately only when a masthead light is actually needed.[41]
 
 ## LED electrical theory, and how to wire several in series
 
-The underlying electrical theory behind an LED masthead unit, for builders
-wanting to design their own array rather than buy one ready-made:
+The underlying electrical theory behind an LED masthead unit, for builders wanting to design their own array rather than buy one ready-made:
 
-- **LEDs are current-driven, not voltage-driven**, unlike a filament
-  bulb. A filament bulb simply takes whatever voltage it is fed and
-  regulates its own current draw; an LED instead needs its **current**
-  actively controlled, and must be connected with the correct polarity.
-- Every LED has two key ratings: its **forward voltage** and its
-  **operating current**. On one builder's own nav light, the white LEDs had
-  a forward voltage of **3.46V**, the red **1.84V**, and the green
-  **2.2V** — with all three needing about **20mA**, the norm for most LEDs
-  generally.
-- Below the forward voltage, no current flows and the LED stays dark; at
-  the forward voltage, it draws its rated current and shines brightly;
-  above it, current rises further (still bright) until, past the rated
-  voltage, the LED is destroyed by excess current.
-- **The simplest current control is a resistor.** From a 12V supply
-  (higher if the boat runs 13.6V or more with a charging system), a
-  white LED needing 3.46V leaves 8.54V to drop across a resistor; at the
-  desired 20mA (0.020A), Ohm's law (V=IR) gives roughly **427 ohms**
-  (rounding up to the nearest convenient value), for a power consumption
-  of about **240mW**.
-- **Wiring LEDs in series multiplies the light for the same power
-  budget.** Three of the same LEDs in series drop 10.38V between them,
-  leaving only 1.62V for the resistor — still at 20mA, so the resistor
-  drops to about **81 ohms**. Total power draw is unchanged at 240mW,
-  but light output **triples**, since less of the fixed power budget is
-  wasted as heat in the resistor. Maximizing the number of LEDs wired in
-  series to get the most light for the least power draw is the guiding
-  design philosophy — used both for a nav-light array and for strings of
-  three white LEDs lighting the interior and lockers.
+- **LEDs are current-driven, not voltage-driven**, unlike a filament bulb. A filament bulb simply takes whatever voltage it is fed and regulates its own current draw; an LED instead needs its **current** actively controlled, and must be connected with the correct polarity.
+- Every LED has two key ratings: its **forward voltage** and its **operating current**. On one built nav light, the white LEDs had a forward voltage of **3.46V**, the red **1.84V**, and the green **2.2V** — with all three needing about **20mA**, the norm for most LEDs generally.
+- Below the forward voltage, no current flows and the LED stays dark; at the forward voltage, it draws its rated current and shines brightly; above it, current rises further (still bright) until, past the rated voltage, the LED is destroyed by excess current.
+- **The simplest current control is a resistor.** From a 12V supply (higher if the boat runs 13.6V or more with a charging system), a white LED needing 3.46V leaves 8.54V to drop across a resistor; at the desired 20mA (0.020A), Ohm's law (V=IR) gives roughly **427 ohms** (rounding up to the nearest convenient value), for a power consumption of about **240mW**.
+- **Wiring LEDs in series multiplies the light for the same power budget.** Three of the same LEDs in series drop 10.38V between them, leaving only 1.62V for the resistor — still at 20mA, so the resistor drops to about **81 ohms**. Total power draw is unchanged at 240mW, but light output **triples**, since less of the fixed power budget is wasted as heat in the resistor. Maximizing the number of LEDs wired in series to get the most light for the least power draw is the guiding design philosophy — used both for a nav-light array and for strings of three white LEDs lighting the interior and lockers.
 
-One builder's own array uses **six 60-degree white LEDs** arranged as **two
-parallel rows of three in series** (matching the series-wiring principle
-above), with a half-watt resistor ample for the 240mW circuit; LEDs and
-resistors of this kind are available from general electronics suppliers
-such as RS Components (`rswww.com`) in the UK.
+One such array uses **six 60-degree white LEDs** arranged as **two parallel rows of three in series** (matching the series-wiring principle above), with a half-watt resistor ample for the 240mW circuit; LEDs and resistors of this kind are available from general electronics suppliers such as RS Components (`rswww.com`) in the UK.
 
 ## Building a sector'd LED masthead light: LED counts, wiring, and potting
 
-A combined **tricolour (red/green/white) and all-round anchor light** in a
-single low-profile housing is worth building rather than buying where a
-compact **mast-fitting design** — the mast must stow inside the hull for
-trailering — demands a thinner unit than any off-the-shelf fixture. Working
-from each LED's datasheet **luminous intensity** (candela) rating against
-the legal minimum visibility requirement gives the LED count needed per
-sector:
+A combined **tricolour (red/green/white) and all-round anchor light** in a single low-profile housing is worth building rather than buying where a compact **mast-fitting design** — the mast must stow inside the hull for trailering — demands a thinner unit than any off-the-shelf fixture. Working from each LED's datasheet **luminous intensity** (candela) rating against the legal minimum visibility requirement gives the LED count needed per sector:
 
 - **Red sector:** 3 LEDs
-- **Green sector:** 5 LEDs (green LEDs run dimmer than red at the same
-  legal threshold, hence the extra LED)
+- **Green sector:** 5 LEDs (green LEDs run dimmer than red at the same legal threshold, hence the extra LED)
 - **White sector:** 4 LEDs
 - **Anchor light:** 6 LEDs
 
-Rather than fit opaque baffles between sectors, each LED's own
-**viewing-angle** datasheet figure can set the sector boundaries directly —
-accepting a soft, gradual color transition between sectors rather than a
-hard cutoff, no worse than many commercial lamps.
+Rather than fit opaque baffles between sectors, each LED's own **viewing-angle** datasheet figure can set the sector boundaries directly — accepting a soft, gradual color transition between sectors rather than a hard cutoff, no worse than many commercial lamps.
 
-The array splits into **five circuits**: three tricolour circuits (5
-green + 56 ohm resistor; 3 white + 82 ohm resistor; 3 red + 1 white + 150
-ohm resistor) wired in parallel for 720mW total, and two identical anchor
-circuits (each 3 white + 82 ohm resistor) wired in parallel for 480mW
-total. The tricolour and anchor circuit groups are then wired to each
-other in **reverse parallel polarity**, so that reversing the battery
-polarity at the mast base switches between the tricolour and the anchor
-light — the same two-wire trick noted above, requiring only two
-conductors to run up the mast for both light functions.
+The array splits into **five circuits**: three tricolour circuits (5 green + 56 ohm resistor; 3 white + 82 ohm resistor; 3 red + 1 white + 150 ohm resistor) wired in parallel for 720mW total, and two identical anchor circuits (each 3 white + 82 ohm resistor) wired in parallel for 480mW total. The tricolour and anchor circuit groups are then wired to each other in **reverse parallel polarity**, so that reversing the battery polarity at the mast base switches between the tricolour and the anchor light — the same two-wire trick noted above, requiring only two conductors to run up the mast for both light functions.
 
-Construction used two purpose-made circular circuit boards about one inch
-in diameter (one per light function), with LEDs positioned point-outward
-in their correct sector locations, then the whole assembly **potted in
-silicone rubber** with only the LED heads protruding. The housing itself
-is a pair of turned plastic fittings and a short length of perspex tube
-held together with a central screw, and does double duty retaining the
-pin for the mast-head sheave. An alternative construction method — LEDs
-mounted around the outside of a short cylinder with wiring run inside —
-is a reasonable first idea but is more easily replaced by circuit-board
-etching once that equipment is available. A light built this way has
-proved **brighter than a 12W filament bulb**.
+Construction used two purpose-made circular circuit boards about one inch in diameter (one per light function), with LEDs positioned point-outward in their correct sector locations, then the whole assembly **potted in silicone rubber** with only the LED heads protruding. The housing itself is a pair of turned plastic fittings and a short length of perspex tube held together with a central screw, and does double duty retaining the pin for the mast-head sheave. An alternative construction method — LEDs mounted around the outside of a short cylinder with wiring run inside — is a reasonable first idea but is more easily replaced by circuit-board etching once that equipment is available. A light built this way has proved **brighter than a 12W filament bulb**.
 
-A navigation-rules objection stands against fitting a tricolour light at
-all on a boat this size: Paradox and Little Cruiser are only required to
-show a single all-round white (anchor) light, and if a tricolour is fitted
-and only the anchor light is switched on at night, an approaching vessel
-may misread the lone white light as a **stern light**, concluding it is
-overtaking and therefore burdened with giving way — when in fact, with the
-tricolour switched on instead, a sailing vessel would have right of way and
-could find itself closing far nearer than is comfortable before the other
-vessel gives way. The point reinforces, from a different angle, [the
-COLREGs case for a single masthead light](#the-colregs-case-for-a-single-masthead-light)
-made earlier in this file.
+A navigation-rules objection stands against fitting a tricolour light at all on a boat this size: Paradox and Little Cruiser are only required to show a single all-round white (anchor) light, and if a tricolour is fitted and only the anchor light is switched on at night, an approaching vessel may misread the lone white light as a **stern light**, concluding it is overtaking and therefore burdened with giving way — when in fact, with the tricolour switched on instead, a sailing vessel would have right of way and could find itself closing far nearer than is comfortable before the other vessel gives way. The point reinforces, from a different angle, [the COLREGs case for a single masthead light](#the-colregs-case-for-a-single-masthead-light) made earlier in this file.
 
 ## Running LEDs off a charging battery rather than a steady 12V supply
 
-The forward-voltage/current figures above assume a steady 12V supply, as on
-a boat with no charging source aboard. A boat that does charge its battery
-under way should size the current-limiting resistor for the **higher
-charging voltage** (e.g. 14.4V) rather than the resting 12V; run this way,
-the LEDs will simply glow slightly dimmer once charging stops and the
-battery settles back toward its resting voltage (around 12.6V fully
-charged) — a difference too small to notice by eye. Where the swing between
-charging and resting voltage is larger, a simple voltage regulator ahead of
-the array can stabilize it, though this is unnecessary on most
-installations. Every LED's datasheet gives a **maximum forward current**
-rating that must never be exceeded, or the LED is destroyed; white LEDs are
-commonly rated for 30mA and green for 25mA, leaving some headroom to work
-with as supply voltage varies.
+The forward-voltage/current figures above assume a steady 12V supply, as on a boat with no charging source aboard. A boat that does charge its battery under way should size the current-limiting resistor for the **higher charging voltage** (e.g. 14.4V) rather than the resting 12V; run this way, the LEDs will simply glow slightly dimmer once charging stops and the battery settles back toward its resting voltage (around 12.6V fully charged) — a difference too small to notice by eye. Where the swing between charging and resting voltage is larger, a simple voltage regulator ahead of the array can stabilize it, though this is unnecessary on most installations. Every LED's datasheet gives a **maximum forward current** rating that must never be exceeded, or the LED is destroyed; white LEDs are commonly rated for 30mA and green for 25mA, leaving some headroom to work with as supply voltage varies.
 
-The legal basis for the single all-around white light bears restating:
-**COLREGS** requires only that small boats show a white light sufficient to
-avoid collision, and by convention a 360-degree masthead light satisfies
-this — with most vessels obliged to give way to it. Under power, COLREGS
-additionally calls for side
-lights, a steaming light, and a stern light, though the steaming and stern
-functions may be combined into a single all-around white; side lights,
-however, may **not** be folded into a combined tricolor unit under those
-rules — a technical limit on how far the two-wire tricolor/anchor-light
-trick (above) can be pushed for a boat that is sometimes motored.
+The legal basis for the single all-around white light bears restating: **COLREGS** requires only that small boats show a white light sufficient to avoid collision, and by convention a 360-degree masthead light satisfies this — with most vessels obliged to give way to it. Under power, COLREGS additionally calls for side lights, a steaming light, and a stern light, though the steaming and stern functions may be combined into a single all-around white; side lights, however, may **not** be folded into a combined tricolor unit under those rules — a technical limit on how far the two-wire tricolor/anchor-light trick (above) can be pushed for a boat that is sometimes motored.
 
 ## The kerosene-vs-LED debate
 
-A wider debate has played out over whether to power navigation lights with
-LEDs or fall back on kerosene, prompted by a builder with a boat under 20 ft
-and motorless (for whom USCG nav-light approval is not strictly required,
-though desirable) wanting to run nav lights, a compass night light, and
-possibly a cabin reading light off rechargeable dry cells and a solar
-charger.
+A wider debate has played out over whether to power navigation lights with LEDs or fall back on kerosene, prompted by a boat under 20 ft and motorless (for which USCG nav-light approval is not strictly required, though desirable) wanting to run nav lights, a compass night light, and possibly a cabin reading light off rechargeable dry cells and a solar charger.
 
-The case for **kerosene lamps** over LEDs rests on their being legal and
-cheap to operate, and on the view that a lit nav light does not meaningfully
-reduce the need for a proper lookout anyway, since a low, small boat is hard
-for larger vessels to notice regardless of light brightness. Where LEDs are
-wanted, it can be cheaper to buy plain incandescent fixtures and retrofit LED
-lamps into them rather than buy pre-made LED fixtures outright (the hobbyist
-LED-parts site `ledmuseum.home.att.net` is one source), and an **anchor
-light** is generally rated more important than nav lights.
+The case for **kerosene lamps** over LEDs rests on their being legal and cheap to operate, and on the view that a lit nav light does not meaningfully reduce the need for a proper lookout anyway, since a low, small boat is hard for larger vessels to notice regardless of light brightness. Where LEDs are wanted, it can be cheaper to buy plain incandescent fixtures and retrofit LED lamps into them rather than buy pre-made LED fixtures outright (the hobbyist LED-parts site `ledmuseum.home.att.net` is one source), and an **anchor light** is generally rated more important than nav lights.
 
-The fuller case runs **against kerosene** running lights as impractical and
-unsafe aboard a small boat: expensive to run, and — per repeated firsthand
-experience of being confronted by Coast Guard and police — **technically
-illegal** as an anchor light unless hoisted above the masthead, contradicting
-the Pardeys' own published advice on the point ("they're wrong"). By
-contrast, LEDs are cheap as a complete system (small gauge wire, small
-battery, small solar panel all being individually inexpensive), last roughly
-**10,000 hours**, and do not soot up sails or the cabin the way a kerosene
-lamp does. A builder not wanting to assemble their own array can simply buy
-**USCG-approved Hella LED nav lights** from Defender Industries or West
-Marine; dry-cell dinghy nav lights, by contrast, have a reputation for poor
-results. As a design-specific point directly relevant to Paradox: since
-Paradox has **no separate steaming light** requirement unless motoring, a
-single **all-around white light at the masthead** already satisfies both the
-running-light and anchor-light requirements together — the same COLREGs
-point made above, reached independently more than once.
+The fuller case runs **against kerosene** running lights as impractical and unsafe aboard a small boat: expensive to run, and — per repeated firsthand experience of being confronted by Coast Guard and police — **technically illegal** as an anchor light unless hoisted above the masthead, contradicting the Pardeys' own published advice on the point ("they're wrong"). By contrast, LEDs are cheap as a complete system (small gauge wire, small battery, small solar panel all being individually inexpensive), last roughly **10,000 hours**, and do not soot up sails or the cabin the way a kerosene lamp does. A builder not wanting to assemble their own array can simply buy **USCG-approved Hella LED nav lights** from Defender Industries or West Marine; dry-cell dinghy nav lights, by contrast, have a reputation for poor results. As a design-specific point directly relevant to Paradox: since Paradox has **no separate steaming light** requirement unless motoring, a single **all-around white light at the masthead** already satisfies both the running-light and anchor-light requirements together — the same COLREGs point made above, reached independently more than once.
 
-**Dave Bolduc's microcruising.com equipment-review page**
-(`microcruising.com/review.htm#low`) is a specific LED supplier recommended
-as prompt and reasonably priced. A separate, liability-focused observation:
-the choice of navigation light mostly matters **after** a collision occurs,
-when assigning blame becomes a question of proper warning versus a proper
-lookout — and a shallow-draft boat's real practical advantage is being able
-to **anchor in locations that exclude deeper-draft vessels** from the
-collision risk altogether, sidestepping the whole question.
+The **microcruising.com equipment-review page** (`microcruising.com/review.htm#low`) is a specific LED supplier recommended as prompt and reasonably priced. A separate, liability-focused observation: the choice of navigation light mostly matters **after** a collision occurs, when assigning blame becomes a question of proper warning versus a proper lookout — and a shallow-draft boat's real practical advantage is being able to **anchor in locations that exclude deeper-draft vessels** from the collision risk altogether, sidestepping the whole question.
 
-Other data points from the same discussion: a **Coleman dry-cell lantern
-with two fluorescent bulbs** is claimed to run 10+ hours on one bulb (with
-the option to run both), though its visibility range on a single bulb is
-unclear, raising the question of whether a genuinely efficient light could
-simply be run up the mast at night. Inexpensive (~$10) "garde moonlights" —
-compact units integrating an LED, battery, and solar panel in a single
-masthead-light-like fixture — are another option, though possibly not bright
-enough in practice. Coast Guard enforcement of anchor-light rules in
-practice appears to be inconsistent and generally lenient: one owner who ran
-a **kerosene anchor light** almost nightly for several years in Florida was
-only ever questioned twice, on the technicality that the light showed yellow
-rather than white (and was partly blocked by the mast), never drawing a
-ticket or even a formal warning — with the Coast Guard in that encounter
-saying they were glad he carried some form of anchor light at all. Anchor
-lights are also, by report, far less common in practice than the rules would
-suggest: in one crowded anchorage of roughly 200 boats, only about 10 could
-be seen carrying an anchor light of any kind.
+Other data points from the same discussion: a **Coleman dry-cell lantern with two fluorescent bulbs** is claimed to run 10+ hours on one bulb (with the option to run both), though its visibility range on a single bulb is unclear, raising the question of whether a genuinely efficient light could simply be run up the mast at night. Inexpensive (~$10) "garde moonlights" — compact units integrating an LED, battery, and solar panel in a single masthead-light-like fixture — are another option, though possibly not bright enough in practice. Coast Guard enforcement of anchor-light rules in practice appears to be inconsistent and generally lenient: one owner who ran a **kerosene anchor light** almost nightly for several years in Florida was only ever questioned twice, on the technicality that the light showed yellow rather than white (and was partly blocked by the mast), never drawing a ticket or even a formal warning — with the Coast Guard in that encounter saying they were glad he carried some form of anchor light at all. Anchor lights are also, by report, far less common in practice than the rules would suggest: in one crowded anchorage of roughly 200 boats, only about 10 could be seen carrying an anchor light of any kind.
 
 ## Off-the-shelf LED sources for a boat-tent light
 
-One cheap option, comparable to lockers already wired with LEDs on a
-central battery, is a set of two self-contained bicycle LED lamps (about
-£15, each roughly 100 x 40 x 20 mm with 3 LEDs and a quick-release clamp,
-claimed to run 100 hours on two AAA cells), a design well suited to a boat
-tent — though, lacking the ambience of a paraffin hurricane lamp, not a full
-substitute for one.[28] A similar off-the-shelf lamp (a Pifco model) prompted
-an e-mail to the manufacturer asking them to make a purpose-built all-round
-white LED lamp for sailors, which drew only an amused non-answer.[29] A
-Swedish supplier, `mitron.se/SURE-E/a-lite.html`, sells a lamp closer to a
-genuinely boat-designed unit, purpose-built-looking for boating at a cost of
-nearly £44.[30][31]
+One cheap option, comparable to lockers already wired with LEDs on a central battery, is a set of two self-contained bicycle LED lamps (about £15, each roughly 100 x 40 x 20 mm with 3 LEDs and a quick-release clamp, claimed to run 100 hours on two AAA cells), a design well suited to a boat tent — though, lacking the ambience of a paraffin hurricane lamp, not a full substitute for one.[28] A similar off-the-shelf lamp (a Pifco model) prompted an e-mail to the manufacturer asking them to make a purpose-built all-round white LED lamp for sailors, which drew only an amused non-answer.[29] A Swedish supplier, `mitron.se/SURE-E/a-lite.html`, sells a lamp closer to a genuinely boat-designed unit, purpose-built-looking for boating at a cost of nearly £44.[30][31]
 
-A cheaper DIY alternative is a home-built all-round LED light for about $18
-total ($8 of LEDs plus $10 for a Perko replacement fresnel globe, the LEDs
-sourced from `whitelightled.com` and the globe from West Marine or Boaters
-World), documented with photographs at
-`microcruising.com/Graphics/led2-0004r.jpg` and `led5-0001r.jpg`.[32] A
-similar light built without a lens, with LEDs mounted in a length of perspex
-tube instead, gives fine all-round white output, but on a similarly-built
-red-green-white version the color transition between sectors lacks a sharp
-cutover.[33]
+A cheaper DIY alternative is a home-built all-round LED light for about $18 total ($8 of LEDs plus $10 for a Perko replacement fresnel globe, the LEDs sourced from `whitelightled.com` and the globe from West Marine or Boaters World), documented with photographs at `microcruising.com/Graphics/led2-0004r.jpg` and `led5-0001r.jpg`.[32] A similar light built without a lens, with LEDs mounted in a length of perspex tube instead, gives fine all-round white output, but on a similarly-built red-green-white version the color transition between sectors lacks a sharp cutover.[33]
 
 ## Cold Cathode Fluorescent (CCFL) as an LED alternative
 
-**Cold Cathode Fluorescent (CCFL)** tubes are a possible alternative to LEDs
-for a masthead light: CCFLs run roughly three times more efficient than the best white LEDs
-(about 80 lumens/watt versus 23 lumens/watt) and, like LEDs, are dimmable.
-Their drawbacks are a low-temperature starting limit (will not start below
--4°F/-20°C, though this still beats standard fluorescent tubes), a ballast
-that may generate radio-frequency interference, and a shorter working life
-(roughly 25,000-50,000 hours against an LED's theoretical 100,000 hours). No
-CCFL masthead light is recorded as ever having been built for a Paradox; the
-archive's built and tested masthead-light solutions remain the LED designs
-above.[34]
+**Cold Cathode Fluorescent (CCFL)** tubes are a possible alternative to LEDs for a masthead light: CCFLs run roughly three times more efficient than the best white LEDs (about 80 lumens/watt versus 23 lumens/watt) and, like LEDs, are dimmable. Their drawbacks are a low-temperature starting limit (will not start below -4°F/-20°C, though this still beats standard fluorescent tubes), a ballast that may generate radio-frequency interference, and a shorter working life (roughly 25,000-50,000 hours against an LED's theoretical 100,000 hours). No CCFL masthead light is recorded as ever having been built for a Paradox; the archive's built and tested masthead-light solutions remain the LED designs above.[34]
 
-CCFL is "another neat idea worth trying," but white LEDs have by now become
-cheap enough (around $1 apiece) that there is little reason to switch away
-from a homemade eight-bulb LED masthead light such as the one aboard [Little
-Cruiser](/matt-layden/little-cruiser.md) (documented at
-`microcruising.com/review.htm#low`). Separately from the masthead question,
-the Bolducs built a low-cost anchor light around a **$6 solar garden
-light** bought at a dollar store — complete with its own small solar panel,
-two NiCad cells, and an LED — mounted at deck level specifically so it would
-be easier to spot in the dark than a masthead light, which can be mistaken
-for a star; it was never meant to satisfy the legal anchor-light
-requirement, only to help the crew relocate their own boat after dark.
-Testing the same solar garden light through a full year
-showed a real seasonal limit: it ran until 3 a.m. in summer but only about
-two hours after dark once autumn cut the available daily charging
-radiation, prompting a plan to power the fixture from a separate battery
-instead, or to feed a larger solar panel into the same garden-light
-housing.[35][36]
+CCFL is "another neat idea worth trying," but white LEDs have by now become cheap enough (around $1 apiece) that there is little reason to switch away from a homemade eight-bulb LED masthead light such as the one aboard [Little Cruiser](/matt-layden/little-cruiser.md) (documented at `microcruising.com/review.htm#low`). Separately from the masthead question, a low-cost anchor light was built around a **$6 solar garden light** bought at a dollar store — complete with its own small solar panel, two NiCad cells, and an LED — mounted at deck level specifically so it would be easier to spot in the dark than a masthead light, which can be mistaken for a star; it was never meant to satisfy the legal anchor-light requirement, only to help relocate the boat after dark. Testing the same solar garden light through a full year showed a real seasonal limit: it ran until 3 a.m. in summer but only about two hours after dark once autumn cut the available daily charging radiation, prompting a plan to power the fixture from a separate battery instead, or to feed a larger solar panel into the same garden-light housing.[35][36]
 
 ## Solar-panel cable entrance through the deck or window
 
-For a Paradox with an installed solar panel, wiring the panel's cable into
-the cabin can be run either through a hole drilled in a window, or through a
-loop of wire left outside the hull rather than piercing anything at all —
-the external-loop method used on at least one boat. No builder has recorded
-routing a solar-panel cable through the deck itself.[37]
+For a Paradox with an installed solar panel, wiring the panel's cable into the cabin can be run either through a hole drilled in a window, or through a loop of wire left outside the hull rather than piercing anything at all — the external-loop method used on at least one boat. No builder has recorded routing a solar-panel cable through the deck itself.[37]
 
 # Citations
 

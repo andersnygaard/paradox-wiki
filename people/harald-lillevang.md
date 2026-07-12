@@ -8,28 +8,12 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Harald Lillevang
 
-**Harald Lillevang** is a Danish member of the `paradoxbuilders` community and a
-prospective Paradox builder. He found sketches of the Paradox online in mid-2001,
-could not stop thinking about the boat, and joined the group in early 2002 having
-decided to build his own, hoping one day to see a Paradox cruising Scandinavian
-waters. He is the earliest Scandinavia-based prospective builder on record,
-extending the design's documented reach beyond its US, UK, Australian, and New
-Zealand builders (see [Alastair](/people/alastair.md),
-[Chris Becker](/people/chris-becker.md), [Paul (New Zealand)](/people/paul-nz.md)).
-No construction start or further build progress is recorded.
+**Harald Lillevang** is a Danish member of the `paradoxbuilders` community and a prospective Paradox builder. He found sketches of the Paradox online in mid-2001, could not stop thinking about the boat, and joined the group in early 2002 having decided to build his own, hoping one day to see a Paradox cruising Scandinavian waters. He is the earliest Scandinavia-based prospective builder on record, extending the design's documented reach beyond its US, UK, Australian, and New Zealand builders (see [Alastair](/people/alastair.md), [Chris Becker](/people/chris-becker.md), [Paul (New Zealand)](/people/paul-nz.md)). No construction start or further build progress is recorded.
 
 ## Contributions
 
-- Sought out **Don Elliott's "Building the Paradox" articles**, originally
-  published in *Messing About In Boats* magazine, prompting the exchange that
-  surfaced their price and ordering details ($8 plus shipping) — see
-  [Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md).
-- Pointed a newcomer toward "interesting sketches" in the files section of the
-  `microcruising` Yahoo group in answer to a query about a Matt Layden design
-  called "Big Cruiser" — later confirmed, ten months on, as Matt's own
-  unfinished cartoons for a stretched/enlarged Paradox that never reached
-  final plans (see [Matt Layden (biography) — asides and
-  footnotes](/matt-layden/biography.md#asides-and-footnotes)).
+- Sought out **Don Elliott's "Building the Paradox" articles**, originally published in *Messing About In Boats* magazine, prompting the exchange that surfaced their price and ordering details ($8 plus shipping) — see [Don Elliott's "Building the Paradox" articles](/references/building-the-paradox-articles.md).
+- Pointed a newcomer toward "interesting sketches" in the files section of the `microcruising` Yahoo group in answer to a query about a Matt Layden design called "Big Cruiser" — later confirmed, ten months on, as Matt's own unfinished cartoons for a stretched/enlarged Paradox that never reached final plans (see [Matt Layden (biography) — asides and footnotes](/matt-layden/biography.md#asides-and-footnotes)).
 
 # Citations
 

@@ -8,28 +8,17 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Sand Flea
 
-**Sand Flea** is an **8-foot cruising dinghy** built by
-[Matt Layden](/matt-layden/biography.md), the seventh boat in his documented
-build order — after [Enigma](/matt-layden/enigma.md) and before
-[Elusion](/matt-layden/elusion.md), his two other post-hiatus micro-cruiser
-designs. She is not a Paradox hull.
+**Sand Flea** is an **8-foot cruising dinghy** built by [Matt Layden](/matt-layden/biography.md), the seventh boat in his documented build order — after [Enigma](/matt-layden/enigma.md) and before [Elusion](/matt-layden/elusion.md), his two other post-hiatus micro-cruiser designs. She is not a Paradox hull.
 
-Beyond her 8-foot length, no design particulars are on record — no further
-dimensions, construction details, or rig.
+Beyond her 8-foot length, no design particulars are on record — no further dimensions, construction details, or rig.
 
 ## Race record
 
-Matt built Sand Flea after Enigma and — remarkably for an 8-foot boat — raced
-her competitively:
+Matt built Sand Flea after Enigma and — remarkably for an 8-foot boat — raced her competitively:
 
-- Entered in **two 300-mile Watertribe Everglades Challenges**, in **2007**
-  and **2008**.
+- Entered in **two 300-mile Watertribe Everglades Challenges**, in **2007** and **2008**.
 - Entered in the **2012 Ultra Marathon**.
-- In each of these races she finished **"near the top,"** consistent with
-  the strong race results recorded for Matt's other small boats — see
-  [Enigma](/matt-layden/enigma.md) (1st in class, 2006 Watertribe Ultimate
-  Challenge) and [Elusion](/matt-layden/elusion.md) (1st in class, 2010
-  Watertribe Ultimate Challenge).
+- In each of these races she finished **"near the top,"** consistent with the strong race results recorded for Matt's other small boats — see [Enigma](/matt-layden/enigma.md) (1st in class, 2006 Watertribe Ultimate Challenge) and [Elusion](/matt-layden/elusion.md) (1st in class, 2010 Watertribe Ultimate Challenge).
 
 # Citations
 

@@ -8,365 +8,81 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Jeff (UK, "doryman_uk")
 
-**Jeff**, a UK-based amateur boatbuilder and designer posting to the
-`paradoxbuilders` list under the e-mail handle **doryman_uk** (also as "Jeff
-Please"), ordered materials to build his own [Paradox](/paradox.md) derivative
-and became one of the list's most active construction voices. He had owned as
-many as five boats at one point (since reduced to two), worked professionally
-on design projects, and drew his own 16 ft microcruiser, "Paramour," as an
-enlarged from-scratch answer to Paradox. His surname is not recorded.
+**Jeff**, a UK-based amateur boatbuilder and designer posting to the `paradoxbuilders` list under the e-mail handle **doryman_uk** (also as "Jeff Please"), ordered materials to build his own [Paradox](/paradox.md) derivative and became one of the list's most active construction voices. He had owned as many as five boats at one point (since reduced to two), worked professionally on design projects, and drew his own 16 ft microcruiser, "Paramour," as an enlarged from-scratch answer to Paradox. His surname is not recorded.
 
 ## What he built and designed
 
-Jeff ordered material for a Paradox derivative but, with only a lean-to behind
-his house to build in, planned to start the following spring. His build plan
-called for **3/8 in marine plywood sides** and a **two-layer 3/8 in ply
-bottom** with a heavy glass-and-Kevlar layup — reasoning that few builders
-cruise as hard as Matt Layden or the Bolducs, that 3/8 in ply matches 1/2 in
-exterior ply for strength while lasting longer and bending fairer, and that on
-a wider (4 ft) stitch-and-glue bottom the [chine
-runner](/chine-runners/construction.md) would be fixed outside,
-flush, then glassed over. See [hull planking](/construction/hull-planking.md)
-for the full thread.
+Jeff ordered material for a Paradox derivative but, with only a lean-to behind his house to build in, planned to start the following spring. His build plan called for **3/8 in marine plywood sides** and a **two-layer 3/8 in ply bottom** with a heavy glass-and-Kevlar layup — reasoning that few builders cruise as hard as Matt Layden or the Bolducs, that 3/8 in ply matches 1/2 in exterior ply for strength while lasting longer and bending fairer, and that on a wider (4 ft) stitch-and-glue bottom the [chine runner](/chine-runners/construction.md) would be fixed outside, flush, then glassed over. See [hull planking](/construction/hull-planking.md) for the full thread.
 
-His larger project was **"Paramour,"** a from-scratch 16 ft stitch-and-glue
-microcruiser sharing Paradox's rig and rudder but with a flatter hull run —
-1,507 lb displacement and a .566 prismatic coefficient (via PLYBOATS) against
-Paradox's 1,410 lb and .580. It grew from a speculative "design a new 16 ft
-hull" idea — floated because the UK has no US-style 14 ft trailering rule —
-into a named design drawn over several months and estimated ~0.5 kt faster
-than stock. See [Paramour](/design/variants/paramour-design.md) for the full
-specification and [stretched Paradox](/design/variants/stretched-paradox.md)
-for the enlargement debate.
+His larger project was **"Paramour,"** a from-scratch 16 ft stitch-and-glue microcruiser sharing Paradox's rig and rudder but with a flatter hull run — 1,507 lb displacement and a .566 prismatic coefficient (via PLYBOATS) against Paradox's 1,410 lb and .580. It grew from a speculative "design a new 16 ft hull" idea — floated because the UK has no US-style 14 ft trailering rule — into a named design drawn over several months and estimated ~0.5 kt faster than stock. See [Paramour](/design/variants/paramour-design.md) for the full specification and [stretched Paradox](/design/variants/stretched-paradox.md) for the enlargement debate.
 
 ## Construction contributions
 
-- **Chine-runner construction, the kerf-and-bend method:** rather than
-  pre-manufacturing runners from small blocks, cut a single timber to the
-  drawing's shape and saw kerfs (4–6 in apart, ~12 mm of wood left, cut deeper
-  toward the sharper sweep aft) through the back and bottom edges so it bends to
-  the curve, then fill the kerfs with epoxy — "in glue and dust we put our
-  trust." See [chine runner
-  construction](/chine-runners/construction.md).
-- **Against metal-edging the runners:** the runners' shape governs the boat's
-  **windward ability**, so refacing them in metal risks the hydrodynamics unless
-  the builder has real metalworking skill.
-- **How chine runners work:** they act as a **fence** stopping water from
-  breaking off the hull sides and running underneath — the main cause of leeway
-  on a flat-bottomed hull — rather than resisting leeway like a centerboard, and
-  so should work at any angle of heel. A head-to-head reach between
-  [Paradox](/paradox.md) and [Little
-  Cruiser](/matt-layden/little-cruiser.md) (centerboard raised) was proposed to
-  settle the point; no such test is recorded. See [stretched
-  Paradox](/design/variants/stretched-paradox.md).
-- **Thin-ply precedent:** **Shane Acton's "SHRIMPY,"** an 18 ft 6 in
-  Caprice-class sloop built near Cowes that circumnavigated on a 5/16 in
-  plywood skin with no glass, was cited repeatedly — both to justify light
-  scantlings on his own build and to reassure a builder whose secondhand
-  Paradox turned out to have ~6 mm sides rather than the specified 12 mm that
-  6 mm plus glass was fine on a 13 ft 10 in boat. See [Help! — undersize side
-  panels](/construction/undersize-side-panel-ply.md).
-- **Materials sourcing:** a Kevlar bottom never meant paying retail — a
-  Paradox needs only ~5 sq m, best scrounged as offcuts from a race-boat yard.
-  See [epoxy and fiberglass materials
-  sourcing](/references/materials-sourcing-links.md). A UK epoxy/copper
-  antifouling coating, **"Copperbot,"** claimed to last ~10 years, is also on
-  record from him.
+- **Chine-runner construction, the kerf-and-bend method:** rather than pre-manufacturing runners from small blocks, cut a single timber to the drawing's shape and saw kerfs (4–6 in apart, ~12 mm of wood left, cut deeper toward the sharper sweep aft) through the back and bottom edges so it bends to the curve, then fill the kerfs with epoxy — "in glue and dust we put our trust." See [chine runner construction](/chine-runners/construction.md).
+- **Against metal-edging the runners:** the runners' shape governs the boat's **windward ability**, so refacing them in metal risks the hydrodynamics unless the builder has real metalworking skill.
+- **How chine runners work:** they act as a **fence** stopping water from breaking off the hull sides and running underneath — the main cause of leeway on a flat-bottomed hull — rather than resisting leeway like a centerboard, and so should work at any angle of heel. A head-to-head reach between [Paradox](/paradox.md) and [Little Cruiser](/matt-layden/little-cruiser.md) (centerboard raised) was proposed to settle the point; no such test is recorded. See [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Thin-ply precedent:** **Shane Acton's "SHRIMPY,"** an 18 ft 6 in Caprice-class sloop built near Cowes that circumnavigated on a 5/16 in plywood skin with no glass, was cited repeatedly — both to justify light scantlings on his own build and to reassure a builder whose secondhand Paradox turned out to have ~6 mm sides rather than the specified 12 mm that 6 mm plus glass was fine on a 13 ft 10 in boat. See [Help! — undersize side panels](/construction/undersize-side-panel-ply.md).
+- **Materials sourcing:** a Kevlar bottom never meant paying retail — a Paradox needs only ~5 sq m, best scrounged as offcuts from a race-boat yard. See [epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md). A UK epoxy/copper antifouling coating, **"Copperbot,"** claimed to last ~10 years, is also on record from him.
 
 ## Design arguments
 
-Jeff made the case **against** modifying Paradox toward bilge keels: they
-would add drag, need extra internal structure, increase leeway and draft when
-heeled, suit the flat hull poorly, and make trailer-launching much harder. The
-underlying principle — illustrated by a 16 ft rowing skiff of his own design
-that a later owner cut open for an outboard it was never meant to take — is
-that Paradox is unique and already proven at sea, and anyone needing more
-capability should choose a different design rather than compromise this one.
-See [stretched Paradox](/design/variants/stretched-paradox.md).
+Jeff made the case **against** modifying Paradox toward bilge keels: they would add drag, need extra internal structure, increase leeway and draft when heeled, suit the flat hull poorly, and make trailer-launching much harder. The underlying principle — illustrated by a 16 ft rowing skiff of his own design that a later owner cut open for an outboard it was never meant to take — is that Paradox is unique and already proven at sea, and anyone needing more capability should choose a different design rather than compromise this one. See [stretched Paradox](/design/variants/stretched-paradox.md).
 
 ## Reactions and community exchanges
 
-A complete, sailing Paradox once offered for **$500** in Florida, passed up
-at the time, struck Jeff as startling value from the UK side — about **£340**,
-barely a Paradox sail's worth, though only enough for "a crappy Mirror dinghy"
-in the UK — prompting him to wonder what transatlantic shipping would cost.
-See [secondhand Paradox market](/operations/secondhand-market.md).
+A complete, sailing Paradox once offered for **$500** in Florida, passed up at the time, struck Jeff as startling value from the UK side — about **£340**, barely a Paradox sail's worth, though only enough for "a crappy Mirror dinghy" in the UK — prompting him to wonder what transatlantic shipping would cost. See [secondhand Paradox market](/operations/secondhand-market.md).
 
-The Paramour reveal drew the design's first recorded buyer interest, with two
-list members asking to buy a plan set. Jeff, flattered, held off until he
-could check the drawings for errors, citing a crowded workload (drum fittings,
-a 53 ft motor-cruiser layout for a friend) and a struggle to get his Mustek
-1200 scanner working under Windows XP to post a TURBOCAD sketch. No completed
-plan set, price, or sale is recorded; a later query about "his 16' Paradox
-plans" went unanswered. See [Paramour](/design/variants/paramour-design.md)
-and [enlarging Paradox for a tall/heavy
-sailor](/design/variants/enlarging-for-a-large-sailor.md).
+The Paramour reveal drew the design's first recorded buyer interest, with two list members asking to buy a plan set. Jeff, flattered, held off until he could check the drawings for errors, citing a crowded workload (drum fittings, a 53 ft motor-cruiser layout for a friend) and a struggle to get his Mustek 1200 scanner working under Windows XP to post a TURBOCAD sketch. No completed plan set, price, or sale is recorded; a later query about "his 16' Paradox plans" went unanswered. See [Paramour](/design/variants/paramour-design.md) and [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md).
 
-His recurring sign-off motto: *"May the strong wind behind you never be your
-own."*
+His recurring sign-off motto: *"May the strong wind behind you never be your own."*
 
 ## Disambiguation: "Jeff UK" (`roverticket` / "Jay")
 
-A separate correspondent posted as **"Jeff UK"** (Yahoo profile `roverticket`;
-one e-mail header gives the real first name as **"Jay"**), appearing from
-March 2003. Whether this "Jeff UK" is the same person as this page's Jeff
-(`doryman_uk`) is an **open question**, tracked separately in the project
-backlog: a shared scaling-answer role and reuse of the same Shane Acton
-"SHRIMPY" precedent are circumstantially consistent with `doryman_uk`, but
-**across all of "Jeff UK"'s appearances (March 2003 – February 2004) no shared
-boat name, location, or self-identification links the two**, and the
-"Jay"/"Jeff" header mismatch cuts neither way. Relatedly, a friend of "Jeff
-UK" — not "Jeff UK" himself — was met ashore in Portland Harbour by another
-list member. Everything below concerns this second "Jeff UK."
+A separate correspondent posted as **"Jeff UK"** (Yahoo profile `roverticket`; one e-mail header gives the real first name as **"Jay"**), appearing from March 2003. Whether this "Jeff UK" is the same person as this page's Jeff (`doryman_uk`) is an **open question**, tracked separately in the project backlog: a shared scaling-answer role and reuse of the same Shane Acton "SHRIMPY" precedent are circumstantially consistent with `doryman_uk`, but **across all of "Jeff UK"'s appearances (March 2003 – February 2004) no shared boat name, location, or self-identification links the two**, and the "Jay"/"Jeff" header mismatch cuts neither way. Relatedly, a friend of "Jeff UK" — not "Jeff UK" himself — was met ashore in Portland Harbour. Everything below concerns this second "Jeff UK."
 
 ### Background and his own build plans
 
-"Jeff UK" had a professional design background — 12 years in a large
-engineering company's drawing office, then contract work for boat and
-hovercraft firms, with a professional-welder brother — and by early 2004 was
-a **director of VectaVane Ltd.**, a UK manufacturer of what he described as
-the lightest servo-pendulum wind-vane self-steering gear available.
+"Jeff UK" had a professional design background — 12 years in a large engineering company's drawing office, then contract work for boat and hovercraft firms, with a professional-welder brother — and by early 2004 was a **director of VectaVane Ltd.**, a UK manufacturer of what he described as the lightest servo-pendulum wind-vane self-steering gear available.
 
-Asked, ten months after an earlier unanswered query, whether anyone had heard
-from the designer of "the 16' stitch and glue version of Paradox," "Jeff UK"
-confirmed he was still lurking on the list and still meant to build a
-Paradox, though work commitments had kept him from starting. His drawings
-for a 16 ft Paradox-type design were by then finished with enough detail to
-build from, though he described the design more modestly than the earlier
-"Paramour" specification — as simply **stretching Paradox by 8 in** to gain
-extra living space, rather than a from-scratch redesign — and his building
-area remained committed to two other boats. He had met [Alastair](/people/alastair.md)
-in person at Cowes, aboard "[little Jim](/boats/little-jim.md)," during
-Alastair's Poole-to-Cowes crossing, and remarked on how much interior room
-Matt Layden had designed into so small a boat. In the "Steel?" thread that
-December he laid out a further concrete build plan — **3/8 in sides, a
-two-layer 1/2 in + 3/8 in bottom, solid-shaped screwed-in-place chine
-runners, and egg-box main frames sharing the water tank's longerons** —
-three years delayed by family circumstances but about to begin, using epoxy
-kept at a constant low temperature for those three years.
+Asked, ten months after an earlier unanswered query, whether anyone had heard from the designer of "the 16' stitch and glue version of Paradox," "Jeff UK" confirmed he was still lurking on the list and still meant to build a Paradox, though work commitments had kept him from starting. His drawings for a 16 ft Paradox-type design were by then finished with enough detail to build from, though he described the design more modestly than the earlier "Paramour" specification — as simply **stretching Paradox by 8 in** to gain extra living space, rather than a from-scratch redesign — and his building area remained committed to two other boats. He had met a fellow builder in person at Cowes, aboard "[little Jim](/boats/little-jim.md)," during that builder's Poole-to-Cowes crossing, and remarked on how much interior room Matt Layden had designed into so small a boat. In the "Steel?" thread that December he laid out a further concrete build plan — **3/8 in sides, a two-layer 1/2 in + 3/8 in bottom, solid-shaped screwed-in-place chine runners, and egg-box main frames sharing the water tank's longerons** — three years delayed by family circumstances but about to begin, using epoxy kept at a constant low temperature for those three years.
 
-His first appearances welcomed [Matt Layden](/matt-layden/biography.md) to
-the list — a transatlantic congratulation on the Everglades Challenge win
-(joking Matt might have become "a sort of boating version of Howard Hughs")
-and a request for detailed Paradox photos.
+His first appearances welcomed Matt Layden to the list — a transatlantic congratulation on the Everglades Challenge win (joking Matt might have become "a sort of boating version of Howard Hughs") and a request for detailed Paradox photos.
 
 ### Construction and plans answers
 
-- **Concrete scaled-up dimensions:** a Paradox-scaling question was answered
-  with a fully worked set of figures (15' 10" LOA, corrected the same day to
-  a 1.15× scale factor) — see [stretched Paradox — "Jeff UK" gives concrete
-  scaled-up dimensions](/design/variants/stretched-paradox.md).
-- **Robust construction:** argued from Shane Acton's "SHRIMPY" that
-  Paradox's sides are already more than adequately strong — the same SHRIMPY
-  precedent used over a year earlier for the same reassurance (see
-  [construction contributions](#construction-contributions) above). This
-  view agreed with a designer-fidelity case made elsewhere on the list while
-  still defending a builder's right to tinker with a design (an
-  early-automobile red-flag-law analogy), called Matt Layden "a far sighted
-  tinker," and, once Matt Layden himself weighed in with his own
-  plywood-specification reasoning, welcomed it, noting marine plywood was
-  already on hand regardless. See [hull planking — is a second layer of
-  cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth)
-  and [hull planking — Matt Layden's own account of the scantling
-  choice](/construction/hull-planking.md#matt-laydens-own-account-of-the-scantling-choice).
-- **Plywood bill of materials:** the recurring plywood-quantities question
-  was fielded directly from the plans, reading a sheet count off drawing 6's
-  parts layout — see [hull scantlings — plywood bill of
-  materials](/design/hull-scantlings.md#plywood-bill-of-materials).
-- **Beam-crop shortcut:** the curve dimensions given for bulkhead #2's
-  master beam crop on plan sheet 7 are common to all four bulkheads, so a
-  builder can mark out bulkhead #2 once and use the cut piece itself as the
-  crop for the others — lining up centerlines and deck marks and scribing
-  directly onto the next sheet of ply. See [panel layout and nesting — the
-  missing transom-radius
-  dimension, resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
-- **Lead ballast:** contributed to a lead-ballast casting question — see
-  [chine runner
-  construction](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
-- **The plans-request FAQ:** answered twice in one month — pointing a
-  newcomer to microcruising.com and its sub-$50 price, then, when another
-  correspondent reported unanswered e-mails to the Bolducs, suggesting a
-  post to the **`microcruising` Yahoo Group** directly, reasoning Dave and
-  Mindy would be more likely to see a message there, while noting the same
-  difficulty getting their e-mail to work. See [building plans — two more
-  2004 recurrences, and how to reach the Bolducs when e-mail
-  fails](/references/building-plans.md#why-paradox-resists-easy-enlargement).
-- **Terminology notes:** the bilge pump used aboard "Zoë" (a Whale product)
-  is sold in the UK as a "Gusher" rather than the US "Guzzler" — see [weight,
-  ballast, and displacement — how the no-open-hatch bailing actually
-  works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works);
-  a chine-runner/spray-rail terminology confusion was also corrected in a
-  thread about the Gibbs Aquada amphibious prototype, with the observation
-  that its roughly £150,000 price tag could instead build a 40-45 ft steel
-  Paradox with a helipad — see [aluminum and steel Paradox (speculative) — a
-  later tangent: the Gibbs Aquada, and "spray rails" vs. chine
-  runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
-- **Toe rail design rationale:** gave the fullest defense on record of the
-  plans' own toe-rail shape over a bolt-on metal substitute — cheap, low
-  windage, and self-cleaning, against a right-angled aluminum extrusion that
-  would sit at the wrong angle, stand too high, and open leak paths at its
-  mounting screws — settling a UK builder's design question. See
-  [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk)
-  and [blue-water suitability — a catalogue of conventional offshore
-  features](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined).
+- **Concrete scaled-up dimensions:** a Paradox-scaling question was answered with a fully worked set of figures (15' 10" LOA, corrected the same day to a 1.15× scale factor) — see [stretched Paradox — concrete scaled-up dimensions](/design/variants/stretched-paradox.md).
+- **Robust construction:** argued from Shane Acton's "SHRIMPY" that Paradox's sides are already more than adequately strong — the same SHRIMPY precedent used over a year earlier for the same reassurance (see [construction contributions](#construction-contributions) above). This view agreed with a designer-fidelity case made elsewhere on the list while still defending a builder's right to tinker with a design (an early-automobile red-flag-law analogy), called Matt Layden "a far sighted tinker," and, once Matt Layden himself weighed in with his own plywood-specification reasoning, welcomed it, noting marine plywood was already on hand regardless. See [hull planking — is a second layer of cloth worth it?](/construction/hull-planking.md#the-case-for-a-second-layer-of-cloth) and [hull planking — Matt Layden's own account of the scantling choice](/construction/hull-planking.md#matt-laydens-own-account-of-the-scantling-choice).
+- **Plywood bill of materials:** the recurring plywood-quantities question was fielded directly from the plans, reading a sheet count off drawing 6's parts layout — see [hull scantlings — plywood bill of materials](/design/hull-scantlings.md#plywood-bill-of-materials).
+- **Beam-crop shortcut:** the curve dimensions given for bulkhead #2's master beam crop on plan sheet 7 are common to all four bulkheads, so a builder can mark out bulkhead #2 once and use the cut piece itself as the crop for the others — lining up centerlines and deck marks and scribing directly onto the next sheet of ply. See [panel layout and nesting — the missing transom-radius dimension, resolved](/construction/panel-layout.md#the-missing-transom-radius-dimension-resolved).
+- **Lead ballast:** contributed to a lead-ballast casting question — see [chine runner construction](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
+- **The plans-request FAQ:** answered twice in one month — pointing a newcomer to microcruising.com and its sub-$50 price, then, when unanswered e-mails to the Bolducs were reported, suggesting a post to the **`microcruising` Yahoo Group** directly, reasoning Dave and Mindy would be more likely to see a message there, while noting the same difficulty getting their e-mail to work. See [building plans — two more 2004 recurrences, and how to reach the Bolducs when e-mail fails](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+- **Terminology notes:** the bilge pump used aboard "Zoë" (a Whale product) is sold in the UK as a "Gusher" rather than the US "Guzzler" — see [weight, ballast, and displacement — how the no-open-hatch bailing actually works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works); a chine-runner/spray-rail terminology confusion was also corrected in a thread about the Gibbs Aquada amphibious prototype, with the observation that its roughly £150,000 price tag could instead build a 40-45 ft steel Paradox with a helipad — see [aluminum and steel Paradox (speculative) — a later tangent: the Gibbs Aquada, and "spray rails" vs. chine runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
+- **Toe rail design rationale:** gave the fullest defense on record of the plans' own toe-rail shape over a bolt-on metal substitute — cheap, low windage, and self-cleaning, against a right-angled aluminum extrusion that would sit at the wrong angle, stand too high, and open leak paths at its mounting screws — settling a UK builder's design question. See [boats/enuf.md](/boats/enuf.md#toe-rail-is-it-needed-and-where-to-source-one-in-the-uk) and [blue-water suitability — a catalogue of conventional offshore features](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined).
 
 ### The "Steel?" design-philosophy objection
 
-The strongest design-philosophy case on record against building a Paradox in
-steel came from "Jeff UK": her whole point is that she can be built by
-anyone with low woodworking skills, and steel adds fabrication problems
-(faithfully shaping the chine runners, fairing a round-tubed steel chine
-edge, fitting a wooden deck to a steel hull) for no real gain, when Matt
-Layden has already sailed the plywood original thousands of miles. Two other
-list members answered directly — see [aluminum and steel Paradox
-(speculative) — a builder's case against steel, on design-philosophy
-grounds](/design/aluminum-construction-idea.md#a-builders-case-against-steel-on-design-philosophy-grounds).
+The strongest design-philosophy case on record against building a Paradox in steel argued: her whole point is that she can be built by anyone with low woodworking skills, and steel adds fabrication problems (faithfully shaping the chine runners, fairing a round-tubed steel chine edge, fitting a wooden deck to a steel hull) for no real gain, when Matt Layden has already sailed the plywood original thousands of miles. The case was answered directly — see [aluminum and steel Paradox (speculative) — a builder's case against steel, on design-philosophy grounds](/design/aluminum-construction-idea.md#a-builders-case-against-steel-on-design-philosophy-grounds).
 
-The exchange escalated into a direct, personal challenge over seamanship
-("take up golf or buy a white stick"), drawing a pointed reply and prompting
-other members to try to defuse the argument. Once the personal edge cooled,
-the technical questions were answered in more detail — distinguishing
-sailing in fog from navigating near it, disputing that a Bruce Roberts steel
-design validates a steel Paradox, and arguing that if steel were really
-better, Matt Layden would have built his own Paradox in it — the
-design-philosophy objection was restated point by point once more, and a
-list of steel-specific build questions was posed. The thread's fullest
-technical rebuttal of a steel Paradox, when it arrived, was welcomed as
-hitting "the nail right on the head," and the moment was used to lay out a
-concrete build plan (above); the steel question was not raised again. See
-[aluminum and steel Paradox (speculative) — the design-philosophy objection
-escalates into a personal
-dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute)
-and [Smith's rebuttal: why a steel Paradox would be "a horrible
-mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+The exchange escalated into a direct, personal challenge over seamanship ("take up golf or buy a white stick"), drawing a pointed reply and prompting efforts to defuse the argument. Once the personal edge cooled, the technical questions were answered in more detail — distinguishing sailing in fog from navigating near it, disputing that a Bruce Roberts steel design validates a steel Paradox, and arguing that if steel were really better, Matt Layden would have built his own Paradox in it — the design-philosophy objection was restated point by point once more, and a list of steel-specific build questions was posed. The thread's fullest technical rebuttal of a steel Paradox, when it arrived, was welcomed as hitting "the nail right on the head," and the moment was used to lay out a concrete build plan (above); the steel question was not raised again. See [aluminum and steel Paradox (speculative) — the design-philosophy objection escalates into a personal dispute](/design/aluminum-construction-idea.md#the-design-philosophy-objection-escalates-into-a-personal-dispute) and [rebuttal: why a steel Paradox would be "a horrible mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 
 ### Seamanship and gear opinions
 
-- **Anchoring:** Matt Layden's own view on anchoring was sought out "after
-  all he has sailed a few miles now in his boat"; a bow-ring/entry-pipe/bridle
-  scheme was sketched for retrieving the anchor rope from the afterdeck
-  without going forward, with anchoring from the stern judged simpler still;
-  a detachable anchor stowed under the floor was floated so a single rope
-  could serve both a working anchor and a sea anchor; and the question of
-  whether the Paradox afterdeck could simply be flat, as a work surface and
-  short-term anchor stowage spot, was raised directly — no answer is
-  recorded. See [ground tackle and anchoring — "Jeff UK"'s bridle scheme,
-  and a flat-afterdeck
-  counterproposal](/operations/ground-tackle.md#jeff-uks-bridle-scheme-and-a-flat-afterdeck-counterproposal).
-- **Wind vanes:** despite a commercial stake in selling more VectaVane
-  units, fitting any wind vane to Paradox was judged "a waste of time" — the
-  boat sails at too shallow an angle of heel (10-20 degrees) for such gear
-  to earn its keep, stowing spars inside the hull would foul a
-  centerline-mounted rudder linkage, and Matt Layden's own Everglades
-  Challenge win, sailed largely hands-off, is proof enough that Paradox
-  already self-steers adequately without it. An untried alternative seen on
-  the James Wharram catamaran-building website was separately floated — a
-  paddle-less wind vane, steered purely by wind pressure and mounted forward
-  of the mast with lines led aft to the tiller — while the whole question was
-  judged "purely academic" for a boat described as a coastal cruiser that
-  only thinks it's an offshore one, explicitly excepting Matt, Dave, and
-  Mindy, in whose hands she already is one. See [self-steering — a VectaVane
-  director's skeptical outside
-  view](/operations/self-steering.md#a-vectavane-directors-skeptical-outside-view).
-- **Planing under power:** the definitive answer on record on whether a
-  Paradox can plane under power — full text and citation at [auxiliary
-  outboard power — weighing a 2 hp four-stroke against a bigger motor and
-  whether Paradox can
-  plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
-- **A full motor-only "Power Paradox" conversion scheme:** answering a
-  builder considering a sail-free, motor-only Paradox, laid out a complete
-  conversion — reduced draught and rocker, a small 2-2.5 hp four-stroke
-  with the throttle led into the cabin, trim adjusted by tilting the
-  engine rather than shifting ballast (the hull will not plane regardless
-  of engine size), no chine runners needed, a forward deck hatch and solar
-  vent in place of the vent trunk, a fold-down single-burner galley in the
-  same area, wash boards as on Little Cruiser, and 2 in of extra transom
-  rake with a small outboard well and skeg. See [auxiliary outboard power
-  — ballasting for power-only use, and a full "Power Paradox" conversion
-  scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[51]
-- **Boom taper and a plastic-pipe boom.** On the sail-furling drum question,
-  agreed the boom's taper — not any drum fence — controls where the sail
-  sits when reefed, tunable with a plane/spokeshave or built up with
-  wrapped draught excluder to clear persistent creases, and floated a boom
-  laminated from three or four lengths of 1 in plastic water pipe on plywood
-  spacers (hidden by the sail's sleeve). See [rig and sail — the reefing
-  triangle, and why reshaping the boom taper is the wrong
-  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[52]
-- **Enigma-style vee for an enlarged hull.** Suggested to a builder starting
-  an 18-19 ft enlarged Paradox that veeing the bottom panel forward of
-  midships (as on Enigma) would save a few hundred pounds of displacement.
-  See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
-  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[53]
-- **A 7'6" Paradox/Enigma rig, mentioned then dropped.** On seeing Nels's
-  carbon-tape boom-core idea, declared it the answer for the rig of a
-  "7' 6" version of PARADOX / ENIGMA" he had discussed off-list, and said he
-  would "get on with the drawings right away" — but no drawings or further
-  mention of this scaled-down rig followed on record, beyond a closing
-  exchange of jokes with Alastair (a Venetian-blind sail) and Derek Clark
-  (whether it would be "controlled by electric motors"), which he closed out
-  himself with a one-line quip blaming a keyboard glitch for a run of
-  missing R's in his own reply. See [a scaled-down
-  "mini" Paradox
-  (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[54][56][57]
-- **Scaling a mast and sail together for an enlarged hull.** Answering the
-  builder of the 18-19 ft "maxi paradox," gave a worked method for sizing a
-  new rig to an enlarged hull: design the mast to fit inside the boat first,
-  then scale the Mk2 sail up to match (expecting to reduce it slightly once
-  drawn), using the stock Paradox sail plan as a guide for the sail's lead —
-  recalling his own past calculation put the lead at just under **10%**. See
-  [stretched Paradox — a builder's 18-19 ft "maxi paradox," under
-  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[55]
-- **A near-built 17 ft Paradox-type motor cruiser, and "PARANIGMA."** "Jeff
-  UK" disclosed, in September 2006, a motor-cruiser project of his own that
-  had never previously appeared on the list: a **17 ft, Paradox-type hull**
-  with the same accommodation as Paradox but a multi-chine bottom, sized for
-  his 2 hp Honda outboard, for which he had already cut the hull parts and
-  bulkheads a year before — derailed only by scaffolding erected next door.
-  He named his still-pending next design **"PARANIGMA,"** his own portmanteau
-  for a Paradox/Enigma hybrid, and said the motor cruiser would follow once
-  PARANIGMA was finished. Full thread context at [boats/enuf.md — a near-miss
-  Paradox-type motor cruiser, and "Enuf" as a talking point for
-  motorboating](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[58]
-- **Objecting to a full-skeg, barn-door-rudder redesign.** Answering a
-  correspondent's own drawn Paradox interpretation, explained why moving the
-  rudder onto a long skeg is not a simple hardware swap: it shifts the
-  center of lateral resistance aft, forcing the sail's center of effort and
-  the mast aft with it, and alters the sail's lead — concluding the change
-  is not worth making without fully understanding the consequences, since it
-  only adds draught and risks a worse-sailing boat. Full text at
-  [design/rudder.md — a proposed full skeg and barn-door rudder, and why it
-  shifts the whole
-  design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[59]
+- **Anchoring:** Matt Layden's own view on anchoring was sought out "after all he has sailed a few miles now in his boat"; a bow-ring/entry-pipe/bridle scheme was sketched for retrieving the anchor rope from the afterdeck without going forward, with anchoring from the stern judged simpler still; a detachable anchor stowed under the floor was floated so a single rope could serve both a working anchor and a sea anchor; and the question of whether the Paradox afterdeck could simply be flat, as a work surface and short-term anchor stowage spot, was raised directly — no answer is recorded. See [ground tackle and anchoring — a bridle scheme, and a flat-afterdeck counterproposal](/operations/ground-tackle.md#jeff-uks-bridle-scheme-and-a-flat-afterdeck-counterproposal).
+- **Wind vanes:** despite a commercial stake in selling more VectaVane units, fitting any wind vane to Paradox was judged "a waste of time" — the boat sails at too shallow an angle of heel (10-20 degrees) for such gear to earn its keep, stowing spars inside the hull would foul a centerline-mounted rudder linkage, and Matt Layden's own Everglades Challenge win, sailed largely hands-off, is proof enough that Paradox already self-steers adequately without it. An untried alternative seen on the James Wharram catamaran-building website was separately floated — a paddle-less wind vane, steered purely by wind pressure and mounted forward of the mast with lines led aft to the tiller — while the whole question was judged "purely academic" for a boat described as a coastal cruiser that only thinks it's an offshore one, explicitly excepting Matt, Dave, and Mindy, in whose hands she already is one. See [self-steering — a VectaVane director's skeptical outside view](/operations/self-steering.md#a-vectavane-directors-skeptical-outside-view).
+- **Planing under power:** the definitive answer on record on whether a Paradox can plane under power — full text and citation at [auxiliary outboard power — weighing a 2 hp four-stroke against a bigger motor and whether Paradox can plane](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+- **A full motor-only "Power Paradox" conversion scheme:** answering a query about a sail-free, motor-only Paradox, laid out a complete conversion — reduced draught and rocker, a small 2-2.5 hp four-stroke with the throttle led into the cabin, trim adjusted by tilting the engine rather than shifting ballast (the hull will not plane regardless of engine size), no chine runners needed, a forward deck hatch and solar vent in place of the vent trunk, a fold-down single-burner galley in the same area, wash boards as on Little Cruiser, and 2 in of extra transom rake with a small outboard well and skeg. See [auxiliary outboard power — ballasting for power-only use, and a full "Power Paradox" conversion scheme](/operations/auxiliary-outboard-power.md#ballasting-for-power-only-use-and-a-full-power-paradox-conversion-scheme).[51]
+- **Boom taper and a plastic-pipe boom.** On the sail-furling drum question, agreed the boom's taper — not any drum fence — controls where the sail sits when reefed, tunable with a plane/spokeshave or built up with wrapped draught excluder to clear persistent creases, and floated a boom laminated from three or four lengths of 1 in plastic water pipe on plywood spacers (hidden by the sail's sleeve). See [rig and sail — the reefing triangle, and why reshaping the boom taper is the wrong fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[52]
+- **Enigma-style vee for an enlarged hull.** Suggested, for an 18-19 ft enlarged Paradox under construction, that veeing the bottom panel forward of midships (as on Enigma) would save a few hundred pounds of displacement. See [stretched Paradox — an 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[53]
+- **A 7'6" Paradox/Enigma rig, mentioned then dropped.** On seeing a carbon-tape boom-core idea, declared it the answer for the rig of a "7' 6" version of PARADOX / ENIGMA" discussed off-list, and said the drawings would follow "right away" — but no drawings or further mention of this scaled-down rig followed on record, beyond a closing exchange of jokes (a Venetian-blind sail, and whether it would be "controlled by electric motors"), closed out with a one-line quip blaming a keyboard glitch for a run of missing R's. See [a scaled-down "mini" Paradox (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[54][56][57]
+- **Scaling a mast and sail together for an enlarged hull.** For the 18-19 ft "maxi paradox," gave a worked method for sizing a new rig to an enlarged hull: design the mast to fit inside the boat first, then scale the Mk2 sail up to match (expecting to reduce it slightly once drawn), using the stock Paradox sail plan as a guide for the sail's lead — recalling a past calculation that put the lead at just under **10%**. See [stretched Paradox — an 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[55]
+- **A near-built 17 ft Paradox-type motor cruiser, and "PARANIGMA."** Disclosed, in September 2006, a motor-cruiser project that had never previously appeared on the list: a **17 ft, Paradox-type hull** with the same accommodation as Paradox but a multi-chine bottom, sized for a 2 hp Honda outboard, for which the hull parts and bulkheads had already been cut a year before — derailed only by scaffolding erected next door. The still-pending next design was named **"PARANIGMA,"** a portmanteau for a Paradox/Enigma hybrid, with the motor cruiser to follow once PARANIGMA was finished. Full thread context at [boats/enuf.md — a near-miss Paradox-type motor cruiser, and "Enuf" as a talking point for motorboating](/boats/enuf.md#a-near-miss-paradox-type-motor-cruiser-and-enuf-as-a-talking-point-for-motorboating).[58]
+- **Objecting to a full-skeg, barn-door-rudder redesign.** Answering a query about a drawn Paradox interpretation, explained why moving the rudder onto a long skeg is not a simple hardware swap: it shifts the center of lateral resistance aft, forcing the sail's center of effort and the mast aft with it, and alters the sail's lead — concluding the change is not worth making without fully understanding the consequences, since it only adds draught and risks a worse-sailing boat. Full text at [design/rudder.md — a proposed full skeg and barn-door rudder, and why it shifts the whole design](/design/rudder.md#a-proposed-full-skeg-and-barn-door-rudder-and-why-it-shifts-the-whole-design).[59]
 
 ### List persona
 
-Asked, along with the rest of the list, who was building an unidentified
-hull posted to the group's photo album, "Jeff UK" disclaimed ownership
-outright — "I cannot tell a lie. It's not mine." — see [Glen Maxwell —
-chasing down quiet
-builders](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports).
-When a new member's frustration with the group's infighting led to a public
-unsubscribe, the reply was good-humored: real dedication to building a
-Paradox shouldn't be shaken by a couple of members' antics, likening the
-complaint to "arguing over how many Angels can dance on the head of a pin"
-and embracing the "saddo" label rather than taking offense, signed "Saddo
-Jeff UK." A public plea to reconsider a builder's ban drew a rare one-line
-second — "Bill, I will second that." During a tools-list debate, a
-coatings-related letter from the Aircar website was forwarded as relevant to
-the group's ongoing coatings discussion, with no further discussion
-following. A topical, off-topic joke tying a current-events story to the
-Paradox's small size and shallow draft is also on record as a one-off aside.
-A secondhand-boat aside is also on record: an eBay-listed cat-ketch
-centerboard cruiser flagged as good microcruiser material, alongside a
-recurring gripe that comparable secondhand boats cost roughly twice as
-much in the UK as in the US.[49]
+Asked, along with the rest of the list, who was building an unidentified hull posted to the group's photo album, "Jeff UK" disclaimed ownership outright — "I cannot tell a lie. It's not mine." — see [chasing down quiet builders for photos and progress reports](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports). When a new member's frustration with the group's infighting led to a public unsubscribe, the reply was good-humored: real dedication to building a Paradox shouldn't be shaken by a couple of members' antics, likening the complaint to "arguing over how many Angels can dance on the head of a pin" and embracing the "saddo" label rather than taking offense, signed "Saddo Jeff UK." A public plea to reconsider a builder's ban drew a rare one-line second — "Bill, I will second that." During a tools-list debate, a coatings-related letter from the Aircar website was forwarded as relevant to the group's ongoing coatings discussion, with no further discussion following. A topical, off-topic joke tying a current-events story to the Paradox's small size and shallow draft is also on record as a one-off aside. A secondhand-boat aside is also on record: an eBay-listed cat-ketch centerboard cruiser flagged as good microcruiser material, alongside a recurring gripe that comparable secondhand boats cost roughly twice as much in the UK as in the US.[49]
 
-When Derek Clark announced he was leaving the group after selling "Enuf,"
-Jeff UK argued the group's 753-strong membership was never mostly Paradox
-owners or builders in the first place, so a member switching to a motor
-cruiser was no disqualification — closing with "welcome back from the
-brink." Full account at
-[boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[60]
+When an announcement was made of leaving the group after selling "Enuf," "Jeff UK" argued the group's 753-strong membership was never mostly Paradox owners or builders in the first place, so a member switching to a motor cruiser was no disqualification — closing with "welcome back from the brink." Full account at [boats/enuf.md](/boats/enuf.md#a-departure-an-outpouring-of-support-and-second-thoughts).[60]
 
 # Citations
 

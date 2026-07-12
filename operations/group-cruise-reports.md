@@ -8,270 +8,95 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Group cruise planning and firsthand trip reports (February 2002)
 
-Paradox owners have organized group cruises and gathering points since early
-in the boat's history, growing out of the same thread that produced
-[rot-check advice](/construction/rot-inspection-ice-pick.md) for a secondhand
-hull. That thread also carries two independent firsthand sailing/camping
-reports that remain useful data points on crew size and cold-weather handling.
+Paradox owners have organized group cruises and gathering points since early in the boat's history, growing out of the same thread that produced [rot-check advice](/construction/rot-inspection-ice-pick.md) for a secondhand hull. That thread also carries two independent firsthand sailing/camping reports that remain useful data points on crew size and cold-weather handling.
 
 ## Apalachicola Bay as a proposed meeting ground
 
-**Apalachicola Bay**, with campgrounds on St. George Island, was an early
-proposed meeting ground for Paradox owners — "a wonderful place to camp and
-sail," with each owner able to inspect and sail the other's boat and swap
-ideas, and open to other list members and to a more central location if one
-made better sense. Apalachicola is roughly an 8-hour drive from Memphis.
+**Apalachicola Bay**, with campgrounds on St. George Island, was an early proposed meeting ground for Paradox owners — "a wonderful place to camp and sail," with each owner able to inspect and sail the other's boat and swap ideas, and open to other list members and to a more central location if one made better sense. Apalachicola is roughly an 8-hour drive from Memphis.
 
-Rather than wait for a scheduled group date, one owner made a solo scouting
-trip of the bay, launching "Zoë" from Carrabelle Beach on the eastern side of
-**St George Sound** (about 30 miles long) and anchoring near **St George
-Island State Park**, with an open invitation for anyone in the area to meet
-up over the weekend — the first record of a Paradox owner actually acting on
-a proposed group cruise, even though it played out as an individual scouting
-trip with an open invitation rather than the originally proposed joint
-outing.
+Rather than wait for a scheduled group date, one owner made a solo scouting trip of the bay, launching "Zoë" from Carrabelle Beach on the eastern side of **St George Sound** (about 30 miles long) and anchoring near **St George Island State Park**, with an open invitation for anyone in the area to meet up over the weekend — the first record of a Paradox owner actually acting on a proposed group cruise, even though it played out as an individual scouting trip with an open invitation rather than the originally proposed joint outing.
 
 ## Two-up cruising: Glen and Nancy at Sebastian, FL
 
-A weekend cruise at **Sebastian**, Florida — "a beautiful place to sail
-around," with many clean, uninhabited spoil islands to go ashore on —
-provides a concrete real-world data point for
-[crew size and cabin fit](/operations/crew-size-and-fit.md):
+A weekend cruise at **Sebastian**, Florida — "a beautiful place to sail around," with many clean, uninhabited spoil islands to go ashore on — provides a concrete real-world data point for [crew size and cabin fit](/operations/crew-size-and-fit.md):
 
-- **Glen C. Maxwell** (5'9", 190 lb) and his wife **Nancy** (5'6", 185 lb)
-  sailed Paradox "Zoë" together for the first time, with better results than
-  expected.
-- With two small dogs also along, sleeping two aboard was judged "too much"
-  for the cabin, so the crew pitched a **tent ashore** to sleep, while still
-  doing all their cooking aboard the boat.
+- An owner (5'9", 190 lb) and his wife (5'6", 185 lb) sailed Paradox "Zoë" together for the first time, with better results than expected.
+- With two small dogs also along, sleeping two aboard was judged "too much" for the cabin, so the crew pitched a **tent ashore** to sleep, while still doing all their cooking aboard the boat.
 - Weather was favorable: 80s°F by day, cool nights, no biting insects.
 
-Two adults of very ordinary stature spent a full weekend cruising together
-successfully on this evidence — camping ashore for sleeping but living and
-cooking aboard by day — complementing the more speculative "wearing the boat"
-modifications discussed on the
-[crew size and cabin fit](/operations/crew-size-and-fit.md) page.
+Two adults of very ordinary stature spent a full weekend cruising together successfully on this evidence — camping ashore for sleeping but living and cooking aboard by day — complementing the more speculative "wearing the boat" modifications discussed on the [crew size and cabin fit](/operations/crew-size-and-fit.md) page.
 
 ## Winter river cruising and a lee-shore grounding lesson
 
-A three-day river cruise in genuinely harsh winter conditions — overnight
-lows in the **mid 20s°F**, daytime highs in the **mid 40s°F**, sleet and snow
-beginning at departure — proved the boat "pretty comfortable" and handling
-"ok" even for a sailor still learning her.
+A three-day river cruise in genuinely harsh winter conditions — overnight lows in the **mid 20s°F**, daytime highs in the **mid 40s°F**, sleet and snow beginning at departure — proved the boat "pretty comfortable" and handling "ok" even for a sailor still learning her.
 
 A close call yielded an explicit handling lesson:
 
 > "Be careful of a lee shore if you have to claw off into the wind."
 
-Attempting to come about too late while trying to claw off a lee shore, the
-boat failed to complete the tack, was pushed onto a **20 ft rock ledge**, and
-grounded — requiring a push-off in bitterly cold water. This is the earliest
-recorded account of a Paradox failing to complete a tack in a lee-shore
-situation and grounding as a result, a cautionary data point for
-[sailing characteristics and rig balance](/operations/sailing-characteristics.md).
+Attempting to come about too late while trying to claw off a lee shore, the boat failed to complete the tack, was pushed onto a **20 ft rock ledge**, and grounded — requiring a push-off in bitterly cold water. This is the earliest recorded account of a Paradox failing to complete a tack in a lee-shore situation and grounding as a result, a cautionary data point for [sailing characteristics and rig balance](/operations/sailing-characteristics.md).
 
 Cabin comfort and ventilation notes from the same trip:
 
-- Rain fell for most of the three days; the cabin kept the crew "high and dry"
-  throughout.
-- The cabin was a little uncomfortable for extended sitting; a child's bean
-  bag was considered as a seating aid.
-- The Paradox's ventilation system worked "too well" for cold-weather use —
-  it needs to be covered for winter sailing, a practical complement to the
-  design's vent-trunk/mast-partners arrangement (see
-  [mast partners and vent trunk](/design/mast-partners.md)) and to the
-  general [cabin heating](/operations/cabin-heating.md) discussion, which had
-  not previously identified over-ventilation (as opposed to heat source) as a
-  cold-weather problem.
+- Rain fell for most of the three days; the cabin kept the crew "high and dry" throughout.
+- The cabin was a little uncomfortable for extended sitting; a child's bean bag was considered as a seating aid.
+- The Paradox's ventilation system worked "too well" for cold-weather use — it needs to be covered for winter sailing, a practical complement to the design's vent-trunk/mast-partners arrangement (see [mast partners and vent trunk](/design/mast-partners.md)) and to the general [cabin heating](/operations/cabin-heating.md) discussion, which had not previously identified over-ventilation (as opposed to heat source) as a cold-weather problem.
 
 ## A second gathering point: the Cedar Key small-boat meet
 
-Independent of the Apalachicola Bay proposal, the annual **Cedar Key**
-small-boat meet in Florida is the group's other established gathering
-opportunity. Cedar Key hosts "an ecclectic event" every year on the **first
-Saturday and Sunday of May**, drawing many home-made and other small boats
-and "many free spirits." One longtime attendee — sailing a Seapearl 21
-trimaran and a Seapearl 28, and builder of a Bolger Micro, a Nymph, and a CLC
-Cape Charles 18 kayak — introduced the event to the Paradox group, calling it
-"a lovely place and a lot of fun"; [David Beard](/people/david-beard.md)
-started his own sailing career in a Little Cruiser at Cedar Key.
+Independent of the Apalachicola Bay proposal, the annual **Cedar Key** small-boat meet in Florida is the group's other established gathering opportunity. Cedar Key hosts "an ecclectic event" every year on the **first Saturday and Sunday of May**, drawing many home-made and other small boats and "many free spirits." A longtime attendee — sailing a Seapearl 21 trimaran and a Seapearl 28, and builder of a Bolger Micro, a Nymph, and a CLC Cape Charles 18 kayak — introduced the event to the Paradox group, calling it "a lovely place and a lot of fun"; one Paradox owner started his own sailing career in a Little Cruiser at Cedar Key.
 
-Whether Cedar Key is the region's sole recurring small-boat meet for
-Paradox-type builders, or simply the only one on record, remains unresolved.
+Whether Cedar Key is the region's sole recurring small-boat meet for Paradox-type builders, or simply the only one on record, remains unresolved.
 
 ### Comparing "Whisper" and "Zoë" side by side
 
-Cedar Key is confirmed as a real, if informally organized, meeting point.
-[Glen C. Maxwell](/people/glen-maxwell.md) and
-[David Beard](/people/david-beard.md) separately arranged to
-**compare "Whisper" and "Zoë" side by side under sail** — the first record of
-a proposed direct comparison between two named, sailing Paradox hulls,
-distinct from the individual hull-speed/GPS data points recorded on the
-[hull speed](/operations/hull-speed.md) page. Cedar Key lies a two-hour drive
-from Zoë's home waters; Zoë had already sailed **from Cedar Key to
-Clearwater** for her sea trials (see [Zoë](/boats/zoe.md)).
+Cedar Key is confirmed as a real, if informally organized, meeting point. The owners of "Whisper" and "Zoë" separately arranged to **compare the two side by side under sail** — the first record of a proposed direct comparison between two named, sailing Paradox hulls, distinct from the individual hull-speed/GPS data points recorded on the [hull speed](/operations/hull-speed.md) page. Cedar Key lies a two-hour drive from Zoë's home waters; Zoë had already sailed **from Cedar Key to Clearwater** for her sea trials (see [Zoë](/boats/zoe.md)).
 
-Cedar Key (first weekend of May) and the ad hoc Apalachicola Bay meetup are
-the community's only two recorded data points on Paradox owners meeting up
-with each other or the wider small-boat community in person, as distinct from
-[Texas 200](/operations/texas-200.md) and the
-[Port Townsend Wooden Boat Show](/operations/texas-200.md), which are
-individual-boat cruising/show achievements rather than group meetups.
+Cedar Key (first weekend of May) and the ad hoc Apalachicola Bay meetup are the community's only two recorded data points on Paradox owners meeting up with each other or the wider small-boat community in person, as distinct from [Texas 200](/operations/texas-200.md) and the [Port Townsend Wooden Boat Show](/operations/texas-200.md), which are individual-boat cruising/show achievements rather than group meetups.
 
 ## The Bolducs' cruising log and buddy-boating with Matt Layden (microcruising.com)
 
-David and Mindy Bolduc's own decades-long cruising log, kept on
-microcruising.com, is the fullest independent record of Paradox-family group
-cruising and of the Cedar Key gathering. Sailing
-[Little Cruiser](/matt-layden/little-cruiser.md) unless noted, their
-documented voyages include: a **1993** first Bahamas trip (Bimini–Chub
-Cay–Cat Cay); a **1994 joint Bahamas cruise with Matt Layden** sailing
-[Paradox](/boats/original-paradox.md) (Bimini–Chub–Nassau–Exumas–Long
-Island–Conception–Rum Cay–Spanish Wells–Eleuthera), during which they met
-Chris Morejohn's family living aboard the 32-foot sharpie "Hogfish Lips";
-further Bahamas cruises in **1995** (an Abaco circumnavigation), **1996**,
-**1998**, and **2001**; a **2003** circumnavigation of Andros; a **2006**
-three-week cruise of North Carolina's Outer Banks; and Dave's **2013** solo,
-engine-free Bahamas crossing in [Enigma](/matt-layden/enigma.md) — described
-on the site as the "smallest sailboat to have ever cruised the islands" —
-his seventh trip to the islands overall (six of the prior trips had been made
-with Mindy). Each Bahamas cruise averaged roughly **800 miles sailed over
-about 2.5 months**.
+A decades-long cruising log kept on microcruising.com is the fullest independent record of Paradox-family group cruising and of the Cedar Key gathering. Sailing [Little Cruiser](/matt-layden/little-cruiser.md) unless noted, the documented voyages include: a **1993** first Bahamas trip (Bimini–Chub Cay–Cat Cay); a **1994 joint Bahamas cruise with Matt Layden** sailing [Paradox](/boats/original-paradox.md) (Bimini–Chub–Nassau–Exumas–Long Island–Conception–Rum Cay–Spanish Wells–Eleuthera), during which the party met a family living aboard the 32-foot sharpie "Hogfish Lips"; further Bahamas cruises in **1995** (an Abaco circumnavigation), **1996**, **1998**, and **2001**; a **2003** circumnavigation of Andros; a **2006** three-week cruise of North Carolina's Outer Banks; and a **2013** solo, engine-free Bahamas crossing in [Enigma](/matt-layden/enigma.md) — described on the site as the "smallest sailboat to have ever cruised the islands" — the log-keeper's seventh trip to the islands overall (six of the prior trips had been two-up). Each Bahamas cruise averaged roughly **800 miles sailed over about 2.5 months**.
 
-The annual Cedar Key gathering (organized by the West Coast Trailer Sailing
-Squadron, held the first weekend of May) recurs throughout the Bolducs' log:
-they attended in **2003**, **2006**, **2007** ("nine sharpies" were present
-that year), **2008** (sailing Enigma), and **2019**, when Matt Layden gave a
-dinner talk on his design lineage with author Ida Little present in the
-audience. The Paradoxes "Zoë" and "Whisper" were among the boats documented at
-the 2003 Cedar Key meet. Cross-link
-[gulf stream crossing](/operations/gulf-stream-crossing.md),
-[micro cruising group](/references/micro-cruising-group.md).
+The annual Cedar Key gathering (organized by the West Coast Trailer Sailing Squadron, held the first weekend of May) recurs throughout the log: attendance is recorded in **2003**, **2006**, **2007** ("nine sharpies" were present that year), **2008** (sailing Enigma), and **2019**, when Matt Layden gave a dinner talk on his design lineage with author Ida Little present in the audience. The Paradoxes "Zoë" and "Whisper" were among the boats documented at the 2003 Cedar Key meet. Cross-link [gulf stream crossing](/operations/gulf-stream-crossing.md), [micro cruising group](/references/micro-cruising-group.md).
 
 ## The 2003 Cedar Key messabout: dates and logistics
 
-The **2003 Cedar Key messabout** was held the first weekend of May — the
-**3rd and 4th** — with "[Zoë](/boats/zoe.md)" made available at the event for
-anyone wanting to "try one on for size and test sail," and most of the
-activity centered on **Atsena Otie Key**. **Ron Hoddenot's website**
-(`members.ij.net/wctss/wctss/index.htm`) carries archival Cedar Key photos;
-the gathering is "a wonderful place to meet like minded people," with
-priceless natural habitat.
+The **2003 Cedar Key messabout** was held the first weekend of May — the **3rd and 4th** — with "[Zoë](/boats/zoe.md)" made available at the event for anyone wanting to "try one on for size and test sail," and most of the activity centered on **Atsena Otie Key**. An archival website (`members.ij.net/wctss/wctss/index.htm`) carries archival Cedar Key photos; the gathering is "a wonderful place to meet like minded people," with priceless natural habitat.
 
-Trip-planning detail for the event: the regional forecast for that time of
-year is "the best time of the year," with little rain, highs in the 80s, and
-lows in the upper 60s. Cedar-Key-specific conditions run "usually great
-sailing," with morning wind up to 20 kt dying to nearly calm by 2 pm and
-sometimes returning in the evening, depending on the prevailing weather. That
-year had no fishing tournament competing for space, lodging options included
-the **Gulfside Motel** and the Island Place next door (with others scattered
-at other hotels or the RV camp outside town), and most boats are left on the
-**Island Place beach** at low tide, with some sailors anchored out by Atsena
-Otie.
+Trip-planning detail for the event: the regional forecast for that time of year is "the best time of the year," with little rain, highs in the 80s, and lows in the upper 60s. Cedar-Key-specific conditions run "usually great sailing," with morning wind up to 20 kt dying to nearly calm by 2 pm and sometimes returning in the evening, depending on the prevailing weather. That year had no fishing tournament competing for space, lodging options included the **Gulfside Motel** and the Island Place next door (with others scattered at other hotels or the RV camp outside town), and most boats are left on the **Island Place beach** at low tide, with some sailors anchored out by Atsena Otie.
 
-This is the first confirmed, dated commitment to a specific Cedar Key
-messabout, as opposed to the general "hope to attend next year" sentiment
-recorded the previous July — and the record, together with
-[the Bolducs' cruising log](#the-bolducs-cruising-log-and-buddy-boating-with-matt-layden-microcruisingcom),
-confirms the gathering did go ahead substantially as planned, with Zoë and
-Whisper both among the boats present.
+This is the first confirmed, dated commitment to a specific Cedar Key messabout, as opposed to the general "hope to attend next year" sentiment recorded the previous July — and the record, together with [the Bolducs' cruising log](#the-bolducs-cruising-log-and-buddy-boating-with-matt-layden-microcruisingcom), confirms the gathering did go ahead substantially as planned, with Zoë and Whisper both among the boats present.
 
 ## Glen Maxwell attends, and meets Matt Layden in person
 
-The messabout went ahead as planned on **3-4 May 2003**, with a firsthand,
-contemporaneous confirmation that "we all had a great time."
+The messabout went ahead as planned on **3-4 May 2003**, with a firsthand, contemporaneous confirmation that "we all had a great time."
 
-**Matt Layden** was present in person at the gathering — a second recorded
-face-to-face meeting between him and a Paradox owner, after sailing together
-at Ft. Desoto just before the 2003 Everglades Challenge — yielding a
-technical detail on his furling method: to furl without a topping lift, Matt
-presses his **foot** on the furling line while hoisting and on the halyard
-while furling, freeing both hands. See
-[Matt Layden — meeting at the 2003 Cedar Key Messabout](/matt-layden/biography.md)
-and
-[furling system](/design/furling-system.md)
-for the fuller record of this exchange.
+**Matt Layden** was present in person at the gathering — a second recorded face-to-face meeting between him and a Paradox owner, after sailing together at Ft. Desoto just before the 2003 Everglades Challenge — yielding a technical detail on his furling method: to furl without a topping lift, Matt presses his **foot** on the furling line while hoisting and on the halyard while furling, freeing both hands. See [Matt Layden — meeting at the 2003 Cedar Key Messabout](/matt-layden/biography.md) and [furling system](/design/furling-system.md) for the fuller record of this exchange.
 
 ## Independent photographic confirmation: West Coast Trailer Sailers
 
-A further, independent piece of photographic evidence for the 2003 Cedar Key
-gathering came from the **West Coast Trailer Sailers**, a small-boat club
-distinct from the Cedar Key event's own organizers: the club posted photos on
-their website (`members.ij.net/wctss/wctss/photo.htm`, the same Ron Hoddenot
-site already pointed to for archival Cedar Key photos — see
-[the 2003 Cedar Key messabout](#the-2003-cedar-key-messabout-dates-and-logistics))
-showing **two Paradoxes** present at the recent Cedar Key get-together, "indeed
-great" pictures with "several of Zoe looking great," including side-by-side
-shots of "[Whisper](/boats/whisper.md)" and "[Zoë](/boats/zoe.md)" together
-and photos of Zoë under sail, "especially enticing."
+A further, independent piece of photographic evidence for the 2003 Cedar Key gathering came from the **West Coast Trailer Sailers**, a small-boat club distinct from the Cedar Key event's own organizers: the club posted photos on their website (`members.ij.net/wctss/wctss/photo.htm`, the same archival site already pointed to for Cedar Key photos — see [the 2003 Cedar Key messabout](#the-2003-cedar-key-messabout-dates-and-logistics)) showing **two Paradoxes** present at the recent Cedar Key get-together, "indeed great" pictures with "several of Zoe looking great," including side-by-side shots of "[Whisper](/boats/whisper.md)" and "[Zoë](/boats/zoe.md)" together and photos of Zoë under sail, "especially enticing."
 
-This is the earliest photographic confirmation, from a source outside the
-mailing list itself, that both "Zoë" and (per
-[the Bolducs' own cruising log](#the-bolducs-cruising-log-and-buddy-boating-with-matt-layden-microcruisingcom))
-"Whisper" attended the 2003 Cedar Key Messabout side by side — corroborating,
-from three independent angles now (the group's own contemporaneous planning
-thread, the Bolducs' cruising log, and this outside club's photo page), that
-the gathering came off much as planned.
+This is the earliest photographic confirmation, from a source outside the mailing list itself, that both "Zoë" and (per [the Bolducs' own cruising log](#the-bolducs-cruising-log-and-buddy-boating-with-matt-layden-microcruisingcom)) "Whisper" attended the 2003 Cedar Key Messabout side by side — corroborating, from three independent angles now (the group's own contemporaneous planning thread, the Bolducs' cruising log, and this outside club's photo page), that the gathering came off much as planned.
 
 ## Press coverage: the 2003 Small Craft Advisor Cedar Key article
 
-The 2003 Cedar Key gathering also reached print. *Small Craft Advisor*'s
-Sept/Oct 2003 issue carried Ron Hoddinott's "Cedar Key Small Boat Meet,"
-which devoted substantial space to the two Paradoxes present — Glen
-Maxwell's "[Zoë](/boats/zoe.md)" and David Beard's
-"[Whisper](/boats/whisper.md)" — praising both and noting at one point that
-"Zoë appeared to be sailing to windward higher and faster than my Sea Pearl
-with its leeboard down." The article also recorded seeing designer
-[Matt Layden](/matt-layden/biography.md), described as "the reclusive
-designer," at the gathering, and ran four photographs of "Zoë" and
-"Whisper" alongside other boats present. (The same event's earlier
-photographic record came via a similarly named website, Ron Hoddenot's
-`members.ij.net/wctss` — see
-[independent photographic confirmation](#independent-photographic-confirmation-west-coast-trailer-sailers)
-above; the archive does not confirm whether this is the same person as the
-article's author.) The same issue carried an unrelated Hugh Horton
-installment on Valerie and Verlen Kruger's "Two Continent Canoe
-Expedition."
+The 2003 Cedar Key gathering also reached print. *Small Craft Advisor*'s Sept/Oct 2003 issue carried a "Cedar Key Small Boat Meet" feature, which devoted substantial space to the two Paradoxes present — "[Zoë](/boats/zoe.md)" and "[Whisper](/boats/whisper.md)" — praising both and noting at one point that "Zoë appeared to be sailing to windward higher and faster than my Sea Pearl with its leeboard down." The article also recorded seeing designer [Matt Layden](/matt-layden/biography.md), described as "the reclusive designer," at the gathering, and ran four photographs of "Zoë" and "Whisper" alongside other boats present. (The same event's earlier photographic record came via a similarly named website, `members.ij.net/wctss` — see [independent photographic confirmation](#independent-photographic-confirmation-west-coast-trailer-sailers) above; the archive does not confirm whether this is the same source as the article's author.) The same issue carried an unrelated installment on the Krugers' "Two Continent Canoe Expedition."
 
 ## A third gathering point: the Iowa "messabout"
 
-A general small-boat-builder gathering — not Paradox-specific — was also
-proposed at **Lake Okoboji, in northwest Iowa**, tentatively for the
-following summer (June–August 2003), with interest already reported from
-builders in Minneapolis, Dakota Dunes (SD), and northwest Iowa, and any boat
-welcome "so long as it floats." No connection to the established Cedar Key
-gathering or to any known Paradox builder is recorded, leaving it a third,
-geographically distinct small-boat gathering point alongside Apalachicola
-Bay and Cedar Key.
+A general small-boat-builder gathering — not Paradox-specific — was also proposed at **Lake Okoboji, in northwest Iowa**, tentatively for the following summer (June–August 2003), with interest already reported from builders in Minneapolis, Dakota Dunes (SD), and northwest Iowa, and any boat welcome "so long as it floats." No connection to the established Cedar Key gathering or to any known Paradox builder is recorded, leaving it a third, geographically distinct small-boat gathering point alongside Apalachicola Bay and Cedar Key.
 
 ## The 2006 Cedar Key gathering, and notable past attendees
 
-Asked in January 2006 whether a Cedar Key get-together would happen again
-that year, the answer confirmed the pattern holds: the gathering always falls
-on the first full weekend of May — in 2006, **6-7 May**. By then the event
-had grown into "a big affair with a lot of stars of the small boat building
-community": the previous year's gathering had drawn Matt Layden, sailing his
-new, lighter Paradox; Robb White; and the Gugeon brothers of WEST System
-epoxy, among many others. Glen Maxwell was by then a regular attendee with
-"Zoë." Motels around Cedar Key fill to capacity that weekend, making early
-booking necessary.
+Asked in January 2006 whether a Cedar Key get-together would happen again that year, the answer confirmed the pattern holds: the gathering always falls on the first full weekend of May — in 2006, **6-7 May**. By then the event had grown into "a big affair with a lot of stars of the small boat building community": the previous year's gathering had drawn Matt Layden, sailing his new, lighter Paradox, alongside other well-known small-boat figures including the makers of WEST System epoxy, among many others. One owner was by then a regular attendee with "Zoë." Motels around Cedar Key fill to capacity that weekend, making early booking necessary.
 
-David Beard confirmed he planned to attend in 2006 after several years
-away, having spent the intervening seasons sailing the Mississippi and
-Alabama Gulf Coast instead; he stopped attending group gatherings there
-after Hurricane Katrina, finding the region "just too depressing."[37]
+Another owner planned to attend in 2006 after several years away, having spent the intervening seasons sailing the Mississippi and Alabama Gulf Coast instead; group gatherings there had been abandoned after Hurricane Katrina, the region judged "just too depressing."[37]
 
 ## Where to find a written cruise report, absent a fresh one
 
-Absent a fresh trip report, the record's fullest answer to "what has it been
-like to actually sail one" is two existing written accounts: a Cedar Key
-sea-trials article in the group's Files section, "Zoë's Sea Trials," now
-hosted at `www.smallsailboats.co.uk/paradox/trials.htm` (see [the Small
-Sailboats / Paradox-UK website pairing](/references/paradox-uk-website.md)),
-and several pieces about "[Little Jim](/boats/little-jim.md)" on
-[Alastair](/people/alastair.md)'s own web site. In one later update, no fresh
-open-water adventures were reported for that year, but several weekend
-outings sailing "Little Jim" in sheltered estuaries near home.
+Absent a fresh trip report, the record's fullest answer to "what has it been like to actually sail one" is two existing written accounts: a Cedar Key sea-trials article in the group's Files section, "Zoë's Sea Trials," now hosted at `www.smallsailboats.co.uk/paradox/trials.htm` (see [the Small Sailboats / Paradox-UK website pairing](/references/paradox-uk-website.md)), and several pieces about "[Little Jim](/boats/little-jim.md)" on that boat's own web site. In one later update, no fresh open-water adventures were reported for that year, but several weekend outings sailing "Little Jim" in sheltered estuaries near home.
 
 # Citations
 

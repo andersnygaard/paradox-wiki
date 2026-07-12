@@ -1,628 +1,130 @@
 ---
 type: Concept
 title: Build effort and workspace
-description: Build time, cost, difficulty, and workspace requirements for a Paradox and related Layden designs, drawn from builders' own accounts, including recovering from a total loss and staying motivated through a long build.
+description: Build time, cost, difficulty, and workspace requirements for a Paradox and related Layden designs, including recovering from a total loss and staying motivated through a long build.
 tags: [paradox, construction, build-time, cost, workspace]
 timestamp: 2026-07-04T00:00:00Z
 ---
 
 # Build effort and workspace
 
-What it takes to build a [Paradox](/paradox.md) — hours, cost, difficulty,
-and workspace — as reported by builders who have actually done it.
+What it takes to build a [Paradox](/paradox.md) — hours, cost, difficulty, and workspace, as reported by builders who have actually done it.
 
 ## Time
 
-Reported build times span roughly **400 hours for a bare-minimum "slam
-dunk"** up to **1,000 hours or more for a nicely finished example**, with
-finish quality — not the design itself — the main thing driving how long a
-build takes.
+Reported build times span roughly **400 hours for a bare-minimum "slam dunk"** up to **1,000 hours or more for a nicely finished example**, with finish quality — not the design itself — the main thing driving how long a build takes.
 
-- **~500 hours over about two years**, working intermittently as a hobby
-  rather than full-time, is one professional builder's figure for a
-  stop-start build ("Zoë") that was a "fun project," not a job. A fuller
-  retelling of the same build later put the total higher: **over a thousand
-  hours** across two years of on-again, off-again work, with a final
-  concentrated push of intense effort in the **last three months** — a
-  thousand hours being roughly **six months of full-time (40 hr/week) work**.
-  The boat "could have been completed in a lot less" time than it actually
-  took, given the stop-start pace; the higher, ~1,000-hour figure is the more
-  complete account, covering the project through to completion and first
-  sailing (see [Zoë](/boats/zoe.md)), and was later confirmed again as the
-  settled answer — **about two years of on-again off-again work and
-  approximately 1,000 hours** — with the same finish-quality caveat: the boat
-  "could be done in less time" since the finish a builder wants ultimately
-  determines the time invested.
-- **~4 months of full-time work** built the original Paradox, by the designer
-  [Matt Layden](/matt-layden/biography.md) himself. This is the fastest data
-  point on record and reflects working full-time straight through, remarkable
-  given Matt had no car and hauled materials to a remote woods site by
-  bicycle trailer. A later account gives a slightly different figure for the
-  same build — **~3 months full-time** — the two figures (4 months vs. 3
-  months) are not reconciled, both describing the same original boat.
-- **~18 months for an evening/weekend build, down to a couple of months for
-  an experienced full-time professional.** One builder — declining to give a
-  precise hour count ("heaven knows") — gave concrete elapsed-time figures:
-  his own build of "[little Jim](/boats/little-jim.md)" took **18 months** of
-  "not-very-hard evening and weekend work"; building again, he would reckon on
-  **about a year**; and an **experienced builder, working full time with all
-  the right gear**, could probably finish a hull in **a couple of months** —
-  a range that brackets the ~500-to-1,000+ hour figures above at the faster
-  end and sits well below Matt Layden's ~3-4-month full-time original build
-  only if that builder is similarly experienced and equipped. See
-  [transom deck plate](/construction/transom-deck-plate.md) for the sealing
-  question answered in the same account.
+- **~500 hours over about two years**, working intermittently as a hobby rather than full-time, is one figure for a stop-start build ("Zoë") that was a "fun project," not a job. A fuller retelling of the same build later put the total higher: **over a thousand hours** across two years of on-again, off-again work, with a final concentrated push of intense effort in the **last three months** — a thousand hours being roughly **six months of full-time (40 hr/week) work**. The boat "could have been completed in a lot less" time than it actually took, given the stop-start pace; the higher, ~1,000-hour figure is the more complete account, covering the project through to completion and first sailing (see [Zoë](/boats/zoe.md)), and was later confirmed again as the settled answer — **about two years of on-again off-again work and approximately 1,000 hours** — with the same finish-quality caveat: the boat "could be done in less time" since the finish a builder wants ultimately determines the time invested.
+- **~4 months of full-time work** built the original Paradox, by the designer [Matt Layden](/matt-layden/biography.md) himself. This is the fastest data point on record and reflects working full-time straight through, remarkable given Matt had no car and hauled materials to a remote woods site by bicycle trailer. A later account gives a slightly different figure for the same build — **~3 months full-time** — the two figures (4 months vs. 3 months) are not reconciled, both describing the same original boat.
+- **~18 months for an evening/weekend build, down to a couple of months for an experienced full-time professional.** One account — declining to give a precise hour count ("heaven knows") — gave concrete elapsed-time figures: a build of "[little Jim](/boats/little-jim.md)" took **18 months** of "not-very-hard evening and weekend work"; building again, one would reckon on **about a year**; and an **experienced builder, working full time with all the right gear**, could probably finish a hull in **a couple of months** — a range that brackets the ~500-to-1,000+ hour figures above at the faster end and sits well below Matt Layden's ~3-4-month full-time original build only if that builder is similarly experienced and equipped. See [transom deck plate](/construction/transom-deck-plate.md) for the sealing question answered in the same account.
 
 ## Discovering the design through the Bolducs' site
 
-A recurring path into the Paradox community is a prospective builder finding
-[Dave and Mindy Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) website while
-comparing small-boat designs, then committing to a Paradox on the strength of
-the site's tone and the community's responsiveness as much as the boat's
-specifications. In one case, after months spent weighing a Glen-L design and
-a Long Micro against the Paradox, a prospective builder settled on the
-Paradox after prompt, friendly replies from the Bolducs and from
-[Don Elliott](/people/don-elliott.md) about his "Building the Paradox"
-article series — deciding factors echoed elsewhere in the archive: an active
-builders' group, alongside the boat's simplicity, affordability, and easy
-trailering/storage. New members are consistently welcomed onto the list by
-multiple established builders within their first days, an informal but
-consistent pattern across the archive. A first practical question that
-recurs for newcomers with plans in hand — exterior versus marine-grade
-plywood — is generally settled in favor of marine grade; see
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor)
-for the full exchange.
+A recurring path into the Paradox community is a prospective builder finding the [microcruising.com](/references/microcruising-website.md) website while comparing small-boat designs, then committing to a Paradox on the strength of the site's tone and the community's responsiveness as much as the boat's specifications. In one case, after months spent weighing a Glen-L design and a Long Micro against the Paradox, a prospective builder settled on the Paradox after prompt, friendly replies about the "Building the Paradox" article series — deciding factors echoed elsewhere in the archive: an active builders' group, alongside the boat's simplicity, affordability, and easy trailering/storage. New members are consistently welcomed onto the list by multiple established builders within their first days, an informal but consistent pattern across the archive. A first practical question that recurs for newcomers with plans in hand — exterior versus marine-grade plywood — is generally settled in favor of marine grade; see [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md#a-new-builders-exterior-vs-marine-choice-and-why-marine-usually-wins-on-labor) for the full exchange.
 
-The group's accumulated photo-sharing is itself a recurring draw for
-newcomers sizing up the design before committing tools to wood: one new
-builder, having ordered plans and Don Elliott's "Building the Paradox"
-articles, thanked the wider list specifically for the build photos its
-members had contributed. Early progress can come quickly once building
-starts — removing a first **deck beam** from its jig and finding it came out
-"dead on," much easier than expected, is enough to make a builder confident
-of sailing "in a couple of years of weekend work."
+The group's accumulated photo-sharing is itself a recurring draw for newcomers sizing up the design before committing tools to wood: one new builder, having ordered plans and the "Building the Paradox" articles, thanked the wider list specifically for the build photos its members had contributed. Early progress can come quickly once building starts — removing a first **deck beam** from its jig and finding it came out "dead on," much easier than expected, is enough to make a builder confident of sailing "in a couple of years of weekend work."
 
 ## Cost
 
-- **~$2,000** — what it cost Matt Layden to build the original Paradox
-  (materials, per Dave Bolduc), alongside the ~3 months of full-time labor
-  above.
-- **$1,600** — what Dave and Mindy Bolduc paid to *buy* [Little Cruiser](/matt-layden/little-cruiser.md)
-  secondhand (not a new-build cost); it needed some refitting after 3 years of
-  full-time cruising.
-- **$600** — the secondhand asking price of [Swamp Thing](/matt-layden/swamp-thing.md),
-  bought by Dave Gatan a few years before late 2001.
-- See also [secondhand Paradox market](/operations/secondhand-market.md) for a
-  $500 secondhand Paradox asking price and the $35 cost of the building plans
-  themselves ([building plans](/references/building-plans.md)).
-- **$AUS790 for plywood alone** — [Chris Becker](/people/chris-becker.md)'s
-  cost for the full **ten-sheet** plywood order for "Walden" (Pacific Maple
-  marine ply, guaranteed void-free), Brisbane, Australia. This is a
-  materials-only figure (plywood, not epoxy/hardware/lead) but gives a
-  non-US cost data point distinct from Matt's ~$2,000 total build cost above.
-  See [hull scantlings](/design/hull-scantlings.md) for the ten-sheet bill of
-  materials this corresponds to.
-- **$2,000-8,000 US** is a working range for a finished boat's value,
-  reported by a builder who was sewing his own sail for an in-progress
-  stock-wood build. A Paradox is "not really a first timer's first project"
-  unless the builder already has woodworking/building experience, though it
-  is workable for an experienced amateur. Finished-boat value depends on
-  plywood grade, degree of finish, quality of workmanship, and hardware
-  quality — "an item is worth what someone will pay for it."
-- **A full itemized UK build cost.** The fullest single line-item cost
-  breakdown on record, for "[Little Jim](/boats/little-jim.md)" (see also the
-  [£2,751.16 total figure above](#time)), owned by
-  [Alastair](/people/alastair.md): **£600 timber**, **£375 plywood**, **£630
-  epoxy and related consumables** (with a large surplus left over), **£30
-  polystyrene insulation/buoyancy foam**, **£170 Lexan sheet** (also with
-  plenty left over), and **£350 for the sail** — plus bronze nails, stainless
-  screws and bolts, numerous new tools, cleats, fairleads, inspection
-  hatches, an anchor, rope, LEDs for the lights, a lifejacket, and a cooker,
-  all adding to the total; the £1,502.12 custom trailer was **not** included
-  in the £2,500-plus boat figure. Building more cheaply is possible by using
-  exterior-grade plywood, per Matt Layden's own suggestion, rather than
-  marine-grade; precise dimensions on pre-planed timber also rarely matter
-  once building is under way, so planing to exact size in advance is an
-  avoidable expense.
-- **Plywood, cloth, and epoxy quantities, itemized by thickness.** A Paradox
-  build's typical bill of materials: **2 sheets of 18mm, 4 sheets of 12mm, 3
-  sheets of 9mm, and 1 sheet of 6mm** plywood (marine ply costs more than the
-  plans' suggested exterior-grade alternative, trading cost against
-  longevity); **no glass cloth is strictly required**, but covering the deck
-  and sides with **6 oz cloth** (about **14 yards**) and protecting the
-  bottom with **4mm of woven roving** is common practice (also optional if
-  heavy groundings are not expected — though one builder was glad he had not
-  skipped it, after scraping the bottom on rocks and finding only cosmetic
-  paint scratches beneath); and **10 gallons of epoxy** total (5 gallons
-  bought initially, another 5 gallons later) is typically enough with plenty
-  left over.
-- The same recurring build-time and estimated-cost questions come up
-  repeatedly from newcomers introducing themselves to the community; see
-  [Paradox as a first boat — storage, beachability, and who buys the
-  beer](/operations/first-boat-suitability.md#storage-beachability-and-who-buys-the-beer)
-  for one such introduction and the answers it drew on storage and
-  beachability, without adding new time/cost figures beyond those already on
-  record above.
+- **~$2,000** — what it cost Matt Layden to build the original Paradox (materials), alongside the ~3 months of full-time labor above.
+- **$1,600** — what it cost to *buy* [Little Cruiser](/matt-layden/little-cruiser.md) secondhand (not a new-build cost); it needed some refitting after 3 years of full-time cruising.
+- **$600** — the secondhand asking price of [Swamp Thing](/matt-layden/swamp-thing.md), bought a few years before late 2001.
+- See also [secondhand Paradox market](/operations/secondhand-market.md) for a $500 secondhand Paradox asking price and the $35 cost of the building plans themselves ([building plans](/references/building-plans.md)).
+- **$AUS790 for plywood alone** — the cost for the full **ten-sheet** plywood order for "Walden" (Pacific Maple marine ply, guaranteed void-free), Brisbane, Australia. This is a materials-only figure (plywood, not epoxy/hardware/lead) but gives a non-US cost data point distinct from Matt's ~$2,000 total build cost above. See [hull scantlings](/design/hull-scantlings.md) for the ten-sheet bill of materials this corresponds to.
+- **$2,000-8,000 US** is a working range for a finished boat's value, reported by a builder sewing his own sail for an in-progress stock-wood build. A Paradox is "not really a first timer's first project" unless the builder already has woodworking/building experience, though it is workable for an experienced amateur. Finished-boat value depends on plywood grade, degree of finish, quality of workmanship, and hardware quality — "an item is worth what someone will pay for it."
+- **A full itemized UK build cost.** The fullest single line-item cost breakdown on record, for "[Little Jim](/boats/little-jim.md)" (see also the [£2,751.16 total figure above](#time)): **£600 timber**, **£375 plywood**, **£630 epoxy and related consumables** (with a large surplus left over), **£30 polystyrene insulation/buoyancy foam**, **£170 Lexan sheet** (also with plenty left over), and **£350 for the sail** — plus bronze nails, stainless screws and bolts, numerous new tools, cleats, fairleads, inspection hatches, an anchor, rope, LEDs for the lights, a lifejacket, and a cooker, all adding to the total; the £1,502.12 custom trailer was **not** included in the £2,500-plus boat figure. Building more cheaply is possible by using exterior-grade plywood, per Matt Layden's own suggestion, rather than marine-grade; precise dimensions on pre-planed timber also rarely matter once building is under way, so planing to exact size in advance is an avoidable expense.
+- **Plywood, cloth, and epoxy quantities, itemized by thickness.** A Paradox build's typical bill of materials: **2 sheets of 18mm, 4 sheets of 12mm, 3 sheets of 9mm, and 1 sheet of 6mm** plywood (marine ply costs more than the plans' suggested exterior-grade alternative, trading cost against longevity); **no glass cloth is strictly required**, but covering the deck and sides with **6 oz cloth** (about **14 yards**) and protecting the bottom with **4mm of woven roving** is common practice (also optional if heavy groundings are not expected — though one builder was glad he had not skipped it, after scraping the bottom on rocks and finding only cosmetic paint scratches beneath); and **10 gallons of epoxy** total (5 gallons bought initially, another 5 gallons later) is typically enough with plenty left over.
+- The same recurring build-time and estimated-cost questions come up repeatedly from newcomers introducing themselves to the community; see [Paradox as a first boat — storage, beachability, and who buys the beer](/operations/first-boat-suitability.md#storage-beachability-and-who-buys-the-beer) for one such introduction and the answers it drew on storage and beachability, without adding new time/cost figures beyond those already on record above.
 
 ## Difficulty
 
-- Building a Paradox is "both challenging and rewarding," with "some tricky
-  details to attend to" — even for a professional. Community support and
-  documents like [Don Elliott's articles](/references/building-the-paradox-articles.md)
-  (e.g. the coach-roof jig) are recommended to help builders finish.
+- Building a Paradox is "both challenging and rewarding," with "some tricky details to attend to" — even for a professional. Community support and documents like the ["Building the Paradox" articles](/references/building-the-paradox-articles.md) (e.g. the coach-roof jig) are recommended to help builders finish.
 
 ## Tools
 
-Photos showing 15 or more clamps in use for laminating deck beams can look
-alarming, but the clamp count is a function of lamination thickness rather
-than a sign of an unusually demanding build: laminating with **thinner
-strips than necessary** takes more clamps than a thicker lamination would.
-A builder unsure how thick to laminate can cut a few **test pieces at
-different thicknesses** and try a dry fit around the beam-laminating jig
-without steaming — using the thickest stock that will still bend to shape
-minimizes both the clamp count and the number of glue lines.
+Photos showing 15 or more clamps in use for laminating deck beams can look alarming, but the clamp count is a function of lamination thickness rather than a sign of an unusually demanding build: laminating with **thinner strips than necessary** takes more clamps than a thicker lamination would. A builder unsure how thick to laminate can cut a few **test pieces at different thicknesses** and try a dry fit around the beam-laminating jig without steaming — using the thickest stock that will still bend to shape minimizes both the clamp count and the number of glue lines.
 
-Tool needs and quality generally creep up as a build proceeds — a first boat
-can be built with mostly a coping saw and a block plane, though few builders
-who have since acquired a fuller kit could imagine going back to so little.
-A long tool list should not intimidate a first-time builder: the practical
-approach is to amass tools the same way the whole build itself is best
-tackled — eat the elephant "one bite at a time." See [Glen Maxwell — chasing
-down quiet
-builders](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports)
-for the same metaphor used to encourage discouraged builders generally.
+Tool needs and quality generally creep up as a build proceeds — a first boat can be built with mostly a coping saw and a block plane, though few builders who have since acquired a fuller kit could imagine going back to so little. A long tool list should not intimidate a first-time builder: the practical approach is to amass tools the same way the whole build itself is best tackled — eat the elephant "one bite at a time." See [chasing down quiet builders](/people/glen-maxwell/list-founder-and-moderator.md#chasing-down-quiet-builders-for-photos-and-progress-reports) for the same metaphor used to encourage discouraged builders generally.
 
-**A full annotated tool list**, working from
-[Don Elliott](/people/don-elliott.md)'s own recommended list with a builder's
-field notes added against each item. The **most-used power tools** were the
-drill, jig saw, and angle grinder. Beyond those: acid brushes (cheap
-market-bought ones, about 10p each, washed in vinegar and soap for reuse or
-simply discarded); bar clamps for the hull sides; a flexible batten for
-fairing curves; bread pans for casting lead ballast pigs; screw clamps (2 at
-3 in, 4 at 9 in, and 2 at 15 in is "enough, but more would be better"); large
-spring clamps, bought as a mixed-size market pack, for temporarily joining
-side panels to the stem; a wide Stanley-knife-type cutter for fibreglass; a
-battery drill with keyless chuck (usable in place of a separate electric
-screwdriver); a long drill bit for the vent trunk drain; drinking straws for
-flicking dirt out of wet epoxy; a low-angle Stanley No. 118 plane for shaping
-the bilge runners and cabin parts; a borrowed power planer (only needed for
-shaping the mast); bin liners as cheap plastic sheeting when glassing the
-bottom; a Stanley No. 21-115 Surform; a table saw (a purchase one builder,
-in hindsight, could have done without); and yoghurt pots for mixing small
-batches of epoxy — with about 1.5 gallons of the cheaper brown vinegar,
-rather than white, consumed along the way.
+**A full annotated tool list**, working from the recommended "Building the Paradox" list with a builder's field notes added against each item. The **most-used power tools** were the drill, jig saw, and angle grinder. Beyond those: acid brushes (cheap market-bought ones, about 10p each, washed in vinegar and soap for reuse or simply discarded); bar clamps for the hull sides; a flexible batten for fairing curves; bread pans for casting lead ballast pigs; screw clamps (2 at 3 in, 4 at 9 in, and 2 at 15 in is "enough, but more would be better"); large spring clamps, bought as a mixed-size market pack, for temporarily joining side panels to the stem; a wide Stanley-knife-type cutter for fibreglass; a battery drill with keyless chuck (usable in place of a separate electric screwdriver); a long drill bit for the vent trunk drain; drinking straws for flicking dirt out of wet epoxy; a low-angle Stanley No. 118 plane for shaping the bilge runners and cabin parts; a borrowed power planer (only needed for shaping the mast); bin liners as cheap plastic sheeting when glassing the bottom; a Stanley No. 21-115 Surform; a table saw (a purchase one builder, in hindsight, could have done without); and yoghurt pots for mixing small batches of epoxy — with about 1.5 gallons of the cheaper brown vinegar, rather than white, consumed along the way.
 
-Lead ballast pigs can be cast in either of two shapes, with different
-trade-offs. The **original wedge shape** a bread pan produces makes pigs
-light enough (about 12 kg each) to lift with one hand; painting them with
-Hammerite while still warm from casting settles the handling question fast —
-"in a couple of minutes your worries about handling lead are over." A later
-refinement moved to **square, elongated forms** (roughly 3 x 3 x 12 in,
-molded in plywood boxes), melted down and re-poured from the original wedge
-shape; see [the full ballast pig
-layout](/design/weight-and-ballast.md#the-ballast-pig-layout-in-full-don-elliott)
-for the fully worked-out account of that square-pig approach.
+Lead ballast pigs can be cast in either of two shapes, with different trade-offs. The **original wedge shape** a bread pan produces makes pigs light enough (about 12 kg each) to lift with one hand; painting them with Hammerite while still warm from casting settles the handling question fast — "in a couple of minutes your worries about handling lead are over." A later refinement moved to **square, elongated forms** (roughly 3 x 3 x 12 in, molded in plywood boxes), melted down and re-poured from the original wedge shape; see [the full ballast pig layout](/design/weight-and-ballast.md#the-ballast-pig-layout-in-full-don-elliott) for the fully worked-out account of that square-pig approach.
 
-A **Nicholson pattern maker's rasp** — sold in a couple of sizes, with one
-flat and one convex face and a random (non-grooving) tooth pattern — drew a
-strong recommendation as a superior alternative to an ordinary rasp or the
-Surform mentioned above: with firm pressure it cuts aggressively, and with
-light pressure it leaves a finish equivalent to about 50-grit sandpaper with
-very little cleanup needed, making it well suited to complex shapes such as
-the Paradox's chine runners. It is not cheap (around $20, a price paid some
-25 years earlier) and can be hard to find, but is available from
-**Lee Valley**. An angle grinder is a workable, if "not very delicate,"
-alternative for shaping chine runners.
+A **Nicholson pattern maker's rasp** — sold in a couple of sizes, with one flat and one convex face and a random (non-grooving) tooth pattern — drew a strong recommendation as a superior alternative to an ordinary rasp or the Surform mentioned above: with firm pressure it cuts aggressively, and with light pressure it leaves a finish equivalent to about 50-grit sandpaper with very little cleanup needed, making it well suited to complex shapes such as the Paradox's chine runners. It is not cheap (around $20, a price paid some 25 years earlier) and can be hard to find, but is available from **Lee Valley**. An angle grinder is a workable, if "not very delicate," alternative for shaping chine runners.
 
-**Sourcing one outside North America.** A UK builder unable to find a
-Nicholson rasp locally was pointed to several mail-order options that ship
-internationally — sculpt.com, Nolan Supply, Lee Valley, and Garrett Wade (the
-priciest, but with the fullest product description) — plus a German-made
-half-round pattern maker's rasp (fine-tools.com) that looks similar though
-not identical to the Nicholson, untested by the correspondent giving the
-tip but suggested as worth trying in person at a local tool shop first,
-since "a good tool is a tactile thing." Lee Valley's price, once tracked
-down, ran to more than double what was originally paid for the tool
-25 years earlier — still judged worth it over time, including for shaping
-paddles and oars. Only the single **coarse** rasp is worth buying, though —
-a second, finer one is redundant next to ordinary small sanding files, which
-are considerably cheaper.
+**Sourcing one outside North America.** A UK builder unable to find a Nicholson rasp locally was pointed to several mail-order options that ship internationally — sculpt.com, Nolan Supply, Lee Valley, and Garrett Wade (the priciest, but with the fullest product description) — plus a German-made half-round pattern maker's rasp (fine-tools.com) that looks similar though not identical to the Nicholson, untested but suggested as worth trying in person at a local tool shop first, since "a good tool is a tactile thing." Lee Valley's price, once tracked down, ran to more than double what was originally paid for the tool 25 years earlier — still judged worth it over time, including for shaping paddles and oars. Only the single **coarse** rasp is worth buying, though — a second, finer one is redundant next to ordinary small sanding files, which are considerably cheaper.
 
-**Authorship of the tools list, and a separate materials-list copyright
-question.** The tools list circulated on [the Paradox UK
-website](/references/paradox-uk-website.md) is an independent compilation of
-what Don Elliott used to build his own Paradox — not Don's own list, and not
-attributable to any other individual — offered as a useful starting point for
-prospective builders, and posted freely at `paradox-uk.co.uk` with no
-copyright claim. A separate **Building Materials list** is a different
-document: it came as part of a bought plans package and may genuinely be
-under copyright, so adding it to the group's FAQ file needed
-[Matt Layden](/matt-layden/biography.md) or [Dave
-Bolduc](/people/bolduc/dave.md)'s confirmation that doing so would not
-breach it. Neither list can really be copyrighted in the stricter sense,
-since each is only a set of suggestions rather than anything "carved in
-stone" — but crediting Don Elliott as the source of the tools he used is
-proper attribution regardless.
+**Authorship of the tools list, and a separate materials-list copyright question.** The tools list circulated on [the Paradox UK website](/references/paradox-uk-website.md) is an independent compilation of the tools used to build one Paradox — not the builder's own list, and not attributable to any single individual — offered as a useful starting point for prospective builders, and posted freely at `paradox-uk.co.uk` with no copyright claim. A separate **Building Materials list** is a different document: it came as part of a bought plans package and may genuinely be under copyright, so adding it to the group's FAQ file needed confirmation from [Matt Layden](/matt-layden/biography.md) or the design's distributor that doing so would not breach it. Neither list can really be copyrighted in the stricter sense, since each is only a set of suggestions rather than anything "carved in stone" — but crediting the builder as the source of the tools he used is proper attribution regardless.
 
 ## The Build Manual's introduction
 
-A community-written **Build Manual** (see [David C. Smith — proposed a group-written
-Paradox build manual](/people/david-c-smith.md#contributions-and-stories)) began with a
-draft introduction open to additions, omissions, and edits, with sections on
-particular tasks — spars, rudder, yuloh, vent trunk, and others — contributed
-by volunteers from the builders' group; [David
-Beard](/people/david-beard.md#contributions-and-stories) took the yuloh
-section.
+A community-written **Build Manual** (see [proposed a group-written Paradox build manual](/people/david-c-smith.md#contributions-and-stories)) began with a draft introduction open to additions, omissions, and edits, with sections on particular tasks — spars, rudder, yuloh, vent trunk, and others — contributed by volunteers from the builders' group; a volunteer took the [yuloh section](/people/david-beard.md#contributions-and-stories).
 
-The introduction sets the manual's scope and philosophy: it exists to guide
-builders of [Matt Layden](/matt-layden/biography.md)'s Paradox design,
-referencing the design's own specifications throughout, and while a builder
-may prefer to alter details to their own taste, following the design as
-drawn is generally recommended — the same designer-fidelity credo Smith argued
-for elsewhere (see [David C. Smith — a designer-fidelity
-credo](/people/david-c-smith.md#a-designer-fidelity-credo)). It points builders with
-design questions to [Dave Bolduc](/people/bolduc/dave.md)'s
-[microcruising.com](/references/microcruising-website.md) website, and to
-the wider Paradoxbuilders group's own accumulated photos, files, and
-archived messages. It describes the Paradox as a heavy-displacement sharpie
-type, proven through empirical testing of scale models and preceding
-vessels of the same lineage.
+The introduction sets the manual's scope and philosophy: it exists to guide builders of [Matt Layden](/matt-layden/biography.md)'s Paradox design, referencing the design's own specifications throughout, and while a builder may prefer to alter details to their own taste, following the design as drawn is generally recommended — the same designer-fidelity credo argued for elsewhere (see [a designer-fidelity credo](/people/david-c-smith.md#a-designer-fidelity-credo)). It points builders with design questions to the [microcruising.com](/references/microcruising-website.md) website, and to the wider Paradoxbuilders group's own accumulated photos, files, and archived messages. It describes the Paradox as a heavy-displacement sharpie type, proven through empirical testing of scale models and preceding vessels of the same lineage.
 
-Practical guidance in the introduction includes: the plans use metric
-measurements throughout, and while this may unsettle North American
-builders at first, it is easily mastered with a metric tape measure and an
-appropriate scale rule (1:10 and 1:20); additional copies of the plans may
-be made for the original purchaser's own use, and having a copy at the
-build location, at a computer, and even in the head is worthwhile, since
-time spent studying the plans is time well spent; and a build journal or
-notes, plus a camera, are recommended as construction proceeds. Material
-choice is left to the individual builder — the designer has suggested many
-options, from ACX to marine-grade plywood and Douglas Fir to Mahogany — so
-the manual generally references plywood and lumber ambiguously except where
-a specific species matters. A materials list should be worked out by each
-builder individually, both to ensure adequate study of the plans and
-because a list compiled by one builder may not suit another builder's
-tools and techniques; a chronological task list is recommended to aid
-organization. Materials need not all be purchased at once, though bulk
-purchase (5 gallons of epoxy, 10 sheets of plywood, a spool of line) can
-realize savings. The manual itself is arranged in a logical build order,
-but a builder may undertake smaller tasks — rudder, spars, sail, yuloh — in
-whatever order suits poor weather, economics, or curing times, so long as
-task dependencies are respected.
+Practical guidance in the introduction includes: the plans use metric measurements throughout, and while this may unsettle North American builders at first, it is easily mastered with a metric tape measure and an appropriate scale rule (1:10 and 1:20); additional copies of the plans may be made for the original purchaser's own use, and having a copy at the build location, at a computer, and even in the head is worthwhile, since time spent studying the plans is time well spent; and a build journal or notes, plus a camera, are recommended as construction proceeds. Material choice is left to the individual builder — the designer has suggested many options, from ACX to marine-grade plywood and Douglas Fir to Mahogany — so the manual generally references plywood and lumber ambiguously except where a specific species matters. A materials list should be worked out by each builder individually, both to ensure adequate study of the plans and because a list compiled by one builder may not suit another builder's tools and techniques; a chronological task list is recommended to aid organization. Materials need not all be purchased at once, though bulk purchase (5 gallons of epoxy, 10 sheets of plywood, a spool of line) can realize savings. The manual itself is arranged in a logical build order, but a builder may undertake smaller tasks — rudder, spars, sail, yuloh — in whatever order suits poor weather, economics, or curing times, so long as task dependencies are respected.
 
 ## The Build Manual's "Preparations" installment: build site and a full tool inventory
 
-Continuing the Build Manual (see [The Build Manual's
-introduction](#the-build-manuals-introduction)), a **"Preparations"**
-installment covers build site and tools — the manual's fullest single tool
-inventory.
+Continuing the Build Manual (see [The Build Manual's introduction](#the-build-manuals-introduction)), a **"Preparations"** installment covers build site and tools — the manual's fullest single tool inventory.
 
-**Build site.** Beyond the builder's own physical comfort, a Paradox can be
-built anywhere shelter can be arranged against dew, rain, and airborne debris
-(dust, pollen, spores) — at minimum, a tarp strung between trees suffices. A
-build site with no heating or cooling must be factored into material choices,
-particularly epoxy and paint products, which have their own working-temperature
-ranges. A garage is the optimal setting but is not strictly necessary; a dolly
-or rolling cradle helps move the boat around a tight space as needed (compare
-[Alastair](/people/alastair.md)'s roller-skate solution to the same problem,
-below).
+**Build site.** Beyond the builder's own physical comfort, a Paradox can be built anywhere shelter can be arranged against dew, rain, and airborne debris (dust, pollen, spores) — at minimum, a tarp strung between trees suffices. A build site with no heating or cooling must be factored into material choices, particularly epoxy and paint products, which have their own working-temperature ranges. A garage is the optimal setting but is not strictly necessary; a dolly or rolling cradle helps move the boat around a tight space as needed (compare the roller-skate solution to the same problem, below).
 
-**Tools, as a suggested rather than fixed list.** Tool recommendations are
-inherently personal — builders vary in experience and tool availability, some
-collecting the finest available tools and others making do with
-hardware-store basics, some assembling a complete inventory before starting
-and others acquiring tools only as needed, and some (not recommended)
-building an entire boat without ever using a power tool. A comprehensive list
-by category:
+**Tools, as a suggested rather than fixed list.** Tool recommendations are inherently personal — builders vary in experience and tool availability, some collecting the finest available tools and others making do with hardware-store basics, some assembling a complete inventory before starting and others acquiring tools only as needed, and some (not recommended) building an entire boat without ever using a power tool. A comprehensive list by category:
 
-- **Basic tools:** 16-20 oz claw hammer; 2-3 lb deadblow mallet; punches and
-  nailsets; screwdrivers; vicegrips; wrenches; ratchet/sockets; putty knives;
-  plastic spreaders; scissors; utility knife; halogen lamps; hot glue gun; at
-  least two sawhorses; two 4x4x8 ft sleepers; a higher-quality Workmate; and a
-  stationary bench or dedicated sawhorses topped with a sheet of heavy ply.
-- **Measuring tools:** a triangular metric scale (1:5, 1:10, 1:20); a
-  combination metric/imperial tape measure; a calculator; dividers; a tri
-  square; a bevel gauge and bevel board; a 4 ft straight edge; a carpenter's
-  square and a framing square; seine twine for a string line; marking chalk;
-  pens, pencils, and assorted battens.
-- **Edge tools:** a block plane; assorted chisels; a 1 in scraper and a
-  cabinet scraper; a power planer.
-- **Abrasive tools:** assorted files and rasps; a rubber sanding block; an
-  orbital palm sander; an autobody longboard; a shop-made sanding board (36
-  grit, a 3 in x 24 in belt tightly fitted to plywood); a 4 in angle grinder;
-  an 8 in grinder (light, vertical motor, fitted with a soft pad and Stikit
-  disks); and assorted barrel sander sleeves for a drill motor.
+- **Basic tools:** 16-20 oz claw hammer; 2-3 lb deadblow mallet; punches and nailsets; screwdrivers; vicegrips; wrenches; ratchet/sockets; putty knives; plastic spreaders; scissors; utility knife; halogen lamps; hot glue gun; at least two sawhorses; two 4x4x8 ft sleepers; a higher-quality Workmate; and a stationary bench or dedicated sawhorses topped with a sheet of heavy ply.
+- **Measuring tools:** a triangular metric scale (1:5, 1:10, 1:20); a combination metric/imperial tape measure; a calculator; dividers; a tri square; a bevel gauge and bevel board; a 4 ft straight edge; a carpenter's square and a framing square; seine twine for a string line; marking chalk; pens, pencils, and assorted battens.
+- **Edge tools:** a block plane; assorted chisels; a 1 in scraper and a cabinet scraper; a power planer.
+- **Abrasive tools:** assorted files and rasps; a rubber sanding block; an orbital palm sander; an autobody longboard; a shop-made sanding board (36 grit, a 3 in x 24 in belt tightly fitted to plywood); a 4 in angle grinder; an 8 in grinder (light, vertical motor, fitted with a soft pad and Stikit disks); and assorted barrel sander sleeves for a drill motor.
 - **Saws:** hacksaw; dovetail saw; jigsaw; 7 1/4 in skilsaw.
-- **Rotary tools:** electric drills in 3/8 in and 1/2 in chuck sizes; twist
-  bits to 1/2 in; assorted spade and Forstner bits; fuller taper
-  countersinks; a 5/8 in metal countersink; hole saws as needed; a
-  router/laminate trimmer with assorted roundover bits.
-- **Clamps:** pipe clamps in 3, 4, and 5 ft lengths (as many as possible); 2
-  ft bar clamps; roughly twenty 6 in C-clamps; and around six 3 in metal
-  spring clamps — the rule of thumb throughout: "more the better."
-- **Stationary power tools:** table saw; bandsaw; surface planer; drill
-  press.
-- **Safety:** dust masks; a chemical respirator with cartridges; latex
-  gloves; pigskin MIG-welding gloves; safety glasses; a face shield; hearing
-  protection; medical scrubs or Tyvek coveralls; a box fan for ventilation.
-- **Consumable supplies:** 1 in blue masking tape; masking paper; waxed
-  paper; paste car wax; sheet plastic; blue poly tarp; plastic cups (yogurt,
-  cottage cheese, whipped-topping tubs); unwaxed paper paint pots; cardboard;
-  doorskin; assorted sandpaper; cotton terry rags; denatured alcohol; lacquer
-  thinner; acetone; assorted throwaway brushes; acid brushes; waterless hand
-  cleaner.
+- **Rotary tools:** electric drills in 3/8 in and 1/2 in chuck sizes; twist bits to 1/2 in; assorted spade and Forstner bits; fuller taper countersinks; a 5/8 in metal countersink; hole saws as needed; a router/laminate trimmer with assorted roundover bits.
+- **Clamps:** pipe clamps in 3, 4, and 5 ft lengths (as many as possible); 2 ft bar clamps; roughly twenty 6 in C-clamps; and around six 3 in metal spring clamps — the rule of thumb throughout: "more the better."
+- **Stationary power tools:** table saw; bandsaw; surface planer; drill press.
+- **Safety:** dust masks; a chemical respirator with cartridges; latex gloves; pigskin MIG-welding gloves; safety glasses; a face shield; hearing protection; medical scrubs or Tyvek coveralls; a box fan for ventilation.
+- **Consumable supplies:** 1 in blue masking tape; masking paper; waxed paper; paste car wax; sheet plastic; blue poly tarp; plastic cups (yogurt, cottage cheese, whipped-topping tubs); unwaxed paper paint pots; cardboard; doorskin; assorted sandpaper; cotton terry rags; denatured alcohol; lacquer thinner; acetone; assorted throwaway brushes; acid brushes; waterless hand cleaner.
 
-This inventory complements, rather than replaces, the earlier annotated tool
-list above (see [Tools](#tools)) — the two lists overlap heavily, but that
-one carries per-item field notes from an actual build, while this
-categorized inventory serves as a fuller planning checklist for a builder
-starting from scratch. See [deck and cabin beam lamination — the Build
-Manual's "Deck Beam Template" and "Laminating Jigs"
-installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment)
-for the manual's next installment, on deck beams.
+This inventory complements, rather than replaces, the earlier annotated tool list above (see [Tools](#tools)) — the two lists overlap heavily, but that one carries per-item field notes from an actual build, while this categorized inventory serves as a fuller planning checklist for a builder starting from scratch. See [deck and cabin beam lamination — the Build Manual's "Deck Beam Template" and "Laminating Jigs" installment](/construction/deck-and-cabin-beams.md#the-build-manuals-deck-beam-template-and-laminating-jigs-installment) for the manual's next installment, on deck beams.
 
-A comprehensive list like this is a useful planning reference, but it can
-also read as intimidating: one builder, seeing the complete list only after
-finishing his own boat, judged that he owned barely a tenth of the tools it
-names — a newcomer weighing whether to start a Paradox at all should bear in
-mind that the boat has, in practice, been built with a small fraction of it.
+A comprehensive list like this is a useful planning reference, but it can also read as intimidating: one builder, seeing the complete list only after finishing his own boat, judged that he owned barely a tenth of the tools it names — a newcomer weighing whether to start a Paradox at all should bear in mind that the boat has, in practice, been built with a small fraction of it.
 
-**A "workshop or a boat?" pushback, and the case for a tiered list.** A
-comprehensive list like this one can be judged "wildly excessive" — none of
-the stationary power tools are strictly needed, a potential saving of "well
-over $5,000." A telling counter-example: the designer of a boat far fiddlier
-than a Paradox (its stem alone "much more architectural") built the
-prototype, with his wife, using only an electric drill and an electric
-planer as power tools, "hiring" a circular saw just once to trim the mast's
-edges. One proposed fix is not to drop the comprehensive list but to
-**tier it** — an absolute-minimum list first, then a supplementary "these
-make it easier" list, and only then, if wanted, a "luxury, easy living"
-list — reserving the full inventory for builders chasing a "gentleman
-woodcrafter" market rather than simply a finished boat.
+**A "workshop or a boat?" pushback, and the case for a tiered list.** A comprehensive list like this one can be judged "wildly excessive" — none of the stationary power tools are strictly needed, a potential saving of "well over $5,000." A telling counter-example: the designer of a boat far fiddlier than a Paradox (its stem alone "much more architectural") built the prototype, with his wife, using only an electric drill and an electric planer as power tools, "hiring" a circular saw just once to trim the mast's edges. One proposed fix is not to drop the comprehensive list but to **tier it** — an absolute-minimum list first, then a supplementary "these make it easier" list, and only then, if wanted, a "luxury, easy living" list — reserving the full inventory for builders chasing a "gentleman woodcrafter" market rather than simply a finished boat.
 
-The case for the list's comprehensiveness, on the other side, is that it was
-compiled as suggested rather than minimal, since what is minimal for one
-builder is luxuriously expansive for another — a full set of stationary
-power tools can be assembled for as little as **$1,200 new**, with an
-additional drill press (**$300** more) reasonably deferred until an actual
-need arises, "maybe next week, perhaps next year." Buying tools prized for
-rosewood handles, brass fittings, Japanese forging, laser engraving, or
-"even vented bass speakers" — ornamental qualities aimed at a "modern
-outlook" that admires tools rather than uses them — is one way spending can
-run needlessly high; plain, functional tools bought from old-time
-boatbuilders serve just as well as anything from a "coffee table catalog."
-A builder dissatisfied with any published list is free to compile a
-personal one, the same way a materials list is worked out individually — but
-the more important discipline either way is to start building before either
-list is complete. The deterrent effect of a long tool list on likely
-first-time builders is nonetheless real, reinforcing the case for leading
-with a bare minimum and layering in "nice to have" and "luxury" tiers only
-afterward.
+The case for the list's comprehensiveness, on the other side, is that it was compiled as suggested rather than minimal, since what is minimal for one builder is luxuriously expansive for another — a full set of stationary power tools can be assembled for as little as **$1,200 new**, with an additional drill press (**$300** more) reasonably deferred until an actual need arises, "maybe next week, perhaps next year." Buying tools prized for rosewood handles, brass fittings, Japanese forging, laser engraving, or "even vented bass speakers" — ornamental qualities aimed at a "modern outlook" that admires tools rather than uses them — is one way spending can run needlessly high; plain, functional tools bought from old-time boatbuilders serve just as well as anything from a "coffee table catalog." A builder dissatisfied with any published list is free to compile a personal one, the same way a materials list is worked out individually — but the more important discipline either way is to start building before either list is complete. The deterrent effect of a long tool list on likely first-time builders is nonetheless real, reinforcing the case for leading with a bare minimum and layering in "nice to have" and "luxury" tiers only afterward.
 
-**Old tools over new: a case for buying secondhand.** Against the "modern
-outlook" that prizes ornamental, over-marketed new tools, the fuller case
-for fine antique tools runs as follows: tool steel, rosewood, and brass
-handles are not a modern marketing invention but a genuinely old tradition,
-and the way to own such tools cheaply is patience rather than a full-price
-purchase — accumulating them over years from estate and farm sales, through
-trade, or as gifts from older tradesmen glad to see good tools passed to a
-new generation of craftsmen, rather than paying anything like list price for
-them new. The practical advice for a builder weighing whether an old tool is
-worth buying: strike when the opportunity arises rather than waiting until a
-current project justifies the purchase, since a fine tool at a good price
-will always find appreciative hands and repay its cost through use or
-trade — accepting that a "new" find may need a day or more of derusting,
-cleaning, sharpening, and tuning before it can be used. Tools of genuine age
-— Victorian-era examples that have passed through five or more generations
-of craftsmen's hands are on record — could not have survived that much use
-if inferior, and while such age can make a tool valuable to collectors, that
-is beside the point of actually owning and using it: well-made old tools are
-simply more enjoyable and more accurate to work with, and are sometimes
-better suited to a job than a modern equivalent (planes made for
-pitch-laden wood are one example).
+**Old tools over new: a case for buying secondhand.** Against the "modern outlook" that prizes ornamental, over-marketed new tools, the fuller case for fine antique tools runs as follows: tool steel, rosewood, and brass handles are not a modern marketing invention but a genuinely old tradition, and the way to own such tools cheaply is patience rather than a full-price purchase — accumulating them over years from estate and farm sales, through trade, or as gifts from older tradesmen glad to see good tools passed to a new generation of craftsmen, rather than paying anything like list price for them new. The practical advice for a builder weighing whether an old tool is worth buying: strike when the opportunity arises rather than waiting until a current project justifies the purchase, since a fine tool at a good price will always find appreciative hands and repay its cost through use or trade — accepting that a "new" find may need a day or more of derusting, cleaning, sharpening, and tuning before it can be used. Tools of genuine age — Victorian-era examples that have passed through five or more generations of craftsmen's hands are on record — could not have survived that much use if inferior, and while such age can make a tool valuable to collectors, that is beside the point of actually owning and using it: well-made old tools are simply more enjoyable and more accurate to work with, and are sometimes better suited to a job than a modern equivalent (planes made for pitch-laden wood are one example).
 
-A builder's-eye distinction cuts the debate a different way: a tradesman or
-a hobbyist planning to keep building benefits from investing in good tools
-over time, but a one-boat builder building from necessity should simply
-start with whatever tools are on hand and buy more only as a real need for
-them appears. A minimal starting kit — three saws, three chisels, a brace, a
-hand drill, a No. 4 plane, a combination square, and assorted pencils and
-rules, with an ordinary drill mounted in a stand as an improvised pillar
-drill for a first power tool — is enough to get going. Fine tools are a
-pleasure to own but are not necessary to build one plywood boat; power tools
-mainly save time, at some cost in finger-safety margin; and a builder unsure
-where to start should buy the timber first, then acquire tools to suit the
-specific job at hand — "the price of ply is daunting enough" on its own.
+A builder's-eye distinction cuts the debate a different way: a tradesman or a hobbyist planning to keep building benefits from investing in good tools over time, but a one-boat builder building from necessity should simply start with whatever tools are on hand and buy more only as a real need for them appears. A minimal starting kit — three saws, three chisels, a brace, a hand drill, a No. 4 plane, a combination square, and assorted pencils and rules, with an ordinary drill mounted in a stand as an improvised pillar drill for a first power tool — is enough to get going. Fine tools are a pleasure to own but are not necessary to build one plywood boat; power tools mainly save time, at some cost in finger-safety margin; and a builder unsure where to start should buy the timber first, then acquire tools to suit the specific job at hand — "the price of ply is daunting enough" on its own.
 
-**Builders vs. boaters, and essential vs. desirable tools.** Prospective
-Paradox owners split into two types: those who enjoy building boats (the
-majority) and those who mainly want to go boating and see building as the
-price of admission. For the latter — never having wanted to build a boat
-before Paradox, and with no interest in building another once finished —
-splitting the tool list into **essential** and **desirable** categories
-makes more sense than treating it as one comprehensive whole: buying only
-the essential tools, cheaply, sufficient to last through one build (a
-cordless drill, an angle grinder, and a jigsaw, bought specifically for the
-project and cheap enough that their survival to the end of the build was all
-that mattered) keeps costs down, even allowing for a table saw purchase some
-builders come to regret. It should be possible to complete a Paradox
-spending well under about £50 on tools, and the wider tool-list debate
-should not be read as implying otherwise, for fear of discouraging exactly
-this kind of builder from starting at all. A **6 in orbital sander**, rated
-excellent for aggressive sanding work, is one specific addition worth making
-to an essentials-first kit.
+**Builders vs. boaters, and essential vs. desirable tools.** Prospective Paradox owners split into two types: those who enjoy building boats (the majority) and those who mainly want to go boating and see building as the price of admission. For the latter — never having wanted to build a boat before Paradox, and with no interest in building another once finished — splitting the tool list into **essential** and **desirable** categories makes more sense than treating it as one comprehensive whole: buying only the essential tools, cheaply, sufficient to last through one build (a cordless drill, an angle grinder, and a jigsaw, bought specifically for the project and cheap enough that their survival to the end of the build was all that mattered) keeps costs down, even allowing for a table saw purchase some builders come to regret. It should be possible to complete a Paradox spending well under about £50 on tools, and the wider tool-list debate should not be read as implying otherwise, for fear of discouraging exactly this kind of builder from starting at all. A **6 in orbital sander**, rated excellent for aggressive sanding work, is one specific addition worth making to an essentials-first kit.
 
-**A working builder's practical middle ground.** Between a comprehensive
-list and the minimal-tools camp sits a simple practical answer: a table saw
-becomes something a builder "cannot imagine working without" once owned
-(one is on record at $75 secondhand), yet a Paradox could genuinely be built
-with nothing more than a hatchet and hand saw — it just "would not be fun."
-A builder does not need every tool on a published list, but having the full
-list in front of you, or at least handy, gives a **point of departure**:
-start building, and when a real need for a particular tool actually arises,
-decide then whether it is worth adding to the tool chest.
+**A working builder's practical middle ground.** Between a comprehensive list and the minimal-tools camp sits a simple practical answer: a table saw becomes something a builder "cannot imagine working without" once owned (one is on record at $75 secondhand), yet a Paradox could genuinely be built with nothing more than a hatchet and hand saw — it just "would not be fun." A builder does not need every tool on a published list, but having the full list in front of you, or at least handy, gives a **point of departure**: start building, and when a real need for a particular tool actually arises, decide then whether it is worth adding to the tool chest.
 
-**An outside professional boat designer's endorsement of a minimal tool
-kit.** New Zealand small-boat designer and author **John Welsford** added
-independent, professional-builder weight to the minimalist side of the
-debate. Tool "need," in his framing, is as much a perception shaped by
-advertisers convincing buyers they "have to have" particular tools as it is
-a real requirement — to be weighed against the time and money a given
-builder actually has. Despite owning a comparatively well-stocked shop
-himself, Welsford judged it no real inconvenience to build a Paradox with
-far less: his own book, *The New Zealand Backyard Boatbuilder*, pictures on
-page 33 a single carry-box of tools, liftable and carried in one hand,
-sufficient to build most small boats. His own first big boat, a 21-footer,
-was built with only a single power tool — a 3/8 in-chuck, two-speed Hitachi
-drill — carried entirely in one toolbox; the only real cost was extra sweat
-hand-ripsawing long stringers and the hardwood keelson. Everything beyond a
-minimal kit falls into a "nice to have" category, and it is easy to overspend
-on tools to the point of merely enriching the tool-shop owner rather than
-finishing a boat — Nelson's *Victory*, among other historic ships, was built
-entirely with hand tools, and a full stationary-power-tool shop only makes
-sense for a builder setting up production runs. Welsford had, by his own
-account, built **19 boats in about 18 years** and was about to start a
-12-ton cruiser. A dry coda on the hand-tools point: if Nelson's *Victory*
-and her contemporaries were built without power tools, it was not for want
-of trying — the Romans had already worked out how to drive a saw with water
-power.
+**An outside professional boat designer's endorsement of a minimal tool kit.** A New Zealand small-boat designer and author added independent, professional-builder weight to the minimalist side of the debate. Tool "need," in this framing, is as much a perception shaped by advertisers convincing buyers they "have to have" particular tools as it is a real requirement — to be weighed against the time and money a given builder actually has. Despite owning a comparatively well-stocked shop, it was judged no real inconvenience to build a Paradox with far less: the book *The New Zealand Backyard Boatbuilder* pictures on page 33 a single carry-box of tools, liftable and carried in one hand, sufficient to build most small boats. One first big boat, a 21-footer, was built with only a single power tool — a 3/8 in-chuck, two-speed Hitachi drill — carried entirely in one toolbox; the only real cost was extra sweat hand-ripsawing long stringers and the hardwood keelson. Everything beyond a minimal kit falls into a "nice to have" category, and it is easy to overspend on tools to the point of merely enriching the tool-shop owner rather than finishing a boat — Nelson's *Victory*, among other historic ships, was built entirely with hand tools, and a full stationary-power-tool shop only makes sense for a builder setting up production runs. That designer had built **19 boats in about 18 years** and was about to start a 12-ton cruiser. A dry coda on the hand-tools point: if Nelson's *Victory* and her contemporaries were built without power tools, it was not for want of trying — the Romans had already worked out how to drive a saw with water power.
 
 ## Workspace
 
-- The boat can be built in a **very small space**: one builder's own boat
-  went together in a **garage only about 2 ft longer than the finished
-  boat**, doing as much as possible before assembling the hull.
-- A build is even practical for an **apartment dweller with no garage**: one
-  Los Angeles builder planned to build in the space of a single outdoor
-  parking spot (roughly 8 ft by 15 ft), with additional temporary room
-  available just to its front, timing the build for the winter months to
-  avoid the local summer heat.[84]
-- Moving a part-built hull between a workshop and the outdoors is itself
-  worth planning for. One builder, working on "Enuf" in a workshop separate
-  from his driveway, built a **trolley** from a recycled, welded-on wheel set
-  (freed with an angle grinder) bolted onto a new wooden frame, then raised
-  the hull with **levers, wood blocks, trolley jacks, and axle stands** to
-  slide the trolley underneath. The trolley worked well moving the boat back
-  and forth once assembled — but on one attempt to push the hull back into
-  the workshop, its front wheels caught on the workshop floor's half-inch
-  door-sill lip, stopped dead, and tore loose from the wooden frame, leaving
-  the hull to skid off its trolley and back onto its original resting
-  blocks.
-- **Moving a finished boat solo, without a trolley mishap.** [Dave
-  Bolduc](/people/bolduc/dave.md) built an alternative for turning [Little
-  Cruiser](/matt-layden/little-cruiser.md) over: **"the big wheel,"** which
-  lets him move the boat around **solo** using it together with a **block and
-  tackle** and a jack, rather than depend on a neighbor or his own wife for
-  help, as he used to — a helper-dependent method he found unpredictable and
-  always feared would damage the boat. The solo method is slower but avoids
-  the risk of working with others who may handle a heavy hull less carefully.
-  A **simpler wheeled cradle** is another workable option — a spare set of
-  dinghy-trailer wheels and an axle strapped to a wooden baulk positioned
-  under the hull's point of balance lets the boat slide easily along timber
-  and concrete once set up this way.
-- **Getting a raised hull's side vertical for glassing, without cutting
-  wedges.** With the hull up on baulks of timber roughly 10 in off the floor
-  ahead of glassing one side, a simpler alternative to cutting long wedges to
-  correct a side sloping inward and away from the builder is to nail a pair
-  of short stops to one end of the baulks, stopping the boat from sliding
-  away, and to lift the opposite side on a trolley jack instead.[85]
-- **How heavy the bare hull is, for manhandling past an obstruction.** The
-  bare hull structure runs to roughly **400 lb** before ballast, tanks, or
-  gear are added (see [weight, ballast, and displacement — loaded-weight
-  breakdown](/design/weight-and-ballast.md#loaded-weight-breakdown-don-elliotts-boat)),
-  making her light enough for the trolley- and cradle-based moving methods
-  above rather than requiring a full crew to lift her clear.[76] Two further
-  independent guesses converge on the same range: **450–500 lb**,[77] and,
-  drawing on the "Zoë" build, **350–400 lb before cabinets and ballast**[78] —
-  both consistent with the ~400 lb design figure above. At that weight, no
-  single build stage stands out as especially time-consuming, but **scarf
-  joints in the panels were consistently irritating** for at least one
-  builder (who switched to a lapped butt joint for the floor instead), and
-  **chine logs were troublesome** for the same builder (narrowing them made
-  them easier to work, and leaving the vent box out until after the
-  bulkheads are fitted is worth avoiding, having proved a mistake in
-  practice). Pre-shaped kit panels would not have detracted from the
-  pleasure of building.[79] At the hull-only stage, a bare hull can be lifted
-  easily by hand by three people; further along, with decks going on and
-  some ballast aboard, sliding the hull around solo on wooden blocks becomes
-  possible, and 5–6 fit people could lift her a foot or so into the air at
-  that stage.[79]
-- **A bare hull can be safely set down or left mid-move without damage.**
-  Even if a moving crew tires out partway through, the hull itself is in no
-  danger from being propped up on rocks or other rough support — there is
-  "no danger of putting a hole" in the Paradox's 18 mm bottom.[83] Manhandling
-  labor scales with the size of the moving crew rather than its members'
-  individual strength.[81][82]
-- **Kit-cut panels versus building from scratch.** A precut kit would only
-  save time, not skill or accomplishment — one of Paradox's own appeals
-  being that a builder can complete her from start to finish. Even an
-  experienced builder using no kit can find the build, in spite of
-  mistakes made along the way, thoroughly enjoyable, and "a bit more
-  complicated than an Ikea flat pack" — many such mistakes coming down to
-  not having read the instructions closely enough.[81][82] The design's real
-  case rests on its practical **track record** rather than on paper: Paradox
-  has "done so much in reality, not just on paper," and essentially all
-  serious negative criticism of the design on record comes from
-  theoreticians who have never owned or sailed one, not from actual
-  owners.[82]
+- The boat can be built in a **very small space**: one builder's own boat went together in a **garage only about 2 ft longer than the finished boat**, doing as much as possible before assembling the hull.
+- A build is even practical for an **apartment dweller with no garage**: one Los Angeles builder planned to build in the space of a single outdoor parking spot (roughly 8 ft by 15 ft), with additional temporary room available just to its front, timing the build for the winter months to avoid the local summer heat.[84]
+- Moving a part-built hull between a workshop and the outdoors is itself worth planning for. One builder, working on "Enuf" in a workshop separate from the driveway, built a **trolley** from a recycled, welded-on wheel set (freed with an angle grinder) bolted onto a new wooden frame, then raised the hull with **levers, wood blocks, trolley jacks, and axle stands** to slide the trolley underneath. The trolley worked well moving the boat back and forth once assembled — but on one attempt to push the hull back into the workshop, its front wheels caught on the workshop floor's half-inch door-sill lip, stopped dead, and tore loose from the wooden frame, leaving the hull to skid off its trolley and back onto its original resting blocks.
+- **Moving a finished boat solo, without a trolley mishap.** One builder built an alternative for turning [Little Cruiser](/matt-layden/little-cruiser.md) over: **"the big wheel,"** which lets one move the boat around **solo** using it together with a **block and tackle** and a jack, rather than depend on a neighbor or a helper, as before — a helper-dependent method found unpredictable and always feared to damage the boat. The solo method is slower but avoids the risk of working with others who may handle a heavy hull less carefully. A **simpler wheeled cradle** is another workable option — a spare set of dinghy-trailer wheels and an axle strapped to a wooden baulk positioned under the hull's point of balance lets the boat slide easily along timber and concrete once set up this way.
+- **Getting a raised hull's side vertical for glassing, without cutting wedges.** With the hull up on baulks of timber roughly 10 in off the floor ahead of glassing one side, a simpler alternative to cutting long wedges to correct a side sloping inward and away from the builder is to nail a pair of short stops to one end of the baulks, stopping the boat from sliding away, and to lift the opposite side on a trolley jack instead.[85]
+- **How heavy the bare hull is, for manhandling past an obstruction.** The bare hull structure runs to roughly **400 lb** before ballast, tanks, or gear are added (see [weight, ballast, and displacement — loaded-weight breakdown](/design/weight-and-ballast.md#loaded-weight-breakdown-don-elliotts-boat)), making her light enough for the trolley- and cradle-based moving methods above rather than requiring a full crew to lift her clear.[76] Two further independent guesses converge on the same range: **450–500 lb**,[77] and, drawing on the "Zoë" build, **350–400 lb before cabinets and ballast**[78] — both consistent with the ~400 lb design figure above. At that weight, no single build stage stands out as especially time-consuming, but **scarf joints in the panels were consistently irritating** for at least one builder (who switched to a lapped butt joint for the floor instead), and **chine logs were troublesome** for the same builder (narrowing them made them easier to work, and leaving the vent box out until after the bulkheads are fitted is worth avoiding, having proved a mistake in practice). Pre-shaped kit panels would not have detracted from the pleasure of building.[79] At the hull-only stage, a bare hull can be lifted easily by hand by three people; further along, with decks going on and some ballast aboard, sliding the hull around solo on wooden blocks becomes possible, and 5–6 fit people could lift her a foot or so into the air at that stage.[79]
+- **A bare hull can be safely set down or left mid-move without damage.** Even if a moving crew tires out partway through, the hull itself is in no danger from being propped up on rocks or other rough support — there is "no danger of putting a hole" in the Paradox's 18 mm bottom.[83] Manhandling labor scales with the size of the moving crew rather than its members' individual strength.[81][82]
+- **Kit-cut panels versus building from scratch.** A precut kit would only save time, not skill or accomplishment — one of Paradox's own appeals being that a builder can complete her from start to finish. Even an experienced builder using no kit can find the build, in spite of mistakes made along the way, thoroughly enjoyable, and "a bit more complicated than an Ikea flat pack" — many such mistakes coming down to not having read the instructions closely enough.[81][82] The design's real case rests on its practical **track record** rather than on paper: Paradox has "done so much in reality, not just on paper," and essentially all serious negative criticism of the design on record comes from theoreticians who have never owned or sailed one, not from actual owners.[82]
 
 ## Staying motivated through a long build
 
 ## Staying motivated through a long build
 
-Given how long a build can run (see the hundreds-of-hours figures above),
-maintaining enthusiasm during the slow winter stretch of a project is its
-own recognized challenge, with a standard set of countermeasures: keep a
-build log (progress, costs, gear wishlist, photos, eventually a simple
-website); develop useful skills in advance (weather prediction, navigation,
-boating-safety courses, a first-aid course, practicing simple cooking); buy
-the occasional piece of gear as a motivational reward (without overspending);
-and research cruising destinations via library/web rather than buying guides
-or charts that will age. The essential discipline underlying all of it:
-**build on the boat at least every week**, on a regular, persistent
-schedule. See [David LeBlanc](/people/david-leblanc.md) for the full list.
+Given how long a build can run (see the hundreds-of-hours figures above), maintaining enthusiasm during the slow winter stretch of a project is its own recognized challenge, with a standard set of countermeasures: keep a build log (progress, costs, gear wishlist, photos, eventually a simple website); develop useful skills in advance (weather prediction, navigation, boating-safety courses, a first-aid course, practicing simple cooking); buy the occasional piece of gear as a motivational reward (without overspending); and research cruising destinations via library/web rather than buying guides or charts that will age. The essential discipline underlying all of it: **build on the boat at least every week**, on a regular, persistent schedule. See [the full list of motivation suggestions](/people/david-leblanc.md) for more.
 
-A **1/10-scale cardboard mock-up**, built ahead of starting construction, is
-one concrete way of keeping a stalled project moving and refreshing a
-builder's own sense of the interior arrangement: floppy and rough, but
-enough to check dimensions and layout by eye, alongside photographing a
-finished Paradox ("Little Jim") in person for the same purpose. Fastenings
-can be sourced from **Robbins Timber of Bristol**, about half the price of
-Classic Marine for UK builders. Coming back to progress photos after a gap
-of weeks can reveal a build has moved on considerably further than
-remembered, even when the interior and close-up work still looks too rough
-to show publicly. On the Yahoo Groups platform the archive predates, there
-was no way to rename a photo folder directly to match a boat's new name —
-only to delete it and upload a fresh one — making an early, settled choice
-of boat name worth having before photos accumulate.
+A **1/10-scale cardboard mock-up**, built ahead of starting construction, is one concrete way of keeping a stalled project moving and refreshing a builder's own sense of the interior arrangement: floppy and rough, but enough to check dimensions and layout by eye, alongside photographing a finished Paradox ("Little Jim") in person for the same purpose. Fastenings can be sourced from **Robbins Timber of Bristol**, about half the price of Classic Marine for UK builders. Coming back to progress photos after a gap of weeks can reveal a build has moved on considerably further than remembered, even when the interior and close-up work still looks too rough to show publicly. On the Yahoo Groups platform the archive predates, there was no way to rename a photo folder directly to match a boat's new name — only to delete it and upload a fresh one — making an early, settled choice of boat name worth having before photos accumulate.
 
 ## Starting over after total loss
 
-A distinct, more severe kind of setback than a slow winter stretch: a
-builder known as **Ernie Fossel**'s **Paradox-in-progress and boat shed were
-both destroyed** by large trees knocked down in a violent windstorm one New
-Year's Eve. This is *possibly*, but not confirmed to be, the same
-**"Ernie"** (Sebastopol, CA) who had revealed his own from-scratch Paradox
-build in September 2002 — see
-[crew size and cabin fit](/operations/crew-size-and-fit.md) — a plausible
-match given the six-month-old, early-stage build described here would trace
-back to roughly that same period, but the archive gives no explicit
-cross-reference (no repeated location, no "that's me" link between the two),
-so the two are kept separate per the project's identity-merge caution. The
-devastation killed his enthusiasm for a time, but did not end the build: he
-went back to cutting out pieces again, and asked what, if anything, about
-the early building stages had changed in the roughly six months since.
+A distinct, more severe kind of setback than a slow winter stretch: one builder's **Paradox-in-progress and boat shed were both destroyed** by large trees knocked down in a violent windstorm one New Year's Eve. This is *possibly*, but not confirmed to be, the same builder (Sebastopol, CA) who had revealed his own from-scratch Paradox build in September 2002 — see [crew size and cabin fit](/operations/crew-size-and-fit.md) — a plausible match given the six-month-old, early-stage build described here would trace back to roughly that same period, but the archive gives no explicit cross-reference (no repeated location, no "that's me" link between the two), so the two are kept separate per the project's identity-merge caution. The devastation killed his enthusiasm for a time, but did not end the build: he went back to cutting out pieces again, and asked what, if anything, about the early building stages had changed in the roughly six months since.
 
-The one concrete lesson-learned for a builder returning to the very earliest
-stage of construction: **don't bother getting cleat sizes precisely
-accurate** — wood planed exactly to the plans' specified dimensions "really
-wasn't necessary," since extra wood left on would have been fine regardless.
-The one firm piece of advice, by contrast: **do get the plywood bulkheads
-the right shape**, since "everything else will follow" from a good start
-there. This is the only recorded case of a builder losing an in-progress
-hull entirely to an external disaster (as opposed to abandoning a build by
-choice) and restarting from scratch.
+The one concrete lesson-learned for a builder returning to the very earliest stage of construction: **don't bother getting cleat sizes precisely accurate** — wood planed exactly to the plans' specified dimensions "really wasn't necessary," since extra wood left on would have been fine regardless. The one firm piece of advice, by contrast: **do get the plywood bulkheads the right shape**, since "everything else will follow" from a good start there. This is the only recorded case of a builder losing an in-progress hull entirely to an external disaster (as opposed to abandoning a build by choice) and restarting from scratch.
 
 # Citations
 

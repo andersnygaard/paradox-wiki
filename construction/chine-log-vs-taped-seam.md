@@ -8,239 +8,67 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Chine log vs. taped-seam construction
 
-Taped-seam plywood construction (as described on an external site,
-`applegateboatworks.com/tape.html`) is sometimes considered by prospective
-builders as an alternative to the [Paradox](/paradox.md) plans' own
-**chine-log** method — a construction-methodology question distinct from, but
-closely related to, the earlier
-[stitch-and-glue debate](/construction/hull-planking.md).
-The two methods differ in how the plywood panels meet at the chine: taped
-seam typically wants a **gap** between the two boards being joined, filled
-and taped over, while chine log might appear to demand a **tight joint** —
-though in practice the plans' chine-log joint is also meant to have a gap.
-See [references/general-boatbuilding-links](/references/general-boatbuilding-links.md)
-for other external boatbuilding resources on the subject.
+Taped-seam plywood construction (as described on an external site, `applegateboatworks.com/tape.html`) is sometimes considered by prospective builders as an alternative to the [Paradox](/paradox.md) plans' own **chine-log** method — a construction-methodology question distinct from, but closely related to, the earlier [stitch-and-glue debate](/construction/hull-planking.md). The two methods differ in how the plywood panels meet at the chine: taped seam typically wants a **gap** between the two boards being joined, filled and taped over, while chine log might appear to demand a **tight joint** — though in practice the plans' chine-log joint is also meant to have a gap. See [references/materials-sourcing-links](/references/materials-sourcing-links.md#general-boatbuilding-resource-links-cedar-strip-site-newsgroup-forum) for other external boatbuilding resources on the subject.
 
 ## Why the plans' chine-log sequence is easier to build
 
-A taped-seam joint **could** be made to work on Paradox, but is **not worth
-the effort**, because the plans' construction **method and sequence** is very
-well thought out:
+A taped-seam joint **could** be made to work on Paradox, but is **not worth the effort**, because the plans' construction **method and sequence** is very well thought out:
 
-1. **Bulkheads** are built first, flat, with all their fiddly detail work
-   done before assembly.
-2. **Side panels and bulkheads are joined** next — easy for one person —
-   after which the resulting structure is already sturdy enough to be
-   **rolled over and worked on** with ease. This is also the stage at which
-   the boat's **straightness is set**, and easily so.
-3. Some **detail work** follows, then the **bottom** goes on — an 18 mm
-   panel that must take quite a curve, but which is again easy for one
-   person, working from one end to the other with glue and nails.
-4. The bottom is only **roughly shaped** at the panel stage and **trimmed
-   after assembly** — a recurring feature of the plans' construction
-   approach that shows up more than once through the build.
+1. **Bulkheads** are built first, flat, with all their fiddly detail work done before assembly.
+2. **Side panels and bulkheads are joined** next — easy for one person — after which the resulting structure is already sturdy enough to be **rolled over and worked on** with ease. This is also the stage at which the boat's **straightness is set**, and easily so.
+3. Some **detail work** follows, then the **bottom** goes on — an 18 mm panel that must take quite a curve, but which is again easy for one person, working from one end to the other with glue and nails.
+4. The bottom is only **roughly shaped** at the panel stage and **trimmed after assembly** — a recurring feature of the plans' construction approach that shows up more than once through the build.
 5. The **deck** goes on last, presumably with the same ease.
 
-By contrast, taped-seam construction on a boat like Paradox raises practical
-questions: would every joint, bulkheads included, need taping? How would the
-bottom be pulled down into shape with only temporary ties to hold it, absent
-the chine-log/nail-and-glue sequence? How would the bottom panel's correct
-shape be worked out in the first place? How would the structure be held
-straight while the joints are made? These are solvable in principle, but
-there is no reason to solve them when the plans' existing method is already
-easy.
+By contrast, taped-seam construction on a boat like Paradox raises practical questions: would every joint, bulkheads included, need taping? How would the bottom be pulled down into shape with only temporary ties to hold it, absent the chine-log/nail-and-glue sequence? How would the bottom panel's correct shape be worked out in the first place? How would the structure be held straight while the joints are made? These are solvable in principle, but there is no reason to solve them when the plans' existing method is already easy.
 
-A builder coming from a light 8 ft taped-seam dinghy might expect to build
-Paradox the same way, but Paradox is a **heavy displacement craft** by
-comparison — shifting **180 kg (400 lb) of lead ballast** in and out of the
-boat is a reminder of just how heavy a loaded Paradox is (see
-[weight, ballast, and displacement](/design/weight-and-ballast.md)). With the
-plans' method as drawn, the only step that needs a second person is
-**turning the hull over** after fitting and glassing the bottom — and even
-that only becomes a one-person job with a workaround, such as rolling the
-hull onto a pair of roller skates to slide it sideways in a narrow garage
-before it can continue rolling. See
-[hull assembly sequence](/construction/hull-assembly-sequence.md)
-for a fuller account of that step.
+A builder coming from a light 8 ft taped-seam dinghy might expect to build Paradox the same way, but Paradox is a **heavy displacement craft** by comparison — shifting **180 kg (400 lb) of lead ballast** in and out of the boat is a reminder of just how heavy a loaded Paradox is (see [weight, ballast, and displacement](/design/weight-and-ballast.md)). With the plans' method as drawn, the only step that needs a second person is **turning the hull over** after fitting and glassing the bottom — and even that only becomes a one-person job with a workaround, such as rolling the hull onto a pair of roller skates to slide it sideways in a narrow garage before it can continue rolling. See [hull assembly sequence](/construction/hull-assembly-sequence.md) for a fuller account of that step.
 
-[Don Elliott](/people/don-elliott.md)'s
-["Building the Paradox" articles](/references/building-the-paradox-articles.md)
-are recommended as "a must" for anyone serious about building a Paradox; Don
-also owns the **Smallboats** Yahoo group.
+The ["Building the Paradox" articles](/references/building-the-paradox-articles.md) are recommended as "a must" for anyone serious about building a Paradox.
 
-From an **ease-of-construction** standpoint, the plans as drawn call for "no
-hesitation" from builders. From a **strength** standpoint, a hull built
-to the plans is "extremely sturdy," and a taped-seam version would likely
-produce a **less rugged** boat than the plans' chine-log method.
+From an **ease-of-construction** standpoint, the plans as drawn call for "no hesitation" from builders. From a **strength** standpoint, a hull built to the plans is "extremely sturdy," and a taped-seam version would likely produce a **less rugged** boat than the plans' chine-log method.
 
-This is the most detailed defense on record of the Paradox plans'
-chine-log construction method against an alternative technique, and — coming
-from first-hand experience **partway through** building the boat by the
-method in question — carries more weight than the earlier, more abstract
-[stitch-and-glue debate](/construction/hull-planking.md), which was argued by
-list members who had not yet built. The two threads reach a broadly
-similar conclusion — the plans' method is well suited to Paradox specifically,
-given her weight and chine-runner requirements — from different angles: this
-one focused on **build sequence and ease**, the earlier one on
-**weight/ballast** and the need for real chine logs to carry the
-[chine runners](/chine-runners/construction.md).
+This is the most detailed defense on record of the Paradox plans' chine-log construction method against an alternative technique, and — coming from first-hand experience **partway through** building the boat by the method in question — carries more weight than the earlier, more abstract [stitch-and-glue debate](/construction/hull-planking.md), which was argued by builders who had not yet built. The two threads reach a broadly similar conclusion — the plans' method is well suited to Paradox specifically, given her weight and chine-runner requirements — from different angles: this one focused on **build sequence and ease**, the earlier one on **weight/ballast** and the need for real chine logs to carry the [chine runners](/chine-runners/construction.md).
 
 ## Corroboration from sharpie construction practice
 
-Practical experience with a **Bolger Micro** (a different, non-Paradox
-design) provides an independent, practical data point: **most sharpies**,
-with their perpendicular (90°) sides, are built with **chine logs** rather
-than stitch-and-glue, whereas multichine boats with **lower chine angles** do
-better with fill-and-tape — at 90° the panels lose their self-aligning
-characteristics, making chine-log joints both more accurate (since they can
-be nailed) and better suited to a boat like Paradox. Using tape at a 90°
-chine would first require **radiusing the chine**, filling both sides with
-thickened epoxy, then taping over and fairing — adding a lot of weight
-unnecessarily. A Micro built this way proved strong enough that "you could
-have driven a tank over it." This independently corroborates the structural
-skepticism of taped-seam construction for a boat like Paradox, from a real,
-completed (non-Paradox) build rather than a partway-through one.
+Practical experience with a **Bolger Micro** (a different, non-Paradox design) provides an independent, practical data point: **most sharpies**, with their perpendicular (90°) sides, are built with **chine logs** rather than stitch-and-glue, whereas multichine boats with **lower chine angles** do better with fill-and-tape — at 90° the panels lose their self-aligning characteristics, making chine-log joints both more accurate (since they can be nailed) and better suited to a boat like Paradox. Using tape at a 90° chine would first require **radiusing the chine**, filling both sides with thickened epoxy, then taping over and fairing — adding a lot of weight unnecessarily. A Micro built this way proved strong enough that "you could have driven a tank over it." This independently corroborates the structural skepticism of taped-seam construction for a boat like Paradox, from a real, completed (non-Paradox) build rather than a partway-through one.
 
-See also
-[Stretched Paradox — "virtual remodelling" and a 20-footer](/design/variants/stretched-paradox.md)
-for a related follow-up on the same builder's later plans, including a
-personal preference for a larger, 20 ft enlarged Paradox for longer
-passages.
+See also [Stretched Paradox — "virtual remodelling" and a 20-footer](/design/variants/stretched-paradox.md) for a related follow-up on the same builder's later plans, including a personal preference for a larger, 20 ft enlarged Paradox for longer passages.
 
 ## What sheer strakes and chine logs actually do, and why plywood is a poor substitute
 
-Sheer strakes and chine logs serve **two purposes at once**, not one: they
-give the fasteners (ring nails, screws) somewhere solid to bite into, and
-they add real **strength and stiffness** to the hull structure in their own
-right. A well-built "box boat" hull, with some curvature worked into the
-chine logs and sheer clamps, meaningfully stiffens the plywood topsides,
-bottom, and decks; once the exterior is glassed over, the result acts as, in
-effect, an incredibly strong box beam. The only real alternative to solid
-chine logs and sheer strakes is an epoxy fillet and glass-tape joint instead
-— a valid but different structural approach, not a shortcut substitute for
-the same parts in inferior material.[9]
+Sheer strakes and chine logs serve **two purposes at once**, not one: they give the fasteners (ring nails, screws) somewhere solid to bite into, and they add real **strength and stiffness** to the hull structure in their own right. A well-built "box boat" hull, with some curvature worked into the chine logs and sheer clamps, meaningfully stiffens the plywood topsides, bottom, and decks; once the exterior is glassed over, the result acts as, in effect, an incredibly strong box beam. The only real alternative to solid chine logs and sheer strakes is an epoxy fillet and glass-tape joint instead — a valid but different structural approach, not a shortcut substitute for the same parts in inferior material.[9]
 
-**Plywood itself is a poor choice for chine logs and sheer strakes**, despite
-looking, at first glance, like a promising rip-your-own-strips option.
-Fastener-holding strength depends on grain direction: a fastener driven along
-the grain has to push wood fibres aside and holds poorly, while a fastener
-crossing multiple grain directions holds far better — which is exactly why
-plywood makes a good **panel** (its alternating cross-grain layers resist
-splitting from any single fastener) but a poor **strip**, since ripping it
-into strakes leaves every other layer's grain running crossways to the
-strake's own length, contributing little once so oriented.[6][7] The better
-approach, if solid stock feels too costly, is to **laminate two thinner
-strips of a harder natural wood together**, with the grain running
-predominantly fore-and-aft the way a single solid strake would.[7]
+**Plywood itself is a poor choice for chine logs and sheer strakes**, despite looking, at first glance, like a promising rip-your-own-strips option. Fastener-holding strength depends on grain direction: a fastener driven along the grain has to push wood fibres aside and holds poorly, while a fastener crossing multiple grain directions holds far better — which is exactly why plywood makes a good **panel** (its alternating cross-grain layers resist splitting from any single fastener) but a poor **strip**, since ripping it into strakes leaves every other layer's grain running crossways to the strake's own length, contributing little once so oriented.[6][7] The better approach, if solid stock feels too costly, is to **laminate two thinner strips of a harder natural wood together**, with the grain running predominantly fore-and-aft the way a single solid strake would.[7]
 
-**Wood species selection** follows the plans' own general guidance:
-relatively soft, flexible species — spruce, fir, or cedar — are preferred
-over hard, stiff woods, except where the plans specifically call for a hard
-species. Matt Layden's own list of species to avoid for gluing or rot
-reasons is **oak, teak, maple, birch, and poplar**.[10] Cheap, knotty,
-poorly seasoned local "fir" (in the UK, often a fast-grown Baltic pine sold
-for house framing) can still work if the grain is reasonably straight and the
-knots are tight, especially if the dimensions are made a bit larger to
-compensate — though a builder can also simply oversize the piece, or scarf
-short lengths together, rather than accept doubtful wood.[8][10] Investing in
-genuinely good-quality wood at the outset, rather than depending on epoxy to
-upgrade cheap wood, was judged the better economy over a boat's working
-life — amortized over 15 years or more, the cost difference between good and
-cheap stock is a poor place to cut corners, and a builder will never regret
-paying for better material once the boat is finished.[7][9]
+**Wood species selection** follows the plans' own general guidance: relatively soft, flexible species — spruce, fir, or cedar — are preferred over hard, stiff woods, except where the plans specifically call for a hard species. Matt Layden's own list of species to avoid for gluing or rot reasons is **oak, teak, maple, birch, and poplar**.[10] Cheap, knotty, poorly seasoned local "fir" (in the UK, often a fast-grown Baltic pine sold for house framing) can still work if the grain is reasonably straight and the knots are tight, especially if the dimensions are made a bit larger to compensate — though a builder can also simply oversize the piece, or scarf short lengths together, rather than accept doubtful wood.[8][10] Investing in genuinely good-quality wood at the outset, rather than depending on epoxy to upgrade cheap wood, was judged the better economy over a boat's working life — amortized over 15 years or more, the cost difference between good and cheap stock is a poor place to cut corners, and a builder will never regret paying for better material once the boat is finished.[7][9]
 
-The quality-wood-pays-for-itself argument is the more persuasive
-conclusion.[11]
+The quality-wood-pays-for-itself argument is the more persuasive conclusion.[11]
 
 ## A follow-up choice: Brazilian mahogany versus Sapele
 
-For an actual timber order, chine logs and sheer strakes present a choice
-between two UK-supplied options: American (Brazilian) mahogany, or
-**Sapele** (an African mahogany) at roughly 40% lower cost. Sapele is
-moderately durable with fairly good working qualities apart from planing,
-while Brazilian mahogany is both durable and good working throughout; Sapele
-is the harder of the two, and its bending strength, stiffness, and shock
-resistance are practically equal to English oak.[12]
+For an actual timber order, chine logs and sheer strakes present a choice between two UK-supplied options: American (Brazilian) mahogany, or **Sapele** (an African mahogany) at roughly 40% lower cost. Sapele is moderately durable with fairly good working qualities apart from planing, while Brazilian mahogany is both durable and good working throughout; Sapele is the harder of the two, and its bending strength, stiffness, and shock resistance are practically equal to English oak.[12]
 
-The governing rule of thumb is to choose whichever species best takes
-fasteners without splitting, with the cheaper option preferred if the two are
-equal on that score (see above) — a rule applied to mahogany chine logs on
-at least one Micro build.[13] Cross-checked against the UK TRADA (Timber
-Research and Development Association) website, Sapele is confirmed to take
-screws and nails well and glue satisfactorily.[14] TRADA's site is a good
-general resource for any UK-domiciled builder pricing timber: searchable by
-species, each species page gives a fact sheet with color photos of the grain
-(multiple photos where the grain configuration varies) and a list of local
-stockists.[14]
+The governing rule of thumb is to choose whichever species best takes fasteners without splitting, with the cheaper option preferred if the two are equal on that score (see above) — a rule applied to mahogany chine logs on at least one Micro build.[13] Cross-checked against the UK TRADA (Timber Research and Development Association) website, Sapele is confirmed to take screws and nails well and glue satisfactorily.[14] TRADA's site is a good general resource for any UK-domiciled builder pricing timber: searchable by species, each species page gives a fact sheet with color photos of the grain (multiple photos where the grain configuration varies) and a list of local stockists.[14]
 
-**4.45 metres of 250 x 40 mm** Sapele cost **£105 including VAT** in one
-build, together with about £30 of free offcuts suitable for turning, each a
-different species.[15]
+**4.45 metres of 250 x 40 mm** Sapele cost **£105 including VAT** in one build, together with about £30 of free offcuts suitable for turning, each a different species.[15]
 
-Cutting chine logs from stock like this can be hard on tools: in one case,
-partway through the second cut a circular saw burned out. The resulting
-smoke and smell — combined with the noise — proved persuasive enough at home
-that a proper table saw was judged worth buying, an unplanned but not
-unwelcome upgrade to the tool kit.[16] The episode stands as a caution
-against ever treating a dull blade or a tired tool with disdain.[17]
+Cutting chine logs from stock like this can be hard on tools: in one case, partway through the second cut a circular saw burned out. The resulting smoke and smell — combined with the noise — proved persuasive enough at home that a proper table saw was judged worth buying, an unplanned but not unwelcome upgrade to the tool kit.[16] The episode stands as a caution against ever treating a dull blade or a tired tool with disdain.[17]
 
 ## Chine-log thickness: why 38 mm rather than 19 mm
 
-The plans' 38 mm chine-log thickness has been questioned directly: 19 mm
-sapele bends readily along its length but only reluctantly through its
-depth, and the extra thickness the plans call for adds little beyond a
-nailing surface and a wider glue joint — an unfavorable comparison against
-Shane Acton's twice-circumnavigating 9 mm plywood, stitch-and-glue hull, and
-against whether a modern designer (naming John Welsford and Paul Fisher)
-would specify stitch-and-glue and even omit ring nails altogether on a small
-coastal cruiser designed today. By this view Paradox is "massively over
-engineered," perhaps reflecting the era it was drawn in, arguing for 19 mm
-chine logs absent a good reason otherwise.[18]
+The plans' 38 mm chine-log thickness has been questioned directly: 19 mm sapele bends readily along its length but only reluctantly through its depth, and the extra thickness the plans call for adds little beyond a nailing surface and a wider glue joint — an unfavorable comparison against Shane Acton's twice-circumnavigating 9 mm plywood, stitch-and-glue hull, and against whether a modern designer (naming John Welsford and Paul Fisher) would specify stitch-and-glue and even omit ring nails altogether on a small coastal cruiser designed today. By this view Paradox is "massively over engineered," perhaps reflecting the era it was drawn in, arguing for 19 mm chine logs absent a good reason otherwise.[18]
 
-A finished, sailing counterexample answers directly: one completed Paradox
-was built stitch-and-glue with fir chine logs and no nails or screws except
-at hardware, filleted throughout; the hull has not flexed at all in the
-water and feels strong enough — though many on the list consider the design
-already finished and not to be bettered.[19] That boat is "Jill" (see
-[Jack Gardiner — launch: "Jill"](/people/jack-gardiner.md#launch-jill)
-for her full launch and sailing record).[20][22]
+A finished, sailing counterexample answers directly: one completed Paradox was built stitch-and-glue with fir chine logs and no nails or screws except at hardware, filleted throughout; the hull has not flexed at all in the water and feels strong enough — though many consider the design already finished and not to be bettered.[19] That boat is "Jill" (see [launch: "Jill"](/people/jack-gardiner.md#launch-jill) for her full launch and sailing record).[20][22]
 
-Against a "finished and can't be bettered" attitude toward Paradox, the
-counter-argument is that every design admits further change until the
-process is naturally exhausted — [Alastair](/people/alastair.md)'s own
-"Little Jim" keeps being modified as Alastair gains experience with her, an
-example that has fed into other builders' design choices.[20]
+Against a "finished and can't be bettered" attitude toward Paradox, the counter-argument is that every design admits further change until the process is naturally exhausted — [Little Jim](/boats/little-jim.md) keeps being modified as her builder gains experience with her, an example that has fed into other builders' design choices.[20]
 
-The chine-log-versus-fillet reasoning above extends to a further option:
-lighter chine logs and fillets should be strong enough, though more labor; a
-**triangular-cross-section chine log, taped over**, is a stiffer, cleaner,
-lighter-wood alternative to a full rectangular log, though it is unclear how
-such a shape would fit the Paradox building sequence specifically.[21]
+The chine-log-versus-fillet reasoning above extends to a further option: lighter chine logs and fillets should be strong enough, though more labor; a **triangular-cross-section chine log, taped over**, is a stiffer, cleaner, lighter-wood alternative to a full rectangular log, though it is unclear how such a shape would fit the Paradox building sequence specifically.[21]
 
-The chine runners themselves, being external and through-bolted or glued to
-the chine log, add real strength to the side-to-bottom joint quite apart
-from the log's own thickness, and Matt Layden's documented
-experience — ice-bound, a Gulf Stream knockdown, filthy weather — plausibly
-explains why he specified such a strong build in the first place. Weighed
-against a planned use such as a single-handed circumnavigation of the United
-Kingdom exploring the rivers and creeks of England and Wales (the Severn,
-Deben, Fal, and Medway among likely targets, skipping Scotland and Cape
-Wrath) — and against the fact that skin boats and kayaks have crossed the
-Irish Sea before — a slightly lighter-built Paradox with 19 mm sapele chine
-logs is judged safe for that purpose.[23]
+The chine runners themselves, being external and through-bolted or glued to the chine log, add real strength to the side-to-bottom joint quite apart from the log's own thickness, and Matt Layden's documented experience — ice-bound, a Gulf Stream knockdown, filthy weather — plausibly explains why he specified such a strong build in the first place. Weighed against a planned use such as a single-handed circumnavigation of the United Kingdom exploring the rivers and creeks of England and Wales (the Severn, Deben, Fal, and Medway among likely targets, skipping Scotland and Cape Wrath) — and against the fact that skin boats and kayaks have crossed the Irish Sea before — a slightly lighter-built Paradox with 19 mm sapele chine logs is judged safe for that purpose.[23]
 
-Fitting a first 19 mm log in practice can prove less straightforward than
-planned: one side going in unglued, under enough spring tension to spring
-back and strike the builder, drawing blood — clamped in its bent shape for a
-few days before gluing, in hopes the wood would "learn" its new
-curve.[24] Both chine logs fitted in this manner were done within about a
-week of each other.[25][26] With the chine logs done, attention moves on to
-avoiding scarf joints in the 18 mm bottom-panel plywood; see
-[scarf joints vs. butt blocks — a lap butt joint as a scarf
-alternative](/construction/scarf-joints.md#a-lap-butt-joint-as-a-scarf-alternative)
-for that discussion, and
-[weight and ballast](/design/weight-and-ballast.md) for the choice to omit
-water tanks in favor of stores and lead ballast.
+Fitting a first 19 mm log in practice can prove less straightforward than planned: one side going in unglued, under enough spring tension to spring back and strike the builder, drawing blood — clamped in its bent shape for a few days before gluing, in hopes the wood would "learn" its new curve.[24] Both chine logs fitted in this manner were done within about a week of each other.[25][26] With the chine logs done, attention moves on to avoiding scarf joints in the 18 mm bottom-panel plywood; see [scarf joints vs. butt blocks — a lap butt joint as a scarf alternative](/construction/scarf-joints.md#a-lap-butt-joint-as-a-scarf-alternative) for that discussion, and [weight and ballast](/design/weight-and-ballast.md) for the choice to omit water tanks in favor of stores and lead ballast.
 
 # Citations
 

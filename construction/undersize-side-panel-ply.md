@@ -8,74 +8,25 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Help! — undersize side panels found on a secondhand Paradox
 
-Surveying a secondhand [Paradox](/paradox.md) against the plans (bought from
-Bob Archibald — see
-[secondhand Paradox market](/operations/secondhand-market.md)), during the
-same refit tracked in
-[checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md)
-and [lower rudder fitting — bearing material options](/construction/rudder-bearing-materials.md),
-[David Beard](/people/david-beard.md) found everything to spec **except the
-sides**: rather than the plans' **12 mm** ply (see
-[hull scantlings](/design/hull-scantlings.md)), they measured as **some kind
-of 6 mm stock, including the glass** (confirmed by drilling a hole and
-measuring).
+Surveying a secondhand [Paradox](/paradox.md) against the plans, during the same refit tracked in [checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md) and [lower rudder fitting — bearing material options](/construction/rudder-bearing-materials.md), a boat can measure everything to spec **except the sides**: rather than the plans' **12 mm** ply (see [hull scantlings](/design/hull-scantlings.md)), they may measure as **some kind of 6 mm stock, including the glass** (confirmed by drilling a hole and measuring).
 
 ## Thin-ply precedent: the SHRIMPY comparison
 
-**6 mm ply plus a layer of glass on a 13 ft 10 in boat** (Paradox's actual
-LOA) is not a cause for alarm, per the reassurance offered at the time: the
-sloop **"SHRIMPY"** — 18 ft 6 in, considerably larger than Paradox —
-circumnavigated with a hull skin of only **5/16 in plywood and no glass
-sheathing at all** (per the book about her voyage). A boat that size crossed
-oceans on thinner, unsheathed ply, so a smaller Paradox at 6 mm-plus-glass is
-in no danger of falling apart; plywood is in any case an easy material to
-repair.
+**6 mm ply plus a layer of glass on a 13 ft 10 in boat** (Paradox's actual LOA) is not a cause for alarm: the sloop **"SHRIMPY"** — 18 ft 6 in, considerably larger than Paradox — circumnavigated with a hull skin of only **5/16 in plywood and no glass sheathing at all** (per the book about her voyage). A boat that size crossed oceans on thinner, unsheathed ply, so a smaller Paradox at 6 mm-plus-glass is in no danger of falling apart; plywood is in any case an easy material to repair.
 
-This is the same **SHRIMPY** precedent invoked in the
-[hull planking stitch-and-glue debate](/construction/hull-planking.md)
-as backing for a deliberate thin-ply build plan (there her hull is given as
-**5/16 in**, and she is noted as having been built near Cowes, England) — here
-reused to reassure a builder about an *unplanned* scantling shortfall
-discovered on an already-built secondhand boat. SHRIMPY's circumnavigating
-sailor/author, **Shane Acton**, also wrote a second book, *Shrimpy Sails
-Again*, about a UK-to-Brazil voyage.
+This is the same **SHRIMPY** precedent invoked in the [hull planking stitch-and-glue debate](/construction/hull-planking.md) as backing for a deliberate thin-ply build plan (there her hull is given as **5/16 in**, and she is noted as having been built near Cowes, England) — here reused to reassure about an *unplanned* scantling shortfall discovered on an already-built secondhand boat. SHRIMPY's circumnavigating sailor/author also wrote a second book, *Shrimpy Sails Again*, about a UK-to-Brazil voyage.
 
 ## Aside: the SHRIMPY / "Lugworm" books and a working book-finding method
 
-The SHRIMPY books are out of print. The "Lugworm"
-series — an account of a Drascombe Lugger sailed from the UK to Greece and
-back — circulates in the UK with only limited US distribution; UK shops have
-carried both series for about **£10 (~$14)**, and eBay auctions are worth
-watching for either.
+The SHRIMPY books are out of print. The "Lugworm" series — an account of a Drascombe Lugger sailed from the UK to Greece and back — circulates in the UK with only limited US distribution; UK shops have carried both series for about **£10 (~$14)**, and eBay auctions are worth watching for either.
 
-The **AbeBooks** bookfinder service
-(`dogbert.abebooks.com/abe/BookSearch`) proved to be a working sourcing
-method: a search turned up roughly **ten copies** of Shane Acton's *Shrimpy*,
-though mostly pricey German-language editions. Asking prices of **$40–$100+**
-for the 182-page book put it out of reach for at least one searcher, who
-remarked the book "must be some sort of cult classic at those prices." The
-same AbeBooks search did land a copy of the first "Lugworm" book, ordered from
-a UK seller for **$6**. No copy of *Shrimpy* itself, nor of the second
-"Lugworm" volume, turned up. Its lasting Paradox-adjacent value is a
-confirmed, working book-sourcing method (AbeBooks) for voyaging literature.
+The **AbeBooks** bookfinder service (`dogbert.abebooks.com/abe/BookSearch`) proved to be a working sourcing method: a search turned up roughly **ten copies** of *Shrimpy*, though mostly pricey German-language editions. Asking prices of **$40–$100+** for the 182-page book put it out of reach, the book "must be some sort of cult classic at those prices." The same AbeBooks search did land a copy of the first "Lugworm" book, ordered from a UK seller for **$6**. No copy of *Shrimpy* itself, nor of the second "Lugworm" volume, turned up. Its lasting Paradox-adjacent value is a confirmed, working book-sourcing method (AbeBooks) for voyaging literature.
 
 ## The real consequence: reduced ballast-carrying margin, not weakness
 
-**[Glen C. Maxwell](/people/glen-maxwell.md)**, giving the substantive
-engineering answer, identifies the main practical problem with undersize
-scantlings as needing **more ballast** to bring a lighter hull down to her
-lines and sail correctly — not necessarily a bad thing, since the extra
-weight ends up placed low and in a good position for stability (see
-[weight, ballast, and displacement](/design/weight-and-ballast.md)). The
-trade-off is that a lighter-skinned Paradox no longer serves as well "as a
-battering ram" against heavy floating objects compared to a boat built to the
-specified 12 mm scantling. Overall, per Maxwell's assessment, a boat built
-lighter than spec "should still serve you well for many, many years."
+The main practical problem with undersize scantlings is needing **more ballast** to bring a lighter hull down to her lines and sail correctly — not necessarily a bad thing, since the extra weight ends up placed low and in a good position for stability (see [weight, ballast, and displacement](/design/weight-and-ballast.md)). The trade-off is that a lighter-skinned Paradox no longer serves as well "as a battering ram" against heavy floating objects compared to a boat built to the specified 12 mm scantling. Overall, a boat built lighter than spec "should still serve you well for many, many years."
 
-This concept is a companion to
-[hull scantlings](/design/hull-scantlings.md) (the specified thicknesses) and
-extends the same secondhand-Paradox refit narrative as
-[checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md).
+This concept is a companion to [hull scantlings](/design/hull-scantlings.md) (the specified thicknesses) and extends the same secondhand-Paradox refit narrative as [checking a used Paradox for rot](/construction/rot-inspection-ice-pick.md).
 
 # Citations
 

@@ -8,205 +8,78 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Checking a used Paradox for rot (ice-pick probe technique)
 
-When considering whether a secondhand [Paradox](/paradox.md) is worth fixing
-up — as opposed to a hull that might "fall apart a few years down the road" —
-the boat's soundness can be checked without special tools or survey
-experience (see [secondhand Paradox market](/operations/secondhand-market.md)
-for the broader buying context).
+When considering whether a secondhand [Paradox](/paradox.md) is worth fixing up — as opposed to a hull that might "fall apart a few years down the road" — the boat's soundness can be checked without special tools or survey experience (see [secondhand Paradox market](/operations/secondhand-market.md) for the broader buying context).
 
 ## Probing with an ice pick
 
-A simple, low-tech survey technique, credited to
-[Glen Maxwell](/people/glen-maxwell.md), works without special tools:
+A simple, low-tech survey technique works without special tools:
 
-1. Take an **ice pick** and **probe around the entire boat** — hull, deck,
-   and structural members.
+1. Take an **ice pick** and **probe around the entire boat** — hull, deck, and structural members.
 2. What you're checking for is the presence of **soft wood**.
 3. If the wood is sound, the pick will meet real resistance.
-4. If there is rot present, the ice pick will **go in like you're pushing it
-   into a dry sponge — no force needed.**
+4. If there is rot present, the ice pick will **go in like you're pushing it into a dry sponge — no force needed.**
 
-This is the primary technique for **surveying an already-built Paradox for
-hidden rot**, as distinct from the
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md)
-(which concerns choosing plywood grades to *avoid* future checking/rot in a
-new build) and the
-[boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md)
-concept (which concerns *preventing* rot at small drilled holes during
-construction).
+This is the primary technique for **surveying an already-built Paradox for hidden rot**, as distinct from the [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md) (which concerns choosing plywood grades to *avoid* future checking/rot in a new build) and the [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md) concept (which concerns *preventing* rot at small drilled holes during construction).
 
 ## An alternative, tool-free technique: the tap test
 
-A second low-tech survey method suits a glassed-plywood hull that, unlike a
-Paradox mid-refit, cannot easily be probed from the inside — for example
-when assessing whether an older (20-plus-year-old) glass-and-epoxy-over-
-plywood boat of similar construction to a Paradox is worth buying, sight
-unseen as to its interior condition. **Tap the whole hull lightly with a
-small hammer, or the plastic handle of a large screwdriver, and listen to
-the tone**: a sharp, tight tone means the wood underneath is sound, while a
-dull tone means beware. Provided the original construction was done well
-and the wood was never wetted through and left to rot, a hull surveyed this
-way can be expected to last well beyond 30 years.
+A second low-tech survey method suits a glassed-plywood hull that, unlike a Paradox mid-refit, cannot easily be probed from the inside — for example when assessing whether an older (20-plus-year-old) glass-and-epoxy-over-plywood boat of similar construction to a Paradox is worth buying, sight unseen as to its interior condition. **Tap the whole hull lightly with a small hammer, or the plastic handle of a large screwdriver, and listen to the tone**: a sharp, tight tone means the wood underneath is sound, while a dull tone means beware. Provided the original construction was done well and the wood was never wetted through and left to rot, a hull surveyed this way can be expected to last well beyond 30 years.
 
-Rot found this way in a glassed-over plywood boat is normally traced to two
-causes — **fresh water** intrusion (rather than salt water) and **poor
-storage**. Sealed under fiberglass and epoxy, a plywood hull's real
-vulnerability is moisture that gets in and cannot get back out, the same
-end-grain caution already established for new builds (see [plywood grade
-and foam flotation debate — long-term plywood durability, resale value, and
-why to expect
-neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither))
-— rather than any inherent weakness in the glass/epoxy/plywood combination
-itself. There is no way to tell from outward appearance alone whether a
-hull's outer layers were refinished over pre-existing hidden damage; the tap
-test (or, once the boat is in hand, the ice-pick probe above) is the
-practical answer to that uncertainty.
+Rot found this way in a glassed-over plywood boat is normally traced to two causes — **fresh water** intrusion (rather than salt water) and **poor storage**. Sealed under fiberglass and epoxy, a plywood hull's real vulnerability is moisture that gets in and cannot get back out, the same end-grain caution already established for new builds (see [plywood grade and foam flotation debate — long-term plywood durability, resale value, and why to expect neither](/construction/plywood-grades-and-foam-flotation.md#long-term-plywood-durability-resale-value-and-why-to-expect-neither)) — rather than any inherent weakness in the glass/epoxy/plywood combination itself. There is no way to tell from outward appearance alone whether a hull's outer layers were refinished over pre-existing hidden damage; the tap test (or, once the boat is in hand, the ice-pick probe above) is the practical answer to that uncertainty.
 
 ## Distinguishing surface staining from real rot
 
-Probing a hull's interior and pulling flotation foam out to inspect behind it
-can turn up discolored wood — for example, an area **aft of bulkhead #3**,
-about the **size of a half dollar**, **turning black partway up the storage
-bins** — that is nonetheless **solid under the ice pick**, i.e. surface
-staining rather than actual rot. This pattern is consistent with rainwater
-having sat in the hull while the boat was previously unused, which is common
-for secondhand Paradoxes that have sat outdoors. Where no true rot is found
-this way, the boat can be considered sound; probing through the foam with the
-ice pick, rather than removing all of it first, is an efficient way to check
-further. As a precaution against staining recurring, applying **Dave
-Carnell's rot-treatment formula**
-(`http://home.att.net/~DaveCarnell/rot.html`) is worthwhile even without
-confirmed rot; see
-[Dave Carnell's boat-building articles](/references/dave-carnell-articles.md).
+Probing a hull's interior and pulling flotation foam out to inspect behind it can turn up discolored wood — for example, an area **aft of bulkhead #3**, about the **size of a half dollar**, **turning black partway up the storage bins** — that is nonetheless **solid under the ice pick**, i.e. surface staining rather than actual rot. This pattern is consistent with rainwater having sat in the hull while the boat was previously unused, which is common for secondhand Paradoxes that have sat outdoors. Where no true rot is found this way, the boat can be considered sound; probing through the foam with the ice pick, rather than removing all of it first, is an efficient way to check further. As a precaution against staining recurring, applying the **rot-treatment formula** at `http://home.att.net/~DaveCarnell/rot.html` is worthwhile even without confirmed rot; see [Dave Carnell's boat-building articles](/references/dave-carnell-articles.md).
 
 ## Damp versus rotten plywood during a bottom refit
 
-Sanding paint off the bottom and grinding fiberglass away to investigate a
-discolored area (see [bottom painting over epoxy](/construction/bottom-painting.md)
-for the paint/roving-prep context this kind of work sits within) can reveal
-plywood that is **damp but not rotten** — a distinct condition from both
-surface staining and genuine rot, requiring its own diagnosis and drying
-before glassing back over. Useful diagnosis and drying advice for this
-situation:
+Sanding paint off the bottom and grinding fiberglass away to investigate a discolored area (see [bottom painting over epoxy](/construction/bottom-painting.md) for the paint/roving-prep context this kind of work sits within) can reveal plywood that is **damp but not rotten** — a distinct condition from both surface staining and genuine rot, requiring its own diagnosis and drying before glassing back over. Useful diagnosis and drying advice for this situation:
 
-- Wet plywood can take **up to several weeks** to fully dry; a **heat lamp
-  run for about a week**, a **hair-dryer-style heat gun**, or an ordinary
-  **electric light bulb** burning close to the damp area are all effective
-  shortcuts.
-- Check any suspect area for a **void** in the plywood, since voids can hold
-  liquid. Two low-tech detection cues: **tapping** the wood can reveal a
-  hollow/liquid-filled area by sound, and a **void may show up under morning
-  dew** as a visible temperature-difference patch on the hull.
-- A **moisture-barrier coating** or **penetrating epoxy**, applied once old
-  epoxy is ground off, is worth considering — more on **moisture-barrier
-  coatings and penetrating epoxy** is available from West Marine and the
-  **West System Epoxy** pages (`www.westsystem.com`, though that resource may
-  not be fully up to date); see
-  [West System Epoxy resources](/references/west-system-resources.md).
-- A further, more assertive preservative option is to **soak the bare wood
-  with anti-freeze** before closing the area back up.
-- Dampness in a hull is often traceable to **rainwater entering through a
-  leaking hatch** rather than a preexisting structural problem, particularly
-  where little water was present at time of purchase.
+- Wet plywood can take **up to several weeks** to fully dry; a **heat lamp run for about a week**, a **hair-dryer-style heat gun**, or an ordinary **electric light bulb** burning close to the damp area are all effective shortcuts.
+- Check any suspect area for a **void** in the plywood, since voids can hold liquid. Two low-tech detection cues: **tapping** the wood can reveal a hollow/liquid-filled area by sound, and a **void may show up under morning dew** as a visible temperature-difference patch on the hull.
+- A **moisture-barrier coating** or **penetrating epoxy**, applied once old epoxy is ground off, is worth considering — more on **moisture-barrier coatings and penetrating epoxy** is available from West Marine and the **West System Epoxy** pages (`www.westsystem.com`, though that resource may not be fully up to date); see [West System Epoxy resources](/references/materials-sourcing-links.md#west-system-epoxy-resources-moisture-barriers-and-a-sharpie-building-article).
+- A further, more assertive preservative option is to **soak the bare wood with anti-freeze** before closing the area back up.
+- Dampness in a hull is often traceable to **rainwater entering through a leaking hatch** rather than a preexisting structural problem, particularly where little water was present at time of purchase.
 
-See
-[bottom painting over epoxy](/construction/bottom-painting.md)
-for the companion write-up of this same repair from the paint/roving angle.
+See [bottom painting over epoxy](/construction/bottom-painting.md) for the companion write-up of this same repair from the paint/roving angle.
 
 ### Note on who was Kevlar-ing her bottom
 
-**[Susan Davis](/design/yuloh-and-stowed-rig-retention.md)** planned to
-**Kevlar-glass her own boat's bottom**. Kevlar is difficult to work with —
-hard to wet out, hard to cut without special tools, and essentially
-unsandable — but those properties are a side effect of its **unmatched
-abrasion resistance**, which can make the extra lay-up effort worthwhile
-given how often a Paradox bumps bottom in shallow water. A **test layup on
-something small, such as a Bolger Tortoise dinghy**, is a sensible proof of
-concept before committing a Paradox's bottom to Kevlar.
+One builder planned to **Kevlar-glass a Paradox bottom**. Kevlar is difficult to work with — hard to wet out, hard to cut without special tools, and essentially unsandable — but those properties are a side effect of its **unmatched abrasion resistance**, which can make the extra lay-up effort worthwhile given how often a Paradox bumps bottom in shallow water. A **test layup on something small, such as a Bolger Tortoise dinghy**, is a sensible proof of concept before committing a Paradox's bottom to Kevlar.
 
 ## Treating genuine rot
 
-Where grinding fiberglass off the bottom reveals actual **rot in a void
-within the plywood itself** — running partway through the panel's
-thickness — the following treatment sequence applies, drawn from
-[Dave Carnell](/references/dave-carnell-articles.md)'s published
-instructions and [Glen Maxwell](/people/glen-maxwell.md)'s endorsement of it:
+Where grinding fiberglass off the bottom reveals actual **rot in a void within the plywood itself** — running partway through the panel's thickness — the following treatment sequence applies, drawn from the published [Dave Carnell rot articles](/references/dave-carnell-articles.md):
 
 1. Dig out the soft wood.
-2. Drill **3/16 in holes** to follow the void and **inject antifreeze** as a
-   fungicide/preservative soak.
+2. Drill **3/16 in holes** to follow the void and **inject antifreeze** as a fungicide/preservative soak.
 3. Inject **epoxy** into the same holes.
 4. Fill the remaining cavity with **epoxy putty**.
-5. For **small areas**, **Gitrot** — a proprietary, **very thin epoxy** —
-   can be injected directly into rot to harden the remaining soft wood in
-   place. For **large areas**, dig the rot out entirely and fill with
-   **epoxy thickened with Cabosil**.
-6. Before applying epoxy to any repair, treat the wood with a **Borate
-   solution** first, for long-term rot resistance (per Carnell's guidance).
-   A cheap, practical source of borate is **100% boric acid** sold as roach
-   killer — a one-pound container from a grocery store, at around a dollar,
-   is "enough to treat a ship."
+5. For **small areas**, **Gitrot** — a proprietary, **very thin epoxy** — can be injected directly into rot to harden the remaining soft wood in place. For **large areas**, dig the rot out entirely and fill with **epoxy thickened with Cabosil**.
+6. Before applying epoxy to any repair, treat the wood with a **Borate solution** first, for long-term rot resistance. A cheap, practical source of borate is **100% boric acid** sold as roach killer — a one-pound container from a grocery store, at around a dollar, is "enough to treat a ship."
 
-Working through a rot repair on a wooden boat often surfaces more than one
-problem area — "the more you dig, the more you find" — so it is worth
-spot-drilling other questionable areas partway through to check soundness
-before deciding whether they too need filling.
+Working through a rot repair on a wooden boat often surfaces more than one problem area — "the more you dig, the more you find" — so it is worth spot-drilling other questionable areas partway through to check soundness before deciding whether they too need filling.
 
-See [undersize side panels](/construction/undersize-side-panel-ply.md) for
-an unrelated scantling problem found on the same boat during this refit.
+See [undersize side panels](/construction/undersize-side-panel-ply.md) for an unrelated scantling problem found on the same boat during this refit.
 
 ## Finishing the bilges: leave inspectable, or paint over
 
-Whether to finish the interior bilges beyond a plain epoxy coat — painting or
-varnishing them for appearance — carries a genuine trade-off against the
-ice-pick survey method above: a good coat of white paint looks nicer, but can
-hide rot getting started underneath it just as effectively as it hides
-cosmetic flaws. The deciding factors are how the boat will be kept: a boat
-that sits on a mooring or under a tarp/in a garage for extended periods is
-more exposed to trapped damp than one used and inspected regularly, so a
-finish decision should weigh storage conditions as much as looks.
+Whether to finish the interior bilges beyond a plain epoxy coat — painting or varnishing them for appearance — carries a genuine trade-off against the ice-pick survey method above: a good coat of white paint looks nicer, but can hide rot getting started underneath it just as effectively as it hides cosmetic flaws. The deciding factors are how the boat will be kept: a boat that sits on a mooring or under a tarp/in a garage for extended periods is more exposed to trapped damp than one used and inspected regularly, so a finish decision should weigh storage conditions as much as looks.
 
-A three-coat regime — three coats of **epoxy**, a **quality primer**, and a
-**quality marine paint** — will hold up without meaningful rot risk on its
-own, and the boat is small enough that a builder can usually still "see" if
-something is amiss from the outside even with the interior painted over.
+A three-coat regime — three coats of **epoxy**, a **quality primer**, and a **quality marine paint** — will hold up without meaningful rot risk on its own, and the boat is small enough that a builder can usually still "see" if something is amiss from the outside even with the interior painted over.
 
-**Fastening method changes how much this matters.** A hull built with
-**nails** is the harder case: flexing over time works nails loose, and a
-loosened nail can act like a syringe, injecting water into the plywood's
-end grain from the inside — a failure mode a painted-over bilge would mask.
-A builder who distrusts nailed fastenings for this reason may prefer to
-leave the bilge **unpainted** so early injection can be caught by eye or
-ice pick. Building the hull **stitch-and-glue** style — with **taped seams**
-instead of nailed chine logs — sidesteps the concern entirely, since there
-are no nails working loose in end grain to begin with; see [chine log vs.
-taped-seam construction](/construction/chine-log-vs-taped-seam.md) for the
-fuller construction-method comparison.
+**Fastening method changes how much this matters.** A hull built with **nails** is the harder case: flexing over time works nails loose, and a loosened nail can act like a syringe, injecting water into the plywood's end grain from the inside — a failure mode a painted-over bilge would mask. A builder who distrusts nailed fastenings for this reason may prefer to leave the bilge **unpainted** so early injection can be caught by eye or ice pick. Building the hull **stitch-and-glue** style — with **taped seams** instead of nailed chine logs — sidesteps the concern entirely, since there are no nails working loose in end grain to begin with; see [chine log vs. taped-seam construction](/construction/chine-log-vs-taped-seam.md) for the fuller construction-method comparison.
 
 ## Sealing over a previously treated repair
 
-A practical question follows naturally from the Carnell/borate treatment
-route above: whether **epoxy will bond reliably over wood previously soaked
-with antifreeze (glycol) and/or borate**, when the time comes to seal an
-interior with epoxy and paint (for example, when redoing the interior of a
-boat like "[Whisper](/boats/whisper.md)" some months after the original
-repair).
+A practical question follows naturally from the borate treatment route above: whether **epoxy will bond reliably over wood previously soaked with antifreeze (glycol) and/or borate**, when the time comes to seal an interior with epoxy and paint (for example, when redoing the interior of a boat like "[Whisper](/boats/whisper.md)" some months after the original repair).
 
-**Yes** — epoxy bonds fine over a previously antifreeze/borate-treated
-repair, provided the wood is properly dried and prepared first, per
-**[Dave Bolduc](/people/bolduc/dave.md)**'s experience repairing
-**[Swamp Thing](/matt-layden/swamp-thing.md)** (Matt Layden's second
-design, later rescued and rebuilt by the Bolducs) while she was at his
-house. Recommended sequence:
+**Yes** — epoxy bonds fine over a previously antifreeze/borate-treated repair, provided the wood is properly dried and prepared first, as borne out repairing **[Swamp Thing](/matt-layden/swamp-thing.md)** (Matt Layden's second design, later rescued and rebuilt) at home. Recommended sequence:
 
 1. Make sure the area is **clean and dried out well**.
 2. **Soak any of the rotted wood with unthickened (neat) epoxy.**
-3. Use **wood flour or microballoons mixed with epoxy** to fill any
-   depressions.
-4. Then **seal the interior** — either with **epoxy** (which is expensive)
-   or, as Dave Bolduc himself did on Swamp Thing, simply with **paint or
-   varnish**, an acceptable and cheaper alternative to a full epoxy seal
-   coat.
+3. Use **wood flour or microballoons mixed with epoxy** to fill any depressions.
+4. Then **seal the interior** — either with **epoxy** (which is expensive) or, as was done on Swamp Thing, simply with **paint or varnish**, an acceptable and cheaper alternative to a full epoxy seal coat.
 
 # Citations
 

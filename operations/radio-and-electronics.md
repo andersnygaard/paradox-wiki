@@ -8,215 +8,55 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Radio and electronics
 
-Communications and weather-data equipment aboard a [Paradox](/paradox.md)
-range from portable ham-radio antennas to simply relying on a cell phone or
-shortwave receiver coupled to a laptop — with the boat's own mast offering an
-unusually convenient, if untested, option for a permanent HF installation.
+Communications and weather-data equipment aboard a [Paradox](/paradox.md) range from portable ham-radio antennas to simply relying on a cell phone or shortwave receiver coupled to a laptop — with the boat's own mast offering an unusually convenient, if untested, option for a permanent HF installation.
 
 ## A permanent HF antenna using the mast's lightning-protection wire
 
-Portable ham antennas — an **Outbacker**, later a **Buddipole**
-(`buddipole.com`) — have served aboard
-[Little Cruiser](/matt-layden/little-cruiser.md), both stowed when not
-needed and requiring the antenna to be lowered underway.
+Portable ham antennas — an **Outbacker**, later a **Buddipole** (`buddipole.com`) — have served aboard [Little Cruiser](/matt-layden/little-cruiser.md), both stowed when not needed and requiring the antenna to be lowered underway.
 
-A more permanent alternative follows directly from the Paradox's [mast
-lightning-protection wiring](/boats/whisper.md): since the mast already
-carries a conductor down its length for lightning protection, with a
-grounding **counterpoise** already in place, that same wire could in
-principle serve double duty as the **antenna** for a multiband HF radio
-fitted with an **automatic antenna tuner** — disabled for lightning
-protection and switched back on for radio use as needed. This mirrors a
-technique some competitive sailors use aboard carbon masts, running a wire
-laminated into the spar for the same purpose; there is no evident reason it
-would not work equally well in a wood or wood/composite mast. A **longwire
-antenna run up a Technora single-braid backstay** aboard an earlier boat
-gave good results at minimal cost, using the same principle.
+A more permanent alternative follows directly from the Paradox's [mast lightning-protection wiring](/boats/whisper.md): since the mast already carries a conductor down its length for lightning protection, with a grounding **counterpoise** already in place, that same wire could in principle serve double duty as the **antenna** for a multiband HF radio fitted with an **automatic antenna tuner** — disabled for lightning protection and switched back on for radio use as needed. This mirrors a technique some competitive sailors use aboard carbon masts, running a wire laminated into the spar for the same purpose; there is no evident reason it would not work equally well in a wood or wood/composite mast. A **longwire antenna run up a Technora single-braid backstay** aboard an earlier boat gave good results at minimal cost, using the same principle.
 
-An automatic tuner's main practical advantage is that it can find an
-efficient match for a **random-length antenna** automatically, which matters
-less for casual, scheduled-net use but becomes more important for **Pactor**
-(radio e-mail), where fast, reliable tuning is a real convenience. A properly
-sealed auto tuner mounted high on the forward face of bulkhead #2 was also
-suggested as a potential source of additional reserve buoyancy.
+An automatic tuner's main practical advantage is that it can find an efficient match for a **random-length antenna** automatically, which matters less for casual, scheduled-net use but becomes more important for **Pactor** (radio e-mail), where fast, reliable tuning is a real convenience. A properly sealed auto tuner mounted high on the forward face of bulkhead #2 could also serve as a potential source of additional reserve buoyancy.
 
-Weighed against a **portable** antenna (an Outbacker- or Buddipole-style
-unit, better suited to occasional or mountaintop use), a **permanent
-longwire-and-auto-tuner** setup has the advantage of needing nothing to stow,
-aim, or clean, and being ready at a moment's notice — though it commits the
-boat's lightning-protection system to double duty and requires a manual
-switch-over between the two functions.
+Weighed against a **portable** antenna (an Outbacker- or Buddipole-style unit, better suited to occasional or mountaintop use), a **permanent longwire-and-auto-tuner** setup has the advantage of needing nothing to stow, aim, or clean, and being ready at a moment's notice — though it commits the boat's lightning-protection system to double duty and requires a manual switch-over between the two functions.
 
 ## Cell phone and shortwave alternatives to a full ham rig
 
-Despite the mast's ready-made antenna option, a full HF ham radio
-installation may not be necessary for weather data and basic communications:
-a **cell phone coupled to a laptop** was noted as an increasingly viable
-substitute for traditional ham-radio weather routing, at least for coastal
-U.S. sailing, and an **all-band shortwave receiver** coupled to a laptop was
-raised as a simpler, receive-only alternative for pulling down weather
-faxes/maps without needing a full transmitting ham station at all.
+Despite the mast's ready-made antenna option, a full HF ham radio installation may not be necessary for weather data and basic communications: a **cell phone coupled to a laptop** is an increasingly viable substitute for traditional ham-radio weather routing, at least for coastal U.S. sailing, and an **all-band shortwave receiver** coupled to a laptop is a simpler, receive-only alternative for pulling down weather faxes/maps without needing a full transmitting ham station at all.
 
 ## Portable-antenna experience: Outbacker vs. Buddipole in practice
 
-**David and Mindy Bolduc**, cruising [Little Cruiser](/matt-layden/little-cruiser.md)
-extensively in the Bahamas, gave a firsthand, season-over-season comparison
-of the two portable antennas: their original **Outbacker** vertical antenna
-worked "okay" and proved durable, but on their most recent trip they switched
-to a less durable, **home-made $35 "Buddipole"** (`qsl.net/w3ff`) and found
-their transmissions markedly better. Lacking a tall mast, a long-wire
-backstay antenna was not an option for their boat. Underway, they regularly
-checked into the **Waterway Radio and Cruising Club** net on 7.268 MHz
-(`jstorm.com/wrcc`) each morning for float plans, position reports, general
-traffic, and the NOAA forecast, and had tried **Winlink 200/Airmail**
-(`winlink.org/airmail.htm`) — free HF e-mail and weatherfax, using a computer
-and modem — on a friend's boat, finding it "pretty neat."
+Season-over-season cruising of [Little Cruiser](/matt-layden/little-cruiser.md) extensively in the Bahamas yielded a firsthand comparison of the two portable antennas: the original **Outbacker** vertical antenna worked "okay" and proved durable, but a later switch to a less durable, **home-made $35 "Buddipole"** (`qsl.net/w3ff`) produced markedly better transmissions. Lacking a tall mast, a long-wire backstay antenna was not an option for that boat. Underway, a regular morning check-in to the **Waterway Radio and Cruising Club** net on 7.268 MHz (`jstorm.com/wrcc`) covered float plans, position reports, general traffic, and the NOAA forecast; a trial of **Winlink 200/Airmail** (`winlink.org/airmail.htm`) — free HF e-mail and weatherfax, using a computer and modem — aboard a friend's boat proved "pretty neat."
 
 ## SailMail vs. Winlink/Airmail, and the cost/legality tradeoffs of ham gear
 
-Radio e-mail over HF — SailMail's paid-subscription Pactor I/II/III service
-versus Winlink/Airmail's free but non-commercial-only equivalent over ham
-radio, each with its own TNC-modem cost and baud-rate tradeoffs — was a
-period-specific, now-obsolete solution; cellular and satellite data have
-superseded it. Weatherfax reception remains comparatively cheap and simple:
-a demodulator or TNC (or even a laptop sound card with freeware) plugged
-into a cheap shortwave receiver's headphone jack is enough to pull down
-weatherfax without needing a full transmitting station.
+Radio e-mail over HF — SailMail's paid-subscription Pactor I/II/III service versus Winlink/Airmail's free but non-commercial-only equivalent over ham radio, each with its own TNC-modem cost and baud-rate tradeoffs — was a period-specific, now-obsolete solution; cellular and satellite data have superseded it. Weatherfax reception remains comparatively cheap and simple: a demodulator or TNC (or even a laptop sound card with freeware) plugged into a cheap shortwave receiver's headphone jack is enough to pull down weatherfax without needing a full transmitting station.
 
 ## A wind generator and radar: a scale-mockup exercise, and how little power a Paradox actually needs
 
-A small wind generator and radar unit can plausibly be fitted to a Paradox
-at all, as a **scale mockup** demonstrated: Southwest Windpower's **Air-X
-Marine** wind generator (13 lb) paired with JRC's **Radar 1000 Mk II**
-(under 9 lb) — both compact and light enough, on paper, to imagine mounted
-on so small a boat. The mockup was refined once after its initial posting:
-the wind generator and radar outlines were re-scaled to within about
-**3 mm** of actual size, correcting an earlier version that had rendered
-both units slightly too large, and the wind generator's **"sphere of
-operation" / keep-clear zone** marking was corrected to its proper size as
-well.
+A small wind generator and radar unit can plausibly be fitted to a Paradox at all, as a **scale mockup** demonstrated: Southwest Windpower's **Air-X Marine** wind generator (13 lb) paired with JRC's **Radar 1000 Mk II** (under 9 lb) — both compact and light enough, on paper, to imagine mounted on so small a boat. The mockup was refined once after its initial posting: the wind generator and radar outlines were re-scaled to within about **3 mm** of actual size, correcting an earlier version that had rendered both units slightly too large, and the wind generator's **"sphere of operation" / keep-clear zone** marking was corrected to its proper size as well.
 
-How little power a Paradox actually needs is illustrated by a boat sailed
-without either accessory: a single **12V wet NiCad battery**, salvaged in
-1977 from a coal-industry routine-maintenance replacement, charged once each
-spring runs a GPS, echo sounder, running lights, and water-ballast/bilge
-pump for an entire season with no further attention. A radar installation
-specifically would change that power calculus enough to make a wind
-generator's added generating capacity worth having.
+How little power a Paradox actually needs is illustrated by a boat sailed without either accessory: a single **12V wet NiCad battery**, salvaged in 1977 from a coal-industry routine-maintenance replacement, charged once each spring runs a GPS, echo sounder, running lights, and water-ballast/bilge pump for an entire season with no further attention. A radar installation specifically would change that power calculus enough to make a wind generator's added generating capacity worth having.
 
-Mounting a roughly 9 lb wind-generator unit at the masthead raises a
-stability question distinct from simply confirming the units fit: whether
-the added weight aloft calls for any righting-moment correction. A masthead
-radar's added weight could plausibly be offset by building the mast itself
-from a lighter material (Sitka spruce or even carbon fiber) and omitting the
-lightning rod, though a proper calculation would still be needed to confirm
-the trade balances out.
+Mounting a roughly 9 lb wind-generator unit at the masthead raises a stability question distinct from simply confirming the units fit: whether the added weight aloft calls for any righting-moment correction. A masthead radar's added weight could plausibly be offset by building the mast itself from a lighter material (Sitka spruce or even carbon fiber) and omitting the lightning rod, though a proper calculation would still be needed to confirm the trade balances out.
 
-The record does contain a genuine mast-weight-and-roll data point, traced
-back to a January 2004 mast-construction thread: a heavier carbon-fiber/wood
-composite mast was said to **"provide a more comfortable [roll] motion,"**
-against which the reply was that such a composite mast would run **"about
-half the weight and triple the strength"** of a comparable wood mast — a
-lighter, stronger mast rather than a heavier one added for roll comfort. This
-is not a report of anyone deliberately weighting a mast to damp rolling, only
-of a heavier composite option being credited with a side benefit of smoother
-motion, set against the case for building light and strong instead. Reading
-it this way resolves what had for a time seemed to be an unrecovered separate
-report: **keeping weight aloft down is considered "always a good thing"** for
-a Paradox, consistent with the light-composite-mast side of that exchange
-and with no owner reporting rolling problems severe enough to want to
-correct with mast ballast.
+The record does contain a genuine mast-weight-and-roll data point, traced back to a January 2004 mast-construction thread: a heavier carbon-fiber/wood composite mast was said to **"provide a more comfortable [roll] motion,"** against which the reply was that such a composite mast would run **"about half the weight and triple the strength"** of a comparable wood mast — a lighter, stronger mast rather than a heavier one added for roll comfort. This is not a report of anyone deliberately weighting a mast to damp rolling, only of a heavier composite option being credited with a side benefit of smoother motion, set against the case for building light and strong instead. Reading it this way resolves what had for a time seemed to be an unrecovered separate report: **keeping weight aloft down is considered "always a good thing"** for a Paradox, consistent with the light-composite-mast side of that exchange and with no owner reporting rolling problems severe enough to want to correct with mast ballast.
 
-Any radar fit to so low a boat needs a proper **radar reflector**
-alongside it — being seen matters as much as seeing, given how little
-warning a fast-moving ship gives a small craft in its path, as illustrated
-by one sailor's own capsize of a catamaran at night in a main shipping
-channel outside Los Angeles Harbor, after which a tanker's first mate
-remarked that a boat that size would barely have registered before being
-run down. **Active radar is preferable to a passive reflector** whenever
-the choice is affordable, since a reflector still depends on another vessel
-having its own radar on and someone actually watching it, whereas the
-worst-case scenario — a small boat run down without a trace by a larger
-vessel running no radar or an unattended watch — is exactly the case a
-reflector cannot help with. Where a reflector is the only option, stuffing a
-**hollow mast (and hollow spars generally) with aluminum foil** improves its
-radar return, best paired with a dedicated active radar-reflector unit for
-anyone who can afford one.
+Any radar fit to so low a boat needs a proper **radar reflector** alongside it — being seen matters as much as seeing, given how little warning a fast-moving ship gives a small craft in its path, as illustrated by a catamaran capsize at night in a main shipping channel outside Los Angeles Harbor, after which a tanker's first mate remarked that a boat that size would barely have registered before being run down. **Active radar is preferable to a passive reflector** whenever the choice is affordable, since a reflector still depends on another vessel having its own radar on and someone actually watching it, whereas the worst-case scenario — a small boat run down without a trace by a larger vessel running no radar or an unattended watch — is exactly the case a reflector cannot help with. Where a reflector is the only option, stuffing a **hollow mast (and hollow spars generally) with aluminum foil** improves its radar return, best paired with a dedicated active radar-reflector unit for anyone who can afford one.
 
-A **full-timing liveaboard's** power budget differs sharply from a weekend
-sailor's: laptop and internet use, films with surround sound, music and
-satellite radio, digital photography and photo editing, and e-books are all
-loads that can justify a wind generator stacked with solar panels. Surplus
-generating capacity can also run **12V electric cabin heaters** — keeping
-the boat dry and warm in cold weather without burning through propane or
-adding the moisture that propane combustion produces — and power a small
-**12V watermaker** built to run from the boat's own excess generation at
-anchor or in fine weather. For anyone only weekend sailing, by contrast, a
-wind generator is a wasted expense. On reliability, the Air-X wind
-generator's main reported weakness is **radio-frequency interference**
-rather than any mechanical shortcoming; the units are sold as marinized, but
-how successfully remains unconfirmed on record.[48]
+A **full-timing liveaboard's** power budget differs sharply from a weekend sailor's: laptop and internet use, films with surround sound, music and satellite radio, digital photography and photo editing, and e-books are all loads that can justify a wind generator stacked with solar panels. Surplus generating capacity can also run **12V electric cabin heaters** — keeping the boat dry and warm in cold weather without burning through propane or adding the moisture that propane combustion produces — and power a small **12V watermaker** built to run from the boat's own excess generation at anchor or in fine weather. For anyone only weekend sailing, by contrast, a wind generator is a wasted expense. On reliability, the Air-X wind generator's main reported weakness is **radio-frequency interference** rather than any mechanical shortcoming; the units are sold as marinized, but how successfully remains unconfirmed on record.[19]
 
 ## 12-volt wiring gauge: choosing conductor size for a low-draw boat
 
-Re-wiring a Paradox for LED lighting, auxiliary plugs, and a handheld GPS
-raises the ordinary question of what wire gauge and type to use, and the
-archive records a genuine difference of approach. One practical, low-cost
-choice is **22-gauge, color-coded speaker wire**: light enough to disappear
-under a coat of paint, easy to route around the boat's interior, and simply
-held in place with clear duct tape while the paint goes on.[22]
+Re-wiring a Paradox for LED lighting, auxiliary plugs, and a handheld GPS raises the ordinary question of what wire gauge and type to use, and there is a genuine difference of approach. One practical, low-cost choice is **22-gauge, color-coded speaker wire**: light enough to disappear under a coat of paint, easy to route around the boat's interior, and simply held in place with clear duct tape while the paint goes on.[22]
 
-A second builder argued instead for using the **thickest wire practically
-affordable** (he suggested 10-gauge) throughout, reasoning that too thin a
-gauge causes two real problems — the wire heats up, and voltage sags at the
-load — whereas oversizing a 12-volt conductor has no real downside. He also
-recommended, where obtainable, wire with a **light tin coating under the
-insulation** (to resist a corrosive green crust forming over time) and
-**aircraft-grade insulation**, on the reasoning that it produces the least
-toxic smoke in the event of excess heat or an accidental fire — a
-margin-of-safety consideration distinct from the LED loads themselves,
-which draw very little current regardless of wire size.[23]
+A second approach argues instead for using the **thickest wire practically affordable** (10-gauge, for instance) throughout, reasoning that too thin a gauge causes two real problems — the wire heats up, and voltage sags at the load — whereas oversizing a 12-volt conductor has no real downside. Where obtainable, wire with a **light tin coating under the insulation** (to resist a corrosive green crust forming over time) and **aircraft-grade insulation** is preferred, on the reasoning that it produces the least toxic smoke in the event of excess heat or an accidental fire — a margin-of-safety consideration distinct from the LED loads themselves, which draw very little current regardless of wire size.[23]
 
-The counter-argument, raised directly against that blanket
-thickest-is-always-better advice: for a lighting circuit drawing on the
-order of **0.08 amp**, heavy-gauge wire is unnecessary — the sound general
-principle is to **size the conductor to the actual current draw** of the
-load being wired, not to the thickest wire that can be afforded.[24] A
-third view reconciled the two: sizing wire strictly to the current draw is
-the cost-effective approach, but using the largest cross-section of copper
-that will physically fit is still the ideal, since the goal is always to
-minimize resistance losses in the conductor. In practice, salvaged
-multi-strand cable — 240-volt lighting cable and machine-tool cable
-recovered for free from a skip — offers a low-resistance, large-cross-
-section conductor at effectively no cost, a practical middle path between
-buying minimal-gauge wire and buying heavy new stock.[25]
+The counter-argument, raised directly against that blanket thickest-is-always-better advice: for a lighting circuit drawing on the order of **0.08 amp**, heavy-gauge wire is unnecessary — the sound general principle is to **size the conductor to the actual current draw** of the load being wired, not to the thickest wire that can be afforded.[24] A third view reconciles the two: sizing wire strictly to the current draw is the cost-effective approach, but using the largest cross-section of copper that will physically fit is still the ideal, since the goal is always to minimize resistance losses in the conductor. In practice, salvaged multi-strand cable — 240-volt lighting cable and machine-tool cable recovered for free from a skip — offers a low-resistance, large-cross-section conductor at effectively no cost, a practical middle path between buying minimal-gauge wire and buying heavy new stock.[25]
 
-The thickest-wire advocate ultimately accepted the size-to-the-load
-principle, while still admitting a personal preference for "easy
-overkill" over a precisely matched conductor — an aesthetic and
-risk-tolerance choice on top of the electrical argument, not a rebuttal of
-it.[26] A **tidy, invisible installation** is itself a design goal some
-builders weigh alongside gauge: one builder's own habit is to run the
-smallest wire that will do the job specifically because exposed wiring
-looks unsightly, routing it through **conduit** where the hull structure
-allows, and, where conduit is impractical (as when wiring a small
-production hull's overhead), simply taping the wire up under a run of
-clear duct tape that all but disappears once painted over to match the
-surrounding surface.[27]
+The thickest-wire position ultimately accepts the size-to-the-load principle, while still admitting a personal preference for "easy overkill" over a precisely matched conductor — an aesthetic and risk-tolerance choice on top of the electrical argument, not a rebuttal of it.[26] A **tidy, invisible installation** is itself a design goal to weigh alongside gauge: one habit is to run the smallest wire that will do the job specifically because exposed wiring looks unsightly, routing it through **conduit** where the hull structure allows, and, where conduit is impractical (as when wiring a small production hull's overhead), simply taping the wire up under a run of clear duct tape that all but disappears once painted over to match the surrounding surface.[27]
 
-A firsthand account of the Air-X's behavior in strong wind confirms the
-units work reliably, with one real objection: **noise**. Once wind speed
-passes about 20 knots, the blades unload themselves in a "horrible racket,"
-tolerable only if the unit can be tethered down. An electric brake gives
-partial control, working by reversing the generator into a motor so the
-wind itself fights the blades to a stop.[20] Southwest Windpower's own
-account of the current **Air-X** model attributes the improvement directly
-to abandoning the older AIR 403's **"aero-elastic" blade design**, which
-caused a loud flutter above 35 mph (16 m/s); the Air-X instead monitors wind
-speed electronically and slows the blades as rated output is reached,
-holding output at a reduced level in high wind until it eases. Wind
-generators remain louder than solar panels in any case, but also
-cheaper.[21]
+A firsthand account of the Air-X's behavior in strong wind confirms the units work reliably, with one real objection: **noise**. Once wind speed passes about 20 knots, the blades unload themselves in a "horrible racket," tolerable only if the unit can be tethered down. An electric brake gives partial control, working by reversing the generator into a motor so the wind itself fights the blades to a stop.[20] Southwest Windpower's own account of the current **Air-X** model attributes the improvement directly to abandoning the older AIR 403's **"aero-elastic" blade design**, which caused a loud flutter above 35 mph (16 m/s); the Air-X instead monitors wind speed electronically and slows the blades as rated output is reached, holding output at a reduced level in high wind until it eases. Wind generators remain louder than solar panels in any case, but also cheaper.[21]
 
 # Citations
 

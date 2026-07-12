@@ -8,76 +8,19 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Matt (Ithaca, NY)
 
-**Matt** (Yahoo handle `twitch_816`) is a Paradox builder from the Ithaca,
-New York area, on Cayuga Lake, who introduced himself to the list in June
-2006 as a "long-time lurker" finally starting to build. He had already
-completed three other small boats — two Yost-designed folding kayaks and a
-PDRacer — and judged Paradox by far the most complex of the four. Moving to
-a house on Cayuga Lake that fall, with limited room to build at the new
-property, he treated the summer of 2006 as a race to get as much of the hull
-built as possible beforehand, with two brothers due to help in July.
+**Matt** (Yahoo handle `twitch_816`) is a Paradox builder from the Ithaca, New York area, on Cayuga Lake, who introduced himself to the list in June 2006 as a "long-time lurker" finally starting to build. He had already completed three other small boats — two Yost-designed folding kayaks and a PDRacer — and judged Paradox by far the most complex of the four. Moving to a house on Cayuga Lake that fall, with limited room to build at the new property, he treated the summer of 2006 as a race to get as much of the hull built as possible beforehand, with two brothers due to help in July.
 
-Matt kept a public build log at
-`www.math.cornell.edu/~noonan/boats/paradox.html`, alongside a page
-describing his three prior boats at `www.math.cornell.edu/~noonan/boats`.
+Matt kept a public build log at `www.math.cornell.edu/~noonan/boats/paradox.html`, alongside a page describing his three prior boats at `www.math.cornell.edu/~noonan/boats`.
 
-[Derek Clark](/people/derek-clark.md), then about two weeks from finishing
-and launching his own Paradox ("Enuf"), welcomed him and noted [Bill
-Serjeant](/people/bill-serjeant.md) was making "amazing progress" on his own
-build.[1] Bill Serjeant also welcomed him, reporting his own hull bottom
-fixed and chine runners complete, with glassing the bottom next — full
-detail at
-[people/bill-serjeant.md](/people/bill-serjeant.md#a-dry-assembly-of-the-hull-named-faith).[2]
+A welcome to the list noted a fellow builder was then about two weeks from finishing and launching a Paradox ("Enuf"), and that another builder was making "amazing progress" on a build.[1] A second welcome reported a hull bottom fixed and chine runners complete, with glassing the bottom next — full detail at [boats/faith.md](/boats/faith.md#a-dry-assembly-of-the-hull-named-faith).[2]
 
-Replying to Derek, Matt described Ithaca as a beautiful part of central New
-York shaped by retreating glaciers into gorges, waterfalls, and deep lakes,
-about two hours south of Lake Ontario; his planned move that August was to
-the shore of 40-mile-long Cayuga Lake, itself still within Ithaca. He was in
-the area for graduate studies in mathematics at Cornell, in no particular
-rush to graduate. He also asked Derek whether the pigment in his hull's
-epoxy protected it from UV on its own, or whether paint or varnish was going
-over it as well, and asked — half in jest — why so many green-hulled,
-red-sailed Paradoxen came from the UK side of the Atlantic.[3] Derek
-answered that his own supplier insisted the pigment alone prevented UV
-degradation, with no paint applied over it — see [Enuf's paint
-scheme](/boats/enuf.md#paint-scheme-three-tone-green-with-a-yellow-bottom)
-for the fuller account of that reasoning and its later complication. On the
-color choice, he corrected "forest green" to **British Racing Green**, and
-explained the red sail as a deliberate high-visibility choice: a boat that
-is easy to spot in genuine trouble at sea, but inconspicuous with the sail
-down while creeping up rivers.[4]
+Matt described Ithaca as a beautiful part of central New York shaped by retreating glaciers into gorges, waterfalls, and deep lakes, about two hours south of Lake Ontario; his planned move that August was to the shore of 40-mile-long Cayuga Lake, itself still within Ithaca. He was in the area for graduate studies in mathematics at Cornell, in no particular rush to graduate. He also asked whether the pigment in his hull's epoxy protected it from UV on its own, or whether paint or varnish was going over it as well, and asked — half in jest — why so many green-hulled, red-sailed Paradoxen came from the UK side of the Atlantic.[3] The answer was that a supplier insisted the pigment alone prevented UV degradation, with no paint applied over it — see [Enuf's paint scheme](/boats/enuf.md#paint-scheme-three-tone-green-with-a-yellow-bottom) for the fuller account of that reasoning and its later complication. On the color choice, "forest green" was corrected to **British Racing Green**, and the red sail was explained as a deliberate high-visibility choice: a boat that is easy to spot in genuine trouble at sea, but inconspicuous with the sail down while creeping up rivers.[4]
 
-By late July 2006, with his two brothers' help, Matt had wired on and glued
-his hull's bottom panel — its scarf joint came out cleaner than the side
-panels' had, done earlier on a flat work surface — and moved on to fitting
-out the interior and the vent trunk, expecting progress to slow for a week
-while he packed up his apartment for the move to Cayuga Lake. Answering
-[Derek Clark](/people/derek-clark.md)'s question about whether a laminated,
-double-layer panel could use butt joints instead of scarfs, he explained
-that a laminated panel's own bonding area so far exceeds a scarf or butt
-joint's that the joint itself barely matters for strength — full technical
-detail at [a double-layer plywood technique for an enlarged
-Paradox](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood).[5]
+By late July 2006, with his two brothers' help, Matt had wired on and glued his hull's bottom panel — its scarf joint came out cleaner than the side panels' had, done earlier on a flat work surface — and moved on to fitting out the interior and the vent trunk, expecting progress to slow for a week while he packed up his apartment for the move to Cayuga Lake. On whether a laminated, double-layer panel could use butt joints instead of scarfs, the answer given was that a laminated panel's own bonding area so far exceeds a scarf or butt joint's that the joint itself barely matters for strength — full technical detail at [a double-layer plywood technique for an enlarged Paradox](/construction/plywood-grades-and-foam-flotation.md#a-double-layer-plywood-technique-for-an-enlarged-paradox-and-testing-an-unconventional-mast-wood).[5]
 
-In early August 2006, with the chine runners underway, Matt asked where the
-copper lightning-grounding flashing should sit in the hull's layup, and later
-asked whether the exposed copper itself gives any anti-fouling benefit — both
-answered by [Glen Maxwell](/people/glen-maxwell.md); see [lightning
-protection — where the copper flashing sits in the layup, and copper's bonus
-as an
-antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant)
-for the full exchange. He described turning the hull over as his next
-milestone after the chine runners.[6][7][8][9]
+In early August 2006, with the chine runners underway, Matt asked where the copper lightning-grounding flashing should sit in the hull's layup, and later asked whether the exposed copper itself gives any anti-fouling benefit — both answered in turn; see [lightning protection — where the copper flashing sits in the layup, and copper's bonus as an antifoulant](/design/lightning-protection.md#where-the-copper-flashing-sits-in-the-layup-and-coppers-bonus-as-an-antifoulant) for the full exchange. He described turning the hull over as his next milestone after the chine runners.[6][7][8][9]
 
-Also in August 2006, Matt suggested building a PDRacer as a quicker
-alternative to a hobbyist's proposed scaled-down "mini" Paradox — see [a
-scaled-down "mini" Paradox
-(speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[10]
-He also relayed a sailmaker's question about why the Paradox sail uses
-sleeves rather than lashings on the yard and boom, answered by Jack Gardiner
-and Nels; see [why the sail uses sleeves rather than lashings, and a first
-sail of the 2006
-season](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[11]
+Also in August 2006, Matt suggested building a PDRacer as a quicker alternative to a proposed scaled-down "mini" Paradox — see [a scaled-down "mini" Paradox (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[10] He also relayed a question about why the Paradox sail uses sleeves rather than lashings on the yard and boom; see [why the sail uses sleeves rather than lashings, and a first sail of the 2006 season](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[11]
 
 # Citations
 

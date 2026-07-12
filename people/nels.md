@@ -8,780 +8,114 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Nels ("Edwin", Canada)
 
-**Nels** (posting from `arvent@...`, Yahoo profile `recree8`) is a **Canadian**
-prospective Paradox builder active on `paradoxbuilders` from September 2002
-onward. He never started construction and no boat name is recorded; his plan
-was a simplified, cold-climate Paradox with no water tanks, to be proven first
-on sheltered water (Lake Michigan) before cruising **British Columbia**, as he
-described himself as "a real chicken" about big water. He is best remembered as
-the archive's most active real-time chronicler of Matt Layden's 2003 Everglades
-Challenge. By January 2005 he identified himself as **co-moderator** of both
-the `paradoxbuilders` group and a separate Canadian small-boat discussion
-group ("CWG in Canada").
+**Nels** (posting from `arvent@...`, Yahoo profile `recree8`) is a **Canadian** prospective Paradox builder active on `paradoxbuilders` from September 2002 onward. He never started construction and no boat name is recorded; his plan was a simplified, cold-climate Paradox with no water tanks, to be proven first on sheltered water (Lake Michigan) before cruising **British Columbia**, as he described himself as "a real chicken" about big water. He is best remembered as the archive's most active real-time chronicler of Matt Layden's 2003 Everglades Challenge. By January 2005 he identified himself as **co-moderator** of both the `paradoxbuilders` group and a separate Canadian small-boat discussion group ("CWG in Canada").
 
-**Disambiguation.** One of Nels's messages carries a mailer "From" line reading
-**"~Edwin~"** while the body is signed "Nels" — apparently a nickname or middle
-name for a poster whose account name was Edwin. All messages share the same
-`arvent@` address and `recree8` Yahoo profile, confirming a single person.
+**Disambiguation.** One of Nels's messages carries a mailer "From" line reading **"~Edwin~"** while the body is signed "Nels" — apparently a nickname or middle name for a poster whose account name was Edwin. All messages share the same `arvent@` address and `recree8` Yahoo profile, confirming a single person.
 
 ## Design and build ideas
 
-- **The "motorsailer" Paradox.** Nels proposed a lengthened, substantially
-  modified Paradox for inland-lake use — connected by small rivers, bridges and
-  weirs — a design tension between customizing the boat and preserving
-  designer fidelity that is captured in full on
-  [Motorsailer Paradox (speculative)](/design/variants/motorsailer-idea.md).
-  His own planned build was to "follow much the same order... since I will be
-  simplifying it as well. No water tanks and a few other changes."
-- **Plywood deck-beam lamination.** He questioned whether laminated plywood
-  could make as stiff a beam as laminated solid wood, since much of the grain
-  runs the wrong way, risking a flexing deck — a doubt answered by nailing,
-  gluing to bulkheads, and load-spreading. See
-  [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
-- **A firsthand Hudson Bay warning.** From his work servicing weather equipment
-  and training radio operators by plane across the western Hudson Bay coast
-  (Fort Churchill, Chesterfield Inlet, Repulse Bay), he warned that its shallow,
-  rocky, tidal waters can ground a boat 10-20 miles offshore.
-- **A bow-anchor heaving-to aid, and a canoeing bucket-drogue parallel.**
-  Suggested streaming an anchor off the bow to help heave to, citing Phil
-  Bolger's view that the rode's drag in calmer water below the surface can
-  rival a chute near the surface, with the side benefit of slowing a boat
-  blown toward a lee shore (weighed against the risk of a solidly-set anchor
-  pulling the bow down); drew a parallel from canoeing practice — a
-  rock-filled bucket dragged on a bow-to-bow bridle, passing under the hull so
-  it doesn't pull the bow down, slows a canoe caught in a blow, the same rig
-  traditionally used for lining a canoe downstream or tracking it upstream
-  through rapids. See [heavy-weather tactics — why a keel-less, dory-like hull
-  resists tripping in steep
-  waves](/operations/heavy-weather-tactics.md#why-a-keel-less-dory-like-hull-resists-tripping-in-steep-waves).
-- **Why the stock cabin sides step in from the sheer.** Answered a newcomer's
-  flush-cabin-sides question by pointing out the recessed side decks store
-  the yuloh and lowered spars on deck. See [enlarging for a large
-  sailor](/design/variants/enlarging-for-a-large-sailor.md#flush-cabin-sides-as-an-unexplored-alternative).
-- **A lap butt joint as a scarf alternative for bottom panels.** Explained how
-  to fasten and reinforce a router-cut lap butt joint in bottom-panel plywood
-  without ring nails, so clamping pressure would not starve the joint of
-  epoxy, and how a strip of glass tape over the joint can leave it stronger
-  than the surrounding plywood. See [scarf joints vs. butt blocks — a lap
-  butt joint as a scarf
-  alternative](/construction/scarf-joints.md#a-lap-butt-joint-as-a-scarf-alternative).
-- **Hull-colour and bronze-ring-nail banter.** Closed out a "Colour Schemes"
-  thread with a mock-warning about Persian Gulf postings and a Spitfire-paint
-  joke, and separately asked a follow-up builder for more detail before
-  advising on bent bronze ring nails. See [topside painting — choosing a hull
-  colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade)
-  and [fastening and gluing — pilot-hole
-  sizing](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
-- **Fitting Paradox's sailplan onto a Bolger Camper 640.** Riffing on a
-  Venetian-blind sail joke, floated scaling Paradox's rig, chine runners, and
-  roller-furling convenience up onto Phil Bolger's 18 ft Camper design #640
-  instead of down to a 7.5 ft hull, with a 150 sq ft sail; joked about using
-  batteries as ballast to power the blind's slats and an onboard cooler. See
-  [a scaled-down "mini" Paradox
-  (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[169]
+- **The "motorsailer" Paradox.** A lengthened, substantially modified Paradox was proposed for inland-lake use — connected by small rivers, bridges and weirs — a design tension between customizing the boat and preserving designer fidelity that is captured in full on [Motorsailer Paradox (speculative)](/design/variants/motorsailer-idea.md). The planned build was to "follow much the same order... since I will be simplifying it as well. No water tanks and a few other changes."
+- **Plywood deck-beam lamination.** A question was raised over whether laminated plywood could make as stiff a beam as laminated solid wood, since much of the grain runs the wrong way, risking a flexing deck — a doubt answered by nailing, gluing to bulkheads, and load-spreading. See [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
+- **A firsthand Hudson Bay warning.** From work servicing weather equipment and training radio operators by plane across the western Hudson Bay coast (Fort Churchill, Chesterfield Inlet, Repulse Bay), a warning held that its shallow, rocky, tidal waters can ground a boat 10-20 miles offshore.
+- **A bow-anchor heaving-to aid, and a canoeing bucket-drogue parallel.** Streaming an anchor off the bow was suggested to help heave to, citing Phil Bolger's view that the rode's drag in calmer water below the surface can rival a chute near the surface, with the side benefit of slowing a boat blown toward a lee shore (weighed against the risk of a solidly-set anchor pulling the bow down); a parallel was drawn from canoeing practice — a rock-filled bucket dragged on a bow-to-bow bridle, passing under the hull so it doesn't pull the bow down, slows a canoe caught in a blow, the same rig traditionally used for lining a canoe downstream or tracking it upstream through rapids. See [heavy-weather tactics — why a keel-less, dory-like hull resists tripping in steep waves](/operations/heavy-weather-tactics.md#why-a-keel-less-dory-like-hull-resists-tripping-in-steep-waves).
+- **Why the stock cabin sides step in from the sheer.** A newcomer's flush-cabin-sides question was answered by pointing out the recessed side decks store the yuloh and lowered spars on deck. See [enlarging for a large sailor](/design/variants/enlarging-for-a-large-sailor.md#flush-cabin-sides-as-an-unexplored-alternative).
+- **A lap butt joint as a scarf alternative for bottom panels.** Explained how to fasten and reinforce a router-cut lap butt joint in bottom-panel plywood without ring nails, so clamping pressure would not starve the joint of epoxy, and how a strip of glass tape over the joint can leave it stronger than the surrounding plywood. See [scarf joints vs. butt blocks — a lap butt joint as a scarf alternative](/construction/scarf-joints.md#a-lap-butt-joint-as-a-scarf-alternative).
+- **Hull-colour and bronze-ring-nail banter.** A "Colour Schemes" thread was closed out with a mock-warning about Persian Gulf postings and a Spitfire-paint joke, and a follow-up builder separately got a request for more detail before advice on bent bronze ring nails. See [topside painting — choosing a hull colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade) and [fastening and gluing — pilot-hole sizing](/construction/fastening-and-gluing.md#bronze-ring-nails-bending-over-pilot-hole-sizing).
+- **Fitting Paradox's sailplan onto a Bolger Camper 640.** Riffing on a Venetian-blind sail joke, scaling Paradox's rig, chine runners, and roller-furling convenience up onto Phil Bolger's 18 ft Camper design #640 instead of down to a 7.5 ft hull, with a 150 sq ft sail, was floated; a joke followed about using batteries as ballast to power the blind's slats and an onboard cooler. See [a scaled-down "mini" Paradox (speculative)](/design/variants/scaled-down-idea.md#reception-a-comparison-to-the-bolger-brick-and-a-cheaper-and-quicker-alternative).[169]
 
 ## Chronicling the 2003 Everglades Challenge
 
-Over 11-12 March 2003 Nels became the archive's principal relayer of
-**Everglades Challenge** news, watching the WaterTribe forum and forwarding it
-to the list with his own analysis. He relayed checkpoint standings and finishing
-order, argued Matt was winning decisively because his "roller-launching design
-was another stroke of genius" and he could sail and sleep underway while paddled
-competitors had to land to rest, recorded the archive's only mention that Matt
-**stopped and rescued an overturned kayaker and towed him ashore** mid-race, and
-posted the official WaterTribe results under the subject **"MATT WINS!"** —
-Matt finishing Key Largo (304 miles) at 17:51 on 11 March with no rival yet past
-Checkpoint 4. He summed the result up as Matt having "created a class of his
-own — the microcruiser class." The full race narrative and results table live on
-[original-paradox.md](/boats/original-paradox.md).
+Over 11-12 March 2003 Nels became the archive's principal relayer of **Everglades Challenge** news, watching the WaterTribe forum and forwarding it to the list with his own analysis. Checkpoint standings and finishing order were relayed, with the argument that Matt was winning decisively because his "roller-launching design was another stroke of genius" and he could sail and sleep underway while paddled competitors had to land to rest; this is the archive's only mention that Matt **stopped and rescued an overturned kayaker and towed him ashore** mid-race, and the official WaterTribe results were posted under the subject **"MATT WINS!"** — Matt finishing Key Largo (304 miles) at 17:51 on 11 March with no rival yet past Checkpoint 4. The result was summed up as Matt having "created a class of his own — the microcruiser class." The full race narrative and results table live on [original-paradox.md](/boats/original-paradox.md).
 
-Nels also relayed a separate Matt Layden result outside Paradox and the
-Everglades Challenge — a second-place finish in a Water Tribe race on Lake
-Michigan sailing a 10 ft inflatable, from a *WaterTribe Magazine* feature —
-calling him "truly amazing." See
-[Matt Layden](/matt-layden/biography.md#other-craft-and-events).
+A separate Matt Layden result outside Paradox and the Everglades Challenge was also relayed — a second-place finish in a Water Tribe race on Lake Michigan sailing a 10 ft inflatable, from a *WaterTribe Magazine* feature — calling him "truly amazing." See [Matt Layden](/matt-layden/biography.md#other-craft-and-events).
 
 ## Other contributions
 
-- **A hull-building resource.** Pointed to `jboats.weblogger.com`, a much larger
-  boat's hull-building weblog whose build sequence he thought "might work with
-  paradox." See
-  [weight, ballast, and displacement](/design/weight-and-ballast.md).
-- **A microcruising-group pointer.** Steered [Kjell Karlsson](/people/kjell-karlsson.md)
-  toward the `microcruising` Yahoo group and its Oslo member Bjorn Harbo (who
-  had met Sven Yrvind), recalling that Yrvind once tried a plywood/cloth-laminate
-  Bris hull informed by Paradox before settling on the divinycell sandwich. See
-  [the "BRIS Paradox"](/boats/bris-paradox.md).
-- **A sharpie-momentum theory for tacking, and a rudder-stall caution.**
-  Drawing on Phil Bolger's writing on sharpies, argued lighter displacement
-  reduces a hull's weathercocking tendency when tacking in light air, and
-  separately warned that over-applying rudder to force the bow through the
-  wind before way is lost turns the rudder into a brake — recommending
-  minimal rudder, falling off to regather speed, or an oar stroke to kick
-  the stern over. See [sailing characteristics and rig balance — a second
-  round: weathercocking, ballast, and rudder
-  stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
-- **Proposing a group translation of Sven Yrvind's book.** Picking up on
-  Kjell Karlsson's suggestion of posting an excerpt, proposed a fuller plan
-  for a crowd-translated English edition — either a pre-order-funded print
-  run or a PayPal e-book — and worked out a concrete chapter-by-chapter
-  volunteer-translation pipeline with William Longyard, reporting several
-  willing translators of his own already lined up. See [the "BRIS Paradox"
-  — a proposed group project to translate Sven Yrvind's full book into
-  English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
-- **Relaying a tsunami-relief appeal.** In the wake of the December 2004
-  Indian Ocean tsunami, relayed a fundraising appeal on behalf of the
-  owner/captain of an 80 ft junk-rigged cargo boat who had narrowly escaped
-  the wave while in Phuket and was organizing relief deliveries — aid was
-  backing up at major centers for lack of intact road, airport, and seaport
-  infrastructure, and few boats were both large enough to carry meaningful
-  cargo and small enough to reach the cut-off areas near Phuket; the boat
-  itself carried a new engine capable of running a desalinator, seen as a
-  priority given the need for fresh water; two tax-exempt donation channels
-  (one in the USA, one in Canada) were being organized to fund the effort.
-- **Getting the plans.** He first appeared seeking a copy of
-  [Don Elliott](/people/don-elliott.md)'s paid "Building the Paradox" articles,
-  and was pointed by [Paul V.](/people/paul-v.md) to
-  [Charles Wilson](/people/charles-wilson.md)'s spare plans CD, closing with
-  "What a great bunch of folks!" Later, as a struggling newcomer's plans
-  request stalled, pointed him toward Don Elliott's rival group and build
-  manual as a faster alternative route into the design. See [building
-  plans — source and cost](/references/building-plans.md#source-and-cost).
-- **Pointing an unidentified-boat-photo question elsewhere.** When a member
-  could not get an answer identifying a boat photo he had uploaded, suggested
-  trying the `smallsailboats` Yahoo group, the microcruising group, or a
-  boat-design group instead.
-- **Foam-lining and Atlantic-crossing questions for Glen Maxwell.** Pressed for
-  the full method behind Glen Maxwell's promised but unposted foam-lining
-  article (foam type, doorskin attachment, ventilation gaps above and below
-  the panels) — a question sharpened by Bolger's own recent addition of a
-  similar foam lining to a redesigned "Birdwatcher" — and separately asked for
-  a full account of Glen's Atlantic crossing aboard "Hogfish Maximus" with
-  Chris Morejohn: sailing impressions, rig performance, daily distances, and
-  motion under way. See [Glen C. Maxwell — build and
-  "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
-- **Asking for "Hogfish Maximus" in context.** Welcomed Glen Maxwell's full
-  return report on the Atlantic crossing on behalf of newer list members, and
-  asked him to post photographs or a lines sketch of "Hogfish Maximus"
-  alongside Little Cruiser, Paradox, and Bolger's "Jesse Cooper," since hull
-  shape alone does not settle how a design performs in open water at larger
-  sizes. See [Glen C. Maxwell — Matt Layden eyewitness record — the full
-  return report](/people/glen-maxwell/matt-layden-eyewitness.md#the-full-return-report-cockpit-size-pounding-and-modified-sharpie-versus-sharpie).
-- **A two-person racer, and a joke.** He floated a two-person, more heavily
-  canvased 21 ft Paradox as "pretty competetive" and imagined a "microcuiser
-  racing" tradition — "The beer and pizza America's Cup!" A later
-  [secondhand-market](/operations/secondhand-market.md)
-  aside supplied his coinage that three or more Paradoxes would be a "Herdaoxen."
-- **Ballast trim and chine-log bedding.** On Glen Maxwell's proposal to cast
-  lead ballast in a chine-runner mold, argued crew-weight shifting is the
-  easier way to trim a boat as small as Paradox given her rocker, and asked
-  whether chine-log-mounted lead would need bedding compound at its hull
-  penetrations; see
-  [chine runner construction — casting lead ballast in a chine-runner mold](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
-- **Paint vs. epoxy.** Questioned why not simply repaint a water-damaged hull
-  rather than epoxy-coat it, prompting the practical case for epoxy; see
-  [epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
-- **The vent-trunk drain's limit.** Added the caveat that the vent trunk's
-  self-draining "hole in the bottom" only works while the boat is planing; see
-  [weight and ballast — how the no-open-hatch bailing actually
-  works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
-- **Tool sourcing, and epoxy-mixing appreciation.** Pointed to Lee Valley as a
-  cheaper source for the Nicholson pattern maker's rasp; see
-  [build effort — tools](/construction/build-effort.md#tools). Separately
-  praised the group's practical, experience-based knowledge-sharing, and asked
-  whether 1:1-ratio epoxies are genuinely more forgiving of small measurement
-  errors than higher-ratio mixes
-  such as 5:1; see
-  [epoxy pre-coating technique — mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
-- **Water treatment on passage.** Drawing on backpacking and camping
-  experience, cautioned that local water anywhere — Europe included — should
-  be run through a good portable filter before drinking, and sometimes even
-  before bathing; see
-  [provisioning — water](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
-- **Rudder foil shape.** Argued the flat, low-taper section is an advantage
-  rather than a compromise at Paradox's typical slow speeds; see
-  [rudder — foil section](/design/rudder.md#foil-section-not-a-standard-naca-airfoil).
-- **A word on feeding trolls, and an outboard question.** Observed, mid the
-  Don Elliott dispute, that responding to deliberately provocative posts —
-  citing "Oppositional Defiant Disorder" — only feeds the behavior, then
-  separately asked the list's opinion of a 2 hp Yamaha four-stroke as a
-  Paradox auxiliary. When a field test of a heavier 4 hp four-stroke came back
-  unable to plane, explained why: too much rocker in Paradox's stern section
-  for the hull to lift over its own bow wave, since the flatter run aft that
-  planing needs would instead drag the boat's tail when she heels under sail —
-  a familiar trade-off from Bolger's sharpie designs. See
-  [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
-- **A due-process case on the Don Elliott ban.** Agreed the ban was
-  warranted but argued, in a post titled "Censorship," that free speech is a
-  basic right and a moderator's duty to curb genuine abuse should still come
-  with a warning and a fair hearing first — a standard he felt he had not
-  been given himself when Don Elliott banned him from Don's own rival group
-  despite Nels never having posted there, over a private reply Nels had sent
-  regarding an unrelated post. See [Glen Maxwell — list founder and
-  moderator](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed).
-- **The fullest defense of the ban, on the record.** When William Longyard
-  publicly urged Glen Maxwell to reconsider, Nels answered with a detailed,
-  two-year account of a pattern he had personally watched Don Elliott repeat
-  across multiple groups — appearing friendly at first, then attacking the
-  group's moderator as incompetent and inviting members to defect to a group
-  of his own, as Don had just done again — and quoted at length a message in
-  which Don described disagreement itself as "time-wasters" who play "mind
-  games" and must be answered immediately, since an unrebutted statement "is
-  taken for a truth." Nels put the underlying point plainly: being
-  knowledgeable and artistic does not entitle a member to verbally abuse
-  those who disagree with him. See
-  [Don Elliott — a rival group, and a dispute over who founded and moderates
-  the list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
-- **Dynamite Payson recommendation.** For Smith's build-manual bibliography,
-  recommended any of Harold "Dynamite" Payson's books, judging him the
-  American equivalent of Percy Blandford — someone who "gives full value for
-  any and everything he offers" and has great respect for the home boat
-  builder — and recalled meeting Payson personally after an unannounced
-  visit to buy a set of "Cartopper" plans turned into an entire afternoon
-  spent with Payson, his wife Amy, and their son. See
-  [David C. Smith — contributions and stories](/people/david-c-smith.md#contributions-and-stories).
-- **Proposing an FAQ folder.** Building on Smith's build-manual proposal,
-  suggested a companion "Frequently Asked Questions" folder in the group's
-  files section, so recurring newcomer questions could be answered by pointer
-  rather than repeated explanation, and drafted a 30-item candidate list
-  spanning plans sourcing, chine-runner function and effectiveness, the
-  hull's lack of a centerboard/leeboards/keel, the sailing rig and reefing,
-  windward performance, the yuloh, motorization, materials and cost, epoxy
-  and fiberglass quantities, enlarging the design, tool lists, sailmaking,
-  water tanks, ballast, lighting, cooking, provisioning, the head, sleeping
-  and stowage arrangements, all-up weight, trailering, and where to find
-  photos, study plans, and building sites. See [Glen Maxwell — list founder
-  and moderator — the FAQ
-  folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
-- **Don Elliott's continued cross-posting.** Noted, after the ban, that Don
-  was still cross-posting his building articles and new site to the Bolducs'
-  own `microcruising` group.
-- **A tools-list copyright opinion.** Argued a list of tools or materials is
-  only a suggestion, not something that can be copyrighted — "except for
-  maybe the ten commandments" — in the debate over reusing the plans CD's
-  Building Materials list for the group's build manual; see [build effort and
-  workspace — tools](/construction/build-effort.md#tools).
-- **A worked FAQ example, and how to edit a locked folder.** When Glen Maxwell
-  found only the FAQ folder's creator could edit it, suggested contributors
-  offline their answers to him instead, or post them to the group first for
-  discussion, with a poll available for disputed questions and each
-  contributor signing their own answer; supplied, as the worked example, an
-  explanation of chine-runner effectiveness via a shallow-fin-keel analogy.
-  See [Glen Maxwell — the FAQ folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder)
-  and [chine runners and windward performance — a shallow fin keel
-  analogy](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential).
-- **The Phil Bolger "half the lake behind her" line.** In the "2 HP Motors"
-  thread, explained why a low-powered motor suits a short, flat-bottomed,
-  rockered hull: such hulls move easily through the water on low wetted
-  surface but not quickly, and even row poorly for lack of "carry" between
-  strokes — the same reason a yuloh, applying continuous low-effort power,
-  works well. Quoted Phil Bolger's summary of the type: it takes about 2 hp
-  at half throttle to reach hull speed; the hull will tolerate 10 hp but gain
-  only about half a knot more "while dragging half the lake behind her." See
-  [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
-- **Judging a tapered-boom fix for Matt's taller sailplan.** On the incomplete
-  furl left by Matt Layden's taller, higher-peaked new sailplan, judged a
-  tapered boom plausible in theory, though unsure exactly how much larger the
-  aft diameter would need to be; noted the incomplete furl is not, per Matt
-  Layden, a serious problem in practice, since the sail is already mostly
-  rolled up by the time any cloth is left over, owing to the peaked gaff. See
-  [chine runners and
-  windward performance — whether an enlarged boom could absorb a taller
-  sail's extra
-  roll](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
-- **A "sent to the other site" joke, and an apology.** As co-moderator,
-  confirmed receipt of Glen Maxwell's Philadelphia-absence instructions with
-  a joking aside that anyone getting out of line would be sent to Don
-  Elliott's rival group — drawing a sharp objection from a below-threshold
-  correspondent that even joking sniping doesn't help; apologized, clarifying
-  he held no real grievance against Don and that tone is easily misread in
-  writing. See [Glen Maxwell — a moderator's absence, delegated in
-  advance](/people/glen-maxwell/list-founder-and-moderator.md#a-moderators-absence-delegated-in-advance).
-- **Welcoming new members, and disclosing a group-level enlarged Paradox
-  under consideration.** Standing in during Glen Maxwell's absence, welcomed
-  about a dozen recent new members and pointed them to the group's photos,
-  files, and Links section; disclosed the group itself was considering
-  developing plans for "a somewhat enlarged version of Paradox." See
-  [stretched Paradox — a group-level enlarged Paradox under
-  consideration](/design/variants/stretched-paradox.md#a-group-level-enlarged-paradox-under-consideration).
-- **Doubting Paradox would scull well, and the spare-yuloh question.**
-  Suspected, as a paddler, that a heavy hull like Paradox's would scull
-  poorly compared with a long, light racing hull; asked whether a spare
-  yuloh should be carried, by analogy to always carrying a spare canoe
-  paddle, and whether yuloh plans came with the Paradox plans. The
-  mass-and-momentum answer, and the confirmation that yuloh plans are
-  included, are at [sculling and yuloh technique — carrying a spare
-  yuloh](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
-- **Congratulated Andrew Graham on the first Australian Paradox launch.**
-  Recognized Andrew Graham as having built the first Paradox to sail in his
-  own country, praised "Zero"'s finish and launch account, and followed up
-  with a Moreton Bay tourism-site link. See
-  [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero)
-  and
-  [Aussie Paradox — a closer look: paint, plexiglass tint, and the
-  galley](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
-- **Pointed newcomers to the scaling and windward-performance basics.**
-  Welcomed two new members in December 2003 — Fredrik (Norway) and Jake — to
-  the files and links sections; directed Fredrik to the group's "Larger
-  Paradox" folder (20%-enlargement figures, endorsed by Matt Layden) and
-  named several Scandinavian builders working in plywood/epoxy, plus a
-  25-foot-schooner builder near Oslo; told Jake the chine runners need
-  sufficient weight aboard to stay submerged when heeled and that sail cut
-  and helmsmanship both matter, and pointed him to the Bolducs' own
-  discussion group as a source on Little Cruiser's centerboard-vs-chine-runner
-  comparison. See
-  [stretched Paradox — a Scandinavian newcomer's scaling
-  question](/design/variants/stretched-paradox.md#a-scandinavian-newcomers-scaling-question)
-  and
-  [chine runners and windward performance — pointing a newcomer to the
-  basics](/chine-runners/windward-performance.md#pointing-angles-owners-report).
-- **Asked for Glen Maxwell's verdict on the new sail.** Flagged a fresh wave
-  of 15-20 new members to expect follow-up questions from, and asked for
-  impressions of upwind performance and chine-runner effectiveness with Zoë's
-  new sail, noting the Microcruising group had discussed whether Paradox
-  could tack within 90 degrees. See [chine runners and windward performance —
-  pointing a newcomer to the
-  basics](/chine-runners/windward-performance.md#pointing-angles-owners-report).
-- **Welcomed Kjell Karlsson's Sven Yrvind translation.** Thanked Kjell for
-  translating and posting the Matt Layden/Paradox chapter of Yrvind's book,
-  finding the translation fine and inviting more. See [the "BRIS Paradox" —
-  reception of the translated book
-  chapter](/boats/bris-paradox.md#reception-of-the-translated-book-chapter).
-- **Ballast-and-buoyancy placement doctrine.** Gave the fullest statement in
-  the archive of why ballast belongs low and amidships (Paradox's bottom
-  curves like a banana, so amidships is the hull's low point) while flotation
-  belongs high and at the ends, for self-righting; noted a steel hull, unlike
-  wood, sinks on its own when flooded and needs flotation beyond a wood
-  boat's to offset the steel's own weight. See [plywood grade and foam
-  flotation debate — ballast and buoyancy placement, and why the Paradox's
-  rocker
-  matters](/construction/plywood-grades-and-foam-flotation.md#ballast-and-buoyancy-placement-and-why-the-paradoxs-rocker-matters).
-- **Doubted Paradox suited steel, then corrected his own Bolger figure.**
-  Argued Paradox was likely too small to build practically in steel and
-  asked William Longyard how small steel boats in Holland actually got;
-  cited a Phil Bolger steel solo-circumnavigator design, then corrected his
-  own plate-thickness figure for it (1/8 in, not 3/16 in, claimed equal in
-  weight to 1.5 in mahogany), asking unanswered follow-up questions about
-  thinner-plate weight and oil-canning. See [aluminum and steel Paradox
-  (speculative) — field welding, and confirmation from real small steel
-  boats](/design/aluminum-construction-idea.md#field-welding-and-confirmation-from-real-small-steel-boats).
-- **Argued Paradox's plywood/glass hull may not need steel at all.**
-  Responding to William Longyard's photo of a real steel dinghy, compared
-  Paradox's construction favorably to whitewater canoes (a foam core under a
-  tough, flexible coating, the same principle behind Sven Yrvind's Bris
-  design), judged a well-built plywood Paradox probably stronger than most
-  fiberglass boats her size and unlikely to be holed at hull speed, and
-  catalogued a menu of bottom-toughening options for rock/gravel use — extra
-  cloth layers, a sacrificial hardwood keel strip (used on his own boat), or
-  a carbon-powder-reinforced bottom of the kind used on rock-running
-  whitewater canoes. See [aluminum and steel Paradox (speculative) — why
-  Paradox itself may not need steel: plywood/glass toughness and rock
-  protection](/design/aluminum-construction-idea.md#why-paradox-itself-may-not-need-steel-plywoodglass-toughness-and-rock-protection).
-- **The scale argument against a steel Paradox, and a Bolger correction.**
-  Argued from commercial precedent that steel boatbuilding scales to boats
-  considerably larger than Paradox — the smallest steel design sold by
-  fairmetalboats.com is 25 ft/5+ tons versus a 10 ft smallest plywood design,
-  consistent with Phil Bolger's published 25-ft practical minimum for
-  serious offshore steel — and separately corrected an over-general claim
-  about Bolger's tolerance for design changes from his own direct experience
-  faxing Bolger about his steel solo-circumnavigator design "COL H.G.
-  HASLER." See [aluminum and steel Paradox (speculative) — why practical
-  steel boatbuilding starts around 25 feet, not 14
-  feet](/design/aluminum-construction-idea.md#why-practical-steel-boatbuilding-starts-around-25-feet-not-14).
-- **Combined several speculative ideas into one stitch-and-glue proposal.**
-  In the "Stitch 'n Glue" thread opened as steel's practical alternative,
-  proposed combining S&G construction with bilge keels and a Chinese lug
-  rig/yawl/soft-wing sail on a carbon-fiber tabernacled mast. See [aluminum
-  and steel Paradox (speculative) — a stitch-and-glue Paradox as steel's
-  practical
-  alternative](/design/aluminum-construction-idea.md#a-stitch-and-glue-paradox-as-steels-practical-alternative).
-- **Continued the "Coastal vs Blue Water" debate with David LeBlanc.**
-  Pressed LeBlanc on why chine runners vs. centerboard, lugsail vs. split
-  rig, and double-ender vs. transom stern would count as materials rather
-  than design choices; offered two possible reasons for Sven Yrvind's
-  double-ender choice beyond LeBlanc's stern-volume argument (less tendency
-  to overload a canoe stern in a following sea; a possible Scandinavian
-  cultural preference), attributing his understanding of Yrvind's own
-  reasoning to conversations Yrvind had shared with Bjorn Harbo; confirmed
-  Yrvind's expensive divinycell/epoxy choice was driven by North Sea
-  insulation needs rather than cost. See [blue-water suitability — Sven
-  Yrvind's specific design choices, weighed against Matt
-  Layden's](/design/blue-water-suitability.md#sven-yrvinds-specific-design-choices-weighed-against-matt-laydens).
-- **A welded-aluminum/inflatable-collar hybrid, half in jest, and its
-  on-topicality pushback.** Floated a design combining a welded aluminum
-  hull, wood-and-epoxy topsides, and a full-gunwale inflatable hypalon ring
-  in the manner of a RIB, pointing to `working-boats.co.uk` and his own
-  group-album photo upload. When the material and the album post were
-  questioned as off-topic for a Paradox-specific list, defended it as fitting
-  the thread's own subject line, offered to delete it if unwelcome, and asked
-  whether his own previously-posted Bris material should also come down — a
-  question resolved by pointing to the moderator's final say and to the
-  Boatdesign/Microcruising lists as better homes for material with no direct
-  Paradox connection. See
-  [aluminum and steel Paradox (speculative) — a welded-aluminum hull with an
-  inflatable
-  collar](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar).
-- **Questioned the Gibbs Aquada's construction, and closed the archive's
-  final Steel thread on a joke.** Doubted the Aquada amphibious prototype
-  was really steel-hulled, since its maker's own site described only
-  "composite" construction; see [aluminum and steel Paradox (speculative) —
-  a later tangent: the Gibbs Aquada, and "spray rails" vs. chine
-  runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
-- **Located Matt Layden's unfinished "Big Cruiser" cartoons.** Pointed Jack
-  Gardiner to Matt Layden's own unfinished stretched/enlarged Paradox
-  cartoons, which never reached final plans, giving their precise location
-  in the `microcruising` Yahoo group's files section — the first time the
-  "Big Cruiser" name's file-folder location was confirmed since its lone
-  prior mention ten months earlier. See [Matt Layden (biography) — asides
-  and footnotes](/matt-layden/biography.md#asides-and-footnotes).
-- **Pointed to published birdsmouth-mast tutorials.** In the New Year's Day
-  2004 "Mast" thread, supplied two online birdsmouth-construction
-  walkthroughs and recalled a WoodenBoat Magazine article on the same
-  technique (possibly its Fall '99 issue) and a further one in Boatbuilder,
-  offering to try to track both down. See [rig and sail — a proposed
-  birdsmouth-building tutorial, and existing published
-  guides](/design/rig.md#a-proposed-birdsmouth-building-tutorial-and-existing-published-guides).
-- **Expanded on Phil Bolger's window and porthole designs.** Following David
-  LeBlanc's account of Bolger's window-strength view, described Bolger's own
-  bolted-gasket porthole designs, an optional inner belt-and-suspenders
-  panel layer for insulation and condensation control, the "Wiley window"
-  (ventilates while keeping out spray), and the "Birdwatcher top" cabin
-  shape (funnels the sail's downdraft into the cabin), citing the JOCHEMS
-  schooner as the clearest Birdwatcher-top example. See [aluminum and steel
-  Paradox (speculative) — stretching the cabin top and sizing windows for
-  open-water
-  use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
-- **Questioned the Bris 5.4's mast and daggerboard placement.** Raised an
-  unanswered design question about study plans he had just uploaded for
-  Sven Yrvind's "Bris 5.4": an unusually far-aft mast with no visible
-  backstay, a daggerboard placed close to the mast, and the rudder doubling
-  as a lateral plane — "Seems weird. But somehow I suspect it works!" — and
-  separately questioned the daggerboard's vulnerability to underwater
-  strikes. See [Paradox study plans — mast and daggerboard placement
-  questioned on the Bris
-  5.4](/references/study-plans.md#mast-and-daggerboard-placement-questioned-on-the-bris-54).
-- **Questioned chine-runner scaling and asked about bilgeboards/bilge
-  keels.** Still hunting for a larger Paradox, asked whether Matt Layden had
-  ever published a formula for scaling chine-runner size to a bigger hull —
-  citing Phil Bolger's Martha Jane (~75% larger, same basic shape) as his
-  example — and separately asked whether Matt had ever tried bilgeboards or
-  bilge keels instead of chine runners, leeboards, or centerboards; neither
-  question drew a recorded answer. See [how chine runners work — no
-  published scaling formula, and no bilgeboard/bilge-keel experiment on
-  record](/chine-runners/how-they-work.md#no-published-scaling-formula-and-no-bilgeboardbilge-keel-experiment-on-record).
-- **A two-up-cruising case for a larger Paradox.** On enlargement, recalled
-  Glen Maxwell's own account of a dockside visitor left standing in the rain
-  for lack of room to invite him into the closed-hatch cabin, and Andrew
-  Graham's report that humid weather made two-up cruising aboard "Zero"
-  uncomfortable, as minor but real arguments for a bigger boat — while
-  maintaining the stock design "cannot be improved for what it was designed
-  to do." See [stretched
-  Paradox — enlarging for a tall sailor, and three named stretch
-  methods](/design/variants/stretched-paradox.md#enlarging-for-a-tall-sailor-and-three-named-stretch-methods).
-- **A `paradoxbuilders` co-moderator.** Beyond standing in for Glen Maxwell
-  during his Philadelphia trip (above), Nels had at some unrecorded earlier
-  point also been formally appointed a co-moderator; he stepped back from
-  active list participation for a multi-month trip to Europe in May 2004,
-  handing day-to-day moderation over to Smith in the meantime. See [the mailing
-  list — Nels heads to Europe as a departing
-  co-moderator](/references/mailing-list.md#nels-heads-to-europe-as-a-departing-co-moderator).
-- **Warned a newcomer off epoxy after an allergic reaction, and questioned
-  strip planking.** Advised that a developed epoxy sensitivity rules out
-  using it again given the risk of a worse repeat reaction, suggesting
-  waterproof glue and ring nails with the glassing hired out, or polyester
-  resin as a lower-risk fallback; separately questioned the cost logic and
-  practical benefit of strip planking a sharpie bottom versus a
-  tongue-and-groove hardwood floor laminated with a thin plywood skin and
-  glassed over. See [building plans — a bottom-thickness and resin
-  debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
-- **Inquired after an unfinished "Swash" hull on a third party's behalf.**
-  Asked for completion photos, a remaining-cost estimate, and the hull's
-  glass/chine-runner status, offering a trailer and cash if a deal could be
-  struck. See [secondhand Paradox market — an unfinished hull for sale:
-  "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
-- **Scaling up rather than building an unfamiliar design.** On a
-  Paradox-vs-Sofia design comparison, suggested the simpler path was scaling
-  up the existing metric Paradox plans rather than building Sven Yrvind's
-  "Sofia," and that a builder could plausibly recoup his own costs by selling
-  the enlarged plan set afterward. See [blue-water suitability — a
-  2004 revisiting: Paradox against Sven Yrvind's
-  "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
-- **Questioned fastener purchase into bare plywood.** Asked how enough screw
-  "purchase" is obtained when boards are screwed directly to plywood, since
-  the usual practice is to screw the plywood to solid wood instead —
-  prompting clarification that the actual sequence runs deck screws through
-  the plywood into solid-wood strips on the inside. See
-  [building plans — a bottom-thickness and resin
-  debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
-- **Sheer strake and chine log material guidance.** Explained these parts
-  carry real structural load as well as fastener purchase, recommended
-  good-quality soft/flexible species (spruce, fir, cedar) over cheap wood
-  upgraded with epoxy, warned that ripped plywood strips hold fasteners
-  poorly compared to laminated solid-wood strips, and relayed Matt Layden's
-  list of species to avoid (oak, teak, maple, birch, poplar); restated the
-  same best-fastener-purchase rule of thumb a few weeks later for his own
-  Micro's mahogany chine logs, in a follow-up choice between Brazilian
-  mahogany and Sapele. See [chine log vs. taped-seam
-  construction — what sheer strakes and chine logs actually
-  do, and a follow-up choice: Brazilian mahogany versus
-  Sapele](/construction/chine-log-vs-taped-seam.md#what-sheer-strakes-and-chine-logs-actually-do-and-why-plywood-is-a-poor-substitute).
-- **A triangular, taped chine-log alternative.** In a chine-log-thickness
-  debate, floated a triangular-cross-section chine log taped over as a
-  stiffer, cleaner, less-wood-consuming alternative to a full rectangular
-  log, while acknowledging he was unsure how well it would fit Paradox's own
-  building sequence. See [chine log vs. taped-seam construction — chine-log
-  thickness: why 38 mm rather than 19
-  mm](/construction/chine-log-vs-taped-seam.md#chine-log-thickness-why-38-mm-rather-than-19-mm).[113]
-- **Why chine runners suit a sharpie hull far better than a dory hull, and a
-  Bolger box-versus-dory design comparison.** Gave the archive's fullest
-  account of why the chine-runner concept depends on a box-hull's own
-  inherent resistance to sideways slippage plus Paradox's deep, heavily
-  rockered midships section, arguing a dory hull loses most of that
-  resistance to its flared topsides and grows dangerously tender once
-  ballasted deep enough to compensate; illustrated the point with Phil
-  Bolger's redesigned St. Pierre Dory set against his box-hulled "Jesse
-  Cooper," and judged a fin keel the dory hull's own best solution, citing
-  Annie Hill and Jim Sale's "Badger." Separately relayed a report that
-  designer Jeff Gilbert was trying chine runners on a dory-sided catamaran
-  hull ("Gumboot+Mono"), judging the drawing a graphic illustration of the
-  same principle. See [how chine runners work — why dory hulls resist
-  chine-runner
-  treatment](/chine-runners/how-they-work.md#runner-width-and-no-published-width-versus-leeway-trial)
-  and [a Bolger box-hull-versus-dory-hull design
-  comparison](/chine-runners/how-they-work.md#a-bolger-box-hull-versus-dory-hull-design-comparison).
-- **Why speed reduces leeway, and a shallow-draft safety case for no keel.**
-  Followed up with a mechanism for why chine runners work better as a boat
-  moves faster — a heeled hull's downward-forced water is deflected aft on
-  meeting the runner, adding forward push rather than pure drag — and argued
-  having no keel below the hull is itself a safety feature off a lee shore,
-  letting the boat slide sideways rather than trip, and letting her wash over
-  a reef or onto a beach with less damage than a deeper-draft boat would take
-  offshore. See [how chine runners work — why speed itself reduces leeway, and
-  a shallow-draft safety case for no keel at
-  all](/chine-runners/how-they-work.md#why-speed-itself-reduces-leeway-and-a-shallow-draft-safety-case-for-no-keel-at-all).
-- **Identified "Jubilee," and a centerboard-plus-chine-runner combination.**
-  Posted a photo link that turned out to show Chris Morejohn's 40 ft sharpie
-  "Jubilee," from the group's Hogfish Maximus files folder, then answered Bill
-  Serjeant's question about why her chine runners looked so narrow: both
-  "Jubilee" and "Hogfish Maximus" pair chine runners with a centerboard, a
-  combination Glen Maxwell — who sailed on "Hogfish Maximus" — can speak to
-  firsthand, effective without excessive turbulence even downwind with the
-  board raised; speculated a centerboard becomes worth adding alongside chine
-  runners at around a 25 ft waterline. See [how chine runners work — narrow
-  "wing" runners, and a centerboard-plus-runner
-  combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination).[146][147][148][149][150]
-- **A Spanish-windlass technique for pulling in a hull's sides.** Offered a
-  builder struggling to pull his bow panels together a "Spanish windlass"
-  method — a heavy rope loop around both sides, closed gradually by twisting a
-  dowel passed under it, with temporary uprights to stop the loop slipping
-  forward and temporary scabs at the bow to support clamps once the ends draw
-  together. See [hull assembly sequence — pulling the bow together with a
-  Spanish
-  windlass](/construction/hull-assembly-sequence.md#pulling-a-hulls-sides-together-with-a-spanish-windlass).
-- **A Bolger Micro/Long Micro beachability comparison.** Against the view
-  that a Bolger Micro's 18 in draft ruled it out on beachability grounds,
-  pointed to a "long Micro" photo at the microcruising group showing a
-  Bolger Long Micro, a regular Micro, and an Oldshoe beached side by side,
-  arguing Micros beach better than their draft suggests since the first foot
-  or so of the bow rises clear of the water. See [blue-water
-  suitability — a 2004 revisiting: Paradox against Sven Yrvind's
-  "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
-- **Tarp-blister theories.** Offered two possible causes for tarp-blister
-  damage recorded on "[Whisper](/boats/whisper.md)" — a non-breathable tarp
-  material, or an incompletely cured paint job overheating under cover —
-  alongside a residual-moisture explanation from another correspondent. See
-  [topside and hull painting choices — paint blisters from a tarp left on too
-  long](/construction/topside-painting.md#paint-blisters-from-a-tarp-left-on-too-long).
-- **Hull-colour opinions.** Admired Zoë's finish against a proposed paler
-  green, reacted "Blech!" to a fallback flattish-grey idea and suggested a
-  pale gold instead, noting a lighter colour is easier to repaint over later
-  if disliked. See [topside and hull painting choices — choosing a hull
-  colour, and why the epoxy's UV protection matters more than the
-  shade](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).
-- **The Adelie/Amelie mix-up, and a renewed call to enlarge Paradox.**
-  Critiqued the "Adelie" design (mistakenly floated as "Amelie") for its
-  backrest-less cockpit and its CGI-only, not-yet-built status, judged his
-  own Bolger Micro superior, and renewed his standing call for someone to
-  come forward and enlarge Paradox by 20%. See [blue-water suitability — a
-  2004 revisiting: Paradox against Sven Yrvind's
-  "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
-- **A reading-list contribution.** Pointed to a Sven Yrvind title at
-  `seachest.co.uk`, and nominated any writing by the Bolducs and by Matt
-  Layden as reading-list material in its own right, judging they "should
-  write a book" and he would move it to first choice; followed up
-  clarifying "Tilikum"'s dugout-canoe origins and John Voss's storm tactics,
-  and recommending the Pardeys, Annie Hill, and Charles Stock, then separately
-  pointed to the Pardeys' own website, landlpardey.com, for further
-  living-aboard tips. See ["Beach Cruising and Coastal Camping" — a wider
-  Paradox-sailor reading
-  list](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
-- **The case for filling the fiberglass weave before painting.** Laid out the
-  mechanics of a good paint job — thin coats sanded between applications,
-  fairing compound applied afterward rather than as a base coat, and bottom
-  paint recommended regardless of water type — then argued, against leaving
-  the weave unfilled to save sanding time, that an open weave traps moisture,
-  dirt, and grime and won't hold paint as well, and that finishing a
-  hard-built boat to a durable (not showy) standard pays back in less annual
-  upkeep. Recommended a practical finishing sequence — fill the weave, apply
-  two thinned paint coats, then go sailing, finishing fully the following
-  season — plus a warning about amine blush and its water/vinegar or ammonia
-  remedy. See [epoxy pre-coating technique — filling the fiberglass weave
-  before
-  painting](/construction/epoxy-coating-technique.md#filling-the-fiberglass-weave-before-painting-fairing-compound-and-the-case-against-leaving-it-exposed).
-- **Endorsing a wind-against-tide caution.** Seconded a UK correspondent's
-  firsthand account of green water over the cabin in a wind-against-tide
-  encounter and the resulting case against loose foredeck storage. See
-  [heavy weather tactics — a wind-against-tide encounter, and the case
-  against foredeck
-  storage](/operations/heavy-weather-tactics.md#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage).
-- **A further reading-list pointer.** Passed along an online small-boat
-  voyage account hosted at ibiblio.org as further recommended reading. See
-  ["Beach Cruising and Coastal Camping" — a wider Paradox-sailor reading
-  list](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
-- **A Canada Day toast, and an Alberta road-trip account.** Answered a
-  Canada Day greeting with his own westward Alberta road trip — Crowsnest
-  Pass, Longview, Calgary, Banff, and two days photographing the Drumheller
-  badlands, with plentiful wildlife but "not one sailboat" — taken just
-  ahead of regional flooding.[133]
-- **Canoe "tracking" and "lining" as an analogy for towpath-hauling a
-  Paradox.** On a UK canal-touring question, drew on Canadian canoe-country
-  experience to describe line-hauling a small boat from the bank — a line
-  fixed at each end, fine-tuned to steer around obstructions despite no
-  rudder — and its practical hazards (streamside willow growth, mud, steep
-  banks, biting insects); suggested a small backup outboard, walking the
-  towpath and lodging at inns, or a canoe with a portage cart as simpler
-  alternatives, citing Ontario's Rideau Canal as a well-supported example.
-  See [rig and sail — line-hauling and canoe "tracking"/"lining" as an
-  analogy](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[134]
-- **A portage cart, and reaching continental canals.** Continuing the same
-  canal-touring thread, pointed to an example portage cart (200+ lb capacity)
-  and the wood-chip-surfaced portage trails of British Columbia's Bowron
-  Lakes canoe circuit as a real-world model for carrying a small boat's gear
-  around an unopenable lock or obstruction; separately asked whether a
-  Paradox bound for the European canal system would be sailed across the
-  English Channel, towed through the Chunnel, or carried by ferry — answered
-  (elsewhere) that the Channel itself is readily sailable. See [rig and sail
-  — line-hauling and canoe "tracking"/"lining" as an
-  analogy](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[135]
-- **Revisiting the Don Elliott ban, two years on.** Argued Don Elliott
-  effectively banned himself through direct personal attacks and flaming,
-  distinct from a more even-tempered correspondent on "Nutty Boats" merely
-  judged opinionated, and disclosed being banned from one of Don's own
-  groups without ever having posted there. See [Glen C. Maxwell — list
-  founder and moderator, the Don Elliott ban, revisited nearly two years
-  on](/people/glen-maxwell/list-founder-and-moderator.md#the-don-elliott-ban-revisited-nearly-two-years-on).
-- **Pigment-coat application questions.** Asked a builder applying a
-  pigmented final epoxy coat what tool he'd use, how long its open time
-  would run, and whether the pigment could be pre-mixed to keep the shade
-  consistent across batches. See [topside and hull painting choices —
-  choosing a hull colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).[136]
-- **A closing pun on the finished paint scheme.** Summed up a builder's
-  finished colour scheme as "three-tone green with a yellow bottom" and
-  jokingly proposed the word "HELP!" in International Red as a finishing
-  touch, then, when asked to explain "International Red," suggested plain
-  "SOS" would do the job just as well. See [topside and hull painting
-  choices — choosing a hull
-  colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).[137]
-- **Practical advice for sizing and placing ballast.** Advised launching
-  with an empty hull, loading her with all cruising gear, then adding lead
-  until she balances to her waterline before mounting the ballast
-  permanently — noting most builders start light, which usefully shows the
-  chine runners' true performance before the boat reaches her final trim.
-  See [weight, ballast, and displacement — ballast placement: outboard vs.
-  centered](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).[138]
-- **The US-versus-Imperial gallon distinction.** Corrected a gallon-to-litre
-  epoxy conversion for anyone using US measure, noting Canada has both
-  gallon sizes in everyday use. See [epoxy brands and chemistry — converting
-  a US epoxy quantity to litres or
-  kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).[139]
-- **Solved the "S&G" joke.** Answered Derek Clark's tongue-in-cheek question
-  about what "S&G" stood for — "Simon and Garfunkel? Or maybe Stitch and
-  Glue?" — confirming the construction-method reading. See [checking a used
-  Paradox for rot — finishing the bilges: leave inspectable, or paint
-  over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[140]
-- **Asked after Jack Gardiner's onboard generator, and wished him well.**
-  Pressed Jack Gardiner for the practical details behind an onboard
-  1,000-watt generator — battery type and mounting, generator security, fuel
-  and oil storage, and noise/fumes — and, on learning of Jack's hospitalization
-  for a tonsil infection, wished him a speedy recovery. Separately asked Mats
-  Blomstrand, in passing, whether he was himself building a Paradox — left
-  unanswered in the archive. See
-  [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions)
-  and [building plans — a January 2006 recurrence, twentieth time on
-  record](/references/building-plans.md#a-january-2006-recurrence-twentieth-time-on-record).[141][142][143]
-- **Vehicle overnight-parking tips, from Canada.** On a trailering/laybys
-  thread, listed his own preferred overnight-parking spots for a vehicle —
-  farmers' field turn-offs, closed rural gas stations, communication-tower
-  clearings, and quiet parking near small-village churches. See
-  [boats/enuf.md — a carpal-tunnel operation halts progress, and a
-  five-week
-  pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[151]
-- **Questioning a hatch-runner fix.** Asked Alastair how a new formica
-  running surface for a sliding hatch was actually attached, whether formica
-  on the lower surface alone would suffice, and floated UHMW strip or brass
-  as alternatives. See [hatch hardware and security — a formica wear-surface
-  fix for a foam-lined
-  hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch).[152]
-- **Spotting an off-plan chine-runner shape, and guessing the transom
-  box.** Noticed Derek Clark's "Enuf" photos showed the chine runners off
-  the plans' shape, prompting Derek's sanding-disc-mishap admission, and
-  correctly guessed the plastic box visible through the transom in
-  builders' photos was a Porta Potti in storage position. See
-  [boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta
-  Potti in the
-  transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[153]
-- **Pointing a newcomer to Derek Clark's own Duckworks article.** Answering
-  a new member's plans/manual question, pointed past the paid construction
-  manual to Derek Clark's own first-person Duckworks Magazine account of
-  building "Enuf," warning it is "a very serious technical article," and to
-  the group's own links page. See [building plans — a July 2006 recurrence,
-  and a blunt assessment of the paid manual's
-  quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[154]
-- **Recommending MDO plywood, and a level gravel building floor.** Answering
-  a new Idaho builder's cheap-vs-marine plywood question, recommended MDO
-  (medium-density overlay) plywood by name for its smooth surface and better
-  paint-holding, and explained how to make a gravel floor level enough to
-  build on using posts and checked 2x4s. Followed up with more detail: a
-  Paradox could in principle be built with no fibreglass cloth at all (epoxy
-  used only to seal joints) and still last a long time, though glass to the
-  waterline helps abrasion resistance, and a good antifouling or
-  epoxy/graphite-powder coating serves the same protective role short of
-  glass; ordinary exterior house/porch/floor enamel brushed or rolled over
-  MDO gives a durable, semi-gloss finish. See [plywood grades and foam
-  flotation — a July 2006 recurrence, and a recommendation for MDO
-  plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[155][156]
-- **Answering an overseas buyer, and a Robbsboat pointer.** Confirmed plans
-  ship in a standard 11x14 in envelope and noted summer is reliably a slow
-  season for the Bolducs to reply to plans requests; separately pointed a
-  newcomer weighing alternative designs to Jim Michalak's "Robb's boat," a
-  cheap, simple design buildable in 3/8 in plywood. See [building plans — a
-  July 2006 recurrence, and a blunt assessment of the paid manual's
-  quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality)
-  and [the mailing list's Robbsboat
-  comparison](/references/mailing-list.md#list-culture).[157][158]
-- **On why the sail is sleeved rather than lashed.** Agreed with Jack
-  Gardiner that Matt Layden's choice of sleeves over ties came down to
-  simplicity, adding that sleeves also give cleaner airflow and work better
-  with roller reefing than lashings would, and that he would not deviate
-  from the design as drawn. See [rig and sail — rolling boom and sail
-  foot](/design/rig.md#rolling-boom-and-sail-foot) and
-  [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[166]
-- **A carbon-tape boom-core alternative, and admiring the sailplan.** On the
-  boom-construction tangent of the same thread, offered a further lightweight
-  option — a tapered rigid-foam boom core wrapped in carbon-fiber tape set in
-  epoxy (the tape used for setting broken limbs), hidden and UV-protected by
-  the sail's sleeve — and reflected that the more he thought about Matt
-  Layden's sailplan the more he loved it, recalling the image of Matt landing
-  Enigma during the Florida Challenge. See [rig and sail — the reefing
-  triangle, and why reshaping the boom taper is the wrong
-  fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[167]
-- **A tabernacle caution for an enlarged Paradox.** Warned a builder planning
-  a folding, tabernacle-stepped mast on his 18-19 ft enlarged Paradox that
-  such an arrangement is not easy to design and brace against sail loads,
-  since the mast structure is essentially what drives the boat; asked what
-  sail type and area he planned. See [stretched Paradox — a builder's 18-19 ft
-  "maxi paradox," under
-  way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[168]
+- **A hull-building resource.** Pointed to `jboats.weblogger.com`, a much larger boat's hull-building weblog whose build sequence "might work with paradox." See [weight, ballast, and displacement](/design/weight-and-ballast.md).
+- **A microcruising-group pointer.** A pointer toward the `microcruising` Yahoo group and its Oslo member (who had met Sven Yrvind) recalled that Yrvind once tried a plywood/cloth-laminate Bris hull informed by Paradox before settling on the divinycell sandwich. See [the "BRIS Paradox"](/boats/bris-paradox.md).
+- **A sharpie-momentum theory for tacking, and a rudder-stall caution.** Drawing on Phil Bolger's writing on sharpies, argued lighter displacement reduces a hull's weathercocking tendency when tacking in light air, and separately warned that over-applying rudder to force the bow through the wind before way is lost turns the rudder into a brake — recommending minimal rudder, falling off to regather speed, or an oar stroke to kick the stern over. See [sailing characteristics and rig balance — a second round: weathercocking, ballast, and rudder stall](/operations/sailing-characteristics.md#a-second-round-weathercocking-ballast-and-rudder-stall).
+- **Proposing a group translation of Sven Yrvind's book.** Picking up on a suggestion of posting an excerpt, a fuller plan for a crowd-translated English edition was proposed — either a pre-order-funded print run or a PayPal e-book — and a concrete chapter-by-chapter volunteer-translation pipeline was worked out, with several willing translators already lined up. See [the "BRIS Paradox" — a proposed group project to translate Sven Yrvind's full book into English](/boats/bris-paradox.md#a-proposed-group-project-to-translate-sven-yrvinds-full-book-into-english).
+- **Relaying a tsunami-relief appeal.** In the wake of the December 2004 Indian Ocean tsunami, a fundraising appeal was relayed on behalf of the owner/captain of an 80 ft junk-rigged cargo boat who had narrowly escaped the wave while in Phuket and was organizing relief deliveries — aid was backing up at major centers for lack of intact road, airport, and seaport infrastructure, and few boats were both large enough to carry meaningful cargo and small enough to reach the cut-off areas near Phuket; the boat itself carried a new engine capable of running a desalinator, seen as a priority given the need for fresh water; two tax-exempt donation channels (one in the USA, one in Canada) were being organized to fund the effort.
+- **Getting the plans.** First appeared seeking a copy of [Don Elliott](/people/don-elliott.md)'s paid "Building the Paradox" articles, and was pointed to [Charles Wilson](/people/charles-wilson.md)'s spare plans CD, closing with "What a great bunch of folks!" Later, as a struggling newcomer's plans request stalled, pointed him toward Don Elliott's rival group and build manual as a faster alternative route into the design. See [building plans — source and cost](/references/building-plans.md#source-and-cost).
+- **Pointing an unidentified-boat-photo question elsewhere.** When a member could not get an answer identifying a boat photo uploaded to the group, suggested trying the `smallsailboats` Yahoo group, the microcruising group, or a boat-design group instead.
+- **Foam-lining and Atlantic-crossing questions for Glen Maxwell.** Pressed for the full method behind Glen Maxwell's promised but unposted foam-lining article (foam type, doorskin attachment, ventilation gaps above and below the panels) — a question sharpened by Bolger's own recent addition of a similar foam lining to a redesigned "Birdwatcher" — and separately asked for a full account of the Atlantic crossing aboard "Hogfish Maximus": sailing impressions, rig performance, daily distances, and motion under way. See [Glen C. Maxwell — build and "Zoë"](/people/glen-maxwell/build-and-zoe.md#the-choice-to-leave-zoë-without-foam-flotation).
+- **Asking for "Hogfish Maximus" in context.** Welcomed Glen Maxwell's full return report on the Atlantic crossing on behalf of newer list members, and requested photographs or a lines sketch of "Hogfish Maximus" alongside Little Cruiser, Paradox, and Bolger's "Jesse Cooper," since hull shape alone does not settle how a design performs in open water at larger sizes. See [Glen C. Maxwell — Matt Layden eyewitness record — the full return report](/people/glen-maxwell/matt-layden-eyewitness.md#the-full-return-report-cockpit-size-pounding-and-modified-sharpie-versus-sharpie).
+- **A two-person racer, and a joke.** A two-person, more heavily canvased 21 ft Paradox was floated as "pretty competetive," imagining a "microcuiser racing" tradition — "The beer and pizza America's Cup!" A later [secondhand-market](/operations/secondhand-market.md) aside supplied the coinage that three or more Paradoxes would be a "Herdaoxen."
+- **Ballast trim and chine-log bedding.** On a proposal to cast lead ballast in a chine-runner mold, argued crew-weight shifting is the easier way to trim a boat as small as Paradox given her rocker, and asked whether chine-log-mounted lead would need bedding compound at its hull penetrations; see [chine runner construction — casting lead ballast in a chine-runner mold](/chine-runners/construction.md#casting-lead-ballast-into-the-runners).
+- **Paint vs. epoxy.** Questioned why not simply repaint a water-damaged hull rather than epoxy-coat it, prompting the practical case for epoxy; see [epoxy pre-coating technique — sealing a hull with prior water/rot damage](/construction/epoxy-coating-technique.md#sealing-a-hull-with-prior-waterrot-damage-epoxy-vs-paint).
+- **The vent-trunk drain's limit.** Added the caveat that the vent trunk's self-draining "hole in the bottom" only works while the boat is planing; see [weight and ballast — how the no-open-hatch bailing actually works](/design/weight-and-ballast.md#how-the-no-open-hatch-bailing-actually-works).
+- **Tool sourcing, and epoxy-mixing appreciation.** Pointed to Lee Valley as a cheaper source for the Nicholson pattern maker's rasp; see [build effort — tools](/construction/build-effort.md#tools). Separately praised the group's practical, experience-based knowledge-sharing, and asked whether 1:1-ratio epoxies are genuinely more forgiving of small measurement errors than higher-ratio mixes such as 5:1; see [epoxy pre-coating technique — mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time).
+- **Water treatment on passage.** Drawing on backpacking and camping experience, cautioned that local water anywhere — Europe included — should be run through a good portable filter before drinking, and sometimes even before bathing; see [provisioning — water](/operations/provisioning-and-water.md#self-flooding-sea-water-ballast-tanks-feasible-but-risky).
+- **Rudder foil shape.** Argued the flat, low-taper section is an advantage rather than a compromise at Paradox's typical slow speeds; see [rudder — foil section](/design/rudder.md#foil-section-not-a-standard-naca-airfoil).
+- **A word on feeding trolls, and an outboard question.** Observed, mid the Don Elliott dispute, that responding to deliberately provocative posts — citing "Oppositional Defiant Disorder" — only feeds the behavior, then separately asked the list's opinion of a 2 hp Yamaha four-stroke as a Paradox auxiliary. When a field test of a heavier 4 hp four-stroke came back unable to plane, the explanation given was too much rocker in Paradox's stern section for the hull to lift over its own bow wave, since the flatter run aft that planing needs would instead drag the boat's tail when she heels under sail — a familiar trade-off from Bolger's sharpie designs. See [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+- **A due-process case on the Don Elliott ban.** The ban was agreed to be warranted, but a post titled "Censorship" argued that free speech is a basic right and a moderator's duty to curb genuine abuse should still come with a warning and a fair hearing first — a standard not given in the case of a ban from Don Elliott's own rival group despite never having posted there, over a private reply sent regarding an unrelated post. See [Glen Maxwell — list founder and moderator](/people/glen-maxwell/list-founder-and-moderator.md#a-rival-group-and-glens-moderator-role-reaffirmed).
+- **The fullest defense of the ban, on the record.** When a public call went out to reconsider the ban, a detailed, two-year account followed of a pattern personally watched — Don Elliott repeating the same routine across multiple groups: appearing friendly at first, then attacking the group's moderator as incompetent and inviting members to defect to a group of his own, as had just happened again — quoting at length a message in which Don described disagreement itself as "time-wasters" who play "mind games" and must be answered immediately, since an unrebutted statement "is taken for a truth." The underlying point was put plainly: being knowledgeable and artistic does not entitle a member to verbally abuse those who disagree with him. See [Don Elliott — a rival group, and a dispute over who founded and moderates the list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list).
+- **Dynamite Payson recommendation.** For a build-manual bibliography, recommended any of Harold "Dynamite" Payson's books, judging him the American equivalent of Percy Blandford — someone who "gives full value for any and everything he offers" and has great respect for the home boat builder — and recalled that an unannounced visit to buy a set of "Cartopper" plans turned into an entire afternoon spent with Payson, his wife Amy, and their son. See [David C. Smith — contributions and stories](/people/david-c-smith.md#contributions-and-stories).
+- **Proposing an FAQ folder.** Building on a build-manual proposal, suggested a companion "Frequently Asked Questions" folder in the group's files section, so recurring newcomer questions could be answered by pointer rather than repeated explanation, and drafted a 30-item candidate list spanning plans sourcing, chine-runner function and effectiveness, the hull's lack of a centerboard/leeboards/keel, the sailing rig and reefing, windward performance, the yuloh, motorization, materials and cost, epoxy and fiberglass quantities, enlarging the design, tool lists, sailmaking, water tanks, ballast, lighting, cooking, provisioning, the head, sleeping and stowage arrangements, all-up weight, trailering, and where to find photos, study plans, and building sites. See [Glen Maxwell — list founder and moderator — the FAQ folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder).
+- **Don Elliott's continued cross-posting.** Noted, after the ban, that Don was still cross-posting his building articles and new site to the Bolducs' own `microcruising` group.
+- **A tools-list copyright opinion.** Argued a list of tools or materials is only a suggestion, not something that can be copyrighted — "except for maybe the ten commandments" — in the debate over reusing the plans CD's Building Materials list for the group's build manual; see [build effort and workspace — tools](/construction/build-effort.md#tools).
+- **A worked FAQ example, and how to edit a locked folder.** When only the FAQ folder's creator was found able to edit it, contributors were told to offline their answers instead, or post them to the group first for discussion, with a poll available for disputed questions and each contributor signing their own answer; supplied, as the worked example, an explanation of chine-runner effectiveness via a shallow-fin-keel analogy. See [Glen Maxwell — the FAQ folder](/people/glen-maxwell/list-founder-and-moderator.md#the-faq-folder) and [chine runners and windward performance — a shallow fin keel analogy](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential).
+- **The Phil Bolger "half the lake behind her" line.** In the "2 HP Motors" thread, explained why a low-powered motor suits a short, flat-bottomed, rockered hull: such hulls move easily through the water on low wetted surface but not quickly, and even row poorly for lack of "carry" between strokes — the same reason a yuloh, applying continuous low-effort power, works well. Quoted Phil Bolger's summary of the type: it takes about 2 hp at half throttle to reach hull speed; the hull will tolerate 10 hp but gain only about half a knot more "while dragging half the lake behind her." See [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane).
+- **Judging a tapered-boom fix for Matt's taller sailplan.** On the incomplete furl left by Matt Layden's taller, higher-peaked new sailplan, a tapered boom was judged plausible in theory, though unsure exactly how much larger the aft diameter would need to be; the incomplete furl is not, per Matt Layden, a serious problem in practice, since the sail is already mostly rolled up by the time any cloth is left over, owing to the peaked gaff. See [chine runners and windward performance — whether an enlarged boom could absorb a taller sail's extra roll](/design/rig.md#quantifying-the-new-sailplans-effect-on-boom-furling-geometry).
+- **A "sent to the other site" joke, and an apology.** As co-moderator, receipt of Philadelphia-absence instructions was confirmed with a joking aside that anyone getting out of line would be sent to Don Elliott's rival group — drawing a sharp objection from a below-threshold correspondent that even joking sniping doesn't help; an apology followed, clarifying no real grievance against Don and that tone is easily misread in writing. See [Glen Maxwell — a moderator's absence, delegated in advance](/people/glen-maxwell/list-founder-and-moderator.md#a-moderators-absence-delegated-in-advance).
+- **Welcoming new members, and disclosing a group-level enlarged Paradox under consideration.** Standing in during a moderator's absence, welcomed about a dozen recent new members and pointed them to the group's photos, files, and Links section; disclosed the group itself was considering developing plans for "a somewhat enlarged version of Paradox." See [stretched Paradox — a group-level enlarged Paradox under consideration](/design/variants/stretched-paradox.md#a-group-level-enlarged-paradox-under-consideration).
+- **Doubting Paradox would scull well, and the spare-yuloh question.** Suspected, as a paddler, that a heavy hull like Paradox's would scull poorly compared with a long, light racing hull; asked whether a spare yuloh should be carried, by analogy to always carrying a spare canoe paddle, and whether yuloh plans came with the Paradox plans. The mass-and-momentum answer, and the confirmation that yuloh plans are included, are at [sculling and yuloh technique — carrying a spare yuloh](/operations/sculling-and-yuloh-technique.md#carrying-a-spare-yuloh-smiths-mass-and-momentum-case-against-it).
+- **Congratulations on the first Australian Paradox launch.** Recognized the first Paradox to sail in Australia, praised "Zero"'s finish and launch account, and followed up with a Moreton Bay tourism-site link. See [Aussie Paradox — launch, and a name: "Zero"](/boats/aussie-paradox.md#launch-and-a-name-zero) and [Aussie Paradox — a closer look: paint, plexiglass tint, and the galley](/boats/aussie-paradox.md#a-closer-look-paint-plexiglass-tint-and-the-galley).
+- **Pointed newcomers to the scaling and windward-performance basics.** Welcomed two new members in December 2003 to the files and links sections; one was directed to the group's "Larger Paradox" folder (20%-enlargement figures, endorsed by Matt Layden) and given several Scandinavian builders working in plywood/epoxy, plus a 25-foot-schooner builder near Oslo; the other was told the chine runners need sufficient weight aboard to stay submerged when heeled and that sail cut and helmsmanship both matter, and pointed to the Bolducs' own discussion group as a source on Little Cruiser's centerboard-vs-chine-runner comparison. See [stretched Paradox — a Scandinavian newcomer's scaling question](/design/variants/stretched-paradox.md#a-scandinavian-newcomers-scaling-question) and [chine runners and windward performance — pointing a newcomer to the basics](/chine-runners/windward-performance.md#pointing-angles-owners-report).
+- **Asked for a verdict on the new sail.** Flagged a fresh wave of 15-20 new members to expect follow-up questions from, and requested impressions of upwind performance and chine-runner effectiveness with Zoë's new sail, noting the Microcruising group had discussed whether Paradox could tack within 90 degrees. See [chine runners and windward performance — pointing a newcomer to the basics](/chine-runners/windward-performance.md#pointing-angles-owners-report).
+- **Welcomed a Sven Yrvind translation.** Thanked a member for translating and posting the Matt Layden/Paradox chapter of Yrvind's book, finding the translation fine and inviting more. See [the "BRIS Paradox" — reception of the translated book chapter](/boats/bris-paradox.md#reception-of-the-translated-book-chapter).
+- **Ballast-and-buoyancy placement doctrine.** Gave the fullest statement in the archive of why ballast belongs low and amidships (Paradox's bottom curves like a banana, so amidships is the hull's low point) while flotation belongs high and at the ends, for self-righting; noted a steel hull, unlike wood, sinks on its own when flooded and needs flotation beyond a wood boat's to offset the steel's own weight. See [plywood grade and foam flotation debate — ballast and buoyancy placement, and why the Paradox's rocker matters](/construction/plywood-grades-and-foam-flotation.md#ballast-and-buoyancy-placement-and-why-the-paradoxs-rocker-matters).
+- **Doubted Paradox suited steel, then corrected his own Bolger figure.** Argued Paradox was likely too small to build practically in steel and asked how small steel boats in Holland actually got; cited a Phil Bolger steel solo-circumnavigator design, then corrected the plate-thickness figure for it (1/8 in, not 3/16 in, claimed equal in weight to 1.5 in mahogany), asking unanswered follow-up questions about thinner-plate weight and oil-canning. See [aluminum and steel Paradox (speculative) — field welding, and confirmation from real small steel boats](/design/aluminum-construction-idea.md#field-welding-and-confirmation-from-real-small-steel-boats).
+- **Argued Paradox's plywood/glass hull may not need steel at all.** Responding to a photo of a real steel dinghy, compared Paradox's construction favorably to whitewater canoes (a foam core under a tough, flexible coating, the same principle behind Sven Yrvind's Bris design), judged a well-built plywood Paradox probably stronger than most fiberglass boats her size and unlikely to be holed at hull speed, and catalogued a menu of bottom-toughening options for rock/gravel use — extra cloth layers, a sacrificial hardwood keel strip, or a carbon-powder-reinforced bottom of the kind used on rock-running whitewater canoes. See [aluminum and steel Paradox (speculative) — why Paradox itself may not need steel: plywood/glass toughness and rock protection](/design/aluminum-construction-idea.md#why-paradox-itself-may-not-need-steel-plywoodglass-toughness-and-rock-protection).
+- **The scale argument against a steel Paradox, and a Bolger correction.** Argued from commercial precedent that steel boatbuilding scales to boats considerably larger than Paradox — the smallest steel design sold by fairmetalboats.com is 25 ft/5+ tons versus a 10 ft smallest plywood design, consistent with Phil Bolger's published 25-ft practical minimum for serious offshore steel — and separately corrected an over-general claim about Bolger's tolerance for design changes, from direct experience faxing Bolger about his steel solo-circumnavigator design "COL H.G. HASLER." See [aluminum and steel Paradox (speculative) — why practical steel boatbuilding starts around 25 feet, not 14 feet](/design/aluminum-construction-idea.md#why-practical-steel-boatbuilding-starts-around-25-feet-not-14).
+- **Combined several speculative ideas into one stitch-and-glue proposal.** In the "Stitch 'n Glue" thread opened as steel's practical alternative, proposed combining S&G construction with bilge keels and a Chinese lug rig/yawl/soft-wing sail on a carbon-fiber tabernacled mast. See [aluminum and steel Paradox (speculative) — a stitch-and-glue Paradox as steel's practical alternative](/design/aluminum-construction-idea.md#a-stitch-and-glue-paradox-as-steels-practical-alternative).
+- **Continued the "Coastal vs Blue Water" debate.** Pressed on why chine runners vs. centerboard, lugsail vs. split rig, and double-ender vs. transom stern would count as materials rather than design choices; offered two possible reasons for Sven Yrvind's double-ender choice beyond a stern-volume argument (less tendency to overload a canoe stern in a following sea; a possible Scandinavian cultural preference), attributing this understanding of Yrvind's own reasoning to conversations Yrvind had shared secondhand; confirmed Yrvind's expensive divinycell/epoxy choice was driven by North Sea insulation needs rather than cost. See [blue-water suitability — Sven Yrvind's specific design choices, weighed against Matt Layden's](/design/blue-water-suitability.md#sven-yrvinds-specific-design-choices-weighed-against-matt-laydens).
+- **A welded-aluminum/inflatable-collar hybrid, half in jest, and its on-topicality pushback.** Floated a design combining a welded aluminum hull, wood-and-epoxy topsides, and a full-gunwale inflatable hypalon ring in the manner of a RIB, pointing to `working-boats.co.uk` and a group-album photo upload. When the material and the album post were questioned as off-topic for a Paradox-specific list, defended it as fitting the thread's own subject line, offered to delete it if unwelcome, and asked whether previously-posted Bris material should also come down — a question resolved by pointing to the moderator's final say and to the Boatdesign/Microcruising lists as better homes for material with no direct Paradox connection. See [aluminum and steel Paradox (speculative) — a welded-aluminum hull with an inflatable collar](/design/aluminum-construction-idea.md#a-welded-aluminum-hull-with-an-inflatable-collar).
+- **Questioned the Gibbs Aquada's construction, and closed the archive's final Steel thread on a joke.** Doubted the Aquada amphibious prototype was really steel-hulled, since its maker's own site described only "composite" construction; see [aluminum and steel Paradox (speculative) — a later tangent: the Gibbs Aquada, and "spray rails" vs. chine runners](/design/aluminum-construction-idea.md#a-later-tangent-the-gibbs-aquada-and-spray-rails-vs-chine-runners).
+- **Located Matt Layden's unfinished "Big Cruiser" cartoons.** Pointed to Matt Layden's own unfinished stretched/enlarged Paradox cartoons, which never reached final plans, giving their precise location in the `microcruising` Yahoo group's files section — the first time the "Big Cruiser" name's file-folder location was confirmed since its lone prior mention ten months earlier. See [Matt Layden (biography) — asides and footnotes](/matt-layden/biography.md#asides-and-footnotes).
+- **Pointed to published birdsmouth-mast tutorials.** In the New Year's Day 2004 "Mast" thread, supplied two online birdsmouth-construction walkthroughs and recalled a WoodenBoat Magazine article on the same technique (possibly its Fall '99 issue) and a further one in Boatbuilder, offering to try to track both down. See [rig and sail — a proposed birdsmouth-building tutorial, and existing published guides](/design/rig.md#a-proposed-birdsmouth-building-tutorial-and-existing-published-guides).
+- **Expanded on Phil Bolger's window and porthole designs.** Following an account of Bolger's window-strength view, described Bolger's own bolted-gasket porthole designs, an optional inner belt-and-suspenders panel layer for insulation and condensation control, the "Wiley window" (ventilates while keeping out spray), and the "Birdwatcher top" cabin shape (funnels the sail's downdraft into the cabin), citing the JOCHEMS schooner as the clearest Birdwatcher-top example. See [aluminum and steel Paradox (speculative) — stretching the cabin top and sizing windows for open-water use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use).
+- **Questioned the Bris 5.4's mast and daggerboard placement.** Raised an unanswered design question about study plans just uploaded for Sven Yrvind's "Bris 5.4": an unusually far-aft mast with no visible backstay, a daggerboard placed close to the mast, and the rudder doubling as a lateral plane — "Seems weird. But somehow I suspect it works!" — and separately questioned the daggerboard's vulnerability to underwater strikes. See [Paradox study plans — mast and daggerboard placement questioned on the Bris 5.4](/references/study-plans.md#mast-and-daggerboard-placement-questioned-on-the-bris-54).
+- **Questioned chine-runner scaling and asked about bilgeboards/bilge keels.** Still hunting for a larger Paradox, asked whether Matt Layden had ever published a formula for scaling chine-runner size to a bigger hull — citing Phil Bolger's Martha Jane (~75% larger, same basic shape) as an example — and separately asked whether Matt had ever tried bilgeboards or bilge keels instead of chine runners, leeboards, or centerboards; neither question drew a recorded answer. See [how chine runners work — no published scaling formula, and no bilgeboard/bilge-keel experiment on record](/chine-runners/how-they-work.md#no-published-scaling-formula-and-no-bilgeboardbilge-keel-experiment-on-record).
+- **A two-up-cruising case for a larger Paradox.** On enlargement, recalled an account of a dockside visitor left standing in the rain for lack of room to invite him into the closed-hatch cabin, and a report that humid weather made two-up cruising aboard "Zero" uncomfortable, as minor but real arguments for a bigger boat — while maintaining the stock design "cannot be improved for what it was designed to do." See [stretched Paradox — enlarging for a tall sailor, and three named stretch methods](/design/variants/stretched-paradox.md#enlarging-for-a-tall-sailor-and-three-named-stretch-methods).
+- **A `paradoxbuilders` co-moderator.** Beyond standing in for a moderator's Philadelphia trip (above), Nels had at some unrecorded earlier point also been formally appointed a co-moderator; he stepped back from active list participation for a multi-month trip to Europe in May 2004, handing day-to-day moderation over in the meantime. See [the mailing list — Nels heads to Europe as a departing co-moderator](/references/mailing-list.md#nels-heads-to-europe-as-a-departing-co-moderator).
+- **Warned a newcomer off epoxy after an allergic reaction, and questioned strip planking.** Advised that a developed epoxy sensitivity rules out using it again given the risk of a worse repeat reaction, suggesting waterproof glue and ring nails with the glassing hired out, or polyester resin as a lower-risk fallback; separately questioned the cost logic and practical benefit of strip planking a sharpie bottom versus a tongue-and-groove hardwood floor laminated with a thin plywood skin and glassed over. See [building plans — a bottom-thickness and resin debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+- **Inquired after an unfinished "Swash" hull on a third party's behalf.** Asked for completion photos, a remaining-cost estimate, and the hull's glass/chine-runner status, offering a trailer and cash if a deal could be struck. See [secondhand Paradox market — an unfinished hull for sale: "Swash"](/operations/secondhand-market.md#an-unfinished-hull-for-sale-swash-july-2004).
+- **Scaling up rather than building an unfamiliar design.** On a Paradox-vs-Sofia design comparison, suggested the simpler path was scaling up the existing metric Paradox plans rather than building Sven Yrvind's "Sofia," and that a builder could plausibly recoup costs by selling the enlarged plan set afterward. See [blue-water suitability — a 2004 revisiting: Paradox against Sven Yrvind's "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
+- **Questioned fastener purchase into bare plywood.** Asked how enough screw "purchase" is obtained when boards are screwed directly to plywood, since the usual practice is to screw the plywood to solid wood instead — prompting clarification that the actual sequence runs deck screws through the plywood into solid-wood strips on the inside. See [building plans — a bottom-thickness and resin debate](/references/building-plans.md#why-paradox-resists-easy-enlargement).
+- **Sheer strake and chine log material guidance.** Explained these parts carry real structural load as well as fastener purchase, recommended good-quality soft/flexible species (spruce, fir, cedar) over cheap wood upgraded with epoxy, warned that ripped plywood strips hold fasteners poorly compared to laminated solid-wood strips, and relayed Matt Layden's list of species to avoid (oak, teak, maple, birch, poplar); restated the same best-fastener-purchase rule of thumb a few weeks later for a Micro's own mahogany chine logs, in a follow-up choice between Brazilian mahogany and Sapele. See [chine log vs. taped-seam construction — what sheer strakes and chine logs actually do, and a follow-up choice: Brazilian mahogany versus Sapele](/construction/chine-log-vs-taped-seam.md#what-sheer-strakes-and-chine-logs-actually-do-and-why-plywood-is-a-poor-substitute).
+- **A triangular, taped chine-log alternative.** In a chine-log-thickness debate, floated a triangular-cross-section chine log taped over as a stiffer, cleaner, less-wood-consuming alternative to a full rectangular log, while acknowledging uncertainty over how well it would fit Paradox's own building sequence. See [chine log vs. taped-seam construction — chine-log thickness: why 38 mm rather than 19 mm](/construction/chine-log-vs-taped-seam.md#chine-log-thickness-why-38-mm-rather-than-19-mm).[113]
+- **Why chine runners suit a sharpie hull far better than a dory hull, and a Bolger box-versus-dory design comparison.** Gave the archive's fullest account of why the chine-runner concept depends on a box-hull's own inherent resistance to sideways slippage plus Paradox's deep, heavily rockered midships section, arguing a dory hull loses most of that resistance to its flared topsides and grows dangerously tender once ballasted deep enough to compensate; illustrated the point with Phil Bolger's redesigned St. Pierre Dory set against his box-hulled "Jesse Cooper," and judged a fin keel the dory hull's own best solution, citing the "Badger" case. Separately relayed a report that a dory-sided catamaran hull ("Gumboot+Mono") was being tried with chine runners, judging the drawing a graphic illustration of the same principle. See [how chine runners work — why dory hulls resist chine-runner treatment](/chine-runners/how-they-work.md#runner-width-and-no-published-width-versus-leeway-trial) and [a Bolger box-hull-versus-dory-hull design comparison](/chine-runners/how-they-work.md#a-bolger-box-hull-versus-dory-hull-design-comparison).
+- **Why speed reduces leeway, and a shallow-draft safety case for no keel.** Followed up with a mechanism for why chine runners work better as a boat moves faster — a heeled hull's downward-forced water is deflected aft on meeting the runner, adding forward push rather than pure drag — and argued having no keel below the hull is itself a safety feature off a lee shore, letting the boat slide sideways rather than trip, and letting her wash over a reef or onto a beach with less damage than a deeper-draft boat would take offshore. See [how chine runners work — why speed itself reduces leeway, and a shallow-draft safety case for no keel at all](/chine-runners/how-they-work.md#why-speed-itself-reduces-leeway-and-a-shallow-draft-safety-case-for-no-keel-at-all).
+- **Identified "Jubilee," and a centerboard-plus-chine-runner combination.** Posted a photo link that turned out to show Chris Morejohn's 40 ft sharpie "Jubilee," from the group's Hogfish Maximus files folder, then answered a question about why her chine runners looked so narrow: both "Jubilee" and "Hogfish Maximus" pair chine runners with a centerboard, a combination effective without excessive turbulence even downwind with the board raised; speculated a centerboard becomes worth adding alongside chine runners at around a 25 ft waterline. See [how chine runners work — narrow "wing" runners, and a centerboard-plus-runner combination](/chine-runners/how-they-work.md#narrow-wing-runners-on-a-chris-morejohn-sharpie-and-a-centerboard-plus-runner-combination).[146][147][148][149][150]
+- **A Spanish-windlass technique for pulling in a hull's sides.** Offered a builder struggling to pull the bow panels together a "Spanish windlass" method — a heavy rope loop around both sides, closed gradually by twisting a dowel passed under it, with temporary uprights to stop the loop slipping forward and temporary scabs at the bow to support clamps once the ends draw together. See [hull assembly sequence — pulling the bow together with a Spanish windlass](/construction/hull-assembly-sequence.md#pulling-a-hulls-sides-together-with-a-spanish-windlass).
+- **A Bolger Micro/Long Micro beachability comparison.** Against the view that a Bolger Micro's 18 in draft ruled it out on beachability grounds, pointed to a "long Micro" photo at the microcruising group showing a Bolger Long Micro, a regular Micro, and an Oldshoe beached side by side, arguing Micros beach better than their draft suggests since the first foot or so of the bow rises clear of the water. See [blue-water suitability — a 2004 revisiting: Paradox against Sven Yrvind's "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
+- **Tarp-blister theories.** Offered two possible causes for tarp-blister damage recorded on "[Whisper](/boats/whisper.md)" — a non-breathable tarp material, or an incompletely cured paint job overheating under cover — alongside a residual-moisture explanation offered separately. See [topside and hull painting choices — paint blisters from a tarp left on too long](/construction/topside-painting.md#paint-blisters-from-a-tarp-left-on-too-long).
+- **Hull-colour opinions.** Admired Zoë's finish against a proposed paler green, reacted "Blech!" to a fallback flattish-grey idea and suggested a pale gold instead, noting a lighter colour is easier to repaint over later if disliked. See [topside and hull painting choices — choosing a hull colour, and why the epoxy's UV protection matters more than the shade](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).
+- **The Adelie/Amelie mix-up, and a renewed call to enlarge Paradox.** Critiqued the "Adelie" design (mistakenly floated as "Amelie") for its backrest-less cockpit and its CGI-only, not-yet-built status, judged a Bolger Micro superior, and renewed a standing call for someone to come forward and enlarge Paradox by 20%. See [blue-water suitability — a 2004 revisiting: Paradox against Sven Yrvind's "Sofia"](/design/blue-water-suitability.md#a-2004-revisiting-paradox-against-sven-yrvinds-sofia).
+- **A reading-list contribution.** Pointed to a Sven Yrvind title at `seachest.co.uk`, and nominated any writing by the Bolducs and by Matt Layden as reading-list material in its own right, judging they "should write a book," worth moving to first choice; followed up clarifying "Tilikum"'s dugout-canoe origins and John Voss's storm tactics, and recommending the Pardeys, Annie Hill, and Charles Stock, then separately pointed to the Pardeys' own website, landlpardey.com, for further living-aboard tips. See ["Beach Cruising and Coastal Camping" — a wider Paradox-sailor reading list](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
+- **The case for filling the fiberglass weave before painting.** Laid out the mechanics of a good paint job — thin coats sanded between applications, fairing compound applied afterward rather than as a base coat, and bottom paint recommended regardless of water type — then argued, against leaving the weave unfilled to save sanding time, that an open weave traps moisture, dirt, and grime and won't hold paint as well, and that finishing a hard-built boat to a durable (not showy) standard pays back in less annual upkeep. Recommended a practical finishing sequence — fill the weave, apply two thinned paint coats, then go sailing, finishing fully the following season — plus a warning about amine blush and its water/vinegar or ammonia remedy. See [epoxy pre-coating technique — filling the fiberglass weave before painting](/construction/epoxy-coating-technique.md#filling-the-fiberglass-weave-before-painting-fairing-compound-and-the-case-against-leaving-it-exposed).
+- **Endorsing a wind-against-tide caution.** Seconded a firsthand account of green water over the cabin in a wind-against-tide encounter and the resulting case against loose foredeck storage. See [heavy weather tactics — a wind-against-tide encounter, and the case against foredeck storage](/operations/heavy-weather-tactics.md#a-wind-against-tide-encounter-and-the-case-against-foredeck-storage).
+- **A further reading-list pointer.** Passed along an online small-boat voyage account hosted at ibiblio.org as further recommended reading. See ["Beach Cruising and Coastal Camping" — a wider Paradox-sailor reading list](/references/beachcruising-book.md#a-wider-paradox-sailor-reading-list).
+- **A Canada Day toast, and an Alberta road-trip account.** Answered a Canada Day greeting with a westward Alberta road trip — Crowsnest Pass, Longview, Calgary, Banff, and two days photographing the Drumheller badlands, with plentiful wildlife but "not one sailboat" — taken just ahead of regional flooding.[133]
+- **Canoe "tracking" and "lining" as an analogy for towpath-hauling a Paradox.** On a UK canal-touring question, drew on Canadian canoe-country experience to describe line-hauling a small boat from the bank — a line fixed at each end, fine-tuned to steer around obstructions despite no rudder — and its practical hazards (streamside willow growth, mud, steep banks, biting insects); suggested a small backup outboard, walking the towpath and lodging at inns, or a canoe with a portage cart as simpler alternatives, citing Ontario's Rideau Canal as a well-supported example. See [rig and sail — line-hauling and canoe "tracking"/"lining" as an analogy](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[134]
+- **A portage cart, and reaching continental canals.** Continuing the same canal-touring thread, pointed to an example portage cart (200+ lb capacity) and the wood-chip-surfaced portage trails of British Columbia's Bowron Lakes canoe circuit as a real-world model for carrying a small boat's gear around an unopenable lock or obstruction; separately asked whether a Paradox bound for the European canal system would be sailed across the English Channel, towed through the Chunnel, or carried by ferry — answered (elsewhere) that the Channel itself is readily sailable. See [rig and sail — line-hauling and canoe "tracking"/"lining" as an analogy](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted).[135]
+- **Revisiting the Don Elliott ban, two years on.** Argued Don Elliott effectively banned himself through direct personal attacks and flaming, distinct from a more even-tempered correspondent on "Nutty Boats" merely judged opinionated, and disclosed being banned from one of Don's own groups without ever having posted there. See [Glen C. Maxwell — list founder and moderator, the Don Elliott ban, revisited nearly two years on](/people/glen-maxwell/list-founder-and-moderator.md#the-don-elliott-ban-revisited-nearly-two-years-on).
+- **Pigment-coat application questions.** Asked a builder applying a pigmented final epoxy coat what tool would be used, how long its open time would run, and whether the pigment could be pre-mixed to keep the shade consistent across batches. See [topside and hull painting choices — choosing a hull colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).[136]
+- **A closing pun on the finished paint scheme.** Summed up a finished colour scheme as "three-tone green with a yellow bottom" and jokingly proposed the word "HELP!" in International Red as a finishing touch, then, when asked to explain "International Red," suggested plain "SOS" would do the job just as well. See [topside and hull painting choices — choosing a hull colour](/construction/topside-painting.md#choosing-a-hull-colour-and-why-the-epoxys-uv-protection-matters-more-than-the-shade).[137]
+- **Practical advice for sizing and placing ballast.** Advised launching with an empty hull, loading her with all cruising gear, then adding lead until she balances to her waterline before mounting the ballast permanently — noting most builders start light, which usefully shows the chine runners' true performance before the boat reaches her final trim. See [weight, ballast, and displacement — ballast placement: outboard vs. centered](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered).[138]
+- **The US-versus-Imperial gallon distinction.** Corrected a gallon-to-litre epoxy conversion for anyone using US measure, noting Canada has both gallon sizes in everyday use. See [epoxy brands and chemistry — converting a US epoxy quantity to litres or kilograms](/construction/epoxy-brands-and-chemistry.md#converting-a-us-epoxy-quantity-to-litres-or-kilograms).[139]
+- **Solved the "S&G" joke.** Answered a tongue-in-cheek question about what "S&G" stood for — "Simon and Garfunkel? Or maybe Stitch and Glue?" — confirming the construction-method reading. See [checking a used Paradox for rot — finishing the bilges: leave inspectable, or paint over](/construction/rot-inspection-ice-pick.md#finishing-the-bilges-leave-inspectable-or-paint-over).[140]
+- **Asked after an onboard generator, and wished a builder well.** Pressed for the practical details behind an onboard 1,000-watt generator — battery type and mounting, generator security, fuel and oil storage, and noise/fumes — and, on learning of a hospitalization for a tonsil infection, wished a speedy recovery. Separately asked, in passing, whether a correspondent was himself building a Paradox — left unanswered in the archive. See [boats/jill.md](/boats/jill.md#a-6-hp-outboard-an-onboard-generator-and-local-sailing-conditions) and [building plans — a January 2006 recurrence, twentieth time on record](/references/building-plans.md#a-january-2006-recurrence-twentieth-time-on-record).[141][142][143]
+- **Vehicle overnight-parking tips, from Canada.** On a trailering/laybys thread, listed preferred overnight-parking spots for a vehicle — farmers' field turn-offs, closed rural gas stations, communication-tower clearings, and quiet parking near small-village churches. See [boats/enuf.md — a carpal-tunnel operation halts progress, and a five-week pause](/boats/enuf.md#a-carpal-tunnel-operation-halts-progress-and-a-five-week-pause).[151]
+- **Questioning a hatch-runner fix.** Asked how a new formica running surface for a sliding hatch was actually attached, whether formica on the lower surface alone would suffice, and floated UHMW strip or brass as alternatives. See [hatch hardware and security — a formica wear-surface fix for a foam-lined hatch](/construction/hatch-hardware.md#a-formica-wear-surface-fix-for-a-foam-lined-hatch).[152]
+- **Spotting an off-plan chine-runner shape, and guessing the transom box.** Noticed "Enuf" photos showed the chine runners off the plans' shape, prompting a sanding-disc-mishap admission, and correctly guessed the plastic box visible through the transom in builders' photos was a Porta Potti in storage position. See [boats/enuf.md — new photos, an unplanned chine-runner shape, and a Porta Potti in the transom](/boats/enuf.md#new-photos-an-unplanned-chine-runner-shape-and-a-porta-potti-in-the-transom).[153]
+- **Pointing a newcomer to a first-person Duckworks article.** Answering a new member's plans/manual question, pointed past the paid construction manual to a first-person Duckworks Magazine account of building "Enuf," warning it is "a very serious technical article," and to the group's own links page. See [building plans — a July 2006 recurrence, and a blunt assessment of the paid manual's quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).[154]
+- **Recommending MDO plywood, and a level gravel building floor.** Answering a new Idaho builder's cheap-vs-marine plywood question, recommended MDO (medium-density overlay) plywood by name for its smooth surface and better paint-holding, and explained how to make a gravel floor level enough to build on using posts and checked 2x4s. Followed up with more detail: a Paradox could in principle be built with no fibreglass cloth at all (epoxy used only to seal joints) and still last a long time, though glass to the waterline helps abrasion resistance, and a good antifouling or epoxy/graphite-powder coating serves the same protective role short of glass; ordinary exterior house/porch/floor enamel brushed or rolled over MDO gives a durable, semi-gloss finish. See [plywood grades and foam flotation — a July 2006 recurrence, and a recommendation for MDO plywood](/construction/plywood-grades-and-foam-flotation.md#a-july-2006-recurrence-and-a-recommendation-for-mdo-plywood).[155][156]
+- **Answering an overseas buyer, and a Robbsboat pointer.** Confirmed plans ship in a standard 11x14 in envelope and noted summer is reliably a slow season for the Bolducs to reply to plans requests; separately pointed a newcomer weighing alternative designs to Jim Michalak's "Robb's boat," a cheap, simple design buildable in 3/8 in plywood. See [building plans — a July 2006 recurrence, and a blunt assessment of the paid manual's quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality) and [the mailing list's Robbsboat comparison](/references/mailing-list.md#list-culture).[157][158]
+- **On why the sail is sleeved rather than lashed.** Agreed that Matt Layden's choice of sleeves over ties came down to simplicity, adding that sleeves also give cleaner airflow and work better with roller reefing than lashings would, and that the design as drawn would not be deviated from. See [rig and sail — rolling boom and sail foot](/design/rig.md#rolling-boom-and-sail-foot) and [boats/jill.md](/boats/jill.md#why-the-sail-uses-sleeves-rather-than-lashings-and-a-first-sail-of-the-2006-season).[166]
+- **A carbon-tape boom-core alternative, and admiring the sailplan.** On the boom-construction tangent of the same thread, offered a further lightweight option — a tapered rigid-foam boom core wrapped in carbon-fiber tape set in epoxy (the tape used for setting broken limbs), hidden and UV-protected by the sail's sleeve — and reflected that the more thought given to Matt Layden's sailplan the more it was loved, recalling the image of Matt landing Enigma during the Florida Challenge. See [rig and sail — the reefing triangle, and why reshaping the boom taper is the wrong fix](/design/rig.md#the-reefing-triangle-and-why-reshaping-the-boom-taper-is-the-wrong-fix).[167]
+- **A tabernacle caution for an enlarged Paradox.** Warned a builder planning a folding, tabernacle-stepped mast on an 18-19 ft enlarged Paradox that such an arrangement is not easy to design and brace against sail loads, since the mast structure is essentially what drives the boat; asked what sail type and area was planned. See [stretched Paradox — a builder's 18-19 ft "maxi paradox," under way](/design/variants/stretched-paradox.md#a-builders-18-19-ft-maxi-paradox-under-way).[168]
 
 # Citations
 

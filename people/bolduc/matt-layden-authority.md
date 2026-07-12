@@ -8,109 +8,35 @@ timestamp: 2026-07-04T00:00:00Z
 
 # The Bolducs — Matt Layden firsthand record
 
-*Part of the [Bolduc](/people/bolduc.md) record — see also
-[Dave Bolduc](/people/bolduc/dave.md) and [Mindy Bolduc](/people/bolduc/mindy.md).*
+*Part of the [Bolduc](/people/bolduc.md) record — see also [Dave Bolduc](/people/bolduc/dave.md) and [Mindy Bolduc](/people/bolduc/mindy.md).*
 
-Of everyone in the archive, the Bolducs knew **[Matt Layden](/matt-layden/biography.md)**
-the longest and the best. Dave met Matt in **1992**, bought a Layden boat that
-same year, and the couple went on to own three of his designs and to cruise the
-Bahamas in his company for weeks at a time — eating aboard his Paradox, baking
-bread on its stove, sculling it under his coaching, and discussing each of his
-boats with the designer himself. Where other list members met Matt once or
-sailed a single day alongside him, the Bolducs' firsthand knowledge of the man,
-his boats, and his methods runs across two decades. Much of what the archive
-records about Matt Layden's own practice reaches it through them.
+Of everyone in the archive, the Bolducs knew **[Matt Layden](/matt-layden/biography.md)** the longest and the best. Dave met Matt in **1992**, bought a Layden boat that same year, and the couple went on to own three of his designs and to cruise the Bahamas in his company for weeks at a time — eating aboard his Paradox, baking bread on its stove, sculling it under his coaching, and discussing each of his boats with the designer himself. Where others met Matt once or sailed a single day alongside him, the Bolducs' firsthand knowledge of the man, his boats, and his methods runs across two decades. Much of what the archive records about Matt Layden's own practice reaches it through them.
 
 ## Meeting Matt Layden, 1992
 
-Dave met Matt Layden in 1992 and was struck by how far outside convention he
-lived: "he seemed really out there... cruising full-time in these little dinky
-home-built boats, and he was having a blast doing it." That meeting turned Dave
-toward micro-cruising for good; he bought [Little Cruiser](/matt-layden/little-cruiser.md),
-a Layden design "very similar to Paradox," that same year. Having examined most
-of Matt's boats in person and talked with the designer at length, Dave became
-one of the archive's few firsthand authorities on Layden's whole body of work
-rather than the Paradox alone.
+Dave met Matt Layden in 1992, struck by how far outside convention he lived: "he seemed really out there... cruising full-time in these little dinky home-built boats, and he was having a blast doing it." That meeting turned Dave toward micro-cruising for good; he bought [Little Cruiser](/matt-layden/little-cruiser.md), a Layden design "very similar to Paradox," that same year. Having examined most of Matt's boats in person and talked with the designer at length, Dave became one of the archive's few firsthand authorities on Layden's whole body of work rather than the Paradox alone.
 
 ## Owning three Layden designs
 
-Over the following two decades the Bolducs owned three Matt Layden boats. Dave
-rebuilt and improved Little Cruiser and helped restore
-[Swamp Thing](/matt-layden/swamp-thing.md) — which he rates the best-sailing of
-all Matt's designs — and later came to own Matt's [Enigma](/matt-layden/enigma.md)
-as well; as of 2014 he still kept all three (Little Cruiser, Swamp Thing, and
-Enigma) together under a pergola. This ownership gave the archive its firsthand
-cost benchmarks for Layden boats: the Bolducs paid **$1,600** for Little Cruiser,
-Matt's own Paradox cost about **$2,000** and three months of full-time work, and
-Swamp Thing had sold secondhand for **$600**. In 2013 Dave made an engine-free
-**solo Bahamas crossing** aboard Enigma — his seventh island trip overall, "a
-voyage for the purist with sail and oar only" — and on an earlier Everglades
-Challenge crossing of the Bahama Bank he came through a frontal passage of **over
-50 knots**.
+Over the following two decades the Bolducs owned three Matt Layden boats. Dave rebuilt and improved Little Cruiser and helped restore [Swamp Thing](/matt-layden/swamp-thing.md) — rated the best-sailing of all Matt's designs — and later came to own Matt's [Enigma](/matt-layden/enigma.md) as well; as of 2014 all three (Little Cruiser, Swamp Thing, and Enigma) were kept together under a pergola. This ownership gave the archive its firsthand cost benchmarks for Layden boats: **$1,600** for Little Cruiser, Matt's own Paradox cost about **$2,000** and three months of full-time work, and Swamp Thing had sold secondhand for **$600**. In 2013 Dave made an engine-free **solo Bahamas crossing** aboard Enigma — his seventh island trip overall, "a voyage for the purist with sail and oar only" — and on an earlier Everglades Challenge crossing of the Bahama Bank he came through a frontal passage of **over 50 knots**.
 
 ## Cruising the Bahamas in Matt's company
 
-The Bolducs made roughly seven winter Bahamas crossings aboard Little Cruiser,
-averaging about **800 miles** over two-and-a-half-month cruises — several of them
-sailed in company with Matt Layden himself. On the **1994** joint cruise, with
-Matt sailing the original Paradox alongside Little Cruiser, the two boats kept
-company through the Exumas; at a Warderick Wells potluck **Mindy and Matt baked
-two loaves of bread on Paradox's tiny kerosene stove**. Cruising together, the
-group cooked aboard Little Cruiser and all three — Dave, Mindy, and Matt — ate
-aboard Paradox, giving Dave the firsthand basis for his verdict that a Layden
-cabin holds "a few close friends aboard for short stints," the space "similar to
-that of being in a tent." The Bolducs' photographs from these cruises are the
-archive's record of Matt's own life afloat: Matt and Mindy aboard Paradox, and
-Matt with his then-companion **Karen** sailing Paradox in the Bahamas. Across
-some two months sailing alongside Matt, Dave learned the tides, wind shifts, and
-trim of the cruising grounds directly from him. Reacting years later to a
-different builder's photos of a hard, windy day of tacking, Dave recalled that
-1994 cruise's own mighty windy day in Bimini — judged from the state of the
-trees in his own photos — and pointed to two microcruising.com images from it
-(Paradox under sail, and the two boats together in the Bahamas).[18]
+The Bolducs made roughly seven winter Bahamas crossings aboard Little Cruiser, averaging about **800 miles** over two-and-a-half-month cruises — several of them sailed in company with Matt Layden himself. On the **1994** joint cruise, with Matt sailing the original Paradox alongside Little Cruiser, the two boats kept company through the Exumas; at a Warderick Wells potluck **Mindy and Matt baked two loaves of bread on Paradox's tiny kerosene stove**. Cruising together, the group cooked aboard Little Cruiser and all three — Dave, Mindy, and Matt — ate aboard Paradox, giving the archive's firsthand verdict that a Layden cabin holds "a few close friends aboard for short stints," the space "similar to that of being in a tent." The Bolducs' photographs from these cruises are the archive's record of Matt's own life afloat: Matt and Mindy aboard Paradox, and Matt with a then-companion sailing Paradox in the Bahamas. Across some two months sailing alongside Matt, Dave learned the tides, wind shifts, and trim of the cruising grounds directly from him. Recalling that 1994 cruise's own mighty windy day in Bimini — judged from the state of the trees in the Bolducs' own photos — years later, alongside a different hard, windy day of tacking documented elsewhere in the archive, two microcruising.com images from it survive (Paradox under sail, and the two boats together in the Bahamas).[18]
 
 ## Techniques and figures carried back from Matt
 
-Because they sailed with Matt and handled his boats, the Bolducs relayed a great
-deal of the designer's own practice to the list:
+Because they sailed with Matt and handled his boats, the Bolducs relayed a great deal of the designer's own practice to the list:
 
-- **Sculling technique.** Visiting Matt in spring 2003, Dave sculled the original
-  Paradox himself under Matt's coaching, which emphasized whole-body technique.
-  He reported that Paradox's new sculling oar — straighter and wider-bladed than
-  the plans' — was more powerful but demanded so much more wrist action that it
-  hurt; Matt confirmed his own wrist had hurt for the first few days of the
-  Everglades Challenge with the new oar. See
-  [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md).
-- **Quantified chine-runner sea trial.** Dave passed Matt Layden's detailed
-  VMG/VMGW sea-trial data for a modified chine runner to the microcruising list,
-  from which it reached the builders' group — the archive's first quantified
-  windward numbers for the design. See
-  [chine runners and windward performance](/chine-runners/windward-performance.md).
-- **The February 2003 sail.** Having sailed the original Paradox himself, Dave
-  gave the only outside verdict on the new sail Matt cut in February 2003 — it
-  "sets very nicely." See [rig and sail](/design/rig.md).
-- **Wintering in the ice.** Dave confirmed Matt's story of freezing Little
-  Cruiser into a Cape Cod saltwater pond, finding — years later, under stripped
-  paint — bow-wave-shaped cuts up forward that showed Matt had sailed her out
-  through the ice; he also adopted Matt's foam-in-the-windows trick, which keeps
-  the boat cooler when hot, warmer when cold, and cuts condensation. See
-  [cabin heating](/operations/cabin-heating.md).
-- **Build history.** Dave supplied the account of Matt building the first Paradox
-  in about four months, hauling materials by bicycle trailer and launching down a
-  ravine. See [original Paradox](/boats/original-paradox.md) and
-  [build effort](/construction/build-effort.md).
+- **Sculling technique.** Visiting Matt in spring 2003, Dave sculled the original Paradox himself under Matt's coaching, which emphasized whole-body technique. Paradox's new sculling oar — straighter and wider-bladed than the plans' — was more powerful but demanded so much more wrist action that it hurt; Matt's own wrist had hurt for the first few days of the Everglades Challenge with the new oar. See [sculling and yuloh technique](/operations/sculling-and-yuloh-technique.md).
+- **Quantified chine-runner sea trial.** Matt Layden's detailed VMG/VMGW sea-trial data for a modified chine runner reached the microcruising list and from there the builders' group — the archive's first quantified windward numbers for the design. See [chine runners and windward performance](/chine-runners/windward-performance.md).
+- **The February 2003 sail.** Having sailed the original Paradox himself, Dave gave the only outside verdict on the new sail Matt cut in February 2003 — it "sets very nicely." See [rig and sail](/design/rig.md).
+- **Wintering in the ice.** Dave confirmed Matt's story of freezing Little Cruiser into a Cape Cod saltwater pond, finding — years later, under stripped paint — bow-wave-shaped cuts up forward that showed Matt had sailed her out through the ice; he also adopted Matt's foam-in-the-windows trick, which keeps the boat cooler when hot, warmer when cold, and cuts condensation. See [cabin heating](/operations/cabin-heating.md).
+- **Build history.** Dave supplied the account of Matt building the first Paradox in about four months, hauling materials by bicycle trailer and launching down a ravine. See [original Paradox](/boats/original-paradox.md) and [build effort](/construction/build-effort.md).
 
 ## Matt Layden as the Bolducs knew him
 
-The Bolducs are also the archive's steadiest witnesses to Matt Layden's
-character. They record that Matt stayed **private and would not join the forum**,
-leaving the couple to relay his views by proxy. Dave thought of Matt as "a
-modern-day Thoreau" — someone who "quit his job, built a small boat, and went
-sailing off into the sunset to find Paradise" — a characterization of the
-designer's ethos rather than a biographical fact. And, having asked Matt several
-times over the years to draw a larger sharpie without success, Dave nonetheless
-kept faith in him: "Still you never know... Matt's the kind of person who
-accomplishes amazing things quickly when he is in the mood."
+The Bolducs are also the archive's steadiest witnesses to Matt Layden's character. They record that Matt stayed **private and would not join the forum**, leaving the couple to relay his views by proxy. Matt was thought of as "a modern-day Thoreau" — someone who "quit his job, built a small boat, and went sailing off into the sunset to find Paradise" — a characterization of the designer's ethos rather than a biographical fact. And, having been asked several times over the years to draw a larger sharpie without success, the Bolducs nonetheless kept faith in him: "Still you never know... Matt's the kind of person who accomplishes amazing things quickly when he is in the mood."
 
 # Citations
 

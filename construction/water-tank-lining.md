@@ -8,309 +8,96 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Water tank construction and lining
 
-Builders finishing the Paradox's built-in water tanks (as distinct from the
-**access-port** hardware for filling and draining them — see
-[transom deck plate](/construction/transom-deck-plate.md)) face a choice of
-lining material, and opinion is divided among epoxy, tarred wood, urethane
-coatings, and flexible or rigid inserts. (Background on buying a boat with
-tank tops left unfinished: [secondhand Paradox market](/operations/secondhand-market.md).)
+Builders finishing the Paradox's built-in water tanks (as distinct from the **access-port** hardware for filling and draining them — see [transom deck plate](/construction/transom-deck-plate.md)) face a choice of lining material, and opinion is divided among epoxy, tarred wood, urethane coatings, and flexible or rigid inserts. (Background on buying a boat with tank tops left unfinished: [secondhand Paradox market](/operations/secondhand-market.md).)
 
 ## Epoxy: mixed opinions
 
-Epoxy suitability for water tanks is a genuinely divided question, not a
-settled one. **West System** advises against using their epoxy for water
-tanks, while **System Three** does not object — though one report holds
-that System Three, asked directly, said its epoxy *could* be used for
-fresh-water tanks provided specific instructions were followed, an outlier
-against the general run of supplier caution below.
+Epoxy suitability for water tanks is a genuinely divided question, not a settled one. **West System** advises against using their epoxy for water tanks, while **System Three** does not object — and System Three, asked directly, said its epoxy *could* be used for fresh-water tanks provided specific instructions were followed, an outlier against the general run of supplier caution below.
 
-Against the objection to West specifically, a long-term counter-example is
-on record: a **5-part epoxy from Fiberglass Coatings** (St. Petersburg, FL)
-gave about **9 years** of trouble-free use in a built-in tank, at roughly
-**half the price** of West System. The main difference from WEST is held
-to be the **hardener** (WEST holds a patent on a thinner hardener
-formulation).
+Against the objection to West specifically, a long-term counter-example is on record: a **5-part epoxy from Fiberglass Coatings** (St. Petersburg, FL) gave about **9 years** of trouble-free use in a built-in tank, at roughly **half the price** of West System. The main difference from WEST is the **hardener** (WEST holds a patent on a thinner hardener formulation).
 
-The case against epoxy-lined water tanks for amateur builders runs deeper
-than any one supplier's disclaimer:
+The case against epoxy-lined water tanks for amateur builders runs deeper than any one supplier's disclaimer:
 
-- It is very difficult, perhaps impossible with hand tools, to get an epoxy
-  lining **smooth enough to clean** properly.
-- Epoxy can **release volatiles for months** after application (the "new
-  boat" smell), which can taint the water.
-- Epoxy is not 100% waterproof; **osmosis** can let water reach the
-  surrounding wood and cause it to become **hydrolized** (water-logged) —
-  possibly worsened by the fresh/salt-water contrast across the wood.
-- Concentrating all drinking water in one or two large built-in tanks is
-  risky if the tank becomes contaminated, since there is no backup supply.
+- It is very difficult, perhaps impossible with hand tools, to get an epoxy lining **smooth enough to clean** properly.
+- Epoxy can **release volatiles for months** after application (the "new boat" smell), which can taint the water.
+- Epoxy is not 100% waterproof; **osmosis** can let water reach the surrounding wood and cause it to become **hydrolized** (water-logged) — possibly worsened by the fresh/salt-water contrast across the wood.
+- Concentrating all drinking water in one or two large built-in tanks is risky if the tank becomes contaminated, since there is no backup supply.
 
-Mitigations for builders committed to built-in epoxy tanks: add solids to
-the epoxy to improve its vapor-barrier properties (consult an epoxy
-professional), wash the tank out repeatedly with **vinegar** to help
-cure/neutralize the epoxy, and work for an "insanely smooth" surface with no
-nooks or crannies to trap contamination. An alternative preference is to
-skip built-in tanks altogether in favor of **1–2 gallon water jugs or water
-cubes** (filled on deck from a hose), with **5–10 gallon plastic jerry cans**
-for rainwater catchment.
+Mitigations for builders committed to built-in epoxy tanks: add solids to the epoxy to improve its vapor-barrier properties (consult an epoxy professional), wash the tank out repeatedly with **vinegar** to help cure/neutralize the epoxy, and work for an "insanely smooth" surface with no nooks or crannies to trap contamination. An alternative preference is to skip built-in tanks altogether in favor of **1–2 gallon water jugs or water cubes** (filled on deck from a hose), with **5–10 gallon plastic jerry cans** for rainwater catchment.
 
-A survey of **three UK epoxy suppliers** found all of them advising against
-epoxy for water tanks, on the grounds that the **plasticiser would leach out
-over time** — leading at least one builder, unconvinced of a good
-alternative, to use his built-in tanks purely as **ballast** and store
-actual drinking water in cans instead.
+A survey of **three UK epoxy suppliers** found all of them advising against epoxy for water tanks, on the grounds that the **plasticiser would leach out over time** — leading, absent a good alternative, to using built-in tanks purely as **ballast** and storing actual drinking water in cans instead.
 
-A direct call to **SP Systems'** technical department drew the bluntest
-warning on record against using structural epoxy to seal a potable water
-tank: the technician's reply was "For Christ's sake don't do that; at the
-least you'll be very sick and at the worst you'll go blind." SP's position
-is that the only safe method is a dedicated **potable coating applied over
-the sealant**, not structural epoxy alone; **Blakes** sells such a coating,
-but only in expensive 9-litre cans — expensive enough that one builder who
-made the call fell back on **flexible bladders** with taps instead of
-built-in tanks.
+A direct call to **SP Systems'** technical department drew the bluntest warning on record against using structural epoxy to seal a potable water tank: "For Christ's sake don't do that; at the least you'll be very sick and at the worst you'll go blind." SP's position is that the only safe method is a dedicated **potable coating applied over the sealant**, not structural epoxy alone; **Blakes** sells such a coating, but only in expensive 9-litre cans — expensive enough to make **flexible bladders** with taps the fallback instead of built-in tanks.
 
-A firsthand account bears out the general caution above: one builder's own
-epoxy supplier advised against using it for drinking water, and finding
-sludge (slime) in the bottom of his tank at the end of the first season
-confirmed the decision. His practice since has been to use the built-in
-tank purely as **ballast**, filling with sea water when launching from a
-remote site, and to carry actual drinking water separately — reasoning that
-unless a builder is setting out on extended trips to remote areas, there is
-plenty of storage space aboard for a few bottles of water instead. He also
-notes some builders skip the tanks altogether, fitting extra permanent lead
-and using the freed space as a storage locker. Absent a tap at the launch
-site, he instead fills the ballast tank straight from whatever water he is
-floating in, using an electric bilge pump — which keeps open the option of
-first cleaning the tank out and refilling with actual drinking water for a
-genuinely long trip.[39]
+Practical experience bears out the general caution above: an epoxy supplier advised against using its product for drinking water, and finding sludge (slime) in the bottom of the tank at the end of the first season confirmed the decision. The practice since has been to use the built-in tank purely as **ballast**, filling with sea water when launching from a remote site, and to carry actual drinking water separately — since unless setting out on extended trips to remote areas, there is plenty of storage space aboard for a few bottles of water instead. Some builders skip the tanks altogether, fitting extra permanent lead and using the freed space as a storage locker. Absent a tap at the launch site, the ballast tank can be filled straight from whatever water the boat is floating in, using an electric bilge pump — which keeps open the option of first cleaning the tank out and refilling with actual drinking water for a genuinely long trip.[39]
 
 ## Not using the built-in tanks at all: individual containers instead
 
-An alternative to lining the built-in tank compartments at all is to skip
-using them as a single water tank and instead use the same enclosed space to
-hold **water and canned goods in their own individual containers**. On
-[the Bolducs'](/people/bolduc/dave.md) "Little Cruiser," run this way, the
-emptied space is repacked with other stored items as water is used up,
-which helps **redistribute ballast** over the course of a cruise; dividing
-water among several separate containers is also safer against a single
-contamination or leakage event than relying on one or two large built-in
-tanks. For a builder who still wants to build the tank compartments as
-drawn, the tops can be made **removable** rather than bonded down, with a
-**rubber gasket** (closed-cell window/door foam works) around the rim to
-make the joint watertight — the approach used successfully on "Little
-Cruiser."
+An alternative to lining the built-in tank compartments at all is to skip using them as a single water tank and instead use the same enclosed space to hold **water and canned goods in their own individual containers**. On "Little Cruiser," run this way, the emptied space is repacked with other stored items as water is used up, which helps **redistribute ballast** over the course of a cruise; dividing water among several separate containers is also safer against a single contamination or leakage event than relying on one or two large built-in tanks. For a builder who still wants to build the tank compartments as drawn, the tops can be made **removable** rather than bonded down, with a **rubber gasket** (closed-cell window/door foam works) around the rim to make the joint watertight — the approach used successfully on "Little Cruiser."
 
-A builder cruising inland UK waters, who adopted this approach, fitted
-**dividers** inside the tank compartments to stop the individual containers
-rattling around in transit, reasoning he would rarely be far from a tap or
-house willing to supply drinking water even without a dedicated water-tank
-system aboard.
+Adopting this approach for cruising inland UK waters, **dividers** can be fitted inside the tank compartments to stop the individual containers rattling around in transit, on the reasoning that one would rarely be far from a tap or house willing to supply drinking water even without a dedicated water-tank system aboard.
 
-A further refinement, for a builder using flexible bladders inside
-otherwise-watertight built-in tanks: as fresh water is drawn down from
-inside the bladder, sea water can be let into the surrounding tank space
-outside the bladder, keeping the total **ballast weight constant** as the
-fresh-water supply is consumed. The idea has been considered and set aside
-without a specific reason given.
+A further refinement, using flexible bladders inside otherwise-watertight built-in tanks: as fresh water is drawn down from inside the bladder, sea water can be let into the surrounding tank space outside the bladder, keeping the total **ballast weight constant** as the fresh-water supply is consumed. The idea has been considered and set aside without a specific reason given.
 
 ## Tarred wood — an old trick
 
-A traditional alternative is building tanks from **wood and tarring the
-insides**, a method with a long track record: tarring the insides of
-galvanized-iron water tanks was standard outback Australian farm practice
-and reported to hold up well over the long term — a metal-tank precedent
-rather than direct evidence for plywood, but consistent with tar's
-reputation as a durable, low-tech lining.
+A traditional alternative is building tanks from **wood and tarring the insides**, a method with a long track record: tarring the insides of galvanized-iron water tanks was standard outback Australian farm practice and reported to hold up well over the long term — a metal-tank precedent rather than direct evidence for plywood, but consistent with tar's reputation as a durable, low-tech lining.
 
 ## Vulkem polyurethane coating
 
-**Mameco International's Vulkem urethane** (specifically **Nos. 626 and
-636**, with 640/642 as possible alternatives) is another option, based on
-experience lining wood flower boxes and koi ponds: a plywood fish tank
-lined with Vulkem lasted 8 years looking like new, and the cured coating
-was reportedly non-toxic enough that fish tolerated it (after cleaning
-first with Simple Green). Builders should check the product's MSDS for
-toxicity information — although Vulkem is fairly inert once cured, it is
-**"pretty nasty going on"**: a chemical respirator mask is a must during
-application. Coating the tanks **before the deck goes on** is recommended,
-presumably for ventilation and access.
+**Mameco International's Vulkem urethane** (specifically **Nos. 626 and 636**, with 640/642 as possible alternatives) is another option, based on experience lining wood flower boxes and koi ponds: a plywood fish tank lined with Vulkem lasted 8 years looking like new, and the cured coating was reportedly non-toxic enough that fish tolerated it (after cleaning first with Simple Green). Builders should check the product's MSDS for toxicity information — although Vulkem is fairly inert once cured, it is **"pretty nasty going on"**: a chemical respirator mask is a must during application. Coating the tanks **before the deck goes on** is recommended, presumably for ventilation and access.
 
 ## Flexible bladders and insertable tanks
 
-A flexible bladder or a rigid **insertable plastic tank** is a further
-alternative to an epoxy-lined built-in tank — either is easier to
-**replace or repair** than a permanently bonded lining; a bladder better
-conforms to odd tank shapes, while a rigid insert is simpler to install.
+A flexible bladder or a rigid **insertable plastic tank** is a further alternative to an epoxy-lined built-in tank — either is easier to **replace or repair** than a permanently bonded lining; a bladder better conforms to odd tank shapes, while a rigid insert is simpler to install.
 
-No single method has become the settled consensus: builders have used
-epoxy, tarred wood, Vulkem urethane, and flexible/rigid inserts, each with
-its own tradeoffs of durability, ease of cleaning, and reparability.
+No single method has become the settled consensus: builders have used epoxy, tarred wood, Vulkem urethane, and flexible/rigid inserts, each with its own tradeoffs of durability, ease of cleaning, and reparability.
 
-A further option, not yet reported as built: welding a custom tank from cut
-poly sheet using a hand-held plastic welder, of the type sold for
-automotive bumper repair.[27] The idea has drawn interest — including from
-[the Bolducs](/people/bolduc/dave.md), given the welder's low price — but
-no one in the archive is recorded as having actually built a welded-poly
-tank.[28]
+A further option, not yet reported as built: welding a custom tank from cut poly sheet using a hand-held plastic welder, of the type sold for automotive bumper repair.[27] The idea has drawn interest, given the welder's low price — but no welded-poly tank has actually been built.[28]
 
-A structural objection applies to fitting **any** separate tank under the
-built-in tank tops, welded or otherwise: the tops sit over the tanks as a
-"permanent" floor, so a tank installed underneath cannot easily be accessed
-again later without cutting new hatches into the sole — and the floor over
-the tanks may itself be structural, at risk of being weakened by the added
-hatches. This access concern remains unresolved.[29]
+A structural objection applies to fitting **any** separate tank under the built-in tank tops, welded or otherwise: the tops sit over the tanks as a "permanent" floor, so a tank installed underneath cannot easily be accessed again later without cutting new hatches into the sole — and the floor over the tanks may itself be structural, at risk of being weakened by the added hatches. This access concern remains unresolved.[29]
 
-Practical advice for a builder actually intending to **drink** the tank
-water: use a food-grade epoxy if lining with epoxy at all, and check with
-the specific supplier first, since (as above) opinion on epoxy's
-suitability for drinking-water tanks is genuinely divided rather than
-settled either way.
+Practical advice for a builder actually intending to **drink** the tank water: use a food-grade epoxy if lining with epoxy at all, and check with the specific supplier first, since (as above) opinion on epoxy's suitability for drinking-water tanks is genuinely divided rather than settled either way.
 
-A further firsthand account lands on the ballast-only side: one builder's
-own epoxy supplier put the risk in the bluntest possible terms — "at the
-least you will be ill, at the worst you'll go blind" — so his built-in
-tank compartments became lidded, lift-up food-storage lockers instead,
-with actual drinking water carried in roll-up water carriers stowed under
-the seat. Historical precedent cuts the other way, though: glass-and-epoxy
-water tanks built over a wood form, laid up carefully and then washed out
-and steam-cleaned, have been used in boatyards for years with the
-steam-cleaning step eliminating the epoxy odor; commercially made
-glass-and-epoxy potable-water tanks are sold and used without reported
-harm, though brand and formulation likely matter and have changed over
-time. A recollection of Don Elliott's own build guide holds that System
-Three, asked directly, said its epoxy was safe for water tanks provided
-five coats were applied for complete waterproofing — consistent with the
-System-Three-leaning account already noted above, though offered here
-independently and from memory rather than as a direct quote.
+Further practical experience lands on the ballast-only side: an epoxy supplier put the risk in the bluntest possible terms — "at the least you will be ill, at the worst you'll go blind" — so the built-in tank compartments became lidded, lift-up food-storage lockers instead, with actual drinking water carried in roll-up water carriers stowed under the seat. Historical precedent cuts the other way, though: glass-and-epoxy water tanks built over a wood form, laid up carefully and then washed out and steam-cleaned, have been used in boatyards for years with the steam-cleaning step eliminating the epoxy odor; commercially made glass-and-epoxy potable-water tanks are sold and used without reported harm, though brand and formulation likely matter and have changed over time. A recollection from an early how-to-build-Paradox guide holds that System Three, asked directly, said its epoxy was safe for water tanks provided five coats were applied for complete waterproofing — consistent with the System-Three-leaning account already noted above, though offered independently and from memory rather than as a direct quote.
 
-Builders who do fit water as ballast face a related seamanship question:
-if the water is a significant part of the boat's stability, it has to be
-**replaced as it is used** to keep that ballast weight roughly constant —
-one approach is smaller tanks or jugs of distilled water, refilled with
-sea water as they empty. Tap water stored for long periods can go bad, but
-steam-distilled water, being germ- and bacteria-free, keeps indefinitely.
-Setting the drinking-water question aside, a tank used purely as **ballast**
-still needs to be sealed well, which one builder using his tanks this way
-— refilling with sea water when launching from a remote site, flushing and
-refilling on land, and keeping actual drinking water in collapsible
-containers and coolers — flagged as itself "a pain."
+Builders who do fit water as ballast face a related seamanship question: if the water is a significant part of the boat's stability, it has to be **replaced as it is used** to keep that ballast weight roughly constant — one approach is smaller tanks or jugs of distilled water, refilled with sea water as they empty. Tap water stored for long periods can go bad, but steam-distilled water, being germ- and bacteria-free, keeps indefinitely. Setting the drinking-water question aside, a tank used purely as **ballast** still needs to be sealed well — refilling with sea water when launching from a remote site, flushing and refilling on land, and keeping actual drinking water in collapsible containers and coolers — and sealing the tanks correctly is itself "a pain."
 
-For an extended trip, a manual water-filtration unit is worth carrying as
-an emergency backup to whatever containers hold the day-to-day drinking
-supply.
+For an extended trip, a manual water-filtration unit is worth carrying as an emergency backup to whatever containers hold the day-to-day drinking supply.
 
 ## Fastening the tank tops when used purely as storage, not water tanks
 
-The plans specify the tank tops as **structural**, calling for them to be
-both epoxied and screwed down. A builder who uses the tank compartments
-purely as dry storage, rather than as actual water tanks — and who wants to
-be able to lift the tops again for inspection — can dispense with the epoxy
-bond: **screwing the tops down every 4 in**, without epoxying them in place,
-is a sound and sufficiently structural fastening — "[Whisper](/boats/whisper.md),"
-built this way, showed **no detectable flex** while sailing.
+The plans specify the tank tops as **structural**, calling for them to be both epoxied and screwed down. Using the tank compartments purely as dry storage, rather than as actual water tanks — and wanting to be able to lift the tops again for inspection — the epoxy bond can be dispensed with: **screwing the tops down every 4 in**, without epoxying them in place, is a sound and sufficiently structural fastening — "[Whisper](/boats/whisper.md)," built this way, showed **no detectable flex** while sailing.
 
-For the separate question of how the tank is actually **filled and
-drained** in day-to-day use (deck fill, funnel, and a hose-siphon draining
-trick), see
-[transom deck plate — filling the water tank](/construction/transom-deck-plate.md).
+For the separate question of how the tank is actually **filled and drained** in day-to-day use (deck fill, funnel, and a hose-siphon draining trick), see [transom deck plate — filling the water tank](/construction/transom-deck-plate.md).
 
-A UK builder omitting the water tanks entirely, in favor of using the space
-for general storage, judged the resulting bottom panel free of the plans'
-integrity concerns around a divided water-tank structure — clearing him to
-plan a **butt-jointed bottom** using 8 ft sheets of 18 mm plywood, joined
-either just behind bulkhead 2 or just in front of bulkhead 3, covered in
-45-degree bias-cut biaxial cloth with a resin coat and finish oil.[20]
+Omitting the water tanks entirely, in favor of using the space for general storage, leaves the resulting bottom panel free of the plans' integrity concerns around a divided water-tank structure — clearing the way to plan a **butt-jointed bottom** using 8 ft sheets of 18 mm plywood, joined either just behind bulkhead 2 or just in front of bulkhead 3, covered in 45-degree bias-cut biaxial cloth with a resin coat and finish oil.[20]
 
 ## Structural hinged tank tops, and a lightened alternative
 
-The plans' **hinged tank tops**, like the aft storage-bin lids, are specified
-as **structural** — not just covers. This creates a tension for a builder who
-values the **storage space** the hinged tops provide but is considering a
-change (such as replacing water ballast with lead, freeing the tank
-compartments for other use) that would call the tops' structural role into
-question.
+The plans' **hinged tank tops**, like the aft storage-bin lids, are specified as **structural** — not just covers. This creates a tension where the **storage space** the hinged tops provide is valued but a change is being considered (such as replacing water ballast with lead, freeing the tank compartments for other use) that would call the tops' structural role into question.
 
-The tops' extra stiffness is not necessarily required: a builder replacing
-water ballast with lead could instead **cut the tank tops back 3 in from
-the dividers** and fit **removable hatches** in their place, accepting a
-small loss of stiffness in exchange for good access to the space below. See
-also [fastening the tank tops when used purely as storage, not water
-tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks)
-above for a screws-only (no epoxy) approach to the same structural tops,
-confirmed sound by in-service testing on "Whisper."
+The tops' extra stiffness is not necessarily required: replacing water ballast with lead, one could instead **cut the tank tops back 3 in from the dividers** and fit **removable hatches** in their place, accepting a small loss of stiffness in exchange for good access to the space below. See also [fastening the tank tops when used purely as storage, not water tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks) above for a screws-only (no epoxy) approach to the same structural tops, confirmed sound by in-service testing on "Whisper."
 
 ## Fixing the tank tops in place
 
-A separate, later question from the same builder — how to fix the tank tops
-down once ready to close them up for good — was answered from firsthand
-experience: coat the top's underside heavily with thickened glue, then reach
-in through the access hatches and work the squeezed-out excess into a fillet
-by hand (wearing disposable gloves), rather than relying on the glue line
-alone. This method has given no leaks at the tank tops themselves — the
-inspection hatches, not the tank-top joint, are the more common leak point.
-See [fastening the tank tops when used purely as storage, not water
-tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks)
-above for the general screws-only (no epoxy) method confirmed sound on
-"Whisper," which applies equally whether the compartment holds water or dry
-stores.[37][38]
+A separate, later question — how to fix the tank tops down once ready to close them up for good — is answered from experience: coat the top's underside heavily with thickened glue, then reach in through the access hatches and work the squeezed-out excess into a fillet by hand (wearing disposable gloves), rather than relying on the glue line alone. This method has given no leaks at the tank tops themselves — the inspection hatches, not the tank-top joint, are the more common leak point. See [fastening the tank tops when used purely as storage, not water tanks](#fastening-the-tank-tops-when-used-purely-as-storage-not-water-tanks) above for the general screws-only (no epoxy) method confirmed sound on "Whisper," which applies equally whether the compartment holds water or dry stores.[37][38]
 
 ## Rainwater collection plumbing, for filling jugs or bladders
 
-A builder who prefers **jugs or bladders** over the built-in tanks can
-still use the plans' rain-collection plumbing — just on the output side
-only, without connecting it to the tanks themselves; running a hose off the
-output side of the standard deck-fitting setup works fine for collecting
-water directly into containers.
+Preferring **jugs or bladders** over the built-in tanks, one can still use the plans' rain-collection plumbing — just on the output side only, without connecting it to the tanks themselves; running a hose off the output side of the standard deck-fitting setup works fine for collecting water directly into containers.
 
-Built exactly as drawn with the plans' conventional deck fittings, the
-system fills as intended, and fitting a bung into the deck fitting allows
-pumping out — or, on the trailer, siphoning out — the water at trip's end.
-Filling still means getting within hosepipe reach of a tap, or pouring
-slowly from cans, so the built-in plumbing does not by itself solve the
-water-sourcing problem. The general recommendation: unless a builder
-specifically wants rainwater catchment, and is instead planning to ballast
-with jugs or lead, the collection pipework is not worth the trouble — it is
-simply another hole in the deck for water to leak through.
+Built exactly as drawn with the plans' conventional deck fittings, the system fills as intended, and fitting a bung into the deck fitting allows pumping out — or, on the trailer, siphoning out — the water at trip's end. Filling still means getting within hosepipe reach of a tap, or pouring slowly from cans, so the built-in plumbing does not by itself solve the water-sourcing problem. The general recommendation: unless rainwater catchment is specifically wanted, and the plan is instead to ballast with jugs or lead, the collection pipework is not worth the trouble — it is simply another hole in the deck for water to leak through.
 
 ## A tank-lid tightening tool, and where water problems actually come from
 
-Experience aboard "[Zoë](/boats/zoe.md)" points to the water tank **lids**,
-not the tank linings themselves, as the more common real-world source of
-water trouble: her tank tops leaked on two separate occasions, and those
-leaks accounted for the majority of the water problems actually encountered
-aboard. The fix was a simple purpose-made tool — a stick with **1/2 in
-dowels glued into each end**, sized to fit the recesses in the lids — that
-lets the lid be tightened and loosened properly, after which there was no
-further problem. Related practical tips from the same build: line
-canned-goods storage with **shallow plastic trays** to keep cans from
-rusting where they might get wet, and keep an old towel folded on the
-afterdeck to dry salt water off bare feet before going below, since it is
-easy to track water aboard while getting in and out. See also
-[interior bins and floor — forward and aft bin sides](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull)
-for the related fix to a bin-side panel pulling away from the tank tops.
+Experience aboard "[Zoë](/boats/zoe.md)" points to the water tank **lids**, not the tank linings themselves, as the more common real-world source of water trouble: her tank tops leaked on two separate occasions, and those leaks accounted for the majority of the water problems actually encountered aboard. The fix was a simple purpose-made tool — a stick with **1/2 in dowels glued into each end**, sized to fit the recesses in the lids — that lets the lid be tightened and loosened properly, after which there was no further problem. Related practical tips from the same build: line canned-goods storage with **shallow plastic trays** to keep cans from rusting where they might get wet, and keep an old towel folded on the afterdeck to dry salt water off bare feet before going below, since it is easy to track water aboard while getting in and out. See also [interior bins and floor — forward and aft bin sides](/design/interior-bins-and-floor.md#forward-and-aft-bin-sides-how-far-they-extend-to-the-hull) for the related fix to a bin-side panel pulling away from the tank tops.
 
 ## An off-centre tank divider, confirmed correct against the plans
 
-The plans' **central tank divider is not actually on the boat's
-centerline** — it sits slightly to port, correctly, per the drawings for
-bulkheads #2 and #3. One consequence: the **port tank's capacity is
-marginally smaller** than the starboard tank's, an asymmetry made a little
-more pronounced by the drain-pipe block that also sits inside the port
-tank. This has no meaningful effect on the boat's trim.
+The plans' **central tank divider is not actually on the boat's centerline** — it sits slightly to port, correctly, per the drawings for bulkheads #2 and #3. One consequence: the **port tank's capacity is marginally smaller** than the starboard tank's, an asymmetry made a little more pronounced by the drain-pipe block that also sits inside the port tank. This has no meaningful effect on the boat's trim.
 
-A separate, apparent misalignment is worth flagging so other builders
-don't second-guess their own layout unnecessarily: the **divider between
-the under-floor lockers in the cabin does not line up with the tank
-divider** below it. Checking Matt Layden's own drawings against this
-discrepancy shows the **plan-view construction drawing (sheet 4)**, which
-appears to show the tank dividers running down the boat's centerline, is
-itself the inconsistent drawing — cross-checking against photographs of
-other builders' completed boats confirmed the off-centre divider, not the
-plan view, is the one to build to. See [fill/suction copper pipe — sizing,
-timing, and the fittings that connect to
-it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it)
-for the related fill/drain plumbing question this same builder raised the
-day before.[36]
+A separate, apparent misalignment is worth flagging so builders don't second-guess their own layout unnecessarily: the **divider between the under-floor lockers in the cabin does not line up with the tank divider** below it. Checking Matt Layden's own drawings against this discrepancy shows the **plan-view construction drawing (sheet 4)**, which appears to show the tank dividers running down the boat's centerline, is itself the inconsistent drawing — cross-checking against photographs of other builders' completed boats confirmed the off-centre divider, not the plan view, is the one to build to. See [fill/suction copper pipe — sizing, timing, and the fittings that connect to it](/construction/transom-deck-plate.md#the-fillsuction-copper-pipe-sizing-timing-and-the-fittings-that-connect-to-it) for the related fill/drain plumbing question raised the day before.[36]
 
 # Citations
 
@@ -351,5 +138,5 @@ day before.[36]
 [35] Archive message page_3218 (carolfo / "cheepwings" / Robert, `paradoxbuilders`, msgnum 3249, 2005-11-07) — "Re: WATER TANKS": recalls from memory reading in Don Elliott's how-to-build-Paradox guide that System Three, contacted directly, said their epoxy was safe for water tanks provided five coats were applied for complete waterproofing. Signed "Robert."
 [36] Archive message page_3628 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3659, 2006-05-17) — "Central tank divider": placing the floor-support dividers in their dados before gluing, discovers the central tank divider is off-centre to port relative to the boat's centerline — correct per the drawings for bulkheads #2 and #3, making the port tank's capacity marginally smaller than the starboard tank's, made a little smaller again by the drain-pipe block inside it; separately notices the under-floor locker divider does not line up with the tank divider, checks Matt Layden's own drawings, and concludes the plan-view construction drawing (sheet 4) — which appears to show the tank dividers running down the centerline — is itself the inconsistent drawing; cross-checked against photos of other builders' completed boats to confirm the off-centre layout is correct. Signed "Bill."
 [37] Archive message page_3979 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 4013, 2006-09-23) — "Top to water ballast tank": ready to fix the tops to the water ballast tanks; asks for tips. Signed "Bill."
-[38] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#ballast-access-and-tank-top-questions); coats the top's underside with masses of thickened glue, then reaches in through the access hatches to spread the squeezed-out glue into a fillet by hand, wearing disposable gloves; has had no leaks at the tank tops themselves this way, unlike the inspection hatches. Signed "Al, Yeovil, England." Bill Serjeant thanked him in reply (page_3982, msgnum 4016, 2006-09-25), confirming "that's the way I plan to do it."
+[38] Archive message page_3981 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4015, 2006-09-24) — "Re: Top to water ballast tank": full text and citation at [boats/faith.md](/boats/faith.md#ballast-access-and-tank-top-questions); coats the top's underside with masses of thickened glue, then reaches in through the access hatches to spread the squeezed-out glue into a fillet by hand, wearing disposable gloves; has had no leaks at the tank tops themselves this way, unlike the inspection hatches. Signed "Al, Yeovil, England." Bill Serjeant thanked him in reply (page_3982, msgnum 4016, 2006-09-25), confirming "that's the way I plan to do it."
 [39] Archive message page_3989 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4023, 2006-10-04) — "Re: Haliyard and Reef lines": full text and citation at [people/stephen-yahn.md](/people/stephen-yahn.md); does not drink the ballast water either, having found "interesting slime" in the tank after cleaning it out at the end of his first season filling from a tap; absent a handy tap, fills instead from whatever he is floating in via an electric bilge pump, keeping the option to clean and refill with drinking water for a genuinely long trip. Signed "Al, Yeovil, England."

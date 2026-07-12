@@ -8,505 +8,113 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Glen C. Maxwell — list founder and moderator
 
-*Part of the [Glen C. Maxwell](/people/glen-maxwell.md) record — see also the
-hub page and the sibling sub-pages,
-[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) and
-[Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).*
+*Part of the [Glen C. Maxwell](/people/glen-maxwell.md) record — see also the hub page and the sibling sub-pages, [Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) and [Matt Layden eyewitness record](/people/glen-maxwell/matt-layden-eyewitness.md).*
 
-Glen founded the original `paradoxbuilders` Yahoo group on 7 July 2001, to
-exchange information on building and sailing the Paradox, and remained its sole
-moderator for over a year — see the [hub page](/people/glen-maxwell.md) for his
-full biography. This page collects his list-administration role: welcoming
-newcomers, answering the recurring "where do I get plans?" question, fielding a
-long-running spam nuisance, and eventually recruiting volunteer co-moderators.
+Glen founded the original `paradoxbuilders` Yahoo group on 7 July 2001, to exchange information on building and sailing the Paradox, and remained its sole moderator for over a year — see the [hub page](/people/glen-maxwell.md) for his full biography. This page collects his list-administration role: welcoming newcomers, answering the recurring "where do I get plans?" question, fielding a long-running spam nuisance, and eventually recruiting volunteer co-moderators.
 
 ## The recurring "where do I get plans?" answer
 
-The group's standing answer to newcomers asking where to buy Paradox plans
-was to point them to [Dave Bolduc](/people/bolduc/dave.md)
-(`mbolduc@triad.rr.com`), usually quoting a price of **$35 US** with a
-characteristic "don't hold me to that" hedge. This answer recurs across the
-archive as the community's canonical plans-sourcing pointer (see
-[building plans](/references/building-plans.md)). From August 2002 the FAQ
-answer gained a website pointer, `http://www.microcruising.com/`, "for more
-Paradox info and some of Mat Layden's other designs" — the first time the
-recurring answer cites the `microcruising.com` domain directly rather than
-the older `home.triad.rr.com/lcruise` address (see
-[building plans](/references/building-plans.md)).
+The group's standing answer to newcomers asking where to buy Paradox plans was to point them to the plans seller (`mbolduc@triad.rr.com`, see [Dave Bolduc](/people/bolduc/dave.md)), usually quoting a price of **$35 US** with a characteristic "don't hold me to that" hedge. This answer recurs across the archive as the community's canonical plans-sourcing pointer (see [building plans](/references/building-plans.md)). From August 2002 the FAQ answer gained a website pointer, `http://www.microcruising.com/`, "for more Paradox info and some of Mat Layden's other designs" — the first time the recurring answer cites the `microcruising.com` domain directly rather than the older `home.triad.rr.com/lcruise` address (see [building plans](/references/building-plans.md)).
 
-On building time, the standing answer moved beyond "Zoë"-specific figures to
-a generalized range: roughly **400 hours for a "slam dunk" build**, or
-**1,000 hours or more for a nicely finished example**, varying with the
-degree of workmanship desired (see
-[build effort and workspace](/construction/build-effort.md#time)). More
-detailed "Zoë" build-time figures live on the
-[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) sub-page.
+On building time, the standing answer moved beyond "Zoë"-specific figures to a generalized range: roughly **400 hours for a "slam dunk" build**, or **1,000 hours or more for a nicely finished example**, varying with the degree of workmanship desired (see [build effort and workspace](/construction/build-effort.md#time)). More detailed "Zoë" build-time figures live on the [Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) sub-page.
 
-The FAQ recurred again in July 2006: Glen gave a new member the same
-patience answer (the Bolducs were most likely away on a sailing trip) and
-confirmed Don Elliott's paid construction manual was worth its price. See
-[building plans — a July 2006 recurrence, and a blunt assessment of the paid
-manual's
-quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).
+The FAQ recurred again in July 2006, with the same patience answer given to a new member (the Bolducs were most likely away on a sailing trip) and confirmation that the paid construction manual was worth its price. See [building plans — a July 2006 recurrence, and a blunt assessment of the paid manual's quality](/references/building-plans.md#a-july-2006-recurrence-and-a-blunt-assessment-of-the-paid-manuals-quality).
 
 ## Welcoming newcomers
 
-As founder, Glen made a point of welcoming new members to the group,
-supporting whatever project or non-Paradox build a newcomer wanted to share
-— including a "Golant Gaffer" build cross-posted by
-[David LeBlanc](/people/david-leblanc.md).
-Australian builder **Andrew Graham** of Brisbane was welcomed on posting his
-in-progress "Aussie Paradox" (see [Andrew Graham](/people/andrew-graham.md)
-and [Aussie Paradox](/boats/aussie-paradox.md)), as was prospective Tennessee
-builder "Duane" — see
-[build effort — discovering the design through the Bolducs' site](/construction/build-effort.md#discovering-the-design-through-the-bolducs-site).
-A December 2003 welcome to a Rhode Island newcomer records the running count
-at that date: **six Paradoxes launched, "that we know of"** — see
-[Southern California sailing — census: six Paradoxes launched (December
-2003)](/operations/southern-california-and-catalina-crossing.md#census-six-paradoxes-launched-december-2003).
-During a Philadelphia absence, co-moderator [Nels](/people/nels.md) issued a
-group-wide welcome of his own to about a dozen recent new members, pointing
-them to the group's photos and files and to the Links section for other
-Paradox and related-design sites and where to buy plans — and disclosed that
-the group was "in the progress of considering developing plans for a somewhat
-enlarged version of Paradox," inviting feedback of any kind (see [stretched
-Paradox](/design/variants/stretched-paradox.md#a-group-level-enlarged-paradox-under-consideration)).
+As founder, Glen made a point of welcoming new members to the group, supporting whatever project or non-Paradox build a newcomer wanted to share — including a "Golant Gaffer" build cross-posted from another builder. An Australian builder in Brisbane was welcomed on posting an in-progress "Aussie Paradox" (see [Aussie Paradox](/boats/aussie-paradox.md)), as was a prospective Tennessee builder — see [build effort — discovering the design through the Bolducs' site](/construction/build-effort.md#discovering-the-design-through-the-bolducs-site). A December 2003 welcome to a Rhode Island newcomer records the running count at that date: **six Paradoxes launched, "that we know of"** — see [Southern California sailing — census: six Paradoxes launched (December 2003)](/operations/southern-california-and-catalina-crossing.md#census-six-paradoxes-launched-december-2003). During a Philadelphia absence, a group-wide welcome went out to about a dozen recent new members, pointing them to the group's photos and files and to the Links section for other Paradox and related-design sites and where to buy plans — and disclosing that the group was "in the progress of considering developing plans for a somewhat enlarged version of Paradox," inviting feedback of any kind (see [stretched Paradox](/design/variants/stretched-paradox.md#a-group-level-enlarged-paradox-under-consideration)).
 
 ## The tripod-link spam saga
 
-The list was hit, over roughly two months in 2002, by a recurring nuisance: a
-bare `tripod.com` link with no body text, posted under a rotating cast of
-throwaway account handles, recurring at least six times before degrading, by
-late September, to a broken post carrying only the literal placeholder
-`<message3>`. Members eventually recognized the pattern as spam after it was
-also seen circulating in another Yahoo group, and one linked site was
-reported to be "so laden with java popups it takes over the computer."
-Moderator response never escalated beyond informal identification and
-exasperated humor — requests to post pictures to the group's own files
-section instead (echoing the "Topping Lift" folder practice — see
-[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md)) — with enforcement
-never going beyond the list's informal "it's spam" replies. This purely
-administrative episode is retained as an aside, comparable to the JS/Kak
-virus incident on the
-[Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) sub-page, and to a
-later Trojan Horse warning: a forwarded email impersonating "MS Customer
-Services" offered a Windows security patch as an attachment, and the list was
-promptly warned it was malicious — Microsoft never distributes patches by
-email — rather than a genuine update.
+The list was hit, over roughly two months in 2002, by a recurring nuisance: a bare `tripod.com` link with no body text, posted under a rotating cast of throwaway account handles, recurring at least six times before degrading, by late September, to a broken post carrying only the literal placeholder `<message3>`. Members eventually recognized the pattern as spam after it was also seen circulating in another Yahoo group, and one linked site was reported to be "so laden with java popups it takes over the computer." Moderator response never escalated beyond informal identification and exasperated humor — requests to post pictures to the group's own files section instead (echoing the "Topping Lift" folder practice — see [Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md)) — with enforcement never going beyond the list's informal "it's spam" replies. This purely administrative episode is retained as an aside, comparable to the JS/Kak virus incident on the [Build and "Zoë"](/people/glen-maxwell/build-and-zoe.md) sub-page, and to a later Trojan Horse warning: a forwarded email impersonating "MS Customer Services" offered a Windows security patch as an attachment, and the list was promptly warned it was malicious — Microsoft never distributes patches by email — rather than a genuine update.
 
 ## Recruiting co-moderators
 
-The spam nuisance ultimately drove a search for help. A proposal to require
-moderator approval for new members, to stop automated sign-ups, met the
-practical constraint of a single sole moderator planning to be away sailing
-for a couple of months once the weather cooled — enabling it would need a
-**second or third volunteer moderator**; a lighter first step tried was the
-**daily digest** format, per another group's report of receiving less spam
-that way (see
-[Paul V. — "Stopping spammers"](/people/paul-v.md)
-and [mailing list — spam and moderator-approval proposal](/references/mailing-list.md)).
+The spam nuisance ultimately drove a search for help. A proposal to require moderator approval for new members, to stop automated sign-ups, met the practical constraint of a single sole moderator planning to be away sailing for a couple of months once the weather cooled — enabling it would need a **second or third volunteer moderator**; a lighter first step tried was the **daily digest** format, per another group's report of receiving less spam that way (see [mailing list — spam and moderator-approval proposal](/references/mailing-list.md)).
 
-The call for volunteers was answered within a day: both
-[Dave Bolduc](/people/bolduc/dave.md) and [Paul V.](/people/paul-v.md) stepped
-up, making it possible to close the group and require new members to apply —
-the fix expected to "eliminate all the unwanted spam" (see
-[mailing list — two volunteer moderators found](/references/mailing-list.md)).
-[David LeBlanc](/people/david-leblanc.md) volunteered as a third moderator
-shortly after, to be added once Glen and Dave Bolduc left on a **planned
-winter sailing trip** together — the first specific mention of that joint
-trip (see
-[mailing list — a third, belated volunteer](/references/mailing-list.md)).
+The call for volunteers was answered within a day: two members stepped up, making it possible to close the group and require new members to apply — the fix expected to "eliminate all the unwanted spam" (see [mailing list — two volunteer moderators found](/references/mailing-list.md)). A third moderator volunteered shortly after, to be added once Glen left on a **planned winter sailing trip** together with one of the newly recruited co-moderators — the first specific mention of that joint trip (see [mailing list — a third, belated volunteer](/references/mailing-list.md)).
 
 ## A rival group, and Glen's moderator role reaffirmed
 
-In November 2003, [Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-launched a competing Yahoo group, styling himself its "Moderator" and
-implying by omission that he held equivalent standing on `paradoxbuilders`
-itself. Don announced the new group would take over all future Paradox
-building articles, including a forthcoming "Ballast Installation part 2"
-piece, reserving `paradoxbuilders` itself for occasional notices only. When
-Don's announcement wrongly asserted his own moderator status over the
-original group, [David C. Smith](/people/david-c-smith.md) corrected the record directly: Glen
-Maxwell — "a professional boatbuilder of no ill repute" — remains
-`paradoxbuilders`' founder and actual moderator, not Don.
+In November 2003, [a rival group](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) was launched on Yahoo, its founder styling himself its "Moderator" and implying by omission that he held equivalent standing on `paradoxbuilders` itself. The announcement claimed the new group would take over all future Paradox building articles, including a forthcoming "Ballast Installation part 2" piece, reserving `paradoxbuilders` itself for occasional notices only. When that announcement wrongly asserted moderator status over the original group, the record was corrected directly: Glen Maxwell — "a professional boatbuilder of no ill repute" — remains `paradoxbuilders`' founder and actual moderator.
 
-Glen went further than a correction: citing a private mailbox full of
-complaints about Don's conduct — culminating in a member's private message
-describing Don as "a dark spirit," "mean spirited," and someone whose posts
-"pretty much ruins my day" — and a stated belief that a silent majority felt
-the same way, Glen announced he was **banning Don Elliott from
-`paradoxbuilders`**, the first and, on the archive's record, only member ever
-banned from the group. He framed the decision as reluctant and made "for the
-good of the group" rather than personal animus (a courtesy he noted Don had
-not extended to others), stressed he ordinarily "abhor[s] censorship in any
-form," and argued the ban was not truly silencing Don's views — who cross-posts
-widely enough that anyone wanting to read him still could — but curbing a
-"penchant for woefully disrespecting the views of others and inciting unrest
-and disorder amongst an otherwise peaceful and benevolent group." No further
-challenge to Glen's founder/moderator role is recorded in the archive.
+Glen went further than a correction: citing a private mailbox full of complaints — culminating in a member's private message describing the rival founder as "a dark spirit," "mean spirited," and someone whose posts "pretty much ruins my day" — and a stated belief that a silent majority felt the same way, Glen announced he was **banning the rival group's founder from `paradoxbuilders`**, the first and, on the archive's record, only member ever banned from the group. He framed the decision as reluctant and made "for the good of the group" rather than personal animus (a courtesy he noted had not been extended to others), stressed he ordinarily "abhor[s] censorship in any form," and argued the ban was not truly silencing those views — which cross-posted widely enough that anyone wanting to read them still could — but curbing a "penchant for woefully disrespecting the views of others and inciting unrest and disorder amongst an otherwise peaceful and benevolent group." No further challenge to Glen's founder/moderator role is recorded in the archive.
 
-The ban drew immediate, near-unanimous support from the members who
-responded, including one who had already left a separate boating group over
-similar fighting and called the ban a favor to the whole membership. The
-episode also produced a broader governance philosophy from co-moderator
-[Nels](/people/nels.md), laid out in a post titled "Censorship": free speech
-is a basic right, but zero tolerance should apply to abusive behavior, and a
-moderator has both the right and the duty to restrict members who use the
-list as "a weapon for forcing their views." He argued a member should be
-forewarned and given a fair hearing before being banned outright — drawing on
-his own experience of being banned without warning from another group for an
-off-topic post, and, separately, from **Don Elliott's own group** despite
-never having posted there, after Don took offense at a private reply
-regarding an unrelated `microcruising` post — and flagged a practical cost
-concern: members in some countries pay per email received, so keeping posts
-newsworthy and concise matters. Glen agreed with this reasoning, adding that
-he had already weighed and rejected simply asking Don to change his ways,
-judging it would only postpone continued abuse. Public thanks followed from
-a member describing himself as part of the "silent majority" Glen had
-invoked; Glen replied the group would be "back to business as usual in
-short order."
+The ban drew immediate, near-unanimous support from the members who responded, including one who had already left a separate boating group over similar fighting and called the ban a favor to the whole membership. The episode also produced a broader governance philosophy, laid out in a post titled "Censorship": free speech is a basic right, but zero tolerance should apply to abusive behavior, and a moderator has both the right and the duty to restrict members who use the list as "a weapon for forcing their views." A member should be forewarned and given a fair hearing before being banned outright — drawing on a firsthand experience of being banned without warning from another group for an off-topic post, and, separately, from **the rival group** despite never having posted there, after a private reply regarding an unrelated `microcruising` post caused offense — and a practical cost concern was flagged: members in some countries pay per email received, so keeping posts newsworthy and concise matters. Glen agreed with this reasoning, adding that he had already weighed and rejected simply asking for a change of ways, judging it would only postpone continued abuse. Public thanks followed from a member describing himself as part of the "silent majority" Glen had invoked; Glen replied the group would be "back to business as usual in short order."
 
-The single dissent came from [William Longyard](/people/william-longyard.md),
-who publicly urged Glen to reconsider, praising Don's talent and generosity
-and proposing an even-handed truce instead of a ban. Nels answered directly
-and at length, laying out a two-year pattern he had personally witnessed of
-Don turning on a group's moderator after an initial friendly period.
-Longyard held his civility position but deferred the final call to Glen as
-the list's moderator — "It's his 'house,' he's the host, and I'm his guest"
-— to which Glen replied he preferred to think of it as **"our house,"**
-having no wish to be the group's dominant voice and disliking being cast in
-a disciplinarian role. See [Don Elliott — a rival group, and a dispute over
-who founded and moderates the
-list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-for the exchange in full.
+The single dissent publicly urged Glen to reconsider, praising the banned founder's talent and generosity and proposing an even-handed truce instead of a ban. A direct, lengthy answer followed, laying out a two-year pattern of the same person turning on a group's moderator after an initial friendly period. The dissenting voice held its civility position but deferred the final call to Glen as the list's moderator — "It's his 'house,' he's the host, and I'm his guest" — to which Glen replied he preferred to think of it as **"our house,"** having no wish to be the group's dominant voice and disliking being cast in a disciplinarian role. See [Don Elliott — a rival group, and a dispute over who founded and moderates the list](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) for the exchange in full.
 
-Asked separately, more gently, whether he had acted too hastily, Glen set
-out his fuller reasoning: he had weighed the ban for some time, reviewing
-Don's photo, file, and message-board history for anything positive to
-offset the negative, and judged the negative clearly outweighed it. He had
-tried simply ignoring Don's personal attacks, only to conclude that under
-Don's own stated logic, silence would be read as confirming the
-accusations — evidence, to Glen, that Don was "spoiling for an augment
-[argument]." He pointed to Don's unfounded plagiarism accusation against
-Alastair, made without carefully reading the thread in question, as
-typifying a pattern of drive-by attacks followed by a retreat to the cover
-of his own group, rather than genuine contribution. Glen had sent Don a
-private email leaving the door open to discuss the ban off-list, but held
-that the open bickering itself had to stop; by the second day afterward,
-ordinary, calmer traffic on the list was already returning. The exchange
-closed with a conciliatory note hoping Don would get back in touch so the
-two could reach a mutual understanding — "Back to boats..."
+Asked separately, more gently, whether he had acted too hastily, Glen set out his fuller reasoning: he had weighed the ban for some time, reviewing the rival founder's photo, file, and message-board history for anything positive to offset the negative, and judged the negative clearly outweighed it. He had tried simply ignoring the personal attacks, only to conclude that under the same logic being used against him, silence would be read as confirming the accusations — evidence, to Glen, of someone "spoiling for an augment [argument]." He pointed to an unfounded plagiarism accusation made against another member, without carefully reading the thread in question, as typifying a pattern of drive-by attacks followed by a retreat to the cover of the rival group, rather than genuine contribution. Glen had sent a private email leaving the door open to discuss the ban off-list, but held that the open bickering itself had to stop; by the second day afterward, ordinary, calmer traffic on the list was already returning. The exchange closed with a conciliatory note hoping for a return to contact so the two could reach a mutual understanding — "Back to boats..."
 
 ## The FAQ folder
 
-A companion to the build manual took shape as a **"Frequently Asked
-Questions"** folder in the group's files section, so a newcomer's question
-could be answered by pointer rather than repeated explanation each time it
-resurfaced — see [Nels](/people/nels.md#other-contributions) for the full
-30-question candidate list, spanning plans sourcing, the chine runners, the
-rig, the yuloh, motorization, materials and cost, ballast, and day-to-day
-living aboard. Glen created the folder the same morning from that question
-list, and asked the group to use the file's own edit function to fill in
-answers by searching past posts and copy-pasting good replies in — a
-two-screens-open workflow, one for editing and one for searching the
-archive — planning to clean up the resulting long lines of text in a word
-processor once a first pass was complete. Because folder-editing rights
-belonged only to the folder's creator, a workaround was proposed: contributors
-could send their answers offline for Glen to paste in, or post them to the
-group first for discussion, with a poll to settle any question where
-opinions differed, and each contributor signing their own answer (a worked
-example on chine-runner effectiveness is preserved at [chine runners and
-windward performance](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential)).
-A further suggestion pointed to the Yahoo Groups **database feature** as an
-alternative that would let every member add entries directly rather than
-routing through the moderator — as the Bolger design-stats group used it —
-though even there only the moderator can remove an entry once added; Glen
-adopted the idea and gave the database feature a try for the FAQ file.
+A companion to the build manual took shape as a **"Frequently Asked Questions"** folder in the group's files section, so a newcomer's question could be answered by pointer rather than repeated explanation each time it resurfaced — the full 30-question candidate list spanned plans sourcing, the chine runners, the rig, the yuloh, motorization, materials and cost, ballast, and day-to-day living aboard (see [Nels](/people/nels.md#other-contributions)). Glen created the folder the same morning from that question list, and asked the group to use the file's own edit function to fill in answers by searching past posts and copy-pasting good replies in — a two-screens-open workflow, one for editing and one for searching the archive — planning to clean up the resulting long lines of text in a word processor once a first pass was complete. Because folder-editing rights belonged only to the folder's creator, a workaround was proposed: contributors could send their answers offline for Glen to paste in, or post them to the group first for discussion, with a poll to settle any question where opinions differed, and each contributor signing their own answer (a worked example on chine-runner effectiveness is preserved at [chine runners and windward performance](/chine-runners/how-they-work.md#why-heavy-displacement-and-heel-are-essential)). A further suggestion pointed to the Yahoo Groups **database feature** as an alternative that would let every member add entries directly rather than routing through the moderator — as the Bolger design-stats group used it — though even there only the moderator can remove an entry once added; Glen adopted the idea and gave the database feature a try for the FAQ file.
 
-The editing-rights bottleneck itself had a more direct fix: Glen made **Nels
-and Smith assistant moderators**, giving them file-editing access to both the
-Build Manual and the FAQ folders so edits no longer had to route through him.
+The editing-rights bottleneck itself had a more direct fix: Glen appointed **two assistant moderators**, giving them file-editing access to both the Build Manual and the FAQ folders so edits no longer had to route through him.
 
-The FAQ proposal also drew a suggestion to add anchoring and anchor stowage
-— open on the list whether builders typically carry two anchors, a bower and
-a kedge — and a separate, unresolved question of whether the "Building
-Paradox" booklet's materials list, already present on the plans CD, could
-simply be reused for the manual without a copyright problem, a question
-deferred to [Dave Bolduc](/people/bolduc/dave.md) and
-[Matt Layden](/matt-layden/biography.md) themselves and never answered in
-the archive. On the manual's bibliography thread, Glen cast the first book
-vote: *Gougeon Brothers on Boat Construction*, judged the single most
-valuable reference to keep on hand. Five more candidate FAQ questions were
-added to the list: whether lofting is required, whether Paradox qualifies as
-an "instant" boat, how difficult the boat is to build, how much building
-time to expect, and whether a helper is needed for any construction task.
+The FAQ proposal also drew a suggestion to add anchoring and anchor stowage — open on the list whether builders typically carry two anchors, a bower and a kedge — and a separate, unresolved question of whether the "Building Paradox" booklet's materials list, already present on the plans CD, could simply be reused for the manual without a copyright problem, a question deferred to the plans seller and [Matt Layden](/matt-layden/biography.md) themselves and never answered in the archive. On the manual's bibliography thread, Glen cast the first book vote: *Gougeon Brothers on Boat Construction*, judged the single most valuable reference to keep on hand. Five more candidate FAQ questions were added to the list: whether lofting is required, whether Paradox qualifies as an "instant" boat, how difficult the boat is to build, how much building time to expect, and whether a helper is needed for any construction task.
 
 ## Chasing down quiet builders for photos and progress reports
 
-Glen periodically used his moderator's voice to draw out builders who had
-gone quiet. An unidentified, well-built hull posted to the group's photo
-album under the "RHXll" folder name prompted an open question of who was
-building it and where — a mystery that drew an echoing request for more
-pictures and information, and one denial ("I cannot tell a lie. It's not
-mine."), before a builder working in Amsterdam, the Netherlands, finally
-claimed the boat, with more photos promised and completion hoped for the
-following spring. The same episode produced a broader call for updates,
-naming [Andrew Graham](/people/andrew-graham.md)'s "Aussie Paradox" and
-[David Beard](/people/david-beard.md)'s "Whisper" specifically, and
-prodding [Don Elliott](/people/don-elliott.md) for photos of his
-long-finished boat, still unnamed on the list ("Elliott's Paradox") — closing
-with an eating-an-elephant metaphor for not being discouraged by mistakes
-mid-build: "take one bite at a time... one day your plate will be empty."
+Glen periodically used his moderator's voice to draw out builders who had gone quiet. An unidentified, well-built hull posted to the group's photo album under the "RHXll" folder name prompted an open question of who was building it and where — a mystery that drew an echoing request for more pictures and information, and one denial ("I cannot tell a lie. It's not mine."), before a builder working in Amsterdam, the Netherlands, finally claimed the boat, with more photos promised and completion hoped for the following spring. The same episode produced a broader call for updates, naming the "Aussie Paradox" and "Whisper" builds specifically, and prodding for photos of a long-finished boat, still unnamed on the list ("Elliott's Paradox") — closing with an eating-an-elephant metaphor for not being discouraged by mistakes mid-build: "take one bite at a time... one day your plate will be empty."
 
-Photographs from Don's launch, posted to a UK builder's own website "with a
-promise of more to come," led to identification of the boat's probable name,
-**"The Edge"** — see [Don Elliott's Paradox](/boats/elliott-paradox.md). The
-Amsterdam builder's "RHXll" boat drew a further round of "RHXII" photos to
-the group's album two days later. That builder, **Ronald de Hon**, never
-finished the boat — family trouble forced him to abandon the build and offer
-the unfinished hull for sale in April 2006; see [secondhand market — an
-abandoned build for sale:
-"RHXII"](/operations/secondhand-market.md#an-abandoned-build-for-sale-rhxii-april-2006).
+Photographs from that boat's launch, posted to a UK builder's own website "with a promise of more to come," led to identification of the boat's probable name, **"The Edge"** — see [Don Elliott's Paradox](/boats/elliott-paradox.md). The Amsterdam builder's "RHXll" boat drew a further round of "RHXII" photos to the group's album two days later. That builder never finished the boat — family trouble forced an abandonment of the build and an offer of the unfinished hull for sale in April 2006; see [secondhand market — an abandoned build for sale: "RHXII"](/operations/secondhand-market.md#an-abandoned-build-for-sale-rhxii-april-2006).
 
-Amid the Don Elliott dispute, an autumn refit report on
-"[Little Jim](/boats/little-jim.md)" — the first substantive, non-contentious
-post after days of conflict — drew a simple welcome back to ordinary list
-traffic: "Now this is more like it."
+Amid the rival-group dispute, an autumn refit report on "[Little Jim](/boats/little-jim.md)" — the first substantive, non-contentious post after days of conflict — drew a simple welcome back to ordinary list traffic: "Now this is more like it."
 
 ## The build manual proposal — a concrete push
 
-A group-written build manual proposal had stalled short of actual content
-until Glen gave it a concrete push: rather than ask for polished,
-journalistic writing, he asked members to think of one specific construction
-problem they had genuinely had to puzzle over and write up how they solved
-it, volunteering himself as the first example with an offer to document the
-lower gudgeon, which he recalled finding daunting to build. Contributions
-were organized in a "Build Manual" folder in the group's file section, with
-builders free to add their own sub-folders and to notify the group by post
-once a file was uploaded. A worked lower-gudgeon example followed quickly: a
-simple mold with three straight sides and one side angled about 45 degrees
-to match the drawing, built up from many short (5 cm wide, 10-25 cm long)
-strips of thick (613 g/m²) fiberglass cloth into a roughly 6 cm-thick
-lamination — thick enough to be strong but a poor wearing surface on its
-own, so a **Delrin bushing** was fitted around the bronze rod to take the
-wear.
+A group-written build manual proposal had stalled short of actual content until Glen gave it a concrete push: rather than ask for polished, journalistic writing, he asked members to think of one specific construction problem they had genuinely had to puzzle over and write up how they solved it, volunteering himself as the first example with an offer to document the lower gudgeon, which he recalled finding daunting to build. Contributions were organized in a "Build Manual" folder in the group's file section, with builders free to add their own sub-folders and to notify the group by post once a file was uploaded. A worked lower-gudgeon example followed quickly: a simple mold with three straight sides and one side angled about 45 degrees to match the drawing, built up from many short (5 cm wide, 10-25 cm long) strips of thick (613 g/m²) fiberglass cloth into a roughly 6 cm-thick lamination — thick enough to be strong but a poor wearing surface on its own, so a **Delrin bushing** was fitted around the bronze rod to take the wear.
 
-A separate "rolling bevels" technique write-up (see [hull assembly sequence
-— what a rolling bevel
-is](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s))
-was folded into the same Build Manual effort.
+A separate "rolling bevels" technique write-up (see [hull assembly sequence — what a rolling bevel is](/construction/hull-assembly-sequence.md#what-a-rolling-bevel-is-and-cutting-bulkhead-2s)) was folded into the same Build Manual effort.
 
 ## Plywood sourcing
 
-Glen's standing answer to the group's recurring "Plywood" question named two
-supplier links, `boulterplywood.com` and `hardwoodint.com` (the latter a
-source shared once before, in January 2002 — see
-[hull scantlings — lumber and plywood sourcing](/design/hull-scantlings.md#lumber-and-plywood-sourcing)
-and
-[plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md)).
+Glen's standing answer to the group's recurring "Plywood" question named two supplier links, `boulterplywood.com` and `hardwoodint.com` (the latter a source shared once before, in January 2002 — see [hull scantlings — lumber and plywood sourcing](/design/hull-scantlings.md#lumber-and-plywood-sourcing) and [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md)).
 
 ## A moderator's absence, delegated in advance
 
-Consistent with the practice of lining up backup moderation before going
-offline (see [recruiting co-moderators](#recruiting-co-moderators) above),
-a planned absence of a week or two for the birth of a second grandchild in
-Philadelphia came with assistant moderators deputized to handle new-member
-requests, and a plan to keep working on the build-manual effort remotely,
-checking in from the road when possible.
+Consistent with the practice of lining up backup moderation before going offline (see [recruiting co-moderators](#recruiting-co-moderators) above), a planned absence of a week or two for the birth of a second grandchild in Philadelphia came with assistant moderators deputized to handle new-member requests, and a plan to keep working on the build-manual effort remotely, checking in from the road when possible.
 
-The announcement's aftermath showed how raw the [Don Elliott
-dispute](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-still was even after the ban itself: a co-moderator's joking aside that
-anyone who "got out of line" during the absence would be sent to "the other
-site" — a reference to Don's rival group — drew a sharp objection that even
-with a smiley face, the comment was unhelpful sniping, and members with a
-grievance against Don should be extending peace feelers instead. An apology
-followed, clarifying the remark was meant only to confirm receipt of the
-delegation instructions, that no actual beef with Don or anyone else was
-intended, and that tone is easily misread in writing. The exchange is a
-small, concrete illustration of the list's post-ban sensitivity to anything
-read as continued sniping at Don.
+The announcement's aftermath showed how raw the [Don Elliott dispute](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) still was even after the ban itself: a co-moderator's joking aside that anyone who "got out of line" during the absence would be sent to "the other site" — a reference to the rival group — drew a sharp objection that even with a smiley face, the comment was unhelpful sniping, and members with a grievance should be extending peace feelers instead. An apology followed, clarifying the remark was meant only to confirm receipt of the delegation instructions, that no actual beef with anyone was intended, and that tone is easily misread in writing. The exchange is a small, concrete illustration of the list's post-ban sensitivity to anything read as continued sniping at the banned founder.
 
 ## Diagnosing Yahoo's photo-resolution limit
 
-When a member complained that photos posted directly to the list's message
-body (rather than to the Photos or Files sections) displayed only at a small,
-low-resolution size — one image showing a 19 KB screen size against a 366 KB
-full size, the difference unrecoverable by ordinary members — the cause
-proved to be a platform limit: **Yahoo Groups itself caps inline photo
-display at 400 pixels**, reserving the full-size original only for members
-who order prints through Yahoo's own service (a feature doubted to see any
-actual use). The resulting practice was to **resize photos to 640x480** (a
-size judged still "very good quality" even enlarged 200%) and post them to
-the **files section** rather than inline, with future uploads to the files
-section kept to at least 800x600, preferably 640x480, to keep the group's
-overall file sizes manageable; a builder wanting more detail than a resized
-image offered was advised to contact the photo's author directly for a
-hi-res copy by email.
+When a member complained that photos posted directly to the list's message body (rather than to the Photos or Files sections) displayed only at a small, low-resolution size — one image showing a 19 KB screen size against a 366 KB full size, the difference unrecoverable by ordinary members — the cause proved to be a platform limit: **Yahoo Groups itself caps inline photo display at 400 pixels**, reserving the full-size original only for members who order prints through Yahoo's own service (a feature doubted to see any actual use). The resulting practice was to **resize photos to 640x480** (a size judged still "very good quality" even enlarged 200%) and post them to the **files section** rather than inline, with future uploads to the files section kept to at least 800x600, preferably 640x480, to keep the group's overall file sizes manageable; a builder wanting more detail than a resized image offered was advised to contact the photo's author directly for a hi-res copy by email.
 
-The same period surfaced the group's **photo-storage ceiling**: a member
-reported running out of space mid-upload and, assuming the shortfall was his
-own fault, deleted most of his own full-size photos to free room for the
-rest — leaving open whether the 30 MB limit quoted at the time applies
-**per group or per individual member** (see [the "BRIS Paradox" — a further
-"ParaPlastic" photo
-update](/boats/bris-paradox.md#a-further-paraplastic-photo-update)).
+The same period surfaced the group's **photo-storage ceiling**: a member reported running out of space mid-upload and, assuming the shortfall was a personal fault, deleted most of the full-size photos already uploaded to free room for the rest — leaving open whether the 30 MB limit quoted at the time applies **per group or per individual member** (see [the "BRIS Paradox" — a further "ParaPlastic" photo update](/boats/bris-paradox.md#a-further-paraplastic-photo-update)).
 
-A related limitation: an image's size must be set **before** it is uploaded,
-since Yahoo Groups gives no way to adjust it **afterward** — see
-[the "BRIS Paradox" — widening the berth by omitting the lower
-shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves).
+A related limitation: an image's size must be set **before** it is uploaded, since Yahoo Groups gives no way to adjust it **afterward** — see [the "BRIS Paradox" — widening the berth by omitting the lower shelves](/boats/bris-paradox.md#widening-the-berth-by-omitting-the-lower-shelves).
 
-A further limit of the Yahoo Files section surfaced when an existing photo
-**folder** (labeled "So-So," a boat's earlier working name) needed
-**renaming**: no direct rename method could be found, and the only known
-workaround was to **delete the folder and upload a fresh one** in its place.
+A further limit of the Yahoo Files section surfaced when an existing photo **folder** (labeled "So-So," a boat's earlier working name) needed **renaming**: no direct rename method could be found, and the only known workaround was to **delete the folder and upload a fresh one** in its place.
 
 ## A second group considered, and the first mention of a dedicated website
 
-The photo-storage crunch revived a long-simmering proposal: with the group's
-file space genuinely running short, founding a second Yahoo group,
-**`paradoxbuilders2`**, dedicated purely to file/photo uploads, as a few
-other groups already did. The group held off the split for the time being —
-archiving off some of the older files to free room within the existing group
-was judged sufficient for the moment. More significantly, this exchange
-disclosed for the first time that Glen was **negotiating with a friend to
-build a dedicated website** to store the group's accumulated material,
-adding that `paradoxbuilders` had grown well beyond original expectations.
-This is the archive's first record of a **purpose-built Paradox website**
-being discussed, distinct from both the personal builder websites already
-linked elsewhere in the archive (Alastair's, Bill Serjeant's) and from
-[Dave Bolduc](/people/bolduc/dave.md)'s existing
-[microcruising.com](/references/microcruising-website.md), and it predates by
-some years the group's eventual 2019 migration to `paradoxsailboat` on
-groups.io (see [mailing list](/references/mailing-list.md)). No further
-mention of the friend's website, or of whether it was ever built, is
-recorded in the archive; the **`paradoxbuilders2`** Yahoo group did
-eventually exist (see [mailing list](/references/mailing-list.md)), though
-the archive does not record exactly when or by whom it was founded.
+The photo-storage crunch revived a long-simmering proposal: with the group's file space genuinely running short, founding a second Yahoo group, **`paradoxbuilders2`**, dedicated purely to file/photo uploads, as a few other groups already did. The group held off the split for the time being — archiving off some of the older files to free room within the existing group was judged sufficient for the moment. More significantly, this exchange disclosed for the first time that Glen was **negotiating with a friend to build a dedicated website** to store the group's accumulated material, adding that `paradoxbuilders` had grown well beyond original expectations. This is the archive's first record of a **purpose-built Paradox website** being discussed, distinct from both the personal builder websites already linked elsewhere in the archive and from the existing [microcruising.com](/references/microcruising-website.md), and it predates by some years the group's eventual 2019 migration to `paradoxsailboat` on groups.io (see [mailing list](/references/mailing-list.md)). No further mention of the friend's website, or of whether it was ever built, is recorded in the archive; the **`paradoxbuilders2`** Yahoo group did eventually exist (see [mailing list](/references/mailing-list.md)), though the archive does not record exactly when or by whom it was founded.
 
 ## Closing the "Steel?" thread: material choice welcomed, not just tolerated
 
-At the end of the archive's long-running "Steel?" debate over whether the
-Paradox lines could be built in metal (see [aluminum and steel Paradox
-(speculative)](/design/aluminum-construction-idea.md)), the thread's final
-word was not a technical ruling but a moderator's welcome: the small number
-of negative comments a steel-hull builder, Jack Gardiner, had received were
-read as members feeling strongly about preserving the design rather than as
-a personal attack, and the group's underlying position was stated plainly —
-whatever material a Paradox is built in, **steel, aluminum, foam sandwich,
-or anything else**, the group wanted to keep up with the builder's progress,
-and Jack was invited to stay on the list and keep reporting in. Jack read
-the gesture as backhanded rather than conciliatory, since an unrelated
-epoxy-shelf-life reply had been posted inside the same steel thread, and
-confirmed he would continue his research privately rather than take the
-invitation at face value. No further "Steel?" posts followed. See [aluminum
-and steel Paradox (speculative) — Smith's rebuttal: why a steel Paradox would
-be "a horrible
-mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
+At the end of the archive's long-running "Steel?" debate over whether the Paradox lines could be built in metal (see [aluminum and steel Paradox (speculative)](/design/aluminum-construction-idea.md)), the thread's final word was not a technical ruling but a moderator's welcome: the small number of negative comments a steel-hull builder had received were read as members feeling strongly about preserving the design rather than as a personal attack, and the group's underlying position was stated plainly — whatever material a Paradox is built in, **steel, aluminum, foam sandwich, or anything else**, the group wanted to keep up with the builder's progress, and the builder was invited to stay on the list and keep reporting in. The gesture was read as backhanded rather than conciliatory, since an unrelated epoxy-shelf-life reply had been posted inside the same steel thread, and the research continued privately rather than taking the invitation at face value. No further "Steel?" posts followed. See [aluminum and steel Paradox (speculative) — Smith's rebuttal: why a steel Paradox would be "a horrible mistake"](/design/aluminum-construction-idea.md#smiths-rebuttal-why-a-steel-paradox-would-be-a-horrible-mistake).
 
 ## A welfare check during the 2004 hurricane season
 
-Glen went quiet for an unusually long stretch in September 2004, prompting
-the list to ask directly whether anyone had heard from him — he lived in the
-path of that season's back-to-back Atlantic hurricanes, and while he had made
-it through the first storm (missing the group's Lake Powell messabout as a
-result), nothing further had been heard since Hurricane Ivan came through.
-The answer came the next day: alive and well, with the silence put down to
-storm-cleanup work (significant blow-down) and to overseeing contractors
-building a barn on the property, leaving little time to keep up with e-mail.
+Glen went quiet for an unusually long stretch in September 2004, prompting the list to ask directly whether anyone had heard from him — he lived in the path of that season's back-to-back Atlantic hurricanes, and while he had made it through the first storm (missing the group's Lake Powell messabout as a result), nothing further had been heard since Hurricane Ivan came through. The answer came the next day: alive and well, with the silence put down to storm-cleanup work (significant blow-down) and to overseeing contractors building a barn on the property, leaving little time to keep up with e-mail.
 
 ## The Don Elliott ban, revisited nearly two years on
 
-The 2003 ban of [Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)
-drew a fresh challenge in mid-2005, when a member questioned the decision
-directly as sitting uneasily with the value placed on free speech, and asked
-whether it might be time to "bury the hatchet" and invite Don back, noting
-Don's advice had proven helpful when the reasoning behind a particular idea
-was explained to him first — while allowing that a site called "Nutty Boats"
-carrying Don's posts was hard to stomach and not something he read himself,
-though some of those who replied to Don there were worth reading for their
-turn of phrase.[85] The reply settled the practical question rather than the
-philosophical one: banning Don from `paradoxbuilders` had done little to
-curb his ability to voice his opinions at all, since he had his own
-rival group, `paradoxboatbuilders`, to do so on.[86]
+The 2003 ban of [Don Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list) drew a fresh challenge in mid-2005, when a member questioned the decision directly as sitting uneasily with the value placed on free speech, and asked whether it might be time to "bury the hatchet" and invite the banned founder back, noting his advice had proven helpful when the reasoning behind a particular idea was explained first — while allowing that a site called "Nutty Boats" carrying his posts was hard to stomach and not something read directly, though some of those who replied to him there were worth reading for their turn of phrase.[85] The reply settled the practical question rather than the philosophical one: the ban from `paradoxbuilders` had done little to curb the ability to voice opinions at all, since a separate rival group, `paradoxboatbuilders`, remained available for that.[86]
 
-Glen answered the free-speech framing directly: the ban was never about
-free speech but about Don's personal attacks on other members, which had
-brought enough off-list complaints (including members threatening to leave)
-that something had to be done; Don remains reachable elsewhere for anyone
-still wanting his counsel, and Glen saw no reason to revisit the
-decision.[87] A separate voice drew a distinction between Don and "Nutty
-Boats": in this view Don effectively banned himself by directly attacking
-and insulting members and flaming anyone who questioned him, a pattern not
-seen from "T. Lee" of Nutty Boats, who was judged merely opinionated rather
-than personally abusive; the same member disclosed being banned from one of
-Don's own groups without ever having posted there, over something posted on
-an unrelated group entirely.[88] Two further members confirmed being banned
-from a Don Elliott group under similar circumstances — one for a remark
-intended as praise for the design, taken instead as an insult;[91] the other
-recounted Don personally inviting him to join after admiring a sailing sea
-kayak at a Wisconsin boat show, only to later ban himself from Don's
-subsequent "SmallBoats" group over the moderator's own conduct, characterizing
-Don as talented at illustration but poorly socially adjusted and unwilling to
-entertain ideas besides his own, and judging Paradox easy enough to build
-from the original plans without needing Don's manual at all.[92] The member
-who raised the original challenge accepted the moderator's rationale as
-Glen's prerogative and clarified he had not meant to pass judgment on Don,
-only to ask the question, and, taking the exchange in stride, joked about
-one day earning a Don Elliott ban of his own as a badge of honor.[89] A
-further member's dry reply to the disclosed no-post ban — "it's a select
-group I say" — drew the same "can't be that select" pushback above.[90]
+Glen answered the free-speech framing directly: the ban was never about free speech but about personal attacks on other members, which had brought enough off-list complaints (including members threatening to leave) that something had to be done; the banned founder remains reachable elsewhere for anyone still wanting his counsel, and Glen saw no reason to revisit the decision.[87] A separate voice drew a distinction between the banned founder and "Nutty Boats": in this view he had effectively banned himself by directly attacking and insulting members and flaming anyone who questioned him, a pattern not seen from "T. Lee" of Nutty Boats, who was judged merely opinionated rather than personally abusive; the same voice disclosed being banned from one of the founder's own groups without ever having posted there, over something posted on an unrelated group entirely.[88] Two further members confirmed being banned from a Don Elliott group under similar circumstances — one for a remark intended as praise for the design, taken instead as an insult;[91] the other recounted a personal invitation to join after admiring a sailing sea kayak at a Wisconsin boat show, only to later self-ban from the subsequent "SmallBoats" group over the moderator's own conduct, characterizing him as talented at illustration but poorly socially adjusted and unwilling to entertain ideas besides his own, and judging Paradox easy enough to build from the original plans without needing his manual at all.[92] The member who raised the original challenge accepted the moderator's rationale as Glen's prerogative and clarified there was no intent to pass judgment on the banned founder, only to ask the question, and, taking the exchange in stride, joked about one day earning a ban of his own as a badge of honor.[89] A further member's dry reply to the disclosed no-post ban — "it's a select group I say" — drew the same "can't be that select" pushback above.[90]
 
-The exchange closed as a run of ban-story banter rather than further
-argument. The member recounting Don's Wisconsin boat-show invitation drew a
-laugh in reply for his aside dubbing Don "The Donald, jr."[93] The member who
-had joked earlier about earning his own Don Elliott ban proposed, only
-half in jest, starting a dedicated group for everyone Don has banned;[94] the
-"select group" member's deadpan reply was simply "There you go";[95] and a
-co-moderator confirmed the joke was not entirely a joke — "you are number one
-on our list."[96] Told he had, apparently, already earned a spot, the same
-member's reply was "My God, what have I done? My wife says that whatever it
-is I probably deserve it";[97] the co-moderator's closing line judged his wife
-"a very wise lady."[98]
+The exchange closed as a run of ban-story banter rather than further argument. The Wisconsin boat-show invitation drew a laugh in reply for an aside dubbing the founder "The Donald, jr."[93] The earlier joke about earning a ban was followed by a proposal, only half in jest, for starting a dedicated group for everyone he has banned;[94] the "select group" member's deadpan reply was simply "There you go";[95] and a co-moderator confirmed the joke was not entirely a joke — "you are number one on our list."[96] Told he had, apparently, already earned a spot, the reply was "My God, what have I done? My wife says that whatever it is I probably deserve it";[97] the co-moderator's closing line judged his wife "a very wise lady."[98]
 
-The rival group's continuing existence also came up in a separate,
-unrelated context a week later: Glen has never joined Don's rival group
-himself, expecting to be banned there out of spite regardless of anything
-he might post.[99] The suggestion offered in reply was to sign up under a
-false name from a fresh, untraceable e-mail account — a Yahoo address was
-judged too easy to trace back to a list owner, making a webmail account
-from a different provider the safer choice for anyone wanting to read the
-rival group without being identified.[100]
+The rival group's continuing existence also came up in a separate, unrelated context a week later: Glen has never joined the rival group himself, expecting to be banned there out of spite regardless of anything he might post.[99] The suggestion offered in reply was to sign up under a false name from a fresh, untraceable e-mail account — a Yahoo address was judged too easy to trace back to a list owner, making a webmail account from a different provider the safer choice for anyone wanting to read the rival group without being identified.[100]
 
 ## The "Enuf" photo-folder mystery, and Jack Gardiner's own website
 
-The same episode had a lighter coda. [Jack Gardiner](/people/jack-gardiner.md)
-had uploaded pictures of Derek Clark's "Enuf" build to the group's own Photos
-section, only to find the folder unexpectedly empty and his pictures showing
-up instead on Don Elliott's rival group — prompting the "can we get copies
-from Don's group" exchange above.[99][100] Jack himself could still see four
-photos in the group's own Enuf folder and wondered whether some had gone to
-Don's group without his knowledge, offering to host a set on his own website
-regardless.[101] Derek, as the group's moderator's co-administrator for the
-Enuf material, could not account for the mix-up either — he did not remember
-emptying the folder himself and mused it might have been "an act of God" —
-but confirmed the photos were back in place, with more to follow once the
-hull's bottom was finished.[102] Jack shared the link to his personal
-website, `http://members.cox.net/alex29/`, at Derek's request, adding it to
-the small set of individual builder sites already known to the group
-(alongside Alastair's and Bill Serjeant's).[103][104]
+The same episode had a lighter coda. Pictures of an "Enuf" build had been uploaded to the group's own Photos section, only to find the folder unexpectedly empty with the pictures showing up instead on the rival group — prompting the "can we get copies from the rival group" exchange above.[99][100] Four photos could still be seen in the group's own Enuf folder, with uncertainty over whether some had gone to the rival group without knowledge of it, and an offer to host a set on a personal website regardless.[101] The group's moderator's co-administrator for the Enuf material could not account for the mix-up either — no memory of emptying the folder, with a musing it might have been "an act of God" — but confirmed the photos were back in place, with more to follow once the hull's bottom was finished.[102] A personal website link, `http://members.cox.net/alex29/`, was shared on request, adding it to the small set of individual builder sites already known to the group.[103][104]
 
-Derek closed the thread with an unprompted thank-you to the list as a whole,
-naming several correspondents — Nels, Chris Ostlind, Jack Gardiner, David
-Beard, and Dave Bolduc among them — for the mix of Paradox-specific and
-general building, sailing, and life knowledge he had drawn on as his own
-build neared launch, adding that he could not have gotten "Enuf" this far
-without the group.[105] Glen closed out the exchange in his usual style,
-thanking Derek for the finished photos of "Enuf."[106] Derek returned the
-next day to correct his own surname-origin aside from that same post — he
-had written "Molduc" rather than "Bolduc" — blaming it, tongue-in-cheek, on
-"this diabetes."[107]
+The thread closed with an unprompted thank-you to the list as a whole, naming several correspondents for the mix of Paradox-specific and general building, sailing, and life knowledge drawn on as the "Enuf" build neared launch, adding that the boat could not have gotten this far without the group.[105] Glen closed out the exchange in his usual style, thanking the builder for the finished photos of "Enuf."[106] A follow-up the next day corrected a surname-origin aside from that same post — "Molduc" had been written rather than "Bolduc" — blamed, tongue-in-cheek, on "this diabetes."[107]
 
 # Citations
 

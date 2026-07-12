@@ -8,1631 +8,327 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Enuf
 
-**"Enuf"** is [Derek Clark](/people/derek-clark.md)'s UK-built
-[Paradox](/paradox.md). The boat's working name during construction was
-**"So-So"** — the label still used on its Yahoo Groups photo folder — before
-Derek renamed her **"Enuf"** on his wife's suggestion, late enough in the
-build that the group could not find a way to rename the existing photo
-folder and had to delete and re-upload it instead.
+**"Enuf"** is [Derek Clark](/people/derek-clark.md)'s UK-built [Paradox](/paradox.md). The boat's working name during construction was **"So-So"** — the label still used on its Yahoo Groups photo folder — before Derek renamed her **"Enuf"** on his wife's suggestion, late enough in the build that the group could not find a way to rename the existing photo folder and had to delete and re-upload it instead.
 
 ## Ballast layout
 
-Derek's build supplied the archive's fullest single worked ballast layout for
-a Paradox under construction: **11 kg (roughly 23 lb) lead pigs** distributed
-either side of the centerline, including a pig against bulkhead 2 balancing
-a 12V 55Ah battery stowed to port at the same bulkhead; **two lidded
-compartments against bulkhead 3**, each taking up to 22-30 kg of lead;
-anchors and chain (about 20 kg) further aft, alongside space for 30 liters of
-water; food storage bins running from bulkhead 2 to 3; and the crew member's
-own weight seated or lying between bulkheads 2 and 4 — for a **centerline
-total, battery included, of roughly 66 kg** before counting anchors, water,
-stores, or crew. He supplemented this with found scrap lead — a piece
-"shaped like lead pipe" discovered discarded in a skip down the road — as
-low-cost ballast material.
+Derek's build supplied the archive's fullest single worked ballast layout for a Paradox under construction: **11 kg (roughly 23 lb) lead pigs** distributed either side of the centerline, including a pig against bulkhead 2 balancing a 12V 55Ah battery stowed to port at the same bulkhead; **two lidded compartments against bulkhead 3**, each taking up to 22-30 kg of lead; anchors and chain (about 20 kg) further aft, alongside space for 30 liters of water; food storage bins running from bulkhead 2 to 3; and the crew member's own weight seated or lying between bulkheads 2 and 4 — for a **centerline total, battery included, of roughly 66 kg** before counting anchors, water, stores, or crew. He supplemented this with found scrap lead — a piece "shaped like lead pipe" discovered discarded in a skip down the road — as low-cost ballast material.
 
-As the bottom was being finished, [Don Elliott](/people/don-elliott.md)
-supplied Derek with a 14-page PDF of detailed ballast-placement guidance,
-which Derek credited with helping settle his own layout. The list's standing
-practical advice — launch with an empty hull, load with all cruising gear,
-then add lead until she balances level to her designed waterline before
-permanently mounting the ballast — was the method Derek and other builders
-followed; [Glen Maxwell](/people/glen-maxwell.md) confirmed it was exactly
-what he had done on "Zoë" as well. On capsize safety, [Jack
-Gardiner](/people/jack-gardiner.md) reassured Derek that properly secured
-ballast makes the odds of a Paradox turning turtle and staying that way
-effectively nil; Derek, having also read [Alastair](/people/alastair.md)'s
-cruise logs, was confident it would never come to that.
+As the bottom was being finished, Derek received a 14-page PDF of detailed ballast-placement guidance, which he credited with helping settle his own layout. The standing practical advice — launch with an empty hull, load with all cruising gear, then add lead until she balances level to her designed waterline before permanently mounting the ballast — was the method Derek and other builders followed; it was exactly the method used on "Zoë" as well. On capsize safety, properly secured ballast makes the odds of a Paradox turning turtle and staying that way effectively nil; Derek, having also read published cruise logs, was confident it would never come to that.
 
 ## Hull turning, bottom sheathing, and a void repair
 
-Derek's hull was turned over, sheathed in biaxial cloth carried up the sides
-to protect the bottom edge and the chine runners, in the same sequence
-documented for other builders (see [hull assembly sequence — turning the
-hull over](/construction/hull-assembly-sequence.md#turning-the-hull-over)).
-Small white spots appeared in the angle between a chine runner and the side,
-where the sheathing had failed to bond fully into the corner and epoxy had
-not reached underneath the cloth. On Jack Gardiner's advice, Derek **injected
-epoxy into the voids** rather than cutting the spots out, since cutting would
-sacrifice the fiberglass cloth's own strength and continuity at that spot.
-The deck was fully sheathed and the foredeck fitted and faired as the build
-neared completion, with the interior finished except for the vent box and
-electrics.
+Derek's hull was turned over, sheathed in biaxial cloth carried up the sides to protect the bottom edge and the chine runners, in the same sequence documented for other builders (see [hull assembly sequence — turning the hull over](/construction/hull-assembly-sequence.md#turning-the-hull-over)). Small white spots appeared in the angle between a chine runner and the side, where the sheathing had failed to bond fully into the corner and epoxy had not reached underneath the cloth. The recommended fix was to **inject epoxy into the voids** rather than cut the spots out, since cutting would sacrifice the fiberglass cloth's own strength and continuity at that spot. The deck was fully sheathed and the foredeck fitted and faired as the build neared completion, with the interior finished except for the vent box and electrics.
 
 ## Photographs, and a neighbourhood prank
 
-Once the hull was turned upright and its bottom imperfections were no longer
-on view, Derek confirmed to a fellow builder that photographs of the boat
-existed in the group's photos as "Enuf," joking that any slight kink visible
-in a chine runner in those pictures should be chalked up to "photographic
-anomalies" rather than over-exuberant shaping.[97][98] Around the same time,
-Derek found "Enuf" wearing a pair of spectacles one morning — the work of an
-early-rising neighbour who had found them in the grass outside Derek's house
-and fitted them to the hull as a prank. Derek floated painting an eye on the
-bow, in the style of Portuguese fishing boats, and donated the found
-spectacles to charity.[99]
+Once the hull was turned upright and its bottom imperfections were no longer on view, Derek confirmed that photographs of the boat existed in the group's photos as "Enuf," joking that any slight kink visible in a chine runner in those pictures should be chalked up to "photographic anomalies" rather than over-exuberant shaping.[97][98] Around the same time, Derek found "Enuf" wearing a pair of spectacles one morning — the work of an early-rising neighbour who had found them in the grass outside Derek's house and fitted them to the hull as a prank. Derek floated painting an eye on the bow, in the style of Portuguese fishing boats, and donated the found spectacles to charity.[99]
 
 ## The tack strut and boom axle's pivot joint
 
-Derek fabricated his own **tack strut and boom axle pivot joint** — the
-forked ("V") end where the two pieces terminate at their pivot bolt — using
-galvanised steel pipe rather than the plans' brass. Jack Gardiner, who had
-already built the standard forked version in Schedule 40 pipe, warned Derek
-that galvanised pipe rusts at its cut ends, where the galvanising itself is
-cut through. Being UK-based, Derek judged shipping brass pipe from the US
-would carry a disproportionate CO2 cost for a part this small, and looked
-for a local fix instead.
+Derek fabricated his own **tack strut and boom axle pivot joint** — the forked ("V") end where the two pieces terminate at their pivot bolt — using galvanised steel pipe rather than the plans' brass. The standard forked version has been built in Schedule 40 pipe, but galvanised pipe rusts at its cut ends, where the galvanising itself is cut through. Being UK-based, Derek judged shipping brass pipe from the US would carry a disproportionate CO2 cost for a part this small, and looked for a local fix instead.
 
-Proposed remedies included epoxying the pipe ends and fitting a soft-metal
-(copper) cap where the strut meets the deck; a cold-galvanising spray product
-or a "Zinga"-brand coating (both of unproven durability); and hot-dip
-galvanising at a metal shop — set aside once Derek found his local
-galvanisers charge a fixed minimum fee (quoted at £70) regardless of the
-piece's small size, making scrap-yard-sourced galvanised pipe (cheap or
-free, simply replaced as it rusts) the more practical choice. Sourcing brass
-tube directly also proved difficult: the non-ferrous scrap yards Derek
-checked stocked only thin-wall tube in short lengths, which he guessed
-reflected factories salvaging non-ferrous scrap more carefully than ferrous
-scrap. Epoxy coating — sanding the pipe, then painting over the cured epoxy
-for UV protection — was the method that finally worked, and Derek judged it
-much simpler than sourcing or galvanising metal pipe at all.
+Proposed remedies included epoxying the pipe ends and fitting a soft-metal (copper) cap where the strut meets the deck; a cold-galvanising spray product or a "Zinga"-brand coating (both of unproven durability); and hot-dip galvanising at a metal shop — set aside once Derek found his local galvanisers charge a fixed minimum fee (quoted at £70) regardless of the piece's small size, making scrap-yard-sourced galvanised pipe (cheap or free, simply replaced as it rusts) the more practical choice. Sourcing brass tube directly also proved difficult: the non-ferrous scrap yards Derek checked stocked only thin-wall tube in short lengths, which he guessed reflected factories salvaging non-ferrous scrap more carefully than ferrous scrap. Epoxy coating — sanding the pipe, then painting over the cured epoxy for UV protection — was the method that finally worked, and Derek judged it much simpler than sourcing or galvanising metal pipe at all.
 
-A separate fabrication problem surfaced building the **tack strop tube's own
-brass fork** — a 3mm brass sheet fork, cut, shaped, and drilled to be held by
-a brass compression fitting onto 15mm copper water pipe. An experimental
-piece fractured along the bend when Derek tried to bend the fork's arms to a
-right angle even after warming it with a blowlamp. The cause: repeatedly
-working a piece of metal makes it **work-harden**, growing progressively
-harder and more brittle until it snaps at the worked point, with the exact
-behavior depending on the brass alloy's own makeup; annealing (softening the
-metal again by heating it to a specific temperature) is possible but the
-temperature is alloy-dependent and not a simple fixed number. Faced with that
-uncertainty, Derek chose to **cut and braze** the fork instead of bending
-it, judging the extra step would avoid any hidden work-hardening problems —
-and used the decision to justify buying a small brazing torch of his own.[87][88][89]
-Researching the job further in a sheet-metal-working reference book, Derek
-found brazing brass itself advised against, since the brass and the brazing
-filler metal's melting points sit too close together for comfort; **hard
-(silver) soldering** was the recommended joining method instead.[100]
+A separate fabrication problem surfaced building the **tack strop tube's own brass fork** — a 3mm brass sheet fork, cut, shaped, and drilled to be held by a brass compression fitting onto 15mm copper water pipe. An experimental piece fractured along the bend when Derek tried to bend the fork's arms to a right angle even after warming it with a blowlamp. The cause: repeatedly working a piece of metal makes it **work-harden**, growing progressively harder and more brittle until it snaps at the worked point, with the exact behavior depending on the brass alloy's own makeup; annealing (softening the metal again by heating it to a specific temperature) is possible but the temperature is alloy-dependent and not a simple fixed number. Faced with that uncertainty, Derek chose to **cut and braze** the fork instead of bending it, judging the extra step would avoid any hidden work-hardening problems — and used the decision to justify buying a small brazing torch of his own.[87][88][89] Researching the job further in a sheet-metal-working reference book, Derek found brazing brass itself advised against, since the brass and the brazing filler metal's melting points sit too close together for comfort; **hard (silver) soldering** was the recommended joining method instead.[100]
 
-Following that advice, Derek re-cut the fork's ears off, reassembled the
-piece around a threaded rod as a jig, and silver-soldered it — buying a
-Rothenburger brazing gun and MAPP gas bottle plus six 200mm silver-solder
-rods for the job (used sparingly, about 30mm of rod for the whole joint), at
-a UK high-street plumbers' merchant's quoted price of the same gun sold on
-eBay for £10 less. The plumbers' merchant staff doubted the gun would run hot
-enough for brazing despite the "brazing gun" name on its packaging, which
-matched what Derek had already found: brass melts at true brazing
-temperatures, making silver soldering the better process for this joint
-regardless of what the gun's label promised. The finished join cleaned up
-almost invisibly.[120] Bill Serjeant asked for a photograph of the completed
-fork;[121] Derek agreed to post one once he had also added a small bridge
-piece across the joint for extra strength, again trusting his still-new
-silver-soldering skill.[122]
+Following that advice, Derek re-cut the fork's ears off, reassembled the piece around a threaded rod as a jig, and silver-soldered it — buying a Rothenburger brazing gun and MAPP gas bottle plus six 200mm silver-solder rods for the job (used sparingly, about 30mm of rod for the whole joint), at a UK high-street plumbers' merchant's quoted price of the same gun sold on eBay for £10 less. The plumbers' merchant staff doubted the gun would run hot enough for brazing despite the "brazing gun" name on its packaging, which matched what Derek had already found: brass melts at true brazing temperatures, making silver soldering the better process for this joint regardless of what the gun's label promised. The finished join cleaned up almost invisibly.[120] Asked for a photograph of the completed fork,[121] Derek agreed to post one once he had also added a small bridge piece across the joint for extra strength, again trusting his still-new silver-soldering skill.[122]
 
-Derek uploaded four reference photographs of his finished pivot joint to the
-group's Photos section, filing them in his own "Enuf" folder since it
-happened to be empty at the time (see
-[the "Enuf" photo-folder mystery](/people/glen-maxwell/list-founder-and-moderator.md#the-enuf-photo-folder-mystery-and-jack-gardiners-own-website)
-below for that saga) — the fabrication itself is described in full at
-[rig and sail — the tack strut and boom axle's pivot joint: why a "V," and
-alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).
+Derek uploaded four reference photographs of his finished pivot joint to the group's Photos section, filing them in his own "Enuf" folder since it happened to be empty at the time (see [the "Enuf" photo-folder mystery](/people/glen-maxwell/list-founder-and-moderator.md#the-enuf-photo-folder-mystery-and-jack-gardiners-own-website) below for that saga) — the fabrication itself is described in full at [rig and sail — the tack strut and boom axle's pivot joint: why a "V," and alternatives](/design/rig.md#the-tack-strut-and-boom-axles-pivot-joint-why-a-v-and-alternatives).
 
 ## Paint scheme: "three-tone green with a yellow bottom"
 
-Derek ordered a **bright red sail** for visibility rather than the more
-common tan, then turned to the harder question of a hull color to go with
-it. His finishing-epoxy supplier offered colored powders mixable into the
-final resin coat, claiming the color alone was enough UV protection — a
-claim Derek phoned to confirm and remained unsure was fully credible. Working
-from the color wheel, he settled on **green** as red's complement, floating
-first a plain green and then a paler shade as a companion to the red sail.
+Derek ordered a **bright red sail** for visibility rather than the more common tan, then turned to the harder question of a hull color to go with it. His finishing-epoxy supplier offered colored powders mixable into the final resin coat, claiming the color alone was enough UV protection — a claim Derek phoned to confirm and remained unsure was fully credible. Working from the color wheel, he settled on **green** as red's complement, floating first a plain green and then a paler shade as a companion to the red sail.
 
-A practical, safety-driven rationale then reshaped the scheme: red paint on
-the very bottom of the hull makes scratches and scores show through clearly
-for early detection, and, should the boat ever end up capsized and inverted,
-is easy for a rescue helicopter to spot from the air. Derek combined this
-bottom-color reasoning with green for the sides and deck, mixed as a pigment
-into the final finish coat rather than applied as a separate paint layer —
-his supplier's recommendation, made after he had already bought paint of his
-own. That red-for-visibility reasoning was directly challenged when
-independent color-visibility testing was raised on the list: bright
-**yellow**, not red, proved most visible from a distance, with red actually
-ranking among the worst performers — the reason most safety devices are
-yellow rather than red. Derek took the point as fair, retracting distance
-visibility as a reason to favor red on the bottom, though the
-scratch/score-visibility rationale stood on its own. A related suggestion —
-painting an international distress symbol on the flat-enough hull bottom —
-was set aside by Derek in favor of carrying flares, judged more useful over a
-distance, especially given the yellow-over-red visibility point.
+A practical, safety-driven rationale then reshaped the scheme: red paint on the very bottom of the hull makes scratches and scores show through clearly for early detection, and, should the boat ever end up capsized and inverted, is easy for a rescue helicopter to spot from the air. Derek combined this bottom-color reasoning with green for the sides and deck, mixed as a pigment into the final finish coat rather than applied as a separate paint layer — his supplier's recommendation, made after he had already bought paint of his own. That red-for-visibility reasoning was directly challenged when independent color-visibility testing was raised on the list: bright **yellow**, not red, proved most visible from a distance, with red actually ranking among the worst performers — the reason most safety devices are yellow rather than red. Derek took the point as fair, retracting distance visibility as a reason to favor red on the bottom, though the scratch/score-visibility rationale stood on its own. A related suggestion — painting an international distress symbol on the flat-enough hull bottom — was set aside by Derek in favor of carrying flares, judged more useful over a distance, especially given the yellow-over-red visibility point.
 
-The pigmented final coat was mixed into the last coat of epoxy and applied
-with a wide spatula, dragged out to a smooth finish; because one batch could
-not stretch to cover deck and both sides in a single pour, Derek applied it
-in two or three separate sessions, judging any resulting shade difference
-unlikely to matter. The finished scheme was summed up on the list as
-**"three-tone green with a yellow bottom,"** with the word "HELP!" floated,
-tongue-in-cheek, as a finishing touch in International Red.
+The pigmented final coat was mixed into the last coat of epoxy and applied with a wide spatula, dragged out to a smooth finish; because one batch could not stretch to cover deck and both sides in a single pour, Derek applied it in two or three separate sessions, judging any resulting shade difference unlikely to matter. The finished scheme was summed up as **"three-tone green with a yellow bottom,"** with the word "HELP!" floated, tongue-in-cheek, as a finishing touch in International Red.
 
-Along the way, Derek weighed the "Enuf" naval-camouflage joke that grew out
-of the same paint thread — floating that, painted grey with an air rifle
-mounted on the bow, a small boat "could probably pass off as one of our
-modern navy ships at many a dockyard," signing himself "Admiral Clark CDM" —
-before settling on green rather than grey.
+Along the way, Derek weighed the "Enuf" naval-camouflage joke that grew out of the same paint thread — floating that, painted grey with an air rifle mounted on the bow, a small boat "could probably pass off as one of our modern navy ships at many a dockyard," signing himself "Admiral Clark CDM" — before settling on green rather than grey.
 
 ## Mainsheet, mast, and outboard
 
-Derek asked repeatedly about leading the mainsheet clear of a fitted
-outboard — first whether running it in over the top of the rear deck would
-help, then whether running it in above the tiller baffle would let water on
-the sheet drain back out — without a fully settled answer on record beyond
-Jack Gardiner's own rebuilt tack-strut fix (see [rig and sail — mainsheet
-fouling on the rudder and rear deck with an outboard
-fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)).
-He asked after a secondhand aluminum Skipper 12 dinghy mast as a possible
-Paradox mast, and separately settled on keeping his outboard — a
-clutch-and-reverse-less Seagull — alongside a yuloh he also planned to
-build, reasoning that as a diabetic he could not rely on extended sculling
-stamina and that the motor would make better headway against contrary wind
-or tide regardless.
+Derek asked repeatedly about leading the mainsheet clear of a fitted outboard — first whether running it in over the top of the rear deck would help, then whether running it in above the tiller baffle would let water on the sheet drain back out — without a fully settled answer on record beyond a rebuilt tack-strut fix (see [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)). He asked after a secondhand aluminum Skipper 12 dinghy mast as a possible Paradox mast, and separately settled on keeping his outboard — a clutch-and-reverse-less Seagull — alongside a yuloh he also planned to build, reasoning that as a diabetic he could not rely on extended sculling stamina and that the motor would make better headway against contrary wind or tide regardless.
 
-Derek also followed up directly on [David Beard](/people/david-beard.md)'s
-own transom-mounted mainsheet fix for "Whisper" (see [rig and sail —
-mainsheet fouling on the rudder and rear deck with an outboard
-fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)),
-asking over a year later whether David had ever gone ahead with the
-travelling-block-and-bar idea he had floated for keeping the sheet off his
-own outboard. David had not: the fouling had never become enough of a
-problem to motivate the fix, though he still believed it would work, and he
-confirmed he was still running the same 2 hp Honda outboard.[61] Asked to
-confirm which shaft length, David specified the **short-shaft** model,
-which he prefers over a long-shaft Yamaha he also owns: with the motor
-fully lowered, its lowest point stays above the hull's lowest point, so the
-hull grounds on a submerged obstruction before the motor does.[71]
+Derek also followed up over a year later on the transom-mounted mainsheet fix for "[Whisper](/boats/whisper.md)" (see [rig and sail — mainsheet fouling on the rudder and rear deck with an outboard fitted](/design/rig.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted)), asking whether the travelling-block-and-bar idea floated there for keeping the sheet off an outboard had ever gone ahead. It had not: the fouling had never become enough of a problem to motivate the fix, though the approach was still believed to work, and "Whisper" was still running the same 2 hp Honda outboard.[61] On shaft length, the **short-shaft** model was specified, preferred over a long-shaft Yamaha: with the motor fully lowered, its lowest point stays above the hull's lowest point, so the hull grounds on a submerged obstruction before the motor does.[71]
 
 ## The "Enuf" photo-folder mystery, and a thank-you to the list
 
-Late in the build, Jack Gardiner uploaded pictures of Derek's "Enuf" build to
-the group's own Photos section, only to find the folder unexpectedly empty
-and the pictures showing up instead on [Don
-Elliott](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list)'s
-rival group. Derek, as the moderator's co-administrator for the Enuf
-material, could not account for the mix-up either — he did not remember
-emptying the folder himself and mused it might have been "an act of God" —
-but confirmed the photos were back in place, with more to follow once the
-hull's bottom was finished.
+Late in the build, pictures of the "Enuf" build were uploaded to the group's own Photos section, only for the folder to turn up unexpectedly empty and the pictures to show up instead on a [rival group](/people/don-elliott.md#a-rival-group-and-a-dispute-over-who-founded-and-moderates-the-list). Derek, as the moderator's co-administrator for the Enuf material, could not account for the mix-up either — he did not remember emptying the folder himself and mused it might have been "an act of God" — but confirmed the photos were back in place, with more to follow once the hull's bottom was finished.
 
-As his build neared launch, Derek closed the episode with an unprompted
-thank-you to the list as a whole, naming several correspondents — Nels,
-Chris Ostlind, Jack Gardiner, David Beard, and Dave Bolduc among them — for
-the mix of Paradox-specific and general building, sailing, and life
-knowledge he had drawn on, adding that he could not have gotten "Enuf" this
-far without the group. [Glen Maxwell](/people/glen-maxwell.md) closed out the
-exchange in his usual style, thanking Derek for the finished photos of
-"Enuf." Derek separately caught and corrected his own surname-origin aside
-from the same thank-you post the next day — he had written "Molduc" rather
-than "Bolduc" — joking that diabetes "does strange things to the mind."
+As his build neared launch, Derek closed the episode with an unprompted thank-you to the list as a whole for the mix of Paradox-specific and general building, sailing, and life knowledge he had drawn on, adding that he could not have gotten "Enuf" this far without the group. Derek separately caught and corrected his own surname-origin aside from the same thank-you post the next day — he had written "Molduc" rather than "Bolduc" — joking that diabetes "does strange things to the mind."
 
-A later "Enuf pics?" thread wound down the same way, with a last beat of
-closing banter: Derek, picking up the pointy-bit/Oz joke chain, professed to
-have checked "Enuf" from both port and starboard and worried he might have
-"put the pointy bit at the wrong end" — declaring himself too old to
-contemplate emigrating, since the aunts, uncles, and cousins who had gone to
-Australia in the 1960s had "all gone native" and would barely be
-recognisable.[225] Jim Hall closed the exchange with a one-line reassurance:
-not to worry, since after hauling the hull out of the building shed, Derek
-might yet be able to "turn it round."[226]
+A later "Enuf pics?" thread wound down the same way, with a last beat of closing banter: Derek, picking up the pointy-bit/Oz joke chain, professed to have checked "Enuf" from both port and starboard and worried he might have "put the pointy bit at the wrong end" — declaring himself too old to contemplate emigrating, since the aunts, uncles, and cousins who had gone to Australia in the 1960s had "all gone native" and would barely be recognisable.[225] The exchange closed with a one-line reassurance: not to worry, since after hauling the hull out of the building shed, Derek might yet be able to "turn it round."[226]
 
 ## The epoxy that wouldn't cure
 
-Coating and sheathing "Enuf"'s hull bottom with his son, Derek found the
-epoxy still uncured a full 24 hours later, despite temperatures that had
-been fine; he suspected a bad mix ratio, blamed himself rather than his son
-for the error, and estimated roughly £120 of wasted materials if the coat
-had to be stripped off.
+Coating and sheathing "Enuf"'s hull bottom with his son, Derek found the epoxy still uncured a full 24 hours later, despite temperatures that had been fine; he suspected a bad mix ratio, blamed himself rather than his son for the error, and estimated roughly £120 of wasted materials if the coat had to be stripped off.
 
-Two remedies emerged, aimed at different causes. For epoxy that is simply
-slow rather than dead, the fix is a **sun/heat post-cure**: wheel the hull
-out into direct sun for a full day, and wrap it in black plastic sheeting
-(the kind sold for killing garden weeds) to trap solar heat and accelerate
-the cure — commercial boatbuilding epoxies tolerate a post-cure of up to
-200°F for about two hours without concern. Progress can be checked by
-lifting the plastic periodically and pressing a fingernail or screwdriver
-tip into the surface; uniform resistance across the hull means the coat has
-kicked. A bad mix ratio, contamination, or a bad batch of hardener can each
-cause a slow or failed cure, and testing the same epoxy and ratio on a
-scrap piece isolates which of those is at fault.
+Two remedies emerged, aimed at different causes. For epoxy that is simply slow rather than dead, the fix is a **sun/heat post-cure**: wheel the hull out into direct sun for a full day, and wrap it in black plastic sheeting (the kind sold for killing garden weeds) to trap solar heat and accelerate the cure — commercial boatbuilding epoxies tolerate a post-cure of up to 200°F for about two hours without concern. Progress can be checked by lifting the plastic periodically and pressing a fingernail or screwdriver tip into the surface; uniform resistance across the hull means the coat has kicked. A bad mix ratio, contamination, or a bad batch of hardener can each cause a slow or failed cure, and testing the same epoxy and ratio on a scrap piece isolates which of those is at fault.
 
-For epoxy that genuinely will not kick, **adding extra hardener does not
-help**: epoxy cures by molecular bonding between resin and hardener
-molecules in a fixed ratio (for example 5:1), not by a generic chemical
-reaction that more catalyst can push forward the way it can with polyester
-resin — unlike a polyester layup, dosing an already-mismixed epoxy coat
-with more hardener will not rescue it. If the post-cure procedures fail,
-the only remaining option is to **scrape the failed coat off** and start
-over, though a hardened, if botched, coat is still easier to sand off than
-one that stays permanently tacky. A partial exception applies if only
-resin, with no hardener at all, reached the wood: in that case the wood
-itself may simply have absorbed straight resin, and adding hardener
-afterward could still seal the wood and salvage the fiberglass cloth
-already laid up, even if it does not rescue a properly-mixed-but-failed
-coat.
+For epoxy that genuinely will not kick, **adding extra hardener does not help**: epoxy cures by molecular bonding between resin and hardener molecules in a fixed ratio (for example 5:1), not by a generic chemical reaction that more catalyst can push forward the way it can with polyester resin — unlike a polyester layup, dosing an already-mismixed epoxy coat with more hardener will not rescue it. If the post-cure procedures fail, the only remaining option is to **scrape the failed coat off** and start over, though a hardened, if botched, coat is still easier to sand off than one that stays permanently tacky. A partial exception applies if only resin, with no hardener at all, reached the wood: in that case the wood itself may simply have absorbed straight resin, and adding hardener afterward could still seal the wood and salvage the fiberglass cloth already laid up, even if it does not rescue a properly-mixed-but-failed coat.
 
-A separate rescue technique for a coat contaminated by **unmixed,
-uncatalyzed chemistry**: wipe the hull down with rags soaked in **acetone**
-and set it in the sun. The acetone dissolves and lifts the unreacted
-resin/hardener, carrying it off in the rag rather than leaving it to dilute
-and weaken the already-bonded epoxy, while the sun's heat accelerates cure
-of what is left behind.[44] A slow or failed cure can also simply be a bad
-batch of resin or hardener — new, previously unopened chemistry that turns
-out contaminated or mislabeled at the source — in which case no amount of
-troubleshooting on the builder's end will rescue it; a supplier will
-generally warrant only their own product (materials cost, not labor), so a
-small-quantity loss is often better absorbed by switching suppliers than
-pursued as a claim.[45]
+A separate rescue technique for a coat contaminated by **unmixed, uncatalyzed chemistry**: wipe the hull down with rags soaked in **acetone** and set it in the sun. The acetone dissolves and lifts the unreacted resin/hardener, carrying it off in the rag rather than leaving it to dilute and weaken the already-bonded epoxy, while the sun's heat accelerates cure of what is left behind.[44] A slow or failed cure can also simply be a bad batch of resin or hardener — new, previously unopened chemistry that turns out contaminated or mislabeled at the source — in which case no amount of troubleshooting on the builder's end will rescue it; a supplier will generally warrant only their own product (materials cost, not labor), so a small-quantity loss is often better absorbed by switching suppliers than pursued as a claim.[45]
 
-In Derek's case, the rudder blade and stock — coated with the same batch
-and left in the workshop — began hardening off within about 30 hours,
-noticeably ahead of the hull bottom; a patch treated with neat hardener
-showed no visible difference.[46][49] The hull surface itself turned from
-tacky to a matte, fingerprint-resistant finish by the following pre-dawn
-hours (still leaving a fingerprint under firm pressure, but changing from
-shiny to matte under a light drag of the fingers) — a workable middle
-diagnostic between "still liquid" and "fully kicked."[51] One
-correspondent's own patch of slow bottom epoxy had needed a full week to
-harden fully, reinforcing that a slow cure can still be a successful one if
-left alone (or worked around by moving on to another part of the build,
-such as the mast, rudder, or yard, while waiting) rather than stripped
-prematurely.[47][48][50] Derek closed out the episode thanking the list,
-including the correspondent who had shared that week-long-cure experience
-by name, and looked forward to what might become the first UK Paradox
-rally.[52]
+In Derek's case, the rudder blade and stock — coated with the same batch and left in the workshop — began hardening off within about 30 hours, noticeably ahead of the hull bottom; a patch treated with neat hardener showed no visible difference.[46][49] The hull surface itself turned from tacky to a matte, fingerprint-resistant finish by the following pre-dawn hours (still leaving a fingerprint under firm pressure, but changing from shiny to matte under a light drag of the fingers) — a workable middle diagnostic between "still liquid" and "fully kicked."[51] Another builder's own patch of slow bottom epoxy had needed a full week to harden fully, reinforcing that a slow cure can still be a successful one if left alone (or worked around by moving on to another part of the build, such as the mast, rudder, or yard, while waiting) rather than stripped prematurely.[47][48][50] Derek closed out the episode thanking the list, including whoever had shared that week-long-cure experience, and looked forward to what might become the first UK Paradox rally.[52]
 
 ## Why the yard is tapered rather than a constant-diameter pole
 
-While waiting out the epoxy cure, Derek turned to shaping the yard and
-asked why it needed to be tapered at all rather than made from a
-constant-diameter pole such as bamboo, which would carry much less weight
-aloft.[51] The answer: the yard must be **stiffest at the point where it is
-restrained against the mast**, since a yard too flexible there lets the
-sail's corners sag and the sail lose its designed shape; the taper
-concentrates material, and stiffness, at that load point while removing
-weight everywhere else it is not structurally needed.[53] See [rig and
-sail — why yard and boom shape matter for
-pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing) for
-the fuller discussion of how the yard's shape sets the sail's draft.
-Substituting a constant-diameter bamboo pole was nonetheless considered a
-reasonable experiment to try — cheap and easy to replace if it
-underperformed, and useful data for future builders either way.[53]
+While waiting out the epoxy cure, Derek turned to shaping the yard and asked why it needed to be tapered at all rather than made from a constant-diameter pole such as bamboo, which would carry much less weight aloft.[51] The answer: the yard must be **stiffest at the point where it is restrained against the mast**, since a yard too flexible there lets the sail's corners sag and the sail lose its designed shape; the taper concentrates material, and stiffness, at that load point while removing weight everywhere else it is not structurally needed.[53] See [rig and sail — why yard and boom shape matter for pointing](/design/rig.md#why-yard-and-boom-shape-matter-for-pointing) for the fuller discussion of how the yard's shape sets the sail's draft. Substituting a constant-diameter bamboo pole was nonetheless considered a reasonable experiment to try — cheap and easy to replace if it underperformed, and useful data for future builders either way.[53]
 
-Derek accepted the reasoning and, since a bamboo yard would still need to
-line up correctly where it bears against the mast, planned to shape a
-Douglas fir yard after all rather than pursue the bamboo alternative
-further.[54] The underlying structural picture was restated in stronger
-engineering terms: the yard behaves as a **double cantilever** — a beam
-supported (or, in this case, restrained) at one point with both ends free,
-like a seesaw or one span of the Firth of Forth rail bridge — so the
-bending moment, and therefore the required stiffness, falls away the
-further a section sits from the mast, letting the yard progressively thin
-along its length while still holding a constant curvature at the sail's
-edge if the taper is correctly matched to the load.[55][60] A constant-diameter
-bamboo pole would not behave this way and would likely need reinforcement
-where it presses against the mast to avoid being crushed.[60]
+Derek accepted the reasoning and, since a bamboo yard would still need to line up correctly where it bears against the mast, planned to shape a Douglas fir yard after all rather than pursue the bamboo alternative further.[54] The underlying structural picture was restated in stronger engineering terms: the yard behaves as a **double cantilever** — a beam supported (or, in this case, restrained) at one point with both ends free, like a seesaw or one span of the Firth of Forth rail bridge — so the bending moment, and therefore the required stiffness, falls away the further a section sits from the mast, letting the yard progressively thin along its length while still holding a constant curvature at the sail's edge if the taper is correctly matched to the load.[55][60] A constant-diameter bamboo pole would not behave this way and would likely need reinforcement where it presses against the mast to avoid being crushed.[60]
 
 ## Mast chafe from the yard, and finishes to prevent it
 
-A recurring problem for a bare or varnished mast is **chafe from the
-yard**: a mast finished in varnish creates more friction than an
-unfinished or differently-finished surface, and can burn through a sail's
-top sleeve — in one case, a hole roughly 8 in long — especially where the
-yard rubs repeatedly at the same point while sailing reefed, low on the
-mast.[56] Two independent fixes are on record. One builder sewed a leather
-chafe protector onto the sail's top sleeve and planned to refinish the
-mast itself with a **petroleum jelly and linseed oil mixture** instead of
-varnish.[56] A different, and more directly effective, fix addresses the
-sail rather than the mast: lengthening the gap in the sail's sleeve so
-that the **spar, not the sail's cloth, bears against the mast**, combined
-with fitting a **leather sleeve to the mast** itself at the contact
-point — a combination reported to solve the problem entirely.[57] In that
-builder's case the leather sleeve covered only about 4 in of the mast, at
-the point the boom rubs when reefed, since reefed sailing on a single tack
-rarely repeats contact at exactly the same spot; the mast finish was
-epoxy and paint, gradually being sanded back to bare epoxy over time.[59]
+A recurring problem for a bare or varnished mast is **chafe from the yard**: a mast finished in varnish creates more friction than an unfinished or differently-finished surface, and can burn through a sail's top sleeve — in one case, a hole roughly 8 in long — especially where the yard rubs repeatedly at the same point while sailing reefed, low on the mast.[56] Two independent fixes are on record. One is to sew a leather chafe protector onto the sail's top sleeve and refinish the mast itself with a **petroleum jelly and linseed oil mixture** instead of varnish.[56] A different, and more directly effective, fix addresses the sail rather than the mast: lengthening the gap in the sail's sleeve so that the **spar, not the sail's cloth, bears against the mast**, combined with fitting a **leather sleeve to the mast** itself at the contact point — a combination reported to solve the problem entirely.[57] In that case the leather sleeve covered only about 4 in of the mast, at the point the boom rubs when reefed, since reefed sailing on a single tack rarely repeats contact at exactly the same spot; the mast finish was epoxy and paint, gradually being sanded back to bare epoxy over time.[59]
 
-A **segmented pole such as bamboo poses an additional chafe risk** beyond
-plain surface friction: unless a joint between segments happens to fall
-exactly at the point of contact with the mast, the yard will ride up over
-the raised segment joints as it moves, which would be noisy in addition to
-uneven.[56]
+A **segmented pole such as bamboo poses an additional chafe risk** beyond plain surface friction: unless a joint between segments happens to fall exactly at the point of contact with the mast, the yard will ride up over the raised segment joints as it moves, which would be noisy in addition to uneven.[56]
 
 ## A proposed traveller to keep the yard close to the mast when reefed
 
-A further rig idea, raised but not pursued to a resolution in this thread:
-as the sail is progressively reefed on the rolling boom, the yard's
-geometry carries it aft, away from the mast, with little to hold it close
-on the starboard tack. A **Welsford Houdini** dinghy, seen rigged with a
-similar reefable lugsail at a boat rally, uses a **traveller fitted to the
-mast** to keep its yard close at all points of reefing — raising the
-question whether Paradox's rig would benefit from the same fitting. Fitting
-one would mean the boom would need to lift as the Mk.1 sail is reefed, a
-side effect that could itself cause problems; no build or trial of a
-mast-mounted yard traveller on a Paradox is recorded.[58]
+A further rig idea, raised but not pursued to a resolution in this thread: as the sail is progressively reefed on the rolling boom, the yard's geometry carries it aft, away from the mast, with little to hold it close on the starboard tack. A **Welsford Houdini** dinghy, seen rigged with a similar reefable lugsail at a boat rally, uses a **traveller fitted to the mast** to keep its yard close at all points of reefing — raising the question whether Paradox's rig would benefit from the same fitting. Fitting one would mean the boom would need to lift as the Mk.1 sail is reefed, a side effect that could itself cause problems; no build or trial of a mast-mounted yard traveller on a Paradox is recorded.[58]
 
 ## A second epoxy failure: a faulty dispensing pump
 
-A separate cure failure struck Derek's build the following day, distinct
-from the earlier bottom-coat episode (above): a batch mixed carefully with
-metered dispensing pumps, in a workshop heated to 24°C, simply never went
-off. His supplier stood by the chemistry, having used resin from the same
-batch on a roof job the day before with no problem, so Derek tested it
-himself — filling three 35 mm film canisters, two with resin and one with
-hardener, and hand-mixing a sample with an old paintbrush, which set rock
-hard within about two hours. That isolated the fault to the **dispensing
-pumps themselves** rather than the chemistry: taking the hardener pump apart
-found it was not delivering its full metered stroke, and had also developed
-a self-forming crusty internal deposit — the teardown cost Derek a stray
-ball bearing that shot loose across the workshop. He cleaned both pumps and
-started the coat over.[62][63]
+A separate cure failure struck Derek's build the following day, distinct from the earlier bottom-coat episode (above): a batch mixed carefully with metered dispensing pumps, in a workshop heated to 24°C, simply never went off. His supplier stood by the chemistry, having used resin from the same batch on a roof job the day before with no problem, so Derek tested it himself — filling three 35 mm film canisters, two with resin and one with hardener, and hand-mixing a sample with an old paintbrush, which set rock hard within about two hours. That isolated the fault to the **dispensing pumps themselves** rather than the chemistry: taking the hardener pump apart found it was not delivering its full metered stroke, and had also developed a self-forming crusty internal deposit — the teardown cost Derek a stray ball bearing that shot loose across the workshop. He cleaned both pumps and started the coat over.[62][63]
 
-While waiting on the fix, one correspondent's blunter alternative was to
-**stop trusting metered pumps altogether** and measure every batch by volume
-into a marked container instead, judging epoxy too expensive a material to
-risk on a mechanical dispenser's accuracy.[64] Once the pumps were cleaned
-and a fresh coat applied to the bow underside and one side of the rudder
-blade, both set hard, but the same tacky-versus-solid dilemma from the first
-epoxy failure resurfaced on the remaining hull bottom: recoat over the
-already-tacky biax (risking poor adhesion if it later failed) or strip and
-redo it at the cost of new cloth and materials.[65] Jack Gardiner's test was
-to harden a small spot, then dig at it to check whether it had cured solid
-all the way through; if not, clean the area with acetone and add a fresh
-layer.[66]
+While waiting on the fix, a blunter alternative was to **stop trusting metered pumps altogether** and measure every batch by volume into a marked container instead, judging epoxy too expensive a material to risk on a mechanical dispenser's accuracy.[64] Once the pumps were cleaned and a fresh coat applied to the bow underside and one side of the rudder blade, both set hard, but the same tacky-versus-solid dilemma from the first epoxy failure resurfaced on the remaining hull bottom: recoat over the already-tacky biax (risking poor adhesion if it later failed) or strip and redo it at the cost of new cloth and materials.[65] One test is to harden a small spot, then dig at it to check whether it had cured solid all the way through; if not, clean the area with acetone and add a fresh layer.[66]
 
-That acetone suggestion prompted a **safety aside** from Glen Maxwell:
-acetone and similar solvents ("any of the -tones") carry epoxy and its
-toxins through the skin and on into the liver if handled without
-protection, a caution echoed in kind — "same caution applies to the -enes
-and -ols too."[67][68] Derek identified his own solvent as a methoxy/
-propanol mix, already used routinely for tool and hand cleaning, and reported
-a scraper test on the top filler coat: the pigmented top layer lifted off
-easily, and a test patch of the correctly-mixed epoxy peeled away in one
-piece, while the underlying biaxial cloth stayed put, only tacky to the
-touch — confirming the fabric bond itself was sound and the fault was
-confined to the outer coat.[69]
+That acetone suggestion prompted a **safety aside**: acetone and similar solvents ("any of the -tones") carry epoxy and its toxins through the skin and on into the liver if handled without protection, a caution echoed in kind — "same caution applies to the -enes and -ols too."[67][68] Derek identified his own solvent as a methoxy/propanol mix, already used routinely for tool and hand cleaning, and reported a scraper test on the top filler coat: the pigmented top layer lifted off easily, and a test patch of the correctly-mixed epoxy peeled away in one piece, while the underlying biaxial cloth stayed put, only tacky to the touch — confirming the fabric bond itself was sound and the fault was confined to the outer coat.[69]
 
-A further rescue technique reached the list only after the immediate crisis
-had passed: a correspondent who had faced an uncured surface of his own
-found that wiping neat, undiluted **hardener** directly onto the uncured
-epoxy brought it off overnight, with the resulting boat (since passed on to
-a family member) holding up with no sign of the patch failing since.[70] See
-[epoxy coating technique — diagnosing and rescuing a coat that will not
-cure](/construction/epoxy-coating-technique.md#diagnosing-and-rescuing-a-coat-that-will-not-cure)
-for how this second, pump-caused failure fits alongside the earlier
-mix-ratio/bad-batch failure as a distinct diagnosable cause.
+A further rescue technique reached the list only after the immediate crisis had passed: on an uncured surface, wiping neat, undiluted **hardener** directly onto the uncured epoxy brought it off overnight, with the resulting boat (since passed on to a family member) holding up with no sign of the patch failing since.[70] See [epoxy coating technique — diagnosing and rescuing a coat that will not cure](/construction/epoxy-coating-technique.md#diagnosing-and-rescuing-a-coat-that-will-not-cure) for how this second, pump-caused failure fits alongside the earlier mix-ratio/bad-batch failure as a distinct diagnosable cause.
 
-Derek also spent the down time between epoxy sessions teaching himself to
-cook aboard on a Trangia stove, reasoning a boat meant for extended cruising
-ought to come with at least basic galley skills.[62]
+Derek also spent the down time between epoxy sessions teaching himself to cook aboard on a Trangia stove, reasoning a boat meant for extended cruising ought to come with at least basic galley skills.[62]
 
-Testing David Platten's neat-hardener rescue on the second failure's own
-uncured surface, Derek found it did **not** repeat David's earlier
-success: a test patch wiped with neat hardener still failed to set, and a
-fresh, correctly-mixed coat applied directly over the sticky residue set on
-its own surface but did not adhere to the tacky layer underneath. A
-different technique worked on the rudder blade and stock, coated from the
-same bad batch: laying fiberglass mat over the still-tacky epoxy and
-squeegeeing a fresh, correctly-mixed batch through the mat bonded solid.
-With the rudder saved but the hull bottom's top coat still failing to key
-to the tacky layer below it, Derek chose to strip the hull bottom back to
-bare cloth with a scraper rather than risk recoating over an unreliable
-bond — the tacky coating and its fairing powder peeled away in long
-strips, "like skin off a burn."[71][72] David Platten separately suggested
-ditching dispensing pumps altogether in favor of decanting resin and
-hardener into separate snap-lid containers and metering each with a
-veterinary syringe, sourced from a vet or farm-supply shop; Derek's own
-response to the pump-failure saga was more modest — buying a pair of
-graduated measuring jugs to mix by volume going forward.[73][74]
+Testing that neat-hardener rescue on the second failure's own uncured surface, Derek found it did **not** repeat the earlier success: a test patch wiped with neat hardener still failed to set, and a fresh, correctly-mixed coat applied directly over the sticky residue set on its own surface but did not adhere to the tacky layer underneath. A different technique worked on the rudder blade and stock, coated from the same bad batch: laying fiberglass mat over the still-tacky epoxy and squeegeeing a fresh, correctly-mixed batch through the mat bonded solid. With the rudder saved but the hull bottom's top coat still failing to key to the tacky layer below it, Derek chose to strip the hull bottom back to bare cloth with a scraper rather than risk recoating over an unreliable bond — the tacky coating and its fairing powder peeled away in long strips, "like skin off a burn."[71][72] A separate suggestion was to ditch dispensing pumps altogether in favor of decanting resin and hardener into separate snap-lid containers and metering each with a veterinary syringe, sourced from a vet or farm-supply shop; Derek's own response to the pump-failure saga was more modest — buying a pair of graduated measuring jugs to mix by volume going forward.[73][74]
 
-The "Unfolding Calamity for Enuf" thread also brought a new correspondent
-to the list: David Platten introduced himself while it was running,
-explaining his own boat was not yet a Paradox — a twin-masted Breton
-lugger, chaloupe-sardiniere rigged with a dipping lug foresail and a
-standing lug main of equal size — but that having seen Alastair's "Little
-Jim" he was weighing a Paradox as boat "number nine," which was why he had
-just joined the group. David Beard welcomed him.[75][76]
+The "Unfolding Calamity for Enuf" thread also brought a new correspondent to the list, whose own boat was not yet a Paradox — a twin-masted Breton lugger, chaloupe-sardiniere rigged with a dipping lug foresail and a standing lug main of equal size — but who, having seen "Little Jim," was weighing a Paradox as boat "number nine," which was why he had just joined the group.[75][76]
 
 ## Finishing the bottom strip, hired help, and a deliberate durability test
 
-Before hiring two local tradesmen to finish stripping the hull bottom back
-to bare cloth, Derek ran his own deliberate durability test on the still-
-sound biaxial sheathing elsewhere on the hull: cutting a two-inch slash and
-levering the knife blade to lift it, simulating catching something sharp in
-shallow water. The top weave of the biaxial cloth ripped diagonally clean
-across the hull in a two-inch strip, revealing that the top layer of
-sheathing was not actually bonded to the layer beneath it — a finding Derek
-took as confirmation that an aggressive shore crab, given the chance, could
-strip the hull bottom just as thoroughly as he had. He handed the stripping
-job itself to hired help rather than finish it personally, then left for a
-short break away from the build.[77]
+Before hiring two local tradesmen to finish stripping the hull bottom back to bare cloth, Derek ran his own deliberate durability test on the still-sound biaxial sheathing elsewhere on the hull: cutting a two-inch slash and levering the knife blade to lift it, simulating catching something sharp in shallow water. The top weave of the biaxial cloth ripped diagonally clean across the hull in a two-inch strip, revealing that the top layer of sheathing was not actually bonded to the layer beneath it — a finding Derek took as confirmation that an aggressive shore crab, given the chance, could strip the hull bottom just as thoroughly as he had. He handed the stripping job itself to hired help rather than finish it personally, then left for a short break away from the build.[77]
 
-Returning from the break, Derek found the stripping job only partly done —
-white strings of loosely attached, unstripped fabric still clung to the
-hull, gouges marked the bottom "like my crab has attacked," and the
-workshop floor was littered with empty bottles left by his hired help. He
-finished the job himself the following day, reasoning "if you want a job
-doing properly you do it yourself," and expected to have "Enuf" turned
-right-way-up again by the coming weekend on a favorable five-day forecast.[78]
+Returning from the break, Derek found the stripping job only partly done — white strings of loosely attached, unstripped fabric still clung to the hull, gouges marked the bottom "like my crab has attacked," and the workshop floor was littered with empty bottles left by his hired help. He finished the job himself the following day, reasoning "if you want a job doing properly you do it yourself," and expected to have "Enuf" turned right-way-up again by the coming weekend on a favorable five-day forecast.[78]
 
 ## The bottom finished: an exothermic epoxy scare, and turning the hull upright
 
-The stripped, gouge-filled bottom (see above) was finally sanded fair and
-coated for good the following week. Mixing a comparatively large 1.5 litre
-batch and measuring it by jugs rather than a pump, Derek got a sharp lesson
-in **epoxy's exothermic reaction**: partway through spreading the batch, the
-mixing pot itself began smoking and radiating heat, the plastic softening as
-the epoxy "went into overdrive" curing in the pot before it could all be
-applied. The reaction cost him a dizzy spell and a stumble, cured with a
-sweet drink and food rather than any lasting harm, and the batch that had
-already gone down onto the hull cured normally. The lesson generalizes
-beyond this one incident: a large batch mixed in a single pot concentrates
-the cure's heat and can run away well before a thin, spread-out coating
-would, so a big pour is best split into smaller batches or spread
-immediately rather than left to sit in the pot. See [epoxy coating technique
-— mixing container shape and stir
-time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time)
-and [epoxy coating technique — an exothermic runaway in the mixing
-pot](/construction/epoxy-coating-technique.md#an-exothermic-runaway-in-the-mixing-pot)
-for the general hazard this confirmed.[79]
+The stripped, gouge-filled bottom (see above) was finally sanded fair and coated for good the following week. Mixing a comparatively large 1.5 litre batch and measuring it by jugs rather than a pump, Derek got a sharp lesson in **epoxy's exothermic reaction**: partway through spreading the batch, the mixing pot itself began smoking and radiating heat, the plastic softening as the epoxy "went into overdrive" curing in the pot before it could all be applied. The reaction cost him a dizzy spell and a stumble, cured with a sweet drink and food rather than any lasting harm, and the batch that had already gone down onto the hull cured normally. The lesson generalizes beyond this one incident: a large batch mixed in a single pot concentrates the cure's heat and can run away well before a thin, spread-out coating would, so a big pour is best split into smaller batches or spread immediately rather than left to sit in the pot. See [epoxy coating technique — mixing container shape and stir time](/construction/epoxy-coating-technique.md#mixing-container-shape-and-stir-time) and [epoxy coating technique — an exothermic runaway in the mixing pot](/construction/epoxy-coating-technique.md#an-exothermic-runaway-in-the-mixing-pot) for the general hazard this confirmed.[79]
 
-A second, fairing-compound coat went on that same midnight, and by the
-following weekend the bottom was **hard and shiny** — reaching the point
-Derek had been aiming for a fortnight earlier — with neighbours booked to
-help turn "Enuf" right-way-up. He closed the milestone with a blanket
-thank-you to everyone who had advised him through the two epoxy failures,
-summarizing the collective lesson as simply "dump the pump."[79]
+A second, fairing-compound coat went on that same midnight, and by the following weekend the bottom was **hard and shiny** — reaching the point Derek had been aiming for a fortnight earlier — with neighbours booked to help turn "Enuf" right-way-up. He closed the milestone with a blanket thank-you to everyone who had advised him through the two epoxy failures, summarizing the collective lesson as simply "dump the pump."[79]
 
 ## Sealing the tiller thru-hull, and the ventilation trade-off it exposes
 
-With the hull upright, Derek turned to the tiller's own thru-hull opening —
-the same vent-baffle/tiller-port arrangement discussed generally at [transom
-deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).
-Sealing this opening exposed a genuine trade-off rather than a single right
-answer: a snug, bug-proof seal keeps out insects (a real nuisance, up to and
-including a wasp nest found while trailering) but also shuts off airflow
-that the boat depends on for ventilation, particularly noticeable in winter
-sailing when the same open vent that is welcome in summer heat instead lets
-in too much cold air, calling for the holes to be plugged in cold weather
-rather than left permanently open. Techniques for a bug-tight seal without
-losing that airflow, including a wetsuit-neoprene tiller gasket and a
-vent-trunk-mounted cooling fan, are recorded in full at [transom deck plate
-— the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).[81][82][83][84][86]
+With the hull upright, Derek turned to the tiller's own thru-hull opening — the same vent-baffle/tiller-port arrangement discussed generally at [transom deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary). Sealing this opening exposed a genuine trade-off rather than a single right answer: a snug, bug-proof seal keeps out insects (a real nuisance, up to and including a wasp nest found while trailering) but also shuts off airflow that the boat depends on for ventilation, particularly noticeable in winter sailing when the same open vent that is welcome in summer heat instead lets in too much cold air, calling for the holes to be plugged in cold weather rather than left permanently open. Techniques for a bug-tight seal without losing that airflow, including a wetsuit-neoprene tiller gasket and a vent-trunk-mounted cooling fan, are recorded in full at [transom deck plate — the vent baffle](/construction/transom-deck-plate.md#the-vent-baffle-why-the-tiller-rope-opening-exists-and-whether-its-necessary).[81][82][83][84][86]
 
-Looking for a source of neoprene close to home in the middle of England, far
-from the sea, Derek drew two independent suggestions: a local scuba shop,
-which often sells old wetsuits off cheaply or gives them away for salvage
-material, and vinyl or other waterproof fabric of the kind used for outdoor
-seat cushions, sourced from an ordinary fabric shop — the latter prompting
-Derek to remember a large offcut of lorry-tarpaulin material he already had
-on hand from re-covering a canvas canoe. A further, low-tech tip for
-adjusting the vent baffle's airflow by feel: a balled-up towel stuffed into
-the vent box works as a versatile, instantly-adjustable flow restrictor,
-doubling as stowage for the towel itself when not in use.[90][91][92][96]
+Looking for a source of neoprene close to home in the middle of England, far from the sea, Derek drew two independent suggestions: a local scuba shop, which often sells old wetsuits off cheaply or gives them away for salvage material, and vinyl or other waterproof fabric of the kind used for outdoor seat cushions, sourced from an ordinary fabric shop — the latter prompting Derek to remember a large offcut of lorry-tarpaulin material he already had on hand from re-covering a canvas canoe. A further, low-tech tip for adjusting the vent baffle's airflow by feel: a balled-up towel stuffed into the vent box works as a versatile, instantly-adjustable flow restrictor, doubling as stowage for the towel itself when not in use.[90][91][92][96]
 
 ## Toe rail: is it needed, and where to source one in the UK
 
-Facing his own deck's surface texturing, Derek questioned whether the
-Paradox's metal toe rail was needed at all, reasoning that a textured,
-non-skid deck surface would not need the rail to channel rainwater the way
-a smooth deck does (see [blue-water suitability — a catalogue of
-conventional offshore features, weighed and mostly
-declined](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined)
-for the rail's standard role). Firsthand experience settled the question in favor
-of fitting one regardless of the water-channelling question: a season
-sailed without a toe rail proved genuinely **difficult for moving forward on
-deck**, and going back and fitting one afterward "makes things much
-easier" — a practical, footing-and-handhold case for the rail distinct from
-its rainwater-channelling function.[80][85]
+Facing his own deck's surface texturing, Derek questioned whether the Paradox's metal toe rail was needed at all, reasoning that a textured, non-skid deck surface would not need the rail to channel rainwater the way a smooth deck does (see [blue-water suitability — a catalogue of conventional offshore features, weighed and mostly declined](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined) for the rail's standard role). Firsthand experience settled the question in favor of fitting one regardless of the water-channelling question: a season sailed without a toe rail proved genuinely **difficult for moving forward on deck**, and going back and fitting one afterward "makes things much easier" — a practical, footing-and-handhold case for the rail distinct from its rainwater-channelling function.[80][85]
 
-Taking that as confirmation the rail was worth fitting, Derek asked the list
-for a UK supplier of the slotted metal toe rail, without success finding one
-specific enough through his own web searches — the only examples he found
-were pre-fitted to complete, expensive yachts rather than sold as a
-standalone part. The stock design's own rationale, made in reply, went
-beyond the water-channelling function: the plans' toe-rail shape is cheap,
-reduces windage, and does not collect dirt the way a right-angled aluminum
-extrusion would, since an aluminum toe rail bolted on with screws would also
-stand proud of the deck at the wrong angle, sit higher than the rail as
-drawn, and risk a leak path into the hull structure at every screw hole even
-with mastic sealant — a case for keeping the plans' own design, whatever
-material it is built from, rather than substituting stock metal angle.
-Derek, already owning "a decent compass," took the point and settled on
-**wood** rather than continue looking for a metal supplier, closing the
-question without a UK metal-toe-rail source ever being named on the
-list.[93][94][95]
+Taking that as confirmation the rail was worth fitting, Derek asked the list for a UK supplier of the slotted metal toe rail, without success finding one specific enough through his own web searches — the only examples he found were pre-fitted to complete, expensive yachts rather than sold as a standalone part. The stock design's own rationale, made in reply, went beyond the water-channelling function: the plans' toe-rail shape is cheap, reduces windage, and does not collect dirt the way a right-angled aluminum extrusion would, since an aluminum toe rail bolted on with screws would also stand proud of the deck at the wrong angle, sit higher than the rail as drawn, and risk a leak path into the hull structure at every screw hole even with mastic sealant — a case for keeping the plans' own design, whatever material it is built from, rather than substituting stock metal angle. Derek, already owning "a decent compass," took the point and settled on **wood** rather than continue looking for a metal supplier, closing the question without a UK metal-toe-rail source ever being named on the list.[93][94][95]
 
 ## Mast blanks
 
-With the bottom finished and turned upright, Derek's next construction step
-was starting the **mast blanks**, the point his build had reached as this
-record closes.[80]
+With the bottom finished and turned upright, Derek's next construction step was starting the **mast blanks**, the point his build had reached as this record closes.[80]
 
 ## Finishing the spars: epoxy, varnish, and knots in the boom
 
-With the mast underway and the boom already made, Derek turned to how to
-finish the mast, boom, and yard. Jack Gardiner's own practice — **epoxy to
-close and seal the grain, a light sand, then varnish over the epoxy** — was
-recommended over epoxy or varnish alone, since varnish protects the cured
-epoxy from UV breakdown while the epoxy itself seals the wood; Jack advised
-sealing and varnishing every spar completely, "things are going to get
-wet."[101] Two chafe fixes accompanied that advice: a **leather chafe
-protector** sewn onto the sail, sourced in Jack's case from a scavenged 1980s
-leather jacket; and a wrap of **black rubber roofing membrane** (scrap,
-available free or cheap from a commercial roofing company) around the base
-of the mast — Jack judged the rubber would likely outlast a leather
-equivalent there.[103] On sourcing the boom's own length, Jack's boom
-had originally been too long and dipped into the water twice sailing
-unshortened, before he cut it back; how often a boom dips depends heavily on
-local wind, current, and tide conditions rather than the boom length
-alone.[101] Derek, worried he had come across as critical of Jack's boom
-in asking, clarified he had not meant to be, and asked separately whether
-the leather chafe protector was itself treated with anything.[102]
+With the mast underway and the boom already made, Derek turned to how to finish the mast, boom, and yard. The recommended practice — **epoxy to close and seal the grain, a light sand, then varnish over the epoxy** — was preferred over epoxy or varnish alone, since varnish protects the cured epoxy from UV breakdown while the epoxy itself seals the wood; the advice was to seal and varnish every spar completely, "things are going to get wet."[101] Two chafe fixes accompanied that advice: a **leather chafe protector** sewn onto the sail, sourced in one case from a scavenged 1980s leather jacket; and a wrap of **black rubber roofing membrane** (scrap, available free or cheap from a commercial roofing company) around the base of the mast — the rubber judged likely to outlast a leather equivalent there.[103] On sourcing the boom's own length, a boom originally too long dipped into the water twice sailing unshortened, before it was cut back; how often a boom dips depends heavily on local wind, current, and tide conditions rather than the boom length alone.[101] Derek, worried he had come across as critical of that boom in asking, clarified he had not meant to be, and asked separately whether the leather chafe protector was itself treated with anything.[102]
 
-On **knots in the spars**, the working distinction is between an **encased
-knot** — a knot with bark visibly grown around it, marking a weak, poorly
-bonded inclusion — and a **small spike knot**, acceptable so long as they are
-not clustered too closely together given the stresses a sail rig puts on a
-boom or mast under sail. Derek found one bad knot in the centre of his own
-boom running through it at an angle and loose on one side; his plan was to
-pack the loose knot with epoxy as a partial fix while accepting it as a
-lasting weak point.[104] [Glen Maxwell](/people/glen-maxwell.md), asked
-about the same knot, suggested the more thorough fix of **knocking the knot
-out completely and filling the resulting void with epoxy** rather than
-packing around a knot left in place.[105]
+On **knots in the spars**, the working distinction is between an **encased knot** — a knot with bark visibly grown around it, marking a weak, poorly bonded inclusion — and a **small spike knot**, acceptable so long as they are not clustered too closely together given the stresses a sail rig puts on a boom or mast under sail. Derek found one bad knot in the centre of his own boom running through it at an angle and loose on one side; his plan was to pack the loose knot with epoxy as a partial fix while accepting it as a lasting weak point.[104] A more thorough fix was suggested: **knocking the knot out completely and filling the resulting void with epoxy** rather than packing around a knot left in place.[105]
 
-Once the boom was already glued up and shaped, drilling out and plugging the
-knot was no longer practical.[106] Derek judged the knot was not fully dead —
-one end stayed firmly bonded to the surrounding wood, while the other had
-shrunk away from it, a gap only visible after the timber was planed and
-shaped rather than in the rough — and planned to inject epoxy into the gap
-with a hypodermic needle.[107] Jeff (UK) suggested contacting the timber
-merchant, Robbins Timber of Bristol, directly, since a supplier of that
-reputation would likely make it right.[108] A phone call got a
-suspiciously quick, seemingly rote answer, hinting the timber's guarantee no
-longer applied a year after purchase or that the knot itself had changed
-since; unsatisfied, Derek followed up in writing with three photographs of
-the knot and a warning that a boom failure that endangered him would bring a
-further complaint.[109][110] The episode became a running list joke
-("Derek's Knotty Stituation") once Chris Ostlind asked what Robbins had said
-and supplied his own mock answer ("Get Lost... we don't know nothin' about
-no knots").[111] [Bill Serjeant](/people/bill-serjeant.md), who had just
-ordered the bulk of his own Paradox timber from Robbins, noted he would be
-checking his own delivery for knots while its guarantee still held.[112]
-Derek drew the practical lesson that he would inspect timber more carefully
-in the rough on any future build, and that building "Enuf" had by then
-justified buying a table saw, letting him buy oversized stock and choose his
-own cuts rather than pay a merchant's cutting fee — a real saving over
-buying pre-cut lengths.[107]
+Once the boom was already glued up and shaped, drilling out and plugging the knot was no longer practical.[106] Derek judged the knot was not fully dead — one end stayed firmly bonded to the surrounding wood, while the other had shrunk away from it, a gap only visible after the timber was planed and shaped rather than in the rough — and planned to inject epoxy into the gap with a hypodermic needle.[107] A further suggestion was to contact the timber merchant, Robbins Timber of Bristol, directly, since a supplier of that reputation would likely make it right.[108] A phone call got a suspiciously quick, seemingly rote answer, hinting the timber's guarantee no longer applied a year after purchase or that the knot itself had changed since; unsatisfied, Derek followed up in writing with three photographs of the knot and a warning that a boom failure that endangered him would bring a further complaint.[109][110] The episode became a running list joke ("Derek's Knotty Stituation"), with a mock answer supplied for what Robbins might have said ("Get Lost... we don't know nothin' about no knots").[111] Another builder, having just ordered the bulk of his own Paradox timber from Robbins, noted he would be checking his own delivery for knots while its guarantee still held.[112] Derek drew the practical lesson that he would inspect timber more carefully in the rough on any future build, and that building "Enuf" had by then justified buying a table saw, letting him buy oversized stock and choose his own cuts rather than pay a merchant's cutting fee — a real saving over buying pre-cut lengths.[107]
 
-Separately, Bruce Hallman supplied the
-underlying physics: a knot itself is not usually what weakens a wood spar;
-rather, the straight grain of the wood swerves around a knot, producing
-localized **grain runout** in its vicinity, comparable to a scarf joint. Where
-that runout exceeds roughly 8:1, the sounder fix is to cut out the affected
-section and replace it with a proper 8:1 scarf rather than simply filling the
-knot with epoxy, which does nothing to address the runout itself; wrapping
-the affected section in fiberglass and epoxy was offered only as an emergency
-patch, not a real fix.[113] Jack Gardiner agreed, adding that a laminated
-spar (built up from two glued layers, as Derek's boom was) still has one
-intact layer backing the irregular grain at a knot, but that a knot or an
-epoxy-filled repair will not flex evenly with the rest of a spar that is
-itself part of the sail's shape under load — the straighter wood to either
-side of a repair takes more tension than the repair itself, concentrating
-stress there. His practical recommendation, cost and effort aside, was
-replacing a badly knotted spar section outright, with the cut-out piece kept
-on board as a handy stowage spot for a backup set of sails.[114]
+Separately, the underlying physics: a knot itself is not usually what weakens a wood spar; rather, the straight grain of the wood swerves around a knot, producing localized **grain runout** in its vicinity, comparable to a scarf joint. Where that runout exceeds roughly 8:1, the sounder fix is to cut out the affected section and replace it with a proper 8:1 scarf rather than simply filling the knot with epoxy, which does nothing to address the runout itself; wrapping the affected section in fiberglass and epoxy was offered only as an emergency patch, not a real fix.[113] A laminated spar (built up from two glued layers, as Derek's boom was) still has one intact layer backing the irregular grain at a knot, but a knot or an epoxy-filled repair will not flex evenly with the rest of a spar that is itself part of the sail's shape under load — the straighter wood to either side of a repair takes more tension than the repair itself, concentrating stress there. The practical recommendation, cost and effort aside, was replacing a badly knotted spar section outright, with the cut-out piece kept on board as a handy stowage spot for a backup set of sails.[114]
 
-Robbins Timber's own manager, Gordon Lamb, phoned Derek directly once he
-raised the written complaint: he was unhappy the yard had shipped an
-obviously weak piece of timber, and arranged a free replacement (timber and
-carriage both at no charge), agreeing to a 7-10 day delay and declining to
-collect the faulty piece back given the cost of return carriage — leaving
-Derek with a fault-free offcut he judged good enough to make a small canoe
-mast from. The episode closed the "Knotty Stituation" saga with the supplier
-fully making good on its guarantee.[115]
+Robbins Timber's own manager phoned Derek directly once he raised the written complaint: unhappy the yard had shipped an obviously weak piece of timber, he arranged a free replacement (timber and carriage both at no charge), agreeing to a 7-10 day delay and declining to collect the faulty piece back given the cost of return carriage — leaving Derek with a fault-free offcut he judged good enough to make a small canoe mast from. The episode closed the "Knotty Stituation" saga with the supplier fully making good on its guarantee.[115]
 
-The replacement Douglas fir itself then turned up its own knot, 1.7 m from
-the roller, prompting a second, separate "Boom Knots" thread on how much of
-the boom to salvage. Derek's first plan was to cut out the knotty section and
-splice in a short new piece using a mortise-and-tenon joint (dowelled through
-for extra security), reasoning it would need no more gluing area than roughly
-4 in of jointing face. Jeff (UK) argued strongly against any spliced repair:
-timber must be joined with a proper **scarf joint of at least 8:1** (so 16 in
-of overlap for 2-in-thick stock), not a mortise and tenon, since any of the
-four resulting scarf faces being out of true by even a fraction of a degree
-would leave the finished spar with a visible kink — a risk compounded by
-using three separate pieces of wood rather than one continuous length; his
-advice was simply to make the boom from the new piece outright rather than
-live with a kinked spar in the sailor's eyeline on every point of sail.
-Jack Gardiner agreed, warning that a boom which fails is likely to fail
-under the load of a reef, at the worst possible moment, and told his own
-"first sail" story as the stakes: a fickle wind pinned him in a muddy cove
-in front of a shoreside audience of retired locals on his first-ever sail,
-several failed tacks before he freed the rudder slightly and eased the
-sheet to get clear, and the onlookers who "didn't think you were going to
-make it" became a standing "cheering section" that has kept an eye on his
-truck and trailer ever since — the kind of goodwill, he argued, not worth
-risking on a spliced boom's kinked or broken spar in front of them. Derek
-accepted the advice, clarifying he had actually meant a birdsmouth scarf
-rather than a true mortise and tenon, and made the boom from the single new
-piece of timber.[124][125][126][127]
+The replacement Douglas fir itself then turned up its own knot, 1.7 m from the roller, prompting a second, separate "Boom Knots" thread on how much of the boom to salvage. Derek's first plan was to cut out the knotty section and splice in a short new piece using a mortise-and-tenon joint (dowelled through for extra security), reasoning it would need no more gluing area than roughly 4 in of jointing face. The counter-argument came strongly against any spliced repair: timber must be joined with a proper **scarf joint of at least 8:1** (so 16 in of overlap for 2-in-thick stock), not a mortise and tenon, since any of the four resulting scarf faces being out of true by even a fraction of a degree would leave the finished spar with a visible kink — a risk compounded by using three separate pieces of wood rather than one continuous length; the advice was simply to make the boom from the new piece outright rather than live with a kinked spar in the sailor's eyeline on every point of sail. A boom which fails is likely to fail under the load of a reef, at the worst possible moment, illustrated by a "first sail" story: a fickle wind pinned the sailor in a muddy cove in front of a shoreside audience of retired locals on a first-ever sail, several failed tacks before freeing the rudder slightly and easing the sheet to get clear, and the onlookers who "didn't think you were going to make it" became a standing "cheering section" that has kept an eye on the truck and trailer ever since — the kind of goodwill not worth risking on a spliced boom's kinked or broken spar in front of them. Derek accepted the advice, clarifying he had actually meant a birdsmouth scarf rather than a true mortise and tenon, and made the boom from the single new piece of timber.[124][125][126][127]
 
 ## Tack strop fork: a reinforcing bridge piece, and an improvised forge
 
-Following through on the bridge piece across the joint he had promised Bill
-Serjeant a photograph of, Derek silver-soldered an extra brass plate across
-the tack strop fork, built a small improvised forge for the job by lining a
-biscuit tin with fire bricks taken from a fireplace — using noticeably less
-gas to reach soldering heat than working in the open — and posted the
-finished photographs to the "Enuf" folder. As a fallback if the reinforced
-fork was not strong enough, he considered slitting a further length of
-15mm copper pipe and forcing it over the existing tube before soldering the
-two together, matching the copper-pipe approach he understood a fellow
-builder ("Al") to be using for the same fitting.[128]
+Following through on the promised bridge piece across the joint, Derek silver-soldered an extra brass plate across the tack strop fork, built a small improvised forge for the job by lining a biscuit tin with fire bricks taken from a fireplace — using noticeably less gas to reach soldering heat than working in the open — and posted the finished photographs to the "Enuf" folder. As a fallback if the reinforced fork was not strong enough, he considered slitting a further length of 15mm copper pipe and forcing it over the existing tube before soldering the two together, matching a copper-pipe approach used elsewhere for the same fitting.[128]
 
-Alastair confirmed 15mm pipe is plenty strong used straight, but that
-splitting it (as Derek was considering) weakens it too far; his own method
-was to spread the far end of the pipe with a tapered punch, then curl the
-spread metal back on itself with a small hammer to form a rolled edge,
-avoiding a raw cut edge that would otherwise cut into the deck.[129]
+The counsel was that 15mm pipe is plenty strong used straight, but that splitting it (as Derek was considering) weakens it too far; a better method is to spread the far end of the pipe with a tapered punch, then curl the spread metal back on itself with a small hammer to form a rolled edge, avoiding a raw cut edge that would otherwise cut into the deck.[129]
 
 ## Storing and stepping the mast
 
-Planing the assembled mast blank square on one side, Derek found the epoxy
-glue line dulled his plane blade quickly, though he found resharpening it a
-pleasant break from the work. Checking the mast against the plans' 1:1
-pulley sketch, he discovered the side blanks are not just shaped fore and
-aft but also **tapered in thickness**, a detail he had missed initially;
-there was enough material in his own blanks to correct the taper by bandsaw
-and plane rather than start over.[116] Within days the mast was up and in
-its final shape, though not yet finished.[117]
+Planing the assembled mast blank square on one side, Derek found the epoxy glue line dulled his plane blade quickly, though he found resharpening it a pleasant break from the work. Checking the mast against the plans' 1:1 pulley sketch, he discovered the side blanks are not just shaped fore and aft but also **tapered in thickness**, a detail he had missed initially; there was enough material in his own blanks to correct the taper by bandsaw and plane rather than start over.[116] Within days the mast was up and in its final shape, though not yet finished.[117]
 
-Asked whether the finished mast would stow inside the hull, Derek planned to
-store it inside, wary of mast theft from a trailered boat left unattended at
-motorway service stations — a concern raised elsewhere on the list — though
-he had not yet test-fitted it through the mast hole and hoped to shorten it
-once the sail was fitted and adjusted.[118][119] Fitting the sail also
-turned up a finishing gap of its own: the sail's head sleeve had no cutout
-for the halyard fastening, which Derek planned to cut and trim with leather
-himself.[119]
+Asked whether the finished mast would stow inside the hull, Derek planned to store it inside, wary of mast theft from a trailered boat left unattended at motorway service stations — a concern raised elsewhere on the list — though he had not yet test-fitted it through the mast hole and hoped to shorten it once the sail was fitted and adjusted.[118][119] Fitting the sail also turned up a finishing gap of its own: the sail's head sleeve had no cutout for the halyard fastening, which Derek planned to cut and trim with leather himself.[119]
 
-Alastair, who had offered his own scullling range as a hedge against a
-snapped mast, reported the wider context: back from a few days sailing Poole
-Harbour in hot, sunny weather, he had rowed rather than motor across a calm
-morning even with a fishing boat "droning away" on the far side of the
-harbour, and another sculler present — bound several miles further on, to
-Redcliffe, and equipped with a motor — likewise chose to row for a stretch
-before a breeze sprang up and he hoisted sail instead.[123]
+A sculling range had been offered as a hedge against a snapped mast, with the wider context: back from a few days sailing Poole Harbour in hot, sunny weather, a sailor had rowed rather than motor across a calm morning even with a fishing boat "droning away" on the far side of the harbour, and another sculler present — bound several miles further on, to Redcliffe, and equipped with a motor — likewise chose to row for a stretch before a breeze sprang up and hoisted sail instead.[123]
 
 ## Resuming work: a new boom, and a propane heater
 
-After a pause in construction, Derek reported resuming work on "Enuf" in
-mid-December 2005, with a new boom taking shape. His unheated garage, at 9°C
-when he started, reached 20°C in short order once he brought in a propane
-fan heater — warm enough that he nearly took his vest off.[130] Given a
-caution about carbon monoxide build-up from unvented gas heaters — a real
-hazard even in well-ventilated spaces like tents, with fatalities recorded
-after hurricanes in the US — Derek made a habit of testing the workshop's
-air before using the heater, sending his wife in first to check the
-thermometer; she had come back out safely every time so far.[131][132]
+After a pause in construction, Derek reported resuming work on "Enuf" in mid-December 2005, with a new boom taking shape. His unheated garage, at 9°C when he started, reached 20°C in short order once he brought in a propane fan heater — warm enough that he nearly took his vest off.[130] Given a caution about carbon monoxide build-up from unvented gas heaters — a real hazard even in well-ventilated spaces like tents, with fatalities recorded after hurricanes in the US — Derek made a habit of testing the workshop's air before using the heater, sending his wife in first to check the thermometer; she had come back out safely every time so far.[131][132]
 
-**A transom spar-stowage port.** Separately from the transom's ventilation
-port and baffle (see [construction/transom-deck-plate.md](/construction/transom-deck-plate.md)),
-Derek cut a dedicated hole in "Enuf"'s transom for stowing the spars: about
-150 mm in diameter, with a plywood ring glued around it giving a 180 mm
-inner diameter, closed by a 180 mm disc of Lexan carried on a center bolt
-and a bar across the inside with a captive nut, sealed with a cork gasket.
-He judged a proprietary dinghy inspection port would have been quicker to
-fit, but preferred building his own; the design was untested as of early
-2006, awaiting the coming sailing season.[132]
+**A transom spar-stowage port.** Separately from the transom's ventilation port and baffle (see [construction/transom-deck-plate.md](/construction/transom-deck-plate.md)), Derek cut a dedicated hole in "Enuf"'s transom for stowing the spars: about 150 mm in diameter, with a plywood ring glued around it giving a 180 mm inner diameter, closed by a 180 mm disc of Lexan carried on a center bolt and a bar across the inside with a captive nut, sealed with a cork gasket. He judged a proprietary dinghy inspection port would have been quicker to fit, but preferred building his own; the design was untested as of early 2006, awaiting the coming sailing season.[132]
 
 ## The yard, revisited: a strop-and-sheave halyard, and finishing the boom
 
-Work on the boom and mast continued through January 2006. Derek considered
-running the halyard over a strop and sheave rather than cutting a slot in
-the mast, and — not for the first time — reconsidered a bamboo yard, this
-time proposing to reinforce the point where it would bear against the mast
-with fibreglass tape wrapped around the bamboo, again weighing this against
-the plans' heavier, cantilevered wooden yard.[133] He resolved the question
-by making the yard from wood after all: inspecting his timber stock, he
-found the boom blank's dead knot could be cut down, moving the flaw nearer
-the end and halving its depth, with a wedge-shaped piece planned to replace
-the cut-out section.[134] (See [why the yard is tapered rather than a
-constant-diameter pole](#why-the-yard-is-tapered-rather-than-a-constant-diameter-pole)
-above for the fuller, previously-settled case against a plain bamboo pole.)
+Work on the boom and mast continued through January 2006. Derek considered running the halyard over a strop and sheave rather than cutting a slot in the mast, and — not for the first time — reconsidered a bamboo yard, this time proposing to reinforce the point where it would bear against the mast with fibreglass tape wrapped around the bamboo, again weighing this against the plans' heavier, cantilevered wooden yard.[133] He resolved the question by making the yard from wood after all: inspecting his timber stock, he found the boom blank's dead knot could be cut down, moving the flaw nearer the end and halving its depth, with a wedge-shaped piece planned to replace the cut-out section.[134] (See [why the yard is tapered rather than a constant-diameter pole](#why-the-yard-is-tapered-rather-than-a-constant-diameter-pole) above for the fuller, previously-settled case against a plain bamboo pole.)
 
-While finishing the boom, Derek also asked whether the yuloh could simply
-be mounted in a standard oar socket, and asked about the relative merits of
-2 hp Honda and Suzuki outboards.[135] On the oar-socket question: an ordinary
-rowlock carries a real risk of tangling with the mainsheet, which can lift it
-out, and wears the oar enough to need good leathers, though many scullers use
-one anyway; fitting a rowlock socket keeps the option open to drop in the
-plans' designed pin (or any other fitting) later, if the rowlock proves
-unsatisfactory — ideally with the wedge's top face cut parallel to the oar,
-though the exact angle is not thought to matter much.[136][137][138] The
-outboard question was answered by David Beard, who runs a **2 hp Honda** on
-"[Whisper](/boats/whisper.md)": he prefers its **short shaft** over a long
-one, and it pushes her at hull speed at a little under half throttle — a
-figure consistent with his standing outboard-weight data point (see
-[auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane)).[139][140][141]
-Derek settled on "rowlock" as the word he had been looking for; American and
-British usage differ here, since the same fitting is called an "oarlock" on
-the American side of the Atlantic, a note Derek accepted good-naturedly:
-whichever side of the Atlantic he was ever blown to, that is what he would
-call it.[142][144]
+While finishing the boom, Derek also asked whether the yuloh could simply be mounted in a standard oar socket, and asked about the relative merits of 2 hp Honda and Suzuki outboards.[135] On the oar-socket question: an ordinary rowlock carries a real risk of tangling with the mainsheet, which can lift it out, and wears the oar enough to need good leathers, though many scullers use one anyway; fitting a rowlock socket keeps the option open to drop in the plans' designed pin (or any other fitting) later, if the rowlock proves unsatisfactory — ideally with the wedge's top face cut parallel to the oar, though the exact angle is not thought to matter much.[136][137][138] On the outboard question, a **2 hp Honda** running on "[Whisper](/boats/whisper.md)" is preferred with its **short shaft** over a long one, and it pushes her at hull speed at a little under half throttle — a figure consistent with the standing outboard-weight data point (see [auxiliary outboard power](/operations/auxiliary-outboard-power.md#weighing-a-2-hp-four-stroke-against-a-bigger-motor-and-whether-paradox-can-plane)).[139][140][141] Derek settled on "rowlock" as the word he had been looking for; American and British usage differ here, since the same fitting is called an "oarlock" on the American side of the Atlantic, a note Derek accepted good-naturedly: whichever side of the Atlantic he was ever blown to, that is what he would call it.[142][144]
 
-A working answer to the underlying yuloh-in-a-rowlock question came from a
-*Watercraft Magazine* contributor building a similar yuloh for his own 14 ft
-lugger (not a Paradox), mounted in a standard rowlock fitted to the transom:
-the loom is leathered where it passes through the rowlock, with a "button" of
-three 3 mm leather layers screwed to the underside to stop the loom sliding
-through. Contrary to the expectation that the button should sit against the
-rowlock's aft face to stop the loom riding up, it works better positioned
-against the **forward** face — the loom's own down-and-aft angle is enough on
-its own to prevent riding up, making the button largely unnecessary in
-practice. The technique, featured in *Watercraft Magazine*'s Nov/Dec 2005
-issue, gave Derek the practical, tested answer that Alastair's rowlock caution
-above had left open.[145][146]
+A working answer to the underlying yuloh-in-a-rowlock question came from a *Watercraft Magazine* contributor building a similar yuloh for a 14 ft lugger (not a Paradox), mounted in a standard rowlock fitted to the transom: the loom is leathered where it passes through the rowlock, with a "button" of three 3 mm leather layers screwed to the underside to stop the loom sliding through. Contrary to the expectation that the button should sit against the rowlock's aft face to stop the loom riding up, it works better positioned against the **forward** face — the loom's own down-and-aft angle is enough on its own to prevent riding up, making the button largely unnecessary in practice. The technique, featured in *Watercraft Magazine*'s Nov/Dec 2005 issue, gave Derek the practical, tested answer that the earlier rowlock caution above had left open.[145][146]
 
 ## A slot-top cabin idea for open-water use
 
-Planning to use "Enuf" on rivers, estuaries, and short estuary-to-estuary sea
-trips, Derek considered a departure from the stock cabin construction: a
-**slot-top cabin**, of the kind Jim Michalak and Phil Bolger often use on
-their own designs, cut from 12 mm plywood sides and front with the window
-shapes routed out to flush-fit Lexan on a silicone bed, and a lift-out rear
-window giving access to the outboard with the cabin top closed. The appeal is
-easier access to the mast and bow, and more room to stand up in; the
-drawback he identified himself is that a Paradox lying on her side with the
-slot open might not float as designed. Working through how to seal a slot
-top against that risk, Derek's leading idea was a plasticised fabric of the
-kind used for soft-sided lorry-trailer curtains — material he had just used
-to skin a kayak and found very strong.[143] This is a distinct, independent
-proposal from the archive's earlier, more theoretical stretched/composite
-cabin-top discussion for a steel-hulled Paradox (extending the stock cabin
-top forward while keeping the aft end as a water-entry point); see
-[aluminum and steel Paradox (speculative) — stretching the cabin top and
-sizing windows for open-water
-use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use)
-for that precedent.
+Planning to use "Enuf" on rivers, estuaries, and short estuary-to-estuary sea trips, Derek considered a departure from the stock cabin construction: a **slot-top cabin**, of the kind often used on other small-craft designs, cut from 12 mm plywood sides and front with the window shapes routed out to flush-fit Lexan on a silicone bed, and a lift-out rear window giving access to the outboard with the cabin top closed. The appeal is easier access to the mast and bow, and more room to stand up in; the drawback he identified himself is that a Paradox lying on her side with the slot open might not float as designed. Working through how to seal a slot top against that risk, Derek's leading idea was a plasticised fabric of the kind used for soft-sided lorry-trailer curtains — material he had just used to skin a kayak and found very strong.[143] This is a distinct, independent proposal from the archive's earlier, more theoretical stretched/composite cabin-top discussion for a steel-hulled Paradox (extending the stock cabin top forward while keeping the aft end as a water-entry point); see [aluminum and steel Paradox (speculative) — stretching the cabin top and sizing windows for open-water use](/design/aluminum-construction-idea.md#stretching-the-cabin-top-and-sizing-windows-for-open-water-use) for that precedent.
 
-[Bill Serjeant](/people/bill-serjeant.md) cautioned against the idea despite
-granting its appeal for UK sailors (an open cabin able to catch scarce
-sunshine): an open slot-top and washboard opening would meaningfully reduce
-the boat's **self-righting characteristic**, inviting water to rush in on a
-knockdown and potentially leaving her floating low even after righting
-herself, buoyant foam notwithstanding. His caution against deviating from
-Matt Layden's design, even on waters judged sheltered, drew on his own
-experience: his 22 ft Wharram Hina catamaran was once knocked down by a
-sudden, freak gust on an otherwise calm afternoon, and he recalled a small
-sailing cruiser and, separately, a Dragon racing yacht in Torbay each
-sinking within minutes of a similar knockdown after taking on water through
-an open cockpit and cabin.[147]
+The idea drew caution despite its appeal for UK sailors (an open cabin able to catch scarce sunshine): an open slot-top and washboard opening would meaningfully reduce the boat's **self-righting characteristic**, inviting water to rush in on a knockdown and potentially leaving her floating low even after righting herself, buoyant foam notwithstanding. The caution against deviating from Matt Layden's design, even on waters judged sheltered, drew on firsthand experience: a 22 ft Wharram Hina catamaran once knocked down by a sudden, freak gust on an otherwise calm afternoon, and a recollection of a small sailing cruiser and, separately, a Dragon racing yacht in Torbay each sinking within minutes of a similar knockdown after taking on water through an open cockpit and cabin.[147]
 
-[Alastair](/people/alastair.md) offered a counterpoint from his own
-experience with "Little Jim": in a comparable knockdown, water did not
-start coming inside until the mast was nearly horizontal in the water, and
-he was convinced wind alone could not cause a full knockdown without wave
-action assisting it; once the wind eased, the boat popped back upright
-almost immediately, limiting water ingress to little more than a wet
-sleeve. He judged a slot-top could work if a soft cover sealed reasonably
-well — citing the RNLI's own closely fitting plasticised-fabric deck-locker
-covers, held on by hooks and bungee, as a precedent — but weighed against
-that his own biggest reservation: an open, fabric-covered slot sacrifices
-the stock cabin's theft security, which as designed keeps the boat's
-contents safe from all but the most determined intruder.[148] Derek thanked
-both correspondents for the input, concluding it is "difficult to improve
-on the original."[149] Alastair then suggested a way to test the idea without
-committing to it irreversibly: **bolt the cabin roof on rather than glue and
-nail it**, so a slot-top or other modification could be tried and, if it
-didn't work out, reversed back to the stock design.[150] Derek took up the
-suggestion, planning to build to the plans except for the lid itself, and
-noting that launching on a lake made a possibly imperfect seal on an
-experimental lid less of a concern than it would be at sea.[151]
+A counterpoint came from firsthand experience with "Little Jim": in a comparable knockdown, water did not start coming inside until the mast was nearly horizontal in the water, and wind alone was judged unable to cause a full knockdown without wave action assisting it; once the wind eased, the boat popped back upright almost immediately, limiting water ingress to little more than a wet sleeve. A slot-top could work if a soft cover sealed reasonably well — the RNLI's own closely fitting plasticised-fabric deck-locker covers, held on by hooks and bungee, cited as a precedent — but weighed against that a bigger reservation: an open, fabric-covered slot sacrifices the stock cabin's theft security, which as designed keeps the boat's contents safe from all but the most determined intruder.[148] Derek thanked both correspondents for the input, concluding it is "difficult to improve on the original."[149] A way to test the idea without committing to it irreversibly then surfaced: **bolt the cabin roof on rather than glue and nail it**, so a slot-top or other modification could be tried and, if it didn't work out, reversed back to the stock design.[150] Derek took up the suggestion, planning to build to the plans except for the lid itself, and noting that launching on a lake made a possibly imperfect seal on an experimental lid less of a concern than it would be at sea.[151]
 
 ## A fabric roll-top, and the wider hard-top-vs-soft-top question
 
-Derek's own settled hatch design is a **fabric roll-top**, reinforced by a
-sliding panel of ply or polycarbonate underneath so the fabric has backing
-support against a wave dumping on the closed cabin in rough weather.[166] A
-newcomer's interest in that design — and separately, Jim Hall's observation
-that a Paradox sailor can sit comfortably even with the top closed — set
-Derek thinking further about whether standing headroom and a closed,
-weatherproof top have to be treated as mutually exclusive, or whether the
-top could simply be built permanently a little higher than the plans specify
-(clearing the boom) so the seat position always has headroom regardless of
-whether the top is open or shut.[167][170]
+Derek's own settled hatch design is a **fabric roll-top**, reinforced by a sliding panel of ply or polycarbonate underneath so the fabric has backing support against a wave dumping on the closed cabin in rough weather.[166] A newcomer's interest in that design — and separately, an observation that a Paradox sailor can sit comfortably even with the top closed — set Derek thinking further about whether standing headroom and a closed, weatherproof top have to be treated as mutually exclusive, or whether the top could simply be built permanently a little higher than the plans specify (clearing the boom) so the seat position always has headroom regardless of whether the top is open or shut.[167][170]
 
-That question fed into a broader, still-unresolved design conversation about
-**hard-top versus soft-top cabin covers**, drawing on precedents from
-trailer-sailer pop-tops (a hinged, scissor-propped roof raised at anchor) and
-tent design. Ideas floated included hinging a rigid top at the forward end
-with fabric sides, removable as a unit — dropped once it became clear that
-lifting it far enough to stand would put it at roughly 45 degrees and foul
-the boom;[169] and a **hooped fabric cover** built like a dome tent, using
-permanently-sleeved bendy rods stuck into angled sockets at each end so the
-hoops alone would hold it braced, extending a little beyond the hatch
-opening at both ends to keep a seated sailor dry even with the ends left
-open — potentially usable underway as well as at anchor, and not needing to
-be very tall if kept to the minimum headroom required.[171] Jim Hall
-separately wondered whether a plexiglass dome insert could be fitted into
-the existing hatch opening, and whether there would be enough clearance for
-one under the boom.[173]
+That question fed into a broader, still-unresolved design conversation about **hard-top versus soft-top cabin covers**, drawing on precedents from trailer-sailer pop-tops (a hinged, scissor-propped roof raised at anchor) and tent design. Ideas floated included hinging a rigid top at the forward end with fabric sides, removable as a unit — dropped once it became clear that lifting it far enough to stand would put it at roughly 45 degrees and foul the boom;[169] and a **hooped fabric cover** built like a dome tent, using permanently-sleeved bendy rods stuck into angled sockets at each end so the hoops alone would hold it braced, extending a little beyond the hatch opening at both ends to keep a seated sailor dry even with the ends left open — potentially usable underway as well as at anchor, and not needing to be very tall if kept to the minimum headroom required.[171] A separate suggestion wondered whether a plexiglass dome insert could be fitted into the existing hatch opening, and whether there would be enough clearance for one under the boom.[173]
 
-[Alastair](/people/alastair.md) offered his own already-practiced solution
-to the same problem aboard "little Jim": an ordinary umbrella clamped to the
-back of the sliding hatch, adjustable for height and for fore/aft and
-lateral position by sliding the hatch itself. He uses it at anchor for sun
-or rain shelter while still sitting in the open air, and has even run under
-it in light winds (though it would need guying to be used on a reach); it
-also does duty going ashore to the pub in the rain. Weighed against any
-soft-top scheme, though, he prefers the stock **hard hatch** for the
-security it gives him locked shut and unattended — the same theft-resistance
-concern Bill Serjeant raised earlier against an open slot-top (see
-[above](#a-slot-top-cabin-idea-for-open-water-use)).[172] Jim Hall, having
-separately noticed how securely "Little Jim" could be left unattended by a
-canal towpath with a padlock through the hatch slider, put the security
-question directly to Derek: wouldn't a fabric top leave "Enuf" more
-vulnerable to vandals?[175]
+An already-practiced solution to the same problem aboard "little Jim": an ordinary umbrella clamped to the back of the sliding hatch, adjustable for height and for fore/aft and lateral position by sliding the hatch itself. It serves at anchor for sun or rain shelter while still sitting in the open air, and has even been run under in light winds (though it would need guying to be used on a reach); it also does duty going ashore to the pub in the rain. Weighed against any soft-top scheme, though, the stock **hard hatch** is preferred for the security it gives locked shut and unattended — the same theft-resistance concern raised earlier against an open slot-top (see [above](#a-slot-top-cabin-idea-for-open-water-use)).[172] Having separately noticed how securely "Little Jim" could be left unattended by a canal towpath with a padlock through the hatch slider, the security question was put directly to Derek: wouldn't a fabric top leave "Enuf" more vulnerable to vandals?[175]
 
-Derek's answer confirmed the trade-off rather than dismissing it: a soft top
-is undoubtedly more vulnerable, though he judged vandalism unlikely to reach
-as far west and south as his own mooring, and not an insurmountable problem
-in any case. His preference for a fabric top over the sliding hatch remained
-one of simplicity: a strong, waterproof fabric held by bungee cord and clips
-over a lip would cover the cabin opening, folding back easily in fine
-weather and closing well enough for ordinary rain; for genuinely bad weather
-or when leaving the boat unattended, a ply or plastic board could be bolted
-in under or over the fabric using Allen bolts into secure nuts — nothing
-left on show to tempt a thief — making a padlocking arrangement feasible
-after all. He allowed that sticking with the plans and building the stock
-slider remained the easier option, and that he hadn't yet regained full use
-of an injured hand, leaving him "plenty of thinking time."[176] Alastair,
-for his part, answered the bowler-hat jibe about his umbrella in kind — a
-Panama in sunshine, a bobble-less bobble hat in the cold, and a deerstalker
-with ear flaps as an aspiration — without retreating from his preference for
-the secure, lockable hard hatch.[177]
+Derek's answer confirmed the trade-off rather than dismissing it: a soft top is undoubtedly more vulnerable, though he judged vandalism unlikely to reach as far west and south as his own mooring, and not an insurmountable problem in any case. His preference for a fabric top over the sliding hatch remained one of simplicity: a strong, waterproof fabric held by bungee cord and clips over a lip would cover the cabin opening, folding back easily in fine weather and closing well enough for ordinary rain; for genuinely bad weather or when leaving the boat unattended, a ply or plastic board could be bolted in under or over the fabric using Allen bolts into secure nuts — nothing left on show to tempt a thief — making a padlocking arrangement feasible after all. He allowed that sticking with the plans and building the stock slider remained the easier option, and that he hadn't yet regained full use of an injured hand, leaving him "plenty of thinking time."[176] The bowler-hat jibe about the umbrella was answered in kind — a Panama in sunshine, a bobble-less bobble hat in the cold, and a deerstalker with ear flaps as an aspiration — without any retreat from the preference for the secure, lockable hard hatch.[177]
 
-Jim Hall's reply to the fabric-top proposal was a deadpan suggestion of a
-transparent plastic pram hood[193] — Derek's rejoinder being that a pram
-hood would make the boat "an enigma," having already built the cabin itself
-in wood and polycarbonate rather than a fully transparent shell.[194]
+A deadpan reply to the fabric-top proposal was a suggestion of a transparent plastic pram hood[193] — Derek's rejoinder being that a pram hood would make the boat "an enigma," having already built the cabin itself in wood and polycarbonate rather than a fully transparent shell.[194]
 
-The plexiglass-dome idea Jim Hall raised turned out to already be sitting on
-Derek's shelf: he had one salvaged from a charity money box, its two coin
-slots easily blocked, but pointed out it would solve only the see-through
-problem, not the need for some form of sliding roof, which he was still
-trying to avoid building at all.[178] Alastair, drawing on his own hatch's
-dimensions, confirmed a dome would clear the boom without difficulty, though
-the sailor's head sits close enough to the aft edge of the opening that a
-dome would need to be somewhat truncated there, and getting in or out would
-mean sliding forward and down before ducking out — problems he had already
-turned over himself while building, before deciding none of them were
-structural and building the stock hatch as designed, keeping the option open
-to try alternative hatches later if he wished. After three full seasons of
-sailing, he reported that the perceived shortcomings of the stock hatch had
-not actually shown up in practice, leaving only one modification he judged
-genuinely worth the effort: fitting **proper hatch runners**.[179] The
-money-box dome's coin slots supplied a running joke rather than a design
-answer — Alastair suggested leaving them unblocked for passing donations,
-and Derek countered that he'd rather not invite passers-by on the towpath to
-lean over and toss coins in his ear.[180][181] Derek separately asked where
-"proper hatch runners" of the kind Alastair meant could actually be
-bought.[182] Alastair had assumed a proper runner track was a stock item but,
-being reluctant to pay for one unless he had to, found on actually looking
-that he could not source one; his own fallback idea was to adapt ordinary
-U-section curtain rail instead, a possibility he said he still needed to
-think through.[185]
+The plexiglass-dome idea turned out to already be sitting on Derek's shelf: he had one salvaged from a charity money box, its two coin slots easily blocked, but pointed out it would solve only the see-through problem, not the need for some form of sliding roof, which he was still trying to avoid building at all.[178] Drawing on the "little Jim" hatch's dimensions, a dome would clear the boom without difficulty, though the sailor's head sits close enough to the aft edge of the opening that a dome would need to be somewhat truncated there, and getting in or out would mean sliding forward and down before ducking out — problems already turned over while building, before deciding none of them were structural and building the stock hatch as designed, keeping the option open to try alternative hatches later. After three full seasons of sailing, the perceived shortcomings of the stock hatch had not actually shown up in practice, leaving only one modification judged genuinely worth the effort: fitting **proper hatch runners**.[179] The money-box dome's coin slots supplied a running joke rather than a design answer — a suggestion to leave them unblocked for passing donations, and Derek's counter that he'd rather not invite passers-by on the towpath to lean over and toss coins in his ear.[180][181] Derek separately asked where "proper hatch runners" of that kind could actually be bought.[182] A proper runner track had been assumed to be a stock item but, out of reluctance to pay for one unless necessary, proved unsourceable on actually looking; the fallback idea was to adapt ordinary U-section curtain rail instead, a possibility still needing to be thought through.[185]
 
-The umbrella-over-the-open-hatch idea (see [above](#a-slot-top-cabin-idea-for-open-water-use))
-kept generating banter alongside the design discussion: Jim Hall, having
-read that an umbrella and a hat stand were rated the two most useless things
-to have aboard a small boat, joked about needing to find a use for the hat
-stand too.[186] Alastair offered that curly hooks on top would let it double
-as a boat hook or an emergency anchor, or simply serve for hanging
-hats,[187] and separately noted knowing several people who use ordinary
-golfing umbrellas as an improvised cuddy when stopping for a brew-up aboard
-open boats.[188]
+The umbrella-over-the-open-hatch idea (see [above](#a-slot-top-cabin-idea-for-open-water-use)) kept generating banter alongside the design discussion: having read that an umbrella and a hat stand were rated the two most useless things to have aboard a small boat, one correspondent joked about needing to find a use for the hat stand too.[186] The reply offered that curly hooks on top would let it double as a boat hook or an emergency anchor, or simply serve for hanging hats,[187] and separately noted several people who use ordinary golfing umbrellas as an improvised cuddy when stopping for a brew-up aboard open boats.[188]
 
-A **folding hatch** design emerged independently mid-thread: a first-time
-correspondent posting as "copterpack" — an intending, not-yet-started
-Paradox builder — added a drawing of a folding hatch concept to the group's
-photo section, offered for whenever he might start his own build.[189]
-Derek's reaction was unreserved: "I think you've cracked it. I wish I'd
-thought of that!"[190] Alastair judged the idea would probably work, and
-noted it would resolve his own reservation about a roll-top fabric or dome
-hatch — not being able to leave it propped half-open, which he uses often
-enough (sailing with just his head sticking out) that a folding hatch
-capable of the same partial position would remove the objection.[191] Derek
-closed the exchange with a joke that good weather would no longer be a
-requirement once the boat had a proper Porta Potti aboard.[192] Copterpack
-himself followed up, inviting Derek to use the idea freely: the drawing
-showed only the simplest folding arrangement, but one or two further folding
-stages could be added to let the hatch rest halfway open as well as fully
-folded, the only design work needed being to work out the length of the
-extra folding plates. He judged his own drawn hatch was probably too tall,
-and a little too long, for the purpose.[195] Jim Hall asked what material
-copterpack had in mind for the folding sections themselves, guessing glued-up
-flat perspex sheeting.[196]
+A **folding hatch** design emerged independently mid-thread: a first-time, not-yet-started Paradox builder added a drawing of a folding hatch concept to the group's photo section, offered for whenever a build might start.[189] Derek's reaction was unreserved: "I think you've cracked it. I wish I'd thought of that!"[190] The idea was judged likely to work, and to resolve a reservation about a roll-top fabric or dome hatch — not being able to leave it propped half-open, which is used often enough (sailing with just one's head sticking out) that a folding hatch capable of the same partial position would remove the objection.[191] Derek closed the exchange with a joke that good weather would no longer be a requirement once the boat had a proper Porta Potti aboard.[192] A follow-up offered to let Derek use the idea freely: the drawing showed only the simplest folding arrangement, but one or two further folding stages could be added to let the hatch rest halfway open as well as fully folded, the only design work needed being to work out the length of the extra folding plates. The drawn hatch was judged probably too tall, and a little too long, for the purpose.[195] A follow-up question asked what material was in mind for the folding sections themselves, guessing glued-up flat perspex sheeting.[196]
 
-Separately, on the fabric-versus-hard-hatch debate, "Alan" pressed the
-security question already raised against a soft top (see above): if the
-hinges themselves were some sturdy fabric rather than metal, what would stop
-the design leaking, given that a sliding hatch's real advantage is being
-**slammable shut in an instant** if a knockdown is underway?[197] Alastair's
-answer drew directly on his own experience of being knocked down aboard
-"[little Jim](/boats/little-jim.md)" (see [heavy-weather tactics — securing
-the crew during a
-knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown)
-for the incident in full): there would have been no time to act on a fabric
-hatch either way, the boat going from about 25 degrees of heel to 90 degrees
-in some three seconds and back upright and sailing again within ten. His
-practical worry about a fabric or dome top was less about reaction time than
-about the hatch **lifting under the wave itself** as the boat went over,
-admitting a significant volume of water unless it were somehow fastened
-down — a concern that, the more he weighed it, left the plans' stock sliding
-hatch looking like the better option of the two.[198]
+Separately, on the fabric-versus-hard-hatch debate, the security question already raised against a soft top (see above) was pressed: if the hinges themselves were some sturdy fabric rather than metal, what would stop the design leaking, given that a sliding hatch's real advantage is being **slammable shut in an instant** if a knockdown is underway?[197] The answer drew directly on firsthand experience of being knocked down aboard "[little Jim](/boats/little-jim.md)" (see [heavy-weather tactics — securing the crew during a knockdown](/operations/heavy-weather-tactics.md#securing-the-crew-during-a-knockdown) for the incident in full): there would have been no time to act on a fabric hatch either way, the boat going from about 25 degrees of heel to 90 degrees in some three seconds and back upright and sailing again within ten. The practical worry about a fabric or dome top was less about reaction time than about the hatch **lifting under the wave itself** as the boat went over, admitting a significant volume of water unless it were somehow fastened down — a concern that, the more it was weighed, left the plans' stock sliding hatch looking like the better option of the two.[198]
 
-On a separate branch of the same "Hatch mod stuff" thread, copterpack
-answered Jim Hall's question about what material the folding panels
-themselves would be made from: steel hinges on the underside of each panel
-give a rigid connection, with a watertight flexible seal running along the
-top of the folding lines; simple elastic bands seal both the inside (when
-closed while sailing) and the outside (combined with a lock, when the boat
-is left), the whole hatch closing or opening fully in a matter of seconds —
-offered as an alternative to the sliding hatch, not a replacement for
-it.[199]
+On a separate branch of the same "Hatch mod stuff" thread, the folding-hatch designer answered the question about what material the folding panels themselves would be made from: steel hinges on the underside of each panel give a rigid connection, with a watertight flexible seal running along the top of the folding lines; simple elastic bands seal both the inside (when closed while sailing) and the outside (combined with a lock, when the boat is left), the whole hatch closing or opening fully in a matter of seconds — offered as an alternative to the sliding hatch, not a replacement for it.[199]
 
-Derek pressed Alastair further on his knockdown account: since Alastair had
-been sailing hatch-closed at the time, would there really have been time to
-slide a stiff hatch shut even if the danger had been seen coming, and how
-would a fully open boat have fared in the same knock? He judged over-centre
-metal clips against a neoprene gasket would hold a folding hatch closed
-securely enough, wondered whether a sliding hatch's chief claimed
-benefit — being slammable shut in an instant — actually mattered given the
-boat was already sailing closed-up in poor weather to begin with, and,
-recalling Matt Layden's own report of being tipped out of an open hatch by a
-wave and the boat still righting itself, asked whether that had happened
-aboard "Swamp Thing" or "Gjac," since neither has a hard top.[200]
+Derek pressed further on the knockdown account: since the boat had been sailing hatch-closed at the time, would there really have been time to slide a stiff hatch shut even if the danger had been seen coming, and how would a fully open boat have fared in the same knock? He judged over-centre metal clips against a neoprene gasket would hold a folding hatch closed securely enough, wondered whether a sliding hatch's chief claimed benefit — being slammable shut in an instant — actually mattered given the boat was already sailing closed-up in poor weather to begin with, and, recalling Matt Layden's own report of being tipped out of an open hatch by a wave and the boat still righting itself, asked whether that had happened aboard "Swamp Thing" or "Gjac," since neither has a hard top.[200]
 
-Alastair answered each point directly. He had in fact had the hatch closed
-for the two and a half hours before the knockdown, so he had recognized the
-developing risk and closed up well before the wave hit; he knew of two
-other small boats (a Wayfarer and an Enterprise) that had made the same
-crossing in similar conditions without a hatch-related mishap, crediting
-luck rather than skill for his own close call and adding he would not have
-chosen to go with them. He finds the sliding hatch's adjustability genuinely
-useful day to day, often sailing with it only partly open, and worried a
-folding hatch with its dome might obstruct forward visibility when fully
-open — offered as a design consideration, not a discouragement. He was not
-certain himself which boat the open-hatch knockdown had happened aboard,
-guessing "Swamp Thing" or "Gjac." He gave a fuller account of his own
-knockdown's water ingress: the harness strap's gap in the closed hatch let
-in enough water to soak his sleeve as he put a hand under the flow to brace
-himself, but not enough depth reached the bilge to be worth pumping out — a
-sponge sufficed — and the whole event was over in a few seconds before the
-boat popped back upright and sailed on; had the hatch been open throughout,
-he judged the water taken would still have stayed in the "nuisance" rather
-than "danger" range, given how briefly the boat was actually knocked down.
-His own conclusion, looking back: "next time I will reef more."[201]
+Each point was answered directly. The hatch had in fact been closed for the two and a half hours before the knockdown, the developing risk recognized and closed up well before the wave hit; two other small boats (a Wayfarer and an Enterprise) had made the same crossing in similar conditions without a hatch-related mishap, luck rather than skill credited for the close call, and going with them would not have been chosen. The sliding hatch's adjustability is genuinely useful day to day, often sailing with it only partly open, and a folding hatch with its dome might obstruct forward visibility when fully open — offered as a design consideration, not a discouragement. Which boat the open-hatch knockdown had happened aboard was uncertain, guessed at "Swamp Thing" or "Gjac." A fuller account of the knockdown's water ingress: the harness strap's gap in the closed hatch let in enough water to soak a sleeve as a hand was put under the flow to brace, but not enough depth reached the bilge to be worth pumping out — a sponge sufficed — and the whole event was over in a few seconds before the boat popped back upright and sailed on; had the hatch been open throughout, the water taken would still have stayed in the "nuisance" rather than "danger" range, given how briefly the boat was actually knocked down. The conclusion, looking back: "next time I will reef more."[201]
 
-Copterpack, replying to Alastair's forward-visibility concern, explained the
-dome would be built from narrow welded steel sections glazed with lexan or
-plexiglass to maximize the view through it, and that the number of folding
-stages could be varied to give a half-open as well as a fully open or closed
-position; he judged the folding hatch easier to build than a sliding one but
-possibly less watertight in a rollover, versus a sliding hatch's
-proven-but-failure-prone mechanism once its runners wear smooth, and hoped
-his proposal wouldn't "start a war of words."[202] Derek's own verdict on the
-exchange was that "it's the thoughts loudly thunk that help the decision
-making" — and, asked to confirm which boat the open-hatch knockdown had
-happened aboard, first guessed **"Little Cruiser"** or a Paradox rather than
-"Swamp Thing" or "Gjac,"[203] before correcting himself in a follow-up: it
-was **"[Swamp Thing](/matt-layden/swamp-thing.md)"**, one of Matt Layden's
-own boats.[204] Alastair, however, recalled it differently — not Paradox, in
-his recollection, but an incident he remembered being cited at the time as
-the trigger for a design progression rather than settling on either "Swamp
-Thing" or "Gjac" outright.[206]
+Copterpack, replying to the forward-visibility concern, explained the dome would be built from narrow welded steel sections glazed with lexan or plexiglass to maximize the view through it, and that the number of folding stages could be varied to give a half-open as well as a fully open or closed position; he judged the folding hatch easier to build than a sliding one but possibly less watertight in a rollover, versus a sliding hatch's proven-but-failure-prone mechanism once its runners wear smooth, and hoped his proposal wouldn't "start a war of words."[202] Derek's own verdict on the exchange was that "it's the thoughts loudly thunk that help the decision making" — and, asked to confirm which boat the open-hatch knockdown had happened aboard, first guessed **"Little Cruiser"** or a Paradox rather than "Swamp Thing" or "Gjac,"[203] before correcting himself in a follow-up: it was **"[Swamp Thing](/matt-layden/swamp-thing.md)"**, one of Matt Layden's own boats.[204] It was recalled differently elsewhere — not Paradox, in that recollection, but an incident remembered as being cited at the time as the trigger for a design progression rather than settling on either "Swamp Thing" or "Gjac" outright.[206]
 
-With the folding-versus-sliding debate otherwise fully aired, Alastair's own
-closing view was that the choice needn't be either/or: nothing rules out
-building both designs, and a builder undecided between them should simply
-build whichever he prefers and try the other later if not satisfied.[205]
+With the folding-versus-sliding debate otherwise fully aired, the closing view was that the choice needn't be either/or: nothing rules out building both designs, and a builder undecided between them should simply build whichever he prefers and try the other later if not satisfied.[205]
 
-A third hatch concept, proposed by the established New Zealand correspondent
-Alan, adapted the "Griffiths hatch" (a sliding-hatch design published in
-*Practical Sailor*) by replacing its front hinge with a block of wood on
-each side of the top cover, riding in loose guide-tracks along the
-coach-roof. With the hatch closed, the blocks sit at the rear of their
-tracks and the track geometry locks the hatch's front edge down; lifting the
-hatch frees the blocks to slide forward, letting the whole hatch travel like
-an ordinary sliding hatch. Leaving the tracks' front ends open would let the
-hatch be lifted off entirely and remounted on vertical bars above the
-opening at anchor; with the hatch partly raised and a washboard in place, a
-sailor could sit on the rear deck with the raised hatch acting as a
-windscreen.[207] Derek judged the idea had "cracked it," but needed to mock
-one up in card first and check clearance against the mast and boom before
-committing — in his view, some combination of Alan's sliding-track hatch and
-copterpack's folding hatch might deliver both good headroom and a secure
-fit. A wrist injury aggravated by sanding forced a pause in his own build
-work around the same time.[208]
+A third hatch concept adapted the "Griffiths hatch" (a sliding-hatch design published in *Practical Sailor*) by replacing its front hinge with a block of wood on each side of the top cover, riding in loose guide-tracks along the coach-roof. With the hatch closed, the blocks sit at the rear of their tracks and the track geometry locks the hatch's front edge down; lifting the hatch frees the blocks to slide forward, letting the whole hatch travel like an ordinary sliding hatch. Leaving the tracks' front ends open would let the hatch be lifted off entirely and remounted on vertical bars above the opening at anchor; with the hatch partly raised and a washboard in place, a sailor could sit on the rear deck with the raised hatch acting as a windscreen.[207] Derek judged the idea had "cracked it," but needed to mock one up in card first and check clearance against the mast and boom before committing — in his view, some combination of the sliding-track hatch and the earlier folding hatch might deliver both good headroom and a secure fit. A wrist injury aggravated by sanding forced a pause in his own build work around the same time.[208]
 
 ## Bending the boom axle's brass rod, and a cheaper steel alternative
 
-Fitting out the metalwork he had listed at the start of the build in August
-2004, Derek was still short one part more than a year and a half later: the
-**12.7 mm brass rod** for the boom axle. He eventually found 15 mm brass rod
-at a non-ferrous scrap dealer, had a hobbyist machinist turn one end down to
-size in exchange for a bottle of wine (a three-for-two bottle-shop offer left
-him distributing spare bottles to both the machinist and the friend who
-introduced them, "you never know when you may need help again"), then
-snapped the rod attempting to bend it cold. Braising did not work either —
-brass and brazing rod ("spelter") share too close a melting point for the
-join to take reliably — and a first attempt at silver soldering overheated
-the piece until it collapsed under its own weight. A phone call to a
-non-ferrous metal stockholder finally sourced 3 metres of the correct 12.7 mm
-rod outright, which Derek bent successfully using a bending former built into
-the body of his own 1930s-era vice: brass bends cleanly at a "cheap gold"
-colour just below cherry red, and starts to go unpredictably soft and wobbly
-if taken any hotter.[168]
+Fitting out the metalwork he had listed at the start of the build in August 2004, Derek was still short one part more than a year and a half later: the **12.7 mm brass rod** for the boom axle. He eventually found 15 mm brass rod at a non-ferrous scrap dealer, had a hobbyist machinist turn one end down to size in exchange for a bottle of wine (a three-for-two bottle-shop offer left him distributing spare bottles to both the machinist and the friend who introduced them, "you never know when you may need help again"), then snapped the rod attempting to bend it cold. Braising did not work either — brass and brazing rod ("spelter") share too close a melting point for the join to take reliably — and a first attempt at silver soldering overheated the piece until it collapsed under its own weight. A phone call to a non-ferrous metal stockholder finally sourced 3 metres of the correct 12.7 mm rod outright, which Derek bent successfully using a bending former built into the body of his own 1930s-era vice: brass bends cleanly at a "cheap gold" colour just below cherry red, and starts to go unpredictably soft and wobbly if taken any hotter.[168]
 
-Jim Hall, having built his own "banger boat" some thirty years earlier using
-plain **mild steel deck fittings** finished in Galvafroid cold-galvanising
-paint under a top coat of ordinary gloss, questioned why brass was needed at
-all: mild steel is stronger, cheaper, more easily welded, more easily
-sourced, and can be hot-dip galvanised for anyone wanting a more durable
-finish — a straightforward alternative to the trouble Derek's brass rod put
-him through.[174] Derek's answer was unapologetically simple — "just
-following the plans, Jim, for a change" — and Jim Hall took it as its own
-kind of virtue, replying that the country could use more people with
-Derek's self-discipline.[183][184] See also
-[design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it)
-for the pivot-joint fabrication this same axle assembly connects to.
+A "banger boat" built some thirty years earlier used plain **mild steel deck fittings** finished in Galvafroid cold-galvanising paint under a top coat of ordinary gloss, raising the question why brass was needed at all: mild steel is stronger, cheaper, more easily welded, more easily sourced, and can be hot-dip galvanised for anyone wanting a more durable finish — a straightforward alternative to the trouble Derek's brass rod put him through.[174] Derek's answer was unapologetically simple — "just following the plans, Jim, for a change" — taken as its own kind of virtue, that the country could use more people with Derek's self-discipline.[183][184] See also [design/rig.md](/design/rig.md#mast-chafe-from-the-yard-and-finishes-that-prevent-it) for the pivot-joint fabrication this same axle assembly connects to.
 
 ## Cutting window openings into the cabin sides
 
-With the front window, cabin sides, and rear panel tacked and clamped in
-place, Derek routed the window shapes and recesses directly into the cabin
-sides rather than fitting separate frames. The job needed a router bit long
-enough to clear the 9 mm plywood — his existing thin bits ran only 8 mm — so
-he bought a 25.4 mm (1 in) deep by 6.4 mm (1/4 in) bit, glazing the side
-windows with offcuts of 3 mm Lexan and the front window with a thicker
-piece (see [window glazing — Lexan versus Perspex/acrylic](/construction/window-glazing-materials.md)
-for the Lexan-versus-acrylic tradeoff and UK sourcing). While at the
-hardware store he also priced, but did not buy, a new
-band saw at £80, judging his own — a much-worn machine salvaged from a
-closing factory decades earlier, for which replacement blades still had to
-be specially made — good enough to keep going. The cabin roof itself waited
-another day, but he used the same session to laminate two hand grabs
-supporting the centre beam from oak salvaged from an old desk.
+With the front window, cabin sides, and rear panel tacked and clamped in place, Derek routed the window shapes and recesses directly into the cabin sides rather than fitting separate frames. The job needed a router bit long enough to clear the 9 mm plywood — his existing thin bits ran only 8 mm — so he bought a 25.4 mm (1 in) deep by 6.4 mm (1/4 in) bit, glazing the side windows with offcuts of 3 mm Lexan and the front window with a thicker piece (see [window glazing — Lexan versus Perspex/acrylic](/construction/window-glazing-materials.md) for the Lexan-versus-acrylic tradeoff and UK sourcing). While at the hardware store he also priced, but did not buy, a new band saw at £80, judging his own — a much-worn machine salvaged from a closing factory decades earlier, for which replacement blades still had to be specially made — good enough to keep going. The cabin roof itself waited another day, but he used the same session to laminate two hand grabs supporting the centre beam from oak salvaged from an old desk.
 
 ## The original group reaches capacity, and a return to routine build progress
 
-In February 2006, Derek's routine photo-album upload trouble (see [the
-mailing list — photo-album upload privileges are a moderator-controlled
-setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting))
-coincided with a separate, previously unrecorded fact: the original
-`paradoxbuilders` Yahoo group itself had by this point filled to its member
-capacity. Both David Beard and Glen Maxwell independently directed Derek to
-use `paradoxbuilders2` instead. Derek confirmed he had gotten a photo
-uploaded after all, showing the replacement piece cut in to fix a knotty
-section of a spar, wrapped in fibreglass tape.
+In February 2006, Derek's routine photo-album upload trouble (see [the mailing list — photo-album upload privileges are a moderator-controlled setting](/references/mailing-list.md#photo-album-upload-privileges-are-a-moderator-controlled-setting)) coincided with a separate, previously unrecorded fact: the original `paradoxbuilders` Yahoo group itself had by this point filled to its member capacity. Derek was independently directed to use `paradoxbuilders2` instead. Derek confirmed he had gotten a photo uploaded after all, showing the replacement piece cut in to fix a knotty section of a spar, wrapped in fibreglass tape.
 
-Trying again on his album a day later, Derek found the "add photo" link no
-longer greyed out — he could select an album and a photo, but the upload
-still failed with the same privileges error, prompting his own dry
-observation that he had "never been without privileges before." In the same
-message he mentioned being physically confronted by a nine-year-old at work,
-calling it a first for him and "a weird feeling." Nels replied with a Kurt
-Vonnegut line — "your planet's immune system is trying to get rid of
-you" — which Derek took in good humor, agreeing Nels and Vonnegut might be
-right, before returning to genuine build progress: the front window, cabin
-sides, and rear panel were all tacked and clamped in place, with the cabin
-roof due to be cut next.
+Trying again on his album a day later, Derek found the "add photo" link no longer greyed out — he could select an album and a photo, but the upload still failed with the same privileges error, prompting his own dry observation that he had "never been without privileges before." In the same message he mentioned being physically confronted by a nine-year-old at work, calling it a first for him and "a weird feeling." A Kurt Vonnegut line came back — "your planet's immune system is trying to get rid of you" — which Derek took in good humor, agreeing it might be right, before returning to genuine build progress: the front window, cabin sides, and rear panel were all tacked and clamped in place, with the cabin roof due to be cut next.
 
-Asked by a newcomer, "Wayne" (`wyliewesty`, real name William Nix, Dallas
-TX — see [people/derek-clark.md](/people/derek-clark.md)), where current
-photos of "Enuf" could be found and whether they were posted to
-`paradoxbuilders2`, Derek admitted he had not photographed anything more
-recent than the hull-on-rollers picture already in the folder, guessing he
-might get to it toward the end of the week as the cabin took shape — while
-noting that, given the ongoing privileges error, he likely would not be
-able to upload them even then.
+Asked by a newcomer where current photos of "Enuf" could be found and whether they were posted to `paradoxbuilders2`, Derek admitted he had not photographed anything more recent than the hull-on-rollers picture already in the folder, guessing he might get to it toward the end of the week as the cabin took shape — while noting that, given the ongoing privileges error, he likely would not be able to upload them even then.
 
 ## A workaround: an Enuf album on a different group entirely
 
-Still without upload privileges on `paradoxbuilders` a week later, Derek
-worked around the block rather than waiting on a fix: he opened a new
-"Enuf" album, complete with a new photo, on
-[Bill Serjeant](/people/bill-serjeant.md)'s `smallsailboats` Yahoo group
-instead. Glen Maxwell's suggested remedy for the original group — create a
-fresh album and delete the old one, since Yahoo's move to a new album
-format had likely broken something in the transition — went untested in
-the archive; Derek's cross-posting to Bill's group stands as the last
-recorded word on the saga.
+Still without upload privileges on `paradoxbuilders` a week later, Derek worked around the block rather than waiting on a fix: he opened a new "Enuf" album, complete with a new photo, on the `smallsailboats` Yahoo group instead. A suggested remedy for the original group — create a fresh album and delete the old one, since Yahoo's move to a new album format had likely broken something in the transition — went untested in the archive; Derek's cross-posting to the other group stands as the last recorded word on the saga.
 
 ## Polycarbonate scraps for electrical enclosures, and a scavenged copper-wire source
 
-Turning leftover Lexan (polycarbonate) window offcuts to a second use, Derek
-looked for an adhesive that would join pieces of the material into small
-boxes to house his electrical outputs, left unanswered in the archive.[164]
-Separately, he flagged a source of free scrap copper wire and electrical
-fittings: shopfitters ripping out and remodelling retail units routinely fill
-skips with wiring and fixtures worth salvaging.[164]
+Turning leftover Lexan (polycarbonate) window offcuts to a second use, Derek looked for an adhesive that would join pieces of the material into small boxes to house his electrical outputs, left unanswered in the archive.[164] Separately, he flagged a source of free scrap copper wire and electrical fittings: shopfitters ripping out and remodelling retail units routinely fill skips with wiring and fixtures worth salvaging.[164]
 
 ## Home base and an expected launch site
 
-Derek is based in Wolverhampton, in the English Midlands — a location he
-gave in passing while welcoming a newcomer to the list, noting it put him
-"not far from" [Alastair](/people/alastair.md) and "Little Jim" in Yeovil —
-and named Wareham, Dorset (on Poole Harbour, the same water Alastair sails)
-as where he expected to launch "Enuf" shortly.[165]
+Derek is based in Wolverhampton, in the English Midlands — a location he gave in passing while welcoming a newcomer to the list, noting it put him "not far from" "Little Jim" in Yeovil — and named Wareham, Dorset (on Poole Harbour, the same water "Little Jim" sails) as where he expected to launch "Enuf" shortly.[165]
 
 ## A carpal-tunnel operation halts progress, and a five-week pause
 
-Progress on "Enuf" stopped for five weeks in April 2006 when Derek underwent
-a carpal tunnel operation, reporting the hand was still hurting some weeks
-afterward. Asked whether photos of the boat had ever been posted, he pointed
-to two existing photo-folder locations — one on the original
-`paradoxbuilders` group and a second, mirrored copy on
-[Bill Serjeant](/people/bill-serjeant.md)'s `smallsailboats` group (the
-workaround he had adopted earlier for the group's photo-privileges
-trouble).[209][210]
+Progress on "Enuf" stopped for five weeks in April 2006 when Derek underwent a carpal tunnel operation, reporting the hand was still hurting some weeks afterward. Asked whether photos of the boat had ever been posted, he pointed to two existing photo-folder locations — one on the original `paradoxbuilders` group and a second, mirrored copy on the `smallsailboats` group (the workaround he had adopted earlier for the group's photo-privileges trouble).[209][210]
 
-A below-threshold newcomer who could not get past the `smallsailboats`
-group's own access screen while trying to view those photos used the
-opportunity to reintroduce himself: new to the group, working through a VW
-trike build first to free up his garage space, and intending to begin his
-own Paradox once that project was out of the way.[211] Get-well wishes from a
-UK correspondent on the same thread turned into a short new sub-thread on
-sleeping aboard while the boat is on its trailer during a road trip between
-cruising grounds — whether that means pulling into a layby for the night, or
-finding a campsite instead, and whether it risks running afoul of rules
-against sleeping in laybys.[212] Alastair, who has slept aboard his own motor
-cruiser this way and would consider doing the same in "Enuf" or
-["Little Jim"](/boats/little-jim.md), cautioned against remote laybys
-specifically: he has been woken there by police in the past, though never
-moved on once he explained he judged it unsafe to keep driving tired; a
-quiet residential street draws far less attention, since passersby simply
-assume the vehicle belongs to one of the houses.[213][214]
+A below-threshold newcomer who could not get past the `smallsailboats` group's own access screen while trying to view those photos used the opportunity to reintroduce himself: new to the group, working through a VW trike build first to free up garage space, and intending to begin a Paradox once that project was out of the way.[211] Get-well wishes on the same thread turned into a short new sub-thread on sleeping aboard while the boat is on its trailer during a road trip between cruising grounds — whether that means pulling into a layby for the night, or finding a campsite instead, and whether it risks running afoul of rules against sleeping in laybys.[212] From experience sleeping aboard a motor cruiser this way, and a willingness to do the same in "Enuf" or ["Little Jim"](/boats/little-jim.md), came a caution against remote laybys specifically: being woken there by police in the past, though never moved on once it was explained that driving on tired was judged unsafe; a quiet residential street draws far less attention, since passersby simply assume the vehicle belongs to one of the houses.[213][214]
 
-Derek's own experience overnighting in vehicles (VW campers and a Land
-Rover, not yet "Enuf" itself) points to lorry parking on motorway and main
-A-road routes, small industrial estates, and remote beauty-spot car parks in
-Wales and the borders — but not open ground in Scotland, much of which he
-found fouled by livestock; he guessed a 24-hour supermarket car park would
-also work, reasoning a policeman is unlikely to challenge a vehicle that
-doesn't look like it means to stay for weeks.[215] A Canadian correspondent
-added a similar set of overnight-parking options for vehicles generally:
-short turn-offs into farmers' fields ("easements"), all-night truckers'
-centres (noisy and smelly from idling engines), closed small-village gas
-stations (explainable to anyone who asks as "waiting for it to open"),
-gravelled clearings beside rural communication towers (set back from the
-highway, ploughed clear in winter, and visually resembling a legitimate
-service stop), and quiet parking areas near small-village church
-steeples.[216] The `smallsailboats` photo site was independently
-re-confirmed as [Bill Serjeant](/people/bill-serjeant.md)'s own, distinct
-from [Don Elliott](/people/don-elliott.md)'s similarly-named but unrelated
-"Smallboats" group (no "sail" in the name) — an easy mix-up given the
-near-identical names.[217][218] The thread closed out with William Nix
-confirming he had received the photos and thanking Derek for posting them,
-and light banter between Jim Hall and Alastair over the closed cabin's
-comfort ("in a Paradox you don't get wet or cold").[219][220][221]
+Derek's own experience overnighting in vehicles (VW campers and a Land Rover, not yet "Enuf" itself) points to lorry parking on motorway and main A-road routes, small industrial estates, and remote beauty-spot car parks in Wales and the borders — but not open ground in Scotland, much of which he found fouled by livestock; he guessed a 24-hour supermarket car park would also work, reasoning a policeman is unlikely to challenge a vehicle that doesn't look like it means to stay for weeks.[215] A similar set of overnight-parking options for vehicles generally was added: short turn-offs into farmers' fields ("easements"), all-night truckers' centres (noisy and smelly from idling engines), closed small-village gas stations (explainable to anyone who asks as "waiting for it to open"), gravelled clearings beside rural communication towers (set back from the highway, ploughed clear in winter, and visually resembling a legitimate service stop), and quiet parking areas near small-village church steeples.[216] The `smallsailboats` photo site was independently re-confirmed as distinct from the similarly-named but unrelated [Smallboats](/people/don-elliott.md) group (no "sail" in the name) — an easy mix-up given the near-identical names.[217][218] The thread closed out with confirmation that the photos had been received, thanks to Derek for posting them, and light banter over the closed cabin's comfort ("in a Paradox you don't get wet or cold").[219][220][221]
 
 ## A recurring close of the "Enuf pics?" thread
 
-The "Enuf pics?" thread ran on into a substantive tangent on whether to
-build a Paradox or buy a boat secondhand, and whether the design performs
-to windward as well in "British conditions" as elsewhere — see [secondhand
-Paradox market — build vs. buy secondhand: a UK newcomer's cost-benefit
-hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation)
-and [chine runners and windward performance — a recurring skeptic's
-question](/chine-runners/windward-performance.md#a-recurring-skeptics-question-does-british-water-sail-differently)
-for the full exchange. The thread itself wound down with brief closing
-banter: Alastair's one-line assurance he would "keep in touch," a joke that
-"the water goes round the other way in Oz" answering Derek Clark's
-windward-conditions question, and a below-threshold correspondent's
-one-line joke about boats needing "the pointy-bit at the other end" in the
-Southern Hemisphere.[222][223][224] Derek Clark played the joke out against
-his own boat — mock-fretting that, having looked at "Enuf" from both sides,
-he "may have put the pointy bit at the wrong end," and being too old to
-emigrate to Australia and start over — to which Jim Hall reassured him that
-"after you haul it out of the building shed you might be able to turn it
-round."[225][226]
+The "Enuf pics?" thread ran on into a substantive tangent on whether to build a Paradox or buy a boat secondhand, and whether the design performs to windward as well in "British conditions" as elsewhere — see [secondhand Paradox market — build vs. buy secondhand: a UK newcomer's cost-benefit hesitation](/operations/secondhand-market.md#build-vs-buy-secondhand-a-uk-newcomers-cost-benefit-hesitation) and [chine runners and windward performance — a recurring skeptic's question](/chine-runners/windward-performance.md#a-recurring-skeptics-question-does-british-water-sail-differently) for the full exchange. The thread itself wound down with brief closing banter: a one-line assurance to "keep in touch," a joke that "the water goes round the other way in Oz" answering Derek's windward-conditions question, and a one-line joke about boats needing "the pointy-bit at the other end" in the Southern Hemisphere.[222][223][224] Derek played the joke out against his own boat — mock-fretting that, having looked at "Enuf" from both sides, he "may have put the pointy bit at the wrong end," and being too old to emigrate to Australia and start over — to which the reassurance came that "after you haul it out of the building shed you might be able to turn it round."[225][226]
 
 ## A cardboard hatch mock-up, and a lower alternate seat position
 
-Derek tried out a proposed hard-top hatch design with a full-size cardboard
-mock-up before committing plywood to it, photographed and posted for
-comment.[227] The design aimed to let the seat be used with the hatch fully
-closed (easing stiff knees) and to run the outboard with the hatch closed but
-the rear window/washboard open, with a Lexan-glazed forward sloping face and
-side windows, sliding on runners fitted inside the hatch itself.[227] Jim Hall
-welcomed the idea, subject to Derek having checked boom clearance and the
-added windage, noting that a hatch, unlike other structure, is easy enough to
-redo if it doesn't work out.[228] Glen Maxwell judged the mock-up too tall to
-clear the boom.[229]
+Derek tried out a proposed hard-top hatch design with a full-size cardboard mock-up before committing plywood to it, photographed and posted for comment.[227] The design aimed to let the seat be used with the hatch fully closed (easing stiff knees) and to run the outboard with the hatch closed but the rear window/washboard open, with a Lexan-glazed forward sloping face and side windows, sliding on runners fitted inside the hatch itself.[227] The idea was welcomed, subject to Derek having checked boom clearance and the added windage, with the note that a hatch, unlike other structure, is easy enough to redo if it doesn't work out.[228] The mock-up was judged too tall to clear the boom.[229]
 
-Derek confirmed he had checked clearance and left 4 cm — but no viewing angle
-made the tall version anything but ugly. His wife's suggestion of a second,
-lower seat position set roughly halfway between the cabin floor and the
-normal seat height let him cut the hatch's height down considerably; the
-lower seat still lets an arm out through the rear window/washboard, at some
-cost in knee bend. The revised slide arrangement runs on two strips of brass
-(sourced from a DIY chain store) let into the coaming, with the hatch itself
-held down by a shaped wooden block hooked over a hardwood strip — removable
-from inside on a raised-earlier suggestion that the hatch be releasable in
-an emergency (see [whether a closed cabin is a safety risk, or a
-comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort)).
-Day-to-day security would rely on cord, cam cleats, bolts, wing nuts, and a
-stainless padlock.[230]
+Derek confirmed he had checked clearance and left 4 cm — but no viewing angle made the tall version anything but ugly. His wife's suggestion of a second, lower seat position set roughly halfway between the cabin floor and the normal seat height let him cut the hatch's height down considerably; the lower seat still lets an arm out through the rear window/washboard, at some cost in knee bend. The revised slide arrangement runs on two strips of brass (sourced from a DIY chain store) let into the coaming, with the hatch itself held down by a shaped wooden block hooked over a hardwood strip — removable from inside on a raised-earlier suggestion that the hatch be releasable in an emergency (see [whether a closed cabin is a safety risk, or a comfort](/operations/heavy-weather-tactics.md#whether-a-closed-cabin-is-a-safety-risk-or-a-comfort)). Day-to-day security would rely on cord, cam cleats, bolts, wing nuts, and a stainless padlock.[230]
 
-Alastair remained skeptical the taller original design would clear the
-furled sail as it dropped into its stowed position — while allowing that the
-only way to settle it was to build it and find out, and that nothing stops a
-builder from making a second hatch if the first doesn't work — closing with
-a tongue-in-cheek nod to follow the designer's own example and ignore the
-naysayers.[231] Jim Hall answered in the same spirit, joking that if the
-boom limits how far the hatch can rise, the alternative is to go the other
-way and drop the cabin sole instead.[232] Replying to that joke, Alastair
-recalled his own low-headroom fix for a tall workmate — a shallow footwell
-cut into the cabin sole — as another way to gain the same headroom without
-lowering the whole floor; see [crew size and cabin fit — a footwell as a
-headroom
-fix](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion)
-for the full anecdote.[233]
+Skepticism remained that the taller original design would clear the furled sail as it dropped into its stowed position — while allowing that the only way to settle it was to build it and find out, and that nothing stops a builder from making a second hatch if the first doesn't work — closing with a tongue-in-cheek nod to follow the designer's own example and ignore the naysayers.[231] The same spirit answered that if the boom limits how far the hatch can rise, the alternative is to go the other way and drop the cabin sole instead.[232] Replying to that joke, a low-headroom fix for a tall workmate was recalled — a shallow footwell cut into the cabin sole — as another way to gain the same headroom without lowering the whole floor; see [crew size and cabin fit — a footwell as a headroom fix](/operations/crew-size-and-fit.md#a-very-large-sailors-fit-68315-lb-and-a-cardboard-mockup-suggestion) for the full anecdote.[233]
 
-Derek kept both routes in play: he humoured Alastair's skepticism about the
-furled boom, joking that if it did strike, only the two of them would ever
-need to know, and sketched a "just in case" fix — a hole cut in the hatch
-top fitted with a red rubber glove, letting a hand reach up and help the
-furled boom into position without getting wet, adding that he would rename
-the boat "Bantam" if he ever actually fitted it.[234] Separately, replying
-to Jim Hall's "basement" joke, he confirmed he had gone partway down that
-route already, having lowered the seat as described above.[235]
+Derek kept both routes in play: he humoured the skepticism about the furled boom, joking that if it did strike, only the two of them would ever need to know, and sketched a "just in case" fix — a hole cut in the hatch top fitted with a red rubber glove, letting a hand reach up and help the furled boom into position without getting wet, adding that he would rename the boat "Bantam" if he ever actually fitted it.[234] Separately, replying to the "basement" joke, he confirmed he had gone partway down that route already, having lowered the seat as described above.[235]
 
 ## Rubbing down, and the first coat of pigmented resin
 
-Hull fairing continued in parallel with the hatch-mockup discussion: Derek
-finished rubbing the hull down — "more truthfully, it is rubbed down as much
-as I am prepared to do," admitting he hates the job — and hoped to roll on
-the pigmented epoxy the same day, but persistent rain (no water shortages
-that year in England's West Midlands) kept pushing the forecast back a
-couple of days.[236] Bill Serjeant, working through the same weather on his
-own "Faith," answered that the rain was holding him up too: he had managed
-to bevel the aft end of his own bottom piece and hoped to bevel the forward
-end next, but the epoxy needed at least four days to cure thoroughly once
-applied, and getting a suitable temperature for that cure depended on the
-weather outdoors — doing it in the garage instead was not always possible,
-and even if it were, the boat itself would have to stay outside, "all a
-juggling act."[237] Even on its trolley, Derek noted, the hull is heavy to
-juggle; he applied the first coat of pigmented resin, reporting only that
-"it doesn't look nice" yet.[238]
+Hull fairing continued in parallel with the hatch-mockup discussion: Derek finished rubbing the hull down — "more truthfully, it is rubbed down as much as I am prepared to do," admitting he hates the job — and hoped to roll on the pigmented epoxy the same day, but persistent rain (no water shortages that year in England's West Midlands) kept pushing the forecast back a couple of days.[236] The same weather was holding up another builder working on "[Faith](/boats/faith.md)": the aft end of the bottom piece was beveled, with the forward end next, but the epoxy needed at least four days to cure thoroughly once applied, and getting a suitable temperature for that cure depended on the weather outdoors — doing it in the garage instead was not always possible, and even if it were, the boat itself would have to stay outside, "all a juggling act."[237] Even on its trolley, Derek noted, the hull is heavy to juggle; he applied the first coat of pigmented resin, reporting only that "it doesn't look nice" yet.[238]
 
 ## New photos, an unplanned chine-runner shape, and a Porta Potti in the transom
 
-A further round of "Enuf" photographs, posted to Bill Serjeant's
-`smallsailboats` group, prompted an outside observer to notice the chine
-runners looked off the plans' shape — visibly wavy and truncated rather
-than straight.[239] Derek confirmed it candidly: the runners had come out
-that way after a sanding disc on his angle grinder "sort of ran away with"
-him, rather than as any deliberate change, and he offered a wry
-after-the-fact justification (not wanting "just a clone Paradox") for what
-was really a shaping accident. More generally, building from the plans
-without fully understanding every detail beforehand had led him to guess at
-some steps as he went, with the practical effect of the guesses — including
-the runners — still to be seen once the boat sailed.[242]
+A further round of "Enuf" photographs, posted to the `smallsailboats` group, prompted an outside observer to notice the chine runners looked off the plans' shape — visibly wavy and truncated rather than straight.[239] Derek confirmed it candidly: the runners had come out that way after a sanding disc on his angle grinder "sort of ran away with" him, rather than as any deliberate change, and he offered a wry after-the-fact justification (not wanting "just a clone Paradox") for what was really a shaping accident. More generally, building from the plans without fully understanding every detail beforehand had led him to guess at some steps as he went, with the practical effect of the guesses — including the runners — still to be seen once the boat sailed.[242]
 
-The same photographs also drew a question from a newcomer to the list about
-a plastic box visible through the transom in every builder's build
-photos.[240] Nels answered first, correctly identifying it on sight as a
-**Porta Potti stored in its transom stowage position**;[241] Derek confirmed
-it directly and reported having just bought a newer, more compact model (the
-335) better suited to solo use — while noting there is still no room to use
-it without first pulling it out into the forward stateroom, "unless...
-you've just had a bad curry."[243]
+The same photographs also drew a question about a plastic box visible through the transom in every builder's build photos.[240] It was correctly identified on sight as a **Porta Potti stored in its transom stowage position**;[241] Derek confirmed it directly and reported having just bought a newer, more compact model (the 335) better suited to solo use — while noting there is still no room to use it without first pulling it out into the forward stateroom, "unless... you've just had a bad curry."[243]
 
 ## A lower hatch cover, and the furled sail riding forward over the drum
 
-With "Enuf" still on her trolley rather than launched, Derek posted three
-further photographs showing the current state of the hatch cover, floating
-dropping it further still — down to just two inches high. Separately, the
-furling gear gave trouble one morning: the sail tried to move forward along
-the boom and ride up over the furling drum, a fault that had not shown up
-the last time he furled, with nothing obviously different about the setup
-except that the boom's outboard end sat lower than before.[244] Bill
-Serjeant mirrored a selection of these photos to his own `paradox-uk.co.uk`
-site, crediting Derek by name; see [people/bill-serjeant.md](/people/bill-serjeant.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox).[245]
+With "Enuf" still on her trolley rather than launched, Derek posted three further photographs showing the current state of the hatch cover, floating dropping it further still — down to just two inches high. Separately, the furling gear gave trouble one morning: the sail tried to move forward along the boom and ride up over the furling drum, a fault that had not shown up the last time he furled, with nothing obviously different about the setup except that the boom's outboard end sat lower than before.[244] A selection of these photos was mirrored to the `paradox-uk.co.uk` site, crediting Derek by name; see [boats/faith.md](/boats/faith.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox).[245]
 
 ## Onto the trailer, and calculating the ballast by weighing the whole rig
 
-With the hatch essentially settled — the finished shape turned out close to
-the plans after all, despite months of variations that "came to naught" —
-Derek's remaining task before launch was the lid of his wannigan (the boat's
-built-in storage box).[246] His plan for sizing the lead ballast was to weigh
-the loaded trailer (boat, stores, and himself as skipper aboard), subtract
-the trailer's own weight and add the skipper's, and take the resulting
-figure against the design displacement to determine how much lead to
-carry.[246] A well-wisher wrote back with nothing more than congratulations
-for the "Admiral" ahead of the launch.[247]
+With the hatch essentially settled — the finished shape turned out close to the plans after all, despite months of variations that "came to naught" — Derek's remaining task before launch was the lid of his wannigan (the boat's built-in storage box).[246] His plan for sizing the lead ballast was to weigh the loaded trailer (boat, stores, and himself as skipper aboard), subtract the trailer's own weight and add the skipper's, and take the resulting figure against the design displacement to determine how much lead to carry.[246] A well-wisher wrote back with nothing more than congratulations for the "Admiral" ahead of the launch.[247]
 
-Getting "Enuf" onto the trailer surfaced two fitting problems. In place of an
-eyebolt through the stem, Derek had bonded in a crossways plastic pipe with a
-spliced grommet to take the winch wire; the splice itself held, but the
-winch wire's own pressed end fitting pulled free under load and was
-refastened with u-bolt clamps from his spare-parts box. Separately, the
-hull's bottom proved a couple of inches wider than the gap between the
-trailer's mudguards, which had to come off entirely; longer mounting bolts
-were needed to stand the mudguards further out from the trailer chassis.
-Rollers ran up the trailer's centerline, with lengths of 3.5 by 2 in timber
-lashed to the outer chassis rails to keep the hull level; with the bottom of
-the boat sitting 22 in above the ground, launching would need roughly 3 ft
-of water and would fully submerge the trailer's own wheels.[248] A
-correspondent replied with a running joke about the trailer's paint not
-matching the boat, the towing Land Rover, or the wheelie-bin.[249]
+Getting "Enuf" onto the trailer surfaced two fitting problems. In place of an eyebolt through the stem, Derek had bonded in a crossways plastic pipe with a spliced grommet to take the winch wire; the splice itself held, but the winch wire's own pressed end fitting pulled free under load and was refastened with u-bolt clamps from his spare-parts box. Separately, the hull's bottom proved a couple of inches wider than the gap between the trailer's mudguards, which had to come off entirely; longer mounting bolts were needed to stand the mudguards further out from the trailer chassis. Rollers ran up the trailer's centerline, with lengths of 3.5 by 2 in timber lashed to the outer chassis rails to keep the hull level; with the bottom of the boat sitting 22 in above the ground, launching would need roughly 3 ft of water and would fully submerge the trailer's own wheels.[248] A running joke came back about the trailer's paint not matching the boat, the towing Land Rover, or the wheelie-bin.[249]
 
 ## Launched: three days in Poole Harbour, and lessons from the outboard
 
-"Enuf" was launched and sailed for the first time over **three days in Poole
-Harbour**, in company with [Alastair](/people/alastair.md) and "[Little
-Jim](/boats/little-jim.md)." The maiden outing was eventful rather than
-smooth: Derek struck one mudbank and three moored "pleasure palaces" (two of
-them in a single collision), fended a fourth off with his yuloh, and narrowly
-missed a broken channel-marker post that threatened to tear the sail. The
-first night, moored in the River Frome, he could not sleep, convinced every
-lap of water against the hull was coming inboard. The second day was mostly
-motoring against strong wind, with a half-hour of sailing back and forth and
-a partly successful stretch of yulohing; the biggest fright of the trip came
-motoring back up the Frome and meeting a multihull that "looked bigger than a
-house."[250]
+"Enuf" was launched and sailed for the first time over **three days in Poole Harbour**, in company with "[Little Jim](/boats/little-jim.md)." The maiden outing was eventful rather than smooth: Derek struck one mudbank and three moored "pleasure palaces" (two of them in a single collision), fended a fourth off with his yuloh, and narrowly missed a broken channel-marker post that threatened to tear the sail. The first night, moored in the River Frome, he could not sleep, convinced every lap of water against the hull was coming inboard. The second day was mostly motoring against strong wind, with a half-hour of sailing back and forth and a partly successful stretch of yulohing; the biggest fright of the trip came motoring back up the Frome and meeting a multihull that "looked bigger than a house."[250]
 
-The **outboard proved a double problem**, both fouling the mainsheet and
-being awkward to control: reaching the throttle meant turning and leaning
-over the rear deck, which let the steering wander — the direct cause of the
-double mudbank/pleasure-palace strike, when the tiller caught in the foam
-buoyancy and jammed while everything happened at once. Derek's planned fix
-was to move the motor to the starboard side and extend the tiller so it
-passes over the center of the rear deck, and to try a different mainsheet
-lead; a new boom was also needed, since the existing one had a bend and did
-not roll smoothly for reefing/furling. He credited Alastair's patient
-in-person help for what he learned in a short time, and came away "cream
-crackered" but looking forward to sorting out the teething problems and
-making an actual passage.[250]
+The **outboard proved a double problem**, both fouling the mainsheet and being awkward to control: reaching the throttle meant turning and leaning over the rear deck, which let the steering wander — the direct cause of the double mudbank/pleasure-palace strike, when the tiller caught in the foam buoyancy and jammed while everything happened at once. Derek's planned fix was to move the motor to the starboard side and extend the tiller so it passes over the center of the rear deck, and to try a different mainsheet lead; a new boom was also needed, since the existing one had a bend and did not roll smoothly for reefing/furling. He credited the patient in-person help he received for what he learned in a short time, and came away "cream crackered" but looking forward to sorting out the teething problems and making an actual passage.[250]
 
 ## Enuf offered for sale
 
-In September 2006, roughly a month after "Enuf"'s launch and maiden outing in
-Poole Harbour, Derek put the boat up for sale. Sailing her twice at Poole had
-taken more physical exertion than he had expected, and as a diabetic he
-suffered hypoglycemic episodes on both outings — including one at night,
-anchored just offshore, that he found very upsetting to manage alone in a
-small boat. Rather than sail with the ongoing burden of checking his blood
-sugar every hour or two and adjusting with biscuits, dextrose, or insulin
-guesswork, he decided to give up sailing "Enuf" entirely.[251]
+In September 2006, roughly a month after "Enuf"'s launch and maiden outing in Poole Harbour, Derek put the boat up for sale. Sailing her twice at Poole had taken more physical exertion than he had expected, and as a diabetic he suffered hypoglycemic episodes on both outings — including one at night, anchored just offshore, that he found very upsetting to manage alone in a small boat. Rather than sail with the ongoing burden of checking his blood sugar every hour or two and adjusting with biscuits, dextrose, or insulin guesswork, he decided to give up sailing "Enuf" entirely.[251]
 
-His asking price made no attempt to recover his build costs: **£700** for the
-boat and Mark II sail (including 99 kg of lead ballast, halyard, topping
-lift, steering line, and rudder uphaul, but not anchors, chain, warp, or
-electrical goods), plus **£500** for a trailer that had seen fresh water only
-four times. He put his own epoxy-and-glass-fibre spend alone at around £500,
-and said he would be happy to see the sale "give somebody a quick entry into
-Paradoxing." If no buyer came forward, his stated fallback was to negotiate a
-price for the sail alone and give the hull a "Viking burial," while noting
-the trailer would always find a use regardless.[251]
+His asking price made no attempt to recover his build costs: **£700** for the boat and Mark II sail (including 99 kg of lead ballast, halyard, topping lift, steering line, and rudder uphaul, but not anchors, chain, warp, or electrical goods), plus **£500** for a trailer that had seen fresh water only four times. He put his own epoxy-and-glass-fibre spend alone at around £500, and said he would be happy to see the sale "give somebody a quick entry into Paradoxing." If no buyer came forward, his stated fallback was to negotiate a price for the sail alone and give the hull a "Viking burial," while noting the trailer would always find a use regardless.[251]
 
-The announcement drew a warm response from the list. Alastair, who had sailed
-alongside "Enuf" on her maiden outing, called the asking price a bargain and
-wondered whether he himself had pushed Derek too hard during that shared
-trip.[252] A Spanish correspondent inquired about the boat, apologizing for
-his limited English and asking about the practicalities of registering a
-UK-built Paradox in Spain.[253] Alan, a longtime New Zealand-based
-correspondent, wished Derek well, praised his Duckworks article and the
-sense of humor that ran through his posts, and noted that only New Zealand's
-distance from England kept him from being a serious buyer himself.[254]
-Niels — a below-threshold correspondent from Jacksonville, Florida, and,
-by his own account, also diabetic — commiserated over the difficulty of
-managing blood sugar during active pursuits, said he would have liked to buy
-the boat himself but judged shipping to Florida impractical, and thanked
-Derek for the Duckworks article as well.[255] Jeff UK closed out the thread
-with a joking offer for Niels to buy the boat and "commute weekends," sympathy
-for Derek's condition, and a suggestion that Derek could still enjoy the
-design vicariously by building a radio-controlled model of "Enuf" from his
-existing plans.[256] Alan, replying in turn, seconded the radio-controlled
-suggestion — "not much bigger than some people's models" — and wondered,
-half in jest, whether such a model could be sailed across the Atlantic under
-remote control.[257]
+The announcement drew a warm response from the list. The asking price was called a bargain, with a wonder — from someone who had sailed alongside "Enuf" on her maiden outing — whether that shared trip had pushed Derek too hard.[252] An inquiry came about the boat, apologizing for limited English and asking about the practicalities of registering a UK-built Paradox in Spain.[253] Another well-wish praised Derek's Duckworks article and the sense of humor that ran through his posts, noting that only New Zealand's distance from England kept the writer from being a serious buyer.[254] A further reply — from someone also diabetic — commiserated over the difficulty of managing blood sugar during active pursuits, said he would have liked to buy the boat himself but judged shipping to Florida impractical, and thanked Derek for the Duckworks article as well.[255] The thread closed out with a joking offer for that correspondent to buy the boat and "commute weekends," sympathy for Derek's condition, and a suggestion that Derek could still enjoy the design vicariously by building a radio-controlled model of "Enuf" from his existing plans.[256] The radio-controlled suggestion was seconded — "not much bigger than some people's models" — with a wonder, half in jest, whether such a model could be sailed across the Atlantic under remote control.[257]
 
-Niels's sympathy prompted Derek to give a fuller account of the diabetes
-directly to him: British and American blood-glucose scales differ, and
-Derek's own "hypo" threshold (with warning signs of shaking hands, headache,
-and confusion) normally falls around 4.3 on the UK mmol/L scale, but on both
-Poole nights he fell into the mid-3s without warning — enough, he judged,
-that had he not woken and taken sugar in time he could have gone into a coma,
-alone at anchor. He weighed that risk against the hospital's standard advice
-to simply lower his insulin dose before activity, calling it "hit and miss":
-under-correcting risks a repeat hypo, while over-correcting risks the
-longer-term organ damage of running too high. He judged a more sedentary
-routine the safer trade-off for himself, and mentioned that his wife had
-since bought him a small, 4.98 m, 0.6 m-draft motor cruiser to restore in
-"Enuf"'s place — still within his own definition of a microcruiser — reasoning
-that the outboard could do the work of getting about while he did the
-exploring, and that the restoration itself would be a source of pleasure in
-place of the build he was leaving. He thanked Niels for the exchange.[258]
+That sympathy prompted Derek to give a fuller account of the diabetes: British and American blood-glucose scales differ, and Derek's own "hypo" threshold (with warning signs of shaking hands, headache, and confusion) normally falls around 4.3 on the UK mmol/L scale, but on both Poole nights he fell into the mid-3s without warning — enough, he judged, that had he not woken and taken sugar in time he could have gone into a coma, alone at anchor. He weighed that risk against the hospital's standard advice to simply lower his insulin dose before activity, calling it "hit and miss": under-correcting risks a repeat hypo, while over-correcting risks the longer-term organ damage of running too high. He judged a more sedentary routine the safer trade-off for himself, and mentioned that his wife had since bought him a small, 4.98 m, 0.6 m-draft motor cruiser to restore in "Enuf"'s place — still within his own definition of a microcruiser — reasoning that the outboard could do the work of getting about while he did the exploring, and that the restoration itself would be a source of pleasure in place of the build he was leaving. He thanked the correspondent for the exchange.[258]
 
-Replying to Jeff UK's own condolences, Derek reported feeling at peace with
-the decision: he had enjoyed the build, including its frustrations, and had
-gained real pleasure from time on Poole Harbour itself — birds he had never
-seen before, Sitka deer grazing the salt marsh within feet of the boat, a
-kingfisher on the River Frome, and a whole oyster found on the beach, "don't
-see either of those in Wolverhampton on a normal day." With a new project
-under way and two serious enquiries already in on "Enuf," he judged it time
-to move on.[259]
+Replying to condolences, Derek reported feeling at peace with the decision: he had enjoyed the build, including its frustrations, and had gained real pleasure from time on Poole Harbour itself — birds he had never seen before, Sitka deer grazing the salt marsh within feet of the boat, a kingfisher on the River Frome, and a whole oyster found on the beach, "don't see either of those in Wolverhampton on a normal day." With a new project under way and two serious enquiries already in on "Enuf," he judged it time to move on.[259]
 
 ## The sale completes, and a Honda-outboard "power microcruiser" idea
 
-A third correspondent, Steve H., replying to the same for-sale thread,
-sympathized with the diabetes-driven decision and offered to buy the Mark II
-sail himself if no boat buyer came forward — noting his own son, then
-studying at Oxford, could act as broker/agent for the transaction from the
-UK.[264] Derek reported the boat had in fact sold "more or less immediately,"
-and that the following Saturday she would begin a delivery journey to
-Trondheim, Norway, via Norfolk, where her trailer would be handed off
-separately to a buyer in Essex.[265]
+A third correspondent, replying to the same for-sale thread, sympathized with the diabetes-driven decision and offered to buy the Mark II sail himself if no boat buyer came forward — noting his own son, then studying at Oxford, could act as broker/agent for the transaction from the UK.[264] Derek reported the boat had in fact sold "more or less immediately," and that the following Saturday she would begin a delivery journey to Trondheim, Norway, via Norfolk, where her trailer would be handed off separately to a buyer in Essex.[265]
 
-With "Enuf" gone and his own new motor cruiser due for delivery that
-afternoon, Derek used the same reply to float a fresh design idea of his
-own: a small, purpose-built **motor microcruiser** — roughly **14 ft by 4 or
-4.5 ft**, quick stitch-and-glue plywood construction, a cabin long enough to
-sleep in with sitting headroom, easy solo launch and retrieval, and suited to
-rivers and estuaries — built specifically around the **Honda 2 or 2.3 hp
-air-cooled four-stroke outboard**, an engine he judged had sold in the tens
-or hundreds of thousands with no small boat properly designed to use it. He
-put the idea to several designers directly: Jim Michalak suggested one of
-his existing "small sailor" hulls with the mast and leeboards
-omitted, though Derek found Michalak's boxy hull shapes lacked Paradox's
-curves (allowing that he did like the low, sloping cabin roofs with
-elliptical portlights); Paul Fisher was judged capable of a suitable
-redesign of his "Power 1," with better hull curves, but at a cost near that
-of the outboard itself; John Welsford had not yet replied; and Derek
-wondered whether John Welsford's "Trouper" design might provide a suitable
-hull outright.[266]
+With "Enuf" gone and his own new motor cruiser due for delivery that afternoon, Derek used the same reply to float a fresh design idea of his own: a small, purpose-built **motor microcruiser** — roughly **14 ft by 4 or 4.5 ft**, quick stitch-and-glue plywood construction, a cabin long enough to sleep in with sitting headroom, easy solo launch and retrieval, and suited to rivers and estuaries — built specifically around the **Honda 2 or 2.3 hp air-cooled four-stroke outboard**, an engine he judged had sold in the tens or hundreds of thousands with no small boat properly designed to use it. He put the idea to several designers directly: one suggested an existing "small sailor" hull with the mast and leeboards omitted, though Derek found those boxy hull shapes lacked Paradox's curves (allowing that he did like the low, sloping cabin roofs with elliptical portlights); another was judged capable of a suitable redesign of a "Power 1," with better hull curves, but at a cost near that of the outboard itself; a third had not yet replied; and Derek wondered whether a "Trouper" design might provide a suitable hull outright.[266]
 
 ## A departure, an outpouring of support, and second thoughts
 
-Roughly a week after finding a buyer, Derek announced he was leaving the
-group after about 30 months, timed to "Enuf"'s departure by road toward
-Norfolk and on to Trondheim. He reported feeling no sadness at seeing her go,
-citing a new project (or two) in hand and a consultant surgeon's assessment
-the previous day that a five-hour operation might cure his diabetes
-outright. He thanked the list for its help throughout the build, naming
-[Alastair](/people/alastair.md), [Dave Bolduc](/people/bolduc.md),
-[David Beard](/people/david-beard.md), and [Don Elliott](/people/don-elliott.md)
-in particular, and left open the possibility of building again if the
-operation succeeded — a lighter, quicker, "dirtier" build next time,
-incorporating some of Jeff UK's ideas and with proper outboard provision
-built in from the start.[267]
+Roughly a week after finding a buyer, Derek announced he was leaving the group after about 30 months, timed to "Enuf"'s departure by road toward Norfolk and on to Trondheim. He reported feeling no sadness at seeing her go, citing a new project (or two) in hand and a consultant surgeon's assessment the previous day that a five-hour operation might cure his diabetes outright. He thanked the list for its help throughout the build, and left open the possibility of building again if the operation succeeded — a lighter, quicker, "dirtier" build next time, incorporating some of the ideas offered along the way and with proper outboard provision built in from the start.[267]
 
-The announcement drew immediate, unanimous pushback rather than a round of
-farewells. Jeff UK objected that Derek's new motor cruiser was itself a
-microcruiser in every sense that mattered — a boat is not disqualified by
-being powered by an outboard rather than a paddle, oar, or sail — and told
-him flatly to drop "this leaving crap."[268] Derek's own reply agreed the
-new boat qualified as a microcruiser by his own definition too, but drew the
-line at the group's actual scope: "this is the Paradoxbuilders group,"
-not a microcruiser group in general.[277] A previously unrecorded
-correspondent, posting as "SH," did not know Derek personally but argued
-against burning bridges that had served him well, urged him to stay in touch
-regardless of his health, and offered that facing "the fight with 'Gods
-given body'" was simply one more of life's certain challenges rather than a
-reason to disappear.[269] [Jack Gardiner](/people/jack-gardiner.md) added the
-fullest tribute: he valued his own Paradox over his 19 ft, 75 hp motorboat
-precisely because a dead outboard still leaves the sail to get him home,
-judged Paradox's design the product of a great deal of deep thought whose
-survivability-in-a-small-space genius only becomes more apparent with
-familiarity, and urged Derek not to sell himself short or cut ties over the
-decision.[270] [David Beard](/people/david-beard.md) added a short, simple
-plea of his own — "You cant leave.........were all pals here.....But if you
-must please stay in touch" — while [Alastair](/people/alastair.md) argued
-Derek had a positive duty to keep lurking and offering advice as a build
-veteran, having accumulated, in Alastair's estimate, some 11% of the
-complete build knowledge "in the known world," and that departing outright
-would deprive newer builders of it.[271][272] A longtime below-threshold
-correspondent, Wenceslao Rafol, Jr., wrote separately to say a health-first
-decision needed no defense, comparing it to his own long-deferred hope of
-sailing around the globe, and that he took his own sailing pleasure at one
-remove instead, reading and following other sailors' logs and photographs
-online.[273]
+The announcement drew immediate, unanimous pushback rather than a round of farewells. It was objected that Derek's new motor cruiser was itself a microcruiser in every sense that mattered — a boat is not disqualified by being powered by an outboard rather than a paddle, oar, or sail — and that he should drop "this leaving crap."[268] Derek's own reply agreed the new boat qualified as a microcruiser by his own definition too, but drew the line at the group's actual scope: "this is the Paradoxbuilders group," not a microcruiser group in general.[277] A previously unrecorded correspondent did not know Derek personally but argued against burning bridges that had served him well, urged him to stay in touch regardless of his health, and offered that facing "the fight with 'Gods given body'" was simply one more of life's certain challenges rather than a reason to disappear.[269] The fullest tribute came from one who valued his own Paradox over a 19 ft, 75 hp motorboat precisely because a dead outboard still leaves the sail to get home, judged Paradox's design the product of a great deal of deep thought whose survivability-in-a-small-space genius only becomes more apparent with familiarity, and urged Derek not to sell himself short or cut ties over the decision.[270] A short, simple plea followed — "You cant leave.........were all pals here.....But if you must please stay in touch" — alongside an argument that Derek had a positive duty to keep lurking and offering advice as a build veteran, having accumulated, by one estimate, some 11% of the complete build knowledge "in the known world," and that departing outright would deprive newer builders of it.[271][272] A separate letter said a health-first decision needed no defense, comparing it to a long-deferred hope of sailing around the globe, and that the writer took his own sailing pleasure at one remove instead, reading and following other sailors' logs and photographs online.[273]
 
-Derek's replies over the following hours settled into gratitude rather than
-argument. He thanked David Beard directly and mentioned his e-mail address
-remained posted on Bill Serjeant's website for anyone who wanted to reach
-him.[274] Answering Jack Gardiner's gentle complaint at being left out of
-the thank-you list, Derek apologized, explaining he had assumed Jack would
-not want the attention and had simply forgotten him; when Jack suggested
-Derek might simply enjoy fixing and building more than sailing, Derek agreed
-("Very likely!"), while pushing back on the suggestion that he had sold the
-boat too hastily, ahead of learning an operation might cure his diabetes: he
-had already accepted a buyer's offer before the consultant mentioned a
-possible cure, and in any case remained free to build again.[275] Replying
-to Wenceslao's letter, Derek allowed he might have acted in haste and would
-think it over further, joking that Frank Sinatra had announced his own
-retirement some 47 times before actually stopping.[276] Replying point by
-point to SH's letter, he confirmed he was not in fact leaving after all —
-"so, by reading this I ain't actually gone!"[278] Jeff UK kept pressing the
-same "you can't leave" argument the next day, noting the group counted 753
-members against only a handful of actual Paradox owners or builders, so
-downgrading to a motor cruiser was no disqualification at all, and welcomed
-Derek "back from the brink."[279]
+Derek's replies over the following hours settled into gratitude rather than argument. He thanked the correspondents directly and mentioned his e-mail address remained posted on a website for anyone who wanted to reach him.[274] Answering a gentle complaint at being left out of the thank-you list, Derek apologized, explaining he had assumed the person would not want the attention and had simply forgotten him; asked whether he might simply enjoy fixing and building more than sailing, Derek agreed ("Very likely!"), while pushing back on the suggestion that he had sold the boat too hastily, ahead of learning an operation might cure his diabetes: he had already accepted a buyer's offer before the consultant mentioned a possible cure, and in any case remained free to build again.[275] Replying to another letter, Derek allowed he might have acted in haste and would think it over further, joking that Frank Sinatra had announced his own retirement some 47 times before actually stopping.[276] Replying point by point to the earlier letter, he confirmed he was not in fact leaving after all — "so, by reading this I ain't actually gone!"[278] The same "you can't leave" argument was pressed again the next day, noting the group counted 753 members against only a handful of actual Paradox owners or builders, so downgrading to a motor cruiser was no disqualification at all, and welcoming Derek "back from the brink."[279]
 
-The health question drew further sympathy once it reached the wider list.
-Niels, having already wished Derek well, asked directly for details of the
-diabetes procedure so he could pass them on; Derek answered that he had
-already e-mailed Niels the details off-group.[280][281] A first-time
-correspondent, Tim Soxman, asked to be included in the same information;
-Derek said he would send him the details too.[282][283]
+The health question drew further sympathy once it reached the wider list. One correspondent, having already wished Derek well, asked directly for details of the diabetes procedure so he could pass them on; Derek answered that he had already e-mailed the details off-group.[280][281] A first-time correspondent asked to be included in the same information; Derek said he would send him the details too.[282][283]
 
-[Jack Gardiner](/people/jack-gardiner.md) closed out the thread with the
-fullest personal case yet for staying, drawing on his own experience of
-losing a boat to misfortune: blown onto a beach and trying to haul his own
-Paradox off with his truck, he had backed the drive wheels straight over
-the rudder and crushed it — "I built it and I can replace it, Il make it
-even better!!" No longer owning a Paradox is beside the point, in his
-view, since the group is called Paradox **builders**, and that is exactly
-what Derek still is.[284]
+The thread closed out with the fullest personal case yet for staying, drawing on the experience of losing a boat to misfortune: blown onto a beach and trying to haul a Paradox off with a truck, the drive wheels backed straight over the rudder and crushed it — "I built it and I can replace it, Il make it even better!!" No longer owning a Paradox is beside the point, on that view, since the group is called Paradox **builders**, and that is exactly what Derek still is.[284]
 
 ## A near-miss Paradox-type motor cruiser, and "Enuf" as a talking point for motorboating
 
-Jeff UK's congratulations on the new acquisition doubled as an invitation to
-keep talking about it on the list, and drew out a build he had never
-mentioned before: rather than a further look at Enigma, he had at one point
-cut out the hull parts and bulkheads for his own **17 ft, Paradox-type motor
-cruiser** — same accommodation as Paradox, but with a multi-chine
-hull — meant to be driven by his 2 hp Honda outboard.[260] Scaffolding going
-up next door had derailed the project before it properly started, and by his
-own account "the rest['s] history"; he still intended to build it, but only
-after finishing his planned **"PARANIGMA"** — his own portmanteau for a
-Paradox/Enigma hybrid design. He encouraged Derek to post about the new motor
-cruiser on the list regardless of its being a motorboat rather than a
-sailboat, observing that a good many of the list's members motor more than
-they sail, and offered to back him up if anyone objected.[262] Derek, only
-half joking, first asked whether it was even "safe to mention motor boats
-here," saying he would rather correspond about it by e-mail than risk being
-thrown off the group,[261] then, once reassured, noted that David Beard had
-his own ideas about motoring in a Paradox, and that Alastair had given the
-subject some thought as well — naming both as further list members who might
-be persuaded to write up their own motor-Paradox thinking.[263]
+Congratulations on the new acquisition doubled as an invitation to keep talking about it on the list, and drew out a build never mentioned before: rather than a further look at Enigma, one correspondent had at one point cut out the hull parts and bulkheads for a **17 ft, Paradox-type motor cruiser** — same accommodation as Paradox, but with a multi-chine hull — meant to be driven by a 2 hp Honda outboard.[260] Scaffolding going up next door had derailed the project before it properly started, and "the rest['s] history"; the intention to build it remained, but only after finishing a planned **"PARANIGMA"** — a portmanteau for a Paradox/Enigma hybrid design. Derek was encouraged to post about the new motor cruiser on the list regardless of its being a motorboat rather than a sailboat, on the observation that a good many of the list's members motor more than they sail, with an offer to back him up if anyone objected.[262] Derek, only half joking, first asked whether it was even "safe to mention motor boats here," saying he would rather correspond about it by e-mail than risk being thrown off the group,[261] then, once reassured, noted that others had their own ideas about motoring in a Paradox and had given the subject some thought as well — pointing to further list members who might be persuaded to write up their own motor-Paradox thinking.[263]
 
 ## See also
 
-For Derek Clark's own biography, list-community role, and non-boat-specific
-contributions, see [people/derek-clark.md](/people/derek-clark.md).
+For Derek Clark's own biography, list-community role, and non-boat-specific contributions, see [people/derek-clark.md](/people/derek-clark.md).
 
 # Citations
 
@@ -1880,7 +576,7 @@ contributions, see [people/derek-clark.md](/people/derek-clark.md).
 [242] Archive message page_3669 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3701, 2006-06-03) — "Re: Enuf Update": confirms to Nels that the chine runners are not to plan — a sanding-disc mishap with his angle grinder "ran away with" him; says he made the change because he didn't want "just a clone Paradox," but admits he had also simply guessed at some plan details he didn't fully understand, with the effect still to be seen once the boat sails. Signed implicitly (no signoff in the message body).
 [243] Archive message page_3668 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3700, 2006-06-03) — "Re: Enuf Update... Fridge.": confirms the plastic box is a Porta Potti; has just bought a newer, more compact model (the 335) suited to solo use, with still no room to use it without pulling it out of the forward stateroom "unless... you've just had a bad curry." Signed "hi Nels" salutation only, no closing signoff. A short exchange with Nels in the same and following message (page_3668/msgnum3700, page_3670/msgnum3702) about a Microcruisers-group member's unrelated personal misfortune is off-topic to Paradox and omitted here.
 [244] Archive message page_3685 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3717, 2006-06-15) — "Enuf with her sail up": posts three current photos to the group's photo section, showing the hatch cover's current state; floats dropping it further, to just two inches high, and asks for comments; separately reports trouble furling the sail that morning — it tried to move forward along the boom and ride over the furling drum, a problem that had not occurred the last time he furled, though the boom's outboard end was lower than before; notes his Honda outboard is ready for action.
-[245] Archive message page_3695 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3727, 2006-06-26) — "Re: Enuf with her sail up": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox); has put a selection of Derek's photos up at `www.paradox-uk.co.uk`, linking through to `www.smallsailboats.co.uk/paradox/enuf_gallery.htm`; thanks Derek for the pictures. Signed "Bill."
+[245] Archive message page_3695 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, msgnum 3727, 2006-06-26) — "Re: Enuf with her sail up": full text and citation at [boats/faith.md](/boats/faith.md#chine-runner-and-gudgeon-photos-and-mark-waters-paradox); has put a selection of Derek's photos up at `www.paradox-uk.co.uk`, linking through to `www.smallsailboats.co.uk/paradox/enuf_gallery.htm`; thanks Derek for the pictures. Signed "Bill."
 [246] Archive message page_3782 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3814, 2006-07-24) — "Enuf All Ready": posts a photo of the finished hatch, noting it isn't much different from the plans after all despite a summer of variations that "came to naught"; the boat is not yet on the trailer (scheduled for the coming Wednesday); plans to weigh the loaded trailer (boat, stores, and himself as skipper aboard), subtract the trailer's weight, and use the resulting figure against the design displacement to size the lead ballast, to be brought along and placed for best trim at next Monday's planned launch; the only task left is the lid of his wannigan. Signed "Cheers."
 [247] Archive message page_3783 (markagreenwood / "markgreenwood2004" / mark greenwood, `paradoxbuilders`, msgnum 3815, 2006-07-24) — "Re: Enuf All Ready": HTML reply quoting Derek's message in full; "Good Luck Admiral!" Signed "mark greenwood."
 [248] Archive message page_3784 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 3816, 2006-07-26) — "Enuf on the Trailer": reports "Enuf" now on the trailer; used a crossways plastic pipe bonded through the stem with a spliced grommet for the winch wire instead of an eyebolt — the splice held, but the winch wire's own pressed-end fitting pulled free and was refastened with u-bolt clamps from the junk box; the hull's bottom proved a couple of inches wider than the gap between the trailer's mudguards, which had to be removed, needing longer bolts to stand them further off the chassis; the trailer has rollers up the centerline with 3.5 by 2 in timber lashed to the outer chassis to keep the boat level; the bottom now sits 22 in above the ground, so launching will need about 3 ft of water and will fully submerge the trailer's wheels; remarks that Alastair's own £1500 trailer is starting to seem a good idea. Signed "Cheers."

@@ -8,91 +8,29 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Southern California sailing and the Catalina Island crossing question
 
-Whether a [Paradox](/paradox.md) is up to sailing Southern California waters
-and crossing to **Catalina Island** can be answered by comparison: the boat's
-open-ocean capability is already demonstrated by a longer and rougher passage
-it makes routinely.
+Whether a [Paradox](/paradox.md) is up to sailing Southern California waters and crossing to **Catalina Island** can be answered by comparison: the boat's open-ocean capability is already demonstrated by a longer and rougher passage it makes routinely.
 
 ## Catalina crossing measured against the Gulf Stream passage
 
-The [Paradox](/paradox.md) **routinely makes the passage across the Gulf
-Stream to the Bahamas**, a crossing that is **longer and rougher** than a
-Catalina Island crossing — so a Catalina crossing sits comfortably within the
-boat's demonstrated range, even though a Southern-California-based owner
-making that specific crossing is not otherwise recorded. This comparison sits
-alongside the [blue-water suitability](/design/blue-water-suitability.md)
-discussion from a few months earlier and the
-[Nova-Scotia-to-Bahamas cruising claim](/matt-layden/biography.md)
-about Matt Layden's own cruising, reinforcing the **Gulf Stream/Bahamas
-crossing** as the standard real-world benchmark for the Paradox's
-open-water capability, rather than a one-off feat.
+The [Paradox](/paradox.md) **routinely makes the passage across the Gulf Stream to the Bahamas**, a crossing that is **longer and rougher** than a Catalina Island crossing — so a Catalina crossing sits comfortably within the boat's demonstrated range, even though a Southern-California-based owner making that specific crossing is not otherwise recorded. This comparison sits alongside the [blue-water suitability](/design/blue-water-suitability.md) discussion from a few months earlier and the [Nova-Scotia-to-Bahamas cruising claim](/matt-layden/biography.md) about Matt Layden's own cruising, reinforcing the **Gulf Stream/Bahamas crossing** as the standard real-world benchmark for the Paradox's open-water capability, rather than a one-off feat.
 
 ## Census: how many Paradoxes were sailing (May 2002)
 
-Five months after the informal December 2001 census (see [Chris Becker's "A
-Query" thread](/people/chris-becker.md)), **four Paradoxes were known to be
-sailing**: [Matt Layden's own boat](/boats/original-paradox.md),
-[Don Elliott's](/boats/elliott-paradox.md),
-[David Beard's](/boats/whisper.md) (not yet named "Whisper" at the time — see
-below), and [Zoë](/boats/zoe.md). Geographic breakdown: **two in Florida**
-(Zoë and Matt's boat), **one in Tennessee** (David Beard's, per this count),
-and Don Elliott believed to live in Wisconsin, though that detail was
-uncertain. This roughly matches, but does not exactly reconcile with, the
-other recorded location data for these builders — David Beard has elsewhere
-given his own location as **Tupelo, Mississippi** (90 miles south of
-Memphis, TN — see [David Beard](/people/david-beard.md)), so the
-"Tennessee" figure here is likely a loose regional shorthand for the same
-Memphis-area location rather than a distinct fact, and Don Elliott's home
-state is not otherwise confirmed anywhere else in the archive. Days later,
-David Beard's previously unnamed boat was confirmed to be named
-**["Whisper"](/boats/whisper.md)** — closing the small gap in this census.
+Five months after the informal December 2001 census, **four Paradoxes were known to be sailing**: [Matt Layden's own boat](/boats/original-paradox.md), the [Elliott Paradox](/boats/elliott-paradox.md), the boat later named [Whisper](/boats/whisper.md) (not yet named "Whisper" at the time — see below), and [Zoë](/boats/zoe.md). Geographic breakdown: **two in Florida** (Zoë and Matt's boat), **one in Tennessee** (Whisper's builder, per this count), and the Elliott Paradox's builder believed to live in Wisconsin, though that detail was uncertain. This roughly matches, but does not exactly reconcile with, the other recorded location data for these builders — Whisper's builder has elsewhere given his own location as **Tupelo, Mississippi** (90 miles south of Memphis, TN), so the "Tennessee" figure here is likely a loose regional shorthand for the same Memphis-area location rather than a distinct fact, and the Elliott Paradox builder's home state is not otherwise confirmed anywhere else in the archive. Days later, the previously unnamed boat was confirmed to be named **["Whisper"](/boats/whisper.md)** — closing the small gap in this census.
 
 ## Census: six Paradoxes launched (December 2003)
 
-By late December 2003 the running count stood at **six Paradoxes
-launched**, "that we know of" — the highest figure recorded anywhere in the
-archive, up from the four-boat May 2002 count above. The count was updated
-on the occasion of a new prospective builder joining, a Rhode Island
-carpenter/tradesman who had already built and used a self-designed diving
-boat in six weeks and paid for his Paradox plans, drawn to the design for
-coastal cruising without wanting a large or production boat.
+By late December 2003 the running count stood at **six Paradoxes launched**, "that we know of" — the highest figure recorded anywhere in the archive, up from the four-boat May 2002 count above. The count was updated on the occasion of a new prospective builder joining, a Rhode Island carpenter/tradesman who had already built and used a self-designed diving boat in six weeks and paid for his Paradox plans, drawn to the design for coastal cruising without wanting a large or production boat.
 
 ## Census: eight boats named, and a fuller builders' list (October 2004)
 
-A year on from the six-boat count above, the fullest builders' census on
-record named **eight Paradoxes afloat**: **Matt Layden's own Paradox**
-(USA), [Glen Maxwell's **Zoë**](/boats/zoe.md) (USA), [**Don Elliott's**
-boat](/boats/elliott-paradox.md) (USA), **David's "Whisper"** (USA) — see
-[Whisper](/boats/whisper.md) — **Jack's** boat (USA) — see [Jack
-Gardiner](/people/jack-gardiner.md) — the New Zealand-built **"Petite Lady"**
-(see [boats index — other known builds](/boats/index.md)), **"Zero"** in
-Australia (see [Aussie Paradox](/boats/aussie-paradox.md)), and **Al Law's
-"Little Jim"** (UK) — see [Little Jim](/boats/little-jim.md) — with more
-suspected to exist, and construction then under way elsewhere besides.[9]
+A year on from the six-boat count above, the fullest builders' census on record named **eight Paradoxes afloat**: **Matt Layden's own Paradox** (USA), [**Zoë**](/boats/zoe.md) (USA), the [Elliott Paradox](/boats/elliott-paradox.md) (USA), [**"Whisper"**](/boats/whisper.md) (USA), a further **USA-built** boat, the New Zealand-built **"Petite Lady"** (see [boats index — other known builds](/boats/index.md)), **"Zero"** in Australia (see [Aussie Paradox](/boats/aussie-paradox.md)), and **"Little Jim"** (UK) — see [Little Jim](/boats/little-jim.md) — with more suspected to exist, and construction then under way elsewhere besides.[9]
 
-A fuller tally from independent notes added three further named boats —
-**David C. Smith's "Swash"** (US; see [David C. Smith](/people/david-c-smith.md)), **Ronald de Hon's "RHXII"**
-(Amsterdam), and **Chris Becker's "Walden"** (Australia; see
-[Walden](/boats/walden.md)), some possibly still building rather than
-finished — plus known builders then in progress: **Jeff Forrest** (US),
-**Paul** (US), **Jack Gardiner** (US, stitch-and-glue), **Steve** (Kansas
-City, US), **Kjell Karlsson** (Sweden, BRIS construction — see [the "BRIS
-Paradox"](/boats/bris-paradox.md)), and **Derek Clark** (Wolverhampton,
-UK).[10] **Dave Blow**, a Colorado builder then partway through his own
-from-scratch build (see [building plans — Dave Blow's
-build](/references/building-plans.md#why-paradox-resists-easy-enlargement)),
-was a further name missing from both lists.[11]
+A fuller tally from independent notes added three further named boats — **"Swash"** (US), **"RHXII"** (Amsterdam), and [**"Walden"**](/boats/walden.md) (Australia), some possibly still building rather than finished — plus known builders then in progress: one **US** builder, another **US** builder, a **US, stitch-and-glue** builder, a **Kansas City, US** builder, a **Sweden** builder using BRIS construction (see [the "BRIS Paradox"](/boats/bris-paradox.md)), and a **Wolverhampton, UK** builder.[10] A **Colorado** builder then partway through his own from-scratch build (see [building plans](/references/building-plans.md#why-paradox-resists-easy-enlargement)) was a further name missing from both lists.[11]
 
 ## A builder's own start: plans, a scale model, and the mast question
 
-Prospective builder **Dan** (Garden Grove, CA) ordered a set of plans and
-began building a scale balsa model before attempting the full-size boat, then
-got stuck on the mast's construction — see
-[rig and sail — reading the mast's plan views](/design/rig.md)
-for the full account of how the plans' three mast views were worked through.
-Whether Dan progressed beyond the mast question to a full-size build is not
-recorded; see [crew size and cabin fit — the "Newbie"
-thread](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
+A prospective builder in Garden Grove, CA ordered a set of plans and began building a scale balsa model before attempting the full-size boat, then got stuck on the mast's construction — see [rig and sail — reading the mast's plan views](/design/rig.md) for the full account of how the plans' three mast views were worked through. Whether the build progressed beyond the mast question to a full-size boat is not recorded; see [crew size and cabin fit — the "Newbie" thread](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
 
 # Citations
 
