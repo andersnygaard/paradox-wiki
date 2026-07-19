@@ -19,6 +19,7 @@ page covering the same ground for a human reader.
 - [Matt Layden](matt-layden/index.md) — the designer and his family of boat designs
 - [Chine runners](chine-runners/index.md) — the boat's single most distinctive feature
 - [Boats](boats/index.md) — individual known Paradox builds
+- [Components](components/index.md) — browse by part / build-step (Mast, Rudder, Pilothouse, …), mirroring the build-photo categories
 - [Design](design/index.md) — hull form, ballast, rig, steering
 - [Construction](construction/index.md) — materials, techniques, build sequence
 - [People](people/index.md) — the designer and notable builders/contributors

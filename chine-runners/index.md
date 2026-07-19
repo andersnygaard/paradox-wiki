@@ -19,5 +19,5 @@ under [design](/design/index.md) or [construction](/construction/index.md).
 # Related branches
 
 * [Sven Yrvind](/people/yrvind.md) - The chine runner's foremost external champion, who sailed Paradox himself and adopted the feature on his own boats.
-* [Rudder and chine experiments](/design/rudder.md) - The oversized rudder that, with the runners and the heeled hull, supplies the boat's lateral resistance.
+* [Rudder and chine experiments](/components/rudder.md) - The oversized rudder that, with the runners and the heeled hull, supplies the boat's lateral resistance.
 * [Weight, ballast, and displacement](/design/weight-and-ballast.md) - The heavy, low displacement the runners depend on to stay submerged when heeled.

@@ -22,6 +22,9 @@ added here as they are sourced from the archive.
 * [Swash (David C. Smith)](swash.md) - David C. Smith's Columbia River-area Paradox, built strictly to the plans by a Pacific Northwest professional boatbuilder — briefly listed for sale during a divorce in 2004 before he chose to finish her himself.
 * [Ladikan (Bengt Genell)](ladikan.md) - Bengt Genell's plywood-built Paradox, launched on Lake Mälaren in central Sweden in July 2006 after a two-year build — a budget-conscious second independent Swedish build, alongside Kjell Karlsson's composite "BRIS Paradox."
 * [Faith (Bill Serjeant)](faith.md) - Bill Serjeant's UK Paradox, built strictly to Matt Layden's original plans after a kit deal fell through — started August 2005, still under construction and unlaunched as of the record (expected summer 2007), like [Enuf](enuf.md) at its own pre-launch stage.
+* [Defiant (Sean Herron)](defiant.md) - Sean Herron's Paradox, under construction as of December 2006 with slight modifications from Matt Layden's stock design.
+* [JoHanna (Pete Martin)](johanna.md) - Pete Martin's Paradox, under construction in Cheltenham, England from 1 December 2006.
+* [Irene May (Ian Lang)](irene-may.md) - Ian Lang's Paradox, under construction in North London from late June 2007, named after his late mother.
 
 > **See also:** [Walden](walden.md) (Chris Becker) and
 > [Aussie Paradox](aussie-paradox.md) (Andrew Graham) are two otherwise

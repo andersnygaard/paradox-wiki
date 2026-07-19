@@ -10,7 +10,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 ## Two holes for the tack line, in the boom-end pulley
 
-The pulley fitted at the end of the boom has **two holes** for the tack line. The two holes let the **tack line pass through and then back** to the **tack grommet**, so the line can be used to **tighten and make the tack fast** — i.e. the pair of holes forms a simple 2:1 purchase/anchor point for tensioning the tack, rather than being redundant. This is a small hardware detail distinct from the [tack strop / downhaul](/design/furling-system.md) mechanism already documented for reefing.
+The pulley fitted at the end of the boom has **two holes** for the tack line. The two holes let the **tack line pass through and then back** to the **tack grommet**, so the line can be used to **tighten and make the tack fast** — i.e. the pair of holes forms a simple 2:1 purchase/anchor point for tensioning the tack, rather than being redundant. This is a small hardware detail distinct from the [tack strop / downhaul](/components/rig/furling.md) mechanism already documented for reefing.
 
 ## "Bottom Bevel Left Standing" — the bulkhead bevel convention
 
@@ -35,6 +35,10 @@ The tack-line holes are only about **1/4 in in diameter and a few inches deep** 
 
 Both methods share the same underlying idea — coat/fill first, then restore the working diameter by redrilling after cure — as opposed to trying to brush or soak epoxy into a hole already cut to final size.
 
+## The transom's overall height, drawing sheet #8
+
+Drawing sheet #8 gives **459 mm** from the base to the top of the transom's starboard side, but does not separately state the additional height from the top of the side up to the top of the deck curve — a gap a builder wanting to cut all bulkheads at once, ahead of building the deck beams, needs filled in. One builder's own finished transom came out at **516 mm** overall. Cutting the transom to a final height before the deck beams are actually fitted is not recommended: if the deck beams do not come out exactly to plan, a transom already trimmed to size will not fit, so the safer practice is to leave the top of the transom oversize and trim it back only once the deck beam is in place and its true height is known.
+
 # Citations
 
 [1] Archive message page_295 (orpdh / Pete Hodges, `paradoxbuilders`, 2002-01-28) — "Tack Line Holes": asks why there are two holes for the tack line in the pulley at the end of the boom, and how the second hole is used.
@@ -49,3 +53,5 @@ Both methods share the same underlying idea — coat/fill first, then restore th
 [10] Archive message page_2205 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2232, 2004-08-24) — "Re: Standing Bevels?": points Derek to archive message 1267 ("Bulkhead questions (long)"), where he had asked about bevels himself and received a number of replies.
 [11] Archive message page_2206 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2233, 2004-08-24) — "Re: Standing Bevels?": thanks Paul for the prompt, useful pointer; printed out the referenced questions and answers to mark up in colored pens; had by then made the deck-beam jig and was ready to cut 6 mm ply into 25 mm strips once the rain stopped; asks after the progress and naming of Paul's own Paradox.
 [12] Archive message page_2207 (kayaker37 / "Paul", `paradoxbuilders`, msgnum 2234, 2004-08-25) — "Re: Standing Bevels?": answers Derek's bevel questions directly — 668 mm is bulkhead 1's total plywood height at the station line, beveled inward since the rest of the panel lies forward of that line; the dotted line below bulkhead 1 marks the floor, which lies aft of the station line and is therefore beveled outward; the sides are additionally crowned (curved outward), shown by a further offset line to the right of centre; to the right of the bulkheads the drawing also shows the floor, sides, and deck plywood in planking position; separately clarifies he has never built a Paradox himself — his questions all concerned a CAD model of the boat, posted to the group's main files area, undertaken to understand the design better in the absence of anywhere to build a full-size boat; notes that answers from an actual builder are more reliable than his own.
+[13] Archive message page_4078 (oldskoolrotary, `paradoxbuilders`, msgnum 4113, 2006-12-01) — "Paradox Transom Height??? Please help!": asks for the transom's overall height; drawing sheet #8 gives 459 mm from the base to the top of the starboard side, but the further measurement up to the top of the deck curve is missing; would rather cut all the bulkheads out now than wait until the deck beams are built. Signed "Craig."
+[14] Archive message page_4079 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 4114, 2006-12-01) — "Re: Paradox Transom Height??? Please help!": his own transom came out at 516 mm overall, but cautions against cutting it to size too soon — if the deck beams don't come out exactly to plan the pre-cut transom won't fit; he left it oversize and trimmed it back only once the deck beam was fitted. Signed "Al, Yeovil, England."

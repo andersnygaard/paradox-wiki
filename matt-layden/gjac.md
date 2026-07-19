@@ -26,7 +26,7 @@ Importantly, **the leeboards seen in photographs of GJac were added by a later o
 
 - Owner (as of the 2002 resale): based in **Connecticut** [2].
 
-The earliest photographic trace of GJAC is a **half-immersed rudder photograph** — one of four different Layden-boat rudders uploaded, and the only photo of GJAC then available; see [rudder variety across Layden boats](/design/rudder.md#rudder-variety-across-layden-boats) [1].
+The earliest photographic trace of GJAC is a **half-immersed rudder photograph** — one of four different Layden-boat rudders uploaded, and the only photo of GJAC then available; see [rudder variety across Layden boats](/components/rudder.md#rudder-variety-across-layden-boats) [1].
 
 ## Leeboards versus ballast
 

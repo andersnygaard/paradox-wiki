@@ -22,6 +22,7 @@ promoted toward the root ("trunk"); one-off details live deeper in the tree.
 * [matt-layden](matt-layden/index.md) - The designer Matt Layden — his biography and his family of eight documented boat designs, from Terrapin through Swamp Thing, GJAC, Little Cruiser, and the Paradox to Enigma, Sand Flea, and Elusion.
 * [chine-runners](chine-runners/index.md) - The Paradox's single most distinctive feature — the tapered fins along the chine line that give a keel-less, shallow-draft boat its windward ability: how they work, how they perform, where they came from, and how builders build them.
 * [boats](boats/index.md) - Individual known Paradox builds / hulls (specific instances of the design), each linked to its builder.
+* [components](components/index.md) - Browse the boat by physical part / build-step (Ballast, Mast, Rudder, Pilothouse, Vent box, …) — a cross-cutting index that mirrors the build-photo categories and routes each part to where it is covered across the design/construction/operations branches.
 * [design](design/index.md) - Defining design features (hull form, ballast, rig, steering).
 * [construction](construction/index.md) - Materials, techniques, and build sequence.
 * [people](people/index.md) - The designer and notable builders/contributors.

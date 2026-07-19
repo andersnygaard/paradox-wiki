@@ -30,7 +30,7 @@ Interesting details, matching the same set used for Paradox and Enigma: **chine 
 
 ## An unusual auxiliary: a stand-up paddle
 
-Where the rest of the Layden lineage relies on a **sculling oar** or yuloh for auxiliary propulsion (see [yuloh and stowed-rig retention](/design/yuloh-and-stowed-rig-retention.md)), Elusion is the exception: her auxiliary is not the usual sculling oar but instead a **stand-up paddle**.
+Where the rest of the Layden lineage relies on a **sculling oar** or yuloh for auxiliary propulsion (see [yuloh and stowed-rig retention](/components/yuloh.md)), Elusion is the exception: her auxiliary is not the usual sculling oar but instead a **stand-up paddle**.
 
 ## Racing history
 

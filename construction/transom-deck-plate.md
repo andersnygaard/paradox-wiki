@@ -8,7 +8,7 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Transom deck plate
 
-The Paradox's transom carries a **6 inch deck plate**, used as an access/inspection port for the aft compartment (see [furling system](/design/furling-system.md) and [topside and hull painting choices](/construction/topside-painting.md) for other transom-area questions). Two recurring concerns about it — and about the similar deck plates fitted on the water tanks — are whether these plates are genuinely watertight, and whether one could work loose or pop out, which would be dangerous in rough weather with a 6 in hole opening straight into the hull.
+The Paradox's transom carries a **6 inch deck plate**, used as an access/inspection port for the aft compartment (see [furling system](/components/rig/furling.md) and [topside and hull painting choices](/construction/topside-painting.md) for other transom-area questions). Two recurring concerns about it — and about the similar deck plates fitted on the water tanks — are whether these plates are genuinely watertight, and whether one could work loose or pop out, which would be dangerous in rough weather with a 6 in hole opening straight into the hull.
 
 ## The transom port is safe: a leak drains harmlessly out the tiller vent
 
@@ -19,7 +19,7 @@ The transom port is watertight in practice. Even in the worst case — a breakin
 The deck plates on the **water tanks** are a more consequential watertightness concern than the transom port: a failure there would let the boat's **ballast and drinking water join the crew in the cabin**, rather than draining harmlessly out the tiller vent as a transom leak does.
 
 - Water-tank ports are worth **enlarging from 4 in to 6 in**, since a 4 in opening is too small to fit an arm completely into, making it hard to reach every corner of the tank to clean it.
-- Tank deck plates can **leak a little** around the edges in practice. A simple fix: carry a **6 in length of 5/8 in dowel rod**, insert it in the plate's finger hole, and **tap it with a hammer** to seat the plate and get a good seal — reversing the process to reopen it.
+- Tank deck plates can **leak a little** around the edges in practice. A simple fix: carry a **6 in length of 5/8 in dowel rod**, insert it in the plate's finger hole, and **tap it with a hammer** to seat the plate and get a good seal — reversing the process to reopen it. A purpose-built version of the same idea — a 1x2 handle with two dowel rods set to match the finger-hole spacing — gives enough leverage to tighten or loosen a stubborn plate by hand; see [Little Jim — abandoning water ballast for lead, after a leaking tank inspection cover](/boats/little-jim.md#abandoning-water-ballast-for-lead-after-a-leaking-tank-inspection-cover-may-2007) for the fuller account, including one owner's decision to give up on water ballast for that tank leak's sake entirely.
 - For **draining and cleaning** the tanks after a trip, fit a hose to the galley pump's spigot and run it out through the vent opening; a few strokes of the pump **siphons the tanks dry** overboard, after which a quick wipe with an absorbent cloth leaves them clean and dry until the next trip.
 
 This has not yet been connected to the mast's own inspection-port fit issue documented in [mast interior sealing and anchor-light fit](/construction/mast-sealing-and-fit.md), though all three concern the reliability of a screwed/gasketed closure exposed to weather.

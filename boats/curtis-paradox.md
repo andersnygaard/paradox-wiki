@@ -10,7 +10,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 The [Paradox](/paradox.md) owned by **Chris Curtis** (Sandpoint, Idaho). No individual boat name has been recorded for this hull, so it is filed under its owner. This page is the canonical home for Chris Curtis himself as well as his boat.
 
-Distinct from two other below-threshold, citation-only correspondents who also used "Chris Curtis"/"Curtis" on the mailing list: a 2006 newcomer with a Sandpoint Computers signature and no boat/build on record, and one from Phoenix, Arizona (see [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)).
+Distinct from two other below-threshold, citation-only correspondents who also used "Chris Curtis"/"Curtis" on the mailing list: a 2006 newcomer with a Sandpoint Computers signature and no boat/build on record (Sandpoint, Idaho, `joe_mapango`, u=181858645), and one from Phoenix, Arizona (see [references/paradox-uk-website.md](/references/paradox-uk-website.md#a-uk-and-worldwide-build-count)). That mailing-list `joe_mapango` maxi-Paradox builder resurfaced in January 2007, continuing the scale-up discussion with the same Dave Bolduc plans (see [design/variants/stretched-paradox.md](/design/variants/stretched-paradox.md#why-not-scale-moment-of-inertia-and-getting-matts-plans-directly)); his `X-Yahoo-Group-Post` member id had by then changed to 292110282, but the globally unique profile handle `joe_mapango` and the `ccurtis` account are unchanged, so this is the same below-threshold correspondent (that member id is a per-subscription token, not a stable profile identifier) — still distinct from the finished-boat Texas-200 Chris Curtis who is the subject of this page.
 
 # Provenance and record
 

@@ -30,7 +30,7 @@ A fuller tally from independent notes added three further named boats — **"Swa
 
 ## A builder's own start: plans, a scale model, and the mast question
 
-A prospective builder in Garden Grove, CA ordered a set of plans and began building a scale balsa model before attempting the full-size boat, then got stuck on the mast's construction — see [rig and sail — reading the mast's plan views](/design/rig.md) for the full account of how the plans' three mast views were worked through. Whether the build progressed beyond the mast question to a full-size boat is not recorded; see [crew size and cabin fit — the "Newbie" thread](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
+A prospective builder in Garden Grove, CA ordered a set of plans and began building a scale balsa model before attempting the full-size boat, then got stuck on the mast's construction — see [rig and sail — reading the mast's plan views](/components/rig/index.md) for the full account of how the plans' three mast views were worked through. Whether the build progressed beyond the mast question to a full-size boat is not recorded; see [crew size and cabin fit — the "Newbie" thread](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
 
 # Citations
 

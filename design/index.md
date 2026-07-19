@@ -1,23 +1,38 @@
 # Design
 
-Defining design features of the [Paradox](/paradox.md): hull form, ballast and
-stability, rig and sails, steering, and interior/accommodation. Concepts are
-added here as they are sourced from the archive.
+The Paradox's **design & R&D** — why the boat is specified the way it is, and
+every other boat it could have been. Only three kinds of page live here:
+
+1. **Whole-boat properties** — true of the boat *as a system*, not reducible to
+   one part (hull scantlings, weight/ballast/displacement and stability,
+   blue-water suitability, lightning protection).
+2. **Variants** — alternative *whole boats* (see [variants/](variants/index.md):
+   stretched, enlarged, motorsailer, Paramour, scaled-down).
+3. **Ideas & experiments** — speculative or tried-and-abandoned features not part
+   of the stock boat (glass bottom, metal construction).
+
+**Boundary vs [components/](/components/index.md):** anything about a single
+named *part* of the stock boat (rudder, rig, mast, interior, yuloh, …) lives with
+that part under `components/`, not here. The test — *is it one part?* →
+components; *is it the whole boat, an alternative, or a rationale/experiment?* →
+design.
 
 # Concepts
 
+*Whole-boat properties*
+
 * [Hull scantlings (plywood thicknesses)](hull-scantlings.md) - The plywood thicknesses specified for the Paradox hull — 18 mm bottom and 12 mm sides.
-* [Interior bin panels and hinged floor](interior-bins-and-floor.md) - The Paradox's under-bunk bin panels between bulkheads #1 and #2, the fully removable-panel interior that eases battery installation, and the toggle-hinged floor.
-* [Mast partners and vent trunk](mast-partners.md) - The reinforced deck area (the "partners") where the Paradox mast passes through the deck, integrated with the vent trunk.
-* [Rig and sail](rig.md) - The Paradox's simple balanced-lug-style rig — a yard held to the mast only by the halyard (no parrel), a sail set on a rolling boom, how the mast's rake and profile drawings are built and read, and where builders have sourced or made their sails, with pricing and technique from Glen Maxwell, the Bolducs, and Matt Layden himself.
-* [Furling system (reefing and stowing the rolling-boom sail)](furling-system.md) - How Paradox's rolling-boom lug sail is reefed and furled — the stock gear's inherent three-hands problem, the topping-lift fix and hardware that solves it, Matt Layden's own foot-pressure alternative, and the build lessons and refinements later builders added.
-* [Rudder and chine experiments](rudder.md) - The Paradox's oversized rudder, its design rationale and known handling trade-offs, the rejected forward-chine-extension experiment, a range of tried and untested wear-protection and rudder-resizing ideas, and technique advice for tacking problems and rudder-up sailing.
+* [Beam, freeboard, and stability](beam-and-stability.md) - Why Paradox is built narrow rather than beamy, weighing the stability trade-offs of added beam against a stability curve obtained from the designer and John Teale's design-text observations on knockdowns and righting moments.
 * [Weight, ballast, and displacement](weight-and-ballast.md) - The Paradox's loaded-weight breakdown, lead ballast, and waterplane sensitivity — most of the weight sits low in the bilge for stability, and independent weight estimates for several boats converge on a design displacement of roughly 1,400 lb.
-* [Glass-bottom Paradox (speculative)](glass-bottom-idea.md) - A speculative design idea for making part of a Paradox's flat plywood bottom transparent to view marine life through shallow water, with prior-art examples and practical how-to guidance for a Lexan or polycarbonate window.
-* [Yuloh and stowed-rig retaining loops](yuloh-and-stowed-rig-retention.md) - How the Paradox's yuloh (sculling oar) and its lowered mast/sail are held on deck by brass tube retaining loops, how the underlying pipe stowage rails are installed (epoxied-in, bolt-on, or U-bolt), and where the yuloh itself is documented in the plans.
 * [Blue-water suitability and comparison to Sven Yrvind's boats](blue-water-suitability.md) - Whether Paradox counts as a blue-water (open-ocean) boat or only a coastal cruiser, weighed against Swedish designer Sven Yrvind's structurally different "Bris"/Sofia microcruisers, with firsthand cruising evidence and a real "BRIS Paradox" build that grew out of the comparison.
-* [Aluminum and steel Paradox (speculative)](aluminum-construction-idea.md) - Whether a Paradox could be built in metal instead of plywood — a designer-fidelity objection and a detailed alloy/thickness technical assessment for aluminum, a whole-hull steel-construction debate over gauge, framing, and damage tolerance, plus a separate, unadopted outside pitch for a frameless urethane-foam composite method.
 * [Lightning protection](lightning-protection.md) - How Matt Layden's masthead lightning-protection system works — a de-ionization (not attraction) principle that grounds ions in the air around the boat to discourage a strike, plus firsthand evidence for and against relying on it.
+
+*Ideas & experiments*
+
+* [Glass-bottom Paradox (speculative)](glass-bottom-idea.md) - A speculative design idea for making part of a Paradox's flat plywood bottom transparent to view marine life through shallow water, with prior-art examples and practical how-to guidance for a Lexan or polycarbonate window.
+* [Aluminum and steel Paradox (speculative)](aluminum-construction-idea.md) - Whether a Paradox could be built in metal instead of plywood — a designer-fidelity objection and a detailed alloy/thickness technical assessment for aluminum, a whole-hull steel-construction debate over gauge, framing, and damage tolerance, plus a separate, unadopted outside pitch for a frameless urethane-foam composite method.
+
+**Moved to `components/`** (each part now owns its own design content): Rudder → [components/rudder.md](/components/rudder.md) · Interior → [components/interior.md](/components/interior.md) · Yuloh → [components/yuloh.md](/components/yuloh.md). The whole **rig cluster** now lives under its own sub-branch, [components/rig/](/components/rig/index.md) — Rig, Mast (with the former mast-partners), Sail, Furling (the former furling-system), Topping lift, Tack strop, Clew, Internal rigging, Junk rig.
 
 # Subdirectories
 

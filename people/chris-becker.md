@@ -24,7 +24,7 @@ Becker's from-scratch build — begun in 2001, stalled and restarted more than o
 - **Panel-layout snag:** hit the same **bulkhead #2** interference documented elsewhere, resolved by shifting BH2 40 mm and relocating the transom to another sheet — see [panel layout and nesting](/construction/panel-layout.md).
 - **Fit-out ideas** floated for the group: an icebox and a detachable transom sink; interior deck plates; and **flyscreens** on the vents and main hatch — the archive's first mention of insect screening as a Paradox fit-out detail.
 
-An early question about getting the 18 mm bottom and 12 mm sides onto the hull also seeded the discussion documented under Paradox [hull scantlings](/design/hull-scantlings.md), [hull planking](/construction/hull-planking.md), [fastening](/construction/fastening-and-gluing.md), and [epoxy pre-coating technique](/construction/epoxy-coating-technique.md); and a ballast/battery-placement question fed [weight, ballast, and displacement](/design/weight-and-ballast.md) and [interior bins and hinged floor](/design/interior-bins-and-floor.md).
+An early question about getting the 18 mm bottom and 12 mm sides onto the hull also seeded the discussion documented under Paradox [hull scantlings](/design/hull-scantlings.md), [hull planking](/construction/hull-planking.md), [fastening](/construction/fastening-and-gluing.md), and [epoxy pre-coating technique](/construction/epoxy-coating-technique.md); and a ballast/battery-placement question fed [weight, ballast, and displacement](/design/weight-and-ballast.md) and [interior bins and hinged floor](/components/interior.md).
 
 # Citations
 

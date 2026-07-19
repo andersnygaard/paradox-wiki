@@ -8,7 +8,7 @@ timestamp: 2026-07-03T00:00:00Z
 
 # Sailmaking (home-built lug sail)
 
-This concept documents how the lug sail for the [Little Cruiser](/matt-layden/little-cruiser.md) — a Matt Layden micro-cruiser closely related to the Paradox — is lofted, cut, and sewn at home. It complements the design-level [rig and sail](/design/rig.md) concept (which covers the Paradox's own simpler, flatter-cut sail, sourcing a sail commercially, and a capsule account of this same home-sewing effort) and [furling system](/design/furling-system.md) (which covers how the finished sail is reefed and stowed on the rolling boom); those pages cover the *design*, this one covers the *craft* of actually building the cloth. It also extends [Little Cruiser](/matt-layden/little-cruiser.md)'s own sail-dimensions table (the sail this article is about) and its note that the sail is broadseamed and has a segmented leech.
+This concept documents how the lug sail for the [Little Cruiser](/matt-layden/little-cruiser.md) — a Matt Layden micro-cruiser closely related to the Paradox — is lofted, cut, and sewn at home. It complements the design-level [rig and sail](/components/rig/index.md) concept (which covers the Paradox's own simpler, flatter-cut sail, sourcing a sail commercially, and a capsule account of this same home-sewing effort) and [furling system](/components/rig/furling.md) (which covers how the finished sail is reefed and stowed on the rolling boom); those pages cover the *design*, this one covers the *craft* of actually building the cloth. It also extends [Little Cruiser](/matt-layden/little-cruiser.md)'s own sail-dimensions table (the sail this article is about) and its note that the sail is broadseamed and has a segmented leech.
 
 ## Sail history: four generations, 1988–2008
 
@@ -19,7 +19,7 @@ Little Cruiser has had, in order:
 3. **1998** — the **first home-made sail**, sewn after the 1994 sail's failure.
 4. **2008** — a **new sail project**, begun earlier in the year, paused for a cruise, then resumed that October — documented in the photo log referenced throughout this page.
 
-This is a more granular history than [rig and sail](/design/rig.md) records for this same boat: there, the account telescopes the 1994 failure and the 1998 rebuild into a single retelling (an expensive **Gambell and Hunter** sail that lasted one season because its leech was "cut on the bias and went slack," prompting the purchase of a **$250 old commercial zig-zag sewing machine** and an exact home-sewn copy of Matt's original). The two accounts corroborate each other on the essential point — a commercially bought sail failed at the leech and was replaced with a home-built copy of Matt Layden's 1988 original.
+This is a more granular history than [rig and sail](/components/rig/index.md) records for this same boat: there, the account telescopes the 1994 failure and the 1998 rebuild into a single retelling (an expensive **Gambell and Hunter** sail that lasted one season because its leech was "cut on the bias and went slack," prompting the purchase of a **$250 old commercial zig-zag sewing machine** and an exact home-sewn copy of Matt's original). The two accounts corroborate each other on the essential point — a commercially bought sail failed at the leech and was replaced with a home-built copy of Matt Layden's 1988 original.
 
 ## Design principle: building draft into flat cloth
 
@@ -40,7 +40,7 @@ Rather than drafting a new shape from scratch, each new sail is **lofted directl
 
 ### Checking the yard's bend to shape the head
 
-Because this is a **lug rig** (see [rig and sail](/design/rig.md) for how the yard is fastened to the mast and sail), the **head** of the sail is set by the **yard**, a spar with its own natural bend. Before cutting the head panel, the yard's actual curve — not just the lofted pattern — is checked to determine the best shape for the head of the sail; the yard's own bend, not just the pattern, informs how much round is cut into that edge.
+Because this is a **lug rig** (see [rig and sail](/components/rig/index.md) for how the yard is fastened to the mast and sail), the **head** of the sail is set by the **yard**, a spar with its own natural bend. Before cutting the head panel, the yard's actual curve — not just the lofted pattern — is checked to determine the best shape for the head of the sail; the yard's own bend, not just the pattern, informs how much round is cut into that edge.
 
 The segmented leech is worked in more procedural detail than the general lofting method above: a **test center leech panel** is made out of **rosin paper**, its **miter cuts marked**, and the **top leech panel is cut with two miters**, followed by assembling and mitering the adjoining panels (a top miter and a bottom miter, worked and completed in turn). This matches [Little Cruiser](/matt-layden/little-cruiser.md)'s already-recorded sail dimensions, where the **leech is segmented into three sections** (1590 mm, 1615 mm, 1620 mm) and the **two horizontal leech seams are tapered** — the miter-and-taper work described here is how those segments and seams are actually cut and joined.
 
@@ -64,7 +64,7 @@ The sewing setup is deliberately low-tech and improvised around a single **heavy
 - The hand-crank Singer sits at the top of that slope, on the plastic.
 - As the crank is turned, **gravity pulls the rolled sail down the hill and through the machine** — the hill does the work of feeding the sail's bulk through a domestic-scale machine instead of it having to be wrestled by hand.
 
-This setup is consistent with, and gives the missing mechanical detail behind, the mailing-list account of buying an "old commercial zig-zag sewing machine" for $250 to copy Matt Layden's sail (see [rig and sail](/design/rig.md)).
+This setup is consistent with, and gives the missing mechanical detail behind, the mailing-list account of buying an "old commercial zig-zag sewing machine" for $250 to copy Matt Layden's sail (see [rig and sail](/components/rig/index.md)).
 
 ### Corner patches and finishing
 
@@ -76,7 +76,7 @@ This setup is consistent with, and gives the missing mechanical detail behind, t
 
 ## Reference recommended
 
-***The Sailmaker's Apprentice*** by **Emiliano Marino** stands out as the one book that proved invaluable to the effort, praised for its detailed guidance specifically for **four-sided (lug) sails** — the same book recommended in the mailing-list sailmaking thread (see [rig and sail](/design/rig.md)). **Sailrite** kits are a lower-effort alternative, coming with panels **precut and seams pre-marked**, making them quicker to assemble than lofting and cutting a sail entirely from scratch as described above.
+***The Sailmaker's Apprentice*** by **Emiliano Marino** stands out as the one book that proved invaluable to the effort, praised for its detailed guidance specifically for **four-sided (lug) sails** — the same book recommended in the mailing-list sailmaking thread (see [rig and sail](/components/rig/index.md)). **Sailrite** kits are a lower-effort alternative, coming with panels **precut and seams pre-marked**, making them quicker to assemble than lofting and cutting a sail entirely from scratch as described above.
 
 ## Matt Layden's sailmaking recipe for a more weatherly Paradox sail
 
@@ -110,13 +110,13 @@ With **36 in (914 mm) cloth**, the sail is cut in **3 panels/seams**, laid out a
 Once the seamed panels are laid back on the floor marks, a further set of corrections is made to the outline itself:
 
 - **Foot round**: 28 mm total (14 mm to the sail, 14 mm to the sleeve), maximum at 50% from the tack, a very full-ended curve similar to the bottom seam.
-- **Head round**: 40 mm total (20 mm to the sail, 20 mm to the sleeve), maximum at 35% from the throat, a full-ended curve nearer a circular arc than the foot. This figure was tuned to Matt's own **hollow spruce yard**, which he judged a little stiffer than the yard detailed in the plans — a builder with a more flexible yard should start with 10-15 mm more head round and 4-5 mm more top-seam broadseam, since it is easier to flatten a sail afterward than to add fullness; alternatively, a too-flat head can be corrected by stiffening the yard instead (see the related [rig and sail](/design/rig.md) discussion on yard-bowing and stiffening).
+- **Head round**: 40 mm total (20 mm to the sail, 20 mm to the sleeve), maximum at 35% from the throat, a full-ended curve nearer a circular arc than the foot. This figure was tuned to Matt's own **hollow spruce yard**, which he judged a little stiffer than the yard detailed in the plans — a builder with a more flexible yard should start with 10-15 mm more head round and 4-5 mm more top-seam broadseam, since it is easier to flatten a sail afterward than to add fullness; alternatively, a too-flat head can be corrected by stiffening the yard instead (see the related [rig and sail](/components/rig/index.md) discussion on yard-bowing and stiffening).
 - **Luff round**: about 8-10 mm at 40% up from the tack, a circular arc or slightly parabolic — this round flows back into the sail's belly, and the luff becomes hollow in use.
 - **Leech hollow**: about 50 mm at 60% up from the clew, a parabolic curve, slightly stronger in the top section than the bottom.
 
 ### Corner patches, cut tabling, and the luff tape
 
-Foot and head sleeves get **doublers at each end** before being sewn on, extending 25-30 cm past the sleeve edge into the sail body to double as corner patches (staggered slightly so one side is larger than the other) — two layers being all these lightly-stressed corners need. The **tack patch** runs well up the luff and about 25 cm aft, forming a wear patch where the sail bears on the mast when reefed (the same mast-bearing contact point documented from actual sailing experience in [rig and sail — sail bearing on the mast and mast offset](/design/rig.md)). Sleeves are sewn on long, then trimmed back flush with luff and leech.
+Foot and head sleeves get **doublers at each end** before being sewn on, extending 25-30 cm past the sleeve edge into the sail body to double as corner patches (staggered slightly so one side is larger than the other) — two layers being all these lightly-stressed corners need. The **tack patch** runs well up the luff and about 25 cm aft, forming a wear patch where the sail bears on the mast when reefed (the same mast-bearing contact point documented from actual sailing experience in [rig and sail — sail bearing on the mast and mast offset](/components/rig/index.md)). Sleeves are sewn on long, then trimmed back flush with luff and leech.
 
 For the **leech**, a **cut tabling** is used: an extra ~20 cm of cloth is left at the leech during layout and seaming, then cut off and re-sewn as the tabling/hem — stitched exactly along the marked leech line (25 mm forward of the cut edge), then folded 360 degrees around so the two 25 mm flaps are enclosed between the sail and an 80 mm tabling flap, before being sewn through with 3-4 runs of stitching. The result: a narrow (25 mm) 4-thickness band followed by a wider (80 mm) 2-layer band — a tapered thickness that gives good support, the right stretch behavior, and resistance to wear from fluttering.
 
@@ -133,6 +133,10 @@ Reports of the taller, higher-peaked sail plan **creasing** in use point to a li
 ## Matching Matt's 4.5 oz Dacron cloth weight
 
 A separate note addressed **cloth weight**, distinct from Matt's own dimensional/technique recipe above: Little Cruiser's existing sail (documented earlier on this page) was sewn from **Sailrite's 3.9 oz red Dacron**, which proved adequate, but the *next* sail was planned to switch to the same **4.5 oz cloth Matt used** for his new Paradox sail, expected to prove **more durable and stretch-resistant** — available from **Defender Industries** at a reasonable price. Newcomers to sailmaking are pointed toward the same `microcruising.com` "Sailmaking" article this page already draws on. See [matt-layden/biography.md](/matt-layden/biography.md) for the thread this follow-up continues.
+
+## A cruising boat needs more draft than a light daysailer's lug
+
+When Matt Layden's February 2003 sailmaking recipe (above) was reposted to the list in April 2007 for a UK builder about to order a new sail from his own local sailmaker, the repost came with a standing caution for briefing any sailmaker unfamiliar with the design: a Paradox's lug sail needs **noticeably more draft than a lightweight daysailer's** would call for, since Paradox is a heavy cruising boat rather than a light performance dinghy — the same design distinction [sailmaking](#design-principle-building-draft-into-flat-cloth) draws generally between draft suited to heavy, slow boats and the flatter cut suited to light, fast ones. A sailmaker given only generic lug-sail conventions, without this steer, risks delivering a sail cut too flat for the boat it is actually going on.[25]
 
 ## Lessons learned
 
@@ -168,3 +172,4 @@ A separate note addressed **cloth weight**, distinct from Matt's own dimensional
 [22] Archive message page_2797 (alex29 / "tidybowlmann" / John "Jack" Gardiner, `paradoxbuilders`, msgnum 2827, 2005-06-12) — "Re: Mk2 sail": "Thanks Glen!" — closes out the tape-size question, quoting Glen's answer in full.
 [23] Archive message page_2797 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2828, 2005-06-12) — "Re: Mk2 sail": checked his own sail (made by Jekylls) — if taped, the tape is inside a fold of the material and 25 mm wide; luff and leech tape are about the same width and thickness, but one is sewn with two rows of parallel zigzag stitching and the other with straight stitching; assumes the tape is present because the sailmaker had Matt's file and is a reputable firm, "not that I believe that means a lot nowadays." Signed "Derek."
 [24] Archive message page_2802 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2833, 2005-06-13) — "Re: Mk2 sail": thanks Derek for the tape data, quoting his message in full; would think the enclosed tape has a bit of stretch to it. Signed "Jack."
+[25] Archive message page_4317 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 4354, 2007-04-11) — "Re: Cabin top beams, forward and aft windows": reposts Matt Layden's February 2003 "New Paradox Sail" message (page_945/msgnum 960, cited above at [13]) in full for the benefit of "Jeff UK," about to visit CAWS Sails to order a new sail; advises briefing the sailmaker that a Paradox lug needs a bit more draft than usual, since it is a cruising boat, not a lightweight daysailer. Signed "Dave."

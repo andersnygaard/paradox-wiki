@@ -37,7 +37,7 @@ A detailed brainstorm of where a marine sanitation device (MSD) — i.e. a porta
 **In the second (forward) compartment:**
 
 - Install a **foredeck hatch** directly above the head's location, improving ventilation but adding cost, awkward to use, and unusable in a storm.
-- Or extend the bulkhead-#2 opening down to the floor (see [interior bins and hinged floor](/design/interior-bins-and-floor.md) for how tight that opening already is) and keep the head just forward of it, pulled into the cabin for use — though it would be free to slide around in heavy seas unless secured.
+- Or extend the bulkhead-#2 opening down to the floor (see [interior bins and hinged floor](/components/interior.md) for how tight that opening already is) and keep the head just forward of it, pulled into the cabin for use — though it would be free to slide around in heavy seas unless secured.
 
 Stretching the design (see [stretched Paradox](/design/variants/stretched-paradox.md)) would sidestep the problem entirely, at the cost of exceeding the 14 ft trailering-rule limit that many builders want to stay within.
 
@@ -64,7 +64,7 @@ Between the ammunition-box/cat-litter idea, the WAG Bag, and the sawdust method,
 
 ## Relationship to the forward-compartment design
 
-Head/sanitation placement is closely tied to the design of the forward cabin stowage (see [interior bins and hinged floor](/design/interior-bins-and-floor.md)): the tight forward compartment is clearly not where emergency flares (or, by extension, a head) would be kept, reinforcing that the Paradox's small hull leaves sanitation as an improvised, rather than a designed-in, arrangement.
+Head/sanitation placement is closely tied to the design of the forward cabin stowage (see [interior bins and hinged floor](/components/interior.md)): the tight forward compartment is clearly not where emergency flares (or, by extension, a head) would be kept, reinforcing that the Paradox's small hull leaves sanitation as an improvised, rather than a designed-in, arrangement.
 
 # Citations
 

@@ -1,0 +1,27 @@
+---
+type: Person
+title: Robert Biegler
+description: A Norway-based owner who bought Derek Clark's former Paradox "Enuf," shipped her to the Trondheimsfjord area, re-fixed her ballast, and built two yulohs after the first was stolen.
+tags: [paradox, people, norway, enuf, owner]
+timestamp: 2026-07-19T00:00:00Z
+---
+
+# Robert Biegler
+
+**Robert Biegler** (Yahoo handle `robertbiegler`, e-mail `Robert.Biegler@…`, u=44431118) bought [Derek Clark](/people/derek-clark.md)'s former Paradox **["Enuf"](/boats/enuf.md)** after she was offered for sale in September 2006 and shipped her to **Norway**, sailing out of **Trondheimsfjord**.
+
+## Taking over "Enuf"
+
+Robert re-fixed the ballast to his own satisfaction after taking delivery, and, working without an outboard, built a **yuloh with a bigger blade** than the stock design — building a second one after the first was stolen. As of August 2007 he had taken the boat out only twice, for short system checks, and had not yet loaded her with cruising stores; ballast at that point stood at **140 kg**, short of a full cruising load.
+
+## Reefing friction, and open questions on lee helm and anchor stowage
+
+Robert's first sail-handling questions concerned reefing friction, sail balance, and where to stow an anchor aboard a boat with no bow roller — see [furling system — a Norway owner's reefing-friction and yard-taper questions](/components/rig/furling.md#a-norway-owners-reefing-friction-and-yard-taper-questions), [sailing characteristics and rig balance — a new owner's lee-helm and immersion questions](/operations/sailing-characteristics.md#a-new-owners-lee-helm-and-immersion-questions), and [ground tackle and anchoring — a new owner's stowage question, and two more anchoring routines](/operations/ground-tackle.md#a-new-owners-stowage-question-and-two-more-anchoring-routines) for the full exchanges and the answers they drew from other builders.
+
+Sailing in **Trondheimsfjord**, Robert noted very few places where a Paradox could safely ground out and survive in any seaway — a cruising-ground constraint distinct from the gentler, drying-bank cruising grounds recorded for other owners elsewhere in the archive.
+
+# Citations
+
+[1] Archive message page_4622 (robertbiegler, `paradoxbuilders`, msgnum 4660, 2007-08-12) — "Reefing and sailing": introduces himself as the buyer of Derek Clark's old Paradox, brought to Norway; has fixed the ballast to his satisfaction, built two yulohs (the first stolen), and worked on reducing reefing friction; asks about reefing technique, lee helm/leeway on her first two short outings (140 kg ballast, no cruising stores yet), and where to stow an anchor; notes Trondheimsfjord has very few places to ground safely. Signed "Robert Biegler."
+
+[2] Archive message page_4629 (amgraham2001 / Andrew Graham, `paradoxbuilders`, msgnum 4667, 2007-08-14) — "Re: Reefing and sailing": full text and citation at [components/rig/furling.md](/components/rig/furling.md#a-norway-owners-reefing-friction-and-yard-taper-questions); answers Robert's reefing and anchor-stowage questions from his own "Zero." Signed "Andrew."

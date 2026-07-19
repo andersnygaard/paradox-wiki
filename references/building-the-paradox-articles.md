@@ -1,7 +1,7 @@
 ---
 type: Reference
 title: "Building the Paradox" articles (Don Elliott)
-description: Don Elliott's paid "Building Paradox" construction articles — a five-part series originally published in Messing About In Boats magazine and later sold by Don directly as a ~50-page, 16-article compilation.
+description: Don Elliott's paid "Building Paradox" construction articles — a sixteen-installment series originally published in Messing About In Boats magazine (1996–97) and later sold by Don directly as a ~50-page compilation; this page covers the articles as an obtainable product (their construction content is captured at building-paradox-series.md).
 tags: [paradox, documentation, construction, reference, don-elliott, maib]
 timestamp: 2026-07-02T00:00:00Z
 ---
@@ -16,17 +16,28 @@ Notable content:
 
 ## Original publication: Messing About In Boats magazine
 
-The series first ran in *Messing About In Boats* (MAIB) as a **five-part** "Building Paradox" series. The full bibliographic citation for each installment:
+The series first ran in *Messing About In Boats* (MAIB) as a **sixteen-installment** "Building Paradox" series — **Parts 1 through 15 plus a "Conclusion"** — across **vol. 14 no. 9 (September 15, 1996) through vol. 14 no. 24 (May 1, 1997)**. This full run (confirmed directly from the archived issue scans) is what matches the "16 articles" figure by which the series was later sold and remembered; the mailing-list post that cited only "five parts (issues 9-13)" [4] listed just the first five installments. The full bibliographic record:
 
-| Part | Volume | Issue | Page |
-|------|--------|-------|------|
-| Building Paradox - Part I | 14 | 9 | 24 |
-| Building Paradox - Part II | 14 | 10 | 27 |
-| Building Paradox - Part III | 14 | 11 | 23 |
-| Building Paradox - Part 4 | 14 | 12 | 23 |
-| Building Paradox - Part 5 | 14 | 13 | 20 |
+| Part | Vol. | No. | Date | Start page |
+|------|------|-----|------|------------|
+| Part 1 | 14 | 9 | Sep 15, 1996 | 23 |
+| Part 2 | 14 | 10 | Oct 1, 1996 | 26 |
+| Part 3 | 14 | 11 | Oct 15, 1996 | 22 |
+| Part 4 | 14 | 12 | Nov 1, 1996 | 22 |
+| Part 5 | 14 | 13 | Nov 15, 1996 | 19 |
+| Part 6 | 14 | 14 | Dec 1, 1996 | 26 |
+| Part 7 | 14 | 15 | Dec 15, 1996 | 22 |
+| Part 8 | 14 | 16 | ≈Jan 1, 1997 | 19 |
+| Part 9 | 14 | 17 | Jan 15, 1997 | 21 |
+| Part 10 | 14 | 18 | Feb 1, 1997 | 22 |
+| Part 11 | 14 | 19 | Feb 15, 1997 | 19 |
+| Part 12 | 14 | 20 | Mar 1, 1997 | 23 |
+| Part 13 | 14 | 21 | ≈Mar 15, 1997 | 20 |
+| Part 14 | 14 | 22 | ≈Apr 1, 1997 | 25 |
+| Part 15 | 14 | 23 | Apr 15, 1997 | 19 |
+| Conclusion | 14 | 24 | May 1, 1997 | 20 |
 
-Back issues can be sourced through the MAIB index at `http://www109.pair.com/btsftp/maib/`, or by contacting the magazine's editor directly.
+The **full construction content of every installment** — the published design particulars, the build sequence from bulkheads to rig, and the series' reception (including a WEST SYSTEM engineer's public critique) — is set out at [the "Building Paradox" MAIB series](/references/building-paradox-series.md); the issues themselves are mirrored locally and catalogued at [Messing About In Boats magazine](/references/messing-about-in-boats.md). Back issues can also be sourced through the MAIB index at `http://www109.pair.com/btsftp/maib/`, or by contacting the magazine's editor directly.
 
 ## Obtaining copies directly from Don Elliott
 
@@ -44,7 +55,7 @@ An order-inquiry reply gives the article set's terms directly:
 
 > "I have the Paradox articles ready for immediate shipping. There are some fifty pages and 16 articles. The articles cover a detailed description of Paradox along with building instructions. The price of the series is $8.00 plus $2.00 shipping. If you live overseas the cost is $8.00 plus $4.00 shipping. Most oversea send cash, covered well in thick bond paper. Send your order to Don Elliott, 711 Wisconsin Ave, Box 202, Tomah, Wisconsin, 54660. You articles will be sent the same day I receive the order. Personal USA check is fine."
 
-This gives a concrete **price** for the article set — **$8.00 US plus $2.00 domestic / $4.00 overseas shipping** — and confirms the set runs to **about fifty pages across the 16 articles** (a page count distinct from, but consistent with, the five-part MAIB serialization above — the fifty pages likely represent an expanded or consolidated compilation rather than the original magazine layout). Shipping went out the same day payment was received.
+This gives a concrete **price** for the article set — **$8.00 US plus $2.00 domestic / $4.00 overseas shipping** — and confirms the set runs to **about fifty pages across the 16 articles**, matching the sixteen-installment magazine serialization above. Shipping went out the same day payment was received.
 
 These terms held for at least a year: the same price, page/article count, and mailing address were independently reconfirmed in January 2003, on a return to the list after an October 2001 resignation — see [Paradox building plans — a fourteenth recurrence](/references/building-plans.md).
 
@@ -54,7 +65,7 @@ A run of the booklet-form compilation (see above) suffered a **misprinting and m
 
 ## Corroboration from microcruising.com (the "16 articles" and Don's passing)
 
-[microcruising.com](/references/microcruising-website.md) independently confirms the count and the compilation. Its "Paradox Sketches" page reproduces the drawings "with Don's permission" and describes them as having "first appeared in 'Messing About in Boats' in a **16 part construction article written and illustrated by the late Don Elliott**" — corroborating that the compilation runs to **16 articles / ~50 pages** (distinct from the five-part MAIB *serialization* above) and, sadly, confirming that **Don Elliott has since died**. The site offers the articles in **booklet form** (with ordering information) and, in a 2018 update, points readers to a small-books site, `smallboatmanuals.weebly.com`, for the Paradox building manual.
+[microcruising.com](/references/microcruising-website.md) independently confirms the count and the compilation. Its "Paradox Sketches" page reproduces the drawings "with Don's permission" and describes them as having "first appeared in 'Messing About in Boats' in a **16 part construction article written and illustrated by the late Don Elliott**" — corroborating the **sixteen-installment** count now confirmed directly from the magazine scans (see [the series' content](/references/building-paradox-series.md)) and, sadly, confirming that **Don Elliott has since died**. The site offers the articles in **booklet form** (with ordering information) and, in a 2018 update, points readers to a small-books site, `smallboatmanuals.weebly.com`, for the Paradox building manual.
 
 # Citations
 
