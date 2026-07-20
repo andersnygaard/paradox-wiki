@@ -25,6 +25,8 @@ added here as they are sourced from the archive.
 * [Defiant (Sean Herron)](defiant.md) - Sean Herron's Paradox, under construction as of December 2006 with slight modifications from Matt Layden's stock design.
 * [JoHanna (Pete Martin)](johanna.md) - Pete Martin's Paradox, under construction in Cheltenham, England from 1 December 2006.
 * [Irene May (Ian Lang)](irene-may.md) - Ian Lang's Paradox, under construction in North London from late June 2007, named after his late mother.
+* [Ironsides (Stephen Yahn)](ironsides.md) - Stephen Yahn's Puget Sound (Manchester, Washington) Paradox, started July 2006, with a steel-reinforced bulkhead 3, a fabricated side-mounted outboard, a shop-built vent trunk drain, machined rudder gudgeons, and a proposed pendulum self-steering weight.
+* [Jimmy Lu's Paradox (Taiwan), unnamed](taiwan-paradox.md) - A Taiwan-built Paradox completed and launched 18 February 2008, its mid-build photos drawing unprompted praise from several established builders; no boat name is recorded.
 
 > **See also:** [Walden](walden.md) (Chris Becker) and
 > [Aussie Paradox](aussie-paradox.md) (Andrew Graham) are two otherwise

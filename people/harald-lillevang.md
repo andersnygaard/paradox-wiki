@@ -8,7 +8,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Harald Lillevang
 
-**Harald Lillevang** is a Danish member of the `paradoxbuilders` community and a prospective Paradox builder. He found sketches of the Paradox online in mid-2001, could not stop thinking about the boat, and joined the group in early 2002 having decided to build his own, hoping one day to see a Paradox cruising Scandinavian waters. He is the earliest Scandinavia-based prospective builder on record, extending the design's documented reach beyond its US, UK, Australian, and New Zealand builders (see [Alastair](/people/alastair.md), [Chris Becker](/people/chris-becker.md), [Paul (New Zealand)](/people/paul-nz.md)). No construction start or further build progress is recorded.
+**Harald Lillevang** is a Danish member of the `paradoxbuilders` community and a prospective Paradox builder. He found sketches of the Paradox online in mid-2001, could not stop thinking about the boat, and joined the group in early 2002 having decided to build his own, hoping one day to see a Paradox cruising Scandinavian waters. He is the earliest Scandinavia-based prospective builder on record, extending the design's documented reach beyond its US, UK, Australian, and New Zealand builders (see [Alastair](/people/alastair-law.md), [Chris Becker](/people/chris-becker.md), [Paul (New Zealand)](/people/paul-nz.md)). No construction start or further build progress is recorded.
 
 ## Contributions
 

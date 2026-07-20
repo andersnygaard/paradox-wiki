@@ -8,7 +8,7 @@ timestamp: 2026-07-19T00:00:00Z
 
 # Beam, freeboard, and stability
 
-Compared to most boats, sharpies are narrow for their length, and [Paradox](/paradox.md) follows the type: her beam is just under 48 inches, not counting the chine runners.[1] The first, intuitive assumption anyone makes about a hull this narrow is that a wider boat would be a better boat overall, and Paradox's whole beam-and-freeboard question is really an argument against that assumption — written out from first principles, checked against a named stability text, and afterward confirmed by an actual stability curve obtained from the boat's own designer.[1]
+Compared to most boats, sharpies are narrow for their length, and [Paradox](/paradox.md) follows the type: her beam is just under 48 inches, not counting the chine runners.[1] See [sharpie lineage](/design/sharpie-lineage.md) for the fuller question of what else does and doesn't make her one. The first, intuitive assumption anyone makes about a hull this narrow is that a wider boat would be a better boat overall, and Paradox's whole beam-and-freeboard question is really an argument against that assumption — written out from first principles, checked against a named stability text, and afterward confirmed by an actual stability curve obtained from the boat's own designer.[1]
 
 ## The case against added beam
 

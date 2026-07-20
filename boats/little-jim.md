@@ -8,7 +8,7 @@ timestamp: 2026-07-19T00:00:00Z
 
 # Little Jim
 
-**"little Jim"** is the name [Alastair](/people/alastair.md) (Yeovil, England) gave his own [Paradox](/paradox.md), which he had been building and reporting on in detail since **July 2001** (see [Alastair](/people/alastair.md) for the full build-progress narrative: garage logistics, panel layout, hull assembly, spars, rigging, and trailer planning). The name surfaced once the boat was far enough along to be shown off with a photo gallery, over a year into construction.
+**"little Jim"** is the name [Alastair](/people/alastair-law.md) (Yeovil, England) gave his own [Paradox](/paradox.md), which he had been building and reporting on in detail since **July 2001** (see [Alastair](/people/alastair-law.md) for the full build-progress narrative: garage logistics, panel layout, hull assembly, spars, rigging, and trailer planning). The name surfaced once the boat was far enough along to be shown off with a photo gallery, over a year into construction.
 
 ## A year into the build: topping lift and furling (autumn 2002)
 

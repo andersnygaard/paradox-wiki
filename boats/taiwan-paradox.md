@@ -1,0 +1,45 @@
+---
+type: Boat
+title: Jimmy Lu's Paradox (Taiwan), unnamed
+description: A Taiwan-built Paradox completed and launched 18 February 2008 by Jimmy Lu, whose rapid, professionally finished mid-build photos drew unprompted praise from several established builders; no name is recorded for her.
+tags: [paradox, boat, taiwan, jimmy-lu, build, launch]
+timestamp: 2026-07-20T00:00:00Z
+---
+
+# Jimmy Lu's Paradox (Taiwan), unnamed
+
+**Jimmy Lu**'s [Paradox](/paradox.md), built in **Taiwan** and launched **18 February 2008**, is a finished, sailing, registry-listed hull with no boat name ever recorded — an exhaustive search of the archive turns up none. That absence is not disqualifying: a complete, launched, and praised build is exactly the kind of record this tree exists to keep, and there is slug precedent in [Aussie Paradox](/boats/aussie-paradox.md) for a boat known by builder and place rather than by name.
+
+## A new builder, and rapid mid-build progress
+
+Jimmy Lu introduced himself to the `paradoxbuilders` list in July 2007 after photos of his build, already under way, appeared in the group's photo section — new pictures showing what one builder called rapid, "very professional-looking progress." Asked to share more detail, he replied simply that it was his pleasure to share his build experience with other builders and owners, having no prior boatbuilding experience of his own but liking the Paradox design.[1][2] Reviewing a further batch of photos two weeks later, a firsthand assessment praised the workmanship directly — "very impressed with how you are coming along... Great workmanship as well" — and asked for the photos to keep coming;[3] Jimmy Lu again said it was his pleasure to share them with the group.[4] A third, unprompted admirer watching the same photo stream called the pace of progress "some kind of record."[5]
+
+Bill Serjeant added Jimmy Lu to the official UK-run **owners/builders registry** at `www.smallsailboats.co.uk/paradox/names.htm` that same month, folding him into the same list that already carried Andrew Graham's "Zero" and the UK builders. See [Bill Serjeant — registry upkeep](/people/bill-serjeant.md#waiting-on-the-weather-a-new-uk-builder-and-onto-the-launching-trailer).[6]
+
+## Ground tackle and flotation-foam questions
+
+Once under way, Jimmy Lu asked what weight of anchor would suit a Paradox,[7] then followed up asking whether it was necessary to foam the side walls and top deck.[8] The answer drew on Glen Maxwell's own build of "[Zoë](/boats/zoe.md)": Glen had deliberately left "Zoë"'s side walls and top deck unfoamed so the bare hull could still be inspected from inside for water intrusion, and later worked out a way to fit foam while preserving that inspectability, writing the technique up as an article filed under "thoughts on foam" in the group's files section.[9]
+
+## Continued praise through the winter, and a finish-line push
+
+By late December 2007, with the build's photos still drawing admiration from across the list — "Great pictures Jimmy....Looking really good"[10] — Jimmy Lu thanked the group and reported he hoped to finish "within these two months," wishing a fellow UK builder well for his own spring restart.[11] Bill Serjeant congratulated both nearly-finished builders together at the same moment, calling their two boats "2 more water babies in the making to be born in 2008 as members of the Paradox family."[12]
+
+## Launch, 18 February 2008
+
+The boat was launched on **18 February 2008**. Congratulations followed once the news and a launch photo reached the list — "I hope she brings you many hours of enjoyment. A splendid job." No boat name was given at launch or at any other point in the record.[13]
+
+# Citations
+
+[1] Archive message page_4588 (pdmartin / "randoneur" / Pete Martin, `paradoxbuilders`, msgnum 4626, 2007-07-23) — "Taiwan Paradox": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-new-correspondents-rapid-taiwan-build); sees new pictures in the group's photo section; Jimmylu88 seems to be making rapid, very professional-looking progress; asks if he will fill the group in on the details. Signed "Pete (in flooded Gloucestershire)."
+[2] Archive message page_4589 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4627, 2007-07-24) — "Re: Taiwan Paradox": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-new-correspondents-rapid-taiwan-build); "It's my pleasure to share my build experience with other builders and owners." A new correspondent, building a Paradox in Taiwan. Signed "Jimmy."
+[3] Archive message page_4598 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 4636, 2007-08-01) — "Paradox in Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-new-correspondents-rapid-taiwan-build); "I just finished reviewing your photos and am very impressed with how you are coming along. Great workmanship as well. Please keep the photos coming." Signed "Glen."
+[4] Archive message page_4599 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4637, 2007-08-02) — "Re: Paradox in Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-new-correspondents-rapid-taiwan-build); "Ok!Glen, It's my pleasure to share my building photos with you all." Signed "Jimmy."
+[5] Archive message page_4611 (ankle_deep2 / "Bill", `paradoxbuilders`, msgnum 4649, 2007-08-06) — "Re: Paradox in Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#citations); has enjoyed watching the Taiwan build's progress in the photos, calling the pace "some kind of record"; most photos displayed full size when clicked, but the last three stayed small. A one-off correspondent, distinct from Bill/William Serjeant (`barnacleid`).
+[6] Archive message page_4591 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 4629, 2007-07-24) — "Jimmy Lu": full text and citation also at [people/bill-serjeant.md](/people/bill-serjeant.md#waiting-on-the-weather-a-new-uk-builder-and-onto-the-launching-trailer); Jimmy has been added to the names of owners and builders list at `www.smallsailboats.co.uk/paradox/names.htm`. Signed "Bill."
+[7] Archive message page_4601 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4639, 2007-08-04) — "About Paradox's anchor": full text and citation also at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md); asks Glen what weight of anchor suits a Paradox. Signed "Jimmy."
+[8] Archive message page_4606 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4644, 2007-08-06) — "Re: About Paradox's anchor": full text and citation also at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md); thanks Glen for the anchor answer; asks whether it is necessary to put foam on the side wall and top deck. Signed "Jimmy."
+[9] Archive message page_4607 (ifida / "Glen C. Maxwell", `paradoxbuilders`, msgnum 4645, 2007-08-06) — "Re: About Paradox's anchor": full text and citation also at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md); did not foam "Zoë"'s side wall/top deck, wanting to inspect the hull for water intrusion; later worked out a way to have foam while still being able to inspect underneath it, writing up the technique as an article filed under "thoughts on foam" in the group's files section. Signed "Glen."
+[10] Archive message page_4744 (gilberj55 / "gilberj55" / "JG", `paradoxbuilders`, msgnum 4782, 2007-12-24) — "Pictures from Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-winter-standstill-and-more-praise-for-a-taiwan-build) and [people/john-gilbert.md](/people/john-gilbert.md#community-presence); "Great pictures Jimmy....Looking really good." Signed "JG."
+[11] Archive message page_4747 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4785, 2008-01-01) — "Re: Pictures from Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-winter-standstill-and-more-praise-for-a-taiwan-build); happy Pete likes his photos; has no prior boatbuilding experience but really likes the Paradox design; will try his best to finish "within these two months." Signed "Jimmy."
+[12] Archive message page_4746 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 4784, 2007-12-31) — "Re: Pictures from Taiwan": full text and citation also at [people/bill-serjeant.md](/people/bill-serjeant.md#congratulating-two-builders-nearing-completion); "Your boat and Jimmy's are looking really great - 2 more water babies in the making to be born in 2008 as members of the Paradox family." Signed "Bill."
+[13] Archive message page_4897 (pdmartin / "randoneur" / Pete Martin, `paradoxbuilders`, msgnum 4935, 2008-02-21) — "Re: Paradox in Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#congratulating-jimmy-lu-on-his-paradoxs-launch); congratulates Jimmy Lu on launching his Paradox on 18 February 2008, linking a photo (`http://tinyurl.com/2a3r98`); "I hope she brings you many hours of enjoyment. A splendid job." Signed "Pete."

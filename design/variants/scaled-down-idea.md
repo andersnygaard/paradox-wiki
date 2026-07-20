@@ -8,7 +8,7 @@ timestamp: 2026-07-07T00:00:00Z
 
 # A scaled-down "mini" Paradox (speculative)
 
-Where [stretched Paradox](/design/variants/stretched-paradox.md) and [enlarging Paradox for a tall/heavy sailor](/design/variants/enlarging-for-a-large-sailor.md) scale the design up, a proposal ran the other way — scaling it **down** into a quick, cheap single-occupant hull to learn on while a full-size Paradox build was still ahead.
+Where [stretched Paradox](/design/variants/stretched-paradox.md) and [Building Paradox larger](/design/larger-paradox.md) scale the design up, a proposal ran the other way — scaling it **down** into a quick, cheap single-occupant hull to learn on while a full-size Paradox build was still ahead.
 
 Note: this proposal is unrelated to the established **["Mini Paradox"](/matt-layden/enigma.md#the-mini-paradox-working-name-and-the-2005-construction-era-discussion)** working name, which was the 2005 construction-era nickname for what is now known to be Matt Layden's own **Enigma** — a distinct, smaller Layden design actually built and sailed. This page concerns only an unbuilt scaling idea for the stock Paradox hull itself.
 

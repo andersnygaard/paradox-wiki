@@ -1,0 +1,36 @@
+---
+type: Person
+title: Jim Baltaxe
+description: An Island Bay, Wellington, New Zealand correspondent with a professional composite-construction background who weighed building a Paradox in foam/glass before ordering and receiving stock plans in early 2008.
+tags: [paradox, people, new-zealand, prospective-builder, composite, chine-runners, epoxy]
+timestamp: 2026-07-20T00:00:00Z
+---
+
+# Jim Baltaxe
+
+**Jim Baltaxe**, of Island Bay, Wellington, **New Zealand**, posting as **`jim.baltaxe`**/**`jimbaltaxe`**, appeared on the `paradoxbuilders` list in August 2007 with a professional composite-construction background and, over the following seven months, moved from a speculative foam/glass build idea to ordering and receiving stock Paradox plans. He reports no build under way.
+
+## A vinylester/vacuum-infusion workshop, and a foam/glass Paradox considered
+
+Fresh from a Derek Kelsall workshop on composite construction — vinylester resin over foam, laid up by vacuum infusion to produce completely fair, flat panels that can then be bent into shape once cured, a resin-infusion process he called "Magic" for anyone used to ordinary hand-laid glass — he recommended vinylester generally as far less prone to causing skin sensitization than epoxy, albeit with a stronger, more unpleasant odour and the same handling precautions still needed. The workshop left him weighing whether to build a Paradox in foam and glass rather than plywood, purely for the challenge and the practice; no such build is on record as having gone ahead. See [epoxy brands, chemistry, and cure behavior — a composite/vacuum-infusion workshop, and a speculative foam/glass Paradox](/construction/epoxy-brands-and-chemistry.md#a-compositevacuum-infusion-workshop-and-a-speculative-foamglass-paradox).[1]
+
+## A foam-core chine-runner proposal
+
+Weeks later, he proposed building the chine runners around a **closed-cell foam core** (blue insulation foam or PVC foam) rather than solid timber blocks, reasoning that since the runners are not structural and are sheathed in glass cloth regardless of the core material, foam bends easily into shape even after the hull has already been faired — sidestepping the steaming or block-by-block lamination solid timber demands. He suggested cutting the bottom panel slightly wide of the hull sides before fitting it, leaving a fair-curved "shelf" running the hull's length to form the runner's bottom surface, with the foam core simply laminated onto the shelf's top — and, when a grounding-durability concern was raised about the runners taking a boat's first impact, confirmed the shelf construction answers it directly, since the extended bottom sheet itself forms the runner's bottom surface. See [chine runner construction — a closed-cell foam alternative, and a 2007 durability exchange](/chine-runners/construction.md#a-closed-cell-foam-alternative-and-a-2007-durability-exchange).[2][3]
+
+## Two asides on "NOLI"
+
+Idly curious about the name of "Jeff UK"'s Paradox-derived build, he asked what, if anything, "NOLI" stood for — drawing the answer that it was a pet name for the builder's late mother, Nora, from her school days.[4] A few weeks later he suggested two possible masthead solar-light fixtures for the same build: an LED light meant for a garden-umbrella pole, donut-shaped with LEDs around its underside, cheap and reasonably waterproof; and a complete solar shed light, wired with enough cable to mount the light itself partway up the mast with its solar charger nearer the deck. See [Jeff UK — the origin of NOLI's name](/people/jeff-doryman.md#the-origin-of-nolis-name) and [Jeff UK — paint advice for a fellow UK builder, and cabin-sole matting and small gear for NOLI](/people/jeff-doryman.md#paint-advice-for-a-fellow-uk-builder-and-cabin-sole-matting-and-small-gear-for-noli).[5]
+
+## Plans ordered and confirmed arrived
+
+By March 2008 he had ordered stock Paradox plans, choosing them over the foam/glass build considered the previous year; they arrived quickly given the distance involved — "a couple of weeks at the most." See [building plans — a second March 2008 recurrence, and delivery-time data points](/references/building-plans.md#a-second-march-2008-recurrence-and-delivery-time-data-points).[6]
+
+# Citations
+
+[1] Archive message page_4676 (jim.baltaxe / "jimbaltaxe" / Jim Baltaxe, `paradoxbuilders`, msgnum 4676, 2007-08-23) — "Re: Skin irritation": full text and citation also at [construction/epoxy-brands-and-chemistry.md](/construction/epoxy-brands-and-chemistry.md#a-compositevacuum-infusion-workshop-and-a-speculative-foamglass-paradox); recommends vinylester resin over epoxy for sensitization risk; reports a Derek Kelsall composite-construction workshop (vinylester/foam/vacuum infusion); weighing a foam/glass Paradox build. Signed "Jim Baltaxe, Island Bay, Wellington, NEW ZEALAND."
+[2] Archive message page_4667 (Jim Baltaxe, `paradoxbuilders`, msgnum 4705, 2007-09-06) — "Re: Chine runners": full text and citation also at [chine-runners/construction.md](/chine-runners/construction.md#a-closed-cell-foam-alternative-and-a-2007-durability-exchange); new correspondent, Island Bay, Wellington, New Zealand; proposes a closed-cell foam chine-runner core and a wide-cut bottom-panel "shelf." No signature beyond the From header.
+[3] Archive message page_4669 (Jim Baltaxe, `paradoxbuilders`, msgnum 4707, 2007-09-06) — "Re: Chine runners": full text and citation also at [chine-runners/construction.md](/chine-runners/construction.md#a-closed-cell-foam-alternative-and-a-2007-durability-exchange); confirms the shelf idea answers the grounding-durability concern just raised. No signature beyond the From header.
+[4] Archive message page_4871 (jim.baltaxe / "jimbaltaxe" / Jim Baltaxe, `paradoxbuilders`, msgnum 4909, 2008-01-29) — "Re: Cabin Sole.": full text and citation also at [people/jeff-doryman.md](/people/jeff-doryman.md#the-origin-of-nolis-name); asks, out of curiosity, what if anything "NOLI" stands for. (Outlook Express `multipart/alternative`; identical plain-text and HTML encodings, pruned to the plain-text version.)
+[5] Archive message page_4910 (jim.baltaxe / "jimbaltaxe" / Jim Baltaxe, `paradoxbuilders`, msgnum 4948, 2008-03-04) — "Re: A few questions.": full text and citation also at [people/jeff-doryman.md](/people/jeff-doryman.md#paint-advice-for-a-fellow-uk-builder-and-cabin-sole-matting-and-small-gear-for-noli); suggests a garden-umbrella-pole LED light and a solar shed light as masthead-light options. (Outlook Express `multipart/alternative`; identical plain-text and HTML encodings, pruned to the plain-text version.)
+[6] Archive message page_4969 (jim.baltaxe / "jimbaltaxe" / Jim Baltaxe, `paradoxbuilders`, msgnum 5013, 2008-03-28) — "Re: paradox plans": full text and citation also at [references/building-plans.md](/references/building-plans.md#a-second-march-2008-recurrence-and-delivery-time-data-points); his own Paradox plans arrived very quickly given the distance involved, a couple of weeks at the most. Signed "Jim Baltaxe." (Outlook `multipart/alternative`; identical plain-text and HTML encodings; pruned to the plain-text version, dropping an unrelated closing aside about a TradeMe search.)

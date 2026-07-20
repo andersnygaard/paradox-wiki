@@ -8,7 +8,7 @@ timestamp: 2026-07-19T00:00:00Z
 
 # Vent box
 
-The ventilation box (vent trunk) that ventilates the Paradox's closed cabin while the boat is sailed hatch-shut. The cabin's normal ventilation is good enough to be comfortable even shut up tight in bad weather, with no separate stove-exhaust vent found necessary; on cold nights, stuffing a towel into the vent box is a simple way to cut the airflow down and stay warmer. See [Alastair](/people/alastair.md#construction-contributions) for the fuller cabin-ventilation answer this is drawn from.
+The ventilation box (vent trunk) that ventilates the Paradox's closed cabin while the boat is sailed hatch-shut. The cabin's normal ventilation is good enough to be comfortable even shut up tight in bad weather, with no separate stove-exhaust vent found necessary; on cold nights, stuffing a towel into the vent box is a simple way to cut the airflow down and stay warmer. See [Alastair](/people/alastair-law.md#construction-contributions) for the fuller cabin-ventilation answer this is drawn from.
 
 ## Solar-powered ventilation
 
@@ -19,7 +19,7 @@ A solar-powered vent fan — self-contained, needing no battery or wiring of its
 - [Transom deck plate and vent baffle](/construction/transom-deck-plate.md) — the vent trunk's drain, airflow path, and sealing options.
 - [JoHanna — vent trunk drain pipe sizing](/boats/johanna.md#vent-trunk-drain-pipe-sizing-metric-tube-against-the-plans-1-in-nominal-pipe) — metric tube sizing against the plans' 1 in nominal pipe, a grooved-wood-block construction method, and a cut-in-half-and-rout alternative for an already-glued trunk.
 - [Faith — a 22 mm vent trunk drain proven in a brief force 6](/boats/faith.md#a-22-mm-vent-trunk-drain-proven-in-a-brief-force-6) — a firsthand account of the smaller drain size holding up under real sailing conditions.
-- [Stephen Yahn — a vent trunk drain pipe sizing explanation](/people/stephen-yahn.md#a-vent-trunk-drain-pipe-sizing-explanation) — the grooved-block drain construction method in full, including a wheat-flour-thickened-epoxy fill technique for the groove.
+- [Ironsides (Stephen Yahn) — building the vent trunk drain](/boats/ironsides.md#building-the-vent-trunk-drain) — the grooved-block drain construction method in full, including a wheat-flour-thickened-epoxy fill technique for the groove.
 - [JoHanna — the drain drilled, and the hull's wet assembly complete](/boats/johanna.md#the-drain-drilled-and-the-hulls-wet-assembly-complete) — a drilled (rather than grooved) drain, successfully completed on a UK build.
 
 # Citations

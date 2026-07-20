@@ -14,19 +14,9 @@ timestamp: 2026-07-18T00:00:00Z
 
 Welcomed to the list by [Bill Serjeant](/people/bill-serjeant.md) as the nearest established UK builder, Ian gathered three separate UK marine-plywood quotes — Goldbergs of Uxbridge and Enfield Timber alongside his own further research — before clearing over 20 years of accumulated contents out of his garage into an 8 cubic-metre skip and ordering plywood and Douglas Fir from Robbins: the most expensive of his quotes, but judged the most dependable quality. Full sourcing detail and citations are at [plywood grade and foam flotation debate — a second North London builder's plywood and timber sourcing](/construction/plywood-grades-and-foam-flotation.md#a-2007-uk-shopping-list-recurrence-far-eastern-ply-and-epoxy-quantity) and [boats/faith.md](/boats/faith.md#a-second-north-london-builders-plywood-and-timber-sourcing).
 
-## Starting "Irene May"
+## Building "Irene May"
 
-The plywood and Douglas Fir arrived unexpectedly, two sheets with corner damage Ian judged he could work around, marking the effective start of construction. He intends to build to the stock plans, with one deviation — a window added to the cabin roof — and named the boat **"Irene May"** after his late mother, who he judged would have been thrilled to have a ship carry her name. Full build narrative at [boats/irene-may.md](/boats/irene-may.md).
-
-## A shrinking workspace, echoed across the UK builder community
-
-Piling up plywood sheets in an "adequate" garage was enough to make the space feel suddenly cramped — the same complaint [Pete Martin](/people/pete-martin.md) made of his own build at the same stage, tripping over his chine and sheer strakes laid out flat. See [boats/irene-may.md — a shrinking garage, and encouragement from other UK and US builders](/boats/irene-may.md#a-shrinking-garage-and-encouragement-from-other-uk-and-us-builders) for the fuller exchange, including congratulations from Bill Serjeant and a US correspondent.
-
-## A half-finished hull as motivation, and a shed for winter work
-
-Advised to build the boat's smaller parts before finishing the hull, Ian judged the advice good but confessed to needing a half-finished hull himself to stay motivated to complete the rest; a large insulated shed alongside the garage let him work in a controlled environment, and he began marking up and cutting plywood parts to scarf and glue the sides while the weather held warm. See [boats/irene-may.md — build-order advice: fit out the small parts before finishing the hull](/boats/irene-may.md#build-order-advice-fit-out-the-small-parts-before-finishing-the-hull) for the full account, including a bulkhead-2 measuring correction found in the amended drawing.[2]
-
-Watching Bill Serjeant's video of Faith's yuloh in use, Ian sent a one-line compliment encouraging more.[3]
+Ian started construction on his Paradox, **"Irene May,"** named after his late mother, in late June 2007, following the standard advice to fit out the boat's smaller parts before finishing the hull. Full build narrative — including a shrinking-garage milestone echoed across the UK builder community and a bulkhead-2 measuring correction — lives on [boats/irene-may.md](/boats/irene-may.md).
 
 ## A skin reaction to West System epoxy
 
