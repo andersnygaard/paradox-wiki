@@ -28,6 +28,7 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 - [Sail](/components/rig/sail.md)
 - [Scarfing](/components/scarfing.md)
 - [Sheer strakes](/components/sheer-strakes.md)
+- [Steering (internal steering-line loop)](/components/steering.md)
 - [Stem](/components/stem.md)
 - [Tack strop](/components/rig/tack-strop.md)
 - [Topping lift](/components/rig/topping-lift.md)
@@ -44,7 +45,7 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 
 *Rig & sail* — [Mast](/components/rig/mast.md) · [Rig](/components/rig/index.md) · [Internal rigging](/components/rig/internal-rigging.md) · [Sail](/components/rig/sail.md) · [Mk2 sail](/components/rig/mk2-sail.md) · [Mk3 sail](/components/rig/mk3-sail.md) · [Clew](/components/rig/clew.md) · [Tack strop](/components/rig/tack-strop.md) · [Topping lift](/components/rig/topping-lift.md) · [Yuloh](/components/yuloh.md)
 
-*Appendages & steering* — [Rudder](/components/rudder.md) · [Chine runners](/components/chine-runners.md)
+*Appendages & steering* — [Rudder](/components/rudder.md) · [Steering](/components/steering.md) · [Chine runners](/components/chine-runners.md)
 
 ---
 

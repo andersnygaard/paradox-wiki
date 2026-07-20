@@ -1,6 +1,6 @@
 # Junk rig
 
-A junk rig is an alternative to the Paradox's stock standing-lug rig, occasionally discussed as an option for the boat.
+A junk rig is an alternative to the Paradox's stock standing-lug rig, occasionally discussed as an option for the boat. On the list the question stayed theoretical — sail plans were drawn and argued over, but no conversion was carried through. One was built and cruised outside the list era, and its verdict is recorded at [a junk rig actually built and sailed](#a-junk-rig-actually-built-and-sailed) below.
 
 ## Why the stock rig is judged hard to beat with a Chinese lug
 
@@ -30,9 +30,18 @@ A 10 ft sailing dinghy built with its daggerboard moved forward, to the bow, to 
 
 Separately, Matt Layden's own reasoning for building Paradox's rudder as large as it is was relayed firsthand: sailing a Little Cruiser at Cedar Key and discussing the pros and cons of rudder size directly with Matt Layden, the rudder was placed well aft as part of the boat's lateral-resistance equation, and Matt held the Paradox hull specifically needed the larger rudder for increased lateral resistance.[19] This is a second, independent account of the same rudder-size rationale documented at [rudder and chine experiments — why the rudder was built large, and the trade-offs of its size](/components/rudder.md#why-the-rudder-was-built-large-and-the-trade-offs-of-its-size). The same exchange noted how far aft Matt Layden set the stock sail's own center of effort, cautioning that raising a junk conversion's aspect ratio risks moving the sail's center of effort forward of the hull's center of lateral resistance and inducing weather helm the rig cannot then be adjusted back out of.[19]
 
+## A junk rig actually built and sailed
+
+Everything above is argument in advance of a boat. One Paradox was in fact **built to the stock lug rig with roller furling and then changed to a junk rig** — a Western Australian build of 2013–2016, cruised on a shakedown passage to Shark Bay and presented to a home-boatbuilding club in April 2021, well outside the list era.[21] It is the only completed, launched, and cruised junk-rig Paradox on record; the full build is at [Planktos](/boats/planktos.md).
+
+The verdict after cruising is favourable and specific: the junk rig **"works very well"** — **easy and very quick to reef and unreef**, with **very good sail twist control**, and **cheap, light-weight fittings**.[21] The reefing speed and the low cost of fittings answer, in practice, two of the qualities the stock rig was defended on above.
+
+The report does **not** settle the objections that dominate the rest of this page. How the sheeting was arranged, whether a bumkin or arch was needed, whether the mast was moved, and how the centre of effort was kept behind the hull's centre of lateral resistance are all unrecorded.[21] The boat's stated limit — **around 20 knots**, "beyond that it is survival" — is given as a whole-boat figure, not attributed to the rig.[21] So the outcome is documented while the method is not: a junk-rigged Paradox works, but this source does not show how the balance and sheeting problems were solved.
+
 ## Where this is covered
 
 - [Rig and sail](/components/rig/index.md) — the stock rig against which a junk-rig alternative is discussed.
+- [Planktos](/boats/planktos.md) — the one Paradox converted to a junk rig and sailed.
 
 # Citations
 
@@ -56,3 +65,4 @@ Separately, Matt Layden's own reasoning for building Paradox's rudder as large a
 [18] Archive message page_4352 (perrywphillips / "perrywphillips" / Perry Phillips, `paradoxbuilders`, msgnum 4389, 2007-04-18) — "Re: Re Aspect ratio... (was Re: New file uploaded to paradoxbuilders)": likes the arch idea, one of the options already considered, noting it would also stay clear of the rudder when raised; installed a mast gallows on his own West Wight Potter "Bobber" using stainless pipe set into stainless lifeline base receivers, which has held up well, and agrees the junk sail's stresses should be manageable by a similar arch. Signed "Perry W. Phillips, Monroeville, Alabama."
 [19] Archive message page_4353 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 4390, 2007-04-18) — "Re: [SPAM] New file uploaded to paradoxbuilders": replying to Perry Phillips's aspect-ratio question, explains Matt Layden uses the rudder as part of the lateral-resistance equation, placing it well aft; recalls building a Little Cruiser and testing it at Cedar Key, where he and Matt discussed the pros and cons of rudder size directly, and Matt held that the Paradox hull needed the larger rudder for increased lateral resistance. Signed "Glen."
 [20] Archive message page_4354 (perrywphillips / "perrywphillips" / Perry Phillips, `paradoxbuilders`, msgnum 4391, 2007-04-18) — "Re: [SPAM] New file uploaded to paradoxbuilders": replying to Glen, recalls building a 10 ft "sparrow" sailing dinghy with the daggerboard moved to the bow to lengthen the CLR and let the mast move forward for a cat rig — the boat tracked dead straight, with the side effect that the forward daggerboard acted as a pivot point and stalled the bow when the rudder was thrown hard over; expects the junk rig's individual panels will need some built-in camber to sail efficiently. Signed "Perry W. Phillips, Monroeville, Alabama."
+[21] ABBA Newsletter, April/May 2021: "Building of the Paradox Micro Cruiser - Planktos" (Amateur Boat Builders' Association, Western Australia) (`source-articles/newsletters/abba-2021-04/index.md`) — records the rig of the Western Australian Paradox "Planktos" as "lug rig with roller furling – changed to junk rig," and assesses it as built: "Junk rig works very well – easy and very quick reef / unreef, very good sail twist control, cheap light-weight fittings." Gives the boat's limits as "around 20 knots, beyond that it is survival." No detail of sheeting arrangement, mast position, or centre-of-effort balance is given. Full source description at [ABBA Newsletter](/references/abba-newsletter.md); full build at [Planktos](/boats/planktos.md).
