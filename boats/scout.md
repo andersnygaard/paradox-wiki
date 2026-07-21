@@ -22,7 +22,7 @@ Under Mulligan's ownership on Lake Havasu, "Scout" runs from trailer to sailing 
 
 ## Heavy-wind sailing, and the 2014 Texas 200
 
-Video posted of "Scout" documents her sailing in **25+ knot** wind on Lake Havasu and in brisk conditions on Thompson Bay, and shows her tacking upwind under sail.[8] "Scout" also ran the **[Texas 200](/merits/gatherings-and-rallies.md#the-texas-200-and-a-port-townsend-wooden-boat-show-showing)** cruise in 2014, and during that event towed a fellow competitor's boat, "Crippled Duck," through 20–25 kt wind.[9]
+Video posted of "Scout" documents her sailing in **25+ knot** wind on Lake Havasu and in brisk conditions on Thompson Bay, and shows her tacking upwind under sail.[8] "Scout" also ran the **[Texas 200](/merits/texas-200.md#the-texas-200-and-a-port-townsend-wooden-boat-show-showing)** cruise in 2014, and during that event towed a fellow competitor's boat, "Crippled Duck," through 20–25 kt wind.[9]
 
 # Citations
 

@@ -20,6 +20,21 @@ None of that coverage is re-described here — see each reference page above for
 
 # Concepts
 
-* [WaterTribe races: the Everglades Challenge and beyond](watertribe-and-races.md) - Every WaterTribe Everglades Challenge, Ultimate Florida Challenge, and NC Challenge entry and result on record for a Paradox hull, plus a labeled cross-reference to the wider Layden-design racing record raced in Enigma, Sand Flea, and Elusion.
-* [Notable voyages](notable-voyages.md) - Long-distance cruises and passages made under Paradox-family sail — Little Jim's Portland and Solent passages, the Bolducs' decades of Bahamas cruising, Faith's Crouch-to-Scillies cruise, and the Australian dry-out cruising of Small Fry and Planktos.
-* [Gatherings and rallies](gatherings-and-rallies.md) - Recurring small-boat meets and rallies Paradoxes have attended — the annual Cedar Key messabout, the Apalachicola Bay and Iowa gatherings, a DCA week at Cobnor, the Texas 200 coastal raid, and Port Townsend Wooden Boat Show showings.
+## Races
+
+* [The Everglades Challenge, and the wider Layden racing record](everglades-challenge.md) - A Paradox hull's outright 2003 WaterTribe Everglades Challenge win, and the class wins and podium finishes Matt Layden went on to post in three later, lighter WaterTribe-raced designs.
+
+## Voyages
+
+* [Little Jim's Portland passage and Solent crossing](little-jim-passages.md) - The two landmark UK passages "Little Jim" made in her first season — a four-day round trip to Portland through St Albans Head's tidal race, and the fastest recorded Poole-to-Cowes Solent crossing by a Paradox.
+* [Faith's River Crouch-to-Scilly Isles cruise](faith-scilly-cruise.md) - Bill Serjeant's "Faith" made a roughly 500-mile, near-two-month cruise from the River Crouch to the Scilly Isles and back to Plymouth, in company with "Little Jim" for the Scillonian leg.
+* [The Bolducs' Bahamas cruising, and the 2013 engine-free crossing](bahamas-and-exumas.md) - David and Mindy Bolduc's decades-long Bahamas cruising log, capped by a 2013 solo crossing sailed entirely without an outboard.
+* [Small Fry's Cape Leeuwin rounding and Shark Bay cruising](cape-leeuwin.md) - Geoff Davis's Western Australian "Small Fry" rounded Cape Leeuwin and cruised the ultra-shoal waters of Shark Bay, the Abrolhos Islands, and Jurien Bay.
+* [Planktos's junk-rigged Shark Bay shakedown cruise](planktos-shark-bay.md) - Roselt Croeser's "Planktos" — the archive's only completed, launched, and cruised junk-rig Paradox conversion — made her shakedown cruise from Perth to Shark Bay.
+* A full first-person cruising blog by **Dave Skaife** — four seasons (2014–2018) sailing an unnamed Paradox, first in Hawaii, then shipped to Texas and sailed on across the Gulf ICW, twice through the Bahamas, and on to Cuba under sail and oar alone — is mirrored at `source-web/daveskaife/` but not yet ingested into the bundle: no `references/` page or boat page exists for it yet, so no details are stated here beyond what the mirror's own README claims. It is flagged as a known future entry for this page once ingested.
+
+## Gatherings
+
+* [Cedar Key, the annual small-boat messabout](cedar-key.md) - Cedar Key, held the first weekend of May off Florida's Gulf coast, is the Paradox community's longest-running meeting point, drawing magazine coverage and repeated visits from Matt Layden.
+* [The Texas 200, and a Port Townsend Wooden Boat Show showing](texas-200.md) - The Texas 200 coastal raid and a Port Townsend Wooden Boat Show appearance, used by owners as real-world evidence of a Paradox's cruising ability.
+* [Apalachicola Bay, the Iowa messabout, and a DCA week at Cobnor](gatherings.md) - Three smaller Paradox-adjacent gathering points — a solo-scouted Apalachicola Bay meeting ground, an unconnected general small-boat messabout in Iowa, and a Dinghy Cruising Association week at Cobnor, Chichester Harbour.

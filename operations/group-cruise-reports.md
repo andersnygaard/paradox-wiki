@@ -52,7 +52,7 @@ Whether Cedar Key is the region's sole recurring small-boat meet for Paradox-typ
 
 Cedar Key is confirmed as a real, if informally organized, meeting point. The owners of "Whisper" and "Zoë" separately arranged to **compare the two side by side under sail** — the first record of a proposed direct comparison between two named, sailing Paradox hulls, distinct from the individual hull-speed/GPS data points recorded on the [hull speed](/operations/hull-speed.md) page. Cedar Key lies a two-hour drive from Zoë's home waters; Zoë had already sailed **from Cedar Key to Clearwater** for her sea trials (see [Zoë](/boats/zoe.md)).
 
-Cedar Key (first weekend of May) and the ad hoc Apalachicola Bay meetup are the community's only two recorded data points on Paradox owners meeting up with each other or the wider small-boat community in person, as distinct from the [Texas 200 and Port Townsend Wooden Boat Show](/merits/gatherings-and-rallies.md#the-texas-200-and-a-port-townsend-wooden-boat-show-showing), which are individual-boat cruising/show achievements rather than group meetups.
+Cedar Key (first weekend of May) and the ad hoc Apalachicola Bay meetup are the community's only two recorded data points on Paradox owners meeting up with each other or the wider small-boat community in person, as distinct from the [Texas 200 and Port Townsend Wooden Boat Show](/merits/texas-200.md#the-texas-200-and-a-port-townsend-wooden-boat-show-showing), which are individual-boat cruising/show achievements rather than group meetups.
 
 ## The Bolducs' cruising log and buddy-boating with Matt Layden (microcruising.com)
 

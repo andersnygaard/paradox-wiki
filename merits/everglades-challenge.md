@@ -1,14 +1,14 @@
 ---
 type: Concept
-title: WaterTribe races - the Everglades Challenge and beyond
-description: Every WaterTribe Everglades Challenge, Ultimate Florida Challenge, and NC Challenge entry and result on record for a Paradox hull, plus a labeled cross-reference to the wider Layden-design racing record raced in Enigma, Sand Flea, and Elusion.
+title: The Everglades Challenge, and the wider Layden racing record
+description: A Paradox hull's outright 2003 WaterTribe Everglades Challenge win, and the class wins and podium finishes Matt Layden went on to post in three later, lighter WaterTribe-raced designs.
 tags: [paradox, merits, watertribe, everglades-challenge, ultimate-florida-challenge, nc-challenge, races, matt-layden]
 timestamp: 2026-07-20T00:00:00Z
 ---
 
-# WaterTribe races: the Everglades Challenge and beyond
+# The Everglades Challenge, and the wider Layden racing record
 
-**WaterTribe** runs a set of self-supported small-boat adventure races down and around the Florida coast — the **Everglades Challenge** (~300 miles, Tampa Bay to Key Largo), the **Ultimate Florida Challenge** (~1,200 miles, a full circumnavigation including a portage), and the **NC Challenge** — open to kayaks, canoes, and small sailboats alike. A Paradox hull won the Everglades Challenge outright in the race's early years, and Matt Layden went on to field-test three further, lighter designs in the same races.
+A Paradox hull won the WaterTribe Everglades Challenge outright in 2003, and Matt Layden went on to race three further, lighter WaterTribe-tested designs of his own in the years that followed.
 
 ## The 2003 Everglades Challenge: Matt Layden's outright win
 
