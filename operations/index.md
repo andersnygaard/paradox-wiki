@@ -1,3 +1,11 @@
+---
+type: Index
+title: Operations
+description: Indexes real-world sailing, handling, cruising, trailering, and maintenance knowledge for the Paradox — how the boat actually behaves and is used.
+tags: [paradox, operations, index, cruising, seamanship]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Operations
 
 Sailing, handling, cruising, trailering, and maintenance of the
@@ -6,7 +14,6 @@ Concepts are added here as they are sourced from the archive.
 
 # Concepts
 
-* [Texas 200](texas-200.md) - A long-distance small-boat coastal raid along the Texas coast that owners cite as proof of the Paradox's real-world cruising capability.
 * [Ground tackle and anchoring](ground-tackle.md) - Anchor choices, stowage, and cockpit-worked deployment/recovery techniques for the Paradox, whose small size and enclosed layout push ground tackle below deck rather than onto the bow, including competing flush-well designs for the bow and afterdeck.
 * [Secondhand Paradox market](secondhand-market.md) - Resale-market data points for secondhand Paradoxes and a sibling Matt Layden design, covering asking prices, condition, and demand for both finished boats and unfinished hulls.
 * [Self-steering](self-steering.md) - How well a Paradox holds a course unattended, the case for and against fitting an auto-pilot or wind vane given the folding rudder, a horizontal-axis vane concept worked out for "Zoë," and how to heave to without deploying a sea anchor.

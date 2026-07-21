@@ -112,6 +112,10 @@ One four-day trial made the case for antifouling paint of any kind starkly: a tr
 
 For "Whisper," the settled choice was conventional antifouling rather than any of the alternatives.
 
+## Reusing sound antifouling across a full refit
+
+A full secondhand-boat refit is not automatically a bottom-paint refit: where the existing copper-based epoxy antifouling on a boat coming in for a full topside and interior overhaul was still sound, it was simply left in place and reused rather than stripped, with only a few imperfections resealed with epoxy and a minor leak at the base of a drain hole into the vent box addressed at the same time.[39] This is consistent with the general antifouling-selection guidance above: a bottom paint's job is protection, not decoration, and a coat still doing that job does not need replacing just because the rest of the boat is being repainted.
+
 ## Homemade copper antifouling and bottom paint (microcruising.com)
 
 A homemade antifouling recipe learned from [Matt Layden](/matt-layden/biography.md) years earlier: mix **a minimum of 1 ounce per volume of copper powder for every 8 ounces of [oil-based] paint**. Matt makes his own bottom paint **thick**, which is harder to apply with a brush but more durable; a **thinner** mix can instead be applied with a spray gun.
@@ -158,3 +162,5 @@ For **Enigma**'s bottom, after the boat was holed in a collision (see [epoxy coa
 [36] Archive message page_2313 (mbolduc / Dave Bolduc, `paradoxbuilders`, msgnum 2340, 2004-10-03) — "Re: Beach Cruising and Coastal Camping picture": had his thumb pulled into a belt sander's roller and jammed against the machine's edge, tearing the skin internally with a large blood blister and heavy bruising despite little visible skin loss; took time off after the accident; warns everyone to be careful with tools; also uses a real face mask (paint/chemical-filter type, $30–40) for epoxy work indoors, doing it outside when possible, and judges the cost "a heck of a lot cheaper than a trip to the hospital."
 [37] Archive message page_2559 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 2587, 2005-02-16) — "Re: Painting ZOE": full text and citation at [construction/topside-painting.md](/construction/topside-painting.md#glen-maxwells-full-awlgrip-roll-and-tip-recipe-and-why-not-to-spray-it); asks for a hard antifouling paint recommendation for a trailered boat, since Pettit Trinidad rubs off bouncing over shallows or drying at low tide; wonders about an epoxy/copper coating.
 [38] Archive message page_2561 (ifida / "Glen C. Mxwell", `paradoxbuilders`, msgnum 2589, 2005-02-16/17) — "Re: Painting ZOE": has used West Marine's CPS with very good results, but cannot keep any antifouling on the specific spots where the hull rubs the sea floor, and asks Dave Bolduc to pass along anything that works better.
+
+[39] Bill's Log — "A BIG, BIG Thank You" (https://bills-log.blogspot.com/2014/04/a-big-big-thank-you.html), Bill Serjeant, 2014-04-08 — a full refit's copper-based epoxy antifouling left untouched apart from sealing a few imperfections with epoxy and fixing a minor leak at the base of a drain hole into the vent box. Local mirror: source-web/bills-log/md/2014-04-a-big-big-thank-you.md.

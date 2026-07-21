@@ -1,3 +1,11 @@
+---
+type: Index
+title: Variants
+description: Indexes enlarged, stretched, and from-scratch derivative Paradox designs discussed by builders, from a designer-sanctioned scale-up to speculative motorsailer and mini-Paradox proposals.
+tags: [paradox, design, variants, index, derivatives, stretched]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Variants
 
 Enlarged/stretched Paradox variants and from-scratch derivative designs
@@ -13,6 +21,7 @@ discussed by builders.
 * [Car-topping conversion ideas (speculative)](car-topping-conversion-idea.md) - A bolt-off, invertible cabin-top proposal for a lighter, car-topable Paradox/Enigma hybrid, alongside Matt Layden's own first car-topping trip in Enigma, a UK builder's separate removable-hardtop concept, and a competing preference for a small trailer.
 * [Junk rig (an alternative rig)](junk-rig.md) - A junk rig as an alternative to the Paradox's stock standing-lug rig, occasionally discussed by builders — a rig alternative rather than a change of hull.
 * ["The Best Open Beachcruiser" (a 1996 design request to Matt Layden)](best-open-beachcruiser.md) - A November 1996 published design brief asked Matt Layden to draw an open, onshore companion boat to Paradox, arguing out loud through a classic-sharpie starting point, a simplicity-first feature list, and a rejection of chine runners in favor of an off-centre weighted daggerboard.
+* [Gorfnik (a Paradox × Puddle Duck Racer "Paraduck")](gorfnik-paraduck.md) - A real, home-built crossover: a Puddle Duck Racer hull fitted with a fully enclosed, sitting-headroom cabin resembling a smaller Paradox, built by a Paradox owner. Filed here rather than under `boats/` because the hull underneath is a PD Racer's, not a Paradox's — a crossover design, not a Paradox instance.
 
 > **See also:** [the "BRIS Paradox"](/boats/bris-paradox.md), a Swedish
 > two-person Paradox built to Sven Yrvind's foam-composite "BRIS" method

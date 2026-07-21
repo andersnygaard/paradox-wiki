@@ -1,3 +1,11 @@
+---
+type: Index
+title: Chine runners
+description: Indexes the Paradox's defining feature, the tapered chine-line fins that let a flat-bottomed, shallow-draft hull sail to windward without a keel or centerboard — how they work, perform, originated, and are built.
+tags: [paradox, chine-runners, index, windward-performance, hull-design]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Chine runners
 
 The **chine runner** is the [Paradox](/paradox.md)'s single most distinctive

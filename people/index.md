@@ -1,3 +1,11 @@
+---
+type: Index
+title: People
+description: Indexes the designer and notable builders, owners, and contributors in the Paradox community, with a pointer to Matt Layden's own dedicated branch.
+tags: [paradox, people, index, builders, community]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # People
 
 The designer and notable builders/contributors in the [Paradox](/paradox.md)
@@ -40,11 +48,12 @@ community. Concepts are added here as they are sourced from the archive.
 * [Steve (Kansas City)](steve-kc.md) - A Kansas City, MO prospective Paradox builder following a "start with the appendages" build plan on a multi-year, retirement-driven timeline.
 * [Derek Clark](derek-clark.md) - UK Paradox builder who built "Enuf," contributed a steel-hull mast query and mainsheet/outboard questions, wrote a free community beginner's guide to building a Paradox, and sold the boat and left the group in September 2006 after a diabetes diagnosis made sailing her too risky.
 * [Bill Serjeant](bill-serjeant.md) - UK small-boat sailor who built the community's principal UK web presence and boat registry, spending nearly two years as the group's de facto UK registrar and facilitator; his own Paradox, "Faith," is documented at boats/faith.md.
-* [Mark Waters](mark-waters.md) - A Los Angeles, California builder who completed a Paradox strictly to plans, reaching 90% completion by February 2006.
+* [Mark Waters](mark-waters.md) - A builder (Los Angeles, California per his own 2006 account; Portland, Oregon per a 2014 census — unresolved) who completed his Paradox, "Raffles," strictly to plans, reaching 90% completion by February 2006, and whose finish was repeatedly praised as among the best built.
 * [Matt (Ithaca, NY)](matt-noonan-ithaca.md) - An Ithaca, New York builder who started a from-scratch Paradox in June 2006 after building two Yost-designed folding kayaks and a PDRacer, keeping a public online build log.
 * [Stephen Yahn](stephen-yahn.md) - A Puget Sound (Manchester, Washington) builder who started his Paradox, named "Ironsides," in July 2006 after a long run of detailed pre-build questions on rigging, ballast, and wiring, previously sailing a non-trailerable Picaroon.
 * [Bengt Genell](bengt-genell.md) - A central Sweden builder who spent two years building a budget, plywood Paradox, launched on Lake Mälaren in July 2006 as "Ladikan," the design's second independent documented Swedish build.
 * [Sean Herron](sean-herron.md) - A builder whose Paradox, "Defiant," was under construction as of late 2006 with slight modifications from Matt Layden's stock design.
+* [Sean Mulligan](sean-mulligan.md) - Owner of the Paradox "Scout" (ex-"Tardis," built by Lezlie Henson), based at Lake Havasu, Arizona, founder of the Havasu Pocket Cruiser's Convention, and a prolific source of Paradox sailing video. Not to be confused with [Sean Herron](sean-herron.md).
 * [Pete Martin](pete-martin.md) - A Cheltenham, England builder who ordered Paradox plans in October 2006 and started construction on 1 December 2006, building a boat he intends to name "JoHanna."
 * [Ian Lang](ian-lang.md) - A North London, England builder who gathered plywood and timber quotes through spring 2007 and started construction on his Paradox, named "Irene May" after his late mother, in late June 2007.
 * [Robert Biegler](robert-biegler.md) - A Norway-based owner who bought Derek Clark's former Paradox "Enuf," shipped her to the Trondheimsfjord area, re-fixed her ballast, and built two yulohs after the first was stolen.

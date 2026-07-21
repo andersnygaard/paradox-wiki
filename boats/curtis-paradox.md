@@ -15,7 +15,7 @@ Distinct from two other below-threshold, citation-only correspondents who also u
 # Provenance and record
 
 - **Built by Lezlie Hensen in Texas**, and **purchased by Chris Curtis** as a used hull.
-- Has **completed the [Texas 200](/operations/texas-200.md)** coastal raid.
+- Has **completed the [Texas 200](/merits/gatherings-and-rallies.md#the-texas-200-and-a-port-townsend-wooden-boat-show-showing)** coastal raid.
 - Has been **shown several times at the Port Townsend Wooden Boat Show** (pictured there ~2017).
 - "A great boat in almost every way."
 

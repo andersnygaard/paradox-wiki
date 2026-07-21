@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Breast hook
+description: Identifies the breast hook as the structural knee tying the two topsides together at the bow just aft of the stem, and points to the construction pages that cover its joinery, pending a dedicated treatment.
+tags: [paradox, components, breast-hook, bow, structure]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Breast hook
 
 The breast hook is the structural knee tying the two topsides together at the bow, just aft of the stem.

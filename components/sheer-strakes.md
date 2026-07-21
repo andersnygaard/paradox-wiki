@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Sheer strakes
+description: Covers the Paradox's topmost side planks running to the sheer, including the debated sheer-clamp notch near the stern and why bevels on the sheer strake and chine log are best cut after fitting.
+tags: [paradox, components, sheer-strakes, hull, planking]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Sheer strakes
 
 The topmost side planks on the Paradox's hull, running up to the sheer.

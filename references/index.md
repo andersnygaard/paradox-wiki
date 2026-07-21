@@ -1,3 +1,11 @@
+---
+type: Index
+title: References
+description: Indexes external sources mirrored as first-class concepts for citation — the mailing list archive, builder websites and blogs, magazine articles, books, and other primary and secondary references.
+tags: [paradox, references, index, sources, citations]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # References
 
 External sources and resources referenced by the archive (designer materials,
@@ -22,6 +30,8 @@ Concepts are added here as they are sourced from the archive.
 * ["Wind Vane Self-Steering" (book)](/operations/self-steering.md#a-purpose-built-option-wind-vane-self-steering) - A book containing simple, cheap plywood wind-vane plans suited to the Paradox — out of print as of December 2001, but purchasable through armchairsailor.com for $36.95; folded into [self-steering.md](/operations/self-steering.md#a-purpose-built-option-wind-vane-self-steering).
 * [Dave Carnell's boat-building articles](dave-carnell-articles.md) - An external boat-building website (home.att.net/~DaveCarnell) with articles on paint choice and treating wood rot/fungus for small plywood boats.
 * [Materials sourcing links (epoxy, fiberglass, general boatbuilding, West System)](materials-sourcing-links.md) - Consolidated external materials-sourcing and reference links for Paradox builders — an epoxy/fiberglass supplier and the Kevlar-vs-fiberglass cost debate, general (non-Paradox-specific) boatbuilding community resources ([general boatbuilding resource links](materials-sourcing-links.md#general-boatbuilding-resource-links-cedar-strip-site-newsgroup-forum)), and West System Epoxy's moisture-barrier and wood/epoxy-sharpie reference material ([West System Epoxy resources](materials-sourcing-links.md#west-system-epoxy-resources-moisture-barriers-and-a-sharpie-building-article)).
+* [Bill's Log (bills-log.blogspot.com — Bill Serjeant)](bills-log.md) - A daily-kept personal blog running 2005–2015, carrying a complete first-person Paradox build log for "Faith," her 2007–08 cruises, a full second-hand purchase-refit-resale chapter for "Minnow" ex-"Enuf," and a decade of appraisals, cost breakdowns, and surveys of other builders' boats.
+* [Builders and Owners of Paradox Sailboats (2014 census)](builders-and-owners-census-2014.md) - A 29-boat worldwide table of Paradox builders and owners, first compiled in 2006 and republished with updates in October 2014 — the archive's most complete self-reported Paradox census, and the direct successor to the earlier UK/worldwide registry.
 * [Small Sailboats / Paradox-UK websites (Bill Serjeant)](paradox-uk-website.md) - A UK-focused website pairing — smallsailboats.co.uk and its dedicated Paradox-UK offshoot — documenting Paradox building and sailing from a British builder's perspective.
 * [AYRS meeting talk — Alastair on "Little Jim" (May 2020)](ayrs-meeting-video.md) - A recorded May 2020 online talk to the Amateur Yacht Research Society giving a full firsthand walk-through of the UK Paradox "Little Jim" — its design, construction and stability, and seventeen years of cruising it — a late, mature primary source corroborating and extending the 2001–2004 archive accounts.
 * ["Sailing The Paradox" — DCA Bulletin 193 (Alastair Law)](dca-sailing-the-paradox.md) - A signed two-page owner's appraisal of the Paradox published in the Dinghy Cruising Association Bulletin, setting out fifteen advantages and eleven disadvantages after three seasons sailing "Little Jim" — the archive's most compact published statement of the design's practical trade-offs, and one of three independent print attestations of the builder's surname.
@@ -29,6 +39,8 @@ Concepts are added here as they are sourced from the archive.
 * [Sven Yrvind video — Matt Layden's chine runners (July 2025)](yrvind-chine-runner-video.md) - A July 2025 talk-to-camera video recounting a first encounter with Paradox in 1997, a visit to Matt Layden in Florida, how the chine runner works, and a 2011 chine-runner Atlantic crossing — a late retrospective first-person primary source corroborating and enriching the website account of the Yrvind–Layden friendship.
 * [The small-boat library behind the Paradox](small-boat-library.md) - A working bibliography of the books, magazines, and manufacturer literature drawn on across Don Elliott's sixteen-part "Building Paradox" series, gathered by what each was used for.
 * [Amateur Boat Builders' Association (ABBA) Newsletter (Western Australia)](abba-newsletter.md) - The newsletter of a Perth home-boatbuilding club, whose April/May 2021 issue carries an illustrated build-and-cruise report on the junk-rigged Paradox "Planktos" — the archive's only account of a completed, sailed junk-rig conversion, and the source of its most legible reproduction of Matt Layden's 1994 sail-plan drawing.
+* [How this bundle weighs its sources](source-hierarchy.md) - The evidential hierarchy applied across the tree when sources conflict — Matt Layden's plans first, Don Elliott's build guide second, the forum and everything else third — and how a builder should read a forum claim that contradicts the plans.
+* [Identity and provenance notes](identity-and-provenance-notes.md) - How recurring naming and spelling questions were settled (a surname attested only in print, a forename publishers spell two ways, a boat name inferred rather than given), recorded once so articles can state the fact plainly rather than re-argue it.
 
 > Matt Layden's other boat designs (Little Cruiser, Swamp Thing) now live under
 > the designer branch at [/matt-layden/index.md](/matt-layden/index.md).

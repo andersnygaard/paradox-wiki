@@ -1,5 +1,9 @@
 ---
-okf_version: "0.1"
+type: Index
+title: Paradox Sailboat Knowledge Bundle
+description: The bundle's root index — knowledge distilled from the Paradox builders' mailing-list archive, linking to the designer, chine-runners, boats, components, design, construction, people, operations, and references branches.
+tags: [paradox, index, matt-layden, microcruiser, knowledge-bundle]
+timestamp: 2026-07-20T00:00:00Z
 ---
 
 # Paradox Sailboat Knowledge Bundle
@@ -12,6 +16,9 @@ designed by Matt Layden.
 This bundle is grown incrementally: each pass reads a batch of archived emails
 and contributes new, sourced knowledge. Recurring, well-supported themes are
 promoted toward the root ("trunk"); one-off details live deeper in the tree.
+Sources are not weighed equally — Matt Layden's plans rank above Don Elliott's
+build guide, which ranks above the forum and blogs; see [how this bundle weighs
+its sources](references/source-hierarchy.md).
 
 # Concepts
 
@@ -25,6 +32,7 @@ promoted toward the root ("trunk"); one-off details live deeper in the tree.
 * [components](components/index.md) - Browse the boat by physical part / build-step (Ballast, Mast, Rudder, Pilothouse, Vent box, …) — a cross-cutting index that mirrors the build-photo categories and routes each part to where it is covered across the design/construction/operations branches.
 * [design](design/index.md) - Defining design features (hull form, ballast, rig, steering).
 * [construction](construction/index.md) - Materials, techniques, and build sequence.
+* [merits](merits/index.md) - What Paradoxes have actually achieved — WaterTribe races, notable voyages, gatherings and rallies, and the press recognition the design has drawn.
 * [people](people/index.md) - The designer and notable builders/contributors.
 * [operations](operations/index.md) - Sailing, handling, cruising, and maintenance in practice.
 * [references](references/index.md) - External sources and resources.

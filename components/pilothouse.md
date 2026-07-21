@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Pilothouse
+description: Describes the Paradox's fully enclosed walk-in cabin, from which the sailor lives, sleeps, and steers without going on deck, and gathers links to the pages covering its structure, glazing, hatch, ventilation, and heating.
+tags: [paradox, components, pilothouse, cabin, enclosed-cockpit]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Pilothouse
 
 The Paradox's most distinctive feature: a small, fully enclosed walk-in cabin ("pilothouse") that a single sailor lives, sleeps, and steers from without going on deck. The helmsman sits inside, working the sheet and tiller through the closed hull, and the boat is sailed hatch-shut as ordinary practice rather than as a defensive posture. The cabin structure, its roof and beams, glazing, hatch, ventilation, and heating are treated across several thematic pages; this hub gathers them.

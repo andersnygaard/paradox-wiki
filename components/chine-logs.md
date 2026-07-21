@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Chine logs
+description: Describes the longitudinal chine logs that join the bottom panel to the side panels along the Paradox hull's chine line, and points to the chine-log-versus-taped-seam construction comparison.
+tags: [paradox, components, chine-logs, hull, construction]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Chine logs
 
 The longitudinal chine logs that join the bottom panel to the side panels along the hull's chine line.

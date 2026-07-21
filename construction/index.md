@@ -1,3 +1,11 @@
+---
+type: Index
+title: Construction
+description: Indexes the materials, techniques, tools, and build sequence used to build a Paradox — plywood, epoxy, fitting-out, and lessons learned by builders.
+tags: [paradox, construction, index, plywood, epoxy]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Construction
 
 Materials, techniques, tools, and build sequence used to build a

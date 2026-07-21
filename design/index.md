@@ -1,3 +1,11 @@
+---
+type: Index
+title: Design
+description: Indexes the Paradox's design and R&D — whole-boat properties, alternative-boat variants, and speculative or abandoned ideas and experiments — as distinct from single-part coverage under components.
+tags: [paradox, design, index, naval-architecture, variants]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Design
 
 The Paradox's **design & R&D** — why the boat is specified the way it is, and

@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Junk rig
+description: Weighs a junk rig as an alternative to the Paradox's stock standing-lug rig — the practical objections raised, worked Hasler/McLeod sail plans, and the one junk-rigged conversion actually built and sailed.
+tags: [paradox, design, variants, junk-rig, rig]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Junk rig
 
 A junk rig is an alternative to the Paradox's stock standing-lug rig, occasionally discussed as an option for the boat. On the list the question stayed theoretical — sail plans were drawn and argued over, but no conversion was carried through. One was built and cruised outside the list era, and its verdict is recorded at [a junk rig actually built and sailed](#a-junk-rig-actually-built-and-sailed) below.

@@ -1,3 +1,11 @@
+---
+type: Index
+title: Boats
+description: Indexes individual, known Paradox builds and hulls — specific instances of the design, each cross-linked to its builder or owner under people.
+tags: [paradox, boats, index, builds, hulls]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Boats
 
 Individual, known **Paradox** builds / hulls — specific instances of the
@@ -28,6 +36,7 @@ added here as they are sourced from the archive.
 * [Ironsides (Stephen Yahn)](ironsides.md) - Stephen Yahn's Puget Sound-built Paradox "Ironsides," started July 2006 in Manchester, Washington — a steel-reinforced bulkhead 3 for a wider berth, a side-mounted outboard fabricated to spare his hands, a shop-built vent trunk drain, machined rudder gudgeons, and a proposed pendulum self-steering weight.
 * [Jimmy Lu's Paradox (Taiwan), unnamed](taiwan-paradox.md) - A Taiwan-built Paradox completed and launched 18 February 2008 by Jimmy Lu, whose rapid, professionally finished mid-build photos drew unprompted praise from several established builders; no name is recorded for her.
 * [Small Fry (Geoff Davis)](small-fry.md) - Geoff Davis's Western Australian Paradox, registered out of Fremantle and cruised north along the WA coast to Jurien Bay, the Abrolhos Islands and Shark Bay — the clearest photographic record of a Paradox used as a routine dry-out, tidal-flat cruiser; also the sole canonical page for Geoff Davis himself.
+* [Scout (Sean Mulligan; ex-"Tardis," built by Lezlie Henson)](scout.md) - Sean Mulligan's Lake Havasu, Arizona Paradox, built in Texas and originally named "Tardis" by Lezlie Henson, documenting a fast, repeatable road-to-sailing routine, heavy-wind performance in the Texas 200, and a 2013 UK-import cost estimate.
 * [Planktos (Roselt Croeser)](planktos.md) - Roselt Croeser's Western Australian Paradox, built 2013-2016 across four locations for about $2500 while he was simultaneously owner-building a house, and converted from the stock standing-lug rig to a junk rig — the archive's only completed, launched, and cruised junk-rig Paradox, shaken down on a passage to Shark Bay.
 
 > **See also:** [Walden](walden.md) (Chris Becker),

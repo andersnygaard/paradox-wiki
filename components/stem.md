@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Stem
+description: Describes the Paradox's bow stem — its timber, thickness, notching, and assembly into the hull — including why its 100 mm thickness protects the boat during sculling-oar collisions.
+tags: [paradox, components, stem, bow, structure]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Stem
 
 The Paradox's bow stem: the timber it is made from, its notching, and how it is assembled into the hull.

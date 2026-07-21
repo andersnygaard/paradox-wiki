@@ -42,6 +42,12 @@ Two details decide whether the pour succeeds: the pocket's lower surface must be
 
 The poured lead is faired down close to the blade's surface with a coarse file — teeth about 1/16 in high — and then finished with a disc grinder fitted with a 16 grit disc, checking constantly against a batten for fairness.[2] A plane is explicitly not used for this job; it would simply ruin the blade.[2]
 
+## A second, independently documented rudder-blade pour
+
+A separate, fully independent account of pouring lead into the rudder blade gives a different but compatible mould-and-melt technique. The blade's profiled shape is cut first, then six retaining screws are driven into the pocket to key the lead in place; the mould itself is built from a piece of oak plank and a strip of softwood, clamped under the cavity while the blade lies on its side to form a reservoir, with wooden wedges packed into the gaps where the trailing edge is rounded. The blade is levelled with a spirit level, upper side horizontal, before pouring. Melting is done over a painter's butane torch under a saucepan supported on two bricks, ready to pour in about fifteen minutes. Matt Layden's own calculation of the weight needed for this pour — three kilos of lead — proved accurate in practice.[4]
+
+Once cast, the lead is smoothed with a coarse file and sandpaper and any irregularities filled with thickened epoxy, before the blade and its stock are sheathed in GRP using 6 oz woven roving and epoxy filler — the same fairing-and-sheathing sequence as [Fairing the lead flush](#fairing-the-lead-flush) above.[5]
+
 ## Trimming with the battery and a spare pig
 
 The cast pigs are not the only ballast aboard: a boxed battery, at roughly 50 lb, is heavy enough to count as trim weight in its own right, and the opposite (starboard) side of the boat is trimmed against it with a lead pig.[3]
@@ -55,3 +61,7 @@ See [weight and ballast](/design/weight-and-ballast.md) for how the design's ove
 [2] Messing About In Boats, vol. 14 no. 16 (≈January 1, 1997), "Building Paradox — Part 8," Don Elliott (pp. 19–20) — casting lead into the rudder blade: why the blade needs it, cutting the pocket and clearance holes, the sealed-and-level pour jig, the pouring technique, the scorch-pit fix, and fairing with a file and disc grinder rather than a plane. Source scan: `source-publications/Messing about in boats magazine/messingaboutinbo1416hick.md`; full transcription at `source-articles/don-elliott-building-paradox/index.md`.
 
 [3] Messing About In Boats, vol. 14 no. 24 (May 1, 1997), "Building Paradox — Conclusion," Don Elliott (pp. 20–22) — the battery's own weight (about 50 lb boxed) counting as ballast, and trimming the opposite side with a lead pig. Source scan: `source-publications/Messing about in boats magazine/messingaboutinbo1424hick.md`; full transcription at `source-articles/don-elliott-building-paradox/index.md`.
+
+[4] Bill's Log — "Lead Weight" (https://bills-log.blogspot.com/2005/09/lead-weight.html), Bill Serjeant, 2005-09-08 — casting lead into a rudder blade's trailing edge: cutting the profiled shape first, six retaining screws, an oak-plank-and-softwood mould clamped under the cavity with wooden wedges packing the rounded trailing edge, levelling with a spirit level before pouring, melting over a butane torch under a saucepan on two bricks (ready in about 15 minutes), and Matt Layden's calculated "3 kilos of lead," confirmed accurate. Local mirror: source-web/bills-log/md/2005-09-lead-weight.md.
+
+[5] Bill's Log — "Lead Weight & Special Tool" (https://bills-log.blogspot.com/2005/09/lead-weight-special-tool.html), Bill Serjeant, 2005-09-10 — smoothing the cast lead with a coarse file and sandpaper and filling irregularities with thickened epoxy, ahead of sheathing the blade and stock in 6 oz woven roving and epoxy filler; the same post's shop-made sanding-board tool is covered at construction/builders-toolkit.md. Local mirror: source-web/bills-log/md/2005-09-lead-weight-special-tool.md.

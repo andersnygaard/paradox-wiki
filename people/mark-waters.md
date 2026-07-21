@@ -1,7 +1,7 @@
 ---
 type: Person
 title: Mark Waters
-description: A Los Angeles, California builder who completed a Paradox strictly to plans, reaching 90% completion by February 2006.
+description: A builder (Los Angeles, California per his own 2006 account; Portland, Oregon per a 2014 census — unresolved) who completed his Paradox, "Raffles," strictly to plans, reaching 90% completion by February 2006, and whose finish was repeatedly praised as among the best built.
 tags: [paradox, people, usa, builder, california]
 timestamp: 2026-07-07T00:00:00Z
 ---
@@ -18,6 +18,10 @@ The gallery link was then posted to the group, and Waters' finished boat drew un
 
 Waters was one of only two respondents to an August 2006 group poll on ballast weight, voting for **300 lb** — see [weight, ballast, and displacement — ballast](/design/weight-and-ballast.md#ballast).[11]
 
+His boat was named **"Raffles."** A 2014 restatement of the wider community's praise for her workmanship called Waters' Paradox "one of the best built," a verdict echoing the "incredibly beautiful" and "superb finish" comments recorded above.[12]
+
+**An unresolved location discrepancy.** A 2014 census lists Waters' location as **Portland, Oregon**, against **Los Angeles, California** everywhere else in the archive, including his own 2006 self-identification. Neither figure is corrected here; the conflict is left standing for lack of a way to adjudicate it.[13]
+
 # Citations
 
 [1] Archive message page_3344 (mwatersworld / "mwatersworld" / Mark Waters, `paradoxbuilders`, msgnum 3375, 2006-02-21) — "Re: Paradox database": asks to be added to Bill Serjeant's Paradox owners/builders database; interested in corresponding with other Paradox builders/owners in the Los Angeles, California area; also built a Selway-Fisher 50/50 sailing canoe, sharing "the same taste" in small-boat designs; his Paradox is 90% complete, unnamed as yet, built strictly to plans, in Los Angeles, CA; estimates completion by summer 2006. Signed "Mark Waters."
@@ -31,3 +35,5 @@ Waters was one of only two respondents to an August 2006 group poll on ballast w
 [9] Archive message page_3693 (magsman999 / "Anthony," `paradoxbuilders`, msgnum 3725, 2006-06-21) — "Re: Mark Waters Paradox": "He certainly has! I can't wait to see more - particularly of the interior which looks to be very well finished from what I can see." Signed "Tony (Tyne and Wear UK)."
 [10] Archive message page_3694 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 3726, 2006-06-21) — "Re: Mark Waters Paradox": "What a superb finish, well done. It makes me glad I haven't the patience to do a job like that." Signed "Al, Yeovil, England."
 [11] Archive message page_3795 (system / `paradoxbuilders` group poll notice, msgnum 3827, 2006-08-02) — "Poll results for paradoxbuilders": full text and citation at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast); records Waters' vote for 300 lb ballast, one of only two votes cast.
+[12] Bill's Log — "Mark Waters' Exquisite Paradox" (https://bills-log.blogspot.com/2014/09/mark-waters-exquisite-paradox.html), Bill Serjeant, 2014-09-16 — "What can I say? Mark's must be one of the best built Paradoxes. You only need look at these photographs to see how good a craftsman he is." Local mirror: source-web/bills-log/md/2014-09-mark-waters-exquisite-paradox.md.
+[13] Bill's Log — "Builders and Owners of Paradox Sailboats" (https://bills-log.blogspot.com/2014/10/builders-and-owners-of-paradox-sailboats.html), Bill Serjeant, 2014-10-01 — 2014 builders/owners table entry: "Mark Waters | Raffles | Per plan | Oregon, Portland | Thoroughly tested" — gives his boat's name as "Raffles" and his location as Portland, Oregon, against Los Angeles, California recorded elsewhere in the archive (see citation [1]); the discrepancy is unresolved. Local mirror: source-web/bills-log/md/2014-10-builders-and-owners-of-paradox-sailboats.md.

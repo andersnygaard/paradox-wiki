@@ -1,3 +1,11 @@
+---
+type: Index
+title: Components
+description: An index mirroring the project's build-photo part categories, routing each physical component of the Paradox to a hub page and on to its detailed coverage in the design, construction, and operations branches.
+tags: [paradox, components, index, parts, build-photos]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Components — browse the Paradox by part
 
 This index mirrors the physical-part categories used to organise the project's build-photo library, so the knowledge tree can be navigated the same way as the pictures. Each entry links to a **component hub**: a short description of the part plus links to where it is covered in the tree.
@@ -14,7 +22,7 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 - [Chine runners](/components/chine-runners.md)
 - [Clew](/components/rig/clew.md) *(content to come)*
 - [Deck](/components/deck.md)
-- [Deck beams](/components/deck-beams.md)
+- [Deck and cabin beams](/components/deck-beams.md)
 - [Epoxy fillets](/components/epoxy-fillets.md)
 - [Hatch](/components/hatch.md)
 - [Interior](/components/interior.md)
@@ -39,7 +47,7 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 
 ## By build sequence
 
-*Hull & structure* — [Bottom](/components/bottom.md) · [Sheer strakes](/components/sheer-strakes.md) · [Stem](/components/stem.md) · [Breast hook](/components/breast-hook.md) · [Bulkheads](/components/bulkheads.md) · [Chine logs](/components/chine-logs.md) · [Deck beams](/components/deck-beams.md) · [Deck](/components/deck.md) · [Scarfing](/components/scarfing.md) · [Epoxy fillets](/components/epoxy-fillets.md)
+*Hull & structure* — [Bottom](/components/bottom.md) · [Sheer strakes](/components/sheer-strakes.md) · [Stem](/components/stem.md) · [Breast hook](/components/breast-hook.md) · [Bulkheads](/components/bulkheads.md) · [Chine logs](/components/chine-logs.md) · [Deck and cabin beams](/components/deck-beams.md) · [Deck](/components/deck.md) · [Scarfing](/components/scarfing.md) · [Epoxy fillets](/components/epoxy-fillets.md)
 
 *Cabin & fit-out* — [Pilothouse](/components/pilothouse.md) · [Interior](/components/interior.md) · [Vent box](/components/vent-box.md) · [Vent baffle](/components/vent-baffle.md) · [Water tanks](/components/water-tanks.md) · [Ballast](/components/ballast.md)
 

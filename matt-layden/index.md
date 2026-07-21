@@ -1,3 +1,11 @@
+---
+type: Index
+title: Matt Layden
+description: Indexes the designer Matt Layden's biography and his family of small shoal-draft cruising boat designs, from Terrapin and Swamp Thing through Little Cruiser, Paradox, Enigma, Sand Flea, and Elusion.
+tags: [paradox, matt-layden, index, designer, boat-designs]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Matt Layden
 
 **Matt Layden** — the designer behind the [Paradox](/paradox.md) — and his

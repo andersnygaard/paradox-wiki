@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Dry fit
+description: Describes trial-assembling the Paradox's panels and bulkheads unglued to check fit before committing to epoxy, and points to the build pages covering this dry-assembly stage.
+tags: [paradox, construction, dry-fit, assembly]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Dry fit
 
 Trial-assembling the Paradox's panels and bulkheads unglued, to check fit before committing to epoxy.

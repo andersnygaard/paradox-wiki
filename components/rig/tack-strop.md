@@ -1,3 +1,11 @@
+---
+type: Concept
+title: Tack strop
+description: Describes the tack strop and tack-strut/boom-axle pivot that anchor the sail's forward corner at the mast, and how builders protect the deck where the strop's tube wears through the paint.
+tags: [paradox, components, rig, tack-strop, mast, deck]
+timestamp: 2026-07-20T00:00:00Z
+---
+
 # Tack strop
 
 The tack strop and the tack strut / boom-axle pivot at the mast, which anchor the forward corner of the sail. The strop runs inside a brass pipe spacer and down through a flared copper tube where the line enters the deck.
