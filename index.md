@@ -16,9 +16,6 @@ designed by Matt Layden.
 This bundle is grown incrementally: each pass reads a batch of archived emails
 and contributes new, sourced knowledge. Recurring, well-supported themes are
 promoted toward the root ("trunk"); one-off details live deeper in the tree.
-Sources are not weighed equally — Matt Layden's plans rank above Don Elliott's
-build guide, which ranks above the forum and blogs; see [how this bundle weighs
-its sources](references/source-hierarchy.md).
 
 # Concepts
 

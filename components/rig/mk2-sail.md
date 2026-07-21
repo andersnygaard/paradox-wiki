@@ -20,7 +20,7 @@ The Mk2 sail's tack angle is greater than 90 degrees — wider than the [Mk1](/c
 
 ## A peaked head, and what follows from it
 
-The sail plan current in 2014 — the latest revision of the design's sail at that date — was **peaked**, its head not parallel to its foot, a shape shared with some Polynesian sails rather than with a Bermudan rig. Where a tall Bermudan mast exists to lengthen the luff, this rig keeps a deliberately short one.[2] Sails of this shape do not need the luff hauled down tight to perform on the wind, behaving more like a junk or lateen rig; see [Clew — trim: sheeting the clew](/components/rig/clew.md#trim-sheeting-the-clew) for the sheeting rule of thumb that follows. (The later [Mk3](/components/rig/mk3-sail.md) sail was not drawn until 2023, so a 2014 reference to "the latest sail" cannot be to it.)
+The sail plan current in 2014 — the latest revision of the design's sail at that date — was **peaked**, its head not parallel to its foot, a shape shared with some Polynesian sails rather than with a Bermudan rig. Where a tall Bermudan mast exists to lengthen the luff, this rig keeps a deliberately short one.[2] Sails of this shape do not need the luff hauled down tight to perform on the wind, behaving more like a junk or lateen rig; see [Clew — trim: sheeting the clew](/components/rig/clew.md) for the sheeting rule of thumb that follows. (The later [Mk3](/components/rig/mk3-sail.md) sail was not drawn until 2023, so a 2014 reference to "the latest sail" cannot be to it.)
 
 ## Where this is covered
 

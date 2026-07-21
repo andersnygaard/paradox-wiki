@@ -32,7 +32,7 @@ While cruising the **Pelsaert Group in the Abrolhos Islands**, Small Fry was vis
 
 ## The galley bench under the hatch
 
-The **removable seat doubles as a galley bench**, carrying a **small butane-cartridge camp stove** judged **"adequate for simple meals of a hot beverage."**[4] The siting is the point: because the bench sits **directly under the hatch**, **"excess heat and steam does not build up in the cabin"** — the open hatch acting as the galley's flue.[4] See [interior — the removable seat as a galley bench](/components/interior.md#the-removable-seat-as-a-galley-bench-and-why-the-stove-sits-under-the-hatch) for the same arrangement stated generally, and [cabin heating — window condensation](/operations/cabin-heating.md#window-condensation-causes-and-mitigation) for why keeping cooking moisture out of the cabin matters in a boat this size.
+The **removable seat doubles as a galley bench**, carrying a **small butane-cartridge camp stove** judged **"adequate for simple meals of a hot beverage."**[4] The siting is the point: because the bench sits **directly under the hatch**, **"excess heat and steam does not build up in the cabin"** — the open hatch acting as the galley's flue.[4] See [interior — the removable seat as a galley bench](/components/interior.md) for the same arrangement stated generally, and [cabin heating — window condensation](/operations/cabin-heating.md#window-condensation-causes-and-mitigation) for why keeping cooking moisture out of the cabin matters in a boat this size.
 
 ## Trailering on an oversized utility trailer
 
