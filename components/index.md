@@ -61,5 +61,5 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 **Related categories that are not components** (they live in the branch that fits their nature):
 
 - Build steps & techniques → [construction/](/construction/index.md) — including [dry-fit](/construction/hull-assembly-sequence.md#recommended-order) and [turning the hull over](/construction/hull-assembly-sequence.md#turning-the-hull-over).
-- Rig / hull alternatives → [design/variants/](/design/variants/index.md) — including the [junk rig](/design/variants/junk-rig.md).
+- Rig / hull alternatives → [design/variants/](/design/variants/index.md) — including the [junk rig](/design/ideas/junk-rig.md).
 - Individual built hulls → [boats/](/boats/index.md) — the register of specific Paradox boats.

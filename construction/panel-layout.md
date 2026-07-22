@@ -68,7 +68,7 @@ In practice the 9mm sheet does not always leave enough room to cut all four piec
 
 ## No nesting plan exists for a stretched hull
 
-Whether anyone has worked out a plywood nesting plan for a **stretched** Paradox specifically — rather than the stock-length layout documented above — is a question that surfaced once on the list but drew no recorded answer; see [stretched Paradox](/design/variants/stretched-paradox.md) for the design's scaling rules more generally.
+Whether anyone has worked out a plywood nesting plan for a **stretched** Paradox specifically — rather than the stock-length layout documented above — is a question that surfaced once on the list but drew no recorded answer; see [stretched Paradox](/design/ideas/stretched-paradox.md) for the design's scaling rules more generally.
 
 ## Lofting weights ("spline weights" or "lead ducks")
 

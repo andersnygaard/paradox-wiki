@@ -9,15 +9,19 @@ timestamp: 2026-07-20T00:00:00Z
 # Design
 
 The Paradox's **design & R&D** — why the boat is specified the way it is, and
-every other boat it could have been. Only three kinds of page live here:
+every other boat it could have been. Three kinds of content live here:
 
 1. **Whole-boat properties** — true of the boat *as a system*, not reducible to
    one part (hull scantlings, weight/ballast/displacement and stability,
-   blue-water suitability, lightning protection).
-2. **Variants** — alternative *whole boats* (see [variants/](variants/index.md):
-   stretched, enlarged, motorsailer, Paramour, scaled-down).
-3. **Ideas & experiments** — speculative or tried-and-abandoned features not part
-   of the stock boat (glass bottom, metal construction).
+   blue-water suitability, lightning protection). These pages sit directly in
+   this folder.
+2. **Real, built alternatives** — an actual hull in a different material, or a
+   real design request — under [variants/](variants/index.md) (Alex McGavin's
+   welded-aluminium Paradox; the 1996 "Best Open Beachcruiser" brief).
+3. **Speculative ideas & experiments** — unbuilt proposals, whether whole-boat
+   variants or single-feature experiments — under [ideas/](ideas/index.md)
+   (stretched, motorsailer, motor-only, scaled-down; glass bottom, metal
+   construction, flush cabin sides, junk rig, car-topping).
 
 **Boundary vs [components/](/components/index.md):** anything about a single
 named *part* of the stock boat (rudder, rig, mast, interior, yuloh, …) lives with
@@ -39,14 +43,9 @@ design.
 * [Building Paradox larger: the designer-sanctioned scale-up](larger-paradox.md) - Enlarging Paradox up to 20% is sanctioned by the designer through a document bundled separately with the stock plans, not a variant departing from the design — this covers the practical 10% ceiling, a worked 20% scale-up's dimensions, sail area, and displacement, and lays out the full spread of secondhand claims (10% through an unsanctioned 33-50%) with their provenance, since no message in the archive is from the designer himself.
 * [Modifying Paradox and derivative identity](modifying-paradox.md) - When a change to a Paradox is safe versus when it produces a different boat — a Paradox derivative — including the informed/uninformed-modification distinction and the West Wight Potter's own licensing history as an illustration of a name surviving changes of builder and rig.
 
-*Ideas & experiments*
-
-* [Glass-bottom Paradox (speculative)](glass-bottom-idea.md) - A speculative design idea for making part of a Paradox's flat plywood bottom transparent to view marine life through shallow water, with prior-art examples and practical how-to guidance for a Lexan or polycarbonate window.
-* [Aluminum and steel Paradox (speculative)](aluminum-construction-idea.md) - Assesses whether a Paradox could be built in aluminum or steel instead of plywood, covering alloy and gauge choices, design-fidelity objections, real-world small-metal-boat precedent, and stitch-and-glue as steel's practical alternative.
-* [Flush cabin sides for Paradox (speculative)](flush-cabin-sides-idea.md) - An unbuilt idea for fairing Paradox's cabin sides flush with the hull sides instead of stepping them in from the sheer, weighed against the stock stepped-in side decks' use as yuloh and spar stowage.
-
 **Moved to `components/`** (each part now owns its own design content): Rudder → [components/rudder.md](/components/rudder.md) · Interior → [components/interior.md](/components/interior.md) · Yuloh → [components/yuloh.md](/components/yuloh.md). The whole **rig cluster** now lives under its own sub-branch, [components/rig/](/components/rig/index.md) — Rig, Mast (with the former mast-partners), Sail, Furling (the former furling-system), Topping lift, Tack strop, Clew, Internal rigging, Junk rig.
 
 # Subdirectories
 
-* [variants](variants/index.md) - Enlarged/stretched Paradox variants and from-scratch derivative designs discussed by builders.
+* [ideas](ideas/index.md) - Speculative and unbuilt design ideas — proposed whole-boat variants (stretched, motorsailer, motor-only, scaled-down) and speculative features or experiments (glass bottom, metal construction, flush cabin sides, junk rig, car-topping conversion).
+* [variants](variants/index.md) - Real, built (or really requested) alternatives to the stock Paradox: Alex McGavin's welded-aluminium hull and the 1996 "Best Open Beachcruiser" design brief.

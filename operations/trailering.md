@@ -8,7 +8,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Trailering — tow weight and vehicle capacity
 
-See also [car-topping conversion ideas](/design/variants/car-topping-conversion-idea.md) for car-topping considered as an alternative to trailering altogether, on Enigma's lighter hulls.
+See also [car-topping conversion ideas](/design/ideas/car-topping-conversion-idea.md) for car-topping considered as an alternative to trailering altogether, on Enigma's lighter hulls.
 
 A Paradox's **fully loaded, ready-to-sail weight** — not its bare hull weight — is what determines whether a given tow vehicle is adequate. That loaded figure is around **410 kg**, comfortably within, for example, a 2000 Volkswagen Golf TDI's 900 kg tow rating (a bare-hull figure of a little over 650 kg is sometimes quoted separately, and refers to the unloaded boat).
 

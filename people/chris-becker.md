@@ -20,7 +20,7 @@ Becker's from-scratch build — begun in 2001, stalled and restarted more than o
 
 - **An early informal Paradox census.** The question "How many Paradoxes are there out there?" produced the most complete late-2001 snapshot of who had a boat under sail versus under construction (four under sail, including "Zoë"). That roster is now tracked more fully under [boats](/boats/index.md).
 - **Plywood.** Built from void-free Pacific Maple marine ply — see [build effort and workspace](/construction/build-effort.md).
-- **Scaling a stretched Paradox:** confirmed that at **110%** scale the side panels still fit two 8 ft sheets but the bottom panel will not fit a standard sheet — see [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Scaling a stretched Paradox:** confirmed that at **110%** scale the side panels still fit two 8 ft sheets but the bottom panel will not fit a standard sheet — see [stretched Paradox](/design/ideas/stretched-paradox.md).
 - **Panel-layout snag:** hit the same **bulkhead #2** interference documented elsewhere, resolved by shifting BH2 40 mm and relocating the transom to another sheet — see [panel layout and nesting](/construction/panel-layout.md).
 - **Fit-out ideas** floated for the group: an icebox and a detachable transom sink; interior deck plates; and **flyscreens** on the vents and main hatch — the archive's first mention of insect screening as a Paradox fit-out detail.
 

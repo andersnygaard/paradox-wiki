@@ -34,7 +34,7 @@ This is the most detailed defense on record of the Paradox plans' chine-log cons
 
 Practical experience with a **Bolger Micro** (a different, non-Paradox design) provides an independent, practical data point: **most sharpies**, with their perpendicular (90°) sides, are built with **chine logs** rather than stitch-and-glue, whereas multichine boats with **lower chine angles** do better with fill-and-tape — at 90° the panels lose their self-aligning characteristics, making chine-log joints both more accurate (since they can be nailed) and better suited to a boat like Paradox. Using tape at a 90° chine would first require **radiusing the chine**, filling both sides with thickened epoxy, then taping over and fairing — adding a lot of weight unnecessarily. A Micro built this way proved strong enough that "you could have driven a tank over it." This independently corroborates the structural skepticism of taped-seam construction for a boat like Paradox, from a real, completed (non-Paradox) build rather than a partway-through one.
 
-See also [Stretched Paradox — "virtual remodelling" and a 20-footer](/design/variants/stretched-paradox.md) for a related follow-up on the same builder's later plans, including a personal preference for a larger, 20 ft enlarged Paradox for longer passages.
+See also [Stretched Paradox — "virtual remodelling" and a 20-footer](/design/ideas/stretched-paradox.md) for a related follow-up on the same builder's later plans, including a personal preference for a larger, 20 ft enlarged Paradox for longer passages.
 
 ## What sheer strakes and chine logs actually do, and why plywood is a poor substitute
 

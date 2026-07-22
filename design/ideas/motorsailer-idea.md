@@ -66,7 +66,7 @@ The lakes in question are connected only by small rivers with bridges and weirs 
 
 ## Significance
 
-This is the most detailed statement on record of a **design-fidelity** objection to modifying Paradox, and the place where one owner's own planned modifications to a personal Paradox are recorded alongside them. Compare [aluminum Paradox](/design/aluminum-construction-idea.md) for an earlier speculative-modification thread that drew a similar designer-fidelity objection, and [stretched Paradox](/design/variants/stretched-paradox.md) / [Paramour](/similar-boat-designs/paramour-design.md) for the other recorded enlarged/modified-Paradox proposals — the latter confirmed to be an active project at the same time as this one.
+This is the most detailed statement on record of a **design-fidelity** objection to modifying Paradox, and the place where one owner's own planned modifications to a personal Paradox are recorded alongside them. Compare [aluminum Paradox](/design/ideas/aluminum-construction-idea.md) for an earlier speculative-modification thread that drew a similar designer-fidelity objection, and [stretched Paradox](/design/ideas/stretched-paradox.md) / [Paramour](/similar-boat-designs/paramour-design.md) for the other recorded enlarged/modified-Paradox proposals — the latter confirmed to be an active project at the same time as this one.
 
 # Citations
 

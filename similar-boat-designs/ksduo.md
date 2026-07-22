@@ -8,7 +8,7 @@ timestamp: 2026-07-21T00:00:00Z
 
 # KSDuo
 
-The **KSDuo** is a from-scratch **17 ft** two-person microcruiser design, expanding both a solo companion design called **"KS2"** and Paradox herself out to a larger, two-up hull. Unlike a simple scaled-up Paradox (the approach documented at [Stretched Paradox](/design/variants/stretched-paradox.md)), the KSDuo is a **new hull design** rather than a linear enlargement of Paradox's own lines, though it keeps Paradox's chine-runner-style micro-cruising brief — shoal draft, dry-out capability, and a fully enclosed cabin — in view throughout.
+The **KSDuo** is a from-scratch **17 ft** two-person microcruiser design, expanding both a solo companion design called **"KS2"** and Paradox herself out to a larger, two-up hull. Unlike a simple scaled-up Paradox (the approach documented at [Stretched Paradox](/design/ideas/stretched-paradox.md)), the KSDuo is a **new hull design** rather than a linear enlargement of Paradox's own lines, though it keeps Paradox's chine-runner-style micro-cruising brief — shoal draft, dry-out capability, and a fully enclosed cabin — in view throughout.
 
 The design was reported in active development by a boat-design professional in mid-2005, with "final touches" being put on the details, and drew visible interest from the wider building community: a 17 ft Paradox-style boat was, for at least one prospective builder, squarely on target for what he had personally been aiming for, though adapting the stock 13'10" Paradox plans to that size without professional help was judged beyond his own skill.[1][2][3] The finished design was posted in full a few weeks later as the **"KSDuo."**[4]
 

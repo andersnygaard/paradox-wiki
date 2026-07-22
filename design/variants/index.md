@@ -1,27 +1,28 @@
 ---
 type: Index
 title: Variants
-description: Indexes modifications and speculative variants of the Paradox itself — a designer-sanctioned scale-up, motorsailer and motor-only conversions, a scaled-down mini-Paradox, and car-topping and rig alternatives. Separate designs by other designers live under similar-boat-designs.
-tags: [paradox, design, variants, index, derivatives, stretched]
-timestamp: 2026-07-20T00:00:00Z
+description: Indexes the real, built or genuinely requested alternatives to the stock Paradox — Alex McGavin's welded-aluminium hull, and the 1996 "Best Open Beachcruiser" design request to Matt Layden. Speculative and unbuilt proposals live under design/ideas; separate designs by other designers live under similar-boat-designs.
+tags: [paradox, design, variants, index, derivatives, aluminium]
+timestamp: 2026-07-22T00:00:00Z
 ---
 
 # Variants
 
-Modifications and speculative variants of the Paradox *itself*, discussed by
-builders — changes to the Paradox, not separate boats. Designs by other
-designers, and cross-design comparisons, live under
+Real alternatives to the stock Paradox — an actual hull built in a different
+material, and a real published design request — as opposed to the speculative,
+unbuilt proposals, which now live under [design/ideas](/design/ideas/index.md).
+Designs by *other* designers, and cross-design comparisons, live under
 [similar-boat-designs](/similar-boat-designs/index.md).
 
 # Concepts
 
-* [Stretched Paradox (lengthening the design)](stretched-paradox.md) - Scaling the Paradox hull up in length — Matt Layden's rule of thumb for scaling scantlings, worked dimensions for a 10% stretch, a square-root method for scaling sail area, a 1.1x-scale build, chine-runner curvature and drag at larger scale, the bilge-keel debate, and the still-undrawn idea of a genuinely larger Layden sharpie.
-* [Motorsailer Paradox (speculative)](motorsailer-idea.md) - A speculative lengthened, motor-enclosing "motorsailer" Paradox for canal and inland-lake cruising, weighed against the designer-fidelity case for building the stock Paradox unmodified.
-* [Power Paradox (motor-only conversion, speculative)](power-paradox.md) - A speculative motor-only "Power Paradox" — dropping the sailing rig and chine runners entirely in favor of a small four-stroke outboard, reduced draught and rocker, and interior space freed up by the change — plus the ballast-minimum question that prompted the design.
-* [A scaled-down "mini" Paradox (speculative)](scaled-down-idea.md) - A proposed .55-scale, roughly 7.6 ft stitch-and-glue single-sheet hull, floated by a newcomer as a quick, cheap way onto the water while awaiting his own full-size Paradox build; abandoned in favor of a different small boat, unbuilt on record.
-* [Car-topping conversion ideas (speculative)](car-topping-conversion-idea.md) - A bolt-off, invertible cabin-top proposal for a lighter, car-topable Paradox/Enigma hybrid, alongside Matt Layden's own first car-topping trip in Enigma, a UK builder's separate removable-hardtop concept, and a competing preference for a small trailer.
-* [Junk rig (an alternative rig)](junk-rig.md) - A junk rig as an alternative to the Paradox's stock standing-lug rig, occasionally discussed by builders — a rig alternative rather than a change of hull.
+* [Aluminium Paradox (Alex McGavin's build)](aluminium-paradox.md) - The first documented metal Paradox on record — Alex McGavin's hull welded from 3 mm 5005-grade aluminium plate (MIG, spool gun), with a companion 4 mm hull by his friend Scotty brought to the same bare-shell stage by early 2025; the first real departure from plywood into metal, long only theorised. See also the speculative [aluminium and steel construction debate](/design/ideas/aluminum-construction-idea.md).
 * ["The Best Open Beachcruiser" (a 1996 design request to Matt Layden)](best-open-beachcruiser.md) - A November 1996 published design brief asked Matt Layden to draw an open, onshore companion boat to Paradox, arguing out loud through a classic-sharpie starting point, a simplicity-first feature list, and a rejection of chine runners in favor of an off-centre weighted daggerboard.
+
+> **Speculative variants** — a stretched Paradox, the motorsailer, the motor-only
+> "Power Paradox", and a scaled-down mini-Paradox — are unbuilt proposals and
+> live under [design/ideas](/design/ideas/index.md), alongside the glass-bottom,
+> metal-construction, flush-cabin-sides, junk-rig, and car-topping ideas.
 
 > **See also:** [the "BRIS Paradox"](/boats/bris-paradox.md), a Swedish
 > two-person Paradox built to Sven Yrvind's foam-composite "BRIS" method

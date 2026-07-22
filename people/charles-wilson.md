@@ -14,7 +14,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 - **Defended a fellow list member's credentials.** During the [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md), argued against pressing the member on his qualifications: "knows everything about boating, design and building," and a similar challenge on another list had "caused more trouble than it was worth." That member resigned from the list soon after.
 - **Bought a set of plans**, praising the service as excellent. See [building plans](/references/building-plans.md).
-- **Raised the "stretch Paradox" question** — whether the boat could be stretched to 16 feet — answered by Matt Layden's rule of thumb for scaling scantlings by the enlargement factor. See [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Raised the "stretch Paradox" question** — whether the boat could be stretched to 16 feet — answered by Matt Layden's rule of thumb for scaling scantlings by the enlargement factor. See [stretched Paradox](/design/ideas/stretched-paradox.md).
 - **Passed his spare plans CD** (which included the building sequence) on to a newcomer seeking a documented Paradox build sequence, having gone on to build a different boat himself. See [hull assembly sequence](/construction/hull-assembly-sequence.md).
 
 # Citations

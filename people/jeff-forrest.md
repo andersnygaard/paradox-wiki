@@ -16,7 +16,7 @@ Forrest began construction of his unnamed Paradox in early December 2001, having
 
 ## Contributions
 
-- **Stretching the design.** Whether the enlargement factor applies to beam as well as length, and how a stretched Paradox actually turns out in practice, were open questions raised early on — see [stretched Paradox](/design/variants/stretched-paradox.md). Forrest also tried to buy a from-scratch 16 ft ["Paramour"](/similar-boat-designs/paramour-design.md) redesign once completed.
+- **Stretching the design.** Whether the enlargement factor applies to beam as well as length, and how a stretched Paradox actually turns out in practice, were open questions raised early on — see [stretched Paradox](/design/ideas/stretched-paradox.md). Forrest also tried to buy a from-scratch 16 ft ["Paramour"](/similar-boat-designs/paramour-design.md) redesign once completed.
 
 - **The stitch-and-glue case.** Stitch-and-glue simplifies Paradox construction — far less bulkhead framing, no precise beveling, looser fitting tolerances, and any weight lost by skipping chine logs made up in ballast — a case built by citing published stitch-and-glue designs as proof that bending 1/2 in ply is manageable, and by calling Paradox "basically a box." Forrest's purchased plans already called out the side-panel dimensions for stitch-and-glue, but the equivalent **bottom-panel dimensions** remained an unresolved gap for builders. A published fillet-sizing rule (*Devlin's Boat Building*) was also supplied: fillet depth should equal the thickest ply joined, extending 1.5–2× that thickness from the joint centerline. See [hull planking](/construction/hull-planking.md).
 

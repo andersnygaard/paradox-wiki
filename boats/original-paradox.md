@@ -90,7 +90,7 @@ The result was also credited to Matt's own skill as distinct from the boat itsel
 
 ## Other boats that could have raced, and a wish for a larger Paradox
 
-Discussion of the race's result drifted, in the following days, from *why* Paradox won toward *what else could have* raced or might race in future years. (The recurring wish, aired here too, for a larger Paradox to build and race is covered in full at [stretched Paradox](/design/variants/stretched-paradox.md) and [larger Paradox](/design/larger-paradox.md) and not repeated here.)
+Discussion of the race's result drifted, in the following days, from *why* Paradox won toward *what else could have* raced or might race in future years. (The recurring wish, aired here too, for a larger Paradox to build and race is covered in full at [stretched Paradox](/design/ideas/stretched-paradox.md) and [larger Paradox](/design/larger-paradox.md) and not repeated here.)
 
 A two-person Sea Pearl crew, rowing in shifts from two stations, was floated as potentially "more competative" than a solo entry, since two rowers could keep the boat moving around the clock even in a calm — "sleeper would make good ballast." The race's rules were seen as having drifted from their original form, prompting speculation that a **minimum length rule**, or a separate class for "overweight or overlength boats," might be needed in future years, alongside speculation about whether Matt had simply caught favorable wind shifts and whether the Everglades Challenge committee ("the Chief") might set a 15 ft minimum entry length the following year. A competitor on Cape Sable was separately reported to have watched a 21 ft Sea Pearl sail by at sunset.
 

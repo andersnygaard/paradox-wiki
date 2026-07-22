@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # Planktos (Roselt Croeser)
 
-**Planktos** is [Roselt Croeser](/people/roselt-croeser.md)'s Paradox, built in **Western Australia** between **early 2013 and the end of 2016** and cruised out of Perth, most notably on a shakedown passage north to **Shark Bay**.[1][2] She is the archive's only documented Paradox **converted to a junk rig and actually sailed** — everywhere else the junk rig is argued as a design proposal without a completed example (see [junk rig](/design/variants/junk-rig.md)) — and one of the few builds on record from outside the mailing-list era, worked up from the plans alone.
+**Planktos** is [Roselt Croeser](/people/roselt-croeser.md)'s Paradox, built in **Western Australia** between **early 2013 and the end of 2016** and cruised out of Perth, most notably on a shakedown passage north to **Shark Bay**.[1][2] She is the archive's only documented Paradox **converted to a junk rig and actually sailed** — everywhere else the junk rig is argued as a design proposal without a completed example (see [junk rig](/design/ideas/junk-rig.md)) — and one of the few builds on record from outside the mailing-list era, worked up from the plans alone.
 
 She is also the fullest single statement in the archive of what a **deliberately frugal** Paradox costs and what it is like to live with: the build ran to roughly **$2500** in materials, and the boat carries **no electrical system at all**.[3]
 

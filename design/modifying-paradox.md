@@ -32,7 +32,7 @@ A sailor considerably taller, heavier, or less agile than the designer's own bui
 
 ## When a modification becomes a derivative
 
-A boat substantially altered from the plans — a different sail plan, a widened or lengthened hull — sets off a chain of further changes in turn. The settled verdict is that such a result is properly a **Paradox derivative**, not a Paradox: Matt Layden's own further, ground-up redesigns are what a genuinely informed departure from the stock boat looks like, rather than a modified copy of it — see [stretched Paradox](/design/variants/stretched-paradox.md) and [Don Elliott](/people/don-elliott.md#contributions-and-technical-positions) for the same fidelity argument made independently, on plans-accuracy grounds.[7]
+A boat substantially altered from the plans — a different sail plan, a widened or lengthened hull — sets off a chain of further changes in turn. The settled verdict is that such a result is properly a **Paradox derivative**, not a Paradox: Matt Layden's own further, ground-up redesigns are what a genuinely informed departure from the stock boat looks like, rather than a modified copy of it — see [stretched Paradox](/design/ideas/stretched-paradox.md) and [Don Elliott](/people/don-elliott.md#contributions-and-technical-positions) for the same fidelity argument made independently, on plans-accuracy grounds.[7]
 
 ## Case study: does changing the rig end a boat's identity?
 

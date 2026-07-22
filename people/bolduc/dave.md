@@ -79,7 +79,7 @@ Dave rebuilt and improved Little Cruiser and helped restore [Swamp Thing](/matt-
 
 - Paradox is not advised as a first boat without prior woodworking experience, rating it "medium difficulty" — Matt built the original in ~3.5 months full-time; a part-timer should expect 3-4x that, about a year for one builder. A discouraged first-time builder was reassured that slow, iterative, mistake-and-redo work is normal. See [first-boat suitability](/operations/first-boat-suitability.md).
 - Builders were pointed to a paid 16-part "Building Paradox" article series and advised to keep some access into a watertight bulkhead #1 so it can be inspected if it ever floods. See [hull assembly sequence](/construction/hull-assembly-sequence.md) and [David Beard](/people/david-beard.md).
-- **No Little Cruiser plans, and no larger sharpie yet.** No real plans were ever drawn for Little Cruiser; for more room the recommendation is scaling Paradox up 10-20% (to 4.6-5 m) or building an existing larger design such as the NIS18. Matt has been asked several times to draw a larger sharpie, but "hasn't come up with anything." See [stretched Paradox](/design/variants/stretched-paradox.md).
+- **No Little Cruiser plans, and no larger sharpie yet.** No real plans were ever drawn for Little Cruiser; for more room the recommendation is scaling Paradox up 10-20% (to 4.6-5 m) or building an existing larger design such as the NIS18. Matt has been asked several times to draw a larger sharpie, but "hasn't come up with anything." See [stretched Paradox](/design/ideas/stretched-paradox.md).
 
 ## Stories and community notes
 
