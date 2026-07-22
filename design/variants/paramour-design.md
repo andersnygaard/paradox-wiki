@@ -33,7 +33,7 @@ The headroom the design was meant to answer can be checked with a simple test: *
 
 ## Motivation: no UK "14 ft rule"
 
-Paramour's extra two feet over stock Paradox is credited to the **absence, in the UK, of an equivalent to the US "14 ft rule"** — a length threshold understood to have constrained Matt Layden to keep Paradox at 13'10" rather than the 16 ft hull he would otherwise have built. The rule, as commonly understood (not a verified legal citation, and US registration requirements otherwise vary by state): a US small craft **under 14 ft** that is **not powered by an engine** (oars, paddles, or a yuloh are fine) does not need to carry registration numbers and letters on its hull. The full definition and its caveats live on [registration and the US "fourteen foot rule"](/operations/registration-and-legal-length.md).
+Paramour's extra two feet over stock Paradox is credited to the **absence, in the UK, of an equivalent to the US "14 ft rule"** — a length threshold understood to have constrained Matt Layden to keep Paradox at 13'10" rather than the 16 ft hull he would otherwise have built: a small craft **under 14 ft** that is **not powered by an engine** needed no registration in the US. See [hull scantlings — published design particulars](/design/hull-scantlings.md#published-design-particulars).
 
 Paramour is the fuller, named realization of an earlier, less-developed proposal floated during the "Paradox 1.1" bilge-keel debate for a from-scratch 16 ft hull at the same beam/draft/displacement as stock Paradox (see [stretched Paradox](/design/variants/stretched-paradox.md)) — already well advanced by the time it was disclosed, with drawings underway for a few months and displacement and prismatic coefficient already computed.
 

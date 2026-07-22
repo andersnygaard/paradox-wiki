@@ -33,3 +33,4 @@ promoted toward the root ("trunk"); one-off details live deeper in the tree.
 * [people](people/index.md) - The designer and notable builders/contributors.
 * [operations](operations/index.md) - Sailing, handling, cruising, and maintenance in practice.
 * [references](references/index.md) - External sources and resources.
+* [similar-boat-designs](similar-boat-designs/index.md) - Other small-boat designs discussed alongside Paradox — separate microcruisers and derivatives by other designers, and cross-design comparisons (not Paradox itself).

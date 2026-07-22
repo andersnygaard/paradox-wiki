@@ -37,7 +37,7 @@ Matt candidly noted the method's limits: mark positions were not GPS/survey veri
 - In numbers, this confirmed what had already been observed informally: **Paradox sails to windward passably well without a centerboard.**
 - In the rare cases Paradox has sailed near other small shoal-draft cruisers, it has "usually sailed right past them, upwind or downwind" — attributable not to Paradox being unusually fast, but to other small shoal cruisers generally not being fast either.
 
-This trial sits alongside Matt's separate, unsuccessful **chine-extension** experiment and his "Little Cruiser style" rudder consideration — see [rudder and chine experiments](/components/rudder.md) — as part of the designer's ongoing empirical iteration on the boat's underwater shape.
+This trial sits alongside Matt's separate, unsuccessful [forward chine-extension experiment](/chine-runners/origin-and-evolution.md#a-forward-chine-extension-on-paradox-tried-and-not-recommended) and his "Little Cruiser style" rudder consideration — see [rudder](/components/rudder.md#why-the-rudder-was-built-large-and-the-trade-offs-of-its-size) — as part of the designer's ongoing empirical iteration on the boat's underwater shape.
 
 ## Sven Yrvind's month sailing Paradox (1997)
 
@@ -60,7 +60,7 @@ The earliest **dated, published** windward-performance verdict on record predate
 There is no single numeric pointing answer beyond Matt's trial above, but the firsthand reports are consistent:
 
 - A Paradox has been seen sailing alongside Seapearl dinghies and **pointing as high as they did**: "The chine runners work !!" (A **Small Craft Advisor (SCA)** article covers the boat's pointing ability in more depth.)
-- Sailing "Zoë"'s re-cut sail (see [rig and sail — the Dabbler re-cut](/components/rig/index.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)), upwind performance is **very good**: Paradox **will tack through 90°**, though tacking through a wider **100°** sails noticeably faster. "You just can't beat those chine runners for doing the job they do relative to the convenience they provide. Try em, you'll like em."
+- Sailing "Zoë"'s re-cut sail (see [sail — the Dabbler re-cut](/components/rig/sail.md#the-dabbler-re-cut-mark-ii-sail-a-decisive-improvement)), upwind performance is **very good**: Paradox **will tack through 90°**, though tacking through a wider **100°** sails noticeably faster. "You just can't beat those chine runners for doing the job they do relative to the convenience they provide. Try em, you'll like em."
 - Pointing depends on the **whole design working together**: the boat needs **enough weight aboard to submerge the lower chine runner when heeled**, the **cut of the sail** matters greatly, and a lug sail demands different handling skill from a conventional sloop — every builder who persists through the learning curve ends up pleased.
 
 The `microcruising` group is a further source: the owners of [Little Cruiser](/matt-layden/little-cruiser.md) sail alongside Matt in his own Paradox and are consistently impressed by her capability. Their own firsthand comparison is the sharpest verdict on record: sailing Paradox (chine runners) alongside Little Cruiser (centerboard) they "cannot tell which boat can point higher… both methods work equally well on Matt's designs," with the chine runner's distinct edge being **really shallow water** (see [origin and evolution](/chine-runners/origin-and-evolution.md)).

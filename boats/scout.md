@@ -14,7 +14,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 While still owned by Lezlie Henson and offered for sale at Kemah, near Houston, Texas, for "in the region of 3,000 US dollars" (about £1,861), "Tardis" was unfinished: her window hardware and materials were not yet bought or fitted, her boom was unfinished, and she lacked a yuloh, anchors, fenders, and "the usual cruising gear," though she already carried a single-burner Coleman stove fitted to gimbals.[3]
 
-A UK enthusiast who priced shipping her from Houston to Felixstowe worked the total cost out in detail: freight in a sealed 20 ft container, $2,100 (£1,309); Felixstowe terminal handling, £125; import service, £25; port security, £35; customs clearance, £55; lift-on/lift-off, £60; and removing the boat and trailer from the container, £155 — a £1,764 subtotal before duty. UK VAT (then 17.5%) added roughly £326 and import duty (roughly 1.7%) about £28, but because an unfinished, amateur-built boat needed its own HM Revenue and Customs commodity code, and the boat and her secondhand trailer needed separate VAT invoices, the all-in total for buying and importing her came to **roughly £4,000**.[4]
+A UK enthusiast priced shipping her from Houston to Felixstowe, itemizing freight and the various port and handling charges along the way. Because an unfinished, amateur-built boat needed its own HM Revenue and Customs commodity code, and the boat and her secondhand trailer needed separate VAT invoices, importing her to Britain would have added substantial cost and complexity on top of the purchase price.[4]
 
 ## Renamed "Scout," and a fast trailer-to-sailing routine on Lake Havasu
 

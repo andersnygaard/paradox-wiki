@@ -16,7 +16,7 @@ Mulligan documents his sailing on an older Blogspot blog ("Full n By," `fullnby.
 
 ## Disambiguation
 
-Sean Mulligan is a different person from [Sean Herron](/people/sean-herron.md), an unrelated, already-documented Paradox correspondent; the two share only a first name.
+Sean Mulligan is a different person from [Sean Herron](/boats/defiant.md), an unrelated, already-documented Paradox correspondent; the two share only a first name.
 
 # Citations
 

@@ -108,7 +108,7 @@ Practically, this means:
 - **Depleting a water cube reduces ballast as well as supply** — the same cube-tankage system chosen to isolate contamination (above) also means the boat's trim shifts gradually and predictably as fresh water is drunk down, rather than all at once.
 - **A storm anchor doing ballast duty is the same idea in miniature** — the 25-lb take-apart Luke storm anchor is stowed below and "serves as ballast most of the time," only pulled out for genuine storm conditions — the same logic of making stowed weight do useful double duty that governs the food and water stores generally.
 
-See [weight and ballast](/design/weight-and-ballast.md) for the fuller design-level treatment of stores-as-ballast, water ballast tankage, and how this affects trim and stability; see [Little Cruiser](/matt-layden/little-cruiser.md) for the boat this provisioning practice is drawn from; and see [group cruise reports](/operations/group-cruise-reports.md) for firsthand trip accounts that put this multi-month provisioning into the context of actual passages and gatherings.
+See [weight and ballast](/design/weight-and-ballast.md) for the fuller design-level treatment of stores-as-ballast, water ballast tankage, and how this affects trim and stability; see [Little Cruiser](/matt-layden/little-cruiser.md) for the boat this provisioning practice is drawn from; and see [the Bolducs' Bahamas cruising](/merits/bahamas-and-exumas.md) for firsthand trip accounts that put this multi-month provisioning into the context of actual passages.
 
 # Citations
 

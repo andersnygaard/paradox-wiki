@@ -17,7 +17,7 @@ This is the site the archive repeatedly calls "**Matt's brother's website**": it
 Like [microcruising.com](/references/microcruising-website.md) and [yrvind.com](/references/yrvind-website.md), this is an **authored, first-person primary source**, not a mailing-list relay. Two distinct voices appear on it:
 
 - **First-person narration about Matt's boats** — the family relationship, the build logs, the boat index — written with direct family knowledge of Matt.
-- **Matt Layden's own first-person voice**, on the "Rob Roy-oid" canoe page, which is signed "Matt" and written in the first person. This is a **second, independent instance of Matt's own writing** distinct from the single first-person post in the mailing-list archive (his May 2003 "New Paradox Sail" message — see [biography](/matt-layden/biography.md#distinguishing-matts-own-words-from-what-others-say-about-him)), and it comes from a different source entirely.
+- **Matt Layden's own first-person voice**, on the "Rob Roy-oid" canoe page, which is signed "Matt" and written in the first person. This is a **second, independent instance of Matt's own writing** distinct from the single first-person post in the mailing-list archive (his May 2003 "New Paradox Sail" message — see [biography](/matt-layden/biography.md#matt-laydens-own-voice-the-february-2003-sail)), and it comes from a different source entirely.
 
 ## Provenance and dating
 

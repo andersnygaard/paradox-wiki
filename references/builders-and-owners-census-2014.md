@@ -60,7 +60,7 @@ Rendered as given, including boats and builders with no page yet in this bundle:
 | [Minnow](/boats/enuf.md) | [Robert Biegler](/people/robert-biegler.md) | Modified | Norway, Trondheim | Finished |
 | The Edge | [Don Elliott](/boats/elliott-paradox.md) | Per plan | US, Wisconsin | Thoroughly tested |
 | [Zoe](/boats/zoe.md) | [Glen Maxwell](/people/glen-maxwell.md) | Per plan | US | Thoroughly tested |
-| Petite Lady | Hugh Miller | Per plan | New Zealand | Well tested |
+| [Petite Lady](/boats/petite-lady.md) | Hugh Miller | Per plan | New Zealand | Well tested |
 | [Irene May](/boats/irene-may.md) | [Ian Lang](/people/ian-lang.md) | Per plan | UK, London | In build |
 | [Jill Baby](/boats/jill.md) | [Jack Gardiner](/people/jack-gardiner.md) | Stitch & glue | US, Providence | Well tested |
 | ? | [Jeff Forrest](/people/jeff-forrest.md) | ? | US | ? |
@@ -79,7 +79,7 @@ Rendered as given, including boats and builders with no page yet in this bundle:
 
 ## Name variants preserved as given
 
-The table spells the "Petite Lady" owner's name **"Hugh Miller."** A separate 2014 post on the same blog about the same boat spells it **"Hugh Millar."** Neither the boat nor her owner has a page yet in this bundle; both spellings are preserved here rather than silently resolved to one, pending further evidence. Steve Yahn's own boat page and this table diverge on a single letter — "Ironsides" (the bundle's page title, per his own mailing-list introduction) against the table's "Ironside" — reproduced above exactly as the census gives it.
+The table spells the "Petite Lady" owner's name **"Hugh Miller."** A separate 2014 post on the same blog about the same boat spells it **"Hugh Millar."** The boat now has its own page in this bundle ([boats/petite-lady.md](/boats/petite-lady.md)); her owner does not yet have one. Both spellings of his name are preserved here rather than silently resolved to one, pending further evidence. Steve Yahn's own boat page and this table diverge on a single letter — "Ironsides" (the bundle's page title, per his own mailing-list introduction) against the table's "Ironside" — reproduced above exactly as the census gives it.
 
 ## Citing this source
 

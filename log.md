@@ -16080,7 +16080,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   200-year-old fishing boat, intended for his Paradox's stem in place of a
   planned plywood lamination, and asked how to counteract warping as the
   green wood dries — left unanswered on record. Folded into
-  [design/hull-scantlings.md](/design/hull-scantlings.md#a-piece-of-cornish-oak-for-the-stem-and-the-warping-question)
+  [construction/hull-planking.md](/construction/hull-planking.md#a-piece-of-cornish-oak-for-the-stem-and-the-warping-question)
   (new section, cite [13]). A fifth message (Robert/`carolfo`/`cheepwings`,
   standing below-threshold identity) was purely off-topic — a one-line
   mention of a Wooden Boat magazine article on a Bolger Birdwatcher sharpie,
@@ -17222,7 +17222,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   distinct from both the below-threshold "Larry"/`newspipetr3` and from
   **Larry Whited**), independently confirmed the same verdict. Extended
   [people/david-c-smith.md](/people/david-c-smith.md) and resolved
-  [design/hull-scantlings.md](/design/hull-scantlings.md#alder-and-hemlock-for-structural-and-joiner-work).
+  [construction/hull-planking.md](/construction/hull-planking.md#alder-and-hemlock-for-structural-and-joiner-work).
   (2) **Dave Bolduc** posted Matt Layden's own leach-tabling drawing (made
   years earlier for Little Cruiser's sail), extending the "paradox sails"
   sail-building thread — added to
@@ -17284,7 +17284,7 @@ count-vs-max discrepancy on `people/jack-gardiner.md` worth re-deriving).
   **"Phil"** (WA State): a request to visit Smith's Swash, and a genuine but
   unresolved technical question — whether alder or hemlock suit
   boatbuilding for structural/joiner work — noted on
-  [design/hull-scantlings.md](/design/hull-scantlings.md#lumber-and-plywood-sourcing).
+  [construction/hull-planking.md](/construction/hull-planking.md#lumber-and-plywood-sourcing).
   No new files, no renames, no prunings — all content extended existing
   pages; five files touched (`people/david-c-smith.md`, `people/alastair-law.md`,
   `operations/first-boat-suitability.md`, `references/mailing-list.md`,

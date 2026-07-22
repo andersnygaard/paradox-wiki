@@ -24,14 +24,16 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 - [Deck](/components/deck.md)
 - [Deck and cabin beams](/components/deck-beams.md)
 - [Epoxy fillets](/components/epoxy-fillets.md)
+- [Furling](/components/rig/furling.md)
 - [Hatch](/components/hatch.md)
 - [Interior](/components/interior.md)
 - [Internal rigging](/components/rig/internal-rigging.md)
+- [Mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md)
 - [Mast](/components/rig/mast.md)
 - [Mk2 sail](/components/rig/mk2-sail.md)
 - [Mk3 sail](/components/rig/mk3-sail.md)
 - [Pilothouse](/components/pilothouse.md)
-- [Rig](/components/rig/index.md) — **sub-branch**: mast · sail · mk2/mk3 sail · clew · tack strop · topping lift · internal rigging · furling
+- [Rig](/components/rig/index.md) — **sub-branch**: mast · sail · mk2/mk3 sail · clew · tack strop · internal rigging · furling
 - [Rudder](/components/rudder.md)
 - [Sail](/components/rig/sail.md)
 - [Scarfing](/components/scarfing.md)
@@ -39,7 +41,6 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 - [Steering (internal steering-line loop)](/components/steering.md)
 - [Stem](/components/stem.md)
 - [Tack strop](/components/rig/tack-strop.md)
-- [Topping lift](/components/rig/topping-lift.md)
 - [Vent baffle](/components/vent-baffle.md)
 - [Vent box](/components/vent-box.md)
 - [Water tanks](/components/water-tanks.md)
@@ -51,14 +52,14 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 
 *Cabin & fit-out* — [Pilothouse](/components/pilothouse.md) · [Interior](/components/interior.md) · [Vent box](/components/vent-box.md) · [Vent baffle](/components/vent-baffle.md) · [Water tanks](/components/water-tanks.md) · [Ballast](/components/ballast.md)
 
-*Rig & sail* — [Mast](/components/rig/mast.md) · [Rig](/components/rig/index.md) · [Internal rigging](/components/rig/internal-rigging.md) · [Sail](/components/rig/sail.md) · [Mk2 sail](/components/rig/mk2-sail.md) · [Mk3 sail](/components/rig/mk3-sail.md) · [Clew](/components/rig/clew.md) · [Tack strop](/components/rig/tack-strop.md) · [Topping lift](/components/rig/topping-lift.md) · [Yuloh](/components/yuloh.md)
+*Rig & sail* — [Mast](/components/rig/mast.md) · [Rig](/components/rig/index.md) · [Internal rigging](/components/rig/internal-rigging.md) · [Sail](/components/rig/sail.md) · [Mk2 sail](/components/rig/mk2-sail.md) · [Mk3 sail](/components/rig/mk3-sail.md) · [Clew](/components/rig/clew.md) · [Tack strop](/components/rig/tack-strop.md) · [Furling](/components/rig/furling.md) · [Yuloh](/components/yuloh.md)
 
-*Appendages & steering* — [Rudder](/components/rudder.md) · [Steering](/components/steering.md) · [Chine runners](/components/chine-runners.md)
+*Appendages & steering* — [Rudder](/components/rudder.md) · [Steering](/components/steering.md) · [Chine runners](/components/chine-runners.md) · [Mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md)
 
 ---
 
 **Related categories that are not components** (they live in the branch that fits their nature):
 
-- Build steps & techniques → [construction/](/construction/index.md) — including [dry-fit](/construction/dry-fit.md) and the [turning-over jig](/construction/turning-over-jig.md).
+- Build steps & techniques → [construction/](/construction/index.md) — including [dry-fit](/construction/hull-assembly-sequence.md#recommended-order) and [turning the hull over](/construction/hull-assembly-sequence.md#turning-the-hull-over).
 - Rig / hull alternatives → [design/variants/](/design/variants/index.md) — including the [junk rig](/design/variants/junk-rig.md).
 - Individual built hulls → [boats/](/boats/index.md) — the register of specific Paradox boats.

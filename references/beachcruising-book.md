@@ -10,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 **"Beach Cruising and Coastal Camping"** is a small-boat cruising book by **Ida Little and Michael Walsh**, cited as an external, published source documenting [Matt Layden](/matt-layden/biography.md)'s boats.[1][2] It includes a **photograph of Matt aboard [Swamp Thing](/matt-layden/swamp-thing.md) in the Abacos**, placed on **page 197**, and a discussion of Layden's micro-cruisers.[1][2]
 
-The book's author was **in attendance at Matt Layden's May 2019 Cedar Key talk** (see [Matt Layden (biography)](/matt-layden/biography.md) and [group cruise reports](/operations/group-cruise-reports.md)), where Matt himself referenced the book while recounting Swamp Thing's place in his design lineage — "this 13' sailboat which appeared in the book, Beach Cruising and Coastal Camping, by Ida Little, who by the way was in attendance."[3]
+The book's author was **in attendance at Matt Layden's May 2019 Cedar Key talk** (see [Matt Layden (biography)](/matt-layden/biography.md) and [Cedar Key — the Bolducs' cruising log](/merits/cedar-key.md#the-bolducs-cruising-log-cedar-key-attendance-across-the-years)), where Matt himself referenced the book while recounting Swamp Thing's place in his design lineage — "this 13' sailboat which appeared in the book, Beach Cruising and Coastal Camping, by Ida Little, who by the way was in attendance."[3]
 
 It is one of the few **independent, published** records of the Layden designs, alongside ["Building the Paradox" articles](/references/building-the-paradox-articles.md) and the periodical/press coverage catalogued on the [microcruising.com](/references/microcruising-website.md) site.
 

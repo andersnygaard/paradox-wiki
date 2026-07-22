@@ -19,7 +19,7 @@ Hodges' central project was scaling the boat up to fit a big man. He first explo
 Hodges pressed a wide range of construction and design questions on the list, each of which lives in full on its topic page:
 
 - **Chine runners:** whether the runner pattern pre-builds the horizontal curve, whether the runners take abuse and ground first, and whether a metal edge would protect them (advised against on hydrodynamic grounds); also floated using the runners plus a heavy inside fillet as a substitute for an internal chine log — see [chine runner construction](/chine-runners/construction.md).
-- **Chine-shoe materials:** cost, sourcing, and fastening of copper-nickel, ferrocement, or steel chine pieces, contributing a March 2001 Cu/Ni price list of his own — see [stretched Paradox](/design/variants/stretched-paradox.md).
+- **Chine-shoe materials:** sourcing and fastening of copper-nickel, ferrocement, or steel chine pieces for the runners — see [stretched Paradox](/design/variants/stretched-paradox.md).
 - **Deck and cabin beams:** whether laminated plywood strips could substitute for solid timber — see [deck and cabin beam lamination](/construction/deck-and-cabin-beams.md).
 - **Tack-line holes:** the second boom-end hole's use, and whether the narrow deep holes could be epoxy-armored against rot without being filled solid — see [boom-end tack line holes and drilled-hole rot protection](/construction/boom-end-tack-line-holes.md).
 - **Interior and stowage:** the tight forward-compartment access hole, and how a 65 lb battery could reach its plans-specified location (answered: the interior panels are simply removable) — see [interior bins and hinged floor](/components/interior.md).

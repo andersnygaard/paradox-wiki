@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: Window glazing — Lexan/polycarbonate versus Perspex/acrylic
-description: How to choose and source clear glazing for a Paradox's windows — the practical tradeoffs between polycarbonate (Lexan) and acrylic (Perspex/Plexiglas), chemical hazards and protective film, UK/US sourcing and pricing notes, and a boat cover's role in protecting the finished glazing.
+description: How to choose and source clear glazing for a Paradox's windows — the practical tradeoffs between polycarbonate (Lexan) and acrylic (Perspex/Plexiglas), chemical hazards and protective film, UK sourcing notes, and a boat cover's role in protecting the finished glazing.
 tags: [paradox, construction, windows, glazing, lexan, perspex, acrylic, polycarbonate, materials]
 timestamp: 2026-07-06T00:00:00Z
 ---
@@ -47,7 +47,7 @@ A cracked acrylic window can be rebuilt using the cracked original itself as a c
 
 ## Bedding sealant: a cost comparison
 
-Bedding a window against its hatch or cabin-side mount calls for its own sealant choice, separate from the glazing material itself. One direct comparison, made rebedding a hatch window: **Geocel Sealant** costs roughly double a **General Purpose Sealant by Ever Build**, whose own technical data sheet confirmed it adequate for the job — the cheaper product was chosen on that basis and used for the boat's cabin windows too. Applied economically, the sealant need only run around a window's outer and inner perimeters plus the nut-and-bolt holes, rather than filling the whole cavity between the two seals, which can be left unsealed but still protected from ingress.[27]
+Bedding a window against its hatch or cabin-side mount calls for its own sealant choice, separate from the glazing material itself. When rebedding a hatch window, **General Purpose Sealant by Ever Build** was chosen over the pricier **Geocel Sealant** once Ever Build's own technical data sheet confirmed it adequate for the job, and the same product was used for the boat's cabin windows too. Applied economically, the sealant need only run around a window's outer and inner perimeters plus the nut-and-bolt holes, rather than filling the whole cavity between the two seals, which can be left unsealed but still protected from ingress.[27]
 
 ## Window retaining-bolt material, and a leak found on removal
 
@@ -57,7 +57,7 @@ See [hatch hardware and security](/construction/hatch-hardware.md) for the hatch
 
 ## UK sourcing and pricing
 
-In the UK, Lexan was sourced from **Master Plastics (S.W.) Ltd** (trading as `fascias.com`); a 2.05 m x 1.25 m x 6 mm sheet cost about £160 in 2003. By April 2006, the same 6 mm sheet size had actually become *cheaper* — £99.52 including VAT plus postage — a rare direction for a materials price to move. Plexiglass/acrylic sheet, by contrast, is a lower-cost alternative worth checking with local plastics suppliers and fabricators before committing to the pricier polycarbonate.
+In the UK, Lexan sheet (2.05 m x 1.25 m, 6 mm) was sourced from **Master Plastics (S.W.) Ltd** (trading as `fascias.com`). Plexiglass/acrylic sheet, by contrast, is a lower-cost alternative worth checking with local plastics suppliers and fabricators before committing to the pricier polycarbonate.
 
 # Citations
 

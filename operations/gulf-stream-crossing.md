@@ -52,7 +52,7 @@ On a long or rough crossing, a **parachute (sea) anchor** is the option for stop
 
 - [Blue-water suitability](/design/blue-water-suitability.md) — the design-level question of whether Paradox and Little Cruiser count as open-ocean boats, including the explicit disclaimer that these are not endorsed as "offshore" craft, only as tough coastal cruisers.
 - [Little Cruiser](/matt-layden/little-cruiser.md) — the boat sailed on every one of these crossings.
-- [Group cruise reports](/operations/group-cruise-reports.md) — firsthand Paradox trip reports in a similar spirit, though shorter and closer to home than the Gulf Stream passage.
+- [Gatherings](/merits/gatherings.md) and [Cedar Key](/merits/cedar-key.md) — firsthand Paradox trip and meetup reports in a similar spirit, though shorter and closer to home than the Gulf Stream passage.
 - [Dave Bolduc](/people/bolduc/dave.md) — biographical detail and a long cruising record.
 - [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md) — a May 2002 list exchange citing the Gulf Stream crossing as the standard benchmark for Paradox's open-water capability.
 

@@ -12,7 +12,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 ## Questions on plans, weight, and construction
 
-The introduction laid out the practical concerns of a new builder: where to get the plans and their cost (**$35 US**, see [building plans](/references/building-plans.md)); the empty trailered weight and day-sailing suitability; handling in a 2–4 ft fresh-water chop; where to obtain the second building article, having already downloaded the first; and the [plywood count and thicknesses](/design/hull-scantlings.md).
+The introduction laid out the practical concerns of a new builder: where to get the plans (see [building plans](/references/building-plans.md)); the empty trailered weight and day-sailing suitability; handling in a 2–4 ft fresh-water chop; where to obtain the second building article, having already downloaded the first; and the [plywood count and thicknesses](/design/hull-scantlings.md).
 
 # Citations
 
