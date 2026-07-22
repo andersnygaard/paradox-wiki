@@ -28,7 +28,7 @@ The opposing view holds that hesitation about deviating from a design can be ove
 
 The most common distinction drawn across these threads is between an **informed** modification, made by someone who already understands why a given feature is there, and an **uninformed** one ventured before even reading the plans. Builders who propose changes sight-unseen, or who invent solutions to problems the stock design already solves, are observed rarely to go on to finish a boat at all.[6]
 
-A sailor considerably taller, heavier, or less agile than the designer's own build is treated as a distinct case from a builder simply wanting a different feature: rather than reworking Paradox's cabin, the standing recommendation is a different, more spacious existing design instead — see [alternatives for a larger sailor](/design/variants/alternatives-for-a-larger-sailor.md#a-recommended-alternative-for-a-larger-sailor-michalaks-caroline-and-the-case-against-modifying-paradox-to-fit).
+A sailor considerably taller, heavier, or less agile than the designer's own build is treated as a distinct case from a builder simply wanting a different feature: rather than reworking Paradox's cabin, the standing recommendation is a different, more spacious existing design instead — see [alternatives for a larger sailor](/similar-boat-designs/alternatives-for-a-larger-sailor.md#a-recommended-alternative-for-a-larger-sailor-michalaks-caroline-and-the-case-against-modifying-paradox-to-fit).
 
 ## When a modification becomes a derivative
 

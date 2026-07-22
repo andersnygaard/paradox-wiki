@@ -62,11 +62,11 @@ The settled answer, in three words, is **"Bucket & chuck it!"** — matching the
 
 ## A pointer to a longer/lighter Paradox derivative
 
-The lakes in question are connected only by small rivers with bridges and weirs "somewhat similar to canals," not true canals, and Paradox is understood, from prior list discussion, to be capable of being **scaled upward without becoming a sow's ear**. A relevant precedent was already underway: a fellow [Micro Cruising group](/references/micro-cruising-group.md) member was, at that time, designing a boat **based on Paradox, but longer and lighter** — a from-scratch 16 ft redesign, "[Paramour](/design/variants/paramour-design.md)," rather than a stock Paradox modification.[6]
+The lakes in question are connected only by small rivers with bridges and weirs "somewhat similar to canals," not true canals, and Paradox is understood, from prior list discussion, to be capable of being **scaled upward without becoming a sow's ear**. A relevant precedent was already underway: a fellow [Micro Cruising group](/references/micro-cruising-group.md) member was, at that time, designing a boat **based on Paradox, but longer and lighter** — a from-scratch 16 ft redesign, "[Paramour](/similar-boat-designs/paramour-design.md)," rather than a stock Paradox modification.[6]
 
 ## Significance
 
-This is the most detailed statement on record of a **design-fidelity** objection to modifying Paradox, and the place where one owner's own planned modifications to a personal Paradox are recorded alongside them. Compare [aluminum Paradox](/design/aluminum-construction-idea.md) for an earlier speculative-modification thread that drew a similar designer-fidelity objection, and [stretched Paradox](/design/variants/stretched-paradox.md) / [Paramour](/design/variants/paramour-design.md) for the other recorded enlarged/modified-Paradox proposals — the latter confirmed to be an active project at the same time as this one.
+This is the most detailed statement on record of a **design-fidelity** objection to modifying Paradox, and the place where one owner's own planned modifications to a personal Paradox are recorded alongside them. Compare [aluminum Paradox](/design/aluminum-construction-idea.md) for an earlier speculative-modification thread that drew a similar designer-fidelity objection, and [stretched Paradox](/design/variants/stretched-paradox.md) / [Paramour](/similar-boat-designs/paramour-design.md) for the other recorded enlarged/modified-Paradox proposals — the latter confirmed to be an active project at the same time as this one.
 
 # Citations
 
