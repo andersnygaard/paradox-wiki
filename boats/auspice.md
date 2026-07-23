@@ -1,14 +1,14 @@
 ---
 type: Boat
-title: Jimmy Lu's Paradox (Taiwan), unnamed
-description: A Taiwan-built Paradox completed and launched 18 February 2008 by Jimmy Lu, whose rapid, professionally finished mid-build photos drew unprompted praise from several established builders; no name is recorded for her.
-tags: [paradox, boat, taiwan, jimmy-lu, build, launch]
-timestamp: 2026-07-20T00:00:00Z
+title: Auspice (Jimmy Lu)
+description: Jimmy Lu's Taiwan-built Paradox, launched 18 February 2008 after rapid, professionally finished construction that drew unprompted praise from several established builders; named "Auspice," a name that did not surface on the list itself until six months after her launch.
+tags: [paradox, boat, taiwan, jimmy-lu, auspice, build, launch]
+timestamp: 2026-07-23T03:00:00Z
 ---
 
-# Jimmy Lu's Paradox (Taiwan), unnamed
+# Auspice
 
-**Jimmy Lu**'s [Paradox](/paradox.md), built in **Taiwan** and launched **18 February 2008**, is a finished, sailing, registry-listed hull with no boat name ever recorded — an exhaustive search of the archive turns up none. That absence is not disqualifying: a complete, launched, and praised build is exactly the kind of record this tree exists to keep, and there is slug precedent in [Aussie Paradox](/boats/aussie-paradox.md) for a boat known by builder and place rather than by name.
+**"Auspice"** is [Jimmy Lu](/people/jimmy-lu.md)'s [Paradox](/paradox.md), built in **Taiwan** and launched **18 February 2008** — a finished, sailing, registry-listed hull built in **under eight months**, among the fastest builds on record for the design.[14] Her name never appears in the archive's own coverage of the build or launch; it surfaces only six months later, in an unrelated thread, when another builder cited her as a fast-build example for a newcomer just starting his own boat.[14]
 
 ## A new builder, and rapid mid-build progress
 
@@ -26,7 +26,19 @@ By late December 2007, with the build's photos still drawing admiration from acr
 
 ## Launch, 18 February 2008
 
-The boat was launched on **18 February 2008**. Congratulations followed once the news and a launch photo reached the list — "I hope she brings you many hours of enjoyment. A splendid job." No boat name was given at launch or at any other point in the record.[13]
+The boat was launched on **18 February 2008**. Congratulations followed once the news and a launch photo reached the list — "I hope she brings you many hours of enjoyment. A splendid job."[13] No name was given at launch, or anywhere else in the record of the build itself.
+
+## A name surfaces six months later
+
+Auspice's name appears nowhere in the archive's own coverage of her construction or launch — not in Jimmy Lu's own posts, nor in any of the congratulations that followed. It surfaces only in August 2008, in an entirely unrelated thread: encouraging a newcomer who had just started his own Paradox build, a fellow builder cited Jimmy Lu's "Auspice" by name as proof a boat can go together quickly, having been built in under eight months. See [Wizard Spawn — encouragement from established builders](/boats/wizard-spawn.md#encouragement-from-established-builders) for the fuller exchange this name surfaced in.[14]
+
+## Topping-lift advice sought after launch, and outside praise for the finished hull
+
+Some six months after launch, still refining her rig, Jimmy Lu sought topping-lift advice directly from another owner; the private reply bounced and was posted to the list instead. The answer closed with unprompted praise for the finished boat — "congratulations on a nicely finished boat" — external confirmation, well after the rush of launch-day congratulations had passed, that the hull still held up to scrutiny. See [furling system — what the topping lift does, rope choice, and use](/components/rig/furling.md#what-the-topping-lift-does-rope-choice-and-use) for the topping-lift answer itself.[15]
+
+## Reported gear failures, August 2008
+
+A week after the topping-lift exchange above, Auspice's tiller and boom were both reported broken in close succession, mentioned only in passing during an unrelated force-8-gale discussion — no cause, repair, or further follow-up recorded.[16]
 
 # Citations
 
@@ -43,3 +55,6 @@ The boat was launched on **18 February 2008**. Congratulations followed once the
 [11] Archive message page_4747 (jimmylu88 / Jimmy Lu, `paradoxbuilders`, msgnum 4785, 2008-01-01) — "Re: Pictures from Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#a-winter-standstill-and-more-praise-for-a-taiwan-build); happy Pete likes his photos; has no prior boatbuilding experience but really likes the Paradox design; will try his best to finish "within these two months." Signed "Jimmy."
 [12] Archive message page_4746 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 4784, 2007-12-31) — "Re: Pictures from Taiwan": full text and citation also at [people/bill-serjeant.md](/people/bill-serjeant.md#the-small-sailboats-paradox-uk-web-presence); "Your boat and Jimmy's are looking really great - 2 more water babies in the making to be born in 2008 as members of the Paradox family." Signed "Bill."
 [13] Archive message page_4897 (pdmartin / "randoneur" / Pete Martin, `paradoxbuilders`, msgnum 4935, 2008-02-21) — "Re: Paradox in Taiwan": full text and citation also at [boats/johanna.md](/boats/johanna.md#congratulating-jimmy-lu-on-his-paradoxs-launch); congratulates Jimmy Lu on launching his Paradox on 18 February 2008, linking a photo (`http://tinyurl.com/2a3r98`); "I hope she brings you many hours of enjoyment. A splendid job." Signed "Pete."
+[14] Archive message page_5304 (pdmartin / "Pete" / Pete Martin, `paradoxbuilders`, msgnum 5351, 2008-08-08) — "Re: It begins": full text and citation also at [boats/wizard-spawn.md](/boats/wizard-spawn.md#encouragement-from-established-builders); encouraging a newcomer just starting his own build, cites "Jimmy Lu built his 'Auspice' ... in a very short time earlier this year, I think less than 8 months" as proof a Paradox can go together quickly — the archive's only mention of the boat's name. Signed "Pete."
+[15] Archive message page_5330 (openboat / "alopenboat" / "Al", `paradoxbuilders`, msgnum 5377, 2008-08-19) — "About the topping lift": full text and citation also at [components/rig/furling.md](/components/rig/furling.md#what-the-topping-lift-does-rope-choice-and-use); answers a private query from Jimmy Lu about "Little Jim"'s topping lift, posted to the list after the direct reply bounced; closes by congratulating him on "a nicely finished boat." Signed "Al, Yeovil, England."
+[16] Archive message page_5387 (pdmartin / "randoneur" / Pete Martin, `paradoxbuilders`, msgnum 5434, 2008-08-27) — "Re: Force 8 gale": full text and citation also at [operations/heavy-weather-tactics.md](/operations/heavy-weather-tactics.md#a-force-8-in-the-bay-of-biscay-a-worked-comparison-and-a-tool-box-lesson) and [people/pete-martin.md](/people/pete-martin.md#a-force-8-gale-jimmy-lus-broken-gear-and-a-further-yrvind-sighting); notes, in passing during an unrelated gale discussion, that Jimmy Lu has broken both his tiller and his boom in close succession, linking photographs (`tinyurl.com/5jtdcw`, `tinyurl.com/63vevp`). Signed "Pete."

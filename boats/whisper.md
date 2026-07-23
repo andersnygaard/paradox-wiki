@@ -3,7 +3,7 @@ type: Boat
 title: Whisper (David Beard)
 description: David Beard's secondhand Paradox, bought from original builder Bob Archibald and refitted, renamed "Whisper," known for a hard-won lesson in tacking a loaded lug-rigged Paradox, a jet-ski collision that proved the hull, and a parallel from-scratch build.
 tags: [paradox, boat, whisper, david-beard, secondhand, refit]
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 ---
 
 # Whisper
@@ -186,6 +186,10 @@ Asked in passing, in an August 2007 thread on the resale value of a used Paradox
 
 Answering a fellow builder's fuel-storage question in April 2008, David's own long-standing practice for "Whisper"'s outboard fuel has simply been to store it on deck, with no problems over many years — including trips running the outboard exclusively for up to 150 miles at a time on rivers, with no place to refuel along the way. Cross-linked from the wider stern-quarter fuel-storage debate at [auxiliary outboard power — further stern-quarter fuel-storage proposals](/operations/auxiliary-outboard-power.md#further-stern-quarter-fuel-storage-proposals-vented-bins-preferred-over-built-in-tanks-and-a-copper-tank-design).[109]
 
+## The vent trunk's side panel
+
+"Whisper"'s vent trunk has a removable side panel — only the top half — with no gasket fitted and no leakage; the halyard-turnaround block is mounted on the removable panel itself, and every line, halyard or furling, can be worked through the vent hole on deck without the panel ever needing to come off. The access is valued chiefly for inspecting the inside and repainting it. See [vent box — access to the vent box: a removable side panel versus gluing it in place](/components/vent-box.md#access-to-the-vent-box-a-removable-side-panel-versus-gluing-it-in-place) for how this compares with two other Paradoxes' contrasting choices.[110]
+
 # Citations
 
 [1] Archive message page_483 (David Beard, `paradoxbuilders`, msgnum 483, 2002-05-07) — "Re: Southern California Paradox?": "We named her 'Whisper.'"
@@ -297,3 +301,4 @@ Answering a fellow builder's fuel-storage question in April 2008, David's own lo
 [107] Archive message page_4684 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 4722, 2007-09-26) — "An engine for Paradox?": full text and citation at [people/bill-serjeant.md](/people/bill-serjeant.md#contributions-to-design-discussion); David Beard's Honda outboard (given as a 2.3 hp model), close-up photos published on the Editorial page of `www.smallsailboats.co.uk`. Signed "Bill."
 [108] Archive message page_4928 (barnacleid / Bill Serjeant, `paradoxbuilders`, msgnum 4969, 2008-03-09) — "Re: Hello :o) In new here.": full text and citation also at [people/bill-serjeant.md](/people/bill-serjeant.md#contributions-to-design-discussion); confirms David Beard's Honda 2.3 is mounted on the port side of Whisper's transom, per the photographs at www.smallsailboats.co.uk/paradox/whisper.htm; asks David directly how the mount performs in practice, particularly whether the sheet fouls it when gybing, and invites him to add his own photos to the group's photo section. Signed "Bill."
 [109] Archive message page_5038 (dlb / "David" / David Beard, `paradoxbuilders`, msgnum 5082, 2008-04-12) — "Re: Outboards and fuel storage onboard Paradox": full text and citation also at [operations/auxiliary-outboard-power.md](/operations/auxiliary-outboard-power.md#further-stern-quarter-fuel-storage-proposals-vented-bins-preferred-over-built-in-tanks-and-a-copper-tank-design); has used an outboard for many years on "Whisper" and stored his fuel on deck with no problems, including trips running the outboard exclusively for 150 miles at a time on rivers with no place to refuel. Signed "David."
+[110] Archive message page_5274 (dlb / David Beard, `paradoxbuilders`, msgnum 5321, 2008-07-28) — "Re: Vent Trunk": full text and citation also at [components/vent-box.md](/components/vent-box.md#access-to-the-vent-box-a-removable-side-panel-versus-gluing-it-in-place) and [people/david-beard.md](/people/david-beard.md#contributions-and-stories); a removable side panel (top half only) on Whisper's vent trunk, no gasket, no leakage; the halyard-turnaround block is mounted on the removable panel, and all lines run through the vent hole on deck; values the access for inspection and painting. Signed "David."

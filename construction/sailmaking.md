@@ -3,7 +3,7 @@ type: Reference
 title: Sailmaking (home-built lug sail)
 description: How to loft, cut, and sew a home-built Paradox-family lug sail — lofting the old sail off a concrete slab, broadseaming for draft, sewing on a gravity-fed hand-crank Singer, and Matt Layden's own dimensioned sailmaking recipe for a more weatherly cut.
 tags: [construction, sailmaking, little-cruiser, dave-bolduc, mindy-bolduc, matt-layden, lugsail, dacron]
-timestamp: 2026-07-03T00:00:00Z
+timestamp: 2026-07-23T10:00:00Z
 ---
 
 # Sailmaking (home-built lug sail)
@@ -77,6 +77,10 @@ This setup is consistent with, and gives the missing mechanical detail behind, t
 ## Reference recommended
 
 ***The Sailmaker's Apprentice*** by **Emiliano Marino** stands out as the one book that proved invaluable to the effort, praised for its detailed guidance specifically for **four-sided (lug) sails** — the same book recommended in the mailing-list sailmaking thread (see [rig and sail](/components/rig/index.md)). **Sailrite** kits are a lower-effort alternative, coming with panels **precut and seams pre-marked**, making them quicker to assemble than lofting and cutting a sail entirely from scratch as described above.
+
+## Ordering a Sailrite kit: contents and process (2008)
+
+A concrete account of what a Sailrite kit actually contains and how it goes together, from a builder who ordered the **original (old) sail plan** as a **100 sq ft** kit for **$309 plus $28 shipping**: the panels arrive **computer-cut**, with the broadseaming and draft already built into the cut and computer-drawn lines marked along each panel's edges to line them up; every panel and reinforcement patch is individually labeled to show where it goes; a narrow, **repositionable double-sided tape** holds the panels together during stitching; and the correct thread comes with the kit, along with plenty of extra scrap cloth for testing thread tension on the sewing machine beforehand. Sailrite's own sail designer, who both designs the sail and builds the kit and writes its instructions, is available directly by phone for questions, and video tutorials on assembling a Sailrite kit are available online. See [Sail — choosing between the two 2008 Sailrite listings](/components/rig/sail.md#choosing-between-the-two-2008-sailrite-listings) for the sourcing and pricing context this order followed.[26]
 
 ## Matt Layden's sailmaking recipe for a more weatherly Paradox sail
 
@@ -173,3 +177,4 @@ When Matt Layden's February 2003 sailmaking recipe (above) was reposted to the l
 [23] Archive message page_2797 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, msgnum 2828, 2005-06-12) — "Re: Mk2 sail": checked his own sail (made by Jekylls) — if taped, the tape is inside a fold of the material and 25 mm wide; luff and leech tape are about the same width and thickness, but one is sewn with two rows of parallel zigzag stitching and the other with straight stitching; assumes the tape is present because the sailmaker had Matt's file and is a reputable firm, "not that I believe that means a lot nowadays." Signed "Derek."
 [24] Archive message page_2802 (alex29 / "John Gardiner" / Jack Gardiner, `paradoxbuilders`, msgnum 2833, 2005-06-13) — "Re: Mk2 sail": thanks Derek for the tape data, quoting his message in full; would think the enclosed tape has a bit of stretch to it. Signed "Jack."
 [25] Archive message page_4317 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, msgnum 4354, 2007-04-11) — "Re: Cabin top beams, forward and aft windows": reposts Matt Layden's February 2003 "New Paradox Sail" message (page_945/msgnum 960, cited above at [13]) in full for the benefit of "Jeff UK," about to visit CAWS Sails to order a new sail; advises briefing the sailmaker that a Paradox lug needs a bit more draft than usual, since it is a cruising boat, not a lightweight daysailer. Signed "Dave."
+[26] Archive message page_5422 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 5469, 2008-09-06) — "Re: Topping Lift": full text and citation also at [components/rig/sail.md](/components/rig/sail.md#choosing-between-the-two-2008-sailrite-listings) and [people/stephen-yahn.md](/people/stephen-yahn.md#ordering-a-sailrite-kit); ordered the OLD sail plan as a 100 sq ft Sailrite kit, $309 plus $28 shipping; spoke with Sailrite's Jeff Frank, who designs the sail, builds the kit, and writes the instructions, and found him helpful; the kit includes the correct thread plus extra scrap cloth to test thread tension; found YouTube tutorials on assembling a Sailrite kit; the panels are computer-cut with the broadseaming and draft built in, edge-alignment lines marked by computer, and each panel and reinforcement patch labeled; a narrow double-sided tape holds the panels together while stitching. Signed "Steve Yahn."

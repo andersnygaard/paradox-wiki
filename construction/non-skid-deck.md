@@ -3,7 +3,7 @@ type: Concept
 title: Non-skid deck finish
 description: A walnut-shell-in-epoxy non-skid deck technique for the Paradox — attractive, foot-friendly, and grippier when wet.
 tags: [paradox, construction, deck, non-skid, finish, epoxy]
-timestamp: 2026-07-01T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 ---
 
 # Non-skid deck finish
@@ -16,12 +16,20 @@ One way to give the [Paradox](/paradox.md) deck a non-slip surface is **crushed 
 2. **Paint** over it.
 3. Once the paint has dried, run a **grinder over the top** of the non-skid.
 
+The shells for this method can be bought from any sand-blasting supply house for well under **$15 per 50 lb bag** — free, if a bag has already been broken open at the supplier's and can simply be swept up. Loose shells that don't bond are vacuumed into a clean shop vac and reused on the next section, or the next project entirely; a second coat of epoxy over the top locks the bonded shells in place before painting, and once painted, an **orbital sander** (in place of, or alongside, a grinder) knocks the sharp edges off for a surface comfortable on hands, feet, and bottom, without losing the wet-weather grip.[11]
+
 ## Result
 
 - An **attractive finish** that is **kind on feet and knees** when dry.
 - When **wet**, the exposed wood swells up above the paint, giving a **very firm, grippy surface**.
 
 This is one of several finishing techniques carried over from professional yacht-building at Gold Coast Yachts; compare the [bottom-painting method](/construction/bottom-painting.md).
+
+## A full masking-and-paint method, and the technique's professional origin
+
+A fuller version of the walnut-shell method works with paint, rather than epoxy, as the setting layer, and has a history in professional boatyards well before it reached amateur builders. Mask off the deck areas meant to be non-skid, then apply an even coat of paint; immediately, while that paint is still wet, sprinkle on a layer of crushed walnut shells about a quarter-inch deep. Once the paint has cured for a day, sweep off any shells that never bonded and remove the masking tape, then apply one further coat of paint over the whole deck — this final coat locks the granules in place. If the result feels too harsh underfoot, another coat softens the texture further.
+
+The crushed walnut shells themselves are the same granulated product sold in bulk for industrial sandblasting — cleaning delicate parts such as jet-engine interiors and auto components without damaging them — and are available cheaply today as bedding sold for pet lizards. Oil-based enamel is the traditional paint for this method; acrylic latex has not yet been tried as a substitute.[9]
 
 ## Spantex/Flex-o-Tex rubber-based non-skid
 
@@ -47,3 +55,6 @@ A far cheaper alternative: rubberized non-skid strip made for household stair tr
 [6] Archive message page_2695 (dlb / "buster38801" / David Beard, `paradoxbuilders`, msgnum 2725, 2005-05-22) — "Non-skid": asks whether anyone has experience with roll-on Rhino-lining, used on truck beds, as a possible deck non-skid. Signed "David."
 [7] Archive message page_2696 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, msgnum 2726, 2005-05-22) — "Re: Non-skid": no Rhino-lining experience, but had just that week put down a rubberized non-skid strip on his own decks, bought from a furniture superstore (Ikea) out of the childcare section, intended for stairways; came on a 25mm-wide, 5m-long roll for £1.50 — such a bargain he bought two. Signed "Al, Yeovil, England."
 [8] Archive message page_2697 (mat_man / "mat_man22" / Mat, `paradoxbuilders`, msgnum 2727, 2005-05-25) — "Re: Non-skid": workboat operators have long used this type of coating for deck covering, now available in different colors including white, though not cheap; had seen photos of someone spraying it onto the hull of an old wooden Chris Craft 30-footer; points to rec.boats.building (Google Groups) for more information.
+[9] Archive message page_5280 (yahns / "Stephen Yahn", `paradoxbuilders`, msgnum 5327, 2008-08-03) — "Crushed Walnut Shells": full text and citation also at [people/stephen-yahn.md](/people/stephen-yahn.md#a-childhood-memory-of-walnut-shell-non-skid-and-a-paint-based-method); recalls seeing crushed-walnut-shell non-skid decking as a boy in his father's boatyard — the granulated shells, sold industrially for sandblasting delicate parts like jet-engine interiors and auto components, now sold cheaply as pet-lizard bedding; describes the full method: mask the deck areas, paint, sprinkle on a quarter-inch layer of shells while the paint is still wet, wait a day, sweep off loose shells, remove the masking tape, then apply one more coat of paint over the whole deck to lock the granules in, with a further coat if the texture proves too harsh; his father always used oil-based enamel, but he intends to use acrylic latex. Signed "Steve Yahn."
+[10] Archive message page_5281 (rdnycannon / Rodney Cannon, `paradoxbuilders`, msgnum 5328, 2008-08-03) — "Re: Crushed Walnut Shells": brief appreciative reply ("Wow... very cool...") to the account above, quoting it in full. (Yahoo-webmail `multipart/alternative`; identical plain-text and HTML parts, pruned to plain text.)
+[11] Archive message page_5282 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 5329, 2008-08-03) — "Re: Crushed Walnut Shells": full text and citation also at [people/glen-maxwell/build-and-zoe.md](/people/glen-maxwell/build-and-zoe.md#painting-epoxy-and-materials); has used walnut shells for years, bought from any sand-blasting supply house for under $15 per 50 lb bag, or free if a broken bag can be swept up at the supplier's; sets them in epoxy, vacuums loose shells into a clean shop vac for reuse on the next project, then locks the bonded shells in place with a second coat of epoxy; once painted, an orbital sander knocks off the sharp edges for a surface comfortable on hands, feet, and bottom, with the same wet-weather grip; points to "Zoë"'s folder for photographs of the finished deck. Signed "Glen."

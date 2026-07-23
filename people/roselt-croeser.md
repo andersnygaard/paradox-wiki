@@ -16,7 +16,7 @@ He stands apart from most builders on record in that he was **never a mailing-li
 
 The build was run **alongside owner-building a house**, moved through **four different locations**, and was finished deliberately to a **working boat** standard: "very strong, very simple," using whatever was already to hand.[2] That frugality is what makes the build notable — the mast was **repurposed from a sunken boat** and the sail came from an **SS18**, holding the whole build to about **$2500** in materials.[2][3]
 
-He also **converted the boat from the stock lug rig to a junk rig**, making Planktos the only junk-rigged Paradox in the archive that was actually built and sailed rather than proposed.[1] His verdict on the conversion, and his full account of the build, costs, and how she sails, are recorded at [Planktos](/boats/planktos.md).
+He also **converted the boat from the stock lug rig to a junk rig**, making Planktos the only junk-rigged Paradox in the archive built by *converting* the stock lug rather than designing the rig from scratch — the other built-and-sailed junk-rig Paradox on record, [Eerik Mee](/people/eerik-mee.md)'s [THU](/boats/thu.md), was purpose-designed.[1] His verdict on the conversion, and his full account of the build, costs, and how she sails, are recorded at [Planktos](/boats/planktos.md).
 
 ## Earlier projects
 

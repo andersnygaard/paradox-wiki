@@ -3,7 +3,7 @@ type: Concept
 title: Lower rudder fitting — bearing material options (nylon, Tufnol, Delrin, UHMW)
 description: Bearing-material choice for a Paradox's lower rudder (gudgeon) fitting — why UHMW beats nylon, Delrin, and Tufnol, and the bias-cut glass-casting technique for building the fitting itself — plus sourced, priced bronze suppliers for the tack, sail, and yuloh fittings.
 tags: [paradox, construction, refit, rudder, materials, bearing, david-beard, glen-maxwell, pete-hodges, bronze, metal-sourcing, william-longyard, gudgeon, alastair, derek-clark]
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 ---
 
 # Lower rudder fitting — bearing material options
@@ -50,6 +50,8 @@ Separately from the bearing-material question, bronze stock for the boat's other
 
 That surplus bar/round stock has circulated among other builders at cost plus shipping (**$4.53** for the 8 in of bar and **$9.77** for the 18 in of round needed per boat) — a **buyers' co-op** splitting a bulk order is the efficient way to avoid each builder separately paying a 6 ft minimum for a few inches of material. In practice this played out informally: three builders, including one redoing all the metal parts on [Whisper](/boats/whisper.md), bought into a stock of surplus bronze pipe at a firm price of **$14.30** plus tube and postage each, cut and shipped in a mailing tube against payment by check on receipt. All of the advertised surplus bronze rod stock was spoken for within about a week of the offer, with receipt confirmed within days of shipping.
 
+The same bending question recurred in August 2008 from a builder nearly finished with his own roller-furling system, asking directly whether bronze rod needs heating to bend — left unanswered on record, though the established technique above (cold-bending in a 1/2 in conduit bender, with heat needed only for the tighter forward yuloh fitting) already answers it.[34]
+
 ## Bottom roving and epoxy cost
 
 Refitting a Paradox's bottom with **roving** is weather-dependent work best done in suitable conditions. On epoxy cost: a 3-gallon purchase of **West System** runs high enough to be called "too expensive," against a **Raka 3-gallon kit** (including both slow and fast hardener) at about **$118**, roughly **1/3 of West System's cost** for an equivalent quantity — the same Raka/West price gap that shows up in the Kevlar-vs-fiberglass cost comparison (see [epoxy and fiberglass materials sourcing](/references/materials-sourcing-links.md)).
@@ -90,3 +92,4 @@ Refitting a Paradox's bottom with **roving** is weather-dependent work best done
 [32] Archive message page_4482 (alex29 / "tidybowlmann" / John Gardiner, `paradoxbuilders`, msgnum 4520, 2007-05-31) — "Re: Bronze Lower Gudgeon": would say go for a bronze or stainless casting if the builder's skill and pocket can handle it — Paradox was designed around common, affordable materials since cost and tool access were likely a big factor for Matt Layden, and the wood/epoxy gudgeon is a cost-effective compromise rather than a lesser choice; one could equally weld up a steel gudgeon and epoxy it after abrading the steel to protect it. Signed "Jack."
 
 [33] Bill's Log — "Putting Things Right" (https://bills-log.blogspot.com/2006/05/putting-things-right.html), Bill Serjeant, 2006-05-20 — making the mould for the lower gudgeon and pouring epoxy into it with "loads of" chopped strand matting; the cure ran hot and fast from the exothermic reaction; a length of copper tube wrapped in sticky tape, set into the mould to form the pintle hole, freed afterward by gripping and tapping the casting, or by heating the tube to melt the surrounding epoxy if needed. Local mirror: source-web/bills-log/md/2006-05-putting-things-right.md.
+[34] Archive message page_5317 (rube2112us / "R", `paradoxbuilders`, msgnum 5364, 2008-08-13) — "Bronze Rod": nearly finished his own roller-furling system; asks what the proper procedure is for bending the bronze rod, and whether it has to be heated. No reply is on record. Signed "Robb."

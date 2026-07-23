@@ -3,7 +3,7 @@ type: Index
 title: Operations
 description: Indexes real-world sailing, handling, cruising, trailering, and maintenance knowledge for the Paradox — how the boat actually behaves and is used.
 tags: [paradox, operations, index, cruising, seamanship]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 ---
 
 # Operations
@@ -36,3 +36,4 @@ Concepts are added here as they are sourced from the archive.
 * [Gulf Stream crossing (Florida–Bahamas)](gulf-stream-crossing.md) - The hard-won method for crossing the ~65 nm of open ocean between Florida and the Bahamas in a Matt Layden micro-cruiser — weather-window timing, routing, and, above all, ship-traffic collision avoidance.
 * [Radio and electronics](radio-and-electronics.md) - Options for onboard HF radio and e-mail on a Paradox, from the mast's lightning-protection wiring as a ready-made antenna groundplane to portable antennas, SailMail/Winlink tradeoffs, non-ham alternatives, the boat's modest baseline electrical load, and practical 12-volt wiring-gauge choices for a low-draw interior.
 * [Onboard entertainment and diversions](onboard-entertainment-and-diversions.md) - What to bring aboard for music, reading, and leisure — battery-powered consumer electronics and reused legacy 12-volt gear weighed against a minimalist safety-gear-only-plus-book-and-harmonica philosophy, and why a compact acoustic instrument beats a full-sized one in so small a cabin.
+* [Registering a home-built Paradox — state hull numbering](registration-and-hull-numbering.md) - How a home-built Paradox gets a state-issued hull identification number in the United States, and the proof-of-build practice that goes with it.

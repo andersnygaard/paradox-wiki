@@ -1,14 +1,14 @@
 ---
 type: Concept
 title: Planktos (Roselt Croeser)
-description: Roselt Croeser's Western Australian Paradox, built 2013–2016 across four locations for about $2500 while he was simultaneously owner-building a house, and converted from the stock standing-lug rig to a junk rig — the archive's only completed, launched, and cruised junk-rig Paradox, shaken down on a passage to Shark Bay.
+description: Roselt Croeser's Western Australian Paradox, built 2013–2016 across four locations for about $2500 while he was simultaneously owner-building a house, and converted from the stock standing-lug rig to a junk rig — the archive's only junk-rig Paradox built by converting the stock lug, and the only one cruised, shaken down on a passage to Shark Bay.
 tags: [paradox, boats, australia, western-australia, roselt-croeser, planktos, junk-rig, shark-bay, build-cost, launch]
 timestamp: 2026-07-20T00:00:00Z
 ---
 
 # Planktos (Roselt Croeser)
 
-**Planktos** is [Roselt Croeser](/people/roselt-croeser.md)'s Paradox, built in **Western Australia** between **early 2013 and the end of 2016** and cruised out of Perth, most notably on a shakedown passage north to **Shark Bay**.[1][2] She is the archive's only documented Paradox **converted to a junk rig and actually sailed** — everywhere else the junk rig is argued as a design proposal without a completed example (see [junk rig](/design/ideas/junk-rig.md)) — and one of the few builds on record from outside the mailing-list era, worked up from the plans alone.
+**Planktos** is [Roselt Croeser](/people/roselt-croeser.md)'s Paradox, built in **Western Australia** between **early 2013 and the end of 2016** and cruised out of Perth, most notably on a shakedown passage north to **Shark Bay**.[1][2] She is the archive's only documented Paradox **converted from the stock lug to a junk rig and sailed** — one of only two junk-rigged Paradoxes built and sailed on record, the other being [Eerik Mee](/people/eerik-mee.md)'s [THU](/boats/thu.md), which carries a purpose-designed junk rig rather than a conversion (see [junk rig](/design/ideas/junk-rig.md)) — and one of the few builds on record from outside the mailing-list era, worked up from the plans alone.
 
 She is also the fullest single statement in the archive of what a **deliberately frugal** Paradox costs and what it is like to live with: the build ran to roughly **$2500** in materials, and the boat carries **no electrical system at all**.[3]
 
@@ -26,7 +26,7 @@ The **overall build cost was approximately $2500**, "mostly wood, epoxy, glass a
 
 Planktos was built to the stock **lug rig with roller furling** and then **changed to a junk rig**.[1] The verdict after cruising her is favourable and specific: the junk rig "works very well" — **easy and very quick to reef and unreef**, with **very good sail twist control**, and **cheap, light-weight fittings**.[4]
 
-This is the one place the archive's long theoretical argument about junk-rigging a Paradox meets a boat that was actually converted and sailed. The objections raised in that discussion — spar weight aloft, the extra line to manage, sheeting a sail that already overhangs the transom, and the risk of moving the centre of effort forward of the hull's centre of lateral resistance — are not addressed point by point in the report, and no detail of how the sheeting or the mast position was resolved is recorded.[1][4] What survives is the outcome rather than the method.
+This is one of only two places the archive's long theoretical argument about junk-rigging a Paradox meets a real built boat, and the only one where the stock lug was **converted**. The objections raised in that discussion — spar weight aloft, the extra line to manage, sheeting a sail that already overhangs the transom, and the risk of moving the centre of effort forward of the hull's centre of lateral resistance — are not addressed point by point in the report, and no detail of how the sheeting or the mast position was resolved is recorded.[1][4] What survives is the outcome rather than the method — for the method, worked through on a purpose-designed junk rig, see [THU](/boats/thu.md).
 
 ## Systems: none
 

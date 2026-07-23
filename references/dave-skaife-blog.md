@@ -31,10 +31,10 @@ The cut was made by subject, not by keyword score: 52 of the kept posts are unta
 The blog splits into a build and five cruising seasons, tagged by WordPress category:
 
 - **The build (2013–14).** A from-scratch Paradox in Hawaii, blogged from a mid-build window-condensation detail through launch — including his electrical system, fender and anchor storage, dual-purpose running lights, a hatch lock, and multipurpose water-storage buckets.
-- **Hawaii (2014).** The first season sailing among the islands — Hilo, Lanai, Molokai, Oahu, Kauai — including reef-damage repair and the tiller-pilot he rated his most valuable piece of gear.
+- **Hawaii (2014).** The first season sailing among the islands — a roughly 415 nm inter-island cruise from Hilo up the chain to Kauai — including reef-damage repair and the tiller-pilot he rated his most valuable piece of gear; recorded as a voyage at [merits/skaife-hawaii-cruise.md](/merits/skaife-hawaii-cruise.md).
 - **The Gulf ICW (2015).** The boat shipped from Hawaii to Texas and sailed on across the Gulf of Mexico's Intracoastal Waterway from Texas to Florida — a long run of daily entries through the Louisiana and Mississippi marshes, the Chandeleur and Ship Islands, and Florida's Big Bend, with a Gulf-trip damage assessment at the end recording what a long passage actually broke.
 - **The Bahamas, twice (2016, 2017).** A Pensacola shakedown and Gulf Stream crossing to Bimini and the Exumas in 2016, then George Town, the Jumentos, and Ragged Island in 2017 — again with a damage-assessment post after the first crossing.
-- **Cuba, and the end (2017–18).** A Cuban season (check-in, Puerto de Vita, Cayo Guillermo, money and internet on the island), a return to Florida through hurricane season and the Everglades, and then the boat offered for sale in Pensacola in 2017 and, per the mirror's summary, sold in 2018 as Dave moved on to overland travel.
+- **Cuba, and the end (2017–18).** A Cuban season (check-in, Puerto de Vita, Cayo Guillermo, money and internet on the island) reached by a 17-hour passage and closed by an engine-free Gulf Stream return — recorded as a voyage at [merits/skaife-cuba-voyage.md](/merits/skaife-cuba-voyage.md) — then a return through hurricane season and the Everglades, and the boat sold in Pensacola in March 2018 as Dave moved on to overland travel.
 
 ## The "comfortable microcruising" essays
 

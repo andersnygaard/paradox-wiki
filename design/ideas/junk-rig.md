@@ -1,14 +1,14 @@
 ---
 type: Concept
 title: Junk rig
-description: Weighs a junk rig as an alternative to the Paradox's stock standing-lug rig — the practical objections raised, worked Hasler/McLeod sail plans, and the one junk-rigged conversion actually built and sailed.
-tags: [paradox, design, variants, junk-rig, rig]
+description: Weighs a junk rig as an alternative to the Paradox's stock standing-lug rig — the practical objections raised, worked Hasler/McLeod sail plans, and the two junk-rigged Paradoxes actually built and sailed: Planktos's stock-lug conversion and Eerik Mee's purpose-designed cambered rig on the scaled-up "THU."
+tags: [paradox, design, variants, junk-rig, rig, planktos, thu]
 timestamp: 2026-07-20T00:00:00Z
 ---
 
 # Junk rig
 
-A junk rig is an alternative to the Paradox's stock standing-lug rig, occasionally discussed as an option for the boat. On the list the question stayed theoretical — sail plans were drawn and argued over, but no conversion was carried through. One was built and cruised outside the list era, and its verdict is recorded at [a junk rig actually built and sailed](#a-junk-rig-actually-built-and-sailed) below.
+A junk rig is an alternative to the Paradox's stock standing-lug rig, occasionally discussed as an option for the boat. On the list the question stayed theoretical — sail plans were drawn and argued over, but no conversion was carried through. **Two** junk-rigged Paradoxes were built and sailed outside the list era — a stock-lug conversion and a purpose-designed cambered rig on a scaled-up hull — and their verdicts are recorded at [junk rigs actually built and sailed](#junk-rigs-actually-built-and-sailed) below.
 
 ## Why the stock rig is judged hard to beat with a Chinese lug
 
@@ -38,18 +38,37 @@ A 10 ft sailing dinghy built with its daggerboard moved forward, to the bow, to 
 
 Separately, Matt Layden's own reasoning for building Paradox's rudder as large as it is was relayed firsthand: sailing a Little Cruiser at Cedar Key and discussing the pros and cons of rudder size directly with Matt Layden, the rudder was placed well aft as part of the boat's lateral-resistance equation, and Matt held the Paradox hull specifically needed the larger rudder for increased lateral resistance.[16] This is a second, independent account of the same rudder-size rationale documented at [rudder and chine experiments — why the rudder was built large, and the trade-offs of its size](/components/rudder.md#why-the-rudder-was-built-large-and-the-trade-offs-of-its-size). The same exchange noted how far aft Matt Layden set the stock sail's own center of effort, cautioning that raising a junk conversion's aspect ratio risks moving the sail's center of effort forward of the hull's center of lateral resistance and inducing weather helm the rig cannot then be adjusted back out of.[16]
 
-## A junk rig actually built and sailed
+## Junk rigs actually built and sailed
 
-Everything above is argument in advance of a boat. One Paradox was in fact **built to the stock lug rig with roller furling and then changed to a junk rig** — a Western Australian build of 2013–2016, cruised on a shakedown passage to Shark Bay and presented to a home-boatbuilding club in April 2021, well outside the list era.[18] It is the only completed, launched, and cruised junk-rig Paradox on record; the full build is at [Planktos](/boats/planktos.md).
+Everything above is argument in advance of a boat. **Two** junk-rigged Paradoxes were in fact built and sailed — both outside the list era, and by two opposite routes. [Planktos](/boats/planktos.md) took the stock lug and **converted** it; [THU](/boats/thu.md) was given a junk rig **designed from scratch** on a scaled-up hull. Between them they turn the page's long theoretical argument into two data points — but only the second records how the balance and sheeting problems were actually handled.
+
+### Planktos: the stock lug converted (outcome, not method)
+
+One Paradox was **built to the stock lug rig with roller furling and then changed to a junk rig** — a Western Australian build of 2013–2016, cruised on a shakedown passage to Shark Bay and presented to a home-boatbuilding club in April 2021.[18] It is the only junk-rig Paradox on record that was a **conversion** of the stock rig, and the only one **cruised**; the full build is at [Planktos](/boats/planktos.md).
 
 The verdict after cruising is favourable and specific: the junk rig performed well overall, proving **easy and quick to reef and unreef**, with **good sail twist control** and **cheap, lightweight fittings**.[18] The reefing speed and the low cost of fittings answer, in practice, two of the qualities the stock rig was defended on above.
 
 The report does **not** settle the objections that dominate the rest of this page. How the sheeting was arranged, whether a bumkin or arch was needed, whether the mast was moved, and how the centre of effort was kept behind the hull's centre of lateral resistance are all unrecorded.[18] The boat's stated limit — **around 20 knots** of wind, beyond which conditions become survival sailing — is given as a whole-boat figure, not attributed to the rig.[18] So the outcome is documented while the method is not: a junk-rigged Paradox works, but this source does not show how the balance and sheeting problems were solved.
 
+### THU: a purpose-designed cambered rig (method, not yet fully solved)
+
+Where Planktos gives the outcome, [Eerik Mee](/people/eerik-mee.md)'s **"[THU](/boats/thu.md)"** — a [20% scaled-up](/design/larger-paradox.md) Paradox built from 2015 and launched in 2017 — records the **method**. Rather than convert the stock lug, Mee designed a **six-panel cambered junk sail** from scratch to **Arne Kverneland**'s Junk Rig Association method, with **8% camber** built into the panels.[19] This directly follows the intuition recorded above — that a junk rig on Paradox needs [built-in camber, not flat panels](#a-daggerboard-forward-clr-experiment-and-why-paradoxs-rudder-was-built-large) — and Mee reached the same conclusion by trial: he rejected a flat-cut sample plan because "The HML is actually flat cut sail with not so good winward performance. It's the AK's camber that improves it."[20]
+
+On the specific objections the rest of this page raises, THU is the first built boat to answer several:
+
+- **Mast position.** The page predicts a junk's extra area forward of the mast would force the mast **aft** for balance. THU went the other way — the mast moved **forward of bulkhead 2**, driven by the taller 6 m spar (Mee wanted more mast below deck and clearance between the transom and the upper sheet).[20] Balance was then fiddly rather than automatic: one tack showed noticeable **lee helm**, which he cured by adding **water ballast forward** and tightening the **tack parrel** to move the centre of effort back.[21]
+- **Sheeting and the transom overhang.** Mee needed **no bumkin or arch**; raising the mast opened ~10° of clearance between the transom and the upper sheet, and he sheeted to the boom directly. But this is exactly where THU is **not** finished — the **boom twisted** too much under sheet, and he moved block positions around without settling it.[21]
+- **Extra line to manage.** Confirmed, and quantified: "We have 5 camcleats in total, because of the junk sail. Most Paradoxes have 2 or 3," the lines led in two levels with a three-sheave deflector on the mast to keep them clear of the lower sail downwind.[21]
+- **Tacking.** The one clear win: THU **tacked without tricks** on her first sail, where a loaded lug Paradox usually needs the sail backed.[22]
+
+So the two boats are complementary. Planktos shows a junk-rigged Paradox **cruises well**; THU shows **how one such rig was actually laid out and balanced** — with camber built in, the mast moved, and the line count higher — while leaving the sheeting-and-twist problem visibly unsolved and windward pointing explicitly unconcluded.[21][22]
+
 ## Where this is covered
 
 - [Rig and sail](/components/rig/index.md) — the stock rig against which a junk-rig alternative is discussed.
-- [Planktos](/boats/planktos.md) — the one Paradox converted to a junk rig and sailed.
+- [Planktos](/boats/planktos.md) — the stock lug converted to a junk rig and cruised.
+- [THU](/boats/thu.md) — a purpose-designed cambered junk rig on a scaled-up hull, the fullest built record of the method.
+- [Larger Paradox](/design/larger-paradox.md) — THU is also the only built example of the 20% scale-up.
 
 # Citations
 
@@ -71,3 +90,7 @@ The report does **not** settle the objections that dominate the rest of this pag
 [16] Archive message page_4353 (ifida / "ifida2000" / Glen C. Maxwell, `paradoxbuilders`, msgnum 4390, 2007-04-18) — "Re: [SPAM] New file uploaded to paradoxbuilders": replying to Perry Phillips's aspect-ratio question, explains Matt Layden uses the rudder as part of the lateral-resistance equation, placing it well aft; recalls building a Little Cruiser and testing it at Cedar Key, where he and Matt discussed the pros and cons of rudder size directly, and Matt held that the Paradox hull needed the larger rudder for increased lateral resistance. Signed "Glen."
 [17] Archive message page_4354 (perrywphillips / "perrywphillips" / Perry Phillips, `paradoxbuilders`, msgnum 4391, 2007-04-18) — "Re: [SPAM] New file uploaded to paradoxbuilders": replying to Glen, recalls building a 10 ft "sparrow" sailing dinghy with the daggerboard moved to the bow to lengthen the CLR and let the mast move forward for a cat rig — the boat tracked dead straight, with the side effect that the forward daggerboard acted as a pivot point and stalled the bow when the rudder was thrown hard over; expects the junk rig's individual panels will need some built-in camber to sail efficiently. Signed "Perry W. Phillips, Monroeville, Alabama."
 [18] ABBA Newsletter, April/May 2021: "Building of the Paradox Micro Cruiser - Planktos" (Amateur Boat Builders' Association, Western Australia) (`source-articles/newsletters/abba-2021-04/index.md`) — records the rig of the Western Australian Paradox "Planktos" as "lug rig with roller furling – changed to junk rig," and assesses it as built: "Junk rig works very well – easy and very quick reef / unreef, very good sail twist control, cheap light-weight fittings." Gives the boat's limits as "around 20 knots, beyond that it is survival." No detail of sheeting arrangement, mast position, or centre-of-effort balance is given. Full source description at [ABBA Newsletter](/references/abba-newsletter.md); full build at [Planktos](/boats/planktos.md).
+[19] Eerik Mee's blog — "Mast and sail" (`https://paradoxbuild.blogspot.com/p/blog-page_13.html`), byline "Eerik", entry 10 May 2016 — a six-panel cambered junk sail, four templates (three lower panels alike), 8% camber, built to Arne Kverneland's method with help from the Junk Rig Association; Odyssey sailcloth, mast-side batten pockets in PVC truck-tent cloth, 30×2 mm aluminium battens/boom and 50×2 mm yard. Full source at [references/eerik-mee-blog.md](/references/eerik-mee-blog.md); full boat at [THU](/boats/thu.md). Local mirror: `source-web/eerik-mee/Building a chinese junk rigged Paradox sailboat2.pdf`.
+[20] Eerik Mee's blog — "Mast and sail," comment reply to "Terry" (`https://paradoxbuild.blogspot.com/p/blog-page_13.html`), byline "Eerik", 16 Nov 2017 — mast moved "from aft of bulkhead 2 to forward of bulkhead 2, as close as possible," to carry the taller 6 m spar with more mast below deck and ~10° clearance between transom and upper sheet; "I first tried to pick one of the AK sample sailplans, but I didn't like the looks of the boat; so I modified it towards Reddish type at roach. The HML is actually flat cut sail with not so good winward performance. It's the AK's camber that improves it." Local mirror: `source-web/eerik-mee/Building a chinese junk rigged Paradox sailboat2.pdf`.
+[21] Eerik Mee's blog — "Recent progress" and "The launch" (`https://paradoxbuild.blogspot.com/p/blog-page_5.html`; `.../the-launch.html`), byline "Eerik", 5 Jan 2018 → 25 Aug 2019 — "We have 5 camcleats in total, because of the junk sail. Most Paradoxes have 2 or 3," lines in two levels with a three-sheave mast deflector; boom twist worked on by changing block positions without fully resolving it; "quite a bit of lee helm on one tack," corrected by forward water ballast and tightening the tack parrel to move the CE back; "It is not yet possible to make any conclusions on her pointing ability." Local mirrors: `source-web/eerik-mee/Building a chinese junk rigged Paradox sailboat6.pdf`, `…sailboat5.pdf`.
+[22] Eerik Mee's blog — "The launch" (`https://paradoxbuild.blogspot.com/p/the-launch.html`), byline "Eerik", entry 5 Jul 2017 — on first trials the tacking tricks other Paradox sailors use gave "No success," but tacking "without any tricks … was a success. As were all next tackings." Local mirror: `source-web/eerik-mee/Building a chinese junk rigged Paradox sailboat5.pdf`.

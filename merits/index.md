@@ -31,7 +31,8 @@ None of that coverage is re-described here — see each reference page above for
 * [The Bolducs' Bahamas cruising, and the 2013 engine-free crossing](bahamas-and-exumas.md) - David and Mindy Bolduc's decades-long Bahamas cruising log, capped by a 2013 solo crossing sailed entirely without an outboard.
 * [Small Fry's Cape Leeuwin rounding and Shark Bay cruising](cape-leeuwin.md) - Geoff Davis's Western Australian "Small Fry" rounded Cape Leeuwin and cruised the ultra-shoal waters of Shark Bay, the Abrolhos Islands, and Jurien Bay.
 * [Planktos's junk-rigged Shark Bay shakedown cruise](planktos-shark-bay.md) - Roselt Croeser's "Planktos" — the archive's only completed, launched, and cruised junk-rig Paradox conversion — made her shakedown cruise from Perth to Shark Bay.
-* A full first-person cruising blog by **Dave Skaife** — four seasons (2014–2018) sailing an unnamed Paradox, first in Hawaii, then shipped to Texas and sailed on across the Gulf ICW, twice through the Bahamas, and on to Cuba under sail and oar alone — is mirrored at `source-web/daveskaife/` but not yet ingested into the bundle: no `references/` page or boat page exists for it yet, so no details are stated here beyond what the mirror's own README claims. It is flagged as a known future entry for this page once ingested.
+* [Dave Skaife's Hawaiian island cruise](skaife-hawaii-cruise.md) - Dave Skaife's first season with his newly built, motorless Paradox was a roughly 415-nautical-mile inter-island cruise of the main Hawaiian islands in 2014 — Hilo up the chain by way of Lanai, Molokai, and Oahu to Kauai — with two four-day unbroken passages.
+* [Dave Skaife's voyage to Cuba](skaife-cuba-voyage.md) - Dave Skaife sailed his fourteen-foot motorless Paradox to Cuba in 2017 — a 17-hour passage from the southern Bahamas to Puerto de Vita, a cruise of the north coast to Cayo Guillermo and inland Morón, and an engine-free return across the Gulf Stream to Florida.
 
 ## Capabilities
 

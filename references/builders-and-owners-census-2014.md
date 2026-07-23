@@ -34,8 +34,9 @@ Several entries independently confirm or add to facts already established from o
 - **A full name for "Steve (Kansas City)."** "Steve Henderson | Telestai | Per plan | US Kansas City | Building slowly" supplies both the surname and the boat name for the bundle's [Steve (Kansas City)](/people/steve-kc.md) page, which otherwise carries no boat name and identifies him only by first name and city from his 2004 mailing-list posts.[1]
 - **"The Edge" as an accepted name, not just an inferred one.** [Don Elliott's Paradox](/boats/elliott-paradox.md) page notes its name was "never confirmed by Don Elliott himself but inferred from launch photographs" in 2003; the census independently uses "The Edge" as the boat's settled name in 2014, still without Don Elliott's own confirmation but a second, later, independent use of the same name.[1]
 - **Two builders' deaths.** The table's headline update — Don Elliott and Steve Yahn "have since died" — corroborates [people/don-elliott.md](/people/don-elliott.md#after-his-death), which already records his death independently via a 2014 microcruising.com post.[1] Steve Yahn's reported death is not otherwise attested anywhere in this bundle; it is recorded here only as this single secondhand mention, not as independently confirmed fact.
-- **Two unnamed boats stay unnamed.** Jimmy Lu's and Kjell Karlsson's table entries both carry a bare "?" for boat name, matching the bundle's own findings that [Jimmy Lu's Taiwan-built Paradox](/boats/taiwan-paradox.md) has no recorded name and that [Kjell Karlsson's BRIS-built Paradox](/boats/bris-paradox.md) carries only the informal nickname "Paraplastic," not a formal name.[1]
+- **One boat's "?" was resolved by the archive itself, after the fact.** Jimmy Lu's table entry carries a bare "?" for boat name, matching the state of the record as of this census's 2006 base layer — but a later archive message (August 2008, after this census's original compilation) names her "[Auspice](/boats/auspice.md)," a name that never otherwise reached the list itself. [Kjell Karlsson's BRIS-built Paradox](/boats/bris-paradox.md) genuinely stays unnamed, carrying only the informal nickname "Paraplastic."[1]
 - **A name and an unresolved location discrepancy for Mark Waters.** The table gives his boat a name for the first time — "Raffles" — not recorded anywhere else in the bundle, where [Mark Waters](/people/mark-waters.md)'s Paradox was still unnamed as of the 2006 mailing-list record cited on his page.[1] The same table entry places him in "Oregon, Portland," where every other bundle source places him in Los Angeles, California; this is left unresolved here as a discrepancy rather than corrected, since nothing in the archive confirms whether it reflects a later move or simply an error carried over in the table.
+- **A name supplied for Rodney Cannon's Paradox.** The table gives "Rod Cannon" of Venice, CA a boat name — **"Wizard Spawn"** — nowhere recorded in the archive's own coverage of his August 2008 build start; see [people/rodney-cannon.md](/people/rodney-cannon.md) and [boats/wizard-spawn.md](/boats/wizard-spawn.md), both of which depend on this table entry as their only source for the boat's name.[1]
 
 ## A companion census: "UK Matt Layden Paradoxes"
 
@@ -64,7 +65,7 @@ Rendered as given, including boats and builders with no page yet in this bundle:
 | [Irene May](/boats/irene-may.md) | [Ian Lang](/people/ian-lang.md) | Per plan | UK, London | In build |
 | [Jill Baby](/boats/jill.md) | [Jack Gardiner](/people/jack-gardiner.md) | Stitch & glue | US, Providence | Well tested |
 | ? | [Jeff Forrest](/people/jeff-forrest.md) | ? | US | ? |
-| [Jimmy Lu's Paradox](/boats/taiwan-paradox.md) | [Jimmy Lu](/people/jimmy-lu.md) | Per plan | Taiwan, Taipei | In build |
+| [Auspice](/boats/auspice.md) | [Jimmy Lu](/people/jimmy-lu.md) | Per plan | Taiwan, Taipei | In build |
 | [The "BRIS Paradox"](/boats/bris-paradox.md) | [Kjell Karlsson](/people/kjell-karlsson.md) | Bris method | Sweden | Tested |
 | Raffles | [Mark Waters](/people/mark-waters.md) | Per plan | Oregon, Portland | Thoroughly tested |
 | [Original Paradox](/boats/original-paradox.md) | [Matt Layden](/matt-layden/biography.md) | Per plan | US | Extremely tested |
@@ -72,7 +73,7 @@ Rendered as given, including boats and builders with no page yet in this bundle:
 | [Johanna](/boats/johanna.md) | [Pete Martin](/people/pete-martin.md) | Per plan | UK, Cheltenham | In build |
 | Fillou 11 | Rejean Levesque | Per plan | Canada, Montreal | In build |
 | ? | Richard Childs | ? | Australia | In build |
-| Wizard Spawn | Rod Cannon | Per plan | USA, Venice CA | In build |
+| [Wizard Spawn](/boats/wizard-spawn.md) | [Rod Cannon](/people/rodney-cannon.md) | Per plan | USA, Venice CA | In build |
 | RHX11 | Ronald de Hon | Per plan | Holland, Amsterdam | Unfinished, for sale |
 | Telestai | [Steve Henderson](/people/steve-kc.md) | Per plan | US, Kansas City | Building slowly |
 | [Ironsides](/boats/ironsides.md) | [Steve Yahn](/people/stephen-yahn.md) | Modified | US, Port Orchard | In build |
