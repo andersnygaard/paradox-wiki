@@ -12,9 +12,7 @@ The Texas 200 coastal raid and a Port Townsend Wooden Boat Show appearance stand
 
 ## The Texas 200, and a Port Townsend Wooden Boat Show showing
 
-The **Texas 200** is a long-distance small-boat coastal raid along the Texas coast, used by owners as evidence of a boat's real-world cruising ability. Chris Curtis's Idaho-based Paradox, built by Lezlie Hensen, completed the Texas 200 and has been shown several times at the **Port Townsend Wooden Boat Show** — "a great boat in almost every way." Full record at [boats/curtis-paradox.md](/boats/curtis-paradox.md).[1]
-
-Sean Mulligan's Arizona-based Paradox "Scout" — built in Texas by the same Lezlie Henson, under the working name "Tardis" — ran the Texas 200 in 2014, towing a fellow competitor's boat, "Crippled Duck," through 20–25 kt wind along the way. Full record at [boats/scout.md](/boats/scout.md#heavy-wind-sailing-and-the-2014-texas-200).[2]
+The **Texas 200** is a long-distance small-boat coastal raid along the Texas coast, used by owners as evidence of a boat's real-world cruising ability. The [Paradox](/paradox.md) that [Lezlie Henson](/people/lezlie-henson.md) built in Texas as "Tardis" — renamed **"Scout"** by Sean Mulligan and later owned by **[Chris Curtis](/boats/curtis-paradox.md)** of Sandpoint, Idaho — ran the Texas 200 in **2014**, under Mulligan, towing a fellow competitor's boat, "Crippled Duck," through 20–25 kt wind along the way.[2] The same boat has been **shown several times at the Port Townsend Wooden Boat Show** — "a great boat in almost every way."[1] Full record at [boats/scout.md](/boats/scout.md#heavy-wind-sailing-and-the-2014-texas-200), with Chris Curtis's ownership at [boats/curtis-paradox.md](/boats/curtis-paradox.md).
 
 # Citations
 
