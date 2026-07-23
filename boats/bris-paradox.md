@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: The "BRIS Paradox" (Kjell Karlsson)
-description: A Swedish two-person Paradox variant built in Sven Yrvind's "BRIS" foam-sandwich composite method rather than plywood — a beamier, taller hull with a stainless-steel-sheathed bottom for ballast and rock protection, no water tank, and a carbon-fibre rig, built with the blessing of both Sven Yrvind and Matt Layden. Builder Kjell Karlsson also translated Yrvind's own book chapter on Paradox into English — see [Sven Yrvind's book](/references/yrvind-book.md) for that saga.
+description: A Swedish two-person Paradox variant built by Kjell Karlsson in Sven Yrvind's "BRIS" foam-sandwich composite method rather than plywood — a beamier, taller hull with a stainless-steel-sheathed bottom for ballast and rock protection, no water tank, and a carbon-fibre rig, built with the blessing of both Sven Yrvind and Matt Layden; now owned and sailed year-round on Sweden's west coast by Johan Bloom as "Tetris." Karlsson also translated Yrvind's own book chapter on Paradox into English — see [Sven Yrvind's book](/references/yrvind-book.md) for that saga.
 tags: [paradox, boats, variant, sweden, bris, yrvind, composite, two-person, kjell-karlsson, william-longyard, nels, david-beard]
 timestamp: 2026-07-07T00:00:00Z
 ---
@@ -167,6 +167,10 @@ A short sail that same weekend, in far gustier wind than expected, went badly: w
 
 More than two years after Kjell's build became a fixture on the list, a newcomer unfamiliar with the nickname asked directly what "the paraplastic coating" was and how it differed from ordinary fiberglass and epoxy resin. The answer: **"ParaPlastic" is not a coating at all**, but the boat's own construction method — foam sheets finished in glass cloth and **polyester** resin rather than plywood, with very little wood anywhere in the hull — matching the BRIS/Divinycell foam-sandwich build documented above.[58][59]
 
+## Later ownership: Johan Bloom's "Tetris"
+
+The BRIS Paradox is **now owned and sailed by [Johan Bloom](/people/johan-bloom.md)** on Sweden's west coast (Bohuslän), under the name **"Tetris"** — confirmed by the project owner as the same hull Kjell Karlsson built. Bloom sails her **year-round**, and other members recognise her on sight by Kjell's old nickname, **"Paraplastic."**[63] Bloom's own second-hand account of the construction differs from Kjell's build record above in two details — he describes the bottom as bronze- rather than stainless-sheathed, and the inner skin as carbon fibre rather than glass — the natural imprecision of an owner describing a boat he did not build; the detailed construction record on this page is **Kjell's own**. The ownership chain is **Kjell Karlsson (builder, Stockholm archipelago) → Johan Bloom (Bohuslän, west coast, sailing as "Tetris")**, and Bloom's ownership and year-round west-coast sailing are drawn out at [Johan Bloom](/people/johan-bloom.md).
+
 ## See also
 
 A second Swedish builder launched a plywood-built Paradox, "[Ladikan](/boats/ladikan.md)," in July 2006.
@@ -235,3 +239,4 @@ A second Swedish builder launched a plywood-built Paradox, "[Ladikan](/boats/lad
 [60] Archive message page_1573 (Yahoo Groups file-upload notification, `paradoxbuilders`, msgnum 1593, 2003-12-28) — file "/Bris 5.4 Study Plans/rowing_boat.jpg" uploaded by recree8 (Nels).
 [61] Archive message page_1610 (arvent / "Nels", `paradoxbuilders`, msgnum 1632, 2003-12-29) — "Bris 5.4 Mast Location": questions the Bris 5.4 study plans' mast placement (far aft, no visible backstay) and daggerboard placement (close to the mast), combined with the rudder also acting as a lateral plane; "Seems weird. But somehow I suspect it works!"; separately questions the daggerboard's vulnerability if struck underwater.
 [62] Archive message page_1615 (LJGeib / "Larry", `paradoxbuilders`, msgnum 1637, 2003-12-29) — "Re: Bris 5.4 Mast Location": cites Bolger designs placing the mast near the aft end with a jib-like sail running forward; skeptical of the method generally, expecting the daggerboard/rudder to come out of the water at high heel angles, particularly on a double-ended boat, though it might not matter on a small, low-powered, narrow boat; notes Paradox's own large rudder already contributes meaningfully to her lateral plane; quotes Nels's original question in full.
+[63] Paradox Sailboat Facebook group — Anders Nygaard, comment on Robert Weir's post, 2024-11-12 (`https://www.facebook.com/groups/833651060307712/posts/2394760410863428/`) — "Yes, Kjell Karlsson built a Paradox called Paraplastic with help from Sven Yrvind," linking to Johan Bloom's 2020 introduction of his foam-cored "Paraplastic"/"Tetris" (key `1251087835230697`). The shared name and 30/50 mm Divinycell scantlings identify Bloom's boat as this hull under a later owner — **confirmed by the project owner** as the same hull. Local mirror: `source-facebook/paradox-group/posts.jsonl` (key `2394760410863428`).
