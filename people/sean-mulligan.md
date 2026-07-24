@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # Sean Mulligan
 
-**Sean Mulligan** was the owner of the Paradox **[Scout](/boats/scout.md)** (originally built and named **"Tardis"** by [Lezlie Henson](/people/lezlie-henson.md)), sailed out of **Lake Havasu, Arizona**. He founded the **Havasu Pocket Cruiser's Convention** and, with his wife Jo, also owns and sails a trailer sailer named **"Dauntless."** His purchase of Tardis, his completion of her, her launch as "Scout" on 12 September 2013, and her subsequent launch routine, heavy-wind sailing, and 2014 Texas 200 cruise are recorded in full on [Scout](/boats/scout.md); he later sold her on to **[Chris Curtis](/boats/curtis-paradox.md)** of Sandpoint, Idaho.
+**Sean Mulligan** was the owner of the Paradox **[Scout](/boats/scout.md)** (originally built and named **"Tardis"** by [Lezlie Henson](/people/lezlie-henson.md)), sailed out of **Lake Havasu, Arizona**. He founded the **Havasu Pocket Cruiser's Convention** and, with his wife Jo, also owns and sails a trailer sailer named **"Dauntless."** His purchase of Tardis, his completion of her, her launch as "Scout" on 12 September 2013, and her subsequent launch routine, heavy-wind sailing, and 2014 Texas 200 cruise are recorded in full on [Scout](/boats/scout.md); he later sold her on to **[Chris Curtis](/people/chris-curtis.md)** of Sandpoint, Idaho.
 
 ## Background
 

@@ -10,7 +10,7 @@ timestamp: 2026-07-02T00:00:00Z
 
 **Chris Becker** was a [Paradox](/paradox.md) builder in **Brisbane, Queensland**, on Australia's east coast, who built his boat **"Walden"** from scratch, using **Pacific Maple marine ply**, and was a 6 ft, 210 lb builder for whom cabin fit was an early concern. A military/reserve commitment ("on exercise") repeatedly competed with his build time; the boat's fate beyond the build stages recorded here is unrecorded.
 
-Note: distinct from [Chris Curtis](/boats/curtis-paradox.md), a later owner.
+Note: distinct from [Chris Curtis](/people/chris-curtis.md), a later owner.
 
 ## Build of "Walden"
 
