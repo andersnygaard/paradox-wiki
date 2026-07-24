@@ -53,7 +53,7 @@ Comparative build-time figures partially reconcile the existing discrepancy in [
 
 - **Matt Layden** himself took around **3½ months of very full-time work** to complete his original Paradox — "a fast and experienced builder."
 - A typical part-time builder should expect **at least three to four times longer** than Matt's figure.
-- The [Elliott Paradox](/boats/elliott-paradox.md) took about **a year of part-time labor** to finish.
+- [The Edge](/boats/edge.md) took about **a year of part-time labor** to finish.
 - "[Zoë](/boats/zoe.md)" took roughly **500 hours over about two years** (see also [build effort and workspace](/construction/build-effort.md)).
 - The single-handed "[Little Jim](/boats/little-jim.md)" build is estimated at about **18 months**, consistent with the roughly 20 months the archive records between starting in August 2001 and launching at Easter 2003.
 - "[Enuf](/boats/enuf.md)" is a slower-paced, non-continuous build: starting in September 2004 and, some 16 months on, with only the cabin left to finish, on a build log interrupted more than once by breaks of several months.

@@ -1,14 +1,14 @@
 ---
 type: Boat
-title: Don Elliott's Paradox
-description: Don Elliott's heavily built Paradox, one of the first two Paradoxes known to have sailed, with a distinctive lead-ballast installation technique.
-tags: [paradox, boat, don-elliott, build]
+title: The Edge (Don Elliott)
+description: Don Elliott's heavily built Paradox "The Edge", one of the first two Paradoxes known to have sailed, with a distinctive lead-ballast installation technique.
+tags: [paradox, boat, the-edge, don-elliott, build]
 timestamp: 2026-07-02T00:00:00Z
 ---
 
-# Don Elliott's Paradox
+# The Edge
 
-The [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md), known as **"The Edge"** — a name never confirmed by Don Elliott himself but inferred from launch photographs on a UK builder's website (URL ending `edge.htm`), a fitting name for how a Paradox can feel beating to windward in a rough sea or surfing downwind on large breakers. The boat remains filed under its builder/owner rather than this inferred name.
+**"The Edge"** is the [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md) — one of the first two Paradoxes known to have sailed, heavily built to Matt Layden's plans, and the source of the archive's most detailed lead-ballast installation technique.
 
 # Record
 
@@ -16,6 +16,10 @@ The [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott
 - The boat is **heavily built**, to Matt's plans. Don Elliott became a primary technical resource on the list, authoring the ["Building the Paradox" articles](/references/building-the-paradox-articles.md) (including a coach-roof jig) and advocating building strictly to plan (see [fastening and gluing](/construction/fastening-and-gluing.md)).
 - Its **lead ballast** is installed in hardwood blocks (not oak) epoxy-bonded to the hull and tapped for threaded fastenings after bonding; forward trim lead counterbalances the battery, strapped down with nylon straps; all lead is sealed in plastic with rubber padding. See [weight and ballast](/design/weight-and-ballast.md) for the full technique.
 - Don Elliott is believed, though not confirmed, to live in Wisconsin — the only location given anywhere in the archive for him. See [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md).
+
+# The name
+
+The boat went formally unnamed on the list for roughly two years, referred to only as "Elliott's Paradox." In November 2003 a UK builder posted launch photographs of her on his own website at a URL ending `edge.htm`, from which the name **"The Edge"** was inferred; the same builder then confirmed the name was correct, remarking that it is "quite appropriate" for how a Paradox can feel in a real rough sea, beating to windward or surfing downwind on large breakers. Don Elliott himself is never recorded confirming it. The name was still in independent use as the boat's settled name eleven years later, in the [2014 builders' and owners' census](/references/builders-and-owners-census-2014.md).
 
 # Citations
 
@@ -27,3 +31,4 @@ The [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott
 [6] [Paradox builders mailing list](/references/mailing-list.md) message 1276 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, 2003-11-14) — "Re: Need more pictures and progress reports": points to `http://www.btinternet.com/~w.serjeant/paradox/edge.htm` for photos of Don's boat, "with a promise of more to come."
 [7] [Paradox builders mailing list](/references/mailing-list.md) message 1278 (ifida / Glen Maxwell, `paradoxbuilders`, 2003-11-14) — "Re: Need more pictures and progress reports": the photos were taken at Don's launch; infers from the URL that the boat's name is "The Edge."
 [8] [Paradox builders mailing list](/references/mailing-list.md) message 1284 (w.serjeant / "barnacleid" / Bill Serjeant, `paradoxbuilders`, 2003-11-14) — "Re: Need more pictures and progress reports": confirms "The Edge" is correct; remarks it can feel that way in a real rough sea, beating to windward or surfing downwind on large breakers — "seems quite appropriate."
+[9] [Builders' and owners' census (2014)](/references/builders-and-owners-census-2014.md) — table entry "The Edge | Don Elliott | Per plan | US, Wisconsin | Thoroughly tested," using the name as settled eleven years after it was inferred.

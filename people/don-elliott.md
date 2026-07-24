@@ -16,7 +16,7 @@ Don's **"Building the Paradox"** series ran as a **sixteen-installment feature**
 
 Beyond the technical articles, Don wrote a two-part essay, **"A Story, a True One,"** analyzing why Matt Layden's Paradox — the smallest, stubbiest, and only fully enclosed boat in the fleet — beat lighter, faster kayaks, dinghies, and multihulls over the 304-mile 2003 Everglades Challenge, crediting a weatherproof, sail-from-within cabin (letting its skipper rest and hold a course in any weather without exposure to cold, spray, or rain) as the decisive advantage over open, human- or wind-powered competitors, and concluding that the design's unconventional concept had been proven sound. He allowed a fellow builder to republish the essay years later on condition it not be edited.[22]
 
-His own boat went formally unnamed on the list for roughly two years, despite references to "Elliott's Paradox," until a UK builder's website photos led to the inferred name **The Edge** — see [Don Elliott's Paradox](/boats/elliott-paradox.md#record) for the full record.
+His own boat went formally unnamed on the list for roughly two years, despite references to "Elliott's Paradox," until a UK builder's website photos led to the name **The Edge** — see [The Edge](/boats/edge.md#the-name) for the full record.
 
 ## Contributions and technical positions
 
