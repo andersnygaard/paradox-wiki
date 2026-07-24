@@ -17,6 +17,6 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Citations
 
-[1] Archive message page_303 (Harald Lillevang, `paradoxbuilders`, 2002-01-28) — "Don's articles": found Paradox sketches online about half a year earlier, couldn't stop thinking about the boat; found the group and decided to go ahead with his own build; hopes for a Paradox cruising in Scandinavian waters someday.
-[2] Archive message page_317 (Harald Lillevang, `paradoxbuilders`, 2002-02-04) — "Re: Don's articles": thanks Russ for the price/ordering information.
-[3] Archive message page_839 (harald.lillevang / Harald Lillevang, `paradoxbuilders`, msgnum 853, 2003-02-03) — "Re: Big Cruiser": points to "interesting sketches" in the files section of the microcruising Yahoo group.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 303 (Harald Lillevang, `paradoxbuilders`, 2002-01-28) — "Don's articles": found Paradox sketches online about half a year earlier, couldn't stop thinking about the boat; found the group and decided to go ahead with his own build; hopes for a Paradox cruising in Scandinavian waters someday.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 317 (Harald Lillevang, `paradoxbuilders`, 2002-02-04) — "Re: Don's articles": thanks Russ for the price/ordering information.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 839 (harald.lillevang / Harald Lillevang, `paradoxbuilders`, 2003-02-03) — "Re: Big Cruiser": points to "interesting sketches" in the files section of the microcruising Yahoo group.

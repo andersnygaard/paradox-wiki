@@ -16,5 +16,5 @@ The **Texas 200** is a long-distance small-boat coastal raid along the Texas coa
 
 # Citations
 
-[1] Archive message page_004 (Chris Curtis, groups.io, 2019-11-12) — boat built by Lezlie Hensen in Texas, has done the Texas 200, shown at the Port Townsend Wooden Boat Show; "a great boat in almost every way."
-[2] Bill's Log — "Paradox Sailboat Videos" (`bills-log.blogspot.com/2014/09/paradox-sailboat-videos.html`), Bill Serjeant, 2014-09-06 — video links "2014 TX 200 Paradox Scout," "Texas 200 '14 Day 4 on Scout," and "Texas 200 -Paradox 'Scout' towing Rick Landreville's Crippled Duck in 20-25knots."
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 4 (Chris Curtis, groups.io, 2019-11-12) — boat built by Lezlie Hensen in Texas, has done the Texas 200, shown at the Port Townsend Wooden Boat Show; "a great boat in almost every way."
+[2] [Bill's Log](/references/bills-log.md) — "Paradox Sailboat Videos," Bill Serjeant, 2014-09-06 — video links "2014 TX 200 Paradox Scout," "Texas 200 '14 Day 4 on Scout," and "Texas 200 -Paradox 'Scout' towing Rick Landreville's Crippled Duck in 20-25knots."

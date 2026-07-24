@@ -2,7 +2,7 @@
 type: Reference
 title: Little Jim website — Alastair Law's "Building a Paradox" build-and-cruise site
 url: http://www.little.jim.freeuk.com/little_jim/little_jim.htm
-description: Alastair Law's personal website documenting the construction (Aug 2001 – Apr 2003) and cruising of "Little Jim," the first Paradox built in the UK — a photo-and-text primary source behind much of the boat's page, now mirrored locally under source-web/little-jim/.
+description: Alastair Law's personal website documenting the construction (Aug 2001 – Apr 2003) and cruising of "Little Jim," the first Paradox built in the UK — a photo-and-text primary source behind much of the boat's page.
 tags: [paradox, reference, website, little-jim, alastair, uk, build, cruise]
 timestamp: 2026-07-23T12:00:00Z
 ---
@@ -33,10 +33,10 @@ The site is a frameset: the bare address loads a navigation pane plus a main vie
 
 ## Provenance and citing this source
 
-The full site — 24 content pages, 107 photographs (full-size originals), and the 2007 cruise's Google Earth track — is mirrored locally under **`source-web/little-jim/`** (`html/` raw pages, `md/` clean transcriptions, `images/`), so citations remain verifiable even if the site goes down. Cite in the form:
+The full site runs to 24 content pages, 107 photographs (full-size originals), and the 2007 cruise's Google Earth track. Every page resolves at `http://www.little.jim.freeuk.com/little_jim/<page>.htm`, where `<page>` is one of: `introduction`, `steaming`, `bulkheads`, `trialassy`, `assembly`, `internals`, `insulation`, `deck`, `window`, `cabin`, `launch`, `afloat`, `trailer`, `inside`, `outboard`, `sailing`, `stability`, `trip1`–`trip5`, and `seafair2012`. Cite in the form:
 
-> Little Jim website — "<page> / <heading>" (`http://www.little.jim.freeuk.com/little_jim/<page>.htm`), Alastair Law — [detail]. Local mirror: `source-web/little-jim/md/<page>.md`.
+> [Little Jim website](/references/little-jim-website.md) — "<page> / <heading>," Alastair Law — [detail].
 
 # Citations
 
-[1] Little Jim website (`http://www.little.jim.freeuk.com/little_jim/little_jim.htm`), Alastair Law — "Building a Paradox," a photo-and-text record of building and cruising "Little Jim"; introduction page gives the build dates (cutting wood August 2001, launched April 2003), a materials cost of about £2,500, and the design specification table. Local mirror: `source-web/little-jim/` (see `README.md`).
+[1] [Little Jim website](/references/little-jim-website.md), Alastair Law — "Building a Paradox," a photo-and-text record of building and cruising "Little Jim"; introduction page gives the build dates (cutting wood August 2001, launched April 2003), a materials cost of about £2,500, and the design specification table.

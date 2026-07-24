@@ -66,4 +66,4 @@ The folding dinghy stows flat aboard the micro-cruiser and unfolds on demand for
 
 # Citations
 
-[1] microcruising.com — "Micro Folding Dinghy" (http://www.microcruising.com/ding1.htm), David & Mindy Bolduc — "The Micro Folding Dinghy is based on one of Matt Layden's early folding dinghies," incorporating some of Matt's ideas plus the authors' own; construction detail: "the 2" wide cloth hinges made from heavy duty #4 canvas which are reinforced by a series of interlocking finger joints/tabs every 6 inches. At the stern the tabs are elongated to form skegs."
+[1] [microcruising.com](/references/microcruising-website.md) — "Micro Folding Dinghy," David & Mindy Bolduc — "The Micro Folding Dinghy is based on one of Matt Layden's early folding dinghies," incorporating some of Matt's ideas plus the authors' own; construction detail: "the 2" wide cloth hinges made from heavy duty #4 canvas which are reinforced by a series of interlocking finger joints/tabs every 6 inches. At the stern the tabs are elongated to form skegs."

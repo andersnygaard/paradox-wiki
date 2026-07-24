@@ -16,5 +16,5 @@ Bill Serjeant's "Faith" made a nearly two-month, roughly 800-mile cruise from th
 
 # Citations
 
-[1] Bill's Log — the Scilly Isles cruise posts, cited in full at [boats/faith.md](/boats/faith.md#citations) — the Tresco crossing, the New Grimsby gale, and the Fowey-to-Plymouth tow.
-[2] Messing About In Boats, vol. 27 no. 3 (July 2009), "With Great Britain's Dinghy Cruisers: Faith's Cruise," Bill Serjeant (p. 18 ff.) — abridged final part of an 86-page cruise account, River Crouch to the Scillies and back to Plymouth, "initially solo and ultimately with Alistair Law in Little Jim," estimated at 500 sea miles.
+[1] [Bill's Log](/references/bills-log.md) — the Scilly Isles cruise posts, cited in full at [boats/faith.md](/boats/faith.md#citations) — the Tresco crossing, the New Grimsby gale, and the Fowey-to-Plymouth tow.
+[2] [Messing About In Boats](/references/messing-about-in-boats.md), vol. 27 no. 3 (July 2009), "With Great Britain's Dinghy Cruisers: Faith's Cruise," Bill Serjeant (p. 18 ff.) — abridged final part of an 86-page cruise account, River Crouch to the Scillies and back to Plymouth, "initially solo and ultimately with Alistair Law in Little Jim," estimated at 500 sea miles.

@@ -14,23 +14,21 @@ A bare link to `www.yrvind.com` was twice passed along for photos of the boats a
 
 ## Provenance and dating
 
-Unlike the effectively-frozen [microcruising.com](/references/microcruising-website.md), yrvind.com is a **live, actively-updated blog** — new boat projects and essays continued to be posted well beyond the pages cited here. The three pages mirrored for this bundle span a wide date range: a **2008** essay and photo gallery on Paradox and Enigma, a **2008** post on Matt's chine-runner build, and a **2021** post on near-vertical ballasted runners. Because the live site may change, each cited page was **retrieved and mirrored locally on 2026-07-04** for reproducible citation.
+Unlike the effectively-frozen [microcruising.com](/references/microcruising-website.md), yrvind.com is a **live, actively-updated blog** — new boat projects and essays continued to be posted well beyond the pages cited here. The three pages cited for this bundle span a wide date range: a **2008** essay and photo gallery on Paradox and Enigma, a **2008** post on Matt's chine-runner build, and a **2021** post on near-vertical ballasted runners.
 
-## What is mirrored
+## The three pages cited
 
-Three pages and all their content images are stored under `source-web/yrvind/` (**101 images, ~27 MB**), with image references rewritten to the local `source-web/yrvind/images/` copies so each page renders offline:
-
-- **"The near-vertical ballasted chinerunners"** (2021) — `the-near-vertical-ballasted-chinerunners.html`: a deflector hypothesis and the seven reasons behind the ballasted, near-vertical runners of the YRVIND ½.
-- **"Matt Laydens chinerunners based on Swamp Thing, Paradox & Enigma, etc."** (2008) — `matt-laydens-chinerunners.html`: Swamp Thing as the first chine-runner boat, "the most important innovation for small boats during the 20th century," photos of Matt's Paradox and Enigma runners, and a composite build method.
-- **"Paradox & Enigma"** (2008) — `enigma.html`: a long essay on shallow-draft cruising, voyaging history, Matt's boats and their dimensions, the 1997 month sailing Paradox, and the "greatest innovation of the century" verdict, with an extensive Enigma photo gallery.
+- **"The near-vertical ballasted chinerunners"** (2021) — `https://www.yrvind.com/the-near-verticalballasted-chinerunners/`: a deflector hypothesis and the seven reasons behind the ballasted, near-vertical runners of the YRVIND ½.
+- **"Matt Laydens chinerunners based on Swamp Thing, Paradox & Enigma, etc."** (2008) — `https://www.yrvind.com/matt-laydens-chinerunners-based-on-swamp-thing-paradox-enigma-etc/`: Swamp Thing as the first chine-runner boat, "the most important innovation for small boats during the 20th century," photos of Matt's Paradox and Enigma runners, and a composite build method.
+- **"Paradox & Enigma"** (2008) — `https://www.yrvind.com/videophoto/outher-boats/enigma/`: a long essay on shallow-draft cruising, voyaging history, Matt's boats and their dimensions, the 1997 month sailing Paradox, and the "greatest innovation of the century" verdict, with an extensive Enigma photo gallery.
 
 ## Citing this source
 
 Pages are cited in the form:
 
-> yrvind.com — "Page title" (`https://www.yrvind.com/PAGE/`), Sven Yrvind — [detail], mirrored at `source-web/yrvind/FILE.html`.
+> [yrvind.com](/references/yrvind-website.md) — "Page title," Sven Yrvind — [detail].
 
 # Citations
 
-[1] yrvind.com — site retrieval and local mirror (3 HTML pages + 101 images, ~27 MB) under `source-web/yrvind/`, retrieved 2026-07-04; image references rewritten to local copies for offline rendering.
-[2] Archive message page_1734 (longyard / "William Longyard", `paradoxbuilders`, msgnum 1756, 2004-01-02) — "Sven's Web Page": posts a bare link to `www.yrvind.com`, "Lots of great photos. Enjoy." (see also page_1059's earlier pointer to the same site).
+[1] [yrvind.com](/references/yrvind-website.md) — the three pages listed above (`https://www.yrvind.com/`), together carrying some 101 photographs of Matt Layden's and Sven Yrvind's chine-runner boats.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 1734 (longyard / "William Longyard", `paradoxbuilders`, 2004-01-02) — "Sven's Web Page": posts a bare link to `www.yrvind.com`, "Lots of great photos. Enjoy." (see also message 1059's earlier pointer to the same site).

@@ -18,4 +18,4 @@ The stem post is 100 mm (4") thick. A sculling oar has no reverse and no brake, 
 
 # Citations
 
-[1] "Sailing The Paradox," *DCA Bulletin* 193: 48-49 (Dinghy Cruising Association), Alastair Law (`source-articles/dinghy-cruising-association/sailing_the_paradox_alastair_law.pdf`) — supports the stem post's 100 mm (4") thickness and its role in absorbing sculling-oar collisions without damage to the boat.
+[1] ["Sailing The Paradox"](/references/dca-sailing-the-paradox.md), *DCA Bulletin* 193: 48-49 (Dinghy Cruising Association), Alastair Law — supports the stem post's 100 mm (4") thickness and its role in absorbing sculling-oar collisions without damage to the boat.

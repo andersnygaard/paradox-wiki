@@ -23,7 +23,7 @@ The trial is also the source of a **negative** finding that is rare in the recor
 
 ## Why this source dates Bulletin 193
 
-The companion article's reference page records the issue as **undated on the captured pages**, with "three seasons" of sailing since the April 2003 launch used to infer a probable 2005 or 2006. This article settles the question from the same issue: it describes the **Beale Park Show 2006**, states that plans ordered by airmail arrived **in October 2006**, and carries an editorial note dating the photographs to **Chew Valley Lake, October 2006**.[1][2]
+The companion article's reference page records the issue as **not dated within the article's own two pages**, with "three seasons" of sailing since the April 2003 launch used to infer a probable 2005 or 2006. This article settles the question from the same issue: it describes the **Beale Park Show 2006**, states that plans ordered by airmail arrived **in October 2006**, and carries an editorial note dating the photographs to **Chew Valley Lake, October 2006**.[1][2]
 
 *Bulletin* 193 therefore cannot have been published before **late 2006**, and most likely appeared in the winter of **2006–07**. This is firmer than the inference drawn from the companion piece alone, and it is internal to the issue rather than external to it. See ["Sailing The Paradox" — DCA Bulletin 193](/references/dca-sailing-the-paradox.md), whose dating section is now qualified by this finding.
 
@@ -41,20 +41,20 @@ The archive therefore records these figures **as degrees**, and this note exists
 
 ## Provenance
 
-The source is a three-page PDF, held locally at `source-articles/gilchrist/paradox-by-duncan-gilchrist/source.pdf` with a full transcription and three extracted figures at `source-articles/gilchrist/paradox-by-duncan-gilchrist/index.md`. All three pages carry the running foot **"DCA Bulletin 193 : 45"** through **": 47."**
+The source is a three-page PDF. All three pages carry the running foot **"DCA Bulletin 193 : 45"** through **": 47."**
 
-The PDF is published by **dinghycruising.life** and was verified byte-identical to the locally held copy. The article begins **partway down p. 45**, after the unrelated conclusion of a separate cruise-log piece, which is not part of this article and is excluded from the transcription.
+The PDF is published by **dinghycruising.life**. The article begins **partway down p. 45**, after the unrelated conclusion of a separate cruise-log piece, which is not part of this article.
 
 The figures are two photographs of "Little Jim" — afloat at the water's edge, and bow-on on her road trailer — and a **captioned cutaway diagram** of the design, labelling roller reefing, chine runners, foam insulation and buoyancy, solar panel, sculling yuloh, interior steering, the line to raise the rudder, battery, food locker, gimballed stove, water tanks, and anchor storage.[3]
 
 ## Citing this source
 
-Cite in the form:
+There is no dedicated public archive page for this article; the *Bulletin* issue, article title, page range, and author are the locator. The PDF itself is published at `https://www.dinghycruising.life/uploads/7/6/9/7/76979649/paradox_by_duncangilchrist.pdf`. Cite in the form:
 
-> "Paradox," *DCA Bulletin* 193: 45-47 (Dinghy Cruising Association), Duncan Gilchrist (`source-articles/gilchrist/paradox-by-duncan-gilchrist/source.pdf`) — [detail].
+> ["Paradox"](/references/dca-paradox-gilchrist.md), *DCA Bulletin* 193: 45-47 (Dinghy Cruising Association), Duncan Gilchrist — [detail].
 
 # Citations
 
-[1] "Paradox," *DCA Bulletin* 193: 45-47 (Dinghy Cruising Association), Duncan Gilchrist (`source-articles/gilchrist/paradox-by-duncan-gilchrist/source.pdf`) — full article: an evaluation written from declared scepticism about keel-less windward performance, based on a day and a half sailing "Little Jim" at Chew Valley Lake SC in October 2006, plus study of the plans and building instructions; records dry-footed launch off the road trailer, no cockpit and a heated insulated cabin steered facing forward from a sliding hatch, thirteen storage compartments, a 99.75 sq ft lug sail hoisted from inside, hove-to behaviour side-on to the wind with the rudder cleated up, heel behaviour and windward angles, self-steering "like windvane steering," slow tacking, the chine-runner and bottom-rocker explanations for windward ability, plans and CD-ROM ordering detail, and contact addresses. Closing initials "DG."
+[1] "Paradox," *DCA Bulletin* 193: 45-47 (Dinghy Cruising Association), Duncan Gilchrist — full article: an evaluation written from declared scepticism about keel-less windward performance, based on a day and a half sailing "Little Jim" at Chew Valley Lake SC in October 2006, plus study of the plans and building instructions; records dry-footed launch off the road trailer, no cockpit and a heated insulated cabin steered facing forward from a sliding hatch, thirteen storage compartments, a 99.75 sq ft lug sail hoisted from inside, hove-to behaviour side-on to the wind with the rudder cleated up, heel behaviour and windward angles, self-steering "like windvane steering," slow tacking, the chine-runner and bottom-rocker explanations for windward ability, plans and CD-ROM ordering detail, and contact addresses. Closing initials "DG."
 [2] "Paradox," *DCA Bulletin* 193: 47 — editorial note crediting the photographs on p. 46 to the author and dating them to Chew Valley Lake, October 2006, and naming the boat's owner as "Alastair Law."
-[3] "Paradox," *DCA Bulletin* 193: 47 — captioned cutaway diagram of the Paradox, labelling roller reefing, chine runners, foam insulation and buoyancy, solar panel, sculling yuloh, interior steering position, line to raise the rudder, battery, food locker, gimballed stove, water tanks, anchor storage, and kick-up rudder (`source-articles/gilchrist/paradox-by-duncan-gilchrist/images/fig-03.png`).
+[3] "Paradox," *DCA Bulletin* 193: 47 — captioned cutaway diagram of the Paradox, labelling roller reefing, chine runners, foam insulation and buoyancy, solar panel, sculling yuloh, interior steering position, line to raise the rudder, battery, food locker, gimballed stove, water tanks, anchor storage, and kick-up rudder.

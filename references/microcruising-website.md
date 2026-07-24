@@ -14,7 +14,7 @@ Unlike the [mailing-list archive](/references/mailing-list.md) (many builders' b
 
 ## Provenance and dating
 
-The site is **effectively frozen**: its files were last modified around **December 2019** (the most recent content is a 2019 Cedar Key gathering notice and blog entries running to ~2018), and its newest dated article material runs through the early-to-mid 2010s. It was **retrieved for this bundle on 2026-07-02** and mirrored locally under `source-web/microcruising/` — the full snapshot: **135 HTML pages plus all 1,643 referenced images** (thumbnails, inline photos, design-particular diagrams, and the full-size gallery photos linked from it; ~57 MB total) — for reproducible citation. Because it is a static historical snapshot, its content is cited in the past tense and dated where the page gives a date, consistent with the bundle's historical-archive convention.
+The site is **effectively frozen**: its files were last modified around **December 2019** (the most recent content is a 2019 Cedar Key gathering notice and blog entries running to ~2018), and its newest dated article material runs through the early-to-mid 2010s. It runs to **135 HTML pages** and **1,643 referenced images** (thumbnails, inline photos, design-particular diagrams, and full-size gallery photos). Because it is a static historical snapshot, its content is cited in the past tense and dated where the page gives a date, consistent with the bundle's historical-archive convention.
 
 ## Site structure (what lives where)
 
@@ -28,12 +28,13 @@ The site is **effectively frozen**: its files were last modified around **Decemb
 
 Website pages are cited in the form:
 
-> microcruising.com — "Page title" (`http://www.microcruising.com/PAGE.htm`),
-> David & Mindy Bolduc — [detail].
+> [microcruising.com](/references/microcruising-website.md) — "Page title," David & Mindy Bolduc — [detail].
 
-A local mirror of every cited page **and image** is kept under `source-web/microcruising/` (see `source-web/microcruising/MANIFEST.tsv` for the full file→URL map — `relpath / kind / bytes / url` across all 135 pages and 1,643 images), so citations remain verifiable even though the live site may change or disappear. Images preserve the site's own directory layout (e.g. `Graphics/`, `images/`, and the per-gallery `Strefit3/`, `Sailconstruction/`, `NewCushions/`, `NewFloor/` folders).
+The address is reconstructed from the identifier: `http://www.microcruising.com/PAGE.htm`.
+
+Every page listed under "Site structure" above resolves at `http://www.microcruising.com/<PAGE>.htm` using the exact filename given there (e.g. `paradox1.htm`, `Enigma.htm`). Images referenced from those pages sit alongside them in the site's own directory layout — `Graphics/`, `images/`, and the per-gallery `Strefit3/`, `Sailconstruction/`, `NewCushions/`, `NewFloor/` folders.
 
 # Citations
 
-[1] microcruising.com — home page and "About" (`http://www.microcruising.com/` and `http://www.microcruising.com/sca1.htm`), David & Mindy Bolduc — the Bolducs "have a passion for small sailboats called micro-cruisers, and they have been cruising in their tiny boats for 30 years"; favorite destinations the Outer Banks of North Carolina, the Florida Keys, and the Bahamas; site includes a safety disclaimer framing the content as "simply a collection of our experiences."
-[2] microcruising.com — site file timestamps (HTTP Last-Modified ~2019-12-29) and most-recent content (2019 Cedar Key notice; blog entries to ~2018), retrieved and mirrored 2026-07-02.
+[1] [microcruising.com](/references/microcruising-website.md) — home page and "About," David & Mindy Bolduc — the Bolducs "have a passion for small sailboats called micro-cruisers, and they have been cruising in their tiny boats for 30 years"; favorite destinations the Outer Banks of North Carolina, the Florida Keys, and the Bahamas; site includes a safety disclaimer framing the content as "simply a collection of our experiences."
+[2] [microcruising.com](/references/microcruising-website.md) — site file timestamps (HTTP Last-Modified ~2019-12-29) and most-recent content (2019 Cedar Key notice; blog entries to ~2018).

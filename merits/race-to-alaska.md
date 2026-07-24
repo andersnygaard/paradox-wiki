@@ -14,4 +14,4 @@ The entry is a natural fit for the design's premise — a fully enclosed micro-c
 
 # Citations
 
-[1] Paradox Sailboat Facebook group — Dave Fahy, post, 2026-04-14 (`https://www.facebook.com/groups/833651060307712/posts/2879543182385146/`) — R2AK 2026 fleet statistics: "𝗦𝗺𝗮𝗹𝗹𝗲𝘀𝘁 𝗯𝗼𝗮𝘁: 13 feet. Team Forget Me Knot, sailing a Paradox," set against the fleet's largest boat (35 ft), 16 trimarans, 37 monohulls, 2 catamarans, and an outrigger sailing canoe. Local mirror: `source-facebook/paradox-group/posts.jsonl` (key `2879543182385146`).
+[1] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Dave Fahy, post 2879543182385146, 2026-04-14 — R2AK 2026 fleet statistics: "𝗦𝗺𝗮𝗹𝗹𝗲𝘀𝘁 𝗯𝗼𝗮𝘁: 13 feet. Team Forget Me Knot, sailing a Paradox," set against the fleet's largest boat (35 ft), 16 trimarans, 37 monohulls, 2 catamarans, and an outrigger sailing canoe.

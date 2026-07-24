@@ -10,7 +10,7 @@ timestamp: 2026-07-22T00:00:00Z
 
 **Dave Skaife's blog** (`https://daveskaife.wordpress.com/`) is the WordPress cruising log of [Dave Skaife](/people/dave-skaife.md), who built a [Paradox](/paradox.md) in Hawaii and then sailed it, motorless, across four seasons — Hawaii in 2014, the Gulf of Mexico's [Intracoastal Waterway](/merits/inland-waterway-and-canal-touring.md) in 2015, the Bahamas in 2016 and again in 2017, and Cuba in 2017 — before selling the boat in Florida in 2018. It is an **authored, first-person primary source**, and after [Bill's Log](/references/bills-log.md) it is the single longest continuous first-person record of one Paradox in the archive: a day-by-day account of what building and cruising the design was actually like, over more posts and a wider cruising ground than any other owner has left.
 
-It is distinct from [Dave's Wiki (Dave Raftery)](/references/daves-wiki.md), a technical reference site by a different Dave; this is a personal build-and-cruise blog.
+It is distinct from [Dave's Wiki](/references/daves-wiki.md) (Dave Raftery), a technical reference site by a different Dave; this is a personal build-and-cruise blog.
 
 ## What the blog is worth as evidence
 
@@ -20,11 +20,9 @@ Its limits should be read with that. It is one owner's account, written for a ge
 
 ## Provenance and dating
 
-The blog was live and public at retrieval. Its span is **2013-12-23 → 2018-03-25**; the build starts the record and it ends with the boat up for sale in Pensacola while Dave had moved on to overland travel in Southeast Asia.
+The blog is live and public. Its span is **2013-12-23 → 2018-03-25**; the build starts the record and it ends with the boat up for sale in Pensacola while Dave had moved on to overland travel in Southeast Asia.
 
-Retrieved and mirrored for this bundle on **2026-07-20** under `source-web/daveskaife/`. Capture was via the WordPress.com public REST API rather than page scraping, so the whole post corpus came down in a handful of paged requests; images were pulled at full size. All **189** posts on the blog were indexed and screened, and **160** were kept as one continuous Paradox story, with **383 images**. The **29 skipped** posts are a 2016 motorbike trip through Vietnam and Laos taken while the boat sat idle, plus four posts of unrelated local small craft — boat content, but nothing to do with Paradox; every post, kept and skipped, is listed with its reason in `MANIFEST.tsv`, so nothing was dropped silently.[1]
-
-The cut was made by subject, not by keyword score: 52 of the kept posts are untagged day-by-day Gulf-trip entries that a keyword-only filter would have discarded. `md/` frontmatter carries a `relevance_score` and `signals` list in the same style as the [Bill's Log](/references/bills-log.md) mirror, and slugs are prefixed `YYYY-MM-` so the folder sorts chronologically.
+The blog runs to **189** posts in total. **160** of them form one continuous Paradox story, from the build through Cuba, and are covered here; the remaining **29** are a 2016 motorbike trip through Vietnam and Laos taken while the boat sat idle, plus four posts about unrelated local small craft — boat content, but nothing to do with Paradox.[1]
 
 ## The cruising arc
 
@@ -52,15 +50,15 @@ Across all 160 posts the boat is referred to only as "my Paradox" / "my microcru
 
 Posts are cited in the form:
 
-> Dave Skaife's blog — "Post title" (`https://daveskaife.wordpress.com/YYYY/MM/DD/slug/`),
-> Dave Skaife, YYYY-MM-DD — [detail]. Local mirror:
-> `source-web/daveskaife/md/<slug>.md`.
+> [Dave Skaife's blog](/references/dave-skaife-blog.md) — "Post title," Dave Skaife, YYYY-MM-DD — [detail].
 
-A local mirror of every kept post — HTML, extracted markdown, and every image — is held under `source-web/daveskaife/`, so citations remain verifiable if the blog changes or is withdrawn. Because the mirror is a dated snapshot of a historical record, its content is cited in the past tense and dated to the post's own publication date, consistent with the bundle's historical-archive convention.
+The address is reconstructed from the identifier: `https://daveskaife.wordpress.com/YYYY/MM/DD/slug/`.
+
+The post title and date resolve to that WordPress URL pattern. Because the record is historical, its content is cited in the past tense and dated to the post's own publication date, consistent with the bundle's historical-archive convention.
 
 # Citations
 
-[1] Dave Skaife's blog — mirror provenance: `source-web/daveskaife/README.md`, `MANIFEST.tsv`, and `md/` frontmatter, retrieved 2026-07-20 — 189 posts indexed and screened via the WordPress.com public REST API, 160 kept as one continuous Paradox story and 29 skipped (a 2016 Vietnam/Laos motorbike trip and four unrelated local-craft posts); 383 full-size images; span 2013-12-23 → 2018-03-25. The cut was by subject, not keyword score (52 kept posts are untagged day-by-day Gulf-trip entries).
-[2] Dave Skaife's blog — the "comfortable microcruising" series (four posts under the `comfortable-microcruising` category: "Dress for success", "The padded cell", "Ventilation", "UPEMS"), Dave Skaife, 2014-09 to 2014-10 — Dave's own essays on making a fourteen-foot Paradox liveable (ventilation, padded interior, clothing, personal-environment management). Local mirror: `source-web/daveskaife/md/2014-09-comfortable-microcruising-*.md`, `2014-10-comfortable-microcruising-upems.md`. Cited as the author's outfitting opinion, not as plans documentation.
-[3] Dave Skaife's blog — "Why I chose to build a Paradox microcruiser" (`https://daveskaife.wordpress.com/2014/08/06/why-i-chose-to-build-a-paradox-microcruiser/`), Dave Skaife, 2014-08-06 — moving down from a 36 ft monohull sailed solo, wanted something small, simple, trailerable; found a Don Elliott sketch, followed it to microcruising.com, ordered the plans; "The plans are jam packed with details and information... It takes much longer to build than a normal 14 foot boat due to all the features that are built in, but worth the extra effort"; calls Matt Layden "an evil genius when it comes to boat designs, he thinks so far outside the box that you forget there was a box." Local mirror: `source-web/daveskaife/md/2014-08-why-i-chose-to-build-a-paradox-microcruiser.md`.
-[4] Dave Skaife's blog — "This boat available for sale!" (`https://daveskaife.wordpress.com/2017/08/26/this-boat-now-available-for-sale/`), Dave Skaife, 2017-08-26 — fullest single description of the boat as equipped after two Bahamas seasons; a "14 foot motorless sailboat," currently registered in Hawaii with a hull identification number; full equipment inventory (electronic autopilot, PLB, submersible handheld VHF, Bebi anchor light, Waypoint spotlight, four anchors, two Caframo cabin fans, and more); resting under a carport in Pensacola, Florida. Local mirror: `source-web/daveskaife/md/2017-08-this-boat-now-available-for-sale.md`.
+[1] [Dave Skaife's blog](/references/dave-skaife-blog.md) — blog scope — the blog runs to 189 posts in total; 160 form one continuous Paradox story spanning 2013-12-23 → 2018-03-25 (including 52 untagged day-by-day Gulf-trip entries), and 29 are unrelated (a 2016 Vietnam/Laos motorbike trip and four local small-craft posts).
+[2] [Dave Skaife's blog](/references/dave-skaife-blog.md) — the "comfortable microcruising" series (four posts under the `comfortable-microcruising` category: "Dress for success," "The padded cell," "Ventilation," "UPEMS"), Dave Skaife, 2014-09 to 2014-10 — Dave's own essays on making a fourteen-foot Paradox liveable (ventilation, padded interior, clothing, personal-environment management).
+[3] [Dave Skaife's blog](/references/dave-skaife-blog.md) — "Why I chose to build a Paradox microcruiser," Dave Skaife, 2014-08-06 — moving down from a 36 ft monohull sailed solo, wanted something small, simple, trailerable; found a Don Elliott sketch, followed it to microcruising.com, ordered the plans; "The plans are jam packed with details and information... It takes much longer to build than a normal 14 foot boat due to all the features that are built in, but worth the extra effort"; calls Matt Layden "an evil genius when it comes to boat designs, he thinks so far outside the box that you forget there was a box."
+[4] [Dave Skaife's blog](/references/dave-skaife-blog.md) — "This boat available for sale!", Dave Skaife, 2017-08-26 — fullest single description of the boat as equipped after two Bahamas seasons; a "14 foot motorless sailboat," currently registered in Hawaii with a hull identification number; full equipment inventory (electronic autopilot, PLB, submersible handheld VHF, Bebi anchor light, Waypoint spotlight, four anchors, two Caframo cabin fans, and more); resting under a carport in Pensacola, Florida.

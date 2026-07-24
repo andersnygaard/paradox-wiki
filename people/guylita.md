@@ -22,7 +22,7 @@ Only a screen name is known; this slug should be replaced if a real identity is 
 
 # Citations
 
-[1] Archive message page_140 (guylita, `paradoxbuilders`, 2001-11-30) — "Self Steering": asks whether Paradox can self-steer or needs a wind vane.
-[2] Archive message page_142 (guylita, `paradoxbuilders`, 2001-11-30) — "Re: Self Steering": stresses the importance of hands-free tiller capability in stronger winds.
-[3] Archive message page_143 (guylita, `paradoxbuilders`, 2001-11-30) — "Sailing characteristics": asks how the lug rig balances on different points of sail, whether beating generates weather helm counterable by sail trim, and how heeling affects balance.
-[4] Archive message page_144 (guylita, `paradoxbuilders`, 2001-11-30) — "Ballast question": asks why the ballast is outboard rather than centered, raising a torque/oscillation concern and speculating about the role of the centered water tank.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 140 (guylita, `paradoxbuilders`, 2001-11-30) — "Self Steering": asks whether Paradox can self-steer or needs a wind vane.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 142 (guylita, `paradoxbuilders`, 2001-11-30) — "Re: Self Steering": stresses the importance of hands-free tiller capability in stronger winds.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 143 (guylita, `paradoxbuilders`, 2001-11-30) — "Sailing characteristics": asks how the lug rig balances on different points of sail, whether beating generates weather helm counterable by sail trim, and how heeling affects balance.
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 144 (guylita, `paradoxbuilders`, 2001-11-30) — "Ballast question": asks why the ballast is outboard rather than centered, raising a torque/oscillation concern and speculating about the role of the centered water tank.

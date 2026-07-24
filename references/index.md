@@ -1,7 +1,7 @@
 ---
 type: Index
 title: References
-description: Indexes external sources mirrored as first-class concepts for citation — the mailing list archive, builder websites and blogs, magazine articles, books, and other primary and secondary references.
+description: Indexes external sources treated as first-class concepts for citation — the mailing list, builder websites and blogs, magazine articles, books, and other primary and secondary references.
 tags: [paradox, references, index, sources, citations]
 timestamp: 2026-07-20T00:00:00Z
 ---
@@ -9,7 +9,7 @@ timestamp: 2026-07-20T00:00:00Z
 # References
 
 External sources and resources referenced by the archive (designer materials,
-websites, plans, articles) mirrored as first-class concepts for citation.
+websites, plans, articles) treated as first-class concepts for citation.
 Concepts are added here as they are sourced from the archive.
 
 # Concepts
@@ -47,8 +47,8 @@ Concepts are added here as they are sourced from the archive.
 * [Pete Martin's blog (paradoxbuild.webs.com)](pete-martin-blog.md) - The build blog of Pete Martin ("My Paradox 'Johanna'"), documenting the 2006–2011 construction and 11 June 2011 launch of "JoHanna," a UK Paradox — the authored first-person record that carries the build through to completion and the water, where the mailing-list account stops mid-build in 2008.
 * [Lezlie's World (Lezlie Henson's blog)](lezlie-henson-blog.md) - The Blogger diary whose 2011–2013 TARDIS build series is the first-person primary source behind "Scout" (ex-"Tardis") — the amateur, first-time build of a stock Paradox in the Houston area, built to a high standard, sold almost finished and never sailed by its builder.
 * [Full n By (Sean Mulligan's blog)](full-n-by-blog.md) - The Blogger blog of Sean Mulligan, HPCC founder, recording in the owner's own voice the completion, September 2013 launch, and first sailing season of the Paradox "Scout" (ex-"Tardis") on Lake Havasu, Arizona — the first-person sequel to Lezlie Henson's build blog, covering his changes to the stock boat, the yuloh, and single-handed fit-out.
-* [Paradox Sailboat Facebook group](paradox-facebook-group.md) - The private "Paradox Sailboat" Facebook group, founded February 2019 by Tim McKinney — an 833-post, 2019–2026 record of the modern Paradox community and the archive's principal source for the builders, boats, and sailing of the post-mailing-list era, mirrored locally as posts, photographs, and raw GraphQL captures.
-* [Anders Nygaard's Miramis interview](anders-nygaard-interview.md) - A solicited 2026-07-23 first-person interview with Anders Nygaard, builder of the 10%-enlarged Norwegian Paradox "Miramis" — the archive's first source gathered by direct interview rather than mirrored from an existing record, and the fullest single account of the design rationale, scaling philosophy, and composite-heavy construction of a 10% scale-up in progress.
+* [Paradox Sailboat Facebook group](paradox-facebook-group.md) - The private "Paradox Sailboat" Facebook group, founded February 2019 by Tim McKinney — an 833-post, 2019–2026 record of the modern Paradox community and the archive's principal source for the builders, boats, and sailing of the post-mailing-list era.
+* [Anders Nygaard's Miramis interview](anders-nygaard-interview.md) - A solicited 2026-07-23 first-person interview with Anders Nygaard, builder of the 10%-enlarged Norwegian Paradox "Miramis" — the archive's first source gathered by direct interview rather than from an existing record, and the fullest single account of the design rationale, scaling philosophy, and composite-heavy construction of a 10% scale-up in progress.
 
 > Matt Layden's other boat designs (Little Cruiser, Swamp Thing) now live under
 > the designer branch at [/matt-layden/index.md](/matt-layden/index.md).

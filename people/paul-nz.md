@@ -16,5 +16,5 @@ The introduction laid out the practical concerns of a new builder: where to get 
 
 # Citations
 
-[1] Archive messages page_027/page_028/page_029 (Paul, NZ, `paradoxbuilders`, 2001-07-15) — introduces himself; south of New Zealand; drawn to enclosed sailing and a simple rig after gear failures in rough conditions; five questions on plans, weight, chop handling, articles, and plywood.
-[2] Archive message page_030 (Alastair, 2001-07-15) — answers Paul's plans-source and plywood questions.
+[1] [Paradox builders mailing list](/references/mailing-list.md) messages 27/28/29 (Paul, NZ, `paradoxbuilders`, 2001-07-15) — introduces himself; south of New Zealand; drawn to enclosed sailing and a simple rig after gear failures in rough conditions; five questions on plans, weight, chop handling, articles, and plywood.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 30 (Alastair, 2001-07-15) — answers Paul's plans-source and plywood questions.

@@ -16,7 +16,15 @@ Study plans are a preliminary/overview package (distinct from the full building 
 
 [microcruising.com](/references/microcruising-website.md) hosts a set of Paradox study-plan images and a page of Paradox construction sketches. Both are explicitly **for inspiration only**: the study-plan page states they "are presented here soley for inspiration… not intended to be used to build another Paradox," directing anyone who wants to build to email for "a proper set of plans" (i.e. the real [building plans](/references/building-plans.md)).
 
+## Citing this source
+
+The Study Plans have no public URL of their own: the original files were uploaded to the mailing list's Files area in 2001 (see [Paradox builders mailing list — Citing this source](/references/mailing-list.md#citing-this-source) for how that archive is reached today), and the study-plan images now hosted on [microcruising.com](/references/microcruising-website.md) are explicitly "for inspiration only," not the plans themselves. The stable identifier is **the study plans** as a whole. Cite in the form:
+
+> [Study Plans](/references/study-plans.md) — [detail].
+
+For the full building plans — the actual buildable document, and how to obtain them — see [Paradox building plans](/references/building-plans.md).
+
 # Citations
 
-[1] Archive message page_010 (Yahoo Groups file-upload notification, 2001-07-08) — file "/Study Plans/Description of Study Plans" uploaded to the paradoxbuilders files area.
-[2] microcruising.com — "Paradox Study Plans" (http://www.microcruising.com/plans1.htm) and "Paradox Sketches" (http://www.microcruising.com/Sketch1.htm), David & Mindy Bolduc — study-plan images "presented here soley for inspiration… not intended to be used to build another Paradox"; directs readers to email for a proper set of plans.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 10 (Yahoo Groups file-upload notification, 2001-07-08) — file "/Study Plans/Description of Study Plans" uploaded to the paradoxbuilders files area.
+[2] [microcruising.com](/references/microcruising-website.md) — "Paradox Study Plans" and "Paradox Sketches," David & Mindy Bolduc — study-plan images "presented here soley for inspiration… not intended to be used to build another Paradox"; directs readers to email for a proper set of plans.

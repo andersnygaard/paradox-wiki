@@ -16,5 +16,5 @@ Alastair Law's "Little Jim" made two landmark UK passages in her first season. I
 
 # Citations
 
-[1] "little Jim" build/cruise website (Alastair Law), cited in full at [boats/little-jim.md](/boats/little-jim.md#citations) — the Portland passage write-up: 27 nm each way, St Albans Head tidal race, green water over the deck with no water through the hatch.
-[2] "little Jim" build/cruise website (Alastair Law), cited in full at [boats/little-jim.md](/boats/little-jim.md#citations) — the Solent crossing write-up: "the fastest ever crossing from Poole to Cowes in a Paradox," 28.4 NM in 7:20, the Hurst Narrows knockdown.
+[1] ["little Jim" build/cruise website](/references/little-jim-website.md) (Alastair Law), cited in full at [boats/little-jim.md](/boats/little-jim.md#citations) — the Portland passage write-up: 27 nm each way, St Albans Head tidal race, green water over the deck with no water through the hatch.
+[2] ["little Jim" build/cruise website](/references/little-jim-website.md) (Alastair Law), cited in full at [boats/little-jim.md](/boats/little-jim.md#citations) — the Solent crossing write-up: "the fastest ever crossing from Poole to Cowes in a Paradox," 28.4 NM in 7:20, the Hurst Narrows knockdown.

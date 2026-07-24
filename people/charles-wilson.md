@@ -19,8 +19,8 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Citations
 
-[1] Archive message page_081 (Charles Wilson, `paradoxbuilders`, 2001-10-06) — defends Don Elliott's credentials; recounts a prior bad experience asking a similar question on another list.
-[2] Archive message page_089 (Charles Wilson, `paradoxbuilders`, 2001-10-28) — gives Dave Bolduc's e-mail address for plans; reports just having received his own set with excellent service.
-[3] Archive message page_090 (Charles Wilson, `paradoxbuilders`, 2001-11-10) — "Stretch Paradox": asks Dave Bolduc whether stretching his Paradox to 16 ft is a good or bad idea, and whether anyone else has tried it.
-[4] Archive message page_106 (Charles Wilson, `paradoxbuilders`, 2001-11-19) — "Re: Stretch Paradox": thanks Glen Maxwell, confirms the answer matched what he suspected, will review earlier posts on the topic.
-[5] Archive message page_692 (Charles Wilson, `paradoxbuilders`, msgnum 701, 2002-09-25) — "Re: THIS IS A REAL POST...Paradox building sequence": offers his spare plans CD (containing the building sequence) to Paul V./sohaven2002, since he's building a different boat; asks for a mailing address.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 81 (Charles Wilson, `paradoxbuilders`, 2001-10-06) — defends Don Elliott's credentials; recounts a prior bad experience asking a similar question on another list.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 89 (Charles Wilson, `paradoxbuilders`, 2001-10-28) — gives Dave Bolduc's e-mail address for plans; reports just having received his own set with excellent service.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 90 (Charles Wilson, `paradoxbuilders`, 2001-11-10) — "Stretch Paradox": asks Dave Bolduc whether stretching his Paradox to 16 ft is a good or bad idea, and whether anyone else has tried it.
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 106 (Charles Wilson, `paradoxbuilders`, 2001-11-19) — "Re: Stretch Paradox": thanks Glen Maxwell, confirms the answer matched what he suspected, will review earlier posts on the topic.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 692 (Charles Wilson, `paradoxbuilders`, 2002-09-25) — "Re: THIS IS A REAL POST...Paradox building sequence": offers his spare plans CD (containing the building sequence) to Paul V./sohaven2002, since he's building a different boat; asks for a mailing address.

@@ -20,8 +20,15 @@ The site's second article, `http://home.att.net/~DaveCarnell/rot.html`, describe
 
 The same treatment was later applied while redoing "[Whisper](/boats/whisper.md)"'s interior, with the affected area described as "repaired and treated per Dave carnell" before being epoxy-sealed over — see [checking a used Paradox for rot — a five-months-later coda](/construction/rot-inspection-ice-pick.md) for the full account.
 
+## Citing this source
+
+The site (`home.att.net/~DaveCarnell`, on AT&T's now-discontinued personal-pages hosting) is **defunct** and no longer resolves. No article title is recorded in the archive — each article is identified here by subject and its URL path: the paint article (`articles.html#A1`) and the rot-treatment article (`rot.html`). Cite in the form:
+
+> [Dave Carnell's articles](/references/dave-carnell-articles.md) — the paint article (`home.att.net/~DaveCarnell/articles.html#A1`, defunct) — [detail].
+> [Dave Carnell's articles](/references/dave-carnell-articles.md) — the rot-treatment article (`home.att.net/~DaveCarnell/rot.html`, defunct) — [detail].
+
 # Citations
 
-[1] Archive message page_169 (James Fuller, `paradoxbuilders`, 2001-12-14) — "Re: Paint": links to `http://home.att.net/~DaveCarnell/articles.html#A1`; summarizes the article's conclusion that water-based paint is superior.
-[2] Archive message page_170 (Glen C. Maxwell, `paradoxbuilders`, 2001-12-15) — "Re: Paint": calls the article outstanding.
-[3] Archive message page_312 (Glen Maxwell, `paradoxbuilders`, 2002-02-01) — "Re: Need advise": links `http://home.att.net/~DaveCarnell/rot.html` for a rot-fungus treatment formula.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 169 (James Fuller, `paradoxbuilders`, 2001-12-14) — "Re: Paint": links to `http://home.att.net/~DaveCarnell/articles.html#A1`; summarizes the article's conclusion that water-based paint is superior.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 170 (Glen C. Maxwell, `paradoxbuilders`, 2001-12-15) — "Re: Paint": calls the article outstanding.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 312 (Glen Maxwell, `paradoxbuilders`, 2002-02-01) — "Re: Need advise": links `http://home.att.net/~DaveCarnell/rot.html` for a rot-fungus treatment formula.

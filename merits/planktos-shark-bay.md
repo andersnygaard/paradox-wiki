@@ -16,4 +16,4 @@ Roselt Croeser's "Planktos" — the archive's only completed, launched, and crui
 
 # Citations
 
-[1] ABBA Newsletter, April/May 2021: "Building of the Paradox Micro Cruiser - Planktos" (Amateur Boat Builders' Association, Western Australia) — the Shark Bay shakedown cruise and the closing "if you are really brave" list of further prospective passages; full citation set at [boats/planktos.md](/boats/planktos.md#citations).
+[1] [ABBA Newsletter](/references/abba-newsletter.md), April/May 2021: "Building of the Paradox Micro Cruiser - Planktos" (Amateur Boat Builders' Association, Western Australia) — the Shark Bay shakedown cruise and the closing "if you are really brave" list of further prospective passages; full citation set at [boats/planktos.md](/boats/planktos.md#citations).
