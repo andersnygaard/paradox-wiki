@@ -8,7 +8,7 @@ timestamp: 2026-07-22T00:00:00Z
 
 # Dave Skaife's voyage to Cuba
 
-In 2017 Dave Skaife sailed his fourteen-foot, motorless Paradox to Cuba and cruised its north coast, returning to Florida across the Gulf Stream — the archive's only record of a Paradox making an international passage to Cuba.
+In 2017 Dave Skaife sailed his fourteen-foot, motorless Paradox to Cuba and cruised its north coast, returning to Florida across the Gulf Stream — the archive's only record of a Paradox making an international passage to Cuba.[1][2]
 
 ## A motorless Paradox to Cuba, and a Gulf-Stream return (2017)
 

@@ -8,7 +8,7 @@ timestamp: 2026-07-22T00:00:00Z
 
 # Dave Skaife's Hawaiian island cruise
 
-Dave Skaife's first season with his newly built, motorless Paradox was a roughly 415-nautical-mile inter-island cruise of the main Hawaiian islands in 2014.
+Dave Skaife's first season with his newly built, motorless Paradox was a roughly 415-nautical-mile inter-island cruise of the main Hawaiian islands in 2014.[1][2]
 
 ## A ~415-nm engine-free inter-island cruise, Hilo to Kauai (2014)
 

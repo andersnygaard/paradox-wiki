@@ -28,6 +28,12 @@ Crossing from England to the continent to reach European canals was separately j
 
 A firsthand verdict on the yuloh closes out the case for canal touring: it works excellently as a power source once the wind drops, but against any wind it is hard work to make progress in any direction except downwind, since the yuloh's thrust acts so far aft that it cannot easily stop the bow blowing off — fine for manoeuvring in a marina or a lock, but not a method that could sustain long-distance windward progress. For the sailor who keeps an outboard specifically for canal work rather than open water, see [mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md#mainsheet-fouling-on-the-rudder-and-rear-deck-with-an-outboard-fitted) for the resulting hardware tradeoffs of a transom-mounted motor.[8]
 
+## Related
+
+- [Mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md)
+- [Ground tackle and anchoring technique](/operations/ground-tackle.md)
+- [Yuloh](/components/yuloh.md)
+
 # Citations
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 2913 (martin304919 / Martin Feaviour, `paradoxbuilders`, 2005-07-17) — "Re: Mainsheet and outboard": wants to use a Paradox on the UK canal and river system without a motor; asks why a yuloh could not be used all day given the frequent lock stops, and separately asks about the historic method of hauling a boat along the towpath (rudder and rope control), noting the canal system's 4 mph speed limit.
 [2] [Paradox builders mailing list](/references/mailing-list.md) message 2914 (apcf14 / "roverticket" / "Jeff UK", `paradoxbuilders`, 2005-07-17) — "Re: Mainsheet and outboard": describes the towpath-hauling method — a bridle to the bow and stern cleats, towline fixed about two-thirds back from the bow, rudder set to turn the bow out, walking at 1.5-2 mph, with the best towing angle found by adjusting the bridle and rudder to keep the boat running as close to the bank as possible. Signed "Jeff UK."
@@ -37,9 +43,3 @@ A firsthand verdict on the yuloh closes out the case for canal touring: it works
 [6] [Paradox builders mailing list](/references/mailing-list.md) messages 2922, 2923, 2924 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, 2005-07-19; arvent / "recree8" / Nels, 2005-07-19) — "Re: Mainsheet and outboard": Derek Clark notes willows are a worse obstruction on rivers with ancient navigation rights where towpaths are no longer maintained, and that hauling gangs would be hard to find today regardless, recalling that 17th- and 18th-century authorities repeatedly tried to disband the historical rope-hauler gangs for drunkenness and brawling; questions whether the suggested backup outboard is air-cooled, having heard those run very noisy, and judges simply walking the towpath and lodging at inns the easier course. Nels's intervening reply notes modern-day towpath disruption now comes from dirt bikes, quads, snowmobiles, and jet skis, and separately asks how a Paradox would best be taken across to the continental canals — sailed across the Channel, towed through the Chunnel, or carried by ferry.
 [7] [Paradox builders mailing list](/references/mailing-list.md) message 2924 (dclark / "dclark52001" / Derek Clark, `paradoxbuilders`, 2005-07-19) — "Re: Mainsheet and outboard": the English Channel is "definitely sailable," having been crossed many times in craft as small as Mirror dinghies "and even the odd bathtub." Signed "Derek."
 [8] [Paradox builders mailing list](/references/mailing-list.md) message 2931 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, 2005-07-21) — "Re: Mainsheet and outboard": the yuloh is excellent as a power source once the wind drops, but with any wind blowing it is hard work to make progress in any direction but downwind, since the yuloh's thrust acts so far aft that stopping the bow blowing off is difficult; fine for manoeuvring in a marina, but any long-distance windward work would soon tire the sculler. Signed "Al, Yeovil, England."
-
-## Related
-
-- [Mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md)
-- [Ground tackle and anchoring technique](/operations/ground-tackle.md)
-- [Yuloh](/components/yuloh.md)

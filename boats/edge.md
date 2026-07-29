@@ -8,18 +8,18 @@ timestamp: 2026-07-02T00:00:00Z
 
 # The Edge
 
-**"The Edge"** is the [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md) — one of the first two Paradoxes known to have sailed, heavily built to Matt Layden's plans, and the source of the archive's most detailed lead-ballast installation technique.
+**"The Edge"** is the [Paradox](/paradox.md) built and sailed by [Don Elliott](/people/don-elliott.md) — one of the first two Paradoxes known to have sailed, heavily built to Matt Layden's plans, and the source of the archive's most detailed lead-ballast installation technique.[1][2][3]
 
 # Record
 
-- By **July 2001**, Don Elliott's was one of only two Paradoxes known to be sailing, the other being Matt Layden's own prototype (see [original Paradox](original-paradox.md)).
-- The boat is **heavily built**, to Matt's plans. Don Elliott became a primary technical resource on the list, authoring the ["Building the Paradox" articles](/references/building-the-paradox-articles.md) (including a coach-roof jig) and advocating building strictly to plan (see [fastening and gluing](/construction/fastening-and-gluing.md)).
-- Its **lead ballast** is installed in hardwood blocks (not oak) epoxy-bonded to the hull and tapped for threaded fastenings after bonding; forward trim lead counterbalances the battery, strapped down with nylon straps; all lead is sealed in plastic with rubber padding. See [weight and ballast](/design/weight-and-ballast.md) for the full technique.
-- Don Elliott is believed, though not confirmed, to live in Wisconsin — the only location given anywhere in the archive for him. See [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md).
+- By **July 2001**, Don Elliott's was one of only two Paradoxes known to be sailing, the other being Matt Layden's own prototype (see [original Paradox](original-paradox.md)).[1]
+- The boat is **heavily built**, to Matt's plans.[2] Don Elliott became a primary technical resource on the list, authoring the ["Building the Paradox" articles](/references/building-the-paradox-articles.md) (including a coach-roof jig) and advocating building strictly to plan (see [fastening and gluing](/construction/fastening-and-gluing.md)).[1][2]
+- Its **lead ballast** is installed in hardwood blocks (not oak) epoxy-bonded to the hull and tapped for threaded fastenings after bonding; forward trim lead counterbalances the battery, strapped down with nylon straps; all lead is sealed in plastic with rubber padding.[3] See [weight and ballast](/design/weight-and-ballast.md) for the full technique.
+- Don Elliott is believed, though not confirmed, to live in Wisconsin — the only location given anywhere in the archive for him.[4] See [Southern California sailing and the Catalina Island crossing question](/operations/southern-california-and-catalina-crossing.md).
 
 # The name
 
-The boat went formally unnamed on the list for roughly two years, referred to only as "Elliott's Paradox." In November 2003 a UK builder posted launch photographs of her on his own website at a URL ending `edge.htm`, from which the name **"The Edge"** was inferred; the same builder then confirmed the name was correct, remarking that it is "quite appropriate" for how a Paradox can feel in a real rough sea, beating to windward or surfing downwind on large breakers. Don Elliott himself is never recorded confirming it. The name was still in independent use as the boat's settled name eleven years later, in the [2014 builders' and owners' census](/references/builders-and-owners-census-2014.md).
+The boat went formally unnamed on the list for roughly two years, referred to only as "Elliott's Paradox."[5] In November 2003 a UK builder posted launch photographs of her on his own website at a URL ending `edge.htm`, from which the name **"The Edge"** was inferred; the same builder then confirmed the name was correct, remarking that it is "quite appropriate" for how a Paradox can feel in a real rough sea, beating to windward or surfing downwind on large breakers.[6][7][8] Don Elliott himself is never recorded confirming it. The name was still in independent use as the boat's settled name eleven years later, in the [2014 builders' and owners' census](/references/builders-and-owners-census-2014.md).[9]
 
 # Citations
 

@@ -22,7 +22,7 @@ Its limits should be read alongside that. It is one owner's account, written for
 
 The blog is live and public. Its **Paradox-relevant span is 2005-02-17 → 2015-12-07**; the author's Paradox ownership ends with Minnow's sale in 2015, and later posts on the blog concern other boats.
 
-The blog runs to **2,380** posts in total. Of these, **443** carry a Paradox-specific signal and are covered here — the word *paradox* in a boat context, one of the two Paradox boat names, *Layden*, or *chine runner* — as against posts using "paradox" philosophically or theologically, "faith" in its religious sense, or generic small-boat posts about sailing canoes, proas, or kayaks that share only incidental vocabulary (`yuloh`, `leeboard`).
+The blog runs to **2,380** posts in total. Of these, **443** carry a Paradox-specific signal and are covered here — the word *paradox* in a boat context, one of the two Paradox boat names, *Layden*, or *chine runner* — as against posts using "paradox" philosophically or theologically, "faith" in its religious sense, or generic small-boat posts about sailing canoes, proas, or kayaks that share only incidental vocabulary (`yuloh`, `leeboard`).[1]
 
 Posts cluster sharply by era: 2005 (32), 2006 (13), 2007 (31), 2008 (23), 2009 (12), 2010 (28), 2011 (15), 2012 (11), **2013 (130)**, **2014 (128)**, 2015 (20). The 2013–14 concentration is the Minnow chapter, blogged daily.
 
@@ -34,7 +34,7 @@ Posts cluster sharply by era: 2005 (32), 2006 (13), 2007 (31), 2008 (23), 2009 (
 
 ## A correction to the record
 
-"Faith" is sometimes summarised as "built from a kit 2005–2007 (the first Paradox kit of its kind)." The blog itself does not support this: the kit was **abandoned before it existed**, the supplied plywood was uncut, and the boat was built from the original plans.[1]
+"Faith" is sometimes summarised as "built from a kit 2005–2007 (the first Paradox kit of its kind)." The blog itself does not support this: the kit was **abandoned before it existed**, the supplied plywood was uncut, and the boat was built from the original plans.[2]
 
 ## Citing this source
 
@@ -48,5 +48,5 @@ The post title and date resolve to that Blogger URL pattern. Because the record 
 
 # Citations
 
-[1] [Bill's Log](/references/bills-log.md) — "Plywood Arrived," Bill Serjeant, 2005-08-01 — ten sheets of Robbins marine plywood arrived, "delived to Alec Jordan of Jordan Boats for him to make a kit version of Paradox, but as he was unable to produce a kit for technical reasons, he sent the plywood to me"; the build was expected to take "as long as two years or more"; sheet 6 of the plans gives the plywood layout — two sheets of 18 mm for bottom, rudder case and bulkhead 3; four 12 mm sheets for sides, bulkhead 2, rudder blade, cabin sole, shelves and transom; three 9 mm sheets for decking, bulkheads 1 and 4, and storage bins; one 6 mm sheet for cabin roof, hatch cover and ventilation baffle.
-[2] [Bill's Log](/references/bills-log.md) — blog scope — the blog runs to 2,380 posts across its full run; 443 of them carry a Paradox-specific signal and are covered in this bundle, spanning 2005-02-17 → 2015-12-07.
+[1] [Bill's Log](/references/bills-log.md) — blog scope — the blog runs to 2,380 posts across its full run; 443 of them carry a Paradox-specific signal and are covered in this bundle, spanning 2005-02-17 → 2015-12-07.
+[2] [Bill's Log](/references/bills-log.md) — "Plywood Arrived," Bill Serjeant, 2005-08-01 — ten sheets of Robbins marine plywood arrived, "delived to Alec Jordan of Jordan Boats for him to make a kit version of Paradox, but as he was unable to produce a kit for technical reasons, he sent the plywood to me"; the build was expected to take "as long as two years or more"; sheet 6 of the plans gives the plywood layout — two sheets of 18 mm for bottom, rudder case and bulkhead 3; four 12 mm sheets for sides, bulkhead 2, rudder blade, cabin sole, shelves and transom; three 9 mm sheets for decking, bulkheads 1 and 4, and storage bins; one 6 mm sheet for cabin roof, hatch cover and ventilation baffle.

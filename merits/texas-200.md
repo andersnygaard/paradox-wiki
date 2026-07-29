@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # The Texas 200, and a Port Townsend Wooden Boat Show showing
 
-The Texas 200 coastal raid and a Port Townsend Wooden Boat Show appearance stand as real-world evidence of a Paradox's cruising ability.
+The Texas 200 coastal raid and a Port Townsend Wooden Boat Show appearance stand as real-world evidence of a Paradox's cruising ability.[1][2]
 
 ## The Texas 200, and a Port Townsend Wooden Boat Show showing
 

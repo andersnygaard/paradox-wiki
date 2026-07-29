@@ -9,9 +9,9 @@ timestamp: 2026-07-23T12:00:00Z
 
 # Little Jim website — "Building a Paradox"
 
-**"Building a Paradox"** is the personal website of **[Alastair Law](/people/alastair-law.md)** (Yeovil, England), a photo-and-text record of building and sailing "**[Little Jim](/boats/little-jim.md)**," the **first Paradox built in the UK**. It is the primary source behind much of the boat's page: the construction galleries, the launch, and Alastair's own cruise write-ups all originate here, and were what drew several later UK builders (see [Pete Martin — what drew him to Paradox](/people/pete-martin.md#what-drew-him-to-paradox)) into the design.
+**"Building a Paradox"** is the personal website of **[Alastair Law](/people/alastair-law.md)** (Yeovil, England), a photo-and-text record of building and sailing "**[Little Jim](/boats/little-jim.md)**," the **first Paradox built in the UK**. It is the primary source behind much of the boat's page: the construction galleries, the launch, and Alastair's own cruise write-ups all originate here, and were what drew several later UK builders (see [Pete Martin — what drew him to Paradox](/people/pete-martin.md)) into the design.
 
-The site went up in September 2002, a year into the build, and was steadily added to through 2012. It is separate from Alastair's own first-person [AYRS meeting talk](/references/ayrs-meeting-video.md) (a 2020 video) and from the third-party [Roger Barnes "MAYDAY" video](/references/roger-barnes-mayday-video.md); this is Alastair's contemporaneous written and photographic record.
+Building ran from wood-cutting in August 2001 to launch in April 2003, at a materials cost of about £2,500.[1] The site went up in September 2002, a year into the build, and was steadily added to through 2012. It is separate from Alastair's own first-person [AYRS meeting talk](/references/ayrs-meeting-video.md) (a 2020 video) and from the third-party [Roger Barnes "MAYDAY" video](/references/roger-barnes-mayday-video.md); this is Alastair's contemporaneous written and photographic record.
 
 ## What it is used for
 
@@ -19,7 +19,7 @@ The site supplies detail the mailing-list archive does not carry in the same for
 
 - **Construction galleries** — steaming the deck and roof beams, bulkheads, trial assembly, sheer strakes and chine logs, internal fittings, deck and cabin, windows and the first sail trial, the launch, the trailer, the outboard mount, and interior views. These corroborate and, in places, extend the build techniques recalled years later on the list (the wire-nail tooling-pin method, bending the bottom ply from bow to stern, glassing the deck before the cabin).
 - **Cruise write-ups** — Alastair's own first-person logs of the 2003 seasons (first sails in Poole Harbour, the 27-mile Portland passage, the Poole–Cowes Solent crossing and knockdown) and later cruises: the 2007 West Country cruise in company with "[Faith](/boats/faith.md)" ("How Scilly can you get?", written for the *Dinghy Cruising Association Bulletin*, giving the cruise's own statistics and a peak of 8.1 kn over the ground), and the 2012 appearance at **Seafair Haven**, Milford Haven, where [Pete Martin](/people/pete-martin.md) filmed her under way.
-- **Published design particulars** — the specification table on the introduction page (LOA 4.2 m, sail area 9.3 m²/100 sq ft, displacement to DWL 640 kg/1410 lb, prismatic 0.58, disp./LWL 270) matches the figures recorded on [design/hull-scantlings.md](/design/hull-scantlings.md).
+- **Published design particulars** — the specification table on the introduction page (LOA 4.2 m, sail area 9.3 m²/100 sq ft, displacement to DWL 640 kg/1410 lb, prismatic 0.58, disp./LWL 270) matches the figures recorded on [design/hull-scantlings.md](/design/hull-scantlings.md).[1]
 
 ## Site history (host moves)
 

@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # Planktos's junk-rigged Shark Bay shakedown cruise
 
-Roselt Croeser's "Planktos" — the archive's only completed, launched, and cruised junk-rig Paradox conversion — made her shakedown cruise from Perth to Shark Bay.
+Roselt Croeser's "Planktos" — the archive's only completed, launched, and cruised junk-rig Paradox conversion — made her shakedown cruise from Perth to Shark Bay.[1]
 
 ## Planktos: a junk-rigged shakedown cruise to Shark Bay
 

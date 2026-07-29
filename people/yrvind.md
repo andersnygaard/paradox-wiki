@@ -8,13 +8,13 @@ timestamp: 2026-07-04T00:00:00Z
 
 # Sven Yrvind
 
-**Sven Yrvind** (also recorded in the archive as **Sven Lundin**) is a Swedish designer and ocean voyager celebrated for building and sailing **extraordinarily small blue-water boats** — the "Bris" series and their successors — and for a minimalist, safety-first design philosophy worked out over a lifetime of single-handed ocean passages. His work is published at [yrvind.com](/references/yrvind-website.md).
+**Sven Yrvind** (also recorded in the archive as **Sven Lundin**) is a Swedish designer and ocean voyager celebrated for building and sailing **extraordinarily small blue-water boats** — the "Bris" series and their successors — and for a minimalist, safety-first design philosophy worked out over a lifetime of single-handed ocean passages.[1][2] His work is published at [yrvind.com](/references/yrvind-website.md).
 
-Yrvind is **not a participant in the `paradoxbuilders` archive** — there is no record of him posting to the list. He earns a place among the bundle's people from the *outside*: he is one of the **most frequently invoked external figures** in the whole archive, cited in three distinct roles that recur across many threads —
+Yrvind is **not a participant in the `paradoxbuilders` archive** — there is no record of him posting to the list. He earns a place among the bundle's people from the *outside*: he is one of the **most frequently invoked external figures** in the whole archive, cited in three distinct roles that recur across many threads —[3][4][5][2]
 
-1. **The design foil.** Paradox's offshore capability, hull form, materials, and rig are repeatedly weighed against Yrvind's structurally very different boats — the archive's first and fullest comparison of Paradox to another named microcruiser designer's body of work. See [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).
-2. **The chine runner's champion.** As [Matt Layden](/matt-layden/biography.md)'s personal friend and weekly correspondent — a man who **sailed Paradox himself for a month in 1997** and adopted the feature on his own boats — Yrvind is the most authoritative *outside* voice on the chine runner, and the source of its best-known epigram: "the greatest innovation for small cruising boats in the last century." See [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md).
-3. **The primary source.** His own website and books are cited directly for the chine runner's mechanism, dating, and evolution, and for Matt Layden's boats' dimensions and history.
+1. **The design foil.** Paradox's offshore capability, hull form, materials, and rig are repeatedly weighed against Yrvind's structurally very different boats — technologically more complex than Matt Layden's, though hydrodynamically similar — the archive's first and fullest comparison of Paradox to another named microcruiser designer's body of work. See [blue-water suitability and comparison to Sven Yrvind's boats](/design/blue-water-suitability.md).[3]
+2. **The chine runner's champion.** As [Matt Layden](/matt-layden/biography.md)'s personal friend and weekly correspondent — a man who **sailed Paradox himself for a month in 1997** and adopted the feature on his own boats — Yrvind is the most authoritative *outside* voice on the chine runner, and the source of its best-known epigram: "the greatest innovation for small cruising boats in the last century." See [Paradox and the chine runner](/people/yrvind/paradox-and-the-chine-runner.md).[1]
+3. **The primary source.** His own website and books are cited directly for the chine runner's mechanism, dating, and evolution, and for Matt Layden's boats' dimensions and history — including his view on sail aspect ratio, relayed to the list from his writings.[1][5]
 
 ## Record and sub-pages
 
@@ -25,13 +25,12 @@ Yrvind is **not a participant in the `paradoxbuilders` archive** — there is no
 
 - The [chine runners](/chine-runners/index.md) branch, where Yrvind's firsthand testimony and primary-source writings are woven through the mechanism, origin, and performance concepts.
 - The ["BRIS Paradox"](/boats/bris-paradox.md) — a Paradox built in Yrvind's foam-sandwich composite method, the archive's only one built that way.
-- Yrvind's Swedish-language books and his boats were also known firsthand elsewhere in the archive; see [William Longyard](/people/william-longyard.md).
+- Yrvind's Swedish-language books and his boats were also known firsthand elsewhere in the archive; see [William Longyard](/people/william-longyard.md).[4]
 
 # Citations
 
 [1] [yrvind.com](/references/yrvind-website.md) — "Paradox & Enigma," — Yrvind's own account of his shallow-draft philosophy, his voyaging history, and his decade studying Paradox with Matt Layden, concluding the chine runner "is the greatest innovation for small cruising boats in the last century."
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 375 (Longyard William H., `paradoxbuilders`, 2002-02-24) — "Re: Design": introduces Yrvind's boats to the list as technologically more complex than Layden's though hydrodynamically similar.
-[3] [Paradox builders mailing list](/references/mailing-list.md) message 380 (Longyard William H., `paradoxbuilders`, 2002-02-24) — "Re: Design": owns a copy of Sven Yrvind's book in Swedish, translated/read to him by a Swedish friend.
-[4] [Paradox builders mailing list](/references/mailing-list.md) message 1517 (longyard / "William Longyard", `paradoxbuilders`, 2003-12-23) — "What Sven Yrvind Said": relays Yrvind's view on sail aspect ratio to the list — see [rig and sail](/components/rig/index.md#sail-aspect-ratio-and-why-a-taller-narrower-rig-would-not-suit-paradox).
-[5] [Paradox builders mailing list](/references/mailing-list.md) message 1734 (longyard / "William Longyard", `paradoxbuilders`, 2004-01-02) — "Sven's Web Page": posts a bare link to `www.yrvind.com`, "Lots of great photos. Enjoy."
-[6] [Paradox builders mailing list](/references/mailing-list.md) message 1059 (longyard / Longyard William H., `paradoxbuilders`, 2003-07-10) — "New Book for Small Boat Fans": refers to "Sven Lundin's [sic] Bris boats," a record of the alternative name under which Yrvind has been known.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 1059 (longyard / Longyard William H., `paradoxbuilders`, 2003-07-10) — "New Book for Small Boat Fans": refers to "Sven Lundin's [sic] Bris boats," a record of the alternative name under which Yrvind has been known.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 375 (Longyard William H., `paradoxbuilders`, 2002-02-24) — "Re: Design": introduces Yrvind's boats to the list as technologically more complex than Layden's though hydrodynamically similar.
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 380 (Longyard William H., `paradoxbuilders`, 2002-02-24) — "Re: Design": owns a copy of Sven Yrvind's book in Swedish, translated/read to him by a Swedish friend.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 1517 (longyard / "William Longyard", `paradoxbuilders`, 2003-12-23) — "What Sven Yrvind Said": relays Yrvind's view on sail aspect ratio to the list — see [rig and sail](/components/rig/index.md#sail-aspect-ratio-and-why-a-taller-narrower-rig-would-not-suit-paradox).

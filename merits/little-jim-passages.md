@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # Little Jim's Portland passage and Solent crossing
 
-Alastair Law's "Little Jim" made two landmark UK passages in her first season, setting an early benchmark for Paradox open-water performance.
+Alastair Law's "Little Jim" made two landmark UK passages in her first season, setting an early benchmark for Paradox open-water performance.[1][2]
 
 ## Little Jim: the Portland passage and the Poole–Cowes Solent crossing (2003)
 

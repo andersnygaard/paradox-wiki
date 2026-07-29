@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # Small Fry's Cape Leeuwin rounding and Shark Bay cruising
 
-Geoff Davis's Western Australian "Small Fry" rounded Cape Leeuwin and cruised the ultra-shoal waters of Shark Bay, the Abrolhos Islands, and Jurien Bay.
+Geoff Davis's Western Australian "Small Fry" rounded Cape Leeuwin and cruised the ultra-shoal waters of Shark Bay, the Abrolhos Islands, and Jurien Bay.[1][2]
 
 ## Small Fry: rounding Cape Leeuwin, and ultra-shoal cruising of Shark Bay and the Abrolhos
 

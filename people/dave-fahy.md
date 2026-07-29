@@ -8,7 +8,7 @@ timestamp: 2026-07-23T00:00:00Z
 
 # Dave Fahy
 
-**Dave Fahy** is a boatbuilder on the **Gold Coast, Queensland**, Australia, who spent about **eighteen months** building an [Enigma](/matt-layden/enigma.md) 3.6, launching and christening her "**Goliath**" on **7 March 2021** — one of the archive's fullest first-person records of building and sailing Matt Layden's smaller Paradox sibling.[1] He first appears in the group already well into the hull work, in April 2020, and that August asked whether anyone else was building an Enigma 3.6 in Australia; the question drew no reply on record, leaving him the archive's only documented Australian Enigma builder-sailor.[2]
+**Dave Fahy** is a boatbuilder on the **Gold Coast, Queensland**, Australia, who spent about **eighteen months** building an [Enigma](/matt-layden/enigma.md) 3.6, launching and christening her "**Goliath**" on **7 March 2021** — one of the archive's fullest first-person records of building and sailing Matt Layden's smaller Paradox sibling.[1] He first appears in the group already well into the hull work, in April 2020, and remains the archive's only documented Australian Enigma builder-sailor.[2]
 
 ## Building Goliath
 
@@ -24,7 +24,7 @@ Fahy's early sailing turned up two separate lessons about running with the wind.
 
 ## A reference point for other Enigma builders
 
-Fahy became a regular voice answering other Enigma owners' questions in the group, drawing on his own experience with the design. He compared ballast weights with a fellow Enigma builder, André-François Bourbeau, as each worked out how much lead their hulls needed.[9][10] When Andreas Westerberg — building a [Paradox](/paradox.md) — asked whether anyone had glassed the inside of their hull, Fahy reported he had glassed his own Enigma's interior, judging the extra strength and protection worth the few extra kilograms of weight.[15] He kept sailing Goliath for years afterward: a September 2025 post records him beating north up the Gold Coast waterways before running down to Browns Bay for the night, then sailing up the Coomera River the next morning before returning to Hollywell — evidence that the boat, and his sailing of her, outlasted the build thread by a long way.[16]
+Fahy became a regular voice answering other Enigma owners' questions in the group, drawing on his own experience with the design. He compared ballast weights with a fellow Enigma builder, as each worked out how much lead their hulls needed.[9][10] Asked by [a Paradox builder](/people/andreas-westerberg.md) whether anyone had glassed the inside of their hull, Fahy reported he had glassed his own Enigma's interior, judging the extra strength and protection worth the few extra kilograms of weight.[15] He kept sailing Goliath for years afterward: a September 2025 post records him beating north up the Gold Coast waterways before running down to Browns Bay for the night, then sailing up the Coomera River the next morning before returning to Hollywell — evidence that the boat, and his sailing of her, outlasted the build thread by a long way.[16]
 
 # Citations
 

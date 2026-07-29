@@ -47,7 +47,7 @@ In practice the precaution proved unnecessary — trialling the sail ashore, the
 - [Mk2 sail](/components/rig/mk2-sail.md) — the preceding revision, including the peaked-head shape current in 2014.
 - [Furling system](/components/rig/furling.md) — the roll-around-the-boom reefing whose effectiveness is the premise of the larger sail.
 - [Sailmaking](/construction/sailmaking.md) — building a home-made lug sail for a Paradox-family boat.
-- [Mark Brothers](/people/mark-brothers.md) — the owner this sail was built for, and his boat, "Pamela B," and other rig, weight, and cruising notes.
+- [Mark Brothers](/people/mark-brothers.md) — the owner this sail was built for, of Newcastle, New South Wales, Australia, and a different person from [Mark Waters](/people/mark-waters.md), the US builder of "Raffles" — his boat, "Pamela B," and other rig, weight, and cruising notes are covered on his own page.[2][3]
 
 # Citations
 

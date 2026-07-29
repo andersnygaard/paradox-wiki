@@ -8,35 +8,35 @@ timestamp: 2026-07-02T00:00:00Z
 
 # Terrapin
 
-**Terrapin** was [Matt Layden](/matt-layden/biography.md)'s **first home-made microcruiser**, built around 1985 — the boat that starts the documented Layden design lineage running through [Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md), [Little Cruiser](/matt-layden/little-cruiser.md), and the [Paradox](/paradox.md) itself. She is not a Paradox hull, but she is essential background: Terrapin's shortcomings, discovered the hard way, are the direct reason later Layden boats abandoned leeboards for [chine runners](/chine-runners/origin-and-evolution.md) and were designed to be self-righting.
+**Terrapin** was [Matt Layden](/matt-layden/biography.md)'s **first home-made microcruiser**, built around 1985[1] — the boat that starts the documented Layden design lineage running through [Swamp Thing](/matt-layden/swamp-thing.md), [GJAC](/matt-layden/gjac.md), [Little Cruiser](/matt-layden/little-cruiser.md), and the [Paradox](/paradox.md) itself. She is not a Paradox hull, but she is essential background: Terrapin's shortcomings, discovered the hard way, are the direct reason later Layden boats abandoned leeboards for [chine runners](/chine-runners/origin-and-evolution.md) and were designed to be self-righting.
 
 ## Design particulars
 
 - **Length: 16 ft**
-- **Beam: 6 ft** — described as "moderately beamy"
-- Cat boat rig with a **fully battened mainsail**
-- **Toed-in leeboards** for lateral resistance (no chine runners, no centerboard — those came later)
-- A cabin, with accommodations reported as "fine"
-- Built of **marine-grade plywood**
+- **Beam: 6 ft** — described as "moderately beamy"[2][1]
+- Cat boat rig with a **fully battened mainsail**[2][1]
+- **Toed-in leeboards** for lateral resistance (no chine runners, no centerboard — those came later)[2]
+- A cabin, with accommodations reported as "fine"[1]
+- Built of **marine-grade plywood**[3]
 
-She was "quite fast" and fast to windward, and cruised extensively along the northeastern U.S. seaboard, where she "worked reasonably well."
+She was "quite fast" and fast to windward, and cruised extensively along the northeastern U.S. seaboard, where she "worked reasonably well."[2][1]
 
 ## Why the leeboards and plywood were abandoned
 
 Two shortcomings emerged during Matt's travels north, both of which shaped every Layden boat that followed:
 
-- **The leeboards were "cumbersome, noisy," and tended to pick up debris** — fouling on lobster-pot lines and seaweed. This specific complaint is the documented reason Matt replaced leeboards with [chine runners](/chine-runners/origin-and-evolution.md) on Swamp Thing, Terrapin's successor: chine runners "had the added benefit of not picking up lobster pot lines or sea weed, which proved troublesome with the leeboards on Terrapin."
-- **Marine-grade plywood was judged not cost-effective** for the times — a construction-economics conclusion that shows up again in the switch to exterior-grade plywood on Swamp Thing.
+- **The leeboards were "cumbersome, noisy," and tended to pick up debris**[1] — fouling on lobster-pot lines and seaweed. This specific complaint is the documented reason Matt replaced leeboards with [chine runners](/chine-runners/origin-and-evolution.md) on Swamp Thing, Terrapin's successor: chine runners "had the added benefit of not picking up lobster pot lines or sea weed, which proved troublesome with the leeboards on Terrapin."[4][5]
+- **Marine-grade plywood was judged not cost-effective** for the times[3] — a construction-economics conclusion that shows up again in the switch to exterior-grade plywood on Swamp Thing.[5]
 
 ## The knockdown off Maine: the origin story for self-righting
 
-The pivotal event in Terrapin's short career, and arguably in the whole Layden design lineage, was a **severe knockdown in a fierce storm off the coast of Maine**. Terrapin's flat bottom and six-foot beam meant she was not self-righting at that beam:
+The pivotal event in Terrapin's short career, and arguably in the whole Layden design lineage, was a **severe knockdown in a fierce storm off the coast of Maine**. Terrapin's flat bottom and six-foot beam meant she was not self-righting at that beam:[3]
 
-> "The boat went to 90 degrees and stayed there, supported only by her buoyant mast."
+> "The boat went to 90 degrees and stayed there, supported only by her buoyant mast."[6]
 
-Only Terrapin's **large-diameter hollow mast**, buoyant enough to prevent a full capsize, kept her from going all the way over. When the wind abated, Matt righted the boat himself — but the experience "started him thinking about a better and more seaworthy design."
+Only Terrapin's **large-diameter hollow mast**, buoyant enough to prevent a full capsize, kept her from going all the way over. When the wind abated, Matt righted the boat himself — but the experience "started him thinking about a better and more seaworthy design."[6][3]
 
-That thinking produced Swamp Thing's much narrower beam (reduced "by over two feet" from Terrapin's six feet) and, from Swamp Thing onward, hull forms designed to be actively **self-righting** rather than dependent on a buoyant mast to avoid turning turtle — a design goal explicitly listed among the "interesting details" of the [Paradox](/paradox.md) itself. See [weight and ballast](/design/weight-and-ballast.md) for how later boats used water ballast low in the hull, together with narrow beam, to achieve this.
+That thinking produced Swamp Thing's much narrower beam (reduced "by over two feet" from Terrapin's six feet)[5] and, from Swamp Thing onward, hull forms designed to be actively **self-righting** rather than dependent on a buoyant mast to avoid turning turtle — a design goal explicitly listed among the "interesting details" of the [Paradox](/paradox.md) itself. See [weight and ballast](/design/weight-and-ballast.md) for how later boats used water ballast low in the hull, together with narrow beam, to achieve this.
 
 Terrapin is therefore best understood not as a Paradox precursor in form — she shares little with Paradox's chine-runner, no-leeboard hull — but as the **design ancestor whose failures set the whole trajectory** that eventually produced Paradox: narrower beam, chine runners in place of leeboards, and a self-righting hull.
 
@@ -46,10 +46,10 @@ A published sighting log dates Terrapin on the water two years earlier than the 
 
 # Citations
 
-[1] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — "Matt's first home-made microcruiser (pic 1), Terrapin, was 16' long and had a 6' beam. With a fully battened mainsail and toed-in leeboards, she was reportedly quite fast to windward."
-[2] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — "one day in the cold waters off the coast of Maine, the small flat bottomed boat experienced a severe knock down in a fierce storm. The boat went to 90 degrees and stayed there, supported only by her buoyant mast. When the winds abated, Matt righted his craft, but the experience started him thinking about a better and more seaworthy design."
-[3] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — chine runners on Swamp Thing "had the added benefit of not picking up lobster pot lines or sea weed, which proved troublesome with the leeboards on Terrapin."
-[4] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "Terrapin was constructed in around 1985. This was a moderately beamy boat with leeboards, a cabin and a full battened main sail. We were told that she was quite fast and that her accomadations were fine, but eventually Matt discovered some shortcomings during his travels up North. He noticed that the leeboards were cumbersome, noisy and they tended to pick up debris."
-[5] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "He also realized that the 6 foot beam prevented the shoal draft boat from being self-righting after he experienced a severe knockdown off the coast of Maine. Luckily, the large diameter hollow mast prevented Terrapin from going all the way over, and the boat was eventually righted. He also concluded that his use of marine grade plywood was not cost effective for the times."
-[6] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "With the completion of the 13'2" Swamp Thing in 1985, he simplified the whole construction process, and he minimized the costs of building by using exterior grade plywood. The beam was reduced by over 2 feet, and he added chine runners or external chine logs in place of the leeboards."
+[1] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "Terrapin was constructed in around 1985. This was a moderately beamy boat with leeboards, a cabin and a full battened main sail. We were told that she was quite fast and that her accomadations were fine, but eventually Matt discovered some shortcomings during his travels up North. He noticed that the leeboards were cumbersome, noisy and they tended to pick up debris."
+[2] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — "Matt's first home-made microcruiser (pic 1), Terrapin, was 16' long and had a 6' beam. With a fully battened mainsail and toed-in leeboards, she was reportedly quite fast to windward."
+[3] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "He also realized that the 6 foot beam prevented the shoal draft boat from being self-righting after he experienced a severe knockdown off the coast of Maine. Luckily, the large diameter hollow mast prevented Terrapin from going all the way over, and the boat was eventually righted. He also concluded that his use of marine grade plywood was not cost effective for the times."
+[4] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — chine runners on Swamp Thing "had the added benefit of not picking up lobster pot lines or sea weed, which proved troublesome with the leeboards on Terrapin."
+[5] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "With the completion of the 13'2" Swamp Thing in 1985, he simplified the whole construction process, and he minimized the costs of building by using exterior grade plywood. The beam was reduced by over 2 feet, and he added chine runners or external chine logs in place of the leeboards."
+[6] [microcruising.com](/references/microcruising-website.md) — "Terrapin and GJAC," David & Mindy Bolduc — "one day in the cold waters off the coast of Maine, the small flat bottomed boat experienced a severe knock down in a fierce storm. The boat went to 90 degrees and stayed there, supported only by her buoyant mast. When the winds abated, Matt righted his craft, but the experience started him thinking about a better and more seaworthy design."
 [7] [Messing About In Boats](/references/messing-about-in-boats.md), vol. 14 no. 16 (≈January 1, 1997), "Your Experiences" column (letter), Irving C. Sheldon — "Layden Sightings": two 1983–84 log entries recording a chance meeting with young Matt Layden single-handing his self-built cat-boat "Terrapin of New London, CT" off Florida/Georgia — about the size of a Beetle cat but with leeboards and a fully battened sail, could be completely closed in with oars stuck out the sides, the helmsman sitting aft with his head out a hatch. See [the Building Paradox series — biographical glimpses of Matt Layden](/references/building-paradox-series.md#biographical-glimpses-of-matt-layden-from-the-series).

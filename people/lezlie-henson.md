@@ -16,7 +16,7 @@ She signs her blog only "Lezlie." The surname **"Henson"** used here follows the
 
 Henson came to the Paradox as a relative newcomer to both sailing and boatbuilding: she had learned to sail about three and a half years earlier on a **41′ Irwin ketch**, and — after her husband **Dale** found Matt Layden's design and she asked for plywood for Christmas — built two **PDRacers** (Puddle Duck Racers) first, to learn epoxy, fibreglass, rudders, leeboards, and tools, before taking on the Paradox.[2][3] She built to the plans plus **Don Elliott's** construction manual, working questions out on the **[Paradox Yahoo group](/references/mailing-list.md)**.[4]
 
-The build ran roughly two years in a garage and driveway: first dry-fit of the bulkheads in **January 2011**, the bottom on by **March**, fit-out through 2011–12, and the boat all but complete by early 2013.[4][5] It is, so far as the archive records, the **only Paradox she is known to have built**.
+The build ran roughly two years in a garage and driveway: first dry-fit of the bulkheads in **January 2011**, the bottom on by **March**, fit-out through 2011–12, and the boat all but complete by early 2013 — the **only Paradox she is known to have built**.[4][5]
 
 ## What she built, and how
 

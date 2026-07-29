@@ -8,13 +8,13 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Study Plans
 
-An introductory set of **Study Plans** for the Paradox was shared early in the community's history via the [mailing list](/references/mailing-list.md) files area, including a "Description of Study Plans" document guiding readers through the study-plan files.
+An introductory set of **Study Plans** for the Paradox was shared early in the community's history via the [mailing list](/references/mailing-list.md) files area, including a "Description of Study Plans" document guiding readers through the study-plan files.[1]
 
 Study plans are a preliminary/overview package (distinct from the full building plans), typically used to evaluate a design before committing to a build. For the full [building plans](/references/building-plans.md) — where to buy them and their price — see that concept.
 
 ## Study plans and sketches on microcruising.com
 
-[microcruising.com](/references/microcruising-website.md) hosts a set of Paradox study-plan images and a page of Paradox construction sketches. Both are explicitly **for inspiration only**: the study-plan page states they "are presented here soley for inspiration… not intended to be used to build another Paradox," directing anyone who wants to build to email for "a proper set of plans" (i.e. the real [building plans](/references/building-plans.md)).
+[microcruising.com](/references/microcruising-website.md) hosts a set of Paradox study-plan images and a page of Paradox construction sketches. Both are explicitly **for inspiration only**: the study-plan page states they "are presented here soley for inspiration… not intended to be used to build another Paradox," directing anyone who wants to build to email for "a proper set of plans" (i.e. the real [building plans](/references/building-plans.md)).[2]
 
 ## Citing this source
 

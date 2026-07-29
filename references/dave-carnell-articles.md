@@ -12,11 +12,11 @@ An external, non-Paradox-specific boat-building website, useful to Paradox build
 
 ## Paint choice: water-based over oil-based
 
-The site's paint article (`http://home.att.net/~DaveCarnell/articles.html#A1`), relevant to [topside and hull painting choices](/construction/topside-painting.md), concludes that **water-based paint is not only acceptable, it is superior** for this kind of small plywood boat — "an outstanding article" on the subject.
+The site's paint article (`http://home.att.net/~DaveCarnell/articles.html#A1`), relevant to [topside and hull painting choices](/construction/topside-painting.md), concludes that **water-based paint is not only acceptable, it is superior** for this kind of small plywood boat — "an outstanding article" on the subject.[1][2]
 
 ## Treating rot fungus as a precaution
 
-The site's second article, `http://home.att.net/~DaveCarnell/rot.html`, describes a **formula for treating rot fungus**, applicable to a discolored but structurally solid spot found during an [ice-pick rot check](/construction/rot-inspection-ice-pick.md): the treatment "should keep it from reappearing, if there ever was any" — a precautionary measure rather than a repair for actual structural rot.
+The site's second article, `http://home.att.net/~DaveCarnell/rot.html`, describes a **formula for treating rot fungus**, applicable to a discolored but structurally solid spot found during an [ice-pick rot check](/construction/rot-inspection-ice-pick.md): the treatment "should keep it from reappearing, if there ever was any" — a precautionary measure rather than a repair for actual structural rot.[3]
 
 The same treatment was later applied while redoing "[Whisper](/boats/whisper.md)"'s interior, with the affected area described as "repaired and treated per Dave carnell" before being epoxy-sealed over — see [checking a used Paradox for rot — a five-months-later coda](/construction/rot-inspection-ice-pick.md) for the full account.
 

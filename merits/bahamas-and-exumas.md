@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # The Bolducs' Bahamas cruising, and the 2013 engine-free crossing
 
-David and Mindy Bolduc's cruising log documents decades of Bahamas cruising, capped by a 2013 solo crossing sailed entirely without an outboard.
+David and Mindy Bolduc's cruising log documents decades of Bahamas cruising, capped by a 2013 solo crossing sailed entirely without an outboard.[1][2][3][4]
 
 ## The Bolducs: decades of Bahamas cruising, and a 2013 engine-free solo crossing
 

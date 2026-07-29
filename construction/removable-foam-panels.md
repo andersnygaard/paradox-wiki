@@ -8,15 +8,15 @@ timestamp: 2026-07-01T00:00:00Z
 
 # Removable foam flotation panels
 
-Foam flotation in a Paradox can be installed **without gluing it directly to the hull**, answering a concern raised in the earlier [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md): that foam glued straight to the hull skin can never be inspected for moisture intrusion underneath.
+Foam flotation in a Paradox can be installed **without gluing it directly to the hull**, answering a concern raised in the earlier [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md): that foam glued straight to the hull skin can never be inspected for moisture intrusion underneath.[1]
 
 ## Why foam glued to the hull is a problem
 
-Gluing foam directly to the hull prevents ever checking behind it for **moisture intrusion**, and leaves the eventual **cosmetic appearance of dimpled foam** after wear. These drawbacks are serious enough to justify **leaving the foam out entirely** rather than gluing it in place — a boat sails safely enough without positive flotation ("I've never sailed on a monohull that could [stay afloat if holed]"), even though flotation remains a valuable safety margin.
+Gluing foam directly to the hull prevents ever checking behind it for **moisture intrusion**, and leaves the eventual **cosmetic appearance of dimpled foam** after wear. These drawbacks are serious enough to justify **leaving the foam out entirely** rather than gluing it in place — a boat sails safely enough without positive flotation ("I've never sailed on a monohull that could [stay afloat if holed]"), even though flotation remains a valuable safety margin.[1]
 
 ## The solution: door-skin panels over the foam
 
-The fix is to mount the foam on a removable panel instead of bonding it to the hull, using **door skin** — a thin (1/8 in) mahogany plywood, inexpensive and widely available (e.g. from Home Depot), already common as pattern stock:
+The fix is to mount the foam on a removable panel instead of bonding it to the hull, using **door skin** — a thin (1/8 in) mahogany plywood, inexpensive and widely available (e.g. from Home Depot), already common as pattern stock:[1]
 
 1. Cut door-skin panels to fit each area between the **bulkheads, chine logs, and sheer clamps**.
 2. Glue the foam to the **back** of each panel.
@@ -25,15 +25,15 @@ The fix is to mount the foam on a removable panel instead of bonding it to the h
 5. Screw the panel to the mounting blocks (removable, not glued).
 6. **Paint or varnish** the exposed door-skin face for a finished interior.
 
-The same approach works on the **deck head**, and the panels incidentally **hide wiring and plumbing runs** as well as providing insulation. Because the panels are screwed rather than glued, they can be removed periodically to inspect the hull behind the foam for moisture — the exact capability lost when foam is glued directly to the hull.
+The same approach works on the **deck head**, and the panels incidentally **hide wiring and plumbing runs** as well as providing insulation. Because the panels are screwed rather than glued, they can be removed periodically to inspect the hull behind the foam for moisture — the exact capability lost when foam is glued directly to the hull.[1]
 
-A polystyrene variant is also viable: the door-skin covering lets a builder safely use **expanded polystyrene** instead of the flotation foams normally chosen for boat use, since the skin protects the more fragile polystyrene from mechanical damage.
+A polystyrene variant is also viable: the door-skin covering lets a builder safely use **expanded polystyrene** instead of the flotation foams normally chosen for boat use, since the skin protects the more fragile polystyrene from mechanical damage.[2]
 
 ## Relationship to the plywood-grade debate
 
 This technique is a practical answer to the concern raised in the [plywood grade and foam flotation debate](/construction/plywood-grades-and-foam-flotation.md): that gluing foam directly onto interior fir plywood makes it impossible to inspect for moisture-related checking. By mounting the foam on a removable panel instead of bonding it to the hull skin, a builder gets flotation, insulation, and a paintable finish while preserving inspectability — sidestepping the grade-of-plywood risk entirely for the inspection concern, though the underlying hull plywood grade still matters for the reasons discussed there.
 
-The technique needs no modification for other Paradox builds: install the foam per this removable-panel method, with nothing else to change.
+The technique needs no modification for other Paradox builds: install the foam per this removable-panel method, with nothing else to change.[3]
 
 # Citations
 
