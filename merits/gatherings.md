@@ -1,14 +1,14 @@
 ---
 type: Concept
-title: Apalachicola Bay, the Iowa messabout, and a DCA week at Cobnor
-description: Three smaller Paradox-adjacent gathering points — a solo-scouted Apalachicola Bay meeting ground, an unconnected general small-boat messabout in Iowa, and a Dinghy Cruising Association week at Cobnor, Chichester Harbour.
-tags: [paradox, merits, gatherings, apalachicola-bay, dca, cobnor]
+title: Apalachicola Bay, the Iowa messabout, a DCA week at Cobnor, and the Havasu Pocket Cruisers Convention
+description: Four Paradox-adjacent gathering points — a solo-scouted Apalachicola Bay meeting ground, an unconnected general small-boat messabout in Iowa, a Dinghy Cruising Association week at Cobnor, Chichester Harbour, and the Havasu Pocket Cruisers Convention founded by a Paradox owner.
+tags: [paradox, merits, gatherings, apalachicola-bay, dca, cobnor, havasu, arizona]
 timestamp: 2026-07-20T00:00:00Z
 ---
 
-# Apalachicola Bay, the Iowa messabout, and a DCA week at Cobnor
+# Apalachicola Bay, the Iowa messabout, a DCA week at Cobnor, and the Havasu Pocket Cruisers Convention
 
-Three smaller gathering points round out the Paradox community's meetup record: a solo-scouted Apalachicola Bay, an unconnected Iowa messabout, and a Dinghy Cruising Association week at Cobnor.
+Four gathering points, of very different scale, round out the Paradox community's meetup record: a solo-scouted Apalachicola Bay, an unconnected Iowa messabout, a Dinghy Cruising Association week at Cobnor, and the much larger annual Havasu Pocket Cruisers Convention.
 
 ## Apalachicola Bay: a proposed meeting ground, scouted solo (2002)
 
@@ -30,6 +30,10 @@ A newer builder, working through his own hypothetical future cruising plans — 
 
 A practical wrinkle in staging any such gathering in the Bahamas surfaced the following month: getting builders from outside the mainland US ("the other side of the Lake") and their own boats to the location at all, absent sponsorship from a well-funded outside backer. One proposed workaround was a **time-share/accommodation-sharing scheme** — whoever had a finished boat ready by the gathering's date offering to share it, with camping or overnight accommodation arranged jointly, so a builder unable to bring a boat of his own could still fly in, sail, and pick up hands-on tuning insight from owners who had already sorted their boats out.[9]
 
+## The Havasu Pocket Cruisers Convention (Lake Havasu City, Arizona)
+
+An annual trailer-sailer gathering held each February at **Lake Havasu City, Arizona**, founded by the owner of the Paradox "[Scout](/boats/scout.md)" (see [Sean Mulligan](/people/sean-mulligan.md)), drew roughly **70 boats** in 2010. By August that year, with the 2011 edition (**14–21 February**) still six months off, **40 boats and crews from seven Western US states and Canada** had already signed up, toward a stated goal of **100 or more**.[10]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 312 (Glen Maxwell, `paradoxbuilders`, 2002-02-02) — "Re: Need advise": proposes a weekend group cruise in Apalachicola Bay, campgrounds on St. George Island, "a wonderful place to camp and sail," each owner able to inspect and sail the other's boat, open to other list members and to a more central location if one made better sense; roughly an 8-hour drive from Memphis.
@@ -41,3 +45,4 @@ A practical wrinkle in staging any such gathering in the Bahamas surfaced the fo
 [7] [Paradox builders mailing list](/references/mailing-list.md) message 5338 (mwatersworld / Mark Waters, `paradoxbuilders`, 2008-08-20) — "Re: Book Suggestion": full text and citation also at [people/mark-waters.md](/people/mark-waters.md); agrees a national Paradox meet would be appealing, "unless you're already in Hawaii Rod!" Signed "Mark."
 [8] [Paradox builders mailing list](/references/mailing-list.md) message 5339 (rdnycannon / Rodney Cannon, `paradoxbuilders`, 2008-08-20) — "Re: Book Suggestion": full text and citation also at [people/rodney-cannon.md](/people/rodney-cannon.md); admits the Hawaii idea took hold; envisions sailing to the Bahamas after finishing his boat to attend such a gathering, which he calls a "Paracon." Signed "Rod."
 [9] [Paradox builders mailing list](/references/mailing-list.md) message 5576 (rdnycannon / "rdnycannon" / Rodney Cannon, `paradoxbuilders`, 2008-09-21) — "If we should do a Para-con in the future": full text and citation also at [people/rodney-cannon.md](/people/rodney-cannon.md); a rough spot in throwing a Bahamas paracon would be getting builders from "the other side of the Lake" (anywhere but the USA) over with their boats, absent sponsorship from someone like Virgin; floats a time-share scheme instead — if his own boat is ready by the event, offering to work out accommodation or camping and share boats with builders who couldn't bring their own, letting them fly in and still participate while picking up tuning insight from experienced owners; hopes for at least another year on his own build first. Signed "Rod."
+[10] [Paradox builders mailing list](/references/mailing-list.md) message 6629 (nebwest2 / "nebwest2", `paradoxbuilders`, 2010-08-17) — "Havasu Pocket Cruisers Convention 2011 - Booking up!": full text and citation also at [people/sean-mulligan.md](/people/sean-mulligan.md#citations); the convention's website (`sailhavasu.com`) is now live, with a video of the previous year's event; already 40 boats and crews from 7 Western states and Canada signed up six months ahead of the 2011 dates, 14–21 February, at Lake Havasu City, AZ; 70 boats attended the year before, with a goal of 100+ this time; the website is updated daily with attendee, boat, and seminar information. Signed "nebwest2."

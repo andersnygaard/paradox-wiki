@@ -23,6 +23,7 @@ None of that coverage is re-described here — see each reference page above for
 ## Races
 
 * [The Everglades Challenge, and the wider Layden racing record](everglades-challenge.md) - A Paradox hull's outright 2003 WaterTribe Everglades Challenge win, and the class wins and podium finishes Matt Layden went on to post in three later, lighter WaterTribe-raced designs.
+* [The 2010 Ultimate Florida Challenge, followed from the list](ultimate-florida-challenge-2010.md) - The day-by-day mailing-list record of Matt Layden's 2010 WaterTribe Ultimate Florida Challenge in Elusion — a dockside inspection on the eve of the start, the three-way lead battle with Whitecaps and Manitou Cruiser, tracker-measured speeds, and the forty-mile portage where the archive's account ends.
 * [A Paradox in the Race to Alaska (R2AK 2026)](race-to-alaska.md) - The 2026 Race to Alaska fleet listed a Paradox — Team Forget Me Knot, the smallest boat entered at thirteen feet — for the roughly 750-mile engine-free run from Port Townsend to Ketchikan; the archive records the entry but not the outcome.
 
 ## Voyages
@@ -43,4 +44,4 @@ None of that coverage is re-described here — see each reference page above for
 
 * [Cedar Key, the annual small-boat messabout](cedar-key.md) - Cedar Key, held the first weekend of May off Florida's Gulf coast, is the Paradox community's longest-running meeting point, drawing magazine coverage and repeated visits from Matt Layden.
 * [The Texas 200, and a Port Townsend Wooden Boat Show showing](texas-200.md) - The Texas 200 coastal raid and a Port Townsend Wooden Boat Show appearance, used by owners as real-world evidence of a Paradox's cruising ability.
-* [Apalachicola Bay, the Iowa messabout, and a DCA week at Cobnor](gatherings.md) - Three smaller Paradox-adjacent gathering points — a solo-scouted Apalachicola Bay meeting ground, an unconnected general small-boat messabout in Iowa, and a Dinghy Cruising Association week at Cobnor, Chichester Harbour.
+* [Apalachicola Bay, the Iowa messabout, a DCA week at Cobnor, and the Havasu Pocket Cruisers Convention](gatherings.md) - A solo-scouted Apalachicola Bay meeting ground, an unconnected general small-boat messabout in Iowa, a Dinghy Cruising Association week at Cobnor, Chichester Harbour, and the much larger annual Havasu Pocket Cruisers Convention founded by a Paradox owner.
