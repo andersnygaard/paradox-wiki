@@ -30,10 +30,10 @@ None of the citations below carry an individual Micro Cruising message number; t
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 50 (Don Elliott, `paradoxbuilders`, 2001-09-04) — "Paradox members might consider joining Dave's new group 'Micro Cruising'"; link `http://groups.yahoo.com/group/microcruising`.
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 63 (Don Elliott, `paradoxbuilders`, 2001-09-25) — recommends Micro Cruising to David Beede as a place to learn more about Paradox, check photos and files section; names Dave Bolduc as the only authorized plans seller.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 46 (Don Elliott, `paradoxbuilders`, 2001-09-04) — "Paradox members might consider joining Dave's new group 'Micro Cruising'"; link `http://groups.yahoo.com/group/microcruising`.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 59 (Don Elliott, `paradoxbuilders`, 2001-09-25) — recommends Micro Cruising to David Beede as a place to learn more about Paradox, check photos and files section; names Dave Bolduc as the only authorized plans seller.
 [3] [Paradox builders mailing list](/references/mailing-list.md) message 464 (kevin1b / Kevin, `paradoxbuilders`, 2002-04-19) — "Re: Hello": points new member Ernie Fossel to "the microcruising forum which Dave Bolduc moderates."
-[4] [Paradox builders mailing list](/references/mailing-list.md) message 80 (Glen C. Maxwell, `paradoxbuilders`/`microcruising`, 2001-10-06) — cross-posted plywood-grade/foam-flotation rebuttal to Don Elliott.
-[5] [Paradox builders mailing list](/references/mailing-list.md) message 3321 (dlb / "buster38801" / David Beard, `paradoxbuilders`, 2006-01-29) — "Dave Boldacs Yahoo Group": asks whether anyone has the link to Dave Bolduc's Yahoo group, "Micrcrusing."
-[6] [Paradox builders mailing list](/references/mailing-list.md) message 3322 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, 2006-01-29) — "Re: Dave Boldacs Yahoo Group": supplies `http://groups.yahoo.com/group/microcruising/`. Signed "Al, Yeovil, England."
-[7] [Paradox builders mailing list](/references/mailing-list.md) message 3323 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, 2006-01-28) — "Re: Dave Boldacs Yahoo Group": supplies `www.microcruising.com`.
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 76 (Glen C. Maxwell, `paradoxbuilders`/`microcruising`, 2001-10-06) — cross-posted plywood-grade/foam-flotation rebuttal to Don Elliott.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 3352 (dlb / "buster38801" / David Beard, `paradoxbuilders`, 2006-01-29) — "Dave Boldacs Yahoo Group": asks whether anyone has the link to Dave Bolduc's Yahoo group, "Micrcrusing."
+[6] [Paradox builders mailing list](/references/mailing-list.md) message 3353 (openboat / "alopenboat" / Alastair, `paradoxbuilders`, 2006-01-29) — "Re: Dave Boldacs Yahoo Group": supplies `http://groups.yahoo.com/group/microcruising/`. Signed "Al, Yeovil, England."
+[7] [Paradox builders mailing list](/references/mailing-list.md) message 3354 (Chris / "wedgesail" / Chris Ostlind, `paradoxbuilders`, 2006-01-28) — "Re: Dave Boldacs Yahoo Group": supplies `www.microcruising.com`.

@@ -26,5 +26,5 @@ For the full building plans — the actual buildable document, and how to obtain
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 10 (Yahoo Groups file-upload notification, 2001-07-08) — file "/Study Plans/Description of Study Plans" uploaded to the paradoxbuilders files area.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 6 (Yahoo Groups file-upload notification, 2001-07-08) — file "/Study Plans/Description of Study Plans" uploaded to the paradoxbuilders files area.
 [2] [microcruising.com](/references/microcruising-website.md) — "Paradox Study Plans" and "Paradox Sketches," David & Mindy Bolduc — study-plan images "presented here soley for inspiration… not intended to be used to build another Paradox"; directs readers to email for a proper set of plans.

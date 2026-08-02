@@ -37,7 +37,7 @@ Pages are cited in the form:
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 1734 (longyard / "William Longyard", `paradoxbuilders`, 2004-01-02) — "Sven's Web Page": posts a bare link to `www.yrvind.com`, "Lots of great photos. Enjoy." (see also message 1059's earlier pointer to the same site).
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 1756 (longyard / "William Longyard", `paradoxbuilders`, 2004-01-02) — "Sven's Web Page": posts a bare link to `www.yrvind.com`, "Lots of great photos. Enjoy." (see also message 1059's earlier pointer to the same site).
 [2] [Paradox builders mailing list](/references/mailing-list.md) message 5900 (jhargrovewright2 / "johninbastrop", `paradoxbuilders`, 2009-02-11) — "Yrvind updates his build": noticed the site's build record had been updated; wishes there were an archive to see past updates too. Signed "johninbastrop."
 [3] [Paradox builders mailing list](/references/mailing-list.md) message 5901 (maxp90 / Mark Hamilton, `paradoxbuilders`, 2009-02-11) — "Re: Yrvind updates his build": calls the boat a "top of the line" Paradox, hoping one day to afford something like it or a Paradox of his own; looks forward to Yrvind's sea trials and comments on the chine runners. (Yahoo-webmail `multipart/alternative`; identical plain-text and HTML parts, pruned to plain text.) Signed "Mark Hamilton."
 [4] [Paradox builders mailing list](/references/mailing-list.md) message 5902 (pdmartin / "randoneur" / Pete Martin, `paradoxbuilders`, 2009-02-11) — "Re: Yrvind updates his build": points out the blog already goes all the way back to the beginning of the build, and asks whether more than that was wanted. Signed "Pete."

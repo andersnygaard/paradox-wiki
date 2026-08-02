@@ -16,5 +16,5 @@ Leinweber republished a [bottom-painting technique](/construction/bottom-paintin
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 12 (Chuck Leinweber, `paradoxbuilders`, 2001-07-10) — asks to use the bottom-paint tip in Duckworks Magazine; recounts topside-paint failure on his "Tennessee."
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 14 (Glen C. Maxwell, 2001-07-11) — grants Chuck permission to use the tip in Duckworks.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 8 (Chuck Leinweber, `paradoxbuilders`, 2001-07-10) — asks to use the bottom-paint tip in Duckworks Magazine; recounts topside-paint failure on his "Tennessee."
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 10 (Glen C. Maxwell, 2001-07-11) — grants Chuck permission to use the tip in Duckworks.

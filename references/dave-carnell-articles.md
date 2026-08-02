@@ -29,6 +29,6 @@ The site (`home.att.net/~DaveCarnell`, on AT&T's now-discontinued personal-pages
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 169 (James Fuller, `paradoxbuilders`, 2001-12-14) — "Re: Paint": links to `http://home.att.net/~DaveCarnell/articles.html#A1`; summarizes the article's conclusion that water-based paint is superior.
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 170 (Glen C. Maxwell, `paradoxbuilders`, 2001-12-15) — "Re: Paint": calls the article outstanding.
-[3] [Paradox builders mailing list](/references/mailing-list.md) message 312 (Glen Maxwell, `paradoxbuilders`, 2002-02-01) — "Re: Need advise": links `http://home.att.net/~DaveCarnell/rot.html` for a rot-fungus treatment formula.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 165 (James Fuller, `paradoxbuilders`, 2001-12-14) — "Re: Paint": links to `http://home.att.net/~DaveCarnell/articles.html#A1`; summarizes the article's conclusion that water-based paint is superior.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 166 (Glen C. Maxwell, `paradoxbuilders`, 2001-12-15) — "Re: Paint": calls the article outstanding.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 310 (Glen Maxwell, `paradoxbuilders`, 2002-02-01) — "Re: Need advise": links `http://home.att.net/~DaveCarnell/rot.html` for a rot-fungus treatment formula.
