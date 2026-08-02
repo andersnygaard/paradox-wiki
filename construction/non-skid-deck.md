@@ -49,6 +49,10 @@ A far cheaper alternative: rubberized non-skid strip made for household stair tr
 
 **Little Cruiser**'s non-skid deck is made by broadcasting **PETTIT 9900 Skidless Compound** (a fine silica/silicone-oxide grit) over wet paint, using a **large salt shaker** to spread it evenly, preferred over a cheaper, coarser silicone-oxide grit sold at Home Depot. Once dry, loose grit is vacuumed off with a wet/dry vac and the deck recoated. This finish gets **several seasons of use** with a yearly repaint; plain fine sand is a cheaper alternative, but is much harder to remove later, whereas the silicone-oxide grit sands off more easily (though it wears sandpaper down quickly).[8][9] On **Enigma**, the deck instead used **broadcast pumice**.[10]
 
+## A commercial, pre-mixed alternative: Kiwigrip
+
+A ready-made commercial coating, **Kiwigrip**, offers a non-DIY alternative to all of the methods above — applied straight from the tub rather than mixed from separate grit, paint, or epoxy.[12]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 34 (Glen C. Maxwell, `paradoxbuilders`, 2001-07-22) — non-skid of walnut shells set in epoxy, painted then ground down; kind on feet/knees dry, swells firm when wet; deck hardware positions firmed up first; would post process photos.
@@ -62,3 +66,4 @@ A far cheaper alternative: rubberized non-skid strip made for household stair tr
 [9] [microcruising.com](/references/microcruising-website.md) — "Painting Tips," David & Mindy Bolduc — PETTIT 9900 Skidless Compound (fine silicone oxide) broadcast with a salt shaker over wet paint, loose grit vacuumed off, recoated; several seasons' life with a yearly repaint; sand alternative harder to remove later.
 [10] [microcruising.com](/references/microcruising-website.md) — "New3a," David & Mindy Bolduc — non-slip pumice added to Enigma's deck as part of a pre-trip refit (entries dated 3-11-13 to 1-1-13).
 [11] [Paradox builders mailing list](/references/mailing-list.md) message 6558 (geoffdavis67 / "Geoff" / Geoff Davis, `paradoxbuilders`, 2010-05-06) — "Re: Painting": full text and citation also at [construction/topside-painting.md](/construction/topside-painting.md#a-2010-survey-single-pack-interior-two-pack-exterior-and-a-failed-non-skid-deck-paint) and [boats/small-fry.md](/boats/small-fry.md#a-full-painting-account-interior-exterior-bottom-and-mast); a single-pack non-skid deck paint used on "Small Fry" does not work and is "stupidly slippery" as soon as it gets wet; suggests trying something coarser instead. Signed "Geoff."
+[12] [Paradox builders mailing list](/references/mailing-list.md) message 6991 (paradoxpete.pdm / "randoneur" / Pete Martin, `paradoxbuilders`, 2011-07-16) — "Re: Johanna Launched.": full text and citation also at [boats/johanna.md](/boats/johanna.md#the-maiden-sail-documented-and-an-early-trailer-comparison-interest); in reply to a question about JoHanna's deck non-skid pattern, names the commercial product Kiwigrip (`kiwigrip.com`). Signed "Pete."

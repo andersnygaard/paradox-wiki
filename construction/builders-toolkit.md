@@ -69,6 +69,10 @@ Tools are best kept sorted by task, in crates that move as a unit from one area 
 
 Looking back over the build, two changes stand out. Hook-and-loop sanding discs eventually stopped holding to their pad even while the grit surface itself was still good, which was a source of ongoing frustration.[3] And not knowing about the Starrett digital-readout tape measure (DIGI TAPE) at the time cost real speed and accuracy that a simple tool swap would have bought back.[3]
 
+## A 2011 recurrence: a fourth builder's own tool list
+
+A separate, independently compiled "nut-and-bolt/meat-and-potatoes" list — drawn from three earlier boatbuilds and continued onto a fourth — names seven tools as the essentials, sourced largely from a local Harbor Freight Tools store rather than a department store: a heavy-duty table saw for long rips and squaring plywood sheets; a drill press for uniform hole drilling; a jigsaw for curved work (not essential, but a real convenience); a 7-1/4 in heavy-duty circular saw; a belt sander ("would not build without one"); a detail/"mouse"/"jitterbug" sander; and a screw gun (hand drill) for fastening hull sides to bulkheads and drilling pilot holes.[13]
+
 See also [build effort and workspace](/construction/build-effort.md), [epoxy pre-coating technique](/construction/epoxy-coating-technique.md), [scarf joints vs. butt blocks](/construction/scarf-joints.md), and the [construction index](/construction/index.md).
 
 # Citations
@@ -96,3 +100,5 @@ See also [build effort and workspace](/construction/build-effort.md), [epoxy pre
 [11] [Bill's Log](/references/bills-log.md) — "Lead Weight & Special Tool," Bill Serjeant, 2005-09-10 — making a copy of Don Elliott's sanding-board tool from half-inch plywood, 16.5 inches long and 3 inches wide, faced with belt-sander strips, with a handle at each end, "works well" for flat surfaces (GRP sheathing, epoxy filler on hull and rudder) and for rounding edges ahead of sheathing.
 
 [12] [Bill's Log](/references/bills-log.md) — "Building 'Sharpy' Part 37," Bill Serjeant, 2010-12-12 — describes the same homemade sander, years later while shaping an unrelated boat's boom, as "designed by Don Elliott who produced a booklet on building Matt Layden's Paradox," 15 inches long with a 3-inch (75 mm) grit pad — a length that does not match the 16.5-inch figure recorded at the time of building.
+
+[13] [Paradox builders mailing list](/references/mailing-list.md) messages 6959-6961 (smilicus / Johan Van dyk, `paradoxbuilders`, 2011-06-21, "Tools - the essentials"; lockhart_greg / Greg Lockhart, 2011-06-22, "Re: Tools - the essentials"; smilicus / Johan Van dyk, 2011-06-22, "Re: Tools - the essentials") — a fellow prospective builder, kitting out his garage ahead of a planned spring start, asks what tools are essential for the build; answered with a "nut-and-bolt/meat-and-potatoes" list used across three earlier boatbuilds and continued onto "ENDEAVOUR," his fourth build: a heavy-duty table saw, drill press, jigsaw, 7-1/4 in heavy-duty circular saw, belt sander, detail/mouse/jitterbug sander, and screw gun (hand drill), bought mostly at a local Harbor Freight Tools store; thanked in reply. Signed "smilicus" / "Greg" / "smilicus."

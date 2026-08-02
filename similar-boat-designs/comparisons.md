@@ -1,8 +1,8 @@
 ---
 type: Concept
 title: Paradox compared to other small-boat designs
-description: How Paradox has been weighed against other designers' small cruisers — Jim Michalak's AF3, Robbsboat, and Frolic2, Phil Bolger's Black Skimmer, Martha Jane, and Cormorant, John Welsford's Swaggie, and a speculative Goat Island Skiff hybrid — on stability, seaworthiness, interior room, draft, and build cost.
-tags: [paradox, similar-boat-designs, comparison, michalak, bolger, welsford, af3, robbsboat, black-skimmer, martha-jane, cormorant, swaggie, goat-island-skiff]
+description: How Paradox has been weighed against other designers' small cruisers — Jim Michalak's AF3, Robbsboat, and Frolic2, Phil Bolger's Black Skimmer, Martha Jane, and Cormorant, John Welsford's Swaggie and Fafnir, and a speculative Goat Island Skiff hybrid — on stability, seaworthiness, interior room, draft, and build cost.
+tags: [paradox, similar-boat-designs, comparison, michalak, bolger, welsford, af3, robbsboat, black-skimmer, martha-jane, cormorant, swaggie, fafnir, goat-island-skiff]
 timestamp: 2026-07-23T12:00:00Z
 ---
 
@@ -68,6 +68,14 @@ The same Swaggie/Birdwatcher pointer recurred once more in a February 2009 "Larg
 
 A separate February 2009 recurrence, this time prompted by a headroom question rather than the scale-up debate (see [crew size and cabin fit — a further newcomer's fit question](/operations/crew-size-and-fit.md#a-further-newcomers-fit-question-and-a-stretched-paradoxswaggie-pointer-february-2009)), placed "Charlie's Resolution" within a wider **"Sundowner" class** of Welsford's own 21-footers, with the class's own construction followed in a "Sundowner Diaries" build log on Welsford's home page alongside the Swaggie's own construction logs and video, some of it posted to YouTube.[40]
 
+## John Welsford's Fafnir
+
+Another Welsford design, the **Fafnir**, has been raised as a bigger, blue-water-oriented alternative — carrying more weight and wider by almost 2 ft, but judged considerably easier to build than Paradox and better suited to open-ocean voyages.[46] Weighed directly against Fafnir, Paradox's near-zero draft was preferred for beaching on sandy shallows, a trait Fafnir does not share.[46]
+
+## A French alternative: the Souriceau 4.75m
+
+The **Souriceau 4.75m**, a French design, was weighed as a further alternative to Paradox — judged, on reflection, not worth its own plan cost for a boat that size, a cost-consciousness that told in Paradox's favor instead.[47]
+
 ## A Goat Island Skiff/Paradox hybrid (speculative)
 
 Michael Storer's **Goat Island Skiff** — a 16 ft flat-bottomed hull carrying a sail plan broadly similar to Paradox's own, sold through the same Duckworks outlet as Michalak's designs — was floated as the basis for a hybrid: fitted with a Paradox-style cabin and deck to keep the weather off, an idea raised only in passing rather than pursued in earnest.[41]
@@ -123,3 +131,5 @@ Duckworks Magazine (`duckworksmagazine.com`) sells Michalak's plans alongside Jo
 [43] [Paradox builders mailing list](/references/mailing-list.md) message 6279 (JMichalsbr / "jmichalsbrown" / Jeff Michals-Brown, `paradoxbuilders`, 2009-12-01) — "Re: Tall/large people in Paradox": Michalak's own account of the Robbsboat's design process shows it was never actually built, so remains untested; the whole idea behind such a boat seems outside Michalak's own experience; would stick with a design "perfected over long personal experience" instead. Signed "Jeff."
 [44] [Paradox builders mailing list](/references/mailing-list.md) message 6287 (catherine.james / "ladycathyofwales" / Cathy, `paradoxbuilders`, 2009-12-03) — "Re: Tall/large people in Paradox": intrigued by Robbsboat and already holding a set of her own plans, but notes no one has yet built one; judges the design looks like a pretty straightforward build. (Quotes Chris Curtis's message, already cited above at [12], in full; pruned to the new content.) Signed "Cathy."
 [45] [Paradox builders mailing list](/references/mailing-list.md) message 6289 (ccurtis-keyword-crusing.65bae6 / "joe_mapango" / Chris Curtis, `paradoxbuilders`, 2009-12-03) — "Re: Tall/large people in Paradox": corrects Cathy's claim that no one has built a Robbsboat — has one in his own boatshop, her chines already glassed, mast/rudder/cheek complete, only the leeboard left to make; plans to install chine runners in place of the leeboard instead, judging them as easy or easier to build. (Quotes Cathy's message, already cited above at [44], in full; pruned to the new content.) Signed "Chris Curtis." The Sandpoint, Idaho maxi-Paradox builder tracked separately from the established [people/chris-curtis.md](/people/chris-curtis.md); see that page's disambiguation note.
+[46] [Paradox builders mailing list](/references/mailing-list.md) message 6860 (rdnycannon / Rodney Cannon, `paradoxbuilders`, 2011-04-30) — "Re: paradox torrents": full text and citation also at [people/rodney-cannon.md](/people/rodney-cannon.md#citations); points a prospective South African builder to John Welsford's "Fafnir" as an alternative worth checking before deciding on Paradox — it carries more weight, is wider by almost 2 ft, and is easier to build, but was designed for genuine blue-water voyages. Signed "Rod." A follow-up from the same prospective builder (message 6864, smilicus / Johan Van dyk, `paradoxbuilders`, 2011-05-01, "Re: paradox torrents") preferred Paradox's own near-zero draft for beaching on sandy shallows, over Fafnir's blue-water suitability and easier build.
+[47] [Paradox builders mailing list](/references/mailing-list.md) message 6876 (smilicus / "smilicus" / Johan Van dyk, `paradoxbuilders`, 2011-05-09) — "Re: paradox torrents": had also looked at the Souriceau 4.75m, a French design, but felt its plan cost was too much for a boat of that size; would still like to do the occasional informal race, having raced often when younger and enjoyed a fleet going out together on a course. Signed "Smilicus."
