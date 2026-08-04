@@ -18,9 +18,14 @@ Bengt built a conventional **plywood** Paradox on a tight budget — in contrast
 
 After two years of building, Bengt launched his Paradox on **Lake Mälaren** in **July 2006**, naming her **"Ladikan"** ("the little box," in Swedish).[4] His build choices and launch weigh-in are recorded in full at [boats/ladikan.md](/boats/ladikan.md).
 
+## A later attempt to make contact (2013)
+
+In 2013 a fellow builder, addressing him informally by his boat's own name, tried repeatedly by e-mail over several days to reach him with no reply — an isolated later data point, not itself confirming whether contact was ever made; see [Alberto Callejon](/people/alberto-callejon.md) for the attempt.[5]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 1838 (b.genell / "bgenell", `paradoxbuilders`, 2004-01-11) — "Swedish members?": in Swedish — after reading Yrvind's latest book, asks whether there are other like-minded people in Sweden. No boat or further posts recorded at the time.
 [2] [Paradox builders mailing list](/references/mailing-list.md) message 2293 (b.genell / "bgenell" / Bengt Genell, `paradoxbuilders`, 2004-09-10) — "Re: polyester?": confirms he is keeping his build on a tight budget, lives roughly two hours by car from the nearest coast (expecting the boat to stay trailered most of the time), is using exterior- rather than marine-grade plywood, and intends to fiberglass all outer surfaces.
 [3] [Paradox builders mailing list](/references/mailing-list.md) message 2236 (b.genell / "bgenell" / Bengt Genell, `paradoxbuilders`, 2004-08-28) — "polyester?": his Paradox now looks like a boat in its first dry-run stage; asks whether cheaper polyester resin could be used instead of, or together with, epoxy — for instance in bottom layers — and whether anyone has tried it.
 [4] [Paradox builders mailing list](/references/mailing-list.md) message 3820 (genell / "bgenell" / Bengt Genell, `paradoxbuilders`, 2006-07-27) — "Ladikan launched at last": full text and citation at [boats/ladikan.md](/boats/ladikan.md); reports his Paradox launched after two years of building, named Ladikan.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 7476 (laciudad2004 / Alberto [Callejon], `paradoxbuilders`, 2013-03-07) — "LADIKAN": full text and citation also at [people/alberto-callejon.md](/people/alberto-callejon.md#citations); a fellow builder asks how to contact "the builder Ladikan," having e-mailed repeatedly over several days without reply. Signed "Alberto."

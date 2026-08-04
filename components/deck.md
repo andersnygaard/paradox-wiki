@@ -14,6 +14,7 @@ The Paradox's side decks and foredeck: their framing, laying the deck skin, and 
 
 - [Deck and cabin beam lamination](/construction/deck-and-cabin-beams.md) — laminating and fitting the beams that carry the deck.
 - [Non-skid deck finish](/construction/non-skid-deck.md) — a walnut-shell-in-epoxy non-skid technique.
+- [Toe rail](/components/toe-rail.md) — the rail along each deck edge, its purpose, materials, and sheathing.
 
 ## Stowage loops for the yuloh and lowered rig
 

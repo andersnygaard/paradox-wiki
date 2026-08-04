@@ -25,6 +25,8 @@ Paradox's own specifications box — titled "Paradox / 4.2 m Coastal Cruiser / M
 
 The stock **13'10"** length has also been attributed in part to a US registration threshold of the era: a small, engine-free craft under 14 ft needed no registration numbers in some states, a margin the design was built to stay under.[4]
 
+Drawing 1 also marks a point labelled **"CA,"** in the position a conventional sailboat's plans would normally show the center of lateral resistance — an unexplained label with a CAD-measured centroid offset still unresolved as of 2012; see [chine-runners/how-they-work.md — the plans' "CA" label](/chine-runners/how-they-work.md#the-plans-ca-label-and-an-unresolved-centroid-offset-2012).
+
 # Plywood bill of materials
 
 A complete Paradox build uses **four thicknesses** of plywood — not just the 18 mm bottom and 12 mm sides. The reported sheet count is:

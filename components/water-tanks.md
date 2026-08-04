@@ -20,6 +20,7 @@ At least one Paradox dispensed with built-in tanks altogether, carrying her wate
 
 ## Where this is covered
 
+- [Water tank plumbing — fill, vent, and suction](/construction/water-tank-plumbing.md) — installing the fill/suction and vent lines before the tank top closes.
 - [Water tank construction and lining](/construction/water-tank-lining.md) — lining options: epoxy, tarred wood, urethane coatings, and flexible or rigid inserts.
 - [Weight, ballast, and displacement](/design/weight-and-ballast.md) — the tanks' role in the boat's overall weight and stability.
 

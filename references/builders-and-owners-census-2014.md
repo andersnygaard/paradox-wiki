@@ -69,7 +69,7 @@ Rendered as given, including boats and builders with no page yet in this bundle:
 | [The "BRIS Paradox"](/boats/bris-paradox.md) | [Kjell Karlsson](/people/kjell-karlsson.md) | Bris method | Sweden | Tested |
 | Raffles | [Mark Waters](/people/mark-waters.md) | Per plan | Oregon, Portland | Thoroughly tested |
 | [Original Paradox](/boats/original-paradox.md) | [Matt Layden](/matt-layden/biography.md) | Per plan | US | Extremely tested |
-| ? | [Matt Noonan](/people/matt-noonan-ithaca.md) | Per plan | Ithaca | In build |
+| ? | [Matt Noonan](/people/matthew-noonan.md) | Per plan | Ithaca | In build |
 | [Johanna](/boats/johanna.md) | [Pete Martin](/people/pete-martin.md) | Per plan | UK, Cheltenham | In build |
 | Fillou 11 | Rejean Levesque | Per plan | Canada, Montreal | In build |
 | ? | Richard Childs | ? | Australia | In build |

@@ -16,7 +16,7 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 
 - [Ballast](/components/ballast.md)
 - [Bottom](/components/bottom.md)
-- [Breast hook](/components/breast-hook.md) *(content to come)*
+- [Breast hook](/components/breast-hook.md)
 - [Bulkheads](/components/bulkheads.md)
 - [Chine logs](/components/chine-logs.md)
 - [Chine runners](/components/chine-runners.md)
@@ -33,26 +33,29 @@ The thematic branches (`design/`, `construction/`, `operations/`) remain the cur
 - [Mk2 sail](/components/rig/mk2-sail.md)
 - [Mk3 sail](/components/rig/mk3-sail.md)
 - [Pilothouse](/components/pilothouse.md)
-- [Rig](/components/rig/index.md) — **sub-branch**: mast · sail · mk2/mk3 sail · clew · tack strop · internal rigging · furling
+- [Rig](/components/rig/index.md) — **sub-branch**: mast · sail · mk2/mk3 sail · clew · tack strop · running rigging · internal rigging · furling
 - [Rudder](/components/rudder.md)
+- [Running rigging](/components/rig/running-rigging.md)
 - [Sail](/components/rig/sail.md)
 - [Scarfing](/components/scarfing.md)
 - [Sheer strakes](/components/sheer-strakes.md)
 - [Steering (internal steering-line loop)](/components/steering.md)
 - [Stem](/components/stem.md)
 - [Tack strop](/components/rig/tack-strop.md)
+- [Toe rail](/components/toe-rail.md)
 - [Vent baffle](/components/vent-baffle.md)
 - [Vent box](/components/vent-box.md)
 - [Water tanks](/components/water-tanks.md)
+- [Windows](/components/windows.md)
 - [Yuloh](/components/yuloh.md)
 
 ## By build sequence
 
-*Hull & structure* — [Bottom](/components/bottom.md) · [Sheer strakes](/components/sheer-strakes.md) · [Stem](/components/stem.md) · [Breast hook](/components/breast-hook.md) · [Bulkheads](/components/bulkheads.md) · [Chine logs](/components/chine-logs.md) · [Deck and cabin beams](/components/deck-beams.md) · [Deck](/components/deck.md) · [Scarfing](/components/scarfing.md) · [Epoxy fillets](/components/epoxy-fillets.md)
+*Hull & structure* — [Bottom](/components/bottom.md) · [Sheer strakes](/components/sheer-strakes.md) · [Stem](/components/stem.md) · [Breast hook](/components/breast-hook.md) · [Bulkheads](/components/bulkheads.md) · [Chine logs](/components/chine-logs.md) · [Deck and cabin beams](/components/deck-beams.md) · [Deck](/components/deck.md) · [Toe rail](/components/toe-rail.md) · [Scarfing](/components/scarfing.md) · [Epoxy fillets](/components/epoxy-fillets.md)
 
-*Cabin & fit-out* — [Pilothouse](/components/pilothouse.md) · [Interior](/components/interior.md) · [Vent box](/components/vent-box.md) · [Vent baffle](/components/vent-baffle.md) · [Water tanks](/components/water-tanks.md) · [Ballast](/components/ballast.md)
+*Cabin & fit-out* — [Pilothouse](/components/pilothouse.md) · [Windows](/components/windows.md) · [Interior](/components/interior.md) · [Vent box](/components/vent-box.md) · [Vent baffle](/components/vent-baffle.md) · [Water tanks](/components/water-tanks.md) · [Ballast](/components/ballast.md)
 
-*Rig & sail* — [Mast](/components/rig/mast.md) · [Rig](/components/rig/index.md) · [Internal rigging](/components/rig/internal-rigging.md) · [Sail](/components/rig/sail.md) · [Mk2 sail](/components/rig/mk2-sail.md) · [Mk3 sail](/components/rig/mk3-sail.md) · [Clew](/components/rig/clew.md) · [Tack strop](/components/rig/tack-strop.md) · [Furling](/components/rig/furling.md) · [Yuloh](/components/yuloh.md)
+*Rig & sail* — [Mast](/components/rig/mast.md) · [Rig](/components/rig/index.md) · [Running rigging](/components/rig/running-rigging.md) · [Internal rigging](/components/rig/internal-rigging.md) · [Sail](/components/rig/sail.md) · [Mk2 sail](/components/rig/mk2-sail.md) · [Mk3 sail](/components/rig/mk3-sail.md) · [Clew](/components/rig/clew.md) · [Tack strop](/components/rig/tack-strop.md) · [Furling](/components/rig/furling.md) · [Yuloh](/components/yuloh.md)
 
 *Appendages & steering* — [Rudder](/components/rudder.md) · [Steering](/components/steering.md) · [Chine runners](/components/chine-runners.md) · [Mainsheet, outboard, and rudder fouling](/components/mainsheet-outboard-fouling.md)
 

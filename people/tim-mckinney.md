@@ -12,7 +12,7 @@ timestamp: 2026-07-23T00:00:00Z
 
 ## The boat
 
-McKinney's Paradox was built by **Michael Beebe** in **Rockport, Texas**, and was Beebe's **second** Paradox — Beebe being, on this record, a Texas builder of at least two of the boats.[3] Beebe built it as a **"convertible,"** with a **removable hardtop** and **conventional tiller steering** in place of the stock rope-and-yoke arrangement, and he had enjoyed sailing it with the top off and a short tiller in fair weather.[3][4]
+McKinney's Paradox was built by **[Michael Beebe](/people/michael-beebe.md)** in **Rockport, Texas**, and was Beebe's **second** Paradox — Beebe being, on this record, a Texas builder of at least two of the boats.[3] Beebe built it as a **"convertible,"** with a **removable hardtop** and **conventional tiller steering** in place of the stock rope-and-yoke arrangement, and he had enjoyed sailing it with the top off and a short tiller in fair weather.[3][4]
 
 ## Steering experiments
 

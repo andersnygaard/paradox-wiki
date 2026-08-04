@@ -10,7 +10,7 @@ timestamp: 2026-07-07T00:00:00Z
 
 **Paul V.** was a US-based small-boat designer and `paradoxbuilders` list member who built a Paradox from scratch in a cold-climate "north woods" workshop and documented the work in a public "Build Book." He posted from an `admin@`/`cruisenewsnet` address (Yahoo profile `cruisenewsnet`) and, as an occasional alternate, the handle **`sohaven2002`** — confirmed as the same person when he signed one reply "Paul V / aka sohaven2002." [1] He was active in November 2001, again in February 2002, and continuously from September 2002, becoming one of the list's most prolific builder-correspondents and a volunteer co-moderator.
 
-**Disambiguation.** He is distinct from [Paul (NZ)](/people/paul-nz.md), an earlier, unrelated member from southern New Zealand, and from the one-off "kayaker37" (also signing "Paul") in the February 2002 "Design" thread — see [blue-water suitability](/design/blue-water-suitability.md).
+**Disambiguation.** He is distinct from [Paul (NZ)](/people/paul-nz.md), an earlier, unrelated member from southern New Zealand, and from "kayaker37" (also signing "Paul"), a separate, long-running correspondent first seen in the February 2002 "Design" thread — see [blue-water suitability](/design/blue-water-suitability.md).
 
 ## His own designs and his Paradox build
 

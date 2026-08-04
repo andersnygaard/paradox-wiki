@@ -8,7 +8,7 @@ timestamp: 2026-07-23T00:00:00Z
 
 # Anders Nygaard's Miramis interview
 
-Anders Nygaard's **Miramis** interview is a solicited, first-person primary source in which the builder of the 10%-enlarged Norwegian Paradox "[Miramis](/boats/miramis.md)" answers the archive directly about the boat's design rationale, its construction, and how he intends to use her. It is the **first source in the archive gathered by direct interview** rather than compiled from an existing web, email, or social-media record, and it is the fullest single account of a **10% Paradox scale-up** as a considered whole — the "why," not only the "what."
+Anders Nygaard's **Miramis** interview is a solicited, first-person primary source in which **[Anders Nygaard](/people/anders-nygaard.md)**, the builder of the 10%-enlarged Norwegian Paradox "[Miramis](/boats/miramis.md)," answers the archive directly about the boat's design rationale, its construction, and how he intends to use her. It is the **first source in the archive gathered by direct interview** rather than compiled from an existing web, email, or social-media record, and it is the fullest single account of a **10% Paradox scale-up** as a considered whole — the "why," not only the "what."
 
 The interview was conducted on **2026-07-23** as a text interview, in Norwegian, over five rounds of questions, and is written up by topic rather than as raw question-and-answer. Because it is a solicited account from the builder himself, it carries first authority on his own boat; because that boat is unfinished, much of what it records is intention as well as accomplished fact, and it is written up and cited as such.
 

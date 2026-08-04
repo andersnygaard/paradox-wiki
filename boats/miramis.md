@@ -8,7 +8,7 @@ timestamp: 2026-07-23T00:00:00Z
 
 # Miramis
 
-**"Miramis"** is the [Paradox](/paradox.md) that **Anders Nygaard** is building at home in **southern Norway**, a careful, heavily documented amateur build begun in 2020 and still under way. It is a **10% scaled-up** hull, built in **exterior-grade Baltic birch** plywood to the lighter scantlings [Simas Butavičius](/people/simas-butavicius.md) worked out, and it is the archive's clearest example of a modern builder folding **3D printing and digital fabrication** into an otherwise traditional plywood build. Nygaard was pointed at the Paradox and Matt Layden's boats a decade earlier by the Swedish designer-voyager **[Sven Yrvind](/people/yrvind.md)**, and modelled the concept in cardboard and glass fibre in a small Oslo apartment before he had the space to build.[1]
+**"Miramis"** is the [Paradox](/paradox.md) that **[Anders Nygaard](/people/anders-nygaard.md)** is building at home in **southern Norway**, a careful, heavily documented amateur build begun in 2020 and still under way. It is a **10% scaled-up** hull, built in **exterior-grade Baltic birch** plywood to the lighter scantlings [Simas Butavičius](/people/simas-butavicius.md) worked out, and it is the archive's clearest example of a modern builder folding **3D printing and digital fabrication** into an otherwise traditional plywood build. Nygaard was pointed at the Paradox and Matt Layden's boats a decade earlier by the Swedish designer-voyager **[Sven Yrvind](/people/yrvind.md)**, and modelled the concept in cardboard and glass fibre in a small Oslo apartment before he had the space to build.[1]
 
 ## The name
 

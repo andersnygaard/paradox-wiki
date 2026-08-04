@@ -36,6 +36,10 @@ A December 2008 call for practicing owners to weigh their finished Paradoxes aga
 
 A prospective builder in Garden Grove, CA ordered a set of plans and began building a scale balsa model before attempting the full-size boat,[1][12] then got stuck on the mast's construction — see [rig and sail — reading the mast's plan views](/components/rig/index.md) for the full account of how the plans' three mast views were worked through. Whether the build progressed beyond the mast question to a full-size boat is not recorded;[13] see [crew size and cabin fit — the "Newbie" thread](/operations/crew-size-and-fit.md#glen-maxwells-measured-cabin-dimensions).
 
+## A renewed search for Southern California builders (December 2012)
+
+Eight years after the fullest builders' census above, the same "any Southern California builders?" question recurred: a correspondent expecting to be based east of Bakersfield for about five months asked again whether any new or established builders were in the Southern California area, hoping to get his own Paradox under way there and perhaps share resources — unanswered on record.[14]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 479 (dmatyja2002 / "Dan", `paradoxbuilders`, 2002-05-05) — "Southern California Paradox?": asks whether anyone in the group lives and sails a Paradox in Southern California, and whether crossings to Catalina Island have been made; not yet clear on the boat's open-ocean capabilities; posts from Garden Grove, CA.
@@ -51,3 +55,4 @@ A prospective builder in Garden Grove, CA ordered a set of plans and began build
 [11] [Paradox builders mailing list](/references/mailing-list.md) message 5806 (JMichalsbr / "jmichalsbrown" / Jeff Michals-Brown, `paradoxbuilders`, 2008-12-01) — "Re: Calling all Paradox skippers: assessments?": full text and citation also at [design/larger-paradox.md](/design/larger-paradox.md#citations) and [design/modifying-paradox.md](/design/modifying-paradox.md#citations); thanks Pete for the figures, agreeing a dozen skippers is a pretty respectable number for a home-built, non-commercial design. Signed "Jeff."
 [12] [Paradox builders mailing list](/references/mailing-list.md) message 481 (dmatyja2002 / "Dan", `paradoxbuilders`, 2002-05-07) — "Re: Southern California Paradox?": thanks the list; still wonders about a Southern California owner; asks how many Paradoxes have been built; has just ordered a set of plans and plans to build a scale model first.
 [13] [Paradox builders mailing list](/references/mailing-list.md) message 1939 (ntsrfer / "Todd", `paradoxbuilders`, 2004-02-10) — "Re: Newbie": asks whether "Dan" (from Southern California, seen earlier in the archive) ever got started building his Paradox.
+[14] [Paradox builders mailing list](/references/mailing-list.md) message 7411 (joewvr12, `paradoxbuilders`, 2012-12-23) — "so cal builders": "still wondering if any new (old)builders in southern california area. will be east of bakersfield for about 5 months and would like to get my paradox started and maybe share resources." Signed "joe."

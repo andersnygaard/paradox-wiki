@@ -60,7 +60,7 @@ By the 2010s Layden's ideas circulated in MAIB as adopted techniques. A **2011**
 
 ## Modern coverage (2014–2017)
 
-Later issues carry scattered but genuine Paradox content: a 2014 note of a "Matt Layden Paradox Scout" being built for a boating festival;[27] a recurring columnist, **Michael Beebe**, who built two Paradoxes and repeatedly referenced Layden's lug rig across his 2016 "Meanderings" columns;[28] a reviewed cruising book listing "Matt Layden's Paradox" among notable dinghies;[29] and a 2017 Cedar Key essay noting "Matt Layden came calling in a fine little kayak he designed."[30]
+Later issues carry scattered but genuine Paradox content: a 2014 note of a "Matt Layden Paradox Scout" being built for a boating festival;[27] a recurring columnist, **[Michael Beebe](/people/michael-beebe.md)**, who built two Paradoxes and repeatedly referenced Layden's lug rig across his 2016 "Meanderings" columns;[28] a reviewed cruising book listing "Matt Layden's Paradox" among notable dinghies;[29] and a 2017 Cedar Key essay noting "Matt Layden came calling in a fine little kayak he designed."[30]
 
 ## The July 2009 cover, independently confirmed (2010)
 

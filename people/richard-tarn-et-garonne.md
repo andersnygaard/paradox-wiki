@@ -1,0 +1,26 @@
+---
+type: Person
+title: Richard (Tarn-et-Garonne, France)
+description: A French prospective builder near Montauban who ran the archive's most rigorously controlled resorcinol-versus-epoxy scarf-joint strength test, and by August 2014 was completing the beams of his own Paradox, "Kolaska."
+tags: [paradox, people, builder, france, resorcinol, epoxy, trailering, kolaska]
+timestamp: 2026-08-03T00:00:00Z
+---
+
+# Richard (Tarn-et-Garonne, France)
+
+**Richard** (Yahoo handle `rkg_82`) is a Paradox builder near **Montauban**, in France's **Tarn-et-Garonne** department — the source of the "82" in his handle — active on the mailing list from December 2010. He ran the archive's most rigorously controlled resorcinol-versus-epoxy scarf-joint strength test, then went on to glue all of his own spars and the yuloh with resorcinol; by mid-2011 he was working out a custom-made trailer's dimensions against an established Paradox's own trailer. In the years that followed he built two other small boats — a Selway-Fisher 50/50 sailing canoe and a sail-converted Nick Schade Wood Duck kayak — before returning to the Paradox; by August 2014 he had named her "**[Kolaska](/boats/kolaska.md)**" and was completing the beams, with the rudder next. Full build record: [Kolaska](/boats/kolaska.md).
+
+## A controlled resorcinol-versus-epoxy strength test
+
+His scarf-joint strength comparison — resorcinol versus unthickened epoxy, loaded to failure under lead weight — is the archive's most rigorously controlled test of the question; full account at [Kolaska — a controlled resorcinol-versus-epoxy strength test](/boats/kolaska.md#a-controlled-resorcinol-versus-epoxy-strength-test) and [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#a-resorcinol-alternative-to-epoxy).[1] The same message recommended **SICOMIN**, a French supplier, for a dedicated potable-water-rated epoxy; full account at [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions).[2]
+
+## Trailer research
+
+By mid-2011 he was researching a custom-made trailer against an established Paradox's own, working out launch angle, bed length, and recovery angle; full account at [operations/trailering.md](/operations/trailering.md#a-swing-beam-roller-trailer-for-johanna-july-2011).[3]
+
+# Citations
+
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 6743 (rkg82 / "rkg_82", `paradoxbuilders`, 2010-12-09) — "Re: resorcinol": full text and citation also at [boats/kolaska.md](/boats/kolaska.md#a-controlled-resorcinol-versus-epoxy-strength-test) and [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#a-resorcinol-alternative-to-epoxy); describes a scarf-joint strength comparison run earlier that year — a 3 m length of clear Douglas fir ripped into two 70 x 60 mm pieces, each cut with an 8:1 diagonal scarf, one glued with resorcinol (Bostik) and the other with unthickened Sicomin epoxy; loaded with lead weight across the joint, the epoxied piece failed at ~65 kg, the resorcinol piece cracked audibly at ~75 kg but did not fail, and testing stopped at ~85 kg; concludes resorcinol stays more flexible than epoxy under stress at low temperature, at the cost of needing more clamping pressure; went on to glue all of his own spars and the yuloh with resorcinol. Also recommends SICOMIN, a French supplier, for its dedicated potable-water epoxy (see [construction/water-tank-lining.md](/construction/water-tank-lining.md#epoxy-mixed-opinions)) from the same message. No boat name or signature given.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 6745 (rkg82 / "rkg_82", `paradoxbuilders`, 2010-12-09) — "Re: resorcinol": full text and citation also at [boats/kolaska.md](/boats/kolaska.md#a-controlled-resorcinol-versus-epoxy-strength-test) and [construction/fastening-and-gluing.md](/construction/fastening-and-gluing.md#a-resorcinol-alternative-to-epoxy); replying to Mark Balogh's question about where his build is located, gives it for the first time — France's Tarn-et-Garonne department, explaining the "82" in his rkg_82 handle.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 7006 (rkg82 / "rkg_82", `paradoxbuilders`, 2011-07-24) — "Re: Johanna maiden sail": full text and citation also at [boats/kolaska.md](/boats/kolaska.md#trailer-research) and [operations/trailering.md](/operations/trailering.md#a-swing-beam-roller-trailer-for-johanna-july-2011); thanks Pete for the trailer answer; asks how close to the trailer's 580 kg rated capacity JoHanna runs loaded for the road; notes the trailer is unbraked, as are several other Paradox owners' trailers. Signed "rkg82."
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 8109 (rkg82 / "rkg_82", `paradoxbuilders`, 2014-08-14) — "Re: Salut à toi !": full text and citation also at [boats/kolaska.md](/boats/kolaska.md#two-other-boats-then-back-to-the-paradox-and-a-boat-name-at-last-august-2014); names his own Paradox "Kolaska" for the first time, gives his build's location as a couple of miles from Montauban, and reports completing the beams with the rudder next, having built a Selway-Fisher sailing canoe and a sail-converted Wood Duck kayak in the interval. Signed "Richard."

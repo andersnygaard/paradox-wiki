@@ -39,6 +39,10 @@ Throughout the article, heel angles and field of view are printed with a **perce
 
 The archive therefore records these figures **as degrees**, and this note exists so the reading is traceable rather than silent.
 
+## A later mailing-list appearance (November 2011)
+
+The same name resurfaces five years later, directly on the [Paradox builders mailing list](/references/mailing-list.md) rather than in print: a first post asks whether a FAQ file exists, covering junk rig, scantlings, stitch-and-glue construction, and water ballast — the standard opening questions of someone weighing a build rather than reviewing one.[4] [Alastair Law](/people/alastair-law.md), "Little Jim"'s own owner, replies by name, welcoming him: "Are you finally thinking of joining us then, Duncan?"[5] No further activity under this account is on record within the archive as consulted here.
+
 ## Provenance
 
 The source is a three-page PDF. All three pages carry the running foot **"DCA Bulletin 193 : 45"** through **": 47."**
@@ -58,3 +62,5 @@ There is no dedicated public archive page for this article; the *Bulletin* issue
 [1] "Paradox," *DCA Bulletin* 193: 45-47 (Dinghy Cruising Association), Duncan Gilchrist — full article: an evaluation written from declared scepticism about keel-less windward performance, based on a day and a half sailing "Little Jim" at Chew Valley Lake SC in October 2006, plus study of the plans and building instructions; records dry-footed launch off the road trailer, no cockpit and a heated insulated cabin steered facing forward from a sliding hatch, thirteen storage compartments, a 99.75 sq ft lug sail hoisted from inside, hove-to behaviour side-on to the wind with the rudder cleated up, heel behaviour and windward angles, self-steering "like windvane steering," slow tacking, the chine-runner and bottom-rocker explanations for windward ability, plans and CD-ROM ordering detail, and contact addresses. Closing initials "DG."
 [2] "Paradox," *DCA Bulletin* 193: 47 — editorial note crediting the photographs on p. 46 to the author and dating them to Chew Valley Lake, October 2006, and naming the boat's owner as "Alastair Law."
 [3] "Paradox," *DCA Bulletin* 193: 47 — captioned cutaway diagram of the Paradox, labelling roller reefing, chine runners, foam insulation and buoyancy, solar panel, sculling yuloh, interior steering position, line to raise the rudder, battery, food locker, gimballed stove, water tanks, anchor storage, and kick-up rudder.
+[4] [Paradox builders mailing list](/references/mailing-list.md) message 7128 (duncangilchrist@... , `paradoxbuilders`, 2011-11-21) — "faq": full text and citation also at [people/don-elliott.md](/people/don-elliott.md#a-further-november-2011-recurrence-a-renewed-faq-question-and-a-preservation-worry-restated); before asking questions already covered elsewhere, asks whether a FAQ file exists, covering junk rig, scantlings (ply weight), stitch-and-glue construction, and water ballast.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 7131 (OpenBoat / "alopenboat" / Alastair Law, `paradoxbuilders`, 2011-11-21) — "Re: faq": "Are you finally thinking of joining us then, Duncan? No fools here, just seekers after the truth. Ask away." Signed "Alastair Law, Yeovil, England."
