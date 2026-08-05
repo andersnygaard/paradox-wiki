@@ -3,7 +3,7 @@ type: Concept
 title: Painting preparation and paint-system choice
 description: The decisions and preparation that shape a paint job over epoxy on a Paradox — why paint protects the epoxy from UV, the six linked choices of colour, lifespan, paint type, surface preparation, and primer, what actually needs painting inside the cabin, and the final-coat technique including the case against varnishing the mast.
 tags: [paradox, construction, painting, primer, epoxy, amine-blush, finishing]
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-11T00:00:00Z
 ---
 
 # Painting preparation and paint-system choice
@@ -29,6 +29,8 @@ Once the epoxy coating is done, the practical answer to how much of the interior
 
 Two small practical notes from the same stage: saved water-tank access-port cut-outs can be wrapped in rag or paper towel to block the holes and keep dust out of the tanks while painting; and foam brushes left standing in water will shed the foam off the handle.
 
+A 2015 builder confirmed Matt Layden's timing advice from firsthand experience: painting and finishing the ceiling and hull before the deck went on saved real time and mess compared with doing the same work afterward.[5] Insulation can shrink the job further still: a builder planning to line most of the interior with insulation expected comparatively little interior painting would actually be needed underneath it, painting the whole boat white, inside and out, mainly for the light it gives rather than to cover bare panel everywhere the plans' own list calls for.[6]
+
 ## Final painting
 
 The high-build undercoat goes on with a foam roller, is sanded smooth, and is followed by the single-part epoxy topcoat; clean the roller with mineral spirits between uses.[2] Because these paints are expensive, don't roll the roller out on the upper part of the tray as is usually recommended — load the roller from the bottom of the tray and roll it out on the hull itself, since painting the tray is simply wasted paint. On the topcoat it works best to have a second person follow along behind with a wide, good-quality foam brush, smoothing out the small bubbles the roller leaves; two topcoats are plenty. A secondhand-boat refit's own paint schedule bears this out independently: most surfaces there needed at least three coats — one undercoat and two upper coats — to bring a rough hull up to a presentable finish.[3]
@@ -46,3 +48,5 @@ The [mast](/components/rig/mast.md) should not be varnished. It is removed and s
 [3] [Bill's Log](/references/bills-log.md) — "More Painting of 'Minnow'", Bill Serjeant, 2013-10-02 — most surfaces on a secondhand-boat refit needed at least three coats, one undercoat and two upper coats.
 
 [4] [Messing About In Boats](/references/messing-about-in-boats.md), vol. 14 no. 23 (April 15, 1997), "Building Paradox — Part 15," Don Elliott (pp. 19–22) — the case against varnishing the mast: it is removed and stowed and will be nicked and scraped in the process, varnish will not stand up to the sun, and redoing it in paint later is a big job, so epoxy and white paint from the start.
+[5] [Paradox builders mailing list](/references/mailing-list.md) message 8309 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, 2015-04-12) — "Re: Another Paradox Gone 3D": always thought a small hatch from the top would be better for reaching the forepeak; painting and finishing the ceiling and hull before the deck went on helped him a lot in time and mess. Signed "Jack."
+[6] [Paradox builders mailing list](/references/mailing-list.md) message 8312 (creditscorenz, `paradoxbuilders`, 2015-04-12) — "Re: Another Paradox Gone 3D": full text and citation also at [people/rob-christchurch.md](/people/rob-christchurch.md#construction-begun-september-2014); plans to paint the whole boat white, inside and out, for maximum light, though supposes not too much interior painting will be necessary since most of it will be covered with insulation. Signed "Rob."

@@ -3,7 +3,7 @@ type: Person
 title: Jack Gardiner
 description: A Rhode Island carpenter and tradesman who built the stitch-and-glue Paradox "Jill" and opened the archive's fullest debate on building the hull in steel instead of plywood.
 tags: [paradox, people, rhode-island, builder, jill, steel, materials]
-timestamp: 2026-07-19T00:00:00Z
+timestamp: 2026-08-16T00:00:00Z
 ---
 
 # Jack Gardiner
@@ -44,6 +44,8 @@ In 2011, replying to a fellow owner's account of rudder-hole leakage in rough wa
 
 Later that year, answering a newcomer weighing stitch-and-glue construction against the plans' chine-log method, Jack reconfirmed the method as proven from his own experience building Jill — tabbed bulkheads, chine logs fitted anyway for a fair curve to the plywood, ballast weight welcomed as low and adjustable. Full exchange at [chine-log vs. taped-seam construction — a further 2011 exchange](/construction/chine-log-vs-taped-seam.md#a-further-2011-exchange-whether-stitch-and-glue-changes-paradoxs-sailing-characteristics-and-two-further-builders-methods).[31]
 
+Asked in 2015 which sail generation to choose, Jack confirmed going straight to the Mk2 himself, reasoning that Matt Layden had already worked the lessons of the original sail into the revision. See [Mk2 sail — windward performance and reefing point: firsthand comparisons](/components/rig/mk2-sail.md#windward-performance-and-reefing-point-firsthand-comparisons).[32]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 1535 (alex29 / "Jack", `paradoxbuilders`, 2003-12-23) — "Another builder checking in": full text and citation at [operations/southern-california-and-catalina-crossing.md](/operations/southern-california-and-catalina-crossing.md).
@@ -77,3 +79,4 @@ Later that year, answering a newcomer weighing stitch-and-glue construction agai
 [29] [Paradox builders mailing list](/references/mailing-list.md) message 6827 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, 2011-03-17) — "Re: Small Fry rounds Cape Leeuwin": full text and citation also at [components/vent-baffle.md](/components/vent-baffle.md#citations); has had the same rudder-hole water-ingress trouble, fixed with a piece of black EPDM roofing rubber made into a flexible boot, tie-wrapped around the rudder and clamped to the hull; does not need to be a completely watertight setup, since it deflects the water away rather than stopping the shot of water that sometimes enters and explodes when it hits the baffle, "kind of like a boot you would see on a sports car shifter." Signed "Jack."
 [30] [Paradox builders mailing list](/references/mailing-list.md) message 6831 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, 2011-03-17) — "Re: Small Fry rounds Cape Leeuwin": full text and citation also at [components/vent-box.md](/components/vent-box.md#citations); there is also another 6 in hole in the transom a bit higher, for ventilation, also used to store the mast, boom, and yard inside the boat when on the hard, fitted with a pop-in cover; for conditions that don't allow it, better to sacrifice a bit of airflow than let water flow in. Signed "Jack."
 [31] [Paradox builders mailing list](/references/mailing-list.md) message 7052 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, 2011-08-18) — "Re: Stitch and glue Paradox?": full text and citation also at [construction/chine-log-vs-taped-seam.md](/construction/chine-log-vs-taped-seam.md#a-further-2011-exchange-whether-stitch-and-glue-changes-paradoxs-sailing-characteristics-and-two-further-builders-methods); confirms the method is proven, exactly what he did on Jill; not too simple, no more than the stock design itself; tabbed the bulkheads in and added chine logs anyway for a nice fair curve to the plywood; needing more ballast means more weight low and adjustable, and more capacity; used a single layer of 12 oz biaxial cloth on the bottom. Signed "Jack."
+[32] [Paradox builders mailing list](/references/mailing-list.md) message 8362 (alex29 / "tidybowlmann" / Jack Gardiner, `paradoxbuilders`, 2015-05-13) — "Re: Need a Sail": full text and citation also at [components/rig/mk2-sail.md](/components/rig/mk2-sail.md#windward-performance-and-reefing-point-firsthand-comparisons); went right to the Mk2 — Matt took what he learned and changed it, so he went with it. Signed "Jack."

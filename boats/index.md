@@ -55,6 +55,9 @@ added here as they are sourced from the archive.
 * [Miko (Tony Barlow)](miko.md) - Tony Barlow's Paradox, built and launched at Phuket, Thailand in March 2024 — the archive's only tropical-Asian build, fitted for light airs and heat with twin outboards, a cut-down electric trolling motor on lithium, extra solar, and air conditioning.
 * [Bye Bye Love (newingtonnate)](bye-bye-love.md) - A Paradox under construction in British Columbia as of December 2013, her handle-only builder's boat distinguished by eliminating the vent box entirely for extra interior room.
 * [Kolaska (Richard)](kolaska.md) - Richard's Paradox, under construction near Montauban in France's Tarn-et-Garonne department, completing the beams with the rudder next as of August 2014, after a controlled resorcinol-versus-epoxy test and two other small-boat builds along the way.
+* [Quixotic (Terry Joseph)](quixotic.md) - Terry Joseph's Paradox, begun in March 2015 within a week of receiving the plans — bulkheads and transom complete and the deck beams under way at a deliberately unhurried, one-task-a-day pace.
+* [Thor (Nick Bell)](thor.md) - Nick Bell's South Australian Paradox, built through 2014-15 with a boat builder's professional help on a birdsmouth mast and launched on the Murray River in June 2015.
+* [Pequeno (Alan Ferris; later André-François Bourbeau)](pequeno.md) - A Paradox built by Alan Ferris in Meaford, Ontario, Canada, launched 2014 as "Al's Boat," later renamed "Pequeno" by André-François Bourbeau of Saguenay, Québec, his second Paradox alongside "Ironsides" (renamed "Iota").
 
 > **See also:** [Walden](walden.md) (Chris Becker),
 > [Aussie Paradox](aussie-paradox.md) (Andrew Graham),

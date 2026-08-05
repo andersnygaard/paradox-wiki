@@ -24,7 +24,7 @@ None of that coverage is re-described here — see each reference page above for
 
 * [The Everglades Challenge, and the wider Layden racing record](everglades-challenge.md) - A Paradox hull's outright 2003 WaterTribe Everglades Challenge win, and the class wins and podium finishes Matt Layden went on to post in three later, lighter WaterTribe-raced designs.
 * [The 2010 Ultimate Florida Challenge, followed from the list](ultimate-florida-challenge-2010.md) - The day-by-day mailing-list record of Matt Layden's 2010 WaterTribe Ultimate Florida Challenge in Elusion — a dockside inspection on the eve of the start, the three-way lead battle with Whitecaps and Manitou Cruiser, tracker-measured speeds, and the forty-mile portage where the archive's account ends.
-* [A Paradox in the Race to Alaska (R2AK 2026)](race-to-alaska.md) - The 2026 Race to Alaska fleet listed a Paradox — Team Forget Me Knot, the smallest boat entered at thirteen feet — for the roughly 750-mile engine-free run from Port Townsend to Ketchikan; the archive records the entry but not the outcome.
+* [A Paradox and the Race to Alaska](race-to-alaska.md) - A 2015 mailing-list assessment of how a Paradox would fare in the inaugural race, and an actual 2026 entry — Jolyn Barley's Team Forget Me Knot, the smallest boat registered at thirteen feet ten and the only Paradox declared with a pedal drive as well as a yuloh — in the roughly 750-mile engine-free run from Port Townsend to Ketchikan, which the race's results record as not having started.
 
 ## Voyages
 

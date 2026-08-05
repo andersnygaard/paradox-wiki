@@ -206,6 +206,12 @@ Answering a fellow owner's canvass of the fleet's locations across North America
 
 On the [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) years later, David Beard identified "Whisper" as **"Paradox #4,"** and recalled bringing her home and rebuilding her "totally... to Matt's spec's" in the early 2000s — his own later account of the same refit documented above.[106] After a stretch laid up unused, he **sold her** — a decision he openly regretted on the group, saying more than once that he missed the boat and was looking for another Paradox.[107]
 
+## A 2015 registry-thread discrepancy: "Minnow"
+
+During a 2015 mailing-list registry-compilation effort, a question about the status of the Paradox Bob Archibald sold to David Beard in 2001 drew a reply asserting David still owned the boat, under the name "Minnow."[112][113] Every firsthand account on this page, including David Beard's own naming of her "Whisper" in 2002, contradicts that name, and "Minnow" is itself already an established name elsewhere in the archive, for an unrelated Paradox (see [Enuf](/boats/enuf.md)). Per source-priority the firsthand "Whisper" record stands uncorrected; the claim is recorded here only as an unresolved discrepancy.
+
+Questioned directly the next day — "Wasn't it called Whisper?" — the same correspondent retracted the claim without offering any name of his own, replying only that David Beard still had his Paradox.[114][115] The retraction does not itself confirm "Whisper" by name, but it removes the only source for "Minnow," leaving David Beard's own 2002 naming as the sole named account on record.
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 483 (David Beard, `paradoxbuilders`, 2002-05-07) — "Re: Southern California Paradox?": "We named her 'Whisper.'"
@@ -319,3 +325,7 @@ On the [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) 
 [109] [Paradox builders mailing list](/references/mailing-list.md) message 6634 (wtorry / "venchka" / Wayne, `paradoxbuilders`, 2010-08-30) — "Re: Paradox for sale?": "Hard to say if the trade is up or down. Good luck." One of at least three unrelated correspondents named Wayne recorded in the archive; not otherwise tracked.
 [110] [Paradox builders mailing list](/references/mailing-list.md) message 7804 (beard38804 / David Beard, `paradoxbuilders`, 2013-09-25) — "Re: Paradox locations in North America": full text and citation also at [people/andre-francois-bourbeau.md](/people/andre-francois-bourbeau.md#reaching-out-across-the-continent-september-2013); "Whisper is located in north Mississippi. The Mississippi barrier islands for a week would be fun." Signed "Hello, David Beard."
 [111] [Paradox builders mailing list](/references/mailing-list.md) message 7976 (beard38804, `paradoxbuilders`, 2014-01-16) — "Re: Scout -inside and out!": "Nice Video Sean !!! Whisper will be on the water this weekend."
+[112] [Paradox builders mailing list](/references/mailing-list.md) message 8414 (okiebobby, `paradoxbuilders`, 2015-07-08) — "Re: Paradox registry/census": full text and citation also at [people/okiebob.md](/people/okiebob.md#a-2015-registry-and-census-proposal); "Bob Archibald sold a Paradox to David Beard in '2001. Anyone know the status of that boat?"
+[113] [Paradox builders mailing list](/references/mailing-list.md) message 8415 (rvwburg, `paradoxbuilders`, 2015-07-09) — "Re: Paradox registry/census": quotes message 8414 in full, then replies, "David still has it if it's name is minnow." Signed "Sent from my LG Mobile."
+[114] [Paradox builders mailing list](/references/mailing-list.md) message 8416 (paradox / "alopenboat" / Alastair Law, `paradoxbuilders`, 2015-07-09) — "Re: Paradox registry/census": quotes message 8415 in full, then asks, "Wasn't it called Whisper?" Signed "Alastair Law, Yeovil, England."
+[115] [Paradox builders mailing list](/references/mailing-list.md) message 8417 (rvwburg, `paradoxbuilders`, 2015-07-10) — "Wrong": base64-encoded reply — "David beard still has his paradox" — sent from a mobile mail client (Infraware POLARIS); no boat name is given.
