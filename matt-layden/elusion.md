@@ -3,7 +3,7 @@ type: Reference
 title: Elusion
 description: Matt Layden's newest micro-cruiser — a 9-foot, roughly 120-lb design closely related to Enigma but light enough to cartop, using a stand-up paddle auxiliary instead of a sculling oar, and a class winner in the 2010 Watertribe Ultimate Florida Challenge.
 tags: [paradox, reference, elusion, matt-layden, chine-runners, watertribe]
-timestamp: 2026-07-02T00:00:00Z
+timestamp: 2026-08-06T00:00:00Z
 ---
 
 # Elusion
@@ -78,6 +78,10 @@ The name itself caused confusion for at least one reader searching the designer'
 
 A month later, a question about whether anyone had gotten serious about building an Elusion, with plans possibly sketched up and posted to the group's files section, drew word of a first such project: a 10 ft boat of its own design, arrived at after reading and studying as much material on Elusion, Enigma, and Paradox as could be found, and judged strongly influenced by all three — no boat name given, and whether the result would work out as well as hoped left for time to tell.[23][24]
 
+## A 2018 renewal of interest, and a Freeship pointer
+
+Interest in building an Elusion instead of a Paradox recurred again in 2018, asked directly of the list: had anyone tried using the Paradox plans to attempt an Elusion?[27] The answer, from a builder who had ordered and received his own Paradox plans a decade earlier: "virtually yes," pointing to **Freeship** — a free naval-architecture hull-design program — as what would be needed to open the file for such an adaptation.[28] Unable to run Freeship himself, the questioner reported being glad others were pursuing an Elusion regardless, and — having just received his own Paradox plans — hoped to work out a smaller design of his own from them.[29]
+
 # Citations
 
 [1] [microcruising.com](/references/microcruising-website.md) — "Matt's Boats," David & Mindy Bolduc — "Finally, his most recent design is the 9' Elusion which he used successfully to sail all around Florida in the 2010 Ultimate Florida Challenge. It shares many characteristic of the Enigma design but is even easier to cartop due to it's lighter weight."
@@ -107,3 +111,6 @@ A month later, a question about whether anyone had gotten serious about building
 
 [25] [Sailing and Paddling with Doug](/references/capt-doug-blog.md) — "Photos from Ultimate Florida Challenge at Cedar Key Checkpoint," Doug Cameron, 2010-03-29 — full text and citation also at [merits/ultimate-florida-challenge-2010.md](/merits/ultimate-florida-challenge-2010.md) and [people/doug-cameron.md](/people/doug-cameron.md); four captioned photographs giving the finishing order — "Manitou Cruiser (Mark) (1st Place)," "Whitecaps (2nd Place) and Doug," "Wizard (Matt) (3rd Place) and Doug," "First three finishers at the Finish on Mullet Key, Ft. DeSoto Park" — credited "Photos by Jack Bayha and Michael Collins."
 [26] [Sailing and Paddling with Doug](/references/capt-doug-blog.md) — "2010 Everglades Challenge," Doug Cameron, 2010-03-21 — full text and citation also at [people/doug-cameron.md](/people/doug-cameron.md); surveying the Everglades Challenge starting beach at Fort DeSoto, records "Wizard (Matt Layden), known for his very small cruising boat designs, is here with his new Elusion, a 9 foot cruiser, and his older design, Enigma, is also on the beach for the Everglades Challenge, skippered by its new owner, Freebyrd (David Bolduc), a veteran of cruising the Bahamas in Matt's Paradox design"; also on the beach, "Chief's old Matt Layden-designed catamaran [sic; elsewhere a trimaran], Tridarka Raider... with its new owner and a bigger sail, Iszatarock (Hal Link)" and "Windwalker (Trey Flemer) brought a Matt Layden-designed expedition sailboard"; more than 70 boats and more than 90 competitors, a record for the event.
+[27] [Paradox builders mailing list](/references/mailing-list.md) message 9285 (docwyoming / Christopher Smith, `paradoxbuilders`, 2018-04-27) — "Re: Another camping trip video": "Has anyone used the paradox plans to try and build an Elusion instead?"
+[28] [Paradox builders mailing list](/references/mailing-list.md) message 9286 (gigitolan / Gheorghe Tolan, `paradoxbuilders`, 2018-04-28) — "Re: Another camping trip video": "Virtually yes. :-) You need Freeship software to open the file."
+[29] [Paradox builders mailing list](/references/mailing-list.md) message 9287 (docwyoming / Christopher Smith, `paradoxbuilders`, 2018-04-28) — "Re: Another camping trip video [1 Attachment]": "Thanks so much for this reply, however I cannot use Freeship. But I am glad that others are trying to replicate the Elusion… I just got the plans for paradox so I hope I can work out a smaller version on my own." Signed via the `docwyoming@` account.

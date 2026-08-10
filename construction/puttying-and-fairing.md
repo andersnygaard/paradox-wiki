@@ -22,6 +22,8 @@ Puttying is always done off a shop-made palette, a tool borrowed from masons and
 
 The best choices of filler for a sandable putty are Microlight (WEST SYSTEM 410), low-density filler (WEST SYSTEM 407), and microballoons, always followed by Cab-O-Sil to keep the mix from running or sagging.[2] A workable mix: stir the epoxy completely first, then pour in Microlight by eye — no need to measure — stirring and adding more until the mix looks right, then add Cab-O-Sil. The mix is ready when the putty clings to a stir stick lifted out of it. Transfer the putty from the mixing cup onto a clean palette and spread it flat before starting to putty.[2]
 
+See [epoxy brands and chemistry — the same thread resolved](/construction/epoxy-brands-and-chemistry.md#the-same-thread-resolved-fairing-fillers-versus-structural-fillers) for why this recipe belongs specifically to fairing rather than to a structural joint: microballoons bulk the resin for a soft, sandable, but weak mix, while fibrous fillers such as wood flour make a much stronger composite meant for joints rather than fairing.
+
 Filler colour is chosen deliberately and switched partway through a build. Brown low-density filler (WEST SYSTEM 407) is used until the fiberglass cloth goes on; after that, white filler (microspheres) takes over.[4] The reasoning is that the white colour is distracting while wetting out cloth, but once the cloth is down, the same white colour makes it easy to see exactly where the putty has gone and where the low spots are.[4]
 
 ## Preparing and applying a dab

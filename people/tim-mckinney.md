@@ -3,12 +3,12 @@ type: Person
 title: Tim McKinney
 description: A Texas sailor who acquired a Paradox built by Michael Beebe of Rockport, Texas, started the "Paradox Sailboat" Facebook group in February 2019, and gave the archive its first candid modern owner's account of the boat, including a 2019 Texas 200 attempt cut short by a snake bite.
 tags: [paradox, people, owner, texas, texas-200, michael-beebe, steering, solar-power, facebook-group]
-timestamp: 2026-07-23T00:00:00Z
+timestamp: 2026-08-06T00:00:00Z
 ---
 
 # Tim McKinney
 
-**Tim McKinney** is a Texas sailor who started the "**Paradox Sailboat**" Facebook group in **February 2019** — its founding statement, "a group interested in the Paradox Sailboat designed by Matt Layden, a little cruiser full of surprises," is the group's own charter, and its first real member was fellow owner [Sean Mulligan](/people/sean-mulligan.md).[1][2] He is not a builder but an **owner**: he acquired an already-built [Paradox](/paradox.md) in the fall of 2018, and over the following months he gave the group — and now the archive — its first candid, modern owner's assessment of what the boat is actually like to sail, modify, and live aboard.[3]
+**Tim McKinney** is a Texas sailor who started the "**Paradox Sailboat**" Facebook group in **February 2019** — its founding statement, "a group interested in the Paradox Sailboat designed by Matt Layden, a little cruiser full of surprises," is the group's own charter, and its first real member was fellow owner [Sean Mulligan](/people/sean-mulligan.md).[1][2] He announced the new group on the mailing list itself the same week, prompting a fellow member to suggest renaming its default numeric URL to something easier to find.[12] He is not a builder but an **owner**: he acquired an already-built [Paradox](/paradox.md) in the fall of 2018, and over the following months he gave the group — and now the archive — its first candid, modern owner's assessment of what the boat is actually like to sail, modify, and live aboard.[3]
 
 ## The boat
 
@@ -26,6 +26,10 @@ Ahead of his 2019 Texas 200 attempt, McKinney fitted a **20-watt solar panel** a
 
 McKinney set out on the **2019 Texas 200** — a roughly 200-mile, mostly downwind coastal raid along the Texas coast — having gotten his newly acquired Paradox out on the water only once beforehand; he had run the event the previous year in a Compac 16 and had sailed the area before that in a Balboa 16.[11] The trip was **cut short by a snake bite** to his leg.[7][8] His report on the boat itself was candid rather than glowing, and stands as the archive's earliest first-hand modern owner's verdict on sailing a Paradox: the boat **sailed well and felt relatively fast**, adjusting sail area on the fly to match a companion's speed was "neat," and left to herself she would **stall head-to-wind and simply sit there** while he attended to other things.[8] Set against that, his non-standard steering **did not work at all**, boarding from muddy shores was awkward and made it hard to remove and rinse muddy boots before entering the cockpit, and he judged that a **wind scoop** would markedly improve sleeping comfort on warm nights.[7][8] He also noted the boat showed some reluctance tacking to one side, which he attributed to a mix of light wind, his leg injury, and the steering he had installed rather than to the boat itself.[7]
 
+## A possible, unconfirmed earlier appearance
+
+A mailing-list correspondent of the same name asked in February 2018 how to find Paradox plans, having e-mailed Dave Bolduc without a reply yet — a full year before this Tim McKinney's own first record, and on a different platform, with no shared handle to confirm or rule out the same person. See [references/building-plans.md — a February 2018 recurrence](/references/building-plans.md#a-february-2018-recurrence) for the exchange; recorded here as an unconfirmed link, not a fact.
+
 # Citations
 
 [1] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Tim McKinney, post 835742876765197, 2019-02-08 — "A group interested in the Paradox Sailboat designed by Matt Layden. A little cruiser full of surprises." — the group's founding statement of purpose.
@@ -39,3 +43,4 @@ McKinney set out on the **2019 Texas 200** — a roughly 200-mile, mostly downwi
 [9] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Tim McKinney, post 900563520283132, 2019-05-27 — "Added solar power for my upcoming Texas 200."
 [10] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Tim McKinney, post 909327532740064, 2019-06-09 — "That little 20 watt panel is performing well. I went with a lawnmower battery for now. The panel brought the battery from 12.7 volts to 14.7 volts in three hours. So, I know need to buy it build a lithium battery with bigger capacity."
 [11] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Tim McKinney, post 885930008413150, 2019-05-05 — "I acquired a Paradox that was built by someone else last fall. I was able to get it out one time last year and no times this year. I'm going to an event in June called the Texas 200... I did the event last year in a Compac 16, and I previously sailed the area in a Balboa 16."
+[12] [Paradox builders mailing list](/references/mailing-list.md) message 9489 (tmckinneylaw / Tim McKinney, `paradoxbuilders`, 2019-02-07) — "Facebook Group.": full text and citation also at [references/paradox-facebook-group.md](/references/paradox-facebook-group.md#citations); "I created a group for the Paradox Sailboat if anyone has an interest in being in the Facebook group" — the group's own contemporaneous founding announcement on the mailing list; and message 9490 (david.3aton, `paradoxbuilders`, 2019-02-08) — "Re: Facebook Group.": shares the group's link and suggests renaming its URL to `facebook.com/paradoxsailboats` for easier discovery.

@@ -3,7 +3,7 @@ type: Boat
 title: Petite Lady (Hugh Miller)
 description: Hugh Miller's Paradox, built in New Zealand and completed in 2003 as the archive's first New Zealand build — round birdmouth spars aside, her only recorded deviations from the plans are curved fore-and-aft cabin ends and shorter windows, and a January 2007 haul-out after four unmaintained years afloat found her sound throughout.
 tags: [paradox, boat, new-zealand, petite-lady, hugh-miller, mahurangi, paint]
-timestamp: 2026-07-21T00:00:00Z
+timestamp: 2026-08-06T00:00:00Z
 ---
 
 # Petite Lady
@@ -38,6 +38,10 @@ Three years into his ownership, Peter Bennett confirmed Petite Lady carries no w
 
 During a mailing-list registry-compilation effort, Peter Bennett confirmed in July 2015 that he still owned Petite Lady, kept in Auckland;[11] the same week a new prospective New Zealand builder, considering starting a Paradox build shortly, asked to see her in person, and Bennett arranged direct contact.[12][13] Separately, [Rob Kellock](/people/rob-christchurch.md) — later the builder of his own Paradox, "Mini," in Christchurch — recalled inspecting Petite Lady himself not long after Bennett's purchase, before Bennett had even had a chance to sail her; his own original hope had been to buy her from Hugh Miller directly, but he wasn't quick enough, and building his own boat from scratch was the result.[14]
 
+## A continuing New Zealand interest (2018)
+
+[Rob Kellock](/people/rob-christchurch.md) inquired again in October 2018, on behalf of an Auckland acquaintance who builds replica New Zealand scows and wanted to see a Paradox in person — too far from his own Christchurch build to see instead — asking whether Peter Bennett still owned her; a reply the next day reported only that "Petite Lady has been found."[15][16]
+
 # Citations
 
 [1] [Paradox builders mailing list](/references/mailing-list.md) message 1054 (mbolduc / "boldav38" / Dave Bolduc, `paradoxbuilders`, 2003-06-23) — "Paradox in New Zealand": posted photos (Files section, "NZ Paradox") of a Paradox nearing completion in New Zealand, scanned from an unnamed 67-year-old boat builder's prints sent some months earlier; working part-time on weekends, now close to done — deck, bottom, cabin, interior, rudder, spars, sail, and running gear all finished; built to the plans except for the spars, made round via the "birdmouth method"; hopes for launch photos.
@@ -54,3 +58,5 @@ During a mailing-list registry-compilation effort, Peter Bennett confirmed in Ju
 [12] [Paradox builders mailing list](/references/mailing-list.md) message 8409 (gypsy.nomads, `paradoxbuilders`, 2015-07-07) — "'Petite Lady' Auckland New Zealand": "Would very much like to get in touch with Peter Bennett to take a look at 'Petite Lady' ... Considering a Paradox Build starting shortly." Signed "Mike Hayes."
 [13] [Paradox builders mailing list](/references/mailing-list.md) message 8410 (pdbenn / Peter Bennett, `paradoxbuilders`, 2015-07-08) — "Re: 'Petite Lady' Auckland New Zealand": "Mike send your phone number to my email address, Peter."
 [14] [Paradox builders mailing list](/references/mailing-list.md) message 8411 (creditscorenz / Rob Kellock, `paradoxbuilders`, 2015-07-07) — "Re: 'Petite Lady' Auckland New Zealand": full text and citation also at [people/rob-christchurch.md](/people/rob-christchurch.md#his-name-and-an-earlier-near-purchase-of-petite-lady); recalls inspecting Petite Lady not long after Peter Bennett bought her from Hugh Miller, before Bennett had even had a chance to have her on the water; had originally hoped to buy her from Hugh directly himself, "but I wasn't quick enough."
+[15] [Paradox builders mailing list](/references/mailing-list.md) message 9438 (creditscorenz / Rob Kellock, `paradoxbuilders`, 2018-10-14) — "Looking for a Paradox in New Zealand": asks whether anybody knows the contact details of Petite Lady's current owner in Auckland, "originally built by Hugh Millar" [established elsewhere in the archive as Hugh Miller]; knows someone in Auckland who builds replica New Zealand scows and is very keen to look over a Paradox, too far to instead come south to Christchurch to see his own boat; asks "Is it still you Peter Bennett?" Signed "Rob."
+[16] [Paradox builders mailing list](/references/mailing-list.md) message 9439 (creditscorenz / Rob Kellock, `paradoxbuilders`, 2018-10-15) — "Re: Looking for a Paradox in New Zealand": "Petite Lady has been found!"

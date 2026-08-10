@@ -3,7 +3,7 @@ type: Concept
 title: Windows
 description: The Paradox's cabin glazing as a structural component — the plans' continuous side windows and wrapped end windows, why the rear window is part of the cabin structure rather than an opening port, how the ends seat on the corner posts, framed versus routed-in openings, drain holes, and the departures builders have made.
 tags: [paradox, components, windows, glazing, cabin, pilothouse, structure]
-timestamp: 2026-08-03T00:00:00Z
+timestamp: 2026-08-06T00:00:00Z
 ---
 
 # Windows
@@ -12,7 +12,7 @@ The Paradox is glazed all round. Because the boat is sailed from inside a fully 
 
 ## The rear window is structure, not an opening port
 
-The most consequential fact about Paradox's glazing is that the **rear window is an integral part of the cabin structure**, and it is what makes the boat much more watertight in the event of a severe knockdown or a complete roll-over. Removable or multi-position rear windows of the kind fitted to [Little Cruiser](/matt-layden/little-cruiser.md) are a different design proposition on a different boat; converting a Paradox's rear window to open is done at the owner's own risk.[2] This is the structural reason behind a preference recorded elsewhere in the archive on comfort grounds — that hinged front or side windows are too much of a leak risk to fit for extra ventilation, while a removable rear window is the one that could work (see [hatch — a 2011 canvass for a possible commissioned rebuild](/components/hatch.md#a-2011-canvass-for-a-possible-commissioned-rebuild-hinged-versus-sliding-and-a-washboard-alternative)).
+The most consequential fact about Paradox's glazing is that the **rear window is an integral part of the cabin structure**, and it is what makes the boat much more watertight in the event of a severe knockdown or a complete roll-over. Removable or multi-position rear windows of the kind fitted to [Little Cruiser](/matt-layden/little-cruiser.md) are a different design proposition on a different boat; converting a Paradox's rear window to open is done at the owner's own risk.[2] This is the structural reason behind a preference recorded elsewhere in the archive on comfort grounds — that hinged front or side windows are too much of a leak risk to fit for extra ventilation, while a removable rear window is the one that could work (see [hatch — a 2011 canvass for a possible commissioned rebuild](/components/hatch.md#a-2011-canvass-for-a-possible-commissioned-rebuild-hinged-versus-sliding-and-a-washboard-alternative)). Real-world experience bears the warning out directly: a non-standard matchboard drop-board substituted for the fixed panel on one boat produced fine stress cracks in the unreinforced deck around its own hatch opening, and a similarly open rear cabin on a second boat proved too hard to keep genuinely waterproof and weakening enough to the cabin that its owner closed it up and rebuilt her to the stock fixed panel.[14]
 
 ## The end windows wrap, and seat on the corner posts at an angle
 
@@ -38,12 +38,16 @@ In build order the **back and side windows generally go in before the front one*
 
 The plans' continuous side window is one of the more commonly altered details. One build replaced it with **7 × 14 in oval ports** finished with trim rings — a personal touch to make the boat "just a little different from all the rest," with no loss of visibility the owner could detect, carried over to a one-piece lift-out hatch fitted with its own oval port so the boom stays in view from inside.[11] Others have changed the glazing material, tint, or thickness rather than the opening; those choices are treated at [window glazing materials](/construction/window-glazing-materials.md).
 
+## A thickness failure, and a caution against skimping
+
+One completed Paradox's original **1/8 in plexiglass** side windows **failed after five years** in service, prompting their replacement — a caution against skimping on window thickness at build time.[13] Clearing the old silicone bedding compound during that same replacement had no real shortcut — a razor-blade scraper, then rough sandpaper, proved the best combination found.[14]
+
 ## Where this is covered
 
 - [Window glazing — Lexan/polycarbonate versus Perspex/acrylic](/construction/window-glazing-materials.md) — materials, tint, bedding sealant, retaining bolts, condensation, and UK sourcing.
 - [Deck and cabin beams](/construction/deck-and-cabin-beams.md#bending-polycarbonate-glazing-around-the-forward-and-aft-window-curves) — the beam curves the end windows must follow, and the corner-post seating angles.
 - [Pilothouse](/components/pilothouse.md) — the cabin the windows are set into.
-- [Hatch](/components/hatch.md) — the hatch's own window or port, and rear-window/washboard arrangements.
+- [Hatch](/components/hatch.md) — the hatch's own window or port, rear-window/washboard arrangements, and why a hatch-mounted view dome was never adopted.
 - [Blue-water suitability](/design/blue-water-suitability.md#a-catalogue-of-conventional-offshore-features-weighed-and-mostly-declined) — whether the stock glazing is strong enough offshore.
 
 # Citations
@@ -60,3 +64,5 @@ The plans' continuous side window is one of the more commonly altered details. O
 [10] [Paradox builders mailing list](/references/mailing-list.md) message 4410 (william / "barnacleid" / Bill Serjeant, `paradoxbuilders`, 2007-04-29) — "'Faith's' Progress": full text and citation also at [boats/faith.md](/boats/faith.md#citations); the back and side windows are in place, with the front window hoped for the following day, deck painting under way. Signed "Bill."
 [11] [Paradox builders mailing list](/references/mailing-list.md) message 7116 (lockhart_greg / Greg Lockhart, `paradoxbuilders`, 2011-10-16) — "Re: Update...s/v ENDEAVOUR": full text and citation also at [boats/endeavour.md](/boats/endeavour.md#citations); the 7x14 oval ports fitted in place of the plans' continuous window are strictly a personal touch, to make the boat "just a little different from all the rest," and finished with trim rings they "look down right salty"; visibility is not compromised so far as he can tell; the same choice carried over to a one-piece lift-out companionway hatch fitted with its own oval port, so the boom stays in view from inside. Signed "Greg."
 [12] [Duckworks Magazine](/references/duckworks-magazine.md) — "Building a Paradox by a Beginner," Derek Clark, 2006-06-15 — abandoned the plans' cabin, building the sides and front from 12 mm plywood he had to hand, with smaller window shapes routed out; 3 mm polycarbonate in the sides, 6 mm in the front, and a lift-out 6 mm rear pane; polycarbonate cuts with an ordinary saw and shapes with sandpaper; the window edges were sanded and polished smooth on the assumption — which he says he does not know to be well founded — that a rough edge could start a split. Corroborates and sharpens [5], which gave the sides as 3 mm Lexan and the front only as "a thicker piece."
+[13] [Paradox builders mailing list](/references/mailing-list.md) message 8652 (bourbeau / "drafbourbeau" / André-François Bourbeau, `paradoxbuilders`, 2015-09-11) — "Gorfnik Paraduck": full text and citation also at [people/andre-francois-bourbeau.md](/people/andre-francois-bourbeau.md#citations); after 5 years, the original windows on his Paradox "Iota," made of 1/8 inch plexiglass, failed; "be advised not to skimp on the window thickness!" Signed "André-François."
+[14] [Paradox builders mailing list](/references/mailing-list.md) message 9296 (bourbeau / "drafbourbeau" / André-François Bourbeau, `paradoxbuilders`, 2018-06-07) — "Re: Silicone removal": full text and citation also at [boats/pequeno.md](/boats/pequeno.md#citations) and [boats/scout.md](/boats/scout.md#citations); a razor-blade scraper, then rough sandpaper, was the best fix found for the old silicone left after replacing Iota's windows a couple of years earlier; separately reports his other Paradox, bought secondhand with a non-standard open rear cabin, proved too hard to keep waterproof and weakened the cabin, so he closed it up and rebuilt her to the stock fixed panel. Signed "André."
