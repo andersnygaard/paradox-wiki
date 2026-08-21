@@ -14,7 +14,7 @@ Its particular value is that it **finishes the story the mailing list leaves ope
 
 ## What the blog is worth as evidence
 
-It is **contemporaneous and builder-authored**: entries were posted as the work happened, dated, and illustrated, so the last three years of the build — the part the list does not cover — survive as first-hand record rather than recollection. Against the mailing-list account it is **complementary, not duplicative**: the list holds Pete's questions and the answers they drew (ballast, epoxy choice, vent-trunk drain sizing, hull-gluing sequence — all already extracted to [boats/johanna.md](/boats/johanna.md) and [people/pete-martin.md](/people/pete-martin.md)), while the blog holds the later solo work he no longer posted to the list, and the launch.
+It is **contemporaneous and builder-authored**: entries were posted as the work happened, dated, and illustrated, so the last three years of the build — the part the list does not cover — survive as first-hand record rather than recollection. Against the mailing-list account it is **complementary, not duplicative**: the list holds Pete's questions and the answers they drew (ballast, epoxy choice, vent-trunk drain sizing, hull-gluing sequence — all already extracted to [boats/johanna.md](/boats/johanna.md)), while the blog holds the later solo work he no longer posted to the list, and the launch.
 
 Its limits should be read with that. It is one builder's account of one boat, and it is a **build blog, not a cruising log** — it ends within weeks of launch, pointing sailing readers to a separate "Paradoxically Speaking" blog, so it documents that JoHanna reached the water and sailed, but almost nothing of how she sailed afterward. The record also has a **gap**: roughly **August 2007 → October 2008** of the build is not covered here, though the mailing-list account partly fills it.
 
@@ -39,7 +39,7 @@ The static Home page is the richest single page and doubles as a small Paradox r
 
 ## Relationship to the mailing-list record
 
-The blog and the list overlap on the 2006–2008 build but are cited for different things. Where the list already records a build detail through Pete's own posts, that detail stays cited to the list on [boats/johanna.md](/boats/johanna.md) and [people/pete-martin.md](/people/pete-martin.md); the blog is cited where it adds what the list does not — chiefly the 2009–2011 completion and the launch. One spelling note carried over from the blog: its Home page styles fellow UK builder [Bill Serjeant](/people/bill-serjeant.md)'s name "Sergeant" and his boat "[Faith](/boats/faith.md)" — the bundle's canonical spelling is **Serjeant**, and the variant should not spawn a duplicate person.
+The blog and the list overlap on the 2006–2008 build but are cited for different things. Where the list already records a build detail through Pete's own posts, that detail stays cited to the list on [boats/johanna.md](/boats/johanna.md); the blog is cited where it adds what the list does not — chiefly the 2009–2011 completion and the launch. One spelling note carried over from the blog: its Home page styles fellow UK builder [Bill Serjeant](/people/bill-serjeant.md)'s name "Sergeant" and his boat "[Faith](/boats/faith.md)" — the bundle's canonical spelling is **Serjeant**, and the variant should not spawn a duplicate person.
 
 ## Citing this source
 

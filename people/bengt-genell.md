@@ -8,7 +8,7 @@ timestamp: 2026-07-07T00:00:00Z
 
 # Bengt Genell
 
-**Bengt Genell** (Yahoo handle `bgenell`/`b.genell`) is a Paradox builder from **central Sweden**, roughly two hours by car from the coast, and the first Sweden-based enthusiast on record — his January 2004 enquiry after other Swedish Paradox readers predates the "[BRIS Paradox](/boats/bris-paradox.md)" composite-built thread by several months.[1][2]
+**Bengt Genell** (Yahoo handle `bgenell`/`b.genell`) is a Paradox builder from **central Sweden**, roughly two hours by car from the coast, and the second Sweden-based builder on record. His January 2004 enquiry after other Swedish Paradox readers postdates [Kjell Karlsson](/people/kjell-karlsson.md)'s "[BRIS Paradox](/boats/bris-paradox.md)" thread by several months.[1][2]
 
 ## A budget-conscious, from-scratch build
 

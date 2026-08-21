@@ -74,7 +74,7 @@ Opening a new thread the same day, asked directly whether anyone had completed a
 
 ## A July 2017 answer: THU
 
-Five months after first asking whether anyone had completed and sailed a stretched Paradox, with no example yet to point to,[42][43] he asked again: he had seen a number of postings about 10 or 20% larger Paradox craft under construction, but in every case the postings just stopped before the hull was complete, and he wanted to know whether any had been completed and sailed, having a few questions he would like to ask about the results.[44] The question was answered within a day: full exchange at [people/eerik-mee.md](/people/eerik-mee.md#citations) and [design/larger-paradox.md — the scale-up finally built](/design/larger-paradox.md#the-scale-up-finally-built-eerik-mees-thu).
+Five months after first asking whether anyone had completed and sailed a stretched Paradox, with no example yet to point to,[42][43] he asked again: he had seen a number of postings about 10 or 20% larger Paradox craft under construction, but in every case the postings just stopped before the hull was complete, and he wanted to know whether any had been completed and sailed, having a few questions he would like to ask about the results.[44] The question was answered within a day: full exchange at [design/larger-paradox.md — the scale-up finally built](/design/larger-paradox.md#the-scale-up-finally-built-eerik-mees-thu).
 
 # Citations
 

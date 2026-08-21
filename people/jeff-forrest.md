@@ -18,7 +18,7 @@ timestamp: 2026-07-01T00:00:00Z
 
 - **Construction questions.** Bulkhead bevels are best cut after gluing and nailing, with parts left oversize until then — see [hull assembly sequence](/construction/hull-assembly-sequence.md).[8] On the bottom, laminating a 1/2 in plus a 1/4 in sheet in place of the single 3/4 in bottom sheet is structurally fine (in fact stronger), with the bad faces glued together for two good finished faces — see [hull scantlings — substituting laminated ply](/design/hull-scantlings.md).[9][10]
 
-- **A long-running check-in on "Paramour."** Nearly two years after first trying to buy the stretched 16 ft redesign, Forrest asked again whether anyone had heard from its designer — posting, coincidentally, under the subject "Jeff Please," the designer's own screen name. The check-in drew the answer that the designer was still on the list and still meant to build a Paradox, by then describing the 16 ft design simply as an 8 in stretch of Paradox for extra living space. See [Jeff (UK, "doryman_uk")](/people/jeff-doryman.md) and [Paramour](/similar-boat-designs/paramour-design.md).[11]
+- **A long-running check-in on "Paramour."** Nearly two years after first trying to buy the stretched 16 ft redesign, Forrest asked again whether anyone had heard from its designer — posting, coincidentally, under the subject "Jeff Please," the designer's own screen name. The check-in drew the answer that the designer was still on the list and still meant to build a Paradox, by then describing the 16 ft design simply as an 8 in stretch of Paradox for extra living space. See [Jeff ("Jeff UK")](/people/jeff-doryman.md) and [Paramour](/similar-boat-designs/paramour-design.md).[11]
 
 # Citations
 

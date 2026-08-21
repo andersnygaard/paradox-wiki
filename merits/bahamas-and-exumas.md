@@ -8,7 +8,7 @@ timestamp: 2026-07-20T00:00:00Z
 
 # The Bolducs' Bahamas cruising, and the 2013 engine-free crossing
 
-David and Mindy Bolduc's cruising log is the archive's longest continuous record of what a Matt Layden micro-cruiser is actually used for: seven winter voyages to the Bahamas aboard [Little Cruiser](/matt-layden/little-cruiser.md), each of roughly eight hundred to a thousand miles over two and a half months, and a final solo crossing made in an eleven-foot boat with no outboard aboard at all.[1][2][3][4]
+[David and Mindy Bolduc](/people/bolduc.md)'s cruising log is the archive's longest continuous record of what a Matt Layden micro-cruiser is actually used for: seven winter voyages to the Bahamas aboard [Little Cruiser](/matt-layden/little-cruiser.md), each of roughly eight hundred to a thousand miles over two and a half months, and a final solo crossing made in an eleven-foot boat with no outboard aboard at all.[1][2][3][4]
 
 ## The Bolducs: decades of Bahamas cruising, and a 2013 engine-free solo crossing
 
