@@ -34,7 +34,7 @@ Twice, years apart, David considered converting "Whisper" into a motor-only "pow
 
 David Beard corresponded under two accounts over the years: one used from 2001 through mid-2008, and a second taken up after a computer crash and a change of internet provider in December 2008, confirmed as the same person by his own words and by the continuity of a specific, repeated trade offer for his boat.[36]
 
-He is not [David LeBlanc](/people/david-leblanc.md), a different member entirely; the two are easily confused because LeBlanc's own e-mail address happens to contain the word "whisper," the name Beard gave his own boat. Every citation on this page attributing "Whisper" to David Beard is confirmed from the source messages' own headers, not from the boat name alone. He is also not a third, similarly spelled member, David Beede, who separately asked about plans in the autumn of 2001 (see [building plans](/references/building-plans.md)).
+He is not [David LeBlanc](/people/david-leblanc.md), a different member entirely; the two are easily confused in the raw archive, since Beard's own Paradox is named "Whisper" and LeBlanc's own list account is confusable with that name for unrelated reasons of its own. Every citation on this page attributing "Whisper" to David Beard is confirmed from the source messages' own headers, not from the boat name alone. He is also not a third, similarly spelled member, David Beede, who separately asked about plans in the autumn of 2001 (see [building plans](/references/building-plans.md)).
 
 # Citations
 
