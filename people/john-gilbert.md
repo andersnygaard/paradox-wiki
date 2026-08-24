@@ -100,7 +100,7 @@ Resurfacing over a year later on a thread asking whether a Paradox could tour Am
 
 John Gilbert is not **Jack Gardiner** (`alex29`/`tidybowlmann`), whose own `From:` header reads "John Gardiner" but who signs his messages "Jack," owns the Paradox "[Jill](/boats/jill.md)," and was active mostly 2003-2006 on steel-hull and Jill-build topics — see [Jack Gardiner](/people/jack-gardiner.md). Different account, different handle, different era, different subject matter: the two share only a first name in one man's header field.
 
-Nor is he **John H. Wright** (`jhargrovewright2`, signs "johninbastrop" or "JIB" — see [John H. Wright](/people/john-h-wright.md)), addressed simply as "John" by a fellow correspondent on the same March 2012 "Matt's Boat" thread that both men posted to.
+Nor is he **John H. Wright** (`jhargrovewright2`, signs "johninbastrop" or "JIB" — see [John H. Wright](/people/john-h-wright.md)), a different person who posted on the same March 2012 "Matt's Boat" thread; the correspondent addressed there simply as "John" was Wright, not Gilbert.
 
 # Citations
 
