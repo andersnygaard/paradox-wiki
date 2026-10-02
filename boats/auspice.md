@@ -8,7 +8,7 @@ timestamp: 2026-07-23T03:00:00Z
 
 # Auspice
 
-**"Auspice"** is [Jimmy Lu](/people/jimmy-lu.md)'s [Paradox](/paradox.md), built in **Taiwan** and launched **18 February 2008** — a finished, sailing, registry-listed hull built in **under eight months**, among the fastest builds on record for the design.[1] Her name never appears in the archive's own coverage of the build or launch; it surfaces only six months later, in an unrelated thread, when another builder cited her as a fast-build example for a newcomer just starting his own boat.[1]
+**"Auspice"** is [Jimmy Lu](/people/jimmy-lu.md)'s [Paradox](/paradox.md), built in **Taiwan** and launched **18 February 2008** — a finished, sailing, registry-listed hull built in **under eight months**.[1] Her name never appears in the archive's own coverage of the build or launch; it surfaces only six months later, in an unrelated thread, when another builder cited her as a fast-build example for a newcomer just starting his own boat.[1]
 
 ## A new builder, and rapid mid-build progress
 

@@ -1,37 +1,30 @@
 ---
 type: Person
 title: newingtonnate
-description: A handle-only British Columbia builder constructing a Paradox named "Bye Bye Love," notable for eliminating the vent box entirely for extra interior room.
-tags: [paradox, people, builder, handle-only, british-columbia, bye-bye-love]
-timestamp: 2026-08-04T00:00:00Z
+description: A British Columbia, Canada builder who left out the stock vent box for extra room and launched his Paradox, "Bye Bye Love," by March 2014.
+tags: [paradox, people, builder, british-columbia, canada, bye-bye-love]
+timestamp: 2026-09-29T00:00:00Z
 ---
 
 # newingtonnate
 
-**newingtonnate** posted to the mailing list under that Yahoo account — no real name is given, and his location is recorded only as British Columbia. His single message on record documents a Paradox already under construction, named **"[Bye Bye Love](/boats/bye-bye-love.md)"**.[1]
+**newingtonnate** built a [Paradox](/paradox.md) in British Columbia, Canada, launching her as **"[Bye Bye Love](/boats/bye-bye-love.md)"** by March 2014.[1][2]
 
-## Building "Bye Bye Love," with the vent box eliminated
+## Boat
 
-Joining the "mast is offset to port" question already under discussion (see [components/rig/mast.md](/components/rig/mast.md#why-the-mast-and-the-sail-on-it-are-offset-to-port-rather-than-centered)), he judged it a non-issue, pointing to the late Phil Bolger's own boats — several carrying offset centerboards and equally unconventional mast and stern arrangements that "function just fine" regardless of looks. On his own build he went further than merely tolerating the offset: he eliminated the vent box altogether, wanting all the interior room it would otherwise have taken up.[1]
+Built with the stock [vent box](/components/vent-box.md) left out entirely for the extra interior room it would otherwise take, "Bye Bye Love" carries a mast box and a small forward box of her own instead.[1][2] For ballast he used slabs of scrap steel picked from a railroad-track pile, about 50 lb apiece, rather than buy lead.[3] Full build account: [boats/bye-bye-love.md](/boats/bye-bye-love.md).
 
-A fellow correspondent, weighing the ventilation lost by that choice, asked whether the extra room was meant for sleeping or storage, and suggested he could still cut the forward-compartment opening down flush with the cabin sole instead — the modification already carried out on **"[Little Jim](/boats/little-jim.md#the-forward-stateroom-access-cut-down-for-bike-stowage)"** to stow a folding bicycle, letting feet stick through while sleeping — while cautioning that without the vent box's airflow, closing the hatch in bad weather could fog the ports.[2]
+## Approach
 
-## A chine-runner-material aside
+He built economically, leaving out stock parts and bought materials wherever a cheaper or roomier alternative served as well.[1][3]
 
-Joining the ballast-tank-conversion debate a few days later, he floated making the chine runners themselves out of lead, with something added inside a double-planked bottom — a tangent raised without further discussion. See [weight, ballast, and displacement](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered) for the fuller exchange.[3]
+## See also
 
-## Finished and launched (2014)
-
-By March 2014 the boat was complete and in the water, built with a mast box and forward box in place of the stock vent box. Full account: [boats/bye-bye-love.md](/boats/bye-bye-love.md#completed-launched-and-a-bigger-boat-alternative-suggested-2014).[4]
-
-## A further 2015 contribution: railroad-scrap ballast
-
-Answering a mailing-list question about lead alternatives, he offered his own solution: slabs of scrap steel picked up from a railroad-track pile, weighing roughly 50 lb apiece. See [weight, ballast, and displacement](/design/weight-and-ballast.md#improvised-and-exotic-ballast-materials-gym-weights-sandbags-and-tungsten) for the fuller materials survey this adds to.[5]
+- **Boat:** [Bye Bye Love](/boats/bye-bye-love.md)
+- **Methods:** [Vent box](/components/vent-box.md), [Mast offset](/components/rig/mast.md#why-the-mast-and-the-sail-on-it-are-offset-to-port-rather-than-centered), [Weight, ballast and displacement](/design/weight-and-ballast.md#improvised-and-exotic-ballast-materials-gym-weights-sandbags-and-tungsten)
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 7920 (newingtonnate, `paradoxbuilders`, 2013-12-14) — "Re: Mast is offset?": full text and citation also at [boats/bye-bye-love.md](/boats/bye-bye-love.md#citations) and [components/rig/mast.md](/components/rig/mast.md#why-the-mast-and-the-sail-on-it-are-offset-to-port-rather-than-centered); "I to am in the process of building a paradox here in British Columbia, called Bye Bye love. I don't think that you need to worry much about the mast being offset a little bit. After all you out to see some of the late Phil Bolger's boats. He got offset centerboards includuing radical mast and stern arrangments. if you can live with the looks the boats function just fine! On my project I eliminated the vent box. I just plane and simply needed all the room that I could get." No name or precise location given beyond British Columbia.
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 7921 (phil_e.stine, `paradoxbuilders`, 2013-12-14) — "Re: Mast is offset?": full text and citation also at [boats/bye-bye-love.md](/boats/bye-bye-love.md#citations) and [people/phil-e-stine.md](/people/phil-e-stine.md#citations); "Do you mean for sleeping, or for storage? If for sleeping, perhaps you could cut down the opening to the forward compartment so that it is flush with the sole as Al has done with his 'Little Jim' so that he could stow his bicycle. That way, your feet could stick through. Without ventilation, you may find that your ports fog up if you have to close the hatch for bad weather."
-[3] [Paradox builders mailing list](/references/mailing-list.md) message 7939 (newingtonnate, `paradoxbuilders`, 2013-12-25) — "Re: Converting ballast tanks": full text and citation also at [design/weight-and-ballast.md](/design/weight-and-ballast.md#ballast-placement-outboard-vs-centered); "WHY NOT MAKE CHINE RUNNERS OUT OF LEAD! AND THROW SOMETHING IN A DOUBLE PLANKED BOTTOM."
-[4] [Paradox builders mailing list](/references/mailing-list.md) message 8067 (newingtonnate, `paradoxbuilders`, 2014-03-11) — "Re: Paradox Max": full text and citation also at [boats/bye-bye-love.md](/boats/bye-bye-love.md#citations); a heavily garbled, near-phonetic all-caps message reporting the boat finished and in the water, built with a mast box and forward box rather than the stock vent box, a wood-stove pipe to starboard of the mast, and a head cutout; full detail at the boat's own page.
-[5] [Paradox builders mailing list](/references/mailing-list.md) message 8230 (newingtonnate, `paradoxbuilders`, 2015-02-01) — "Re: What else can be used for ballast lead isn't cheap anymore": full text and citation also at [design/weight-and-ballast.md](/design/weight-and-ballast.md#improvised-and-exotic-ballast-materials-gym-weights-sandbags-and-tungsten); used slabs of railroad scrap picked up from a pile, about 50 lb apiece.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 7920 (newingtonnate, `paradoxbuilders`, 2013-12-14) — "Re: Mast is offset?": full text and citation also at [boats/bye-bye-love.md](/boats/bye-bye-love.md#citations) and [components/rig/mast.md](/components/rig/mast.md#why-the-mast-and-the-sail-on-it-are-offset-to-port-rather-than-centered); reports building a Paradox in British Columbia, named "Bye Bye Love"; judges the mast's port offset no real problem, pointing to Phil Bolger's own boats and their own offset centerboards and radical mast and stern arrangements, which "function just fine" if the looks can be lived with; on his own build, eliminated the vent box entirely for the extra room.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 8067 (newingtonnate, `paradoxbuilders`, 2014-03-11) — "Re: Paradox Max": full text and citation also at [boats/bye-bye-love.md](/boats/bye-bye-love.md#citations); reports the boat complete and in the water, built with a mast box and forward box in place of the stock vent box.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 8230 (newingtonnate, `paradoxbuilders`, 2015-02-01) — "Re: What else can be used for ballast lead isn't cheap anymore": full text and citation also at [design/weight-and-ballast.md](/design/weight-and-ballast.md#improvised-and-exotic-ballast-materials-gym-weights-sandbags-and-tungsten); used slabs of railroad scrap picked up from a pile, about 50 lb apiece.

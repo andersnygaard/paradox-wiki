@@ -1,46 +1,39 @@
 ---
 type: Person
 title: Anders Nygaard
-description: A furniture-maker in southern Norway building "Miramis," a 10% scaled-up Paradox — the archive's clearest example of 3D printing and digital fabrication folded into an otherwise traditional plywood build, and the compiler of the 2023 overview "A guide to the Paradox sailboat."
-tags: [paradox, people, builder, anders-nygaard, miramis, norway, scale-up, 3d-printing, self-built-sail]
-timestamp: 2026-08-03T00:00:00Z
+description: A recreational boatbuilder in Porsgrunn, southern Norway, building "Miramis," a Paradox scaled up 10% with 3D-printed fittings and a home-sewn sail, and the compiler of "A guide to the Paradox sailboat" (2023).
+tags: [paradox, people, builder, norway, telemark, miramis, scale-up, 3d-printing, self-built-sail]
+timestamp: 2026-09-28T00:00:00Z
 ---
 
 # Anders Nygaard
 
-**Anders Nygaard** is a furniture-maker in **Porsgrunn, southern Norway**,[16] close to the sea and the inland canals of **Telemark**, and the builder of **"[Miramis](/boats/miramis.md)"**, a [Paradox](/paradox.md) built **10% larger than the plans**, begun in October 2020 and still under way.[1][15] She is his first boat — he is a former sailboat owner and "a maker at heart," reckons a build to a good standard runs to roughly 2,000 hours and about $10,000, and steers first-time builders toward an Oz Goose instead.[2] He was pointed at the Paradox and Matt Layden's boats by **[Sven Yrvind](/people/yrvind.md)** about a decade before he had the space to build, and modelled the hull in cardboard and glass fibre in a small Oslo apartment in the meantime.[3]
+**Anders Nygaard** is a recreational boatbuilder in Porsgrunn, southern Norway, near the sea and the Telemark canals. He is building the Paradox "[Miramis](/boats/miramis.md)", begun in 2020.[1][2] She is his first boat build, though he has owned both sailboats and motorboats.[1][2] [Sven Yrvind](/people/yrvind.md) pointed him to the Paradox and Matt Layden's designs about ten years before he had the space to build one.[3]
 
-The build itself — materials, ballast, systems, trailer, and intended waters — is narrated in full at [Miramis](/boats/miramis.md).
+## Boat
 
-## What he has worked out
+Miramis is a Paradox scaled up 10% on every dimension, the largest scale-up that still travels on a road trailer, for a longer cabin.[1] She is planked in exterior-grade Baltic birch to [Simas Butavičius](/people/simas-butavicius.md)'s lighter scantlings and glassed inside and out to make up for the proportionally thinner skin.[1] Her one deliberate departure from the plans is the rudder, a 3D-printed, carbon-clad blade carried in a cassette that braces it from both sides.[1] She is being fitted out for coastal sailing on the Skagerrak.[1] Her full record is on the [Miramis](/boats/miramis.md) page.
 
-- **A trailerable scale-up.** At **196 cm** tall he needed the cabin length, and settled on 10% as the largest scale-up that still fits a road trailer, against [Eerik Mee](/people/eerik-mee.md)'s dock-kept 20% "[THU](/boats/thu.md)" — 1.1³ ≈ 1.33 times the volume against 1.2³ ≈ 1.72.[4][5] His is one of only two documented scaled-up hulls (see [larger Paradox](/design/larger-paradox.md)).
-- **Thinner scantlings, glassed to compensate.** He did not scale plank thickness up with the hull, keeping instead [Simas Butavičius](/people/simas-butavicius.md)'s lighter exterior-grade Baltic birch scheme — 12 mm bottom, 9 mm sides, 6 mm deck — and making up the proportionally thinner skin by glassing inside and out.[6]
-- **3D printing as a build tool.** He prints what is easier printed than made: the lower rudder gudgeon, carrying a bronze bushing for the pintle;[7] scarf-joint jigs that clamp to the edge of a board, published for other builders;[8] and bushings and fairleads where ropes, hoses, and wiring pass through the bulkheads, to protect the sealed plywood end-grain.[9]
-- **A rudder cassette — his one departure.** The 3D-printed, carbon-clad blade is carried in a cassette that braces it from both sides in the manner of **John Welsford**'s boats, for strength; it is the single place he consciously breaks with the stock design.[10]
-- **A home-sewn sail.** He is sewing his own from 4 oz Dacron to the **[Mk3](/components/rig/mk3-sail.md)** plan,[11] building in a moderate **8–10% camber** through reduced seam overlap rather than trusting flat panels to the curved spars — following the shift Matt Layden himself made from a dead-flat first sail to shaped later ones.[12]
+## Approach
+
+He keeps to the plans except where there is a clear reason to change them: the hull was scaled to fit its builder and the rudder was braced for strength.[1] Digital tools come in where a part is easier or more accurate to make that way, from 3D-printed scarf jigs, gudgeon and bulkhead fairleads to a sail sewn at home to the Mk3 plan with a moderate camber built into the seams.[4][5]
 
 ## Beyond the boat
 
-In December 2023, marking the design's thirtieth year, Nygaard compiled **"A guide to the Paradox sailboat,"** a text-and-audiobook overview distilling the knowledge scattered through the old Yahoo builders' forums.[13] He has kept up a long correspondence with **[Sven Yrvind](/people/yrvind.md)**, sending him photographs of the build; into his eighties Yrvind has continued to praise the Paradox and its chine runners.[14]
+For the design's thirtieth year he compiled "A guide to the Paradox sailboat" (December 2023), a text and audiobook overview of the boat's history and features.[6]
 
-He is documented in the [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md), where his posts from 2020 onward form a dated build log, and in the 2026 [builder's interview](/references/anders-nygaard-interview.md) — the archive's first source gathered by direct interview rather than compiled from an existing record.
+## See also
+
+- **Boat:** [Miramis](/boats/miramis.md)
+- **Methods:** [plywood grades](/construction/plywood-grades-and-foam-flotation.md), [the rudder](/components/rudder.md), [rudder bearings](/construction/rudder-bearing-materials.md), [the Mk3 sail](/components/rig/mk3-sail.md), [sailmaking](/construction/sailmaking.md)
+- **Variant:** [larger Paradox](/design/larger-paradox.md)
+- **Own sources:** [builder's interview](/references/anders-nygaard-interview.md)
 
 # Citations
 
-[1] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — the 10% scale-up, begun 2020 and unfinished at the interview date, built at home in southern Norway.
-[2] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — Miramis is his first boat build; a former sailboat owner and furniture-maker ("a maker at heart"), he estimates roughly 2,000 hours and about $10,000 to build one to a good standard and recommends a first-time builder start with an Oz Goose.
-[3] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 1353889984950481, 2020-11-28 — introduced to the Paradox and Matt Layden's boats by "a fellow scandinavian, Sven Yrvind some ten years ago"; made a cardboard-and-glass-fibre model in a small Oslo apartment before he had space and tools to build.
-[4] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, comment on José Roberto Canuto's post 2041377292868410, 2023-07-08 — "I'm building my boat 10% larger as I am 196 cm tall... 10% larger is actually a big thing, because it means 1/3 more displacement."
-[5] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — chose 10% as the largest scale-up that stays trailerable (20%, Eerik Mee's format, is a dock boat), framing the choice by the cube law (1.1³ ≈ 1.33 against 1.2³ ≈ 1.72).
-[6] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — planked in exterior-grade Baltic birch to Simas Butavičius's 12 mm bottom / 9 mm sides / 6 mm deck scheme; did not scale plank thickness up with the hull, compensating with glass inside and out.
-[7] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 1386771344995678, 2021-01-11 — first made a casting mould for the lower gudgeon from scrap MDF, then decided to 3D-print one for accuracy: 50 mm high, 7° to the transom, a 22 mm outer-diameter bronze bushing for the pintle.
-[8] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 1777510619255080, 2022-07-15 — a 3D-printed scarf-joint jig that clamps to the edge of a board, with a collar on the router bit to stop it hitting the jig; a 9 mm version posted to Thingiverse (thing 5454679) and a 12 mm version to follow.
-[9] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 2597978377208296, 2025-06-26 — "I'm 3D printing parts where it makes sense. Where ropes, hoses, or electrical run through bulkheads, I've added some bushings/fairleads to protect the sealed plywood end grain and prevent chafing."
-[10] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — the rudder is his one deliberate departure from the stock design: a 3D-printed blade clad in two layers of 1708, one of 600 g carbon fibre, and three coats of epoxy, carried in a cassette that braces the blade from both sides in the manner of John Welsford's boats.
-[11] [Builder's interview](/references/anders-nygaard-interview.md) — Anders Nygaard, 2026-07-23 — sews the sail to the Mk3 plan, taking the camber from measurements off the earlier Mk2 sail.
-[12] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 2623108084695325, 2025-07-23 — Matt Layden's first sail was dead flat but "drummed on the curved spars and wouldn't set properly," and he later added shape; the conclusion to build in a moderate camber of about 8-10% draft through reduced seam overlap.
-[13] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 2140654372940701, 2023-12-17 — "The paradox is in its 30th year... I've dug into the history and features of the paradox using the distilled knowledge of the yahoo forums. The result is 'A guide to the Paradox sailboat' available as text and audio book."
-[14] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) — Anders Nygaard, post 2615560398783427, 2025-07-15 — "I send pictures of my boat build to Sven Yrvind and he still praises the Paradox design"; Yrvind, 86, still building boats.
-[15] [Paradox builders mailing list](/references/mailing-list.md) ("Captain Anders" <anders.nygaard@...> / Anders Nygaard, `paradoxsailboat`, groups.io, 2020-10-12) — "Introduction / Hello from Norway": full text and citation also at [boats/miramis.md](/boats/miramis.md#citations); introduces himself, living in the south of Norway close to the sea and the inland canals of Telemark; has owned several boats over the years, both sailboats and motorboats, and at the time keeps only a kayak for hunting; has recently bought the Paradox plans and plans to start with parts that can be stored elsewhere before committing floor space, beginning with the mast. Signed ".anders." No message number survives for this groups.io-era post.
-[16] [Paradox builders mailing list](/references/mailing-list.md) ("Captain Anders" <anders.nygaard@...> / Anders Nygaard, `paradoxsailboat`, groups.io, 2023-03-07) — "Re: Norwegian Paradox - Work has started - Inspiration": full text and citation also at [boats/miramis.md](/boats/miramis.md#citations); "I'm in Porsgrunn. I'll show you my progress if you're around. You'll find me in the Paradox Facebook group, so DM me :)" Signed ".anders." No message number survives for this groups.io-era post.
+[1] [Builder's interview](/references/anders-nygaard-interview.md) Anders Nygaard, 2026-07-23 — Miramis is his first boat build, begun 2020 and unfinished at the interview date; the 10% scale-up as the largest that stays trailerable; Baltic birch to Simas Butavičius's scantlings, glassed inside and out; the rudder cassette as the one deliberate departure; intended for the Skagerrak.
+[2] [Paradox builders mailing list](/references/mailing-list.md) "Introduction / Hello from Norway" (Anders Nygaard, 2020-10-12) and "Re: Norwegian Paradox - Work has started - Inspiration" (Anders Nygaard, 2023-03-07) — home in Porsgrunn, southern Norway, near the Telemark canals; earlier sailboats and motorboats; the plans bought in 2020.
+[3] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) post 1353889984950481 (Anders Nygaard, 2020-11-28) — introduced to the Paradox and Matt Layden's boats by Sven Yrvind about ten years earlier.
+[4] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) posts 1777510619255080 and 2597978377208296 (Anders Nygaard, 2022-07-15 and 2025-06-26) — the 3D-printed scarf jig and the printed bushings and fairleads at the bulkheads.
+[5] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) posts 2622440614762072 and 2623108084695325 (Anders Nygaard, 2025-07-22 and 2025-07-23) — the sail sewn at home to the Mk3 plan with 8 to 10% camber built in through the seam overlap.
+[6] [Paradox Sailboat Facebook group](/references/paradox-facebook-group.md) post 2140654372940701 (Anders Nygaard, 2023-12-17) — "A guide to the Paradox sailboat," text and audiobook, marking the design's thirtieth year.

@@ -1,14 +1,14 @@
 ---
 type: Boat
 title: Nebula (Edgardo Filon)
-description: Edgardo Filon's Argentine Paradox, launched and photographed by October 2011 — the archive's second known Argentine Paradox after Alberto Callejon's "Cachivache."
+description: Edgardo Filon's Argentine Paradox, launched and photographed by October 2011.
 tags: [paradox, boat, nebula, edgardo-filon, argentina, build]
 timestamp: 2026-08-02T00:00:00Z
 ---
 
 # Nebula
 
-**"Nebula"** is [Edgardo Filon](/people/edgardo-filon.md)'s Paradox, launched in Argentina and photographed by October 2011 — the archive's second known Argentine Paradox after Alberto Callejon's "[Cachivache](/boats/cachivache.md)," built further south on the Patagonian coast.
+**"Nebula"** is [Edgardo Filon](/people/edgardo-filon.md)'s Paradox, launched in Argentina and photographed by October 2011.
 
 ## Launch photographs, and a name learned only from a caption
 

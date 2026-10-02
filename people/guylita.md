@@ -1,24 +1,21 @@
 ---
 type: Person
 title: "guylita"
-description: A paradoxbuilders list member, known only by the screen name "guylita," whose questions on self-steering, lug-rig balance, and outboard ballast placement read as an experienced sailor's due diligence on the design.
-tags: [paradox, people, screen-name]
-timestamp: 2026-07-01T00:00:00Z
+description: Known only by the name "guylita," someone drawn to the design in November 2001 whose interest centred on self-steering, rig balance across points of sail and the placement of the outboard ballast.
+tags: [paradox, people, contributor, self-steering, ballast]
+timestamp: 2026-09-28T00:00:00Z
 ---
 
 # "guylita"
 
-**"guylita"** (posting address `guylita@...`, Yahoo profile `guylita`) was a `paradoxbuilders` list participant whose contributions read as an experienced sailor's due-diligence on the design rather than a builder's progress updates. No real name or other identifying detail is recorded — only the screen name.
+**"guylita"** is known only by that name. Their interest in the design, in November 2001, centred on [self-steering](/operations/self-steering.md),[1] [the lug rig's balance across points of sail](/operations/sailing-characteristics.md)[2] and [the placement of the outboard lead ballast](/design/weight-and-ballast.md).[3]
 
-## Contributions
+## See also
 
-- **Self-steering.** What matters most is being able to free oneself from the tiller in stronger winds (e.g. to reef): on boats without that capability, an unattended tiller can jibe the boat under weather helm before the sailor reaches the mast. See [self-steering](/operations/self-steering.md).[1][2]
-- **Rig balance.** How the lug rig balances across points of sail, whether beating to weather generates weather helm, and whether that helm can be countered with sail trim rather than the tiller — see [sailing characteristics and rig balance](/operations/sailing-characteristics.md).[3]
-- **Ballast placement.** Why the lead ballast sits outboard rather than on the centerline raises a torque/oscillation question; one view is that a centered ballast mass with buoyancy further outboard would be more stabilizing. See [weight, ballast, and displacement](/design/weight-and-ballast.md).[4]
+- **Topics:** [Self-steering](/operations/self-steering.md), [Sailing characteristics and rig balance](/operations/sailing-characteristics.md), [Weight, ballast and displacement](/design/weight-and-ballast.md)
 
 # Citations
 
-[1] [Paradox builders mailing list](/references/mailing-list.md) message 136 (guylita, `paradoxbuilders`, 2001-11-30) — "Self Steering": asks whether Paradox can self-steer or needs a wind vane.
-[2] [Paradox builders mailing list](/references/mailing-list.md) message 138 (guylita, `paradoxbuilders`, 2001-11-30) — "Re: Self Steering": stresses the importance of hands-free tiller capability in stronger winds.
-[3] [Paradox builders mailing list](/references/mailing-list.md) message 139 (guylita, `paradoxbuilders`, 2001-11-30) — "Sailing characteristics": asks how the lug rig balances on different points of sail, whether beating generates weather helm counterable by sail trim, and how heeling affects balance.
-[4] [Paradox builders mailing list](/references/mailing-list.md) message 140 (guylita, `paradoxbuilders`, 2001-11-30) — "Ballast question": asks why the ballast is outboard rather than centered, raising a torque/oscillation concern and speculating about the role of the centered water tank.
+[1] [Paradox builders mailing list](/references/mailing-list.md) message 138 (guylita, `paradoxbuilders`, 2001-11-30) — "Re: Self Steering": stresses the importance in stronger winds of being able to free oneself from the tiller.
+[2] [Paradox builders mailing list](/references/mailing-list.md) message 139 (guylita, `paradoxbuilders`, 2001-11-30) — "Sailing characteristics": on how the lug rig balances across points of sail and whether beating to weather generates weather helm that can be countered with sail trim.
+[3] [Paradox builders mailing list](/references/mailing-list.md) message 140 (guylita, `paradoxbuilders`, 2001-11-30) — "Ballast question": on why the lead ballast sits outboard rather than on the centerline.
